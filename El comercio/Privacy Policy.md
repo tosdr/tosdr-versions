@@ -31,6 +31,183 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito
+===========================================================================
+
+Vecinos reportan que el agua sale a borbotones en dos lugares de la González Suárez, lo que complica las actividades diarias.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Los trabajos se iniciaron a las 17:00 del miércoles 23 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/fuga-de-agua.jpg)
+
+La **Empresa de Agua Potable de Quito** (Epmaps) informó la tarde del miércoles 23 de octubre sobre los trabajos que se ejecutan en una tubería de **la av. González Suáre**z, en Quito.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este jueves 24 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-24-de-octubre.html "Así funciona el Pico y placa en Quito este jueves 24 de octubre")
+* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
+* [Un incendio se registró en El Panecillo este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/incendio-quito-el-panecillo-miercoles-23-de-octubre.html "Un incendio se registró en El Panecillo este miércoles 23 de octubre")
+
+La reparación de la tubería
+---------------------------
+
+La Epmaps dio a conocer que, como parte del Programa de Renovación de Tuberías en Quito, el personal operativo **realiza dos empalmes a la red** existente de distribución en la av. González Suárez.
+
+Los trabajos estaban previstos a **ejecutarse desde las 17:00** del miércoles 23 de octubre en las calles Bejarano y Gonnessiat.
+
+La **Empresa de Agua** señaló que la ejecución de este trabajo ocasionará el **corte del servicio** en los sectores **La Floresta, La Paz y González Suárez**.
+
+Preliminarmente, la empresa indicó que el servici**o se restablecería** paulatinamente durante la mañana del jueves 24 de octubre.
+
+Sin embargo, **las cosas se complicaron…**
+
+> 📄 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Como parte del Programa de Renovación de Tuberías en el Distrito Metropolitano de Quito, realizaremos dos trabajos en el tramo de red construido en la Av. González Suárez.  
+>   
+> Más información en el comunicado.[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/iMmgk6aCPg](https://t.co/iMmgk6aCPg)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 23, 2024](https://twitter.com/aguadequito/status/1849194226195517887?ref_src=twsrc%5Etfw)
+
+Vecinos reportan fuga de agua
+-----------------------------
+
+La mañana de este jueves 24 de octubre, los **moradores de la calle González Suárez** se toparon con agua saliendo a montones del sitio de los trabajos.
+
+Al parecer, la presión del agua durante la noche **hizo estallar parte de la tubería** y el líquido recorre las calles por montones.
+
+Es tanta el agua, que el flujo llega al cruce de la av. **Orellana y 6 de Diciembre**. Vecinos reclaman que mientras en varios barrios de Quito no tienen agua, aquí se está desperdiciando.
+
+La preocupación de los vecinos es porque al parecer, **una de las tuberías rotas es de aguas servidas.**
+
+Moradores **piden ayuda de la Epmaps** para atender esta emergencia que causa complicaciones a los negocios y moradores, pues están [llenos de agua](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+¿Cómo las bibliotecas de Quito se adaptan a las nuevas generaciones? 
+=====================================================================
+
+Con motivo del Día Internacional de la Biblioteca, exploramos cómo las bibliotecas de Quito han evolucionado.
+-------------------------------------------------------------------------------------------------------------
+
+![El Día Internacional de la Biblioteca invita a reflexionar sobre la importancia de estos espacios. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Biblioteca.jpg)
+
+De acuerdo con el **[Ministerio de Cultura y Patrimonio](https://www.culturaypatrimonio.gob.ec/24-de-octubre-dia-internacional-de-la-biblioteca/ "https://www.culturaypatrimonio.gob.ec/24-de-octubre-dia-internacional-de-la-biblioteca/")**, el **Día Internacional de la Biblioteca** se celebra el 24 de octubre.  
+
+### Más noticias
+
+* [Las visitas a bibliotecas virtuales en Ecuador crecieron un 900% en dos años](https://www.elcomercio.com/tendencias/visitas-a-bibliotecas-virtuales-ecuador.html "https://www.elcomercio.com/tendencias/visitas-a-bibliotecas-virtuales-ecuador.html")
+* [Las bibliotecas españolas ofrecen libros electrónicos](https://www.elcomercio.com/tendencias/cultura/bibliotecas-espanolas-ofrecen-libros-electronicos.html "https://www.elcomercio.com/tendencias/cultura/bibliotecas-espanolas-ofrecen-libros-electronicos.html")
+
+**Esta fecha fue establecida en 1997**, cuando la **Unesco** declaró el “Año Internacional de la Lectura”. La iniciativa provino de la **Asociación Española de Amigos del Libro Infantil y Juvenil**. 
+
+Con motivo de esta efeméride, consultamos a profesionales de varias bibliotecas de Quito sobre los hábitos de lectura actuales, la evolución de las bibliotecas y cómo se gestionan estos ecosistemas hoy en día. 
+
+**Biblioteca de la Casa de la Cultura Ecuatoriana** 
+----------------------------------------------------
+
+![Foto: Casa de la Cultura Ecuatoriana.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Biblioteca-1-1024x683.jpg)
+
+Foto: Casa de la Cultura Ecuatoriana.
+
+El 9 de agosto de 1944, el presidente **José María Velasco Ibarra** fundó la **Casa de la Cultura Ecuatoriana** con el propósito de **restaurar la confianza del país** tras el conflicto con Perú en 1941.  
+
+La **[Biblioteca Nacional](https://biblioteca.casadelacultura.gob.ec/ "https://biblioteca.casadelacultura.gob.ec/")** de esta institución se dedica a **preservar la historia bibliográfica del Ecuador.** Custodia **valiosos fondos patrimoniales** que incluyen partituras, mapas desde 1779 y documentos históricos del siglo XVIII al XX. 
+
+**Tanya Benítez**, directora de la biblioteca, menciona que mensualmente reciben entre **400 y 500 personas** para consultas, investigaciones y préstamos de libros. Además, cada mes **200 estudiantes** de escuelas y colegios participan en **actividades de mediación de lectura**, lo que destaca el rol de la biblioteca en la educación pública del país. 
+
+Un proyecto clave es el de los **Laboratorios Sociales BiblioLabs**, donde se **exploran diversos temas relacionados con la lectura**.  
+
+Dirección: Av. Seis de Diciembre N16-224 y Patria. 
+
+**Centro Cultural Benjamín Carrión-Bellavista** 
+------------------------------------------------
+
+![Foto: Centro Cultural Benjamín Carrión Bellavista.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Biblioteca-2-1024x683.jpg)
+
+Foto: Centro Cultural Benjamín Carrión Bellavista.
+
+Impulsado por la **Secretaría de Cultura y el Municipio de Quito**, se transformó la **[antigua residencia de Benjamín Carrión](https://quitocultura.com/team-member/centro-cultural-benjamin-carrion-bellavista/ "https://quitocultura.com/team-member/centro-cultural-benjamin-carrion-bellavista/")** en un espacio dedicado a fomentar la cultura. El objetivo es **promover actividades literarias y artísticas**, con un énfasis especial en los jóvenes y nuevos actores culturales. 
+
+Este centro **alberga dos bibliotecas**: la **Biblioteca Girándula**, enfocada en li**teratura infantil y juvenil**, con 2 000 libros, cuya directora es **Leonor Bravo**, y la **Biblioteca General**, inaugurada en 2022 con un fondo donado por la **familia del pintor Eduardo Kingman**.  
+
+Según **Abril Altamirano**, mediadora cultural del Centro, la **Biblioteca General** tiene en su mayoría **literatura ecuatoriana y latinoamericana**, con muchos libros que son primeras ediciones, algunos dedicados al pintor Kingman. Además, **la colección se ha ampliado** gracias a donaciones de usuarios y editoriales independientes. 
+
+Con **3 000 visitas mensuales**, el centro se destaca no solo por su oferta literaria, sino también por sus galerías, talleres y clubes de lectura, como **Tardes de biblioteca**, dirigido por Altamirano y enfocado en **literatura latinoamericana y ecuatoriana**, mayormente escrita por mujeres. El otro club es de la **librería Cosmonauta, dirigido por Pamela Ríos**. 
+
+Dirección: Giacomo Rocca N33-32, Quito 170135 
+
+**Biblioteca Nacional Eugenio Espejo** 
+---------------------------------------
+
+![Foto: Biblioteca Nacional Eugenio Espejo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Biblioteca-3-1024x683.jpg)
+
+Foto: Biblioteca Nacional Eugenio Espejo.
+
+La **[Biblioteca Nacional Eugenio Espejo](https://www.bne.gob.ec/?page_id=2 "https://www.bne.gob.ec/?page_id=2")**, bajo la dirección del **Ministerio de Cultura y Patrimonio**, es clave en la **conservación y difusión de la producción intelectual ecuatoriana**.  
+
+Como Depósito Legal de la Nación, lidera la **Red Nacional de Bibliotecas** y ofrece acceso a materiales en diversos formatos, lo que contribuye al **desarrollo educativo y cultural del país**. Su objetivo es consolidarse como **líder en gestión bibliotecaria**. 
+
+Roxana Delgado, encargada de los servicios bibliotecarios de la institución, destaca que la **misión de la Biblioteca** es recopilar, preservar y difundir el patrimonio cultural impreso y en otros formatos. Cada mes, la institución recibe entre 400 y 967 usuarios de todas las edades, especialmente jóvenes, adultos, estudiantes e investigadores, según el **Sistema de Visitantes y Estadísticas** (IVE). Los usuarios suelen **solicitar libros de autores ecuatorianos, además de material hemerográfico**, una de las principales demandas entre estudiantes universitarios. 
+
+La Biblioteca también **ofrece espacios para grabaciones y estudio**, especialmente para los más jóvenes, quienes aprovechan las instalaciones para realizar tareas y proyectos. Esto refuerza su rol como un espacio cultural y educativo de gran valor en el Ecuador. 
+
+Dirección: Luis Sodiro y Valparaíso (esquina). 
+
+Así funciona el Pico y placa en Quito este jueves 24 de octubre
+===============================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![El Municipio de Quito estableció el Pico y placa como medida para controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-15-2.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Parada de la Ecovía vuelve a operar este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/parada-ecovia-vuelve-a-operar-este-miercoles-23-de-octubre.html "Parada de la Ecovía vuelve a operar este miércoles 23 de octubre")
+* [Un incendio se registró en El Panecillo este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/incendio-quito-el-panecillo-miercoles-23-de-octubre.html "Un incendio se registró en El Panecillo este miércoles 23 de octubre")
+* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
+
 Quito, en transición al envejecimiento
 ======================================
 
@@ -714,160 +891,4 @@ Sin embargo, añade Cárdenas, “**nos impulsa a trabajar mucho más con la com
 
 “Las lecciones y las respuestas deben venir de lo **institucional**, de la **política**, de la **ciudadanía**, de los **medios de comunicación**. Me gustaría que todos hagamos **una evaluación para solventar la crisis** porque no es solamente de los **bomberos**, sino también de los **ciudadanos**, de la **empresa pública**, los comités barriales”. Y añade: “Hay que trabajar con los equipos comunitarios. Y ese será uno de los retos de la ciudad de **Quito para el 2025**“[.](https://www.bomberosquito.gob.ec/nuestra-historia/ "https://www.bomberosquito.gob.ec/nuestra-historia/")
 
-Si bien fue loable la **participación de los quiteños** para ayudar al **Cuerpo de Bomberos** y su **solidaridad** con las víctimas, hace falta una mayor campaña para que no se olviden lo que pasó. “Lo peor sería olvidarse. Hay que tener presente las tragedias, así como los logros. Eso tiene que ser el punto de partida para ser mejores”, sostiene Cárdenas. Y este compromiso sería no usar pirotecnia artesanal.  
-
-Hamás busca nuevo liderazgo en plena guerra en Gaza
-===================================================
-
-No es la primera vez que Hamás afronta el asesinato de sus líderes.
--------------------------------------------------------------------
-
-![Un camión destruido que fue utilizado por trabajadores de la Agencia de Obras Públicas y Socorro de las Naciones Unidas para los Refugiados de Palestina (OOPS).](https://www.elcomercio.com/wp-content/uploads/2024/10/hamas-israel-efe.jpg)
-
-“La muerte de Sinwar **no acabará con la resistencia ni con la causa**”, aseguró Hamás. Esto tras confirmar que el máximo líder del movimiento murió la semana pasada en enfrentamientos con las tropas israelíes en Rafah, sur de la Franja de Gaza.
-
-### Más noticias
-
-* [Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra")
-* [Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-mato-tres-meses-rawhi-mushtaha-jefe-gobierno-hamas.html "Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás")
-* [Israel ataca centro de mando de Hamás](https://www.elcomercio.com/actualidad/israel-ataca-centro-de-mando-de-hamas.html "Israel ataca centro de mando de Hamás")
-
-El grupo señaló entonces que el **Consejo de la Shura**, su máximo órgano asesor, se reuniría en los próximos días para elegir al **nuevo jefe** del buró político en sustitución de Sinwar. Este último a su vez en agosto reemplazó en ese puesto a **Ismail Haniyeh**, eliminado en Teherán en un ataque atribuido a Israel.
-
-Sin embargo fuentes de Hamás indicaron la posibilidad de **postergar esa decisión a marzo**, cuando están previstas elecciones internas. Además, delegar mientras el **liderazgo en un comité directivo** de cinco miembros, que asumirá las decisiones estratégicas políticas y militares. 
-
-“El siguiente paso todavía está bajo consulta en la dirección del movimiento. No se tomó ninguna decisión”, indicó una fuente del buró político de Hamás. 
-
-No es la primera vez que Hamás afronta el asesinato de sus líderes, pero sus **mecanismos internos** están diseñados para que el movimiento sobreviva por encima de personalidades concretas.
-
-Las figuras que siguen en la primera línea son:
------------------------------------------------
-
-Jaled Meshaal
--------------
-
-Uno de los vicepresidentes del buró político de Hamás, órgano que ya lideró entre 1996 y 2017, cuando le sucedió en el cargo el jefe del movimiento dentro de la Franja, Ismail Haniyeh. Ese traspaso marcó la transferencia de poder de los líderes en el extranjero a los de dentro de Gaza (dos años después Haniyeh se mudó a Catar).
-
-Nacido en Cisjordania en 1956, vive en el exilio desde 1967, cuando su familia huyó a Jordania en la Guerra de los Seis Días. **Luego se mudó a Kuwait**, donde se unió a los Hermanos Musulmanes. Un recorrido de dos meses en 1975 por tierras palestinas le imbuyó de **sentimientos patrióticos** y es uno de los fundadores de Hamás en 1987. 
-
-Sobrevivió a un intento de asesinato por envenenamiento en Amán por agentes del Mosad en 1997, por orden de Benjamín Netanyahu. Con Meshaal en coma, el Rey de Jordania exigió el **antídoto bajo amenaza** de romper relaciones con Israel y juzgar a sus espías. Netanyahu tuvo que ceder tras la intervención de Bill Clinton.
-
-Vivió en **Siria, Catar y Turquía**, y es el principal **representante de Hamás** entre el éxodo palestino. Con los asesinatos de Haniyeh y del también vicepresidente del buró político, Saleh al Arouri -el pasado enero en Beirut-, Meshaal queda como la figura más fuerte del grupo en el exterior.
-
-Jalil al Hayya
---------------
-
-Fue la mano **derecha de Sinwar** en la rama política dentro de la Franja. Tras el nombramiento de este como presidente del grupo en agosto, Al Hayya le sustituyó como jefe de Hamás en el enclave y ocupa una de las **tres vicepresidencias del buró,** la que corresponde a líderes de dentro de Gaza. 
-
-En 2006 dirigió el bloque de Hamás en el extinto **Consejo Legislativo palestino**. Es un destacado partidario de la lucha armada contra Israel y sobrevivió a varios intentos de asesinato, el más grave en 2007, cuando un ataque contra su casa en el norte de la Franja mató a varios de sus familiares.
-
-Fue él quien, al día siguiente de que Israel anunciara la muerte de Sinwar, confirmó en nombre de Hamás la noticia, lo que puede augurar un papel prominente.
-
-Mohamed Sinwar
---------------
-
-Es el hermano menor de Yahya Sinwar y un destacado comandante de las Brigadas al Qasam, brazo armado de Hamás. Ante la **muerte de varios comandantes** durante la guerra -incluidos su jefe militar, Mohamed Deif, y su ‘numero dos’, Marwan Issa-, asumió el mando militar de la mitad sur de la Franja, desde Nuseirat hasta Rafah.
-
-Creció en las filas del ala militar de Hamás desde los noventa, cuando era adolescente, a la sombra de su hermano. Aunque su **liderazgo se ciña al plano militar**, el actual contexto de guerra le deja un amplio margen de decisión y autonomía. Es uno de los “más buscados” por Israel.
-
-Musa Abu Marzouk
-----------------
-
-Es miembro del buró político y, junto con Haniyeh, promovió un **enfoque pragmático en las negociaciones** con Israel para un alto el fuego. En los noventa, cuando residía en Estados Unidos, fue detenido por recaudar fondos para el brazo armado de Hamás, y después permaneció en el exilio, en Jordania, Egipto y Catar. 
-
-**Izz ad Din al Haddad**
-------------------------
-
-Era el comandante de la brigada de ciudad de Gaza cuando empezó la guerra, pero ahora ostenta el **mando militar** de toda la parte norte del enclave. Junto con el pequeño de los Sinwar, es el encargado de continuar la “guerra de desgaste” contra Israel y codirigir las operaciones militares.
-
-Zaher Jabarin
--------------
-
-Era del círculo cercano a Sinwar y Haniyeh. Maneja los asuntos financieros del grupo. Antes participó en las actividades militares, por lo que fue detenido por Israel y liberado en 2011 en el mismo canje de más de mil prisioneros por el soldado Gilad Shalit, en el que Sinwar también fue excarcelado.
-
-(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores
-================================================================
-
-El ecuatoriano no solo brilla en la cancha, sino también fuera de ella, y lo demostró en el torneo más importante de América.
------------------------------------------------------------------------------------------------------------------------------
-
-![Alan Franco en el partido entre Atlético Mineiro y River Plate por Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-23T171050.074.jpg)
-
-**Alan Franco** es uno de los protagonistas del Atlético Mineiro, uno de los clubes más importantes de Sudamérica, que está a un paso de regresar a una nueva final de la Copa Conmebol Libertadores.
-
-El **‘Galo’ goleó 3-0 a River Plate** en la semifinal de ida, en Brasil, con Franco como titular. Aunque tuvo un partido discreto, cumplió un rol clave en el esquema de Gabriel Milito.
-
-### Más noticias:
-
-* [Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-atletico-mineiro-golean-river-plate-copa-libertadores.html "Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores")
-* [Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-unico-ecuatoriano-aspiraciones-ganar-copa-libertadores.html "Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores")
-* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
-
-Sin embargo, fue fuera de la cancha donde **Alan Franco sorprendió con un tierno y emotivo gesto** que conquistó a todos. Demostró que también es un crack fuera del césped.
-
-Alan Franco y su emotivo gesto en la Copa Libertadores
-------------------------------------------------------
-
-Antes de que comenzara el partido entre **Atlético Mineiro** y River Plate, cuando los jugadores saltaron al campo acompañados de niños y niñas, Alan Franco protagonizó un conmovedor momento.
-
-Una pequeña fanática, al ver el estadio Arena MRV repleto con casi 50,000 aficionados, banderas y bengalas, no pudo contener las lágrimas.
-
-Fue en ese instante que **Franco, con un gesto de empatía, se agachó para consolarla**, brindándole palabras de apoyo y logrando que la niña se calmara y pudiera disfrutar del momento.
-
-> não tinha visto esse vídeo do alan franco, como pode ser o mais querido do mundo 🥹🫶🏽 [pic.twitter.com/qV2Xm2DVAw](https://t.co/qV2Xm2DVAw)
-> 
-> — ana (@aquelaoutrana) [October 23, 2024](https://twitter.com/aquelaoutrana/status/1849119818433106010?ref_src=twsrc%5Etfw)
-
-¿Cuándo es la semifinal de vuelta?
-----------------------------------
-
-Atlético Mineiro, con Alan Franco en el campo, no tuvo problemas para **derrotar 3-0 a River Plate** el martes 22 de octubre, en la semifinal de ida de la Copa Conmebol Libertadores.
-
-**Deyverson** Silva fue la figura del partido, anotando un doblete y brindando una asistencia en el Arena MRV. Con esta importante ventaja, el equipo brasileño espera el partido de vuelta con optimismo.
-
-El ecuatoriano **tuvo un desempeño sólido, completando los 90 minutos**. Franco acertó el 92% de sus pases, ganó seis de once duelos y contribuyó defensivamente con un bloqueo, una intercepción y dos entradas.
-
-El partido de vuelta se jugará el **próximo martes 29 de octubre** en el estadio Monumental de Argentina, donde Atlético Mineiro buscará sellar su pase a la final. El encuentro está programado para las 19:30 (hora de Ecuador).
-
-El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador
-===================================================================
-
-El Nacional venció a Mushuc Runa en la semifinal de ida de la Copa Ecuador con un doblete de Jorge Ordóñez y protagonismo arbitral.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Jorge Ordóñez celebra uno de los goles en la semifinal de ida de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T155445.276.jpg)
-
-**El Nacional** se impuso en su partido de ida de las semifinales de la Copa Ecuador ante **Mushuc Runa** por un marcador de 2-1. Los puros criollos vencieron en un choque marcado por las tarjetas rojas de su rival y polémicas jugadas.
-
-El primer compromiso de la penúltima fase del certamen entre los **puros criollos** y el ‘**Ponchito**‘, que hizo de local, se llevó a cabo durante este miércoles 23 de octubre del 2024. El Estadio La Cocha de Latacunga fue el encargado de albergar el compromiso.
-
-### Más noticias:
-
-* [¿A qué hora juega El Nacional semifinales de Copa Ecuador?](https://www.elcomercio.com/deportes/semifinal-el-nacional-mushuc-runa-copa-ecuador.html "¿A qué hora juega El Nacional semifinales de Copa Ecuador?")
-* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
-
-El choque fue el segundo de los primeros cotejos de semifinales y solo restan las revanchas. Antes, **Independiente del Valle y Universidad Católica** ya disputaron el compromiso que les correspondía y los rayados también triunfaron como visitantes por 1-0.
-
-En el cruce entre **El Nacional y Mushuc Runa**, el arbitraje y el VAR se llevaron parte del protagonismo debido a su intervención en dos expulsiones y en uno de los goles. Los tantos para el ‘Rojo’ llegaron desde Jorge Ordóñez y el descuento de sus rivales fue de Ángel Gracia[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
-
-El Nacional se adelantó en el marcador ante Mushuc Runa
--------------------------------------------------------
-
-El Nacional salió con sus máximos nombres en la alineación titular ante **Mushuc Runa** y con el objetivo de ganar la **Copa Ecuador** como lo había dicho su presidente Marco Pazos. En su cotejo previo en la Liga Pro ante Delfín, en el que consiguió un empate, el club había guardado jugadores y planteado un equipo mixto.
-
-El primer gol para el ‘Rojo’ llegó gracias Jorge Ordóñez a los 26 minutos de juego. Antes, los locales avisaron con un tiro en el travesaño de **Joaquín Vergés**. El tanto de la ‘Tukita’ llegó gracias a un cabezazo a raíz de un centro de **Fidel Martínez**.
-
-A partir de la anotación de **Ordóñez**, los puros criollos empezaron a controlar el partido. La victoria se mantuvo durante el primer tiempo y el ‘Bi-Tri’ se fue a los vestuarios con la victoria.
-
-Un polémico segundo tiempo para El Nacional y Mushuc Runa en Copa Ecuador
--------------------------------------------------------------------------
-
-La segunda mitad del partido entre **El Nacional y Mushuc Runa** estuvo cargada de polémicas. El papel de los árbitros fue determinante para el resultado y el desempeño del partido.
-
-Una expulsión apenas iniciados los últimos 45 minutos dejó con uno menos al ‘Ponchito’. Esta cayó sobre **Enzo Fernández** y después de que el VAR avisase al juez central. Antes, el jugador había realizado una entrada vehemente sobre el arquero **David Cabezas** cuando este tenía el balón en sus manos.
-
-Instantes después de la expulsión, **Ángel Gracia** igualó el marcador, sin embargo, en el que realizó un polémico festejo. Tras ello, el árbitro volvió a revisar el VAR y expulsó al lateral derecho.
-
-El tanto del triunfo para **El Nacional** llegó a los 79 minutos. Una vez más Ordóñez. El delantero volvió a conectar de cabezazo. Parecía que hubo un fuera de juego, pero tras la intervención de los árbitros asistentes de video, el tanto fue validado.
-
-El cotejo final quedó en un **2-1** a favor del ‘Bi-Tri’. La revancha entre las escuadras será el jueves 31 de octubre. Este será en el Estadio Olímpico Atahualpa.
+Si bien fue loable la **participación de los quiteños** para ayudar al **Cuerpo de Bomberos** y su **solidaridad** con las víctimas, hace falta una mayor campaña para que no se olviden lo que pasó. “Lo peor sería olvidarse. Hay que tener presente las tragedias, así como los logros. Eso tiene que ser el punto de partida para ser mejores”, sostiene Cárdenas. Y este compromiso sería no usar pirotecnia artesanal.
