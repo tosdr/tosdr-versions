@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Maceio_verao_d2f01512df.png)
+   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
+
+em pajuçara
+
+Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://www.tnh1.com.br/noticia/nid/roda-gigante-na-orla-de-maceio-vai-ter-ar-condicionado-e-wi-fi-veja-prazo-de-instalacao/ "Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação")   [![Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_agua_agencia_brasil_56ecf1b993.png)
+
+abastecimento
+
+Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais](https://www.tnh1.com.br/noticia/nid/casal-trabalha-para-reativar-tres-pocos-da-regiao-metropolitana-de-maceio-veja-locais/ "Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais")   [![Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_Maceio_verao_d2f01512df.png)
 
 Maceió
 
-Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")   [![Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_23-10-24-Reforma-da-Praca-Moleque-Namorador-antes-durante-IPLAN-Victor-Vercant-3_ca3cb901b6.jpg)
+Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")   [![Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_23-10-24-Reforma-da-Praca-Moleque-Namorador-antes-durante-IPLAN-Victor-Vercant-3_ca3cb901b6.jpg)
 
 Maceió
 
-Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://www.tnh1.com.br/noticia/nid/restauracao-da-praca-moleque-namorador-vai-preservar-piso-em-pedra-portuguesa/ "Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa")   [![Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
+Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://www.tnh1.com.br/noticia/nid/restauracao-da-praca-moleque-namorador-vai-preservar-piso-em-pedra-portuguesa/ "Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa")   [![Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
 
 Cidade Universitária
 
-Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-morto-com-tiros-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada")   [![Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_protesto-passarela-fernandes-lima_5475952124.jpg)
+Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-baleado-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada")   [![Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_protesto-passarela-fernandes-lima_5475952124.jpg)
 
 Manifestação
 
-Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://www.tnh1.com.br/noticia/nid/entidades-sindicais-fazem-protesto-contra-pec-66-na-fernandes-lima-mas-sem-afetar-transito/ "Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito")   [![Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_Incendio_Mirante_f7df5634e5.jpg)
-
-Maceió
-
-Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://www.tnh1.com.br/noticia/nid/bombeiros-combatem-incendio-em-vegetacao-na-encosta-do-mirante-de-santa-terezinha-no-farol/ "Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol")   [![Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_fios_perigo_b5b9e18271.png)
-
-assista à matéria
-
-Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió](https://www.tnh1.com.br/noticia/nid/alto-risco-emaranhado-de-fios-em-postes-coloca-em-perigo-populacao-de-maceio/ "Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ")
+Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://www.tnh1.com.br/noticia/nid/entidades-sindicais-fazem-protesto-contra-pec-66-na-fernandes-lima-mas-sem-afetar-transito/ "Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
+   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
+
+EM SÃO BRÁS
+
+Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
+
+Alagoas
+
+Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
 
 hermafrodita
 
-Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
+Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
 
 39 anos
 
-Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")   [![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_52c0b99f2c.jpg)
+Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")   [![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_52c0b99f2c.jpg)
 
 Educação
 
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")   [![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
+Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")   [![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
 
 barra grande
 
-Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")   [![Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_extracao_areia_marechal_deodoro_foto_extraida_da_acao_civil_publica_5e838013a4.jpeg)
-
-condenação judicial
-
-Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://www.tnh1.com.br/noticia/nid/licencas-por-mineracao-ilegal-sao-canceladas-em-definitivo-em-marechal-deodoro/ "Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro")   [![Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_cesta_basica_doacao_foto_agreste_saneamento_3efeb7c2ad.jpeg)
-
-Doações
-
-Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://www.tnh1.com.br/noticia/nid/projeto-agreste-solidario-leva-cestas-basicas-para-familias-em-vulnerabilidade-social/ "Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social")
+Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidad
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_3250251c29.jpeg)
+   [![Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/8/csm_adolescentes-mortos-perseguicao-reproducao-arquivo-pessoal_1132b7d470.png)
+
+Depoimentos
+
+Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos](https://www.tnh1.com.br/noticia/nid/veja-o-que-dizem-pms-envolvidos-em-perseguicao-que-terminou-com-adolescentes-mortos/ "Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos")   [![PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_pm-apreende-arma-de-fogo-municoes-e-drogas-em-acoes-em-maceio-e-satuba_dfb217ee43.jpeg)
+
+Polícia
+
+PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba](https://www.tnh1.com.br/noticia/nid/pm-apreende-revolver-38-cocaina-e-maconha-em-acoes-em-maceio-e-satuba/ "PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba")   [![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_3250251c29.jpeg)
 
 Estava em casa
 
-iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")   [![Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/8/csm_prisao_estuprador_craibas_-_foto_ascom_pc_f20b6a26c3.jpeg)
+iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")   [![Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/8/csm_prisao_estuprador_craibas_-_foto_ascom_pc_f20b6a26c3.jpeg)
 
 No trabalho
 
-Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-jovem-e-obriga-la-a-comer-areia-e-preso-em-operacao-policial/ "Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial")   [![Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/1/csm_prisao_teotonio_vilela_-_foto_ascom_pc__1__62dba69da5.jpeg)
+Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-jovem-e-obriga-la-a-comer-areia-e-preso-em-operacao-policial/ "Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial")   [![Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/1/csm_prisao_teotonio_vilela_-_foto_ascom_pc__1__62dba69da5.jpeg)
 
 com arma branca
 
-Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/video-foragido-e-capturado-por-tentar-matar-dono-de-bar-no-interior-de-alagoas/ "Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas")   [![Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
+Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/video-foragido-e-capturado-por-tentar-matar-dono-de-bar-no-interior-de-alagoas/ "Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas")   [![Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
 
 Cidade Universitária
 
-Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-morto-com-tiros-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada")   [![Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_cisp_campo_alegre_-_foto_assessoria_pc_c6a0976fb8.jpeg)
-
-Filho presenciou
-
-Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-ameaca-e-violencia-psicologica-contra-a-mulher-em-campo-alegre/ "Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre")   [![Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/8/csm_operacao_pc-__foto_ascom_9929a2f41a.jpg)
-
-Policiais nas ruas
-
-Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos](https://www.tnh1.com.br/noticia/nid/mais-de-25-sao-presos-em-operacao-policial-em-al-um-e-suspeito-de-estuprar-menina-de-12-anos/ "Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos ")
+Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-baleado-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -202,15 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
-
-Maceió
-
-Maceió
-
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data
-
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_9e3163a3a6.jpg)
+[![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_9e3163a3a6.jpg)
 
 Educação
 
@@ -218,33 +210,15 @@ Educação
 
 Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data
 
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")[![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_d7a5b1303e.png)
+Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")[![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
 
-Ao menos um ferido
+Maceió
 
-Ao menos um ferido
+Maceió
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió
+Prefeitura de Maceió antecipa salário de servidores municipais; veja data
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")[![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_14897ff936.jpg)
-
-barra grande
-
-barra grande
-
-Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo
-
-Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")
-
-[![Polícia Federal investiga desembargadores por suspeita de venda de decisões](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_policia_federal_9dc4a75076.png)
-
-Mato Grosso do Sul
-
-Mato Grosso do Sul
-
-Polícia Federal investiga desembargadores por suspeita de venda de decisões
-
-Polícia Federal investiga desembargadores por suspeita de venda de decisões](https://www.tnh1.com.br/noticia/nid/policia-federal-investiga-desembargadores-por-suspeita-de-venda-de-decisoes/ "Polícia Federal investiga desembargadores por suspeita de venda de decisões")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
+Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
 
 em maceió
 
@@ -252,23 +226,49 @@ em maceió
 
 Ministério Público Federal pede intervenção no Hospital Veredas
 
-Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_18b358d374.jpeg)
+Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_d7a5b1303e.png)
 
-Estava em casa
+Ao menos um ferido
 
-Estava em casa
+Ao menos um ferido
 
-iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió
 
-iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")[![Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/7/csm_senac_1_0383381164.jpg)
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")
 
-Educação
+[![Meta AI no WhatsApp vai usar seus dados para treinar robôs?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_csm_whatsapp-foto-reproducao_80f43974df_3b5ef250b5.jpg)
 
-Educação
+Tecnologia
 
-Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste
+Tecnologia
 
-Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste](https://www.tnh1.com.br/noticia/nid/senac-alagoas-entrega-equipamentos-inovadores-para-populacao-de-maceio-e-do-agreste/ "Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste")
+Meta AI no WhatsApp vai usar seus dados para treinar robôs?
+
+Meta AI no WhatsApp vai usar seus dados para treinar robôs?](https://www.tnh1.com.br/noticia/nid/meta-ai-no-whatsapp-vai-usar-seus-dados-para-treinar-robos/ "Meta AI no WhatsApp vai usar seus dados para treinar robôs?")[![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_84e9c021ce.jpeg)
+
+EM SÃO BRÁS
+
+EM SÃO BRÁS
+
+Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada
+
+Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")[![Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_Apri__gio__Podemos___candidato_a_Prefeitura_de_Taboao_da_Serra_-_Foto_Reproducao_-_Instagram_1a6d7a93f8_ebbfc70d58.jpg)
+
+Brasil
+
+Brasil
+
+Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia
+
+Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia](https://www.tnh1.com.br/noticia/nid/ataque-contra-prefeito-alagoano-em-sao-paulo-foi-planejado-diz-policia/ "Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia")[![Mineira de 3 anos tem condição tão rara que ainda não tem nome](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/8/csm_mineira-liz-nasce-condicao-rara-reproducao-arquivo-pessoal_f3786051fe.jpg)
+
+criança especial
+
+criança especial
+
+Mineira de 3 anos tem condição tão rara que ainda não tem nome
+
+Mineira de 3 anos tem condição tão rara que ainda não tem nome](https://www.tnh1.com.br/noticia/nid/mineira-de-3-anos-tem-condicao-tao-rara-que-ainda-nao-tem-nome/ "Mineira de 3 anos tem condição tão rara que ainda não tem nome")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
