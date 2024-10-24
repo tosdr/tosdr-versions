@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e43f966f-ff13-4526-a4cd-136da7bbd528/20241023T211119/e43f966f-ff13-4526-a4cd-136da7bbd528_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e43f966f-ff13-4526-a4cd-136da7bbd528/20241023T211119/e43f966f-ff13-4526-a4cd-136da7bbd528_360x203.jpg)](https://www.wqad.com/article/news/local/weird-smell-around-quad-cities-heres-what-experts-think/526-cf7f7826-5f4f-440e-9bb5-e020dec7475d)
+        
+        #### [Noticed a weird smell around the Quad Cities? Here's what experts think it was](https://www.wqad.com/article/news/local/weird-smell-around-quad-cities-heres-what-experts-think/526-cf7f7826-5f4f-440e-9bb5-e020dec7475d)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/99b4766c-4a86-46d4-9743-ce40a119075c/20241024T031028/99b4766c-4a86-46d4-9743-ce40a119075c_360x203.jpg)](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
         
         #### [Residents question officials on utility fee at Rock Island Unplugged](https://www.wqad.com/article/news/local/residents-question-officials-utility-fee-rock-island-unplugged/526-1d894d37-fca8-4948-9b42-d1093582b565)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc4189e6-781a-4c94-8b98-ce5f6f34038f/20241024T032035/fc4189e6-781a-4c94-8b98-ce5f6f34038f_360x203.jpg)](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
-        
-        #### [Davenport Public Works employees calling for wage increases](https://www.wqad.com/article/money/davenport-public-works-employees-demand-higher-wages/526-2c38080b-928b-4870-abee-acce2f3c7a00)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/35533bf1-e52e-4a5a-8002-8135c36ab039/20241023T225333/35533bf1-e52e-4a5a-8002-8135c36ab039_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/35533bf1-e52e-4a5a-8002-8135c36ab039/20241023T225333/35533bf1-e52e-4a5a-8002-8135c36ab039_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3d5dadb4-f601-4aaa-b519-be5653ad88ad/20241024T121431/3d5dadb4-f601-4aaa-b519-be5653ad88ad_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3d5dadb4-f601-4aaa-b519-be5653ad88ad/20241024T121431/3d5dadb4-f601-4aaa-b519-be5653ad88ad_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Thunderstorms and showers expected late Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers and storms developing this evening.](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b/20241020T144609/b5d4651d-c1a6-4191-8cf7-df2b3a14b76b_360x203.jpg)](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d7105c03-73bb-418a-a49f-5d859fa3c1af/20241024T123156/d7105c03-73bb-418a-a49f-5d859fa3c1af_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d7105c03-73bb-418a-a49f-5d859fa3c1af/20241024T123156/d7105c03-73bb-418a-a49f-5d859fa3c1af_360x203.jpg)](https://www.wqad.com/article/news/nation-world/russia-amplified-hurricane-disinformation/507-e9126f6a-c461-4f1c-bd6c-16515d0026d2)
         
-        #### [Hurricane Oscar makes landfall in the Bahamas and heads toward Cuba](https://www.wqad.com/article/news/national/hurricane-oscar-makes-landfall-bahamas-and-heads-toward-cuba/63-d8b2ee81-9201-49af-8fce-752513945ef8)
+        #### [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://www.wqad.com/article/news/nation-world/russia-amplified-hurricane-disinformation/507-e9126f6a-c461-4f1c-bd6c-16515d0026d2)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-34°
+58°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
