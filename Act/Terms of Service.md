@@ -12,10 +12,23 @@ act.org,actprofile.org,act.org,actstudent.org,act.alertline.com,services.actstud
     * [School and District Assessment](https://www.act.org/content/act/en/products-and-services.html#solutions)
     * [Career-Ready Solutions](https://www.act.org/content/act/en/workforce-solutions.html)
 
+* [Students & Parents](https://www.act.org/content/act/en/students-and-parents.html)
+* [K-12](https://www.act.org/content/act/en/k12-educators-and-administrators.html)
+* [Workforce](https://www.act.org/content/act/en/workforce-solutions.html)
+* [Higher Ed](https://www.act.org/content/act/en/postsecondary-professionals.html)
+* [Blogs](https://www.act.org/content/act/en/act-blogs.html)
 * Open Search Form
-* Open Notifications
+* [MyACT](https://my.act.org/)
 
-* 
+   
+
+Search
+
+Search site...
+
+Close Search
+
+[Other ACT Services and Products](https://www.act.org/content/act/en/products-and-services.html)
 
 Terms of Use
 ============
