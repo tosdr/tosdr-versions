@@ -26,7 +26,7 @@ x
     
     Fashion
     
-    [Apparel](https://www.iscream-shop.com/shop/category/apparel-11)[Bags & Backpacks](https://www.iscream-shop.com/shop/category/bags-12)[Beauty & Spa](https://www.iscream-shop.com/shop/category/beauty-spa-13)[Eye Masks & Scrunchies](https://www.iscream-shop.com/shop/category/eye-masks-15)[Footwear](https://www.iscream-shop.com/shop/category/footwear-16)[Headwear](https://www.iscream-shop.com/shop/category/headwear-287)[Jewelry & Hair Clips](https://www.iscream-shop.com/shop/category/jewelry-321)[Purses & Wallets](https://www.iscream-shop.com/shop/category/purses-wallets-17)
+    [Apparel](https://www.iscream-shop.com/shop/category/apparel-339)[Bags & Backpacks](https://www.iscream-shop.com/shop/category/bags-12)[Beauty & Spa](https://www.iscream-shop.com/shop/category/beauty-spa-13)[Eye Masks & Scrunchies](https://www.iscream-shop.com/shop/category/eye-masks-15)[Footwear](https://www.iscream-shop.com/shop/category/footwear-338)[Headwear](https://www.iscream-shop.com/shop/category/headwear-287)[Jewelry & Hair Clips](https://www.iscream-shop.com/shop/category/jewelry-321)[Purses & Wallets](https://www.iscream-shop.com/shop/category/purses-wallets-17)
     
     Décor
     
