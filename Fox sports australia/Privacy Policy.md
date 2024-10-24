@@ -58,16 +58,6 @@ FOX SCORES
     | NZL | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250201)
-* [Sheffield Shield
-    
-    SA won by 129 runs
-    
-    |     |     |
-    | --- | --- |
-    | QLD | 308 & 229 |
-    | SA  | 314 & 9 /352d |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250105)
 * NRL
     
 * [Women's PC
@@ -178,84 +168,84 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060002)
 * [NBA
     
-    24/10 10:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | DET | –   |
-    | IND | –   |
+    | TOR | 90  |
+    | CLE | 121 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010006)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010014/box-score)
 * [NBA
     
-    24/10 10:30 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | TOR | –   |
-    | CLE | –   |
+    | PHI | 92  |
+    | MIL | 105 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010014)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010012/box-score)
 * [NBA
     
-    24/10 10:30 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | PHI | –   |
-    | MIL | –   |
+    | MIA | 74  |
+    | ORL | 97  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010012)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010010/box-score)
 * [NBA
     
-    24/10 10:30 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | MIA | –   |
-    | ORL | –   |
+    | ATL | 95  |
+    | BKN | 90  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010010)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010008/box-score)
 * [NBA
     
-    24/10 10:30 AEST
+    3 Qtr Time
     
     |     |     |
     | --- | --- |
-    | ATL | –   |
-    | BKN | –   |
+    | NO  | 98  |
+    | CHI | 83  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010008)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010018/box-score)
 * [NBA
     
-    24/10 11:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | NO  | –   |
-    | CHI | –   |
+    | HOU | 83  |
+    | CHA | 77  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010018)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010016/box-score)
 * [NBA
     
-    24/10 11:00 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | HOU | –   |
-    | CHA | –   |
+    | UTA | 23  |
+    | MEM | 34  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010016)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010020/box-score)
 * [NBA
     
-    24/10 12:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | UTA | –   |
-    | MEM | –   |
+    | DET | 109 |
+    | IND | 115 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010020)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010006/box-score)
 * [NBA
     
     24/10 13:00 AEST
@@ -290,7 +280,17 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250319)
 * [UCL
     
-    Half Time
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BRE | 1   |
+    | BLV | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250321)
+* [UCL
+    
+    Full Time
     
     |     |     |
     | --- | --- |
@@ -300,61 +300,11 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250335)
 * [UCL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BEN | 0   |
-    | FEY | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250333)
-* [UCL
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | BAR | 3   |
-    | BAY | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250331)
-* [UCL
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | YB  | 0   |
-    | INT | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250329)
-* [UCL
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | RBS | 0   |
-    | DZ  | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250327)
-* [UCL
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | AMD | 1   |
-    | LIL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250325)
-* [UCL
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | MCI | 1   |
+    | MCI | 5   |
     | SP  | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250323)
@@ -364,10 +314,50 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | BRE | 1   |
-    | BLV | 1   |
+    | BAR | 4   |
+    | BAY | 1   |
     
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250321)
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250331)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | YB  | 0   |
+    | INT | 1   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250329)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | RBS | 0   |
+    | DZ  | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250327)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | BEN | 1   |
+    | FEY | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250333)
+* [UCL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | AMD | 1   |
+    | LIL | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250325)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -442,7 +432,6 @@ FOX SCORES
     * [Fixtures & Results](https://www.foxsports.com.au/afl/womens-afl/fixtures-results)
     * [Ladder](https://www.foxsports.com.au/afl/womens-afl/ladder)
     * AFLW Teams
-* [AFL Tipping](https://tips.com.au/?utm_source=FXS&utm_medium=article&utm_campaign=tips_afl)
 
 [AFLW Teams](https://www.foxsports.com.au/afl/womens-afl/teams)
 
@@ -614,24 +603,14 @@ FOX SCORES
 * [Live Scores](https://www.foxsports.com.au/score-centre/cricket)
 * [Fixtures & Results](https://www.foxsports.com.au/cricket/fixtures-results)
 * [Ladders](https://www.foxsports.com.au/cricket/ladders)
-* Cricket World Cup
 * Australia
 * Sheffield Shield
-* Marsh One Day Cup
+* One Day Cup
 * Big Bash
-* The Ashes
 * WBBL
 * Indian Premier League
-
-[Cricket World Cup](https://www.foxsports.com.au/cricket/world-cup)
-
-* [Live Stream](https://kayosports.com.au/?extcamp=fsaconnavcricket-ptr-fsp-lnk-grc-acq-cri-kyo&channel=fsa&campaign=fsacontra)
-* [Latest News](https://www.foxsports.com.au/cricket/world-cup/latest-news)
-* [Ladder](https://www.foxsports.com.au/cricket/world-cup/ladder)
-* [Fixtures & Results](https://www.foxsports.com.au/cricket/world-cup/fixtures-results)
-* [Australia](https://www.foxsports.com.au/cricket/world-cup/australia)
-* [India](https://www.foxsports.com.au/cricket/world-cup/india)
-* [England](https://www.foxsports.com.au/cricket/world-cup/england)
+* The Ashes
+* Cricket World Cup
 
 [Australia](https://www.foxsports.com.au/cricket/australia)
 
@@ -646,7 +625,7 @@ FOX SCORES
 * [Fixtures and Results](https://www.foxsports.com.au/cricket/domestic-cricket/sheffield-shield/fixtures-results)
 * [Ladder](https://www.foxsports.com.au/cricket/domestic-cricket/sheffield-shield/ladder)
 
-[Marsh One Day Cup](https://www.foxsports.com.au/cricket/marsh-one-day-cup)
+[One Day Cup](https://www.foxsports.com.au/cricket/marsh-one-day-cup)
 
 * [Live Stream](https://kayosports.com.au/?marketing=cricket-1&extcamp=fsaconnavcricket-ptr-fsp-lnk-grc-acq-cri-kyo&channel=fsa&campaign=launch&voucher=LAUNCH)
 * [Video](https://www.foxsports.com.au/video/cricket/domestic-cricket/one-day-cup)
@@ -659,15 +638,6 @@ FOX SCORES
 * [Ladder](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/ladder)
 * [Latest News](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/latest-news)
 * [Fixtures & Results](https://www.foxsports.com.au/score-centre/cricket/big-bash-league)
-* [SuperCoach BBL](https://supercoach.foxsports.com.au/bbl/)
-* [SuperCoach News](https://www.foxsports.com.au/cricket/bbl-supercoach-news)
-
-[The Ashes](https://www.foxsports.com.au/cricket/ashes)
-
-* [Live Stream](https://kayosports.com.au/?marketing=cricket-1&extcamp=fsaconnavcricket-ptr-fsp-lnk-grc-acq-cri-kyo&channel=fsa&campaign=launch&voucher=LAUNCH)
-* [Latest News](https://www.foxsports.com.au/cricket/ashes/latest-news)
-* [Video](https://www.foxsports.com.au/video/cricket/the-ashes)
-* [Fixtures & Results](https://www.foxsports.com.au/score-centre/cricket/international-tests)
 
 [WBBL](https://www.foxsports.com.au/cricket/domestic-cricket/wbbl)
 
@@ -681,6 +651,23 @@ FOX SCORES
 
 * [Latest News](https://www.foxsports.com.au/cricket/indian-premier-league/latest-news)
 * [Ladder](https://www.foxsports.com.au/cricket/indian-premier-league/ladder)
+
+[The Ashes](https://www.foxsports.com.au/cricket/ashes)
+
+* [Live Stream](https://kayosports.com.au/?marketing=cricket-1&extcamp=fsaconnavcricket-ptr-fsp-lnk-grc-acq-cri-kyo&channel=fsa&campaign=launch&voucher=LAUNCH)
+* [Latest News](https://www.foxsports.com.au/cricket/ashes/latest-news)
+* [Video](https://www.foxsports.com.au/video/cricket/the-ashes)
+* [Fixtures & Results](https://www.foxsports.com.au/score-centre/cricket/international-tests)
+
+[Cricket World Cup](https://www.foxsports.com.au/cricket/world-cup)
+
+* [Live Stream](https://kayosports.com.au/?extcamp=fsaconnavcricket-ptr-fsp-lnk-grc-acq-cri-kyo&channel=fsa&campaign=fsacontra)
+* [Latest News](https://www.foxsports.com.au/cricket/world-cup/latest-news)
+* [Ladder](https://www.foxsports.com.au/cricket/world-cup/ladder)
+* [Fixtures & Results](https://www.foxsports.com.au/cricket/world-cup/fixtures-results)
+* [Australia](https://www.foxsports.com.au/cricket/world-cup/australia)
+* [India](https://www.foxsports.com.au/cricket/world-cup/india)
+* [England](https://www.foxsports.com.au/cricket/world-cup/england)
 
 [Motorsport](https://www.foxsports.com.au/motorsport)
 
