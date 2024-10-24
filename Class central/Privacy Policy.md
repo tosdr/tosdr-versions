@@ -414,22 +414,22 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. c
+1. English
     
-2. psychology
+2. c
     
-3. project management
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Data Analysis
+1. [Artificial Intelligence
     
-    8,382 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Graphic Design
+    12,355 courses](https://www.classcentral.com/subject/ai)
+2. [Python
     
-    4,227 courses](https://www.classcentral.com/subject/graphic-design)
+    9,426 courses](https://www.classcentral.com/subject/python)
 3. [Computer Science
     
     39,338 courses](https://www.classcentral.com/subject/cs)
@@ -437,15 +437,15 @@ Popular subjects
 Popular courses
 ---------------
 
-1. [Literature of the English Country House
+1. [Bases Matemáticas: Números y terminología
     
-    The University of Sheffield](https://www.classcentral.com/course/country-house-literature-2028)
-2. [A Scuola con Raffaello
+    Universitat Politècnica de València](https://www.classcentral.com/course/math-universitat-politecnica-de-valencia-bases-ma-2955)
+2. [Introduction to Philosophy
     
-    University of Urbino](https://www.classcentral.com/course/independent-a-scuola-con-raffaello-21210)
-3. [Python for Data Science
+    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
+3. [Working with Translation: Theory and Practice
     
-    University of California, San Diego](https://www.classcentral.com/course/python-the-university-of-california-san-diego-pyt-8209)
+    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
