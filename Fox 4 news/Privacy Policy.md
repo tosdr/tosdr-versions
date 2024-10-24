@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Where refugees in Texas are arriving from](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/GettyImages-1232963130.jpg?ve=1&tl=1)
+
+ ![Where refugees in Texas are arriving from](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/592/333/GettyImages-1232963130.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/where-refugees-texas-arriving-from)
+
+### [Where refugees in Texas are arriving from](https://www.fox4news.com/news/where-refugees-texas-arriving-from)
+
+ [![Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-1.jpg?ve=1&tl=1)
+
+ ![Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/harris-trump-new-national-poll-2-weeks-until-election-day)
+
+### [Harris-Trump showdown: New national poll shows who has the edge 2 weeks from Election Day](https://www.fox4news.com/news/harris-trump-new-national-poll-2-weeks-until-election-day)
+
+ [![McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180539674.jpg?ve=1&tl=1)
+
+ ![McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180539674.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-quarter-pounder-e-coli-update-states-pulled-menus)
+
+### [McDonald's E. coli update: Quarter Pounders now off the menu in these states](https://www.fox4news.com/news/mcdonalds-quarter-pounder-e-coli-update-states-pulled-menus)
+
+ [![Body found in Trinity River; Fort Worth police investigating cause of death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-payton-harold-simmons-park-demolition-day_kdfwce_00.00.03.00.jpg?ve=1&tl=1)
+
+ ![Body found in Trinity River; Fort Worth police investigating cause of death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-payton-harold-simmons-park-demolition-day_kdfwce_00.00.03.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/body-found-trinity-river-fort-worth-police-investigating-cause-death)
+
+### [Body found in Trinity River; Fort Worth police investigating cause of death](https://www.fox4news.com/news/body-found-trinity-river-fort-worth-police-investigating-cause-death)
+
  [![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1)
 
  ![How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-dna-technology-cold-case-murder-9p_00.01.15.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
 
 ### [How new DNA technology helped solve 16-year-old Grand Prairie cold case](https://www.fox4news.com/news/how-new-dna-technology-helped-solve-16-year-old-grand-prairie-cold-case)
-
- [![Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dallas-pharmacy-owner-insurance-fraud-9p_00.00.21.04.jpg?ve=1&tl=1)
-
- ![Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dallas-pharmacy-owner-insurance-fraud-9p_00.00.21.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ivor-jallah-pharmacy-healthcare-scam-federal-prison-sentence)
-
-### [Dallas pharmacy owner with aspiring Hollywood career sentenced to federal prison for healthcare scam](https://www.fox4news.com/news/ivor-jallah-pharmacy-healthcare-scam-federal-prison-sentence)
-
- [![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-san-antonio-murder-suspect-9p_00.01.30.14.jpg?ve=1&tl=1)
-
- ![Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-san-antonio-murder-suspect-9p_00.01.30.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
-
-### [Teen accused of killing San Antonio Sonic manager over fake money arrested in Dallas](https://www.fox4news.com/news/adiah-roberson-san-antonio-sonic-murder-arrest)
-
- [!['Beetlejuice' iconic home is now available on Airbnb](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/beetlejuice-house.jpg?ve=1&tl=1)
-
- !['Beetlejuice' iconic home is now available on Airbnb](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/beetlejuice-house.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/beetlejuice-iconic-home-available-airbnb)
-
-### ['Beetlejuice' iconic home is now available on Airbnb](https://www.fox4news.com/news/beetlejuice-iconic-home-available-airbnb)
-
- [![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mcdonalds-quarter-pounder.jpg?ve=1&tl=1)
-
- ![McDonald's E.coli outbreak kills 1, sickens dozens](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mcdonalds-quarter-pounder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
-
-### [1 killed, dozens sick after E.coli outbreak linked to McDonald’s Quarter Pounder, CDC says](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-kills-1-sickens-dozens-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
