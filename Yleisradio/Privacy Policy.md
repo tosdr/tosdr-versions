@@ -446,7 +446,7 @@ In matters concerning data protection, you can send email to [tietosuoja@yle.fi]
 
 In other languages: [Toimintaperiaatteet](https://yle.fi/aihe/yleisradio/toimintaperiaatteet), [Verksamhetsprinciper](https://svenska.yle.fi/verksamhetsprinciper)
 
-[Facebook - Yle](https://www.facebook.com/yleisradio) [X - @yleisradio](https://twitter.com/yleisradio) [Instagram - @yle](https://www.instagram.com/yle) [Linkedin - yle](https://www.linkedin.com/company/yle)
+[Facebook - Yle](https://www.facebook.com/yleisradio) [X - @yleisradio](https://twitter.com/yleisradio) [Instagram - @yle](https://www.instagram.com/yle) [Linkedin - yle](https://www.linkedin.com/company/yle) [Whatsapp - Yle](https://www.whatsapp.com/channel/0029Va8lJsTGZNCp9aYzJt2G?lang=en)
 
 In other languages: [Yle yhtiönä suomeksi](https://yle.fi/aihe/yleisradio), [Bolaget på svenska](https://svenska.yle.fi/bolaget)  
 [Send us feedback](https://asiakaspalvelu.yle.fi/) | Yle's switch board: +358 9 14801 | Box 76, 00024 Yleisradio
