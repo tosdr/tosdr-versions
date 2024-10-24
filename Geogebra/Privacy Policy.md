@@ -175,20 +175,20 @@ Exploring apps bundle including free tools for geometry, spreadsheet and CAS](ht
 GeoGebra Privacy Policy
 =======================
 
-Last updated: March 5, 2024
+Last updated: October 3, 2024
 
 Welcome to the website and online services (the "Website") of GeoGebra!
 
 Your privacy is important to us. This Privacy Policy describes the information we gather from you, how we use that information, and what we do to protect it. By using the Website (whether or not you are a registered user), you expressly consent to the information handling practices described in this policy.  
 Children, typically students in K-12 education, are given additional and special privacy assurances, described in the section [Our Commitment to Children's Privacy](#OurCommitmentToChildrensPrivacy).  
 Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and GeoGebra's [Terms of Service](https://www.geogebra.org/tos). Any capitalized terms used but not defined herein shall have the meaning set forth in the Terms of Service.  
-The collection, administration and use of personal details by GeoGebra complies with applicable data protection laws (General Data Protection Regulation, GDPR) by ensuring that each user is able to decide herself, which personal details shall be made accessible to other users.  
+The collection, administration and use of personal details by GeoGebra complies with applicable data protection laws (General Data Protection Regulation, GDPR) by ensuring that all users are able to decide themselves, which personal details shall be made accessible to other users.  
 Please take a moment to read everything carefully. In case of further questions please do not hesitate to contact us at _[office@geogebra.org](mailto:office@geogebra.org)_.
 
 Our Commitment to Children's Privacy
 ------------------------------------
 
-Protecting the privacy of young children is especially important. If GeoGebra learns that personally identifiable information of children has been collected on the Website without parental consent, then GeoGebra will take the appropriate steps to delete this information. If you are a parent or legal guardian and discover that your child has a registered account with the Website without your consent, then you may alert GeoGebra at _[office@geogebra.org](mailto:office@geogebra.org)_ and request that GeoGebra delete that child's personal information from its systems.  
+Protecting the privacy of young children is especially important. If GeoGebra learns that personally identifiable information of children has been collected on the Website without parental consent, then GeoGebra will take the appropriate steps to delete this information. If you are a parent or legal guardian and discover that your child has a registered account with the Website without your consent, then you may alert GeoGebra at _[office@geogebra.org](mailto:office@geogebra.org)_ and request that GeoGebra deletes that child's personal information from its systems.  
 In particular, we never share the personal information of any user with third parties.  
 It's important to remember that you do not need to register or sign in to the Website in order to use the GeoGebra software and access millions of GeoGebra resources.
 
@@ -241,29 +241,31 @@ After Registration different types of data are collected by GeoGebra, such as:
 
 * When you follow other users on our website
     
-* When you join a group on our website
-    
 
 If you decide to register through or otherwise grant access to a third party social networking or integrated service that we may make available ("Integrated Service"), such as Microsoft, Facebook, or Google, GeoGebra may also collect any such "personally identifiable information" that you have provided to the Integrated Service from the account you have with the Integrated Service. You may revoke GeoGebra's access to your account on the Integrated Service at any time by updating the appropriate settings in the account preferences of the respective Integrated Service. You should check your privacy settings on each Integrated Service to understand and change the information sent to us through each Integrated Service. Please review each Integrated Service's terms of use and privacy policies carefully before using their services and connecting to our Website. From time to time, GeoGebra may also ask you optionally to provide other information. If you choose to provide such information, during registration or otherwise, you are giving GeoGebra the permission to use and store it consistent with this policy. Therefore, please understand that if you choose to register an account and sign in to the Website, you are not anonymous to us.
 
-Information from other Users: We may make available certain features in the Website that allow other Users of the Website to provide us information that may include personally identifiable information that you provided when registering an account. For example, we may permit a Teacher to register a service for you on your behalf in which the Teacher pre-populates certain teaching/instructional features (in GeoGebra Groups for example) with information about you.
-
 "Cookies" Information: When you visit the Website, whether or not you are a registered user, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Cookies are used by GeoGebra to provide a more user-friendly, effective and secure service. Cookies remember information about your activities on a website. GeoGebra may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on the Website.
 
-Our analytics tracking software is self-hosted on AWS Servers located within the European Union, specifically in Ireland. We prioritize the privacy and security of your data, and as such, we do not share any collected information outside GeoGebra GmbH. Your data remains within the EU and is not disclosed to any external sub-processors or third parties. The data we gather includes:
+Quantcast Inmobi Consent Management Platform (CMP): This website uses the Quantcast Inmobi CMP to manage user consent for data collection on our website. This allows us to comply with privacy regulations and ensure that your data is handled responsibly. For more information about Quantcast Inmobi CMP, please visit [https://advertising.inmobi.com/cmp-terms](https://advertising.inmobi.com/cmp-terms).
 
-* Visitor IP addresses (with the last two bytes masked) for anonymity.
+Advertising: With your consent, this website may serve ads and engage and work with Service Providers and other third parties to serve personalized advertisements that are relevant to you. Our advertisers’ and ad networks’ use of Tracking Technologies are governed by their own privacy policies. You can adjust your settings or withdraw your consent at any time here on the privacy page.
+
+Google Analytics: This website uses Google Analytics to help understand how users interact with the platform and to improve the user experience. Google Analytics uses cookies and similar technologies to collect data about user activity. This information includes anonymized data such as:
+
+* Pages visited
     
-* URLs and page titles to track user navigation.
+* Time spent on the plattform
     
-* Referrer URLs, helping us understand how users arrive at our site.
+* Interaction with features
     
-* User’s country for regional insights.
+* Geographic location (limited to country or region)
     
-* Site searches for improving the user experience.
+* Device and browser information
     
 
-Our analytics process is focused on generating essential metrics such as bounce rates, page views, and sessions. These metrics serve as valuable tools for us to gain insights into how our website and apps are used, allowing us to continuously enhance your experience.
+Google Analytics does not collect personally identifiable information, and we do not associate this data with any personal information that you may provide to us. For more information on how Google Analytics collects and processes data, please visit [https://policies.google.com/privacy](https://policies.google.com/privacy). You can opt out of Google Analytics tracking by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). This will prevent your data from being used by Google Analytics across all websites and apps. In addition, you can withdraw your consent in the CMP.
+
+Google Tag Manager: This website uses Google Tag Manager to manage and deploy tracking tags. Tags are small code snippets that help us track user interactions. Google Tag Manager does not collect any personal data, but it may trigger other tracking tools, including Google Analytics. Any data collected through these tags is handled in accordance with our privacy policy.
 
 Google reCAPTCHA v3: This website uses "Google reCAPTCHA" (hereafter "reCAPTCHA"). Provider is Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google"). With reCAPTCHA we want to check if the data entry on our websites (for example in a contact form) is done by a human or by an automated program. For this, reCAPTCHA analyzes the behavior of the website visitor based on various characteristics. This analysis begins automatically as soon as the website visitor enters the account registration process. For analysis, reCAPTCHA evaluates various information (for example, the IP address, the website visitor’s visit time on the website, or user mouse movements). The data collected during the analysis will be forwarded to Google.  
 The reCAPTCHA analyzes are completely in the background. Site visitors are not advised that an analysis is taking place.  
@@ -272,41 +274,9 @@ For more information about Google reCAPTCHA and Google’s privacy policy, pleas
 
 GeeTest CAPTCHA: For users from China, we use "GeeTest CAPTCHA" in order to distinguish humans from automated programs. "GeeTest" uses a sencebot, which is provided by Wuhan Jiyi Network Technology Co., Ltd. If any interaction on the website happens, "GeeTest" will collect and evaluate various information (for example, the IP address or user mouse movements) in order to examine the security risk. "GeeTest" will not collect any business data and personal or sensitive data.
 
-Plugins and Widgets for Social Media: GeoGebra includes social media plugins of following social networks:
-
-* Facebook, which is operated by Facebook.Inc, 1601 Willow Road, Menlo Park, CA 94025, USA
-    
-* Twitter, offered by Twitter, Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA
-    
-* Google +, provided by Google Inc., located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-    
-* YouTube, provided by YouTube LLC, located at 901 Cherry Avenue, San Bruno, CA 94066, USA.
-    
-* OpenStreetMap, an open community, licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF), located at 132 Maney Hill Road, Sutton Coldfield, West Midlands, B72 1JU, UK
-    
-
-For data protection/privacy reasons the mentioned plugins are deactivated by default and must be explicitly activated by you during your use hereof. Before activating these plugins please note the following information regarding the mentioned providers:
-
-Such plugins can recognize a user’s IP address and the page visited on our website and, possibly, store cookies, so that the services offered by GeoGebra work properly. Social media plugins and widgets are hosted either by third party providers or directly by us. Your interactions with these plugins are subject to this privacy policy or the privacy policy of any third party that offers such feature. GeoGebra is not responsible for the use of, or guidelines regarding the use of, personal data by third party providers. Users may recognize the respective plugins, e.g., by the respective logo or other respective characteristic typical for the respective social media-platform on our pages. If a user interacts with the plugins, e. g. by clicking on the Facebook "Like-Button" or entering a comment, while being logged in to such user's Social Media-account on Facebook, Google+, or Twitter, a user links the contents of the GeoGebra pages to his or her respective social media-profile. Thereby, Facebook/Google+/Twitter can associate a user's visit of the GeoGebra page or use of GeoGebra Products with such user's social media-account. GeoGebra as the provider of the GeoGebra Products does not have any knowledge of the content of the transmitted data or its usage by Facebook, Google+, or Twitter. Users can find more information on the issue of data transmission in the privacy policy of the respective social media-platform:
-
-* Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)
-    
-* Google+: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-    
-* Twitter: [https://twitter.com/privacy](https://twitter.com/privacy)
-    
-* YouTube: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-    
-* OpenStreetMap: [https://operations.osmfoundation.org/policies/](https://operations.osmfoundation.org/policies/)
-    
-
 "Automatically Collected" Information: When you use the Website, we may automatically record certain information from your browser by using different types of technology, including standard log files, "clear gifs" or "web beacons." This "automatically collected" information may include your Internet Protocol (IP) address, browser type, internet service provider (ISP), referring or exit pages, click stream data, operating system and the dates and times that you visit the Website. Additionally, we may record certain information regarding your use of features that GeoGebra may make available on the Website, such as the number of resources you have published.
 
-Third Party Web Beacons: GeoGebra doesn't permit any third party advertising in our apps or web services.
-
 Location Information: We may collect and store information about your location if you enable your computer or mobile device to send us location information. You may be able to change the settings on your computer or mobile device to prevent it from providing us with such information.
-
-Information from Other Sources: We may also obtain information, including personally identifiable information, from third parties and sources other than the Website such as an Integrated Service like Facebook or Google+. If we combine or associate information from other sources with personally identifiable information that we collect through the Website, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.
 
 The Way GeoGebra Uses Information
 ---------------------------------
@@ -338,6 +308,8 @@ Your Choices
 ------------
 
 You may, of course, decline to share your personally identifiable information with GeoGebra, in which case GeoGebra will not be able to provide to you some of the features and functionality found on the Website. If you register as a user of the Website, you may update, correct, or delete your profile information and preferences at any time by going to your account settings page at [http://accounts.geogebra.org](http://accounts.geogebra.org/).
+
+In addition, you can manage your consent preferences using the consent manager. You can adjust your settings or withdraw your consent at any time here on the privacy page.
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy and strength of your unique password and account information at all times.
 
@@ -372,6 +344,10 @@ Under applicable law, you have, among others, the right (under the conditions se
     
 * To lodge a complaint with the competent authority.
     
+* To withdraw your given consent for data processing at any time
+    
+
+You can manage your consent preferences for data collection and usage. You can adjust your settings or withdraw your consent at any time by clicking on the “Privacy” link in the footer of our website.
 
 Accessing Services through Other Sites
 --------------------------------------
@@ -395,7 +371,7 @@ The Website is intended for visitors from all countries, given our worldwide com
 Changes and Updates to this Privacy Policy
 ------------------------------------------
 
-We reserve the right to change the privacy policy at our sole discretion. GeoGebra users will be informed of any such change by us posting a new privacy policy on the Website and the effective date of any change of privacy policy will be clearly marked. We will not use any personally identifiable information of yours in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you by email and by means of a notice on our Website.
+We reserve the right to change the privacy policy at our sole discretion. GeoGebra users will be informed of any such change by posting a new privacy policy on the Website and the effective date of any change of privacy policy will be clearly marked. We will not use any personally identifiable information of yours in ways that are materially different from the ones described in this Privacy Policy without also providing notification of such practices and obtaining consent to any such different uses. If we make material changes to this policy, we will notify you by email and by means of a notice on our Website.
 
 Our Contact Information
 -----------------------
