@@ -1,4 +1,4 @@
-[We’re back with Navigate 2024 - now in Orlando, FL! **Register now** to watch the livestream](https://live-events.sailpoint.com/Ngr8rB?rt=HyET4OIHiUaa4NAt_MNj0g)
+[Horizons of Identity Security report reveals higher identity security maturity delivers outsized returns](https://www.sailpoint.com/identity-library/horizons-identity-security-3)
 
 Close
 
