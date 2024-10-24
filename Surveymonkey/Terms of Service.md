@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkeyロゴ](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
+![SurveyMonkey Logosu](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
 
-* [概要](https://www.surveymonkey.com/mp/legal/)
+* [Genel Görünüm](https://www.surveymonkey.com/mp/legal/)
     
-* [利用規約](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Kullanım Koşulları](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [適用サービス契約](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Ana Hizmet Sözleşmesi](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [各サービスの条件](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Hizmete Özel Koşullar](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [プライバシーの基本](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Gizliliğe ilişkin temel noktalar](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [プライバシーに関するお知らせ](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Gizlilik Bildirimi](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Çerezler](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [アンケートページで使用されるCookie](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Anket Sayfalarında Kullanılan Çerezler](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [認められる使用のポリシー](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Kabul Edilebilir Kullanım İlkesi](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [セキュリティ](https://www.surveymonkey.com/mp/legal/security/)
+* [Güvenlik](https://www.surveymonkey.com/mp/legal/security/)
     
-* [一般](https://www.surveymonkey.com/mp/legal/general/)
+* [Genel](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-ご存じでしたか？
+Biliyor muydunuz?
 
-63%の人が、製品/サービスを利用する際にその会社のプライバシーとセキュリティの実績を考慮しています。
+İnsanların %63'ü, bir şirketin ürünlerini veya hizmetlerini kullanmaya başlamadan önce o şirketin gizlilik ve güvenlik geçmişini dikkate alır.
 
-![リーガルサイドバー統計](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
+![Kenar çubuğundaki hukuki istatistik görseli](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
