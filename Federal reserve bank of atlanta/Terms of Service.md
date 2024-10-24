@@ -77,7 +77,7 @@ Menutoggle menu
         * [_Economy Matters_](https://www.atlantafed.org/economy-matters)
     * [Research Centers](https://www.atlantafed.org/research/centers)
         * [Americas Center®](https://www.atlantafed.org/americascenter)
-        * [Atlanta Research Data Center](https://www.atlantafed.org/atlanta-research-data-center)
+        * [Atlanta Research Data Center](https://www.atlantafed.org/chcs)
         * [Center for Financial Innovation and Stability (CenFIS)](https://www.atlantafed.org/cenfis)
         * [Center for Housing & Policy](https://www.atlantafed.org/center-for-housing-and-policy)
         * [Center for Human Capital Studies](https://www.atlantafed.org/chcs)
@@ -157,7 +157,7 @@ Menutoggle menu
         * [Infographic Posters](https://www.atlantafed.org/education/teach/infographic-posters)
         * [Lessons and Activities](https://www.atlantafed.org/education/teach/lessons-and-activities)
         * [Multimedia](https://www.atlantafed.org/education/teach/multimedia)
-    * [Learn](https://www.atlantafed.org/education/learn)
+    * [Learn](https://www.atlantafed.org/education/visit/atlanta)
     * [Visit](https://www.atlantafed.org/education/visit)
         * [Atlanta](https://www.atlantafed.org/education/visit/atlanta)
         * [Jacksonville](https://www.atlantafed.org/education/visit/jacksonville)
@@ -215,7 +215,7 @@ Menutoggle menu
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
         * [Atlanta Fed History](https://www.atlantafed.org/about/publications/atlanta-fed-history)
         * [Federal Reserve Structure & Functions](https://www.atlantafed.org/about/publications/fed-structure-and-functions)
-    * [Visit](https://www.atlantafed.org/about/visit)
+    * [Visit](https://www.atlantafed.org/about/careers/benefits)
 
 [Disclaimers and Terms of Use](https://www.atlantafed.org/disclaimers-and-terms-of-use)
 =======================================================================================
@@ -274,7 +274,7 @@ Updated June 16, 2020
 
 ##### Send a message
 
- Your name  Your email address  Message    
+ Your name  Your email address  Message      
 
 [![](/-/media/Images/gallery/people-named/federal-reserve-atlanta/employees/003-footer-eagle/gallery.jpg)
 
