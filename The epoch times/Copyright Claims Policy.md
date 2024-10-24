@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Boeing Workers Reject Latest Contract Offer](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744382-Boeing-strike-GettyImages-2177902765-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
+* [Two Lawmakers Attempt the Impossible: Saving Social Security](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
+    
+    1hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    
+    [![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746758-Social-Security-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
+* [American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
+    
+    2hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/uploads/2024/08/02/id5698901-Passenger_Sentenced_24215672763743-205x123.jpg.webp)](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
+* [Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744163-GettyImages-2178247386-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
+* [ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://www.theepochtimes.com/us/ice-dropped-plans-to-release-immigrants-into-tennessee-after-states-pushback-ag-says-5746523)
+    
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://img.theepochtimes.com/assets/uploads/2024/07/04/id5679965-Screen-Shot-2024-07-03-at-8.44.21-PM-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-dropped-plans-to-release-immigrants-into-tennessee-after-states-pushback-ag-says-5746523)
+* [RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://www.theepochtimes.com/us/rfk-jr-asks-us-supreme-court-to-take-his-name-off-wisconsin-ballot-5746709)
+    
+    5hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5721908-09102024-DSC08342-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-asks-us-supreme-court-to-take-his-name-off-wisconsin-ballot-5746709)
+* [Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://www.theepochtimes.com/article/day-in-photos-an-unexplained-emergency-30-foot-poppies-and-switching-on-supercomputer-5746372)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746763-GettyImages-2180517694-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-an-unexplained-emergency-30-foot-poppies-and-switching-on-supercomputer-5746372)
 * [US Sanctions Chinese, Pakistan Companies Over Military Links](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
     
-    NEW By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    6hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
     [![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/uploads/2020/09/29/GettyImages-1228664727-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
+    ![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746841-GettyImages-1228664727KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
 * [New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
     
-    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746659-Joyce-Craig-Kelly-Ayotte-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
+    ![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746838-Joyce-Craig-Kelly-AyotteKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
 * [Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
     
-    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    7hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
     [![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607323-Boeing-HQ-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
-* [US Manufacturing Slump Continues Amid Economic Uncertainty](https://www.theepochtimes.com/business/us-manufacturing-slump-continues-amid-economic-uncertainty-5746526)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![US Manufacturing Slump Continues Amid Economic Uncertainty](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Manufacturing Slump Continues Amid Economic Uncertainty](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746664-GettyImages-1810375379-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-manufacturing-slump-continues-amid-economic-uncertainty-5746526)
-* [Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://www.theepochtimes.com/health/the-hidden-health-risks-of-online-grocery-shopping-the-food-information-gap-5745617)
-    
-    2hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Online Grocery Platforms May Lack Crucial Food Labeling Information, Posing Health Risks](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746557-shutterstock_1668309730_online_grocery_shopping_vegetable_fruit-205x123.jpg.webp)](https://www.theepochtimes.com/health/the-hidden-health-risks-of-online-grocery-shopping-the-food-information-gap-5745617)
-* [US Home Prices Rise by ‘Fastest Pace’ Since April](https://www.theepochtimes.com/us/us-home-prices-rise-by-fastest-pace-since-april-5746536)
-    
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Home Prices Rise by ‘Fastest Pace’ Since April](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Home Prices Rise by ‘Fastest Pace’ Since April](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722547-GettyImages-2166343943-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-home-prices-rise-by-fastest-pace-since-april-5746536)
-* [Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://www.theepochtimes.com/world/kyiv-might-consider-peace-talks-if-russia-halts-strikes-on-infrastructure-zelenskyy-5746529)
-    
-    3hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
-    
-    [![Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Kyiv Might Consider Peace Talks if Russia Halts Strikes on Infrastructure: Zelenskyy](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730125-GettyImages-2174425113-205x123.jpg.webp)](https://www.theepochtimes.com/world/kyiv-might-consider-peace-talks-if-russia-halts-strikes-on-infrastructure-zelenskyy-5746529)
-* [Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://www.theepochtimes.com/health/multi-state-e-coli-outbreak-linked-to-mcdonalds-what-you-need-to-know-5746472)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Multi-State E. Coli Outbreak Linked to McDonald’s: What You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746310-1.download-195-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/multi-state-e-coli-outbreak-linked-to-mcdonalds-what-you-need-to-know-5746472)
-* [Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://www.theepochtimes.com/us/candidates-spar-over-taxes-border-middle-east-in-new-jersey-us-senate-debate-5746398)
-    
-    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Candidates Spar Over Taxes, Border, Middle East in New Jersey US Senate Debate](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746631-FotoJetKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/candidates-spar-over-taxes-border-middle-east-in-new-jersey-us-senate-debate-5746398)
-* [New IRS Unit Begins Targeting Pass-Through Businesses](https://www.theepochtimes.com/us/new-irs-unit-begins-targeting-pass-through-businesses-5746408)
-    
-    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![New IRS Unit Begins Targeting Pass-Through Businesses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New IRS Unit Begins Targeting Pass-Through Businesses](https://img.theepochtimes.com/assets/uploads/2024/01/05/id5559413-01042024-DSC06056-IRS-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-irs-unit-begins-targeting-pass-through-businesses-5746408)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
