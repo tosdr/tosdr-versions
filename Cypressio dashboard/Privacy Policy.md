@@ -23,8 +23,10 @@
     * [Visual Reviews](https://cypress.io/cloud#visual_reviews)
     * [Test Analytics](https://cypress.io/cloud#test_analytics)
     * [Integrated Workflows](https://cypress.io/cloud#integrated_workflows)
-    * [UI Coverage](https://cypress.io/ui-coverage)
-    * [Accessibility](https://cypress.io/accessibility)
+    
+    * * *
+    
+    [UI Coverage Identify testing gaps instantly](https://cypress.io/ui-coverage)[Accessibility Automated checks on every test](https://cypress.io/accessibility)
     
 * [Docs](https://on.cypress.io/)
     
