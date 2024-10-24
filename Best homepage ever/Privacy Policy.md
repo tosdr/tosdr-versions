@@ -1,4 +1,4 @@
-[![Best Homepage Ever logo](https://besthomepageever.com/assets/images/logo/bhe_homepage.png)](https://besthomepageever.com/ "Return to Homepage")
+[![Best Homepage Ever logo](https://besthomepageever.com/assets/images/logo/bhe_homepage.png)](https://besthomepageever.com/ "Return to Homepage") 
 
 * [Disclosures](https://besthomepageever.com/disclosures/)
 * [Terms](https://besthomepageever.com/terms/)
