@@ -1,5 +1,3 @@
-[Breaking: NEW AJC POLL | Most Georgia voters think climate change had some effect on recent hurricanes](https://www.ajc.com/politics/georgias-had-a-rough-hurricane-season-heres-how-voters-view-the-storms/WFGQ2E3IWJF6FAOXOQCISPTTMU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-the-stitch-and-other-audacious-ideas/SKM47ZUYYFHP7KPR63AZHFMGUI/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend/KMZNN75YKVAXPPRKO45GAVRQBE/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
