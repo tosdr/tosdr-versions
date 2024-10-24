@@ -97,8 +97,8 @@ Trending Posts
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
+* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 
 Close
@@ -161,8 +161,8 @@ Trending Posts
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
+* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 
 [Skip to content](#main)
@@ -360,8 +360,8 @@ Trending Posts
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
+* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 * [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
