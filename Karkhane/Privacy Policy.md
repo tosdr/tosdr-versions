@@ -31,30 +31,30 @@ Privacy Policy
 * [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
-* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
-* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/tabas_1-2-95x65.jpg)](https://karkhane.org/5912/death-of-tabas-miners/)[کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/)
 * [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/tabas_1-2-95x65.jpg)](https://karkhane.org/5912/death-of-tabas-miners/)[کشتار معدنچیان طبس یا حادثه‌ای اتفاقی؟!](https://karkhane.org/5912/death-of-tabas-miners/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
 * [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
-* [![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](https://karkhane.org/app/uploads/2020/11/bazxani-e-haft-tappe-99-95x65.jpg)](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)[بازخوانی هفت‌تپه‌ی نودونُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال ۹۹](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)
-* [![حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
+* [![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](https://karkhane.org/app/uploads/2022/06/hal-o-ruz-e-kargaran-e-lastiksazi-dar-iran-95x65.jpg)](https://karkhane.org/4068/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%b3%d8%a7%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)[گروه صنعتی بارز:‌ حال و روزِ کارگران کارخانه‌های لاستیک‌سازی در ایران](https://karkhane.org/4068/%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d8%b3%d8%aa%db%8c%da%a9-%d8%b3%d8%a7%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)
+    ![چند نمودار ساده درباره‌ی دستمزد - تصویر ۱](https://karkhane.org/app/uploads/2020/06/čand-nemudār-e-sāde-darbāre-ye-dastmozd-1-95x65.png)](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)[چند نمودار ساده درباره‌ی دستمزد](https://karkhane.org/1806/%da%86%d9%86%d8%af-%d9%86%d9%85%d9%88%d8%af%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%d8%af%d8%b3%d8%aa%d9%85%d8%b2%d8%af/)
+* [![مبارزه بوکس مایک تایسون و هالیفیلد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![مبارزه بوکس مایک تایسون و هالیفیلد](https://karkhane.org/app/uploads/2020/06/jang-e-glādiyātorhā-bā-pušeš-e-varzeš-e-herfei-95x65.jpg)](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)[جنگ گلادیاتورها با پوشش ورزش حرفه‌ای](https://karkhane.org/1931/%d8%ac%d9%86%da%af-%da%af%d9%84%d8%a7%d8%af%db%8c%d8%a7%d8%aa%d9%88%d8%b1%d9%87%d8%a7-%d8%a8%d8%a7-%d9%be%d9%88%d8%b4%d8%b4-%d9%88%d8%b1%d8%b2%d8%b4-%d8%ad%d8%b1%d9%81%d9%87%d8%a7%db%8c/)
+* [![داستان «پلتفرم»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![داستان «پلتفرم»](https://karkhane.org/app/uploads/2023/02/platform-dasthaye-be-ham-peyvaste-6-1-95x65.jpg)](https://karkhane.org/4789/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d9%be%d9%84%d8%aa%d9%81%d8%b1%d9%85/)[داستان «پلتفرم»](https://karkhane.org/4789/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%d9%be%d9%84%d8%aa%d9%81%d8%b1%d9%85/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
