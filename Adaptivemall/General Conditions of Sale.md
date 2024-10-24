@@ -410,13 +410,6 @@ Return Policy
 
 * * *
 
-**For Orders purchased in the USA using Bread Financing:**
-
-1. Your first payment to Bread is due 30 days from the date your product is shipped.
-2. If you decide to return a product any interest you may have paid to Bread may not be refundable if the product is received past Bread’s 30 day window.
-
-* * *
-
 **If you have any questions, please feel free to either email us at [info@adaptivemall.com](mailto:info@adaptivemall.com) or call us at 1-800-371-2778 or 1-315-429-7112 to reach Customer Service. We are here to help!**
 
 THERAPIST SIZE HELP | Our on-staff therapists are happy to help you find the right product in the right size.
