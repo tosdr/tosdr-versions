@@ -1,8 +1,8 @@
-![](//bat.bing.com/action/0?ti=5141129&Ver=2) 
+![](//bat.bing.com/action/0?ti=5141129&Ver=2)  
 
 ![](https://www.facebook.com/tr?id=960323284059077&ev=PageView&noscript=1)
 
-   
+      
 
 Toggle navigation [![logo](imagesMSM/logo-small.png)](https://www.makesurveymoney.com/default.asp)
 
