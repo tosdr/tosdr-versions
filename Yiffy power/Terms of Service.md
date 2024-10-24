@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 808 1
+0 824 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/el-and-vulcane-asterigos-curse-of-the-stars-and-etc-created-by-askart/)
+[](https://yiff-party.com/yiff/ralsei-undertale-series-and-etc-created-by-sheepsheepbeep/)
 
-[el and vulcane (asterigos: curse of the stars and etc) created by askart](https://yiff-party.com/yiff/el-and-vulcane-asterigos-curse-of-the-stars-and-etc-created-by-askart/)
+[ralsei (undertale (series) and etc) created by sheepsheepbeep](https://yiff-party.com/yiff/ralsei-undertale-series-and-etc-created-by-sheepsheepbeep/)
 
-0 3 0
+0 2 0
 
 October 24, 2024
 
-[](https://yiff-party.com/yiff/jensen-ryba-and-zarii-created-by-neoxyden/)
+[](https://yiff-party.com/yiff/digi-and-eti-bandai-namco-and-etc-created-by-utopianvee/)
 
-[jensen ryba and zarii created by neoxyden](https://yiff-party.com/yiff/jensen-ryba-and-zarii-created-by-neoxyden/)
+[digi and eti (bandai namco and etc) created by utopianvee](https://yiff-party.com/yiff/digi-and-eti-bandai-namco-and-etc-created-by-utopianvee/)
 
-0 160 0
+0 99 0
 
 September 24, 2024
 
-[](https://yiff-party.com/yiff/loona-directed-by-thalaria/)
+[](https://yiff-party.com/yiff/cantio-fekkri-talot-mikhail-and-quinten-created-by-fek/)
 
-[loona directed by thalaria!!](https://yiff-party.com/yiff/loona-directed-by-thalaria/)
+[cantio, fekkri talot, mikhail, and quinten created by fek](https://yiff-party.com/yiff/cantio-fekkri-talot-mikhail-and-quinten-created-by-fek/)
 
-0 469 0
+0 79 0
 
 September 24, 2024
 
