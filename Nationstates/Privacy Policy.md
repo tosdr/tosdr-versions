@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Create a word based on last two letters (423)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (423 posts)")
-* [Write a movie/show based in AN's sett… (48)](https://forum.nationstates.net/viewtopic.php?t=555728&f=25&view=unread#unread ""Write a movie/show based in AN's settings" (48 posts)")
-* [UK Politics Thread: Conservative Lead… (11,741)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Conservative Leadership Election" (11,741 posts)")
-* [AI Art, Chatbots, and the morality of… (85)](https://forum.nationstates.net/viewtopic.php?t=557028&f=20&view=unread#unread ""AI Art, Chatbots, and the morality of their use." (85 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (12,094)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (12,094 posts)")
+* [The country game(a roleplay) (8,079)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,079 posts)")
+* [Womanly things that men do these days… (327)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (327 posts)")
+* [American Politics: Remember, Remember… (3,086)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (3,086 posts)")
+* [10000 Monkey Genocide III (4,225)](https://forum.nationstates.net/viewtopic.php?t=520528&f=25&view=unread#unread ""10000 Monkey Genocide III" (4,225 posts)")
+* [Elephant Chess Cup X Everything Thread (87)](https://forum.nationstates.net/viewtopic.php?t=556450&f=7&view=unread#unread ""Elephant Chess Cup X Everything Thread" (87 posts)")
 
 Advertisement
 
