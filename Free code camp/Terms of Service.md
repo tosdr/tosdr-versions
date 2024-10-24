@@ -182,28 +182,6 @@ The company last updated these terms on May 25, 2018, and may update these terms
 
 Once you get notice of an update to these terms, you must agree to the new terms in order to keep using the website.
 
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
 * * *
 
 If you read this far, thank the author to show them you care. Say Thanks
