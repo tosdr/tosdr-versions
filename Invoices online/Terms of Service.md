@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=63766745)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=50330086)  
+AMS Ambu Medical Supplies
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=47456871)  
-Little Nutty Professors
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=58012740)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=73203788)  
-Lion Software Develepment
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=55789749)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=126352096)  
-Echo Recording Studio cc
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=27158073)  
+Nilbet T/A Waterman
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=88589338)  
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=55242724)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=140809901)  
 LEONARD
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=205122223)  
-UniTech Solutions Pty Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=26549649)  
+Peter Salvage Pty Ltd
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=65668445)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=29628309)  
+West Coast Horse Trails
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=98387885)  
-AFS Electrical
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=139936948)  
+Eruca (PTY)Ltd
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=84302040)  
-Turnkey Innovations
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=141320599)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=67152179)  
-CLEVER STUDENTS
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=32792765)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=7144607)  
-Multi CNC Solutions CC
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=4664309)  
+Entidee Enterprise PTY (ltd)
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=68511872)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=4071750)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=160223448)  
-Wiselink Broadband Pty Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=70788796)  
+WIP Digital Solutions
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=199514482)  
-Myfinance-Online
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=a1e1e7980b0e5c96fd393ca0da2922c2842e3628bc0c111cda93cab7c46cb0a1&c=106718063)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=162704409)  
+Import Maaw
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
