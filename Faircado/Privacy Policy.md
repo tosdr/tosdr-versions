@@ -190,31 +190,3 @@ Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
 [Linkedin](https://www.linkedin.com/company/faircado/)
 
 [Youtube](https://www.youtube.com/channel/UCCPgRjxcfQ4LPla9yViBZ5w)
-
-Wir brauchen deine Zustimmung
-
-Wir benötigen deine Zustimmung, um Daten mit unseren Werbepartnern auszutauschen und Cookies zur Analyse, Verbesserung und Finanzierung unserer Website zu verwenden. Mit deiner Zustimmung hilfst du uns, faircado.de für unsere Nutzer zu verbessern. Du kannst deine Zustimmung [hier](https://faircado.de/datenschutz/) widerrufen.
-
-Functional  Functional Immer aktiv
-
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-
-Preferences  Preferences
-
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-
-Statistics  Statistics
-
-The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-
-Marketing  Marketing
-
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-
-[Optionen verwalten](#) [Dienste verwalten](#) [Verwalten von {vendor\_count}-Lieferanten](#) [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
-
-Alles akzeptieren Alles ablehnen Selbst auswählen Save preferences [Selbst auswählen](#)
-
-[{title}](#) [{title}](#) [{title}](#)
-
-Zustimmung verwalten
