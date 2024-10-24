@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Bully Project](/wp-content/thumbnails/7371-100x70.jpeg?x53432)
+* [![Inside The Space Shuttle](/wp-content/thumbnails/6458-100x70.png?x53432)
     
-    The Bully Project
+    Inside The Space Shuttle
     
-    The Bully Project is a documentary film that covers events during the 2009–2010 school year and follows students and their families from Texas, Mississippi, Georgia, Iowa and Oklahoma.The film al](https://documentaryheaven.com/the-bully-project/ "The Bully Project")
-* [![Searching for Spitman](/wp-content/thumbnails/10034-100x70.png?x53432)
+    This documentary takes the viewer inside NASA’s space shuttle for a close-up look at the most advanced flying machine ever built. Actor Gary Sinise narrates the history of the space shuttle’s developm](https://documentaryheaven.com/inside-the-space-shuttle/ "Inside The Space Shuttle")
+* [![Bill Gates on energy: Innovating to zero!](/wp-content/thumbnails/4291-100x70.jpg?x53432)
     
-    Searching for Spitman
+    Bill Gates on energy: Innovating to zero!
     
-    The tale behind a somewhat notorious character from around the West London area known only as "Spitman" is the thing urban legends are made of, a sort of local boogie man if you will. Spitman is](https://documentaryheaven.com/searching-for-spitman/ "Searching for Spitman")
-* [![EP2/2 Louis Theroux: Miami Mega Jail](/wp-content/thumbnails/5805-100x70.jpg?x53432)
+    At TED2010, Bill Gates unveils his vision for the world's energy future, describing the need for "miracles" to avoid planetary catastrophe and explaining why he's backing a dramatically different ty](https://documentaryheaven.com/bill-gates-on-energy-innovating-to-zero/ "Bill Gates on energy: Innovating to zero!")
+* [![Oliver The Chimp](/wp-content/thumbnails/3034-100x70.png?x53432)
     
-    EP2/2 Louis Theroux: Miami Mega Jail
+    Oliver The Chimp
     
-    Louis Theroux concludes his exploration into Miami Mega-jail, one of America's largest and most violent of jails, a holding pen for almost 6000 un-convicted inmates.Louis goes deeper into the jail sys](https://documentaryheaven.com/louis-theroux-miami-mega-jail-2/ "EP2/2 Louis Theroux: Miami Mega Jail")
-* [![Israel: The Enemy Within?](/wp-content/thumbnails/6694-100x70.jpg?x53432)
+    In January 1976 news broke of a phenomenon. Pictures showed an upright bald ape called Oliver, who appeared to be a cross between a human and a chimpanzee; What scientists refer to as a humanzee.O](https://documentaryheaven.com/oliver-the-chimp/ "Oliver The Chimp")
+* [![Russell Brand: End the Drugs War](/wp-content/thumbnails/9472-100x70.jpg?x53432)
     
-    Israel: The Enemy Within?
+    Russell Brand: End the Drugs War
     
-    Israel has always felt under siege, but its internal problems could be more damaging than any external threat. The rift is between the secular and the ultra-Orthodox, who believe any compromise with A](https://documentaryheaven.com/israel-the-enemy-within/ "Israel: The Enemy Within?")
-* [![Think Beyond Surgery](/wp-content/thumbnails/6672-100x70.gif?x53432)
+    Comedian and Actor, Russell Brand sets off on a personal journey in order to see for himself how the "war on drugs" in the UK is being carried out. Brand an ex-addict himself gets talking to those sti](https://documentaryheaven.com/russell-brand-end-drugs-war/ "Russell Brand: End the Drugs War")
+* [![The Pink Floyd Story: Which One’s Pink?](/wp-content/thumbnails/9386-100x70.jpeg?x53432)
     
-    Think Beyond Surgery
+    The Pink Floyd Story: Which One’s Pink?
     
-    With Advanced medical technology A scar less painless Heart treatment is possible. Most imp prevention is better than cure. You can prevent 80% heart attacks and bypass surgeries. A breakthrough in me](https://documentaryheaven.com/think-beyond-surgery/ "Think Beyond Surgery")
+    In 2005 for the first time in 25 years the members of Pink Floyd got back together to play a live show for Live Aid, for a precious 20 minutes they were once again the legendary Pink Floyd, a band tha](https://documentaryheaven.com/pink-floyd-story-which-ones-pink/ "The Pink Floyd Story: Which One’s Pink?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
