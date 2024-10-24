@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/een-geheime-wereldregering-is-het-zeker-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/gewoon-even-helpen-en-verbinden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
