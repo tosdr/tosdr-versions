@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Elon Musk, on the left; embraced by Donald Trump, on the right.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/AP24279764658084-432x243.jpg)](https://lawandcrime.com/high-profile/elon-musks-pro-trump-pac-has-reportedly-been-warned-by-the-feds-over-1-million-lottery-prize-for-registered-voters/)
+1. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Moody-Routh-and-Garland-432x243.jpg)](https://lawandcrime.com/high-profile/surprised-florida-ag-sues-merrick-garland-to-vindicate-states-sovereign-interest-in-investigating-attempted-trump-assassination-suspect-while-federal-case-is-ongoing/)
     
-    ### [Elon Musk's pro-Trump PAC has reportedly been warned by the feds over $1 million lottery prize for registered voters](https://lawandcrime.com/high-profile/elon-musks-pro-trump-pac-has-reportedly-been-warned-by-the-feds-over-1-million-lottery-prize-for-registered-voters/)
+    ### ['Surprised' Florida AG sues Merrick Garland to 'vindicate' state's 'sovereign interest' in investigating attempted Trump assassination suspect while federal case is ongoing](https://lawandcrime.com/high-profile/surprised-florida-ag-sues-merrick-garland-to-vindicate-states-sovereign-interest-in-investigating-attempted-trump-assassination-suspect-while-federal-case-is-ongoing/)
     
-2. [![U.S. Army Sgt. Sarah Roque](https://am24.mediaite.com/lc/cnt/uploads/2024/10/US.-Army-Sgt.-Sarah-Roque-432x243.jpg)](https://lawandcrime.com/crime/tremendous-void-missing-army-soldier-found-dead-after-mysteriously-disappearing-from-base/)
+2. [![Inset: Francisco Ortiz appearing in court on Wednesday (WFXT). Background: The building where Ortiz lived with the victim (WBTS).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfadfasdf-432x243.jpg)](https://lawandcrime.com/crime/dad-charged-after-toddler-dies-covered-in-feces-with-injuries-indicating-a-2-story-fall/)
     
-    ### ['Tremendous void': Missing Army soldier found dead after mysteriously disappearing from base](https://lawandcrime.com/crime/tremendous-void-missing-army-soldier-found-dead-after-mysteriously-disappearing-from-base/)
+    ### [Dad charged after toddler dies covered in feces with injuries indicating a 2-story fall](https://lawandcrime.com/crime/dad-charged-after-toddler-dies-covered-in-feces-with-injuries-indicating-a-2-story-fall/)
     
-3. [![Alexandria Griste (Oxford, Mississippi Police Dept.)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/adsfadfasdfadf-432x243.jpg)](https://lawandcrime.com/crime/it-went-from-a-heart-in-a-text-message-to-a-bullet-in-his-heart-man-bringing-home-mcdonalds-killed-by-girlfriend-who-warned-hed-be-dead-if-he-returned/)
+3. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/lawsuit/a-bridge-too-far-after-cnn-adds-amber-heard-lawyer-judge-rules-in-favor-of-navy-veteran-as-major-defamation-case-careens-towards-trial-on-jan-6/)
     
-    ### ['It went from a heart in a text message to a bullet in his heart': Man bringing home McDonald's killed by girlfriend who warned he'd be 'dead' if he returned](https://lawandcrime.com/crime/it-went-from-a-heart-in-a-text-message-to-a-bullet-in-his-heart-man-bringing-home-mcdonalds-killed-by-girlfriend-who-warned-hed-be-dead-if-he-returned/)
+    ### ['A bridge too far': After CNN adds Amber Heard lawyer, judge rules in favor of Navy veteran as major defamation case careens towards trial on Jan. 6](https://lawandcrime.com/lawsuit/a-bridge-too-far-after-cnn-adds-amber-heard-lawyer-judge-rules-in-favor-of-navy-veteran-as-major-defamation-case-careens-towards-trial-on-jan-6/)
     
-4. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
+4. [![Inset: Addison Jenkins (Boyd Funeral Home). Background: Boyd Funeral Home (Google Street View).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/boyd-1-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
+    
+    ### [Funeral home shows grieving family wrong body in casket dressed in their father's suit, then insists it's really him: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
+    
+5. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
     ### [Judge Cannon's Mar-a-Lago dismissal apparently has Trump eyeing her to replace Jack Smith's boss — and an accused would-be assassin noticed](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
-    
-5. [![Adiah Roberson and Daniel Shrewsbury](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Adiah-Roberson-and-Daniel-Shrewsbury-432x243.jpg)](https://lawandcrime.com/crime/teen-girl-murdered-sonic-drive-in-manager-after-she-tried-to-use-counterfeit-money-to-pay-for-food-cops/)
-    
-    ### [Teen girl murdered Sonic Drive-In manager after she tried to use counterfeit money to pay for food: Cops](https://lawandcrime.com/crime/teen-girl-murdered-sonic-drive-in-manager-after-she-tried-to-use-counterfeit-money-to-pay-for-food-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
