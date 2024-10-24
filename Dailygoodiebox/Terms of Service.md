@@ -230,7 +230,7 @@ Choice of Law and Venue. This Agreement, including without limitation this Agree
 
 Copyright © 2024
 
-[![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-facebook.svg)](https://www.facebook.com/DailyGoodieBox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-instagram.svg)](https://www.instagram.com/thedailygoodiebox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-twitter.svg)](https://twitter.com/DailyGoodieBox)
+[![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-facebook.svg)](https://www.facebook.com/DailyGoodieBox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-instagram.svg)](https://www.instagram.com/thedailygoodiebox/) [![DailyGoodieBox Facebook](https://luxe-assets.com/dgb/images/icon-twitter.svg)](https://twitter.com/DailyGoodieBox) 
 
 * [Who We Are](https://luxeads.com/)
 * [Box Reviews](https://dailygoodiebox.com/reviews/box)
