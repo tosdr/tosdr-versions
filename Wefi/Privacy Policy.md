@@ -12,7 +12,7 @@ Back [Networks](https://www.wefi.com/networks) [Venue Analytics](https://www.wef
 
 Back [Blog](https://www.wefi.com/blog) [Events](https://www.wefi.com/events)
 
-[](https://www.facebook.com/weficonnect)[](https://twitter.com/wefi)[](https://www.linkedin.com/company/wefi)
+[](https://www.facebook.com/weficonnect)[](https://www.linkedin.com/company/wefi)[](https://twitter.com/wefi)
 
 [Home](https://www.wefi.com/) [Solutions](https://www.wefi.com/solutions) [Wi-Fi Offload](https://www.wefi.com/wifi-offload) [Sports Venues](https://www.wefi.com/sports-venues) [Enterprise](https://www.wefi.com/enterprise) [IoT Connected Cars](https://www.wefi.com/connected-cars) [Location Data](https://www.wefi.com/location-data) [Amenity Wi-Fi Network](https://www.wefi.com/amenity-network) [SDKs](https://www.wefi.com/sdks) [Connectivity & Offload](https://www.wefi.com/connectivity-offload) [Data Collection](https://www.wefi.com/data-collection) [IoT](https://www.wefi.com/iot) [Find Wifi](https://www.wefi.com/find-wifi) [Analytics](https://www.wefi.com/analytics-1) [Networks](https://www.wefi.com/networks) [Venue Analytics](https://www.wefi.com/venue-analytics) [News](https://www.wefi.com/news) [Blog](https://www.wefi.com/blog) [Events](https://www.wefi.com/events)
 
@@ -122,8 +122,10 @@ In addition to other information described in this policy, we may collect and sh
 
 [**GDPR**](https://www.wefi.com/gdpr)
 
+[**Find Wifi Application Terms of Service**](https://www.wefi.com/wifi-terms-of-service)
+
 [**Terms of Use**](https://www.wefi.com/terms-of-use)
 
-[](https://www.facebook.com/weficonnect)[](https://twitter.com/wefi)[](https://www.linkedin.com/company/wefi)
+[](https://www.facebook.com/weficonnect)[](https://www.linkedin.com/company/wefi)[](https://twitter.com/wefi)
 
-© 2020 Wefi, LLC. All Rights Reserved.
+© 2024 Wefi, LLC. All Rights Reserved.
