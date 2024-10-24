@@ -52,18 +52,17 @@ Menu
     
 3. Categories
     
-    1. [Baby & Toddler](https://www.kiwico.com/us/store/cp/baby-and-toddler)
-    2. [Pretend Play](https://www.kiwico.com/us/store/cp/pretend-play-toys)
-    3. [Science & Engineering](https://www.kiwico.com/us/store/cp/science-engineering)
-    4. [Art & Design](https://www.kiwico.com/us/store/cp/art-kits)
-    5. [Geography & Culture](https://www.kiwico.com/world)
-    6. [Halloween](https://www.kiwico.com/us/store/cp/halloween)
-    7. [Holiday](https://www.kiwico.com/us/store/cp/kiwico-holiday-projects)
-    8. [Shop All](https://www.kiwico.com/us/store/cp/all)
-    9. [New Arrivals](https://www.kiwico.com/us/store/cp/new-arrivals)
-    10. [Best Sellers](https://www.kiwico.com/us/store/cp/best-sellers)
+    1. [Shop All](https://www.kiwico.com/us/store/cp/all)
+    2. [Advent Calendars](https://www.kiwico.com/advent)
+    3. [Holiday](https://www.kiwico.com/us/store/cp/kiwico-holiday-projects)
+    4. [Best Sellers](https://www.kiwico.com/us/store/cp/best-sellers)
+    5. [New Arrivals](https://www.kiwico.com/us/store/cp/new-arrivals)
+    6. [Sale](https://www.kiwico.com/us/store/cp/sale)
+    7. [Science & Engineering](https://www.kiwico.com/us/store/cp/science-engineering)
+    8. [Art & Design](https://www.kiwico.com/us/store/cp/art-kits)
+    9. [Pretend Play](https://www.kiwico.com/us/store/cp/pretend-play-toys)
+    10. [Baby & Toddler](https://www.kiwico.com/us/store/cp/baby-and-toddler)
     11. [Books](https://www.kiwico.com/us/store/cp/book-gift-sets)
-    12. [Sale](https://www.kiwico.com/us/store/cp/sale)
     
 4. Gifting
     
@@ -573,7 +572,7 @@ KiwiCo Clubs
 Gifting
 
 1. [Gift guide](https://www.kiwico.com/gift-guide)
-2. [Buy a gift card](https://www.kiwico.com/gifting#more-on-gifting?m=gift-card)
+2. [Buy a gift card](https://www.kiwico.com/gift-card)
 3. [Redeem a gift card](https://www.kiwico.com/redeem)
 4. [Birthdays](https://www.kiwico.com/birthday)
 5. [Baby registry](https://www.kiwico.com/baby-registry)
