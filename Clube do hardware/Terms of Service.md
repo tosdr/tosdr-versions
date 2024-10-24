@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1388497615_menu)
+ [Compartilhar](#elShareItem_72230735_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_197293236_menu)
+ [Compartilhar](#elShareItem_1206365771_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Gustavo45](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254966.thumb.png.aab74b39fb5e8879470a7710d7fcd599.png)](https://www.clubedohardware.com.br/profile/1254966-gustavo45/ "Ir ao perfil de Gustavo45")
+    * [![CarlosJCN](https://www.clubedohardware.com.br/uploads/members/profile/photo-376265.gif)](https://www.clubedohardware.com.br/profile/376265-carlosjcn/ "Ir ao perfil de CarlosJCN")
+        
+        1
+        
+        [BIOS placa-mãe ASUS A88xm-A/USB 3.1](https://www.clubedohardware.com.br/forums/topic/1700464-bios-placa-m%C3%A3e-asus-a88xm-ausb-31/?do=getNewComment "BIOS placa-mãe ASUS A88xm-A/USB 3.1")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [CarlosJCN](https://www.clubedohardware.com.br/profile/376265-carlosjcn/ "Ir ao perfil de CarlosJCN")  
+        29 minutos atrás
+        
+    * [![Mathes](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/blessed_by_mxlk_de91fqp-350t.thumb.jpg.ce964bf9c242a3b13e742bc800e2ae90.jpg)](https://www.clubedohardware.com.br/profile/889126-mathes/ "Ir ao perfil de Mathes")
+        
+        1
+        
+        [Periférico energizado após desligamento da máquina](https://www.clubedohardware.com.br/forums/topic/1700463-perif%C3%A9rico-energizado-ap%C3%B3s-desligamento-da-m%C3%A1quina/?do=getNewComment "Periférico energizado após desligamento da máquina")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Mathes](https://www.clubedohardware.com.br/profile/889126-mathes/ "Ir ao perfil de Mathes")  
+        37 minutos atrás
+        
+    * [![Patrick Aurelio](https://www.clubedohardware.com.br/uploads/members/monthly_2022_01/imported-photo-1170610.thumb.png.9fae8a0dab5b4b40ea5a7bc7198e4c28.png)](https://www.clubedohardware.com.br/profile/1170610-patrick-aurelio/ "Ir ao perfil de Patrick Aurelio")
         
         0
+        
+        [Cabo de rede não puxa toda a internet](https://www.clubedohardware.com.br/forums/topic/1700462-cabo-de-rede-n%C3%A3o-puxa-toda-a-internet/?do=getNewComment "Cabo de rede não puxa toda a internet")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Patrick Aurelio](https://www.clubedohardware.com.br/profile/1170610-patrick-aurelio/ "Ir ao perfil de Patrick Aurelio")  
+        48 minutos atrás
+        
+    * [![G4el](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254969.thumb.png.db0de11f234a7b84c4a78bb52d087265.png)](https://www.clubedohardware.com.br/profile/1254969-g4el/ "Ir ao perfil de G4el")
+        
+        1
+        
+        [Vale a pena placa-mãe ASUS TUF Gaming B650M-PLUS WIFI por R$1299?](https://www.clubedohardware.com.br/forums/topic/1700461-vale-a-pena-placa-m%C3%A3e-asus-tuf-gaming-b650m-plus-wifi-por-r1299/?do=getNewComment "Vale a pena placa-mãe ASUS TUF Gaming B650M-PLUS WIFI por R$1299?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [G4el](https://www.clubedohardware.com.br/profile/1254969-g4el/ "Ir ao perfil de G4el")  
+        1 hora atrás
+        
+    * [![Dogaoelitebr](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-554583.jpg)](https://www.clubedohardware.com.br/profile/554583-dogaoelitebr/ "Ir ao perfil de Dogaoelitebr")
+        
+        1
+        
+        [Reimpressão automática do arquivo inteiro na Impressora Pantum BM5100FDW.](https://www.clubedohardware.com.br/forums/topic/1700459-reimpress%C3%A3o-autom%C3%A1tica-do-arquivo-inteiro-na-impressora-pantum-bm5100fdw/?do=getNewComment "Reimpressão automática do arquivo inteiro na Impressora Pantum BM5100FDW.")
+        
+        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
+        Por [Dogaoelitebr](https://www.clubedohardware.com.br/profile/554583-dogaoelitebr/ "Ir ao perfil de Dogaoelitebr")  
+        1 hora atrás
+        
+    * [![Gustavo Forrer Sizenando](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/imported-photo-1210041.thumb.jpeg.7e6146e2663cbf3494363278a207119b.jpeg)](https://www.clubedohardware.com.br/profile/1210041-gustavo-forrer-sizenando/ "Ir ao perfil de Gustavo Forrer Sizenando")
+        
+        1
+        
+        [Clock do processador baixa em jogos e FPS cai drásticamente.](https://www.clubedohardware.com.br/forums/topic/1700458-clock-do-processador-baixa-em-jogos-e-fps-cai-dr%C3%A1sticamente/?do=getNewComment "Clock do processador baixa em jogos e FPS cai drásticamente.")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Gustavo Forrer Sizenando](https://www.clubedohardware.com.br/profile/1210041-gustavo-forrer-sizenando/ "Ir ao perfil de Gustavo Forrer Sizenando")  
+        1 hora atrás
+        
+    * [![insane_hs](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237fc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EIH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/927888-insane_hs/ "Ir ao perfil de insane_hs")
+        
+        5
+        
+        [Upgrade de processador bf](https://www.clubedohardware.com.br/forums/topic/1700457-upgrade-de-processador-bf/?do=getNewComment "Upgrade de processador bf")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [insane\_hs](https://www.clubedohardware.com.br/profile/927888-insane_hs/ "Ir ao perfil de insane_hs")  
+        2 horas atrás
+        
+    * [![Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1212687.thumb.png.9a015da6de7fdba90b0e2d2220e9ab0d.png)](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")
+        
+        5
+        
+        [O que acontece se eu trabalhar com eletrônica sem ter curso?](https://www.clubedohardware.com.br/forums/topic/1700456-o-que-acontece-se-eu-trabalhar-com-eletr%C3%B4nica-sem-ter-curso/?do=getNewComment "O que acontece se eu trabalhar com eletrônica sem ter curso?")
+        
+        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
+        Por [Ygor Ferreira Campos de Sá](https://www.clubedohardware.com.br/profile/1212687-ygor-ferreira-campos-de-s%C3%A1/ "Ir ao perfil de Ygor Ferreira Campos de Sá")  
+        3 horas atrás
+        
+    * [![Gustavo45](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254966.thumb.png.aab74b39fb5e8879470a7710d7fcd599.png)](https://www.clubedohardware.com.br/profile/1254966-gustavo45/ "Ir ao perfil de Gustavo45")
+        
+        2
         
         [PC Congelando no navegador](https://www.clubedohardware.com.br/forums/topic/1700455-pc-congelando-no-navegador/?do=getNewComment "PC Congelando no navegador")
         
         [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
         Por [Gustavo45](https://www.clubedohardware.com.br/profile/1254966-gustavo45/ "Ir ao perfil de Gustavo45")  
-        1 hora atrás
+        6 horas atrás
         
     * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
         
-        2
+        5
         
         [Por que maioria das placas mães não suportam Quad Channel](https://www.clubedohardware.com.br/forums/topic/1700454-por-que-maioria-das-placas-m%C3%A3es-n%C3%A3o-suportam-quad-channel/?do=getNewComment "Por que maioria das placas mães não suportam Quad Channel")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
-        1 hora atrás
-        
-    * [![Dan123](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254965.thumb.jpeg.884495f338c44e1b0a5d0cc3014ff49b.jpeg)](https://www.clubedohardware.com.br/profile/1254965-dan123/ "Ir ao perfil de Dan123")
-        
-        0
-        
-        [Meu pc (quero Fazer upgrade)](https://www.clubedohardware.com.br/forums/topic/1700453-meu-pc-quero-fazer-upgrade/?do=getNewComment "Meu pc (quero Fazer upgrade)")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Dan123](https://www.clubedohardware.com.br/profile/1254965-dan123/ "Ir ao perfil de Dan123")  
-        1 hora atrás
-        
-    * [![Alex Camus](https://www.clubedohardware.com.br/uploads/members/monthly_2022_07/65469415_discord2.thumb.jpg.63cdb6f00dd74cecac4fa4ae078f828a.jpg)](https://www.clubedohardware.com.br/profile/1153982-alex-camus/ "Ir ao perfil de Alex Camus")
-        
-        0
-        
-        [Vídeo integrado AMD para GPU AMD](https://www.clubedohardware.com.br/forums/topic/1700452-v%C3%ADdeo-integrado-amd-para-gpu-amd/?do=getNewComment "Vídeo integrado AMD para GPU AMD")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Alex Camus](https://www.clubedohardware.com.br/profile/1153982-alex-camus/ "Ir ao perfil de Alex Camus")  
-        1 hora atrás
-        
-    * [![Diego Both](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/kiko3.thumb.jpg.05a73316492ae8dfca734540e6404ace.jpg)](https://www.clubedohardware.com.br/profile/919874-diego-both/ "Ir ao perfil de Diego Both")
-        
-        0
-        
-        [SSD NVMe para PS5.](https://www.clubedohardware.com.br/forums/topic/1700451-ssd-nvme-para-ps5/?do=getNewComment "SSD NVMe para PS5.")
-        
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Diego Both](https://www.clubedohardware.com.br/profile/919874-diego-both/ "Ir ao perfil de Diego Both")  
-        2 horas atrás
-        
-    * [![Jordache Correa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1249486-jordache-correa/ "Ir ao perfil de Jordache Correa")
-        
-        0
-        
-        [E normal a fonte Cooler Master mwe v2 550 acaab-br demorar para ligar?](https://www.clubedohardware.com.br/forums/topic/1700450-e-normal-a-fonte-cooler-master-mwe-v2-550-acaab-br-demorar-para-ligar/?do=getNewComment "E normal a fonte Cooler Master mwe v2 550 acaab-br demorar para ligar?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Jordache Correa](https://www.clubedohardware.com.br/profile/1249486-jordache-correa/ "Ir ao perfil de Jordache Correa")  
-        2 horas atrás
-        
-    * [![lucas de](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48d62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ELD%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254864-lucas-de/ "Ir ao perfil de lucas de")
-        
-        0
-        
-        Outro [Preciso encontrar materiais de autoaprendizagem no Google Ads para iniciantes](https://www.clubedohardware.com.br/forums/topic/1700449-preciso-encontrar-materiais-de-autoaprendizagem-no-google-ads-para-iniciantes/?do=getNewComment "Preciso encontrar materiais de autoaprendizagem no Google Ads para iniciantes")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [lucas de](https://www.clubedohardware.com.br/profile/1254864-lucas-de/ "Ir ao perfil de lucas de")  
-        3 horas atrás
-        
-    * [![Prainha1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254963.thumb.png.e561647bf137af2c50c18a7b0510c455.png)](https://www.clubedohardware.com.br/profile/1254963-prainha1/ "Ir ao perfil de Prainha1")
-        
-        0
-        
-        [Sobre OHMS IMPEDÂNCIA no amplificador](https://www.clubedohardware.com.br/forums/topic/1700448-sobre-ohms-imped%C3%A2ncia-no-amplificador/?do=getNewComment "Sobre OHMS IMPEDÂNCIA no amplificador")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Prainha1](https://www.clubedohardware.com.br/profile/1254963-prainha1/ "Ir ao perfil de Prainha1")  
-        3 horas atrás
-        
-    * [![II.Fase.II](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/images(1).thumb.jpeg.8961de66718b307eb6e4b4a09775e3b0.jpeg)](https://www.clubedohardware.com.br/profile/1252353-iifaseii/ "Ir ao perfil de II.Fase.II")
-        
-        0
-        
-        [Qual pasta térmica escolher ?](https://www.clubedohardware.com.br/forums/topic/1700447-qual-pasta-t%C3%A9rmica-escolher/?do=getNewComment "Qual pasta térmica escolher ?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [II.Fase.II](https://www.clubedohardware.com.br/profile/1252353-iifaseii/ "Ir ao perfil de II.Fase.II")  
-        3 horas atrás
-        
-    * [![gbzt](https://www.clubedohardware.com.br/uploads/members/monthly_2022_01/DOG.jpg.03d47bd18d40abdef34e7479d752f8cf.jpg)](https://www.clubedohardware.com.br/profile/1184384-gbzt/ "Ir ao perfil de gbzt")
-        
-        0
-        
-        [Qual mouse vale mais a pena até "300" conto?](https://www.clubedohardware.com.br/forums/topic/1700446-qual-mouse-vale-mais-a-pena-at%C3%A9-300-conto/?do=getNewComment "Qual mouse vale mais a pena até "300" conto?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [gbzt](https://www.clubedohardware.com.br/profile/1184384-gbzt/ "Ir ao perfil de gbzt")  
-        4 horas atrás
+        7 horas atrás
         
     
 
@@ -623,11 +623,5 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
-
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
-
-**EBOOK GRÁTIS!**
-
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
