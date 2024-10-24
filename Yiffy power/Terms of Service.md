@@ -97,33 +97,33 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 824 1
+0 839 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/ralsei-undertale-series-and-etc-created-by-sheepsheepbeep/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-director-aislopper-3/)
 
-[ralsei (undertale (series) and etc) created by sheepsheepbeep](https://yiff-party.com/yiff/ralsei-undertale-series-and-etc-created-by-sheepsheepbeep/)
+[directed by director aislopper](https://yiff-party.com/yiff-ai-premium/directed-by-director-aislopper-3/)
 
-0 2 0
+0 1 0
 
-October 24, 2024
+October 25, 2024
 
-[](https://yiff-party.com/yiff/digi-and-eti-bandai-namco-and-etc-created-by-utopianvee/)
+[](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furryranch/)
 
-[digi and eti (bandai namco and etc) created by utopianvee](https://yiff-party.com/yiff/digi-and-eti-bandai-namco-and-etc-created-by-utopianvee/)
+[loona directed by furryranch](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furryranch/)
 
-0 99 0
+0 66 0
 
-September 24, 2024
+September 25, 2024
 
-[](https://yiff-party.com/yiff/cantio-fekkri-talot-mikhail-and-quinten-created-by-fek/)
+[](https://yiff-party.com/yiff-gif/judy-hopps-zootopia-and-etc-created-by-bertydraws-and-evenesko-d-fox-artist/)
 
-[cantio, fekkri talot, mikhail, and quinten created by fek](https://yiff-party.com/yiff/cantio-fekkri-talot-mikhail-and-quinten-created-by-fek/)
+[judy hopps (zootopia and etc) created by bertydraws and evenesko.d.fox (artist)](https://yiff-party.com/yiff-gif/judy-hopps-zootopia-and-etc-created-by-bertydraws-and-evenesko-d-fox-artist/)
 
-0 79 0
+0 271 0
 
-September 24, 2024
+September 25, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
