@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/klaas-dijkhof-de-vvd-kent-geen-moraliteit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/n-verbijsterend-grand-canyon-verhaal/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
