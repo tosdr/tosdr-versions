@@ -30,7 +30,7 @@ Elevate writing with AI
 
 [Content Brainstorming](https://hotpot.ai/sparkwriter) [Art & NFT Idea](https://hotpot.ai/sparkwriter) [Copywriting](https://hotpot.ai/sparkwriter) [Song Writing](https://hotpot.ai/sparkwriter) [Book Writing](https://hotpot.ai/sparkwriter) [Professional Writing](https://hotpot.ai/sparkwriter) [Product Writing](https://hotpot.ai/sparkwriter)
 
-[](https://hotpot.ai/account)[](#)
+[](https://hotpot.ai/)[](https://hotpot.ai/account)[](#)
 
 Terms of Use
 ============
