@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=7217787638248126&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=7217787638248126&ev=PageView&noscript=1)     
 
 [![guelph.ca homepage](/wp-content/uploads/cog_logo.png)](https://guelph.ca/ "City of Guelph")
 
