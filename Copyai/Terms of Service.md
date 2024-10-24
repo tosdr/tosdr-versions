@@ -1,6 +1,6 @@
-AI Plays to Find and Close More Deals
+Future Proofed: **How AI Is Transforming GTM Strategy**
 
-[Join the event on 10/24](https://seamless-ai.zoom.us/webinar/register/4117292722862/WN_4QksAXdbSTmnGS1V0ws__Q#/registration)
+[Get the book](http://copy.ai/book)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
