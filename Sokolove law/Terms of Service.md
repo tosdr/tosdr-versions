@@ -63,6 +63,7 @@ Menu
     * [Birth Injury Lawyer](https://www.sokolovelaw.com/birth-injuries/lawyer/ "Birth Injury Lawyer")
     * [Birth Injury Lawsuit](https://www.sokolovelaw.com/birth-injuries/lawsuit/ "Birth Injury Lawsuits")
     * [Birth Injury Settlements](https://www.sokolovelaw.com/birth-injuries/settlements/)
+    * [Statutes of Limitations](https://www.sokolovelaw.com/birth-injuries/lawsuit/statute-of-limitations/)
     
     * [Cerebral Palsy](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/ "Cerebral Palsy")
     * [Cerebral Palsy Lawyer](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/lawyer/ "Cerebral Palsy Lawyer")
