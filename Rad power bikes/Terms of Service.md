@@ -532,9 +532,9 @@ You acknowledge that there are inherent anticipated and unanticipated risks and 
 16\. Waiver of Subrogation
 --------------------------
 
-**BY AGREEING TO THESE TERMS, YOU EXPRESSLY AGREE TO WAIVE AND SHALL CAUSE ANY APPLICABLE INSURANCE COMPANY UNDER WHICH YOU ARE AN INSURED OR ADDITIONAL INSURED TO WAIVE ANY RIGHT OF SUBROGATION THAT ANY SUCH INSURANCE CARRIER MAY HAVE AGAINST RPB AND/OR THE RPB RELEASEES.**
+BY AGREEING TO THESE TERMS, YOU SHALL MAINTAIN YOUR OWN INSURANCE COVERAGE AS YOU DESIRE TO PROTECT YOU AND OTHERS FROM ANY LOSSES EXCEEDING THE LIMITS OF LIABILITY IDENTIFIED IN SECTION 4 OF THESE TERMS. YOU EXPRESSLY AGREE TO WAIVE AND SHALL CAUSE ANY APPLICABLE INSURANCE COMPANY UNDER WHICH YOU ARE AN INSURED OR ADDITIONAL INSURED TO WAIVE ANY RIGHT OF SUBROGATION THAT ANY SUCH INSURANCE CARRIER MAY HAVE AGAINST RPB AND/OR THE RPB RELEASEES. YOU WILL ENSURE THAT YOUR APPLICABLE INSURANCE POLICIES CONTAINS A PROVISION OR ENDORSEMENT WAIVING ANY AND ALL SUBROGATION RIGHTS AGAINST RPB. YOU WILL LOOK SOLELY TO THE PROCEEDS OF SUCH INSURANCE FOR ANY LOSS, LIABILITY, DAMAGE OR CLAIM ABOVE THE LIMITS OF RPB’S LIABILITY TO WHICH YOU AGREE IN THIS SECTION 8.
 
-The foregoing provision means that any insurance company that provides coverage to you or your real or personal property shall be precluded from seeking reimbursement from RPB or the RPB Releasees for any loss after such insurance company compensates you.
+The foregoing provision means that any insurance company that provides coverage to you or your real or personal property shall be precluded from seeking reimbursement from RPB or the RPB Releasees for any loss after such insurance company compensates you.  
 
 17\. Dispute Resolution and Binding Arbitration
 -----------------------------------------------
