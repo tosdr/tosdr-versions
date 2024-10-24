@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Air Battle](https://www.myabandonware.com/game/air-battle-t00)
-* [Kokū Hyōryō Nirgends](https://www.myabandonware.com/game/koku-hyoryo-nirgends-syy)
-* [Chōshin Heiki Zeroigar](https://www.myabandonware.com/game/choshin-heiki-zeroigar-syx)
-* [Ginga Ojōsama Densetsu Yuna FX: Kanashimi no Sirene](https://www.myabandonware.com/game/ginga-ojosama-densetsu-yuna-fx-kanashimi-no-sirene-syw)
-* [Fushigi no Kuni no Angelique](https://www.myabandonware.com/game/fushigi-no-kuni-no-angelique-p95)
+* [Hammer Boy](https://www.myabandonware.com/game/hammer-boy-164)
+* [Moto-Crash +](https://www.myabandonware.com/game/moto-crash-t05)
+* [Le Trésor Englouti +](https://www.myabandonware.com/game/le-tresor-englouti-t03)
+* [Helicopter Rescue](https://www.myabandonware.com/game/helicopter-rescue-t02)
+* [Loony Balloon](https://www.myabandonware.com/game/loony-balloon-swb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
