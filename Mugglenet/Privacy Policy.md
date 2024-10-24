@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In the world of wizard currency, there are 29 bronze Knuts to a silver Sickle and 17 Sickles to a gold Galleon. In Muggle money, a Galleon is worth about £5, but exchange rates can vary.
+During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
 
 ### Potter History
 
-February 26, 2006 – We find out that Evanna Lynch is a fellow MuggleNetter.
+January 10, 2005 – Franz Ferdinand reconsidered contributing a song to Goblet of Fire.
 
 ### Potter Quote
 
-“There is nothing worse than death, Dumbledore!”
+“I shall expect you and the Slytherins in the Great Hall in twenty minutes, also. If you wish to leave with your students, we shall not stop you. But if any of you attempt to sabotage our resistance or take up arms against us within this castle, then, Horace, we duel to kill.”
 
 [](#)
 
