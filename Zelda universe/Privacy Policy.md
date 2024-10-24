@@ -24,7 +24,7 @@
 
 [Legal Information and Privacy Policy](https://zeldauniverse.net/privacy/)
 
-![](https://zeldauniverse.net/wp-content/uploads/2020/11/the-legend-of-zelda.svg)
+![](https://zeldauniverse.net/wp-content/uploads/2020/11/the-legend-of-zelda.svg) 
 
 Legal Information and Privacy Policy
 ====================================
