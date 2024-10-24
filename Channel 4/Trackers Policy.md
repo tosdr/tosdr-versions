@@ -92,18 +92,16 @@
     * Latest updates
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
+        * [Looking For Something Scary To Watch This Halloween?](https://www.channel4.com/4viewers/blog/halloween)
+        * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
         * [South Asian Film Season 2024](https://www.channel4.com/4viewers/blog/south-asian-films-2024)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
-        * [Banged Up: Stars Behind Bars](https://www.channel4.com/4viewers/blog/banged-up)
         * [Alone](https://www.channel4.com/4viewers/blog/alone)
         * [Channel 4’s Black to Front Project](https://www.channel4.com/4viewers/black-to-front-project)
-        * [It's A Sin](https://www.channel4.com/4viewers/blog/its-a-sin)
-        * [Channel 4 Statement - Rachel Riley](https://www.channel4.com/4viewers/blog/rr)
-        * [Channel 4 Statement - SAS: Who Dares Wins](https://www.channel4.com/4viewers/blog/wdw)
         * [The IT Crowd: The Speech](https://www.channel4.com/4viewers/blog/ITCrowd)
         
     
