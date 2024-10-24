@@ -205,21 +205,22 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [World War Mew!](https://www.somethingawful.com/photoshop-phriday/pokemon-war-combat/)
-* [Modern Girl](https://www.somethingawful.com/photoshop-phriday/modern-girl/1/)
-* [The Philadelphia DogSperiment!](https://www.somethingawful.com/photoshop-phriday/dog-travelling-experiment/)
-* [Gaming Website is Totally Unashamed to Announce the 5 Hottest Video Game Butts](https://www.somethingawful.com/news/sexism-gaming-culture/1/)
-* [Hackneyed History](https://www.somethingawful.com/photoshop-phriday/hackneyed-history/1/)
+* [Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-with-balloons/1/)
+* [Bloodsucking Redneck Vampires](https://www.somethingawful.com/movie-reviews/bloodsucking-redneck-vampires/1/)
+* [Large Penis Support Group, Lipstick Party, The Sato, and Eagle Forum](https://www.somethingawful.com/weekend-web/large-penis-support/1/)
+* [Advanced Dungeons & Dragons: Monster Manual II (part 2)](https://www.somethingawful.com/dungeons-and-dragons/monster-manual-two/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Why dont public schools have social skills classes?](http://forums.somethingawful.com/showthread.php?threadid=4073466 "Why dont public schools have social skills classes?")
+
 ### Random Articles
 
-* [Sizzling Summer Goodies from the Bradford Exchange](https://www.somethingawful.com/news/bradford-exchange-summer/)
-* [Knives & Swords I Use for Defense](https://www.somethingawful.com/news/knife-sword-blade/1/)
-* [Bilderberg](https://www.somethingawful.com/awful-links/awful-link-2296/)
-* [L. Ron Hubbard: The Poet](https://www.somethingawful.com/awful-links/awful-link-1084/)
-* [The Voice Of The Internet: Xbox Live Jerk](https://www.somethingawful.com/flash-tub/voice-internet-xbox/)
+* [The IFC Automat Photoshop Winners!](https://www.somethingawful.com/daily-dirt/ifc-automat-winners/)
+* [What Astronauts Miss Most](https://www.somethingawful.com/news/tucker-miss-most/1/)
+* [I'm a VERY angry mouse](https://www.somethingawful.com/comedy-goldmine/very-angry-mouse/1/)
+* [Bronson Custard's Exotic Escort Reviews](https://www.somethingawful.com/news/escort-reviews-bronson/1/)
+* [Critical Point](https://www.somethingawful.com/hentai-game-reviews/critical-point/)
 
 [Random!](https://www.somethingawful.com/random/)
 
