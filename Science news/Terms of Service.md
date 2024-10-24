@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")12 hours ago
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")21 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Silk Road cities reached surprising heights in Central Asia’s mountains](https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")15 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")24 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Polar bears are being exposed to more pathogens as the climate warms](https://www.sciencenews.org/article/polar-bears-pathogens-climate-change)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")12 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")21 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -161,11 +161,17 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Tech](https://www.sciencenews.org/topic/tech)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
+        * [Tech](https://www.sciencenews.org/topic/tech)
             
             ### [Tech companies want small nuclear reactors. Here’s how they’d work](https://www.sciencenews.org/article/small-modular-nuclear-reactors-amazon) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")17 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 23, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -173,18 +179,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 11, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
     * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
             
             ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
             
             By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")October 16, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [NASA’s Europa mission is a homecoming for one planetary astronomer](https://www.sciencenews.org/article/buratti-nasa-europa-mission)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 15, 2024
             
 
 Terms of Service
