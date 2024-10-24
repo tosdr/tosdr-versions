@@ -190,12 +190,19 @@
 
 Subscribe
 
-[#### CBD](https://www.healthline.com/cbd)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [CBD 101](https://www.healthline.com/cbd/cbd-basics)
-* [Chronic Conditions](https://www.healthline.com/cbd/cbd-chronic-conditions)
-* [Product Reviews](https://www.healthline.com/reviews/cbd-products)
-* [Types of CBD](https://www.healthline.com/cbd/cbd-types)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Ad & Sponsorship Policy
 =======================
