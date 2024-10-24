@@ -4,13 +4,13 @@
 
 [![Ofcom](/globalassets/images/logonostrap.svg)](https://www.ofcom.org.uk/ "Ofcom")
 
-[](javascript:void(0);)
+[hamburger menu](javascript:void(0);)
 
-[](javascript:void(0);)
+[Go Back](javascript:void(0);)
 
 ×
 
-* [Topics](#)
+* Topics Menu
     
     [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
     
@@ -46,7 +46,7 @@
     
     [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
     
-* [Ofcom's work](#)
+* Ofcom's work Menu
     
     [Advice for businesses](https://www.ofcom.org.uk/advice-for-businesses/)
     
@@ -82,7 +82,7 @@
     
     [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
     
-* [Complaints](#)
+* Complaints Menu
     
     [Complaints](https://www.ofcom.org.uk/make-a-complaint/)
     
@@ -98,7 +98,7 @@
     
     [](https://x.com/ofcom "x-twitter")[](https://www.facebook.com/ofcom "facebook")[](https://www.linkedin.com/company/ofcom "linkedin")[](https://www.youtube.com/ofcom "youtube")[](https://www.instagram.com/ofcom.org.uk/ "instagram")[](https://www.tiktok.com/@ofcom.org.uk "tiktok")
     
-* [Licences](#)
+* Licences Menu
     
     [Licences](https://www.ofcom.org.uk/licences/)
     
@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
+
+### Global regulators publish index of online safety powers
+
+24 October 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-regulators-publish-index-of-online-safety-powers/)
+
 [![Man tuning DAB radio](/siteassets/resources/images/-news-centre/body-images/2024/turn-up-and-tune-into-small-scale-dab/turn-up-and-tune-into-small-scale-dab-hero-1336--560px.png?width=1920&height=1085&quality=80)
 
 ### Hundreds of new local stations take to the digital airwaves
@@ -150,12 +156,6 @@
 ### How do you protect yourself from surprise mobile charges on holiday?
 
 18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/How-do-you-protect-yourself-from-surprise-mobile-charges-on-holiday/)
-
-[![Countdown to a safer life online HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/countdown-to-a-safer-life-online/countdown-to-a-safer-life-online-hero-1336--560px.png?width=1920&height=1085&quality=80)
-
-### Countdown to a safer life online
-
-17 October 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/countdown-to-a-safer-life-online/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
