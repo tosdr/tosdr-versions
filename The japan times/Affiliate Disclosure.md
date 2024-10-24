@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,13 @@ Latest News
 
 [Masato Kanda, former top currency diplomat, sole candidate to head ADB](https://www.japantimes.co.jp/business/2024/10/24/economy/kanda-sole-candidate-adb/ "Masato Kanda, former top currency diplomat, sole candidate to head ADB")
 
-6 hours ago
-
 [Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
-
-7 hours ago
 
 [At Putin-hosted summit, one guest stood out: Erdogan](https://www.japantimes.co.jp/news/2024/10/24/world/politics/putin-summit-turkey-erdogan/ "At Putin-hosted summit, one guest stood out: Erdogan")
 
-7 hours ago
-
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
-8 hours ago
-
 [Electric vehicles may be struggling. GM’s leader is still a believer.](https://www.japantimes.co.jp/business/2024/10/24/companies/electric-vehicles-gm-leader/ "Electric vehicles may be struggling. GM’s leader is still a believer.")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
