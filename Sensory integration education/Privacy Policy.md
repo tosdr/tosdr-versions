@@ -318,6 +318,6 @@ Copyright Sensory Integration Education 2024
 Sensory Integration Education is a trading name of SI Network (UK and Ireland) Ltd.  
 International House, 61 Mosley Street, Manchester, M2 3HZ. UK. Co No 05068304. UKPRN: 10096399
 
-   
+    
 
 ![](https://www.facebook.com/tr?id=447947135389604&ev=PageView&noscript=1)
