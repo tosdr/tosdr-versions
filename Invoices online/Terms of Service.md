@@ -196,60 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Terri Winfield
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=67710454)  
-Know Informatics
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=81575004)  
+NGB HOLDINGS PTY LTD
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=192702785)  
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=65689657)  
+McKaynine Mobility
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=199673393)  
-FlipDesign - Renovation Contracting Firm
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=63453764)  
+FX ACCOUNTING
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=94517331)  
-Dr V Naik Consult
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=18169693)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=117638888)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=53800045)  
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=51015368)  
 NWET Pty LTD
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=140919494)  
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=106915136)  
+Imvubu General Trading
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=3263768)  
+Dombieterfontein (PTY) LTD
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=30000540)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=202457981)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=145223859)  
+APTV Telecoms CC
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=146005214)  
 Printo
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=199484735)  
-SA Security Brokerz (Pty) Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=38421253)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=40803490)  
-M's Frozen Delights
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=38615754)  
+LEO DEVELOPMENT GROUP
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=210145249)  
-Meyer Towing & Recovery
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=21909959)  
+Network Grey (Pty) Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=19872223)  
-Lemba Truck Stop
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=168583511)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=33183692)  
-Cooper Logistics (Pty) Ltd
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=208865738)  
-VerdanTech Pty Ltd
-
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=f6b1f3722699c8040fc6b01c3af83092c70afde0d66d7138ed40b25b145d7e37&c=210162507)  
-Cpower Projects t/a Pro Pure Water
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=65595183)  
+J.M. HUMAN RESOURCES
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
