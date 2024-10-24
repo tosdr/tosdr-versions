@@ -289,13 +289,6 @@ Fr Paddy O'Kane
 [Fr Paddy O'Kane inquest told garden area not included in health and safety assessment](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 23 2024](https://www.derrynow.com/news/deaths/1636771/derry-death-notices-wednesday-october-23-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Car flag vandalized ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car flag vandalized ")](https://www.derrynow.com/news/derry-news/1637607/county-derry-man-s-car-flying-local-gaelic-team-s-flag-vandalised.html)
 
 Car flag vandalized
@@ -311,6 +304,22 @@ Car flag vandalized
 
 [Derry woman who headbutted her mother given suspended sentence](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
+
+Wolverhampton Police Station
+
+[Home](https://www.derrynow.com/)
+
+[Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating assault at Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating assault at Derry's Magee campus")](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating assault at Derry's Magee campus](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man returned to Derry Crown Court on series of historical sexual abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
 
@@ -329,15 +338,6 @@ Ryanair celebrates over five million passengers through City of Derry Airport
 
 [Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
-
-Wolverhampton Police Station
-
-[Home](https://www.derrynow.com/)
-
-[Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -527,6 +527,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 24 2024](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police investigating assault at Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating assault at Derry's Magee campus")](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -534,7 +541,7 @@ Advertise with Us
 [Police investigating assault at Derry's Magee campus](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day")](https://www.derrynow.com/news/home/1637790/calling-all-history-enthusiasts-ballinascreen-historical-society-to-launch-new-book-on-local-history-day.html)
+[![Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-01-58-PM-2246-1729689595152.jpg--.jpg?1729689595203 "Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day")](https://www.derrynow.com/news/home/1637790/calling-all-history-enthusiasts-ballinascreen-historical-society-to-launch-new-book-on-local-history-day.html)
 
 Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day
 
@@ -569,13 +576,6 @@ SDLP MLA says all-island register is the only way to protect animals
 
 [Foyle MLA says all-island register is the only way to protect animals](https://www.derrynow.com/news/local-news/1637614/foyle-mla-says-all-island-register-is-the-only-way-to-protect-animals.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![£13 million a year allocated to improve services for children with disabilities](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_23/1729701308881_0.jpg--.jpg?1729701308915 "£13 million a year allocated to improve services for children with disabilities")](https://www.derrynow.com/news/local-news/1638099/13-million-a-year-allocated-to-improve-services-for-children-with-disabilities.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[£13 million a year allocated to improve services for children with disabilities](https://www.derrynow.com/news/local-news/1638099/13-million-a-year-allocated-to-improve-services-for-children-with-disabilities.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
