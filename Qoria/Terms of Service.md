@@ -1,4 +1,4 @@
-[![Qoria](https://qoria.com/hs-fs/hubfs/Qoria%20Corporate/images/qoria-logo-teal.png?width=500&height=150&name=qoria-logo-teal.png)](https://qoria.com/?hsLang=en)
+[![Qoria](https://qoria.com/hs-fs/hubfs/Qoria%20Corporate/images/qoria-logo-teal.png?width=500&height=150&name=qoria-logo-teal.png)](https://qoria.com/)
 
 * ###### All countries and languages
     
@@ -28,7 +28,7 @@
 
    
 
-[Contact us](https://qoria.com/contact?hsLang=en)
+[Contact us](https://qoria.com/contact)
 
 * ###### All countries and languages
     
@@ -48,22 +48,22 @@ Agreement
 
 [Download End User License Agreement](https://7977292.fs1.hubspotusercontent-na1.net/hubfs/7977292/Qoria%20Legals/Qoria-legal-agreements-enduser-licenceagreement.pdf)
 
-[Partner Contract](https://qoria.com/legal/partner-contract?hsLang=en)
+[Partner Contract](https://qoria.com/legal/partner-contract)
 
-[Partner Program](https://qoria.com/legal/partner-program?hsLang=en)
+[Partner Program](https://qoria.com/legal/partner-program)
 
-[Partner Terms](https://qoria.com/legal/partner-terms?hsLang=en)
+[Partner Terms](https://qoria.com/legal/partner-terms)
 
 [Customer Terms,  
-Enterprise Customers](https://qoria.com/legal/customer-terms-enterprise?hsLang=en)
+Enterprise Customers](https://qoria.com/legal/customer-terms-enterprise)
 
-[Data Processing Addendum](https://qoria.com/legal/data-processing-addendum?hsLang=en)
+[Data Processing Addendum](https://qoria.com/legal/data-processing-addendum)
 
-[Terms of Service](https://qoria.com/legal/terms-of-service?hsLang=en)
+[Terms of Service](https://qoria.com/legal/terms-of-service)
 
 [EULA](https://qoria.com/legal/end-user-license-agreement)
 
-[Customer Terms, ySafe](https://qoria.com/legal/customer-terms-ysafe?hsLang=en)
+[Customer Terms, ySafe](https://qoria.com/legal/customer-terms-ysafe)
 
 APPLICATION OF THE EULA
 -----------------------
@@ -122,7 +122,7 @@ If you or an End User associated with your account (collectively for the purpose
 
 * * *
 
-[![](https://qoria.com/hubfs/raw_assets/public/q-theme/images/qoria/Qoria_Logo_White.svg)](https://qoria.com/?hsLang=en)
+[![](https://qoria.com/hubfs/raw_assets/public/q-theme/images/qoria/Qoria_Logo_White.svg)](https://qoria.com/)
 
 ###### Registered Office
 
@@ -136,10 +136,10 @@ ABN 331 675 09177
 
 ###### Useful Links
 
-* [Privacy Policy](https://qoria.com/privacy?hsLang=en)
-* [Terms & Conditions](https://qoria.com/legal?hsLang=en)
-* [Site Map](https://qoria.com/site-map?hsLang=en)
-* [Contact Us](https://qoria.com/contact?hsLang=en)
+* [Privacy Policy](https://qoria.com/privacy)
+* [Terms & Conditions](https://qoria.com/legal)
+* [Site Map](https://qoria.com/site-map)
+* [Contact Us](https://qoria.com/contact)
 
 ###### Follow us
 
