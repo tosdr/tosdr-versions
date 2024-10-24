@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
+
+### [USS Astraeus Crew Embraces Shore Leave as Repairs Continue](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
+
+Federation News Service October 24, 2024
+
+EARTH, SOL SYSTEM, ALPHA QUADRANT – As extensive repairs proceed on the USS Astraeus following the intense events of Frontier Day, the crew is making
+
+[Read More »](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
 
 ### [USS Constitution – Second Officer sounds after attack by imposters](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
@@ -377,18 +389,6 @@ FltAdml. Tristan Wolf October 22, 2024
 Please welcome our newest Academy graduates to the StarBase 118 fleet: Arus Bex, Imril, Skye Shepherd, and Mylas Bosko!
 
 [Read More »](https://www.starbase118.net/2024/new-academy-graduates-459/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
-
-### [Khitomer Enjoys a Bumpy Shore Leave After the Siege of Deep Space 33](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
-
-Federation News Service October 22, 2024
-
-DEEP SPACE NINE — After surviving the battle of Deep Space 33, the crew of the USS Khitomer retire to Deep Space 9, but not
-
-[Read More »](https://www.starbase118.net/2024/khitomer-enjoys-a-bumpy-shore-leave-after-the-siege-of-deep-space-33/)
 
 Ready to get started?
 ---------------------
