@@ -563,7 +563,7 @@ Requests may be filed by visiting our [request web page](https://privacyportal.o
 ### Careers
 
 * [Life at Moderna](https://www.modernatx.com/en-US/careers/life-at-moderna)
-* [People behind the science](https://www.modernatx.com/en-US/careers/people-behind-the-science)
+* [Meet our changemakers](https://www.modernatx.com/en-US/careers/meet-our-changemakers)
 * [Awards](https://www.modernatx.com/en-US/careers/awards)
 * [Join our team](https://modernatx.eightfold.ai/careers/)
 
