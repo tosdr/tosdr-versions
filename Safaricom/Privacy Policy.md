@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [723 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [732 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -140,7 +140,63 @@ Customer Testimonials
 
 out of 5 based on
 
-[723 reviews](https://www.trustpilot.com/review/www.safari.com)
+[732 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 23, 2024
+
+> Shann @ Safari.com is fantastic!
+
+> We worked with Shann Shaw and she was amazing! As someone who usually books my own travel I was a little bit skeptical at first... But safaris are not like a typical vacation and there are just SO many different options. Shann was incredibly patient in answering all of my questions, and eventually found the perfect safari lodge for me and my family. I really don't think I could have done it without her help. Highly recommend working with her!
+
+Jordan Weinstein
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 23, 2024
+
+> Service was excellent
+
+> Service was excellent, and I was sent a reminder when the balance was due.
+
+Peter Pallister
+
+,
+
+ZA
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 23, 2024
+
+> Booking with Leigh-Ann Croeser
+
+> Thank you for this fantastic booking experience. Leigh-Ann Croeser did everything to let my wishes become reality. I wasn’t an easy customer, but he never let me feel that. She answered very fast to all my questions and helped me with everything so that we have the most of our trip. Thank you very much for organizing our dream Safari. I can only recommend it.
+
+Max
+
+,
+
+GR
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 23, 2024
+
+> Sara
+
+> Sara, bent over backwards to give us what we wanted as we changed our minds more than once
+
+Margaret
+
+,
+
+IE
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -211,62 +267,6 @@ Manning Manning
 ,
 
 ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 17, 2024
-
-> Sweet Kim Abrahams was extremely…
-
-> Sweet Kim Abrahams was extremely patient with the two of us oldsters. We had computer problems, took a very long time to decide and confirm our intentions and challenged every detail. Thank you Kim
-
-Diane Wasney
-
-,
-
-CA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 17, 2024
-
-> Anja has been extremely helpful and…
-
-> Anja has been extremely helpful and communicative through the process of booking our trip. Everything has been communicated clearly and quickly with lots of flexibility. I would definitely recommend. Thank you for your help!
-
-AG
-
-,
-
-GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 17, 2024
-
-> Mel is friendly and patient
-
-> I would usually book my trips myself. Lucky for me I sent off an enquiry to Safari.com and received Mel's wonderful help. Mel responded quickly and made me feel comfortable with Safari.com. organising my trip. Later on, when I realised my dates didn't work with the rest of my trip, Mel gave me my options and costings and rebooked for me. Mel was very patient and friendly. I wouldn't hesitate to use Mel again.
-
-Kylie
-
-,
-
-au
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 16, 2024
-
-> Outstanding service
-
-> Response was very quick and helpful. Answered all questions. Laid out a trip that went beyond what I expected
-
-Stan
-
-,
-
-us
 
 VIP service
 
