@@ -13,7 +13,9 @@ Close this search box.
 
 [Request Info](https://pmi.edu/)
 
-[![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20462'%3E%3C/svg%3E)
+
+![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
 
 * [Campus Programs](https://pmi.edu/on-campus-programs/)
     * [Certificate](https://pmi.edu/on-campus-programs/certificate/)
@@ -103,7 +105,9 @@ Close this search box.
     * [Hybrid Education](https://pmi.edu/why-pima-medical/hybrid-education/)
     * [Success Stories](https://pmi.edu/why-pima-medical/success-stories/)
 
-[![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20462'%3E%3C/svg%3E)
+
+![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
 
 [](tel:800-477-7462)
 
