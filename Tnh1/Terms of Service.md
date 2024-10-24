@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_Incendio_Mirante_f7df5634e5.jpg)
+   [![Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Maceio_verao_d2f01512df.png)
 
 Maceió
 
-Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://www.tnh1.com.br/noticia/nid/bombeiros-combatem-incendio-em-vegetacao-na-encosta-do-mirante-de-santa-terezinha-no-farol/ "Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol")   [![Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_fios_perigo_b5b9e18271.png)
+Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")   [![Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_23-10-24-Reforma-da-Praca-Moleque-Namorador-antes-durante-IPLAN-Victor-Vercant-3_ca3cb901b6.jpg)
+
+Maceió
+
+Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://www.tnh1.com.br/noticia/nid/restauracao-da-praca-moleque-namorador-vai-preservar-piso-em-pedra-portuguesa/ "Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa")   [![Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
+
+Cidade Universitária
+
+Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-morto-com-tiros-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada")   [![Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_protesto-passarela-fernandes-lima_5475952124.jpg)
+
+Manifestação
+
+Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://www.tnh1.com.br/noticia/nid/entidades-sindicais-fazem-protesto-contra-pec-66-na-fernandes-lima-mas-sem-afetar-transito/ "Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito")   [![Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_Incendio_Mirante_f7df5634e5.jpg)
+
+Maceió
+
+Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol](https://www.tnh1.com.br/noticia/nid/bombeiros-combatem-incendio-em-vegetacao-na-encosta-do-mirante-de-santa-terezinha-no-farol/ "Bombeiros combatem incêndio em vegetação na encosta do Mirante de Santa Terezinha, no Farol")   [![Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_fios_perigo_b5b9e18271.png)
 
 assista à matéria
 
-Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió](https://www.tnh1.com.br/noticia/nid/alto-risco-emaranhado-de-fios-em-postes-coloca-em-perigo-populacao-de-maceio/ "Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ")   [![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_14b8d66d3b.jpg)
-
-Maceió
-
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")   [![Cachorro é atropelado e fica preso em para-choque no trajeto da Paraíba a Maceió; animal morreu](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/3/csm_Corpo_de_Bombeiros_resgata_cao_preso_em_para-choque_de_carro_-_foto_CBMAL_c6dbd7bc08.jpg)
-
-Maceió
-
-Cachorro é atropelado e fica preso em para-choque no trajeto da Paraíba a Maceió; animal morreu](https://www.tnh1.com.br/noticia/nid/cachorro-e-atropelado-e-fica-preso-em-para-choque-no-trajeto-da-paraiba-a-maceio-animal-morreu/ "Cachorro é atropelado e fica preso em para-choque no trajeto da Paraíba a Maceió; animal morreu")   [![Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_maria_fumaca_foto_divulgacao_CBTU_ebf620d3a8.jpeg)
-
-40 anos da CBTU
-
-Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas](https://www.tnh1.com.br/noticia/nid/trem-maria-fumaca-ficara-exposto-em-maceio-para-visitas-da-populacao-e-de-turistas/ "Trem 'Maria Fumaça' ficará exposto em Maceió para visitas da população e de turistas ")   [![Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_suspeito-preso-enxadada_c494cb705f.jpg)
-
-Foi socorrido
-
-Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-com-golpe-de-enxada-na-cabeca-em-briga-por-cachaca-em-paripueira/ "Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira")
+Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió](https://www.tnh1.com.br/noticia/nid/alto-risco-emaranhado-de-fios-em-postes-coloca-em-perigo-populacao-de-maceio/ "Alto risco: emaranhado de fios em postes coloca em perigo população de Maceió ")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripu
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
+   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
+
+hermafrodita
+
+Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
 
 39 anos
 
-Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")   [![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_52c0b99f2c.jpg)
+Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")   [![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_52c0b99f2c.jpg)
 
 Educação
 
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")   [![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
+Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")   [![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
 
 barra grande
 
-Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")   [![Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_extracao_areia_marechal_deodoro_foto_extraida_da_acao_civil_publica_5e838013a4.jpeg)
+Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")   [![Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_extracao_areia_marechal_deodoro_foto_extraida_da_acao_civil_publica_5e838013a4.jpeg)
 
 condenação judicial
 
-Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://www.tnh1.com.br/noticia/nid/licencas-por-mineracao-ilegal-sao-canceladas-em-definitivo-em-marechal-deodoro/ "Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro")   [![Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/e/csm_cesta_basica_doacao_foto_agreste_saneamento_3efeb7c2ad.jpeg)
+Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro](https://www.tnh1.com.br/noticia/nid/licencas-por-mineracao-ilegal-sao-canceladas-em-definitivo-em-marechal-deodoro/ "Licenças por mineração ilegal são canceladas em definitivo em Marechal Deodoro")   [![Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_cesta_basica_doacao_foto_agreste_saneamento_3efeb7c2ad.jpeg)
 
 Doações
 
-Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://www.tnh1.com.br/noticia/nid/projeto-agreste-solidario-leva-cestas-basicas-para-familias-em-vulnerabilidade-social/ "Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social")   [![Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_corpo-de-bombeiros-salva-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances_-_foto_Corpo_de_Bombeiros_a78260941c.jpg)
-
-marechal deodoro
-
-Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-quatro-turistas-argentinos-de-afogamento-na-praia-do-frances/ "Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês")
+Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social](https://www.tnh1.com.br/noticia/nid/projeto-agreste-solidario-leva-cestas-basicas-para-familias-em-vulnerabilidade-social/ "Projeto Agreste Solidário leva cestas básicas para famílias em vulnerabilidade social")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Bombeiros salvam quatro turistas argentinos de afogamento na praia do Francês](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Polícia apreende suspeito de matar e enterrar o próprio primo por causa de sumiço de cavalo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/1/csm_csm_csm_Cisp_de_Marechal_Deodoro_-_Foto_ASCOM_-_PC_d7db6ea6d1_06917f89b1_26fec0ba47.jpg)
+   [![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_3250251c29.jpeg)
 
-EM MARECHAL
+Estava em casa
 
-Polícia apreende suspeito de matar e enterrar o próprio primo por causa de sumiço de cavalo](https://www.tnh1.com.br/noticia/nid/policia-apreende-suspeito-de-matar-e-enterrar-o-proprio-primo-por-causa-de-sumico-de-cavalo/ "Polícia apreende suspeito de matar e enterrar o próprio primo por causa de sumiço de cavalo")   [![Polícia apreende adolescente suspeito de ameaçar alunos e funcionários de colégio no Vergel do Lago](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/5/csm_adolescente-ameaca-alunos-funcionarios-colegio-reproducao_272f803cad.jpeg)
+iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")   [![Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/8/csm_prisao_estuprador_craibas_-_foto_ascom_pc_f20b6a26c3.jpeg)
 
-16 ANOS
+No trabalho
 
-Polícia apreende adolescente suspeito de ameaçar alunos e funcionários de colégio no Vergel do Lago](https://www.tnh1.com.br/noticia/nid/policia-apreende-adolescente-suspeito-de-ameacar-alunos-e-funcionarios-de-colegio-no-vergel-do-lago/ "Polícia apreende adolescente suspeito de ameaçar alunos e funcionários de colégio no Vergel do Lago")   [![Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/b/csm_presos-suspeito-assasinato-Junqueiro_677282e91e.jpg)
+Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-jovem-e-obriga-la-a-comer-areia-e-preso-em-operacao-policial/ "Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial")   [![Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/1/csm_prisao_teotonio_vilela_-_foto_ascom_pc__1__62dba69da5.jpeg)
 
-Condenado a 12 anos
+com arma branca
 
-Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-acusado-de-matar-homem-a-tiros-e-roubar-r-1700-dele-no-interior/ "Foragido é preso acusado de matar homem a tiros e roubar R$ 1.700 dele, no interior")   [![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_cdd949b5e4.png)
+Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/video-foragido-e-capturado-por-tentar-matar-dono-de-bar-no-interior-de-alagoas/ "Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas")   [![Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
 
-Ao menos um ferido
+Cidade Universitária
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")   [![Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_suspeito-preso-enxadada_c494cb705f.jpg)
+Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-morto-com-tiros-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é morto com tiros na cabeça enquanto andava em moto furtada")   [![Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_cisp_campo_alegre_-_foto_assessoria_pc_c6a0976fb8.jpeg)
 
-Foi socorrido
+Filho presenciou
 
-Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-com-golpe-de-enxada-na-cabeca-em-briga-por-cachaca-em-paripueira/ "Homem é atingido com golpe de enxada na cabeça em briga por cachaça em Paripueira")   [![Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_suspeito-preso-interior-operacao_6d66502e0e.jpg)
+Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-ameaca-e-violencia-psicologica-contra-a-mulher-em-campo-alegre/ "Homem é preso por ameaça e violência psicológica contra a mulher em Campo Alegre")   [![Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/8/csm_operacao_pc-__foto_ascom_9929a2f41a.jpg)
 
-Mandados judiciais
+Policiais nas ruas
 
-Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/homicidios-estupro-e-violencia-domestica-seis-pessoas-sao-presas-no-sertao-de-alagoas/ "Homicídios, estupro e violência doméstica: seis pessoas são presas no Sertão de Alagoas")
+Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos](https://www.tnh1.com.br/noticia/nid/mais-de-25-sao-presos-em-operacao-policial-em-al-um-e-suspeito-de-estuprar-menina-de-12-anos/ "Mais de 25 são presos em operação policial em AL; um é suspeito de estuprar menina de 12 anos ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -226,49 +226,49 @@ Ao menos um ferido
 
 Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")[![Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/c/csm_sec_de_saude_capela_-_foto_facebook_a3af5b6929.jpg)
+Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")[![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_14897ff936.jpg)
 
-Mais um caso
+barra grande
 
-Mais um caso
+barra grande
 
-Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió
+Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo
 
-Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió](https://www.tnh1.com.br/noticia/nid/crianca-e-diagnosticada-com-meningite-no-interior-de-al-e-esta-internada-em-hospital-de-maceio/ "Criança é diagnosticada com meningite no interior de AL e está internada em hospital de Maceió")
+Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")
 
-[![O membro da Família Real que jamais vai perdoar o Príncipe Harry - e não estamos falando do irmão William](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_principe-harry-foto-netflix_c393cc2fb5.png)
+[![Polícia Federal investiga desembargadores por suspeita de venda de decisões](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_policia_federal_9dc4a75076.png)
 
-Família real
+Mato Grosso do Sul
 
-Família real
+Mato Grosso do Sul
 
-O membro da Família Real que jamais vai perdoar o Príncipe Harry - e não estamos falando do irmão William
+Polícia Federal investiga desembargadores por suspeita de venda de decisões
 
-O membro da Família Real que jamais vai perdoar o Príncipe Harry - e não estamos falando do irmão William](https://www.tnh1.com.br/noticia/nid/o-membro-da-familia-real-que-jamais-vai-perdoar-o-principe-harry-e-nao-estamos-falando-do-irmao-william/ "O membro da Família Real que jamais vai perdoar o Príncipe Harry - e não estamos falando do irmão William")[![Ozempic falso: saiba como identificar e veja principais riscos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/d/csm_ozempic-divulgacao_dd26a5d262.png)
+Polícia Federal investiga desembargadores por suspeita de venda de decisões](https://www.tnh1.com.br/noticia/nid/policia-federal-investiga-desembargadores-por-suspeita-de-venda-de-decisoes/ "Polícia Federal investiga desembargadores por suspeita de venda de decisões")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
 
-ganhou popularidade
+em maceió
 
-ganhou popularidade
+em maceió
 
-Ozempic falso: saiba como identificar e veja principais riscos
+Ministério Público Federal pede intervenção no Hospital Veredas
 
-Ozempic falso: saiba como identificar e veja principais riscos](https://www.tnh1.com.br/noticia/nid/ozempic-falso-saiba-como-identificar-e-veja-principais-riscos/ "Ozempic falso: saiba como identificar e veja principais riscos")[![Entenda o que é a E.coli, bactéria que pode causar infecção no intestino e até na corrente sanguínea](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/b/csm_person-suffering-from-std_2d7f53e564.jpg)
+Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_18b358d374.jpeg)
 
-QUADROS GRAVES
+Estava em casa
 
-QUADROS GRAVES
+Estava em casa
 
-Entenda o que é a E.coli, bactéria que pode causar infecção no intestino e até na corrente sanguínea
+iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió
 
-Entenda o que é a E.coli, bactéria que pode causar infecção no intestino e até na corrente sanguínea](https://www.tnh1.com.br/noticia/nid/entenda-o-que-e-a-ecoli-bacteria-que-pode-causar-infeccao-no-intestino-e-ate-na-corrente-sanguinea/ "Entenda o que é a E.coli, bactéria que pode causar infecção no intestino e até na corrente sanguínea")[![Em carta aberta, namorada de Liam Payne revela bilhete dado pelo cantor](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/6/csm_namorada-Liam-payne-reproducao_dd0ac34720.jpg)
+iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")[![Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/7/csm_senac_1_0383381164.jpg)
 
-trágica morte
+Educação
 
-trágica morte
+Educação
 
-Em carta aberta, namorada de Liam Payne revela bilhete dado pelo cantor
+Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste
 
-Em carta aberta, namorada de Liam Payne revela bilhete dado pelo cantor](https://www.tnh1.com.br/noticia/nid/em-carta-aberta-namorada-de-liam-payne-revela-bilhete-dado-pelo-cantor/ "Em carta aberta, namorada de Liam Payne revela bilhete dado pelo cantor")
+Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste](https://www.tnh1.com.br/noticia/nid/senac-alagoas-entrega-equipamentos-inovadores-para-populacao-de-maceio-e-do-agreste/ "Senac Alagoas entrega equipamentos inovadores para população de Maceió e do Agreste")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
