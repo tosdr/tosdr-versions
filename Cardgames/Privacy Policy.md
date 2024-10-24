@@ -8,18 +8,18 @@ Random game
 
 OUR OTHER SITES [SPACEBUGS.IO](https://spacebugs.io/) [SUDOKU.LOL](https://sudoku.lol/)
 
-CLOSE GAME MENU [Customize...](#customize-menu)
+CLOSE GAME MENU [Customize...](#customize-menu) [Hide 'Home' link](#hide-home)
 
 Advertisement
 
-[Hearts](https://cardgames.io/hearts/) [Solitaire](https://cardgames.io/solitaire/) [Spades](https://cardgames.io/spades/) [FreeCell](https://cardgames.io/freecell/) [Cribbage](https://cardgames.io/cribbage/) [Yahtzee](https://cardgames.io/yahtzee/) [Gin Rummy](https://cardgames.io/ginrummy/) [Canasta](https://cardgames.io/canasta/) [More games...](#more-games)
+[Hearts](https://cardgames.io/hearts/) [Solitaire](https://cardgames.io/solitaire/) [Spades](https://cardgames.io/spades/) [FreeCell](https://cardgames.io/freecell/) [Cribbage](https://cardgames.io/cribbage/) [Yahtzee](https://cardgames.io/yahtzee/) [Gin Rummy](https://cardgames.io/ginrummy/) [Canasta](https://cardgames.io/canasta/) [Home](https://cardgames.io/) [More games...](#more-games)
 
 PRIVACY POLICY
 ==============
 
 Advertisement
 
-This site, [CardGames.io](https://cardgames.io/), is created by Rauðás Hugbúnaður ehf ("Red Ace Software LLC"), a small software company in Iceland. Here we will explain what data we store and for what purpose, how we store it, how we use cookies and related technologies and how our advertising works. You can also [manage your cookie settings](#settings).
+This site, [CardGames.io](https://cardgames.io/), is created by Rauðás Games ehf ("RedAce Games LLC"), a small software company in Iceland. Here we will explain what data we store and for what purpose, how we store it, how we use cookies and related technologies and how our advertising works. You can also [manage your cookie settings](#settings).
 
 ### Personal information
 
@@ -113,7 +113,7 @@ If you would like more information about any of the above, please do not hesitat
 
 Click here to go back to the frontpage.
 
-This is version 1.20.0 of CardGames.io.
+This is version 1.21.0 of CardGames.io.
 
 Game failed to load
 -------------------
