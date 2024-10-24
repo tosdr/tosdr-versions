@@ -36,7 +36,7 @@ En algunos casos, podremos cobrar una tarifa por el uso de los servicios que int
 
 Mercado Libre es una compañía de tecnología que ofrece servicios vinculados principalmente al comercio electrónico y a los pagos digitales. 
 
-Los servicios que ofrece Mercado Libre en los sitios [www.mercadolibre.com.ar](http://www.mercadolibre.com.ar/) y [www.mercadopago.com.ar](https://www.mercadopago.com.ar/) y sus aplicaciones móviles (de ahora en más: “Sitio”) están diseñados para formar un ecosistema que permita a las personas vender, comprar, pagar, enviar productos y realizar otras actividades comerciales con tecnología aplicada (de ahora en más:“Ecosistema MELI”).
+Los servicios que ofrece Mercado Libre en los sitios [www.mercadolibre.com.ar](https://www.mercadolibre.com.ar/) y [www.mercadopago.com.ar](https://www.mercadopago.com.ar/) y sus aplicaciones móviles (de ahora en más: “Sitio”) están diseñados para formar un ecosistema que permita a las personas vender, comprar, pagar, enviar productos y realizar otras actividades comerciales con tecnología aplicada (de ahora en más:“Ecosistema MELI”).
 
 **2- Términos y Condiciones**
 -----------------------------
@@ -70,7 +70,7 @@ Además, en caso de detectar el uso de más de una cuenta, podremos aplicar rete
 5- Privacidad de datos
 ----------------------
 
-En Mercado Libre hacemos un uso responsable de la información personal, protegiendo la privacidad de las Personas Usuarias que nos confiaron sus datos y tomando las medidas necesarias para garantizar la seguridad en nuestro Ecosistema MELI. [Conocé más sobre nuestra Declaración de Privacidad.](http://www.mercadolibre.com.ar/privacidad/declaracion-privacidad)
+En Mercado Libre hacemos un uso responsable de la información personal, protegiendo la privacidad de las Personas Usuarias que nos confiaron sus datos y tomando las medidas necesarias para garantizar la seguridad en nuestro Ecosistema MELI. [Conocé más sobre nuestra Declaración de Privacidad.](https://www.mercadolibre.com.ar/privacidad/declaracion-privacidad)
 
 6- Acceso a Otra Información Comercial
 --------------------------------------
