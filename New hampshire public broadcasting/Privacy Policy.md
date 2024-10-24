@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**October 23, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-23-2024-pbs-news-hour-full-episode-1729656001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 1 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-1-scene-mnxngx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Harris slams Trump after John Kelly sounds alarm** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1729716714?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Before** | Flicks](https://video.nhpbs.org/video/before-r5tk5g?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Do Sunflowers Face the Sunrise?** | Deep Look](https://video.nhpbs.org/video/why-do-sunflowers-face-the-sunrise-gayzzh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/trailer-american-coup-wilmington-1898?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Former DOJ Official Warns of Potential "Election Crisis"** | Amanpour and Company](https://video.nhpbs.org/video/former-doj-official-warns-of-potential-election-crisis-pls8m3?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Black, Latino and American: An Afro-Latina Voter** | VOCES: Latino Vote 2024](https://video.nhpbs.org/video/black-latino-and-american-an-afro-latina-voter-rwtand?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Can a River Be A Person?** | Crash Course Religions](https://video.nhpbs.org/video/can-a-river-be-a-person-78haft?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Former DOJ Official Warns of Potential "Election Crisis"** | Amanpour and Company](https://video.nhpbs.org/video/former-doj-official-warns-of-potential-election-crisis-pls8m3?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Unspoken Rules of Slasher Movies** | Monstrum](https://video.nhpbs.org/video/the-unspoken-rules-of-slasher-movies-dqctkq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Snacks** | Pan Pals](https://video.nhpbs.org/video/snacks-8qac9k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
