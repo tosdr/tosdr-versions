@@ -357,9 +357,9 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 * [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **91,132**
+* Surveys: **91,139**
 
-* Voters: **2,918,676**
+* Voters: **2,919,085**
 
 * Light / Dark / Auto
 
