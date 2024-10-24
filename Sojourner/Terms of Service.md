@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d9463dca7800c9a6de840fcfbf614225
+aea1adc5641c768af0b655928cce7927
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Luxurious Lapis necklace](https://sojourner.biz/images/cache/jewelry/N0103.200.webp)](https://sojourner.biz/jewelry/necklaces/luxurious-lapis-necklace.html "Luxurious Lapis necklace")
+[![Blue flower clasp](https://sojourner.biz/images/cache/SKU0051variations.200.jpg)](https://sojourner.biz/clasps/glass/blue-flower-clasp.html "Blue flower clasp")
 
-#### [Luxurious Lapis necklace](https://sojourner.biz/jewelry/necklaces/luxurious-lapis-necklace.html "Luxurious Lapis necklace")
+#### [Blue flower clasp](https://sojourner.biz/clasps/glass/blue-flower-clasp.html "Blue flower clasp")
 
-$395.00
+$41.00
 
 ### Best Sellers
 
