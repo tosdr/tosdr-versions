@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Biden Issues Nation’s 1st National Security Memorandum on AI](https://www.theepochtimes.com/us/biden-issues-nations-1st-national-security-memorandum-on-ai-5747220)
+    
+    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![Biden Issues Nation’s 1st National Security Memorandum on AI](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Issues Nation’s 1st National Security Memorandum on AI](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707042-GettyImages-2167040024-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-issues-nations-1st-national-security-memorandum-on-ai-5747220)
+* [Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://www.theepochtimes.com/us/fifth-womens-college-volleyball-team-forfeits-match-against-san-jose-state-5746604)
+    
+    NEW By [Cynthia Cai](https://www.theepochtimes.com/author/cynthia-cai)
+    
+    [![Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://img.theepochtimes.com/assets/uploads/2020/10/24/SJSU-205x123.jpg.webp)](https://www.theepochtimes.com/us/fifth-womens-college-volleyball-team-forfeits-match-against-san-jose-state-5746604)
+* [Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://www.theepochtimes.com/us/weekly-jobless-claims-tumble-as-hurricane-labor-dispute-effects-recede-5747126)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745983-GettyImages-2175609529-205x123.jpeg.webp)](https://www.theepochtimes.com/us/weekly-jobless-claims-tumble-as-hurricane-labor-dispute-effects-recede-5747126)
+* [Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://www.theepochtimes.com/world/analysis-bad-blood-between-allies-tangled-web-of-allegations-in-canada-india-spat-5746460)
+    
+    1hr By [Omid Ghoreishi](https://www.theepochtimes.com/author/omid-ghoreishi), Epoch Times
+    
+    [![Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747211-GettyImages-1653680907-205x123.jpg.webp)](https://www.theepochtimes.com/world/analysis-bad-blood-between-allies-tangled-web-of-allegations-in-canada-india-spat-5746460)
+* [Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://www.theepochtimes.com/world/turkey-launches-fresh-strikes-on-kurdish-terrorists-in-syria-and-iraq-following-terrorist-attack-5747039)
+    
+    1hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747094-c9s-205x123.jpg.webp)](https://www.theepochtimes.com/world/turkey-launches-fresh-strikes-on-kurdish-terrorists-in-syria-and-iraq-following-terrorist-attack-5747039)
+* [New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://www.theepochtimes.com/us/new-epa-standards-target-lead-paint-dust-in-homes-child-care-facilities-5747105)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666310-06102024-DSC04223-Environmental-Protection-Agency-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-epa-standards-target-lead-paint-dust-in-homes-child-care-facilities-5747105)
+* [Tax Filings Due in 8 States Next Week: IRS](https://www.theepochtimes.com/us/tax-filings-due-in-8-states-next-week-irs-5747090)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Tax Filings Due in 8 States Next Week: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tax Filings Due in 8 States Next Week: IRS](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720224-GettyImages-56043781-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tax-filings-due-in-8-states-next-week-irs-5747090)
+* [Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://www.theepochtimes.com/us/navy-veteran-suing-cnn-for-defamation-did-not-act-criminally-or-illegally-court-5747049)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747114-06262024-DSC05897-presidential-debate-Atlanta-Georgia-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/navy-veteran-suing-cnn-for-defamation-did-not-act-criminally-or-illegally-court-5747049)
+* [Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-provisional-ballots-allowed-if-mail-in-ballot-rejected-5746886)
+    
+    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-provisional-ballots-allowed-if-mail-in-ballot-rejected-5746886)
 * [From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746484-Wisconsin-Voting-iii-_JF_10222024-205x123.jpg.webp)](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
-* [Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://www.theepochtimes.com/us/supreme-court-headed-toward-potentially-game-changing-decision-over-gender-disputes-5744815)
-    
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746873-10232024-DSC06718-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-headed-toward-potentially-game-changing-decision-over-gender-disputes-5744815)
-* [5 Takeaways from Harris Town Hall on CNN](https://www.theepochtimes.com/us/5-takeaways-from-harris-town-hall-on-cnn-5746438)
-    
-    1hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![5 Takeaways from Harris Town Hall on CNN](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Takeaways from Harris Town Hall on CNN](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747032-Harris-Town-hall-CNN-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-harris-town-hall-on-cnn-5746438)
-* [Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://www.theepochtimes.com/us/sparks-fly-over-trump-health-care-in-heated-vermont-senate-debate-5746924)
-    
-    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747029-Bernie-Sanders-205x123.jpg.webp)](https://www.theepochtimes.com/us/sparks-fly-over-trump-health-care-in-heated-vermont-senate-debate-5746924)
-* [Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://www.theepochtimes.com/us/sullivan-defends-us-tariffs-on-china-says-past-policies-failed-5746834)
-    
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714871-GettyImages-2168222251-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/sullivan-defends-us-tariffs-on-china-says-past-policies-failed-5746834)
-* [Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://www.theepochtimes.com/us/trump-planned-car-loan-tax-deductions-solely-for-us-made-vehicles-5746883)
-    
-    4hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746326-GettyImages-2180354500-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-planned-car-loan-tax-deductions-solely-for-us-made-vehicles-5746883)
-* [Boeing Workers Reject Latest Contract Offer](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744382-Boeing-strike-GettyImages-2177902765-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
-* [Two Lawmakers Attempt the Impossible: Saving Social Security](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
-    
-    7hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
-    
-    [![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746758-Social-Security-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
-* [American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
-    
-    8hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/uploads/2024/08/02/id5698901-Passenger_Sentenced_24215672763743-205x123.jpg.webp)](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
-* [Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744163-GettyImages-2178247386-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
