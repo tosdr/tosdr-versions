@@ -4,9 +4,7 @@ Call us at  [970.744.3340](tel:970-744-3340)
 
 [Login](https://app.choozle.com/users/login?_ga=2.129282191.2076809653.1718177524-77892844.1718177524)
 
-[![Choozle Logo white](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20656%20175'%3E%3C/svg%3E)
-
-![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
+[![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
 Menu
 
@@ -368,9 +366,7 @@ To learn more about our involvement with and adherence to industry standards, pl
 
 Effective date March 10, 2022
 
-[![Choozle Logo white](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20656%20175'%3E%3C/svg%3E)
-
-![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
+[![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
 
 Solution
 
