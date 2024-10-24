@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [GOA Vows to Continue Fight After 2nd Circuit Ruling in Antonyuk](https://www.thegunpage.com/goa-vows-to-continue-fight-after-2nd-circuit-ruling-in-antonyuk/10611423)
+* [Is Banning Fake Guns South Africa’s Next Step?](https://www.thegunpage.com/is-banning-fake-guns-south-africas-next-step/10611421)
+* [Hornady Introduces a High Speed 3-in-1 Power Case Trimmer](https://www.thegunpage.com/hornady-introduces-a-high-speed-3-in-1-power-case-trimmer/10611419)
+* [FBI And DEA Gun Parts Slated For Destruction Found In Seized Ghost Gun](https://www.thegunpage.com/fbi-and-dea-gun-parts-slated-for-destruction-found-in-seized-ghost-gun/10611418)
+* [TFB Behind the Gun #138: An Interview With Joe from Desk Pop](https://www.thegunpage.com/tfb-behind-the-gun-138-an-interview-with-joe-from-desk-pop/10611420)
+* [More Support For Challenges To New Massachusetts Gun Law](https://www.thegunpage.com/more-support-for-challenges-to-new-massachusetts-gun-law/10611416)
 * [NRA Debuts Smallbore Position Championship, Service Rifle Shooter Dominates High Power Field: 1957 National Matches](https://www.thegunpage.com/nra-debuts-smallbore-position-championship-service-rifle-shooter-dominates-high-power-field-1957-national-matches/10611414)
 * [Classic SSUSA: Steel Magnolias](https://www.thegunpage.com/classic-ssusa-steel-magnolias/10611415)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 6](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-6/10611409)
 * [Wheelgun Wednesday: Ruger New Model Blackhawk Convertible](https://www.thegunpage.com/wheelgun-wednesday-ruger-new-model-blackhawk-convertible/10611410)
-* [POTD: Jack Carr – Bravo Company USA](https://www.thegunpage.com/potd-jack-carr-bravo-company-usa/10611411)
-* [Girsan Regard MC: Turkish M9 Clone Review](https://www.thegunpage.com/girsan-regard-mc-turkish-m9-clone-review/10611404)
-* [Armed Citizen Stops A Man Trying To Run Over Three People](https://www.thegunpage.com/armed-citizen-stops-a-man-trying-to-run-over-three-people/10611402)
-* [Mimic Your Match Rifle Loads With Hornady Aeromatch Bullets](https://www.thegunpage.com/mimic-your-match-rifle-loads-with-hornady-aeromatch-bullets/10611406)
-* [KRG Now Shipping Echo Chassis for Tikka Rifles](https://www.thegunpage.com/krg-now-shipping-echo-chassis-for-tikka-rifles/10611407)
-* [2025 NRA National Indoor Sectional Championships: Tournament Sanctioning To Begin Dec. 1, 2024](https://www.thegunpage.com/2025-nra-national-indoor-sectional-championships-tournament-sanctioning-to-begin-dec-1-2024/10611408)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
