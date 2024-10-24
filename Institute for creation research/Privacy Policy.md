@@ -96,67 +96,89 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Q&A
+More Man Was Recently and Miraculously Created in the Image of God
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/why_dont_they_believe_Creation.jpg)](https://www.icr.org/article/why-dont-they-believe-in-creation)
+[![](/i/Main%20Stage%20-%201400x1050/dollydino-1400x1050)](https://www.icr.org/article/so-sad-about-dino-disease)
 
-[Why Don't They Believe in Creation?](https://www.icr.org/article/why-dont-they-believe-in-creation/)
+[What's So Sad About This Dino's Disease?](https://www.icr.org/article/so-sad-about-dino-disease/)
 
-After an ICR scientist presents convincing evidence for biblical creation, listeners often ask, “If all you just said is true, then why don’t...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/q%26a_chimp_smile_wide.jpg)](https://www.icr.org/article/why-dont-chimps-smile)
-
-[Why Don't Chimps Smile?](https://www.icr.org/article/why-dont-chimps-smile/)
-
-Chimpanzees might appear human-like to those who’ve decided that humans evolved from primates. But these people tend to ignore big differences....
+Scientists described the first evidence of a possible respiratory illness in a fossil. The common soil fungus Aspergillis can infect birds and reptiles...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/af1712_square7_248_cro_magnon.jpg)](https://www.icr.org/article/who-were-cro-magnon-people)
+[![](/i/wide/neuron_packed_bird_brain_wide.jpg)](https://www.icr.org/article/neuron-packed-bird-brains-point-creation)
 
-[Who Were Cro-Magnon People?](https://www.icr.org/article/who-were-cro-magnon-people/)
+[Neuron-Packed Bird Brains Point to Creation](https://www.icr.org/article/neuron-packed-bird-brains-point-creation/)
 
-If you’re like me, you appreciate the variations God designed the human frame to express. Wide or narrow, tiny or giant, having high or shallow...
+The amazing ability of birds to achieve ape-level cognitive traits—and in some cases exceed them like when they emulate human speech—has...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/Main%20Stage%20-%201400x1050/ukcountryside-1400x1050)](https://www.icr.org/article/family-stories-ancient-dna)
+
+[Family Stories Told by Ancient DNA](https://www.icr.org/article/family-stories-ancient-dna/)
+
+A group of scientists—including archaeologists from Newcastle University, UK, and geneticists from the University of the Basque Country, University...
+
+BY: [CHANGE L. TAN](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=255)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/butterfliesandcancer_1400x1050.jpg)](https://www.icr.org/article/butterflies-detect-cancer)
+
+[Butterflies and Cancer Detection](https://www.icr.org/article/butterflies-detect-cancer/)
+
+It’s something right out of science fiction. The beautiful, flighty butterfly has been discovered to have cancer detection properties via the...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/ChasAndPatti-1400x1050)](https://www.icr.org/article/remembering-patti-morse)
+
+[Remembering Patti Morse](https://www.icr.org/article/remembering-patti-morse/)
+
+But none of these things move me; nor do I count my life dear to myself, so that I may finish my race with joy, and the ministry which I received from...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+[![](/i/Main%20Stage%20-%201400x1050/DragonflyMigrationNews-1400x1050)](https://www.icr.org/article/ocean-dragonfly-migration)
+
+[Open Ocean Dragonfly Migration Boggles the Mind](https://www.icr.org/article/ocean-dragonfly-migration/)
+
+Animal migrations occur all over the earth among many types of creatures, with some winged creatures (birds and insects) making the most extreme and lengthy...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
-
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
-
-$2.99
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
-
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
 
 $4.99
 
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
+
+The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+
+The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
+
+Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/34464783/file.jpg)
 
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+Chimps and Humans](https://store.icr.org/chimps-and-humans.html)
 
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+$19.99
 
 $29.99
 
