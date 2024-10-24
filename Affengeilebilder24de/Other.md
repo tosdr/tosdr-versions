@@ -1,12 +1,6 @@
 [Direkt zum Inhalt](#main)
 
-Zurück
-
-+++ ACHTUNG +++ unser Support ist aktuell nicht unter support@affengeilebilder24.de zu erreichen!!! Nutzt bitte vorübergehend die info@affengeilebilder24.de
-
 gruseliger HERBSTSALE: 3für2 - kaufe 3, zahle nur 2 (das günstigste schenken wir dir)
-
-Weiter
 
 Navigation[](https://affengeilebilder24.de/search)
 
