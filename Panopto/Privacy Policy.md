@@ -29,7 +29,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Panopto Access AI](https://www.panopto.com/product-add-ons/access-ai/)
         * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
-        * [\>> See all Add-ons](https://www.panopto.com/add-ons/)
+        * [\>> See all Add-ons](https://www.panopto.com/product-add-ons/)
     
 * Elai Generative AI Video
     
@@ -142,7 +142,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 * Support
     * [Support Center](https://www.panopto.com/support/)
     * [Panopto Community](https://community.panopto.com/)
-    * [Get a Demo](https://www.panopto.com/demo/)
+    * [Get a Demo](https://www.panopto.com/schedule-demo/)
     * [Contact Sales](https://www.panopto.com/contact-us/)
     * [For Students](https://www.panopto.com/support/for-students/)
 
