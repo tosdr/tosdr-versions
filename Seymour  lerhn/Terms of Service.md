@@ -13,8 +13,8 @@ You are here » [Home](https://www.seymourlerhn.com/) » Terms & Conditions
 [](https://www.seymourlerhn.com/feed/)
 
 * [01246 622622](tel:01246622622)
-* [30-Day Free Membership](https://mailchi.mp/f802c89193c3/sign-up-website)
-* [Login](https://mailchi.mp/f802c89193c3/sign-up-website)
+* [Enjoy 30-Days Free Access](https://www.seymourlerhn.com/platform)
+* [Login](https://www.seymourlerhn.com/platform)
 
 [](#)
 
