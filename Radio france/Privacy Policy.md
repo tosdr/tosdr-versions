@@ -55,6 +55,7 @@ Menu principal
             * [Raison d'être](https://www.radiofrance.com/raison-detre "Raison d'être")
             * [Une information de confiance](https://www.radiofrance.com/pour-une-information-de-confiance-radio-france-sengage "Une information de confiance")
             * [Le Tournant](https://www.radiofrance.com/le-tournant "Le Tournant")
+            * [charte d'engagements et d'usages de l'IA](https://www.radiofrance.com/mettre-lintelligence-artificielle-au-service-des-missions-de-radio-france "charte d'engagements et d'usages de l'IA")
             * [RSE](https://www.radiofrance.com/rse "RSE")
             * [Diversité et Egalité](https://www.radiofrance.com/diversite-et-egalite "Diversité et Egalité")
             * [Protection des données](https://www.radiofrance.com/protection-des-donnees "Protection des données")
@@ -110,7 +111,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1729760526)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1729782554)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
@@ -191,7 +192,7 @@ Concernant le cas particulier des Cookies, les Utilisateurs peuvent se rendre su
 
 Radio France veille à prendre toutes les précautions utiles afin d’assurer la sécurité, l’intégrité et la confidentialité des données personnelles des Utilisateurs. En effet, Radio France met en place une protection des données renforcée par des mesures techniques et organisationnelles appropriées. Ces mesures importantes et nécessaires sont prises afin de se prémunir notamment contre tout accès illicite ou accidentel, toute utilisation (altération, destruction, etc.), perte, divulgation ou modification non autorisée et contre tout détournement des données.
 
-### ​​​​​​​Le respect des finalités
+### Le respect des finalités
 
 Radio France traite les données personnelles des Utilisateurs uniquement dans un but précis, légal et légitime.
 
