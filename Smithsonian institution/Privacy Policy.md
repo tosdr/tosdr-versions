@@ -6,7 +6,7 @@ Site Navigation
 ---------------
 
 * [Visit](https://www.si.edu/visit)
-    * [Museums and Zoo Hours](https://www.si.edu/visit/hours)
+    * [Museums and Zoo](https://www.si.edu/visit/hours)
     * [Entry and Guidelines](https://www.si.edu/visit/tips)
     * [Maps and Brochures](https://www.si.edu/visit/maps)
     * [Dining and Shopping](https://www.si.edu/dining)
