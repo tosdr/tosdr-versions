@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Navy names newest nuclear-powered submarine U.S.S. Atlanta](https://www.ajc.com/news/atlanta-news/navy-names-newest-nuclear-powered-submarine-uss-atlanta/JF5DV6KMMVEBXDW64IOUM6YD7E/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1752)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1752)](https://www.ajc.com/)
 
 Log In
