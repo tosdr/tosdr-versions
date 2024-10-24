@@ -20,10 +20,22 @@
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
+* [Playlist](https://www.987thebull.com/recently-played)
 * [Show Schedule](https://www.987thebull.com/shows)
-* [Advertise With Us](https://www.alphamediausa.com/advertise)
+* [Advertise With Us](https://radioadvertisingportland.com/)
 
-[98.7 The Bull ![ Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/)](https://www.987thebull.com/) 
+* [Connect With Us](#)
+    * [Facebook](https://www.facebook.com/987TheBull)
+    * [Twitter](https://www.twitter.com/987TheBull)
+    * [Instagram](https://www.instagram.com/987TheBull)
+    * [YouTube](https://www.youtube.com/user/987TheBull)
+    * [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
+* [Listen To Us](#)
+    * [iHeart](https://www.iheart.com/live/987-the-bull-7574/)
+    * [TuneIn](https://tunein.com/radio/987-The-Bull-s35937/)
+    * [Audacy](https://go.audacy.com/987thebull/partner)
+
+[98.7 The Bull ![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/) 
 
 * [Look](https://www.987thebull.com/videos/)
     
@@ -49,7 +61,13 @@
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
-[](https://www.alphamediaplayer.com/)[](https://www.alphamediaplayer.com/)
+* [Facebook](https://www.facebook.com/987TheBull)
+* [Twitter](https://www.twitter.com/987TheBull)
+* [Instagram](https://www.instagram.com/987TheBull)
+* [YouTube](https://www.youtube.com/user/987TheBull)
+* [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
+
+[](https://www.alphamediaplayer.com/987thebull)[](https://www.alphamediaplayer.com/987thebull)
 
 [View Playlist History](https://www.987thebull.com/recently-played)
 
@@ -324,15 +342,34 @@ If we cannot verify your identity, we may deny your request in whole or in part.
 
 Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
-[![ Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/)](https://www.987thebull.com/)
+Recently Played
+---------------
+
+|     |
+| --- |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>5:40pm |
+| Get AlongKenny Chesney<br><br>5:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>5:34pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:25pm |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>5:22pm |
+
+[View Full Playlist](https://www.987thebull.com/recently-played)
+
+[![98.7 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KUPL.png)](https://www.987thebull.com/)
 
 * [Careers](https://www.alphamediausa.com/careers)
-* [Advertise With Us](https://www.alphamediausa.com/advertise)
+* [Advertise With Us](https://radioadvertisingportland.com/)
 * [Contact Us](https://www.987thebull.com/contact)
 * [Privacy Policy](https://www.987thebull.com/privacy-policy)
 * [Terms Of Use](https://www.987thebull.com/terms-of-use)
 * [Accessibility Statement](https://www.alphamediausa.com/accessibility-statement)
 * [Contest Rules](https://www.987thebull.com/category/contest-rules)
+* [EEO Report](https://www.alphamediausa.com/wp-content/uploads/brand/eeo-report/Alpha_Portland_Oregon_2023-24_EEO_PFR.pdf)
+* [KUPL Public Inspection File](https://publicfiles.fcc.gov/fm-profile/KUPL)
+    
+    If you have a disability preventing you from viewing this file, please contact [\[email protected\]](https://www.987thebull.com/cdn-cgi/l/email-protection)
+    
+* [FCC Applications](https://www.987thebull.com/fcc-applications)
 * [Cookie Preferences](#cc-settings)
 * [![](https://www.987thebull.com/wp-content/themes/blacklab/assets/img/svg/privacyoptions.svg)Your Privacy Choices](https://www.987thebull.com/notice-of-right-to-opt-out)
 * [CA Residents: Notice at Collection](https://www.987thebull.com/privacy-policy/#section-2)
@@ -462,13 +499,13 @@ Featured Brands
 
 News Talk • Eastern
 
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
