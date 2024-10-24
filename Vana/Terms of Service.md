@@ -70,7 +70,7 @@ Fund your Satori testnet wallet](https://faucet.vana.org/)[![](https://cdn.prod.
 
 Block Explorer
 
-Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c39db845f8275f63ec0583_symmetric-seeklogo.svg)
+Explore Satori transactions, data DAOs, and data smart contracts](https://vanascan.io/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c39db845f8275f63ec0583_symmetric-seeklogo.svg)
 
 Symmetric
 
@@ -138,7 +138,7 @@ Data Portability Layer
 
 Build your own
 
-Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
+Build with user-owned data](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
 
 Chirper
 
@@ -154,11 +154,11 @@ Developers
 
 Run a validator
 
-Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+Secure the network through proof-of-contribution](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
 
 Start a DLP
 
-Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+Select a user-owned dataset and get rewarded](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
 
 Docs
 
@@ -457,7 +457,7 @@ Ecosystem
 
 Documentation
 
-[Run a validator](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a Data DAO (DLP)](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[FAQ](https://docs.vana.org/vana/undefined/faq)
+[Run a validator](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[Start a Data DAO (DLP)](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[FAQ](https://docs.vana.org/vana/undefined/faq)
 
 Company
 
