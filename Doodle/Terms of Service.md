@@ -227,7 +227,125 @@ You acknowledge that the covenants set forth in these GTC are intended solely fo
 
 Doodle’s waiver of any breach or violation of these GTC by you shall not be construed as a waiver of any other present or future breach or breaches by you.
 
-Last updated: 29th September, 2023
+### Appendix 1 - Data Processing Addendum
+
+This Data Processing Addendum, including the exhibits to it (“**DPA**”), is incorporated into the [General Terms and Conditions](https://doodle.com/en/general-terms-and-conditions/) (the “**Agreement**”) that are between you (together, with any subsidiaries and affiliated entities, collectively, “**Customer**” or “**Controller**”) and Doodle AG with the business address of _Werdstrasse 21, 8004 Zürich, Switzerland_ (together, with any subsidiaries and affiliated entities, collectively “**Doodle**” or “**Processor**”) and sets forth additional terms that apply to the extent any information you provide to Doodle pursuant to the Agreement includes Personal Data (as defined below).
+
+**DEFINITIONS**
+
+A. **_“CCPA”_** means the California Consumer Privacy Act (California Consumer Privacy Act of 2018, Cal. Civ. Code § \[1798.100 - 1798.199.100\]​​) as amended, including by the California Privacy Rights Act of 2020 and its implementing regulations.
+
+B. **_“Data Privacy Framework(s)”_** means, as applicable, the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework developed by the US Department of Commerce and the European Commission, UK Government, and Swiss Federal Administration permitting organisations participating in such Data Privacy Frameworks to receive Personal Data from the European Union / European Economic Area, the UK and Gibraltar, and Switzerland in compliance with applicable Data Protection Laws in those regions.
+
+C. **_“Data Protection Laws”_** means all applicable federal, state, and foreign data protection, privacy and data security laws, as well as applicable regulations and formal directives intended by their nature to have the force of law, all as amended from time to time, including, without limitation, the EU Data Protection Laws, UK Data Protection Laws, the Swiss Data Protection Laws, the Privacy Act 1988, the Personal Information Protection and Electronic Documents Act, and United States state privacy laws, including the CCPA,  and the privacy laws of Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and Montana. 
+
+D. **_“Data Subject”_** means the individual or consumer to whom Personal Data relates.
+
+E. **_“Data Subject Request”_** means a request by a Data Subject to exercise rights afforded by Data Protection Laws with respect to the Data Subject’s Personal Data.
+
+F. **_“EU Data Protection Laws”_** means GDPR together with any applicable implementing legislation or regulations, as well as European Union or Member State laws, as amended from time to time. 
+
+G. **_“GDPR”_** means the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data.) 
+
+H. **_“Personal Data”_** means any Customer Data relating to an identified or identifiable natural person that is Processed by Doodle on behalf of Customer in connection with providing the Services to Customer, when such information is protected as “personal data” or “personal information” or a similar term under Data Protection Law(s). 
+
+I. **_“Process”_** or **_“Processing”_** means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction. 
+
+J. **_“Security Breach”_** means a confirmed breach of Doodle’s information security measures leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to Personal Data covered by this DPA. 
+
+K. **_“Services”_** means the services provided by Doodle to Customer under the Agreement. 
+
+L. **_“Standard Contractual Clauses”_** or **_“SCCs”_** means the model clauses for the transfer of Personal Data to processors established in third countries approved by the European Commission, the approved version of which is set out in the European Commission Implementing Decision 2021/914 of 4 June 2021 and at:
+
+ [https://eur-lex.europa.eu/eli/dec\_impl/2021/914/oj?uri=CELEX%3A32021D0914&locale=e](https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?uri=CELEX%3A32021D0914&locale=e). 
+
+M. **_“Swiss Data Protection Laws”_** means all laws relating to data protection, the Processing of Personal Data, privacy and/or electronic communications in force from time to time in Switzerland, including the Federal Act on Data Protection of June 19, 1992 and its ordinances, and, once it entered into force, in accordance with Article 16 paragraph 2 letter d of the future revised Swiss Federal Act on Data Protection dated 25 September 2020 (collectively, “FADP”).
+
+N. **_“UK Data Protection Laws”_** means all laws relating to data protection, the Processing of Personal Data, privacy and/or electronic communications in force from time to time in the United Kingdom (“UK”), including the United Kingdom GDPR and the Data Protection Act 2018.
+
+O. **_“UK GDPR”_** means the United Kingdom General Data Protection Regulation, as it forms part of the law of the United Kingdom by virtue of section 3 of the European Union (Withdrawal) Act 2018.
+
+P. The terms **_“Processor”_** and **_“Controller”_** shall have the meanings given to them under the applicable Data Protection Law. Any capitalised terms herein that are not defined in this DPA shall have the meanings associated with them in the Agreement and are hereby adopted by reference in this Addendum.
+
+**PROCESSING AND TRANSFER OF PERSONAL DATA**
+
+A. **Customer Obligations.** Customer is the Controller of Personal Data and shall (a) determine the purpose and essential means of the Processing of Personal Data in accordance with the Agreement; (b) be responsible for the accuracy of Personal Data; and (c) comply with its obligations under Data Protection Laws, including, when applicable, ensuring Customer has a lawful basis to collect Personal Data, providing Data Subjects with any required notices, and/or obtaining the Data Subject’s consent to process the Personal Data.
+
+B. **Doodle Obligations.** Doodle is the Processor of Personal Data and shall **(a)** Process Personal Data on Customer’s behalf in accordance with Customer’s written instructions (unless waived in a written requirement) provided during the term of this DPA; and **(b)** comply with its obligations under Data Protection Laws. A description of the processing of Personal Data intended to be carried out under this DPA is set out in Annex 1. The parties agree that the Agreement, including this DPA, together with Customer’s use of the Services in compliance with the Agreement, constitute Customer’s complete and final written instruction to Doodle in relation to the Processing of Personal Data, and additional instructions outside the scope of these instructions shall require a prior written and mutually executed agreement between Customer and Doodle. In the event Doodle reasonably believes there is a conflict with any Data Protection Law and Customer’s instructions, Doodle will inform Customer promptly and the parties shall cooperate in good faith to resolve the conflict and achieve the goals of such instruction. 
+
+C. **Data Use.** Doodle shall not use Personal Data, except for usage of Personal Data pursuant to Customer’s instructions, as permitted under the Agreement and as necessary to bring and defend claims, to comply with requirements of the legal process, to cooperate with regulatory authorities, and to exercise other similar permissible uses as expressly provided under Data Protection Laws.
+
+D. **Location of Processing.** The parties acknowledge and agree that processing of the Personal Data will occur in the European Union (EU) and perhaps other jurisdictions outside the residence of the Data Subjects, and Customer shall comply with all notice and consent requirements for such transfer and processing to the extent required by Data Protection Laws.
+
+E. **Return or Destruction of Data.** Doodle shall return or securely destroy Personal Data, in accordance with Customer’s instructions, upon Customer’s request or upon termination of Customer’s account(s) unless Personal Data must be retained to comply with applicable law.
+
+**SWISS, EU, AND UK DATA PROTECTION LAWS**
+
+This Section shall apply with respect to Processing of Personal Data when such Processing is subject to the Swiss Data Protection Laws, EU Data Protection Laws, or UK Data Protection Laws.
+
+A. **Transfers of Personal Data.** Customer acknowledges and agrees that Doodle is located in the European Economic Area (“EEA”). All transfers of Customer Personal Data out of the EU (“EU Personal Data”), Switzerland (“Swiss Personal Data”) or the United Kingdom (“UK Personal Data”) shall be governed by a data transfer agreement in a form prescribed by applicable Data Protection Laws (e.g. Standard Contractual Clauses or equivalent), to the extent that the formalisation of such a document represents a valid means of transferring Personal Data outside of the EEA or the relevant jurisdiction.
+
+B. **GDPR and UK GDPR Obligations.** Doodle shall: **(i)** assist Customer, to a reasonable extent, in complying with its obligations with respect to EU Personal Data pursuant to Articles 32 to 36 of GDPR (or their equivalent under UK Data Protection Laws for UK Personal Data); **(ii)** maintain a record of all categories of Processing activities carried out on behalf of Customer in accordance with Article 30(2) of the GDPR (or their equivalent under UK Data Protection Laws for UK Personal Data); and **(iii)** cooperate, on request, with an EU or UK supervisory authority regarding the performance of the Services.
+
+**CCPA**
+
+A. **CCPA.** This Section applies to Doodle’s, and Doodle acts as Customer’s service provider with respect to, Processing of Personal Data subject to the CCPA. Customer discloses the Personal Data to Doodle, and Doodle shall Process such Personal Data only for the purposes as set out in this Agreement, including this DPA.
+
+B. Doodle shall not: a. sell or share the Personal Data; b. retain, use, or disclose the Personal Data  for any purpose, including a commercial purpose, other than the business purposes as set out in the Agreement, or  outside of the direct business relationship between the parties;  c. combine the Personal Data  with personal data that Doodle receives from, or on behalf of, another person or persons, or collects from its own interaction with the consumer, provided that Doodle may combine Personal Data to perform any business purpose as permitted by the CCPA.
+
+C. Doodle shall comply with obligations applicable to it as a service provider under the CCPA, and shall provide Personal Data with the same level of privacy protection as is required by the CCPA.
+
+D. Customer shall have the right to take reasonable and appropriate steps to help ensure that Doodle uses the Personal Data in a manner consistent with Customer’s obligations under the CCPA. The process for such steps shall be as set out in Section 8 below.
+
+E. Doodle shall notify Customer if it makes a determination that it can no longer meet its obligations as a service provider under the CCPA. If Doodle so notifies Customer, Customer shall have the right to take reasonable and appropriate steps to stop and remediate unauthorised use of Personal Data.     F. For any sub-processors used by Doodle to process Personal Data subject to the CCPA, in addition to its obligations in Section 5 below, Doodle’s agreement with any such sub-processor shall obligate such sub-processor to observe its requirements under the CCPA.
+
+G. For purposes of this Section 4, the terms “consumer”, “service provider”, “sell” and “share” shall have the meanings given to them under the CCPA.
+
+**SUB-PROCESSORS**
+
+A. **Sub-processor List.** Customer consents to Doodle’s use of sub-processors who may Process Personal Data on behalf of Customer to help Doodle provide the Services. Doodle may update its list of sub-processors from time to time, and shall make available any updates to such list [here](https://doodle.com/en/data-subprocessors/).
+
+B. **Sub-processor Agreements.** Doodle shall enter into a written agreement with any such sub-processor containing data protection obligations that are at least as restrictive as its obligations in this DPA.
+
+**DATA PROTECTION** A. **Data Security.** Doodle will utilise commercially reasonable technical and organisational measures to maintain the security, confidentiality, and integrity of the Personal Data, the details of which are set forth at the following link: [https://doodle.com/en/features/security](https://doodle.com/en/features/security)
+
+B. **Authorised Personnel.** Doodle shall ensure that Doodle’s employees, contractors, agents, and auditors who need to know or otherwise access Personal Data for the purposes of enabling Doodle to perform its obligations under the Agreement are under a duty of confidentiality with respect to the Personal Data.
+
+C. **Security Breaches.** Upon becoming aware of a Security Breach, Doodle will promptly: **(i)** notify Customer of the Security Breach; **(ii)** investigate the Security Breach; **(iii)** provide Customer with necessary details about the Security Breach as required by applicable law; and **(iv)** take reasonable actions to prevent a recurrence of the Security Breach. Doodle will make available relevant records and other materials related to the Security Breach’s effects on Customer as required to comply with Data Protection Laws.
+
+**ASSISTANCE**
+
+A. **Processor Assistance.** Upon Customer's written request, Doodle shall provide reasonable assistance to Customer as necessary in order to assist Customer with meeting its obligations under Data Protection Laws, including by providing information to Customer about Doodle’s technical and organisational security measures, and as needed to complete data protection assessments (the process for which is set out in the ‘Audits’ Section below).
+
+B. **Data Subject Requests.** If an Invitee, a Customer employee, or other applicable Data Subject makes a Data Subject Request to Doodle, Doodle will advise the Data Subject to submit their request directly to the Doodle customer who is the applicable Controller of that Personal Data, and will inform Customer of such request if the Data Subject identifies Customer as the applicable Controller to Doodle. Customer is responsible for Data Subject Requests. Doodle shall provide full cooperation and assistance to the Controller in relation to any request by data subjects to have access to Personal Data held about them or in relation to any other request, allegation or complaint by a competent authority or data subject, including notifying the Controller in writing without undue delay of receipt of any such notice or request. Contact information for data subject requests can be found on our [website](https://doodle.com/en/privacy-policy/#contact-person).
+
+C. **Costs.** If Doodle determines in good faith that a request for assistance under this Section is unreasonable, overly burdensome, and outside of industry expectation for assistance with each respective matter, the parties will agree in good faith on costs to be paid by Customer to Doodle for such assistance.
+
+**AUDITS**
+
+Within thirty (30) days of Customer’s written request, and no more than once annually, Doodle shall make available to Customer (or a mutually agreed upon third-party auditor) information reasonably necessary to demonstrate Doodle’s compliance with the obligations set forth in this DPA in the form of its most recent third party audit or certification report(s) (such as SOC 2 or Cloud Verify).  If, after receiving the report(s), Customer in its reasonable judgement determines that further information is needed to confirm that Doodle is meeting its obligations in this DPA or for Customer to complete a data protection assessment, Customer may request in writing such additional information. The parties will then work together in good faith to agree upon the additional information which Doodle shall provide, and Doodle will provide the agreed upon information. All information provided by Doodle under this Section is considered Doodle’s Confidential Information and is subject to the confidentiality obligations set forth in the Agreement.
+
+**DOODLE’S ROLE AS A CONTROLLER**
+
+The parties acknowledge and agree that Doodle processes certain personal data as a Controller which is described in, and processes it in accordance with, our Privacy Notice for the following purposes when EU, UK or Swiss Data Protection Laws apply to such personal data: **(i)** to manage the relationship with Customer, including creating customer accounts, handling billing, and performing sales and marketing activities; **(ii)** for purposes related to Doodle’s internal business operations, such as accounting, audits, tax preparation and filing and compliance purposes; **(iii)** to monitor, investigate, prevent and detect fraud, security incidents and other misuse of the Services; **(iv)** for identity verification purposes; **(v)** to comply with legal or regulatory obligations applicable to the processing and retention of personal data to which Doodle is subject; **(vi)** to develop, improve, and understand usage of its products and services, and **(vii)** as otherwise permitted under Data Protection Laws and as set out in Doodle’s Privacy Notice.
+
+**MISCELLANEOUS**
+
+A. **Conflict.** In the event of any conflict or inconsistency between this DPA and Data Protection Laws, Data Protection Laws shall prevail. In the event of any conflict or inconsistency between the terms of this DPA and the terms of the Agreement, the terms of this DPA shall prevail solely to the extent that the subject matter concerns the processing of Personal Data. 
+
+B. **Amendments.** This DPA shall not be modified except by a written instrument signed by the parties. To the extent that it is determined by any data protection authority that the Agreement or this DPA is insufficient to comply with Data Protection Laws or changes to Data Protection Laws, Customer and Doodle agree to cooperate in good faith to amend the Agreement or this DPA or enter into further mutually agreeable data processing agreements in an effort to comply with all Data Protection Laws. 
+
+C. **Liability.**  Each Party’s liability arising out of or related to this DPA, whether in contract, tort or under any other theory of liability, is subject to the limitations of liability contained in the Agreement. For the avoidance of doubt, each reference herein to the “DPA” means this DPA including its exhibits and annexes. 
+
+D. **Entire Agreement.**  This DPA is without prejudice to the rights and obligations of the parties under the Agreement which shall continue to have full force and effect. This DPA together with the Agreement is the final, complete and exclusive agreement of the Parties with respect to the subject matter hereof and supersedes and merges all prior discussions and agreements between the parties with respect to such subject matter.
+
+**ANNEX 1:** **SCOPE OF PROCESSING**
+
+**Categories of data subjects whose personal data is processed.** Customer may submit Personal Data to Doodle, the extent of which is determined and controlled by the Customer in their sole discretion, and which may include, but is not limited to Personal Data relating to the following categories of data subjects: **(i)** the Customer’s end-users as permitted in the Agreement, including employees, contractors, representatives, and agents, and **(ii)** persons with whom Customer is scheduling appointments and meeting with through use of Doodle’s Services which may include its representatives, business partners, collaborators, job candidates, customers, and potential customers.
+
+**Categories of personal data processed.** Customer may submit Personal Data to Doodle, the extent of which is determined and controlled by the Customer in its sole discretion, and which may include, but is not limited to the following categories of Personal Data: First and last name; Title; Position; Employer; Contact information (company, email, phone, physical business address); Personal data contained in connected calendar event details; Approximate location and/or time zone; and other data in an electronic form used by Customer in the context of the Services.
+
+Last updated: 24th October, 2024
 
 * [](https://doodle.com/en/)
 * [Terms and Conditions](https://doodle.com/en/general-terms-and-conditions/)
