@@ -1171,12 +1171,12 @@ Please select a Country / Region
 
 © {year} Lenovo. All rights reserved.
 
-[Privacy](https://www.lenovo.com/us/en/privacy/) [Cookie Consent Tool](javascript:void(0)) [Do Not Sell](https://www.lenovo.com/us/en/data-rights/) [U.S. Privacy Notice](https://www.lenovo.com/us/en/us-privacy-notice/) [Site Map](https://www.lenovo.com/us/en/site-map/) [Terms of Use](https://www.lenovo.com/us/en/legal/) [External Submission Policy](https://www.lenovo.com/us/en/privacy/external-submission-policy/) [Sales terms and conditions](https://www.lenovo.com/us/en/terms-and-conditions/) [Anti-Slavery and Human Trafficking Statement](https://www.lenovo.com/anti-slavery-statement/)
+[Privacy](https://www.lenovo.com/us/en/privacy/) [Cookie Consent Tool](javascript:void(0)) [Do Not Sell or Share My Personal Information](https://www.lenovo.com/us/en/data-rights/) [U.S. Privacy Notice](https://www.lenovo.com/us/en/us-privacy-notice/) [Site Map](https://www.lenovo.com/us/en/site-map/) [Terms of Use](https://www.lenovo.com/us/en/legal/) [External Submission Policy](https://www.lenovo.com/us/en/privacy/external-submission-policy/) [Sales terms and conditions](https://www.lenovo.com/us/en/terms-and-conditions/) [Anti-Slavery and Human Trafficking Statement](https://www.lenovo.com/anti-slavery-statement/)
 
 ×
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
