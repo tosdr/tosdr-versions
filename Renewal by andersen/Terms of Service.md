@@ -404,8 +404,6 @@ Secondary Phone Number  Form Type  Sender  Sender
 
  \*I want to learn more about Renewal by Andersen and schedule an in-home price quote. By submitting this form, which I agree is my signature, I consent to receive recurring informational and advertising calls, texts, and emails from Renewal by Andersen and its authorized independent retailers and Renewal by Andersen’s parent and sister companies and their dealers and certified contractors, including by automated technology or prerecorded voice.  I understand consent is not required for purchase and that I can opt out at any time, including (for texts) by replying “STOP.” I understand any Renewal by Andersen calls may be recorded. Renewal by Andersen collects certain categories of personal information and uses this information in various ways, including order fulfillment and providing product information and services, as further described in our Privacy Policy. I agree to Renewal by Andersen’s [Privacy Policy](https://www.andersenwindows.com/support/privacy/?_ga=2.13651061.392075089.1693325287-1358376198.1693325287&_gl=1*ehaz2f*_ga*MTM1ODM3NjE5OC4xNjkzMzI1Mjg3*_ga_TYR3E13D05*MTY5MzM0MDUzOC4zLjEuMTY5MzM0MDU2Ny4wLjAuMA..) and [Terms and Conditions](https://www.renewalbyandersen.com/about/terms-of-use) . Message and data rates apply. California residents, click [here](https://www.andersenwindows.com/support/privacy-california/?_ga=2.85378585.1604903625.1655825151-1712057851.1655313809) for more information about the information we collect.
 
-  
-
 OnlineScheduling 
 
   
