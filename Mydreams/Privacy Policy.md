@@ -33,7 +33,6 @@ Košík je prázdný
     * [Nette WebHosting 20GB](https://www.mydreams.cz/cz/webhosting/nette-webhosting-20gb.html)
     * [Reseller hosting](https://www.mydreams.cz/cz/vps-servery/vps-server-full-sprava.html)
     * [Registrace domén](https://mydomain.cz/)
-    * [Wordpress WebHosting + Varnish Cache](https://www.mydreams.cz/cz/webhosting/wordpress-wp-webhosting-varnish-cache.html)
     
 * [Adulthosting](https://www.mydreams.cz/cz/adulthosting.html)
     
@@ -315,15 +314,14 @@ XI. Závěrečná ustanovení
 [+420 774 447 953](tel:00420774447953)
 
   
-[![Red Hat Advanced CCSP VSHN](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTY3Ij48L3N2Zz4=)
+![Red Hat Advanced CCSP VSHN](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTY3Ij48L3N2Zz4=)
 
-![Red Hat Advanced CCSP VSHN](/images/Red-Hat-Advanced-CCSP-VSHN.jpg)](https://redhat.secure.force.com/finder/PFPartnerDetail?id=0013a00001eOPZUAA4)
+![Red Hat Advanced CCSP VSHN](/images/Red-Hat-Advanced-CCSP-VSHN.jpg)
 
 * [](https://www.facebook.com/mydreamshosting)
 * [](https://twitter.com/mydreamscz)
 * [](https://www.xing.com/profile/Michal_Rehor2)
 * [](https://www.youtube.com/channel/UCW9cd6SmsujjZRVy0XvIJLA)
-* [](https://www.reddit.com/user/VPShostingcz/)
 * [](https://www.instagram.com/mydreams.cz/)
 * [](http://www.linkedin.com/company/mydreams-hosting)
 
