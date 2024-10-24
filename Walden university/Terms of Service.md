@@ -89,6 +89,7 @@ Search Search Close
             * BUSINESS AND MANAGEMENT MASTER'S PROGRAMS
             * Join a new generation of bold, socially conscious, and effective leaders.
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration)
+            * [Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing-and-master-of-business-administration)
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management)
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership)
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business)
@@ -132,6 +133,7 @@ Search Search Close
         * Nursing
             * NURSING MASTER's PROGRAMS
             * Earn your degree from a U.S. leader in nursing master's education
+            * [Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing-and-master-of-business-administration)
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing)
             * Explore Specializations:
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care)
@@ -457,6 +459,7 @@ Call Us: [**8556465286**](tel:8556465286)
             * [BUSINESS AND MANAGEMENT MASTER'S PROGRAMS](# "BUSINESS AND MANAGEMENT MASTER'S PROGRAMS")
             * [Join a new generation of bold, socially conscious, and effective leaders.](# "Join a new generation of bold, socially conscious, and effective leaders.")
             * [Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-business-administration "Master of Business Administration (MBA)")
+            * [Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing-and-master-of-business-administration "Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)")
             * [MS in Human Resource Management](https://www.waldenu.edu/online-masters-programs/ms-in-human-resource-management "MS in Human Resource Management")
             * [MS in Leadership](https://www.waldenu.edu/online-masters-programs/ms-in-leadership "MS in Leadership")
             * [All Business and Management Programs](https://www.waldenu.edu/programs/business "All Business and Management Programs")
@@ -512,6 +515,7 @@ Call Us: [**8556465286**](tel:8556465286)
             
             * [NURSING MASTER's PROGRAMS](# "NURSING MASTER's PROGRAMS")
             * [Earn your degree from a U.S. leader in nursing master's education](# "Earn your degree from a U.S. leader in nursing master's education")
+            * [Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing-and-master-of-business-administration "Dual Degree - Master of Science in Nursing (MSN) and Master of Business Administration (MBA)")
             * [Master of Science in Nursing](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing "Master of Science in Nursing")
             * [Explore Specializations:](# "Explore Specializations:")
             * [Adult-Gerontology Acute Care Nurse Practitioner](https://www.waldenu.edu/online-masters-programs/master-of-science-in-nursing/msn-nurse-practitioner-acute-care "Adult-Gerontology Acute Care Nurse Practitioner")
