@@ -1,4 +1,4 @@
-Gcore named a Leader in 2024 GigaOm Radar for Edge Development Platforms.[Get report](https://gcore.com/library/2024-gigaom-radar-for-edge-development-platforms)
+Get NVIDIA H100 GPUs with InfiniBand for unmatched AI power.[Deploy today](https://gcore.com/cloud/ai-gpu)
 
 [Under attack?](https://gcorelabs.com/emergency-ddos-protection) Log in
 
