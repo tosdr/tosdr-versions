@@ -93,6 +93,10 @@ Search
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
+    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/230x173/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
+    
+    $5.00](https://www.adafruit.com/product/6006)
+    
     ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/230x173/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
     $14.95](https://www.adafruit.com/product/5933)
@@ -104,10 +108,6 @@ Search
     ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
     
     $84.95](https://www.adafruit.com/product/170)
-    
-    ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
-    
-    $7.50](https://www.adafruit.com/product/5906)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You can't see it if you don't look at it”
+“ If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
 
-[Dan McKenna](http://books.google.com/books?id=3kY4-HYLqh0C&pg=PA60&lpg=PA60&dq=%22you+can%27t+see+it+if+you+don%27t+look+at+it%22+mckenna&source=bl&ots=oqJNEw26vj&sig=GuUscuvkmfuNbbiA-KaNAmORWmI&hl=en&ei=rKOoTbiQF4q4tweIpNTdBw&sa=X&oi=book_result&ct=result&resnum=1&ve)
+[Antoine de Saint-Exupery](http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 [](https://www.adafruit.com/about)
 
