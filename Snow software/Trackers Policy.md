@@ -541,8 +541,6 @@ Virtual Event
 
 ### Flex your visibility into strategy: Harness the power of hybrid ITAM and FinOps
 
-#### Oct 22
-
 Get an insider look at how Flexera’s powerful new Technology Intelligence Platform is reshaping the game with unmatched visibility and strategic insights. Don't miss the chance to discover the tools that can future-proof your IT strategy.](https://info.flexera.com/ITV-EVENT-Harness-Power-of-Hybrid-ITAM-FinOps)
 
 [#### 
