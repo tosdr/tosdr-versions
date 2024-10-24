@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Peace
+
+### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
+
 [Integrity
 
 ### Mozambique’s turn toward integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1023/Mozambique-s-turn-toward-integrity "Mozambique’s turn toward integrity")
@@ -99,10 +103,6 @@ Recent Stories
 [Freedom
 
 ### ‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.](https://www.csmonitor.com/USA/Politics/2024/1023/Argentina-Javier-Milei-socialism-libertarian "‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.")
-
-[Community
-
-### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 22, 2024
+October 23, 2024
 
-A glimpse of a world where peace is growing
+A radical makeover
 
-Every day, news tells the story of how peace seems to be in retreat. The challenges are significant. But there is also another view. Last week, people from around the world gathered in Geneva for Peace Week. Columnist Keith Collins was there and caught a glimpse of what the world looks like when peace is the priority. You can read the story here.   
+Have you heard of Javier Milei? He’s the president of Argentina, about to wrap up his first and very consequential year in office. Howard LaFranchi visited Buenos Aires recently and took stock of Mr. Milei’s no-holds-barred drive to radically reorganize the government and reimagine a boom-and-bust, hyperinflation-riddled economy. His often painful pursuit of wrenching change is thrilling some; others reject his rough talk and divisive measures.It’s a major revolution led by a brash economist and former lead singer in a Rolling Stones cover band. One observer notes that Mr. Milei believes he’s going to save the West with his model. See what you think.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
+
 [### Caregivers needed: For children, trees, land, and rivers](https://www.csmonitor.com/World/Points-of-Progress/2024/1023/children-land-trees-rivers-caregiver "Caregivers needed: For children, trees, land, and rivers")
 
 [### ‘They are our people’: How community kitchens are piecing Sudan back together](https://www.csmonitor.com/World/Africa/2024/1023/sudan-civil-war-darfur-famine-emergency-response-room "‘They are our people’: How community kitchens are piecing Sudan back together")
-
-[### Europe is trying to cut back migration. Can it find a legal way to do it?](https://www.csmonitor.com/World/Europe/2024/1022/immigration-italy-albania-processing-centers-court "Europe is trying to cut back migration. Can it find a legal way to do it?")
 
 * * *
 
