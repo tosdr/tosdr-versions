@@ -202,11 +202,11 @@ Contact
 
 * [Contact us](https://www.ordnancesurvey.co.uk/contact-us)
 * [Find us](https://www.ordnancesurvey.co.uk/about/find-us)
-* [Complaints](https://www.ordnancesurvey.co.uk/contact-us/complaints)
+* [Complaints](https://www.ordnancesurvey.co.uk/contact-us/complaint)
 * [Media](https://www.ordnancesurvey.co.uk/media)
 * [Meeting room hire](https://www.ordnancesurvey.co.uk/about/meeting-room-hire)
 * [Emergency mapping](https://www.ordnancesurvey.co.uk/contact-us/mapping-for-emergencies)
-* [Report a mapping error](https://www.ordnancesurvey.co.uk/contact-us#Error-with-OS-mapping)
+* [Report a mapping error](https://www.ordnancesurvey.co.uk/contact-us/error)
 
 [](https://www.ordnancesurvey.co.uk/ "Ordnance Survey home")
 
