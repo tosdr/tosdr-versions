@@ -209,7 +209,7 @@ Should you be dissatisfied with our product, the original retail purchaser of th
 Requesting a Refund
 -------------------
 
-A Chipolo order is eligible for a refund if you’ve had it less than 30 days, and the order is returned in good condition with the original packaging. You will need to [contact us](https://support.chipolo.net/) prior to returning the order to receive the proper return instructions. Please note that partial returns are not eligible for a refund. (Example: If you ordered 4 Chipolos, you must return all 4 Chipolos to receive a refund.)
+A Chipolo order is eligible for a refund if you’ve had it less than 30 days, and the order is returned in good condition with the original packaging. You will need to [contact us](https://support.chipolo.net/hc/en-us) prior to returning the order to receive the proper return instructions. Please note that partial returns are not eligible for a refund. (Example: If you ordered 4 Chipolos, you must return all 4 Chipolos to receive a refund.)
 
 Note: Chipolo d.o.o. can only refund orders placed directly through our website, www.chipolo.net. If you purchased Chipolo through another party (such as Amazon.com) please contact them for refund instructions.
 
@@ -253,7 +253,7 @@ Learn
 
 Support
 
-[Customer support](https://support.chipolo.net/) [Renewal program](https://chipolo.net/en-us/pages/renewal) [CARD Spot and CARD Point renewal program](https://chipolo.net/en-us/pages/chipolo-spot-point-renewal)
+[Customer support](https://support.chipolo.net/hc/en-us) [Renewal program](https://chipolo.net/en-us/pages/renewal) [CARD Spot and CARD Point renewal program](https://chipolo.net/en-us/pages/chipolo-spot-point-renewal)
 
 Connect with us:
 
