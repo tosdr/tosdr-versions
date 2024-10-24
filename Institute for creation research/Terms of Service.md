@@ -166,91 +166,69 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Man Was Recently and Miraculously Created in the Image of God
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/dollydino-1400x1050)](https://www.icr.org/article/so-sad-about-dino-disease)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/life-immortality)
 
-[What's So Sad About This Dino's Disease?](https://www.icr.org/article/so-sad-about-dino-disease/)
+[Life and Immortality](https://www.icr.org/article/life-immortality/)
 
-Scientists described the first evidence of a possible respiratory illness in a fossil. The common soil fungus Aspergillis can infect birds and reptiles...
+“But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
 
-[![](/i/wide/neuron_packed_bird_brain_wide.jpg)](https://www.icr.org/article/neuron-packed-bird-brains-point-creation)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/whom-shall-i-fear?)
 
-[Neuron-Packed Bird Brains Point to Creation](https://www.icr.org/article/neuron-packed-bird-brains-point-creation/)
+[Whom Shall I Fear?](https://www.icr.org/article/whom-shall-i-fear?/)
 
-The amazing ability of birds to achieve ape-level cognitive traits—and in some cases exceed them like when they emulate human speech—has...
+“The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?” (Psalm 27:1) David...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
-[![](/i/Main%20Stage%20-%201400x1050/ukcountryside-1400x1050)](https://www.icr.org/article/family-stories-ancient-dna)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/song-praise-creator)
 
-[Family Stories Told by Ancient DNA](https://www.icr.org/article/family-stories-ancient-dna/)
+[Song of Praise to the Creator](https://www.icr.org/article/song-praise-creator/)
 
-A group of scientists—including archaeologists from Newcastle University, UK, and geneticists from the University of the Basque Country, University...
+“Rejoice in the LORD, O ye righteous: for praise is comely for the upright. Praise the LORD with harp: sing unto him with the psaltery and...
 
-BY: [CHANGE L. TAN](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=255)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/butterfliesandcancer_1400x1050.jpg)](https://www.icr.org/article/butterflies-detect-cancer)
-
-[Butterflies and Cancer Detection](https://www.icr.org/article/butterflies-detect-cancer/)
-
-It’s something right out of science fiction. The beautiful, flighty butterfly has been discovered to have cancer detection properties via the...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/ChasAndPatti-1400x1050)](https://www.icr.org/article/remembering-patti-morse)
-
-[Remembering Patti Morse](https://www.icr.org/article/remembering-patti-morse/)
-
-But none of these things move me; nor do I count my life dear to myself, so that I may finish my race with joy, and the ministry which I received from...
-
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
-
-[![](/i/Main%20Stage%20-%201400x1050/DragonflyMigrationNews-1400x1050)](https://www.icr.org/article/ocean-dragonfly-migration)
-
-[Open Ocean Dragonfly Migration Boggles the Mind](https://www.icr.org/article/ocean-dragonfly-migration/)
-
-Animal migrations occur all over the earth among many types of creatures, with some winged creatures (birds and insects) making the most extreme and lengthy...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
 
-Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
+Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
 
-$4.99
+$16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
 
-The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
-
-The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
-
-Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/34464783/file.jpg)
+$15.99
 
-Chimps and Humans](https://store.icr.org/chimps-and-humans.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
 
-$19.99
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
 
-$29.99
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+
+$15.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
