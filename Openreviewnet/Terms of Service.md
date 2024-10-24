@@ -9,7 +9,7 @@ Open Peer Review. Open Publishing. Open Access. Open Discussion. Open Recommenda
 OpenReview Terms of Use
 =======================
 
-Last updated: September 22, 2023
+Last updated: September 24, 2024
 
 These Terms of Use are a contract between you and OpenReview. OpenReview operates OpenReview.net and provides data, software and services, with the objective of supporting scientific communication, including scientific article submission, reviewing and discussion-making such communication accessible, organized, and useful. By using OpenReview or any data, products or services accessible from OpenReview sites (including the OpenReview API, as defined below) you agree to be bound by the following terms and conditions (“Terms of Use”) as well as the [OpenReview Privacy Policy](https://openreview.net/legal/privacy). If you do not agree to these Terms of Use, do not visit or use the OpenReview System.
 
