@@ -675,7 +675,7 @@ If you wish to exercise any of the rights set out above, please contact us via l
 
 Try Beacon for free today.
 
-[Try for free](https://app.beaconcrm.org/signup)![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/662a8392d899f5a17d5c6f9f_BGE_PendingCertification_white.png)
+[Try for free](https://app.beaconcrm.org/signup)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/671a6c197b5df9815df12c5b_Bloody%20Good%20Period%20Certification.webp)](https://www.bloodygoodemployers.com/)
 
 **Company**
 
