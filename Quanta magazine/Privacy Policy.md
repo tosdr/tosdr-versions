@@ -315,11 +315,11 @@ _By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-cha
 
 _By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
 
-[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ThoughtExperiments_ThoughtExperiments-crMarkBelan-Thumbnail.webp)](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 
-[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+[#### The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Mark Belan](https://www.quantamagazine.org/authors/markbelan)
 
 The Quanta Newsletter
 
