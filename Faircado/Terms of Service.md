@@ -48,6 +48,12 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 #### Das könnte dir auch gefallen
 
+[![Dunkles Bild von Kürbissen zu Halloween](https://faircado.de/wp-content/uploads/2024/10/scott-webb-uAfsOdIQhv4-unsplash-scaled.jpg)](https://faircado.de/newsletter-archiv/hocus-pocus/)
+
+### [Hocus Pocus, Let’s Focus… Auf ein nachhaltiges Halloween 🎃](https://faircado.de/newsletter-archiv/hocus-pocus/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/hocus-pocus/)
+
 [![Bücherempfehlungen für diesen Herbst und Regentage](https://faircado.de/wp-content/uploads/2023/09/111.png)](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
 
 ### [10 Wohlfühlbücher für den Herbst](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
@@ -96,13 +102,13 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/bucher-in-london/)
 
-[![Alle Buchcover von büchern, die in Frankreich spielen](https://faircado.de/wp-content/uploads/2024/08/blog-headers-website-14-2.png)](https://faircado.de/mag/bucher-in-frankreich/)
-
-### [Bücher, die in Frankreich spielen | Reiselektüre für den Urlaub](https://faircado.de/mag/bucher-in-frankreich/)
-
-[mehr lesen](https://faircado.de/mag/bucher-in-frankreich/)
-
 [Mehr Anzeigen](#)
+
+[![Dunkles Bild von Kürbissen zu Halloween](https://faircado.de/wp-content/uploads/2024/10/scott-webb-uAfsOdIQhv4-unsplash-scaled.jpg)](https://faircado.de/newsletter-archiv/hocus-pocus/)
+
+### [Hocus Pocus, Let’s Focus… Auf ein nachhaltiges Halloween 🎃](https://faircado.de/newsletter-archiv/hocus-pocus/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/hocus-pocus/)
 
 [![Bücherempfehlungen für diesen Herbst und Regentage](https://faircado.de/wp-content/uploads/2023/09/111.png)](https://faircado.de/mag/10-wohlfuehlbuecher-herbst/)
 
@@ -115,12 +121,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 ### [An Open Letter to Ursula von der Leyen To Ban Shein and Temu](https://faircado.de/mag/ursula-von-der-leyen/)
 
 [mehr lesen](https://faircado.de/mag/ursula-von-der-leyen/)
-
-[![business woman working from her laptop](https://faircado.de/wp-content/uploads/2024/09/microsoft-365-d3nKNw1ILdM-unsplash-1-scaled.jpg)](https://faircado.de/newsletter-archiv/dress-for-success/)
-
-### [Dress for Success – und den Planeten! 🎩](https://faircado.de/newsletter-archiv/dress-for-success/)
-
-[mehr lesen](https://faircado.de/newsletter-archiv/dress-for-success/)
 
 [Mehr Anzeigen](#)
 
@@ -242,31 +242,3 @@ Ich bin damit einverstanden, E-Mails von Faircado zu erhalten.
 [Linkedin](https://www.linkedin.com/company/faircado/)
 
 [Youtube](https://www.youtube.com/channel/UCCPgRjxcfQ4LPla9yViBZ5w)
-
-Wir brauchen deine Zustimmung
-
-Wir benötigen deine Zustimmung, um Daten mit unseren Werbepartnern auszutauschen und Cookies zur Analyse, Verbesserung und Finanzierung unserer Website zu verwenden. Mit deiner Zustimmung hilfst du uns, faircado.de für unsere Nutzer zu verbessern. Du kannst deine Zustimmung [hier](https://faircado.de/datenschutz/) widerrufen.
-
-Functional  Functional Immer aktiv
-
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-
-Preferences  Preferences
-
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-
-Statistics  Statistics
-
-The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-
-Marketing  Marketing
-
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-
-[Optionen verwalten](#) [Dienste verwalten](#) [Verwalten von {vendor\_count}-Lieferanten](#) [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
-
-Alles akzeptieren Alles ablehnen Selbst auswählen Save preferences [Selbst auswählen](#)
-
-[{title}](#) [{title}](#) [{title}](#)
-
-Zustimmung verwalten
