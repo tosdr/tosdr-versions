@@ -174,7 +174,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Email (69)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (14)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
-* [Finance (70)](https://www.iplocation.net/blog/category/finance)
+* [Finance (71)](https://www.iplocation.net/blog/category/finance)
 * [Games (55)](https://www.iplocation.net/blog/category/games)
 * [Healthcare (25)](https://www.iplocation.net/blog/category/healthcare)
 * [Internet of Things (22)](https://www.iplocation.net/blog/category/iot)
