@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Hat Trick](https://www.myabandonware.com/game/hat-trick-b1)
+* [Hard Drivin'](https://www.myabandonware.com/game/hard-drivin-wr)
 * [Hammer Boy](https://www.myabandonware.com/game/hammer-boy-164)
 * [Moto-Crash +](https://www.myabandonware.com/game/moto-crash-t05)
 * [Le Trésor Englouti +](https://www.myabandonware.com/game/le-tresor-englouti-t03)
-* [Helicopter Rescue](https://www.myabandonware.com/game/helicopter-rescue-t02)
-* [Loony Balloon](https://www.myabandonware.com/game/loony-balloon-swb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
