@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Nuclear Family](/wp-content/thumbnails/7399-100x70.jpg?x53432)
+* [![The Bully Project](/wp-content/thumbnails/7371-100x70.jpeg?x53432)
     
-    A Nuclear Family
+    The Bully Project
     
-    In 1973, a woman walked out on her husband and children. Filmmaker Ian Hawkins was one of those children.A Nuclear Family is the poignant story of an ordinary family dealing with divorce. It’s als](https://documentaryheaven.com/nuclear-family/ "A Nuclear Family")
-* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
+    The Bully Project is a documentary film that covers events during the 2009–2010 school year and follows students and their families from Texas, Mississippi, Georgia, Iowa and Oklahoma.The film al](https://documentaryheaven.com/the-bully-project/ "The Bully Project")
+* [![Searching for Spitman](/wp-content/thumbnails/10034-100x70.png?x53432)
     
-    David Attenborough’s Madagascar
+    Searching for Spitman
     
-    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
-* [![Baadasssss Cinema](/wp-content/thumbnails/2458-100x70.jpg?x53432)
+    The tale behind a somewhat notorious character from around the West London area known only as "Spitman" is the thing urban legends are made of, a sort of local boogie man if you will. Spitman is](https://documentaryheaven.com/searching-for-spitman/ "Searching for Spitman")
+* [![EP2/2 Louis Theroux: Miami Mega Jail](/wp-content/thumbnails/5805-100x70.jpg?x53432)
     
-    Baadasssss Cinema
+    EP2/2 Louis Theroux: Miami Mega Jail
     
-    With archive film clips and interviews, this brief look at a frequently overlooked historical period of filmmaking acts as an introduction rather than a complete record. Features interviews with some](https://documentaryheaven.com/baadasssss-cinema/ "Baadasssss Cinema")
-* [![Paris Is Burning](/wp-content/thumbnails/6532-100x70.jpg?x53432)
+    Louis Theroux concludes his exploration into Miami Mega-jail, one of America's largest and most violent of jails, a holding pen for almost 6000 un-convicted inmates.Louis goes deeper into the jail sys](https://documentaryheaven.com/louis-theroux-miami-mega-jail-2/ "EP2/2 Louis Theroux: Miami Mega Jail")
+* [![Israel: The Enemy Within?](/wp-content/thumbnails/6694-100x70.jpg?x53432)
     
-    Paris Is Burning
+    Israel: The Enemy Within?
     
-    Paris Is Burning is a 1990 documentary film directed by Jennie Livingston. Filmed in the mid-to-late 1980s, it chronicles the ball culture of New York City and the African American, Latino,](https://documentaryheaven.com/paris-is-burning/ "Paris Is Burning")
-* [![The Counterfeiter](/wp-content/thumbnails/14404-100x70.jpg?x53432)
+    Israel has always felt under siege, but its internal problems could be more damaging than any external threat. The rift is between the secular and the ultra-Orthodox, who believe any compromise with A](https://documentaryheaven.com/israel-the-enemy-within/ "Israel: The Enemy Within?")
+* [![Think Beyond Surgery](/wp-content/thumbnails/6672-100x70.gif?x53432)
     
-    The Counterfeiter
+    Think Beyond Surgery
     
-    A ESPN 30 for 30 short documentary film which examines the bizarre tale of Greg Marino, a man who has been classed as the worlds greatest counterfeiter by no only those in the industry but also those](https://documentaryheaven.com/counterfeiter/ "The Counterfeiter")
+    With Advanced medical technology A scar less painless Heart treatment is possible. Most imp prevention is better than cure. You can prevent 80% heart attacks and bypass surgeries. A breakthrough in me](https://documentaryheaven.com/think-beyond-surgery/ "Think Beyond Surgery")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
