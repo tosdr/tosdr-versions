@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/pitch-the-eggs-an-easter-musical-worksheet/)
+ [](https://schoolsmusicmarket.com/product/writing-music-notation-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-vocal-elements-display-posters/)
+ [](https://schoolsmusicmarket.com/product/solfege-handsigns-minamilist-boho-series-display-poster/)
 
 ###### Browse By Year/Grade
 
