@@ -288,6 +288,24 @@ Recurs yearly
 
 Cornelius Fudge
 
+#### Wed, Oct 30
+
+Beauxbatons and Durmstrang students arrive for the Triwizard Tournament
+
+Recurs yearly
+
+1994
+
+Clémence Poésy's birthday
+
+Recurs yearly
+
+Fleur Delacour
+
+Molly Weasley's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Fred and George Weasley were born on April Fools’ Day.
+“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
 
 ### Potter History
 
-November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
+July 16, 2009 – Harry Potter and the Half-Blood Prince film breaks records to have the highest grossing first 24 hours of all time.
 
 ### Potter Quote
 
-“Honestly, if you were any slower, you’d be going backward.”
+“Have a biscuit, Potter.”
 
 [](#)
 
