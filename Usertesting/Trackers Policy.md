@@ -509,7 +509,6 @@ Footer
     * Legal & other
         * [Privacy center](https://www.usertesting.com/privacy-center)
         * [Customer terms](https://www.usertesting.com/privacy-center/terms-of-use-enterprise-client)
-        * [Export overview](https://www.usertesting.com/usertesting-export-overview)
 * Resources
     * Digital Resources
         * [All resources](https://www.usertesting.com/resources)
