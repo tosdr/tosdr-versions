@@ -114,20 +114,6 @@ freeCodeCamp will announce the next version by email. In the meantime, freeCodeC
 That's all, folks. Know your privacy rights, and stay safe out there!
 ---------------------------------------------------------------------
 
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
-ADVERTISEMENT
-
 * * *
 
 If you read this far, thank the author to show them you care. Say Thanks
