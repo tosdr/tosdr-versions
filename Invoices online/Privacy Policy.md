@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=124935087)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=102608013)  
+MONSTER SECURITY GUARDING
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=142114263)  
-Brilliant Roof Products
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=70574575)  
+Super Sound Man (PTY) Ltd
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=153934668)  
-African Roots
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=188033256)  
-Karino Merinos ( PTY ) LTD
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=195375195)  
-ARCHITEK PTY LTD
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=31959524)  
-NWET Pty LTD
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=213092256)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=198767917)  
-OptaServ
-
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=73714934)  
-Turnkey Innovations
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=25873722)  
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=202436327)  
 Imvubu General Trading
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=101056037)  
-NJR ICT Services (Pty) Ltd
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=159211686)  
+Sportspro Group (Pty) Ltd
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=162905114)  
-Sonic Electrical Services PTY Ltd
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=135178569)  
+Lemba Truck Stop
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=202235081)  
-Abandoned Vehicle and Truck Solutions
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=91930600)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=56922110)  
-Fox Alarms & Security
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=92061661)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=bfe3bd9ca9da9dbee14ca5ec4e2e30a52bc0395dce952d3225aaea63ea420c1b&c=15568504)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=78882014)  
+Qothiphango Mining
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=142331689)  
+Enhle Oarabile Kea
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=192754205)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=189463875)  
+Little Nutty Professors
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=208844250)  
+Tagline Brands
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=118488839)  
+Cape Adventure Zone
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=102343739)  
+Dr V Naik Consult
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=242a97c3779592ff04c4b561e7a0971041e8f70d58546a657c64c90bde3715cd&c=62249950)  
+TechnoDezi PTY(LTD)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
