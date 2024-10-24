@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Biden Issues Nation’s 1st National Security Memorandum on AI](https://www.theepochtimes.com/us/biden-issues-nations-1st-national-security-memorandum-on-ai-5747220)
+* [How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://www.theepochtimes.com/health/how-long-you-can-balance-on-1-leg-reveals-neuromuscular-aging-5747352)
     
-    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    NEW By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Biden Issues Nation’s 1st National Security Memorandum on AI](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Issues Nation’s 1st National Security Memorandum on AI](https://img.theepochtimes.com/assets/uploads/2024/08/16/id5707042-GettyImages-2167040024-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-issues-nations-1st-national-security-memorandum-on-ai-5747220)
-* [Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://www.theepochtimes.com/us/fifth-womens-college-volleyball-team-forfeits-match-against-san-jose-state-5746604)
+    ![How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5685470-Shutterstock_2465134791-205x123.jpg.webp)](https://www.theepochtimes.com/health/how-long-you-can-balance-on-1-leg-reveals-neuromuscular-aging-5747352)
+* [American Crypto Executive Held in Nigeria Is Released, US Government Says](https://www.theepochtimes.com/us/american-crypto-executive-held-in-nigeria-is-released-us-government-says-5747283)
     
-    NEW By [Cynthia Cai](https://www.theepochtimes.com/author/cynthia-cai)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![American Crypto Executive Held in Nigeria Is Released, US Government Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Fifth Women’s College Volleyball Team Forfeits Match Against San Jose State](https://img.theepochtimes.com/assets/uploads/2020/10/24/SJSU-205x123.jpg.webp)](https://www.theepochtimes.com/us/fifth-womens-college-volleyball-team-forfeits-match-against-san-jose-state-5746604)
-* [Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://www.theepochtimes.com/us/weekly-jobless-claims-tumble-as-hurricane-labor-dispute-effects-recede-5747126)
+    ![American Crypto Executive Held in Nigeria Is Released, US Government Says](https://img.theepochtimes.com/assets/uploads/2023/06/09/id5324382-binance-2023-06-09T042548Z_4_LYNXMPEJ5801L_RTROPTP_4_USA-SEC-BINANCE-ZHAO-205x123.jpg.webp)](https://www.theepochtimes.com/us/american-crypto-executive-held-in-nigeria-is-released-us-government-says-5747283)
+* [Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://www.theepochtimes.com/us/apple-goldman-sachs-to-pay-nearly-90-million-for-apple-card-service-issues-5747300)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Weekly Jobless Claims Tumble as Hurricane, Labor Dispute Effects Recede](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745983-GettyImages-2175609529-205x123.jpeg.webp)](https://www.theepochtimes.com/us/weekly-jobless-claims-tumble-as-hurricane-labor-dispute-effects-recede-5747126)
-* [Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://www.theepochtimes.com/world/analysis-bad-blood-between-allies-tangled-web-of-allegations-in-canada-india-spat-5746460)
+    ![Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://img.theepochtimes.com/assets/uploads/2019/03/26/GettyImages-1132776908-205x123.jpg.webp)](https://www.theepochtimes.com/us/apple-goldman-sachs-to-pay-nearly-90-million-for-apple-card-service-issues-5747300)
+* [Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://www.theepochtimes.com/us/florida-ag-sues-doj-for-blocking-investigation-of-trump-assassination-attempt-5747142)
     
-    1hr By [Omid Ghoreishi](https://www.theepochtimes.com/author/omid-ghoreishi), Epoch Times
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bad Blood Between Allies: Tangled Web of Allegations in Canada-India Spat](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747211-GettyImages-1653680907-205x123.jpg.webp)](https://www.theepochtimes.com/world/analysis-bad-blood-between-allies-tangled-web-of-allegations-in-canada-india-spat-5746460)
-* [Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://www.theepochtimes.com/world/turkey-launches-fresh-strikes-on-kurdish-terrorists-in-syria-and-iraq-following-terrorist-attack-5747039)
+    ![Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743137-GettyImages-2172608196KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-ag-sues-doj-for-blocking-investigation-of-trump-assassination-attempt-5747142)
+* [LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://www.theepochtimes.com/us/la-times-editorials-editor-quits-after-papers-owner-blocks-harris-endorsement-5747269)
     
-    1hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
     
-    [![Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Turkey Launches Fresh Strikes on Kurdish Terrorists in Syria and Iraq Following Terrorist Attack](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747094-c9s-205x123.jpg.webp)](https://www.theepochtimes.com/world/turkey-launches-fresh-strikes-on-kurdish-terrorists-in-syria-and-iraq-following-terrorist-attack-5747039)
-* [New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://www.theepochtimes.com/us/new-epa-standards-target-lead-paint-dust-in-homes-child-care-facilities-5747105)
+    ![LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747420-GettyImages-1258523069-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/la-times-editorials-editor-quits-after-papers-owner-blocks-harris-endorsement-5747269)
+* [Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://www.theepochtimes.com/world/blinken-announces-135-million-humanitarian-aid-package-for-gaza-5747219)
     
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New EPA Standards Target Lead Paint Dust in Homes, Child Care Facilities](https://img.theepochtimes.com/assets/uploads/2024/06/10/id5666310-06102024-DSC04223-Environmental-Protection-Agency-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-epa-standards-target-lead-paint-dust-in-homes-child-care-facilities-5747105)
-* [Tax Filings Due in 8 States Next Week: IRS](https://www.theepochtimes.com/us/tax-filings-due-in-8-states-next-week-irs-5747090)
+    ![Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747424-US-Qatar-Blinken-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/blinken-announces-135-million-humanitarian-aid-package-for-gaza-5747219)
+* [Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://www.theepochtimes.com/us/top-georgia-official-says-state-fended-off-election-related-cyberattack-5747341)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Tax Filings Due in 8 States Next Week: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tax Filings Due in 8 States Next Week: IRS](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720224-GettyImages-56043781-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/tax-filings-due-in-8-states-next-week-irs-5747090)
-* [Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://www.theepochtimes.com/us/navy-veteran-suing-cnn-for-defamation-did-not-act-criminally-or-illegally-court-5747049)
+    ![Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747422-GettyImages-2153452790-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-georgia-official-says-state-fended-off-election-related-cyberattack-5747341)
+* [TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://www.theepochtimes.com/us/tiktok-argues-for-dismissal-of-nebraskas-allegations-the-social-media-platform-harms-children-5747303)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    3hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Navy Veteran Suing CNN for Defamation ‘Did Not Act Criminally or Illegally’: Court](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747114-06262024-DSC05897-presidential-debate-Atlanta-Georgia-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/navy-veteran-suing-cnn-for-defamation-did-not-act-criminally-or-illegally-court-5747049)
-* [Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-provisional-ballots-allowed-if-mail-in-ballot-rejected-5746886)
+    ![TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743320-GettyImages-1227952189-205x123.jpg.webp)](https://www.theepochtimes.com/us/tiktok-argues-for-dismissal-of-nebraskas-allegations-the-social-media-platform-harms-children-5747303)
+* [Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://www.theepochtimes.com/us/massachusetts-supreme-court-says-web-tracking-software-doesnt-violate-state-wiretap-law-5747296)
     
-    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pennsylvania Supreme Court Rules Provisional Ballots Allowed If Mail-In Ballot Rejected](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-rules-provisional-ballots-allowed-if-mail-in-ballot-rejected-5746886)
-* [From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
+    ![Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://img.theepochtimes.com/assets/uploads/2022/12/05/logo-Meta--e1670235811135-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-supreme-court-says-web-tracking-software-doesnt-violate-state-wiretap-law-5747296)
+* [US Postal Service Warns Voters Not to Delay Mailing Ballots](https://www.theepochtimes.com/us/us-postal-service-warns-voters-not-to-delay-mailing-ballots-5747335)
     
-    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Postal Service Warns Voters Not to Delay Mailing Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746484-Wisconsin-Voting-iii-_JF_10222024-205x123.jpg.webp)](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
+    ![US Postal Service Warns Voters Not to Delay Mailing Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738747-GettyImages-1227902406KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-postal-service-warns-voters-not-to-delay-mailing-ballots-5747335)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
