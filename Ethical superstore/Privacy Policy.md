@@ -24,8 +24,8 @@ Customer Services Helpline
             * [Cooking Oils](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/oils/)
             * [Tinned Tomatoes & Veg](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/tinned-veg-and-pulses/)
             * [Soup](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/soup/)
-            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
             * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
+            * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
         * [Pasta & Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/)
             * [Pasta](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/pasta/)
             * [Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/noodles/)
@@ -91,6 +91,8 @@ Customer Services Helpline
             * [Chocolate Gifts](https://www.ethicalsuperstore.com/category/groceries-and-everyday/chocolate/chocolate-gifts/)
             * [Sweets](https://www.ethicalsuperstore.com/category/groceries-and-everyday/chocolate/sweets/)
         
+        * [Festive Food](https://www.ethicalsuperstore.com/category/groceries-and-everyday/festive-food/)
+            
         * [Free From](https://www.ethicalsuperstore.com/category/groceries-and-everyday/free-from/)
             * [Vegan](https://www.ethicalsuperstore.com/category/groceries-and-everyday/free-from/vegan/)
             * [Gluten Free](https://www.ethicalsuperstore.com/category/groceries-and-everyday/free-from/gluten-free/)
@@ -206,8 +208,8 @@ Customer Services Helpline
         * [Garden & Outdoor](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/)
             * [Garden Accessories](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/garden-accessories/)
             * [Plants & Seeds](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/trees-plants-and-seeds/)
-            * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
             * [Wildlife](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/wildlife/)
+            * [Solar Lighting](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/solar-garden-products/)
             * [Picnic & Outdoor Living](https://www.ethicalsuperstore.com/category/home-and-garden/garden-and-outdoor/outdoor-furniture/)
         
         * [Kitchen & Dining](https://www.ethicalsuperstore.com/category/home-and-garden/kitchen-and-dining/)
