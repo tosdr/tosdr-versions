@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Dignity
+
+### A tribute to Venezuela’s free thinkers](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1024/A-tribute-to-Venezuela-s-free-thinkers "A tribute to Venezuela’s free thinkers")
+
 [Peace
 
 ### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
@@ -99,10 +103,6 @@ Recent Stories
 [Integrity
 
 ### Mozambique’s turn toward integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1023/Mozambique-s-turn-toward-integrity "Mozambique’s turn toward integrity")
-
-[Freedom
-
-### ‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.](https://www.csmonitor.com/USA/Politics/2024/1023/Argentina-Javier-Milei-socialism-libertarian "‘I eat the elite for breakfast!’ Argentina’s Javier Milei wants radical disruption.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 23, 2024
+October 24, 2024
 
-A radical makeover
+A swing state study
 
-Have you heard of Javier Milei? He’s the president of Argentina, about to wrap up his first and very consequential year in office. Howard LaFranchi visited Buenos Aires recently and took stock of Mr. Milei’s no-holds-barred drive to radically reorganize the government and reimagine a boom-and-bust, hyperinflation-riddled economy. His often painful pursuit of wrenching change is thrilling some; others reject his rough talk and divisive measures.It’s a major revolution led by a brash economist and former lead singer in a Rolling Stones cover band. One observer notes that Mr. Milei believes he’s going to save the West with his model. See what you think.
+Wrestling with issues of class and race, and with a predominantly rural makeup, North Carolina is in some ways a microcosm of the United States, Simon Montlake reports today. For dueling candidates in a presidential race, the state is also a major test of earned trust with voters within some key demographic groups. We begin today’s Daily with the latest of our on-the-ground swing state reports. (We’re on top of developments on the Korean Peninsula, too – a lot of buzz at our morning meeting.)
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Did Disney World get swamped by Helene? Russian bots created pictures to prove it.](https://www.csmonitor.com/USA/2024/1024/Russian-hurricane-election-misinformation-Trump-AI "Did Disney World get swamped by Helene? Russian bots created pictures to prove it.")
+[### At BRICS summit, Russia tries to build a world without the US](https://www.csmonitor.com/World/Europe/2024/1024/brics-russia-vladimir-putin-ukraine-war-us-dollar "At BRICS summit, Russia tries to build a world without the US")
 
-[### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
+[### Netanyahu has high hopes of Trump. Might he be mistaken?](https://www.csmonitor.com/World/Middle-East/2024/1024/trump-harris-israel-netanyahu-peace "Netanyahu has high hopes of Trump. Might he be mistaken?")
 
-[### Caregivers needed: For children, trees, land, and rivers](https://www.csmonitor.com/World/Points-of-Progress/2024/1023/children-land-trees-rivers-caregiver "Caregivers needed: For children, trees, land, and rivers")
+[### A terrorist attack in Turkey drew global condemnation. Then, Turkey struck back.](https://www.csmonitor.com/World/Middle-East/2024/1024/Turkey-PKK-Iraq-Syria-strikes-terrorist "A terrorist attack in Turkey drew global condemnation. Then, Turkey struck back.")
 
 * * *
 
