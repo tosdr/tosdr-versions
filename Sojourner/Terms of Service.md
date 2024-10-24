@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-aea1adc5641c768af0b655928cce7927
+96743565f948538f7ef4df1f2aa0d08a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Blue flower clasp](https://sojourner.biz/images/cache/SKU0051variations.200.jpg)](https://sojourner.biz/clasps/glass/blue-flower-clasp.html "Blue flower clasp")
+[![Zebra stripe four sided oval beads](https://sojourner.biz/images/cache/glass/GL0044.200.jpg)](https://sojourner.biz/beads/glass/zebra-stripe-four-sided-oval-beads.html "Zebra stripe four sided oval beads")
 
-#### [Blue flower clasp](https://sojourner.biz/clasps/glass/blue-flower-clasp.html "Blue flower clasp")
+#### [Zebra stripe four sided oval beads](https://sojourner.biz/beads/glass/zebra-stripe-four-sided-oval-beads.html "Zebra stripe four sided oval beads")
 
-$41.00
+$12.00
 
 ### Best Sellers
 
