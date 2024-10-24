@@ -299,7 +299,15 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
+[![Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://cdn.er.ru/media/news/October2024/gsyrdJUbbcKDdKmF3Nqh-small.jpg)](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
+
+[Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
+
+Сегодня 13:54
+
+[![Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://cdn.er.ru/media/news/October2024/Eyn90wPxXNH0ycPs7ehC-small.jpg)](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
 
 [Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
 
@@ -338,14 +346,6 @@
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныерасходы](https://er.ru/activity/news?tags%5B0%5D=125208) [#пенсии](https://er.ru/activity/news?tags%5B0%5D=219) [#пособия](https://er.ru/activity/news?tags%5B0%5D=2010) [#МРОТ](https://er.ru/activity/news?tags%5B0%5D=4973) [#социальныйконтракт](https://er.ru/activity/news?tags%5B0%5D=133432) [#долговременный уход](https://er.ru/activity/news?tags%5B0%5D=120504)
 
 Сегодня 10:10
-
-[![Владимир Якушев: «Единая Россия» поддержит проект бюджета в первом чтении](https://cdn.er.ru/media/news/October2024/CTwoNQMtEe6NMwBzHTHV-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-proekt-byudzheta-v-pervom-chtenii)
-
-[Владимир Якушев: «Единая Россия» поддержит проект бюджета в первом чтении](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-podderzhit-proekt-byudzheta-v-pervom-chtenii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#оборона](https://er.ru/activity/news?tags%5B0%5D=5346) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#социальныеобязательства](https://er.ru/activity/news?tags%5B0%5D=123666)
-
-Сегодня 09:49
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
