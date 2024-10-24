@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Scott Perry led a conservative House takeover. Now he's in a tough race against a moderate Democrat](https://apnews.com/article/scott-perry-pennsylvania-house-janelle-stelson-6a450eb43c912b724416c0b57d3155db)
     * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
-    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Charlie Kirk and his group Turning Point take center stage in Donald Trump's campaign](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
+    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
-    * [Efforts by Russia, Iran and China to sway US voters may escalate, new Microsoft report says](https://apnews.com/article/russia-china-iran-disinformation-election-ef9b5155349d496e00513e7b3bc3fc07)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
-    * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
+    * [Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury](https://apnews.com/article/commanders-jayden-daniels-injury-3e408cf81dcb1a8cd7c7e03e88e76d2b)
+    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
+    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
     * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
-    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
-    * [They made 36 million Corn Poppers. Here's how they pick the right ones for the Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Business](https://apnews.com/business)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
+    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
     * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
-    * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
     * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
     * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
-    * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -277,9 +277,9 @@ Menu
     
     TOP STORIES
     
+    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
     * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
     * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
-    * [Louisiana's 2020 Teacher of the Year is trying to block the state's Ten Commandments law](https://apnews.com/article/louisiana-lawsuit-ten-commandments-school-classroom-ef68c90769b00ac6e6da50c2f81c32b8)
     
     Newsletters
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
-    * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
+    * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Tormenta tropical en Filipinas inunda ciudades y causa varios muertos](https://apnews.com/article/filipinas-tormenta-trami-inundaciones-ca92eed033772516a14e030b9f0ae6e8)
-    * [Bielorrusia anuncia elecciones; Lukashenko buscará 7mo mandato](https://apnews.com/article/bielorrusia-elecciones-lukashenko-50da4131f5dddf8134dfa40e6eabb951)
-    * [Anuncio de Harris nuestra a mujer de Texas que casi muere de sepsis por leyes antiaborto](https://apnews.com/article/harris-aborto-eeuu-elecciones-26c77f1839549d33cf57e2160db0246c)
+    * [Tim Walz, su esposa y su hijo, votan anticipadamente en Minnesota](https://apnews.com/article/walz-minnesota-eeuu-elecciones-e0029c54645402a96adabaa0a35a0d58)
+    * [El conservador Charlie Kirk y su grupo suben al escenario en apoyo a Donald Trump](https://apnews.com/article/trump-eeuu-elecciones-republicanos-f47dc46e77b7364520785567288a31c2)
+    * [Qué esperar el día de las elecciones en Missouri](https://apnews.com/article/eeuu-elecciones-missouri-trump-harris-9c22ce898bafb8647ace12f0cd6b72c5)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Scott Perry led a conservative House takeover. Now he's in a tough race against a moderate Democrat](https://apnews.com/article/scott-perry-pennsylvania-house-janelle-stelson-6a450eb43c912b724416c0b57d3155db)
     * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
-    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Charlie Kirk and his group Turning Point take center stage in Donald Trump's campaign](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
+    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump wanted generals like Hitler's and said Nazi leader 'did some good things,' John Kelly says](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
-    * [Efforts by Russia, Iran and China to sway US voters may escalate, new Microsoft report says](https://apnews.com/article/russia-china-iran-disinformation-election-ef9b5155349d496e00513e7b3bc3fc07)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63](https://apnews.com/article/dodgers-fernando-valenzuela-dead-03caebce1554591aed06b4a1672334bd)
-    * [LeBron and Bronny James make NBA history](https://apnews.com/article/lebron-bronny-james-lakers-d7caaeb000ad736e9745b436ca123448)
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
+    * [Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury](https://apnews.com/article/commanders-jayden-daniels-injury-3e408cf81dcb1a8cd7c7e03e88e76d2b)
+    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
+    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
     * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
-    * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
-    * [They made 36 million Corn Poppers. Here's how they pick the right ones for the Toy Hall of Fame](https://apnews.com/article/toy-hall-of-fame-inducted-play-museum-09bfa4f975274d054a08f8182ca35536)
     
 * [Business](https://apnews.com/business)
     
@@ -731,20 +731,20 @@ Submit Search
     
     TOP STORIES
     
+    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
     * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
-    * [Researchers in a lab near Lake Erie study how toxic algae can damage health](https://apnews.com/article/algae-blooms-lake-erie-ohio-toxic-research-46c619290204edb55174d8de291462b6)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
     * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
     * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
-    * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     
 * [Tech](https://apnews.com/technology)
     
@@ -785,9 +785,9 @@ Submit Search
     
     TOP STORIES
     
+    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
     * [Movie Review: It’s all politics at the Vatican in ‘Conclave’](https://apnews.com/article/conclave-movie-review-41b1fc3fcb094220ef587fc772cf7566)
     * [Peruvian theologian the Rev. Gustavo Gutiérrez, father of influential liberation theology, has died](https://apnews.com/article/liberation-theology-gustavo-gutierrez-peru-catholic-obituary-f12193d0590feb97623dda91f21f42e7)
-    * [Louisiana's 2020 Teacher of the Year is trying to block the state's Ten Commandments law](https://apnews.com/article/louisiana-lawsuit-ten-commandments-school-classroom-ef68c90769b00ac6e6da50c2f81c32b8)
     
     Newsletters
     
@@ -802,11 +802,11 @@ Submit Search
     TOP STORIES
     
     * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
-    * [El secretario de Defensa de EEUU confirma que Corea del Norte ha enviado soldados a Rusia](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
+    * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Tormenta tropical en Filipinas inunda ciudades y causa varios muertos](https://apnews.com/article/filipinas-tormenta-trami-inundaciones-ca92eed033772516a14e030b9f0ae6e8)
-    * [Bielorrusia anuncia elecciones; Lukashenko buscará 7mo mandato](https://apnews.com/article/bielorrusia-elecciones-lukashenko-50da4131f5dddf8134dfa40e6eabb951)
-    * [Anuncio de Harris nuestra a mujer de Texas que casi muere de sepsis por leyes antiaborto](https://apnews.com/article/harris-aborto-eeuu-elecciones-26c77f1839549d33cf57e2160db0246c)
+    * [Tim Walz, su esposa y su hijo, votan anticipadamente en Minnesota](https://apnews.com/article/walz-minnesota-eeuu-elecciones-e0029c54645402a96adabaa0a35a0d58)
+    * [El conservador Charlie Kirk y su grupo suben al escenario en apoyo a Donald Trump](https://apnews.com/article/trump-eeuu-elecciones-republicanos-f47dc46e77b7364520785567288a31c2)
+    * [Qué esperar el día de las elecciones en Missouri](https://apnews.com/article/eeuu-elecciones-missouri-trump-harris-9c22ce898bafb8647ace12f0cd6b72c5)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
