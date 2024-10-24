@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Rebel Wolves Signs Publishing Deal with Bandai Namco Entertainment for Upcoming Debut Action-RPG, Dawnwalker](https://en.bandainamcoent.eu/news/rebel-wolves-signs-publishing-deal-bandai-namco-entertainment-upcoming-debut-action-rpg)
-* [Dragon Ball DAIMA x DRAGON BALL Z: KAKAROT](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-daima-x-dragon-ball-z-kakarot)
+* [SWORD ART ONLINE Fractured Daydream - Patch Ver. 1.1.2.0](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-patch-ver-1120)
+* [GUNDAM BREAKER 4 gets more content with DLC 1](https://en.bandainamcoent.eu/gundam/news/gundam-breaker-4-gets-more-content-dlc-1)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
