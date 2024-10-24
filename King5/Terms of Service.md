@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
+    *  [![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_360x203.jpg)](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
         
-        #### [Boeing machinists reject company's contract offer, remain on strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380) [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
+        #### [Vigil held at West Seattle gas station where man was shot to death inside vehicle](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
         
-        #### [Did Boeing machinists approve a new contract?](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
-    *  [![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_16x9.jpg) ![](https://media.king5.com/assets/KING/images/76c6076d-0840-4ec5-bb6d-3ec844d0f405/20241020T031927/76c6076d-0840-4ec5-bb6d-3ec844d0f405_360x203.jpg)](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+    *  [![](https://media.king5.com/assets/KING/images/f938c5b3-ee07-4734-b38e-0cf1459cfd7e/20241024T041928/f938c5b3-ee07-4734-b38e-0cf1459cfd7e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f938c5b3-ee07-4734-b38e-0cf1459cfd7e/20241024T041928/f938c5b3-ee07-4734-b38e-0cf1459cfd7e_360x203.jpg)](https://www.king5.com/article/news/local/washington-residents-discuss-candidate-vote-presidential-election/281-6bf68606-ea2f-42f0-bf17-fa0a82b47f27)
         
-        #### [Boeing reports $6 billion quarterly loss as union strike continues](https://www.king5.com/article/money/business/boeing-6-billion-loss-vote-union-workers/281-6a662c97-fde6-474d-bba4-bd071a3990b7)
+        #### [Washington residents discuss which candidate gets their vote in this year's presidential election](https://www.king5.com/article/news/local/washington-residents-discuss-candidate-vote-presidential-election/281-6bf68606-ea2f-42f0-bf17-fa0a82b47f27)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f678136a-b8f5-433a-8647-99613a9f71f2/20241024T003940/f678136a-b8f5-433a-8647-99613a9f71f2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f678136a-b8f5-433a-8647-99613a9f71f2/20241024T003940/f678136a-b8f5-433a-8647-99613a9f71f2_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/5a671bc6-98b6-439c-b87b-31cfa2720074/20241024T061144/5a671bc6-98b6-439c-b87b-31cfa2720074_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a671bc6-98b6-439c-b87b-31cfa2720074/20241024T061144/5a671bc6-98b6-439c-b87b-31cfa2720074_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+48°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
