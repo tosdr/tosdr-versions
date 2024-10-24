@@ -2,7 +2,7 @@
 
 [Skip to main content](#main-content)
 
-[](https://www.studocu.com/en-us "Studocu")
+[](https://www.studocu.com/en-us)
 
 * [University](https://www.studocu.com/en-us/institution)
 * High School
