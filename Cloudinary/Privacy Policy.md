@@ -61,7 +61,6 @@
     
     By Industry
     
-    * [E-commerce](https://cloudinary.com/solutions/ecommerce)
     * [Media & Entertainment](https://cloudinary.com/solutions/industries/media_entertainment)
     * [Non-Profits](https://cloudinary.com/solutions/industries/cloudinary-for-nonprofits)
     * [Retail](https://cloudinary.com/solutions/retail)
