@@ -205,22 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-with-balloons/1/)
-* [Bloodsucking Redneck Vampires](https://www.somethingawful.com/movie-reviews/bloodsucking-redneck-vampires/1/)
-* [Large Penis Support Group, Lipstick Party, The Sato, and Eagle Forum](https://www.somethingawful.com/weekend-web/large-penis-support/1/)
-* [Advanced Dungeons & Dragons: Monster Manual II (part 2)](https://www.somethingawful.com/dungeons-and-dragons/monster-manual-two/1/)
+* [Movie Based Games](https://www.somethingawful.com/photoshop-phriday/movie-based-games/1/)
+* [John McCain's Sacrifice](https://www.somethingawful.com/news/john-mccain-vietnam/1/)
+* [Memos from Bear Cave: Daddy's Home](https://www.somethingawful.com/news/bear-cave-daddy/)
+* [The Expendables; Scott Pilgrim vs. The World; Eat Pray Love](https://www.somethingawful.com/current-movie-reviews/eat-pray-love/1/)
+* [Lunch Box Horrors](https://www.somethingawful.com/photoshop-phriday/lunch-box-horrors/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Why dont public schools have social skills classes?](http://forums.somethingawful.com/showthread.php?threadid=4073466 "Why dont public schools have social skills classes?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Does everyone just have to work overtime now?](http://forums.somethingawful.com/showthread.php?threadid=4073478 "Does everyone just have to work overtime now?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)](http://forums.somethingawful.com/showthread.php?threadid=4073475 "(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)")
 
 ### Random Articles
 
-* [The IFC Automat Photoshop Winners!](https://www.somethingawful.com/daily-dirt/ifc-automat-winners/)
-* [What Astronauts Miss Most](https://www.somethingawful.com/news/tucker-miss-most/1/)
-* [I'm a VERY angry mouse](https://www.somethingawful.com/comedy-goldmine/very-angry-mouse/1/)
-* [Bronson Custard's Exotic Escort Reviews](https://www.somethingawful.com/news/escort-reviews-bronson/1/)
-* [Critical Point](https://www.somethingawful.com/hentai-game-reviews/critical-point/)
+* [Sociopathic.net](https://www.somethingawful.com/awful-links/awful-link-3374/)
+* [Pirates of the Caribbean: On Stranger Tides; Everything Must Go; Cave of Forgotten Dreams](https://www.somethingawful.com/current-movie-reviews/pirates-stranger-tides/1/)
+* [These Signs Will Help Your Business Raise Money on Gofundme](https://www.somethingawful.com/news/gofundme-pizza-loesh/)
+* [MormonAds](https://www.somethingawful.com/photoshop-phriday/mormon-posters/1/)
+* [My Own Worst Anime](https://www.somethingawful.com/news/my-worst-anime/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
