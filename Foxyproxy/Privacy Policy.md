@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-What a great service your team provides!
+I have been very satisfied with the service you have provided for the past 6 months ... I shall be returning to the US in November and will make a new subscription at that time.
 
-Derek
+Michael Dally
