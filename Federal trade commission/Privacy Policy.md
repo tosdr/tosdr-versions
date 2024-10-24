@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct23
+    Nov07
     
-    ### [How to Help Your Library Patrons Avoid Holiday Scams](https://www.ftc.gov/news-events/events/2024/10/how-help-your-library-patrons-avoid-holiday-scams)
+    ### [Office Hours for Librarians - November 7, 2024](https://www.ftc.gov/news-events/events/2024/11/office-hours-librarians-november-7-2024)
     
-    Wednesday, October 23, 2024 | 12:00PM - 1:00PM
+    Thursday, November 7, 2024 | 2:00PM - 3:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
