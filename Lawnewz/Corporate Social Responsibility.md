@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
+1. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
-    ### ['Denied': Georgia Supreme Court unanimously rejects GOP efforts to revive controversial election rules passed by Trump allies](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
+    ### [Judge Cannon's Mar-a-Lago dismissal apparently has Trump eyeing her to replace Jack Smith's boss — and an accused would-be assassin noticed](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
-2. [![Inset: Domonique Knowles being arrested (WKYC). Background: The apartment complex where she left her kids unattended for several days (WOIO).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/sdfsfsd-432x243.jpg)](https://lawandcrime.com/crime/remote-work-is-one-thing-remote-mom-is-another-woman-left-3-young-kids-alone-for-days-while-in-miami-for-friends-liposuction-surgery/)
+2. [![Inset: Addison Jenkins (Boyd Funeral Home). Background: Boyd Funeral Home (Google Street View).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/boyd-1-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
     
-    ### ['Remote work is one thing, remote mom is another': Woman left 3 young kids alone for days while in Miami for friend's liposuction surgery](https://lawandcrime.com/crime/remote-work-is-one-thing-remote-mom-is-another-woman-left-3-young-kids-alone-for-days-while-in-miami-for-friends-liposuction-surgery/)
+    ### [Funeral home shows grieving family wrong body in casket dressed in their father's suit, then insists it's really him: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
     
-3. [![Mark Meadows, Jack Smith](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Meadows-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-cites-basic-defect-while-ending-mark-meadows-lawsuit-against-jack-smith-and-us-archivist-in-search-of-georgia-rico-defense-boost/)
-    
-    ### [Trump-appointed judge cites basic 'defect' while ending Mark Meadows' lawsuit against Jack Smith and US Archivist in search of Georgia RICO defense boost](https://lawandcrime.com/high-profile/trump-appointed-judge-cites-basic-defect-while-ending-mark-meadows-lawsuit-against-jack-smith-and-us-archivist-in-search-of-georgia-rico-defense-boost/)
-    
-4. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/live-trials/accused-suitcase-killer-admits-ignoring-boyfriends-pleas-to-let-him-out-of-zipped-up-luggage-watching-him-suffocate-before-going-to-bed/)
-    
-    ### [Accused suitcase killer admits ignoring boyfriend's pleas to let him out of zipped-up luggage, watching him suffocate before going to bed](https://lawandcrime.com/live-trials/accused-suitcase-killer-admits-ignoring-boyfriends-pleas-to-let-him-out-of-zipped-up-luggage-watching-him-suffocate-before-going-to-bed/)
-    
-5. [![Donald Trump Jr., Charlie Kirk](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Jr-Charlie-Kirk-432x243.jpg)](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
+3. [![Donald Trump Jr., Charlie Kirk](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Trump-Jr-Charlie-Kirk-432x243.jpg)](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
     
     ### [High school social studies teacher arrested for threatening Donald Trump Jr. and Charlie Kirk after receiving message about Turning Point rally: Cops](https://lawandcrime.com/high-profile/high-school-social-studies-teacher-arrested-for-threatening-donald-trump-jr-and-charlie-kirk-after-receiving-message-about-turning-point-rally-cops/)
+    
+4. [![Inset: Jeffrey Newcomb. Background: A ](https://am22.mediaite.com/lc/cnt/uploads/2024/10/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/bullets-are-expensive-jan-6-rioters-used-mans-massive-700-trump-sign-like-a-battering-ram-against-police-at-the-capitol-feds-say/)
+    
+    ### ['Bullets are expensive': Jan. 6 rioters used man's massive $700 'Trump' sign 'like a battering ram' against police at the Capitol, feds say](https://lawandcrime.com/high-profile/bullets-are-expensive-jan-6-rioters-used-mans-massive-700-trump-sign-like-a-battering-ram-against-police-at-the-capitol-feds-say/)
+    
+5. [![Popular post image](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Yelm-Middle-School-432x243.jpg)](https://lawandcrime.com/high-profile/go-sit-down-teacher-denied-menstruating-middle-school-student-bathroom-access-teen-says/)
+    
+    ### ['Go sit down': Teacher denied menstruating middle-school student bathroom access, teen says](https://lawandcrime.com/high-profile/go-sit-down-teacher-denied-menstruating-middle-school-student-bathroom-access-teen-says/)
     
 
 [](http://eepurl.com/c89Jdb)
