@@ -787,6 +787,10 @@ Sign in
 
 Sign in with your email here.
 
+ 
+
+ 
+
 Sign in
 
 By continuing, you agree to our [Terms of Service](https://coolors.co/terms-of-service).  
@@ -799,6 +803,12 @@ Sign up
 -------
 
 Create a free account with your email.
+
+ 
+
+ 
+
+ 
 
 Create your free account
 
@@ -825,17 +835,23 @@ This field is required
 
 This email is not registered
 
+ 
+
 Choose a new password
 
 This field is required
 
 Min 8 characters
 
+ 
+
 Send reset link
 
 Back to Sign in
 
 Color code
+
+ 
 
 Color code
 
