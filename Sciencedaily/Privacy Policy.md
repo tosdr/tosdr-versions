@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Bats: Fighting Deadly White-Nose Syndrome](https://www.sciencedaily.com/releases/2024/10/241023131034.htm)
+* [Rocky Planets Orbiting Small Stars: ...](https://www.sciencedaily.com/releases/2024/10/241023131045.htm)
 * [Bioengineering Plants to Make Food in the Dark](https://www.sciencedaily.com/releases/2024/10/241023131024.htm)
 * [What Standing On One Leg Can Tell You](https://www.sciencedaily.com/releases/2024/10/241023171600.htm)
 * [Healthy Reef Sounds May Help Coral Larvae, Reefs](https://www.sciencedaily.com/releases/2024/10/241023130930.htm)
@@ -216,8 +218,6 @@ this hour
 * [3 Neurons for Decision to Eat](https://www.sciencedaily.com/releases/2024/10/241023130903.htm)
 * [Flipping Genes On and Off for Selected Organs](https://www.sciencedaily.com/releases/2024/10/241023130924.htm)
 * [Physicists Discover First 'Black Hole Triple'](https://www.sciencedaily.com/releases/2024/10/241023130914.htm)
-* [How Ethnic Tibetans Thrive in Thin Oxygen](https://www.sciencedaily.com/releases/2024/10/241021170358.htm)
-* [Geometric Mechanics Shape the Dog's Nose](https://www.sciencedaily.com/releases/2024/10/241022153934.htm)
 
 Trending Topics
 ---------------
@@ -246,9 +246,9 @@ this week
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
