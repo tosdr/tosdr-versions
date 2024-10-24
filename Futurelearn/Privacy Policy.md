@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![software engineer working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-97-150x150.png)](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
+    
+    [A complete guide to software engineering degrees](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
+    ---------------------------------------------------------------------------------------------------------------------------
+    
+    Thinking about taking an online software engineering degree to learn specialist knowledge and improve your …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [IT & Computer Science](https://www.futurelearn.com/info/it-computer-science)
+    
 * [FutureLearn Partners with CILEX to Enhance Access to Legal Education](https://www.futurelearn.com/info/press/futurelearn-partners-with-cilex-to-enhance-access-to-legal-education)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -744,15 +753,6 @@ Powered By
     As AI becomes more popular, FutureLearn asked ChatGPT which job roles and degrees AI would …
     
     Category: [Career Development](https://www.futurelearn.com/info/blog/careers)
-    
-* [![Cop29 Blog 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/COP29-Blog-1500x750-1-150x150.png "Cop29 Blog 1500x750")](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
-    
-    [What is COP29?: A comprehensive guide](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
-    ----------------------------------------------------------------------------------------------------------------
-    
-    Curious about COP29? Explore all there is to know about the 29th annual Conference of …
-    
-    Category: [Current Issues](https://www.futurelearn.com/info/blog/current-issues), [Environment](https://www.futurelearn.com/info/what-is/environment-what-is), [General](https://www.futurelearn.com/info/blog/general)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
