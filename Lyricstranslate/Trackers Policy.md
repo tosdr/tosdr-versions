@@ -137,63 +137,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
-
-New comment
-
-Lyrics also were incomplete in both French and ...  [more](https://lyricstranslate.com/en/comment/1171371#comment-1171371)
-
-[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
 
 New song
 
-[Deep Purple - Love Help Me](https://lyricstranslate.com/en/deep-purple-love-help-me-lyrics)
+[Ofra Haza - My Ethiopian Boy](https://lyricstranslate.com/en/ofra-haza-my-ethiopian-boy-lyrics)
 
 English
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![LT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1-1706215881.png)](https://lyricstranslate.com/en/translator/lt "LT")
 
-New song
+New comment
 
-[Chelsea Dinorath - À Toa](https://lyricstranslate.com/en/chelsea-dinorath-toa-lyrics)
+A quick "Add to Collection" button has been added...  [more](https://lyricstranslate.com/en/comment/1171838#comment-1171838)
 
-Portuguese
-
-[![saspitite](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
+[![Carlo0699](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/carlo0699 "Carlo0699")
 
 New translation
 
-[Hevisaurus - Aarrejahti](https://lyricstranslate.com/en/hevisaurus-aarrejahti-english)
+[Taylor Swift - August](https://lyricstranslate.com/en/taylor-swift-august-filipinotagalog)
 
-Finnish → English
+English → Filipino/Tagalog
 
-[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+[![Blank Blankness](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1570749-1682551120.png)](https://lyricstranslate.com/en/translator/blank-blankness "Blank Blankness")
 
-New song
+New translation
 
-[Deep Purple - Mandrake Root](https://lyricstranslate.com/en/deep-purple-mandrake-root-lyrics)
+[SuperMarioLogan/SML (OST) - Lonely Summer](https://lyricstranslate.com/en/supermariologansml-lonely-summer-esperanto)
+
+English → Esperanto
+
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+
+New transcription request
+
+[Ofra Haza - Amore](https://lyricstranslate.com/en/ofra-haza-amore)
 
 English
 
-[![Diazepan Medina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1321515-1706207072.jpg)](https://lyricstranslate.com/en/translator/diazepan-medina "Diazepan Medina")
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
 
 New comment
 
-The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1171370#comment-1171370)
+\[@Thomas222\] could you write the hebrew lyrics for...  [more](https://lyricstranslate.com/en/comment/1171837#comment-1171837)
 
-[![Luis Miguel Mesa Martinez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628283-1725929538.png)](https://lyricstranslate.com/en/translator/luis-miguel-mesa-martinez "Luis Miguel Mesa Martinez")
+[![Carlo0699](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/carlo0699 "Carlo0699")
 
-New request
+New translation
 
-[Arelys Henao - Corazonada](https://lyricstranslate.com/en/request/corazonada)
+[Taylor Swift - Gold Rush](https://lyricstranslate.com/en/taylor-swift-gold-rush-filipinotagalog)
 
-Spanish → English
+English → Filipino/Tagalog
 
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Zombusic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1621513-1718989711.jpg)](https://lyricstranslate.com/en/translator/zombusic "Zombusic")
 
-New comment
+New transcription request
 
-Thank you, \[@fatix\]. As for the missing word, I...  [more](https://lyricstranslate.com/en/comment/1171367#comment-1171367)
+[The Advocates - Just Jesus And Me](https://lyricstranslate.com/en/advocates-just-jesus-and-me)
+
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
