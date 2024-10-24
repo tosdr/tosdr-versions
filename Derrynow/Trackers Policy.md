@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-23 Oct 2024
+24 Oct 2024
 
 * [Home
     
@@ -273,6 +273,13 @@ Most Popular
 [Tributes paid following death of 15-year-old who competed on RTÉ's Ireland’s Fittest Family](https://www.derrynow.com/news/national-news/1637299/tributes-paid-following-death-of-15-year-old-who-competed-on-rte-s-irelands-fittest-family.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rare classic and sports cars from private Irish collections going under the hammer")](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Fr Paddy O'Kane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fr Paddy O'Kane")](https://www.derrynow.com/news/local-news/1637716/fr-paddy-o-kane-inquest-told-garden-area-not-included-in-health-and-safety-assessment.html)
 
 Fr Paddy O'Kane
@@ -305,12 +312,14 @@ Car flag vandalized
 [Derry woman who headbutted her mother given suspended sentence](https://www.derrynow.com/news/local-news/1637602/derry-woman-who-headbutted-her-mother-given-suspended-sentence.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Rare classic and sports cars from private Irish collections going under the hammer")](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
+[![Man returned to Derry Crown Court on series of historical sexual abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+Derry Magistrate's Court
 
-[PICTURES: Rare classic and sports cars from private Irish collections going under the hammer](https://www.derrynow.com/news/national-news/1637645/pictures-rare-classic-and-sports-cars-from-private-irish-collections-going-under-the-hammer.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ryanair celebrates over five million passengers through City of Derry Airport ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ryanair celebrates over five million passengers through City of Derry Airport ")](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
 
@@ -321,21 +330,14 @@ Ryanair celebrates over five million passengers through City of Derry Airport
 [Ryanair extends Birmingham and expands Manchester route from City of Derry Airport for winter 2024](https://www.derrynow.com/news/derry-news/1637510/ryanair-extends-birmingham-and-expands-manchester-route-from-city-of-derry-airport-for-winter-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man returned to Derry Crown Court on series of historical sexual abuse charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
+[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
 
-Derry Magistrate's Court
+Wolverhampton Police Station
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![‘No armed groups should exist in this day and age’ – O’Neill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘No armed groups should exist in this day and age’ – O’Neill")](https://www.derrynow.com/news/northern-ireland/1638044/no-armed-groups-should-exist-in-this-day-and-age-oneill.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[‘No armed groups should exist in this day and age’ – O’Neill](https://www.derrynow.com/news/northern-ireland/1638044/no-armed-groups-should-exist-in-this-day-and-age-oneill.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,7 +527,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
+[![Police investigating assault at Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating assault at Derry's Magee campus")](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating assault at Derry's Magee campus](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day")](https://www.derrynow.com/news/home/1637790/calling-all-history-enthusiasts-ballinascreen-historical-society-to-launch-new-book-on-local-history-day.html)
+
+Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day
+
+[Home](https://www.derrynow.com/)
+
+[Calling all history enthusiasts - Ballinascreen Historical Society to launch new book on local history day](https://www.derrynow.com/news/home/1637790/calling-all-history-enthusiasts-ballinascreen-historical-society-to-launch-new-book-on-local-history-day.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-02-33-PM-2626-1729692271453.jpg--.jpg?1729692271510 "Magherafelt construction company awarded  £9 million contract to refurbish Wolverhampton police station")](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
 
 Wolverhampton Police Station
 
@@ -534,7 +552,7 @@ Wolverhampton Police Station
 [Magherafelt construction company awarded £9 million contract to refurbish Wolverhampton police station](https://www.derrynow.com/news/home/1637847/magherafelt-construction-company-awarded-9-million-contract-to-refurbish-wolverhampton-police-station.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance")](https://www.derrynow.com/news/home/1638019/it-s-not-all-about-tutus-moneymore-professional-ballet-dancer-is-enjoying-a-rewarding-career-in-the-world-of-dance.html)
+[!['It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance](https://www.derrynow.com/resizer/165/93/true/2024_10_23/CDP_-_22-10-24_-_Page_4_lead_pic_%283%29-1729698062573_1729698227.JPG--.JPG?1729698227026 "'It's not all about tutus': Moneymore professional ballet dancer is enjoying a 'rewarding career' in the world of dance")](https://www.derrynow.com/news/home/1638019/it-s-not-all-about-tutus-moneymore-professional-ballet-dancer-is-enjoying-a-rewarding-career-in-the-world-of-dance.html)
 
 Ruaidhrí Maguire will be among the established stars of the international ballet and dance world performing in Belfast this weekend.
 
@@ -558,22 +576,6 @@ SDLP MLA says all-island register is the only way to protect animals
 
 [£13 million a year allocated to improve services for children with disabilities](https://www.derrynow.com/news/local-news/1638099/13-million-a-year-allocated-to-improve-services-for-children-with-disabilities.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Man returned to Derry Crown Court on series of historical sexual abuse charges")](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man returned to Derry Crown Court on series of historical sexual abuse charges](https://www.derrynow.com/news/local-news/1637766/man-returned-to-derry-crown-court-on-series-of-historical-sexual-abuse-charges.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![O’Neill insists she can still lead as First Minister in stormy committee meeting](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_23/1729699503556_0.jpg--.jpg?1729699503719 "O’Neill insists she can still lead as First Minister in stormy committee meeting")](https://www.derrynow.com/news/local-news/1638072/oneill-insists-she-can-still-lead-as-first-minister-in-stormy-committee-meeting.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[O’Neill insists she can still lead as First Minister in stormy committee meeting](https://www.derrynow.com/news/local-news/1638072/oneill-insists-she-can-still-lead-as-first-minister-in-stormy-committee-meeting.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
