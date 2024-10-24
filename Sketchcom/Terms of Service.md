@@ -16,15 +16,6 @@ Menu
     * [Collaboration](https://www.sketch.com/collaborate/)
     * [Prototyping](https://www.sketch.com/prototype/)
     * [Developer Handoff](https://www.sketch.com/handoff/)
-    * [Extensions](https://www.sketch.com/extensions/)
-    
-    * More
-        
-    * [Color Variables](https://www.sketch.com/color-variables/)
-    * [Commenting](https://www.sketch.com/commenting/)
-    * [Libraries](https://www.sketch.com/libraries/)
-    * [Smart Layout](https://www.sketch.com/smart-layout/)
-    * [Symbols](https://www.sketch.com/symbols/)
     * [All Features](https://www.sketch.com/features/)
     
     What’s New
@@ -32,17 +23,14 @@ Menu
     * [Smart Animate](https://www.sketch.com/updates/#smart-animate)
     * [Easy Library swaps](https://www.sketch.com/updates/#easy-library-swaps)
     * [Color Variables in gradients](https://www.sketch.com/updates/#color-variables-in-gradients)
-    * [A cleaner, fresher web app UI](https://www.sketch.com/updates/#a-cleaner-fresher-web-app-ui)
-    * [Export any asset from the web app](https://www.sketch.com/updates/#export-any-asset-from-the-web-app)
     
     [See all updates](https://www.sketch.com/updates/)
     
-* Learn
+* Explore
     
     * [Blog](https://www.sketch.com/blog/)
-    * [Guides & Courses](https://www.sketch.com/guides/)
-    * [Documentation](https://www.sketch.com/docs/)
-    * [Free for Education](https://www.sketch.com/education/)
+    * [Resources](https://www.sketch.com/guides/)
+    * [Extensions & Plugins](https://www.sketch.com/extensions/)
     
     * Courses
         
@@ -50,14 +38,12 @@ Menu
     * [Sketch 102](https://www.sketch.com/courses/sketch-102/)
     
 * [Pricing](https://www.sketch.com/pricing/)
-* Help
+* Support
     
+    * [Help Center](https://www.sketch.com/support/)
     * [Documentation](https://www.sketch.com/docs/)
-    * [Support](https://www.sketch.com/support/)
     * [Contact Us](https://www.sketch.com/support/contact/)
-    
     * [Community Forum](https://forum.sketch.com/)
-    * [Service Status](https://status.sketch.com/)
     
 
 * [Sign In](https://www.sketch.com/signin/)
@@ -73,27 +59,18 @@ icon-close
     * [Collaboration](https://www.sketch.com/collaborate/)
     * [Prototyping](https://www.sketch.com/prototype/)
     * [Developer Handoff](https://www.sketch.com/handoff/)
-    * [Extensions](https://www.sketch.com/extensions/)
-    * [Color Variables](https://www.sketch.com/color-variables/)
-    * [Commenting](https://www.sketch.com/commenting/)
-    * [Libraries](https://www.sketch.com/libraries/)
-    * [Smart Layout](https://www.sketch.com/smart-layout/)
-    * [Symbols](https://www.sketch.com/symbols/)
-    * [Pricing](https://www.sketch.com/pricing/)
     * [All Features](https://www.sketch.com/features/)
-* * Learn
+* * Explore
     * [Blog](https://www.sketch.com/blog/)
-    * [Guides & Courses](https://www.sketch.com/guides/)
+    * [Resources](https://www.sketch.com/guides/)
     * [Sketch 101](https://www.sketch.com/courses/sketch-101/)
     * [Sketch 102](https://www.sketch.com/courses/sketch-102/)
+    * [Extensions & Plugins](https://www.sketch.com/extensions/)
+* * Support
+    * [Help Center](https://www.sketch.com/support/)
     * [Documentation](https://www.sketch.com/docs/)
-    * [Free for Education](https://www.sketch.com/education/)
-* * Help
-    * [Documentation](https://www.sketch.com/docs/)
-    * [Support](https://www.sketch.com/support/)
     * [Contact Us](https://www.sketch.com/support/contact/)
     * [Community Forum](https://forum.sketch.com/)
-    * [Service Status](https://status.sketch.com/)
 
 [Legal](https://www.sketch.com/legal/)
 
@@ -117,6 +94,7 @@ Contents
 
 * [Cookie Policy](https://www.sketch.com/cookie-policy/)
 * [Social Media House Rules](https://www.sketch.com/social/)
+* [Corporate Social Responsibility (CSR) Policy](https://www.sketch.com/csr/)
 
 * [Security](https://www.sketch.com/security-measures/)
 
@@ -143,6 +121,7 @@ Cancel
 
 * [Cookie Policy](https://www.sketch.com/cookie-policy/)
 * [Social Media House Rules](https://www.sketch.com/social/)
+* [Corporate Social Responsibility (CSR) Policy](https://www.sketch.com/csr/)
 
 * [Security](https://www.sketch.com/security-measures/)
 
@@ -479,45 +458,30 @@ Email  Sign up
 * [Collaboration](https://www.sketch.com/collaborate/)
 * [Prototyping](https://www.sketch.com/prototype/)
 * [Developer Handoff](https://www.sketch.com/handoff/)
-* [Color Variables](https://www.sketch.com/color-variables/)
-* [Commenting](https://www.sketch.com/commenting/)
-* [Libraries](https://www.sketch.com/libraries/)
-* [Smart Layout](https://www.sketch.com/smart-layout/)
-* [Symbols](https://www.sketch.com/symbols/)
-* [Apps](https://www.sketch.com/apps/)
-* [Extensions](https://www.sketch.com/extensions/)
-* [Pricing](https://www.sketch.com/pricing/)
-* [Beta](https://www.sketch.com/beta/)
 * [All Features](https://www.sketch.com/features/)
-* [Roadmap](https://www.sketch.com/roadmap/)
+* [View & Mirror on iOS](https://apps.apple.com/app/sketch-view-and-mirror/id1609224699)
+* [Beta](https://www.sketch.com/beta/)
 
-### Why Sketch
+### Explore
 
-* [Sketch Myths](https://www.sketch.com/myths/)
-* [Figma to Sketch](https://www.sketch.com/vs/figma/)
-* [Adobe XD to Sketch](https://www.sketch.com/vs/xd/)
-* [Switch from InVision](https://www.sketch.com/switch-from-invision/)
-* [Meet Our Customers](https://www.sketch.com/customers/)
-* [Free for Education](https://www.sketch.com/education/)
-
-### Learn
-
+* [Resources](https://www.sketch.com/guides/)
 * [Blog](https://www.sketch.com/blog/)
-* [Guides & Courses](https://www.sketch.com/guides/)
-* [Course: Sketch 101](https://www.sketch.com/courses/sketch-101/)
-* [Course: Sketch 102](https://www.sketch.com/courses/sketch-102/)
-* [Documentation](https://www.sketch.com/docs/)
+* [Extensions & Plugins](https://www.sketch.com/extensions/)
+* [Figma to Sketch](https://www.sketch.com/vs/figma/)
+* [Pricing](https://www.sketch.com/pricing/)
+* [Roadmap](https://www.sketch.com/roadmap/)
+* [Free for Education](https://www.sketch.com/education/)
 * [Newsletter](https://www.sketch.com/newsletter/)
-* [Developer Platform](https://developer.sketch.com/)
 
-### Help
+### Support
 
+* [Help Center](https://www.sketch.com/support/)
 * [Documentation](https://www.sketch.com/docs/)
-* [Support](https://www.sketch.com/support/)
-* [Contact Us](https://www.sketch.com/support/contact/)
-* [Manage License](https://www.sketch.com/license/)
 * [Community Forum](https://forum.sketch.com/)
+* [Developer Platform](https://developer.sketch.com/)
 * [Service Status](https://status.sketch.com/)
+* [Manage License](https://www.sketch.com/license/)
+* [Contact Us](https://www.sketch.com/support/contact/)
 
 ### Company
 
