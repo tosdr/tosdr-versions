@@ -99,12 +99,7 @@ Close menu
         
     * [Board of Directors](https://bbbprograms.org/about-us/board-of-directors)
         
-    * [Leadership](#)
-        
-        * [eric-d.-reicin-ceo](https://bbbprograms.org/about-us/BBB-National-Programs-Leadership/eric-d.-reicin-ceo)
-            
-        * [vickie-mccormick-cpa-cgma](https://bbbprograms.org/about-us/BBB-National-Programs-Leadership/vickie-mccormick-cpa-cgma)
-            
+    * [Leadership](https://bbbprograms.org/about-us/BBB-National-Programs-Leadership)
         
     * [Contact Us](https://bbbprograms.org/about-us/contact-us)
         
