@@ -68,7 +68,7 @@
     
     ###### Integrate your apps
     
-    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![Slack - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Slack-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/slack/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
+    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
     
     [Explore all connectors](https://boomi.com/connectors/)
     
@@ -110,10 +110,12 @@
     
 * [Contact us](https://boomi.com/company/contact/)
 
-* *  [![dummy-img](https://boomi.com/wp-content/themes/boomi/assets/images/usa.svg) English](#)
-    *  [![dummy-img](https://boomi.com/wp-content/themes/boomi/assets/images/usa.svg) 日本語](#)
-    *  [![dummy-img](https://boomi.com/wp-content/themes/boomi/assets/images/usa.svg) Français](#)
-    *  [![dummy-img](https://boomi.com/wp-content/themes/boomi/assets/images/usa.svg) Deutsch](#)
+* [Language](javascript:;)
+    * [![en-flag](https://boomi.com/wp-content/themes/boomi/assets/images/united-states.svg)English](https://boomi.com/ "Language switcher : English")
+    * [![fr-flag](https://boomi.com/wp-content/themes/boomi/assets/images/france.svg)Français](https://boomi.com/fr/ "Language switcher : French")
+    * [![de-flag](https://boomi.com/wp-content/themes/boomi/assets/images/germany.svg)Deutsch](https://boomi.com/de/ "Language switcher : German")
+    * [![it-flag](https://boomi.com/wp-content/themes/boomi/assets/images/italy.svg)Italiano](https://boomi.com/it/ "Language switcher : Italian")
+    * [![ja-flag](https://boomi.com/wp-content/themes/boomi/assets/images/japan.svg)日本語](https://boomi.com/ja/ "Language switcher : Japanese")
 * [Get started](javascript:;)
     * [Boomi Discover](https://discover.boomi.com/)
     * [Connectors](https://boomi.com/connectors/)
@@ -235,7 +237,7 @@
     
     [Explore all connectors](https://boomi.com/connectors/)
     
-    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![Slack - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Slack-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/slack/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
+    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
     
     * [Start free trial](https://boomi.com/form/trial/)
     * [Request a demo](https://boomi.com/custom-demo-request/)
@@ -678,7 +680,7 @@ The #1 intelligent iPaaS for digital transformation.
 
 © 2024 Copyright Boomi, LP. All rights reserved.
 
-* [Privacy](https://boomi.com/legal/privacy/)
+* [Privacy](https://boomi.com/privacy/)
 * [Compliance](https://boomi.com/compliance/)
 * [Terms](https://boomi.com/legal/service/)
 * [GDPR](https://boomi.com/compliance/)
