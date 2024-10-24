@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>5:40pm |
-| Get AlongKenny Chesney<br><br>5:37pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:34pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:25pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>5:22pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>11:40pm |
+| A Lot More FreeMax Mcnown<br><br>11:33pm |
+| World On FireNate Smith<br><br>11:30pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:26pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>11:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,9 +495,9 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-News Talk • Eastern
+Country • Western
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
@@ -507,9 +507,9 @@ Top 40 • Eastern
 
 Spanish • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Sports • Midwest
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
