@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside The Space Shuttle](/wp-content/thumbnails/6458-100x70.png?x53432)
+* [![Les Stroud: Off the Grid](/wp-content/thumbnails/757-100x70.png?x53432)
     
-    Inside The Space Shuttle
+    Les Stroud: Off the Grid
     
-    This documentary takes the viewer inside NASA’s space shuttle for a close-up look at the most advanced flying machine ever built. Actor Gary Sinise narrates the history of the space shuttle’s developm](https://documentaryheaven.com/inside-the-space-shuttle/ "Inside The Space Shuttle")
-* [![Bill Gates on energy: Innovating to zero!](/wp-content/thumbnails/4291-100x70.jpg?x53432)
+    Thoreau said that if an emergency struck, a man should be able to leave his home with nothing more than the clothing on his back and feel like he left nothing behind. Self sufficiency is almost imposs](https://documentaryheaven.com/les-stroud-off-the-grid/ "Les Stroud: Off the Grid")
+* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
     
-    Bill Gates on energy: Innovating to zero!
+    Reality and the Extended Mind
     
-    At TED2010, Bill Gates unveils his vision for the world's energy future, describing the need for "miracles" to avoid planetary catastrophe and explaining why he's backing a dramatically different ty](https://documentaryheaven.com/bill-gates-on-energy-innovating-to-zero/ "Bill Gates on energy: Innovating to zero!")
-* [![Oliver The Chimp](/wp-content/thumbnails/3034-100x70.png?x53432)
+    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
+* [![Swallowed by a Black Hole](/wp-content/thumbnails/8011-100x70.jpg?x53432)
     
-    Oliver The Chimp
+    Swallowed by a Black Hole
     
-    In January 1976 news broke of a phenomenon. Pictures showed an upright bald ape called Oliver, who appeared to be a cross between a human and a chimpanzee; What scientists refer to as a humanzee.O](https://documentaryheaven.com/oliver-the-chimp/ "Oliver The Chimp")
-* [![Russell Brand: End the Drugs War](/wp-content/thumbnails/9472-100x70.jpg?x53432)
+    This summer, the black hole at the centre of the Milky Way is getting ready to feast.A gas cloud three times the size of our planet has strayed within the gravitational reach of our nearest superm](https://documentaryheaven.com/swallowed-black-hole/ "Swallowed by a Black Hole")
+* [![The Fabulous Life Of Billion Dollar Wall Street Ballers](/wp-content/thumbnails/3820-100x70.jpg?x53432)
     
-    Russell Brand: End the Drugs War
+    The Fabulous Life Of Billion Dollar Wall Street Ballers
     
-    Comedian and Actor, Russell Brand sets off on a personal journey in order to see for himself how the "war on drugs" in the UK is being carried out. Brand an ex-addict himself gets talking to those sti](https://documentaryheaven.com/russell-brand-end-drugs-war/ "Russell Brand: End the Drugs War")
-* [![The Pink Floyd Story: Which One’s Pink?](/wp-content/thumbnails/9386-100x70.jpeg?x53432)
+    Ever thought about how those Wallstreet Brokers lived, while speculating with your money and burning it in the financial crisis? In this documentary you see the homes of Billionaires and multi Million](https://documentaryheaven.com/the-fabulous-life-of-billion-dollar-wall-street-ballers/ "The Fabulous Life Of Billion Dollar Wall Street Ballers")
+* [![The Maze Prison Escape](/wp-content/thumbnails/5165-100x70.jpg?x53432)
     
-    The Pink Floyd Story: Which One’s Pink?
+    The Maze Prison Escape
     
-    In 2005 for the first time in 25 years the members of Pink Floyd got back together to play a live show for Live Aid, for a precious 20 minutes they were once again the legendary Pink Floyd, a band tha](https://documentaryheaven.com/pink-floyd-story-which-ones-pink/ "The Pink Floyd Story: Which One’s Pink?")
+    Documentary on The Maze Prison Escape in the Early 1980s. 36 IRA Men in Block 7 escaped from Europes most secure prison based inside a British Military Facility just outside Lisburn.This escape took](https://documentaryheaven.com/the-maze-prison-escape/ "The Maze Prison Escape")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
