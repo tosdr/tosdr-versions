@@ -228,13 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Presidential candidate survives Wisconsin version of an assassination attempt](https://www.fark.com/goto/13438842) ( [chicagotribune.com](https://www.fark.com/goto/13438842) ) » [(14 comments)](https://www.fark.com/comments/13438842/Presidential-candidate-survives-Wisconsin-version-of-an-assassination-attempt) |
-| [Discussion](https://www.fark.com/discussion/) | ['Twas the little series that could about the little starship with her motley crew that could (and did), getting us all chanting and cheering. Final season of "Lower Decks" starts with a two-episode premiere, dropping at 3 AM ET on Paramount+](https://www.fark.com/goto/13437924) ( [imdb.com](https://www.fark.com/goto/13437924) ) » [(17 comments)](https://www.fark.com/comments/13437924/Twas-little-series-that-could-about-little-starship-with-her-motley-crew-that-could-did-getting-us-all-chanting-cheering-Final-season-of-Lower-Decks-starts-with-a-two-episode-premiere-dropping-at-3-AM-ET-on-Paramount) |
-| [Sports](https://www.fark.com/sports/) | [In yet another example of wrestling imitating life, Trump gets the Undertaker and the Devil's Favorite Demon on his side, whereas Harris gets the support of all Mankind](https://www.fark.com/goto/13438716) ( [yahoo.com](https://www.fark.com/goto/13438716) ) » [(9 comments)](https://www.fark.com/comments/13438716/In-yet-another-example-of-wrestling-imitating-life-Trump-gets-Undertaker-the-Devils-Favorite-Demon-on-his-side-whereas-Harris-gets-support-of-all-Mankind) |
-| [Business](https://www.fark.com/business/) | [Tesla's profits come from carbon credits and by monopolizing their shoddy cars' repairs. Little wonder why no one else is making money off EVs](https://www.fark.com/goto/13438770) ( [cnbc.com](https://www.fark.com/goto/13438770) ) » [(11 comments)](https://www.fark.com/comments/13438770/Teslas-profits-come-from-carbon-credits-by-monopolizing-their-shoddy-cars-repairs-Little-wonder-why-no-one-else-is-making-money-off-EVs) |
-| [STEM](https://www.fark.com/stem/) | ["Please use whatever mush you call brains. I'm Finnish. Did you think I'd be \*supporting\* Russian aggression?"](https://www.fark.com/goto/13438752) ( [theregister.com](https://www.fark.com/goto/13438752) ) » [(4 comments)](https://www.fark.com/comments/13438752/Please-use-whatever-mush-you-call-brains-Im-Finnish-Did-you-think-Id-be-supporting-Russian-aggression) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Can't be much more American than you being a country music star, your dad having been a pro baseball player, and your brother being a big-city firefighter](https://www.fark.com/goto/13438932) ( [pennlive.com](https://www.fark.com/goto/13438932) ) » [(3 comments)](https://www.fark.com/comments/13438932/Cant-be-much-more-American-than-you-being-a-country-music-star-your-dad-having-been-a-pro-baseball-player-your-brother-being-a-big-city-firefighter) |
-| [Fandom](https://www.fark.com/fandom/) | [The teraflops war is over. We don't need more powerful consoles, just more interesting games](https://www.fark.com/goto/13438802) ( [theguardian.com](https://www.fark.com/goto/13438802) ) » [(11 comments)](https://www.fark.com/comments/13438802/The-teraflops-war-is-over-We-dont-need-more-powerful-consoles-just-more-interesting-games) |
-| [D'awww](https://www.fark.com/dawww/) | [Bruce, the ghost cow](https://www.fark.com/goto/13438506) ( [aol.com](https://www.fark.com/goto/13438506) ) » [(2 comments)](https://www.fark.com/comments/13438506/Bruce-ghost-cow) |
-| [Food](https://www.fark.com/food/) | [Underneath the arches in Chicago is the one US McDonalds that will serve you Teriyaki Chicken Filet-O from Japan or India's Big Spicy Paneer Wrap and other international goodies](https://www.fark.com/goto/13438706) ( [foodandwine.com](https://www.fark.com/goto/13438706) ) » [(1 comment)](https://www.fark.com/comments/13438706/Underneath-arches-in-Chicago-is-one-US-McDonalds-that-will-serve-you-Teriyaki-Chicken-Filet-O-from-Japan-Indias-Big-Spicy-Paneer-Wrap-other-international-goodies) |
-| [Politics](https://www.fark.com/politics/) | [Life under the trolligarchy](https://www.fark.com/goto/13438910) ( [msn.com](https://www.fark.com/goto/13438910) ) » [(22 comments)](https://www.fark.com/comments/13438910/Life-under-trolligarchy) |
+| [Main](https://www.fark.com/) | [The original Rosie the Riveter is still alive and just turned 100](https://www.fark.com/goto/13439730) ( [aol.com](https://www.fark.com/goto/13439730) ) » [(7 comments)](https://www.fark.com/comments/13439730/The-original-Rosie-Riveter-is-still-alive-just-turned-100) |
+| [Discussion](https://www.fark.com/discussion/) | [Lots of Europa League action, highlight matches @12:45 pm ET Roma v Dynamo Kyiv, Qarabag v Ajax. @3:00 Spurs v AZ, Fenerbahçe v Man Untied, and Porto v Hoffenheim. On CBS Sports, TUDN, and Paramount+](https://www.fark.com/goto/13439012) ( [cbssports.com](https://www.fark.com/goto/13439012) ) » [(9 comments)](https://www.fark.com/comments/13439012/Lots-of-Europa-League-action-highlight-matches-1245-pm-ET-Roma-v-Dynamo-Kyiv-Qarabag-v-Ajax-300-Spurs-v-AZ-Fenerbahe-v-Man-Untied-Porto-v-Hoffenheim-On-CBS-Sports-TUDN-Paramount) |
+| [Sports](https://www.fark.com/sports/) | [God Hates Liberty University](https://www.fark.com/goto/13439224) ( [wsbtv.com](https://www.fark.com/goto/13439224) ) » [(6 comments)](https://www.fark.com/comments/13439224/God-Hates-Liberty-University) |
+| [Business](https://www.fark.com/business/) | [Most EVs are good for the environment and living things, most of the time. The incident involving money-laundering and funding Kim Jong-un's ICBM program was a one-off](https://www.fark.com/goto/13439636) ( [jalopnik.com](https://www.fark.com/goto/13439636) ) » [(0 comments)](https://www.fark.com/comments/13439636/Most-EVs-are-good-for-environment-living-things-most-of-time-The-incident-involving-money-laundering-funding-Kim-Jong-uns-ICBM-program-was-a-one-off) |
+| [STEM](https://www.fark.com/stem/) | [Electricity - what can't it do?](https://www.fark.com/goto/13439590) ( [phys.org](https://www.fark.com/goto/13439590) ) » [(3 comments)](https://www.fark.com/comments/13439590/Electricity-what-cant-it-do) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Well what do you think a teen boy romance book would be like, and who would buy it?](https://www.fark.com/goto/13439530) ( [dailymail.co.uk](https://www.fark.com/goto/13439530) ) » [(7 comments)](https://www.fark.com/comments/13439530/Well-what-do-you-think-a-teen-boy-romance-book-would-be-like-who-would-buy-it) |
+| [Fandom](https://www.fark.com/fandom/) | [Aerith lives](https://www.fark.com/goto/13439412) ( [kotaku.com](https://www.fark.com/goto/13439412) ) » [(0 comments)](https://www.fark.com/comments/13439412/Aerith-lives) |
+| [D'awww](https://www.fark.com/dawww/) | [The original Rosie the Riveter is still alive and just turned 100](https://www.fark.com/goto/13439730) ( [aol.com](https://www.fark.com/goto/13439730) ) » [(7 comments)](https://www.fark.com/comments/13439730/The-original-Rosie-Riveter-is-still-alive-just-turned-100) |
+| [Food](https://www.fark.com/food/) | [Bright colourful lights in the sky might be a nearby tomato factory not an aurora](https://www.fark.com/goto/13439494) ( [bbc.co.uk](https://www.fark.com/goto/13439494) ) » [(3 comments)](https://www.fark.com/comments/13439494/Bright-colourful-lights-in-sky-might-be-a-nearby-tomato-factory-not-an-aurora) |
+| [Politics](https://www.fark.com/politics/) | [For some reason having nothing to do with DOJ's warning, there was no $1 million Musk daily lottery winner on Wednesday](https://www.fark.com/goto/13439622) ( [cnn.com](https://www.fark.com/goto/13439622) ) » [(19 comments)](https://www.fark.com/comments/13439622/For-some-reason-having-nothing-to-do-with-DOJs-warning-there-was-no-$1-million-Musk-daily-lottery-winner-on-Wednesday) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 24 2024 08:43:09  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 24 2024 15:42:18  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
