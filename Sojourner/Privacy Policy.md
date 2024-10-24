@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6674879142f4954dc67ad0d57c065155
+4f70f1f46776440ada95adb246f9f5ba
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Gold sahara Swarovski clasp](https://www.sojourner.biz/images/cache/SKU0351variations.200.jpg)](https://www.sojourner.biz/clasps/swarovski/gold-sahara-swarovski-clasp.html "Gold sahara Swarovski clasp")
+[![Red and gray bicone beads](https://www.sojourner.biz/images/cache/glass/GL0134.200.jpg)](https://www.sojourner.biz/beads/glass/red-and-gray-bicone-beads.html "Red and gray bicone beads")
 
-#### [Gold sahara Swarovski clasp](https://www.sojourner.biz/clasps/swarovski/gold-sahara-swarovski-clasp.html "Gold sahara Swarovski clasp")
+#### [Red and gray bicone beads](https://www.sojourner.biz/beads/glass/red-and-gray-bicone-beads.html "Red and gray bicone beads")
 
-$30.00
+$15.00
 
 ### Best Sellers
 
