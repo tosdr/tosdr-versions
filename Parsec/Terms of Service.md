@@ -231,7 +231,7 @@ Social
 
 * [![Youtube Icon](https://cdn.sanity.io/images/fuvbjjlp/production/82f958b51978ffcb001464840f4499f3f7f2e806-24x24.svg)](https://www.youtube.com/user/Unity3D)
 * [![LinkedIn icon](https://cdn.sanity.io/images/fuvbjjlp/production/dd69f2ffe65cf07cd992ed377edb6320d17695c5-24x24.svg)](https://www.linkedin.com/company/unity-technologies)
-* [![Twitter icon](https://cdn.sanity.io/images/fuvbjjlp/production/08e30b60b2187caae0c71513dca8a24bad28c7c6-25x24.svg)](https://www.twitter.com/unity)
+* [![X icon](https://cdn.sanity.io/images/fuvbjjlp/production/e9d8edc63e910a02d4c70d2cd3777e63d97e5a56-32x32.svg)](https://www.twitter.com/unity)
 * [![Facebook icon](https://cdn.sanity.io/images/fuvbjjlp/production/3c67aed6455caf27f09c3f552c581d0815b1ec01-24x24.svg)](https://www.facebook.com/unity3d)
 * [![Instagram icon](https://cdn.sanity.io/images/fuvbjjlp/production/0d84cf67aa301c88e9eb1559d8d20ea14b73159a-24x24.svg)](https://www.instagram.com/unitytechnologies)
 
@@ -260,7 +260,7 @@ Education
 
 Download
 
-* [Get Unity](https://parsecgaming.com/en/download)
+* [Unity Hub](https://parsecgaming.com/en/download)
 * [Download Archive](https://parsecgaming.com/en/releases/editor/archive)
 * [Beta Program](https://parsecgaming.com/en/releases/editor/beta)
 
