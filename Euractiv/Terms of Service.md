@@ -652,6 +652,9 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * [European Public Projects](https://www.euractiv.com/eu-projects/)
 * [Yellow Academy](https://www.euractiv.com/yellow-academy/)
 * [Euractiv Intelligence](https://www.euractiv.com/intelligence)
+* [Jobs](https://jobs.euractiv.com/)
+* [Submit an opinion](https://www.euractiv.com/about-euractiv/opinion-criteria-structure-and-examples-for-external-contributions/)
+* [Press releases](https://pr.euractiv.com/)
 
 ##### About Euractiv
 
@@ -659,11 +662,9 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * [Podcasts](https://www.euractiv.com/podcast)
 * [Events](https://events.euractiv.com/)
 * [Agenda](https://agenda.euractiv.com/)
-* [Jobs](https://jobs.euractiv.com/)
 * [Mediahuis](https://www.mediahuis.com/en/)
-* [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
-* [Submit an opinion](https://www.euractiv.com/about-euractiv/opinion-criteria-structure-and-examples-for-external-contributions/)
 * [Contact us](https://www.euractiv.com/contactus)
+* [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
 
 ##### Subscriptions
 
