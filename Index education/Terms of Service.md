@@ -197,7 +197,8 @@ La société INDEX ÉDUCATION
 * [Histoire](https://www.index-education.com/fr/presentation.php)
 * [Offres d'emploi](https://www.index-education.com/fr/nous-recrutons.php)
 * [Contact](https://www.index-education.com/fr/contacts.php)
-* [Schéma pluriannuel d'accessibilité numérique](https://www.index-education.com/fr/article-1618-schema-pluriannuel-accessibilite.php)
+* [Accessibilité : Non conforme](https://www.index-education.com/fr/schema-pluriannuel-accessibilite-numerique.php#declaration-accessibilite)
+* [Schéma pluriannuel d'accessibilité numérique](https://www.index-education.com/fr/schema-pluriannuel-accessibilite-numerique.php)
 
 Légal Sites internet
 
@@ -210,4 +211,4 @@ Légal produits
 * [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- B
+INDEX ÉDUCATION | © 2024 \- F
