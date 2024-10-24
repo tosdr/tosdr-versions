@@ -109,6 +109,8 @@ Anzeigen
     * Hell
     * Dunkel
 
+[**Eilmeldung** 15:09 Uhr Steuerschätzer prognostizieren weniger Steuereinnahmen bis 2028](https://www.zeit.de/politik/deutschland/2024-10/steuerschaetzer-bis-2028-58-milliarden-euro-weniger-steuereinnahmen)
+
 Z+ (abopflichtiger Inhalt); : Nutzungs- und Geschäftsbedingungen
 ================================================================
 
