@@ -1,8 +1,9 @@
 [Skip to content](#content)
 
 **It's Renewal Time!**
+----------------------
 
-2025 Membership Invoices will go out the first week of November and are due by January 1st.
+> 2025 Membership Invoices will go out the first week of November and are due by January 1st.
 
 ACKNOWLEDGE
 
