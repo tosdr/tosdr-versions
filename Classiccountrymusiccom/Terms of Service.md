@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Reba Steals From Team Gwen After...](https://classiccountrymusic.com/reba-steals-from-team-gwen-after-electrifying-rock-battle-on-the-voice/)
 * [Over 4 Million People Watched The...](https://classiccountrymusic.com/over-4-million-people-watched-the-premiere-of-rebas-new-sitcom-happys-place/)
 * [Toby Keith’s Wife Remembers Him In...](https://classiccountrymusic.com/toby-keiths-wife-remembers-him-in-emotional-cmhof-speech-he-was-a-wonderful-husband/)
-* [Lavish Tennessee Estate Built By George...](https://classiccountrymusic.com/lavish-tennessee-estate-built-by-george-jones-listed-for-sale-photos/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
