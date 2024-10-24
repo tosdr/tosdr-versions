@@ -5,7 +5,9 @@
 [![](https://crowdmark.com/wp-content/uploads/2022/10/logo.svg)](http://crowdmark.com/)
 
 * [Higher Ed](https://crowdmark.com/higher-ed/)
-* [K–12](https://crowdmark.com/k12/)
+    * [K–12](https://crowdmark.com/k12/)
+* [Pricing](https://crowdmark.com/request-pricing/)
+* [Blog](https://crowdmark.com/blog/)
 * [About](https://crowdmark.com/our-story/)
     * [Our Story](https://crowdmark.com/our-story/)
     * [Team](https://crowdmark.com/team/)
@@ -13,13 +15,16 @@
     * [Partners](https://crowdmark.com/partners/)
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
-* [Blog](https://crowdmark.com/blog/)
-* [Podcast](https://crowdmark.com/crowdmark-sessions/)
-* [Conference](https://crowdmark.com/events/community-conference/)
+* [Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
+    * [Podcast](https://crowdmark.com/crowdmark-sessions/)
+    * [Conference](https://crowdmark.com/events/community-conference/)
+    * [Customer Stories](https://crowdmark.com/customer-stories/)
 * [Help](https://crowdmark.com/help/)
 
 * [Higher Ed](https://crowdmark.com/higher-ed/)
-* [K–12](https://crowdmark.com/k12/)
+    * [K–12](https://crowdmark.com/k12/)
+* [Pricing](https://crowdmark.com/request-pricing/)
+* [Blog](https://crowdmark.com/blog/)
 * [About](https://crowdmark.com/our-story/)
     * [Our Story](https://crowdmark.com/our-story/)
     * [Team](https://crowdmark.com/team/)
@@ -27,9 +32,10 @@
     * [Partners](https://crowdmark.com/partners/)
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
-* [Blog](https://crowdmark.com/blog/)
-* [Podcast](https://crowdmark.com/crowdmark-sessions/)
-* [Conference](https://crowdmark.com/events/community-conference/)
+* [Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
+    * [Podcast](https://crowdmark.com/crowdmark-sessions/)
+    * [Conference](https://crowdmark.com/events/community-conference/)
+    * [Customer Stories](https://crowdmark.com/customer-stories/)
 * [Help](https://crowdmark.com/help/)
 
 [Get a Trial](https://crowdmark.com/contact/)
@@ -262,6 +268,10 @@ Learn about Crowdmark in person! [Check out our upcoming live events.](https://c
 
 [K–12](https://crowdmark.com/k12/)
 
+[Pricing](https://crowdmark.com/request-pricing/)
+
+[Blog](https://crowdmark.com/blog/)
+
 [About](https://crowdmark.com/our-story/)
 
 [Our Story](https://crowdmark.com/our-story/)
@@ -276,11 +286,13 @@ Learn about Crowdmark in person! [Check out our upcoming live events.](https://c
 
 [FAQ](https://crowdmark.com/faq/)
 
-[Blog](https://crowdmark.com/blog/)
+[Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
 
 [Podcast](https://crowdmark.com/crowdmark-sessions/)
 
 [Conference](https://crowdmark.com/events/community-conference/)
+
+[Customer Stories](https://crowdmark.com/customer-stories/)
 
 [Help](https://crowdmark.com/help/)
 
