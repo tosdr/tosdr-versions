@@ -29,6 +29,7 @@ Navigation
     * [Corrective measures and termination for cause by Doodle](https://doodle.com/en/general-terms-and-conditions/#corrective-measures-and-termination-for-cause-by-doodle)
     * [Indemnification](https://doodle.com/en/general-terms-and-conditions/#indemnification)
     * [Final Provisions](https://doodle.com/en/general-terms-and-conditions/#final-provisions)
+    * [Appendix 1 - Data Processing Addendum](https://doodle.com/en/general-terms-and-conditions/#data-processing-addendum)
 
 General Terms and Conditions
 ----------------------------
