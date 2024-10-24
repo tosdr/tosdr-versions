@@ -315,6 +315,7 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
     * [Blog](https://www.coolmathgames.com/blog)
     * [Developers](http://developers.coolmathgames.com/)
     * [Contact Us](https://www.coolmathgames.com/contact-us)
+    * [Accessibility](https://www.coolmathgames.com/coolmath-games-accessibility)
     
     BROWSE GAMES
     ------------
