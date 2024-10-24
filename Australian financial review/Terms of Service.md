@@ -334,16 +334,13 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Crypto billionaire Tim Heath has an estimated worth of $2.27 billion.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_226%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/594345fadd2bc1fcca4a82c7689fe0a471fd92c2)](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
+[![xx](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/76090a246e2ff263ffaedcf5fec97f4631c3c53b)](https://www.afr.com/markets/equity-markets/westpac-splits-from-aba-attempted-kidnapping-next-battle-for-offices-20241024-p5kl1h)
 
-### [Crypto casino Rich Lister victim of attempted kidnapping](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
+### [Westpac splits from ABA; Attempted kidnapping; Next battle for offices](https://www.afr.com/markets/equity-markets/westpac-splits-from-aba-attempted-kidnapping-next-battle-for-offices-20241024-p5kl1h)
 
-* 56 mins ago
-* Yolanda Redrup
-
-* ### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
+* ### [Crypto casino Rich Lister victim of attempted kidnapping](https://www.afr.com/wealth/people/crypto-casino-rich-lister-victim-of-attempted-kidnapping-20241024-p5kkyn)
     
-* ### [How Jason Daniel went from ‘loose kid’ to the Young Rich List](https://www.afr.com/wealth/people/how-jason-daniel-went-from-loose-kid-to-the-young-rich-list-20241003-p5kfl2)
+* ### [The 10 richest young Australians revealed](https://www.afr.com/young-rich/the-10-richest-young-australians-revealed-20241016-p5kirr)
     
 
 [The Australian Financial Review](https://www.afr.com/)
