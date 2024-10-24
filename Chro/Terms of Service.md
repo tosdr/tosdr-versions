@@ -33,8 +33,6 @@ Registered attendees are not able to cancel their tickets once they have been pu
 
 In the event that you are unable to attend the conference, you may transfer your ticket to a HR colleague by notifying HRM Asia of your colleague’s particulars via [\[email protected\]](https://chroseries.com/cdn-cgi/l/email-protection) at least 1 business day before the conference.
 
-Promo code is not valid for CHRO Series and ESG Masterclass bundle tickets.
-
 The special rates cannot be extended.
 
 ### SAFE MANAGEMENT MEASURES (SMM)
@@ -43,7 +41,7 @@ All individuals must adhere to the Safe Management Measures (SMMs) as per Singap
 
 ### 2023 GST RATE CHANGE
 
-With effect from 1 Jan 2023, the GST rate has been increased to 8%.
+With effect from 1 Jan 2024, the GST rate will be increased to 9%.
 
 Proudly organised by:![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2073'%3E%3C/svg%3E)
 
