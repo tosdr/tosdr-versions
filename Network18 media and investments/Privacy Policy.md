@@ -1,6 +1,6 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=6683813&cv=3.9.1&cj=1)
 
-[![logo](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/new18.svg "logo")](https://www.news18.com/)
+[](https://www.news18.com/)
 
 English Edition
 
@@ -21,7 +21,7 @@ Thu, Oct 24, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
-[![](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/new18.svg)](https://www.news18.com/)[JOIN US](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
+[](https://www.news18.com/)[JOIN US](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
@@ -37,28 +37,20 @@ Thu, Oct 24, 2024
 * [Politics](https://www.news18.com/politics/)
 * More
     
+    * [Showsha](https://www.news18.com/entertainment/)
     * [Opinion](https://www.news18.com/opinion/)
     * [Explainers](https://www.news18.com/explainers/)
+    * [Podcast](https://www.news18.com/podcast/)
+    * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
+    * [Elections](https://www.news18.com/elections/)
+    * [Sports](https://www.news18.com/sports/)
     * [Photos](https://www.news18.com/photogallery/)
     * [Tech](https://www.news18.com/tech/)
     * [Auto](https://www.news18.com/auto/)
-    * [Podcast](https://www.news18.com/podcast/)
-    * [Health](https://www.news18.com/lifestyle/health-and-fitness/)
-    * [Travel](https://www.news18.com/lifestyle/travel/)
-    * [Food](https://www.news18.com/lifestyle/food/)
-    * [Sports](https://www.news18.com/sports/)
-    * [Markets](https://www.news18.com/business/markets/)
-    * [Tax](https://www.news18.com/business/tax/)
-    * [Savings and Investments](https://www.news18.com/business/savings-and-investments/)
+    * [ISL 2024](https://www.news18.com/football/indian-super-league/)
+    * [EPL 2024](https://www.news18.com/football/epl-english-premier-league/)
     * [Breaking News](https://www.news18.com/breaking-news/)
     * [City News](https://www.news18.com/cities/)
-    * [Elections](https://www.news18.com/elections/)
-    * [Power Circuit](https://www.news18.com/political-gossip-whispers/)
-    * [Viral](https://www.news18.com/viral/)
-    * [Bollywood](https://www.news18.com/entertainment/bollywood/)
-    * [Regional Cinema](https://www.news18.com/entertainment/regional-cinema/)
-    * [Television](https://www.news18.com/entertainment/television/)
-    * [Web Series](https://www.news18.com/entertainment/web-series/)
     * [Astrology](https://www.news18.com/astrology/)
     * [Studio18](https://www.news18.com/studio18/)
     * News18 Initiatives
@@ -88,11 +80,7 @@ Thu, Oct 24, 2024
 
 [](https://www.news18.com/notifications/)
 
-![search icon](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/search.svg "search icon")
-
-![hamburger](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/hamburger.svg "hamburger")
-
-[![main logo](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/new18.svg "main logo")](https://www.news18.com/)
+[](https://www.news18.com/)
 
 Choose Language
 
@@ -123,28 +111,20 @@ English
 * [Business](https://www.news18.com/business/)
 * [Education](https://www.news18.com/education-career/)
 * [Politics](https://www.news18.com/politics/)
+* [Showsha](https://www.news18.com/entertainment/)
 * [Opinion](https://www.news18.com/opinion/)
 * [Explainers](https://www.news18.com/explainers/)
+* [Podcast](https://www.news18.com/podcast/)
+* [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
+* [Elections](https://www.news18.com/elections/)
+* [Sports](https://www.news18.com/sports/)
 * [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
 * [Auto](https://www.news18.com/auto/)
-* [Podcast](https://www.news18.com/podcast/)
-* [Health](https://www.news18.com/lifestyle/health-and-fitness/)
-* [Travel](https://www.news18.com/lifestyle/travel/)
-* [Food](https://www.news18.com/lifestyle/food/)
-* [Sports](https://www.news18.com/sports/)
-* [Markets](https://www.news18.com/business/markets/)
-* [Tax](https://www.news18.com/business/tax/)
-* [Savings and Investments](https://www.news18.com/business/savings-and-investments/)
+* [ISL 2024](https://www.news18.com/football/indian-super-league/)
+* [EPL 2024](https://www.news18.com/football/epl-english-premier-league/)
 * [Breaking News](https://www.news18.com/breaking-news/)
 * [City News](https://www.news18.com/cities/)
-* [Elections](https://www.news18.com/elections/)
-* [Power Circuit](https://www.news18.com/political-gossip-whispers/)
-* [Viral](https://www.news18.com/viral/)
-* [Bollywood](https://www.news18.com/entertainment/bollywood/)
-* [Regional Cinema](https://www.news18.com/entertainment/regional-cinema/)
-* [Television](https://www.news18.com/entertainment/television/)
-* [Web Series](https://www.news18.com/entertainment/web-series/)
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
@@ -440,7 +420,7 @@ Network18 Group Sites
 * [History India](https://www.historyindia.com/)
 * [MTV India](https://www.mtvindia.com/)
 
-![News18](https://images.news18.com/static_news18/pix/ibnhome/news18/News18.svg)
+![News18](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Follow Us On
 
@@ -448,9 +428,9 @@ Follow Us On
 
 News18 App
 
- [_![app download](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/ic-dwn-arrow.svg "app download")_ Download Now](https://onelink.to/eng-web-other)
+ [_![app download](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "app download")_ Download Now](https://onelink.to/eng-web-other)
 
-[![bsi logo](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/BSI-logo.svg "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
 
 * [About Us](https://www.news18.com/about_us/)
 * [Cookie Policy](https://www.news18.com/cookie-policy.html)
@@ -464,4 +444,4 @@ News18 App
 
 CNN name, logo and all associated elements ® and © 2024 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2024. All rights reserved.
 
-[![bsi logo](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/BSI-logo.svg "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
+[![bsi logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "bsi logo")](https://images.news18.com/ibnkhabar/uploads/assests/html/IS-739420-I.pdf)
