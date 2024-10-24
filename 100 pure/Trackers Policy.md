@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-5779 reviews (5779)
+5780 reviews (5780)
 
 $16.00 $29.00
 
@@ -473,6 +473,54 @@ Dark Chocolate
 ADD TO TOTE
 
 CHOOSE Color
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2024-Earth-Day-Beauty-Awards-new.png?crop=center&height=85&v=1724149977&width=85)](https://www.100percentpure.com/products/coffee-bean-caffeine-restorative-moisturizer)
+
+[![coffee-bean-caffeine-restorative-moisturizer](https://www.100percentpure.com/cdn/shop/files/CoffeeBean_Cream_FRONT_2_239x254.jpg?v=1728076890)](https://www.100percentpure.com/products/coffee-bean-caffeine-restorative-moisturizer)
+
+![ Coffee Bean Caffeine Restorative Moisturizer](//www.100percentpure.com/cdn/shop/files/CoffeeBean_Cream_FRONT_2_220x.jpg?v=1728076890)
+
+### [Coffee Bean Caffeine Restorative Moisturizer](https://www.100percentpure.com/products/coffee-bean-caffeine-restorative-moisturizer)
+
+125 reviews (125)
+
+$55.00
+
+Default Title - $55
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/veggie-awards-2023-bronze-2.png?crop=center&height=85&v=1723125369&width=85)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+[![apple-enzyme-resurfacing-serum](https://www.100percentpure.com/cdn/shop/files/AppleEnzyme_Serum_FRONT_239x254.jpg?v=1728076956)](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+![ Apple Enzyme Resurfacing Serum](//www.100percentpure.com/cdn/shop/files/AppleEnzyme_Serum_FRONT_220x.jpg?v=1728076956)
+
+### [Apple Enzyme Resurfacing Serum](https://www.100percentpure.com/products/apple-enzyme-resurfacing-serum)
+
+84 reviews (84)
+
+$48.00
+
+Default Title - $48
+
+ADD TO TOTE
+
+[![Featured](https://www.100percentpure.com/cdn/shop/files/1_3_3d2a3168-e15d-498f-8b8e-498d0c8feb87.png?crop=center&height=85&v=1705348338&width=85)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+
+[![7%-fruit-acids-apple-enzyme-exfoliating-cleanser](https://www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_239x254.png?v=1696468131)](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+
+![ 7% Fruit Acids Apple Enzyme Exfoliating Cleanser](//www.100percentpure.com/cdn/shop/files/7_FruitAcidsAppleEnzymeExfoliatingCleanser_220x.png?v=1696468131)
+
+### [7% Fruit Acids Apple Enzyme Exfoliating Cleanser](https://www.100percentpure.com/products/apple-enzyme-exfoliating-cleanser)
+
+83 reviews (83)
+
+$32.00
+
+Default Title - $32
+
+ADD TO TOTE
 
 Subtotal
 
