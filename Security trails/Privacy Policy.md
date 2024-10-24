@@ -1,5 +1,5 @@
 * [Blog](https://securitytrails.com/blog)
-* [Careers](https://securitytrails.com/)
+* [Careers](https://securitytrails.com/careers)
 * [Contact Us](https://securitytrails.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
