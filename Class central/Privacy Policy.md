@@ -1,6 +1,6 @@
- [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses For October
+ [### ![](/images/promobar/goal-red.svg) From Zero to Cybersecurity Analyst
 
-View](https://www.classcentral.com/report/most-popular-october-2024/)
+View](https://www.classcentral.com/report/google-cybersecurity-certificate-launch-your-career/)
 
 Close
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. marketing
     
-2. c
+2. graphic design
     
-3. cyber security
+3. trading
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    12,355 courses](https://www.classcentral.com/subject/ai)
-2. [Python
+    13,293 courses](https://www.classcentral.com/subject/web-development)
+2. [Cybersecurity
     
-    9,426 courses](https://www.classcentral.com/subject/python)
-3. [Computer Science
+    16,090 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Graphic Design
     
-    39,338 courses](https://www.classcentral.com/subject/cs)
+    4,228 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Bases Matemáticas: Números y terminología
+1. [Project Management: The Basics for Success
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/math-universitat-politecnica-de-valencia-bases-ma-2955)
-2. [Introduction to Philosophy
+    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
+2. [Maintaining a Mindful Life
     
-    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
-3. [Working with Translation: Theory and Practice
+    Monash University](https://www.classcentral.com/course/mindfulness-life-9078)
+3. [Fibonacci Numbers and the Golden Ratio
     
-    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fibonacci-6684)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
