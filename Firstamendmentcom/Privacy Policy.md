@@ -296,11 +296,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[10 Oct](https://twitter.com/walterslawgroup/status/1844384839560020133)
+[18 Oct](https://twitter.com/walterslawgroup/status/1847088128072270200)
 
-New article on Disinformation and the First Amendment from our associate attorney ⁦@DJturnedJD⁩
+French Court Orders Block of Adult Sites
 
-[Reply on Twitter 1844384839560020133](https://twitter.com/intent/tweet?in_reply_to=1844384839560020133&related=walterslawgroup) [Retweet on Twitter 1844384839560020133 2](https://twitter.com/intent/retweet?tweet_id=1844384839560020133&related=walterslawgroup) [Like on Twitter 1844384839560020133 3](https://twitter.com/intent/like?tweet_id=1844384839560020133&related=walterslawgroup) [Twitter 1844384839560020133](https://twitter.com/walterslawgroup/status/1844384839560020133)
+[Reply on Twitter 1847088128072270200](https://twitter.com/intent/tweet?in_reply_to=1847088128072270200&related=walterslawgroup) [Retweet on Twitter 1847088128072270200 1](https://twitter.com/intent/retweet?tweet_id=1847088128072270200&related=walterslawgroup) [Like on Twitter 1847088128072270200](https://twitter.com/intent/like?tweet_id=1847088128072270200&related=walterslawgroup) [Twitter 1847088128072270200](https://twitter.com/walterslawgroup/status/1847088128072270200)
 
 [Load More](javascript:void(0);)
 
