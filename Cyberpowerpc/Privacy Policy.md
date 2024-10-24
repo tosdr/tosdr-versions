@@ -738,7 +738,7 @@ Company Info
 
 Legal
 
-[Terms and Conditions](https://www.cyberpowerpc.com/company/warranty.aspx) [Privacy](https://www.cyberpowerpc.com/company/privacy.aspx) [Do not sell my personal information](https://www.cyberpowerpc.com/company/ccpa.aspx)
+[Terms and Conditions](https://www.cyberpowerpc.com/company/warranty.aspx) [Privacy](https://www.cyberpowerpc.com/company/privacy.aspx) [Accessibility Statement](https://www.cyberpowerpc.com/company/accessibility.aspx) [Do not sell my personal information](https://www.cyberpowerpc.com/company/ccpa.aspx)
 
 © 1998 - 2024 CyberpowerPC All Rights Reserved.
 
