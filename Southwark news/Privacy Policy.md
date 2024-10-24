@@ -15,45 +15,46 @@
     * [community](https://southwarknews.co.uk/category/news/community/)
     * [Crime](https://southwarknews.co.uk/category/news/crime/)
     * [Housing](https://southwarknews.co.uk/category/news/housing/)
+    * [News+](https://southwarknews.co.uk/category/news/news-plus/)
     * [Opinion](https://southwarknews.co.uk/category/news/opinion/)
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
+    
+    [![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-360x180.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+    
+    ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+    
+    [![The shop will replace the Carpetright](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-12.51-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-road-could-get-a-second-sainsburys-store-next-to-24hr-supermarket/)
+    
+    ### [Camberwell Road could get a second Sainsbury’s store next to 24hr supermarket](https://southwarknews.co.uk/area/camberwell/camberwell-road-could-get-a-second-sainsburys-store-next-to-24hr-supermarket/)
+    
+    [![The boarded up pub today (photo: Joel Taylor)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-11.21-e1729592630699-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
+    
+    ### [Why has this pub in Dulwich been vacant for twelve years?](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
+    
+    [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
+    
+    ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
+    
+    [![Poppy Fields at Tower of London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-11.50-360x180.jpg)](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
+    
+    ### [Tower of London to host special lights show throughout November](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
+    
+    [![Emergency services were called to a collision outside Currys on Old Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Emergency-services-were-called-to-a-collision-outside-Currys-on-Old-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
+    
+    ### [Old Kent Road collision: Man arrested on suspicion of drink driving](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
+    
+    [![Redriff Primary schoolchildren are happy to have their boat back](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-21-20-26-54-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
+    
+    ### [Rotherhithe schoolchildren celebrate return of stolen boat sculpture with sea shanty](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
     ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
-    [![Romain Esse in action against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-44343-360x180.jpg)](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
-    
-    ### [Millwall duo set to be assessed after picking up injuries against Plymouth](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
-    
     [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
     
     ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
-    
-    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
-    
-    ### [Woman, 43, charged with attempted arson at Peckham council estate](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
-    
-    [!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-    
-    ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-    
-    [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
-    
-    ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
-    
-    [![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-    
-    ### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-    
-    [![The entrance to Dawes Street, Walworth, seen from the East Street side. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-entrance-to-Dawes-Street-Walworth-seen-from-the-East-Street-side.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
-    
-    ### [Firefighters tackle Walworth maisonette fire](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
-    
-    [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-    
-    ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -79,6 +80,8 @@
     * [Greenwich and Lewisham Public Notices Portal](https://publicnoticeportal.uk/greenwich-and-lewisham-weekender)
     * [South London Weekly Public Notices Portal](https://publicnoticeportal.uk/south-london-weekly)
 * [MORE…](#)
+    * [Member Log In/Out](https://southwarknews.co.uk/login/)
+    * [Manage Account](https://southwarknews.co.uk/my-account)
     * [View digital editions of our print products](https://issuu.com/communitymattersmedia)
     * [Our newsletters](https://southwarknews.co.uk/newsletter/)
     * [Advertise with us](https://southwarknews.co.uk/advertising/)
@@ -97,45 +100,46 @@ View All Result
     * [community](https://southwarknews.co.uk/category/news/community/)
     * [Crime](https://southwarknews.co.uk/category/news/crime/)
     * [Housing](https://southwarknews.co.uk/category/news/housing/)
+    * [News+](https://southwarknews.co.uk/category/news/news-plus/)
     * [Opinion](https://southwarknews.co.uk/category/news/opinion/)
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
+    
+    [![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-360x180.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+    
+    ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+    
+    [![The shop will replace the Carpetright](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-12.51-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/camberwell-road-could-get-a-second-sainsburys-store-next-to-24hr-supermarket/)
+    
+    ### [Camberwell Road could get a second Sainsbury’s store next to 24hr supermarket](https://southwarknews.co.uk/area/camberwell/camberwell-road-could-get-a-second-sainsburys-store-next-to-24hr-supermarket/)
+    
+    [![The boarded up pub today (photo: Joel Taylor)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-11.21-e1729592630699-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
+    
+    ### [Why has this pub in Dulwich been vacant for twelve years?](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
+    
+    [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
+    
+    ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
+    
+    [![Poppy Fields at Tower of London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-11.50-360x180.jpg)](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
+    
+    ### [Tower of London to host special lights show throughout November](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
+    
+    [![Emergency services were called to a collision outside Currys on Old Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Emergency-services-were-called-to-a-collision-outside-Currys-on-Old-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
+    
+    ### [Old Kent Road collision: Man arrested on suspicion of drink driving](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
+    
+    [![Redriff Primary schoolchildren are happy to have their boat back](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-21-20-26-54-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
+    
+    ### [Rotherhithe schoolchildren celebrate return of stolen boat sculpture with sea shanty](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
     ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
-    [![Romain Esse in action against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-44343-360x180.jpg)](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
-    
-    ### [Millwall duo set to be assessed after picking up injuries against Plymouth](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
-    
     [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
     
     ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
-    
-    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
-    
-    ### [Woman, 43, charged with attempted arson at Peckham council estate](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
-    
-    [!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-    
-    ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-    
-    [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
-    
-    ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
-    
-    [![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-    
-    ### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-    
-    [![The entrance to Dawes Street, Walworth, seen from the East Street side. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-entrance-to-Dawes-Street-Walworth-seen-from-the-East-Street-side.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
-    
-    ### [Firefighters tackle Walworth maisonette fire](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
-    
-    [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-    
-    ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -161,6 +165,8 @@ View All Result
     * [Greenwich and Lewisham Public Notices Portal](https://publicnoticeportal.uk/greenwich-and-lewisham-weekender)
     * [South London Weekly Public Notices Portal](https://publicnoticeportal.uk/south-london-weekly)
 * [MORE…](#)
+    * [Member Log In/Out](https://southwarknews.co.uk/login/)
+    * [Manage Account](https://southwarknews.co.uk/my-account)
     * [View digital editions of our print products](https://issuu.com/communitymattersmedia)
     * [Our newsletters](https://southwarknews.co.uk/newsletter/)
     * [Advertise with us](https://southwarknews.co.uk/advertising/)
@@ -378,6 +384,12 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 ### Featured Articles
 
+[![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-120x86.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+
+### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+
+[24th October 2024](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
+
 [!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
 
 ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
@@ -407,12 +419,6 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
 
 [22nd October 2024](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-
-[![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-
-### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-
-[22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 ### USEFUL PAGES
 
@@ -477,6 +483,8 @@ View All Result
     * [Signup for our Newsletter](https://southwarknews.co.uk/newsletter/)
     * [Advertise with us](https://southwarknews.co.uk/advertising/)
     * [Contact Us](https://southwarknews.co.uk/contact-us/)
+* [Members Log In](https://southwarknews.co.uk/login/)
+* [Manage Account](https://southwarknews.co.uk/my-account)
 
 [](http://facebook.com/)[](http://twitter.com/)
 
