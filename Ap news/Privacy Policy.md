@@ -13,7 +13,7 @@ Menu
     TOP STORIES
     
     * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
-    * [Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f)
+    * [Israel accuses 6 Al Jazeera journalists in Gaza of being Palestinian militants](https://apnews.com/article/al-jazeera-journalists-hamas-islamic-jihad-israel-983215f9904bffa7f3d5518235e19e86)
     * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
     
     Newsletters
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
-    * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [North Carolina government calculates Hurricane Helene damages, needs at least $53B](https://apnews.com/article/north-carolina-hurricane-helene-damage-estimate-1c32acaf158bf17eae815926ea682c0e)
+    * [50 years after Philadelphia halted prison medical testing, families seek reparations](https://apnews.com/article/philadelphia-prison-experiments-black-reparations-ff8a08483fb13d1b949d938d7ae29656)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Scott Perry led a conservative House takeover. Now he's in a tough race against a moderate Democrat](https://apnews.com/article/scott-perry-pennsylvania-house-janelle-stelson-6a450eb43c912b724416c0b57d3155db)
-    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
-    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris says she's ready if Trump tries to prematurely declare victory, isn't worried about sexism](https://apnews.com/article/kamala-harris-election-2024-trump-659809558d0b6a022a5b028138a0dcfd)
+    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
+    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
-    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [Harris says Trump 'is a fascist' after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
+    * [The top election official in a politically crucial Nevada county says she was forced out](https://apnews.com/article/nevada-election-2024-washoe-county-registrar-039a3bb745e7461ffd5bdce0682ac860)
     
     Newsletters
     
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
-    * [Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury](https://apnews.com/article/commanders-jayden-daniels-injury-3e408cf81dcb1a8cd7c7e03e88e76d2b)
-    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
+    * [Panthers QB Bryce Young will start against Broncos after Andy Dalton sprains thumb in car crash](https://apnews.com/article/panthers-quarterback-bryce-young-andy-dalton-car-crash-d6d33e3acf2acf0be159e191f9d00fd3)
+    * [At Aaron Judge's urging, the Yankees have minted a new vibe](https://apnews.com/article/world-series-yankees-statue-of-liberty-8e982b899987e216b1f1cd61c6c843e1)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
-    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
-    * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
+    * [Ron Ely, TV's 'Tarzan' in the 1960s, dies at 86](https://apnews.com/article/ron-ely-dies-tarzan-c178710bd441325a8d242b5349454df3)
+    * [Before Taylor Swift show in New Orleans, a homeless encampment is forced to move](https://apnews.com/article/new-orleans-homeless-taylor-swift-concert-superdome-44e24ffe79ba87b2c809dab4f3fea75e)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Boeing reports $6 billion quarterly loss as striking workers vote whether to accept contract offer](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Boeing factory workers vote to reject contract and continue 6-week strike](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
     
 * [Science](https://apnews.com/science)
     
@@ -146,12 +146,12 @@ Menu
     
     TOP STORIES
     
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     * [After the deluge, the lies: Misinformation and hoaxes about Helene cloud the recovery](https://apnews.com/article/hurricane-helene-trump-musk-conspiracy-theories-misinformation-fe81869765d778ac2ff3dc5f9ac18e10)
-    * [FACT FOCUS: Claims that more than 300,000 migrant children are missing lack context](https://apnews.com/article/fact-check-misinformation-migrant-children-missing-7ab0cea2fd2238346197429e952baa8b)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
-    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
-    * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
+    * [Bad state data may misdirect nearly $1 billion in federal funds to replace lead pipes](https://apnews.com/article/epa-lead-pipes-florida-texas-survey-drinking-water-7fdd6a57dd3627a51ca998d658f76f51)
+    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
-    * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
-    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * ['Blade Runner 2049' producers sue Elon Musk and Tesla over AI image at robotaxi event](https://apnews.com/article/elon-musk-robotaxi-blade-runner-2049-lawsuit-384c0fbdc536d0c5cfc13794507c3b9f)
-    * [ABBA, Radiohead and The Cure musicians sign AI protest letter against 'unlicensed use' of works](https://apnews.com/article/generative-ai-abba-radiohead-thom-yorke-ba9091a6095876affe8c09f6bf9fe12d)
-    * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
+    * [Apple and Goldman Sachs must pay $89 million for mishandling Apple Card transactions, CFPB orders](https://apnews.com/article/apple-card-goldman-sachs-89-million-fine-e991849da050a5b072ba2a7a016af310)
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
+    * [Tim Burton talks about his dread of AI as an exhibition of his work opens in London](https://apnews.com/article/tim-burton-exhibition-london-e7573131723cd2266de04b90d655a1c7)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [New York City doesn't require hotels to be licensed. That's likely changing soon](https://apnews.com/article/nyc-hotel-licensing-973684093d0d65fc4fd82d1c1b51958c)
     * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
-    * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
-    * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
+    * [Charles gets a warm welcome on his first visit as king to Samoa. But uneasy questions await](https://apnews.com/article/king-charles-samoa-chogm-commonwealth-britain-camilla-23e166fdddf6f8fbc4d57d7f29166e0f)
     
 * [Religion](https://apnews.com/religion)
     
@@ -296,9 +296,9 @@ Menu
     * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
     * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Tim Walz, su esposa y su hijo, votan anticipadamente en Minnesota](https://apnews.com/article/walz-minnesota-eeuu-elecciones-e0029c54645402a96adabaa0a35a0d58)
-    * [El conservador Charlie Kirk y su grupo suben al escenario en apoyo a Donald Trump](https://apnews.com/article/trump-eeuu-elecciones-republicanos-f47dc46e77b7364520785567288a31c2)
-    * [Qué esperar el día de las elecciones en Missouri](https://apnews.com/article/eeuu-elecciones-missouri-trump-harris-9c22ce898bafb8647ace12f0cd6b72c5)
+    * [Israel acusa a seis periodistas de Al Jazeera en Gaza de pertenecer a milicias palestinas](https://apnews.com/article/israel-al-jazeera-prensa-hamas-9b34da27a7bc9b270076b839f05c29d3)
+    * [Turquía ataca blancos kurdos en Irak y Siria tras atentado letal en compañía de defensa](https://apnews.com/article/turquia-explosion-empresa-45e45ec5103dd321043b018108dc0800)
+    * [¿Salario mínimo más bajo para trabajadores que reciben propinas? Una decisión pendiente en 2 estados](https://apnews.com/article/salario-minimo-trabajadores-propina-eeuu-estados-arizona-massachusetts-576b2f4d05f789be8c3a70f4ba99a018)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,7 +461,7 @@ Submit Search
     TOP STORIES
     
     * [Israeli strikes pound Lebanese coastal city after residents evacuate](https://apnews.com/article/israel-palestinians-lebanon-hezbollah-10-23-2024-31162ca16468bc22cf0696535ea3f3f8)
-    * [Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f)
+    * [Israel accuses 6 Al Jazeera journalists in Gaza of being Palestinian militants](https://apnews.com/article/al-jazeera-journalists-hamas-islamic-jihad-israel-983215f9904bffa7f3d5518235e19e86)
     * [Blinken urges Israel to seek enduring deal, as officials say a limited cease-fire has been discussed](https://apnews.com/article/israel-palestinians-hamas-war-us-blinken-ceasefire-talks-01aa524c3222183823a58f95d271ea85)
     
     Newsletters
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Hurricane Milton ravaged one of the most popular areas for 'snowbirds' on Florida's Gulf Coast](https://apnews.com/article/florida-hurricane-milton-helene-sarasota-tourism-snowbirds-2c6c92ba9dd4a452ceaa7ce2e42c7bd2)
-    * [South Carolina to build first monument to an African American. Meet Robert Smalls](https://apnews.com/article/robert-smalls-statue-south-carolina-statehouse-8f7d38ec73e5aeec3acb10644408a269)
-    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [North Carolina government calculates Hurricane Helene damages, needs at least $53B](https://apnews.com/article/north-carolina-hurricane-helene-damage-estimate-1c32acaf158bf17eae815926ea682c0e)
+    * [50 years after Philadelphia halted prison medical testing, families seek reparations](https://apnews.com/article/philadelphia-prison-experiments-black-reparations-ff8a08483fb13d1b949d938d7ae29656)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Scott Perry led a conservative House takeover. Now he's in a tough race against a moderate Democrat](https://apnews.com/article/scott-perry-pennsylvania-house-janelle-stelson-6a450eb43c912b724416c0b57d3155db)
-    * [Young women lean Democratic. Now the election may hinge on Harris' ability to run up the score](https://apnews.com/article/elections-harris-trump-gender-young-women-303f06bd974545e603d5a004f48a3702)
-    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris says she's ready if Trump tries to prematurely declare victory, isn't worried about sexism](https://apnews.com/article/kamala-harris-election-2024-trump-659809558d0b6a022a5b028138a0dcfd)
+    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
+    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris decries Trump after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
-    * [Trump targets hardcore partisans, Harris goes after moderates: Inside the campaign's final sprint](https://apnews.com/article/trump-harris-campaign-strategy-final-days-623cf25b673d7e875e69a904b93e8958)
+    * [Harris says Trump 'is a fascist' after John Kelly says he wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
+    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
+    * [The top election official in a politically crucial Nevada county says she was forced out](https://apnews.com/article/nevada-election-2024-washoe-county-registrar-039a3bb745e7461ffd5bdce0682ac860)
     
     Newsletters
     
@@ -563,8 +563,8 @@ Submit Search
     TOP STORIES
     
     * [Chiefs acquire three-time All-Pro wide receiver DeAndre Hopkins from the Titans, AP source says](https://apnews.com/article/chiefs-deandre-hopkins-titans-trade-6de56c6dd565995135fd7de120182c9c)
-    * [Washington Commanders rookie QB Jayden Daniels misses practice because of his rib injury](https://apnews.com/article/commanders-jayden-daniels-injury-3e408cf81dcb1a8cd7c7e03e88e76d2b)
-    * [Japan prepares to cheer on Ohtani and the Dodgers, and the country is dressing for the occasion](https://apnews.com/article/shohei-ohtani-world-series-dodgers-yankees-1176ce6989deed97fbf0ab06a4c99e0c)
+    * [Panthers QB Bryce Young will start against Broncos after Andy Dalton sprains thumb in car crash](https://apnews.com/article/panthers-quarterback-bryce-young-andy-dalton-car-crash-d6d33e3acf2acf0be159e191f9d00fd3)
+    * [At Aaron Judge's urging, the Yankees have minted a new vibe](https://apnews.com/article/world-series-yankees-statue-of-liberty-8e982b899987e216b1f1cd61c6c843e1)
     
     Newsletters
     
@@ -592,8 +592,8 @@ Submit Search
     TOP STORIES
     
     * [Lana Del Rey did marry alligator swamp tour guide Jeremy Dufrene in Louisiana, document shows](https://apnews.com/article/lana-del-rey-marriage-license-jeremy-dufrene-fa5e39ef60eeea4285d71b1cbcf66626)
-    * ['Conclave' and Ralph Fiennes go for the (papal) throne](https://apnews.com/article/conclave-movie-ralph-fiennes-vatican-68b94414896f541a65f673b7bca7b7dc)
-    * [‘Georgie & Mandy’s First Marriage’ expands the 'Big Bang Theory' universe](https://apnews.com/article/georgie-mandys-first-marriage-show-young-sheldon-6886e903b608c8f72ab4bd5ed3251d71)
+    * [Ron Ely, TV's 'Tarzan' in the 1960s, dies at 86](https://apnews.com/article/ron-ely-dies-tarzan-c178710bd441325a8d242b5349454df3)
+    * [Before Taylor Swift show in New Orleans, a homeless encampment is forced to move](https://apnews.com/article/new-orleans-homeless-taylor-swift-concert-superdome-44e24ffe79ba87b2c809dab4f3fea75e)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
-    * [McDonald's tries to reassure customers after deadly E. coli outbreak](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
-    * [Housing on the ballot: Harris, Trump push different plans for tackling housing affordability crisis](https://apnews.com/article/housing-affordability-trump-harris-homebuyers-builders-incentives-cb2fa66d850a9ac673382b0db4ff6a64)
-    * [Boeing reports $6 billion quarterly loss as striking workers vote whether to accept contract offer](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Boeing factory workers vote to reject contract and continue 6-week strike](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
+    * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
     
 * [Science](https://apnews.com/science)
     
@@ -634,12 +634,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
     * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     * [After the deluge, the lies: Misinformation and hoaxes about Helene cloud the recovery](https://apnews.com/article/hurricane-helene-trump-musk-conspiracy-theories-misinformation-fe81869765d778ac2ff3dc5f9ac18e10)
-    * [FACT FOCUS: Claims that more than 300,000 migrant children are missing lack context](https://apnews.com/article/fact-check-misinformation-migrant-children-missing-7ab0cea2fd2238346197429e952baa8b)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -731,20 +731,20 @@ Submit Search
     
     TOP STORIES
     
-    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     * [As coal plants shut in Romania, some miners transition to green energy while others are reluctant](https://apnews.com/article/coal-energy-transition-romania-715c79d312dc62bf5a5ef0d68e32d6fd)
-    * [On Lake Erie, getting rid of problem algae starts with giving it less food](https://apnews.com/article/climate-lake-erie-algae-blooms-water-fertilizer-farming-17d9724e45765c9655673155a8d1caf7)
+    * [Bad state data may misdirect nearly $1 billion in federal funds to replace lead pipes](https://apnews.com/article/epa-lead-pipes-florida-texas-survey-drinking-water-7fdd6a57dd3627a51ca998d658f76f51)
+    * [Sweeping blackouts in Cuba raise the question: Why has the island's solar buildout been so slow?](https://apnews.com/article/cuba-solar-power-blackouts-climate-outages-renewables-15fc4a422c798800c0f07a2c48dd5fff)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
     * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
     * [Deadly E. coli outbreak linked to McDonald's Quarter Pounders sickens 49 people in 10 states](https://apnews.com/article/mcdonalds-e-coli-outbreak-422c4687cc9218efda03cae73b01f473)
     * [What is the recreational drug 'pink cocaine'?](https://apnews.com/article/pink-cocaine-tusi-drug-powder-5e3bd632650d211474046e13b0acd794)
-    * [Hospitals' IV fluid shortage may impact surgeries for weeks](https://apnews.com/article/baxter-iv-fluids-supply-hospitals-helene-5859c9ca5fa168b71a5d8c370a47365c)
-    * [More frozen waffles and pancakes recalled over possible listeria contamination](https://apnews.com/article/treehouse-foods-frozen-waffle-pancake-recall-cfc077da78cb6c46ba58a06894c2c158)
+    * [Quarter Pounders are off the menu at 20% of McDonald's in US as E. coli cases are investigated](https://apnews.com/article/mcdonalds-e-coli-outbreak-sick-onions-d4a37726f2669016decedcf9f928a9d9)
     
 * [Tech](https://apnews.com/technology)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
-    * ['Blade Runner 2049' producers sue Elon Musk and Tesla over AI image at robotaxi event](https://apnews.com/article/elon-musk-robotaxi-blade-runner-2049-lawsuit-384c0fbdc536d0c5cfc13794507c3b9f)
-    * [ABBA, Radiohead and The Cure musicians sign AI protest letter against 'unlicensed use' of works](https://apnews.com/article/generative-ai-abba-radiohead-thom-yorke-ba9091a6095876affe8c09f6bf9fe12d)
-    * [Slack researcher discusses the fear, loathing and excitement surrounding AI in the workplace](https://apnews.com/article/artificial-intelligence-personas-slack-study-21764fa052a66a33cf82dcea83a0451a)
+    * [Apple and Goldman Sachs must pay $89 million for mishandling Apple Card transactions, CFPB orders](https://apnews.com/article/apple-card-goldman-sachs-89-million-fine-e991849da050a5b072ba2a7a016af310)
+    * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
+    * [Tim Burton talks about his dread of AI as an exhibition of his work opens in London](https://apnews.com/article/tim-burton-exhibition-london-e7573131723cd2266de04b90d655a1c7)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,9 +777,9 @@ Submit Search
     
     TOP STORIES
     
+    * [New York City doesn't require hotels to be licensed. That's likely changing soon](https://apnews.com/article/nyc-hotel-licensing-973684093d0d65fc4fd82d1c1b51958c)
     * [Orange and black... and pink and purple. Some twists for creative Halloween parties](https://apnews.com/article/creative-halloween-party-ideas-themes-3060475021de38074a1eb80cc6bfb87e)
-    * [Edmunds: These are the best lightly used hybrid cars, SUVs and trucks](https://apnews.com/article/used-hybrids-vehicles-buy-shop-1358f02ef28d2a957ef84989106a9790)
-    * [US fines American Airlines $50 million over mishandling of disabled passengers and wheelchairs](https://apnews.com/article/american-airlines-fined-disabilities-wheelchairs-ee35b40ac14eb8c79bd0ddea31a1053c)
+    * [Charles gets a warm welcome on his first visit as king to Samoa. But uneasy questions await](https://apnews.com/article/king-charles-samoa-chogm-commonwealth-britain-camilla-23e166fdddf6f8fbc4d57d7f29166e0f)
     
 * [Religion](https://apnews.com/religion)
     
@@ -804,9 +804,9 @@ Submit Search
     * [Israel bombardea varios edificios en Tiro, en el sur de Líbano](https://apnews.com/article/israel-libano-ataques-guerra-hezbollah-7e82596bd708bf3466518da339b70a69)
     * [EEUU confirma que Norcorea ha enviado unos 3.000 soldados a Rusia para entrenamiento militar](https://apnews.com/article/rusia-norcorea-ucrania-surcorea-soldados-guerra-corea-232a8854fadc03289299c1d584ea70e1)
     * [El plan de embalsar un río para asegurar agua al Canal de Panamá provoca recelo entre los vecinos](https://apnews.com/article/panama-canal-represa-embalse-rio-indio-d84933c9973bd76baa7123d1509c5b27)
-    * [Tim Walz, su esposa y su hijo, votan anticipadamente en Minnesota](https://apnews.com/article/walz-minnesota-eeuu-elecciones-e0029c54645402a96adabaa0a35a0d58)
-    * [El conservador Charlie Kirk y su grupo suben al escenario en apoyo a Donald Trump](https://apnews.com/article/trump-eeuu-elecciones-republicanos-f47dc46e77b7364520785567288a31c2)
-    * [Qué esperar el día de las elecciones en Missouri](https://apnews.com/article/eeuu-elecciones-missouri-trump-harris-9c22ce898bafb8647ace12f0cd6b72c5)
+    * [Israel acusa a seis periodistas de Al Jazeera en Gaza de pertenecer a milicias palestinas](https://apnews.com/article/israel-al-jazeera-prensa-hamas-9b34da27a7bc9b270076b839f05c29d3)
+    * [Turquía ataca blancos kurdos en Irak y Siria tras atentado letal en compañía de defensa](https://apnews.com/article/turquia-explosion-empresa-45e45ec5103dd321043b018108dc0800)
+    * [¿Salario mínimo más bajo para trabajadores que reciben propinas? Una decisión pendiente en 2 estados](https://apnews.com/article/salario-minimo-trabajadores-propina-eeuu-estados-arizona-massachusetts-576b2f4d05f789be8c3a70f4ba99a018)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
