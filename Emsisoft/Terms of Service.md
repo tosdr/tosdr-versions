@@ -243,9 +243,9 @@ Last updated May 8, 2018.
 [© 2003-2024 Emsisoft - 10/24/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
 
 * [English](#)
-    * [English](https://www.emsisoft.com/en/terms/?ref=decryptor_Jigsaw)
-    * [Deutsch](https://www.emsisoft.com/de/terms/?ref=decryptor_Jigsaw)
-    * [Français](https://www.emsisoft.com/fr/?ref=decryptor_Jigsaw)
+    * [English](https://www.emsisoft.com/en/terms/)
+    * [Deutsch](https://www.emsisoft.com/de/terms/)
+    * [Français](https://www.emsisoft.com/fr/)
     * [Emsisoft  
         worldwide](https://www.emsisoft.com/en/buy-local/)
 
