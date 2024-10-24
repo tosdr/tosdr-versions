@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/artificial-intelligence-versus-scheppingskracht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/klaas-dijkhof-de-vvd-kent-geen-moraliteit/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
