@@ -285,7 +285,7 @@ VAT-ID: RO12250035
 Registration: J12/1244/1999  
 DUNS: 681215554  
 
-       
+            
 
 We develop software that matters since 1999. These are our products: Backup4all/[FBackup](https://www.fbackup.com/) (backup apps) - [novaPDF](https://www.novapdf.com/)/[doPDF](https://www.dopdf.com/) (PDF creators) - [Soft112](https://www.soft112.com/)/[Apps112](https://www.apps112.com/) (Download portals) - [Enquoted](https://www.enquoted.com/) (Quotes database).
 
