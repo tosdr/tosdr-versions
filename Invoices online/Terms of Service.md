@@ -196,63 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=50330086)  
-AMS Ambu Medical Supplies
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=91389917)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=58012740)  
-Blue Bulls Rugby Coaches Association
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=163352093)  
+VIR Electrical (PTY) LTD
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=55789749)  
-Roamfree Boerdery (PTY) LTD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=161881312)  
+Dr V Naik Consult
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=27158073)  
-Nilbet T/A Waterman
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=10548650)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=55242724)  
-Safe-Train Consulting (PTY) Ltd
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=156357772)  
+OptaServ
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=140809901)  
-LEONARD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=186495038)  
+Goju-Ryu Pretoria East
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=26549649)  
-Peter Salvage Pty Ltd
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=76011817)  
+Itroniq (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=29628309)  
-West Coast Horse Trails
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=124135826)  
+VA AND M BUSINESSES (PTY)LTD
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=139936948)  
-Eruca (PTY)Ltd
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=150299096)  
+NGB HOLDINGS PTY LTD
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=141320599)  
-RADIO TYGERBERG 104FM NPC
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=155338900)  
+#DiGi3 Marketing & Design
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=32792765)  
-UMVIKELI PRIVATE SECURITY
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=145998803)  
+Gemini-IT Group
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=4664309)  
-Entidee Enterprise PTY (ltd)
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=9733015)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=4071750)  
-Cooper Logistics (Pty) Ltd
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=195977635)  
+Prosper Park
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=70788796)  
-WIP Digital Solutions
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=19391399)  
+Imvubu General Trading
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e7d29213969f272a792de294ff58aed17767b9b53d7c6aae1f947963a0a13d72&c=162704409)  
-Import Maaw
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=731d6252f599f3fcd715d60e3c1037b25b6b6675378d40e2b8214f0630a05845&c=185740324)  
+Baby Toddles Infant Care
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
