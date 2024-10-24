@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d18ade83-b9b1-4028-85ea-387dfa8653fa/20241023T170946/d18ade83-b9b1-4028-85ea-387dfa8653fa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d18ade83-b9b1-4028-85ea-387dfa8653fa/20241023T170946/d18ade83-b9b1-4028-85ea-387dfa8653fa_360x203.jpg)](https://www.king5.com/article/news/local/survivor-fall-city-quintuple-homicide-released-hospital/281-fc1d4206-d36a-45ab-83ee-36ee50c6af14)
+        
+        #### [Surviving victim in Fall City quintuple homicide released from hospital](https://www.king5.com/article/news/local/survivor-fall-city-quintuple-homicide-released-hospital/281-fc1d4206-d36a-45ab-83ee-36ee50c6af14)
+        
     *  [![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/85d37ab3-94cf-42ba-8223-fbf44079d12d/20241024T051055/85d37ab3-94cf-42ba-8223-fbf44079d12d_360x203.jpg)](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
         
         #### [Vigil held at West Seattle gas station where man was shot to death inside vehicle](https://www.king5.com/article/news/local/vigil-held-west-seattle-gas-station-man-shot-to-death-inside-vehicle/281-52a76ec8-374f-4e51-a95b-8e6b96fd1e81)
-        
-    *  [![](https://media.king5.com/assets/KING/images/f938c5b3-ee07-4734-b38e-0cf1459cfd7e/20241024T041928/f938c5b3-ee07-4734-b38e-0cf1459cfd7e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f938c5b3-ee07-4734-b38e-0cf1459cfd7e/20241024T041928/f938c5b3-ee07-4734-b38e-0cf1459cfd7e_360x203.jpg)](https://www.king5.com/article/news/local/washington-residents-discuss-candidate-vote-presidential-election/281-6bf68606-ea2f-42f0-bf17-fa0a82b47f27)
-        
-        #### [Washington residents discuss which candidate gets their vote in this year's presidential election](https://www.king5.com/article/news/local/washington-residents-discuss-candidate-vote-presidential-election/281-6bf68606-ea2f-42f0-bf17-fa0a82b47f27)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5a671bc6-98b6-439c-b87b-31cfa2720074/20241024T061144/5a671bc6-98b6-439c-b87b-31cfa2720074_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a671bc6-98b6-439c-b87b-31cfa2720074/20241024T061144/5a671bc6-98b6-439c-b87b-31cfa2720074_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a11c5518-38c0-466a-98c4-57c443d5ede4/20241024T122306/a11c5518-38c0-466a-98c4-57c443d5ede4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a11c5518-38c0-466a-98c4-57c443d5ede4/20241024T122306/a11c5518-38c0-466a-98c4-57c443d5ede4_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-48°
+47°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
