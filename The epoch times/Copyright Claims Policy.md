@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
+    
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![From Small Towns to Big Cities, Wisconsin Early Voters Turn Out Big](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746484-Wisconsin-Voting-iii-_JF_10222024-205x123.jpg.webp)](https://www.theepochtimes.com/us/from-small-towns-to-big-cities-wisconsin-early-voters-turn-out-big-5746889)
+* [Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://www.theepochtimes.com/us/supreme-court-headed-toward-potentially-game-changing-decision-over-gender-disputes-5744815)
+    
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Headed Toward Potentially Game-Changing Decision Over Gender Disputes](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746873-10232024-DSC06718-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-headed-toward-potentially-game-changing-decision-over-gender-disputes-5744815)
+* [5 Takeaways from Harris Town Hall on CNN](https://www.theepochtimes.com/us/5-takeaways-from-harris-town-hall-on-cnn-5746438)
+    
+    1hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    
+    [![5 Takeaways from Harris Town Hall on CNN](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Takeaways from Harris Town Hall on CNN](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747032-Harris-Town-hall-CNN-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-harris-town-hall-on-cnn-5746438)
+* [Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://www.theepochtimes.com/us/sparks-fly-over-trump-health-care-in-heated-vermont-senate-debate-5746924)
+    
+    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    
+    [![Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Sparks Fly Over Trump, Health Care in Heated Vermont Senate Debate](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747029-Bernie-Sanders-205x123.jpg.webp)](https://www.theepochtimes.com/us/sparks-fly-over-trump-health-care-in-heated-vermont-senate-debate-5746924)
+* [Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://www.theepochtimes.com/us/sullivan-defends-us-tariffs-on-china-says-past-policies-failed-5746834)
+    
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Sullivan Defends US Tariffs on China, Says Past Policies Failed](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714871-GettyImages-2168222251-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/sullivan-defends-us-tariffs-on-china-says-past-policies-failed-5746834)
+* [Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://www.theepochtimes.com/us/trump-planned-car-loan-tax-deductions-solely-for-us-made-vehicles-5746883)
+    
+    4hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump: Planned Car-Loan Tax Deductions Solely for US-made Vehicles](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746326-GettyImages-2180354500-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-planned-car-loan-tax-deductions-solely-for-us-made-vehicles-5746883)
 * [Boeing Workers Reject Latest Contract Offer](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Boeing Workers Reject Latest Contract Offer](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744382-Boeing-strike-GettyImages-2177902765-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-workers-reject-latest-contract-offer-5746919)
 * [Two Lawmakers Attempt the Impossible: Saving Social Security](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
     
-    1hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    7hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
     
     [![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Two Lawmakers Attempt the Impossible: Saving Social Security](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746758-Social-Security-7-205x123.jpg.webp)](https://www.theepochtimes.com/article/two-lawmakers-attempt-the-impossible-saving-social-security-5728165)
 * [American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
     
-    2hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    8hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![American Airlines Fined $50 Million Over Treatment of Passengers With Disabilities](https://img.theepochtimes.com/assets/uploads/2024/08/02/id5698901-Passenger_Sentenced_24215672763743-205x123.jpg.webp)](https://www.theepochtimes.com/business/american-airlines-fined-50-million-over-treatment-of-passengers-with-disabilities-5746778)
 * [Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Foreign Meddling in US Elections Intensifies, Likely to Persist Through Inauguration Day, IC Warns](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744163-GettyImages-2178247386-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/foreign-meddling-in-us-elections-intensifies-likely-to-persist-through-inauguration-day-ic-warns-5746615)
-* [ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://www.theepochtimes.com/us/ice-dropped-plans-to-release-immigrants-into-tennessee-after-states-pushback-ag-says-5746523)
-    
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![ICE Dropped Plans to Release Immigrants Into Tennessee After State’s Pushback, AG Says](https://img.theepochtimes.com/assets/uploads/2024/07/04/id5679965-Screen-Shot-2024-07-03-at-8.44.21-PM-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-dropped-plans-to-release-immigrants-into-tennessee-after-states-pushback-ag-says-5746523)
-* [RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://www.theepochtimes.com/us/rfk-jr-asks-us-supreme-court-to-take-his-name-off-wisconsin-ballot-5746709)
-    
-    5hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![RFK Jr. Asks US Supreme Court to Take His Name Off Wisconsin Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5721908-09102024-DSC08342-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/rfk-jr-asks-us-supreme-court-to-take-his-name-off-wisconsin-ballot-5746709)
-* [Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://www.theepochtimes.com/article/day-in-photos-an-unexplained-emergency-30-foot-poppies-and-switching-on-supercomputer-5746372)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: An Unexplained Emergency, 30-foot Poppies, and Switching on Supercomputer](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746763-GettyImages-2180517694-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-an-unexplained-emergency-30-foot-poppies-and-switching-on-supercomputer-5746372)
-* [US Sanctions Chinese, Pakistan Companies Over Military Links](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
-    
-    6hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Sanctions Chinese, Pakistan Companies Over Military Links](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746841-GettyImages-1228664727KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-sanctions-chinese-pakistan-companies-over-military-links-5746466)
-* [New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
-    
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Hampshire’s Gubernatorial Hopefuls Spar at Candidate Forum](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746838-Joyce-Craig-Kelly-AyotteKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-hampshires-gubernatorial-hopefuls-spar-at-candidate-forum-5745667)
-* [Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
-    
-    7hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Boeing Suffers $6 Billion Loss in 3rd Quarter, CEO Calls for Fundamental Cultural Changes](https://img.theepochtimes.com/assets/uploads/2024/03/14/id5607323-Boeing-HQ-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-suffers-6-billion-loss-in-3rd-quarter-ceo-calls-for-fundamental-cultural-changes-5746499)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
