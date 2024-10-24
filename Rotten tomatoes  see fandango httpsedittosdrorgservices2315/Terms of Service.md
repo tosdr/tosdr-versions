@@ -18,7 +18,6 @@ Offers
 Go to previous offer
 
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get BOGO Tickets Now for The Carpenter** In theaters November 1st. Get tickets early!](https://www.fandangomovietickets.com/thecarpenter?cmp=TARS~FANDANGO~The_Carpenter_BOGO_GlobalNav)
@@ -73,13 +72,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
-* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0540e660-8dae-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-applepay-week16-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday) 
+* [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
-    ### APPLE PAY WEDNESDAY
+    ### Seize the We Are Venom Bundle
     
-    Get $5 off ticket orders made on Wednesday, 10/23 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
     
-    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday)
+    [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
 * [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
@@ -89,13 +88,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
-* [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
+* [Chance to win a trip to the Premiere of the film! image link ![Chance to win a trip to the Premiere of the film!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6049a9b0-82b0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer) 
     
-    ### Seize the We Are Venom Bundle
+    ### Chance to win a trip to the Premiere of the film!
     
-    Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+    Buy a ticket to Wicked for a chance to win a trip to the Premiere of the film!
     
-    [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer)
     
 
 New & Coming soon
@@ -203,16 +202,6 @@ Close
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
 
 \*Wicked Popular Poster Pack bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Wicked (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The limited edition Wicked poster will begin shipping in the month of November. Please use a physical address where the limited edition Wicked poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions below for each item included in the Wicked Popular Poster Pack bundle. [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_promomodule)
-
-### Apple Pay Wednesday
-
-Close
-
-![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/ed003f50-8db8-11ef-a588-3b078e6b3d8a--fan-globalnavbar-applepay-week16-tickets-343x362.png)
-
-#### Today only! Save $5 off your order with Apple Pay.
-
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 10/23/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 10/23/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
 
 ### Special Offer
 
