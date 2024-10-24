@@ -340,7 +340,7 @@ Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
 
 [![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
-Limited Edition](https://www.atari.com/collections/limited-edition-haunted-house)
+Limited Edition](https://www.atari.com/collections/limited-edition)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
@@ -362,7 +362,7 @@ Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
 
 [![](files/classic-dad-hat-black-front-66fe06e85b6fdcopy.jpg)
 
-Limited Edition](https://www.atari.com/collections/limited-edition-haunted-house)
+Limited Edition](https://www.atari.com/collections/limited-edition)
 
 [![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
 
@@ -809,6 +809,7 @@ Newsletters from the future
 
   
 
+* Amazon
 * American Express
 * Apple Pay
 * Diners Club
