@@ -105,9 +105,6 @@ Footer
   
 [Contact Us](https://www.windcave.com/contact-us)
 
-[Acquiring Terms and Conditions](https://www.windcave.com/acquiring-terms-and-conditions)
------------------------------------------------------------------------------------------
-
 [End User License Agreement](https://www.windcave.com/eula)
 -----------------------------------------------------------
 
