@@ -515,7 +515,7 @@ Copyright © 2024 AppLovin. All rights reserved.
 * [Terms of Use](https://www.applovin.com/terms)
 * [Privacy](https://www.applovin.com/privacy)
 
-[Your Privacy Choices](https://www.applovin.com/multistate-privacy-notice/) Cookie Settings
+[Your Privacy Choices](https://www.applovin.com/multistate-privacy-notice/) Cookie Settings
 
 * [![X](/wp-content/themes/applovin/images/social-icon-x-2023.svg)](https://twitter.com/AppLovin)
 * [![Facebook](/wp-content/themes/applovin/images/social-icon-fb-2023.svg)](https://www.facebook.com/AppLovin)
