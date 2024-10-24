@@ -388,6 +388,6 @@ English - US
 
 Copyright © 2024 Klaviyo. All rights reserved.
 
-[Site Map](https://www.klaviyo.com/sitemap)[Terms and Privacy](https://www.klaviyo.com/legal)[Security](https://www.klaviyo.com/security)[Trust](https://www.klaviyo.com/trust)[Trademarks](https://www.klaviyo.com/legal/trademarks)
+[Site Map](https://www.klaviyo.com/sitemap)[Terms and Privacy](https://www.klaviyo.com/legal)[Security](https://www.klaviyo.com/security)[Trust](https://www.klaviyo.com/trust)[Intellectual Property Notices](https://www.klaviyo.com/legal/intellectual-property-notices)
 
 Your privacy settings
