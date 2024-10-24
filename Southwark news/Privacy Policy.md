@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
+    
+    ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
+    
+    [![Romain Esse in action against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-44343-360x180.jpg)](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
+    
+    ### [Millwall duo set to be assessed after picking up injuries against Plymouth](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
+    
+    [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
+    
+    ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
+    
+    ### [Woman, 43, charged with attempted arson at Peckham council estate](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
+    
+    [!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+    
+    ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+    
     [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
     
     ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
@@ -34,26 +54,6 @@
     [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
     
     ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-    
-    [![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-    
-    ### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-    
-    [![Triptych Bankside external ground level. (JRTE London)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Triptych-Bankside-external-ground-level-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
-    
-    ### [Cafe and ‘micro-gym’ to open at new Bankside development](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
-    
-    [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-    
-    ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-    
-    [![Tower of London Ghost tours; Halloween family rave at Woolwich Works](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-10.56-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
-    
-    ### [Halloween half-term: Spooky things to do in Bermondsey, Borough and Woolwich](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
-    
-    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
-    
-    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -101,6 +101,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
+    
+    ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
+    
+    [![Romain Esse in action against Plymouth Argyle. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Esse-44343-360x180.jpg)](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
+    
+    ### [Millwall duo set to be assessed after picking up injuries against Plymouth](https://southwarknews.co.uk/news/millwall-duo-set-to-be-assessed-after-picking-up-injuries-against-plymouth/)
+    
+    [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
+    
+    ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
+    
+    ### [Woman, 43, charged with attempted arson at Peckham council estate](https://southwarknews.co.uk/news/crime/woman-43-charged-with-attempted-arson-at-peckham-council-estate/)
+    
+    [!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+    
+    ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+    
     [![Andre Williams beside the 'Let It Be Me' sculpture. Credit: BUILDHOLLYWOOD](https://southwarknews.co.uk/wp-content/uploads/2024/10/Let-It-Be-Me-SculptureAndreWilliams-12-BUILDHOLLYWOOD-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
     
     ### [Colourful sculpture unveiled in Camberwell](https://southwarknews.co.uk/area/camberwell/colourful-sculpture-unveiled-in-camberwell/)
@@ -116,26 +136,6 @@ View All Result
     [![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
     
     ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-    
-    [![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-    
-    ### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-    
-    [![Triptych Bankside external ground level. (JRTE London)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Triptych-Bankside-external-ground-level-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
-    
-    ### [Cafe and ‘micro-gym’ to open at new Bankside development](https://southwarknews.co.uk/area/south-bank/cafe-and-micro-gym-to-open-at-new-bankside-development/)
-    
-    [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-    
-    ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-    
-    [![Tower of London Ghost tours; Halloween family rave at Woolwich Works](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-10.56-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
-    
-    ### [Halloween half-term: Spooky things to do in Bermondsey, Borough and Woolwich](https://southwarknews.co.uk/area/bermondsey/halloween-half-term-spooky-things-to-do-in-bermondsey-borough-and-woolwich/)
-    
-    [![Albert Bridge. Photo from Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Albert-Bridge.-Photo-from-Google-360x180.jpg)](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
-    
-    ### [Drivers urged to plan ahead with the closure of Albert Bridge](https://southwarknews.co.uk/area/london/drivers-urged-to-plan-ahead-with-the-closure-of-albert-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -357,13 +357,6 @@ Website
 
 [21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
-[![CGI of new Nine Elms primary school.
-Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-
-### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-
-[17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
-
 [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
 ### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
@@ -376,7 +369,20 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
+[![CGI of new Nine Elms primary school.
+Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+
+### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+
+[17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+
 ### Featured Articles
+
+[!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+
+### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
+
+[23rd October 2024](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
 
 [![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
 
@@ -407,12 +413,6 @@ Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/20
 ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-
-[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
 ### USEFUL PAGES
 
