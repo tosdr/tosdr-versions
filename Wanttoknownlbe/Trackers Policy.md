@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/100-redenen-waarom-911-doorgestoken-kaart-is/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/eerste-succes-juridische-aanpak-nieuw-911-onderzoek/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
