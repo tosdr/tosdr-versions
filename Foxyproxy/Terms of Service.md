@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service has been a good one.
+Overall, very impressed. I thought the few problems I had with the BBC iPlayer were the proxy being detected, but speaking to people in the UK it appears that the iPlayer is just unreliable. Apart from that, it was great, and I love the way it can be customised as to which URLs it kicks in for, nice. When I get back from my travels I will definitely sign up for a year's subscription, perhaps even sooner if a big event happens that I want to watch live. Good service, thanks
 
-Guy Roberrs
+John Malcolm
