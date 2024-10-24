@@ -1,8 +1,8 @@
 ![](/img/ajax-loader.gif) Loading ...
 
-**E-mail :** 
+**E-mail :**  
 
-**Password :** 
+**Password :**  
 
 [](#)
 
