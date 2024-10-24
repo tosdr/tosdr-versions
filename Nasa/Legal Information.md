@@ -269,19 +269,19 @@ article 6 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-4
 
 ### Risk of Reduced Cardiorespiratory and Musculoskeletal Fitness
 
-article 17 hours ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
+article 1 day ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespiratory-and-musculoskeletal-fitness/)[![](https://www.nasa.gov/wp-content/uploads/2024/05/bone.png?w=1024)
 
 2 min read
 
 ###  Risk of Spaceflight-Induced Bone Changes
 
-article 17 hours ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
+article 1 day ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
 
 2 min read
 
 ### Risk of Injury and Compromised Performance from Extravehicular Activity (EVA)
 
-article 17 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
+article 1 day ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 17 hours ago](https://www.nasa.gov/reference/risk-of-injury-and-compromi
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 7 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
 
 2 min read
 
@@ -313,7 +313,7 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
 
-article 15 hours ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)[![Engineers and astronauts gather inside the mock-up of the ESA Lunar I-Hab module during a 'human in the loop' test. The group, wearing protective caps, discusses the module's interior layout while reviewing design plans under a well-lit table. Mock-up equipment and placeholders surround the participants, simulating the environment of the habitation module that will eventually be part of Gateway.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e051782-1.jpg?w=1024)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Highlights
 
-[![ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)](https://images-assets.nasa.gov/image/jsc2024e062107/jsc2024e062107~orig.jpg)
+[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
+
+5 min read
+
+### NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
+
+article 3 hours ago](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/)[![ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)](https://images-assets.nasa.gov/image/jsc2024e062107/jsc2024e062107~orig.jpg)
 
 2 min read
 
 ### ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)
 
-article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)[![SEAQUE (Space Entanglement and Annealing QUantum Experiment)](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/quantum-leaps/bps-investigations/SEAQUE/Space_Entanglement_Annealing_QUantum_Experiment.jpg)
+article 15 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)[![SEAQUE (Space Entanglement and Annealing QUantum Experiment)](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/quantum-leaps/bps-investigations/SEAQUE/Space_Entanglement_Annealing_QUantum_Experiment.jpg)
 
 2 min read
 
 ### SEAQUE (Space Entanglement and Annealing QUantum Experiment)
 
-article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/)[![GEARS (Genomic Enumeration of Antibiotic Resistance in Space)](https://images-assets.nasa.gov/image/iss071e040186/iss071e040186~large.jpg)
-
-2 min read
-
-### GEARS (Genomic Enumeration of Antibiotic Resistance in Space)
-
-article 6 hours ago](https://science.nasa.gov/biological-physical/investigations/gears-genomic-enumeration-of-antibiotic-resistance-in-space/)
+article 15 hours ago](https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 14 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 24 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -423,7 +423,13 @@ article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Journey Through Stars with NASA in New Minecraft Game
 
-article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)
+article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/)[![James Webb Space Telescope-themed pumpkin](https://www.nasa.gov/wp-content/uploads/2023/10/spacepumpkinheader1600px.jpg?w=1024)
+
+1 min read
+
+### NASA-Themed Pumpkin-Carving Templates and Stencils
+
+article 12 months ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
 
 ### Featured
 
