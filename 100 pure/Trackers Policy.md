@@ -24,7 +24,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-5776 reviews (5776)
+5779 reviews (5779)
 
 $16.00 $29.00
 
@@ -258,7 +258,7 @@ ADD TO TOTE
 
 ### [French Lavender Nourishing Body Cream](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
-349 reviews (349)
+350 reviews (350)
 
 $26.00
 
@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1567 reviews (1567)
+1568 reviews (1568)
 
 $30.00 $30.00
 
