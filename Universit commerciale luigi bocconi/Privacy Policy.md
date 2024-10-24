@@ -342,11 +342,11 @@ Stay in touch
 
 Stay in touch
 
-* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?VersionId=MqMl2BbKIfC3JfXqoyV9zyUHufhl9Shr&itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
+* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
 * [Twitter ![Go To Twitter](/sites/default/files/styles/footer_icon/public/footer/icon-menu/x_1.png.webp?itok=Y7MLjZ5L "Twitter")](https://twitter.com/unibocconi) 
 * [Linkedin ![Go To Linkedin](/sites/default/files/styles/footer_icon/public/footer/icon-menu/linkedin_0.png.webp?itok=oWwIb-bE "Linkedin")](https://www.linkedin.com/school/universita-bocconi/) 
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
-* [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?VersionId=yR27SHOWAZ0LnplEDdYfD5I8x0kQ2bOi&itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
+* [Instagram ![Go to Instagram](/sites/default/files/styles/footer_icon/public/footer/icon-menu/instagram_0.png.webp?itok=T4tCicO3 "Instagram")](https://www.instagram.com/unibocconi/) 
 * [Tiktok ![Go to Tiktok](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tiktok.png.webp?itok=d1yjTdEa "Tiktok")](https://www.tiktok.com/@unibocconi/) 
 * [Weechat ![Go to Weechat](/sites/default/files/styles/footer_icon/public/footer/icon-menu/wechat_0.png.webp?itok=C_uORqlC "Weechat")](https://weechat.org/) 
 
