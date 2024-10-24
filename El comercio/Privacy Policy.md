@@ -31,989 +31,888 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest
-===================================================================
+Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso
+===========================================================================
 
-El Bayer Leverkusen alemán de Piero Hincapié igualó con el Brest de Francia en la tercera fecha de la UEFA Champions League.
-----------------------------------------------------------------------------------------------------------------------------
+La pasión por Deportivo Quito no tiene límites, y una vez más su hinchada los acompañará en un duelo clave por la clasificación.
+--------------------------------------------------------------------------------------------------------------------------------
 
-![El ecuatoriano Piero Hincapié del Bayer Leverkusen marca a un rival del Brest.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T132549.781.jpg)
+![Hinchas del Deportivo Quito en un partido del Torneo de Ascenso.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-1.jpg)
 
-El **Bayer Leverkusen y Piero Hincapié** disputaron la tercera fecha de la UEFA Champions League durante este miércoles 23 de octubre del 2024. El equipo alemán igualó por un marcador de 1-1 ante el Brest de Francia.
+**Deportivo Quito** está a un paso de lograr otro lleno total en el Torneo de Ascenso de Segunda Categoría. El equipo capitalino se juega la clasificación a los octavos de final contra Cantera Orense, en un partido decisivo para su sueño de ascender a la Serie B.
 
-Pese a que llegaba como visitante a la jornada tres, el equipo del ecuatoriano tenía la condición de favorito para el cotejo. Antes, este había cosechado dos triunfos ante el **Feyernoord** de Países Bajos y ante el **AC Milán** de Italia.
-
-### Más noticias:
-
-* [Barcelona vs. Bayern, una verdadera prueba en Champions](https://www.elcomercio.com/deportes/futbol/barcelona-bayern-champions-league-miercoles.html "Barcelona vs. Bayern, una verdadera prueba en Champions")
-* [Horarios para ver a Piero Hincapié y Angelo Preciado en Champions](https://www.elcomercio.com/deportes/horarios-uefa-champions-league-hincapie-preciado.html "Horarios para ver a Piero Hincapié y Angelo Preciado en Champions")
-* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
-
-El Brest, una de las sorpresas de la **Champions** tanto por su clasificación como por resultados, buscaba continuar desafiante y como una de las revelaciones. A pesar de ser un equipo poco tradicional en el torneo continental, este venció en sus dos primeros cotejos al **RB Salzburgo** y al **Sturm Graz**, ambos de Austria.
-
-Con tales resultados, el conjunto ‘farmacéutico’ y el francés llegaban en igualdad de condiciones a nivel de puntos. Ambos estaban entre los **10 mejores** y con su empate quedaron en la zona alta a falta de que terminen todos los partidos de la fecha.
-
-El Bayer Leverkusen se puso por delante en un inicio
-----------------------------------------------------
-
-El **Bayer Leverkusen** se plantó bien desde los primeros minutos y asedió al conjunto francés. El plantel alemán fue el primero en ponerse en ventaja, sin embargo, la superioridad no había sido marcada y el Brest también buscaba estrategias para llegar[.](https://en.wikipedia.org/wiki/UEFA_Champions_League "https://en.wikipedia.org/wiki/UEFA_Champions_League")
-
-El tanto para los alemanes llegó gracias a **Florian Wirtz**, quien recibió un balón dentro del área. Este controló la pelota y, dentro del área, sacó un remate que venció al portero contrario y rompió la paridad.
-
-El Brest no tardó tanto en reaccionar y consiguió el empate dentro de la misma primera mitad. Gracias a **Pierre Lees – Melou**, el equipo local metió el tanto que selló el marcador final del encuentro.
-
-Para los últimos 45 minutos de juego, ambos clubes intentaron la victoria y tuvieron llegadas, pero no se concretaron en un gol. En el cierre del compromiso, el **Leverkusen** se ilusionó con un posible penal que revisó el VAR, sin embargo, no se cobró.
-
-¿Cuándo vuelven a jugar Piero Hincapié y el Bayer Leverkusen?
--------------------------------------------------------------
-
-**Piero Hincapié** y su escuadra tendrán su siguiente partido en la Bundesliga. El sábado 26 de octubre del 2024, las ‘aspirinas’ se enfrentarán frente el **Werder Bremen**.
-
-Dentro de la **UEFA Champions League**, el próximo enfrentamiento ante el Liverpool. Este cotejo será el martes 5 de noviembre del 2024.
-
-El oso Paddington obtiene un pasaporte británico para su viaje a Perú 
-======================================================================
-
-El oso Paddington, el querido personaje, estará de gira para promocionar su nueva película.
--------------------------------------------------------------------------------------------
-
-![Paddington viaja a Perú para visitar a su tía Lucy, pero al llegar descubre que ha desaparecido. Foto: @paddingtonmovie.](https://www.elcomercio.com/wp-content/uploads/2024/10/Paddington-pasaporte.jpg)
-
-El [**oso Paddington**](https://www.instagram.com/paddingtonmovie/ "https://www.instagram.com/paddingtonmovie/"), un ícono de la literatura infantil y el cine, ha sido noticia recientemente al **recibir un pasaporte británico oficial**.  
-
-### Más noticias
-
-* [‘Chuzalongo’, una película de suspenso y magia se lanzará en Ecuador](https://www.elcomercio.com/tendencias/cine/chuzalongo-pelicula-cine-ecuador.html "https://www.elcomercio.com/tendencias/cine/chuzalongo-pelicula-cine-ecuador.html")
-* [Muere a los 91 años el escritor Michael Bond, padre del oso Paddington](https://www.elcomercio.com/tendencias/muerte-escritor-michaelbond-paddington-literaturainfantil.html "https://www.elcomercio.com/tendencias/muerte-escritor-michaelbond-paddington-literaturainfantil.html")
-
-Este gesto proviene del **Home Office del Reino Unido** y se enmarca en la **promoción de su próxima película**, ‘Paddington en Perú’.  
-
-**Rob Silva**, co-productor de la película, reveló que **el equipo de producción solicitó un pasaporte** como parte de la narrativa del filme y se sorprendieron al recibir una respuesta positiva. “Contactamos al **Home Office** para pedir un duplicado, y realmente n**os otorgaron un pasaporte oficial**. Solo hay uno de estos”, comentó Silva en una entrevista con Radio Times, citada por [Euro News](https://www.euronews.com/culture/2024/10/22/paddington-bear-given-uk-passport-by-home-office "https://www.euronews.com/culture/2024/10/22/paddington-bear-given-uk-passport-by-home-office"). 
-
-**Un pasaporte con historia para Paddington** 
-----------------------------------------------
-
-**El documento identifica a Paddington como Paddington Brown**, con fecha de nacimiento el 25 de junio y lugar de origen Perú. Este detalle es significativo, ya que **el personaje fue creado por el autor Michael Bond** en 1958 y ha sido parte fundamental de la **cultura británica** desde entonces. Paddington llegó a Londres como un refugiado, con una etiqueta que decía: “Por favor, cuiden a este oso. Gracias”, a decir de [The Guardian](https://www.theguardian.com/film/2024/oct/22/paddington-bear-given-official-uk-passport "https://www.theguardian.com/film/2024/oct/22/paddington-bear-given-official-uk-passport"). 
-
-Su historia refleja **temas de inmigración y aceptación** que resuenan profundamente en la sociedad actual. 
-
-**La trama de ‘Paddington en Perú’** 
--------------------------------------
-
-En la nueva película, **Paddington viaja a Perú para visitar a su tía Lucy**, quien vive en un **hogar para osos jubilados**. Sin embargo, al llegar, descubre que ella ha desaparecido. Este giro argumental lleva al oso y a la familia Brown a **una aventura por las selvas del Amazonas**, según [Newsweek](https://www.newsweek.com/paddington-bear-passport-peru-1972901 "https://www.newsweek.com/paddington-bear-passport-peru-1972901"). **El filme destaca no solo la belleza natural de Perú**, sino también las relaciones familiares y la búsqueda de identidad. 
-
-**Tráiler de la película**
---------------------------
-
-**La voz detrás del oso** 
---------------------------
-
-**Ben Whishaw** continúa como la voz del querido oso en esta tercera entrega. A pesar de no haber podido viajar a Perú para filmar, Whishaw ha compartido su entusiasmo por el proyecto. “**Me habría encantado ir a Perú y Colombia**, pero estuve encerrado en un sótano en Londres durante toda la producción”, comentó, citado por Newsweek. 
-
-**Expectativas para el estreno** 
----------------------------------
-
-‘Paddington en Perú’ está p**rogramada para estrenarse el 17 de enero de 2025**. La anticipación es alta entre los fanáticos que han seguido las aventuras del oso desde sus inicios. La película promete ser una mezcla emocionante de humor y aventura familiar. 
-
-Empleadores y trabajadores deben acordar el cambio de horarios por cortes de luz
-================================================================================
-
-El Ministerio del Trabajo emitió un acuerdo que regula la modificación temporal de la jornada laboral para enfrentar la crisis energética.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![El esquema de "Pico y Placa eléctrico" permite jornadas de hasta 10 horas diarias, sin superar las 40 horas semanales. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/textil-23.jpg)
-
-El Ministerio del Trabajo emitió este 22 de octubre de 2024 un Acuerdo Ministerial que establece el **procedimiento** para la **modificación** temporal de la **jornada laboral** por los **cortes de luz** programados en **Ecuador**. La medida es una respuesta a la **emergencia eléctrica**, declarada en agosto de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
-* [Coca Codo operó al 22% durante 14 horas de este martes 22 de octubre](https://www.elcomercio.com/actualidad/negocios/mazar-coca-codo-operan-dificultad-aumentaran-cortes-luz.html "Coca Codo operó al 22% durante 14 horas de este martes 22 de octubre")
-* [Pequeña empresa propone cambios en jornadas laborales por cortes de luz](https://www.elcomercio.com/actualidad/negocios/pequena-empresa-pcambios-jornadas-laborales-cortes-luz.html "https://www.elcomercio.com/actualidad/negocios/pequena-empresa-pcambios-jornadas-laborales-cortes-luz.html")
-
-El esquema, conocido como **‘Pico y Placa Eléctrico**‘, permite a empleadores y trabajadores de sector privado llegar a un acuerdo sobre el **cambio de horario**. Esta modificación no debe superar las 40 horas semanales ni las 10 horas diarias en cuatro días.
-
-Estas son los principales puntos de la medida
----------------------------------------------
-
-* El empleador y trabajador deben llegar a acuerdo y **pactar la nueva jornada** debido a la emergencia eléctrica por la que atraviesa el Ecuador.
-* Las 40 horas laborales semanales estarán distribuidas en **cuatro días** de jornadas de 10 horas:
-* De 07:00 a 17:00 para los días lunes, martes, miércoles y jueves. Y de 07:00 a 17:00 para los días jueves, viernes, sábado y domingo.
-* Los trabajadores que se acojan a esta modalidad tendrán derecho a **tres días de descanso** consecutivos.
-* Mientras se cumplan las **40 horas semanales** en los cuatro días pactados, no se pagarán horas suplementarias ni extraordinarias.
-* Un trabajador tendrá derecho a **pagos extras** si labora más de 10 horas diarias durante su semana de 4 días.
-* El **acuerdo entre el empleador y trabajador** deberá estar escrito y ser registrado en el Sistema Único del Trabajo (SUT). El empleador tiene 30 días para realizar este trámite.
-* El empleador deberá publicar con anticipación las **jornadas pactadas en un lugar visible** del centro de trabajo y al alcance de todos sus trabajadores.
-* El Ministerio del Trabajo realizará los controles y verificaciones necesarias para precautelar el cumplimiento de los **derechos de los trabajadores** y la ley.
-* El trabajador podrá denunciar ante el Ministerio del Trabajo cualquier **anomalía** o incumplimiento a la jornada pactada.
-* El acuerdo estará vigente mientras dure la emergencia eléctrica y **no implica un cambio definitivo** en los contratos de trabajo. Las modificaciones pactadas se revertirán una vez que finalice la crisis o si ambas partes lo acuerdan.
-
-¿Qué opina el sector productivo?
---------------------------------
-
-**Andrés Robalino**, presidente de la Cámara de Industrias, Producción y Empleo de Cuenca, señaló que esta herramienta tendrá un **efecto positivo** y servirá principalmente para la pequeña y mediana industria, que pueden adaptarse a ese tipo de horarios.
-
-Además, señaló que se debería pensar en otras herramientas que beneficien a industrias más grandes.
-
-Por su parte, la **Cámara de Comercio de Quito** (CCQ) considera positivo que se abran opciones de acuerdos entre empleadores y trabajadores, “para mitigar los efectos de la emergencia, protegiendo el empleo y mantener la operatividad de las empresas”.
-
-Además, hace un llamado al **sector productivo** para aprovechar estas medidas y garantizar la productividad y el dinamismo de la economía ecuatoriana.
-
-Sin embargo, la CCQ advierte que estas acciones no sustituyen las **soluciones estructurales** que Ecuador necesita para asegurar la estabilidad energética.
-
-La medida llega tarde
----------------------
-
-Para **Vanessa Velásquez**, abogada experta en temas laborales, este Acuerdo Ministerial llega tarde, Además, es cerrado y es focalizado.
-
-“Tarde, porque ya estamos **dos meses en crisis eléctrica**. Cerrado porque solo da dos opciones de jornadas que no necesariamente requieren los industriales. Y focalizado porque solo se pueden beneficiar las **industrias**, deja fuera a todos quienes prestan servicios, como médicos, por ejemplo, médicos, abogados, etc.”, señaló.
-
-Sin embargo, destacó que con este **Acuerdo Ministerial**, el Gobierno acepta la necesidad de dar directrices y herramientas al sector productivo en medio de la **crisis energética**.
-
-Ariel Holan pensó en dejar Barcelona Sporting Club en junio
-===========================================================
-
-Ariel Holan se sostuvo en el cargo de entrenador de Barcelona SC menos de seis meses.
--------------------------------------------------------------------------------------
-
-![Ariel Holan en su presentación como entrenador de Barcelona SC en abril de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/hola_junio_1.jpg)
-
-Ariel Holan fue presentando como nuevo **entrenador de Barcelona Sporting Club en abril de 2024**, y en octubre del mismo año se anunció su salida, luego de una seguidilla de malos resultados que complicaron su trabajo.
-
-En abril, Ariel Holan **llegó para reemplazar al uruguayo Diego López**, que tampoco logró convencer a los exigentes hinchas de Barcelona Sporting Club en sus nueve meses de gestión entre julio de 2023 y abril de 2024.
+En el **partido de ida, ambos equipos igualaron 1-1** en el Mini Estadio Euclides Palacios de Machala. Ahora, para el encuentro de vuelta de los dieciseisavos de final, la hinchada del Deportivo Quito se prepara para llenar el estadio en un duelo crucial.
 
 ### Más noticias:
 
-* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
-* [Barcelona Sporting Club pone fecha para la Noche Amarilla 2025](https://www.elcomercio.com/deportes/futbol/noche-amarilla2025-barcelona-sporting-club.html "Barcelona Sporting Club pone fecha para la Noche Amarilla 2025")
-* [Barcelona Sporting Club domina el XI ideal de la fecha 10](https://www.elcomercio.com/deportes/futbol/equipo-ideal-liga-pro-fecha10.html "Barcelona Sporting Club domina el XI ideal de la fecha 10")
+* [Deportivo Quito tiene una deuda de 7 millones y planea reducirla](https://www.elcomercio.com/deportes/deportivo-quito-valor-deuda-jose-pardo.html "Deportivo Quito tiene una deuda de 7 millones y planea reducirla")
+* [Deportivo Quito sacó a la venta 12 000 entradas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-cantera-orense-entradas.html "Deportivo Quito sacó a la venta 12 000 entradas")
+* [Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda](https://www.elcomercio.com/deportes/deportivo-quito-cantera-orense-partido-segunda-categoria.html "Deportivo Quito iguala con Cantera Orense en dieciseisavos de Segunda")
 
-Holan se sentó en la **banca de suplentes de Barcelona SC, según datos de Transfermarkt, en 22 encuentros**, de los que ganó 10, empató cuatro y perdió ocho. Su rendimiento fue del 51,5% del total de puntos en disputa.
+El partido está programado para el domingo 27 de octubre de 2024, a las 12:00, en el **Estadio Gonzalo Pozo Ripalda, propiedad de Aucas**.
 
-Bajo su mando se terminó de concretar la eliminación en la fase de grupos de la Copa Libertadores, **de los play-off de los octavos de final de la Copa Sudamericana**, de los dieciseisavos de final de la Copa Ecuador, no ganó la primera etapa de la Liga Pro y en la segunda quedó en los puestos secundarios.
+La hinchada del Deportivo Quito no abandona
+-------------------------------------------
 
-Sus derrotas fueron ante Talleres (3-1) por la Libertadores y Bragantino (3-2) en la Sudamericana.
+Para este importante compromiso, **Deportivo Quito puso a la venta un total de 12 000 entradas**. Aunque la ‘Caldera del Sur’ tiene una capacidad cercana a los 19 000 espectadores, por motivos logísticos se decidió ofrecer menos boletos.
 
-En la Liga Pro cayó contra Mushuc Runa (1-0), Orense (3-2), Liga de Quito (3-0), **Deportivo Cuenca (1-0) y El Nacional (3-0)**. En la Copa Ecuador fue derrotado ante Independiente Juniors (2-0), club de la Liga Pro Serie B.
+Todo apunta a que el Gonzalo Pozo Ripalda se pintará de azul y grana, ya que en apenas tres horas después de la salida de los boletos, el 22 de octubre, **una de las localidades se agotó por completo**. Actualmente, no queda ni un solo puesto en la preferencia.
 
-Tras su salida, el argentino no habló con la prensa, pero rompió ese silenció este miércoles 23 de octubre de 2024, desde su natal Argentina, desde donde dio más detalles de lo que vivió en este lapso en Ecuador.
+Además, en redes sociales se han difundido videos mostrando largas filas en los puntos de venta de entradas, lo que refleja la gran expectativa de la afición. En la ronda previa, en los 32avos de final, Deportivo Quito **ya había llenado el estadio, aunque en esa ocasión fue el de Independiente del Valle**.
 
-Las verdades de Holan
----------------------
+> ¡Seguimos de venta, hinchada! 🙋🏽‍♀️🙋🏻‍♂️ ¿Nos queda chico o no el 🏟️ estadio? Ustedes dirán… 🎶 A verle al Quito con toda esta banda 🎶 [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) confianza en su gente 💙❤️ [pic.twitter.com/uluNbOYwYF](https://t.co/uluNbOYwYF)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [October 23, 2024](https://twitter.com/SDQuito_Oficial/status/1849125109258215769?ref_src=twsrc%5Etfw)
 
-Ariel Holan relató que a su llegada a Guayaquil empezó a s**olventar algunos inconvenientes que el club arrastraba** en la infraestructura. Detalló que se hizo un “esfuerzo grande” para mejorar el gimnasio y para mejorar el estadio de los campos de entrenamiento y juego.
+Con miras a la Serie B
+----------------------
 
-Volvió a reiterar que la salida de **Damián Díaz se debió a una decisión institucional y deportiva**, sin ahondar en más detalles de un tema que se lo maneja como un secreto de Estado entre todos los involucrados.
+En el partido de ida, jugado el domingo 20 de octubre, **Deportivo Quito logró un valioso empate 1-1** como visitante ante Cantera Orense en Machala. El gol para los capitalinos fue obra de Luis Celi, mientras que Walter Rodríguez anotó para los orenses.
 
-Aclaró que la suplencia de **Javier Burrai, uno de los capitanes del equipo**, se debió al “bajo rendimiento” del arquero argentino, muy cuestionado por sus actuaciones en la Liga Pro y en torneos internacionales.
+El **ganador de esta serie avanzará a los octavos de final**, donde enfrentará al vencedor de la llave entre Toreros FC (Guayas) y Santa Elena Sumpa (Santa Elena), con ventaja de 2-1 para el equipo guayaquileño.
 
-Auguró un buen presente y futuro para Segundo Alejandro Castillo, su reemplazo como DT, **por el conocimiento que el ecuatoriano** tiene del plantel y de la metodología de trabajo implementada, puesto que siempre fue parte de su equipo de trabajo.
+Daniel Noboa recibió a Mónica Palencia y Paola Cabezas insistió en acusaciones
+==============================================================================
 
-Finalmente, Holan reveló que en junio pensó en dejar el cargo de BSC, una vez finalizada la primera etapa.
+Paola Cabezas continuó con acusaciones; mientras Daniel Noboa esperó a Mónica Palencia en el Palacio de Carondelet.
+-------------------------------------------------------------------------------------------------------------------
 
-“Yo tendría que **haber terminado la etapa y dado un paso al costado**. No lo hice porque me parecía que hay buenas intenciones desde la parte dirigencia (…) y la preparación con los jugadores siempre estuvo acorde a lo planificado”, dijo en entrevista con el periodistas César Luis Merlo.
+![Mónica Palencia fue recibida por Daniel Noboa en el Palacio de Carondelet.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-monica-palencia-1.jpg)
 
-![Ariel Holan (c) el día de su presentación como entrenador de Barcelona SC. Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/04/entrenadores_barcelona-1024x683.jpg)
+Tras la decisión del Pleno de la **Asamblea** de no aprobar la censura y destitución de **Mónica Palencia**, el presidente **Daniel Noboa** recibió a la funcionaria en Carondelet y la asambleísta del correísmo, **Paola Cabezas**, insistió en acusaciones.
 
-Ariel Holan (c) el día de su presentación como entrenador de Barcelona SC. Foto: API.
+Al correísmo le faltaron 15 votos la tarde de este miércoles 23 de octubre para concretar la sanción por el **juicio político** en contra de Mónica Palencia.
+
+### Más noticias:
+
+* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
+* [Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-no-voy-a-dejar-a-monica-palencia-sola-viaje-brasil.html "Daniel Noboa: ‘No voy a dejar a Mónica Palencia sola’")
+
+Daniel Noboa recibió a Mónica Palencia y Paola Cabezas insistió en sus acusaciones
+----------------------------------------------------------------------------------
+
+El **Pleno** de la Asamblea se pronunció sobre el juicio político contra Mónica Palencia esta tarde.
+
+Aunque, días atrás, 89 asambleístas habían votado porque el juicio contra Palencia continúe, hoy solo **77 votaron** por la censura y destitución.
+
+Así, el correísmo truncó, una vez más, su deseo de sancionar a una autoridad por **incumplimiento de funciones.**
+
+Ya le pasó con la canciller **Gabriela Sommerfeld** y también con la **fiscal general Diana Salazar**.
+
+Luego de terminada la sesión del Pleno, **Mónica Palencia se trasladó al Palacio de Carondelet**.
+
+Allí, le esperaba el presidente Daniel Noboa para **abrazarle y felicitarle**.
+
+En redes sociales, el mandatario manifestó: “**Bienvenida a casa, Mónica. Te estábamos esperando**“.
+
+Mientras, **Paola Cabezas**, una de las proponentes del juicio político contra Palencia, continuó insistiendo en sus acusaciones.
+
+Antes de que se dé la votación, Cabezas dijo que los **ministros de Estado** estaban en la Asamblea “salvando a una persona” junto con **funcionarios del Ministerio de Gobierno**.
+
+El pasado 17 de octubre, Cabezas dijo que se **iría a su casa** si no logra un resultado favorable del juicio político en contra de Palencia.
+
+Sin embargo, luego del pronunciamiento del Pleno, la asambleísta del correísmo **no lo ha vuelto a mencionar.**
+
+Barcelona SC es líder de la Liga Pro, pero en multas
+====================================================
+
+La última multa recibida por el 'Ídolo' supera ampliamente las sanciones que acumulan la mayoría de los equipos a lo largo de toda la temporada.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Barcelona SC es el equipo con más multas en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC.jpg)
+
+**Barcelona SC** es líder en la Liga Pro, pero no en lo deportivo, sino en el apartado de multas. A nivel de sanciones económicas, la diferencia con el segundo equipo más multado es casi el doble.
+
+Este miércoles 23 de octubre, la Comisión de Disciplina de la Liga Pro publicó su informe de multas correspondiente a la fecha 10 de la segunda etapa, y el club más afectado fue el ‘Ídolo’ del Astillero. **Barcelona SC recibió una sanción récord**, la segunda más alta desde la creación de la Liga Profesional del fútbol ecuatoriano.
+
+### Más noticias:
+
+* [Ariel Holan critica la inestabilidad deportiva de Barcelona SC](https://www.elcomercio.com/deportes/futbol/ariel-holan-critica-la-inestabilidad-deportiva-barcelonasc.html "Ariel Holan critica la inestabilidad deportiva de Barcelona SC")
+* [Barcelona Sporting Club es multado con 80 300 dólares](https://www.elcomercio.com/deportes/futbol/barcelona-multa-economica-liga-pro.html "Barcelona Sporting Club es multado con 80 300 dólares")
+* [Ariel Holan pensó en dejar Barcelona Sporting Club en junio](https://www.elcomercio.com/deportes/futbol/ariel-holan-barcelona-despido-alvarez.html "Ariel Holan pensó en dejar Barcelona Sporting Club en junio")
+
+El club guayaquileño fue multado con **80 300 dólares por incidentes en el Clásico del Astillero** ante Emelec en el Estadio Monumental Isidro Romero Carbo.
+
+Las sanciones se deben al uso de pirotecnia, banderas gigantes no autorizadas (tifos), banderas antirreglamentarias, entre otras infracciones.
+
+Barcelona SC, el líder en multas de la Liga Pro
+-----------------------------------------------
+
+Según estadísticas publicadas por Juan Carlos Padilla en su cuenta de X, Barcelona SC es el equipo con más multas en lo que va de la Liga Pro 2024. El conjunto ‘torero’ acumula un total de **228 110 dólares en sanciones**. La diferencia con el segundo lugar es sorprendente, casi el doble.
+
+En el segundo lugar aparece **Liga de Quito con 118 350**, mientras que el podio lo completa Emelec con 106 290 dólares en multas.
+
+Por otro lado, los equipos más disciplinados, es decir, aquellos que han recibido menos sanciones, son tres: **Cumbayá**, que solo ha pagado 3 380 dólares en multas, seguido de Macará con 3 800 y Orense con 6 480 dólares
+
+Casi rompe el récord de multas
+------------------------------
+
+La sanción de **Barcelona SC por 80 300 dólares es la segunda más alta** en la historia de la Liga Pro. El récord pertenece a Emelec, quien también fue multado en 2024 durante el Clásico del Astillero jugado en el Estadio George Capwell.
+
+En esa ocasión**, Emelec recibió una multa de 82 200 dólares** en abril de 2024, debido a nueve infracciones, entre ellas el uso de pirotecnia, petardos, bengalas y peleas en las gradas.
+
+Dos aerolíneas dejan de operar en Ecuador ¿Cuáles son la razones?
+=================================================================
+
+El Consejo Nacional de Aviación Civil autorizó la cancelación de las dos aerolíneas que dejan de operar en Ecuador.
+-------------------------------------------------------------------------------------------------------------------
+
+![Las aerolíneas que dejan Ecuador eran de México y Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/10/aerolineas-dejan-ecuador.jpg)
+
+Dos **aerolíneas** perdieron sus permisos de operaciones en **Ecuador**, por acuerdos emitidos por el **Consejo Nacional de Aviación Civil,** en octubre de 2024.
+
+El Consejo Nacional de Aviación Civil autorizó la **cancelación** de sus permisos de operación.
+
+### Más noticias:
+
+* [Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros](https://www.elcomercio.com/actualidad/mundo/paro-24-horas-trabajadores-aerolineas-argentinas-afecta-37-000-pasajeros.html "Paro de 24 horas de trabajadores de Aerolíneas Argentinas afecta a unos 37 000 pasajeros")
+* [Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz](https://www.elcomercio.com/actualidad/gobierno-de-daniel-noboa-abre-procesos-para-centrales-termoelectricas-por-cortes-de-luz.html "Gobierno de Daniel Noboa abre procesos para centrales termoeléctricas por cortes de luz")
+
+Dos aerolíneas dejan de operar en Ecuador ¿Cuáles son la razones?
+-----------------------------------------------------------------
+
+Las aerolíneas que dejan el país operaban entre **Ecuador, México y Venezuela**.
+
+El **Consejo Nacional de Aviación Civil** autorizó la cancelación de sus permisos de operación, con dos acuerdos, el 2 y el 7 de octubre.
+
+Se trata de la compañía **Aeroenlaces Nacionales Sociedad Anónima de Capital Variable (Viva Aerobus)** y la compañía **Consorcio Venezolano de Industrias Aeronáuticas y Servicios Aéreos (Conviasa)**.
+
+Conviasa, línea estatal de Venezuela que fue creada durante el mandato de **Hugo Chávez**, tenía permisos para volar las rutas **Maiquetía-Quito-Maiquetía y Maiquetía-Guayaquil-Maiquetía**.
+
+Viva Aerobus, aerolínea mexicana de bajo costo y propiedad del Grupo Iamsa, tenía las autorizaciones para la ruta **Cancún-Quito-Cancún**, con tres frecuencias semanales.
+
+**Viva Aerobus** operaba desde el 16 de mayo de 2023 y tenía **permiso** de hacerlo hasta el 16 de mayo de 2026.
+
+Sin embargo, la empresa solicitó la cancelación de su permiso de **operación**.
+
+Antes, se le autorizó una **suspensión total** y temporal de su permiso de operación contado desde el 1 de mayo de 2024 hasta el 31 de octubre de 2024.
+
+Conviasa también **solicitó la cancelación** del permiso otorgado por el Consejo Nacional de Aviación Civil.
+
+Esto, aunque dicho permiso estaba vigente del 9 de diciembre de 2022 al 9 de diciembre de **2025**.
+
+La razón de las aerolíneas para solicitar la cancelación fue por “**motivos operacionales**“.
+
+Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional
+================================================================
+
+Mushuc Runa cayó ante El Nacional en la semifinal de ida de la Copa Ecuador y Luis Chango reaccionó tras el compromiso.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Luis Chango, presidente del Mushuc Runa, reaccionó tras la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-23T181018.418.jpg)
+
+**El Nacional y Mushuc Runa** se enfrentaron en las semifinales de ida de la Copa Ecuador en un cotejo que estuvo marcado por las acciones arbitrales. Los puros criollos se llevaron el compromiso y Luis Chango, presidente del ‘Ponchito’, reaccionó tras la derrota y apuntó contra los referís.
+
+El ‘Bi-Tri’ venció por un marcador de 2-1 al conjunto de Tungurahua gracias a un doblete de **Jorge ‘Tukita’ Ordóñez** con tantos de cabeza. Para los dirigidos por **Ever Hugo Almeida**, Ángel Gracia puso el descuento gracias a un tiro libre.
+
+### Más noticias:
+
+* [El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-mushuc-runa-copa-ecuador.html "El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador")
+* [Mushuc Runa prioriza el título de la Copa Ecuador](https://www.elcomercio.com/deportes/futbol/mushuc-runa-copa-ecuador-chango.html "Mushuc Runa prioriza el título de la Copa Ecuador")
+* [Independiente del Valle no pudo ante Mushuc Runa](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-no-pudo-ante-mushuc-runa.html "Independiente del Valle no pudo ante Mushuc Runa")
+
+Dos de aquellos goles estuvieron involucrados en polémicas donde el VAR y los jueces del compromiso tomaron decisiones fundamentales. En el caso de uno de los goles de **Ordóñez** se tomó acción para validar el gol, mientras que el descuento de **Mushuc Runa**, este perdió a un jugador por su festejo.
+
+A las decisiones más destacadas que tomó el arbitraje también se le sumó la expulsión de **Enzo Fernández**. Aquello también se dio debido a una intervención del VAR después de que el futbolista impactara al golero David Cabezas.
+
+Una vez que se consumó la derrota del ‘Ponchito’, **Chango** brindó sus impresiones. Desde el Estadio La Cocha, que albergó el partido, este conversó con los medios de comunicación.
+
+¿Qué dijo Luis Chango sobre el arbitraje entre El Nacional y Mushuc Runa?
+-------------------------------------------------------------------------
+
+**Luis Chango** señaló que sintió que se perjudicó a su equipo con la actuación arbitral. Asimismo, sostuvo que los árbitros realizaron un ‘obsequio’ y fueron los actores principales.
+
+“**Los jugadores se sentirán perjudicados, nosotros como dirigentes, también; al igual que el cuerpo técnico. Pero este obsequio es de los señores árbitros, hay que felicitarles, ya que ellos han sido los actores**“, sostuvo el directivo[.](https://en.wikipedia.org/wiki/Mushuc_Runa_S.C. "https://en.wikipedia.org/wiki/Mushuc_Runa_S.C.")
+
+Chango, además, se refirió a los sucesos en los que estuvo en desacuerdo y detalló cuáles fueron durante el partido. Asimismo, lanzó una crítica hacia el **arbitraje ecuatoriano** y por qué este tampoco cuenta con el reconocimiento debido.
+
+“La gente pregunta por qué no pitan campeonatos mundiales… **Por estos errores, por no ser imparciales, por no estar preparados, por parcializarse hacia cierto equipo, tratar de perjudicarlos como es el caso de Mushuc Runa, expulsarles dos jugadores, casi regalarle el gol.** Esas cosas, a nivel mundial, las miran”, agregó.
+
+¿Qué paso en el duelo entre El Nacional y Mushuc Runa?
+------------------------------------------------------
+
+La primera jugada en la cual **Mushuc Runa** perdió una de sus jugadores fue la que involucró a Enzo Fernández. Este impactó el balón y al golearo **David Cabezas** cuando este tenía la pelota en sus manos. Tras revisar el VAR, el árbitro le mostró la tarjeta roja.
+
+La segunda expulsión se dio luego del gol del empate de **Ángel Gracia**. Este anotó, se dirigió a festejar hacia la tribuna y realizó gestos. Los asistentes de video llamaron al central y este decidió echar al lateral zurdo.
+
+El gol de **El Nacional**, que llegó a los 79 minutos, también contó con la intervención del VAR. Este fue revisado por un potencial fuera de juego y se lo convalidó.
+
+Niño fue secuestrado en escuela de Quito
+========================================
+
+La Policía informó sobre el niño secuestrado en una escuela de Quito.
+---------------------------------------------------------------------
+
+![El niño secuestrado en escuela de Quito tiene 11 años.](https://www.elcomercio.com/wp-content/uploads/2024/10/nino-secuestrado-escuela-quito.jpg)
+
+Un **niño** fue **secuestrado** en una **escuela** de **Quito**, informó la Policía, este miércoles 23 de octubre de 2024.
+
+La **Policía** informó sobre las acciones realizadas y el modus operandi de los sospechosos.
+
+### Más noticias:
+
+* [Dos personas transportaban droga en cartones y mochilas, en el sur de Quito](https://www.elcomercio.com/actualidad/dos-personas-transportaban-droga-sur-quito.html "Dos personas transportaban droga en cartones y mochilas, en el sur de Quito")
+* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
+* [Presunta banda fue detenida por tentativa de secuestro en Sangolquí](https://www.elcomercio.com/actualidad/seguridad/presunta-banda-detenida-tentativa-secuestro-sangolqui.html "Presunta banda fue detenida por tentativa de secuestro en Sangolquí")
+
+Policía informó del niño secuestrado en una escuela de Quito
+------------------------------------------------------------
+
+Este miércoles 23 de octubre de 2024, la Policía informó que el **secuestro de un niño** ocurrió en una **escuela** de la capital.
+
+Un hombre retiró al niño, de 11 años, sin autorización de sus padres, de un **centro educativo localizado en el sur de Quito**.
+
+La **Policía** informó que los familiares del menor presentaron la denuncia, tras conocer del secuestro.
+
+Luego de la activación de **protocolos** correspondientes y labores investigativas, se logró su ubicación y **liberación.** Las investigaciones estuvieron a cargo de **dos unidades** de la Policía.
+
+La Dirección Nacional de Delitos contra la Vida, Muertes Violentas, Desapariciones, Extorsión y Secuestro (**Dinased**) y la Unidad Anti Secuestros y Extorsión **(Unase)** intervinieron en el rescate.
+
+La Policía aprehendió a dos personas, que estarían vinculados al ilícito.
+
+Ellos solicitaban la cantidad de **5 000 dólares** para su liberación”, informó la institución.
+
+> DOS APREHENDIDOS POR EL DELITO DE SECUESTRO EN QUITO  
+>   
+> Luego de la activación de protocolos correspondientes y labores investigativas entorno al secuestro de un adolescente, se logró su ubicación y liberación, en la ciudad de [#UIO](https://twitter.com/hashtag/UIO?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 👉Durante la intervención fueron aprehendidos… [pic.twitter.com/ueHL2PVsL5](https://t.co/ueHL2PVsL5)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 23, 2024](https://twitter.com/PoliciaEcuador/status/1849058092517896373?ref_src=twsrc%5Etfw)
+
+Nayely Bolaños se concentra en la Selección y en su futuro
+==========================================================
+
+Nayely Bolaños fue una de las goleadoras de la Copa Libertadores Femenina que se jugó en Paraguay.
+--------------------------------------------------------------------------------------------------
+
+![Nayely Bolaños celebra un gol marcado con Dragonas Independiente en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_mexico_1.jpg)
+
+**Nayely Bolaños** es una de las principales figuras con las que cuenta el fútbol femenino ecuatoriano en la actual temporada, tanto con Dragonas Independiente, como con la Selección de Ecuador absoluta.
+
+Con Dragonas Independiente, **Nayely Bolaños lo cerró con el título de la Superliga Femenina**, y en la Copa Libertadores en Asunción, Paraguay, con un histórico e inédito cuarto puesto.
+
+### Más noticias:
+
+* [Nayely Bolaños superó dos graves lesiones antes de triunfar](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-dragonas-independiente-lesiones.html "Nayely Bolaños superó dos graves lesiones antes de triunfar")
+* [Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-atletico-mineiro-golean-river-plate-copa-libertadores.html "Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores")
+* [La Selección de Ecuador Femenina sub-17 se cita con España](https://www.elcomercio.com/deportes/futbol/ecuador-espana-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 se cita con España")
+
+En la Superliga Femenina, Bolaños fue clave a lo largo de toda la temporada. En las finales ante Barcelona Sporting Club marcó un triplete en la final de vuelta, para sellar el definitivo y categórico 5-0 con el que lograron su primer título.
+
+En la Libertadores fue la **goleadora del club y la segunda de todo el torneo con cuatro tantos** en seis juegos, solo uno por detrás de la brasileña Gabi Zanotti, campeona con Corinthians y máxima anotador con cinco.
+
+Dragonas igualaron la **mejor participación de un equipo ecuatoriano en la Libertadores**. En el 2010, en Brasil, Deportivo Quito logró un histórico cuarto puesto, algo que las del Valle igualaron y a punto estuvieron de mejorar.
+
+En las semifinales empataron en los **90 minutos 1-1 contra Independiente Santa Fe de Colombia**, pero en los lanzamientos penales las colombianas fueron más efectivas y se llevaron la llave y el boleto a la final por 4-2.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolanos_mexico_2-1024x683.jpg)
+
+Foto: API.
+
+Nayely Bolaños tiene ofertas del exterior
+-----------------------------------------
+
+Una vez que finalizó su participación en la Libertadores, **Nayely Bolaños se reportó en la Casa de la Selección en Quito** para afrontar la doble fecha FIFA de selecciones.
+
+La Tri enfrentará a Chile en Quito en dos amistosos. El viernes 25, desde las 11:00, **hará de local en el estadio de Dragonas Independiente**; mientras que el lunes 28, desde las 10:00, otra vez será local, pero esta vez en el Rodrigo Paz Delgado.
+
+Mayerli Rodríguez, Karen Litardo y Yaritza Valencia, son las otras tres jugadoras de Dragonas que fueron citadas por el entrenador colombiano Andrés Usme.
+
+El nivel mostrado por **Bolaños no es ajeno en el fútbol del exterior** y está siendo observada para contar con su talento para la siguiente temporada.
+
+Fuentes consultadas por EL COMERCIO y Bendito Fútbol, confirmaron que la goleadoras tiene **ofertas de clubes de Brasil y México**, con una gran opción de dejar el país para mudarse al norte del continente, aunque nada está concreto y tampoco cerrado.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBMEa39OmNM/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBMEa39OmNM/?utm_source=ig_embed&utm_campaign=loading)
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Parada de la Ecovía vuelve a operar este miércoles 23 de octubre
-================================================================
+Los generadores eléctricos contaminan en dos niveles el ambiente de Quito
+=========================================================================
 
-Recuerda que la Ecovía funciona en un horario de 05:00 a 22:00 de lunes a viernes y sus alimentadores operan de 05:00 a 22:30.
-------------------------------------------------------------------------------------------------------------------------------
+Los cortes de luz provocan que las personas busquen maneras de iluminar sus hogares y oficinas.
+-----------------------------------------------------------------------------------------------
 
-![En la parada Eloy Alfaro se colocó una estación provisonal de pasajeros.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-14-2.jpg)
+![Los generadores eléctricos son una alternativa para iluminar los hogares.](https://www.elcomercio.com/wp-content/uploads/2024/10/Generadores-electricos-contaminacion.jpg)
 
-El **Municipio de Quito** interviene el Sistema de Transporte Ecovía. Esto incluye la repotenciación de las paradas del Corredor así como el **hormigonado en el carril exclusivo**, en la av. 6 de Diciembre.
+Con los cortes de luz en **Quito**, las personas buscan diferentes maneras de continuar con sus **actividades**, ya sea por trabajo, estudio o simplemente ocio. Muchos optaron por adquirir **generadores** de **electricidad** para lograrlo[.](https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico")
 
-### Más noticias
+Más noticias
+------------
 
-* [Un incendio se registró en El Panecillo este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/incendio-quito-el-panecillo-miercoles-23-de-octubre.html "Un incendio se registró en El Panecillo este miércoles 23 de octubre")
-* [Cortes de agua en Quito este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-miercoles-23-de-octubre.html "Cortes de agua en Quito este miércoles 23 de octubre")
-* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
+* [Empleadores y trabajadores deben acordar el cambio de horarios por cortes de luz](https://www.elcomercio.com/actualidad/negocios/empleadores-y-trabajadores-deben-acordar-el-cambio-de-horarios-por-cortes-de-luz.html "Empleadores y trabajadores deben acordar el cambio de horarios por cortes de luz")
+* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
+* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
 
-Apertura de la parada
----------------------
+El uso de **generadores de electricidad**, aunque proporciona luz a los ciudadanos, también contamina el ambiente en dos niveles, tanto el aire como **auditivamente**. Esto es lo que dicen los expertos y las autoridades de Quito sobre el tema.
 
-La Empresa Metropolitana de **Transporte de Pasajeros** de Quito informó que, a partir de este miércoles 23 de octubre de 20024, se habilita definitivamente la parada Eloy Alfaro.
+Contaminación de los generadores eléctricos en Quito
+----------------------------------------------------
 
-La parada se cerró mientras se realiza la **rehabilitación del Carril Exclusivo** de la Ecovía; sin embargo, debido al avance de la obra, la parada se abre al servicio.
+Para entender cómo afecta el uso de generadores al **ambiente de Quito**, es necesario conocer cuánto contaminan estos aparatos.
 
-Mientras duró el cierre, la Empresa de Pasajeros habilitó una **parada provisional** para el servicio de los usuarios. Esta será ya inhabilitada luego de la apertura de la parada.
+Según **Francisco Aguirre**, experto ambiental de **SICMA**, empresa consultora en sostenibilidad ambiental de Ecuador, los **generadores eléctricos** que funcionan con **combustibles fósiles**, como **diésel** o **gasolina**, emiten gases de efecto invernadero como dióxido de carbono (**CO2**), óxidos de nitrógeno (**NOx**) y monóxido de carbono (**CO**), y contribuye al cambio climático.
 
-> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Este 23 de octubre se habilitará la parada Eloy Alfaro de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Más información aquí👉[https://t.co/mZ1vQNVKUk](https://t.co/mZ1vQNVKUk)[#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/x27FXxE8AE](https://t.co/x27FXxE8AE)
-> 
-> — Empresa de Pasajeros Quito (@TransporteQuito) [October 23, 2024](https://twitter.com/TransporteQuito/status/1849077099530690912?ref_src=twsrc%5Etfw)
+En cuanto a la emisión de **contaminantes atmosféricos**, los generadores liberan material particulado, **óxidos** de **nitrógeno** y **óxidos** de **azufre**.
 
-Paradas cerradas
-----------------
+La presencia de estos elementos en altas concentraciones puede causar impactos como **lluvias ácidas** y **problemas respiratorios** en las personas.
 
-Las paradas **Bellavista y La Paz,** en el norte de Quito, también se cerraron provisionalmente al público. Este cierre responde a los **trabajos de hormigonado** que ejecuta la Empresa Metropolitana de Obras Públicas (Epmmop) en el carril exclusivo de la Ecovía.
+Si no se realiza un mantenimiento adecuado de estos equipos, pueden ocurrir contingencias como **derrames de aceite** y **combustibles**, “lo cual provoca **contaminación** del **suelo** y el **agua**“.
 
-Bellavista y La Paz estarán cerradas por 15 días a partir de la fecha del cierre.
+Además, los generadores provocan altos **niveles de ruido**, de entre 60 y 90 decibeles, lo cual afecta a las personas cercanas a los equipos.
 
-La parada Pujilí **tendrá un cierre de aproximadamente 35 días** a partir [del 20 de octubre.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") En ella, se realizarán adecuaciones, como parte de la repotenciación de las estaciones.
+Consumo y funcionamiento de los generadores eléctricos
+------------------------------------------------------
 
-La repotenciación de esta parada **se realiza con el objetivo de brindar un mejor servicio** de movilización a los quiteños. Además, velar por su seguridad en sus espacios y fortalecer la atención de calidad.
+Aguirre explica que un **generador doméstico** promedio consume aproximadamente dos litros de **diésel** por hora, lo que equivale a emitir 52 kg de **dióxido de carbono.**
 
-> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Este domingo 20 de octubre, cerramos las paradas del corredor [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw): Pujilí, Bellavista y La Paz.  
->   
-> Más información aquí👉[https://t.co/E1KWzk28o2](https://t.co/E1KWzk28o2) 🗞️[#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7ID1zZwmkX](https://t.co/7ID1zZwmkX)
-> 
-> — Empresa de Pasajeros Quito (@TransporteQuito) [October 19, 2024](https://twitter.com/TransporteQuito/status/1847465595056353490?ref_src=twsrc%5Etfw)
+A escala **industrial**, el impacto es mayor: un generador mediano de aproximadamente 1 500 kWh consume 227 litros de **diésel** por hora, lo que en una jornada de ocho horas equivale a emitir unos 5 000 kg de **dióxido de carbono** a la atmósfera, lo cual afecta la capa de ozono.
 
-Próximos cierres
-----------------
+¿Qué dice la autoridad de Quito sobre este tema?
+------------------------------------------------
 
-A partir del 28 de octubre, la Empresa de Pasajeros habilitará una parada provisional para embarque y desembarque en la **parada Baca Ortiz**. Esta se cerrará a partir del 1 de noviembre.
+Desde la **Secretaría de Ambiente** informaron que el ambiente de **Quito** se ve afectado por el uso de los **generadores eléctricos**, pero que el aire está dentro de los parámetros aceptables para que el ser humano pueda vivir.
 
-Además, a partir del 29 de octubre se suspenderá la **parada Manuela Cañizares**, debido al inicio de los trabajos que ejecuta el Municipio de Quito.
+Aunque, recalcaron que las personas que tienen **enfermedades respiratorias** deben tener los debidos cuidados para evitar **afectaciones a su salud.**
 
-Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas
-==========================================================================================
+Rosa Fonseca, técnica de la **Secretaría de Ambiente**, señala que deben seguirán monitoreando el ambiente de Quito para ver cómo impacta el uso de los generadores en contaminación.
 
-La polémica se reavivó estos días en Ecuador tras comenzar un juicio político en la Asamblea Nacional contra la ministra del Interior de Ecuador, Mónica Palencia.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Claudia-Shienbaum-10-octubre-1.jpg)
-
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-niega-ambiente-guerra-sur-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-niega-ambiente-guerra-sur-mexico.html"), avisó este miércoles, 23 de octubre de 2024, que su Gobierno insistirá en un **salvoconducto** para el **exvicepresidente ecuatoriano Jorge Glas** (2013-2017). y en la demanda que presentó el exmandatario **Andrés Manuel López Obrador** (2018-2024) contra Ecuador.
-
-### Más noticias
-
-* [Claudia Sheinbaum niega un ambiente de ‘guerra’ en el sur de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-niega-ambiente-guerra-sur-mexico.html "Claudia Sheinbaum niega un ambiente de ‘guerra’ en el sur de México")
-* [Claudia Sheinbaum promete ‘buena relación’ con China](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-promete-buena-relacion-china.html "Claudia Sheinbaum promete ‘buena relación’ con China ")
-* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.")
-
-“Sí, lo dije desde la campaña (que pedía el salvonducto para Glas). Cuando **ganamos la elección** y ahora como presidenta”, respondió la **gobernante mexicana** a pregunta expresa en su conferencia matutina.
-
-Las **declaraciones de Sheinbaum** contrastan con las de la ministra de Relaciones Exteriores y Movilidad Humana de Ecuador, Gabriela Sommerfield. El martes expresó que confía en que **México esté representado en la XXIX Cumbre Iberoamericana**, que será en la ciudad ecuatoriana de Cuenca el 14 y 15 de noviembre.
-
-“Ecuador siempre ha estado listo para **sentarnos a conversar** con toda la situación que ambos países vivieron y con la verdad sobre la mesa para encontrar soluciones”, comentó Sommerfeld en una entrevista.
-
-Seguirá la demanda
-------------------
-
-Pero Sheinbaum, quien asumió el cargo el 1 de octubre, advirtió que **su Gobierno seguirá con la demanda** que presentó el Gobierno de México ante la **Corte Internacional de Justicia (CIJ)** contra Ecuador. Esto tras la irrupción el 5 de abril pasado de la policía ecuatoriana en la Embajada mexicana en Quito, donde se resguardaba Glas.
-
-Este hecho, que **México considera una “invasión”**, derivó en la ruptura de relaciones diplomáticas.
-
-“Y también (seguirá) todo lo que interpuso el Gobierno del presidente Andrés Manuel López Obrador en instancias internacionales ante la **violación a la soberanía** de nuestro país en el caso de la Embajada de México en Ecuador”, declaró la mandataria.
-
-Juicio político en la Asamblea Nacional
----------------------------------------
-
-La polémica se reavivó estos días en Ecuador, donde este miércoles, 23 de octubre de 2024, comenzó un juicio político en la **Asamblea Nacional** contra la **ministra del Interior de Ecuador, Mónica Palencia**, quien también es ciudadana mexicana, por presunto incumplimiento de funciones y por la incursión policial en la Embajada de México.
-
-Además, la **Comisión Interamericana de Derechos Humanos (CIDH)** anunció el viernes pasado una **visita a Ecuador** para conocer la situación de Glas, **exvicepresidente del entonces mandatario Rafael Correa** y condenado por corrupción, por lo que permanece en La Roca, la cárcel de máxima seguridad del país.
-
-Viuda de ‘Rasquiña’, exlíder de Los Choneros, fue sentenciada
-=============================================================
-
-Alias ‘Rasquiña’ fue asesinado cinco meses después de haber conseguido la prelibertad.
---------------------------------------------------------------------------------------
-
-![Samara Rivera es la viuda de ‘Rasquiña’ y este miércoles se conoció su futuro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Samara-Rivera-viuda.jpg)
-
-El **Tribunal Penal del Guayas** decidió este miércoles 23 de octubre de 2024 sobre el futuro de **Samara** **Rivera**, viuda de alias ‘**Rasquiña**‘.
-
-### Más noticias
-
-* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
-* [Operativos en Durán y Manta se realizan ante la inseguridad](https://www.elcomercio.com/actualidad/seguridad/operativos-duran-manta-inseguridad.html "Operativos en Durán y Manta se realizan ante la inseguridad")
-* [Viuda de alias ‘Rasquiña’, Samara R., conocerá su sentencia ¿De qué se le acusa?](https://www.elcomercio.com/actualidad/seguridad/viuda-alias-rasquina-sentencia.html "Viuda de alias ‘Rasquiña’, Samara R., conocerá su sentencia ¿De qué se le acusa?")
-
-La decisión se tomó después de escuchar los argumentos presentados por la **Fiscalía General** del **Estado**.
-
-¿Por qué se investigaba a la viuda de ‘Rasquiña’?
--------------------------------------------------
-
-Durante la audiencia telemática, la **Fiscalía** argumentó que la viuda de ‘**Rasquiña**‘ se había contactado con sus abogados, un funcionario del **SNAI** y el exdirector de la Penitenciaría del Litoral, **Héctor R**., para conseguir la **prelibertad** de su pareja, quien era líder del grupo delictivo **Los Choneros.**
-
-‘**Rasquiña**‘ obtuvo su **prelibertad** en 2020, cuando dejó la cárcel regional de **Cotopaxi** gracias a un **beneficio penitenciario.**
-
-En consecuencia, en 2021 comenzó un proceso en contra de la viuda de Zambrano, Héctor R. y Jefferson H. por asociación ilícita.
-
-Las autoridades también abrieron un proceso contra dos abogados involucrados. Uno de ellos, Harrison Salcedo, fue asesinado en **Quito** en 2021, mientras participaba vía telemática en la **audiencia del caso.**
-
-T**anto Héctor R. como Jefferson H.** fueron sentenciados a tres años de cárcel por **asociación** **ilícita** en calidad de coautores.
-
-¿Qué pasó con la viuda de ‘Rasquiña’?
--------------------------------------
-
-El Tribunal Penal sentenció a **Samara** **Rivera** a cinco años de prisión por **asociación ilícita**, además de imponerle una multa de 4 600 dólares.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Tribunal acoge las pruebas presentadas por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y dicta sentencia de 5 años de prisión –en grado de autora mediata– para Samara R. S.; mientras que a Héctor R. V. y Jefferson H. G. –como coautores– los condena a 3 años de pena privativa de libertad. [pic.twitter.com/80KFqBZQbH](https://t.co/80KFqBZQbH)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 23, 2024](https://twitter.com/FiscaliaEcuador/status/1849125416931385767?ref_src=twsrc%5Etfw)
-
-¿Quién era ‘Rasquiña’?
-----------------------
-
-**José Luis Zambrano González**, alias ‘**Rasquiña**‘ o ‘**JL**‘, era identificado por la **Policía** como el **cabecilla** de la banda delictiva **Los** **Choneros**, que operaba en Manabí, Los Ríos, Guayas y parte de Esmeraldas.
-
-Su muerte ocurrió el 28 de diciembre de 2020, cinco meses después de haber recuperado su **libertad**. Alias ‘**JL**‘ fue **acribillado** en una cafetería ubicada en la zona comercial de **Manta**.
-
-**Zambrano** estuvo en prisión desde 2011 hasta junio de 2020. La **Fiscalía** lo acusó de un crimen en Manta y la Corte Provincial de **Manabí** lo sentenció a 20 años como coautor.
-
-Aunque la pena fue ratificada por la **Corte** **Nacional**, un juez de **Guayaquil** la disminuyó a 8 años al identificar a **Zambrano** como cómplice y aplicar el principio de **favorabilidad**.
-
-En junio de 2020, una jueza le otorgó la **prelibertad**, un beneficio penitenciario aplicable a los internos que han cumplido más del 60% de su sentencia.
-
-Según información policial, mientras estuvo en prisión, ‘**Rasquiña**‘ siguió dirigiendo operaciones de **narcotráfico** y **delincuencia organizada.**
-
-Sin embargo, desde su **liberación**, el segundo cabecilla de la organización, alias ‘**Fito**‘, y otro colaborador habrían adquirido más poder, lo que generó una disputa interna con **Zambrano**, según informes de **Inteligencia policial.**
-
-Estas son las cifras del empleo adecuado en Ecuador
-===================================================
-
-De cada 100 plazas de empleo asalariado, 84 fueron generadas por el sector privado, según la última publicación del INEC.
--------------------------------------------------------------------------------------------------------------------------
-
-![En el área urbana, 2 569 004 personas tienen un empleo adecuado, de acuerdo con este informe del INEC.](https://www.elcomercio.com/wp-content/uploads/2023/03/Feria-Empleo-Ecuador-Sin-Fronteras.jpg)
-
-El empleo adecuado mejoró en **Ecuador**, en septiembre de 2024. El indicador alcanzó el 36,1% de la **Población Económicamente Activa**, según el informe publicado por el I**nstituto Nacional de Estadística y Censos (INEC).**
-
-En septiembre de 2023 estuvo en el 35,5% y en agosto de 2024 fue del 34,3%.
-
-En el área urbana, 2 569 004 personas tuvieron en septiembre un empleo adecuado, de acuerdo con este informe del INEC. En el área rural fueron otras 586 109.
-
-### Más noticias
-
-* [Llegada de cruceros a Manta dinamiza la economía de la región](https://www.elcomercio.com/actualidad/ecuador/cruceros-manta-temporada-economia.html "Llegada de cruceros a Manta dinamiza la economía de la región")
-* [Un difícil cuarto trimestre para la economía de Ecuador](https://www.elcomercio.com/opinion/editorial/dificil-cuarto-trimestre-economia-ecuador.html "Un difícil cuarto trimestre para la economía de Ecuador")
-* [BRICS piden reforma de ONU y mayor participación de América Latina y Asia](https://www.elcomercio.com/actualidad/mundo/brics-piden-reforma-onu-mayor-papel-latina-asia-asuntos-mundiales.html "BRICS piden reforma de ONU y mayor participación de América Latina y Asia")
-
-Las características del empleo en Ecuador
------------------------------------------
-
-En septiembre de 2024, de cada 100 plazas de empleo asalariado, 84 fueron generadas por el sector privado y 16 por el público. Esta composición prácticamente no ha cambiado en **Ecuador**.
-
-La tasa de empleo adecuado se ubicó en 42,3% para los **hombres** y 27,6% para las **mujeres**.
-
-El **ingreso laboral** promedio de un hombre con empleo adecuado es de 518,3 dólares y para la mujer es menor y se ubica en 431,9 dólares.
-
-En el caso de **horas trabajadas** también hay diferencias. El promedio semanal para los hombres es de 36 horas y para las mujeres de 30.
-
-Según el **Instituto Nacional de Estadística y Censos (INEC)**, una persona tiene un empleo adecuado si percibe un **ingreso laboral** igual o superior al **salario mínimo**. Además, trabaja 40 horas o más a la semana, o menos de 40 horas, pero no desea trabajar más.
-
-Esta categoría incluye tanto a quienes laboran a **tiempo completo** como a aquellos que, aunque trabajan menos, no buscan aumentar su carga horaria.
-
-Líder de Los Tiguerones tenía una vida de lujos en España
+Angelo Preciado sufre dura derrota en la Champions League
 =========================================================
 
-La Policía informó sobre el operativo para detener al líder de Los Tiguerones.
+El ecuatoriano sufrió su primera derrota en la presente Uefa Champions League.
 ------------------------------------------------------------------------------
 
-![La Policía dio una rueda de prensa y entregó detalles sobre la captura de líderes de Los Tiguerones.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-16.jpg)
+![Angelo Preciado (der.) en el partido entre el Manchester City y el Sparta Praga por la Champions League](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-23T175930.890.jpg)
 
-El cabecilla de **Los Tiguerones**, William A. B., alias **‘Comandante Willy’**, fue capturado en España, con la actuación de la **Policía de Ecuador** y la Guardia Civil de ese país[.](https://es.wikipedia.org/wiki/Ecuador)
+**Angelo** **Preciado** sufrió una dura derrota en la tercera jornada de la **Uefa Champions League**. El Sparta Praga, equipo de República Checa en el que milita el ecuatoriano, cayó 5-0 en su visita al Manchester City en Inglaterra.
 
-En las labores también detuvieron al hermano del líder de la organización delictiva, **Álex Iván**, alias **‘Ronco’**, segundo al mando del grupo criminal. 
-
-### Más noticias
-
-* [Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones")
-* [Fiscalía procesa a supuestos miembros de Los Tiguerones por secuestro extorsivo](https://www.elcomercio.com/actualidad/seguridad/fiscalia-procesa-tiguerones-secuestro-extorsivo.html "Fiscalía procesa a supuestos miembros de Los Tiguerones por secuestro extorsivo")
-* [Policía capturó a siete presuntos miembros de Los Tiguerones, en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-siete-presuntos-miembros-los-tiguerones.html "Policía capturó a siete presuntos miembros de Los Tiguerones, en Guayaquil")
-
-> 🔴 [#ENVIVO](https://twitter.com/hashtag/ENVIVO?src=hash&ref_src=twsrc%5Etfw)  
->   
-> DETALLES DE LA CAPTURA DE WILLIAM A., ALIAS "COMANDANTE WILLY" Y ALEX A., ALIAS "RONCO", OBJETIVOS DE ALTO VALOR  
->   
-> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw), informamos detalles de la intervención policial ejecutada en [#España](https://twitter.com/hashtag/Espa%C3%B1a?src=hash&ref_src=twsrc%5Etfw), que permitió la detención de alias "Comandante Willy", cabecilla… [pic.twitter.com/2LwCUCFhXh](https://t.co/2LwCUCFhXh)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 23, 2024](https://twitter.com/PoliciaEcuador/status/1849144975059001619?ref_src=twsrc%5Etfw)
-
-### Los Tiguerones y el ‘Comandante Willy’
-
-Los hombres fueron detenidos en un operativo coordinado en **España**. Ellos se encontraban de forma clandestina, utilizando documentación falsa.
-
-Este miércoles, 23 de octubre de 2024, la Policía informó que alias **‘Comandante Willy’** y su hermano obtenían dinero del narcotráfico, secuestros y extorsiones.
-
-Entre los sitios donde operaban está **Nueva Prosperina**, en la provincia de Guayas. Según datos de la Policía, los ahora detenidos llevaban una vida con lujos.
-
-La operación se denominó **Gran Fénix 43**, que se desarrolló el 22 de octubre, a las 05:00 (22:00 de Ecuador), en Cataluña. La **Dirección Nacional especializada en la Resolución de casos de Secuestro y Extorsión**, en coordinación con el Servicio de Información de la Guardia Civil de España, fue la encargada.
-
-Los detalles de la jornada
---------------------------
-
-Hasta este 23 de octubre de 2024, 11 de los 18 objetivos considerados de alto valor ya han sido detenidos. Entre ellos, el cabecilla de **Los Tiguerones**.
-
-El líder de la agrupación tenía **órdenes internacionales de captura** por los delitos de asesinato y delincuencia organizada.
-
-Alias **‘Ronco’** no registraba antecedentes, pero también contaba con pedidos de la justicia por secuestro extorsivo, delincuencia organizado y asesinato.
-
-En la operación, las personas intentaron **evadir las acciones**, pero fueron neutralizados. Luego de la detención, los hermanos entran a un proceso de **extradición**, salvo que se verifiquen delitos en **España**.
-
-Ese trámite pasa por el **ámbito judicial** y, luego, político. Aún no se conoce cuánto tiempo tomará.
-
-La Policía añadió que los dos líderes de la organización delictiva son de Esmeraldas. Esta provincia era su bastión, principalmente, en **La Guacharaca**. Amenazaban a autoridades. También está en investigación los nexos con grupos de **México y Colombia**.
-
-Además, desde la **Policía** se aseguró que habrá otros resultados muy pronto. Alias Pipo sería uno de los objetivos cercanos.
-
-Las investigaciones
--------------------
-
-Según las investigaciones policiales, alias **‘Comandante Willy’** habría salido de Ecuador por Colombia. En España, el hombre permaneció por un año y dos meses.
-
-En ese país empezó negocios para camuflar su **situación ilícita**. Entre estos, actividades de limpieza y donde podían aglomerar a personas.
-
-Los hombres vivían en una zona residencial y se movilizaban en **vehículos de alta gama**.
-
-La operación de los detenidos
------------------------------
-
-Alias **‘Comandante Willy’**, de 35 años, era el encargado de la planificación de los actos terroristas de **Los Tiguerones**. 
-
-**Alex Iván**, alias ‘Ronco’, de 33 años, coordinaba los sicariatos y extorsiones al interno de la organización.
-
-La institución policial, además, indicó que ambos están vinculados en casos como la colocación de coches bomba y el asalto a la cadena **TC Televisión**, el 9 de enero de 2024.
-
-Organización considerada como terrorista
-----------------------------------------
-
-El gobierno de **Daniel Noboa** declaró a **Los Tiguerones** como una organización terrorista. Esta se encuentra vinculada al asesinato de un fiscal ecuatoriano que investigaba su accionar.
-
-La Policía cuenta con evidencias como dispositivos celulares, **7 710 euros**, documentos de viaje falsificados, una laptop y comprobantes de transacciones bancarias.
-
-Moisés Ramírez de Independiente del Valle interesa en México
-============================================================
-
-Moisés Ramírez, arquero de Independiente del Valle, despierta interés en el extranjero para la temporada venidera.
-------------------------------------------------------------------------------------------------------------------
-
-![Moisés Ramírez, arquero de Independiente del Valle, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T122458.264.jpg)
-
-**Moisés Ramírez** puede tener la chance de cambiar de aires y dejar el fútbol ecuatoriano. El arquero de **Independiente del Valle y la Selección de Ecuador** despierta interés en México, donde un tradicional club busca sus servicios.
-
-A sus 24 años, el arquero oriundo de Guayaquil disputa su cuarta temporada con el primer equipo de los rayados desde que retornó al club. Con estos, el futbolista disputa la Liga Pro, donde ganó la primera etapa con su club, y la **Copa Ecuador.**
+**Erling** **Haaland** se vistió de Zlatan Ibrahimovic, se puso el traje del sueco y marcó un gol acrobático de tacón, como el que hizo el genio de Malmoe a Italia en la Eurocopa de 2004, para contribuir a la victoria de su visita.
 
 ### Más noticias:
 
-* [Kendry Páez pierde protagonismo en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-pierde-protagonismo-en-independiente-del-valle.html "Kendry Páez pierde protagonismo en Independiente del Valle")
-* [Independiente del Valle da un paso en las semifinales de Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-vallle-copa-ecuador.html "Independiente del Valle da un paso en las semifinales de Copa Ecuador")
-* [Dragonas Independiente, semifinalistas de la Libertadores Femenina](https://www.elcomercio.com/deportes/futbol/dragonas-independiente-semifinales-libertadores-femenina.html "Dragonas Independiente semifinalistas de la Libertadores Femenina")
+* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
+* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
+* [Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions](https://www.elcomercio.com/deportes/futbol/raphinha-brilla-goleada-fcbarcelonal-bayern-munich-champions.html "Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions")
 
-A partir de su rendimiento con el conjunto de Sangolquí y lo conseguido en las pasadas campañas, este ha llamado la atención de clubes en el extranjero. De acuerdo al periodista Stalin Cobeña de la radio Mundo Deportivo, el **Puebla de México** busca incorporar al golero para el 2025.
+El noruego **acumula ya 44 goles** en 42 partidos en Liga de Campeones, con apenas 21 años, camino de romper todos los registros de una competición en la que el City ya se codea con los equipos de arriba y es tercero con siete puntos, a dos de los líderes de la fase de grupos, Aston Villa y Liverpool.
 
-De darse el fichaje de **Moisés Ramírez** por la escuadra azteca, esta sería su segunda experiencia en el extranjero. Antes de debutar en el conjunto rayado, después de ganar el Sudamericano Sub-20 con la Tri, este fue cedido al Real Sociedad de España, donde jugó en su equipo filial.
+Manchester City goleó y gustó
+-----------------------------
 
-Moisés Ramírez con Independiente del Valle
-------------------------------------------
+Pep Guardiola, que hizo rotaciones y solo dejó a cinco jugadores de campo en el banquillo, ante las lesiones de Jack Grealish y Jeremy Doku, confió por fin en **Matheus Nunes** y el portugués respondió con dos asistencias y un gol, lo que unido al doblete de **Haaland** y los tantos de Phil Foden y John Stones desarmó a un Sparta de Praga que bastante hizo con aguantar durante más de cincuenta minutos el 1-0.
 
-**Moisés Ramírez** realizó su proceso formativo con _Independiente del Valle_ y debutó a los 17 años en 2018 con la escuadra. El futbolista realizó su estreno ante **Aucas** y en un compromiso en el cual el conjunto de Sangolquí cayó por 3-1 ante los orientales.
+Porque el **City no tardó ni tres minutos en abrir la cuenta goleadora,** con un disparo raso de Phil Foden, que hizo su tanto número 17 en la competición y superó las dianas de David Beckham, eso sí, con 24 partidos menos que la leyenda del Manchester United.
 
-A partir de aquel momento, Ramírez volvió a tener llamados y alterno en la portería. A inicios de 2019 se llevó a cabo su cesión hacia el **Real Sociedad**, donde permaneció una temporada y tras la que retornó al plantel negriazul en 2020.
+> ¿¿GOL DEL AÑO?? ¡¡QUÉ LOCURA EL GOLAZO DE HAALAND, POR FAVOR!!  
+>   
+> 📺 Mirá la [#Champions](https://twitter.com/hashtag/Champions?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/U6d5QO4VKm](https://t.co/U6d5QO4VKm)
+> 
+> — SportsCenter (@SC\_ESPN) [October 23, 2024](https://twitter.com/SC_ESPN/status/1849183384888582324?ref_src=twsrc%5Etfw)
 
-Con Independiente, Ramírez acumula 165 partidos de los cuales 67 han terminado sin que encaje goles. A su vez, con el club ha ganado una **Copa Sudamericana**, una Recopa, una Liga Pro, una Copa Ecuador y una Supercopa Ecuador.
+Al City, que pudo recibir algún tanto a la contra, le costó acabar de sentenciar el partido. A Nathan Aké le anularon un gol por mano previa y fue Haaland el que, en el minuto 58, se inventó una genialidad.
 
-¿Cuál es el equipo que busca a Moisés Ramírez?
-----------------------------------------------
+En un centro de Savinho, el noruego remató casi sin mirar y con el tacón de espaldas. Un **gol “Zlatanesco”,** que recordó al que el sueco le hizo a Italia en la ya lejana Euro de 2004. Y encima casi ni lo celebró, como si fuera lo más normal del mundo.
 
-El **Puebla** de México se encuentra en la primera división de la Liga MX. En Torneo Apertura, que se lleva a cabo en el segundo semestre de este 2024, el equipo ocupa la decimocuarta posición entre 18 equipos.
+Esa maravilla claramente calmó a los ‘Sky Blues’, que en los diez minutos siguientes hicieron otros dos, primero con un remate bombeado de John Stones, que ha marcado en dos partidos seguidos, y el cuarto llegó por medio de **Haaland** con una definición más habitual desde dentro del área.
 
-En la escuadra blanquiazul ya han estado otros jugadores ecuatorianos con anterioridad. Nombres como el de **Félix ‘Canguro’ Borja, Segundo Alejandro Castillo y Jaime Iván Kaviedes** formaron parte de la institución, a ellos se les suman los de Armando Wila y Marlón de Jesús.
+El ‘nueve’ atesora 44 goles en esta competición, con lo que supera a Neymar (43) e iguala a Didier Drogba (44). El siguiente en la lista es Mohamed Salah, con 45, y después tendrá a Filippo Inzaghi y Eusebio con 46 ambos.
 
-Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS
-===============================================================================
+Angelo Preciado cometió un penal
+--------------------------------
 
-El asesor del Kremlin para Asuntos Internacionales, Yuri Ushakov, señaló horas antes que Putin y Maduro hablarán de "asuntos bilaterales".
-------------------------------------------------------------------------------------------------------------------------------------------
+A diez minutos para el final, Guardiola le cambió y el noruego se quedó sin unirse a Vinícius y Raphinha como los autores de un ‘hat trick’ esta jornada de ‘**Champions**‘.
 
-![El presidente ruso Vladimir Putin (R) da la bienvenida al presidente de Venezuela, Nicolás Maduro, antes de su reunión al margen de la cumbre de los BRICS en Kazán, Rusia, el 23 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/maduro-brics.jpg)
+Y le dolería aún más cuando **Angelo Preciado derribó a Nunes dentro del área y hubo penalti** para el City. Penalti que, sin Haaland en el campo, transformó el portugués para su mejor noche como ‘cityzen’, dos asistencias, un penalti provocado y un gol.
 
-El mandatario de Venezuela, [Nicolás Maduro](https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html "https://www.elcomercio.com/actualidad/politica/asamblea-aprueba-resolucion-solicitar-orden-detencion-nicolas-maduro.html"), se reunió este miércoles con los **presidentes de Bielorrusia, Alexandr Lukashenko; Palestina, Mahmud Abás; y Turquía, Recep Tayyip Erdogan,** en los márgenes de la cumbre BRICS en Kazán.
+El City, tras tres partidos, tiene siete puntos y es tercero en la clasificación, solo por detrás del Villa y el Liverpool.
+
+Kamala Harris dará un mitin electoral en la Explanada Nacional de Washington
+============================================================================
+
+Harris dará un discurso con el que quiere enfatizar el contraste entre ella y su rival republicano, Donald Trump.
+-----------------------------------------------------------------------------------------------------------------
+
+![Kamala Harris en una fotografía de archivo en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-efe-octubre-1.jpg)
+
+[Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html") dará un **simbólico mitin electoral** en la Explanada Nacional de Washington el próximo 29 de octubre, cuando falte una semana exacta para las elecciones, informaron medios locales.
 
 ### Más noticias
 
-* [BRICS piden reforma de ONU y mayor participación de América Latina y Asia](https://www.elcomercio.com/actualidad/mundo/brics-piden-reforma-onu-mayor-papel-latina-asia-asuntos-mundiales.html "BRICS piden reforma de ONU y mayor participación de América Latina y Asia")
-* [Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS](https://www.elcomercio.com/actualidad/mundo/putin-intenta-romper-aislamiento-guerra-cumbre-brics.html "Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS")
-* [Vladímir Putin asume su quinto mandato presidencial](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html")
+* [Kamala Harris anunciará un plan para que los latinos alcancen el ‘sueño americano’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html "Kamala Harris anunciará un plan para que los latinos alcancen el ‘sueño americano’")
+* [Marc Anthony votará por Kamala Harris y alerta a latinos sobre Trump](https://www.elcomercio.com/actualidad/mundo/marc-anthony-votara-kamala-harris-alerta-latinos-trump.html "Marc Anthony votará por Kamala Harris y alerta a latinos sobre Trump")
+* [Tribunal publica documentos del rol de Trump en el asalto al Capitolio](https://www.elcomercio.com/actualidad/mundo/tribunal-publica-documentos-rol-trump-asalto-capitolio.html "Tribunal publica documentos del rol de Trump en el asalto al Capitolio")
 
-El líder venezolano, quien ya llegó a la capital tártara, también se entrevistó con el **primer ministro etíope, Abiy Ahmed**, informó la agencia TASS.
+El escenario escogido por la vicepresidenta estadounidense tiene un **gran simbolismo** porque es el espacio donde se encuentra la **Casa Blanca, el Capitolio,** el Monumento a Abraham Lincoln y el obelisco dedicado a George Washington.
 
-Más tarde Maduro tiene previsto reunirse con el anfitrión de la cumbre, el presidente ruso, **Vladímir Putin**.
+Harris dará un discurso con el que quiere **enfatizar el contraste entre ella** y su rival republicano, el expresidente Donald Trump, quien, según la aspirante demócrata, representa una **grave amenaza** para la democracia, avanzó primero el diario The Washington Post y luego confirmó la campaña en un comunicado.
 
-El asesor del Kremlin para **Asuntos Internacionales, Yuri Ushakov**, señaló horas antes que Putin y Maduro hablarán de “asuntos bilaterales y la cooperación en el marco de los BRICS”.
+Por ello, la vicepresidenta mencionará el **asalto al Capitolio de 2021,** en el que una turba de seguidores de Trump intentó frenar la ratificación de la **victoria electoral** del presidente Joe Biden, un suceso por el que el republicano fue imputado ante la Justicia.
 
-“Hay un millón de cuestiones” a tratar, señaló Ushakov en vísperas de las negociaciones ruso-venezolanas.
+Discurso para simpatizantes
+---------------------------
 
-Arribo a Rusia
+Precisamente, Harris hablará desde el Elipse, al sur de la Casa Blanca, misma ubicación donde Trump pronunció un **discurso a sus simpatizantes** minutos antes de que atacaran el edificio del Congreso y que, según la acusación de la fiscalía, sirvió para instigar el asalto.
+
+Los asesores de la campaña creen que esta ubicación permitirá contrastar “el caos y la división” que representa Trump con “**la visión esperanzadora y optimista de Harris**“.
+
+Según el Post, una empresa de organización de eventos que trabaja con la **campaña demócrata** habría reservado un espacio con capacidad para 7750 personas para la noche del día 29.
+
+Harris está pasando los últimos días de campaña en los estados decisivos para las elecciones, como Pensilvania, pero quiere dar en Washington un mensaje final de cierre de campaña que vaya dirigido a todo el pueblo estadounidense antes de las elecciones del 5 de noviembre.
+
+Donald Trump
+------------
+
+En los próximos días, Trump también tiene previsto **recorrer varios estados** clave, aunque el 27 de octubre estará en Nueva York, una ciudad eminentemente demócrata, para dar un discurso en el emblemático Madison Square Garden en un intento de **atraer más cobertura mediática.** 
+
+Bomberos de Quito no autorizan el uso de pirotecnia artesanal para diciembre
+============================================================================
+
+Esteban Cárdenas, comandante del Cuerpo de Bomberos de Quito, sostiene que un objetivo para el 2025 es fortalecer los lazos con la comunidad.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Bomberos de 22 ciudades de la Sierra se reunieron en Quito esta semana para compartir experiencias y mejorar las respuestas a los incendios forestales.](https://www.elcomercio.com/wp-content/uploads/2024/10/bomberos-reunion.jpg)
+
+En este nuevo momento de estiaje, renacen los temores de posibles incendios. Además, se acerca **diciembre**, cuando **Quito**, sobre todo, al comenzar el mes, vive una fiesta continua. Y ante ello, el **Cuerpo de Bomberos de Quito** insistió en que no autoriza el uso de la **pirotecnia artesanal.** También cree que lo más importante es fortalecer los vínculos con la comunidad.
+
+### Más noticias
+
+* [Dos personas transportaban droga en cartones y mochilas, en el sur de Quito](https://www.elcomercio.com/actualidad/dos-personas-transportaban-droga-sur-quito.html "Dos personas transportaban droga en cartones y mochilas, en el sur de Quito")
+* [La sequía activa los incendios forestales en Ecuador](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-ecuador-danos-autoridades.html "La sequía activa los incendios forestales en Ecuador")
+* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
+
+La pirotecnia artesanal no será autorizada
+------------------------------------------
+
+El teniente coronel **Esteban Cárdenas,** comandante del Cuerpo de Bomberos de Quito, en un diálogo con EL COMERCIO, diferenció entre **fuegos artificiales**, que son “más especializados y que se usan en zonas más urbanas”, de la **pirotecnia artesanal,** como los castillos, los voladores y otros más, que se usan mucho en el mes de **diciembre** en **Quito**.
+
+“No estamos dando **ningún tipo de autorización** para la **pirotecnia artesanal**. Estamos opuestos a eso, porque es un factor de **riesgo humano.** Hay muchos niños que sufren quemaduras y si hay **sequía**, las cosas pueden **empeorar**“, sostiene **Cárdenas**.
+
+**El Cuerpo de Bomberos de Quito**, entonces, quiere retomar la campaña de **no más pirotecnia**, pero Cárdenas reitera en que “si no hay más compromiso ciudadano, es muy poco lo que podemos hacer. El 31 de diciembre, por ejemplo, es casi incontrolable”.
+
+Las lecciones del Cuerpo de Bomberos y la comunidad
+---------------------------------------------------
+
+Ayer se terminó un encuentro de los **Cuerpos de Bomberos** de **22 ciudades de la región interandina** en Quito. Allí establecieron **puntos en común**, desafíos que se enfrentan con los **incendios forestales**, que no solamente han ocurrido en los bosques alrededor de **Quito**, sino **en muchos puntos del país**.
+
+La primera lección del **Cuerpo de Bomberos** es seguir reforzando equipamiento, personal, la articulación interinstitucional, que siempre deber estar sujeta a mejorar en las diferentes fases de la prevención, mitigación y respuesta ante los incendios.
+
+Sin embargo, añade Cárdenas, “**nos impulsa a trabajar mucho más con la comunidad**“.
+
+“Las lecciones y las respuestas deben venir de lo **institucional**, de la **política**, de la **ciudadanía**, de los **medios de comunicación**. Me gustaría que todos hagamos **una evaluación para solventar la crisis** porque no es solamente de los **bomberos**, sino también de los **ciudadanos**, de la **empresa pública**, los comités barriales”. Y añade: “Hay que trabajar con los equipos comunitarios. Y ese será uno de los retos de la ciudad de **Quito para el 2025**“[.](https://www.bomberosquito.gob.ec/nuestra-historia/ "https://www.bomberosquito.gob.ec/nuestra-historia/")
+
+Si bien fue loable la **participación de los quiteños** para ayudar al **Cuerpo de Bomberos** y su **solidaridad** con las víctimas, hace falta una mayor campaña para que no se olviden lo que pasó. “Lo peor sería olvidarse. Hay que tener presente las tragedias, así como los logros. Eso tiene que ser el punto de partida para ser mejores”, sostiene Cárdenas. Y este compromiso sería no usar pirotecnia artesanal.  
+
+Hamás busca nuevo liderazgo en plena guerra en Gaza
+===================================================
+
+No es la primera vez que Hamás afronta el asesinato de sus líderes.
+-------------------------------------------------------------------
+
+![Un camión destruido que fue utilizado por trabajadores de la Agencia de Obras Públicas y Socorro de las Naciones Unidas para los Refugiados de Palestina (OOPS).](https://www.elcomercio.com/wp-content/uploads/2024/10/hamas-israel-efe.jpg)
+
+“La muerte de Sinwar **no acabará con la resistencia ni con la causa**”, aseguró Hamás. Esto tras confirmar que el máximo líder del movimiento murió la semana pasada en enfrentamientos con las tropas israelíes en Rafah, sur de la Franja de Gaza.
+
+### Más noticias
+
+* [Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra")
+* [Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-mato-tres-meses-rawhi-mushtaha-jefe-gobierno-hamas.html "Ejército israelí dice que mató, hace tres meses, a Rawhi Mushtaha, jefe del Gobierno de Hamás")
+* [Israel ataca centro de mando de Hamás](https://www.elcomercio.com/actualidad/israel-ataca-centro-de-mando-de-hamas.html "Israel ataca centro de mando de Hamás")
+
+El grupo señaló entonces que el **Consejo de la Shura**, su máximo órgano asesor, se reuniría en los próximos días para elegir al **nuevo jefe** del buró político en sustitución de Sinwar. Este último a su vez en agosto reemplazó en ese puesto a **Ismail Haniyeh**, eliminado en Teherán en un ataque atribuido a Israel.
+
+Sin embargo fuentes de Hamás indicaron la posibilidad de **postergar esa decisión a marzo**, cuando están previstas elecciones internas. Además, delegar mientras el **liderazgo en un comité directivo** de cinco miembros, que asumirá las decisiones estratégicas políticas y militares. 
+
+“El siguiente paso todavía está bajo consulta en la dirección del movimiento. No se tomó ninguna decisión”, indicó una fuente del buró político de Hamás. 
+
+No es la primera vez que Hamás afronta el asesinato de sus líderes, pero sus **mecanismos internos** están diseñados para que el movimiento sobreviva por encima de personalidades concretas.
+
+Las figuras que siguen en la primera línea son:
+-----------------------------------------------
+
+Jaled Meshaal
+-------------
+
+Uno de los vicepresidentes del buró político de Hamás, órgano que ya lideró entre 1996 y 2017, cuando le sucedió en el cargo el jefe del movimiento dentro de la Franja, Ismail Haniyeh. Ese traspaso marcó la transferencia de poder de los líderes en el extranjero a los de dentro de Gaza (dos años después Haniyeh se mudó a Catar).
+
+Nacido en Cisjordania en 1956, vive en el exilio desde 1967, cuando su familia huyó a Jordania en la Guerra de los Seis Días. **Luego se mudó a Kuwait**, donde se unió a los Hermanos Musulmanes. Un recorrido de dos meses en 1975 por tierras palestinas le imbuyó de **sentimientos patrióticos** y es uno de los fundadores de Hamás en 1987. 
+
+Sobrevivió a un intento de asesinato por envenenamiento en Amán por agentes del Mosad en 1997, por orden de Benjamín Netanyahu. Con Meshaal en coma, el Rey de Jordania exigió el **antídoto bajo amenaza** de romper relaciones con Israel y juzgar a sus espías. Netanyahu tuvo que ceder tras la intervención de Bill Clinton.
+
+Vivió en **Siria, Catar y Turquía**, y es el principal **representante de Hamás** entre el éxodo palestino. Con los asesinatos de Haniyeh y del también vicepresidente del buró político, Saleh al Arouri -el pasado enero en Beirut-, Meshaal queda como la figura más fuerte del grupo en el exterior.
+
+Jalil al Hayya
 --------------
 
-Junto a su esposa, la diputada Cilia Flores, el mandatario venezolano aterrizó el martes, 22 de octubre de 2024, en el aeropuerto de **Tukái de Kazán,** días después de la llegada a la ciudad rusa de su ministro de Comunicación, Freddy Ñáñez, la vicepresidenta ejecutiva, Delcy Rodríguez, y el canciller, Yván Gil.
+Fue la mano **derecha de Sinwar** en la rama política dentro de la Franja. Tras el nombramiento de este como presidente del grupo en agosto, Al Hayya le sustituyó como jefe de Hamás en el enclave y ocupa una de las **tres vicepresidencias del buró,** la que corresponde a líderes de dentro de Gaza. 
 
-A su juicio, el bloque de los BRICS -fundado po**r Brasil, Rusia, India, China y Sudáfrica**– se convirtió “en el epicentro del nuevo mundo multipolar, de la nueva geopolítica, de la diplomacia de paz” y en una “esperanza” para los países del sur global.
+En 2006 dirigió el bloque de Hamás en el extinto **Consejo Legislativo palestino**. Es un destacado partidario de la lucha armada contra Israel y sobrevivió a varios intentos de asesinato, el más grave en 2007, cuando un ataque contra su casa en el norte de la Franja mató a varios de sus familiares.
 
-Maduro manifestó en abril pasado su deseo de **visitar Rusia** y el Kremlin confirmó la puesta en marcha de los **preparativos de ese viaje**, que sin embargo fue pospuesto sin fecha. 
+Fue él quien, al día siguiente de que Israel anunciara la muerte de Sinwar, confirmó en nombre de Hamás la noticia, lo que puede augurar un papel prominente.
 
-Octubre es un mes crítico para los gatos negros ¿Por qué?
-=========================================================
+Mohamed Sinwar
+--------------
 
-Las supersticiones ponen en riesgo el bienestar de los gatos negros.
---------------------------------------------------------------------
+Es el hermano menor de Yahya Sinwar y un destacado comandante de las Brigadas al Qasam, brazo armado de Hamás. Ante la **muerte de varios comandantes** durante la guerra -incluidos su jefe militar, Mohamed Deif, y su ‘numero dos’, Marwan Issa-, asumió el mando militar de la mitad sur de la Franja, desde Nuseirat hasta Rafah.
 
-![¡Confirmado! Los gatos negros solo traen felicidad. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T125650.854.jpg)
+Creció en las filas del ala militar de Hamás desde los noventa, cuando era adolescente, a la sombra de su hermano. Aunque su **liderazgo se ciña al plano militar**, el actual contexto de guerra le deja un amplio margen de decisión y autonomía. Es uno de los “más buscados” por Israel.
 
-El pasado sábado 19 de octubre decenas de personas reaccionaron tras una publicación de la foto de un **gato** negro en la cuenta de **Instagram** de EL COMERCIO. Era **Ludovico** buscando un hogar con tutores amorosos y responsables.
+Musa Abu Marzouk
+----------------
 
-“Por favor en esta época no den en adopción a los gatitos negros”. “Cuiden a ese gatito lindo”.
+Es miembro del buró político y, junto con Haniyeh, promovió un **enfoque pragmático en las negociaciones** con Israel para un alto el fuego. En los noventa, cuando residía en Estados Unidos, fue detenido por recaudar fondos para el brazo armado de Hamás, y después permaneció en el exilio, en Jordania, Egipto y Catar. 
 
-¿Por qué octubre es un mes crítico para los gatos negros?
+**Izz ad Din al Haddad**
+------------------------
+
+Era el comandante de la brigada de ciudad de Gaza cuando empezó la guerra, pero ahora ostenta el **mando militar** de toda la parte norte del enclave. Junto con el pequeño de los Sinwar, es el encargado de continuar la “guerra de desgaste” contra Israel y codirigir las operaciones militares.
+
+Zaher Jabarin
+-------------
+
+Era del círculo cercano a Sinwar y Haniyeh. Maneja los asuntos financieros del grupo. Antes participó en las actividades militares, por lo que fue detenido por Israel y liberado en 2011 en el mismo canje de más de mil prisioneros por el soldado Gilad Shalit, en el que Sinwar también fue excarcelado.
+
+(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores
+================================================================
+
+El ecuatoriano no solo brilla en la cancha, sino también fuera de ella, y lo demostró en el torneo más importante de América.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Alan Franco en el partido entre Atlético Mineiro y River Plate por Copa Libertadores.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-23T171050.074.jpg)
+
+**Alan Franco** es uno de los protagonistas del Atlético Mineiro, uno de los clubes más importantes de Sudamérica, que está a un paso de regresar a una nueva final de la Copa Conmebol Libertadores.
+
+El **‘Galo’ goleó 3-0 a River Plate** en la semifinal de ida, en Brasil, con Franco como titular. Aunque tuvo un partido discreto, cumplió un rol clave en el esquema de Gabriel Milito.
+
+### Más noticias:
+
+* [Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-atletico-mineiro-golean-river-plate-copa-libertadores.html "Alan Franco y Atlético Mineiro golean a River Plate en la Copa Libertadores")
+* [Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-unico-ecuatoriano-aspiraciones-ganar-copa-libertadores.html "Alan Franco, el único ecuatoriano con aspiraciones de ganar la Copa Libertadores")
+* [Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores](https://www.elcomercio.com/deportes/dragonas-idv-partido-copa-libertadores-boca-juniors-cuarto.html "Dragonas IDV cae, pero hace historia y es cuarta en la Copa Libertadores")
+
+Sin embargo, fue fuera de la cancha donde **Alan Franco sorprendió con un tierno y emotivo gesto** que conquistó a todos. Demostró que también es un crack fuera del césped.
+
+Alan Franco y su emotivo gesto en la Copa Libertadores
+------------------------------------------------------
+
+Antes de que comenzara el partido entre **Atlético Mineiro** y River Plate, cuando los jugadores saltaron al campo acompañados de niños y niñas, Alan Franco protagonizó un conmovedor momento.
+
+Una pequeña fanática, al ver el estadio Arena MRV repleto con casi 50,000 aficionados, banderas y bengalas, no pudo contener las lágrimas.
+
+Fue en ese instante que **Franco, con un gesto de empatía, se agachó para consolarla**, brindándole palabras de apoyo y logrando que la niña se calmara y pudiera disfrutar del momento.
+
+> não tinha visto esse vídeo do alan franco, como pode ser o mais querido do mundo 🥹🫶🏽 [pic.twitter.com/qV2Xm2DVAw](https://t.co/qV2Xm2DVAw)
+> 
+> — ana (@aquelaoutrana) [October 23, 2024](https://twitter.com/aquelaoutrana/status/1849119818433106010?ref_src=twsrc%5Etfw)
+
+¿Cuándo es la semifinal de vuelta?
+----------------------------------
+
+Atlético Mineiro, con Alan Franco en el campo, no tuvo problemas para **derrotar 3-0 a River Plate** el martes 22 de octubre, en la semifinal de ida de la Copa Conmebol Libertadores.
+
+**Deyverson** Silva fue la figura del partido, anotando un doblete y brindando una asistencia en el Arena MRV. Con esta importante ventaja, el equipo brasileño espera el partido de vuelta con optimismo.
+
+El ecuatoriano **tuvo un desempeño sólido, completando los 90 minutos**. Franco acertó el 92% de sus pases, ganó seis de once duelos y contribuyó defensivamente con un bloqueo, una intercepción y dos entradas.
+
+El partido de vuelta se jugará el **próximo martes 29 de octubre** en el estadio Monumental de Argentina, donde Atlético Mineiro buscará sellar su pase a la final. El encuentro está programado para las 19:30 (hora de Ecuador).
+
+El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador
+===================================================================
+
+El Nacional venció a Mushuc Runa en la semifinal de ida de la Copa Ecuador con un doblete de Jorge Ordóñez y protagonismo arbitral.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Jorge Ordóñez celebra uno de los goles en la semifinal de ida de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T155445.276.jpg)
+
+**El Nacional** se impuso en su partido de ida de las semifinales de la Copa Ecuador ante **Mushuc Runa** por un marcador de 2-1. Los puros criollos vencieron en un choque marcado por las tarjetas rojas de su rival y polémicas jugadas.
+
+El primer compromiso de la penúltima fase del certamen entre los **puros criollos** y el ‘**Ponchito**‘, que hizo de local, se llevó a cabo durante este miércoles 23 de octubre del 2024. El Estadio La Cocha de Latacunga fue el encargado de albergar el compromiso.
+
+### Más noticias:
+
+* [¿A qué hora juega El Nacional semifinales de Copa Ecuador?](https://www.elcomercio.com/deportes/semifinal-el-nacional-mushuc-runa-copa-ecuador.html "¿A qué hora juega El Nacional semifinales de Copa Ecuador?")
+* [El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-delfin-liga-pro-segunda-etapa-fecha-10.html "El Nacional iguala con Delfín previo a su semifinal de Copa Ecuador")
+
+El choque fue el segundo de los primeros cotejos de semifinales y solo restan las revanchas. Antes, **Independiente del Valle y Universidad Católica** ya disputaron el compromiso que les correspondía y los rayados también triunfaron como visitantes por 1-0.
+
+En el cruce entre **El Nacional y Mushuc Runa**, el arbitraje y el VAR se llevaron parte del protagonismo debido a su intervención en dos expulsiones y en uno de los goles. Los tantos para el ‘Rojo’ llegaron desde Jorge Ordóñez y el descuento de sus rivales fue de Ángel Gracia[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
+
+El Nacional se adelantó en el marcador ante Mushuc Runa
+-------------------------------------------------------
+
+El Nacional salió con sus máximos nombres en la alineación titular ante **Mushuc Runa** y con el objetivo de ganar la **Copa Ecuador** como lo había dicho su presidente Marco Pazos. En su cotejo previo en la Liga Pro ante Delfín, en el que consiguió un empate, el club había guardado jugadores y planteado un equipo mixto.
+
+El primer gol para el ‘Rojo’ llegó gracias Jorge Ordóñez a los 26 minutos de juego. Antes, los locales avisaron con un tiro en el travesaño de **Joaquín Vergés**. El tanto de la ‘Tukita’ llegó gracias a un cabezazo a raíz de un centro de **Fidel Martínez**.
+
+A partir de la anotación de **Ordóñez**, los puros criollos empezaron a controlar el partido. La victoria se mantuvo durante el primer tiempo y el ‘Bi-Tri’ se fue a los vestuarios con la victoria.
+
+Un polémico segundo tiempo para El Nacional y Mushuc Runa en Copa Ecuador
+-------------------------------------------------------------------------
+
+La segunda mitad del partido entre **El Nacional y Mushuc Runa** estuvo cargada de polémicas. El papel de los árbitros fue determinante para el resultado y el desempeño del partido.
+
+Una expulsión apenas iniciados los últimos 45 minutos dejó con uno menos al ‘Ponchito’. Esta cayó sobre **Enzo Fernández** y después de que el VAR habisase al juez central. Antes, el jugador había realizado una entrada vehemente sobre el arquero **David Cabezas** cuando este tenía el balón en sus manos.
+
+Instantes después de la expulsión, **Ángel Gracia** igualó el marcador, sin embargo, en el que realizó un polémico festejo. Tras ello, el árbitro volvió a revisar el VAR y expulsó al lateral derecho.
+
+El tanto del triunfo para **El Nacional** llegó a los 79 minutos. Una vez más Ordóñez. El delantero volvió a conectar de cabezazo. Parecía que hubo un fuera de juego, pero tras la intervención de los árbitros asistentes de video, el tanto fue validado.
+
+El cotejo final quedó en un **2-1** a favor del ‘Bi-Tri’. La revancha entre las escuadras será el jueves 31 de octubre. Este será en el Estadio Olímpico Atahualpa.
+
+Barcelona Sporting Club es multado con 80 300 dólares
+=====================================================
+
+Barcelona SC ganó un Clásico del Astillero en el estadio Monumental luego de cuatro años.
+-----------------------------------------------------------------------------------------
+
+![Localidad del estadio Monumental en el Clásico del Astillero 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/multa_1.jpg)
+
+**Barcelona Sporting Club** sumó una nueva multa impuesta por la Comisión de Disciplina de la Liga Pro, por las múltiples infracciones cometidas en el Clásico del Astillero, ante Emelec, en el estadio Monumental. 
+
+El domingo 20 de octubre de 2024, **Barcelona Sporting Club venció 2-1 a Emelec** en la décima fecha de la segunda etapa de la Liga Pro, pero la victoria le salió cara a los amarillos en su casa ante más de 40 000 espectadores. 
+
+### Más noticias:
+
+* [Barcelona Sporting Club pone fecha para la Noche Amarilla 2025](https://www.elcomercio.com/deportes/futbol/noche-amarilla2025-barcelona-sporting-club.html "Barcelona Sporting Club pone fecha para la Noche Amarilla 2025")
+* [Equipo de Segunda Categoría se pronuncia sobre irregularidades](https://www.elcomercio.com/deportes/equipo-de-segunda-categoria-se-pronuncia-sobre-irregularidades.html "Equipo de Segunda Categoría se pronuncia sobre irregularidades")
+* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
+
+Los tantos de **Janner Corozo y Álex ‘El Bicho’ Rangel**, le dieron los tres puntos a los amarillos en el nuevo debut de Segundo Alejandro Castillo, como nuevo entrenador, en reemplazo del cesado Ariel Holan. 
+
+Con el resultado los canarios **escalaron al sexto puesto en la tabla de posiciones de la segunda etapa** con 16 puntos y se afianzaron en el tercer casillero en la acumulada, con 47, dando un paso más para asegurar un cupo a la Copa Libertadores 2025. 
+
+Este miércoles 23 recibió la **noticia que tendrá que pagar una multa de 80 300 dólares**, principalmente por el comportamiento de un sector de sus hinchas, que infringieron algunas normas establecidas en el Reglamento de Infracciones y Sanciones de la Liga Pro. 
+
+Hay que mencionar que desde la **general sur baja del Monumental**, donde se ubica la barra organizada de los amarillos, se exhibió un tifo gigante con imágenes en contra de equipos como Emelec, El Nacional y Liga de Quito. 
+
+Las sanciones para Barcelona SC
+-------------------------------
+
+La tarde de este miércoles 23 de octubre de 2024 la Liga Pro, a través del Comité Disciplinario, basándonos en el Reglamento para la resolución de Controversias de la Liga Pro, y con base a los Informes Arbitrales y de Comisarios, se dio a conocer las sanciones y multas para los canarios.
+
+Por invasión al campo (dos momentos) son **5 000 dólares; uno de banderas antirreglamentarias** (dos momentos) son 600 dólares; y uso de sombrillas no autorizadas son 200 dólares.
+
+Una de las multas más fuertes corresponde a **10 000 por la bandera (tifo gigante)** con mensaje ofensivo y discriminatorio a equipos rivales, con imágenes obscenas para el público, más el cierre de la localidad de la general sur baja por las siguientes dos fechas.
+
+En esas dos jornadas el club torero deberá colocar una pancarta con mensaje en contra de la violencia, además de un comunicado oficial.
+
+La multa más fuerte corresponde a **64 500 dólares por encender objetos pirotécnicos** (33 momentos: bengalas, [bombas de humo y juegos pirotécnicos](https://ligapro.ec/acta-de-sanciones-25-2024-fecha-10-fase-2/)).
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/multa_2-1024x683.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cpccs hará instructivo relacionado con integrantes del CNE
+==========================================================
+
+El proceso de renovación parcial del CNE avanza.
+------------------------------------------------
+
+![El Pleno del Cpccs resolvió un paso para renovación parcial del CNE.](https://www.elcomercio.com/wp-content/uploads/2024/10/cpccs-3.jpg)
+
+La renovación parcial del **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** contempla un paso. Así lo definió el Pleno del **Consejo de** **Participación Ciudadana y Control Social (Cpccs)**.
+
+Este miércoles, 23 de octubre de 2024, la institución informó que se desarrollará un **instructivo** relacionado con el proceso.
+
+### Más noticias
+
+* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
+* [¿Quiénes deben renunciar para inscribirse a elecciones 2025?](https://www.elcomercio.com/actualidad/politica/quienes-deben-renunciar-inscribirse-elecciones-2025-candidatos.html "¿Quiénes deben renunciar para inscribirse a elecciones 2025?")
+* [El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/politica/cpccs-continua-concurso-fiscal-general-motivo.html "El Cpccs continúa con el concurso para Fiscal General ¿Cuál es el motivo?")
+
+Cpccs y la renovación del CNE
+-----------------------------
+
+EI manual es para realizar el sorteo de dos consejeros titulares del **CNE** y dos suplentes, quienes serán reemplazados en el proceso de renovación parcial.
+
+Según recordó el presidente del Cpccs, **Andrés Fantoni**, los cinco consejeros titulares y los cinco suplentes se eligen para seis años.
+
+El **Código de la Democracia** define que los consejeros principales ejercerán sus funciones por seis años. La institución se renovará parcialmente cada tres.
+
+Es así que, el proceso contempla dos **integrantes** en la primera ocasión, tres en la segunda, etc.
+
+> 📰Boletín de prensa  
+>   
+> El [#CPCCS](https://twitter.com/hashtag/CPCCS?src=hash&ref_src=twsrc%5Etfw) elaborará el Instructivo para el sorteo de dos consejeros titulares y dos suplentes del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw) que serán reemplazados en el proceso de Renovación Parcial.[@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw)  
+> Entérate de los detalles⬇️ [pic.twitter.com/ZusJ2HWdmU](https://t.co/ZusJ2HWdmU)
+> 
+> — Participa Ecuador (@CpccsEc) [October 23, 2024](https://twitter.com/CpccsEc/status/1849184943236321455?ref_src=twsrc%5Etfw)
+
+El sorteo para la renovación
+----------------------------
+
+El sorteo se realizará una vez que concluya el **concurso** de renovación que está en marcha. Actualmente, este se encuentra en la fase de oposición.
+
+A la par, el **Pleno del Cpccs** dispuso a la Comisión Ciudadana de Selección de la Renovación Parcial del **CNE** que presente el cronograma de trabajo y necesidades del proceso de selección.
+
+El proyecto de instructivo para el sorteo estará a cargo de la Coordinación General de Asesoría Jurídica del **Cpccs**. Además, este será revisado en mesas de trabajo.
+
+Elecciones 2025 a puertas
+-------------------------
+
+El calendario electoral está corriendo. El **CNE** es el encargado de los procesos que incluyen la evaluación de las candidaturas y las papeletas definitivas.
+
+Ese listado se conocerá oficialmente el 30 de diciembre de 2024. Las **votaciones generales** se desarrollarán el 9 de febrero de 2025. No obstante, de haber segunda vuelta se llevará a cabo el 13 de abril.
+
+Los ecuatorianos elegirán cabezas de la **Presidencia, Vicepresidencia**, 151 asambleístas y cinco parlamentarios andinos.
+
+Shakira está profundamente decepcionada del amor de pareja
+==========================================================
+
+La cantante colombiana habló de su proceso de sanación tras la separación de Gerard Piqué.
+------------------------------------------------------------------------------------------
+
+![La cantante colombiana de 47 años sigue imparable con su éxito Soltera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T165428.094.jpg)
+
+La cantante colombiana **Shakira** compartió su experiencia tras su separación del exfutbolista Gerard Piqué. Lo hizo durante una reciente entrevista con la **revista GQ**.
+
+Sus declaraciones llegaron días después de que Gerard Piqué afirmara en CNN que “las cosas no han sido como se han contado”.
 
 ### **Más noticias:**
 
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html") 
-* [Empresa japonesa ‘contrató’ a nueve gatos para una misión superimportante](https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html "https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html")
-* [¿Tu gato te quiere? La ciencia revela el lenguaje de los felinos](https://www.elcomercio.com/narices-frias/gatos-lenguaje-ciencia-mascotas.html "https://www.elcomercio.com/narices-frias/gatos-lenguaje-ciencia-mascotas.html")
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html")
+* [Autopsia de Liam Payne reveló inquietantes detalles de su muerte](https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/autopsia-liam-payne-detalles-muertes.html?source=Internal&ref=Single+Content+Link")
 
-**Octubre es un mes crítico para los gatos negros ¿Por qué?**
--------------------------------------------------------------
+**Shakira está profundamente decepcionada del amor de pareja**
+--------------------------------------------------------------
 
-Las supersticiones y rituales asociados con **Halloween** ponen en riesgo el bienestar de los gatos negros. Lo asegura **Adela Lehrer,** rescatista independiente.
+La artista expresó su profunda decepción del amor de **pareja**: “El amor de **pareja** me defraudó, es irremediable que haya perdido la confianza en el otro”.
 
-Históricamente, estos felinos han sido vinculados a la mala suerte y la brujería. Eso ha llevado a un aumento en los casos de maltrato y abandono.
+La música ha sido su refugio durante este proceso. Su duodécimo álbum, ‘**Las mujeres no lloran’,** se presentó como una terapia personal. Shakira dijo: “Durante muchos meses después de mi separación había estado en silencio, intentando empezar mi duelo”.
 
-> [View this post on Instagram](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
+**Shakira sana con la música**
+------------------------------
+
+La canción **Monotonía** reflejó su estado emocional, describiendo una sensación de vacío. Por otro lado, la colaboración con Bizarrap, **Sesión 53**, marcó un punto de inflexión, sintiendo que se liberaba de un peso: “Siento como que estoy flotando ahora mismo”.
+
+A pesar de los desafíos vividos en **España**, donde enfrentó conflictos con Hacienda, Shakira mantiene un cariño especial por el país. “Siempre lo voy a tener en mi corazón”, aseguró, expresando su deseo de volver a cantar en Barcelona y Madrid.
+
+**Shakira perdió un amor, pero ganó amigos**
+--------------------------------------------
+
+Establecida en Miami desde hace un año y medio con sus hijos Milan y Sasha, la artista reflexiona sobre el valor de la amistad, que ha superado incluso las decepciones amorosas.
+
+> [View this post on Instagram](https://www.instagram.com/p/DBbdHmLud03/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
+> [A post shared by GQ México y Latinoamérica (@gqmexico)](https://www.instagram.com/p/DBbdHmLud03/?utm_source=ig_embed&utm_campaign=loading)
 
-Las organizaciones de protección animal advierten que muchos gatos negros son adoptados impulsivamente como parte de decoraciones o disfraces, solo para ser abandonados después de las festividades.
+“Me di cuenta de que la amistad es más larga que el amor”, destaca, reconociendo el apoyo de sus verdaderos amigos durante momentos difíciles.
 
-### **¿Cómo proteger a los gatos negros?**
+El Toachi Pilatón queda a punto para arrancar su operación
+==========================================================
 
-**Refugios** y rescatistas independientes suspenden temporalmente las adopciones de **gatos negros** en octubre para evitar que caigan en manos equivocadas.
+En el complejo hidroeléctrico Toachi - Pilatón se hicieron algunas obras para que entre en funcionamiento, ante los cortes de luz.
+----------------------------------------------------------------------------------------------------------------------------------
 
-“Lastimosamente sí hay personas que hacen rituales; son cosas horribles. Pero también hay que tener cuidado con los gatos y conejos blancos”, recuerda Cristina Calderón, rescatista.
+![El túnel tiene 8,7 kilómetros de longitud y fue sometido a pruebas de carga. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/tunel-alluriquin.jpg)
 
-Otras personas -como Constanza que rescató a **Ludovico**– realizan verificaciones exhaustivas de los antecedentes de los potenciales adoptantes. El propósito es asegurarse de que estos animales sean acogidos por personas responsables y amorosas.
-
-**Consejos para proteger a los gatos negros**
----------------------------------------------
-
-Para los dueños de gatos negros, los rescatistas sugieren deben mantenerlos dentro de casa y bajo supervisión constante.
-
-También, educar a amigos y familiares sobre la naturaleza de los gatos negros. Ellos son como cualquier otro. Su misión en esta vida consiste en hacer más divertida la vida de los humanos.
-
-Asesinaron a joven embarazada al no encontrar al hermano, en Huaquillas
-=======================================================================
-
-Unos minutos antes, un hombre fue asesinado en el centro de Huaquillas. Teorías indican que fueron los mismos sicarios
-----------------------------------------------------------------------------------------------------------------------
-
-![Una joven embarazada de 19 años fue asesinada en Huaquillas.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-13-2.jpg)
-
-La ola de violencia registra un nuevo caso en **Huaquillas**, en la provincia de El Oro, donde una joven de 19 años embarazada fue asesinada.
+La Corporación Eléctrica del Ecuador (Celec) informó sobre la culminación de los trabajos de reparación en el túnel de carga **Toachi-Alluriquín**. Este ducto pertenece al complejo hidroeléctrico **Toachi Pilatón**, ubicado en los límites de Pichincha, Santo Domingo de los Tsáchilas y Cotopaxi[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Machala vive otra jornada violenta con explosivos; hay un fallecido](https://www.elcomercio.com/actualidad/seguridad/machala-vive-otra-jornada-violenta-con-explosivos-hay-un-fallecido.html "Machala vive otra jornada violenta con explosivos; hay un fallecido")
-* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
-* [Un incendio se registró en El Panecillo este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/incendio-quito-el-panecillo-miercoles-23-de-octubre.html "Un incendio se registró en El Panecillo este miércoles 23 de octubre")
+* [Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-adelanta-gratuidad-de-planilla-de-luz-en-ecuador.html "Daniel Noboa adelanta gratuidad de planilla de luz en Ecuador")
+* [Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-plan-estrategico-energia.html "Gobierno de Daniel Noboa presentó plan estratégico para enfrentar la crisis")
+* [Ecuador va a su propio ritmo en la apuesta de energías renovables](https://www.elcomercio.com/actualidad/negocios/ecuador-propio-ritmo-apuesta-energias-renovables.html "Ecuador va a su propio ritmo en la apuesta de energías renovables")
 
-Sicarios buscaban al hermano
-----------------------------
-
-La comunidad de Huaquillas se encuentra conmocionada tras e**l crimen despiadado a la joven** Raquel Bravo. El hecho se registró en la ciudadela Brisas de América.
-
-Los sicarios llegaron hasta **su vivienda en una motocicleta**, entraron a la fuerza y buscaban matar al hermano de la chica.
-
-Al no encontrarlo en la casa, **la mataron a ella a tiros**. Según los moradores, dejaron un mensaje de advertencia para el hermano, ‘Yoyo’, por lo que se sospecha que se trata de un ajuste de cuentas.
-
-Los organismos de socorro acudieron al sitio pero **Raquel ya no tenía signos vitales.** La trasladaron a un hospital para intentar salvar al bebé con una cesárea pero, lamentablemente, no se logró.
-
-Según lo que se conoce, **‘Yoyo’ había recibido amenazas** y por ello se mudó a otra provincia. Sin embargo, volvió a Huaquillas y lo notaron.
-
-Crimen en la zona comercial de Huaquillas
------------------------------------------
-
-Minutos antes del crimen de Raquel, **un hombre murió en la puerta d**e un local comercial en el centro de Huaquillas.
-
-Brayan **Cruz Vera se encontraba sentado en la vereda f**rente al local cuando hombres armados le dispararon enel tórax y la cabeza.
-
-Cruz falleció de inmediato y **quedó en el piso ante la mirada de los transeúntes.** La gente en Huaquillas reclama seguridad; se quejan de que la Policía no realiza patrullajes.
-
-Rumores en el cantón dicen que Cruz Vera también fue víctima de los mismos sicarios que buscaban a ‘Yoyo’ y lo confundieron. No hay información oficial que confirme la teoría.
-
-El momento histórico de LeBron James y Bronny James en la NBA
-=============================================================
-
-La leyenda LeBron James y su hijo Bronny James son el primer dueto padre-hijo que juega de manera oficial en la NBA
--------------------------------------------------------------------------------------------------------------------
-
-![Lebron James y Bronny James, padre e hijo, hicieron historia al jugar juntos en la NBA.](https://www.elcomercio.com/wp-content/uploads/2024/10/James.jpg)
-
-**LeBron James**, que hizo historia con **Bronny James** como el primer dueto padre-hijo en la **NBA**, se mostró muy feliz y orgulloso por haber alcanzado este logro familiar sin precedentes en la mejor liga de baloncesto del mundo.
-
-“Es la familia, siempre ha sido la familia por encima de todo”, resumió **LeBron** en declaraciones a la retransmisión de la cadena **TNT**, el 22 de octubre del 2024 por la noche.
-
-### Más noticias:
-
-* [Barcelona vs. Bayern, una verdadera prueba en Champions](https://www.elcomercio.com/deportes/futbol/barcelona-bayern-champions-league-miercoles.html "Barcelona vs. Bayern, una verdadera prueba en Champions")
-* [Horarios para ver a Piero Hincapié y Angelo Preciado en Champions](https://www.elcomercio.com/deportes/horarios-uefa-champions-league-hincapie-preciado.html "Horarios para ver a Piero Hincapié y Angelo Preciado en Champions")
-* [Adiós a Fernando ‘Toro’ Valenzuela, ícono del deporte mexicano](https://www.elcomercio.com/deportes/futbol/fernando-toro-valenzuela-icono-deporte-mexicano-fallece.html "Adiós a Fernando ‘Toro’ Valenzuela, ícono del deporte mexicano")
-
-“Yo he perdido mucho tiempo (con la familia) por esta liga y por compromiso con la liga, viajando, perdiéndome muchas de sus cosas. Así que poder tener este momento en el que todavía estoy trabajando y puedo trabajar junto a mi hijo es uno de los regalos más grandes que he podido tener de quien está arriba. Voy a aprovecharlo al máximo”, desarrolló.
-
-Por su parte, **Bronny** dijo sentirse “extremadamente agradecido” por la “increíble oportunidad” de haber debutado en la **NBA** y por haberlo hecho de la mano de su padre.
-
-“Es un momento loco que nunca olvidaré”, indicó.
-
-Ambos con la camiseta de **Los Angeles Lakers,** LeBron (titular) y Bronny (suplente) lograron ese hito cuando entraron juntos a la cancha desde el banquillo con 4.00 en el segundo cuarto del partido contra los Minnesota Timberwolves que los de púrpura y oro se llevaron por 110-103.
-
-De 39 años (cumple 40 en diciembre) y ya en su temporada 22 en la liga (solo Vince Carter jugó tantas campañas como él), LeBron, que es el máximo anotador de la historia de la liga, había expresado en repetidas ocasiones su sueño de compartir cancha en la NBA algún día junto a su hijo.
-
-> Family business. [pic.twitter.com/vMVbOQvY9K](https://t.co/vMVbOQvY9K)
-> 
-> — Los Angeles Lakers (@Lakers) [October 23, 2024](https://twitter.com/Lakers/status/1848923328020681034?ref_src=twsrc%5Etfw)
-
-LeBron James y Bronny James
----------------------------
-
-**Bronny**, de 20 años, fue escogido en el puesto 55 del último draft por [los **Lakers.**](https://es.wikipedia.org/wiki/Los_Angeles_Lakers)
-
-El pasado 6 de octubre **LeBron** y Bronny ya jugaron juntos con los Lakers en un amistoso de pretemporada de la NBA, pero esta vez fue la primera en un partido oficial.
-
-Entre el público esta noche estaba su familia, con Savannah James (esposa y madre) al frente, y también Ken Griffey Sr. y Ken Griffey Jr., padre e hijo que lograron un hito similar pero en su caso en la MLB y en 1990 con los **Seattle Mariners.**
-
-LeBron acabó el partido con 16 puntos, 5 rebotes, 4 asistencias y 2 tapones. Bronny solo disputó 2 minutos y 41 segundos en los que cogió un rebote y falló 2 tiros.
-
-BRICS piden reforma de ONU y mayor participación de América Latina y Asia
-=========================================================================
-
-Los BRICS buscan que los países africanos, asiáticos y latinoamericanos jueguen un papel más significativo.
------------------------------------------------------------------------------------------------------------
-
-![El presidente ruso, Vladimir Putin (derecha), da la bienvenida al presidente iraní, Masoud Pezeshkian, antes de su reunión al margen de la cumbre de los BRICS en Kazán, Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/10/brics-putin.jpg)
-
-Los países del **grupo BRICS** pidieron este miércoles, 23 de octubre de 2024, en Kazán una reforma de la ONU, incluido su **Consejo de Seguridad**, y un mayor papel de América Latina, Asia y África en los asuntos mundiales.
-
-### Más noticias
-
-* [Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS](https://www.elcomercio.com/actualidad/mundo/putin-intenta-romper-aislamiento-guerra-cumbre-brics.html "Vladímir Putin intenta romper su aislamiento por la guerra con la cumbre de los BRICS")
-* [Kamala Harris se refiere al uso de armas y a su plan económico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-uso-armas-plan-economico.html "Kamala Harris se refiere al uso de armas y a su plan económico")
-* [Vladímir Putin asume su quinto mandato presidencial](https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html "https://www.elcomercio.com/actualidad/mundo/vladimir-putin-quinto-mandato-rusia.html")
-
-“Insistimos en nuestro **apoyo a la reforma d**e la ONU, incluido su **Consejo de Seguridad,** con el fin de incrementar su **democracia, representatividad, efectividad** (…) y también la ampliación de la presencia de los países en desarrollo en todas las **categorías de membresía del Consejo**“, señala la declaración final de la cumbre celebrada en Kazán.
-
-Además, destaca la necesitad de aplicar la **“justicia geográfica**” a la hora de formar el secretariado de las Naciones Unidas y otras **organizaciones internacionales**.
-
-Los BRICS subrayaron la importancia de que los **países africanos, asiáticos y latinoamericanos** jueguen un papel más significativo en la gestión de los asuntos mundiales.
-
-La declaración destaca la aparición de “**nuevos centros de fuerza”**, lo que, según el grupo de economías emergentes, contribuye al **advenimiento de un orden mundial** “más justo, democrático y equilibrado”.
-
-Al tiempo que condenó las sanciones unilaterales, defendió la **cooperación en el campo** de los derechos humanos y libertades fundamentales en estricta consonancia con los principios de igualdad y respeto mutuo.
-
-Pero, añadió, que entre los **derechos humanos** figura el derecho al desarrollo justo y de manera equitativa de todos los países.
-
-La declaración final aprueba también la categoría de **estado-asociado,** aunque la cumbre no abordó la esperada ampliación del grupo solicitada por países como Turquía, Azerbaiyán o Cuba.
-
-BRICS, grupo fundado en 2006 que celebró su **primera cumbre en 2009,** está integrado por Rusia, China, India, Brasil, Sudáfrica, Egipto, Irán, Emiratos Árabes Unidos y Etiopía.
-
-‘Chuzalongo’, una película de suspenso y magia se lanzará en Ecuador
-====================================================================
-
-‘Chuzalongo’, una película que explora una famosa leyenda ecuatoriana.
-----------------------------------------------------------------------
-
-![El 31 de octubre se estrena ‘Chuzalongo’, con un destacado elenco internacional. Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Chuzalongo-pelicula.jpg)
-
-El 31 de octubre, **‘Chuzalongo’**, una **ambiciosa coproducción internacional**, hará su debut en las salas de cine de Ecuador**, llega justo para el feriado de los difuntos**.  
-
-### Más noticias
-
-* [Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’](https://www.elcomercio.com/tendencias/cine/robot-salvaje-terrifier-cine-peliculas.html "https://www.elcomercio.com/tendencias/cine/robot-salvaje-terrifier-cine-peliculas.html") 
-* [Por estas razones, la película ‘Emilia Pérez’ genera debate](https://www.elcomercio.com/tendencias/cine/emilia-perez-filme-cine-trans-narcotrafico.html "https://www.elcomercio.com/tendencias/cine/emilia-perez-filme-cine-trans-narcotrafico.html") 
-
-Esta fecha fue seleccionada estratégicamente para **alinearse con una de las tradiciones más arraigadas del país**, ya que la trama de la película está profundamente relacionada con los rituales y costumbres de esta época. 
-
-**Reconocimiento internacional para ‘Chuzalongo’** 
----------------------------------------------------
-
-**Dirigida y escrita por Diego Ortuño**, ‘Chuzalongo’ fue **elegida para representar a Ecuador en los renombrados Premios Goya y Premios Forqué** en septiembre de 2024. Además, recientemente **obtuvo el premio a Mejor Largometraje Iberoamericano en el Festival Macabro FICH en México**, que se llevó a cabo en agosto de 2024. 
-
-**Tráiler de la película**
---------------------------
-
-**Un viaje cinematográfico** 
+Obras de reparación del túnel
 -----------------------------
 
-Esta película se perfila como **una de las mejores en el género de fantasía del cine ecuatoriano**, ya que **fusiona el suspenso con la magia** en una narración cautivadora.  
+El gerente Celec, **Gustavo Sánchez**, realizó una inspección a las obras en el túnel **Toachi-Alluriquín** este 22 de octubre del 2024. Los trabajos estuvieron a cargo del **Cuerpo de Ingenieros del Ejército**.
 
-Se realizó en coproducción con Ecuador, Perú, España y Canadá, y cuenta con un **elenco internacional destacado**.  
+La inspección se desarrolló previo al inicio de pruebas de carga del túnel de 8,7 km. Allí se colocaron nuevas estructuras de acero y revestimiento de hormigón.
 
-Entre los protagonistas se encuentran **Bruno Odar**, un reconocido actor peruano que da vida a Nicanor, y **Wolframio Sinué**, un actor ecuatoriano que interpreta a Melalo. El reparto incluye a **artistas indígenas debutantes** como Toa Tituaña, Yuyak Guitarra, Lenin Farinango y Sisa Farez, así como a actores experimentados como **Alex Cisneros, Fernando Basilio y Mónica Mancero,** además de nuevos talentos como Karla Gómez y Gael Ortuño. 
+Las obras fueron realizadas en cumplimiento a las observaciones de la **Contraloría General del Estado**. Celec recordó que estas obras quedaron inconclusas en 2017 tras el abandono del anterior contratista de la obra civil.
 
-**Historia y cultura** 
------------------------
-
-La película nos transporta a un **pueblo andino del siglo XIX**, donde u**na misteriosa criatura acecha a las mujeres solitarias** en los campos. Con un guion lleno de simbolismos, dilemas éticos y una profunda conexión con las **leyendas tradicionales ecuatorianas**, ‘Chuzalongo’ se destaca por su **integración de elementos culturales autóctonos**, como el uso del quichua en varios pasajes y los impresionantes paisajes andinos que enriquecen la historia. 
-
-**Producción y ambientación** 
-------------------------------
-
-**La filmación se llevó a cabo en haciendas históricas de Quito y Cayambe**, para recrear de manera magistral el **Ecuador de finales del siglo XIX**, en un contexto marcado por profundas desigualdades sociales. 
-
-**La visión del Director** 
----------------------------
-
-En una entrevista con EL COMERCIO, el **director Diego Ortuño** nos compartió su motivación para **adaptar la leyenda de Chuzalongo al cine**. Para Ortuño es importante **preservar las leyendas ecuatorianas** que han sido transmitidas de manera oral y que, lamentablemente, se están perdiendo en las nuevas generaciones.  
-
-Ortuño señaló que **su interés por llevar estas historias a la pantalla surgió durante la investigación para la película**, donde pudo apreciar la **riqueza cultural del Ecuador**. Su experiencia previa con el **cortometraje ‘Waka’** demostró que l**os jóvenes estaban ansiosos por aprender sobre estas leyendas**. Tal situación lo llevó a querer **unir a las generaciones** a través de relatos que ofrecen enseñanzas valiosas sobre la **cultura ecuatoriana**. 
-
-**El tras cámaras**
--------------------
-
-Aviones sobrevuelan el cielo de Quito, este 23 de octubre, ¿a qué se debe?
-==========================================================================
-
-Quito recibe a aeronaves, la mañana de este 23 de octubre.
-----------------------------------------------------------
-
-![Aeronaves sobrevuelan el cielo de Quito, este 23 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-15.jpg)
-
-El **sobrevuelo** de varios **aviones** sorprendió a los habitantes **de Quito**, la mañana de este miércoles, 23 de octubre de 2024. En particular, en el centro y centro-norte de la ciudad.
-
-Las **Fuerzas Armadas** detallaron las razones para las operaciones realizadas. Se acerca una fecha especial para las filas del orden.
-
-### Más noticias
-
-* [Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas](https://www.elcomercio.com/actualidad/seguridad/estudiantes-26-colegios-se-formaran-doctrina-fuerzas-armadas.html "Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas")
-* [Fuerzas Armadas hallan objetos del crimen organizado](https://www.elcomercio.com/actualidad/seguridad/fuerzas-armadas-hallan-elementos-crimen-organizado.html "Fuerzas Armadas hallan objetos del crimen organizado")
-* [Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones](https://www.elcomercio.com/actualidad/seguridad/militares-coca-codo-seguridad-operaciones.html "Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones")
-
-> ¡QUITO, PREPÁRATE!✈️🦾🚁  
->   
-> Este 23 y 24 de octubre, las aeronaves de la Fuerza AÉREA Ecuatoriana, incluidos los helicópteros que ayudaron a combatir los incendios en la capital, sobrevolarán la ciudad en preparación para la gran ceremonia del viernes 25 de octubre.  
->   
-> 📷🎞️Captura y… [pic.twitter.com/gqTxhTuPYD](https://t.co/gqTxhTuPYD)
+> 📰NOTICIA | Tras años de abandono, el gobierno del presidente Noboa concluye reparación del túnel de carga Toachi – Alluriquín del proyecto hidroeléctrico Toachi Pilatón.➡️ [https://t.co/roISTtb8TE](https://t.co/roISTtb8TE) [pic.twitter.com/aYrD3gHd2t](https://t.co/aYrD3gHd2t)
 > 
-> — Fuerza Aérea Ecuatoriana (@FuerzaAereaEc) [October 22, 2024](https://twitter.com/FuerzaAereaEc/status/1848875761144631683?ref_src=twsrc%5Etfw)
+> — Corporación Eléctrica del Ecuador🇪🇨 (@CELECEPOficial) [October 22, 2024](https://twitter.com/CELECEPOficial/status/1848834448147546379?ref_src=twsrc%5Etfw)
 
-Aviones en el cielo de Quito
-----------------------------
+Durante la visita, Sánchez también supervisó la casa de máquinas de la central hidroeléctrica Alluriquín, la más importante del complejo **Toachi Pilatón**, que aportará 204 megavatios (MW) al sistema eléctrico del país.
 
-El cielo de **Quito** es el escenario para los repasos, con integrantes de la **Fuerza Aérea Ecuatoriana (FAE)**.
+Está previsto que la operación experimental de esta central comience en diciembre de 2024 y ayude a solventar la **crisis energética** por la que atraviesa el Ecuador.
 
-En el caso de los edificios del sector de la **González Suárez**, hubo quienes subieron hasta las terrazas para observar el paso de las **aeronaves**, cuyos pilotos realizaron maniobras y formaciones grupales.
+Celec también informó que se están realizando pruebas para verificar el **correcto funcionamiento** de los componentes electromecánicos y de los sistemas auxiliares asociados a la descarga de la central Alluriquín.
 
-En las **redes sociales** también se publicaron videos con expresiones como: “Miren esta formación. Lindo ver a los aviones”.
+El complejo Toachi-Pilatón cuenta con un avance del 98%. Esta infraestructura se ubica en los límites de las provincias de Pichincha, Santo Domingo de los Tsáchilas y Cotopaxi, y se alimenta de los ríos Pilatón y Toachi.
 
-De hecho, a través de la cuenta de X de la **FAE**, se motivó a la comunidad a capturar y publicar en sus redes las mejores imágenes.
+Su ubicación estratégica en la vertiente occidental de los Andes le permite generar electricidad cuando la vertiente oriental enfrenta periodos de estiaje, informó la Celec.
 
-> Alguien sabe por qué están sobrevolando en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) estos aviones? [pic.twitter.com/UIeTaDdJ2n](https://t.co/UIeTaDdJ2n)
-> 
-> — Alejandro David (@MrAleVid) [October 23, 2024](https://twitter.com/MrAleVid/status/1849131238012928487?ref_src=twsrc%5Etfw)
-
-¿A qué se debe?
----------------
-
-Este 25 de octubre de 2024, se conmemorarán 104 años de la creación de la **Aviación Civil Nacional** y el Día de la **Fuerza Aérea Ecuatoriana** (FAE).
-
-La ceremonia se llevará a cabo a las 11:00, en la plataforma militar de la **Base Aérea Mariscal Sucre** de Quito, en el antiguo aeropuerto de la ciudad.
-
-Por eso, este 23 de octubre, se desarrollaron los repasos, con aviones **Super Tucano** y helicópteros Fennec. Estas jornadas también se realizarán este jueves.
-
-En la jornada también participan los pilotos y **helicópteros** que ayudaron a combatir los incendios en **Quito**.
-
-Según información de fuentes de las Fuerzas Armadas, está previsto que asistan el presidente Daniel Noboa, así como el ministro de Defensa, **Gian Carlo Loffredo**.
-
-Barcelona vs. Bayern, una verdadera prueba en Champions
-=======================================================
-
-El balance del Barca contra el Bayern es de dos triunfos, dos empates y 11 derrotas.
-------------------------------------------------------------------------------------
-
-![Robert Lewandowski es el goleador del Barcelona en la Liga española con 12 goles.](https://www.elcomercio.com/wp-content/uploads/2024/10/barca_bayern_1.jpg)
-
-El **Barcelona de España y el Bayer Múnich de Alemania** se citan en la tercera fecha de la Champions League este miércoles 23 de octubre de 2024, en lo que se proyecta como uno de los partidos más destacados de toda esta jornada.
-
-El juego entre el Barcelona y el Bayern arrancará desde las **14:00 en Estadio Olímpico de Montjuic**, escenario que acoge a los catalanes mientras avanza a paso acelerado la reconstrucción del Camp Nou.
-
-### Más noticias:
-
-* [Joel Ordóñez y Brujas lucharon, pero perdieron ante Milan](https://www.elcomercio.com/deportes/futbol/joel-ordonez-champions-league-milan.html "Joel Ordóñez y Brujas lucharon, pero perdieron ante Milan")
-* [Barcelona Sporting Club pone fecha para la Noche Amarilla 2025](https://www.elcomercio.com/deportes/futbol/noche-amarilla2025-barcelona-sporting-club.html "Barcelona Sporting Club pone fecha para la Noche Amarilla 2025")
-* [Equipo de Segunda Categoría se pronuncia sobre irregularidades](https://www.elcomercio.com/deportes/equipo-de-segunda-categoria-se-pronuncia-sobre-irregularidades.html "Equipo de Segunda Categoría se pronuncia sobre irregularidades")
-
-Para el Barca es una verdadera de prueba enfrentar a los **alemanes en la previa del Clásico de España** ante el Real Madrid, puesto que han mostrado un arranque de temporada con 10 victorias en 12 presentaciones, entre el torneo local y la Champions.
-
-Los catalanes son líderes de su torneo con **27 puntos, tres más que el Madrid,** al que visitará en el Santiago Bernabéu.
-
-Además, será el reencuentro de Hansi Flick con sus antiguos dirigidos, a los que supo guiar a ganar la **Champions en el curso 2019/20 ante el Paris Saint-Germain**, en medio de la pandemia del covid-19 que sacudió el mundo por esos meses.
-
-Los bávaros son líderes con 17 puntos. En las siete primeras fechas ganaron cinco, empataron dos y no saben lo que es perder. Han marcado 24 goles y recibieron siete para un gol diferencia positivo de +17.
-
-Flick contra su antiguo equipo
-------------------------------
-
-El entrenador del Barcelona Hansi Flick se enfrentará a la historia, la suya personal como extécnico del Bayern Múnich, y también la del cuadro azulgrana, que tratará de derrotar a su pesadilla.
-
-Sobre el papel, no existe un rival más adverso que el Bayern. El balance de los **azulgranas contra el conjunto germano es de dos triunfos, dos empates y 11 derrotas** en quince partidos, pero los cinco duelos más recientes se han saldado con un pleno de derrotas y un marcador acumulado de 2 a 19 desfavorable al bando barcelonista, que no gana a su próximo adversario desde 2015.
-
-De entre todas ellas, **ninguna fue tan dolorosa como el 2-8 en los cuartos de final** de la ‘Champions 2019-20’, cuando Flick dirigía al coloso muniqués.
-
-En apenas un semestre, **Flick ha impuesto en Barcelona el sello que definió a su Bayern**: un equipo que defiende en campo rival, muerde para robar el balón y busca la portería durante los 90 minutos con un juego vertical en el que Robert Lewandowski, autor de 14 goles en 12 partidos oficiales, es la punta de lanza.
-
-El entrenador ha afianzado un 11 titular en el que la gran duda estará en el tercer integrante del centro del campo. Eric García, que venía actuando de mediocentro, se lesionó el aductor derecho durante el calentamiento previo a la victoria del domingo ante el Sevilla (1-5) y esta semana no se ha entrenado con el grupo.
-
-Flick seguirá contando con las bajas por lesión de los defensas **Ronald Araujo y Andreas Christensen, el centrocampista Marc Bernal**, el delantero Ferran Torres y el portero Marc-André Ter Stegen, cuyo puesto debería mantener Iñaki Peña en detrimento del recién fichado Wojciech Szczesny, según desveló el propio entrenador.
-
-Enfrente, los de Hansi Flick se encontrarán al equipo que lanzó al estrellato al técnico germano. Precisamente, **tras su salida para hacerse cargo de Alemania en 2021**, comenzó un lento declive del Bayern que tuvo su punto culminante el pasado curso, cuando, al mando de Thomas Tuchel, finalizó su primera temporada sin títulos en 12 años.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/barca_bayern_2-1024x683.jpg)
-
-Foto: API.
-
-Bayern por la recuperación
---------------------------
-
-Los bávaros llegan, eso sí, **con la duda de Musiala, baja en los últimos dos encuentros Bundesliga** y ausente en el parón internacional por unas molestias en la cadera. El mediapunta comenzó a ejercitarse por su cuenta a la vuelta de la interrupción internacional y este lunes ya participó en el entrenamiento grupal.
-
-Necesitado de una victoria en la máxima competición continental tras el varapalo sufrido en Birmingham ante el Aston Villa, **se espera que Kompany lo fuerce para intentar asaltar**, como en las últimas dos ocasiones -ambas en el Camp Nou, eso sí-, el feudo azulgrana.
-
-En las filas alemanas son bajas seguras el **mediocentro Aleksandar Pavlovic**, hombre fundamental en la medular que sufrió una fractura en la clavícula el pasado sábado ante el Stuttgart; y los laterales derechos Sacha Boey y Josip Stanišić.
-
-En el otro costado de la **zona baja estará el canadiense Alphonso Davies**, un relámpago que ya causó estragos al Barcelona en el pasado y cuyo duelo individual con Lamine Yamal es de especial interés.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/barca_bayern_3-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Horarios para ver a Piero Hincapié y Angelo Preciado en Champions
+Joven quedó atrapada entre rocas al intentar recuperar su celular
 =================================================================
 
-Piero Hincapié con el Bayer Leverkusen y Angelo Preciado con el Manchester City tendrán acción en la UEFA Champions League.
----------------------------------------------------------------------------------------------------------------------------
+Campbell salió prácticamente ilesa, con solo algunos rasguños y moretones.
+--------------------------------------------------------------------------
 
-![Piero Hincapié antes de jugar la UEFA Champions League con el Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-23T105021.443.jpg)
+![Imagen referencial sobre una mujer atrapada en medio de las rocas.](https://www.elcomercio.com/wp-content/uploads/2024/10/pies-mujer-captura.jpg)
 
-La **UEFA Champions League** continúa y dos ecuatorianos tendrán durante este miércoles 23 de octubre del 2024. **Piero Hincapié** estará presente con el Bayer Leverkusen ante el Brest y **Angelo Preciado** con el Sparta Praga frente al Manchester City.
-
-El máximo torneo de clubes de Europa disputa su tercera fecha y llega con ocho partidos para la fecha mencionada. Además de los planteles de los ecuatorianos, también estarán presentes equipos clubes como el **FC Barcelona**, el **Bayern Múnich** o el **Atlético de Madrid**.
-
-### Más noticias:
-
-* [El PSG y Willian Pacho igualan en la tercera fecha de Champions](https://www.elcomercio.com/deportes/psg-willian-pacho-champions-psv.html "El PSG y Willian Pacho igualan en la tercera fecha de Champions")
-* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
-* [La Champions League se reanuda con nueve partidos](https://www.elcomercio.com/deportes/futbol/champions-league-fecha3-ecuatorianos.html "La Champions League se reanuda con nueve partidos")
-
-La jornada de la Champions se inauguró el 22 de octubre con otros nueve cotejos, entre los cuales estuvo el de **Joel Ordóñez** con el Brujas de Bélgica. En tal compromiso, este cayó por un marcador de 2-1 ante el AC Milan como local[.](https://en.wikipedia.org/wiki/UEFA_Champions_League "https://en.wikipedia.org/wiki/UEFA_Champions_League")
-
-Los duelos correspondientes a la fecha que cerrarán **Angelo Preciado y Piero Hincapié** se dividirán en dos bloques. En el primero, a las 11:45, habrá dos partidos de manera simultánea; en el segundo, a las 14:00, seis.
-
-Para el choque ante el Manchester City, **Angelo Preciado** y el Sparta Praga arriban invictos con un empate y un triunfo en la UEFA Champions League y en la decimocuarta posición de la primera fase. En el caso de **Piero Hincapié**, él y el Leverkusen están octavos con seis puntos.
-
-Horarios de la UEFA Champions League durante este 23 de octubre
----------------------------------------------------------------
-
-**Fecha**: miércoles 23 de octubre del 2024
-
-**Partido**: Stade Brest vs. Bayer Leverkusen
-
-**Hora**: 11:45
-
-**Partido**: RB Leipzig vs. Liverpool
-
-**Hora**: 11:45
-
-**Partido**: Manchester City vs. Sparta Praga
-
-**Hora**: 14:00
-
-**Partido**: FC Barcelona vs. Bayern Munich
-
-**Hora**: 14:00
-
-**Partido**: Atlético de Madrid vs. Lille
-
-**Hora**: 14:00
-
-**Partido**: RB Salzburgo vs. Dinamo Zagreb
-
-**Hora**: 14:00
-
-**Partido**: Benfica vs. Feyenoord
-
-**Hora**: 14:00
-
-**Partido**: Young Boys vs. Inter de Milán
-
-**Hora**: 14:00
-
-Un incendio se registró en El Panecillo este miércoles 23 de octubre
-====================================================================
-
-El fuego afectó un inmueble y una zona de hierba seca. Los bomberos se mantienen en el sitio realizando labores de control
---------------------------------------------------------------------------------------------------------------------------
-
-![El Cuerpo de Bomberos Quito sofocó el incendio.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-12-2.jpg)
-
-El servicio de emergencia **ECU911** informó este miércoles 23 de octubre de 20024 sobre un incendio estructural registrado en el sector de **El Panecillo**, en Quito.
+**Matilda Campbell** pasó siete horas atrapada entre rocas en **Nueva Gales del Sur** tras caer intentando recuperar su [celular](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html") durante una caminata.
 
 ### Más noticias
 
-* [Cortes de agua en Quito este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-miercoles-23-de-octubre.html "Cortes de agua en Quito este miércoles 23 de octubre")
-* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
-* [Machala vive otra jornada violenta con explosivos; hay un fallecido](https://www.elcomercio.com/actualidad/seguridad/machala-vive-otra-jornada-violenta-con-explosivos-hay-un-fallecido.html "Machala vive otra jornada violenta con explosivos; hay un fallecido")
+* [Gobierno lanzó aplicación digital para combatir la desnutrición infantil](https://www.elcomercio.com/actualidad/ecuador/gobierno-aplicacion-desnutricion-infantil.html "https://www.elcomercio.com/actualidad/ecuador/gobierno-aplicacion-desnutricion-infantil.html")
+* [499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html")
+* [Estas son las filtraciones del iPhone 16](https://www.elcomercio.com/tecnologia/estas-filtraciones-iphone-16.html "https://www.elcomercio.com/tecnologia/estas-filtraciones-iphone-16.html")
 
-El incendio en El Panecillo
----------------------------
+Rescate en Nueva Gales del Sur
+------------------------------
 
-Una llamada de alerta ingresó a las 09:17 de este miércoles a la central de emergencias 911. En ella se avisaba sobre un incendio en un inmueble del sector.
+Matilda Campbell, una joven excursionista en Nueva Gales del Sur, Australia, vivió una **angustiante experiencia** cuando, al intentar **recuperar su celular**, quedó atrapada entre dos enormes rocas. Durante una caminata, Campbell cayó en una grieta de tres metros de profundidad, quedando bocabajo e inmovilizada. El **difícil rescate**, que duró siete horas, implicó el desplazamiento de varias rocas grandes para liberar a la joven, según informó la **BBC**.
 
-Desde la Sala Operativa se despachó el auxilio inmediato con las unidades del Cuerpo de Bomberos Quito, el COE Metropolitano y la Policía Nacional.
+Salió prácticamente ilesa
+-------------------------
 
-Estos organismos de primera respuesta se movilizaron para atender un incendio estructural y forestal en la zona, apoyados de contingente humano y logístico.
+A pesar de las circunstancias, Campbell **salió prácticamente ilesa**, con solo algunos rasguños y moretones. El incidente, que pudo terminar de manera trágica, tuvo un desenlace positivo gracias al rápido accionar de los servicios de emergencia locales.
 
-El personal de socorro realiza trabajos de control del fuego. Desde las cámaras de videovigilancia de la central de emergencias se realiza el monitoreo constante.
+“Gracias al equipo que me salvó”, escribió Campbell en redes sociales, aunque añadió con humor: “**Lástima lo del teléfono**“. Esta noticia fue ampliamente difundida por **BBC**, que destacó la valentía de la joven y la complejidad del rescate.
 
-Según la información preliminar, no existen personas heridas en esta emergencia.
+Un rescate complicado y sin teléfono
+------------------------------------
 
-Incendio controlado
--------------------
+Los rescatistas enfrentaron un desafío considerable, ya que el terreno accidentado y la posición en la que quedó atrapada Campbell dificultaron la operación. Finalmente, después de horas de maniobras cuidadosas, lograron liberarla. A pesar de que el objetivo inicial de la joven era **recuperar su teléfono,** este quedó irremediablemente perdido entre las rocas, como reportó **BBC**.
 
-El **Cuerpo de Bomberos Quito** informó que realizó tareas de combate al fuego en el inmueble y logró controlar el fuego.
+Distracciones tecnológicas
 
-Además, informaron **que el fuego afectó u**na zona de **hierba seca**. La institución bomberil confirmó que, por fortuna, no se registraron personas afectadas.
+Este caso generó atención internacional, no solo por la **dramática situación de Campbell,** sino por la creciente tendencia de accidentes similares en excursiones debido a distracciones tecnológicas.
 
-Al momento, los bomberos se mantienen en el sitio para realizar **labores de enfriamiento.**
+Cortes de luz en Cuenca este jueves 24 de octubre
+=================================================
 
-> ✅ [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | El incendio registrado en el sector de El Panecillo está controlado.  
->   
-> 👉 El fuego afectó hierba seca y una estructura del sector. Por fortuna, no se registró personas afectadas.  
->   
-> 💧Al momento, realizamos labores de enfriamiento.  
->   
-> 📞 En caso de emergencia llama… [https://t.co/BfAnAOkL9R](https://t.co/BfAnAOkL9R) [pic.twitter.com/vzOoU0QXg6](https://t.co/vzOoU0QXg6)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 23, 2024](https://twitter.com/BomberosQuito/status/1849106616903209188?ref_src=twsrc%5Etfw)
+Los cortes de luz en Cuenca para este jueves 24 de octubre son de hasta ocho horas, como en todo el país.
+---------------------------------------------------------------------------------------------------------
 
-Un incendio se registró en Cumandá
-----------------------------------
+![Los cortes de luz en Cuenca este jueves 24 de octubre serán de 00:00 a 24:00.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-jueves-24-octubre.jpg)
 
-La mañana del martes 22 de octubre de 2024, e**l Cuerpo de Bomberos de Quito** informó sobre un incendio causado por quema de desechos la mañana del martes 22 de octubre de 2024.
+Los **cortes de luz** en **Cuenca** para este **jueves 24 de octubre** se mantienen con ocho horas de duración.
 
-El Cuerpo de Bomberos informó a las 11:07 que el incendio ocurrido en el **redondel de Cumandá** se controló y se realizan las labores de enfriamiento en un área aproximada de 300 metros cuadrados, que afectó a la hierba seca y matorral en la quebrada.
+La **Centrosur** emitió una programación con horarios vigentes hasta el sábado.
 
-En este caso, la causa del incendio es **la quema de desechos**.
+### Más noticias:
 
-En esta época de fuertes vientos y [temperaturas altas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"), **evita realizar quemas de cualquier tipo**.
+* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
+* [Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/gobierno-detalla-origen-1598-mw-incorporaran-corte-de-luz.html "Gobierno detalla cómo incorporará 1 598 MW para enfrentar los cortes de luz")
 
-> ✅ [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | La quema de desechos en el sector de Cumandá se encuentra controlada.  
->   
-> 🤚 No quemes basura o hierba seca, puedes provocar un incendio.  
->   
-> 👉 Evita sanciones y juntos cuidemos de nuestros espacios verdes.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/0YFCW7w0fo](https://t.co/0YFCW7w0fo) [pic.twitter.com/8ClmQQQwrb](https://t.co/8ClmQQQwrb)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 22, 2024](https://twitter.com/BomberosQuito/status/1848757041042428342?ref_src=twsrc%5Etfw)
+Horario de cortes de luz en Cuenca este jueves 24 de octubre
+------------------------------------------------------------
+
+Esta es la **primera semana de reducción de horas** en los cortes de luz, ordenada por el Gobierno de Daniel Noboa.
+
+Pese a la situación de **los caudales de ríos, los embalses y las hidroeléctricas**, Noboa dispuso una reducción paulatina para el sector residencial.
+
+Esto, mientras varios ministerios toman **acciones** frente a los cortes de luz o crisis energética en el país.
+
+El **Ministerio de Trabajo** emitió un acuerdo ministerial para extender a 10 horas la jornada de trabajo, durante cuatro días a la semana.
+
+Esta modificación debe tener el **consenso** entre trabajadores y empleadores y no puede sobrepasar las 40 horas laborales a la semana.
+
+En tanto, desde el **Ministerio de Energía**, se detalló las acciones que se llevan adelante para lograr la incorporación de 1598 MW.
+
+Así, los cortes de luz en **Cuenca**, durante esta semana, son de ocho horas, divididas en **dos franjas horarias**, de acuerdo al sector.
+
+Los horarios dispuestos por la **Centrosur** tienen vigencia hasta este viernes 25 de octubre.
+
+A continuación, los **horarios de cortes de luz en Cuenca para este jueves 24 de octubre**:
