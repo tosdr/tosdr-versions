@@ -36,18 +36,18 @@
         
         VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
     
-    * [![Get 15 months of Microsoft 365 on all your devices — now under $50](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Ireland fines LinkedIn €310 million over targeted advertising](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get 15 months of Microsoft 365 on all your devices — now under $50](https://www.bleepingcomputer.com/offer/deals/get-15-months-of-microsoft-365-on-all-your-devices-now-under-50/)
-    * [![Mandiant says new Fortinet flaw has been exploited since June](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ireland fines LinkedIn €310 million over targeted advertising](https://www.bleepingcomputer.com/news/legal/ireland-fines-linkedin-310-million-over-targeted-advertising/)
+    * [![Start your cybersecurity career here with this $40 intro course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
-    * [![Windows 11 KB5044380 preview update lets you remap the Copilot key](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Start your cybersecurity career here with this $40 intro course deal](https://www.bleepingcomputer.com/offer/deals/start-your-cybersecurity-career-here-with-this-40-intro-course-deal/)
+    * [![Cisco fixes VPN DoS flaw discovered in password spray attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 KB5044380 preview update lets you remap the Copilot key](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
-    * [![WhatsApp now encrypts contact databases for privacy-preserving synching](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Cisco fixes VPN DoS flaw discovered in password spray attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/)
+    * [![New Qilin ransomware encryptor features stronger encryption, evasion](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        WhatsApp now encrypts contact databases for privacy-preserving synching](https://www.bleepingcomputer.com/news/security/whatsapp-now-encrypts-contact-databases-for-privacy-preserving-synching/)
+        New Qilin ransomware encryptor features stronger encryption, evasion](https://www.bleepingcomputer.com/news/security/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
