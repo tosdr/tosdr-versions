@@ -1,6 +1,6 @@
 [![mysterium main logo](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65bb94dbe4eb01080ac9eba7_mysterium-main-logo-white.svg)](https://www.mysteriumvpn.com/)
 
-[Features](https://www.mysteriumvpn.com/features)[Pricing](https://www.mysteriumvpn.com/vpn-pricing)[Downloads](https://www.mysteriumvpn.com/downloads)[Blog](https://www.mysteriumvpn.com/blog)[Sign In](#)[Get Mysterium VPN](#)
+[Features](https://www.mysteriumvpn.com/features)[Pricing](https://www.mysteriumvpn.com/vpn-pricing)[Downloads](https://www.mysteriumvpn.com/downloads)[Blog](https://www.mysteriumvpn.com/blog)[Sign In](https://app.mysteriumvpn.com/login)[Get Mysterium VPN](https://www.mysteriumvpn.com/vpn-pricing)
 
 [Sign In](https://app.mysteriumvpn.com/login)[Get Mysterium VPN](https://www.mysteriumvpn.com/vpn-pricing)
 
