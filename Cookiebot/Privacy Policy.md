@@ -499,9 +499,9 @@ Subscribe By clicking on “Subscribe” I confirm that I want to subscribe to t
 
 [![wix_20x20.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/05/wix_20x20.svg)Cookiebot™ for Wix by Usercentrics](https://www.wix.com/app-market/cookiebot-for-wix?utm_source=cb_footer_cta&utm_medium=referral)
 
-![logo-cb-footer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
+![Cookiebot Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
 
-![logo-cb-footer](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/10/logo-cb-footer.svg)
+![Cookiebot Logo](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/10/logo-cb-footer.svg)
 
 Euro - €
 
