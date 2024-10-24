@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, October 23 2024
+Thursday, October 24 2024
 
 Latest
 
-* [Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
-* [Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
-* [My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
-* [IT company ATSG Inc notifies 900K+ people of data breach that compromised SSNs](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
-* [I tried upscaling pictures with Super Resolution in Photos, and it’s a disappointment](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
-* [Best Automatic Soap Dispensers – Consumer Reports](https://digitpatrox.com/best-automatic-soap-dispensers-consumer-reports/)
-* [Your Amazon Prime Now Includes Gas Savings](https://digitpatrox.com/your-amazon-prime-now-includes-gas-savings/)
-* [What are the benefits of a mini PC?](https://digitpatrox.com/what-are-the-benefits-of-a-mini-pc/)
-* [Threat Actors Are Exploiting Vulnerabilities Faster Than Ever](https://digitpatrox.com/threat-actors-are-exploiting-vulnerabilities-faster-than-ever/)
-* [Ultenic D10 robot vacuum review: Super-affordable hands-free everyday vacuum and mop](https://digitpatrox.com/ultenic-d10-robot-vacuum-review-super-affordable-hands-free-everyday-vacuum-and-mop/)
+* [This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
+* [Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
+* [This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
+* [2025 Jeep Compass First Drive Review](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
+* [9 Tips to Get Perfect Excel Printouts](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
+* [Mimecast appoints Amol Kulkarni to its board of directors](https://digitpatrox.com/mimecast-appoints-amol-kulkarni-to-its-board-of-directors/)
+* [Public Boards Seek a Balance Between Innovation and Risk](https://digitpatrox.com/public-boards-seek-a-balance-between-innovation-and-risk/)
+* [iOS 18.2 developer beta is live with Visual Intelligence, Image Playground and ChatGPT — all the new AI features for your iPhone](https://digitpatrox.com/ios-18-2-developer-beta-is-live-with-visual-intelligence-image-playground-and-chatgpt-all-the-new-ai-features-for-your-iphone/)
+* [Windows 11 KB5044380 preview update lets you remap the Copilot key](https://digitpatrox.com/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
+* [Dodge Chargers with semi-solid-state batteries may hit the road in 2026](https://digitpatrox.com/dodge-chargers-with-semi-solid-state-batteries-may-hit-the-road-in-2026/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/JnqyfYytN2ZKjWdJMjBgyW-1200-80.jpg)](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
+* [![](https://cdn.mos.cms.futurecdn.net/gvZ5pRwHumEBEES28aLvkE-1200-80.jpg)](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
     
-    [Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
-    
-    18 mins ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3582979-0-16996400-1729699911-mp-ericsson-hq-signage-07-original.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
-    
-    [Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
-    
-    40 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JAX1MMBPX3ERNZ9R71XAQ713/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
-    
-    [My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
+    [This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/ATSG-Inc-notifies-900K-people-of-data-breach-that-compromised-SSNs.jpg)](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3583351-0-63843700-1729711941-shutterstock_2366647495-100963142-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
     
-    [IT company ATSG Inc notifies 900K+ people of data breach that compromised SSNs](https://digitpatrox.com/it-company-atsg-inc-notifies-900k-people-of-data-breach-that-compromised-ssns/)
+    [Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/photos-super-resolution-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
+* [![](https://lifehacker.com/imagery/articles/01JAX7Z30KVF210PHT4A5ZZ860/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
     
-    [I tried upscaling pictures with Super Resolution in Photos, and it’s a disappointment](https://digitpatrox.com/i-tried-upscaling-pictures-with-super-resolution-in-photos-and-its-a-disappointment/)
+    [This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729000609/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Jeep-Compass-f-driving-10-24)](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
+    
+    [2025 Jeep Compass First Drive Review](https://digitpatrox.com/2025-jeep-compass-first-drive-review/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-phone-with-an-excel-spreadsheet-and-a-paper-with-the-same-spreadsheet-printed.jpg)](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
+    
+    [9 Tips to Get Perfect Excel Printouts](https://digitpatrox.com/9-tips-to-get-perfect-excel-printouts/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
-    
-    ### Westcon-Comstor and UiPath agree new UK distribution deal](https://digitpatrox.com/westcon-comstor-and-uipath-agree-new-uk-distribution-deal/)
-* [40 mins ago
-    
-    ### Ericsson’s return-to-office policy is causing trouble](https://digitpatrox.com/ericssons-return-to-office-policy-is-causing-trouble/)
 * [1 hour ago
     
-    ### My Favorite Amazon Deal of the Day: The Apple Watch Series 10](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-apple-watch-series-10/)
+    ### This software company says ditching the cloud was worth $10 million in savings — and there’s still more to come](https://digitpatrox.com/this-software-company-says-ditching-the-cloud-was-worth-10-million-in-savings-and-theres-still-more-to-come/)
+* [2 hours ago
+    
+    ### Qualcomm’s license battle with Arm puts many AI-enabled Copilot+ PCs in peril – Computerworld](https://digitpatrox.com/qualcomms-license-battle-with-arm-puts-many-ai-enabled-copilot-pcs-in-peril-computerworld/)
+* [2 hours ago
+    
+    ### This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
 
 Most Popular Topics
 
-* [August 25, 2024
+* [August 24, 2024
     
-    ### How to watch US Open 2024: live stream tennis online from anywhere, seeds, schedule](https://digitpatrox.com/how-to-watch-us-open-2024-live-stream-tennis-online-from-anywhere-seeds-schedule/)
-* [4 weeks ago
-    
-    ### Hands-On With AI for Workspace](https://digitpatrox.com/hands-on-with-ai-for-workspace/)
+    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
 * [2 weeks ago
     
-    ### I’m a deals writer and these are the 29 Prime Day deals I’d shop ahead of the holidays](https://digitpatrox.com/im-a-deals-writer-and-these-are-the-29-prime-day-deals-id-shop-ahead-of-the-holidays/)
+    ### A file extension bug in Microsoft 365 can delete Word documents – Computerworld](https://digitpatrox.com/a-file-extension-bug-in-microsoft-365-can-delete-word-documents-computerworld/)
+* [August 26, 2024
+    
+    ### The phrase ‘Open Source AI’ gets a definition – Computerworld](https://digitpatrox.com/the-phrase-open-source-ai-gets-a-definition-computerworld/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### Your Amazon Prime Now Includes Gas Savings](https://digitpatrox.com/your-amazon-prime-now-includes-gas-savings/)
-* [3 hours ago
+    ### Public Boards Seek a Balance Between Innovation and Risk](https://digitpatrox.com/public-boards-seek-a-balance-between-innovation-and-risk/)
+* [4 hours ago
     
-    ### What are the benefits of a mini PC?](https://digitpatrox.com/what-are-the-benefits-of-a-mini-pc/)
-* [3 hours ago
+    ### iOS 18.2 developer beta is live with Visual Intelligence, Image Playground and ChatGPT — all the new AI features for your iPhone](https://digitpatrox.com/ios-18-2-developer-beta-is-live-with-visual-intelligence-image-playground-and-chatgpt-all-the-new-ai-features-for-your-iphone/)
+* [4 hours ago
     
-    ### Threat Actors Are Exploiting Vulnerabilities Faster Than Ever](https://digitpatrox.com/threat-actors-are-exploiting-vulnerabilities-faster-than-ever/)
+    ### Windows 11 KB5044380 preview update lets you remap the Copilot key](https://digitpatrox.com/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 11, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
