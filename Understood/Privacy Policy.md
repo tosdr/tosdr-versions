@@ -1,4 +1,4 @@
-[](https://www.understood.org/en "Understood Homepage")
+[](https://www.understood.org/en "Understood homepage")
 
 * Explore resources
     
