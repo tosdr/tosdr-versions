@@ -71,8 +71,7 @@ Menu Close
     * [Specialized Master Programs](https://www.unibocconi.eu/en/applying-bocconi/specialized-master-programs)
     * [PhD Programs](https://www.unibocconi.eu/en/applying-bocconi/phd-programs)
     * [Summer School](https://www.unibocconi.eu/en/applying-bocconi/summer-school)
-    * Post-Experience Education
-        
+    * [Post-Experience Education](https://www.unibocconi.eu/en/entrare-bocconi/post-experience-education)
     
 * News and Events Hub
     
