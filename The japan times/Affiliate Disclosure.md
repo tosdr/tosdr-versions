@@ -255,17 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. defense chief confirms North Korean troops are in Russia](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/politics/north-korea-russia-us-lloyd-austin/ "U.S. defense chief confirms North Korean troops are in Russia")
+[Germany is courting India as ties with China sour: What to watch](https://www.japantimes.co.jp/news/2024/10/24/world/politics/germany-india-ties-china/ "Germany is courting India as ties with China sour: What to watch")
 
-10 hours ago
+7 mins ago
 
-[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+[Facing buyout bid, Seven & I tells investors sales will double by 2030](https://www.japantimes.co.jp/business/2024/10/24/seven-i-investors-double-revenue/ "Facing buyout bid, Seven & I tells investors sales will double by 2030")
 
-[In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears](https://www.japantimes.co.jp/news/2024/10/23/japan/media/tokyo-no-1-district/ "In the heart of Tokyo, LDP and CDP rivals duke it out as election day nears")
+36 mins ago
 
-[Court orders retrial in 1986 Fukui murder case due to witness coercion](https://www.japantimes.co.jp/news/2024/10/23/japan/crime-legal/fukui-murder-retrial/ "Court orders retrial in 1986 Fukui murder case due to witness coercion")
+[Brazil's business leaders reluctant to pick between U.S. and China ties](https://www.japantimes.co.jp/news/2024/10/24/world/politics/brazil-us-china-polarized-world/ "Brazil's business leaders reluctant to pick between U.S. and China ties")
 
-[Japan’s lunar ambitions advance with two new astronauts](https://www.japantimes.co.jp/news/2024/10/23/japan/jaxa-astronauts/ "Japan’s lunar ambitions advance with two new astronauts")
+44 mins ago
+
+[TSMC cuts off client after discovering chips sent to Huawei](https://www.japantimes.co.jp/business/2024/10/24/tech/tsmc-client-chips-huawei/ "TSMC cuts off client after discovering chips sent to Huawei")
+
+1 hours ago
+
+[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
