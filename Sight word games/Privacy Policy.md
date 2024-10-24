@@ -5,9 +5,7 @@
 
 Check out our FREE [sight word worksheets](https://www.sightwordsgame.com/sight-words/worksheets/printable-sight-word-worksheets/) – we have over 150 in our database!
 
-[![Sight Words Game](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20100'%3E%3C/svg%3E)
-
-![Sight Words Game](https://www.sightwordsgame.com/wp-content/uploads/2018/10/logo-sightwordsgame.png)](https://www.sightwordsgame.com/)
+[![Sight Words Game](https://www.sightwordsgame.com/wp-content/uploads/2018/10/logo-sightwordsgame.png)](https://www.sightwordsgame.com/)
 
 [Sight Words, Reading, Writing, Spelling & Worksheets](https://www.sightwordsgame.com/)
 
@@ -112,9 +110,7 @@ Primary Sidebar
 
 ### FREE Sight Word Game
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://www.sightwordsgame.com/wp-content/uploads/2012/08/Image-concentration-game.gif)](https://www.sightwordsgame.com/concentration/)
+[![](https://www.sightwordsgame.com/wp-content/uploads/2012/08/Image-concentration-game.gif)](https://www.sightwordsgame.com/concentration/)
 
 ### FREE Printable Worksheets
 
