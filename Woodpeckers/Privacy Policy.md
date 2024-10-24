@@ -18,7 +18,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 [Skip to Content](#contentarea)
 
-Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
+Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1729782419/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
 
 [Join our newsletter](https://www.woodpeck.com/sign-up-for-newsletter)
 
@@ -403,7 +403,7 @@ Sign Up for Our Newsletter:
 
 Subscribe
 
-![Woodpeckers](https://cdn.woodpeck.com/static/version1727885091/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
+![Woodpeckers](https://cdn.woodpeck.com/static/version1729782419/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
 
   
 [Do Not Sell My Personal Information](https://www.woodpeck.com/ccpa-opt-out)
