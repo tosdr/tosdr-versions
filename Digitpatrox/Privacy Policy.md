@@ -20,16 +20,16 @@ Friday, October 25 2024
 
 Latest
 
-* [UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
-* [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
-* [Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
-* [Iceland’s four-day working week trials have been a roaring success – economic growth spiked, workers were happier, and burnout plummeted](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
-* [Who needs a humanoid robot when everything is already robotic? – Computerworld](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
-* [The Best Paid VPNs in 2024](https://digitpatrox.com/the-best-paid-vpns-in-2024/)
-* [Best Winter/Snow Tires – Consumer Reports](https://digitpatrox.com/best-winter-snow-tires-consumer-reports/)
-* [Amazon Fire HD 8 (2024) Review: A Great Budget Tablet](https://digitpatrox.com/amazon-fire-hd-8-2024-review-a-great-budget-tablet/)
-* [Dell Inspiron 14 Plus (7441) review](https://digitpatrox.com/dell-inspiron-14-plus-7441-review/)
-* [What Is PCI Compliance? A Simple Guide for Businesses](https://digitpatrox.com/what-is-pci-compliance-a-simple-guide-for-businesses/)
+* [Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
+* [Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
+* [Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
+* [Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
+* [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
+* [Netflix’s Territory Cast and Characters](https://digitpatrox.com/netflixs-territory-cast-and-characters/)
+* [How to watch porn in Indiana](https://digitpatrox.com/how-to-watch-porn-in-indiana/)
+* [Another senior staffer just left OpenAI – here’s what they had to say](https://digitpatrox.com/another-senior-staffer-just-left-openai-heres-what-they-had-to-say/)
+* [A living history from 1.0 to 15 – Computerworld](https://digitpatrox.com/a-living-history-from-1-0-to-15-computerworld/)
+* [Here’s How the Mortgage Loan Origination Process Works](https://digitpatrox.com/heres-how-the-mortgage-loan-origination-process-works/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/02/28/UnitedHealth_Group_UHG.jpg)](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
+* [![](https://cdn.mos.cms.futurecdn.net/aapPzizUA52fXnnk8xxZo7-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
     
-    [UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
+    [Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
     
-    6 mins ago
+    26 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/e3ta7NnDUg3i9CqHoW0VKIVW2XU=/0x0:1400x784/1200x628/filters:focal(700x392:701x393)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697470/Screenshot_2024_10_24_at_5.35.30_PM.png)](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241025-change-healthcare-cyberattack-oct-numbers.jpg)](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
     
-    [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
+    [Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
     
-    23 mins ago
+    29 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/netflix-territory-filmed.jpg)](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
+* [![](https://cdn.mos.cms.futurecdn.net/YhrqwnS7iBXjtUEEevYX4i-1200-80.jpg)](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
     
-    [Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
+    [Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
     
-    38 mins ago
+    44 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/VeFsGoCHoZgbKtCffhGoGE-1200-80.jpg)](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg)](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
     
-    [Iceland’s four-day working week trials have been a roaring success – economic growth spiked, workers were happier, and burnout plummeted](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
+    [Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3574918-0-31827000-1729850572-2_iStock-1272712384-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/4eck3o-Y1gTUj_kS7UV78l_3-Hg=/0x0:1332x888/1200x628/filters:focal(666x444:667x445)/cdn.vox-cdn.com/uploads/chorus_asset/file/25698442/8bitdo_1.jpg)](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
     
-    [Who needs a humanoid robot when everything is already robotic? – Computerworld](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
+    [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 mins ago
+* [26 mins ago
     
-    ### UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
-* [23 mins ago
+    ### Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
+* [29 mins ago
     
-    ### Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
-* [38 mins ago
+    ### Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
+* [44 mins ago
     
-    ### Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
+    ### Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
 
 Most Popular Topics
 
+* [12 hours ago
+    
+    ### Wear OS 5 Rolling out to Galaxy Watch 6 and Watch 6 Classic](https://digitpatrox.com/wear-os-5-rolling-out-to-galaxy-watch-6-and-watch-6-classic/)
 * [August 14, 2024
     
-    ### Popular Compact Cars to Avoid & What to Buy Instead](https://digitpatrox.com/popular-compact-cars-to-avoid-what-to-buy-instead/)
-* [August 20, 2024
+    ### Sonos lays off 100 employees as its app crisis continues](https://digitpatrox.com/sonos-lays-off-100-employees-as-its-app-crisis-continues/)
+* [September 11, 2024
     
-    ### These PS4 Features Are Still Missing from the PS5](https://digitpatrox.com/these-ps4-features-are-still-missing-from-the-ps5/)
-* [2 weeks ago
-    
-    ### All Jujutsu Kaisen Arcs in Order](https://digitpatrox.com/all-jujutsu-kaisen-arcs-in-order/)
+    ### Cyber workforce growth slows as tight budgets hit hiring targets — and it’s going to create a more dangerous threat landscape and send burnout through the roof](https://digitpatrox.com/cyber-workforce-growth-slows-as-tight-budgets-hit-hiring-targets-and-its-going-to-create-a-more-dangerous-threat-landscape-and-send-burnout-through-the-roof/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Best Winter/Snow Tires – Consumer Reports](https://digitpatrox.com/best-winter-snow-tires-consumer-reports/)
+    ### How to watch porn in Indiana](https://digitpatrox.com/how-to-watch-porn-in-indiana/)
 * [3 hours ago
     
-    ### Amazon Fire HD 8 (2024) Review: A Great Budget Tablet](https://digitpatrox.com/amazon-fire-hd-8-2024-review-a-great-budget-tablet/)
+    ### Another senior staffer just left OpenAI – here’s what they had to say](https://digitpatrox.com/another-senior-staffer-just-left-openai-heres-what-they-had-to-say/)
 * [4 hours ago
     
-    ### Dell Inspiron 14 Plus (7441) review](https://digitpatrox.com/dell-inspiron-14-plus-7441-review/)
+    ### A living history from 1.0 to 15 – Computerworld](https://digitpatrox.com/a-living-history-from-1-0-to-15-computerworld/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
