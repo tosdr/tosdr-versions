@@ -1,6 +1,6 @@
-[🚗 Vroom-Boom! 30% Off Limited Playmobil Cars – Speed Into Fun! ⚡](https://www.playmobil.com/en-us/web-shop/cars/)
+[🎃 Spook-tacular Savings Await! 🕸️ No Tricks, Just Treats: 50% Off Over $100! 👻](https://www.playmobil.com/en-us/web-shop/offers/50-years/)
 
-[🚗 Vroom-Boom! 30% Off Limited Playmobil Cars – Speed Into Fun! ⚡](https://www.playmobil.com/en-us/web-shop/cars/)
+[🎃 Spook-tacular Savings Await! 🕸️ No Tricks, Just Treats: 50% Off Over $100! 👻](https://www.playmobil.com/en-us/web-shop/offers/50-years/)
 
 [](https://www.playmobil.us/en-us/)
 
