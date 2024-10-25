@@ -14,6 +14,28 @@ FOX SCORES
 * NHL
 * US Sports
 
+* NRL
+    
+* [Women's PC
+    
+    26/10 17:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FIJ | –   |
+    | COK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240201)
+* [Men's PC
+    
+    26/10 19:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | FIJ | –   |
+    | COK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240201)
 * Netball
     
 * [Women's Test
@@ -90,6 +112,36 @@ FOX SCORES
     | NM  | 6.5.41 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240902)
+* [AFL Women's
+    
+    26/10 14:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GWS | –   |
+    | FRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240903)
+* [AFL Women's
+    
+    26/10 16:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GCS | –   |
+    | POR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240904)
+* [AFL Women's
+    
+    26/10 18:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WCE | –   |
+    | GEE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240905)
 * Motorsport
     
 * [Supercars
@@ -122,18 +174,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAR | 30  |
-    | MIN | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250808)
 * Basketball
     
 * [NBL
@@ -156,46 +196,26 @@ FOX SCORES
     | SYD | 84  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060004/play-by-play)
-* [NBA
+* [NBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WAS | 102 |
-    | BOS | 122 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010026/box-score)
-* [NBA
-    
-    Full Time
+    26/10 17:30 AEST
     
     |     |     |
     | --- | --- |
-    | DAL | 120 |
-    | SA  | 109 |
+    | SEM | –   |
+    | ILL | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010028/box-score)
-* [NBA
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060005)
+* [NBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 87  |
-    | OKC | 102 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010030/box-score)
-* [NBA
-    
-    Full Time
+    26/10 20:00 AEST
     
     |     |     |
     | --- | --- |
-    | SAC | 115 |
-    | MIN | 117 |
+    | BRI | –   |
+    | TAS | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010032/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060006)
 * [NBA
     
     26/10 10:00 AEST
@@ -296,16 +316,28 @@ FOX SCORES
     | PHO | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010048)
+* Rugby
+    
+* [Men's Test
+    
+    26/10 16:50 AEST
+    
+    |     |     |
+    | --- | --- |
+    | JPN | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241101)
 * Football
     
 * [Women's Int Friendlies
     
-    26/10 5:00 AEST
+    2nd Half
     
     |     |     |
     | --- | --- |
-    | SUIW | –   |
-    | AUSW | –   |
+    | SUIW | 1   |
+    | AUSW | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240104)
 * [A-League M
@@ -318,14 +350,44 @@ FOX SCORES
     | NEW | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250201)
-* [Premier League
+* [A-League M
     
-    26/10 6:00 AEST
+    26/10 17:00 AEST
     
     |     |     |
     | --- | --- |
-    | LEI | –   |
-    | NOT | –   |
+    | ADL | –   |
+    | CCM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250202)
+* [A-League M
+    
+    26/10 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MCY | –   |
+    | MVC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250203)
+* [A-League M
+    
+    26/10 21:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | WEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250204)
+* [Premier League
+    
+    Half Time
+    
+    |     |     |
+    | --- | --- |
+    | LEI | 1   |
+    | NOT | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250905)
 * Baseball
