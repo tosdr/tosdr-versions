@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dc89d4cb68a91b983e4375f891b1ecf7
+685c6d4c0aeea631778a802351b0967a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![2 mm champagne rice pearls](https://www.sojourner.biz/images/cache/pearls/PE0196.200.jpg)](https://www.sojourner.biz/beads/pearls/2-mm-champagne-rice-pearls.html "2 mm champagne rice pearls")
+[![Turquoise bar toggle clasp](https://www.sojourner.biz/images/cache/SKU0143front.200.jpg)](https://www.sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")
 
-#### [2 mm champagne rice pearls](https://www.sojourner.biz/beads/pearls/2-mm-champagne-rice-pearls.html "2 mm champagne rice pearls")
+#### [Turquoise bar toggle clasp](https://www.sojourner.biz/clasps/toggles/turquoise-bar-toggle-clasp.html "Turquoise bar toggle clasp")
 
-$12.00
+$13.50
 
 ### Best Sellers
 
