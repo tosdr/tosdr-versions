@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Trans American Rally](https://www.myabandonware.com/game/trans-american-rally-t06)
-* [UFO!](https://www.myabandonware.com/game/ufo-svu)
-* [Thunderball!](https://www.myabandonware.com/game/thunderball-svt)
-* [Speedway! / Spin-Out! / Crypto-Logic!](https://www.myabandonware.com/game/speedway-spin-out-crypto-logic-svn)
-* [Smithereens!](https://www.myabandonware.com/game/smithereens-svm)
+* [Denjinmakai](https://www.myabandonware.com/game/denjinmakai-b84)
+* [Fighters Megamix](https://www.myabandonware.com/game/fighters-megamix-t0u)
+* [Duke Nukem 3D](https://www.myabandonware.com/game/duke-nukem-3d-t0t)
+* [Centipede](https://www.myabandonware.com/game/centipede-t0s)
+* [Batman & Robin](https://www.myabandonware.com/game/batman-robin-t0r)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
