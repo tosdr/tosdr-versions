@@ -9,7 +9,9 @@ Legal
 
 Loading...
 
-Have questions about something else? Check out our [Help Center](https://app.mercury.com/help) or email us at [\[email protected\]](https://mercury.com/cdn-cgi/l/email-protection).
+Have questions about something else? Check out our [Help Center](https://support.mercury.com/hc/en-us/sections/28736349558420-Getting-Started) or email us at [\[email protected\]](https://mercury.com/cdn-cgi/l/email-protection).
+
+For subpoena & law enforcement requests, please refer to our [policy](https://mercury.com/legal/subpoena-law-enforcement-requests).
 
 IO Charge Card Agreement
 
@@ -128,7 +130,7 @@ Products
 
 Platform
 
-[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://app.mercury.com/help)
+[Explore Demo](https://demo.mercury.com/dashboard)[Pricing](https://mercury.com/pricing)[Financial Workflows](https://mercury.com/financial-workflows)[Security](https://mercury.com/security)[API Access](https://mercury.com/api)[How Mercury Works](https://mercury.com/how-mercury-works)[Help Center](https://support.mercury.com/hc/en-us/sections/28736349558420-Getting-Started)
 
 Industries
 
