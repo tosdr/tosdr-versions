@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=207833261)  
-Tiny Cuddles Photography
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=76697492)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=74218870)  
-UMVIKELI PRIVATE SECURITY
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=31535204)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=19408315)  
-Chiron Medical Solutions
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=204345352)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=213472222)  
-Creative Characters
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=210794014)  
+Gemini-IT Group
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=20191234)  
-ARCHITEK PTY LTD
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=11391336)  
+Goju-Ryu Pretoria East
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=37251711)  
-Echo Recording Studio cc
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=196113204)  
+Mountain Lion Properties
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=78497574)  
-Bchange Online CC
-
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=21726023)  
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=101564504)  
 Eruca (PTY)Ltd
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=150172995)  
-IEMS (PTY) ltd
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=208850619)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=179874911)  
-Skinz Printing & Branding
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=17646201)  
+Kainos (Pty) Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=86531076)  
-Imvubu General Trading
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=9496640)  
+Enhle Oarabile Kea
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=124067297)  
-Oak Tree Immigration
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=14563628)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=188838257)  
-Kaylas Creations
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=62078270)  
+Tantra Sound and Lightz
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=132456246)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=170309230)  
+Vplay Letsheng Mall
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=27570035)  
-Entidee Enterprise PTY (ltd)
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=30760392)  
+Glass and Allied Industries
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b74807b39cfe135bf01113559d1aab5ba121afdd5d843b7dca3d137e23a1211a&c=29329832)  
+Repairs In Motion
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
