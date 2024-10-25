@@ -326,6 +326,7 @@ Back
     * [XMOS](https://www.symmetryelectronics.com/manufacturers/xmos/)
     * [XYC](https://www.symmetryelectronics.com/manufacturers/xyc/)
     
+* [Services](https://www.symmetryelectronics.com/services/) [Services](https://www.symmetryelectronics.com/services/)
 * [Solutions](https://www.symmetryelectronics.com/solutions/)
     
     Solutions
@@ -335,11 +336,11 @@ Back
     * [Technologies](https://www.symmetryelectronics.com/solutions/technologies/)
     * [Markets & Applications](https://www.symmetryelectronics.com/solutions/markets-applications/)
     
-* [Resources & Tools](#)
+* [Resources](#)
     
-    Resources & Tools
+    Resources
     
-    * [Resources & Tools](#)
+    * [Resources](#)
     * [Line Card](https://www.symmetryelectronics.com/manufacturer-line-card/)
     * [eBooks](https://www.symmetryelectronics.com/ebooks/)
     
