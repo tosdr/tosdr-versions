@@ -237,8 +237,6 @@ If you are not satisfied with the way in which we use your personal information,
 
 ### Table of contents
 
-**An error has occurred.** Please try again later.
-
 ##### Antidote
 
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
