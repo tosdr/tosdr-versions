@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/color-by-note-music-coloring-worksheets/)
+ [](https://schoolsmusicmarket.com/product/draw-a-band-logo-worksheet-activity/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/a-christmas-medley-band-score/)
+ [](https://schoolsmusicmarket.com/product/the-renaissance-period-presentation/)
 
 ###### Browse By Year/Grade
 
