@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Dolly Parton Unveils Plans To Celebrate...](https://classiccountrymusic.com/dolly-parton-unveils-plans-to-celebrate-dollywoods-40th-season/)
+* [Jimmy Fortune Mourns Death Of His...](https://classiccountrymusic.com/jimmy-fortune-mourns-death-of-his-precious-son-jimmy-jr/)
 * [Toby Keith’s Wife Speaks Out For...](https://classiccountrymusic.com/toby-keiths-wife-speaks-out-for-the-first-time-since-his-death/)
-* [Reba Steals From Team Gwen After...](https://classiccountrymusic.com/reba-steals-from-team-gwen-after-electrifying-rock-battle-on-the-voice/)
-* [Over 4 Million People Watched The...](https://classiccountrymusic.com/over-4-million-people-watched-the-premiere-of-rebas-new-sitcom-happys-place/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
