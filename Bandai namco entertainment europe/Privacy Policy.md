@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SWORD ART ONLINE Fractured Daydream - Patch Ver. 1.1.2.0](https://en.bandainamcoent.eu/sword-art-online/news/sword-art-online-fractured-daydream-patch-ver-1120)
-* [GUNDAM BREAKER 4 gets more content with DLC 1](https://en.bandainamcoent.eu/gundam/news/gundam-breaker-4-gets-more-content-dlc-1)
+* [Little Nightmares II Enhanced Edition gets a retail edition, available now!](https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-ii-enhanced-edition-gets-retail-edition-available-now)
+* [The Unknown 9 Universe Glossary](https://en.bandainamcoent.eu/unknown-9/news/the-unknown-9-universe-glossary)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
