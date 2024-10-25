@@ -102,6 +102,30 @@ Discover the hottest items flying off the shelves.
     
     Quantity  Add to cart
     
+* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    Quantity  Add to cart
+    
+    ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    Next day delivery
+    
+    $169.99 $69.99
+    
+    Quantity  Add to cart
+    
+* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=645)](https://www.rangextd.com/products/blaux-heater-450w)
+    
+    Quantity  Add to cart
+    
+    ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
+    
+    Next day delivery
+    
+    $159.99 $79.99
+    
+    Quantity  Add to cart
+    
 * Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=645)](https://www.rangextd.com/products/kore-2-0)
     
     Quantity  Add to cart
@@ -150,30 +174,6 @@ Discover the hottest items flying off the shelves.
     
     Quantity  Add to cart
     
-* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Quantity  Add to cart
-    
-    ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Next day delivery
-    
-    $169.99 $69.99
-    
-    Quantity  Add to cart
-    
-* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=645)](https://www.rangextd.com/products/blaux-heater-450w)
-    
-    Quantity  Add to cart
-    
-    ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
-    
-    Next day delivery
-    
-    $159.99 $79.99
-    
-    Quantity  Add to cart
-    
 * Sale -49% [![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack.png?v=1727161715&width=645)](https://www.rangextd.com/products/dryer-ball)
     
     Quantity  Add to cart
@@ -186,29 +186,17 @@ Discover the hottest items flying off the shelves.
     
     Quantity  Add to cart
     
-* Sale -50% [![InstaHeat On-The-Go Oven - Perfect for meals wherever you are](//savvysmartdeals.com/cdn/shop/files/Hero_e190bbe8-0e6c-49a9-b563-d42759dc3f79.png?v=1728383891&width=645)](https://www.rangextd.com/products/instaheat-on-the-go-oven-perfect-for-meals-wherever-you-are)
-    
-    Quantity  Add to cart
-    
-    ### [InstaHeat On-The-Go Oven - Perfect for meals wherever you are](https://www.rangextd.com/products/instaheat-on-the-go-oven-perfect-for-meals-wherever-you-are)
-    
-    Next day delivery
-    
-    $139.99 $69.99
-    
-    Quantity  Add to cart
-    
 * Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=645)](https://www.rangextd.com/products/korescale)
     
-    [View options](https://www.rangextd.com/products/korescale)
+    Quantity  Add to cart
     
     ### [KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale)
     
-    Out of stock
+    Next day delivery
     
     $218.99 $109.99
     
-    [View options](https://www.rangextd.com/products/korescale)
+    Quantity  Add to cart
     
 * Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
     
