@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Prompt service as usual.
+Your service is wonderful and very easy to use. Sometime in the near future I will subscribe to your UK service again so I can watch BBC tv. Thanks for your really good efforts.
 
-Gersham weekes
+Mercedes Burnside
