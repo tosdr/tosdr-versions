@@ -13,105 +13,105 @@
 
 * 
 
-Cookieポリシー
-----------
+Cookie Policy
+-------------
 
-最終更新日: 2021 年 4 月 1 日
+Last updated: 1 April 2021
 
-**Rakuten Viki**をご利用いただきありがとうございます。
+Thank you for using **Rakuten Viki**!
 
-Viki, Inc.は、テレビ番組、映画およびその他のコンテンツにアクセスし、他のユーザーと対話し、当社のコンテンツに対する字幕を提供できるオンラインコミュニティに参加することを可能にする双方向的なプラットフォームをお客様に提供します（以下「**Rakuten Viki**」および／または「**当社**」といいます）。
+Viki, Inc. provides you with an interactive platform that allows you to access television shows, movies and other content, interact with other users and be part of an online community where you may provide subtitles for our content (“**Rakuten Viki**”, “**We**”, “**Our**” and/or “**Us**”).
 
-楽天Vikiは、東京に本社を置く親会社楽天グループの関連会社及び子会社を含む楽天グループの一員です。楽天の詳細については、[https://global.rakuten.com/corp/about/company](https://global.rakuten.com/corp/about/company)を参照してください（以下「**楽天グループ**」といいます）。
+Rakuten Viki is part of the Rakuten group, which includes the affiliates and subsidiaries of Our parent company Rakuten Group, Inc., based in Tokyo, Japan. More information about Rakuten is available at [https://global.rakuten.com/corp/about/company](https://global.rakuten.com/corp/about/company) (“**Rakuten Group**”).
 
-本Cookieポリシーは、Rakuten Vikiが運営する[www.viki.com](https://www.viki.com/legal/www.viki.com)ドメイン（以下「**本サイト**」といいます）で使用されるCookie、使用される理由、お客様がその使用を制御する方法を説明するものです。
+This Cookie Policy describes what cookies are used on the [www.viki.com](https://www.viki.com/) domain operated by Rakuten Viki (the “**Site**”), why they are used and how you can control their use.
 
-本Cookieポリシー、当社の[個人情報保護方針](https://www.viki.com/legal/privacy)および[利用規約](https://www.viki.com/legal/terms_of_use)をよくお読みください（以下総称して「**本契約**」といいます）。本サイトにアクセスまたは使用することにより、お客様は当社の契約を読み、理解した内容を認め、同意するものとします。
+Please read this Cookie Policy, Our [Privacy Policy](https://www.viki.com/legal/privacy) and Our [Terms Of Use](https://www.viki.com/legal/terms_of_use) carefully (collectively, Our “**Agreements**”). By accessing or using the Site, you acknowledge and agree you have read and understood Our Agreements.
 
-1. **Cookieについて**
+1. **WHAT ARE COOKIES?**
     
-    Cookieとは、ウェブサイトが閲覧者のコンピューターのハードドライブやモバイル端末に保存する小さなテキストファイルです。Cookieは、閲覧者の認識、ユーザー体験の向上、お客様が本サイトを再度閲覧したときのユーザー体験の個別化、マーケティングおよび広告の配信およびカスタマイズ、ならびに本サイトおよび提供するサービス全般の改善に使用されます。
+    Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. Cookies are used to recognize visitors, enhance your user experience, personalize users' experience if you return to the Site, deliver and tailor marketing and advertising, and generally to improve the Sites and the services provided.
     
-2. **Rakuten Vikiが使用するCookieの種類**
+2. **WHAT TYPE OF COOKIES DOES RAKUTEN VIKI USE?**
     
-    **必要不可欠なCookie：**
+    **Strictly necessary cookies:**
     
-    当社サイトでは、ファーストパーティクッキー(当社が直接お客様のデバイスに設定したクッキー)と、厳密に必要な第三者が提供するクッキーを使用しています。これらは認証を提供する不可欠なクッキーであり、サイトの周りを移動し、サイトの安全なエリアへのアクセスなどの機能を使用することができます。これらのクッキーがないと、お客様が求めたサービスは提供できません。これらのクッキーを使用しない場合、特定のサービスを提供できないため、これらのクッキーに異議を唱えることはできません。
+    Our Site uses first party cookies (i.e. cookies set directly by Us to your device) as well as cookies served by third parties that are strictly necessary. These are essential cookies providing authentication and let you move around the Site and use its features, such as accessing secure areas of the Site. You cannot object to these cookies as certain services cannot be provided to you without these cookies.
     
-    **お客様のユーザー体験を改善するためのCookie：**
+    **Cookies to improve your user experience:**
     
-    当社の本サイトは、ファーストパーティーCookieおよび第三者が発行するCookieを使用し、他のウェブサイトを訪問する際にお客様のコンピューターまたはモバイル端末の認識に使用することができます。サードパーティーCookieは、ウェブサイト分析や広告目的で使用されるのが最も一般的です。本サイトが使用するCookieには、お客様がブラウザを開いている間のみお客様の端末に保存されるCookie（このCookieを「セッションCookie」といいます）と、これよりも長い期間保存されるCookie（このCookieを「パーマネントCookie」といいます）があります。
+    Our Site uses first party cookies as well as cookies served by third parties and can be used to recognize your computer or mobile device when it visits other websites. Third party cookies are most commonly used for website analytics or advertising purposes. Some of the cookies the Site uses only remain on your device while your browser is open (these cookies are known as 'session cookies'), while others remain for longer periods (these are known as 'permanent cookies').
     
-3. **Rakuten VikiによるCookieの使用方法**
+3. **HOW IS RAKUTEN VIKI USING COOKIES?**
     
-    当社の本サイトで使用されるCookieの詳細を下表に記載します。当社が使用するCookieは、当社の本サイトの変化に応じて、随時変更されることがありますが、通常は、以下の使用カテゴリーに分類されます。
+    The table below describes what cookies are used on Our Site. The cookies that We use may change from time to time as Our Site evolves. However, they generally fall into the below categories of use:
     
-    | 使用カテゴリー | 説明  |
+    | Category of Use | Description |
     | --- | --- |
-    | 認証  | 当社は、お客様のアカウントを確認し、お客様の体験を個別化するためにCookieを使用します（これらのCookieにより、お客様が複数のウェブページを閲覧している間、ログイン状態を維持することができます）。 |
-    | セキュリティ | 当社は、当社のセキュリティ機能を有効にし、当社のポリシーに違反するアクティビティを検知できるようにするため、Cookieを使用します(例えば、これらのクッキーは、当社がスパム、詐欺を防止し、当社のサイトのセキュリティを維持するのに役立ちます)。 |
-    | 本サイトの環境設定、機能およびサービスの提供 | 当社は、お客様に本サイトの機能および意図するユーザー体験を提供するため、Cookieを使用します（これらのCookieにより、ユーザーの言語設定、ビデオ視聴マーカー、ビデオプレーヤー設定および支払が可能となります）。 |
-    | 広告およびリマーケティング | 当社および当社の広告パートナーは、本サイトまたはインターネット上のその他サイトで表示する広告をお客様により関連性の高いものとし、本サイトに表示する広告の効果を測定するため、Cookieを使用して情報を取得することがあります（これらのCookieにより、当社および当社の広告パートナーは、有用で関連性の高い広告をより効果的にお客様に表示することができます）。 |
-    | ソーシャルメディア | 当社は、お客様が当社のコンテンツをお客様の友達やネットワークと共有したりできるように、当社が当社の本サイトに追加した様々なソーシャルメディアサービスが設定するCookieを使用します。これらのCookieは、その他のサイトも含めてお客様のブラウザを追跡することができます。これにより、お客様が訪問するその他のウェブサイト上でお客様に表示されるコンテンツおよびメッセージが影響を受ける場合があります（これらのCookieにより、ソーシャルメディアサービスはお客様の関心事例に関するプロファイルを構築することができます）。 |
-    | パフォーマンス、分析および調査 | 当社は、本サイトの利用状況に関する情報を取得し、当社のサービス向上のために本サイトの利用状況データを報告する目的で、Cookieを使用します（これらのCookieにより、当社は、訪問回数、閲覧回数、トラフィックソースを確認し、お客様およびその他のユーザーが当社の本サイトをどのように利用しているかについての理解を深め、改善を図ることができる機能を特定することができます）。 |
+    | Authentication | We use cookies to verify your account and personalize your experience (e.g. these cookies can help Us keep you logged in as you navigate between webpages). |
+    | Security | We use cookies to enable Our security features and to help Us detect activities that violate Our policies (e.g. these cookies can help Us prevent spam and fraud, and maintain the security of our Site). |
+    | Site Preferences, Features and Provision of Services | We use cookies to provide you with the features and intended user experience of the Site (e.g. these cookies can help Us with user language preferences, video watch markers, video player setting and preferences, and payment). |
+    | Advertising and Remarketing | We and Our advertising partners may collect information using cookies to help make the advertising you see on the Site and elsewhere on the internet more relevant to you, and to measure the effectiveness of the advertising on the Site (e.g. these cookies can help Us and Our advertising partners show you useful and relevant ads more effectively). |
+    | Social Media | We use cookies that are set by a range of social media services that We have added to Our Site to enable you to share Our content with your friends and networks. They are capable of tracking your browser across other sites. This may impact the content and messages you see on other websites you visit (e.g. these cookies can help the social media services build a profile of your interests). |
+    | Performance, Analytics and Research | We use cookies to collect information on how the Site is used and to report on the Site usage statistics for the improvement of Our services (e.g. these cookies can help Us count visits, page views, traffic sources, and better understand how you and other users use Our Site, and identify features that could be improved). |
     
-    当社の本サイトで使用されるサードパーティーCookieの一部を下表に記載します（以下「**本表**」といいます）。
+    Please find below a table describing some of the third-party cookies on Our Site (the “Table”).
     
-    当社は、第三者サイトおよび第三者サイトのプライバシーに関する取り組みについて責任を負いませんので、ご注意ください。ただし、お客様は本表から第三者サイトのポリシーおよび取り組みに関する情報を入手し、場合によっては特定のアクティビティをオプトアウト（中止）することができます。
+    Please note, We are not responsible for third-party sites and their privacy practices; however, you may obtain information on their policies and practices, and in some instances opt-out of certain activities, as shown in the Table.
     
-    本表は、Cookie数やCookie名の変更に伴い、随時更新されることがあります。
+    The Table may be updated from time to time, as the number and names of cookies may change.
     
-    | クッキー名 | 有効期限 | サービス | 目的  | 身を引く |
+    | Cookie Name | Expiration | Service | Purpose | Opt-Out |
     | --- | --- | --- | --- | --- |
-    | fbsr\_145730428798132;<br><br>fr;<br><br>\_fbp | 365日;<br><br>3月;<br><br>90日 | Facebook, Facebook In-Stream Video Ads, Facebook Native Ads | ログイン機能, 広告とリマーケティング | [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) |
-    | G\_AUTHUSER\_H;<br><br>G\_ENABLED\_IDPS;<br><br>\_ga;<br><br>\_gat\_\*;<br><br>\_gid;<br><br>\_gcl\_au;<br><br>cto\_bundle;<br><br>cto\_tld\_test;<br><br>NID;<br><br>cto\_write\_test;<br><br>test\_cookie;<br><br>IDE;<br><br>\_gat\_\*;<br><br>S;<br><br>GoogleAdServingTest;<br><br>\_\_Secure-3PSIDCC;<br><br>\_\_Secure-3PAPISID;<br><br>SAPISID;<br><br>APISID;<br><br>SSID;<br><br>HSID;<br><br>SIDCC;<br><br>SID;<br><br>\_\_Secure-3PSID;<br><br>\_GRECAPTCHA;<br><br>GED\_PLAYLIST\_ACTIVITY;<br><br>\_\_gads;<br><br>DSID;<br><br>\_\_ar\_v4 | セッション;<br><br>8年;<br><br>2年;<br><br>1分;<br><br>24時間;<br><br>90日;<br><br>390日;<br><br>1日;<br><br>2年;<br><br>1日;<br><br>2914647日;<br><br>365日;<br><br>1分;<br><br>1時間;<br><br>セッション;<br><br>1年;<br><br>2年;<br><br>2年;<br><br>2年;<br><br>2年;<br><br>2年;<br><br>1年;<br><br>2年;<br><br>2年;<br><br>180日;<br><br>セッション;<br><br>390日;<br><br>2週間;<br><br>1年 | Google; Google Analytics | ログイン機能, パフォーマンス分析と研究, 広告とリマーケティング | [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
-    | muxData | 7300日 | Mux | コンテンツストリーミング | [https://mux.com/privacy](https://mux.com/privacy) |
-    | \_\_stripe\_sid;<br><br>\_\_stripe\_mid;<br><br>m | 30分;<br><br>365日;<br><br>2年 | Stripe | 支払処理 | [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal) |
-    | gtm\_id | 365日 | Intercom | パフォーマンス分析と研究 | [https://www.intercom.com/legal/cookie-policy](https://www.intercom.com/legal/cookie-policy) |
-    | browser\_data | 390日 | dnacdn.net | パフォーマンス分析と研究 |     |
-    | personalization\_id;<br><br>lang | 2年;<br><br>1年 | Twitter | ソーシャル メディア | [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
-    | disqus\_unique;<br><br>\_\_jid | 1年;<br><br>30分 | Disqus | ソーシャル メディア | [https://help.disqus.com/en/articles/1717155-use-of-cookies](https://help.disqus.com/en/articles/1717155-use-of-cookies) |
-    | ab.storage.sessionId.<api\_key>;<br><br>ab.storage.userId.<api\_key> | 365日;<br><br>365日 | Braze | 広告とリマーケティング | [https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business](https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business) |
-    | uuid2;<br><br>anj;<br><br>icu; | 90日;<br><br>90日;<br><br>90日; | Xandr (AppNexus) | 広告とリマーケティング | [https://www.xandr.com/privacy/cookie-policy/](https://www.xandr.com/privacy/cookie-policy/) |
-    | tluid | 90日 | TripleLift | 広告とリマーケティング | [https://triplelift.com/cookie-policy/](https://triplelift.com/cookie-policy/) |
-    | \_\_adroll\_shared;<br><br>\_\_adroll\_fpc;<br><br>\_\_adroll | 395日;<br><br>365日;<br><br>395日 | AdRoll | 広告とリマーケティング | [https://www.nextroll.com/privacy](https://www.nextroll.com/privacy) |
-    | APID | 365日 | VerizonMedia | 広告とリマーケティング | [https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes](https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes) |
-    | tuuid\_lu;<br><br>tuuid;<br><br>c | 365日;<br><br>365日;<br><br>365日 | Bidswitch | 広告とリマーケティング | [https://www.bidswitch.com/cookie-statement/](https://www.bidswitch.com/cookie-statement/) |
-    | CMID;<br><br>CMST;<br><br>CMDD;<br><br>CMPS;<br><br>CMRUM3;<br><br>CMPRO | 365日;<br><br>24時間;<br><br>24時間;<br><br>90日;<br><br>365日;<br><br>90日 | Casale Media | 広告とリマーケティング | [https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user](https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user) |
-    | rmuid;<br><br>Icts | 365日;<br><br>365日 | Rakuten Advertising | 広告とリマーケティング | [https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign](https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign) |
-    | i;<br><br>pd;<br><br>univ\_id | 365日;<br><br>15日;<br><br>15日 | OpenX | 広告とリマーケティング | [https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies](https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies) |
-    | adrl;<br><br>obuid;<br><br>cookieJartestCookie | 30日;<br><br>90日;<br><br>1日 | Outbrain | 広告とリマーケティング | [https://www.outbrain.com/legal/privacy#cookies](https://www.outbrain.com/legal/privacy#cookies) |
-    | PugT;<br><br>SPugT;<br><br>PUBMDCID;<br><br>KADUSERCOOKIE;<br><br>KTPCACOOKIE;<br><br>chkChromeAb67Sec;<br><br>DPSync3;<br><br>SyncRTB3;<br><br>KRTBCOOKIE\_\* | 30日;<br><br>30日;<br><br>90日;<br><br>90日;<br><br>90日;<br><br>90日;<br><br>90日;<br><br>90日;<br><br>30日, 400日 | Pubmatic | 広告とリマーケティング | [https://pubmatic.com/legal/platform-cookie-policy/](https://pubmatic.com/legal/platform-cookie-policy/) |
-    | mc;<br><br>d;<br><br>\_\_qca | 395日;<br><br>90日;<br><br>392日 | Quantcast | 広告とリマーケティング | [https://www.quantcast.com/faq/quantcast-services/](https://www.quantcast.com/faq/quantcast-services/) |
-    | rlas3;<br><br>pxrc | 365日;<br><br>60日 | TowerData (pka Rapleaf) | 広告とリマーケティング | [https://www.towerdata.com/privacy-policy](https://www.towerdata.com/privacy-policy) |
-    | audit;<br><br>khaos;<br><br>rsid;<br><br>ses15;<br><br>vis15 | 365日;<br><br>365日;<br><br>セッション;<br><br>10分;<br><br>10分 | Rubicon Project | 広告とリマーケティング | [https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/](https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/) |
-    | t\_gid | 365日 | Taboola | 広告とリマーケティング | [https://www.taboola.com/policies/cookie-policy](https://www.taboola.com/policies/cookie-policy) |
-    | APIDTS;<br><br>APID;<br><br>A3;<br><br>IDSYNC | 24時間;<br><br>288日;<br><br>365日;<br><br>365日 | Yahoo | 広告とリマーケティング | [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service) |
-    | \_\_cfduid;<br><br>\_\_cf\_bm;<br><br>\_\_cfruid;<br><br>\_zendesk\_session;<br><br>\_help\_center\_session;<br><br>\_zendesk\_authenticated;<br><br>\_zendesk\_shared\_session;<br><br>\_zendesk\_cookie | 30日;<br><br>30日;<br><br>セッション;<br><br>セッション;<br><br>セッション;<br><br>8時間;<br><br>8時間;<br><br>20年 | Zendesk | カスタマーサポート | [https://www.zendesk.com/company/policies-procedures/cookie-policy/](https://www.zendesk.com/company/policies-procedures/cookie-policy/) |
+    | fbsr\_145730428798132;<br><br>fr;<br><br>\_fbp | 365 days;<br><br>3 months;<br><br>90 days | Facebook, Facebook In-Stream Video Ads, Facebook Native Ads | Login Functionality, Advertising and Remarketing | [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) |
+    | G\_AUTHUSER\_H;<br><br>G\_ENABLED\_IDPS;<br><br>\_ga;<br><br>\_gat\_\*;<br><br>\_gid;<br><br>\_gcl\_au;<br><br>cto\_bundle;<br><br>cto\_tld\_test;<br><br>NID;<br><br>cto\_write\_test;<br><br>test\_cookie;<br><br>IDE;<br><br>\_gat\_\*;<br><br>S;<br><br>GoogleAdServingTest;<br><br>\_\_Secure-3PSIDCC;<br><br>\_\_Secure-3PAPISID;<br><br>SAPISID;<br><br>APISID;<br><br>SSID;<br><br>HSID;<br><br>SIDCC;<br><br>SID;<br><br>\_\_Secure-3PSID;<br><br>\_GRECAPTCHA;<br><br>GED\_PLAYLIST\_ACTIVITY;<br><br>\_\_gads;<br><br>DSID;<br><br>\_\_ar\_v4 | Session;<br><br>8 years;<br><br>2 years;<br><br>1 min;<br><br>24 hours;<br><br>90 days;<br><br>390 days;<br><br>1 day;<br><br>2 years;<br><br>1 day;<br><br>2914647 days;<br><br>365 days;<br><br>1 min;<br><br>1 hour;<br><br>Session;<br><br>1 year;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>1 year;<br><br>2 years;<br><br>2 years;<br><br>180 days;<br><br>Session;<br><br>\_\_gads;<br><br>2 weeks;<br><br>1 year | Google; Google Analytics | Login Functionality, Performance Analytics and Research, Advertising and Remarketing | [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
+    | muxData | 7300 days | Mux | Content streaming | [https://mux.com/privacy](https://mux.com/privacy) |
+    | \_\_stripe\_sid;<br><br>\_\_stripe\_mid;<br><br>m | 30 mins;<br><br>365 days;<br><br>2 years | Stripe | Payment processing | [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal) |
+    | gtm\_id | 365 days | Intercom | Performance Analytics and Research | [https://www.intercom.com/legal/cookie-policy](https://www.intercom.com/legal/cookie-policy) |
+    | browser\_data | 390 days | dnacdn.net | Performance Analytics and Research |     |
+    | personalization\_id;<br><br>lang | 2 years;<br><br>1 year | Twitter | Social Media | [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
+    | disqus\_unique;<br><br>\_\_jid | 1 year;<br><br>30 mins | Disqus | Social Media | [https://help.disqus.com/en/articles/1717155-use-of-cookies](https://help.disqus.com/en/articles/1717155-use-of-cookies) |
+    | ab.storage.sessionId.<api\_key>;<br><br>ab.storage.userId.<api\_key> | 365 days;<br><br>365 days | Braze | Advertising and Remarketing | [https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.](https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.) |
+    | uuid2;<br><br>anj;<br><br>icu; | 90 days;<br><br>90 days;<br><br>90 days; | Xandr (AppNexus) | Advertising and Remarketing | [https://www.xandr.com/privacy/cookie-policy/](https://www.xandr.com/privacy/cookie-policy/) |
+    | tluid | 90 days | TripleLift | Advertising and Remarketing | [https://triplelift.com/cookie-policy/](https://triplelift.com/cookie-policy/) |
+    | \_\_adroll\_shared;<br><br>\_\_adroll\_fpc;<br><br>\_\_adroll | 395 days;<br><br>365 days;<br><br>395 days | AdRoll | Advertising and Remarketing | [https://www.nextroll.com/privacy](https://www.nextroll.com/privacy) |
+    | APID | 365 days | VerizonMedia | Advertising and Remarketing | [https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.](https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.) |
+    | tuuid\_lu;<br><br>tuuid;<br><br>c | 365 days;<br><br>365 days;<br><br>365 days | Bidswitch | Advertising and Remarketing | [https://www.bidswitch.com/cookie-statement/](https://www.bidswitch.com/cookie-statement/) |
+    | CMID;<br><br>CMST;<br><br>CMDD;<br><br>CMPS;<br><br>CMRUM3;<br><br>CMPRO | 365 days;<br><br>24 hours;<br><br>24 hours;<br><br>90 days;<br><br>365 days;<br><br>90 days | Casale Media | Advertising and Remarketing | [https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.](https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.) |
+    | rmuid;<br><br>Icts | 365 days;<br><br>365 days | Rakuten Advertising | Advertising and Remarketing | [https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.](https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.) |
+    | i;<br><br>pd;<br><br>univ\_id | 365 days;<br><br>15 days;<br><br>15 days | OpenX | Advertising and Remarketing | [https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.](https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.) |
+    | adrl;<br><br>obuid;<br><br>cookieJartestCookie | 30 days;<br><br>90 days;<br><br>1 day | Outbrain | Advertising and Remarketing | [https://www.outbrain.com/legal/privacy#cookies](https://www.outbrain.com/legal/privacy#cookies) |
+    | PugT;<br><br>SPugT;<br><br>PUBMDCID;<br><br>KADUSERCOOKIE;<br><br>KTPCACOOKIE;<br><br>chkChromeAb67Sec;<br><br>DPSync3;<br><br>SyncRTB3;<br><br>KRTBCOOKIE\_\* | 30 days;<br><br>30 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>30 days, 400 days | Pubmatic | Advertising and Remarketing | [https://pubmatic.com/legal/platform-cookie-policy/](https://pubmatic.com/legal/platform-cookie-policy/) |
+    | mc;<br><br>d;<br><br>\_\_qca | 395 days;<br><br>90 days;<br><br>392 days | Quantcast | Advertising and Remarketing | [https://www.quantcast.com/faq/quantcast-services/](https://www.quantcast.com/faq/quantcast-services/) |
+    | rlas3;<br><br>pxrc | 365 days;<br><br>60 days | TowerData (pka Rapleaf) | Advertising and Remarketing | [https://www.towerdata.com/privacy-policy](https://www.towerdata.com/privacy-policy) |
+    | audit;<br><br>khaos;<br><br>rsid;<br><br>ses15;<br><br>vis15 | 365 days;<br><br>365 days;<br><br>Session;<br><br>10 mins;<br><br>10 mins | Rubicon Project | Advertising and Remarketing | [https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/](https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/) |
+    | t\_gid | 365 days | Taboola | Advertising and Remarketing | [https://www.taboola.com/policies/cookie-policy](https://www.taboola.com/policies/cookie-policy) |
+    | APIDTS;<br><br>APID;<br><br>A3;<br><br>IDSYNC | 24 hours;<br><br>288 days;<br><br>365 days;<br><br>365 days | Yahoo | Advertising and Remarketing | [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.) |
+    | \_\_cfduid;<br><br>\_\_cf\_bm;<br><br>\_\_cfruid;<br><br>\_zendesk\_session;<br><br>\_help\_center\_session;<br><br>\_zendesk\_authenticated;<br><br>\_zendesk\_shared\_session;<br><br>\_zendesk\_cookie | 30 days;<br><br>30 days;<br><br>Session;<br><br>Session;<br><br>Session;<br><br>8 hours;<br><br>8 hours;<br><br>20 years | Zendesk | Customer Support | [https://www.zendesk.com/company/policies-procedures/cookie-policy/](https://www.zendesk.com/company/policies-procedures/cookie-policy/) |
     
-4. **Rakuten Vikiのトラッキング拒否要求への対応**
+4. **DOES RAKUTEN VIKI RESPOND TO 'DO NOT TRACK' SIGNALS?**
     
-    現在、Rakuten Vikiは、トラッキング拒否要求への対応措置を取っていません。これは、統一された技術標準がまだ確立されていないためです。当社は、新技術の検証を継続し、標準が作成された場合、その標準を採用する可能性があります。
+    Rakuten Viki does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
     
-5. **Cookieが設定されないようにする方法またはCookieを削除する方法**
+5. **WHAT TO DO IF YOU DO NOT WANT COOKIES TO BE SET OR WANT THEM TO BE REMOVED?**
     
-    本サイトがCookieを使用して情報を取得することをご希望されない場合は、ウェブブラウザの設定で本サイトからのCookieを拒否することができます。設定方法は各ブラウザにより異なるため、ブラウザまたは端末の「ヘルプ」メニューでCookie設定の変更方法をご確認ください。
+    If you do not want the Site to collect information through the use of cookies, you can set your web browser to reject cookies from the Site. Each browser is different, so you should check your browser or device's “Help” menu to learn how to change your cookie preferences.
     
-    モバイル端末の設定画面からモバイルアプリケーション分析を無効にすることもできます。また、米国の場合は[Digital Advertising Alliance（デジタル広告アライアンス）](http://optout.aboutads.info/?c=2#!/)、EUの場合は[All About Cookies（オールアバウトCookie）](http://www.allaboutcookies.org/)または[Your Online Choices（オンライン上の選択肢）](https://www.youronlinechoices.eu/)を通して、インターネット広告企業が配置したCookieを管理および削除することもできます。さらに、iPhone、iPadまたはAndroidの端末設定を変更して、オンラインインターネット広告を表示するかどうかを制御することもできます。
+    You may also disable analytics for mobile applications from the settings screen on your mobile device. In addition, you can manage and delete cookies placed by internet based advertising companies through [Digital Advertising Alliance](http://optout.aboutads.info/?c=2#!/) in the US, or [All About Cookies](http://www.allaboutcookies.org/) or [Your Online Choices](https://www.youronlinechoices.eu/) in the EU. In addition, you can change your device settings, on your iPhone, iPad or Android, to control whether you see online internet based ads.
     
-    本サイトからのCookieを拒否またはブロックすると、本サイトは意図したとおりに機能しない場合がありますので、ご注意ください。例えば、当社は、お客様の環境設定やログイン情報を保存したり、お客様の閲覧習慣に合わせてコンテンツをカスタマイズしたりできなくなる可能性があります。
+    You should note that if you reject or block cookies from the Site, the Site may not function as intended. For example, We may not be able to store your preferences or login information or customize the content to your viewing habits.
     
-6. **本Cookieポリシーの変更**
+6. **CHANGES TO THIS COOKIE POLICY**
     
-    当社は、当社が使用するCookieの変更やその他業務、法務または規制上の理由による変更を反映するため、本Cookieポリシーを随時更新する場合があります。そのため、本Cookieポリシーを定期的に再確認し、当社によるCookieおよび関連技術の使用に関する最新情報を入手していただきますようお願いいたします。
+    From time to time, We may update this Cookie Policy in order to reflect changes, such as changes to the cookies We use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about Our use of cookies and related technologies.
     
-    本Cookieポリシーの最終更新日は、本Cookieポリシーの冒頭に記載されています。
+    The date at the top of this Cookie Policy indicates when it was last updated.
     
-7. **お問い合わせ**
+7. **CONTACT US**
     
-    本Cookieポリシーに関するご質問やご意見がございましたら、[https://support.viki.com/hc/ja](https://support.viki.com/hc/ja)から当社にお問い合わせください。
+    If you have questions or comments regarding this Cookie Policy, please contact Us at [https://support.viki.com/hc/en-us](https://support.viki.com/hc/en-us).
     
-    以下の住所宛てに郵送でお問い合わせいただくことも可能です。
+    You may also reach Us by physical mail at the following address:
     
     **Viki, Inc**  
     Attention: Cookie Policy/ Legal Department  
