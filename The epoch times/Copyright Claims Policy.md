@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/federal-judge-blocks-virginia-plan-to-purge-noncitizens-from-voter-rolls-5747769)
+    
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745818-absentee-ballots-1200x800-1-LS-205x123.webp)](https://www.theepochtimes.com/us/federal-judge-blocks-virginia-plan-to-purge-noncitizens-from-voter-rolls-5747769)
+* [Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://www.theepochtimes.com/tech/meta-tiktok-and-google-cannot-evade-schools-lawsuit-alleging-harm-to-minors-court-rules-5747770)
+    
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/tech/meta-tiktok-and-google-cannot-evade-schools-lawsuit-alleging-harm-to-minors-court-rules-5747770)
+* [Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://www.theepochtimes.com/us/judge-strikes-down-ohios-heartbeat-abortion-ban-5747698)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://img.theepochtimes.com/assets/uploads/2024/10/id5747693-1.tagreuters.com2024binary_LYNXMPEK9N0ZH-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-strikes-down-ohios-heartbeat-abortion-ban-5747698)
+* [A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://www.theepochtimes.com/health/a-low-carb-diet-may-eliminate-the-need-for-diabetes-drugs-study-suggests-5745960)
+    
+    3hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747522-shutterstock_2201837973_Ketogenic_low_carb_low-carbohydrate_carbohydrate_keto_diet-205x123.jpg.webp)](https://www.theepochtimes.com/health/a-low-carb-diet-may-eliminate-the-need-for-diabetes-drugs-study-suggests-5745960)
+* [Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://www.theepochtimes.com/us/appeals-court-blocks-some-parts-of-new-york-gun-law-upholds-others-5747762)
+    
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://img.theepochtimes.com/assets/uploads/2023/05/10/id5256356-handguns-GettyImages-1252351546-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-blocks-some-parts-of-new-york-gun-law-upholds-others-5747762)
+* [Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://www.theepochtimes.com/us/trump-harris-to-hold-dueling-events-in-texas-to-spotlight-key-issues-5747673)
+    
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745553-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-to-hold-dueling-events-in-texas-to-spotlight-key-issues-5747673)
+* [Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://www.theepochtimes.com/us/supreme-court-overturns-conviction-of-attorney-for-smuggling-drugs-into-massachusetts-prison-5746580)
+    
+    5hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737969-10072024-DSC03073-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-overturns-conviction-of-attorney-for-smuggling-drugs-into-massachusetts-prison-5746580)
+* [JD Vance’s Michigan Town Hall: 5 Key Moments](https://www.theepochtimes.com/us/jd-vances-michigan-town-hall-5-key-moments-5747672)
+    
+    5hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![JD Vance’s Michigan Town Hall: 5 Key Moments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![JD Vance’s Michigan Town Hall: 5 Key Moments](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738815-JD-Vance-11_JF_10092024-205x123.jpg.webp)](https://www.theepochtimes.com/us/jd-vances-michigan-town-hall-5-key-moments-5747672)
+* [Early Voting to Begin in New York on Oct. 26](https://www.theepochtimes.com/us/early-voting-to-begin-in-new-york-on-oct-26-post-5746378)
+    
+    6hr By [Oliver Mantyk](https://www.theepochtimes.com/author/oliver-mantyk)
+    
+    [![Early Voting to Begin in New York on Oct. 26](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Early Voting to Begin in New York on Oct. 26](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747746-GettyImages-1780312312-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-to-begin-in-new-york-on-oct-26-post-5746378)
 * [Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
     
-    NEW By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    7hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
     
     [![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/uploads/2023/05/29/id5298246-rsz_suidani-205x123.png.webp)](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
-* [Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://www.theepochtimes.com/us/early-voting-data-indicate-mail-in-voting-wont-be-as-prominent-in-2024-as-it-was-in-2020-post-5747497)
-    
-    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729645-mail-in-ballots-AP24239719232917-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-data-indicate-mail-in-voting-wont-be-as-prominent-in-2024-as-it-was-in-2020-post-5747497)
-* [Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://www.theepochtimes.com/us/harris-campaigns-in-georgia-with-obama-bruce-springsteen-5747660)
-    
-    1hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747691-Springsteen-harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaigns-in-georgia-with-obama-bruce-springsteen-5747660)
-* [Trump Pushes Early Voting in Arizona](https://www.theepochtimes.com/us/trump-pushes-early-voting-in-arizona-5747572)
-    
-    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump Pushes Early Voting in Arizona](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Pushes Early Voting in Arizona](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747567-GettyImages-2179949786-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-pushes-early-voting-in-arizona-5747572)
-* [Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://www.theepochtimes.com/us/trumps-attorneys-seek-election-case-dismissal-say-special-council-appointment-unconstitutional-5747594)
-    
-    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://img.theepochtimes.com/assets/uploads/2024/06/26/id5675847-Jack-Smith-GettyImages-1570145880-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-attorneys-seek-election-case-dismissal-say-special-council-appointment-unconstitutional-5747594)
-* [McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://www.theepochtimes.com/us/mcdonalds-e-coli-outbreak-linked-to-slivered-onions-served-in-quarter-pounders-5747549)
-    
-    5hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
-    
-    [![McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747683-MCDONALDS-CORP-ECOLI-CUSTOMERS-205x123.jpg.webp)](https://www.theepochtimes.com/us/mcdonalds-e-coli-outbreak-linked-to-slivered-onions-served-in-quarter-pounders-5747549)
-* [Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747449-AP24298665642488-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
-* [In Arizona, Biden to Make Apology for Indian Boarding Schools](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
-    
-    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735279-GettyImages-2175684313-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
-* [Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
-    
-    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/uploads/2024/04/06/id5623069-04052024-DSC02634-The-Francis-Scott-Key-Bridge-205x123.jpg.webp)](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
-* [Curcumin: The Firefighter Stamping Out Inflammation](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
-    
-    9hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough) and [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
-    
-    [![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747288-Curcumin_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
+    ![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747748-rsz_suidani-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
