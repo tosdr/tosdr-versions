@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Gut essen mit der Stiftung Warentest: Curry-Hirse mit Fenchel](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Curry-Hirse-mit-Fenchel-5954052-0/ "Gut essen mit der Stiftung Warentest - Curry-Hirse mit Fenchel")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
 
 Service Stiftung Warentest
 
