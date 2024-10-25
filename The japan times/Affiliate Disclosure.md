@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
+[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+
+  [![North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+
 [German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
   [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-[Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
+[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
-  [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
-
-[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
-
-  [![People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429636.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.")](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+  [![The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429429.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.")](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
 Editors' Picks
 --------------
@@ -170,6 +170,14 @@ By [Johan Brooks](https://www.japantimes.co.jp/author/4555/johan-brooks/ "Johan 
 
   [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
 
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
@@ -178,21 +186,13 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
 
-[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Former _ozeki_ Asahikuni, also a trailblazing stablemaster, dies at age 77](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
+[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
-By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
-  [![Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429597.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Stablemaster Oshima (left) congratulates Kyokushuzan on his promotion to the the jūryō division in 1995. ")](https://www.japantimes.co.jp/sports/2024/10/23/sumo/asahikuni-dies-77/ "Former ozeki Asahikuni, also a trailblazing stablemaster, dies at age 77")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Japan's secondhand smartphone market booms as households struggle](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
-
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
-
-  [![People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429636.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People from Thailand look at used smartphones in Tokyo's Akihabara district in October 2022.")](https://www.japantimes.co.jp/business/2024/10/23/markets/secondhand-smartphone-market/ "Japan's secondhand smartphone market booms as households struggle")
+  [![The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429429.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.")](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,15 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Masato Kanda, former top currency diplomat, sole candidate to head ADB](https://www.japantimes.co.jp/business/2024/10/24/economy/kanda-sole-candidate-adb/ "Masato Kanda, former top currency diplomat, sole candidate to head ADB")
+[Trump vs. Harris: Competing visions for a warming world](https://www.japantimes.co.jp/news/2024/10/25/world/politics/trump-harris-climate-visions/ "Trump vs. Harris: Competing visions for a warming world")
 
-[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+52 mins ago
 
-[At Putin-hosted summit, one guest stood out: Erdogan](https://www.japantimes.co.jp/news/2024/10/24/world/politics/putin-summit-turkey-erdogan/ "At Putin-hosted summit, one guest stood out: Erdogan")
+[U.S. Democratic candidates step up immigration messaging in last weeks](https://www.japantimes.co.jp/news/2024/10/25/world/politics/democrats-immigration-message-ramp-up/ "U.S. Democratic candidates step up immigration messaging in last weeks")
 
-['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+1 hours ago
 
-[Electric vehicles may be struggling. GM’s leader is still a believer.](https://www.japantimes.co.jp/business/2024/10/24/companies/electric-vehicles-gm-leader/ "Electric vehicles may be struggling. GM’s leader is still a believer.")
+[Defense tax hikes hinge on election results](https://www.japantimes.co.jp/news/2024/10/25/japan/politics/defense-spending-election/ "Defense tax hikes hinge on election results")
+
+1 hours ago
+
+[U.S. presses for Gaza truce as negotiators prepare to meet](https://www.japantimes.co.jp/news/2024/10/25/world/politics/us-gaza-settlement-push/ "U.S. presses for Gaza truce as negotiators prepare to meet")
+
+1 hours ago
+
+[LA Times editorial chief quits after Harris column quashed](https://www.japantimes.co.jp/news/2024/10/25/world/la-times-editorial-chief-quits/ "LA Times editorial chief quits after Harris column quashed")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
