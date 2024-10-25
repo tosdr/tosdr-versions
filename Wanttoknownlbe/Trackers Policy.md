@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/voedsel/gmo-zalm-onderweg-naar-jouw-bord/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/klimaat/bosbranden-canada-klimaat-ontkenner-verzon-list/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
