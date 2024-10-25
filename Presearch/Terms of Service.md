@@ -24,7 +24,13 @@ Cancelled
 
 PRE
 
-Sign up to Earn
+[Learn](https://www.presearch.org/learn-more)
+
+Login
+
+Sign Up for
+
+$
 
 Token Balance
 
