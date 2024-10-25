@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor") [Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe")
+[Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor") [#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
