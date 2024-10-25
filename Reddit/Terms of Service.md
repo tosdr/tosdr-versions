@@ -83,7 +83,7 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Deutsch (DE)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Deutsch](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Nutzungsvereinbarung](https://redditinc.com/de-de/policies/user-agreement?hsLang=en)
             * [16.09.2024](https://redditinc.com/de-de/policies/user-agreement-august-16-2024-de?hsLang=en)
@@ -188,7 +188,7 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Français (FR)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Français](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Contrat d’Utilisation](https://redditinc.com/fr-fr/policies/user-agreement?hsLang=en)
             * [16 sept. 2024](https://redditinc.com/fr-fr/policies/user-agreement-august-16-2024-fr-fr?hsLang=en)
@@ -223,7 +223,7 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Italiano (IT)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Italiano](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Accordo per gli Utenti](https://redditinc.com/it-it/policies/user-agreement?hsLang=en)
             * [16 set 2024](https://redditinc.com/it-it/policies/user-agreement-august-16-2024-it-it?hsLang=en)
@@ -258,7 +258,7 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Dutch (NL)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Nederlands](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Gebruikersovereenkomst](https://redditinc.com/nl-nl/policies/user-agreement?hsLang=en)
             * [16 sep. 2024](https://redditinc.com/nl-nl/policies/user-agreement-august-16-2024-nl-nl?hsLang=en)
@@ -362,7 +362,7 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Swedish (SE)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [Svenska](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Användaravtal](https://redditinc.com/sv-se/policies/user-agreement?hsLang=en)
             * [16 sep. 2024](https://redditinc.com/sv-se/policies/user-agreement-august-16-2024-sv-se?hsLang=en)
@@ -395,13 +395,13 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
-* [Bengali (BN)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [বাংলা](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Reddit ইউজার এগ্রিমেন্ট](https://redditinc.com/bn/policies/user-agreement?hsLang=en)
         * [Reddit-এর গোপনীয়তা নীতি](https://www.reddit.com/bn-in/policies/privacy-policy)
         * [Reddit-এর কনটেন্ট নীতি](https://redditinc.com/bn/policies/content-policy?hsLang=en)
 
-* [Hindi (HI)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+* [हिन्दी](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
         * [Reddit यूज़र एग्रीमेंट](https://redditinc.com/hi-in/policies/user-agreement?hsLang=en)
         * [Reddit प्राइवेसी पॉलिसी](https://www.reddit.com/hi-in/policies/privacy-policy)
