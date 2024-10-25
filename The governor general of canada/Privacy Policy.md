@@ -68,7 +68,6 @@ Languages
         * [Sovereign’s Flag for Canada](https://www.gg.ca/en/heraldry/royal-and-viceregal-emblems/sovereigns-flag-canada)
         * [Governor General's Flag](https://www.gg.ca/en/heraldry/royal-and-viceregal-emblems/governor-generals-flag)
         * [Viceregal Salute](https://www.gg.ca/en/heraldry/royal-and-viceregal-emblems/viceregal-salute)
-    * [Frequently Asked Questions](https://www.gg.ca/en/heraldry/faq)
 * [Multimedia](https://www.gg.ca/en/multimedia)
     * [Media Centre](https://www.gg.ca/en/media)
     * [Videos](https://www.gg.ca/en/multimedia/videos)
