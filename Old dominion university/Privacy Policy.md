@@ -74,7 +74,7 @@ This Web server makes use of "cookies." A cookie is a small piece of information
 
 ### Digital Millennium Copyright Act (DMCA)
 
-Refer to the [DMCA Notices](http://facultystaff/computing/policies/dmca) Page for more information.
+Refer to the [DMCA Notices](https://guides.lib.odu.edu/c.php?g=818074&p=9362588#s-lg-box-29288359) Page for more information.
 
 ### Pop up advertisement disclaimer
 
