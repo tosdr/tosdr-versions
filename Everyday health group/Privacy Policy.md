@@ -92,9 +92,9 @@ Find the best doctors for you that are near you.
 
 [See All](https://www.everydayhealth.care/)
 
-[Cardiologist](https://www.everydayhealth.care/specialists/cardiologist-heart-specialist/)[Dermatologist](https://www.everydayhealth.care/specialists/dermatologist-skin-specialist/)[Gastroenterologist](https://www.everydayhealth.care/specialists/gastroenterologist-stomach-bowel-specialist/)[OB/GYN](https://www.everydayhealth.care/specialists/obstetrician-gynecologist-obgyn/)
+[Cardiologist](https://www.everydayhealth.care/specialists/cardiologist/)[Dermatologist](https://www.everydayhealth.care/specialists/dermatologist/)[Gastroenterologist](https://www.everydayhealth.care/specialists/gastroenterologist/)[OB/GYN](https://www.everydayhealth.care/specialists/obstetrician-gynecologist-obgyn/)
 
-[Orthopedic Surgeon](https://www.everydayhealth.care/specialists/orthopedic-surgeon/)[Pediatrician](https://www.everydayhealth.care/specialists/pediatrician-kids-children-specialist/)[Primary Care](https://www.everydayhealth.care/specialists/general-practice-doctor-general-practitioner/)
+[Orthopedic Surgeon](https://www.everydayhealth.care/specialists/orthopedic-surgeon/)[Pediatrician](https://www.everydayhealth.care/specialists/pediatrician/)[Primary Care](https://www.everydayhealth.care/specialists/general-practice-doctor-general-practitioner/)
 
 [Quizzes & Calculators](https://www.everydayhealth.com/quizzes-calculators/)
 
