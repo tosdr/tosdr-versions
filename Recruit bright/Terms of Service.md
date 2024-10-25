@@ -267,7 +267,7 @@ Don’t hesitate to contact us if you have any questions.
 
 © 2024 Recruit Bright FROM Forem Software
 
-Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=68d4f35bb5) And try again
+Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=4ca4077c1e) And try again
 
 Login to your account
 ---------------------
@@ -308,8 +308,6 @@ Choose your Account Type
 * Confirm Password \* [](#)
 * Phone: \*
     
-      
-    
 * Organization Name 
 * Select Sector \*
     
@@ -336,7 +334,7 @@ Choose your Account Type
 
 [Close](javascript:void(0))
 
-                                       
+                                      
 
 Answers
 -------
