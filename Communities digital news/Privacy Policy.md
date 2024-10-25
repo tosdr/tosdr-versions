@@ -26,57 +26,83 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam_victim-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-convenince-store-1200x630.jpg)](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
 
-[Texas Republicans slam Kamala for rally in city where 12-yr-old girl was murdered by illegals](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
+[Black Chicagoans shock convenience store worker with responses on election: ‘Make America Great Again!’](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tempe-trashcan-1200x630.jpg)](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mel-gibson--1200x630.png)](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
 
-[Trump rips Kamala’s immigration policies that have made U.S. ‘like a garbage can for the world’](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
+[Mel Gibson is down for Trump, says Kamala has ‘the IQ of a fence post’](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-1200x630.png)](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-1200x630.jpg)](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
 
-[Obama defends Kamala’s McJob claim](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-menendez-brothers-1200x630.jpg)](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
+[New survey shows whopping percent of Americans want voter ID, proof of citizenship to vote](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
 
-[Menendez brothers’ uncle is furious, says DA is seeking fame days ahead of a crucial election he’s poised to lose](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-1200x630.png)](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-1200x630.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
+[‘Absolute coward’: Kamala ​​declines appearance on Joe Rogan’s podcast](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
 
-[Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-poop-1200x630.png)](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-clinton-1200x630.png)](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
+[Poop statue placed outside Capitol to mark J6 doesn’t give intended impression: ‘Time for Pelosi to get FLUSHED’](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
 
-[Duck Hillary! Clinton’s latest Trump claim comes with a GIANT boomerang!](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-homemade-bridge-1200x630.jpg)](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-bible-1200x630.jpg)](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
+[‘Redneck ingenuity for the win!’ Locals get creative when gov’t fails to come through with Helene relief](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
 
-[CBS News targets federal minimum wage in battleground states — didn’t think that one through!](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-vance-oreilly-1200x630.jpg)](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-facebook-deceased-family-1200x630.jpg)](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
+[Bill O’Reilly tells Cuomo he ‘let Vance off’ during NewsNation town hall](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
 
-[Boy, 15, who shot up parents, three siblings tried to frame younger brother in bizarre twist](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lgreek-flags-amber-matthews-1200x630.jpg)](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-kam-split-1200-x-628-1200x630.jpg)
+[Pro-Palestine zealot charged after she posts HERSELF ignorantly tearing down Greek flags, not Israeli](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
 
-### JD Vance calls out Kamala’s ‘disgraceful’ anti-Catholic bigotry](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-1-1200x630.jpg)
+
+### Fmr. Obama official STUNS Fox hosts and viewers with ‘mind blowing’ take on Kamala’s border stance](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [DHS official caught using social media to promote illegal immigration tips in ‘utter betrayal of the American people’](https://americanwirenews.com/dhs-official-caught-using-social-media-to-promote-illegal-immigration-tips-in-utter-betrayal-of-the-american-people/)
+### [‘Why wasn’t any of that done in last four years?’ Kamala’s CNN townhall wasn’t as easy as the others](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
 
-### [Unhinged Bob Woodward calls for Biden to get Nobel Peace Prize for Ukraine](https://americanwirenews.com/unhinged-bob-woodward-calls-for-biden-to-get-nobel-peace-prize-for-ukraine/)
+### [Surprise! Surprise! Media produces 30-year-old claim by ex-model that Trump ‘groped’ her, with an Epstein twist](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
 
-### [Fmr Democrat presidential candidate surprises Trump at rally by announcing switch to Republican Party](https://americanwirenews.com/fmr-democrat-presidential-candidate-surprises-trump-at-rally-by-announcing-switch-to-republican-party/)
+### [NY Times neglects to inform readers source backing Kamala’s McDonald’s claim is campaign surrogate](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
 
-### [Pathetic pandering race-baiter Kamala tells Latinos Trump doesn’t care about them](https://americanwirenews.com/pathetic-pandering-race-baiter-kamala-tells-latinos-trump-doesnt-care-about-them/)
+### [Trump stirs the pot, jabs Obama over ‘sabotaging’ Joe’s reelection bid amid Kamala collapse](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
 
-### [Kamala’s Knucklehead calls Elon Musk a ‘dipsh\*t’ – so much for decorum](https://americanwirenews.com/kamalas-knucklehead-calls-elon-musk-a-dipsht-so-much-for-decorum/)
+### [Transgender suspect released by non-binary judge charged in fatal stabbing of off-duty officer](https://americanwirenews.com/transgender-suspect-released-by-non-binary-judge-charged-in-fatal-stabbing-of-off-duty-officer/)
 
-### [DC pizza chain declared ‘racist’ over ‘hella disrespectful’ dessert named after former mayor](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
+### [‘War is expanding’: Arab leaders in Michigan break with Democrats to endorse Trump](https://americanwirenews.com/war-is-expanding-arab-leaders-in-michigan-break-with-democrats-to-endorse-trump/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-glenn-youngkin-220x180.jpg)](https://americanwirenews.com/gov-youngkin-sounds-off-on-stunning-ruling-to-reinstate-removed-individuals-to-voter-rolls/)
+
+[Gov. Youngkin sounds off on ‘stunning ruling’ to reinstate removed individuals to voter rolls](https://americanwirenews.com/gov-youngkin-sounds-off-on-stunning-ruling-to-reinstate-removed-individuals-to-voter-rolls/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-chest-xray-220x180.jpg)](https://americanwirenews.com/illegal-with-aggressive-drug-resistant-form-of-tb-released-after-making-contact-with-hundreds-of-detainees-state-sues/)
+
+[Illegal with ‘aggressive, drug-resistant’ form of TB released after making contact with ‘hundreds of detainees’, state sues](https://americanwirenews.com/illegal-with-aggressive-drug-resistant-form-of-tb-released-after-making-contact-with-hundreds-of-detainees-state-sues/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/mugshot-lcdc-1-220x180.jpg)](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
+
+[Bearded perp makes it into mugshot Hall of Shame after threatening to bomb beauty store](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-lv-220x180.png)](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
+
+[‘Man of the people!’ Trump met with raucous applause when he stops by Cuban Kitchen](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Bannon-220x180.jpg)](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
+
+[Steve Bannon’s timely release from prison could help Trump win](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hannity-smith-220x180.jpg)](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
+
+[Sean Hannity wallops Stephen A. Smith in heated battle over Kamala’s campaign](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kari-lake-220x180.png)](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
 
@@ -90,6 +116,10 @@ Search for:
 
 [Barron Trump draws high praise for his humility: ‘Most interesting 18-year-old I’ve met’](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/college-student--220x180.png)](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
+
+[‘Maybe the media’s lying to you’: Charlie Kirk leaves ‘indoctrinated’ Trump hater speechless](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
 
 [Swing state puts voting rights for non-citizens on the ballot to clarify state constitution](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
@@ -100,83 +130,55 @@ Getty Images
 
 [‘Desperate’ DNC will run billboard with ‘debunked’ Atlantic’s Hitler headline outside Trump rally](https://americanwirenews.com/desperate-dnc-will-run-billboard-with-debunked-atlantics-hitler-headline-outside-trump-rally/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-stock-market-220x180.jpg)](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
+
+[Billionaire investor believes stock market is ‘convinced’ who will win presidential election](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoff-220x180.jpg)](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
+
+[Woman allegedly slapped by Doug Emhoff breaks her silence, ‘disgusted’ by his ‘fabricated persona’](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-illegal-aliens-220x180.jpg)](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
 
 [‘Quiet amnesty’: Here’s how Biden-Harris regime is making it impossible to deport massive amount of illegals](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-alex-wagner-220x180.jpg)](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
+
+[Black women voters tell MSNBC that Kamala doesn’t have ‘what it takes’ to go up against world leaders](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-los-angeles-times-220x180.jpg)](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
 
 [LA Times editor quits after paper refuses to endorse Kamala Harris: ‘Makes us look craven’](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2171411864-1-220x180.jpg)](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
+
+[Kamala scores what’s likely the most apropos endorsement in the history of endorsements](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
+
+(Photo by Valerie Terranova/FilmMagic)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-adam-carolla-pete-buttigieg-split-220x180.jpg)](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
 
 [Adam Carolla drops brutal reality check on Pete Buttigieg’s high-speed rail fantasy](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/admin-ajax-4-220x180.jpg)](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
+
+[George Conway tells off sister of slain soldier at center of latest anti-Trump hit piece](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-criminal-aliens-arriving-220x180.jpg)](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
+
+[Tenn. AG reveals ICE released thousands of ‘murderers and rapists’ from detention centers into US streets](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mia-khalifa-220x180.jpg)](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
+
+[Pro-Hamas porn star ‘influencer’ hits new low in unhinged rant mocking U.S. military with PTSD](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-14-220x180.jpg)](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
+
+[Kamala plans final campaign speech at symbolic spot she hopes will damage Trump](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-warren-buffet-220x180.jpg)](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
 
 [The ‘Oracle of Omaha’ passes on endorsing Kamala](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Judge-gavel-220x180.jpeg)](https://americanwirenews.com/reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
-
-[Reporter whines about being targeted by gas thieves: ‘You support the Democrats, right?’](https://americanwirenews.com/reporter-whines-about-being-targeted-by-gas-thieves-you-support-the-democrats-right/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2179673547-1-220x180.jpg)](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
-
-[Piece on Kamala’s fashion sense has the left eating their own](https://americanwirenews.com/piece-on-kamalas-fashion-sense-has-the-left-eating-their-own/)
-
-(Photo by Andrew Harnik/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnborderczar-1200-x-628-220x180.jpg)](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
-
-[‘Border czar’ Harris tripped up by question about flip-flop on ‘stupid’ wall during CNN town hall](https://americanwirenews.com/border-czar-harris-tripped-up-by-question-about-flip-flop-on-stupid-wall-during-cnn-town-hall/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tucker-carlson-at-trump-rally-220x180.jpg)](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
-
-[Tucker Carlson gives what might be the best political speech of our day at Trump rally, crowd chants, ‘Daddy’s home’](https://americanwirenews.com/tucker-carlson-gives-what-might-be-the-best-political-speech-of-our-day-at-trump-rally-crowd-chants-daddys-home/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-cnn-town-hall-220x180.jpg)](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
-
-[‘Word salad city,’ says Dem strategist about Harris’s CNN town hall: Dr. Seuss has nothing on Kamala](https://americanwirenews.com/word-salad-city-says-dem-strategist-about-harriss-cnn-town-hall-dr-seuss-has-nothing-on-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maricopa-ballot-box-220x180.jpg)](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
-
-[Maricopa County says they ‘expect that it will take between 10 -13 days to complete tabulation’ of votes](https://americanwirenews.com/maricopa-county-says-they-expect-that-it-will-take-between-10-13-days-to-complete-tabulation-of-votes/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-harris-17-220x180.jpg)](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
-
-[‘Why wasn’t any of that done in last four years?’ Kamala’s CNN townhall wasn’t as easy as the others](https://americanwirenews.com/why-wasnt-any-of-that-done-in-last-four-years-kamalas-cnn-townhall-wasnt-as-easy-as-the-others/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djtfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
-
-[Surprise! Surprise! Media produces 30-year-old claim by ex-model that Trump ‘groped’ her, with an Epstein twist](https://americanwirenews.com/surprise-surprise-media-produces-30-year-old-claim-by-ex-model-that-trump-groped-her-with-an-epstein-twist/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mcd-kamala-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
-
-[NY Times neglects to inform readers source backing Kamala’s McDonald’s claim is campaign surrogate](https://americanwirenews.com/ny-times-neglects-to-inform-readers-source-backing-kamalas-mcdonalds-claim-is-campaign-surrogate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt_bo-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
-
-[Trump stirs the pot, jabs Obama over ‘sabotaging’ Joe’s reelection bid amid Kamala collapse](https://americanwirenews.com/trump-stirs-the-pot-jabs-obama-over-sabotaging-joes-reelection-bid-amid-kamala-collapse/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-orenstein-bralliershirt-220x180.jpg)](https://americanwirenews.com/transgender-suspect-released-by-non-binary-judge-charged-in-fatal-stabbing-of-off-duty-officer/)
-
-[Transgender suspect released by non-binary judge charged in fatal stabbing of off-duty officer](https://americanwirenews.com/transgender-suspect-released-by-non-binary-judge-charged-in-fatal-stabbing-of-off-duty-officer/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-michigan-muslims-220x180.jpg)](https://americanwirenews.com/war-is-expanding-arab-leaders-in-michigan-break-with-democrats-to-endorse-trump/)
-
-[‘War is expanding’: Arab leaders in Michigan break with Democrats to endorse Trump](https://americanwirenews.com/war-is-expanding-arab-leaders-in-michigan-break-with-democrats-to-endorse-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-trump-220x180.jpg)](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
-
-[Behar flips her lid over alleged Trump Hitler praise: ‘If people still follow this fascist pig…’](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-travis-220x180.jpg)](https://americanwirenews.com/clay-travis-says-facebook-blocked-trump-interview-along-with-tyrus-interview-with-gop-nominee/)
-
-[Clay Travis says Facebook blocked Trump interview, along with Tyrus’ interview with GOP nominee](https://americanwirenews.com/clay-travis-says-facebook-blocked-trump-interview-along-with-tyrus-interview-with-gop-nominee/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-bitter-220x180.jpg)](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
-
-[Obama’s perplexed over how America ‘got so toxic and divided’ – X lends a hand](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -238,9 +240,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pxbaydrone-sg-llynch-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lithium-mining-1200x630.jpg)](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
 
-[Chinese drone company repped by former Obama AG Loretta Lynch sues Pentagon](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
+[Researchers find riches beneath one US state to possibly meet worldwide demand nine times over](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lithium-mining-220x180.jpg)](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
+
+[Researchers find riches beneath one US state to possibly meet worldwide demand nine times over](https://americanwirenews.com/researchers-find-riches-beneath-one-us-state-to-possibly-meet-worldwide-demand-nine-times-over/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pizza2-220x180.png)](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
+
+[DC pizza chain declared ‘racist’ over ‘hella disrespectful’ dessert named after former mayor](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pxbaydrone-sg-llynch-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/chinese-drone-company-repped-by-former-obama-ag-loretta-lynch-sues-pentagon/)
 
@@ -254,41 +264,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Tapper, Blitzer denied raises at CNN, Wallace offered a pay cut in overhaul, report says](https://americanwirenews.com/tapper-blitzer-denied-raises-at-cnn-wallace-offered-a-pay-cut-in-overhaul-report-says/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1170136379-220x180.jpg)](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
-
-[Arnold Ventures under fire for weakening IP and patents
-
-Getty](https://americanwirenews.com/arnold-ventures-under-fire-for-weakening-ip-and-patents/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-walgreens-220x180.jpg)](https://americanwirenews.com/walgreens-to-shutter-1200-locations-in-latest-sign-of-ailing-harris-biden-economy/)
-
-[Walgreens to shutter 1,200 locations in latest sign of ailing Harris-Biden economy](https://americanwirenews.com/walgreens-to-shutter-1200-locations-in-latest-sign-of-ailing-harris-biden-economy/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-obama-eminem-1200x630.jpg)](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-trump-1200x630.jpg)](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
 
-[Trump calls rappin’ Obama ‘a real jerk’ after insult-filled rally featuring Slim Shady](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
+[Behar flips her lid over alleged Trump Hitler praise: ‘If people still follow this fascist pig…’](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-obama-eminem-220x180.jpg)](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-trump-220x180.jpg)](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
 
-[Trump calls rappin’ Obama ‘a real jerk’ after insult-filled rally featuring Slim Shady](https://americanwirenews.com/trump-calls-rappin-obama-a-real-jerk-after-insult-filled-rally-featuring-slim-shady/)
+[Behar flips her lid over alleged Trump Hitler praise: ‘If people still follow this fascist pig…’](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-john-kelly-220x180.jpg)](https://americanwirenews.com/backstabbing-ex-white-house-chief-of-staff-spins-another-trump-hitler-yarn/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-travis-220x180.jpg)](https://americanwirenews.com/clay-travis-says-facebook-blocked-trump-interview-along-with-tyrus-interview-with-gop-nominee/)
 
-[Backstabbing ex-White House chief of staff spins another Trump-Hitler yarn](https://americanwirenews.com/backstabbing-ex-white-house-chief-of-staff-spins-another-trump-hitler-yarn/)
+[Clay Travis says Facebook blocked Trump interview, along with Tyrus’ interview with GOP nominee](https://americanwirenews.com/clay-travis-says-facebook-blocked-trump-interview-along-with-tyrus-interview-with-gop-nominee/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe_nh1-1200-x-628-220x180.jpg)](https://americanwirenews.com/we-gotta-lock-him-up-biden-fesses-up-to-targeting-trump-with-lawfare-to-take-him-out/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-bitter-220x180.jpg)](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
-[‘We gotta lock him up’: Biden fesses up to targeting Trump with lawfare to take him out](https://americanwirenews.com/we-gotta-lock-him-up-biden-fesses-up-to-targeting-trump-with-lawfare-to-take-him-out/)
+[Obama’s perplexed over how America ‘got so toxic and divided’ – X lends a hand](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kayleighoutnumbered-1200-x-628-220x180.jpg)](https://americanwirenews.com/kayleigh-praises-trump-for-remaking-the-gop-into-the-party-of-diversity/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-walz-dumbdumber-220x180.jpg)](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
 
-[Kayleigh praises Trump for remaking the GOP into the ‘Party of Diversity’](https://americanwirenews.com/kayleigh-praises-trump-for-remaking-the-gop-into-the-party-of-diversity/)
+[Meta Oversight Board frees Harris and Walz ‘Dumb and Dumber’ meme from Facebook jail](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-levell-abrams-220x180.jpg)](https://americanwirenews.com/ga-business-leader-says-stacey-abrams-rhetoric-wont-work-predicts-historic-and-epic-black-turnout-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-davi-keaton-220x180.jpg)](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
 
-[Ga. business leader says Stacey Abrams’ rhetoric won’t work, predicts ‘historic and epic’ Black turnout for Trump](https://americanwirenews.com/ga-business-leader-says-stacey-abrams-rhetoric-wont-work-predicts-historic-and-epic-black-turnout-for-trump/)
+[‘Shame on him’: Actor Robert Davi has epic response to Michael Keaton anti-Trump rant](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
