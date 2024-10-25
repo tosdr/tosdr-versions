@@ -252,8 +252,8 @@ Datenschutz
 Datenschutz auf www.lidl.de
 ---------------------------
 
-(Version 12.26; Stand 13.09.2024)
----------------------------------
+(Version 13; Stand 25.10.2024)
+------------------------------
 
 Datenschutzbestimmungen für den Lidl Online-Shop, das Lidl-Filialgeschäft und Geschäftspartner
 ----------------------------------------------------------------------------------------------
@@ -262,363 +262,440 @@ Wir freuen uns, dass Sie sich für den Datenschutz bei den Lidl-Gesellschaften i
 
 Die folgenden Datenschutzhinweise informieren Sie über Art und Umfang der Verarbeitung Ihrer personenbezogenen Daten im Rahmen der Nutzung des Lidl Online-Shops, der Lidl-Filialen und in der Beziehung zu Geschäftspartnern. Personenbezogene Daten sind Informationen, die Ihrer Person direkt oder mittelbar zuzuordnen sind bzw. zugeordnet werden können. Als gesetzliche Grundlage für den Datenschutz dient insbesondere die Datenschutz-Grundverordnung (DSGVO).
 
-Online-Shop
------------
+Datenschutzhinweise für den Lidl Onlineshop und die Lidl App
+------------------------------------------------------------
 
-1\. Überblick
+1\. Kontaktdaten des Verantwortlichen sowie des Datenschutzbeauftragten
 
-Die Datenverarbeitung durch die Lidl Digital Deutschland GmbH & Co. KG kann **im Wesentlichen in zwei Kategorien** unterteilt werden:
-
-* Zum Zwecke der Vertragsabwicklung werden alle für die **Durchführung eines Vertrages** mit der Lidl Digital Deutschland GmbH & Co. KG erforderlichen Daten verarbeitet. Sind auch externe Dienstleister in die Abwicklung des Vertrages eingebunden, z.B. Logistikunternehmen, Auskunfteien oder Bezahldienstleister, werden Ihre Daten in dem jeweils erforderlichen Umfang an diese weitergegeben und durch diese zweckgebunden verarbeitet.
-* Mit **Aufruf der Webseite** der Lidl Digital Deutschland GmbH & Co. KG werden verschiedene Informationen zwischen Ihrem Endgerät und unserem Server ausgetauscht. Hierbei kann es sich auch um personenbezogene Daten handeln. Die so erhobenen Informationen werden u.a. dazu genutzt, unsere Webseite zu optimieren oder um **Werbung** im Browser Ihres Endgerätes anzuzeigen.
-
-2\. Aufruf unserer Webseite
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+Sofern im Folgenden nicht anders benannt, sind die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm („Lidl Digital“) und die Lidl Stiftung & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm („Lidl Stiftung“, zusammen mit der Lidl Digital „wir“, „uns“) gemeinsame Verantwortliche für die Verarbeitung Ihrer Daten auf der Webseite [www.lidl.de](https://www.lidl.de/de/datenschutz/www.lidl.de) und in der Lidl App („Dienste“).
 
   
 
-Beim Aufrufen unserer Webseite werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch und ohne Ihr Zutun
+Die Datenschutzbeauftragten der Lidl Digital und der Lidl Stiftung sind jeweils unter der oben genannten Postanschriften oder unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) erreichbar.
 
-* die IP-Adresse des anfragenden internetfähigen Gerätes,
-* das Datum und die Uhrzeit des Zugriffs,
-* der Name und die URL der abgerufenen Datei,
-* die Webseite/ Applikation, von der aus der Zugriff erfolgte (Referrer-URL),
-* der von Ihnen verwendete Browser und ggfs. das Betriebssystem Ihres internetfähigen Rechners sowie
-* der Name Ihres Access-Providers
+  
 
-an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-File **für folgende Zwecke** gespeichert:
+  
+
+2\. Einbindung von Dritten als Auftragsverarbeiter
+
+Soweit nicht anders dargestellt, sind die im Folgenden benannten Empfänger oder Kategorien von Empfängern als Auftragsverarbeiter tätig. Sie sind jeweils sorgfältig ausgesucht und vertraglich nach Artikel 28 DSGVO verpflichtet. Das bedeutet, dass sie personenbezogene Daten nur auf Grundlage unserer Weisungen und nicht zu anderen als den genannten Zwecken verarbeiten dürfen.
+
+3\. Übermittlung an Empfänger in Drittländern
+
+Unter Umständen kann es erforderlich sein, dass wir Ihre personenbezogenen Daten an Empfänger in einem Drittland oder mehreren Drittländern außerhalb der Europäischen Union (EU)/ des Europäischen Wirtschaftsraumes (EWR) übermitteln.
+
+  
+
+Einigen Drittländern hat die EU-Kommission durch einen Angemessenheitsbeschluss ein der DSGVO vergleichbares Datenschutzniveau bescheinigt. Eine Übersicht der Drittländer mit Angemessenheitsbeschluss finden Sie [hier](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en?prefLang=de#documents). Bei Dienstleistern mit Hauptsitz in den USA gilt dies nur, wenn diese nach dem EU-US Data Privacy Framework zertifiziert sind.
+
+  
+
+Wenn kein Angemessenheitsbeschluss vorliegt, sichern wir die Übermittlung durch andere Maßnahmen ab. Dies können z.B. bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission, Zertifikate oder anerkannte Verhaltenskodizes sein.
+
+  
+
+Sofern im Folgenden nicht anders dargestellt, erfolgt der Drittlandtransfer entweder auf Basis eines Angemessenheitsbeschlusses oder einer der oben aufgezählten Maßnahmen. Sie können sich bei Fragen dazu an unsere Datenschutzbeauftragten wenden.
+
+  
+
+4\. Aufruf unserer Dienste
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Beim Aufrufen unserer Dienste werden durch Ihren Browser automatisch und ohne Ihr Zutun
+
+  
+
+* IP-Adresse des genutzten Endgeräts,
+* Datum und Uhrzeit des Zugriffs,
+* Name und URL der abgerufenen Datei,
+* Webseite/ Applikation, von welcher der Zugriff erfolgt (Referrer-URL),
+* Browser und gegebenenfalls Betriebssystem Ihres Endgeräts,
+* Name Ihres Access-Providers
+
+an unseren Server gesendet und für folgende Zwecke temporär in einem Log-File gespeichert:
 
 * Gewährleistung eines reibungslosen Verbindungsaufbaus,
-* Gewährleistung einer komfortablen Nutzung unserer Webseite/ Applikation und
+* Gewährleistung einer komfortablen Nutzung unserer Webseite/ Applikation,
 * Auswertung der Systemsicherheit und -stabilität.
 
-  
-
-Sofern Sie in Ihrem Browser bzw. in dem Betriebssystem oder anderen Einstellungen Ihres Endgerätes der sogenannten Geolokalisation zugestimmt haben, verwenden wir diese Funktion, um Ihnen auf Ihren aktuellen Standort bezogene, individuelle Services (z.B. den Standort der nächstgelegenen Filiale) anbieten zu können. Ihre so verarbeiteten Standortdaten verarbeiten wir ausschließlich für diese Funktion.
+Sofern Sie auf Ihrem Endgerät der Geolokalisation zustimmen, verarbeiten wir Ihre Echtzeit-Standortdaten bei der Nutzung bestimmter Funktionen unserer Dienste (z.B. Anzeige des Standorts der nächstgelegenen Lidl-Filiale im Filialfinder).
 
   
 
-Beim Aufruf der zu einzelnen Artikeln des Online-Shops vorhandenen Produktvideos werden Ihre IP-Adresse, die Video-ID (interne Bezeichnung des Videos) sowie der User-Agent-String (Schnittstelle zwischen Nutzer und Webseite) verarbeitet, um Ihnen das jeweilige Produktvideo im Rahmen der Internetkommunikation in einem für Sie kompatiblen Format zur Verfügung stellen zu können.
+Beim Aufruf von Produktvideos werden IP-Adresse, Video-ID (interne Bezeichnung des Videos) sowie der User-Agent-String (Schnittstelle zwischen Nutzer und Webseite) verarbeitet, um Ihnen das jeweilige Produktvideo in einem kompatiblen Format anzuzeigen.
 
   
 
-Die Rechtsgrundlage für die **Verarbeitung der IP-Adresse** ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung. Wenn die Darstellung der Vorbereitung eines Vertrags dient, ist die Rechtsgrundlage für die Datenverarbeitung Artikel 6 Absatz 1 Buchstabe b) DSGVO.
+Rechtsgrundlage für die Datenverarbeitung ist Artikel 6 Absatz 1 Satz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse liegt in der korrekten Darstellung unserer Dienste, im Schutz unserer Systeme und in der Verhinderung von missbräuchlichen Zugriffen auf unsere Webseite. Wenn die Darstellung der Vorbereitung eines Vertrags dient, ist die Rechtsgrundlage für die Datenverarbeitung Artikel 6 Absatz 1 Buchstabe b) DSGVO.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Empfänger/ Kategorien von Empfängern
 
   
 
-Im Falle der Bereitstellung von Produktvideos werden die für die Zurverfügungstellung erforderlichen Daten an die DemoUp GmbH, Hardenbergstraße 32, 10623 Berlin, übermittelt, welche die Produktvideos auf ihren Servern bereithält. Die DemoUp GmbH ist vertraglich dazu verpflichtet, die für die Darstellung der Produktvideos erforderlichen Daten rein zweckgebunden zu verarbeiten und diese unverzüglich zu löschen bzw. zu anonymisieren, sobald diese für die Darstellung der Produktvideos nicht mehr benötigt werden.
+Für die Anzeige von Produktvideos werden die dafür erforderlichen Daten durch die DemoUp GmbH, Hardenbergstraße 32, 10623 Berlin, verarbeitet.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-Die Daten werden für einen Zeitraum von sieben Tagen gespeichert und danach automatisch gelöscht. Beenden Sie die Nutzung unserer Webseite, werden die Geolokalisationsdaten gelöscht.
-
-3\. Abwicklung von Kaufverträgen inkl. Gewährleistungsfällen
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+Die Log-Files werden für einen Zeitraum von sieben Tagen gespeichert und danach automatisch gelöscht.
 
   
 
-Tätigkeitsgegenstand der Lidl Digital Deutschland GmbH & Co. KG ist der Fernabsatz von Waren und Dienstleistungen im Rahmen der behördlich erteilten Genehmigungen. In diesem Zusammenhang verarbeiten wir die für den **Abschluss, die Durchführung oder die Beendigung eines Vertrages** erforderlichen Daten. Hierzu zählen insbesondere:
+5\. Abwicklung von Kaufverträgen inkl. Gewährleistungsfällen
 
-• Vorname, Nachname,
-
-• Rechnungs- und Lieferanschrift,
-
-• E-Mail-Adresse,
-
-• Rechnungs- und Bezahldaten,
-
-• Geburtsdatum,
-
-• Telefonnummer (optional).
+Verantwortlicher
 
   
 
-Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h. wir verarbeiten die Daten zur Erfüllung unserer vertraglichen Pflichten.
+Verantwortlicher für die Datenverarbeitungen zur Abwicklung von Kaufverträgen ist die Lidl Digital.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-Im Rahmen der oben genannten Datenverarbeitungen werden Ihre Daten in unserem Auftrag von Auftragsverarbeitern, insbesondere aus dem Logistikbereich, verarbeitet. Diese sind jeweils sorgfältig ausgesucht und, sofern gesetzlich vorgegeben, vertraglich gemäß Artikel 28 DSGVO verpflichtet.
+Tätigkeitsgegenstand der Lidl Digital ist der Fernabsatz von Waren und Dienstleistungen. In diesem Zusammenhang verarbeitet die Lidl Digital die für Abschluss, Durchführung und Beendigung von Verträgen erforderlichen Daten. Hierzu zählen insbesondere:
+
+* Vor-/ Nachname,
+* Rechnungs-/ Lieferanschrift,
+* E-Mail-Adresse,
+* Rechnungs-/ Bezahldaten,
+* Geburtsdatum,
+* Telefonnummer (optional).
+
+Bestellungen können als Gast oder über das Lidl Plus-Konto durchgeführt werden. Wenn Sie Bestellungen als angemeldeter Lidl Plus-Kunde vornehmen, in Lidl Plus Produkte reservieren, mit Lidl Pay bezahlen oder den E-Mobility-Dienst nutzen, erhält die Lidl Digital von der Lidl Stiftung die für die jeweilige Vertragsabwicklung erforderlichen Daten (z.B. Ihre Kundenstammdaten wie Name, Anschrift, Telefonnummer und E-Mail-Adresse).
 
   
 
-Angaben zu Ihrer Lieferanschrift geben wir zum Zwecke der **Abwicklung des Kaufvertrages sowie zur Abwicklung von Gewährleistungsfällen** an einen von uns beauftragten Dienstleister (z.B. Logistikunternehmen oder Reparaturservice bzw. den Hersteller) weiter. Nur in Fällen von Sperrgut, verderblichen Waren oder in Gewährleistungsfällen übermitteln wir Ihre E-Mail-Adresse und ggf. Ihre Telefonnummer an den von uns beauftragten Dienstleister, um sicherzustellen, dass die Warenzustellung, Retoure, Reparatur oder Abholung wie geplant erfolgen kann. Der Dienstleister wird im Vorfeld der Zustellung, Retoure, Reparatur oder Abholung mit Ihnen Kontakt aufnehmen, um Einzelheiten der Abwicklung mit Ihnen abzustimmen. Die Daten werden allein zu diesem Zweck an den Dienstleister übermittelt und durch diesen rein zweckgebunden verarbeitet.
+Rechtsgrundlage für die oben genannten Datenverarbeitungen ist jeweils Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h., die Lidl Digital und die Lidl Stiftung verarbeiten Ihre Daten zur Erfüllung unserer vertraglichen Pflichten.
 
   
 
-Sofern Sie die **Zahlart Kreditkarte, eine Online-Zahlart (z.B. Google/ Apple Pay oder PayPal) oder die Finanzierung über die Consors Finanz BNP Paribas S.A.** ausgewählt haben, leiten wir Sie nach Abschluss der Bestellung auf die eingebundene Webseite des entsprechenden Zahlungs-/ Finanzierungsdienstleisters weiter. Dort können Sie nach Eingabe Ihrer Zugangsdaten die Zahlung über den Dienstleister beauftragen bzw. eine Finanzierung beantragen. Dazu übermitteln wir insbesondere den konkreten Zahlungsbetrag an den eingesetzten Dienstleister. Weitere Informationen zu den durchgeführten Datenverarbeitungen können Sie den Informationstexten auf der Eingabemaske/ Webseite der Dienstleister entnehmen. Dort finden Sie auch weitere Kontaktinformationen. Die Zahlungsarten Google/ Apple Pay und **Kreditkarte** werden durch die Adyen N.V., Simon Carmiggeltstraat 6-50, 1011 DJ abgewickelt. Informationen zu der Datenverarbeitung durch die Adyen N.V. und deren Kontaktinformationen finden Sie [hier](https://www.adyen.com/policies-and-disclaimer/applicant-privacy-notice). Weitere Informationen zu Google/ Apple Pay können Sie den Datenschutzbestimmungen von [Google Payments](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice&ldl=de) und [Apple Pay](https://support.apple.com/de-de/HT203027) entnehmen.
+Empfänger/ Kategorien von Empfängern
 
   
 
-Im Falle der **Finanzierung** führt die Consors Finanz BNP Paribas S.A. eigenverantwortlich eine Prüfung Ihrer Bonität auf Basis mathematischer-statistischer Methoden durch. Weitere Details dazu und zu der Datenverarbeitung im Rahmen der Finanzierung allgemein können Sie [hier](https://www.consorsfinanz.de/datenschutz/index.html) erhalten.
+Im Rahmen der oben genannten Datenverarbeitungen werden Ihre Daten im Auftrag von Auftragsverarbeitern - insbesondere aus dem Logistikbereich - verarbeitet.
 
   
 
-Im My Lidl Konto Portal werden zu Zwecken der Datenübersicht/ -verwaltung auch Informationen zu Zahlungsmethoden und Bestellungen aus dem Lidl Online-Shop durch die Lidl Stiftung & Co. KG, Stiftsbergstraße 1, 74167 Neckarsulm für Sie aufbereitet. Eine Übersicht dieser Daten können Sie in Ihrem Kundenkonto unter dem Punkt „My Lidl Konto Portal“ einsehen. Weiteren Informationen zu den Datenverarbeitungen und Rechtsgrundlagen im Rahmen des My Lidl Kontos können Sie den [Datenschutzhinweisen von My Lidl Konto](https://www.lidl.de/c/mylidlaccount-datenschutzhinweise/s10007933) entnehmen
+Angaben zu Ihrer Lieferanschrift geben wir zum Zwecke der Abwicklung des Kaufvertrages sowie zur Abwicklung von Gewährleistungsfällen an von uns beauftragte Dienstleister (z.B. Logistikunternehmen oder Reparaturservices bzw. den Hersteller) weiter. Nur in Fällen von Sperrgut, verderblichen Waren oder Gewährleistungsfällen übermitteln wir Ihre E-Mail-Adresse und gegebenenfalls Ihre Telefonnummer an den von uns beauftragten Dienstleister, um sicherzustellen, dass die Warenzustellung, Retoure, Reparatur oder Abholung wie geplant erfolgen kann. Der Dienstleister wird im Vorfeld der Zustellung, Retoure, Reparatur oder Abholung mit Ihnen Kontakt aufnehmen, um Einzelheiten der Abwicklung abzustimmen. Die Daten werden allein zu diesem Zweck an den Dienstleister übermittelt und durch diesen rein zweckgebunden verarbeitet.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Sofern Sie per Kreditkarte, einer Online-Zahlart (z.B. Google/ Apple Pay, PayPal) oder Finanzierung über die Consors Finanz BNP Paribas S.A. bezahlen, werden Sie nach Abschluss der Bestellung für die Zahlungsabwicklung auf die Webseite des jeweiligen Zahlungs-/ Finanzierungsdienstleisters weitergeleitet, erforderliche Daten (z.B. konkreter Zahlungsbetrag) werden an den eingesetzten Dienstleister übermittelt. Weitere Informationen zur Zahlungsabwicklung und Kontaktinformationen können Sie den Informationstexten der Dienstleister entnehmen.
 
   
 
-Soweit wir Ihre Kontaktdaten nicht für werbliche Zwecke nutzen, speichern wir die für die Vertragsabwicklung erhobenen Daten bis zum Ablauf der gesetzlichen bzw. möglicher vertraglicher Gewährleistungs- und Garantierechte. Nach Ablauf dieser Frist bewahren wir die nach Handels- und Steuerrecht erforderlichen Informationen des Vertragsverhältnisses für die gesetzlich bestimmten Zeiträume auf. Für diesen Zeitraum (regelmäßig zehn Jahre ab Vertragsschluss) werden die Daten allein für den Fall einer Überprüfung durch die Finanzverwaltung sowie bei Kundenanfragen erneut verarbeitet.
-
-4\. Sicherung des Bestellvorgangs und Auswahl der Zahlarten
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+Im Falle der Finanzierung führt die Consors Finanz BNP Paribas S.A. eigenverantwortlich eine Prüfung Ihrer Bonität auf Basis mathematischer-statistischer Methoden durch. Weitere Details dazu und zu der Datenverarbeitung im Rahmen der Finanzierung allgemein erhalten Sie [hier](https://www.consorsfinanz.de/datenschutz).
 
   
 
-Zur **Sicherung und Optimierung des Bestellvorgangs** und um Ihnen verschiedene Zahlarten anbieten zu können, prüfen wir während des Bestellvorgangs anhand der uns bereits vorliegenden Informationen wie etwa Produktgruppe, Bestellmenge oder Lieferanschrift, ob Risiken oder Auffälligkeiten bei der konkreten Bestellung bestehen. Zudem speichern wir bei Bestellabbrüchen die bis zum Abbruch der Bestellung angefallenen Daten zur (technischen) Optimierung des Bestellprozesses, zur Erkennung von (möglichen) Betrugsmustern und um Kundenanfragen zu den Bestellvorgängen beantworten zu können. Die Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse folgt aus dem beschriebenen Zweck der Verarbeitung.
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-Zur **Adressverifizierung und Identitätsprüfung** setzen wir Dienstleister ein. Soweit durch die von Ihnen ausgewählte Zahlart (Lastschrift, Kauf auf Rechnung) für uns ein finanzielles Ausfallrisiko besteht, beauftragen wir zudem Dienstleister mit der **Prüfung Ihrer Bonität**. Hierzu übermitteln wir ausschließlich solche personenbezogenen Daten (Vor- und Nachname, Anschrift sowie ggf. Geburtsdatum), die für Ihre Identifizierung erforderlich sind und rein zweckgebunden von den Dienstleistern verarbeitet werden. Im Rahmen des Antragsverfahrens gleichen wir Ihre Bankverbindungsdaten (nur IBAN und BIC bzw. Kontonummer und Bankleitzahl, keine Angaben zur Person) mit Pools sog. Non Consumer AccountChecks ab, soweit es sich um die Zahlarten Lastschrift und Ratenkauf handelt. Die Daten werden dazu an die aufgeführten Auskunfteien gesendet. Hierbei wird geprüft ob es sich um eine öffentliche Bankverbindung handelt. Der Umstand und das Ergebnis dieser Prüfung werden Ihrem Kundenkonto hinzugespeichert. Diese Prüfung führt in keinem Fall dazu, dass wir Ihnen keine Zahlart anbieten. Für weitere Informationen zu den eingesetzten Verfahren und insbesondere der Berechnung der Scorewerte im Rahmen des sog. Scorings (mathematisch-statistische Methode zur Prognose von Risikowahrscheinlichkeiten) wenden Sie sich bitte an den entsprechenden Dienstleister (die nachstehend als Empfänger genannt sind). Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) sowie Buchstabe f) DSGVO. Die Berechtigung hierzu ergibt sich dabei aus dem Schutz Ihrer Identität, der Minimierung von Zahlungsausfallrisiken und der Vermeidung von Betrugsversuchen zu unseren Lasten.
+Die für die Vertragsabwicklung erhobenen Daten werden bis zum Ablauf der gesetzlichen/ vertraglichen Gewährleistungs- und Garantierechte gespeichert. Nach Ablauf dieser Frist bewahren wir die nach Handels- und Steuerrecht erforderlichen Informationen für den gesetzlich bestimmten Zeitraum auf. Für diesen Zeitraum (regelmäßig zehn Jahre ab Vertragsschluss) werden die Daten allein für den Fall einer Überprüfung durch die Finanzverwaltung sowie bei Kundenanfragen erneut verarbeitet.
 
   
 
-Zum Ausschluss von Betrugsversuchen kann bei der Auswahl der Zahlart Lastschrift eine **Verifikation des angegebenen Bankkontos** durch unseren Dienstleister Tink AB erfolgen. Im Rahmen des Bestellvorgangs werden Sie dazu aufgefordert, sich über die Plattform der Tink AB in Ihr Online-Banking-Konto einzuloggen. Dies dient einzig dazu, sicherzustellen, dass Sie tatsächlich Zugriff auf das genannte Bankkonto haben. Hierfür erhalten wir von der Tink AB neben Ihrem Namen, Ihrer IBAN und der Währung in welcher Ihr Konto geführt wird auch die Information, ob Sie sich erfolgreich einloggen konnten oder nicht.
+6\. Sicherung des Bestellvorgangs und Auswahl der Zahlarten
+
+Verantwortlicher
 
   
 
-Zur **Verhinderung von Betrug** und zur **Begrenzung des Risikos von Zahlungsausfällen** leiten wir bestimmte Daten zu Ihrer Person und ggf. zu Handlungen im Zusammenhang mit elektronischen Zahlungen aus der Vergangenheit an Ihre Bank bzw. den Emittenten Ihrer Zahlungskarte weiter. Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe b) sowie Buchstabe f) DSGVO. Unser berechtigtes Interesse folgt aus den beschriebenen Zwecken der Verarbeitung. Wir halten uns bei diesem Verfahren an die strengen rechtlichen Anforderungen nach dem deutschen Gesetz über die Beaufsichtigung von Zahlungsdiensten und die entsprechenden europarechtlichen Bestimmungen.
+Verantwortlicher für die Datenverarbeitungen zur Sicherung des Bestellvorgangs und Auswahl der Zahlarten ist die Lidl Digital.
 
   
 
-Für den **Fall einer Zahlungsverzögerung** übermitteln wir bei Vorliegen der sonstigen gesetzlichen Voraussetzungen die erforderlichen Daten an ein mit der Geltendmachung der Forderung beauftragtes Unternehmen. Rechtsgrundlagen hierfür sind sowohl Artikel 6 Absatz 1 Buchstabe b) als auch Artikel 6 Absatz 1 Buchstabe f) DSGVO. Die Geltendmachung einer vertraglichen Forderung ist als ein berechtigtes Interesse im Sinne der zweitgenannten Vorschrift anzusehen. Informationen über die Zahlungsverzögerung oder einen etwaigen Forderungsausfall übermitteln wir bei Vorliegen der gesetzlichen Voraussetzungen zudem an mit uns kooperierende Auskunfteien (s.u.). Rechtsgrundlage hierfür ist insbesondere Artikel 6 Absatz 1 Buchstabe f) DSGVO. Das hiernach erforderliche berechtigte Interesse ergibt sich aus unserem sowie dem Interesse Dritter an einer Reduzierung von Vertragsrisiken für zukünftige Verträge.
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-Wir verwenden die Ergebnisse der in diesem Abschnitt 4. (Sicherung des Bestellvorgangs und Auswahl der Zahlarten) zuvor dargestellten Datenverarbeitungen für die oben dargestellten Zwecke auch für Ihre Käufe im Rahmen anderer Services von Lidl-Gesellschaften und nutzen umgekehrt die Ergebnisse der zu den gleichen Zwecken durchgeführten Datenverarbeitungen dieser Services auch für die in diesem Abschnitt dargestellten Datenverarbeitungen. Dies betrifft aktuell die Lidl Pay-Funktionalität der Lidl Plus-App, die von der Lidl Digital Trading GmbH & Co. KG und der Lidl Stiftung & Co. KG, jeweils Stiftsbergstraße 1, 74172 Neckarsulm angeboten wird.
-
-Weitere Informationen zu den entsprechenden Datenverarbeitungen im Rahmen von Lidl Pay finden Sie in den Datenschutzhinweisen von Lidl Plus.
+Zur Sicherung und Optimierung des Bestellvorgangs und um Ihnen verschiedene Zahlarten anbieten zu können, wird während des Bestellvorgangs anhand der bereits vorliegenden Informationen (z.B. Produktgruppe, Bestellmenge oder Lieferanschrift) geprüft, ob Risiken oder Auffälligkeiten bestehen. Zudem werden bei Bestellabbrüchen die bis zum Abbruch der Bestellung angefallenen Daten zur (technischen) Optimierung des Bestellprozesses, zur Erkennung von Betrugsmustern und um Kundenanfragen zu den Bestellvorgängen beantworten zu können, gespeichert. Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse folgt aus dem beschriebenen Zweck der Verarbeitung.
 
   
 
-Rechtsgrundlage für die vorstehenden Datenverarbeitungen über mehrere Shops und Webseiten desselben Verantwortlichen ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Die Berechtigung hierzu ergibt sich dabei aus der Sicherung und Optimierung des Bestellvorgangs, dem Schutz Ihrer Identität, der Minimierung von Zahlungsausfallrisiken und der Vermeidung von Betrugsversuchen zu unseren Lasten sowie unserem sowie dem Interesse Dritter an einer Reduzierung von Vertragsrisiken für zukünftige Verträge.
+Zur Adressverifizierung, Identitäts- und Bonitätsprüfung (bei Zahlart Lastschrift, Kauf auf Rechnung) werden Dienstleister eingesetzt. Diesen werden ausschließlich die für die Identifizierung erforderlichen Daten (Vor- und Nachname, Anschrift sowie gegebenenfalls Geburtsdatum) übermittelt, welche durch die Dienstleister rein zweckgebunden verarbeitet werden.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Bei Auswahl der Zahlarten Lastschrift und Ratenkauf werden Ihre Bankdaten (IBAN und BIC) mit Pools sogenannter Non Consumer Account Checks abgeglichen. Dazu werden Ihre Daten an die unten genannten Auskunfteien übermittelt und geprüft, ob es sich um eine (z.B. von Unternehmen oder Banken) öffentlich bekanntgegebene Bankverbindung handelt.
 
   
 
-Mit der infoscore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden, der Coeo Inkasso GmbH, Kieler Straße 16, 41540 Dormagen und der CRIF GmbH, Leopoldstraße 244, 80807 München setzen wir bei den oben genannten Datenverarbeitungen etablierte und vertrauenswürdige Dienstleister ein.
+Diese Prüfungen führen in keinem Fall dazu, dass Ihnen keine Zahlart angeboten wird. Für weitere Informationen zu den eingesetzten Verfahren und insbesondere der Berechnung der Scorewerte im Rahmen des sogenannten Scorings (mathematisch-statistische Methode zur Prognose von Risikowahrscheinlichkeiten) wenden Sie sich bitte an den entsprechenden Dienstleister.
 
   
 
-Diese Dienstleister verarbeiten die erhaltenen Daten auch, um ihren Vertragspartnern (ggf. in Drittländern, sofern ein Angemessenheitsbeschluss der Europäischen Kommission besteht oder eine andere Rechtsgrundlage im Sinne der Artikel 44 ff. DSGVO einschlägig ist) Informationen unter anderem zur Beurteilung der Kreditwürdigkeit von natürlichen Personen zu geben. Nähere Informationen zur Tätigkeit der Dienstleister können den Informationsblättern der Dienstleister [infoscore Consumer Data GmbH](https://www.experian.de/content/dam/noindex/emea/germany/informationsblatt-art-14.pdf) und [CRIF GmbH](https://www.lidl.de/static/assets/58bcc59a-5e15-4d65-a6a1-3c564d5c0a00.pdf) nach Artikel 14 DSGVO entnommen werden.
+Rechtsgrundlage für die in diesem Abschnitt dargestellten Datenverarbeitungen ist Artikel 6 Absatz 1 Buchstabe b) sowie Buchstabe f) DSGVO. Das berechtigte Interesse ergibt sich dabei aus dem Schutz Ihrer Identität, der Minimierung von Zahlungsausfallrisiken und der Vermeidung von Betrugsversuchen.
 
   
 
-Im Falle einer Zahlung mit elektronischen Zahlungsmitteln leiten wir bestimmte Daten zu Ihrer Person und ggf. zu Handlungen im Zusammenhang mit elektronischen Zahlungen aus der Vergangenheit an Ihre Bank bzw. den Emittenten Ihrer Zahlungskarte weiter. Damit soll Ihre Identität bestätigt und ein möglicher Missbrauch des elektronischen Zahlungsverkehrs vermieden werden. Wir halten uns bei diesem Verfahren an die strengen rechtlichen Anforderungen nach dem deutschen Gesetz über die Beaufsichtigung von Zahlungsdiensten und die entsprechenden europarechtlichen Bestimmungen.
+Zum Ausschluss von Betrugsversuchen kann bei der Auswahl der Zahlart Lastschrift eine Verifikation des angegebenen Bankkontos durch unseren Dienstleister Tink AB erfolgen. Bei der Kontoverifikation werden Sie aufgefordert, sich in Ihr Online-Banking-Konto einzuloggen. Nach Abschluss der Verifikation erhält die Lidl Digital neben Ihrem Namen, Ihrer IBAN und der Währung Ihres Bankkontos auch die Information, ob Sie sich erfolgreich einloggen konnten.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Zur Verhinderung von Betrug und zur Begrenzung des Risikos von Zahlungsausfällen werden bestimmte Daten zu Ihrer Person und gegebenenfalls Informationen zur Abwicklung vergangener elektronischer Zahlungen an Ihre Bank oder die herausgebende Stelle Ihrer Zahlungskarte weitergeleitet. Rechtsgrundlage hierfür sind Artikel 6 Absatz 1 Buchstabe b) sowie Buchstabe f) DSGVO. Das berechtigte Interesse folgt aus den beschriebenen Zwecken der Verarbeitung.
 
   
 
-Die zur Sicherung des Bestellvorgangs erhobenen personenbezogenen Daten speichern wir grundsätzlich nicht länger als dies für die Bearbeitung und Durchführung der Bestellungen (bis zum Ablauf der gesetzlichen bzw. möglicher vertraglicher Gewährleistungs- und Garantierechte bzw. bis zur Beendigung eines Mahnverfahrens) erforderlich ist. Personenbezogene Daten aus Bestellabbrüchen, speichern wir für einen Zeitraum von maximal achtzehn Monaten. Nach Ablauf dieser Speicherfristen wird der Personenbezug vollständig entfernt.
+Im Fall einer Zahlungsverzögerung werden bei Vorliegen der gesetzlichen Voraussetzungen die erforderlichen Daten an ein mit der Geltendmachung der Forderung beauftragtes Unternehmen übermittelt. Rechtsgrundlagen hierfür sind Artikel 6 Absatz 1 Buchstabe b) und Buchstabe f) DSGVO. Die Geltendmachung einer vertraglichen Forderung ist als ein berechtigtes Interesse anzusehen. Informationen über die Zahlungsverzögerung oder einen etwaigen Forderungsausfall werden bei Vorliegen der gesetzlichen Voraussetzungen zudem an mit uns kooperierende Auskunfteien übermittelt. Rechtsgrundlage hierfür ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Das berechtigte Interesse ergibt sich aus dem Interesse an der Reduzierung von Vertragsrisiken für zukünftige Verträge.
 
   
 
-Die im Rahmen der Zahlartensteuerung erhobenen Daten aus den Bonitätsabfragen werden für maximal 180 Tage gespeichert. Je nach Ergebnis der Abfrage und aktuellem Warenkorbwert kann auch innerhalb dieser Speicherdauer eine erneute Bonitätsabfrage erfolgen. In diesem Fall wird das vorherige Ergebnis der Abfrage gelöscht.
-
-5\. Betrugsprävention mittels Device Fingerprint
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+Die Ergebnisse der in diesem Abschnitt dargestellten Datenverarbeitungen werden für die oben dargestellten Zwecke auch von Lidl-Gesellschaften und Partnerunternehmen gemäß ihrer Datenschutzhinweise verwendet. Umgekehrt werden die Ergebnisse der zu den gleichen Zwecken durchgeführten Datenverarbeitungen dieser Gesellschaften und Unternehmen auch für die in diesem Abschnitt dargestellten Datenverarbeitungen verwendet. Aktuell erfolgt dieser Datenaustausch mit der Lidl Stiftung und der Schwarz Digits Payments, jeweils Stiftsbergstraße 1, 74172 Neckarsulm.
 
   
 
-Zum Zweck der Betrugsprävention prüfen wir nach ausgewählten Regeln, ob bei Ihrer Bestellung bzw. einem Bestellversuch mit dem eingesetzten Endgerät **Anhaltspunkte für einen Missbrauch des Webangebots oder für einen Betrugsversuch** bestehen. Beispielsweise, aber nicht abschließend, sind dies
-
-* eine extrem kurze Verweildauer auf den Webseiten vor einem Kauf,
-* eine Tippgeschwindigkeit, die nur eine Maschine erreichen kann, nicht aber ein menschlicher Nutzer, was auf ungewöhnliche Massenbestellungen deutet und je nach Zahlart ein Hinweis auf Betrug sein kann,
-* nicht plausible und zusammenpassende Informationen zum Gerätestandort, der Lieferadresse, Spracheinstellungen und Bezahlarten oder
-* Informationen, die auf für Missbrauch und Betrug üblicherweise installierte Malware schließen lassen.
+Rechtsgrundlage für den Datenaustausch ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Das berechtigte Interesse ergibt sich dabei aus der Sicherung und Optimierung des Bestellvorgangs, dem Schutz Ihrer Identität, der Minimierung von Zahlungsausfallrisiken und der Vermeidung von Betrugsversuchen sowie der Reduzierung von Vertragsrisiken für zukünftige Verträge.
 
   
 
-Zudem können wir Ihre Kundendaten zu einem Pseudonym miteinander verknüpfen und sie anschließend mit vorab bereits pseudonymisierten Daten abgleichen, die unter anderem beim Auslesen gerätebezogener Informationen solcher Geräte gebildet wurden, von denen aus in der Vergangenheit betrügerische Handlungen begangen wurden oder ein entsprechender Verdacht besteht. Es besteht die Möglichkeit, dass Mitarbeiter von Lidl oder einem Dienstleister die Ergebnisse manuell überprüfen.
+Empfänger/ Kategorien von Empfängern
 
   
 
-Rechtsgrundlage für die Verarbeitung personenbezogener Daten im Rahmen des Device Fingerprints ist Artikel 6 Absatz 1 Buchstabe f) DSGVO, weil wir ein berechtigtes Interesse daran haben, zum Schutz der wirtschaftlichen Interessen von uns und Dritten die Begehung von Straftaten auf unserem Online-Shop zu unterbinden.
+Mit der infoscore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden, der Coeo Inkasso GmbH, Kieler Straße 16, 41540 Dormagen und der CRIF GmbH, Leopoldstraße 244, 80807 München werden bei den oben genannten Datenverarbeitungen etablierte und vertrauenswürdige Dienstleister eingesetzt.
 
   
 
-Wir verarbeiten Ihre personenbezogenen Daten zum Zweck der Betrugsbekämpfung nur, soweit durch die von Ihnen ausgewählte Zahlart (insbesondere Ratenkauf, Lastschrift, Kauf auf Rechnung) für uns ein finanzielles Ausfallrisiko besteht. Sie können die Verarbeitung Ihrer personenbezogenen Daten zu diesem Zweck jederzeit umgehen, indem Sie eine andere Zahlart (z.B. Vorauskasse) auswählen.
+Diese Dienstleister verarbeiten die erhaltenen Daten auch, um ihren Vertragspartnern (auch in Ländern außerhalb der EU, sofern ein Angemessenheitsbeschluss der Europäischen Kommission besteht oder eine andere Rechtsgrundlage im Sinne der Artikel 44 ff. DSGVO einschlägig ist) Informationen zur Beurteilung der Kreditwürdigkeit zu geben. Nähere Informationen zur Tätigkeit der Dienstleister können den Informationsblättern der Dienstleister [infoscore Consumer Data GmbH](https://www.experian.de/content/dam/noindex/emea/germany/informationsblatt-art-14.pdf) und [CRIF GmbH](https://www.lidl.de/static/assets/58bcc59a-5e15-4d65-a6a1-3c564d5c0a00.pdf) nach Artikel 14 DSGVO entnommen werden.
 
   
 
-Die von uns verwendeten **Nutzungsdaten** sind bspw. IP-Adressen, Webseiten-Aufrufe sowie Angaben über Beginn, Ende und Umfang der besuchten Webseiten. Die im Rahmen des **Device Fingerprinting** verwendeten Geräte- und Browserdaten sind bspw. Sprach- und Ländereinstellungen, Bildschirminformationen, Farbtiefe sowie Informationen über installierte Browser, Plug-Ins, Software und deren Versionen. Zudem werden Transaktionsdaten, beispielsweise Kaufgegenstand, Warenkorb, Namen, Geburtsdatum, Postanschrift, E-Mail-Adresse, Lieferanschrift, Zahlart und Bankdaten, verarbeitet, um die Eingabegeschwindigkeit zu ermitteln. Die vorstehend genannten Daten werden nur zu den beschriebenen Zwecken der Missbrauchs- und Betrugsverhinderung gespeichert und verarbeitet.
+Zur Verhinderung von Betrug und zur Begrenzung des Risikos von Zahlungsausfällen werden bestimmte Daten zu Ihrer Person und gegebenenfalls Informationen zur Abwicklung vergangener elektronischer Zahlungen an Ihre Bank oder die herausgebende Stelle Ihrer Zahlungskarte weitergeleitet.
 
   
 
-Auf Basis der vorstehend genannten Gerätedaten wird zunächst eine **Geräte-ID** gebildet, über die Endgeräte mit einer gewissen Wahrscheinlichkeit bei weiteren Besuchen wiedererkannt werden können. Außerdem wird zur exakten Wiedererkennung ein Cookie gesetzt, d.h. eine kleine Textdatei, die lokal im Zwischenspeicher des Webbrowsers gespeichert wird. Der Cookie enthält eine **Cookie-ID**, jedoch keine personenbezogenen Nutzungs- oder Transaktionsdaten. Dadurch kann das Gerät identifiziert werden, ohne die dahinterstehende Person namentlich zu kennen und mit der Geräte-ID zu verknüpfen.
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-Für den Fall, dass der Abgleich ergibt, dass von dem Gerät bereits ein Betrug bzw. ein entsprechender Versuch begangen wurde, werden wir den Vertragsschluss im konkreten Fall verweigern.
+Die zur Sicherung des Bestellvorgangs erhobenen personenbezogenen Daten werden nicht länger als dies für die Bearbeitung und Durchführung der Bestellungen (bis zum Ablauf der gesetzlichen bzw. vertraglichen Gewährleistungs- und Garantierechte bzw. bis zur Beendigung eines Mahnverfahrens) erforderlich ist, gespeichert. Personenbezogene Daten aus Bestellabbrüchen werden für einen Zeitraum von maximal achtzehn Monaten gespeichert. Nach Ablauf dieser Speicherfristen wird der Personenbezug vollständig entfernt.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Die im Rahmen der Zahlartensteuerung erhobenen Daten aus Bonitätsabfragen werden für maximal 180 Tage gespeichert. Je nach Ergebnis der Abfrage und aktuellem Warenkorbwert kann auch innerhalb dieser Speicherdauer eine erneute Bonitätsabfrage erfolgen. In diesem Fall wird das vorherige Ergebnis der Abfrage gelöscht.
 
   
 
-Zur Durchführung der vorstehend beschriebenen Maßnahmen hat Lidl die CRIF GmbH, Leopoldstraße 244, 80807 München als Dienstleister beauftragt, welche für Teile der Datenverarbeitung, insbesondere das Erstellen der Geräte-ID, die Lexisnexis B.V, The Base 3/F, Tower C, Evert van de Beekstraat 1, 1118 CL Schiphol, Niederlande unterbeauftragt hat. Die Datenverarbeitung und die Datenspeicherung durch die CRIF GmbH und die Lexisnexis finden in Rechenzentren in Deutschland und Europa statt.
+6.1 Betrugsprävention mittels Device Fingerprint
+
+Verantwortlicher
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Verantwortlicher für die Datenverarbeitungen zur Betrugsprävention mittels Device Fingerprint ist die Lidl Digital.
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Zum Zweck der Betrugsprävention wird geprüft, ob bei Ihrer Bestellung oder einem Bestellversuch gerätebezogene Anhaltspunkte für einen Missbrauch oder für einen Betrugsversuch bestehen, z.B.
+
+* extrem kurze Verweildauer auf den Webseiten vor einem Kauf,
+* Tippgeschwindigkeit, die nur eine Maschine erreichen kann,
+* nicht plausible Informationen zu Gerätestandort, Lieferadresse, Spracheinstellungen und Bezahlarten,
+* Informationen, die auf installierte Malware schließen lassen.
+
+Zudem werden folgende Nutzungs-, Geräte- und Transaktionsdaten verarbeitet:
+
+* IP-Adresse,
+* Webseiten-Aufrufe,
+* Angaben über Beginn, Ende und Umfang der besuchten Webseiten,
+* Sprach- und Landeseinstellungen,
+* Bildschirminformationen,
+* Farbtiefe sowie Informationen über installierte Browser, Plug-Ins, Software und deren Versionen,
+* Kaufgegenstand,
+* Warenkorb,
+* Namen,
+* Geburtsdatum,
+* Postanschrift,
+* E-Mail-Adresse,
+* Lieferanschrift,
+* Zahlart und Bankdaten.
+
+Ihre Daten können im Anschluss pseudonymisiert mit Daten von Geräten, die in der Vergangenheit für betrügerische Handlungen verwendet wurden oder bei denen ein entsprechender Verdacht besteht, abgeglichen werden. Dazu wird auf Basis der genannten Gerätedaten zunächst eine Geräte-ID gebildet, über die Endgeräte mit einer gewissen Wahrscheinlichkeit bei weiteren Besuchen wiedererkannt werden können. Außerdem wird zur exakten Wiedererkennung des Geräts ein Cookie (kleine Textdatei) lokal im Zwischenspeicher des Webbrowsers gespeichert. Das Cookie enthält lediglich eine Cookie-ID und keine personenbezogenen Nutzungs- oder Transaktionsdaten. Ergibt der Abgleich, dass von dem Gerät bereits ein Betrug bzw. ein entsprechender Versuch begangen wurde, werden wir den Vertragsschluss im konkreten Fall verweigern. Es besteht die Möglichkeit, dass Mitarbeiter von Lidl oder einem Dienstleister die Ergebnisse manuell überprüfen.
+
+  
+
+Die oben genannten Maßnahmen zur Betrugsprävention werden nur durchgeführt, soweit durch die von Ihnen ausgewählte Zahlart (z.B. Ratenkauf, Lastschrift, Kauf auf Rechnung) ein finanzielles Ausfallrisiko für die Lidl Digital besteht.
+
+  
+
+Rechtsgrundlage für die Verarbeitung personenbezogener Daten im Rahmen des Device Fingerprints ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Es besteht ein berechtigtes Interesse daran, die Begehung von Straftaten zum Schutz unserer wirtschaftlichen Interessen zu unterbinden.
+
+  
+
+Empfänger/ Kategorien von Empfängern
+
+  
+
+Zur Durchführung der vorstehend beschriebenen Maßnahmen wird die CRIF GmbH, Leopoldstraße 244, 80807 München als Dienstleister eingesetzt, welche für Teile der Datenverarbeitung, insbesondere das Erstellen der Geräte-ID, die Lexisnexis B.V, The Base 3/F, Tower C, Evert van de Beekstraat 1, 1118 CL Schiphol, Niederlande unterbeauftragt hat. Die Datenverarbeitung und die Datenspeicherung durch die CRIF GmbH und die Lexisnexis finden in Rechenzentren in Deutschland und Europa statt.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
 Die im Rahmen der Betrugsprävention erhobenen Daten werden für Zwecke der Nachvollziehbarkeit, Optimierung und Beantwortung von Kundenanfragen für einen Zeitraum von sechs Monaten gespeichert und im Anschluss gelöscht.
 
-6\. Kontaktformular, E-Mail-Kontakt, Telefonanrufe, Social Media und Kundenumfragen
+  
 
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+7\. Kontaktformular, E-Mail-Kontakt, Telefonanrufe, Social Media und Kundenumfragen
 
-Personenbezogene Daten, die Sie uns beim Ausfüllen von Kontaktformularen, per Telefon, per E-Mail oder per Social Media, z.B. bei Anfragen an unseren Kundenservice, überlassen, behandeln wir selbstverständlich vertraulich. Wir verwenden Ihre Daten ausschließlich zweckgebunden, um Ihre Anfrage zu bearbeiten.
-
-Sofern Sie an einer unserer Kundenumfragen teilnehmen, geschieht dies auf rein freiwilliger Basis. Bei diesen anonymen Befragungen werden keine Informationen gespeichert, die Rückschlüsse auf die Teilnehmer der Befragungen zulassen. Nur das Datum und die Zeit Ihrer Teilnahme werden gespeichert. Sie können Ihre Angaben über Freitextfelder oder die Erstellung von Screenshots konkretisieren. Sie können sich zudem freiwillig bereit erklären, regelmäßig Einladungen zu Nutzerstudien zu erhalten. Dies sind insbesondere telefonische Interviews, schriftliche Umfragen oder Durchführung von Tests zur Benutzerfreundlichkeit unserer Anwendungen. Zu diesem Zweck speichern wir Ihren Vornamen, Nachnamen und Ihre E-Mail-Adresse. Jede persönliche Information, die Sie bei Umfragen oder Nutzerstudien angeben, wird als freiwillig angegeben angesehen und nach Maßgabe der DSGVO gespeichert. Bitte verzichten Sie bei der Verwendung der Freitextfelder und der Screenshot-Funktionalität darauf, personenbezogene Daten von sich oder anderen Personen zu übermitteln.
-
-Rechtsgrundlage für die Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f) bzw. Artikel 6 Absatz 1 Buchstabe b) DSGVO. Unser und Ihr gleichlaufendes (berechtigtes) Interesse an dieser Datenverarbeitung ergibt sich hierbei aus dem Ziel, Ihre Anfragen zu beantworten, ggf. vorliegende Probleme zu lösen und somit Ihre Zufriedenheit als Kunde oder Nutzer unserer Webseite zu erhalten und zu fördern. Im Falle der Abgabe einer Einwilligungserklärung im Rahmen einer Kundenumfrage oder Nutzerstudie ist Artikel 6 Absatz 1 Buchstabe a) DSGVO die Rechtsgrundlage für die auf der Einwilligung basierende Datenverarbeitung. Sofern im Rahmen einer Kundenumfrage oder Nutzerstudie Einwilligungen von Ihnen erklärt worden sind, haben Sie die Möglichkeit, diese Einwilligungen jederzeit mit Wirkung für die Zukunft zu widerrufen. Näheres hierzu ist in diesen Fällen in den speziellen Datenschutzgrundsätzen der jeweiligen Kundenumfrage oder Nutzerstudie geregelt.
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-Empfänger/ Kategorien von Empfängern:
-
-Bei der Beantwortung Ihrer Anfragen und zur Auswertung von Kundenumfragen werden Ihre Daten in unserem Auftrag auch von Auftragsverarbeitern aus dem Bereich Kundenservice und Kundenumfragen verarbeitet. Diese sind jeweils sorgfältig ausgesucht, werden von uns auditiert und zudem vertraglich gemäß Artikel 28 DSGVO verpflichtet.
-
-Zur Bearbeitung Ihrer Reklamation kann es ferner erforderlich sein, Ihre Kontaktdaten an unsere Servicepartner weiterzugeben, die sich mit Ihnen bzgl. der weiteren Reklamationsbearbeitung (z.B. Vereinbarung eines Abhol- oder Reparaturtermins) in Verbindung setzen. Den Namen des konkreten Servicepartners teilen wir Ihnen im Rahmen unserer Kommunikation mit. Die Datenweitergabe ist zur Erfüllung von Gewährleistungsansprüchen und somit zur Durchführung des Vertragsverhältnisses mit Ihnen gemäß Art. 6 Absatz 1 Buchstabe b) DSGVO erforderlich.
-
-Die Ergebnisse unserer Kundenumfragen werden grundsätzlich rein für interne Auswertungen genutzt. Personenbezogene Daten werden von uns nicht an Dritte weitergegeben, sofern Sie hierzu nicht ausdrücklich eingewilligt haben.
+Personenbezogene Daten, die Sie uns beim Ausfüllen von Kontaktformularen, per Telefon, per E-Mail oder per Social Media überlassen, behandeln wir ausschließlich zweckgebunden, um Ihre Anfrage zu bearbeiten.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
-
-Alle personenbezogenen Angaben, die Sie uns gegenüber bei Anfragen (Anregung, Lob oder Kritik) über diese Webseite oder per E-Mail zukommen lassen, werden von uns spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Die Erfahrung hat gezeigt, dass in der Regel nach 95 Tagen Rückfragen zu unseren Antworten nicht mehr vorkommen. Bei Geltendmachung Ihrer Betroffenenrechte (siehe unten) werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückantwort zum Nachweis gespeichert, dass wir Ihnen umfassend Auskunft erteilt haben und die gesetzlichen Anforderungen eingehalten werden. Die Speicherdauer von im Rahmen von Kundenumfragen ggfs. erhobenen personenbezogenen Daten wird im Rahmen der konkreten Kundenumfrage vorab mitgeteilt.
-
-7\. Social Listening und Social Media Monitoring
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-Neben den uns von Ihnen über soziale Netzwerke direkt mitgeteilten Informationen, nutzen wir weiterhin das sog. Social Listening und das Social Media Monitoring, um uns ein Bild von der Wahrnehmung unserer Produkte und Dienstleistungen zu machen, unsere Marketingaktivitäten bewerten zu können und etwaige Verbesserungspotentiale zu identifizieren. Dabei werden Beiträge auf Online-Plattformen (Xing, Facebook u.ä.) entsprechend eines Suchauftrags (z.B. zu einer neuen Produktlinie) oder bestimmter Kennzahlen (z.B. Aufrufe, Anzahl von Klicks) ausgewertet. Hierbei werden nur solche Beiträge eingesehen, die von Ihnen frei einer unbeschränkten Öffentlichkeit zur Verfügung gestellt worden sind.
+Sofern Sie an einer unserer Kundenumfragen teilnehmen, geschieht dies auf freiwilliger Basis. Bei diesen anonymen Befragungen werden keine Informationen gespeichert, die Rückschlüsse auf die Teilnehmer zulassen. Nur Datum und Zeit Ihrer Teilnahme werden gespeichert. Sie können Ihre Angaben über Freitextfelder oder die Erstellung von Screenshots konkretisieren. Sie können sich zudem freiwillig bereit erklären, regelmäßig zu Nutzerstudien eingeladen zu werden. Dies sind insbesondere telefonische Interviews, schriftliche Umfragen oder Tests zur Benutzerfreundlichkeit unserer Anwendungen. Zu diesem Zweck speichern wir Ihren Vornamen, Nachnamen und Ihre E-Mail-Adresse. Jede persönliche Information, die Sie bei Umfragen oder Nutzerstudien zusätzlich angeben, wird als freiwillig angegeben angesehen und nach Maßgabe der DSGVO gespeichert. Bitte verzichten Sie bei der Verwendung der Freitextfelder und Screenshots darauf, personenbezogene Daten von sich oder anderen Personen zu übermitteln.
 
   
 
-Der Umfang der erhobenen Daten bestimmt sich hierbei primär nach Art und Inhalt des jeweiligen Beitrags; so kann z.B. ein Posting in Textform oder eine hochgeladene Bilddatei betroffen sein. In Einzelfällen kann auch die jeweils verwendete User-ID relevant werden; wenn Lidl etwa Hilfe bei etwaigen Problemstellungen anbieten möchte. Z.T. erhalten wir von den jeweiligen Plattform-Betreibern auch Informationen über die Reichweite der betreffenden Beiträge.
+Rechtsgrundlage für die Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe f) bzw. Artikel 6 Absatz 1 Buchstabe b) DSGVO. Unser und Ihr gleichlaufendes (berechtigtes) Interesse an dieser Datenverarbeitung ergibt sich hierbei aus dem Ziel, Ihre Anfragen zu beantworten, gegebenenfalls vorliegende Probleme zu lösen und somit Ihre Zufriedenheit als Kunde oder Nutzer unserer Webseite zu erhalten und zu fördern. Im Falle der Abgabe einer Einwilligungserklärung im Rahmen einer Kundenumfrage oder Nutzerstudie ist Artikel 6 Absatz 1 Buchstabe a) DSGVO die Rechtsgrundlage für die auf der Einwilligung basierende Datenverarbeitung. Diese Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Näheres hierzu ist in den Datenschutzhinweisen der Kundenumfragen oder Nutzerstudien geregelt. Die Rechtsgrundlage für die Verarbeitung datenschutzrechtlicher Anfragen ist Artikel 6 Absatz 1 c) DSGVO, da diese zur Einhaltung gesetzlicher Verpflichtungen erforderlich ist.
 
   
 
-Rechtsgrundlage für die Verarbeitung personenbezogener Daten im Rahmen des Social Listening ist Art. 6 Absatz 1 Buchstabe f) DSGVO, weil wir ein berechtigtes Interesse daran haben, in frei einsehbaren Äußerungen etwaige Defizite unserer Produkte und Leistungen erkennen und angemessen hierauf reagieren zu können.
+Wenn Sie sich als Lidl Plus-Kunde identifizieren, bekommt die zuständige Lidl-Gesellschaft Ihre Kontaktdaten, die für die Bearbeitung der Anfrage durch den Kundenservice oder für eine produktspezifische Anfrage bei den Lieferanten erforderlich sind. Die Rechtsgrundlage dafür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Empfänger/ Kategorien von Empfängern
 
   
 
-Sofern wir im Rahmen des Social Listening oder Social Media Monitoring externe Auftragsverarbeiter einsetzen, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet. Im Rahmen unserer Zusammenarbeit mit der Socialbakers a.s. werden die oben genannten Daten zu Zwecken des Social Media Monitorings in der Regel auch auf Servern in den USA verarbeitet.
+Bei der Beantwortung Ihrer Anfragen und zur Auswertung von Kundenumfragen werden Ihre Daten in unserem Auftrag auch von Auftragsverarbeitern aus dem Bereich Kundenservice und Kundenumfragen verarbeitet.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Soweit zur Bearbeitung Ihrer Anfrage erforderlich, können die von Ihnen angegebenen Daten an Unternehmen der Lidl-Unternehmensgruppe weitergegeben werden. Sofern es im Rahmen Ihres Kundenservice-Anliegens zu einem weiteren Anliegen kommt, nutzen wir Ihre zuvor erfassten Daten für dieses Anliegen mit, damit Sie Ihre Daten nicht erneut angeben müssen.
 
   
 
-Die relevanten Daten werden von Lidl nicht dauerhaft gespeichert, sondern lediglich gezielt im Hinblick auf potentiell erforderliche Gegenmaßnahmen analysiert. Gegebenenfalls können wir Ihre Daten für jährliche Vergleichsauswertungen bis zu 2 Jahren weiter aufbewahren, wenn Sie ihre Daten nicht schon vorher selbst von der Plattform gelöscht haben.
+Zur Bearbeitung Ihrer Reklamation kann es ferner erforderlich sein, Ihre Kontaktdaten an unsere Servicepartner weiterzugeben, die sich mit Ihnen bzgl. der weiteren Reklamationsbearbeitung (z.B. Vereinbarung eines Abhol- oder Reparaturtermins) in Verbindung setzen. Den Namen des konkreten Servicepartners teilen wir Ihnen im Rahmen unserer Kommunikation mit. Die Datenweitergabe ist zur Erfüllung von Gewährleistungsansprüchen und somit zur Durchführung des Vertragsverhältnisses mit Ihnen gemäß Artikel 6 Absatz 1 Buchstabe b) DSGVO erforderlich.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
+
+  
+
+Alle personenbezogenen Angaben, die Sie uns gegenüber bei Anfragen (Anregung, Lob oder Kritik) zukommen lassen, werden von uns spätestens 95 Tage nach der erteilten finalen Rückantwort gelöscht bzw. anonymisiert. Die Erfahrung hat gezeigt, dass in der Regel nach 95 Tagen keine Rückfragen mehr vorkommen. Bei Geltendmachung Ihrer datenschutzrechtlichen Betroffenenrechte werden Ihre personenbezogenen Daten für 3 Jahre nach finaler Rückmeldung zu dem Nachweis gespeichert, dass wir die gesetzlichen Anforderungen eingehalten haben. Die Speicherdauer für im Rahmen von Kundenumfragen erhobene personenbezogene Daten wird im Rahmen der konkreten Kundenumfrage vorab mitgeteilt.
+
+  
+
+  
 
 8\. Gewinnspiele
 
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-Sie haben die Möglichkeit, auf unserer Internetseite, aus unserem Newsletter heraus oder über die Lidl-App an verschiedenen Gewinnspielen teilzunehmen. Sofern nicht im jeweiligen Gewinnspiel etwas anderes bestimmt wird oder Sie uns nicht eine weitergehende ausdrückliche Einwilligung erteilt haben, werden die im Rahmen der Gewinnspielteilnahme von Ihnen an uns weitergegebenen personenbezogenen Daten ausschließlich für die Abwicklung des Gewinnspiels (z.B. Gewinnerermittlung, Gewinnerbenachrichtigung, Zusendung des Gewinns) verwendet. Rechtsgrundlage für die Datenverarbeitung im Rahmen von Gewinnspielen ist grundsätzlich Artikel 6 Absatz 1 Buchstabe b) DSGVO. Im Falle der Abgabe einer Einwilligungserklärung im Rahmen eines Gewinnspiels ist Artikel 6 Absatz 1 Buchstabe a) DSGVO die Rechtsgrundlage für die auf der Einwilligung basierenden Datenverarbeitung. Sofern im Rahmen eines Gewinnspiels Einwilligungen von Ihnen erklärt worden sind, haben Sie die Möglichkeit, diese Einwilligungen jederzeit mit Wirkung für die Zukunft zu widerrufen.
+Verantwortlicher
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Verantwortlicher für die Datenverarbeitungen im Rahmen der Abwicklung von Gewinnspielen ist die Lidl Dienstleistung GmbH & Co. KG, Bonfelder Str. 2, 74206 Bad Wimpfen.
 
   
 
-Eine Weitergabe an Dritte erfolgt nur dann, sofern dies für die Abwicklung des Gewinnspiels (z.B. Zusendung des Gewinnes über ein Logistikunternehmen) erforderlich ist.
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Sie haben die Möglichkeit, auf der Internetseite [www.lidl-gewinnspiel.de](https://www.lidl.de/de/datenschutz/www.lidl-gewinnspiel.de), aus unserem Newsletter heraus oder über die Lidl App an verschiedenen Gewinnspielen teilzunehmen. Sofern nicht im jeweiligen Gewinnspiel etwas anderes bestimmt wird, werden die im Rahmen der Gewinnspielteilnahme von Ihnen an uns weitergegebenen personenbezogenen Daten ausschließlich für die Abwicklung des Gewinnspiels (z.B. Gewinnerermittlung, Gewinnerbenachrichtigung, Zusendung des Gewinns) verwendet.
 
   
 
-Nach Ende des Gewinnspiels und Bekanntgabe der Gewinner werden die personenbezogenen Daten der Teilnehmer gelöscht. Die Daten der Gewinner werden bei Sachgewinnen für die Dauer der gesetzlichen Gewährleistungsansprüche aufbewahrt, um bei einem Mangel gegebenenfalls eine Nachbesserung oder einen Austausch zu veranlassen.
-
-9\. Datenverarbeitung zu Werbezwecken
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-Soweit Sie mit uns einen Vertrag abgeschlossen haben, führen wir Sie als Bestandskunden. In diesem Fall verarbeiten wir Ihre **postalischen Kontaktdaten sowie ggfs. auch weitere Daten aus Ihrem Kundenkonto (z.B. Ihre Einkaufshistorie)** außerhalb des Vorliegens einer konkreten Einwilligung, um Ihnen auf diesem Wege darauf abgestimmte Informationen über Produkte und Dienstleistungen zukommen zu lassen. Ihre **E-Mail-Adresse**, welche Sie in Ihrem My Lidl Kundenkonto (Datenschutzhinweise siehe [hier](https://www.lidl.de/c/mylidlaccount-datenschutzhinweise/s10007933)) angegeben haben, verarbeiten wir, um Ihnen außerhalb des Vorliegens einer konkreten Einwilligung Informationen für eigene, ähnliche Produkte zukommen zu lassen.
+Rechtsgrundlage für die Datenverarbeitung im Rahmen von Gewinnspielen ist Artikel 6 Absatz 1 Buchstabe b) DSGVO.
 
   
 
-Zudem leiten wir **anonymisierte Informationen \[Alter, Land PLZ-Bereich, Geschlecht und Ihre gehashte (also verschlüsselte) E-Mail-Adresse\]** an unser Partnerunternehmen userwerk GmbH (Ehinger Str. 19, 89077 Ulm) weiter, um Ihnen außerhalb des Vorliegens einer konkreten Einwilligung im Anschluss an Ihre Bestellung an Sie angepasste Angebote dritter Unternehmen anzeigen zu lassen.
+Empfänger/ Kategorien von Empfängern
 
   
 
-Die Java Skript Integration der userwerk GmbH speichert Ihre **personenbezogene Bestelldaten (Name, Anschrift, Rufnummer, E-Mail-Adresse)** im Session Storage Ihres Browsers, soweit Sie eine Einwilligung in das Verwenden von Komfort-Technologien gegeben haben. Öffnen Sie dann ein Bestellformular für eines der angezeigten Angebote, wird dieses dann **automatisiert mit diesen personenbezogenen Bestelldaten aus Ihrem Browser befüllt**. Beide Verarbeitungsvorgänge ermöglichen Ihnen eine Bestellung der angezeigten Angebote, ohne erneut personenbezogene Daten von Hand eingeben zu müssen.
+Eine Weitergabe der Daten erfolgt nur sofern dies für die Abwicklung des Gewinnspiels (z.B. Zusendung des Gewinnes über ein Logistikunternehmen) erforderlich ist.
 
   
 
-Mit Ihrer Bestellung durch das Formular der userwerks GmbH erhält diese erstmals Ihre personenbezogenen Daten in unverschlüsselter Form und wird sodann verantwortliche Stelle für die weitere Verarbeitung dieser Daten.
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-**Gegen die Datenverarbeitung zu vorgenannten Zwecken können Sie jederzeit kostenfrei, für den jeweiligen Kommunikationskanal gesondert und mit Wirkung für die Zukunft Widerspruch einlegen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 21 genannten Kontaktdaten.**
+Nach Ende des Gewinnspiels und Bekanntgabe der Gewinner werden die personenbezogenen Daten der Teilnehmer gelöscht. Die Daten der Gewinner werden bei Sachgewinnen für die Dauer der gesetzlichen Gewährleistungsansprüche aufbewahrt, um bei einem Mangel eine Nachbesserung oder einen Austausch zu veranlassen.
 
   
 
-Mit Ihrer Einwilligung erfassen wir **Ihr Nutzungsverhalten** auf den von uns betriebenen Webauftritten und den von uns versendeten Newslettern. Die Auswertung des Nutzungsverhaltens umfasst insbesondere, auf welchen Bereichen Sie sich aufhalten und welche Links Sie dort betätigen. Wir erstellen damit personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse, um eine mögliche werbliche Ansprache durch die Lidl Digital Deutschland GmbH & Co. KG in Form eines Newsletters, On-Site-Werbeeinblendungen und Printwerbung besser auf Ihre persönlichen Interessen ausrichten zu können und um unsere Webangebote zu verbessern. **Ihre Einwilligung hierzu können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Der Widerruf führt zur Löschung der erhobenen Nutzerdaten.**
+  
+
+9\. Versand von Werbung
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-Mit Ihrer Einwilligung verarbeiten wir zudem personenbezogene Daten, um Ihnen personalisierte Werbeanzeigen auf Plattformen oder in sozialen Netzwerken anzeigen zu können. Dabei arbeiten wir mit Werbe-partnern und den Betreibern der sozialen Netzwerke zusammen.
+Soweit Sie mit uns einen Vertrag abgeschlossen haben und/ oder unsere Dienste nutzen, verarbeiten wir Ihre postalischen Kontaktdaten sowie gegebenenfalls auch weitere Daten (z.B. Einkaufshistorie), um Ihnen darauf abgestimmte Informationen über (eigene ähnliche) Produkte und Dienstleistungen zukommen zu lassen.
 
   
 
-Rechtsgrundlage für die vorgenannten Verarbeitungen ist jeweils Artikel 6 Absatz 1 Buchstabe f) DSGVO bzw. bei Vorliegen einer entsprechenden Einwilligung Artikel 6 Absatz 1 Buchstabe a) DSGVO. Die Verarbeitung von Bestandskundendaten zu eigenen Werbezwecken bzw. zu Werbezwecken Dritter ist als ein berechtigtes Interesse im Sinne der erstgenannten Norm anzusehen.
+Zudem leiten wir anonymisierte Informationen (z.B. Alter, Land, PLZ-Bereich, Geschlecht und Ihre verschlüsselte E-Mail-Adresse) an unser Partnerunternehmen userwerk GmbH, Ehinger Str. 19, 89077 Ulm weiter, um Ihnen im Anschluss an Ihre Bestellung angepasste Angebote Dritter anzeigen zu lassen. Die Java Skript-Integration der userwerk GmbH speichert Ihre personenbezogenen Bestelldaten (Name, Anschrift, Rufnummer, E-Mail-Adresse) im Session Storage Ihres Browsers, soweit Sie eine Einwilligung in das Verwenden von Komfort-Techniken gegeben haben. Wenn Sie das Bestellformular eines der angezeigten Angebote öffnen, wird dieses automatisch mit gespeicherten Bestelldaten befüllt. Mit Ihrer Bestellung über das Formular erhält die userwerk GmbH erstmals Ihre personenbezogenen Daten in unverschlüsselter Form und verarbeitet diese dann zu eigenen Zwecken.
 
   
 
-Empfänger/ Kategorien von Empfänger:
+Gegen diese Datenverarbeitung können Sie jederzeit kostenfrei, für den jeweiligen Kommunikationskanal gesondert und mit Wirkung für die Zukunft Widerspruch einlegen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 1 genannten Kontaktdaten.
 
   
 
-Zu den Empfängern zählen die Betreiber sozialer Netzwerke, Werbepartner und spezialisierte Dienstleister, die personenbezogenen Daten weisungsgebunden in unserem Auftrag verarbeiten. Weitere Einzelheiten können auch in Abschnitt 13. nachgelesen werden.
+Auf unserer Webseite, in unseren mobilen Applikationen, den Webseiten oder mobilen Applikationen von Partnerunternehmen und über eingebettete Inhalte auf unseren Präsenzen in sozialen Medien können Sie sich für unseren Marketingkommunikation anmelden. Wenn Sie in den Erhalt unserer Lidl-Marketingkommunikation (E-Mail, SMS, WhatsApp, Push-Benachrichtigung) ausdrücklich eingewilligt haben, nutzen wir Ihre E-Mail-Adresse oder Mobilfunknummer und gegebenenfalls Ihren Namen für die Zusendung von Informationen (siehe Absatz „**Werbeinhalte**“) unter Berücksichtigung Ihres Nutzungsprofils (siehe Absatz „**Personalisiertes Nutzungsprofil**“).
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Um sichergehen zu können, dass bei der Eingabe der E-Mail-Adresse keine Fehler unterlaufen sind, setzen wir das sogenannte Double-Opt-In-Verfahren ein. Nachdem Sie Ihre E-Mail-Adresse in das Anmeldefeld eingegeben haben, senden wir Ihnen vorab einen Bestätigungslink. Erst wenn Sie diesen Bestätigungslink anklicken, wird Ihre E-Mail-Adresse in unseren Verteiler aufgenommen. Gleichermaßen verfahren wir mit Ihrer Mobilfunknummer, sofern Sie uns diese im Rahmen der Lidl Plus-Registrierung zur Verfügung gestellt haben.
 
   
 
-Sofern Sie Ihre Einwilligung zu einzelnen Werbemaßnahmen widerrufen oder bestimmten Werbemaßnahmen widersprechen, werden Ihre Daten aus den entsprechenden (E-Mail-) Verteilern gelöscht.
+Sie können Ihre Einwilligung in den Erhalt der Marketingkommunikation inklusive der Erstellung von personalisierten Nutzungsprofilen jederzeit mit Wirkung für die Zukunft widerrufen, z.B. am Ende eines jeden Newsletters, im Lidl Plus-Konto oder über unseren Kundenservice unter [kontakt@lidl.de](mailto:kontakt@lidl.de). Mit Ihrer Abmeldung betrachten wir Ihre Einwilligung in die Erstellung dieses personalisierten Nutzungsprofils und den Erhalt der darauf basierenden Newsletter als widerrufen.
+
+  
+
+Rechtsgrundlage für die vorgenannten Verarbeitungen ist jeweils Artikel 6 Absatz 1 Buchstabe f) DSGVO bzw. bei Vorliegen einer entsprechenden Einwilligung Artikel 6 Absatz 1 Buchstabe a) DSGVO. Die Verarbeitung von Bestandskundendaten zu eigenen Werbezwecken bzw. zu Werbezwecken Dritter ist ein berechtigtes Interesse im Sinne der erstgenannten Vorschrift.
+
+  
+
+Empfänger/ Kategorien von Empfänger
+
+  
+
+Zu den Empfängern zählen die Betreiber sozialer Netzwerke, Werbepartner und spezialisierte Dienstleister, die personenbezogenen Daten weisungsgebunden in unserem Auftrag verarbeiten.
+
+  
+
+Sofern für die Durchführung der Marketingkommunikation oder die Ermöglichung der Abgabe von Kaufbewertungen externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
+
+  
+
+Sofern Sie Ihre Einwilligung zu einzelnen Werbemaßnahmen widerrufen oder bestimmten Werbemaßnahmen widersprechen, werden Ihre Daten aus den entsprechenden (E-Mail-) Verteilern aus technischen Gründen innerhalb von 48h gelöscht.
 
   
 
@@ -626,21 +703,154 @@ Soweit Sie Widerspruch einlegen, wird die betroffene Kontaktadresse für die wei
 
   
 
-Weitergehende Datenverarbeitungen zu Werbezwecken:
+Ihre Anmeldedaten werden anschließend zehn Jahre zu dem Nachweis gespeichert, dass wir die gesetzlichen Anforderungen eingehalten haben. Bei der Anmeldung zum Newsletter auf einer Social Media Seite gelten ergänzend die [Datenschutzhinweise des jeweiligen Betreibers der Social Media-Seite](https://www.lidl.de/c/impressum-datenschutzerklaerung-fuer-unsere-social-media-seiten/s10007533?hidebanner=true).
 
   
 
-Des Weiteren verarbeiten wir Sie betreffende Daten zu Werbezwecken unter Einsatz von Cookies und ähnlichen Techniken wie unter Ziffer 13 näher beschrieben wird.
-
-10\. Abgabe von Produktbewertungen
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-Mit Ihrer Einwilligung ermöglichen wir Ihnen im Nachgang zu Ihren Bestellungen die Abgabe von Kaufbewertungen. Dazu schicken wir Ihnen E-Mails mit einem Link an Ihre in Ihrem Kundenkonto hinterlegten E-Mail-Adresse, über welchen Sie direkt eine Bewertung des gekauften Produkts abgeben können. Bei Bewertungen, die auf Probleme bei der Bestellung oder Artikeln hinweisen, werden wir gegebenenfalls im Nachgang zur Klärung des Sachverhalts mit Ihnen per E-Mail in Kontakt treten. Die Teilnahme an dieser Korrespondenz erfolgt rein freiwillig. Wir sind Ihnen für Ihre Unterstützung dankbar.
+Die Kundennummer wird für die Verifikation der Verkäufe nach Abgabe der Produktbewertung für einen Zeitraum von sechs Monaten gespeichert und im Anschluss gelöscht.
 
   
 
-Um die Bewertung konkreten Verkäufen zuordnen zu können und mehrfache Bewertungen einzelner Käufe zu verhindern, wird dabei die mit dem Verkauf verbundene Kundennummer zu der jeweiligen Bewertung hinzugespeichert (Verifikation der Verkäufe).
+Weitergehende Datenverarbeitungen zu Werbezwecken
+
+  
+
+Des Weiteren verarbeiten wir Sie betreffende Daten zu Werbezwecken unter Einsatz von Cookies und ähnlichen Techniken wie unter 0 näher beschrieben.
+
+  
+
+9.1 Personalisiertes Nutzungsprofil
+
+Mit Ihrer Einwilligung erfassen wir und die folgenden Betreiber von Lidl-Webseiten und Lidl-Apps sowie die Versender von Lidl-Newslettern Ihr Nutzungsverhalten:
+
+* Lidl Dienstleistung GmbH & Co. KG,
+* Lidl Stiftung & Co. KG,
+* Lidl Digital Trading GmbH & Co. KG,
+* Vodafone GmbH (registrierung.lidl-connect.de).
+
+Die Auswertung des Nutzungsverhaltens umfasst insbesondere folgende Informationen:
+
+* genutzte Bereiche der jeweiligen Webseite, der mobilen Apps oder des Newsletters,
+* betätigte Links,
+* Zeitpunkt der Öffnung,
+* ausgewählte oder in den Warenkorb gelegte Produkte,
+* Zeit, Dauer und Häufigkeit der Nutzung,
+* Bestellung im Onlineshop oder in der App,
+* Teilnahme an Umfragen,
+* eingelöste Pfandbons,
+* Kaufdaten,
+* Häufigkeit und Aktualität Ihrer Filial-/ Onlineshop-Einkäufe im Falle einer Lidl Plus-Nutzung.
+
+Wir erstellen mit diesen Daten personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse oder Mobilfunknummer, um eine mögliche werbliche Ansprache mittels Newslettern, SMS, WhatsApp-/ Push-Nachrichten, On-Site-Werbeeinblendungen und Printwerbung besser auf Ihre persönlichen Interessen ausrichten zu können und unsere Angebote und digitalen Auftritte zu verbessern.
+
+Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen in Onlineshop oder Lidl App gekauften Produkten, Ihrem Alter und Geschlecht anreichern, wenn Sie uns hierfür Ihre Einwilligung erteilt haben.
+
+Wenn Sie die "Über mich”-Sektion in Lidl Plus ausgefüllt haben, werden diese Daten auch verwendet, um unsere Dienste an Ihre Interessen anzupassen. Die Rechtsgrundlage dafür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO (Vertrag zwischen der Lidl Stiftung und Ihnen).
+
+  
+
+9.2 Werbeinhalte
+
+Die Inhalte der Marketingkommunikation der Lidl Stiftung & Co. KG und der Lidl Digital Deutschland GmbH & Co. KG umfassen Informationen über ihre Angebote, Rabattaktionen, Gewinnspiele, Neuigkeiten, Produkte und Dienstleistungen (z.B. Streaming-, Foto-, Strom- und Gas-, Kfz-Verträge-, Zeitungs- und Zeitschriften-, Kinderbücher-, Fitness- und Ernährungs, Telekommunikation-, Reiseangebote, Rezepte, Umfragen zur Kundenzufriedenheit, Möglichkeit zur Abgabe von Produktbewertungen) und denjenigen ihrer wechselnden Kooperationspartner aus dem Lidl Onlineshop, der Lidl App, dem Filialgeschäft, den Lidl Webseiten (z.B. www.lidl.de, www.lidl-kochen.de) und Lidl Apps sowie den dort angebotenen Kooperationen von Lidl und ihren wechselnden Kooperationspartnern (z.B. Lidl Plus Partnervorteile).
+
+  
+
+Kooperationspartner sind derzeit u.a.:
+
+* Lidl Dienstleistung GmbH & Co. KG (Lidl-Filialgeschäft, www.lidl.de, www.lidl-kochen.de) ,
+* Schwarz Digits Content GmbH,
+* Lidl Digital Trading GmbH & Co. KG (www.lidl-reisen.de),
+* Vodafone GmbH (registrierung.lidl-connect.de),
+* Picanova GmbH ( www.lidl-fotos.de),
+* E.ON Energie Deutschland GmbH ( www.lidl-strom.de)
+
+  
+
+9.3 Push-Nachrichten
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Für den regelmäßigen Erhalt von Informationen zu Neuigkeiten, Angeboten, Aktionen und Erinnerungen zu nicht abgeschlossenen Bestellungen können Sie sich für den Empfang von Push-Nachrichten anmelden.
+
+  
+
+Hierfür müssen Sie die Abfrage Ihres Browsers bzw. Endgerätes zum Erhalt vom Push-Nachrichten bestätigen. Im Anschluss werden der Anmeldezeitpunkt sowie ein Push-Token bzw. Ihre Geräte-ID gespeichert. Diese Daten dienen der Zusendung der Push-Nachrichten und dem Nachweis der Anmeldung.
+
+  
+
+Die Lidl App verwendet die Push-Benachrichtigungen nur, wenn Sie bei der App-Installation oder zu einem späteren Zeitpunkt in den Einstellungen Ihres Gerätes die Push-Benachrichtigungen aktivieren. Sie können den Empfang von Push-Benachrichtigungen jederzeit in der Lidl App deaktivieren oder für die Lidl Webseite [hier](https://www.lidl.de/t/cti/web-push) oder in den Einstellungen des Browsers.
+
+  
+
+Wir werten Push-Nachrichten statistisch aus, um zu erkennen, ob und wann Push-Nachrichten angezeigt und angeklickt wurden. Dies ermöglicht uns, Feststellungen über die mutmaßlichen Interessen der Empfänger zu treffen und damit die Push-Nachrichten zu optimieren.
+
+  
+
+Rechtsgrundlage für die Verarbeitung Ihrer Daten zum Ausspielen von Push-Nachrichten ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+
+  
+
+Empfänger/ Kategorien von Empfängern
+
+  
+
+Sofern für das Ausspielen von Push-Nachrichten externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
+
+  
+
+Ihre Daten werden gespeichert, solange Sie Push-Nachrichten aktiviert haben.
+
+  
+
+9.4 Verfügbarkeitsbenachrichtigung
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Bei nicht verfügbaren Artikeln bieten wir Ihnen auf der Produktseite die Möglichkeit, sich per E-Mail oder Push-Nachricht informieren zu lassen, wenn der gewünschte Artikel wieder verfügbar ist. Wenn Sie in den Erhalt dieser Verfügbarkeitsbenachrichtigungen eingewilligt haben, nutzen wir Ihre E-Mail-Adresse, DeviceID und gegebenenfalls Ihren Namen für die Zusendung von Informationen zur Produktverfügbarkeit. Wir speichern und verarbeiten Ihre Daten zum Zweck des E-Mail-Versands bzw. Push-Versands.
+
+  
+
+Um sichergehen zu können, dass bei der Eingabe der E-Mail-Adresse keine Fehler unterlaufen sind, setzen wir das sogenannte Double-Opt-In-Verfahren ein: Nachdem Sie Ihre E-Mail-Adresse in das Anmeldefeld auf der Lidl Webseite eingegeben haben, senden wir Ihnen einen Bestätigungslink. Erst wenn Sie diesen Bestätigungslink anklicken, wird Ihre E-Mail-Adresse in unseren Verteiler aufgenommen. Sofern Sie in der App auf “Bei Verfügbarkeit erinnern” geklickt haben, werden Sie in unseren Verteiler aufgenommen, den Sie in der App unter Einstellungen à Produkterinnerungen aufrufen können.
+
+  
+
+Rechtsgrundlage für diese Datenverarbeitungen ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+
+  
+
+Empfänger/ Kategorien von Empfängern
+
+  
+
+Sofern für die Durchführung des E-Mail-Versands externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
+
+  
+
+Ihre Daten werden 90 Tage nach der Anmeldung gelöscht.
+
+9.5 Abgabe von Produktbewertungen
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Mit Ihrer Einwilligung ermöglichen wir Ihnen im Nachgang zu Ihren Bestellungen die Abgabe von Kaufbewertungen. Dazu schicken wir Ihnen E-Mails mit einem Link an die im Bestellprozess hinterlegte E-Mail-Adresse. Über die Links können Sie direkt eine Bewertung des gekauften Produkts abgeben. Bei Bewertungen, die auf Probleme bei der Bestellung oder Artikeln hinweisen, werden wir gegebenenfalls im Nachgang zur Klärung des Sachverhalts mit Ihnen per E-Mail in Kontakt treten. Die Teilnahme an dieser Korrespondenz erfolgt rein freiwillig. Wir sind Ihnen für Ihre Unterstützung dankbar.
+
+  
+
+Um die Bewertung konkreten Verkäufen zuordnen zu können und mehrfache Bewertungen einzelner Käufe zu verhindern, wird dabei die mit dem Verkauf verbundene Kundennummer zu der jeweiligen Bewertung hinzugespeichert.
 
   
 
@@ -652,11 +862,7 @@ Rechtsgrundlage für die oben genannten Datenverarbeitungen ist Ihre Einwilligun
 
   
 
-**Sie können Ihre Einwilligung in diese Datenverarbeitung jederzeit mit Wirkung für die Zukunft widerrufen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 21 genannten Kontaktdaten.**
-
-  
-
-Empfänger/ Kategorien von Empfängern:
+Empfänger/ Kategorien von Empfängern
 
   
 
@@ -664,354 +870,434 @@ Sofern für die Ermöglichung der Abgabe von Kaufbewertungen externe Auftragsver
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-Sofern Sie Ihre Einwilligung zum Erhalt der Kaufbewertungs-E-Mails widerrufen, wird Ihre E-Mail-Adresse für den Erhalt dieser E-Mails gesperrt. Ihre Daten werden anschließend nach sechs Monaten aus den entsprechenden E-Mail-Verteilern gelöscht.
-
-  
-
-Die Kundennummer wird für die Verifikation der Verkäufe nach Abgabe der Produktbewertung für einen Zeitraum von sechs Monaten gespeichert und im Anschluss gelöscht.
-
-11\. Verfügbarkeitsbenachrichtung per E-Mail
-
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-  
-
-Bei nicht verfügbaren Artikeln bieten wir Ihnen auf der Produktseite die Möglichkeit, sich per E-Mail informieren zu lassen, wenn der gewünschte Artikel wieder verfügbar ist. Wenn Sie in den Erhalt dieser Verfügbarkeitsbenachrichtigungen eingewilligt haben, nutzen wir Ihre E-Mail-Adresse und ggf. Ihren Namen für die Zusendung von Informationen zur Produktverfügbarkeit. Wir speichern und verarbeiten Ihre Daten zum Zweck des E-Mail-Versands.
-
-  
-
-Rechtsgrundlage für diese Datenverarbeitungen ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
-
-  
-
-Um sichergehen zu können, dass bei der Eingabe der E-Mail-Adresse keine Fehler unterlaufen sind, setzen wir das sog. Double-Opt-In-Verfahren ein: Nachdem Sie Ihre E-Mail-Adresse in das Anmeldefeld eingegeben haben, übersenden wir Ihnen einen Bestätigungslink. Erst wenn Sie diesen Bestätigungslink anklicken, wird Ihre E-Mail-Adresse in unseren Verteiler aufgenommen.
-
-  
-
-**Sie können Ihre Einwilligung in den Erhalt dieser Verfügbarkeitsbenachrichtigungen jederzeit mit Wirkung für die Zukunft widerrufen, z.B. indem Sie auf den Abmelde-Link am Ende einer jeden Verfügbarkeitsbenachrichtigungen klicken. Alternativ genügt auch eine E-Mail an die unter Ziffer 21 genannten Kontaktdaten.**
-
-  
-
-Empfänger/ Kategorien von Empfängern:
-
-  
-
-Sofern für die Durchführung des E-Mail-Versands externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
-
-  
-
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
-
-  
-
-Ihre Daten werden 90 Tage nach der Anmeldung gelöscht.
-
-12\. Newsletter-Versand
-
-Auf unserer Webseite/ in unseren mobilen Applikationen oder den Webseiten/ mobilen Applikationen von Partnerunternehmen und über eingebettete Frames auf unseren Präsenzen in sozialen Medien bieten wir Ihnen die Möglichkeit, sich für unseren **Newsletter** anzumelden. Wenn Sie in den Erhalt unseres Newsletters eingewilligt haben, nutzen wir Ihre **E-Mail-Adresse** und ggf. Ihren Namen für die Zusendung von (sofern möglich individuellen) Informationen über Produkte, Aktionen, Gewinnspiele und Neuigkeiten aus dem Streaming-, Filial-, Online-, Strom- und Gas-, Kfz-Verträge-, Zeitungs- und Zeitschriften-, Kinderbücher-, Fitness- und Ernährungs-, Telekommunikations-, Foto- und Reiseangebot sowie für Umfragen zur Kundenzufriedenheit. Wir speichern und verarbeiten diese Daten zum Zweck des Newsletter-Versands.
-
-Um sichergehen zu können, dass bei der Eingabe der E-Mail-Adresse keine Fehler unterlaufen sind, setzen wir das sog. Double-Opt-In-Verfahren ein: Nachdem Sie Ihre E-Mail-Adresse in das Anmeldefeld eingegeben haben, übersenden wir Ihnen einen Bestätigungslink. Erst wenn Sie diesen Bestätigungslink anklicken, wird Ihre E-Mail-Adresse in unseren Verteiler aufgenommen.
-
-12.1 Newsletter-Inhalte
-
-Die **Inhalte des Newsletters** umfassen Aktionen (Angebote, Rabatt-Aktionen, Gewinnspiele, etc.) sowie Informationen über Waren und Dienstleistungen der unter www.lidl.de angeschlossenen (Partner-) Unternehmen. Dies sind derzeit insbesondere:
-
-  
-
-* Lidl Dienstleistung GmbH & Co. KG (Lidl-Filialgeschäft, [www.lidl.de](https://www.lidl.de/), [www.lidl-kochen.de](https://www.lidl-kochen.de/))
-* Lidl Digital Deutschland GmbH & Co. KG ( [www.lidl.de](https://www.lidl.de/)),
-* Lidl Digital Trading GmbH & Co. KG [www.lidl-reisen.de](https://www.lidl-reisen.de/)),
-* Lidl Stiftung & Co. KG ( [www.lidlplus.de](https://www.lidlplus.de/)),
-* Picanova GmbH ( [www.lidl-fotos.de](https://www.lidl-fotos.de/)),
-* E.ON Energie Deutschland GmbH ( [www.lidl-strom.de](https://www.lidl-strom.de/)),
-* Vodafone GmbH ( [registrierung.lidl-connect.de](https://registrierung.lidl-connect.de/)),
-
-12.2 Personalisiertes Nutzungsprofil
-
-Mit Ihrer Einwilligung erfassen wir Ihr Nutzungsverhalten auf den unter www.lidl.de angeschlossenen Webseiten, mobilen Apps sowie Newslettern von uns und unseren Partnerunternehmen (Lidl Dienstleistung GmbH & Co. KG, Lidl Digital Deutschland GmbH & Co. KG, Lidl Stiftung & Co. KG, Lidl Digital Trading GmbH & Co. KG ( [www.lidl.de](https://www.lidl.de/), [www.lidl-reisen.de](https://www.lidl-reisen.de/), [www.lidlplus.de](https://www.lidl.de/c/lidl-plus/s10007388)), Picanova GmbH ( [www.lidl-fotos.de](https://www.lidl-fotos.de/)), der E.ON Energie Deutschland GmbH ( [www.lidl-strom.de](https://www.lidl-strom.de/)), Vodafone GmbH ( [registrierung.lidl-connect.de](https://www.lidl.de/c/lidl-connect/s10007717)). Die Auswertung des Nutzungsverhaltens umfasst insbesondere, auf welchen Bereichen der jeweiligen Webseite, der mobilen App bzw. des Newsletters Sie sich aufhalten und welche Links Sie dort betätigen. Dabei werden personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse erstellt, um eine mögliche werbliche Ansprache, insbesondere in Form von Newslettern, On-Site-Werbeeinblendungen und Printwerbung sowie die Darstellung dieser Webseite besser auf Sie und Ihre persönlichen Interessen ausrichten zu können und um die Webangebote zu verbessern. Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen auf [www.lidl.de](https://www.lidl.de/) gekauften Produkten, Ihrem Namen, Alter und Geschlecht anreichern, wenn Sie uns hierfür Ihre Einwilligung zu Zwecken der Eigenwerbung erteilt haben.
-
-12.3 Produktbewertungen
-
-Nach der Anmeldung zu unserem Newsletter ermöglichen wir Ihnen im Nachgang zu einer Bestellung die Abgabe von Kaufbewertungen.
-
-  
-
-Dazu schicken wir Ihnen E-Mails mit einem Link an Ihre in Ihrem Kundenkonto hinterlegten E-Mail-Adresse, über welchen Sie direkt eine Bewertung des gekauften Produkts abgeben können. Bei Bewertungen, die auf Probleme bei der Bestellung oder Artikeln hinweisen, werden wir gegebenenfalls im Nachgang zur Klärung des Sachverhalts mit Ihnen per E-Mail in Kontakt treten. Die Teilnahme an dieser Korrespondenz erfolgt rein freiwillig. Wir sind für Ihnen für Ihre Unterstützung dankbar.
-
-  
-
-Um die Bewertung konkreten Verkäufen zuordnen zu können und mehrfache Bewertungen einzelner Käufe zu verhindern, wird dabei die mit dem Verkauf verbundene Kundennummer zu der jeweiligen Bewertung hinzugespeichert (Verifikation der Verkäufe). Die Darstellung Ihrer Bewertung auf unseren Webseiten erfolgt in rein anonymisierter Form.
+Sofern Sie Ihre Einwilligung zum Erhalt der Kaufbewertungs-E-Mails widerrufen, wird Ihre E-Mail-Adresse für den Erhalt dieser E-Mails gesperrt.
 
   
 
 Die Kundennummer wird für die Verifikation der Verkäufe nach Abgabe der Produktbewertung für einen Zeitraum von sechs Monaten gespeichert und im Anschluss gelöscht.
 
-  
+10\. Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten
 
-12.4 Rechtsgrundlage und Widerrufsmöglichkeit
----------------------------------------------
+Bei dem Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten (insbesondere Local Storage) werden beim Besuch unserer Webseite ( [www.lidl.de](https://www.lidl.de/)) und einigen der dort eingebetteten Webseiten (insbesondere account.lidl.com) und der Lidl App (gemeinsam: „diese Dienste“) Dateien lokal auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert. Mitunter wird zur Ausspielung personalisierter Werbung auch ein sogenanntes Tag eingesetzt, das in diese Dienste eingebunden ist (im Folgenden mit unter „ähnliche Techniken zur Verarbeitung von Nutzungsdaten“ gefasst). Hierbei handelt es sich um einen Code, über den Nutzungsdaten erfasst werden.
 
-Rechtsgrundlage für die oben genannten Datenverarbeitungen nach der Anmeldung zu unserem Newsletter ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+10.1 Verantwortlichkeit
 
-  
+Die Lidl Digital und die Lidl Stiftung sind gemeinsame Verantwortliche für die meisten Datenverarbeitungen im Zusammenhang mit dem Einsatz sogenannter Cookies und anderer ähnlicher Techniken (im Folgenden einheitlich als „Cookies“ bezeichnet) zur Verarbeitung von Nutzungsdaten auf diesen Diensten.
 
-**Sie können Ihre Einwilligung in den Erhalt des Newsletters, die Teilnahme an Umfragen zur Kundenzufriedenheit und in die Erstellung von personalisierten Nutzungsprofilen jederzeit mit Wirkung für die Zukunft widerrufen, z.B. indem Sie sich auf unserer Webseite aus dem Newsletter austragen. Den Link zur Abmeldeseite finden Sie** [**hier**](https://www.lidl.de/c/newsletter-abmeldung/s10007197) **oder am Ende eines jeden Newsletters. Mit Ihrer Abmeldung betrachten wir Ihre Einwilligung in die Erstellung Ihres personalisierten Nutzungsprofils und den Erhalt darauf basierender Newsletter als widerrufen. Ihre Nutzungsdaten werden von uns gelöscht.**
-
-  
-
-12.5 Empfänger/ Kategorien von Empfängern
------------------------------------------
-
-Sofern für die Durchführung des Newsletterversands oder die Ermöglichung der Abgabe von Kaufbewertungen externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
+Jenseits dessen, gestalten sich die Verantwortlichkeitsverhältnisse wie folgt:
 
   
 
-12.6 Speicherdauer/ Kriterien für Festlegung der Speicherdauer
---------------------------------------------------------------
-
-Sofern Sie Ihre Einwilligung zum Erhalt des Lidl-Newsletters widerrufen, wird Ihre E-Mail-Adresse für den Erhalt des Lidl-Newsletters gesperrt. Ihre Anmeldedaten werden anschließend drei Jahren zum Nachweis gespeichert, dass wir die gesetzlichen Anforderungen eingehalten haben, und im Anschluss gelöscht. Bei der Anmeldung zum Newsletter auf einer Social Media Seite gelten hierzu ergänzend die Datenschutzbestimmungen des jeweiligen Betreibers der Social Media Seite.
-
-13\. Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten
-
-Bei dem Einsatz von **Cookies** und ähnlichen Technologien zur Verarbeitung von Nutzungsdaten (insbesondere Local Storage) werden beim Besuch unserer Webseite Dateien lokal auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert. Diese Dateien richten auf Ihrem Endgerät keinen Schaden an, enthalten keine Viren, Trojaner oder sonstige Schadsoftware. In ihnen werden Informationen im Zusammenhang mit dem jeweils von Ihnen genutzten Endgeräten abgelegt. Dies bedeutet jedoch nicht, dass wir dadurch unmittelbar Kenntnis von Ihrer Identität erhalten. Microsoft Advertising verwendet neben Cookies auch das sog. Universal Event Tracking. Hierbei handelt es sich um einen Code, über den in Verbindung mit Cookies Informationen über die Nutzung der Website gespeichert werden.
-
-13.1 Verantwortlichkeit
-
-Wir, die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm sind Verantwortliche für die Datenverarbeitungen im Zusammenhang mit dem Einsatz sogenannter **Cookies** und anderer ähnlicher **Technologien zur Verarbeitung von Nutzungsdaten** auf [www.lidl.de](https://www.lidl.de/de/datenschutz/www.lidl.de) und einigen der dort eingebetteten Webseiten.
+10.1.1 Verantwortlichkeit bei Cookies zu Zwecken der Eigenwerbung
 
   
 
-Die Lidl Stiftung & Co. KG, Stiftbergstraße 1, 74167 Neckarsulm ist Verantwortliche für die Datenverarbeitungen im Zusammenhang mit dem Einsatz von Cookies und anderen, ähnlichen Technologien zur Verarbeitung von Nutzungsdaten u.a. auf der Webseite [My Lidl-Webseite](https://accounts.lidl.com/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fscope%3Dopenid%2520profile%2520Lidl.Authentication%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fwww.lidl.de%252Fsso%26state%3DFwlSE1Vp-F2LbY0YTVTi8xWbIRClibt1e_UUOQjUWG0%26nonce%3DklhXLwT8HXOuYSUTix_2Zh4RLONXBeUuX_Cms_jdKLU%26client_id%3DGermanyEcommerceClient%26max_age%3D10800). „My Lidl“ ist das Kundenkonto für Onlineangebote der Lidl-Unternehmensgruppe einschließlich der Webseite [www.lidl.de](https://www.lidl.de/).
+Für einige der mit den Marketing-Cookies verbundenen Datenverarbeitungen zur Eigenwerbung (siehe Cookies unter der Kategorie „Eigenwerbung“ in unseren Cookie-Hinweisen) sind neben uns jeweils auch die Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (Facebook), die RTB House GmbH, Kurfürstendamm 226, 10719 Berlin, Deutschland (RTB House), die TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, Großbritannien (TikTok), die AWIN AG, Eichhornstraße 3, 10785 Berlin, Deutschland (AWIN), die lead alliance GmbH, Karlstr. 9, 90403 Nürnberg (lead alliance), die Ladenzeile GmbH, Zimmerstraße 50, 10117 Berlin, Deutschland (Ladenzeile), die Solute GmbH, Zeppelinstraße 15, 76185 Karlsruhe, Deutschland (Solute), die Kelkoo Deutschland GmbH, Willy-Brandt-Straße 23, 20457 Hamburg, Deutschland (Kelkoo) und die moebel.de Einrichten & Wohnen GmbH, Gertrudenstraße 3, 20095 Hamburg, Deutschland (moebel.de) gemeinsam Verantwortliche gemäß Artikel 26 DSGVO.
 
   
 
-Bei den mit den Marketing-Cookies verbundenen Datenverarbeitungen ist zu unterscheiden: Diese erfolgen einerseits zur **Eigenwerbung** auf lidl.de und andererseits zur **Werbung und Erfolgsmessung unter Einsatz des IAB TCF**. Letzteres umfasst die Anzeige personalisierter Werbung auf digitalen Medien von Dritten (also außerhalb unserer Webseiten), wie z.B. anderen Webseiten, Apps, Smart TVs, etc. („Drittmedien“) sowie die Messung des Erfolgs von Werbekampagnen unseres Werbepartners The UK Trade Desk Ltd.
+Für die ebenfalls zu Zwecken der Eigenwerbung eingesetzten Cookies und die damit verbundenen Datenverarbeitungen, mithilfe derer Ihr Kaufverhalten auf den Lidl Webseiten bzw. Apps, Ihr Alter und Ihr Geschlecht mit Ihrem Nutzungsverhalten der Webseite oder der Lidl App zu einem Profil verbunden werden kann, ist neben der Lidl Digital und der Lidl Stiftung auch die Lidl Dienstleistung GmbH & Co. KG, Bonfelder Straße 2, 74206 Bad Wimpfen, Deutschland gemeinsam Verantwortliche gemäß Artikel 26 DSGVO.
+
+Wir verwenden zur Eigenwerbung in unseren Diensten zudem die Dienste Microsoft Advertising und Microsoft Clarity des Anbieters Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Irland (Microsoft) und den Dienst Google Advertising des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (Google). Microsoft und Google verarbeiten Ihre Daten im Rahmen der Microsoft- und Google Advertising-Dienste auch in eigener Verantwortung.
 
   
 
-Für einige der mit den Marketing-Cookies verbundenen Datenverarbeitungen **zur Eigenwerbung** (siehe Cookies unter der Kategorie „Marketing“ in unseren [Cookie-Hinweisen](https://www.lidl.de/c/cookie-bestimmungen/s10005399)) sind neben uns jeweils auch die **Meta Platforms Ireland Limited**, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (Facebook), die **RTB House GmbH**, Kurfürstendamm 226, 10719 Berlin, Deutschland (RTB House), die **TikTok Information Technologies UK Limited**, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, Großbritannien (TikTok), die **AWIN AG**, Eichhornstraße 3, 10785 Berlin, Deutschland (AWIN), die **lead alliance GmbH**, Karlstr. 9, 90403 Nürnberg (lead alliance), die **Ladenzeile GmbH**, Zimmerstraße 50, 10117 Berlin, Deutschland (Ladenzeile), die **Solute GmbH**, Zeppelinstraße 15, 76185 Karlsruhe, Deutschland (Solute), die **Kelkoo Deutschland GmbH**, Willy-Brandt-Straße 23, 20457 Hamburg, Deutschland (Kelkoo) und die **moebel.de Einrichten & Wohnen GmbH**, Gertrudenstraße 3, 20095 Hamburg, Deutschland (moebel.de) **gemeinsam Verantwortliche** gemäß Artikel 26 DSGVO. Wir setzen im Rahmen der Zusammenarbeit auf unserer Webseite mit Ihrer Einwilligung spezielle Technologien dieser Partner ein, damit wir Ihr Surfverhalten erfassen und auf Sie abgestimmte Werbung auf unserer Webseite oder der Plattform unserer Partner anzeigen können (Facebook, RTB House und TikTok) und wir nachvollziehen können, welche Partner Sie zu uns für einen eventuellen Kauf geführt haben (AWIN, lead alliance, Ladenzeile, Solute, Kelkoo und moebel.de). Dabei können unsere Partner auch die auf unserer Webseite erhobenen Daten mit eigenen Datenbeständen abgleichen.
+Wir setzen in der Lidl App den Dienst „Facebook Custom Audience“ der Meta Platforms Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (im Folgenden “Meta”, „Facebook“) ein. Diesbezüglich sind wir mit Meta gemeinsam Verantwortliche gemäß Artikel 26 DSGVO.
 
   
 
-Für die ebenfalls zu Zwecken der Eigenwerbung eingesetzten Cookies und die damit verbundenen Datenverarbeitungen, mithilfe derer Ihr Kaufverhalten auf den Lidl Webseiten bzw. Apps, Ihrem Namen, Ihr Alter und Ihr Geschlecht mit Ihrem Nutzungsverhalten der Webseite oder der Lidl App zu einem Profil verbunden werden kann, ist neben der Lidl Digital und der Lidl Stiftung auch die Lidl Dienstleistung GmbH & Co. KG, Bonfelder Straße 2, 74206 Bad Wimpfen, Deutschland gemeinsam Verantwortliche gemäß Artikel 26 DSGVO.
+10.1.2 Verantwortlichkeit bei der Werbung und Erfolgsmessung unter Einsatz des IAB TCF
 
   
 
-Sie können sich bei der Ausübung Ihrer weiter unten dargestellten Betroffenenrechte in Bezug auf die in diesem Absatz dargestellten Datenverarbeitungen neben uns auch an unsere oben genannten Partner wenden.
+Im Rahmen der mit den Marketing-Cookies verbundenen Datenverarbeitungen zur Werbung und Erfolgsmessung unter Einsatz des IAB TCF (siehe Cookies unter der Kategorie „Marketing – Werbung und Erfolgsmessung unter Einsatz des IAB TCF in unseren Cookie-Hinweisen) arbeiten wir für die Anzeige personalisierter Werbung außerhalb unserer Dienste mit der Criteo SA, 32 Rue Blanche, 75009 Paris, Frankreich (Criteo) sowie der Virtual Minds GmbH, Ellen-Gottlieb-Straße 16, D-79106 Freiburg im Breisgau, Deutschland als jeweils gemeinsam mit uns Verantwortliche nach Artikel 26 DSGVO zusammen.
 
   
 
-Wir verwenden zur **Eigenwerbung** auf unserer Webseite zudem die Dienste Microsoft Advertising und Microsoft Clarity des Anbieters **Microsoft Ireland Operations Limited**, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Irland (Microsoft) und den Dienst Google Advertising des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (Google). Microsoft und Google verarbeiten Ihre Daten im Rahmen der Microsoft und Google Advertising-Dienste auch **in eigener Verantwortung**.
+Daneben werden in diesem Zusammenhang Daten über Sie teilweise auch durch den Werbepartner The UK Trade Desk Ltd., c/o The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001, USA („TTD“) als separat Verantwortlichen zur Ausspielung personalisierter Werbung und zur Erfolgsmessung verarbeitet.
 
   
 
-Mittels Microsoft Advertising und Google Advertising können Werbeanzeigen gezielt über die Netzwerke von Microsoft und Google ausgespielt (z.B. bei Suchmaschinen und E-Mail-Programme), optimiert sowie Aktivitäten von Nutzern auf unserer Website nachverfolgt werden, wenn diese über Werbeanzeigen auf unsere Website gelangt sind. Mittels Microsoft Clarity können Nutzerinteraktionen mit unserer Webseite nachvollzogen und visualisiert werden.
+Bei dem Einsatz der speziellen Identifizierungsverfahren „Utiq“ und „EUID“ arbeiten wir im Fall von Utiq mit der Utiq SA/ NV, Rue aux Laines 70, 1000 Brüssel, Belgien und im Fall von EUID mit TTD als jeweils gemeinsam mit uns Verantwortlichen nach Art. 26 DSGVO zusammen. Im Fall von Utiq wird Ihre IP-Adresse an Ihren Telekommunikationsnetzbetreiber weitergeleitet, sofern er an Utiq teilnimmt. Dieser erstellt sodann als separat Verantwortlicher aus der von Ihnen verwendeten IP-Adresse und einer internen Netzwerkreferenz, wie z.B. Ihrer Mobilfunknummer, ein eindeutige Online-Kennung, das sogenannte Netzwerksignal zur weiteren Verwendung im Zusammenhang mit Utiq. In den Datenschutzhinweisen von Utiq SA/ NV bzw. den Datenschutzhinweisen von TTD bzgl. EUID finden Sie weitere Informationen zu den Datenverarbeitungen sowie dazu, wie Sie Ihre Betroffenenrechte geltend machen können.
 
   
 
-Mit den Microsoft und Google Advertising-Diensten sammeln wir auch Informationen, mit denen wir Zielgruppen anhand von Remarketing-Listen nachverfolgen können. Durch Microsoft Advertising und Google Advertising kann erkannt werden, dass unsere Website besucht wurde und bei einer späteren Nutzung von Microsoft- oder Google-Netzwerken eine Werbeanzeige ausgespielt werden. Die Informationen dienen außerdem dazu, Conversion-Statistiken zu erstellen, d.h. zu erfassen, wie viele Nutzer nach Anklicken einer Werbeanzeige auf eine unsere Website gelangt sind. Wir erfahren hierdurch die Gesamtanzahl der Nutzer, die auf unsere Werbeanzeige geklickt haben und zu unserer Webseite weitergeleitet wurden. Wir erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.
+Die unter dem Zweck „Speichern von oder Zugriff auf Informationen auf einem Endgerät“ dargestellte Übermittlung und weitere Verarbeitung Ihrer verhashten E-Mail-Adresse führen wir grundsätzlich in gemeinsamer Verantwortlichkeit mit Criteo durch. Hinsichtlich einer möglichen Verknüpfung mit anderen, Ihnen zugeordneten Kennungen/Identifiern ist Criteo allein verantwortlich.
 
   
 
-Sie können personalisierte Werbung bei Microsoft und Google deaktivieren oder individuell einstellen. Details hierzu finden Sie unter den jeweiligen Support-Seiten unserer Partner:
+10.2 Zwecke/ Datenverarbeitungen
 
-* Microsoft: [https://about.ads.microsoft.com/de-de/ressourcen/richtlinien/personalisierte-anzeigen](https://about.ads.microsoft.com/de-de/ressourcen/richtlinien/personalisierte-anzeigen) und [https://account.microsoft.com/privacy/ad-settings/signedout](https://account.microsoft.com/privacy/ad-settings/signedout).
-* Google: [https://support.google.com/My-Ad-Center-Help/answer/12155451](https://support.google.com/My-Ad-Center-Help/answer/12155451).
-
-Einstellungsmöglichkeiten für personalisierte Werbung finden Sie auch unter [https://youradchoices.com/](https://youradchoices.com/) und [hier](https://optout.networkadvertising.org/?c=1).
+10.2.1 Übergreifende Darstellung
 
   
 
-Weitere Informationen zu diesen Datenverarbeitungen und zur Ausübung Ihrer Betroffenenrechte finden Sie auch in den jeweiligen Datenschutzrichtlinien unserer Partner:
-
-* Meta (Facebook): [https://de-de.facebook.com/policy.php](https://de-de.facebook.com/policy.php),
-* RTB House: [https://www.rtbhouse.com/privacy-center/services-privacy-policy/](https://www.tiktok.com/legal/page/eea/privacy-policy/de),
-* TikTok: [https://www.tiktok.com/legal/privacy-policy-row,](https://www.tiktok.com/legal/page/eea/privacy-policy/de)
-* AWIN: [https://www.awin.com/de/datenschutzerklarung](https://www.awin.com/de/datenschutzerklarung),
-* lead alliance: [https://www.lead-alliance.net/dataprotection2](https://www.lead-alliance.net/dataprotection2),
-* Ladenzeile: [https://company.ladenzeile.de/datenschutzerklaerung/](https://company.ladenzeile.de/datenschutzerklaerung/),
-* Solute: [https://www.solute.de/ger/datenschutz/](https://www.solute.de/ger/datenschutz/),
-* Kelkoo: [https://www.kelkoo.de/unternehmen/datenschutzrichtlinie/](https://www.kelkoo.de/unternehmen/datenschutzrichtlinie/),
-* moebel.de: [https://www.moebel.de/datenschutz](https://www.moebel.de/datenschutz),
-* Microsoft: [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement),
-* Google: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de).
+Wir platzieren Cookies auf Ihrem Endgerät, mittels derer die unten näher spezifizierten Daten erfasst und dann zu den im Folgenden genannten Zwecken verarbeitet werden.
 
   
 
-Im Rahmen der mit den Marketing-Cookies verbundenen Datenverarbeitungen zur **Werbung** **und Erfolgsmessung unter Einsatz des IAB TCF** (siehe Cookies unter der Kategorie „Marketing – Werbung und Erfolgsmessung unter Einsatz des IAB TCF in unseren [Cookie-Hinweisen](https://www.lidl.de/c/cookie-hinweise/s10005399)) arbeiten wir für die Anzeige personalisierter **Werbung** außerhalb unserer Webseiten mit der **Criteo SA**, 32 Rue Blanche, 75009 Paris, Frankreich (Criteo) sowie der **Virtual Minds GmbH**, Ellen-Gottlieb-Straße 16, D-79106 Freiburg im Breisgau, Deutschland als jeweils **gemeinsam mit uns Verantwortliche** nach Artikel 26 DSGVO zusammen. Die wesentlichen Inhalte der zugrunde liegenden Vereinbarung stellen wir auf Anfrage gerne zur Verfügung – nutzen Sie hierfür zum Beispiel die unter Kontakt angegebenen Möglichkeiten. Ihre Einwilligung vorausgesetzt, werden hierzu Cookies auf Ihrem Endgerät gesetzt (und ausgelesen), mittels derer die unten näher spezifizierten Daten erfasst und dann zu den unten genannten Zwecken verarbeitet werden. Sie können sich bei der Ausübung Ihrer weiter unten dargestellten Betroffenenrechte in Bezug auf die in diesem Absatz dargestellten Datenverarbeitungen neben uns auch an die Virtual Minds GmbH wenden. In der [Datenschutzrichtlinie von Criteo](https://www.criteo.com/de/privacy/) bzw. [Datenschutzrichtlinie der Virtual Minds GmbH](https://virtualminds.de/datenschutz) finden Sie weitere Informationen, wie Sie Ihre weiter unten dargestellten Betroffenenrechte hinsichtlich der über Sie von der Criteo bzw. Virtual Minds GmbH in jeweils (gemeinsamer) Verantwortung verarbeiteten Daten direkt gegenüber dieser geltend machen können.
+* Technisch notwendig: Dies sind Cookies und ähnliche Techniken, ohne die Sie unsere Dienste nicht nutzen können (etwa zur richtigen Anzeige unserer Dienste einschließlich der Schriftart und Farbe, zur Bereitstellung der von Ihnen gewünschten Funktionen und zur Berücksichtigung Ihrer Einstellungen, zum Speichern Ihrer Anmeldung im Login-Bereich, um beim In-App/ Online-Shopping den Warenkorb zu befüllen, etc.).
+* Komfort: Mithilfe dieser Techniken können wir Ihre Präferenzen für die komfortable Nutzung unserer Webseite und der Lidl App berücksichtigen. Beispielsweise können wir anhand Ihrer Einstellungen unsere Dienste in einer für Sie passenden Sprache anzeigen und Ihnen auch beim erneuten Besuch unserer Dienste nicht abgeschlossene Bestellungen im Warenkorb anzeigen. Außerdem vermeiden wir auf diese Weise, Ihnen Produkte anzuzeigen, die gegebenenfalls in Ihrer Region nicht verfügbar sind.
+* Statistik: Diese Techniken ermöglichen es uns, pseudonyme Statistiken zur Nutzung unserer Dienste zu erstellen. Dadurch können wir beispielsweise bestimmen, auf welche Weise wir unsere Webseite oder die Lidl App noch besser auf die Gewohnheiten der Nutzer anpassen können. Wir nutzen Ihre IP-Adresse sowie Online-Kennungen, Logfiles und netzwerkbasiert Ihren Standort zur Vorbeugung von Missbrauch sowie Verhinderung und Erkennung etwaiger Sicherheitsverletzungen und sonstiger verbotener oder rechtswidriger Aktivitäten. Wenn Sie sich zum Beispiel von einem neuen/ unbekannten Gerät aus einloggen, können wir Sie über einen solchen Anmeldeversuch informieren.
+* Marketing - Eigenwerbung: Hierdurch können wir und andere Verantwortliche (s.o.) passende Werbeinhalte anzeigen, die auf der Analyse des Nutzungsverhaltens und von Informationen aus Ihrem Kundenkonto (Alter, Geschlecht, Kaufverhalten auf den Lidl Webseiten bzw. Apps; gegebenenfalls Filial-Einkaufsdaten aus dem Dienst Lidl Plus) basieren. Ihr Nutzungsverhalten kann dabei auch über verschiedene Webseiten, Apps, Browser oder Endgeräte anhand einer User-ID (eindeutige Kennung) nachvollzogen werden.
+* Marketing - Werbung und Erfolgsmessung unter Einsatz des IAB TCF: Hierunter fallen Datenverarbeitungen zum Zwecke der personalisierten Werbung und Erfolgsmessung unter Einsatz des Werbenetzwerks IAB Europe Transparency & Consent Framework, an dem wir mittels eines von uns beauftragten Dienstleisters (ID 1184) teilnehmen und dessen Vorgaben und Richtlinien wir berücksichtigen.
 
   
 
-Ihre Einwilligung vorausgesetzt, werden in diesem Zusammenhang Daten über Sie teilweise auch durch den Werbepartner **The UK Trade Desk Ltd.**, c/o The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001, USA („TTD“) als **separat Verantwortlichen** zur Ausspielung personalisierter Werbung verarbeitet. Hierzu stellen wir TTD Segmente zur Verfügung (zusammen mit pseudonymisierten IDs), die wir nach Maßgabe Ihrer Einwilligung zur „Werbung und Erfolgsmessung unter Einsatz des IAB TCF“, ggf. in gemeinsamer Verantwortlichkeit mit der Virtual Minds GmbH, gebildet haben. TTD wird diese Segmente dann verwenden, um Ihnen personalisierte Werbung auf Drittmedien auszuspielen. Die mit Ihrer Zustimmung auf Ihrem Endgerät gesetzten (und ausgelesenen) Cookies können auch hierfür verwendet werden.
+Weitere Details zu den Verarbeitungszwecken finden Sie im Präferenzmanager.
 
   
 
-Sofern Sie dem zustimmen, erfolgen darüber hinaus mit den Marketing-Cookies verbundene Datenverarbeitungen zur **Werbung und Erfolgsmessung unter Einsatz des IAB TCF** auch zur **Erfolgsmessung**. Hierzu erfassen wir in gemeinsamer Verantwortlichkeit mit der Virtual Minds GmbH die unten näher spezifizierten Daten über Ihr Kaufverhalten in unseren Onlineshops und stellen Angaben hierzu unserem Werbepartner **TTD** zur Verfügung. TTD verarbeitet diese Daten sodann als **separat Verantwortlicher**, um den Erfolg der Werbekampagnen seiner Auftraggeber zu messen, die über TTD ausgespielt wurden. Aggregierte Berichte hierzu kann TTD dann auch den Werbetreibenden zur Verfügung stellen.
-
-13.2 Zwecke/ Datenkategorien/ Google Signale
-
-Der Einsatz von Cookies und den anderen Technologien zur Verarbeitung von Nutzungsdaten dient - je nach Kategorie des Cookies bzw. der anderen Technologie - folgenden Zwecken:
-
-* **Technisch notwendig:** Dies sind Cookies und ähnliche Methoden, ohne die Sie unsere Dienste nicht nutzen können (etwa zur richtigen Anzeige unserer Webseite einschließlich der Schriftart und Farbe, zur Bereitstellung der von Ihnen gewünschten Funktionen und zur Berücksichtigung Ihrer Einstellungen wie Ihrer getroffenen Auswahl zu Cookies und ähnlichen Technologien und den damit verbundenen Datenverarbeitungen, zum Speichern Ihrer Anmeldung im Login-Bereich, um beim Online-Shopping den Warenkorb zu befüllen, etc.).
-* **Komfort:** Mithilfe dieser Techniken können wir Ihre tatsächlichen oder vermuteten Präferenzen für die komfortable Nutzung unserer Webseite berücksichtigen. Beispielsweise können wir anhand Ihrer Einstellungen unsere Webseite in einer für Sie passenden Sprache anzeigen und Ihnen auch beim erneuten Besuch unsere Homepage nicht abgeschlossene Bestellungen im Warenkorb anzeigen. Außerdem vermeiden wir auf diese Weise, Ihnen Produkte anzuzeigen, die ggf. in Ihrer Region nicht verfügbar sind.
-* **Statistik:** Diese Techniken ermöglichen es uns, pseudonyme Statistiken zur Nutzung unserer Dienste zu erstellen. Dadurch können wir beispielsweise bestimmen, auf welche Weise wir unsere Webseite noch besser auf die Gewohnheiten der Nutzer anpassen können.
-* **Marketing – Eigenwerbung**: Hierdurch können wir und andere Verantwortliche Ihnen und anderen Nutzern passende Werbeinhalte anzeigen, die auf der Analyse des Nutzungsverhaltens und von Informationen aus Ihrem Kundenkonto (zum Beispiel Ihrem Namen, Ihr Alter, Ihr Geschlecht, Ihr Kaufverhalten auf www.lidl.de) basieren. Ihr Nutzungsverhalten kann dabei auch über verschiedene Webseiten, Browser oder Endgeräte anhand einer User-ID (eindeutige Kennung) nachvollzogen werden.
-* **Marketing - Werbung und Erfolgsmessung unter Einsatz des IAB TCF:** Hierdurch können wir jeweils gemeinsam mit Criteo sowie der Virtual Minds GmbH mit Ihrer Einwilligung ein individuelles Profil über Sie und/oder Zielgruppen, in die wir Sie einordnen (sog. Segmente), erstellen, um Dritten die Ausspielung personalisierter Werbung auf Drittmedien über die Ihnen und Ihren Haushaltsangehörigen zugeordneten Endgeräte zu ermöglichen. . Im Zusammenhang mit dem Ausspielen dieser Werbung erfolgen Verarbeitungen mit Ihrer Einwilligung auch zur Messung der Werbung (insbesondere um die Leistung und den Erfolg einer Werbung zu ermitteln), zur Zielgruppenforschung (insbesondere um mehr über die Zielgruppen zu erfahren, an welche die Werbung ausgespielt wird), zur Entwicklung von Dienstleistungen sowie zur technischen Sicherung und Optimierung dieser Werbeausspielungen. Sofern ein Haushaltsangehöriger von Ihnen ebenso seine Einwilligung hierzu erteilt hat, verknüpfen wir Ihre Daten auch mit denen Ihres Haushaltsangehörigen und verarbeiten diese mit ihrer Einwilligung zu den genannten Zwecken bzw. verarbeiten Ihre Daten zu den von ihrem Haushaltsangehörigen gewünschten Zwecken. Teilweise werden Segmente, die wir gemeinsam mit der Virtual Minds GmbH nach Maßgabe Ihrer Einwilligung zur „Werbung und Erfolgsmessung unter Einsatz des IAB TCF“ gebildet haben, auch unserem Werbepartner The UK Trade Desk Ltd. zur Verfügung gestellt, damit dieser unter Verwendung der Segmente als separat Verantwortlicher personalisierte Werbung auf Drittmedien ausspielen kann. Zudem erfassen wir gemeinsam mit der Virtual Minds GmbH Angaben über Ihr Kaufverhalten in unseren Onlineshops, damit unser Werbepartner The UK Trade Desk Ltd. („TTD“) den Erfolg von Werbekampagnen seiner Auftraggeber messen kann, die über TTD ausgespielt wurden. Wenn Sie ein Produkt in unseren Onlineshops erworben haben, für das TTD eine Werbekampagne ausgespielt hat, stellen wir TTD hierzu auf Anfrage Angaben über Ihr Kaufverhalten zur Verfügung. In der Folge kann TTD sodann ermitteln, ob Ihnen oder einem Haushaltsangehörigen von Ihnen vor dem Erwerb eine Werbung für das Produkt über TTD angezeigt wurde und auf dieser Basis den Erfolg (verschiedener) Werbekampagnen messen. Aggregierte Berichte hierzu kann TTD dann auch den Werbetreibenden zur Verfügung stellen. Die einzelnen Zwecke und Funktionen und die ihnen zugeordneten Verarbeitungen sind in der Einwilligungserklärung näher spezifiziert, die Sie unter der Funktion [Voreinstellungen verwalten](https://www.lidl.de/c/cookie-hinweise/s10005399?hidebanner=true42) einsehen können.
+10.2.2 Ausgewählte Dienste
 
   
 
-Eine **Informationsübersicht** zu den eingesetzten Cookies und anderen Techniken nebst den jeweiligen Verarbeitungszwecken, der jeweiligen Speicherdauer und etwa eingebundenen Drittanbietern finden Sie [hier](https://www.lidl.de/c/cookie-bestimmungen/s10005399).
+Google Ads Kundenabgleich:
 
   
+
+Wir setzen in Lidl Plus den Dienst „Google Ads Kundenabgleich“ der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (im Folgenden „Google“) ein. Dabei werden unter Zuhilfenahme der von uns genutzten Tracking-Techniken Listen mit Nutzerdaten an Server von Google gesendet. Google vergleicht dann, ob die übermittelten Nutzerdaten mit Daten von Google-Kunden übereinstimmen, und erstellt anschließend Zielgruppen, die für die Aussteuerung von Werbeanzeigen genutzt werden können. Die Werbeanzeigen können dabei innerhalb des Google-Netzwerks (YouTube, GMail oder innerhalb der Suchmaschine) als auch geräteübergreifend ausgespielt werden (sogenanntes Remarketing bzw. Retargeting).
+
+  
+
+Wir haben mit Google für die Nutzung von Google Ads Kundenabgleich einen Auftragsverarbeitungsvertrag gem. Art. 28 Absatz 3 DSGVO abgeschlossen. Durch diesen Vertrag versichert Google, die personenbezogenen Daten weisungsgebunden im Auftrag zu verarbeiten und den Schutz der Rechte der betroffenen Person zu gewährleisten.
+
+  
+
+Informationen darüber, wie personenbezogene Daten von Google verwendet werden, die über die Einbindung der Dienste an Google übermittelt werden, sowie hinsichtlich Ihrer Einstellungsmöglichkeiten für personalisierte Werbung und Datenerhebung finden Sie [hier](https://support.google.com/My-Ad-Center-Help/answer/12155451?hl=de) und [hier](https://support.google.com/My-Ad-Center-Help/answer/12155764?hl=de). Allgemeine Informationen zur Datenverarbeitung durch Google finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy?hl=de).
+
+  
+
+Meta/ Facebook:
+
+  
+
+Facebook Custom Audience ermöglicht es uns, Zielgruppen zu bilden und personalisierte Werbeanzeigen auf Facebook bedarfsgerecht zu gestalten und auszuspielen.
+
+Dabei werden Listen mit Nutzerdaten bei Facebook hochgeladen. Facebook vergleicht dann, ob die übermittelten Nutzerdaten mit Daten von Facebook-Nutzern übereinstimmen, und erstellt anschließend Zielgruppen, die für die Aussteuerung von Werbeanzeigen auf Facebook genutzt werden können. Mit Custom Audience stellen wir sicher, dass nur solchen Personen Werbeanzeigen auf Facebook angezeigt werden, die zuvor unsere App besucht bzw. Interesse an unseren Produkten haben. Facebook verwendet dabei die Daten auch für eigene Werbezwecke sowie für Werbezwecke Dritter.
+
+  
+
+Weitere ausgewählte Datenverarbeitungen im Zusammenhang mit der Eigenwerbung:
+
+  
+
+Wir setzen mit Ihrer Einwilligung spezielle Techniken von Partnern ein, damit wir Ihr Surfverhalten erfassen und auf Sie abgestimmte Werbung auf unserer Webseite, der Lidl App oder der Plattform unserer Partner anzeigen können (Facebook, Criteo. TTD, RTB House und TikTok) und wir nachvollziehen können, welche Partner Sie zu uns für einen eventuellen Kauf geführt haben (AWIN, lead alliance, Ladenzeile, Solute, Kelkoo und moebel.de). Dabei können unsere Partner auch die auf diesen Diensten erhobenen Daten mit eigenen Datenbeständen abgleichen.
+
+  
+
+Mittels Microsoft Advertising und Google Advertising können Werbeanzeigen gezielt über die Netzwerke von Microsoft und Google ausgespielt (z.B. bei Suchmaschinen und E-Mail-Programmen), optimiert sowie Aktivitäten von Nutzern auf unserer Webseite nachverfolgt werden, wenn diese über Werbeanzeigen auf unsere Webseite gelangt sind. Mittels Microsoft Clarity können Nutzerinteraktionen mit unseren Diensten nachvollzogen und visualisiert werden.
+
+  
+
+Mit den Microsoft- und Google Advertising-Diensten sammeln wir auch Informationen, mit denen wir Zielgruppen anhand von Remarketing-Listen nachverfolgen können. Durch Microsoft Advertising und Google Advertising kann erkannt werden, dass diese Dienste besucht wurden und bei einer späteren Nutzung von Microsoft- oder Google-Netzwerken kann eine Werbeanzeige ausgespielt werden. Die Informationen dienen außerdem dazu, Conversion-Statistiken zu erstellen, d.h. zu erfassen, wie viele Nutzer nach Anklicken einer Werbeanzeige auf diese Dienste gelangt sind. Wir erfahren hierdurch die Gesamtanzahl der Nutzer, die auf unsere Werbeanzeige geklickt haben und zu diesen Diensten weitergeleitet wurden. Wir erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.
+
+  
+
+10.3 Datenkategorien
 
 Im Rahmen des Einsatzes von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten werden abhängig von der Zwecksetzung insbesondere die folgenden Arten personenbezogener Daten verarbeitet:
 
-**Technisch notwendig:**
+  
+
+**Technisch notwendig**:
 
 * Benutzereingaben, um Eingaben über mehrere Unterseiten zu behalten (z.B. Übertragen ausgewählter Waren in den Warenkorb, Auswahl Ihrer präferierten Filiale im Lidl Filialfinder);
-* Authentifizierungsdaten zur Identifizierung eines Benutzers nach Anmeldung, um bei weiteren Besuchen Zugang zu autorisierten Inhalten zu erhalten (z.B. Zugang zum My Lidl Kundenkonto);
+* Authentifizierungsdaten zur Identifizierung eines Benutzers nach Anmeldung, um bei weiteren Besuchen Zugang zu autorisierten Inhalten zu erhalten (z.B. Zugang zum Lidl Plus-Kundenkonto);
 * sicherheitsrelevante Ereignisse (z.B. Erkennung oft fehlgeschlagener Anmeldeversuche);
 * erforderliche Daten zur Wiedergabe von Multimedia-Content (z.B. Abspielen von durch den Nutzer ausgewählten (Produkt-) Videos);
-* Auswahl zu Cookies und ähnlichen Technologien und den damit verbundenen Datenverarbeitungen.
+* Informationen zur richtigen Anzeige unserer Webseite einschließlich der Schriftart und Farbe/, zur Bereitstellung der von Ihnen gewünschten Funktionen und zur Berücksichtigung Ihrer Einstellungen wie Ihrer getroffenen Auswahl zu Cookies und ähnlichen Techniken, zum Speichern Ihrer Anmeldung im Login-Bereich, etc.
 
-**Komfort:**
+**Komfort**:
 
-* Einstellungen der Benutzeroberflächenanpassung, die nicht mit einer dauerhaften Kennung verknüpft ist (z.B. die aktive Sprachauswahl oder die konkrete Darstellung von Suchanfragen oder der Karten im Filialfinder).
-* In den Warenkorb abgelegte Waren vor Abschluss der Bestellung, wenn Sie zwischenzeitlich den Online-Shop verlassen.
+* Einstellungen der Benutzeroberflächenanpassung, die nicht mit einer dauerhaften Kennung verknüpft sind (z.B. die Sprachauswahl oder die konkrete Darstellung von Suchanfragen oder der Karten im Filialfinder).
+* In den Warenkorb abgelegte Waren vor Abschluss der Bestellung, wenn Sie zwischenzeitlich diese Dienste verlassen.
 
-**Statistik:**
+**Statistik**:
 
-* Pseudonymisierte Nutzungsprofile mit Informationen über die Benutzung unserer Webseite. Diese beinhalten insbesondere:
 * Browser-Typ/ -Version,
 * verwendetes Betriebssystem,
-* Referrer-URL (die zuvor besuchte Seite),
-* Hostname des zugreifenden Rechners (IP-Adresse),
+* die zuvor besuchte Seite (Referrer-URL),
+* Hostname des zugreifenden Rechners (IP-Adresse; diese wird regelmäßig anonymisiert, sodass ein Rückschluss auf Ihre Person grundsätzlich ausgeschlossen ist),
 * Uhrzeit der Serveranfrage,
-* individuelle User-ID undausgelöste Events auf der Webseite (Surfverhalten).
-* Die IP-Adresse wird dabei regelmäßig anonymisiert, sodass darüber ein Rückschluss auf Ihre Person grundsätzlich ausgeschlossen ist.
-* Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, etc.) nur mit Ihrer ausdrücklichen Einwilligung (siehe z.B. Ziffer 12 dieser Datenschutzbestimmungen) zusammen. Anhand der User-ID an sich ist uns kein Rückschluss auf Ihre Person möglich.
+* individuelle User-ID und ausgelöste Events auf der Webseite (Surfverhalten). Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, etc.) nur mit Ihrer ausdrücklichen Einwilligung (siehe z.B. Ziffer 7. dieser Datenschutzhinweise) zusammen. Anhand der User-ID an sich ist uns kein Rückschluss auf Ihre Person möglich.
 
-**Marketing - Eigenwerbung:**
+**Marketing - Eigenwerbung**:
 
-* Pseudonymisierte Nutzungsprofile mit Informationen über die Benutzung unserer Webseite. Diese beinhalten insbesondere:
-* IP-Adresse,
-* individuelle User-ID (einschließlich Cookie-Kennung);
+  
+
+* Informationen über die Benutzung unserer Webseite, insbesondere:
+* IP-Adresse (diese wird regelmäßig anonymisiert, sodass darüber ein Rückschluss auf Ihre Person grundsätzlich ausgeschlossen ist),
+* individuelle User-ID (einschließlich Cookie-Kennung) oder andere Identifikatoren (E-Mail-Adresse, Telefonnummer, Anschrift); Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, Alter, Geschlecht, Kaufverhalten auf den Lidl Webseiten bzw. Apps etc.) nur mit Ihrer ausdrücklichen Einwilligung zusammen. Anhand der User-ID alleine ist uns kein Rückschluss auf Ihre Person möglich. Wir teilen die User-ID und die zugehörigen Nutzungsprofile gegebenenfalls über die Anbieter von Werbenetzwerken mit Dritten.
 * potenzielle Produktinteressen,
 * Zugriffsinformationen,
 * Gerätekennungen,
 * Informationen über Geräte- und Browsereinstellungen,
 * Maus-/ Scrollbewegungen,
 * ausgelöste Events auf der Webseite (Surfverhalten).
-* Die IP-Adressen werden dabei regelmäßig anonymisiert, sodass darüber ein Rückschluss auf Ihre Person grundsätzlich ausgeschlossen ist.
-* Wir führen die User-ID mit weiteren Daten von Ihnen (z.B. Name, E-Mail-Adresse, Alter, Geschlecht, Kaufverhalten auf [www.lidl.de](https://www.lidl.de/) etc.) nur mit Ihrer ausdrücklichen Einwilligung (siehe z.B. Ziffer 12 dieser Datenschutzbestimmungen) zusammen. Anhand der User-ID an sich ist uns kein Rückschluss auf Ihre Person möglich. Wir teilen die User-ID und die zugehörigen Nutzungsprofile ggfs. über die Anbieter von Werbenetzwerken mit Dritten.
+* Für die In-App-Analyse und die Anzeige von personalisierter Werbung nutzen wir folgende Werbeidentifikatoren: (i) IDFA (Identifier for Advertising = Werbeidentifikator) bei iOS-Geräten oder (ii) die Android-Werbe-ID oder die (iii) Huawei-ID, die IP-/ MAC-Adresse, den HTTP-Header sowie E-Mail-Adresse, Telefonnummer, Anschrift und einen Fingerprint Ihres Endgeräts (zusätzlich: Zeitpunkt des Zugriffs, Land, Sprache, lokale Einstellungen, Betriebssystem und -version sowie die App-Version). Darüber hinaus beziehen wir in diese Analyse die Nutzer-Device- und Webaktivitsätinformationen sowie App- und Event-Token ein. Die Verarbeitung dieser Daten findet ausschließlich auf pseudonymisierter Basis statt. Die IDFA oder Google GAID, die Android-Werbe-ID und die Huawei-ID können Sie über Ihr Betriebssystem jederzeit zurücksetzen oder deaktivieren. Im Falle, dass die IDFA nicht verfügbar ist, verwenden wir für die Zuordnung der Installationen unserer App zu einer Werbekampagne das SkAdNetwork (Attributions-API von Apple).
+* Filial-Einkaufsdaten aus dem Loyalty-Programm Lidl Plus
+
+**Marketing – Werbung und Erfolgsmessung unter Einsatz des IAB TCF**:
 
   
-
-**Marketing – Werbung und Erfolgsmessung unter Einsatz des IAB TCF:**
 
 * Daten über Ihre Nutzung unserer Webseite sowie der Drittmedien, z.B.
 * Inhalte von Webseiten,
 * Klickwege,
 * Einblendungen von und Interaktionen mit Werbeanzeigen
 * Ihre IP-Adresse
-* Der für Sie generierten sog. TC-String (eine codierte Zeichenkette, die Informationen über die Erteilung und den Umfang ihrer Einwilligung enthält)
+* Der für Sie generierte sogenannte TC-String (eine codierte Zeichenkette, die Informationen über die Erteilung und den Umfang Ihrer Einwilligung enthält)
 * Ihre Standortdaten
 * Daten über die von Ihnen verwendeten Endgeräte
-* Sofern ein Haushaltsangehöriger von Ihnen ebenso seine Einwilligung hierzu erteilt hat, verknüpfen wir Ihre Daten auch mit denen Ihres Haushaltsangehörigen, insb. mit Daten über die von ihm verwendeten Endgeräte
+* Sofern ein Haushaltsangehöriger von Ihnen ebenso seine Einwilligung hierzu erteilt hat: Daten Ihres Haushaltsangehörigen, insbesondere über die von ihm verwendeten Endgeräte
 * Hieraus abgeleitete Merkmale (z.B. Altersgruppe, Produktinteresse);
-* Daten über Ihr Kaufverhalten in unseren Onlineshops (insb. sog. EAN-Nummern, also die Produktkennzeichnung, die Anzahl der von Ihnen erworbenen Produkte sowie den Zeitpunkt des Erwerbs)
+* Daten über Ihr Kaufverhalten auf den Lidl-Webseiten bzw. -Apps (insbesondere sogenannte EAN-Nummern, also die Produktkennzeichnung, die Anzahl der von Ihnen erworbenen Produkte sowie den Zeitpunkt des Erwerbs)
+* Filial-Einkaufsdaten aus dem Loyalty-Programm Lidl Plus
+* Die Ihnen zugeordneten Online-IDs, unter anderem im Zusammenhang mit den Identifizierungsverfahren Utiq (insbesondere das Sie betreffende Netzwerk-Signal, der Ihnen zugeordnete Consent Pass, der martechpass und der adtechpass) und EUID (insbesondere die für sie berechnete EUID).
 
-Jeweils, soweit sie den einzelnen Zwecken oder Funktionen, für die diese Informationen verarbeitet werden, zugestimmt haben.
+Speziell für die Lidl App:
 
   
 
-Diese Webseite verwendet die Funktion „**Google Signale**“, um mit Google Analytics erstellte Statistik-Berichte um eine geräteübergreifende Auswertung von Besucherströmen zu erweitern. Google Signale findet nur bei Nutzern Anwendung, die bei den Sessions in einem Google-Konto eingeloggt sind und in dem Google-Konto die Funktion „Personalisierte Werbung“ aktiviert haben. Durch Google Signale erhalten wir keine tiefergehenden Erkenntnisse über bestimmte Einzelpersonen oder Möglichkeiten Sie oder das von Ihnen eingesetzte Endgerät eindeutig zu identifizieren. Wir bekommen von Google lediglich allgemeine demografische Informationen (Geschlecht, Altersgruppe), mögliche Interessen und gegebenenfalls die Information, ob stationäre Lidl-Filialen besucht wurden, zur Verfügung gestellt. Wenn Sie diese Funktion für sich deaktivieren möchten, können Sie dies in Ihrem Google-Konto entsprechend einstellen. Weitere Informationen zu den Anpassungsmöglichkeiten der Google-Werbeeinstellungen finden Sie unter [https://support.google.com/ads/answer/2662856](https://support.google.com/ads/answer/2662856). Weiter Informationen zu Google Signale finden Sie unter [https://support.google.com/analytics/answer/7532985?hl=de](https://support.google.com/analytics/answer/7532985?hl=de).
+Um Ihnen interessenbasierte Informationen anzeigen zu können, ist es erforderlich, die vorstehend erwähnte Informationen Ihnen als Person zuordnen zu können. Zu diesem Zweck stellen wir ab dem Zeitpunkt des Abschlusses der Lidl Plus-Registrierung eine Verbindung zu Ihrer Kundennummer her. Ihre Einwilligung in die Bereitstellung personalisierter Informationen erfasst auch diesen Verarbeitungsschritt.
 
-13.3 Rechtsgrundlage/ Empfänger/ Speicherdauer
+  
 
-Rechtsgrundlage für den Einsatz von Komfort-, Statistik- und Marketing-Cookies ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO i.V.m. § 25 Abs. 1 S. 1 TTDSG. Rechtsgrundlage für den Einsatz von technisch notwendigen Cookies ist Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h., wir verarbeiten Ihre Daten zur Bereitstellung unserer Dienste im Zuge der Vertragsanbahnung bzw. Vertragsabwicklung.
+10.4 Rechtsgrundlage/ Empfänger/ Speicherdauer
 
-**Sie können Ihre Einwilligung gegenüber allen durch sie Berechtigten (also neben uns auch der Lidl Stiftung & Co. KG und der Criteo SA und der Virtual Minds GmbH) jederzeit mit Wirkung für die Zukunft widerrufen/ anpassen, ohne dass die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung berührt wird. Klicken Sie dazu einfach** [**hier**](https://www.lidl.de/c/cookie-hinweise/s10005399?hidebanner=true) **und treffen Sie Ihre Auswahl. Durch das Entfernen der entsprechenden Häkchen widerrufen Sie einfach und unkompliziert Ihre Einwilligung für die jeweiligen Verarbeitungszwecke.**
+Rechtsgrundlagen:
+
+Rechtsgrundlage für den Einsatz von Komfort-, Statistik- und Marketing-Cookies ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO i.V.m. § 25 Absatz 1 Satz 1 TDDDG. Rechtsgrundlage für den Einsatz von technisch notwendigen Cookies ist Artikel 6 Absatz 1 Buchstabe b) DSGVO, d.h., wir verarbeiten Ihre Daten zur Bereitstellung unserer Dienste im Zuge der Vertragsanbahnung bzw. Vertragsabwicklung.
+
+  
+
+Facebook stützt die Verarbeitung der Daten für Facebook Custom Audience auf die Einwilligung der Facebook-Nutzer gemäß Art. 6 Absatz 1 Buchstabe a) DSGVO und die berechtigten Interessen von Facebook gemäß Art. 6 Absatz 1 Buchstabe f) DSGVO, um Werbekunden von Facebook genaue und zuverlässige Berichte bzw. genaue Leistungsstatistiken zu gewährleisten. Mehr Informationen dazu können Sie in den [Datenschutzinformationen von Facebook](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0) finden oder [hier](https://www.facebook.com/about/privacy/legal_bases). Den Datenschutzbeauftragten von Facebook können Sie [hier](https://www.facebook.com/help/contact/540977946302970) kontaktieren.
+
+  
 
   
 
 Empfänger/ Kategorien von Empfängern:
 
-Wir setzen im Rahmen der Datenverarbeitungen mittels Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten unter Umständen spezialisierte Dienstleister, insbesondere aus dem Bereich Online-Marketing, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet. Sämtliche in unseren [Cookie-Hinweisen](https://www.lidl.de/c/cookie-bestimmungen/s10005399) als Anbieter aufgeführten Unternehmen sind, sofern sie nicht am Anfang dieser Ziffer als (gemeinsame) Verantwortliche benannt wurden, als Auftragsverarbeiter für uns tätig.
+Wir setzen im Rahmen der Datenverarbeitungen mittels Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten unter Umständen spezialisierte Dienstleister, insbesondere aus dem Bereich Online-Marketing, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet. Sämtliche in unseren Cookie-Hinweisen als Anbieter aufgeführten Unternehmen sind, sofern sie nicht in diesen Datenschutzhinweise als (gemeinsame) Verantwortliche benannt wurden, als Auftragsverarbeiter für uns tätig.
 
   
 
-Im Rahmen unserer Zusammenarbeit mit der Google Ireland Limited, der Facebook Ireland Limited, der The UK Trade Desk Limited, der Microsoft Ireland Operations Limited und der TikTok Information Technologies UK Limited werden die oben genannten Daten zu Statistik- und Marketingzwecken in der Regel auch auf Servern in den USA und in Großbritannien verarbeitet.
+Im Rahmen unserer Zusammenarbeit mit der Google Ireland Limited, der Meta Platforms Ireland Limited, der The UK Trade Desk Limited, der Microsoft Ireland Operations Limited und der TikTok Information Technologies UK Limited werden die oben genannten Daten zu Statistik- und Marketingzwecken in der Regel auch auf Servern in den USA und in Großbritannien verarbeitet (s. hierzu die gesonderten Erläuterungen zu Drittlandtransfers unter Ziffer 3).
 
   
 
-Sofern von Ihrer jeweiligen Einwilligung abgedeckt, werden Ihre Daten wie oben beschrieben auch von der Lidl Stiftung & Co. KG als separat Verantwortliche erhoben. Sofern Sie in eine Verarbeitung zu dem Zweck „Marketing - Eigenwerbung“ eingewilligt haben, teilen wir Ihre User-ID und die zugehörigen Nutzungsprofile ggfs. über die Anbieter von Werbenetzwerken mit Dritten.
-
-  
-
-Sofern Sie in die Verarbeitung Ihrer Daten zu dem Zweck „**Marketing - Werbung und Erfolgsmessung unter Einsatz des IAB TCF**“ eingewilligt haben, werden Ihre Daten wie oben beschrieben auch von Criteo SA sowie der Virtual Minds GmbH als jeweils gemeinsam Verantwortliche verarbeitet. In diesem Zusammenhang erhalten Criteo SA und die Virtual Minds GmbH die oben genannten Daten über Sie. Zur Ausspielung der Werbung außerhalb von lidl.de arbeiten wir zudem mit den Werbepartnern The UK Trade Desk Ltd. \[c/o The Trade Desk, Inc.42 N. Chestnut Street Ventura, CA 93001\], Active Agent \[Virtual Minds GmbH, Ellen-Gottlieb-Straße 16, D-79106 Freiburg im Breisgau\] und DV360 \[DV360 Trakken GmbH Zirkusweg 1, 20359 Hamburg\] zusammen. Diese sind nur bei den Verarbeitungen im Zusammenhang mit der Ausspielung der Werbeanzeigen auf den Drittmedien und den damit zusammenhängenden (technischen) Funktionen beteiligt. Wir geben diesen Werbepartner lediglich Kennziffern weiter, die nur wir einem bestimmten Nutzungsverhalten – eingeteilt in bestimmte Kunden- oder Nutzungskategorien (Segmente) – zuordnen können. Informationen zu Ihrem individuellen Nutzungsverhalten werden an diese Werbepartner nicht weitergereicht. Des Weiteren sind auch noch weitere Auftragsverarbeiter i.S.d. Art. 28 DSGVO mit in die Werbeausspielung eingebunden, die uns insbesondere bei der Planung, Aussteuerung und Abwicklung der jeweiligen Werbekampagne unterstützen.
-
-Darüber hinaus werden Ihre Daten, sofern Sie der Verarbeitung zugestimmt haben, wie oben beschrieben von unserem Werbepartner The UK Trade Desk Ltd. (c/o The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001) zur Erfolgsmessung von Werbekampagnen und teilweise auch zur Ausspielung personalisierter Werbung als separat Verantwortlicher verarbeitet. In diesem Zusammenhang erhält The UK Trade Desk Ltd. insb. Segmente, denen Sie zugeordnet sind, pseudonymisierte IDs sowie die oben genannten Kaufverhaltensdaten über Sie.
+Sofern Sie in die Verarbeitung Ihrer Daten zu dem Zweck „Marketing - Werbung und Erfolgsmessung unter Einsatz des IAB TCF“ eingewilligt haben, werden Ihre Daten wie in der Einwilligung beschrieben (siehe auch im Präferenzmanager) an verschiedene Empfänger übermittelt. Diese fungieren, sofern sie nicht oben als Verantwortliche definiert sind, als Auftragsverarbeiter. Daneben sind auch noch weitere Auftragsverarbeiter im Sinne des Artikels 28 DSGVO mit in die Werbeausspielung eingebunden, die uns insbesondere bei der Planung, Aussteuerung und Abwicklung der jeweiligen Werbekampagne unterstützen.
 
   
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
-Die Speicherdauer für Cookies können Sie unseren [Cookie-Hinweisen](https://www.lidl.de/c/cookie-bestimmungen/s10005399) entnehmen. Soweit in der Spalte „Ablauf“ die Angabe „persistent“ erfolgt, wird der Cookie jeweils dauerhaft bis zum Widerruf der entsprechenden Einwilligung gespeichert.
-
-14\. Widerrufs-/ Opt-Out-Möglichkeit
-
-Die in Ziffer 13 erläuterten Targeting-Technologien können Sie zusätzlich zu den in Ziffer 13 genannten Möglichkeiten auch durch eine entsprechende Cookie-Einstellung in Ihrem Browser unterbinden, indem Sie bestimmte oder alle Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann eventuell nicht alle Funktionen dieser Website nutzen können.
-
-Daneben haben Sie die Möglichkeit, interessenbasierte personalisierte Werbung mit Hilfe des sog. [Präferenzmanagers](http://www.youronlinechoices.com/de/praferenzmanagement/) zu unterbinden.
-
-15\. Übermittlung an Empfänger in einem Drittland
-
-Sofern wir Daten an Empfänger in einem Drittland (Sitz außerhalb des Europäischen Wirtschaftsraumes) übermitteln, können Sie dies den Angaben zu den Empfängern/ Kategorien von Empfängern im Rahmen der Beschreibung der jeweiligen Datenverarbeitung entnehmen. Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutzstandard, der dem Niveau im europäischen Wirtschaftsraum vergleichbar ist. Eine Liste dieser Länder können Sie unter [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF) abrufen. Soweit in einem Land kein vergleichbarer Datenschutzstandard gegeben ist bzw. der entsprechende Dienstleister nicht den Bedingungen des Angemessenheitsbeschlusses entspricht, achten wir darauf, dass der Datenschutz durch andere Maßnahmen ausreichend gewährleistet wird. Möglich ist dies z.B. über bindende Unternehmensvorschriften, [Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_de), Zertifikate, oder anerkannte Verhaltenskodizes. Bitte wenden Sie sich an unseren Datenschutzbeauftragten (Ziffer 21), wenn Sie hierzu nähere Informationen erhalten möchten.
-
-16\. Eingebundene Inhalte Dritter
-
-Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+Die Speicherdauer für Cookies können Sie unseren Cookie-Hinweisen entnehmen. Soweit in der Spalte „Ablauf“ die Angabe „persistent“ erfolgt, wird der Cookie jeweils dauerhaft bis zum Widerruf der entsprechenden Einwilligung gespeichert.
 
   
 
-Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilt haben, haben Sie nachfolgend die Möglichkeit, diese jederzeit zu widerrufen. Sobald sie den nachfolgenden Schalter deaktiviert haben, wird bei einem erneuten Aufruf einer unserer Seiten, die ein YouTube Video enthält, Ihre Zustimmung erneut abgefragt.
+Die Ihnen zugeordneten Online-Kennungen sind wie folgt gültig: martechpass 90 Tage, adtechpass 24 Stunden, consentpass 90 Tage, Netzwerksignal 90 Tage, EUID 30 Tage – anschließend werden sie gelöscht und in Abhängigkeit von Ihrer Einwilligung gegebenenfalls neu erstellt.
 
   
 
- Zustimmung zum abspielen von YouTube-Videos
+Von Criteo SA werden Ihre Daten jeweils für maximal 13 Monate gespeichert.
 
-17\. Bing Maps
+  
 
-Auf dieser Webseite nutzen wir das Angebot von Bing Maps. Dadurch können wir Ihnen interaktive Karten direkt in der Website anzeigen und ermöglichen Ihnen die komfortable Nutzung der Karten-Funktion, um z.B. Lidl-Filialen in Ihrer Nähe zu finden.
+In einer Facebook Custom Audience können Ihre Daten maximal 180 Tage bleiben. Nach 180 Tagen werden Ihre Daten entfernt, die zur Custom Audience der Webseite gehören, falls sie die Webseite nicht erneut besuchen.
 
-Die Nutzung von Bing Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Artikel 6 Absatz 1 Buchstabe f) DSGVO dar.
+  
 
-Durch den Besuch unserer Website erhält der Anbieter von Bing Maps, die Microsoft Corporation, die Information, dass Sie die entsprechende Unterseite unserer Website aufgerufen haben. Zur Nutzung der Funktionen von Bing Maps ist es im Rahmen der Internetkommunikation notwendig, Ihre IP-Adresse zu verarbeiten. Diese wird in der Regel auf einem Server von Microsoft in den USA verarbeitet.
+10.5 Widerrufs-/ Opt-Out-Möglichkeit/ Weitere Informationen
 
-Auf die konkreten Datenverarbeitungen durch Bing Maps haben wir keinen Einfluss. Weitere Informationen zu Zweck und Umfang der Datenverarbeitungen durch Bing Maps erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen des Anbieters von Bing Maps: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399 USA, [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
+Sie können jederzeit Ihre Einwilligung widerrufen, zum Beispiel über den Präferenzmanager. Sie können den Widerruf wahlweise gegenüber uns oder den jeweils gemeinsam mit uns Verantwortlichen erklären.
 
-18\. Google reCaptcha
+  
 
-Zum Schutz Ihrer Daten und zur Sicherung der Übermittlung von Formularen, insbesondere im Rahmen der Gewinnspielteilnahme, nutzen wir auf Grundlage des Artikel 6 Absatz 1 Buchstabe f) DSGVO Google reCaptcha, ein Dienst der Google LLC („Google"). Unser berechtigtes Interesse folgt aus den dargestellten Zwecken. In diesem Zusammenhang wird durch eine Analyse diverser Informationen ermittelt, ob die Dateneingabe durch einen Menschen oder durch ein automatisiertes Programm erfolgt. Die erzeugten Informationen werden an einen Server von Google in den USA übertragen und dort verarbeitet. Die Erfassung und Auswertung ermöglichen uns oder Google nicht, Sie zu identifizieren. Insbesondere werden die Informationen nicht durch Google mit personenbezogenen Daten zu Ihnen zusammengeführt.
+Webseite:
 
-Weitere Informationen zu Google reCaptcha finden Sie unter [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de) oder [https://policies.google.com/terms?hl=de](https://policies.google.com/terms?hl=de).
+Die hier erläuterten Techniken können Sie auch durch eine entsprechende Cookie-Einstellung in Ihrem Browser unterbinden, indem Sie bestimmte oder alle Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann eventuell nicht alle Funktionen dieser Dienste nutzen können.
 
-19\. Versicherung Ihres Warenkorbs
+  
 
-Zwecke der Datenverarbeitung/ Rechtsgrundlage:
+Lidl App:
+
+Wenn Sie Ihre Einwilligung in das Tracking in der Lidl App widerrufen möchten, können sie dies jederzeit mit Wirkung für die Zukunft tun, indem Sie dies nach abgeschlossener Registrierung über das Opt-Out innerhalb der App unter „Mehr“ -> „Gesetzliche Informationen“ -> „App Tracking“ realisieren.
+
+  
+
+Sie können der Verwendung des Dienstes Custom Audiences global auf der [Webseite von Facebook](https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fsettings%2F%3Ftab%3Dads) widersprechen. Nach Anmeldung zu Ihrem Facebook-Konto gelangen Sie zu den Einstellungen für Facebook-Werbeanzeigen.
+
+  
+
+Sie können personalisierte Werbung bei Microsoft und Google deaktivieren oder individuell einstellen. Details hierzu finden Sie unter den jeweiligen Support-Seiten:
+
+* Microsoft: [https://about.ads.microsoft.com/de-de/ressourcen/richtlinien/personalisierte-anzeigen](https://about.ads.microsoft.com/de-de/ressourcen/richtlinien/personalisierte-anzeigen) und [https://account.microsoft.com/privacy/ad-settings/signedout](https://account.microsoft.com/privacy/ad-settings/signedout).
+* Google: [https://support.google.com/My-Ad-Center-Help/answer/12155451](https://support.google.com/My-Ad-Center-Help/answer/12155451).
+
+  
+
+Einstellungsmöglichkeiten für personalisierte Werbung finden Sie auch unter [https://youradchoices.com/](https://youradchoices.com/) und [hier](https://www.facebook.com/ads/website_custom_audiences/).
+
+  
+
+Ihre Einwilligung im Zusammenhang mit Utiq können Sie auch [hier](https://consenthub.utiq.com/) widerrufen und Ihre Einwilligung im Zusammenhang mit EUID können Sie auch [hier](https://www.transparentadvertising.eu/) widerrufen.
+
+  
+
+Weitere Informationen zu Datenverarbeitungen der im Folgenden aufgeführten Unternehmen und zur Ausübung Ihrer Betroffenenrechte finden Sie auch in den folgenden Datenschutzrichtlinien:
+
+* Meta (Facebook): [https://de-de.facebook.com/policy.php](https://de-de.facebook.com/policy.php)
+* RTB House: [https://www.rtbhouse.com/privacy-center/services-privacy-policy/](https://www.rtbhouse.com/privacy-center/services-privacy-policy/)
+* TikTok: [https://www.tiktok.com/legal/privacy-policy-row](https://www.tiktok.com/legal/privacy-policy-row)
+* AWIN: [https://www.awin.com/de/datenschutzerklarung](https://www.awin.com/de/datenschutzerklarung)
+* lead alliance: [https://www.lead-alliance.net/dataprotection2](https://www.lead-alliance.net/dataprotection2)
+* Ladenzeile: [https://company.ladenzeile.de/datenschutzerklaerung/](https://company.ladenzeile.de/datenschutzerklaerung/)
+* Solute: [https://www.solute.de/ger/datenschutz/](https://www.solute.de/ger/datenschutz/)
+* Kelkoo: [https://www.kelkoo.de/unternehmen/datenschutzrichtlinie/](https://www.kelkoo.de/unternehmen/datenschutzrichtlinie/)
+* moebel.de: [https://www.moebel.de/datenschutz](https://www.moebel.de/datenschutz)
+* Microsoft: [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)
+* Google: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de)
+* Criteo: [https://www.criteo.com/de/privacy/](https://www.criteo.com/de/privacy/)
+* Virtual Minds: [https://virtualminds.de/datenschutz/](https://virtualminds.de/datenschutz/)
+* The UK Trade Desk: [https://www.thetradedesk.com/de/privacy](https://www.thetradedesk.com/de/privacy)
+
+  
+
+Eine Informationsübersicht zu den einzelnen eingesetzten Cookies und ähnlichen Techniken nebst den jeweiligen Verarbeitungszwecken, der jeweiligen Speicherdauer und etwa eingebundenen Drittanbietern finden Sie hier. Weitere Details zu den Verarbeitungen finden Sie zudem im Präferenzmanager.
+
+  
+
+11\. Kartendienste
+
+**11.1 Bing Maps**
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Auf dieser Webseite nutzen wir das Kartenmaterial von Bing Maps, einem Dienst der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399 USA. Dadurch können wir interaktive Karten direkt auf der Webseite anzeigen und ermöglichen Ihnen die komfortable Nutzung der Karten-Funktion, um z.B. Lidl-Filialen in Ihrer Nähe zu finden.
+
+  
+
+Die Nutzung von Bing Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und einer leichten Auffindbarkeit der von uns auf der Webseite angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Artikel 6 Absatz 1 Buchstabe f) DSGVO dar.
+
+  
+
+Durch den Besuch unserer Webseite erhält der Anbieter von Bing Maps, die Microsoft Corporation, die Information, dass Sie die entsprechende Unterseite unserer Webseite aufgerufen haben. Zur Nutzung der Funktionen von Bing Maps wird im Rahmen der Internetkommunikation Ihre IP-Adresse verarbeitet. Diese wird in der Regel auf einem Server von Microsoft in den USA verarbeitet.
+
+  
+
+Auf die konkreten Datenverarbeitungen durch Bing Maps haben wir keinen Einfluss. Weitere Informationen zu Zweck und Umfang der Datenverarbeitungen durch Bing Maps erhalten Sie in den [Datenschutzerklärungen von Microsoft](https://privacy.microsoft.com/de-de/privacystatement). Dort erhalten Sie auch weitere Informationen zu Ihren Rechten und den Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre.
+
+  
+
+**11.2 Google Maps, Apple Maps, Huawei Map kit**
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+In unserer App haben Sie die Möglichkeit, den Kartendienst des Betriebssystems Ihres mobilen Endgeräts zu nutzen, um z.B. Lidl-Filiale in Ihrer Nähe zu finden. Dadurch können interaktive Karten direkt in der App angezeigt werden.
+
+  
+
+Um die Kartendienste nutzen zu können, ist es notwendig, Ihre IP-Adresse im Rahmen der Internetkommunikation zu verarbeiten. Diese wird in der Regel auf einem Server des jeweiligen Anbieters des Betriebssystems verarbeitet. Auf die konkrete Datenverarbeitung haben wir keinen Einfluss. Weitere Informationen zu Zweck und Umfang der Datenverarbeitung finden Sie in den Datenschutzhinweisen des jeweiligen Anbieters. Dort finden Sie auch weitere Informationen über Ihre Rechte und Einstellungen zum Schutz Ihrer Privatsphäre.
+
+  
+
+Adressen und Datenschutzhinweise der Anbieter:
+
+* Google Maps
+* Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland,
+* Datenschutzhinweise: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/),
+* Nutzungsbedingungen: [https://maps.google.com/help/terms\_maps.html](https://maps.google.com/help/terms_maps.html),
+* Apple Maps
+* Apple Inc., One Apple Park Way, Cupertino, Kalifornien,
+* Datenschutzhinweise: [https://www.apple.com/legal/privacy/de-ww/](https://www.apple.com/legal/privacy/de-ww/)
+* Nutzungsbedingungen: [https://www.apple.com/legal/internet-services/maps/terms-de.html](https://www.apple.com/legal/internet-services/maps/terms-de.html),
+* Huawei Map kit
+* Huawei Aspiegel SE, 1F, Simmonscourt House, Ballsbridge, Dublin D04 W9H6, Irland. Huawei
+* Datenschutzhinweise: [https://www.huawei.com/en/privacy-policy](https://www.huawei.com/en/privacy-policy)
+* Nutzungsbedingungen: [https://developer.huawei.com/consumer/es/hms/huawei-MapKit/](https://developer.huawei.com/consumer/es/hms/huawei-MapKit/).
+
+  
+
+Der Einsatz von Kartendiensten beruht auf unserer Vertragsbeziehung mit Ihnen, Artikel 6 Absatz 1 b) DSGVO sowie auf unserem berechtigten Interesse an einer attraktiven Darstellung unserer Angebote und einer leichten Auffindbarkeit der von uns in der App angegebenen Standorte. Dies stellt ein berechtigtes Interesse im Sinne von Artikel 6 1 f), sofern Sie in der Lidl App die Kartendienste nutzen bzw. in den Einstellungen Ihres mobilen Endgerätes der sogenannten Geolokalisation über den Dialog „Berechtigung zulassen“ zugestimmt haben, verwenden wir diese Funktion, um Ihnen auf Ihren aktuellen Standort bezogene, individuelle Services anbieten zu können. Wir verarbeiten so insbesondere für die Funktionen „Filialsuche“, „E-Ladesäulensuche“ und „Partnervorteilsuche“ GPS- und netzwerkbasiert Ihren Standort, um Ihnen die für Sie nächstgelegenen Filialen anzeigen zu können. Geolokalisationsdaten werden nicht dauerhaft bei uns gespeichert.
+
+  
+
+12\. Google reCaptcha
+
+Verantwortlicher
+
+  
+
+Verantwortlicher für die Datenverarbeitungen zu Google reCaptcha ist die Lidl Digital.
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
+
+Zum Schutz Ihrer Daten und der Übermittlung von Formularen, insbesondere im Rahmen der Gewinnspielteilnahme, und Newsletteranmeldungen auf der Webseite vor Angriffen oder missbräuchlicher Nutzung durch automatisierte Programme (sogenannte Bots) verwenden wir Google reCaptcha. Über Bots wird zum Beispiel versucht, an Passwörter für Kundenkonten zu gelangen oder die Funktionalität der Webseite durch massenhafte Datenübertragungen einzuschränken.
+
+  
+
+Google reCaptcha ermittelt, ob die Interaktion mit der Webseite durch einen menschlichen Nutzer oder einen Bot erfolgt. Dazu wird das Nutzungsverhalten (Verweildauer auf der Seite oder getätigte Mausbewegungen) analysiert sowie die IP-Adresse durch Google ausgelesen und darauf überprüft, ob diese in der Vergangenheit einem Bot zugeordnet werden konnte. Sofern die IP-Adresse bereits einem Bot zugeordnet wurde, übermittelt uns Google diese Information. Wir speichern diese IP-Adressen im Anschluss für die Abwehr zukünftiger Angriffe. Diese Analyse beginnt automatisch, sobald Sie die Registrierungsseite öffnen.
+
+  
+
+Rechtsgrundlage für diese Datenverarbeitung ist Artikel 6 Absatz 1 Satz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse folgt aus den oben genannten Zwecken der Verarbeitung.
+
+  
+
+Empfänger/ Kategorien von Empfängern
+
+  
+
+Bei der Nutzung von Google reCaptcha werden die oben genannten Daten auch durch die Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA zur Bereitstellung des Dienstes verarbeitet. Auf die Verarbeitungen und Nutzung der Daten durch Google haben wir keinen Einfluss. Weitere Informationen zu der Datenverarbeitung durch Google finden Sie hier: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+  
+
+13\. Versicherung Ihres Warenkorbs
+
+Verantwortlicher
+
+  
+
+Verantwortlicher für die Datenverarbeitungen zur Versicherung Ihres Warenkorbs ist die Lidl Digital.
+
+  
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlage
+
+  
 
 Im Rahmen des Bestellprozesses haben Sie die Möglichkeit, Ihren Einkauf über unseren Kooperationspartner simplesurance GmbH, Hallesches Ufer 60, 10963 Berlin (simplesurance), versichern zu lassen.
 
-Für die unten genannte Datenverarbeitungen im Rahmen der **Angebotsdarstellung** und **Übermittlung der Daten zum erfolgreichen Versicherungsabschluss** sind simplesurance und wir **gemeinsam Verantwortliche** nach Artikel 26 DSGVO. **simplesurance** übernimmt dabei die primäre Verantwortung für die Verarbeitung Ihrer Daten und **verpflichtet sich, sämtliche Pflichten aus der Datenschutz-Grundverordnung im Hinblick auf die Verarbeitung Ihrer Daten einschließlich Ihrer Betroffenenrechte zu erfüllen**. Den Datenschutzbeauftragten der simplesurance erreichen Sie hierzu per E-Mail unter [dataprotection@simplesurance.de](mailto:dataprotection@simplesurance.de).
+  
 
-Für die **Angebotsdarstellung** wird zur Ermittlung der konkreten Versicherungsprämie der Inhalt des Warenkorbs an simplesurance übermittelt. Durch die Einbindung des Plugins von simplesurance zur Darstellung des Angebots wird im Rahmen der Internetkommunikation technisch bedingt auch Ihre IP-Adresse und der genutzte Internet-Browser von simplesurance verarbeitet.
+Für die unten genannten Datenverarbeitungen im Rahmen der Angebotsdarstellung und Übermittlung der Daten zum erfolgreichen Versicherungsabschluss sind simplesurance und Lidl Digital gemeinsam Verantwortliche nach Artikel 26 DSGVO. simplesurance übernimmt dabei die primäre Verantwortung für die Verarbeitung Ihrer Daten und verpflichtet sich, sämtliche Pflichten aus der Datenschutz-Grundverordnung im Hinblick auf die Verarbeitung Ihrer Daten einschließlich Ihrer Betroffenenrechte zu erfüllen. Den Datenschutzbeauftragten der simplesurance erreichen Sie per E-Mail unter [dataprotection@simplesurance.de](mailto:dataprotection@simplesurance.de).
 
-Sollten Sie Interesse an der angezeigten Versicherung haben und auf „Schutzbrief in den Warenkorb legen“ klicken, werden die folgende Daten an simplesurance weitergeleitet, um den Vertragsabschluss mit der Versicherung durchführen zu können:
+  
+
+Für die Angebotsdarstellung wird zur Ermittlung der konkreten Versicherungsprämie der Inhalt des Warenkorbs an simplesurance übermittelt. Durch die Einbindung des Plugins von simplesurance zur Darstellung des Angebots wird im Rahmen der Internetkommunikation technisch bedingt auch Ihre IP-Adresse und der genutzte Internet-Browser durch simplesurance verarbeitet.
+
+  
+
+Sollten Sie Interesse an der angezeigten Versicherung haben und auf „Schutzbrief in den Warenkorb legen“ klicken, werden die folgenden Daten an simplesurance weitergeleitet, um den Vertragsabschluss mit der Versicherung durchführen zu können:
 
 * Bestellnummer,
 * Vorname und Nachname,
@@ -1019,36 +1305,48 @@ Sollten Sie Interesse an der angezeigten Versicherung haben und auf „Schutzbri
 * Telefonnummer und
 * Anschrift.
 
-Für den Abschluss und die Durchführung der Versicherungsverträge ist simplesurance allein verantwortliche Stelle. Ausführlich Informationen zur [Datenverarbeitung durch simplesurance](https://www.schutzklick.de/privacy/) können Sie der Datenschutzerklärung von simplesurance entnehmen.
-
-Nach dem **erfolgreichen Versicherungsabschluss** übermittelt uns simplesurance folgende Informationen zu Abrechnungszwecken:
-
-* Versicherungsnummer,
-* Höhe der Versicherungsprämie und
-* Die Produktkategorie der versicherten Waren.
-
-Rechtsgrundlagen für die oben dargestellten Datenverarbeitungen sind unser berechtigtes Interesse an dem provisionsbasierten Angebot von Versicherungen als Direktwerbemaßnahme im Sinne von Artikel 6 Absatz 1 Buchstabe f) DSGVO sowie Artikel 6 Absatz 1 Buchstabe b) DSGVO für die Abwicklung des Versicherungsvertrages.
+Für den Abschluss und die Durchführung der Versicherungsverträge ist simplesurance allein Verantwortliche. Ausführliche Informationen zur Datenverarbeitung durch simplesurance können Sie der Datenschutzerklärung von simplesurance entnehmen.
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+Nach dem erfolgreichen Versicherungsabschluss übermittelt simplesurance an Lidl Digital folgende Informationen zu Abrechnungszwecken:
+
+* Versicherungsnummer,
+* Höhe der Versicherungsprämie und
+* Produktkategorie der versicherten Waren.
+
+Rechtsgrundlagen für die oben dargestellten Datenverarbeitungen sind das berechtigte Interesse der Lidl Digital an dem provisionsbasierten Angebot von Versicherungen als Direktwerbemaßnahme im Sinne von Artikel 6 Absatz 1 Buchstabe f) DSGVO sowie Artikel 6 Absatz 1 Buchstabe b) DSGVO für die Abwicklung des Versicherungsvertrages.
+
+  
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
 Sollten Sie nur Produkte ausgewählt haben,
 
-* zu denen keine Versicherung angeboten wird, oder
+* zu denen keine Versicherung angeboten wird oder
 * sollten Sie keine Versicherung abschließen,
 
 werden Ihre Daten von simplesurance unverzüglich anonymisiert.
 
-Soweit Sie eine Versicherung abschließen, werden die oben genannten Daten gemäß der [Datenschutzerklärung von simplesurance](https://www.schutzklick.de/privacy/) verarbeitet.
+  
 
-20\. Livestreams mit Chat-Funktion
+Soweit Sie eine Versicherung abschließen, werden die oben genannten Daten gemäß der Datenschutzerklärung von simplesurance verarbeitet.
 
-Zwecke der Datenverarbeitung/ Rechtsgrundlage:
+  
+
+  
+
+14\. Livestreams mit Chat-Funktion
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+
+  
 
 Wir nutzen Livestreams, um unsere Produkte vorzustellen und zu bewerben. Zudem können Sie während der Livestreams mit den Moderatoren und Teilnehmern chatten sowie die vorgestellten Artikel Ihrem Warenkorb hinzufügen.
 
-Bei der **Bereitstellung der Livestreams** werden folgende Daten verarbeitet:
+  
+
+Bei der Bereitstellung der Livestreams werden folgende Daten verarbeitet:
 
 * Zeitpunkt des Aufrufs und der Beendigung des Livestreams,
 * IP-Adresse,
@@ -1057,71 +1355,123 @@ Bei der **Bereitstellung der Livestreams** werden folgende Daten verarbeitet:
 * ausgewähltes Chat-Pseudonym,
 * Chat-Nachrichten.
 
-Sofern Sie an dem **Livestream-Chat** teilnehmen, geschieht dies auf rein freiwilliger Basis. Jede persönliche Information, die Sie während des Chats angeben, wird als freiwillig angegeben angesehen und ist für die Laufzeit des Livestreams uns, den Moderatoren und allen Chat-Teilnehmern zugänglich. Bitte verzichten Sie im Chat auf die Nennung von Namen oder ähnlichem, die Rückschlüsse auf Sie oder andere Personen ermöglichen.
+Sofern Sie an dem Livestream-Chat teilnehmen, geschieht dies auf freiwilliger Basis. Jede persönliche Information, die Sie während des Chats angeben, wird als freiwillig angegeben angesehen und ist für die Laufzeit des Livestreams uns, den Moderatoren und allen Chat-Teilnehmern zugänglich. Bitte verzichten Sie im Chat auf die Nennung von Namen oder ähnlichem, was Rückschlüsse auf Sie oder andere Personen ermöglicht.
 
-Die im Livestream dargestellten Produkte können in einem **Livestream-Warenkorb** im Rahmen des Livestream-Players gespeichert werden. Entscheiden Sie sich, die gespeicherten Produkte zu bestellen, werden diese Ihrem Warenkorb auf [www.lidl.de](https://www.lidl.de/) zugefügt und Sie können im Anschluss eine Bestellung als Gast oder über Ihr Kundenkonto durchführen.
+  
 
-Die Rechtsgrundlage für die oben genannte Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe b) bzw. f) DSGVO. Wir verarbeiten Ihre Daten im Zuge der Vertragsanbahnung bzw. Vertragsabwicklung. Die Bewerbung von eigenen Produkten im Rahmen der Livestream-Events ist als ein berechtigtes Interesse anzusehen.
+Die im Livestream dargestellten Produkte können in einem Livestream-Warenkorb im Rahmen des Livestream-Players gespeichert werden. Entscheiden Sie sich, die gespeicherten Produkte zu bestellen, werden diese Ihrem Warenkorb auf [www.lidl.de](https://www.lidl.de/de/datenschutz/www.lidl.de) zugefügt und Sie können im Anschluss eine Bestellung als Gast oder über Ihr Lidl Plus-Konto durchführen.
 
-**Gegen die Datenverarbeitung zu werblichen Zwecken können Sie jederzeit kostenfrei mit Wirkung für die Zukunft Widerspruch einlegen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 21 genannten Kontaktdaten.**
+  
 
-Empfänger/ Kategorien von Empfängern:
+Die Rechtsgrundlage für die oben genannte Datenverarbeitung ist Artikel 6 Absatz 1 Buchstabe b) und f) DSGVO. Wir verarbeiten Ihre Daten im Zuge der Vertragsanbahnung bzw. Vertragsabwicklung. Die Bewerbung von eigenen Produkten im Rahmen der Livestream-Events ist als ein berechtigtes Interesse anzusehen.
+
+  
+
+Gegen die Datenverarbeitung zu werblichen Zwecken können Sie jederzeit kostenfrei mit Wirkung für die Zukunft Widerspruch einlegen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 1. genannten Kontaktdaten.
+
+  
+
+Empfänger/ Kategorien von Empfängern
+
+  
 
 Wir setzen im Rahmen der oben genannten Datenverarbeitungen spezialisierte Dienstleister, insbesondere aus dem Bereich Online-Marketing, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet.
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+  
 
-Die IP-Adresse wird nach 7 Tagen gelöscht. Chat-Pseudonyme und Chat-Nachrichten sind nach dem Livestream nicht mehr für die Öffentlichkeit zugänglich und werden von uns für Auswertungszwecke gespeichert. Jede Speicherung von Produkten im Livestream-Warenkorb wird nur für die Dauer des jeweils aktuell laufenden Livestreams gespeichert.
-
-21\. Push-Nachrichten
-
-**Um durch uns regelmäßig Informationen zu Neuigkeiten, Angeboten rund um unseren Online-Shop sowie besonderen Angeboten (wie Gutscheine oder Aktionen) und Erinnerungen zu nicht abgeschlossenen Bestellungen zu erhalten, können Sie sich für den Empfang von Push-Nachrichten anmelden.**
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer
 
   
 
-Hierfür müssen Sie die Abfrage Ihres Browsers bzw. Endgerätes zum Erhalt der Push-Nachrichten bestätigen. Im Anschluss werden der Anmeldezeitpunkt sowie ein Push-Token bzw. Ihre Geräte-ID gespeichert. Diese Daten dienen einerseits dazu, Ihnen die Push-Nachrichten zusenden zu können und andererseits als Nachweis Ihrer Anmeldung.
+Die IP-Adresse wird nach 7 Tagen gelöscht. Chat-Pseudonyme und Chat-Nachrichten sind nach dem Livestream nicht mehr für die Öffentlichkeit zugänglich und werden von uns für Auswertungszwecke für ein Jahr gespeichert. Jede Speicherung von Produkten im Livestream-Warenkorb wird nur für die Dauer des jeweils aktuell laufenden Livestreams gespeichert.
 
   
 
-Wir werten Push-Nachrichten statistisch aus und können so erkennen, ob und wann Push-Nachrichten angezeigt und angeklickt wurden. Dies ermöglicht uns Feststellungen über mutmaßliche Interessen aller Empfänger zu treffen und damit das Interesse für unser Push-Nachrichten zu steigern.
+  
+
+15\. Links zu anderen Webseiten und Anwendungen
+
+Unsere Webseite und die Lidl App enthalten Links zu anderen Webseiten und Apps, die von anderen Lidl-Gesellschaften, von ausgewählten Partnern oder sonstigen Dritten betrieben werden. Wenn Sie auf einen dieser Links klicken, beispielsweise in der Lidl App über einen In-App-Banner, werden Sie zu der Webseite/ App oder zu Ihrem jeweiligen App-Store weitergeleitet. Die Links können auch spezielle Tracking-Techniken enthalten, die es den Betreibern der genannten Webseiten/ Anwendungen ermöglichen, zu verstehen und zu messen, wo der Benutzer von ihnen erfahren hat. Auf die Datenverarbeitung dieser Webseiten/ Apps haben wir keinen Einfluss. Wir empfehlen Ihnen, die entsprechenden Datenschutzrichtlinien jeder Webseite/ App, auf die Sie weitergeleitet werden, zu überprüfen, um zu verstehen, welche Informationen über Sie vom Betreiber verarbeitet werden.
 
   
 
-Rechtsgrundlage für die Verarbeitung Ihrer Dazu zum Ausspielen von Push-Nachrichten ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+Wenn wir Sie auf eine dieser Webseiten/ Apps weiterleiten, verarbeiten wir Ihre personenbezogenen Daten, um Ihrer (technischen) Aufforderung zum Besuch der jeweiligen Anwendung oder Webseite nachzukommen (Artikel 6 Absatz 1 b) DSGVO), sowie basierend auf dem berechtigten
+
+16\. Zugriff auf Funktionen und Sensoren Ihres mobilen Endgeräts
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen
 
   
 
-**Sie können Ihre Einwilligung in diese Datenverarbeitung jederzeit mit Wirkung für die Zukunft widerrufen. Den Widerruf der Einwilligung können Sie in den Einstellungen Ihres Browsers oder Endgerätes vornehmen oder indem Sie** [**hier klicken**](https://www.lidl.de/t/cti/web-push)**.**
+**Standortdaten**
+
+Sofern Sie im Rahmen der Nutzung der Lidl App bzw. in den Einstellungen Ihres mobilen Endgerätes der sogenannten Geolokalisation über den Dialog "Berechtigung zulassen" zugestimmt haben, verwenden wir diese Funktion, um Ihnen auf Ihren aktuellen Standort bezogene, individuelle Services anbieten zu können. Wir verarbeiten so insbesondere im Rahmen der Funktion "Filialsuche" GPS- und netzwerkbasiert Ihren Standort, um Ihnen die für Sie nächstgelegenen Filialen anzeigen zu können.
 
   
 
-Empfänger/ Kategorien von Empfängern:
+Fotos/ Medien/ Dateien Ihres mobilen Endgeräts/ USB-Speicherinhalte (lesen, ändern, löschen)
 
-Sofern für die das Ausspielen von Push-Nachrichten externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
-
-  
-
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
-
-Ihre Daten werden so lange gespeichert, wie Ihr Abonnement für Push-Nachrichten aktiv ist.
-
-22\. Verknüpfung mit Lidl Plus
-
-Um Sie als Lidl Plus-Nutzer zu identifizieren, übermitteln wir Ihre Kundennummer an die Lidl Stiftung & Co. KG, Stiftsbergstraße 1, 74167 Neckarsulm („Lidl Stiftung“). Die Rechtsgrundlage für diese Verarbeitung ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Das berechtigte Interesse besteht darin, die nachstehende Datenübermittlung auf solche Kunden zu beschränken, die tatsächlich Lidl Plus-Nutzer sind.
-
-Sofern die Lidl Stiftung Sie als Teilnehmer am Loyalty-Programm „Lidl Plus“ identifiziert, informieren wir diese über die von Ihnen erworbenen/ im Warenkorb abgelegte Produkte nach Art, Menge und Preis, die von Ihnen eingelösten Coupons, den Zeitpunkt des Bezahlvorgangs, verwendete Zahlungsmittel und ausgewählte Liefermethoden. Wenn Sie der Verarbeitung von Nutzungsdaten zu Statistik- und/ oder Marketingzwecken (siehe Ziffer 13) zugestimmt haben, übermitteln wir auch diese Daten an die Lidl Stiftung. Darüber hinaus informieren wir die Lidl Stiftung über Ihr Nutzungsverhalten in Bezug auf unseren Newsletter, einschließlich Informationen wie den Zeitpunkt des Öffnens des Newsletters, die von Ihnen angeklickten Links oder Bereiche, Dauer und Häufigkeit der Nutzung. Die Rechtsgrundlage für diese Verarbeitung ist die Erfüllung des Vertrages zwischen Ihnen und der Lidl Stiftung, Artikel 6 Absatz 1 Buchstabe b) DSGVO.
+Sofern Sie über die Lidl App eine Einkaufsliste oder einen Warenkorb erstellen, werden diese, abhängig vom Installationsort der App und dem verfügbaren Speicherplatz, direkt in dem Speicher Ihres mobilen Endgeräts oder auf einem angeschlossenen Speichermedium gespeichert.
 
   
 
-Weitere Informationen zur Datenverarbeitung im Rahmen von Lidl Plus finden Sie [hier.](https://www.lidl.de/c/lidl-plus-datenschutzhinweise/s10005247)
+**Kamera (Bilder und Videos aufnehmen)**
 
-23\. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen sowie Kontaktdaten des betrieblichen Datenschutzbeauftragten
+Die Kamera Ihres mobilen Endgeräts wird für das Einscannen von QR-Codes verwendet.
 
-Diese Datenschutzbestimmungen gelten für die Datenverarbeitung durch Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm („Verantwortlicher") und für die Webseite [www.lidl.de](https://www.lidl.de/). Der betriebliche Datenschutzbeauftragte der Lidl Digital Deutschland GmbH & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) erreichbar.
+  
 
-24\. Links zu anderen Webseiten und Anwendungen
+**WLAN-Verbindungsinformationen**
 
-Unsere Webseite enthält Links zu anderen Webseiten und Apps, die von anderen Lidl-Gesellschaften oder sonstigen Dritten betrieben werden. Wenn Sie auf einen dieser Links klicken, werden Sie zu der Webseite/ App oder zu Ihrem jeweiligen App-Store weitergeleitet. Auf die Datenverarbeitung dieser Webseiten/ Apps haben wir keinen Einfluss. Wir empfehlen Ihnen, die entsprechenden Datenschutzrichtlinien jeder Webseite/ App, auf die Sie weitergeleitet werden, zu überprüfen, um zu verstehen, welche Informationen über Sie vom Betreiber verarbeitet werden.
+Die Lidl App nutzt die WLAN-Verbindung Ihres mobilen Endgeräts, um eine Verbindung zum Internet aufzubauen.
+
+  
+
+**Sonstige Gerätefunktionen oder Gerätesensoren**
+
+Über den Zugriff auf die sonstigen Gerätefunktionen und Gerätesensoren Ihres mobilen Endgeräts wird es der Lidl App insbesondere ermöglicht, Daten aus dem Internet abzurufen und Fehlermeldungen zu verarbeiten. Zusätzlich wird damit auch ermöglicht, dass die Lidl App beim Start ausgeführt und der Ruhezustand des Geräts deaktiviert werden kann. Schließlich kann Ihnen die Lidl App, sofern Sie eine entsprechende Einwilligung erteilt haben, sogenannte Push-Nachrichten zukommen lassen, um Sie über aktuelle Angebote und Aktionen zu informieren.
+
+  
+
+Rechtsgrundlage für die Verarbeitung Ihrer Standortdaten ist Ihre Einwilligung gemäß Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+
+  
+
+17\. Eingebundene Inhalte Dritter
+
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert und von diesen Diensten aus direkt abspielbar sind. Diese sind alle im „erweiterten Datenschutz-Modus" eingebunden, d.h., dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden die Daten übertragen. Auf die Datenverarbeitungen durch den Betreiber von YouTube haben wir keinen Einfluss.
+
+  
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+
+  
+
+18\. Welche Rechte haben Sie im Hinblick auf die Verarbeitung Ihrer Daten?
+
+Sie haben das Recht, nach Artikel 15 Absatz 1 DSGVO unentgeltlich Auskunft über die zu Ihrer Person gespeicherten personenbezogenen Daten zu beantragen.
+
+  
+
+Zusätzlich haben Sie bei Vorliegen der gesetzlichen Voraussetzungen ein Recht auf Berichtigung (Artikel 16 DSGVO), Löschung (Artikel 17 DSGVO) und Einschränkung der Verarbeitung (Artikel 18 DSGVO). Sofern Sie uns die verarbeiteten Daten zur Verfügung gestellt haben, steht Ihnen ein Recht auf Datenübertragung nach Artikel 20 DSGVO zu.
+
+  
+
+Sofern die Datenverarbeitung auf Grundlage des Artikel 6 Absatz 1 Satz 1 Buchstabe e) oder f) DSGVO erfolgt, steht Ihnen ein **Widerspruchsrecht** nach Artikel 21 DSGVO zu. Soweit Sie einer Datenverarbeitung widersprechen, wird diese nur dann fortgeführt, wenn wir zwingende schutzwürdige Gründe für die weitere Verarbeitung nachweisen können, die Ihr Interesse am Widerspruch überwiegen. Ihren Widerspruch können Sie jederzeit an [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) richten.
+
+  
+
+Sofern die Datenverarbeitung auf Grundlage einer Einwilligung nach Artikel 6 Absatz 1 Satz 1 Buchstabe a) oder Artikel 9 Absatz 2 Buchstabe a) DSGVO erfolgt, können Sie die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, ohne dass die Rechtmäßigkeit der bisherigen Verarbeitung berührt wird.
+
+  
+
+Zudem steht Ihnen ein Recht zur Beschwerde bei einer Datenschutz-Aufsichtsbehörde zu. Zuständig ist die Datenschutz-Aufsichtsbehörde des Bundeslandes, in dem Sie wohnen oder in dem der Verantwortliche seinen Sitz hat.
+
+  
+
+Wir haben in diesen Datenschutzhinweise zahlreiche Verhältnisse gemeinsamer Verantwortlichkeit nach Artikel 26 DSGVO dargestellt. Auf Ihre Anfrage (z.B. über die unter Ziffer 1. angegebenen Kontaktmöglichkeiten) stellen wir Ihnen das Wesentliche der jeweiligen Vereinbarung über die gemeinsame Verantwortlichkeit gerne zur Verfügung. Zur Ausübung Ihrer Betroffenenrechte können Sie sich jeweils gerne an uns oder – für die jeweils betreffenden Datenverarbeitungen – die gemeinsam mit uns Verantwortlichen wenden.
+
+  
 
 Filialgeschäft
 --------------
