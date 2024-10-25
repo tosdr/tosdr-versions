@@ -399,9 +399,9 @@ _La liste ci-dessus n’est pas une liste exhaustive car elle ne comprend pas le
 Les plus lus
 ------------
 
-1. [![Pluie à Arcachon (Gironde), avant l'arrivée sur l'ouest de la France de la tempête Ciaran, le 1er novembre 2023](https://images.bfmtv.com/Us1hq8bgE7eEplntIZsELnVgWxs=/216x201:760x507/300x0/images/Pluie-a-Arcachon-Gironde-avant-l-arrivee-sur-l-ouest-de-la-France-de-la-tempete-Ciaran-le-1er-novembre-2023-1739039.jpg)
+1. [![Un homme sous l'orage à Vidauban le 25 octobre 2024](https://images.bfmtv.com/eufCs_6ITlV1SI18r2tLVyw4mN8=/0x0:1920x1080/300x0/images/Un-homme-sous-l-orage-a-Vidauban-le-25-octobre-2024-1963594.jpg)
     
-    ![Pluie à Arcachon (Gironde), avant l'arrivée sur l'ouest de la France de la tempête Ciaran, le 1er novembre 2023](https://images.bfmtv.com/Us1hq8bgE7eEplntIZsELnVgWxs=/216x201:760x507/300x0/images/Pluie-a-Arcachon-Gironde-avant-l-arrivee-sur-l-ouest-de-la-France-de-la-tempete-Ciaran-le-1er-novembre-2023-1739039.jpg)
+    ![Un homme sous l'orage à Vidauban le 25 octobre 2024](https://images.bfmtv.com/eufCs_6ITlV1SI18r2tLVyw4mN8=/0x0:1920x1080/300x0/images/Un-homme-sous-l-orage-a-Vidauban-le-25-octobre-2024-1963594.jpg)
     
     ### 152,5 millimètres au Luc, 119 à Vidauban: le Var frappé par d'impressionnants orages et de fortes pluies](https://www.bfmtv.com/var/152-5-millimetres-au-luc-119-a-vidauban-le-var-frappe-par-d-impressionnants-orages-et-de-fortes-pluies_AN-202410250193.html "152,5 millimètres au Luc, 119 à Vidauban: le Var frappé par d'impressionnants orages et de fortes pluies")
 2. [### "Semer la barbarie": des critiques envers Macron après son attaque implicite contre Netanyahu](https://www.bfmtv.com/politique/elysee/semer-la-barbarie-des-critiques-envers-macron-apres-son-attaque-implicite-contre-netanyahu_AV-202410250238.html ""Semer la barbarie": des critiques envers Macron après son attaque implicite contre Netanyahu")
