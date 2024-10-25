@@ -12,8 +12,6 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
-[It's Gangster Week! Use code HEIST and get 10% off on select games. 🎮 Shop Now](https://www.cdkeys.com/flash-sale)
-
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -450,11 +448,11 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 1. \-77%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
+1.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 1. \-76%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
     
     **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
     
-    Special Price $14.89 RRP $64.99
+    Special Price $15.59 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
