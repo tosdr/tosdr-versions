@@ -2,14 +2,14 @@ Thursday, October 24 2024
 
 Breaking News
 
+* [The Latest Democrat-Media “Trump is Hitler” Election Year Hoax](https://www.conservativedailynews.com/2024/10/the-latest-democrat-media-trump-is-hitler-election-year-hoax/)
+* [Biden’s Milquetoast China Approach Has Paved The Way For History’s Next Great Conflict](https://www.conservativedailynews.com/2024/10/bidens-milquetoast-china-approach-has-paved-the-way-for-historys-next-great-conflict/)
+* [DOJ Sends Musk’s PAC Warning Over $1 Million Voter Lottery](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
+* [TDS Makes Liz Cheney Forget Her Roots](https://www.conservativedailynews.com/2024/10/tds-makes-liz-cheney-forget-her-roots/)
 * [President Joe Biden’s Schedule for Thursday, October 24, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
 * [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
 * [White House Press Briefing with Karine Jean-Pierre – 10/23/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-23-24/)
 * [Major Liberal Newspaper Reportedly Declines To Endorse Presidential Candidate For First time In 20 Years](https://www.conservativedailynews.com/2024/10/major-liberal-newspaper-reportedly-declines-to-endorse-presidential-candidate-for-first-time-in-20-years/)
-* [Former Clinton Pollster Says Harris’ ‘Inauthenticity’ Is ‘The Larger Problem She Faces’ In Election](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-says-harris-inauthenticity-is-the-larger-problem-she-faces-in-election/)
-* [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/)
-* [President Joe Biden’s Schedule for Wednesday, October 23, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-23-2024/)
-* [Pentagon’s Trillion Dollar Fighter Jet Program Hasn’t Had Mission-Ready Plane In Six Years, Watchdog Says](https://www.conservativedailynews.com/2024/10/pentagons-trillion-dollar-fighter-jet-program-hasnt-had-mission-ready-plane-in-six-years-watchdog-says/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,82 +115,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
+    
+    [DOJ Sends Musk’s PAC Warning Over $1 Million Voter Lottery](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
+    
+    October 24, 2024
+    
 * [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
     
     [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
     
     October 22, 2024
     
-* [![Kamala Harris flip flop wishy washy](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
-    
-    [Which Kamala Harris Should Voters Believe?](https://www.conservativedailynews.com/2024/10/which-kamala-harris-should-voters-believe/)
-    
-    October 21, 2024
-    
 
 Recent Posts
 
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/10/Jesus-facepalm-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-latest-democrat-media-trump-is-hitler-election-year-hoax/)
     
-    [President Joe Biden’s Schedule for Thursday, October 24, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-24-2024/)
+    [The Latest Democrat-Media “Trump is Hitler” Election Year Hoax](https://www.conservativedailynews.com/2024/10/the-latest-democrat-media-trump-is-hitler-election-year-hoax/)
     
     October 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/10/cropped-CDN-Capital-Logo-condensed-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/cdn-funding-update/)
+* [![Joe Biden great uniter enemies Russia Iran China](https://www.conservativedailynews.com/wp-content/uploads/2023/06/stg062823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/bidens-milquetoast-china-approach-has-paved-the-way-for-historys-next-great-conflict/)
     
-    [CDN Funding Update](https://www.conservativedailynews.com/2024/10/cdn-funding-update/)
+    [Biden’s Milquetoast China Approach Has Paved The Way For History’s Next Great Conflict](https://www.conservativedailynews.com/2024/10/bidens-milquetoast-china-approach-has-paved-the-way-for-historys-next-great-conflict/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/images.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/for-kamala-harris-abortion-isnt-about-freedom-its-about-force/)
     
-    [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/)
+    [For Kamala Harris, Abortion Isn’t About Freedom; It’s About Force](https://www.conservativedailynews.com/2024/10/for-kamala-harris-abortion-isnt-about-freedom-its-about-force/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-23-24/)
+* [![Kamala Harris taxes tax the rich](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv102424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamalanomics/)
     
-    [White House Press Briefing with Karine Jean-Pierre – 10/23/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-23-24/)
+    [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-mds-driveup-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/now-hiring/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/why-trump-at-mcdonalds-matters/)
     
-    [Now Hiring](https://www.conservativedailynews.com/2024/10/now-hiring/)
+    [Why Trump at McDonald’s Matters](https://www.conservativedailynews.com/2024/10/why-trump-at-mcdonalds-matters/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/major-liberal-newspaper-reportedly-declines-to-endorse-presidential-candidate-for-first-time-in-20-years/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-clown-and-the-criminal/)
     
-    [Major Liberal Newspaper Reportedly Declines To Endorse Presidential Candidate For First time In 20 Years](https://www.conservativedailynews.com/2024/10/major-liberal-newspaper-reportedly-declines-to-endorse-presidential-candidate-for-first-time-in-20-years/)
+    [The Clown and the Criminal](https://www.conservativedailynews.com/2024/10/the-clown-and-the-criminal/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![Kamala Harris is fake 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg080224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-says-harris-inauthenticity-is-the-larger-problem-she-faces-in-election/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/Refrigerator-220x150.png)](https://www.conservativedailynews.com/2024/10/ask-me-anything-grease-relief-fingerprints-on-stainless-steel/)
     
-    [Former Clinton Pollster Says Harris’ ‘Inauthenticity’ Is ‘The Larger Problem She Faces’ In Election](https://www.conservativedailynews.com/2024/10/former-clinton-pollster-says-harris-inauthenticity-is-the-larger-problem-she-faces-in-election/)
+    [Ask Me Anything: Grease Relief, Fingerprints on Stainless Steel](https://www.conservativedailynews.com/2024/10/ask-me-anything-grease-relief-fingerprints-on-stainless-steel/)
     
-    October 23, 2024
+    October 24, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/)
+* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
     
-    [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/)
+    [DOJ Sends Musk’s PAC Warning Over $1 Million Voter Lottery](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
     
-    October 23, 2024
+    October 24, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [5 Firearms To Have On Hand For A Natural Disaster](https://www.thegunpage.com/5-firearms-to-have-on-hand-for-a-natural-disaster/10611435)
+* [POTD: IWI Carmel – Thermal and Neons](https://www.thegunpage.com/potd-iwi-carmel-thermal-and-neons/10611436)
+* [Concealed Carry Corner: Range Guns Vs Carry Guns](https://www.thegunpage.com/concealed-carry-corner-range-guns-vs-carry-guns/10611437)
+* [Democrat Media Op Gone Wrong: Candidate Shoots Reporter](https://www.thegunpage.com/democrat-media-op-gone-wrong-candidate-shoots-reporter/10611432)
+* [POF Announces Its New P-15 BASE Rifle](https://www.thegunpage.com/pof-announces-its-new-p-15-base-rifle/10611427)
+* [First Ever Black Collar Arms Piglet Takedown Rifle on Auction for Navy SEAL Charity](https://www.thegunpage.com/first-ever-black-collar-arms-piglet-takedown-rifle-on-auction-for-navy-seal-charity/10611425)
+* [USSOCOM Announces Industry Day to Kickstart Search for New Machine Gun](https://www.thegunpage.com/ussocom-announces-industry-day-to-kickstart-search-for-new-machine-gun/10611429)
 * [GOA Vows to Continue Fight After 2nd Circuit Ruling in Antonyuk](https://www.thegunpage.com/goa-vows-to-continue-fight-after-2nd-circuit-ruling-in-antonyuk/10611423)
+* [Nocpix Vista – New Mid-High-End Thermal Monocular](https://www.thegunpage.com/nocpix-vista-new-mid-high-end-thermal-monocular/10611430)
 * [Is Banning Fake Guns South Africa’s Next Step?](https://www.thegunpage.com/is-banning-fake-guns-south-africas-next-step/10611421)
-* [Hornady Introduces a High Speed 3-in-1 Power Case Trimmer](https://www.thegunpage.com/hornady-introduces-a-high-speed-3-in-1-power-case-trimmer/10611419)
-* [FBI And DEA Gun Parts Slated For Destruction Found In Seized Ghost Gun](https://www.thegunpage.com/fbi-and-dea-gun-parts-slated-for-destruction-found-in-seized-ghost-gun/10611418)
-* [TFB Behind the Gun #138: An Interview With Joe from Desk Pop](https://www.thegunpage.com/tfb-behind-the-gun-138-an-interview-with-joe-from-desk-pop/10611420)
-* [More Support For Challenges To New Massachusetts Gun Law](https://www.thegunpage.com/more-support-for-challenges-to-new-massachusetts-gun-law/10611416)
-* [NRA Debuts Smallbore Position Championship, Service Rifle Shooter Dominates High Power Field: 1957 National Matches](https://www.thegunpage.com/nra-debuts-smallbore-position-championship-service-rifle-shooter-dominates-high-power-field-1957-national-matches/10611414)
-* [Classic SSUSA: Steel Magnolias](https://www.thegunpage.com/classic-ssusa-steel-magnolias/10611415)
-* [The History of PKM, the Most Common Machine Gun In the World. Part 6](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-6/10611409)
-* [Wheelgun Wednesday: Ruger New Model Blackhawk Convertible](https://www.thegunpage.com/wheelgun-wednesday-ruger-new-model-blackhawk-convertible/10611410)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 * Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
 * [Concerned](http://cdn/) on [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/#comment-782833)
 * charles wilkins on [Wash Outs](https://www.conservativedailynews.com/2024/10/wash-outs/#comment-782825)
@@ -240,7 +241,6 @@ Recent Comments
 * charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
 * charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
 * MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
-* Stanley Warner on [The Democrat Party’s Abandonment of Critical Thinking in Favor of Rage](https://www.conservativedailynews.com/2024/10/the-democrat-partys-abandonment-of-critical-thinking-in-favor-of-rage/#comment-782783)
 
 [Close](#)
 
