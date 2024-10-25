@@ -56,7 +56,7 @@ TERMS OF USE
     22. "**User**": any user of OnlyFans, whether a Creator or a Fan or both (also referred to as "**you**" or "**your**").
 3. **Who we are and how to contact us:** OnlyFans is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at 9th Floor, 107 Cheapside, London, EC2V 6DN. Our VAT number is 268196365.
     
-    To contact us with questions, please email [support@onlyfans.com](mailto:support@onlyfans.com) or use our [Contact Form](https://onlyfans.com/contact). You may also write to us at 9th Floor, 107 Cheapside, London, EC2V 6DN.
+    To contact us with questions, please email [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection) or use our [Contact Form](https://onlyfans.com/contact). You may also write to us at 9th Floor, 107 Cheapside, London, EC2V 6DN.
     
 4. **We may change the Terms of Service:** Where permitted we may change any part of the Terms of Service without Notice:
     
@@ -134,7 +134,7 @@ TERMS OF USE
     
     1. **General:**
         
-        1. Creators are responsible for their own Tax affairs and neither we nor any Subsidiary: (i) are responsible for advising you on your Tax affairs or liable for any general Tax information provided on OnlyFans or by [support@onlyfans.com](mailto:support@onlyfans.com); or (ii) liable for any Creator's non-payment of Tax.
+        1. Creators are responsible for their own Tax affairs and neither we nor any Subsidiary: (i) are responsible for advising you on your Tax affairs or liable for any general Tax information provided on OnlyFans or by [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection); or (ii) liable for any Creator's non-payment of Tax.
         2. By using OnlyFans as a Creator, you warrant that you have reported, and will report in the future, all payments you receive in connection with your use of OnlyFans to the relevant Tax authority in your jurisdiction, as required by law.
         3. If, while you have an OnlyFans account, you become Tax non-compliant in relation to your use of OnlyFans or if you are named in any litigation, inquiry, or investigation in connection with, or which may lead to, any Tax non- compliance in connection with your use of OnlyFans, we reserve the right to close, restrict payouts from, or restrict earnings from your account.
     2. **UK VAT and UK established Creators:** If you are a Creator registered for UK VAT, you must follow our [UK VAT Policy](https://onlyfans.com/uk-vat-policy).
@@ -211,7 +211,7 @@ TERMS OF USE
         
         * The domain name is registered by the Creator;
         * The domain name redirects to the Creator's OnlyFans account; and
-        * The Creator obtains written permission from OnlyFans by contacting [support@onlyfans.com](mailto:support@onlyfans.com) and signs a licensing agreement.
+        * The Creator obtains written permission from OnlyFans by contacting [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection) and signs a licensing agreement.
         
         If you fail to comply with these provisions or the licensing agreement, we may file a domain dispute or seek other remedies.
         
@@ -271,7 +271,7 @@ TERMS OF USE
     7. You cannot transfer, assign, or subcontract your rights or obligations under any agreement with us.
     8. Our rights and obligations under your agreement with us can be assigned or transferred by us to others. We may delegate the performance of any of our obligations under your agreement with us to any third-party.
     9. The Terms of Service form the entire agreement between us and you regarding your access to and use of OnlyFans, and supersede any and all prior oral or written understandings or agreements between us and you.
-    10. If you have a complaint about OnlyFans, refer to our [Complaints Policy](https://onlyfans.com/transparency-center/complaints) and our [Appeals Policy](https://onlyfans.com/transparency-center/appeals). If you wish to communicate with us about OnlyFans or our Terms of Service, please email [support@onlyfans.com](mailto:support@onlyfans.com).
+    10. If you have a complaint about OnlyFans, refer to our [Complaints Policy](https://onlyfans.com/transparency-center/complaints) and our [Appeals Policy](https://onlyfans.com/transparency-center/appeals). If you wish to communicate with us about OnlyFans or our Terms of Service, please email [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection).
 23. **Choice of law and forum for disputes:**
     
     1. For Consumers:
