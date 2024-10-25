@@ -1,3 +1,161 @@
+#### A PHP Error was encountered
+
+Severity: Warning
+
+Message: mysqli::real\_connect(): (08004/1040): Too many connections
+
+Filename: mysqli/mysqli\_driver.php
+
+Line Number: 202
+
+Backtrace:
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 107  
+Function: DB
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/Main\_Controller.php  
+Line: 50  
+Function: database
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/controllers/Blog.php  
+Line: 7  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Modules.php  
+Line: 112  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/libraries/Pc\_hooks.php  
+Line: 13  
+Function: load
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/Main\_Controller.php  
+Line: 89  
+Function: apply
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/welcome/controllers/Welcome.php  
+Line: 26  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/index.php  
+Line: 298  
+Function: require\_once
+
+#### A PHP Error was encountered
+
+Severity: Warning
+
+Message: mysqli::real\_connect(): (08004/1040): Too many connections
+
+Filename: mysqli/mysqli\_driver.php
+
+Line Number: 202
+
+Backtrace:
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 107  
+Function: DB
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/My\_Model.php  
+Line: 18  
+Function: database
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/models/Category\_m.php  
+Line: 12  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 228  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/models/Blog\_m.php  
+Line: 16  
+Function: model
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 228  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/controllers/Blog.php  
+Line: 8  
+Function: model
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Modules.php  
+Line: 112  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/libraries/Pc\_hooks.php  
+Line: 13  
+Function: load
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/Main\_Controller.php  
+Line: 89  
+Function: apply
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/welcome/controllers/Welcome.php  
+Line: 26  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/index.php  
+Line: 298  
+Function: require\_once
+
+#### A PHP Error was encountered
+
+Severity: Warning
+
+Message: mysqli::real\_connect(): (08004/1040): Too many connections
+
+Filename: mysqli/mysqli\_driver.php
+
+Line Number: 202
+
+Backtrace:
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 107  
+Function: DB
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/My\_Model.php  
+Line: 18  
+Function: database
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/models/Sponsors\_m.php  
+Line: 15  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Loader.php  
+Line: 228  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/blog/controllers/Blog.php  
+Line: 9  
+Function: model
+
+File: /home/bbmedia/domains/iplocation.net/www/application/third\_party/MX/Modules.php  
+Line: 112  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/application/libraries/Pc\_hooks.php  
+Line: 13  
+Function: load
+
+File: /home/bbmedia/domains/iplocation.net/www/application/core/Main\_Controller.php  
+Line: 89  
+Function: apply
+
+File: /home/bbmedia/domains/iplocation.net/www/application/modules/welcome/controllers/Welcome.php  
+Line: 26  
+Function: \_\_construct
+
+File: /home/bbmedia/domains/iplocation.net/www/index.php  
+Line: 298  
+Function: require\_once
+
+                                                     
+
 [![IP Location Logo](https://www.iplocation.net/assets/images/logo.png)](https://www.iplocation.net/)
 
 [](#)
@@ -90,7 +248,7 @@ IP Location may occasionally update this "Privacy Policy" to better meet our bus
 6\. QUESTIONS AND CONCERNS
 --------------------------
 
-If you have any questions or concerns about this Privacy Policy, please contact us by email at [\[email protected\]](https://iplocation.net/cdn-cgi/l/email-protection).
+If you have any questions or concerns about this Privacy Policy, please contact us by email at admin@iplocation.net.
 
 ### IP Tools
 
@@ -147,13 +305,13 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Proxy (47)](https://www.iplocation.net/blog/category/proxy)
 * [Real Estate (6)](https://www.iplocation.net/blog/category/real-estate)
 * [Scams & Frauds (16)](https://www.iplocation.net/blog/category/scams-frauds)
-* [Security (5)](https://www.iplocation.net/blog/category/security)
+* [Security (6)](https://www.iplocation.net/blog/category/security)
 * [Smartphone (46)](https://www.iplocation.net/blog/category/smartphone)
 * [Social Media (68)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (40)](https://www.iplocation.net/blog/category/social-media-marketing)
-* [Software (165)](https://www.iplocation.net/blog/category/software)
+* [Software (166)](https://www.iplocation.net/blog/category/software)
 * [Software Development (137)](https://www.iplocation.net/blog/category/software-development)
-* [Software Testing (10)](https://www.iplocation.net/blog/category/software-testing)
+* [Software Testing (11)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (10)](https://www.iplocation.net/blog/category/mobile-app-development)
 * [Web Development (4)](https://www.iplocation.net/blog/category/web-development)
 * [Technology (53)](https://www.iplocation.net/blog/category/technology)
