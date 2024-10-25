@@ -83,7 +83,7 @@ Utilization of the myownfreehost product requires any abuse emails to be forward
 
 8|. upload, post, email, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
 
-9|. upload, post, email, transmit or otherwise make available any material that is of broadcast / streaming types.
+9|. upload, post, email, transmit or otherwise make available any material that is of broadcast / streaming types. Gambling / Slot related content is also not allowed.
 
 10|. upload, post, email, transmit or otherwise make available any material that is of keylogging / proxy service / irc / shell(s) if any type / file hosting / file sharing types.
 
