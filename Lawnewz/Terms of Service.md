@@ -293,23 +293,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
+1. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
     
     ### [Hells Angels member who allegedly 'walked through' and mopped up blood of victim in vicious beating pleads guilty to weapons charges](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
     
-2. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+2. [![Mike Lindell](https://lawandcrime.com/wp-content/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
     ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-3. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
+3. [![Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
     ### ['Denied': Georgia Supreme Court unanimously rejects GOP efforts to revive controversial election rules passed by Trump allies](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
-4. [![Left to right: Jack Smith, Clarence Thomas, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Thomas-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
+4. [![Left to right: Jack Smith, Clarence Thomas, Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/10/Smith-Thomas-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
     
     ### ['Unjust case was dead on arrival': Trump moves to dismiss Jan. 6 indictment and stop 'private-citizen Smith' from spending money — with Clarence Thomas leading the way](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
     
-5. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
+5. [![Aileen Cannon, Jack Smith](https://lawandcrime.com/wp-content/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
     ### [Judge Cannon's Mar-a-Lago dismissal apparently has Trump eyeing her to replace Jack Smith's boss — and an accused would-be assassin noticed](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
