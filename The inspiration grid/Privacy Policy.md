@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/photography-christin-dim-feature.jpg)
+
+[](https://theinspirationgrid.com/the-art-of-saree-making-photos-by-christin-dim/)
+
+### The Art of Saree Making: Photos by Christin Dim
+
+![](https://inspgr.id/app/uploads/2024/10/branding-seventy-feature.jpg)
+
+[](https://theinspirationgrid.com/seventy-studios-branding-by-vask/)
+
+### Seventy Studios Branding by VASK
+
 ![](https://inspgr.id/app/uploads/2024/10/branding-brother-films-feature.jpg)
 
 [](https://theinspirationgrid.com/brother-films-branding-by-forthback-studio/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/geometry-abstraction-beautiful-illustrations-by-andrea-devia-nuno/)
 
 ### Geometry & Abstraction: Beautiful Illustrations by Andrea Devia-Nuño
-
-![](https://inspgr.id/app/uploads/2024/10/art-stephanie-stutz-feature.jpg)
-
-[](https://theinspirationgrid.com/stunning-digital-landscapes-by-stephanie-stutz/)
-
-### Stunning Digital Landscapes by Stephanie Stutz
-
-![](https://inspgr.id/app/uploads/2024/10/3d-geoff-keough-feature.jpg)
-
-[](https://theinspirationgrid.com/awesome-3d-artworks-by-geoff-keough/)
-
-### Awesome 3D Artworks by Geoff Keough
 
 Awesome products for creatives
 ------------------------------
