@@ -22,7 +22,7 @@ Basic Rules for Disqus
 
 Written by Disqus
 
-Updated over a week ago
+Updated over a year ago
 
 Disqus doesn't moderate or manage the communities that use Disqus, but using Disqus to do any of the following things breaks our [Terms of Service](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) and appropriate action (which can include removing a comment or discussion, resetting a profile, or banning an account) will be taken to enforce them.
 
