@@ -8,7 +8,9 @@ Menu
 
 [![](/themes/acton/dist/img/mobile-menu/acton_logo_white.svg)](https://www.acton.org/home)
 
-[![Acton Annual Dinner 2024 Mobile Banner](https://www.acton.org/sites/default/files/ad/mobile.jpg)](https://www.acton.org/dinner)
+[![](https://blog.acton.org/wp-content/uploads/2021/08/yt-icon.png)](https://www.youtube.com/live/lmg_EoKnf34?si=RCo7eNWgJ_fcirpN)
+
+The Church Should Give Us A Lead: C.S. Lewis on Modern Social Thought
 
 Close
 
@@ -81,9 +83,9 @@ Acton Main Megamenu
 * [Shop](https://shop.acton.org/)
 * [Donate](https://give.acton.org/)
 
-![](https://www.acton.org/sites/default/files/ad/annual-dinner-text.png)
+[![](https://blog.acton.org/wp-content/uploads/2021/08/yt.png)](https://www.youtube.com/live/lmg_EoKnf34?si=VXvJu0mtb1ENTNCM)
 
-[![](https://www.acton.org/sites/default/files/ad/annual-dinner-button2.png)](https://www.acton.org/dinner)
+The Church Should Give Us A Lead: C.S. Lewis on Modern Social Thought [WATCH LIVE](https://www.youtube.com/live/lmg_EoKnf34?si=VXvJu0mtb1ENTNCM)
 
 Privacy Policy & Terms of Use
 =============================
