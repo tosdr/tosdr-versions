@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Trepanation ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2276%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-trepanation/)
+[![18 Facts About Apollo 14 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/18-facts-about-apollo-14/)
 
-Medicine
+Tech & Sciences
 
-24 Oct 2024
+25 Oct 2024
 
-[35 Facts About Trepanation](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-trepanation/)
+[18 Facts About Apollo 14](https://facts.net/tech-and-sciences/18-facts-about-apollo-14/)
 
-[![35 Facts About Dutch Schultz ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22104%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-dutch-schultz/)
+[![40 Facts About Embolic Stroke Of Undetermined Source ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-embolic-stroke-of-undetermined-source/)
 
-People
+Health Science
 
-24 Oct 2024
+25 Oct 2024
 
-[35 Facts About Dutch Schultz](https://facts.net/history/people/35-facts-about-dutch-schultz/)
+[40 Facts About Embolic Stroke Of Undetermined Source](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-embolic-stroke-of-undetermined-source/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
