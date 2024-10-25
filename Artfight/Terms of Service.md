@@ -154,7 +154,7 @@ We can amend these Terms of Service and Use at any time and will update these Te
 
   
 
-2024 Contributions: **$145210.41**  
+2024 Contributions: **$145413.26**  
 Goal (tier 2): $150000[](https://artfight.net/donate)
 
 Support
