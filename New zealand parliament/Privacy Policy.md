@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/document/OrderPaper_20200721/final-order-paper-for-tuesday-21-july-2020/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/hansard-debate-summaries/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/document/OrderPaper_20200721/final-order-paper-for-tuesday-21-july-2020/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/hansard-debate-summaries/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
