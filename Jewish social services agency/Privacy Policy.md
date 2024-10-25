@@ -25,7 +25,7 @@ JSSA has expanded its mental health team and is now accepting new clients for co
         Learn More](https://www.jssa.org/services/)
         * [In this Section:](#)
         * [Mental Health and Well-Being](https://www.jssa.org/services/mental-health/) 
-        * [Hospice](https://www.jssa.org/services/hospice/) 
+        * [Hospice Services in Montgomery County](https://www.jssa.org/services/hospice/) 
         * [Homecare](https://www.jssa.org/services/homecare/) 
         * [Managing Chronic Illness](https://www.jssa.org/services/chronic-illness/) 
         * [Aging in Place](https://www.jssa.org/services/aging-in-place/) 
@@ -73,7 +73,7 @@ JSSA has expanded its mental health team and is now accepting new clients for co
     
     * [In this Section:](#)
     * [Mental Health and Well-Being](https://www.jssa.org/services/mental-health/)
-    * [Hospice](https://www.jssa.org/services/hospice/)
+    * [Hospice Services in Montgomery County](https://www.jssa.org/services/hospice/)
     * [Homecare](https://www.jssa.org/services/homecare/)
     * [Managing Chronic Illness](https://www.jssa.org/services/chronic-illness/)
     * [Aging in Place](https://www.jssa.org/services/aging-in-place/)
