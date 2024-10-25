@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, October 24, 2024**
+**Friday, October 25, 2024**
 
-**...High Pressure Continues to Promote Mostly Dry and Sunny Conditions Statewide...Isolated Showers To Move Onshore Along Treasure Coast, Southeast Florida, and Keys; Expected to Remain Light and Brief...Locally Sensitive Wildfire Conditions Across Florida Panhandle Due to Dry Conditions Over Last Several Days...Minor Coastal Flooding Persists Along Portions of St. Johns River Basin and Upper and Middle Florida Keys...Moderate to Major Riverine Flooding Continues Along Withlacoochee and St. Johns Rivers; Additional Instances of Minor Flooding Across Northeast and Central Florida...No Tropical Cyclone Development Expected Over the Next 7 Days...**
+**...High Pressure Continues to Promote Mostly Dry and Sunny Conditions Statewide...Isolated Shower Or Two To Move Onshore Along East Coast and Keys; Expected to Remain Light and Brief...Locally Sensitive Wildfire Conditions Across Florida Panhandle Due to Dry Conditions Over Last Several Days and Relative Humidity Values Near Critical Thresholds...Breezy Winds With Gusts near 10-20 MPH Along Much of The Peninsula And Keys...Moderate Risk For Rip Currents Along East Coast and Panhandle...Moderate to Major Riverine Flooding Continues Along Withlacoochee and St. Johns Rivers; Additional Instances of Minor Flooding Across Northeast and West-Central Florida...No Tropical Cyclone Development Expected Over the Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
