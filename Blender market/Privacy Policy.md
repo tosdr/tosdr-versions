@@ -574,31 +574,38 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 
   
 
-![](https://assets.superhivemarket.com/site_assets/images/transparent_bee.png)
+![vertical stripes design](https://assets.superhivemarket.com/site_assets/images/footer_lines.svg)
 
-##### Built by Blenderheads, for the Blender Community
+### Blender Market
 
-Blender Market's goal is to give our community a trusted platform for earning a living with software that we all love, Blender.
+![bee icon](https://assets.superhivemarket.com/site_assets/images/bee_white.svg)
 
-Made with love from the humans behind [![](https://assets.superhivemarket.com/site_assets/images/cgc_logo.png) CG Cookie](https://cgcookie.com/)
+© 2024 Blender Market, LLC  All rights reserved
 
-Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.facebook.com/cgcookieblendermarket/), and [Instagram](https://www.instagram.com/blendermarket3d/)
+[Terms of Use](https://blendermarket.com/policies/terms-of-service) | [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 
-###### Company
+![bee icon](https://assets.superhivemarket.com/site_assets/images/bee_white.svg) ![trihex icon](https://assets.superhivemarket.com/site_assets/images/trihex_white.svg) ![hexglobe icon](https://assets.superhivemarket.com/site_assets/images/hexglobe_white.svg) ![superbutton icon](https://assets.superhivemarket.com/site_assets/images/superbutton_white.svg) ![wing icon](https://assets.superhivemarket.com/site_assets/images/winghex_white.svg)
+
+v2.9.5
+
+#### Follow Us
+
+* [Twitter](https://twitter.com/blendermarket)
+* [Facebook](https://www.facebook.com/cgcookieblendermarket/)
+* [Instagram](https://www.instagram.com/blendermarket3d/)
+
+#### Company
 
 * [About Us](https://blendermarket.com/page/about)
 * [Affiliate Program](https://support.blendermarket.com/article/154-becoming-an-affiliate)
-* [Blog](https://blendermarket.com/posts)
 * [Enterprise](https://blendermarket.com/page/enterprise)
 * [Market Stats](https://blendermarket.com/market-stats)
 
-###### Support
+#### Resources
 
 * [Help Desk](https://support.blendermarket.com/)
 * [Creator Help](https://support.blendermarket.com/collection/1-selling)
-* [Product Licensing](https://support.blendermarket.com/article/226-understanding-product-license-types)
-* [Terms of Use](https://blendermarket.com/policies/terms-of-service)
-* [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
+* [Blog](https://blendermarket.com/posts)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.9.4**
+Made by the humans of [Autotroph](https://autotroph.com/)
