@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
+    
+    NEW By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    
+    [![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/uploads/2023/05/29/id5298246-rsz_suidani-205x123.png.webp)](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
+* [Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://www.theepochtimes.com/us/early-voting-data-indicate-mail-in-voting-wont-be-as-prominent-in-2024-as-it-was-in-2020-post-5747497)
+    
+    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Early Voting Data Indicate Mail-In Voting Won’t Be as Prominent in 2024](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5729645-mail-in-ballots-AP24239719232917-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-data-indicate-mail-in-voting-wont-be-as-prominent-in-2024-as-it-was-in-2020-post-5747497)
+* [Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://www.theepochtimes.com/us/harris-campaigns-in-georgia-with-obama-bruce-springsteen-5747660)
+    
+    1hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    
+    [![Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Campaigns in Georgia with Obama, Bruce Springsteen](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747691-Springsteen-harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-campaigns-in-georgia-with-obama-bruce-springsteen-5747660)
+* [Trump Pushes Early Voting in Arizona](https://www.theepochtimes.com/us/trump-pushes-early-voting-in-arizona-5747572)
+    
+    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Pushes Early Voting in Arizona](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Pushes Early Voting in Arizona](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747567-GettyImages-2179949786-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-pushes-early-voting-in-arizona-5747572)
+* [Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://www.theepochtimes.com/us/trumps-attorneys-seek-election-case-dismissal-say-special-council-appointment-unconstitutional-5747594)
+    
+    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump’s Attorneys Seek Election Case Dismissal, Say Special Council Appointment Unconstitutional](https://img.theepochtimes.com/assets/uploads/2024/06/26/id5675847-Jack-Smith-GettyImages-1570145880-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trumps-attorneys-seek-election-case-dismissal-say-special-council-appointment-unconstitutional-5747594)
+* [McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://www.theepochtimes.com/us/mcdonalds-e-coli-outbreak-linked-to-slivered-onions-served-in-quarter-pounders-5747549)
+    
+    5hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    
+    [![McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![McDonald’s E. Coli Outbreak Linked to Slivered Onions Served in Quarter Pounders](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747683-MCDONALDS-CORP-ECOLI-CUSTOMERS-205x123.jpg.webp)](https://www.theepochtimes.com/us/mcdonalds-e-coli-outbreak-linked-to-slivered-onions-served-in-quarter-pounders-5747549)
 * [Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747449-AP24298665642488-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
 * [In Arizona, Biden to Make Apology for Indian Boarding Schools](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
     
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735279-GettyImages-2175684313-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
 * [Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
     
-    1hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/uploads/2024/04/06/id5623069-04052024-DSC02634-The-Francis-Scott-Key-Bridge-205x123.jpg.webp)](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
 * [Curcumin: The Firefighter Stamping Out Inflammation](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
     
-    3hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough) and [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    9hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough) and [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
     [![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747288-Curcumin_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
-* [Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://www.theepochtimes.com/epochtv/our-boys-are-falling-behind-why-asks-warren-farrell-5738556)
-    
-    3hr By [Jan Jekielek](https://www.theepochtimes.com/author/jan-jekielek), Epoch TV
-    
-    [![Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747115-241023-ATL_Warren-Farrell_HD_TN-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/our-boys-are-falling-behind-why-asks-warren-farrell-5738556)
-* [US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://www.theepochtimes.com/china/us-federal-agencies-failing-to-deter-ccp-political-warfare-says-house-report-5747275)
-    
-    3hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://img.theepochtimes.com/assets/uploads/2024/06/03/id5661967-06032024-DSC02840-James-Comer-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-federal-agencies-failing-to-deter-ccp-political-warfare-says-house-report-5747275)
-* [Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://www.theepochtimes.com/us/vast-majority-of-americans-want-photo-id-and-proof-of-citizenship-to-vote-gallup-5747297)
-    
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747548-NV-Vote-2_JF_10192024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/vast-majority-of-americans-want-photo-id-and-proof-of-citizenship-to-vote-gallup-5747297)
-* [What Dozens of Interviews With Voters in Pennsylvania Reveal](https://www.theepochtimes.com/article/what-dozens-of-interviews-with-voters-in-pennsylvania-reveal-5745388)
-    
-    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![What Dozens of Interviews With Voters in Pennsylvania Reveal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![What Dozens of Interviews With Voters in Pennsylvania Reveal](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747371-Pennsylvania-voters-10-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-dozens-of-interviews-with-voters-in-pennsylvania-reveal-5745388)
-* [Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://www.theepochtimes.com/health/menopause-and-lung-health-how-hormonal-shifts-accelerate-lung-function-decline-5655048)
-    
-    5hr By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
-    
-    [![Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747515-GettyImages-1340719659-205x123.jpg.webp)](https://www.theepochtimes.com/health/menopause-and-lung-health-how-hormonal-shifts-accelerate-lung-function-decline-5655048)
-* [Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://www.theepochtimes.com/us/missouri-bird-flu-investigation-finds-no-evidence-of-human-transmission-cdc-says-5747376)
-    
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730786-shutterstock_2476039745_dairy_milk_cow_flu_h5n1_influenza-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/missouri-bird-flu-investigation-finds-no-evidence-of-human-transmission-cdc-says-5747376)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
