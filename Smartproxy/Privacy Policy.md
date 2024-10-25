@@ -168,6 +168,10 @@ Collect SERP data to optimize SEO strategy and grow a brand's visibility online.
 
 Automate data collection with our custom web scraping solutions.](https://smartproxy.com/use-cases/artificial-intelligence)
 
+[Web browsing
+
+Boost your privacy, access blocked sites, and browse seamlessly online.](https://smartproxy.com/use-cases/web-browser-proxies)
+
 WHAT'S NEW
 
 ![](https://images.smartproxy.com/knowledge_Hub_c0bfdd889d/knowledge_Hub_c0bfdd889d.svg)
