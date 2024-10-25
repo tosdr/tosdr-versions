@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What triggers you about the AN? (9,682)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (9,682 posts)")
-* [Give AN A Nickname! (1,133)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (1,133 posts)")
-* [On Injuncting Roses Without Thorns (111)](https://forum.nationstates.net/viewtopic.php?t=557449&f=24&view=unread#unread ""On Injuncting Roses Without Thorns" (111 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (12,213)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (12,213 posts)")
-* [What is AU/AN's Best Virtue & Worst Sin? (32)](https://forum.nationstates.net/viewtopic.php?t=556611&f=25&view=unread#unread ""What is AU/AN's Best Virtue & Worst Sin?" (32 posts)")
+* [American Politics: Remember, Remember… (3,701)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (3,701 posts)")
+* [Millennium High Point Foreign Investm… (130)](https://forum.nationstates.net/viewtopic.php?t=523347&f=6&view=unread#unread ""Millennium High Point Foreign Investments" (130 posts)")
+* [What Music Are You Listening to? v18 (12,449)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (12,449 posts)")
+* [Maximillian Investment Capital Corpor… (47)](https://forum.nationstates.net/viewtopic.php?t=531768&f=6&view=unread#unread ""Maximillian Investment Capital Corporation" (47 posts)")
+* [Womanly things that men do these days… (566)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (566 posts)")
 
 Advertisement
 
