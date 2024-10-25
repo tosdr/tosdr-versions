@@ -11,7 +11,7 @@ Menu
     * [Pronunciator](https://www.pronunciator.com/libraries/)
     * [Pronunciator ESL](https://www.pronunciator.com/pronunciator-esl/)
     * [Librari: Testing and Certification](https://www.pronunciator.com/librari/)
-    * [Bluebird Languages](https://bluebirdlanguages.com/)
+    * [Bluebird Languages](https://www.pronunciator.com/bluebird/)
 * [Languages](https://www.pronunciator.com/languages/)
     * [315 World Languages](https://www.pronunciator.com/languages/)
     * [144 Home Languages](https://www.pronunciator.com/home-languages/)
