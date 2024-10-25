@@ -19,7 +19,7 @@ FALL SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-361 reviews
+362 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
@@ -31,7 +31,7 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-361 reviews
+362 reviews
 
 ### Sleep Pod Move
 
@@ -43,7 +43,7 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-361 reviews
+362 reviews
 
 ### Hooded Sleep Pod Move
 
@@ -163,10 +163,10 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/BundleImages-Studio1.006_533x533.jpg?v=1699371444)
     
     Hooded Sleep Pod Bundle - Turquoise](https://hugsleep.com/products/hooded-sleep-pod-pair-bundle)
-* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_2_533x533.png?v=1724426031)
+* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_62c26864-77ea-458a-869b-467847c4abec_533x533.png?v=1729882106)
     
     Pod Pillow™ Bundle](https://hugsleep.com/products/pod-pillow%E2%84%A2-bundle)
-* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_1_533x533.png?v=1724367747)
+* [![](//hugsleep.com/cdn/shop/files/HOODEDSLEEPPODBUNDLE_2_4fc8e1ca-7873-475b-92f8-22a9ab02e6bb_533x533.png?v=1729882194)
     
     Hug Body Pillow™ Bundle](https://hugsleep.com/products/hug-body-pillow%E2%84%A2-bundle)
   
