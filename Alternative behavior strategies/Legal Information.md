@@ -1,5 +1,3 @@
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
 ![](https://ib.adnxs.com/seg?add=34076591)
 
 [Skip to content](#content)
@@ -176,16 +174,12 @@ We are required by law to maintain the privacy of your protected health informat
 
 I acknowledge that I have reviewed the Notice of Privacy Practices and was given the opportunity to receive a copy of the Notice.
 
-![Icon - Have a Question?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2051'%3E%3C/svg%3E)
-
 ![Icon - Have a Question?](https://www.abskids.com/wp-content/uploads/have-a-question-icon.svg)
 
 Have a Question?
 ----------------
 
 [Contact Us](https://www.abskids.com/contact/)
-
-![Icon - Find a Location](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2047'%3E%3C/svg%3E)
 
 ![Icon - Find a Location](https://www.abskids.com/wp-content/uploads/location-icon.svg)
 
@@ -206,9 +200,7 @@ Find a Location
 
 [](https://www.linkedin.com/company/abskids/)[](https://twitter.com/abs_kids)[](https://www.facebook.com/alternative.behavior.strategies/)[](https://www.youtube.com/channel/UCQNaEBVMHldv61rde9uJ2xA)[](https://www.instagram.com/abskids_/)[TikTok](https://www.tiktok.com/@abs_kids)
 
-[![BHCOE Badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E)
-
-![BHCOE Badge](https://www.abskids.com/wp-content/themes/abs-2020/img/bhcoe-badge.png)](https://www.bhcoe.org/)
+[![BHCOE Badge](https://www.abskids.com/wp-content/themes/abs-2020/img/bhcoe-badge.png)](https://www.bhcoe.org/) 
 
 [800-434-8923](tel:+18004348923)
 
@@ -232,8 +224,6 @@ Also of Interest:
 * [Privacy Policy](https://www.abskids.com/privacy-policy/)
 * [No Surprises Act](https://www.abskids.com/no-surprises-act/)
 
-        ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](http://bidagent.xad.com/conv/221384?ts=%pord=!?)
+       ![](http://bidagent.xad.com/conv/221384?ts=%pord=!?)  
 
 ![](https://www.facebook.com/tr?id=2298493103687439&ev=PageView&noscript=1)
