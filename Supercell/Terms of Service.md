@@ -19,7 +19,7 @@ DeutschEnglishEspañolFrançaisItalianoNederlandPortuguêsSuomiSvenskaTürkçeР
 TERMS OF SERVICE
 ================
 
-Effective Date: February 24, 2023
+Effective Date: October 15, 2024
 
 The terms of this agreement ("Terms of Service") govern the relationship between you and Supercell Oy, a Finnish company (business ID 2336509-6) having its registered office at Jätkäsaarenlaituri 1, 00180 Helsinki, Finland, (hereinafter "Supercell" or "Us" or "We") regarding your use of Supercell's games, store, sites and related services (the "Service"). Use of the Service is also governed by Supercell's [Privacy Policy](https://supercell.com/en/privacy-policy/) and other relevant policies, which are incorporated herein by reference. 
 
