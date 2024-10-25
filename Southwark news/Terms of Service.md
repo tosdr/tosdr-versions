@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-360x180.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+    
+    ### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+    
+    [![Cllr James McAsh visited the Reception class at Hollydale Primary School. Image- Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-James-McAsh-visited-the-Reception-class-at-Hollydale-Primary-School.-Image-Southwark-Council-360x180.jpg)](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
+    
+    ### [Reflector badges to keep Southwark schoolchildren safe as daylight hours shorten](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
+    
     [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
     
     ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
@@ -39,22 +55,6 @@
     [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
     
     ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
-    
-    [![Poppy Fields at Tower of London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-11.50-360x180.jpg)](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
-    
-    ### [Tower of London to host special lights show throughout November](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
-    
-    [![Emergency services were called to a collision outside Currys on Old Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Emergency-services-were-called-to-a-collision-outside-Currys-on-Old-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
-    
-    ### [Old Kent Road collision: Man arrested on suspicion of drink driving](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
-    
-    [![Redriff Primary schoolchildren are happy to have their boat back](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-21-20-26-54-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
-    
-    ### [Rotherhithe schoolchildren celebrate return of stolen boat sculpture with sea shanty](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
-    
-    ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-360x180.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+    
+    ### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+    
+    [![Cllr James McAsh visited the Reception class at Hollydale Primary School. Image- Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-James-McAsh-visited-the-Reception-class-at-Hollydale-Primary-School.-Image-Southwark-Council-360x180.jpg)](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
+    
+    ### [Reflector badges to keep Southwark schoolchildren safe as daylight hours shorten](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
+    
     [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
     
     ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
@@ -124,22 +140,6 @@ View All Result
     [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
     
     ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
-    
-    [![Poppy Fields at Tower of London](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-11.50-360x180.jpg)](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
-    
-    ### [Tower of London to host special lights show throughout November](https://southwarknews.co.uk/news/tower-of-london-to-host-special-lights-show-throughout-november/)
-    
-    [![Emergency services were called to a collision outside Currys on Old Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Emergency-services-were-called-to-a-collision-outside-Currys-on-Old-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
-    
-    ### [Old Kent Road collision: Man arrested on suspicion of drink driving](https://southwarknews.co.uk/area/bermondsey/old-kent-road-collision-man-arrested-on-suspicion-of-drink-driving/)
-    
-    [![Redriff Primary schoolchildren are happy to have their boat back](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-21-20-26-54-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
-    
-    ### [Rotherhithe schoolchildren celebrate return of stolen boat sculpture with sea shanty](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-schoolchildren-celebrate-return-of-stolen-boat-sculpture-with-sea-shanty/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
-    
-    ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+
+### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+
+[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+
 [![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-120x86.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
 
 ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
@@ -272,12 +278,6 @@ Terms of Use
 ### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
 
 [22nd October 2024](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-
-[![Residents at Barset Sheltered Housing shared their experiences of a bed bug infestation](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2874-120x86.jpeg)](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-
-### [Exclusive: Pensioners ‘living like animals’ in bed bug-infested Nunhead retirement home](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
-
-[22nd October 2024](https://southwarknews.co.uk/area/nunhead/exclusive-pensioners-living-like-animals-in-bed-bug-infested-nunhead-retirement-home/)
 
 ### USEFUL PAGES
 
