@@ -3,7 +3,7 @@
 * [For Publishers](# "For Publishers")
     * [Setupad Self-Serve](https://setupad.com/setupad-self-serve/ "Setupad Self-Serve")
     * [Setupad Bidder](https://setupad.com/setupad-bidder/ "Setupad Bidder")
-    * [Managed Prebid](https://setupad.com/managed-prebid/ "Managed Prebid")
+    * [Setupad Managed Prebid](https://setupad.com/managed-prebid/ "Setupad Managed Prebid")
     * [Setupad CMP](https://setupad.com/cmp/ "Setupad CMP")
     * [Setupad WordPress Plugin](https://setupad.com/wordpress-plugin/ "Setupad WordPress Plugin")
 * [For Advertisers](https://setupad.com/private-marketplace-deals-for-advertisers/ "For Advertisers")
@@ -87,7 +87,7 @@ Products
 
 [Setupad Bidder](https://setupad.com/setupad-bidder/)
 
-[Managed Prebid](https://setupad.com/managed-prebid/)
+[Setupad Managed Prebid](https://setupad.com/managed-prebid/)
 
 [CMP](https://setupad.com/cmp/)
 
