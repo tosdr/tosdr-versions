@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4fa61c0d-df3b-45ce-9939-bc905b111001/20241025T013513/4fa61c0d-df3b-45ce-9939-bc905b111001_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4fa61c0d-df3b-45ce-9939-bc905b111001/20241025T013513/4fa61c0d-df3b-45ce-9939-bc905b111001_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-shooting-victims-identities-causes-of-death/281-89dd0a57-d74d-4b46-a9e4-a9e12ddd9530)
+    *  [![](https://media.king5.com/assets/KING/images/244572383/244572383_16x9.jpg) ![](https://media.king5.com/assets/KING/images/244572383/244572383_360x203.jpg)](https://www.king5.com/article/news/local/marysville-shooting/10-years-marysville-pilchuck-school-shooting/281-887d1454-a298-4976-ac93-a87a8add24aa)
         
-        #### [Teen charged with murder of parents, 3 siblings in Fall City](https://www.king5.com/article/news/crime/fall-city-shooting-victims-identities-causes-of-death/281-89dd0a57-d74d-4b46-a9e4-a9e12ddd9530)
+        #### [10 years later: Marysville Pilchuck High School shooting](https://www.king5.com/article/news/local/marysville-shooting/10-years-marysville-pilchuck-school-shooting/281-887d1454-a298-4976-ac93-a87a8add24aa)
         
-    *  [![](https://media.king5.com/assets/KING/images/262254ab-ff71-425d-a932-7d33737c1ea6/20241024T142353/262254ab-ff71-425d-a932-7d33737c1ea6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/262254ab-ff71-425d-a932-7d33737c1ea6/20241024T142353/262254ab-ff71-425d-a932-7d33737c1ea6_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/family-of-student-denied-right-to-graduate-in-tribal-regalia-takes-legal-action-against-tacoma-public-schools/281-898b146e-d313-4a77-924f-b71e17217fa9)
+    *  [![](https://media.king5.com/assets/KING/images/4c7285b7-5d9b-4567-a7bd-50567b5cef56/20241002T061317/4c7285b7-5d9b-4567-a7bd-50567b5cef56_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c7285b7-5d9b-4567-a7bd-50567b5cef56/20241002T061317/4c7285b7-5d9b-4567-a7bd-50567b5cef56_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-public-schools-announces-closures-2025-2026/281-7dd8a852-cd2a-4b84-80a8-7fef9c24c3de)
         
-        #### [Family of student denied right to graduate in tribal regalia takes legal action against Tacoma Public Schools](https://www.king5.com/article/news/community/facing-race/family-of-student-denied-right-to-graduate-in-tribal-regalia-takes-legal-action-against-tacoma-public-schools/281-898b146e-d313-4a77-924f-b71e17217fa9)
+        #### [Seattle Public Schools proposes closure of 4 elementary schools](https://www.king5.com/article/news/local/seattle/seattle-public-schools-announces-closures-2025-2026/281-7dd8a852-cd2a-4b84-80a8-7fef9c24c3de)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5c35cb31-c012-450d-8d65-3d76af2aeb9c/20241025T011450/5c35cb31-c012-450d-8d65-3d76af2aeb9c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5c35cb31-c012-450d-8d65-3d76af2aeb9c/20241025T011450/5c35cb31-c012-450d-8d65-3d76af2aeb9c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/90029079-e777-4659-bb28-6d0cf7d56da1/20241025T062917/90029079-e777-4659-bb28-6d0cf7d56da1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90029079-e777-4659-bb28-6d0cf7d56da1/20241025T062917/90029079-e777-4659-bb28-6d0cf7d56da1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-51°
+47°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
