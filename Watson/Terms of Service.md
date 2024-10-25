@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)9°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Faits divers](https://www.watson.ch/fr/faits-divers/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Police](https://www.watson.ch/fr/police/)
-* [CFF](https://www.watson.ch/fr/cff/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Genève](https://www.watson.ch/fr/geneve/)
-* [train](https://www.watson.ch/fr/train/)
-* [Santé](https://www.watson.ch/fr/sante/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [Justice](https://www.watson.ch/fr/justice/)
-* [France](https://www.watson.ch/fr/france/)
 * [Nouvelle-Zélande](https://www.watson.ch/fr/nouvelle-zelande/)
+* [guerre](https://www.watson.ch/fr/guerre/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Prix](https://www.watson.ch/fr/prix/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [guerre](https://www.watson.ch/fr/guerre/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [France](https://www.watson.ch/fr/france/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [train](https://www.watson.ch/fr/train/)
+* [CFF](https://www.watson.ch/fr/cff/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Faits divers](https://www.watson.ch/fr/faits-divers/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
