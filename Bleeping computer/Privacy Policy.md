@@ -36,6 +36,9 @@
         
         Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/)
     
+    * [![Try this course deal to train in popular IT certifications for $29.97](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Try this course deal to train in popular IT certifications for $29.97](https://www.bleepingcomputer.com/offer/deals/try-this-course-deal-to-train-in-popular-it-certifications-for-2997/)
     * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
@@ -45,9 +48,6 @@
     * [![Apple creates Private Cloud Compute VM to let researchers find bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Apple creates Private Cloud Compute VM to let researchers find bugs](https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
-    * [![Henry Schein discloses data breach a year after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Henry Schein discloses data breach a year after ransomware attack](https://www.bleepingcomputer.com/news/security/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
