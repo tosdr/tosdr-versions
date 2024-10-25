@@ -82,6 +82,10 @@ Third Party Websites and Social Media Features
 
 This Site may contain links to third party websites (“Linked Site”). Ansira provides these Linked Sites solely for your convenience, and does not control or endorse any of them. Ansira cannot be responsible for the content, security, or privacy policies of such Linked Sites. By accessing other third party websites or applications through this Site, you are consenting to the terms and privacy policies of those websites. It is possible that other parties may collect personally identifiable information about your online activities over time and across different web sites when you use Ansira’s Site. Our Site may include social media features, such as the Facebook “Like” button. These features may collect your IP address and the website pages you are visiting, and may set a cookie to enable the feature to function properly. Social media features are either hosted on a third party website or hosted directly on this Site. Your interactions with these features are governed by the privacy statement of the entity providing them.
 
+Push Notifications
+
+When we send push notifications for our products or applications, the operating system of your device will process some personal data to provide push notifications. Accordingly, data may be sent to an external, third-party notification provider to deliver push notifications. Your device’s push notification services are governed by their own service-specific terms and privacy statements. We are not responsible for the data collected by the company providing the notification service. If you do not want to use the notification services, turn it off in the settings found on your device.
+
 International Visitors
 
 This Site is hosted and operated in the United States (“US”) and elsewhere in the world except Europe. It is not intended to be used by users in, or to offer products or services to residents of, Europe. By using the Site, you are consenting to the transfer of any information related to your use of this Site (including your personal information) to the US or to another jurisdiction other than your own. If you are accessing this Site from outside the US, please be advised that US law (or the law of the jurisdiction ultimately hosting this Site or the related content) may not offer the same privacy protections as the law of your jurisdiction.
@@ -115,4 +119,4 @@ St. Louis, MO, 63103
 
 Last Date for Updates
 
-This Privacy Statement was last updated on April 24, 2020.
+This Privacy Statement was last updated on October 24, 2024.
