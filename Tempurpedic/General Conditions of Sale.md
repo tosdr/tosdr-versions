@@ -43,7 +43,7 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
@@ -290,11 +290,13 @@ Evaluating our products and need advice before you buy?
 
 [### (888) 811-5053](tel:+1-888-811-5053)
 
-Monday - Friday: 9am - 9pm EST
+Monday: 9am - 11pm EST
 
-Saturday: 9am - 6pm EST
+Tuesday - Friday: 9am - 9pm EST
 
-Sunday: 9am - 6pm EST
+Saturday: 9am - 7pm EST
+
+Sunday: 9am - 7pm EST
 
 ![](/static/d47837e9/img/icons/badge-headset.ef059a1ce05c.png)
 
