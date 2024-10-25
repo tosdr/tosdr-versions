@@ -106,9 +106,9 @@ Ebook
 
 Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)
 
-[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
+[Incrementality analysis guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
 
-[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)
+[The future of mobile measurement playbook](https://www.adjust.com/resources/ebooks/future-of-mobile-measurement/)
 
 [Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
 
@@ -224,9 +224,9 @@ Ebook
 
 Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-app-trends-2024/)
 
-[Media mix modeling (MMM) guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
+[Incrementality analysis guide](https://www.adjust.com/resources/guides/incrementality-analysis/)
 
-[PC and console growth marketing guide](https://www.adjust.com/resources/guides/deep-linking/)
+[The future of mobile measurement playbook](https://www.adjust.com/resources/ebooks/future-of-mobile-measurement/)
 
 [Gaming app insights report](https://www.adjust.com/resources/ebooks/gaming-app-insights/)
 
