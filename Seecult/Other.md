@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa/peta-scena-frontalni-prizor.jpg?itok=nPYEtcgL)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/crna-ruka/ruka-ubice/ilija-selman.jpg?itok=FBAaCzUP)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/crna-rukaruka-ubice)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kristalni-globus.jpg?itok=5_3oxPI7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/retrospektiva-zorana-todorovica/zoran-t.jpg?itok=50UmaUNS)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/retrospektiva-zorana-todorovica)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
