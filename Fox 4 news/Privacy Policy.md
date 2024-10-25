@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/gettyimages-2180808203-scaled.jpg?ve=1&tl=1)
+ [![Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180877506.jpg?ve=1&tl=1)
 
- ![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180808203-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
+ ![Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180877506.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/seguin-duchene-have-goal-2-assists-each-stars-down-bruins-5-2)
 
-### [NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
+### [Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://www.fox4news.com/sports/seguin-duchene-have-goal-2-assists-each-stars-down-bruins-5-2)
 
- [![Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kaeden-farish-bedford-tarrant-county-conviction.png?ve=1&tl=1)
+ [![Fire extinguished at Pier 121 Marina in Lewisville](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/lewisville-fire.jpg?ve=1&tl=1)
 
- ![Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kaeden-farish-bedford-tarrant-county-conviction.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/azle-teen-becomes-first-person-tarrant-county-convicted-murder-dealing-fentanyl)
+ ![Fire extinguished at Pier 121 Marina in Lewisville](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/lewisville-fire.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pier-121-marina-lewisville-catches-fire)
 
-### [Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://www.fox4news.com/news/azle-teen-becomes-first-person-tarrant-county-convicted-murder-dealing-fentanyl)
+### [Fire extinguished at Pier 121 Marina in Lewisville](https://www.fox4news.com/news/pier-121-marina-lewisville-catches-fire)
 
- [![Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/10242024-rr-pkg-peyton-frisco-jewelry-theft-crime-_00.00.22.16.jpg?ve=1&tl=1)
+ [![State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/roberson-paxton.jpg?ve=1&tl=1)
 
- ![Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/10242024-rr-pkg-peyton-frisco-jewelry-theft-crime-_00.00.22.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jewelry-thieves-targeting-victims-southeast-asian-descent-during-diwali-frisco-police-warn)
+ ![State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/roberson-paxton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-update-oct-25)
 
-### [Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://www.fox4news.com/news/jewelry-thieves-targeting-victims-southeast-asian-descent-during-diwali-frisco-police-warn)
+### [State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://www.fox4news.com/news/robert-roberson-update-oct-25)
 
- [![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/menendez-brothers-1.jpg?ve=1&tl=1)
+ [![Frozen waffle recall over listeria concerns expanded: see the product list](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/recalled-products.jpg?ve=1&tl=1)
 
- ![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/menendez-brothers-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/da-gascon-menendez-brothers-decision-resentencing)
+ ![Frozen waffle recall over listeria concerns expanded: see the product list](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/recalled-products.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frozen-waffle-recall-2024-expanded-october-listeria)
 
-### [Menendez Brothers: Decision on resentencing recommendation announced](https://www.fox4news.com/news/da-gascon-menendez-brothers-decision-resentencing)
+### [Frozen waffle recall over listeria concerns expanded to include pancakes: see the product list](https://www.fox4news.com/news/frozen-waffle-recall-2024-expanded-october-listeria)
 
- [![TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102424-kst-tcu-protrait-project-enslaved-couple_00.25.56.02.jpg?ve=1&tl=1)
+ [![Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180873728.jpg?ve=1&tl=1)
 
- ![TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102424-kst-tcu-protrait-project-enslaved-couple_00.25.56.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
+ ![Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180873728.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-mavericks-spurs-oct-25)
 
-### [TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
+### [Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://www.fox4news.com/sports/dallas-mavericks-spurs-oct-25)
 
 ###### [News](https://www.fox4news.com/news)
 
