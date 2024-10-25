@@ -1,6 +1,6 @@
 [Skip to content](#mainContentBlock)
 
-[👋 Next.js Conf 2024 - Watch our Keynote Session "Live by Default"](https://www.sanity.io/nextjsconf?ref=banner)
+[Next.js Conf 2024: Your app should be Live by Default 🟥](https://www.sanity.io/live?ref=banner)
 
 [Sanity](https://www.sanity.io/)
 
