@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Sherry Priami, RDH, BA, a dental hygienist and Int ![Sherry Priami, RDH, BA, a dental hygienist and International Federation of Bodybuilding and Fitness professional bodybuilder, showcases an inspiring balance between her career, motherhood, and passion for bodybuilding. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBgmt5pt5rk/) 
+
 [Customized implant maintenance is crucial for prev ![Customized implant maintenance is crucial for preventing complications such as peri-implantitis. Patients with different dental and medical histories require distinct care regimens to ensure long-term success and implant health. Link in bio.⁠
 ⁠
 ⁠
@@ -176,13 +183,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBT1nR1ss4m/) 
-
-[In a landmark decision, the Pennsylvania Supreme C ![In a landmark decision, the Pennsylvania Supreme Court has ruled that a dentist is not entitled to insurance coverage for losses caused by the COVID-19 shutdown without physical damage to the property. The court emphasized that insurance policies require a physical alteration to the property to trigger coverage, rejecting the argument that loss of use alone qualifies. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBRJ9qgtQ84/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
