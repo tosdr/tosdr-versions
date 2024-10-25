@@ -1,10 +1,12 @@
 [Skip to main content](#main-content)
 
+**Sunday 27 October:** Delays and cancellations expected. Check your journey on the day of travel.
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-(1) Travel updatesDisruption
+Travel updatesGood service
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
