@@ -522,6 +522,20 @@ Default Title - $32
 
 ADD TO TOTE
 
+[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+
+![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
+
+### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
+
+512 reviews (512)
+
+$8.00
+
+Default Title - $8
+
+ADD TO TOTE
+
 Subtotal
 
 $0.00
