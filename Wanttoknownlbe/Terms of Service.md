@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hoe-onze-overheid-jou-ongeldig-laat-stemmen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/wie-zijn-de-meesters-achter-het-gordijn/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
