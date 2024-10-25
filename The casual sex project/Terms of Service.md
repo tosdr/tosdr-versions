@@ -90,17 +90,27 @@ New York, NY 10017
 Spotlight
 ---------
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-snap-work-requirements-arent-working-a-case-for-waiver-reform.jpg)[](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/ "Read More")
+
+Issue Brief Economics, Governance
+
+Oct 24 2024
+
+Issue Brief Economics, Governance
+
+Oct 24 2024
+
+### [Why SNAP Work Requirements Aren’t Working](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/) A Case for Waiver Reform
+
+By **[Thomas Cronin](https://admin.mi52siterestore.com/person/thomas-cronin/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/a-model-bill-to-allow-independent-permitting-and-inspections.jpg)[](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/ "Read More")
 
 Issue Brief Economics, Governance
 
 Oct 22 2024
 
-Issue Brief Economics, Governance
-
-Oct 22 2024
-
-### [A Model Bill to Allow Independent Permitting and Inspections](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
+[A Model Bill to Allow Independent Permitting and Inspections](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
 
 By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **11 mins** [Read More](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
 
@@ -133,16 +143,6 @@ Oct 20 2024
 [The Cynic’s Guide to Wokeness](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
 
 By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse.jpg)[](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/ "Read More")
-
-Report Public Safety, Governance
-
-Oct 17 2024
-
-[Not Taking Crime Seriously California’s Prop 47 Exacerbated Crime and Drug Abuse](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
-
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **29 mins** [Read More](https://admin.mi52siterestore.com/article/not-taking-crime-seriously-californias-prop-47-exacerbated-crime-and-drug-abuse/)
 
 Our Policy Areas
 ----------------
