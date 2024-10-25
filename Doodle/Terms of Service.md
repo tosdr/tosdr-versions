@@ -290,7 +290,7 @@ B. **GDPR and UK GDPR Obligations.** Doodle shall: **(i)** assist Customer, to a
 
 **CCPA**
 
-A. **CCPA.** This Section applies to Doodle’s, and Doodle acts as Customer’s service provider with respect to, Processing of Personal Data subject to the CCPA. Customer discloses the Personal Data to Doodle, and Doodle shall Process such Personal Data only for the purposes as set out in this Agreement, including this DPA.
+A. **CCPA.** Doodle acts as Customer’s service provider with respect to, Processing of Personal Data subject to the CCPA. Customer discloses the Personal Data to Doodle, and Doodle shall Process such Personal Data only for the purposes as set out in this Agreement, including this DPA.
 
 B. Doodle shall not: a. sell or share the Personal Data; b. retain, use, or disclose the Personal Data  for any purpose, including a commercial purpose, other than the business purposes as set out in the Agreement, or  outside of the direct business relationship between the parties;  c. combine the Personal Data  with personal data that Doodle receives from, or on behalf of, another person or persons, or collects from its own interaction with the consumer, provided that Doodle may combine Personal Data to perform any business purpose as permitted by the CCPA.
 
