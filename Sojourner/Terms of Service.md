@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a216b752993a561d4534a27f8ab1a19c
+ec323e639f84d260850bdb2dbee63bbb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Fancy jasper puffed oval beads](https://sojourner.biz/images/cache/stone/STN021.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-puffed-oval-beads.html "Fancy jasper puffed oval beads")
+[![Light blue glass oval star clasp](https://sojourner.biz/images/cache/SKU0555front.200.jpg)](https://sojourner.biz/clasps/glass/light-blue-glass-oval-star-clasp.html "Light blue glass oval star clasp")
 
-#### [Fancy jasper puffed oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-puffed-oval-beads.html "Fancy jasper puffed oval beads")
+#### [Light blue glass oval star clasp](https://sojourner.biz/clasps/glass/light-blue-glass-oval-star-clasp.html "Light blue glass oval star clasp")
 
-$12.00
+$34.00
 
 ### Best Sellers
 
