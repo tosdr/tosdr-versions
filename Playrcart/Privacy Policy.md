@@ -1,6 +1,6 @@
 top of page
 
-[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_166,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
+[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_206,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
 
 [BOOK A DEMO](https://www.glui.io/)
 
@@ -772,7 +772,7 @@ contents15
 
 [Sub-Processors](https://www.glui.io/sub-processors)
 
-![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_90,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)
+![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_117,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)
 
 Solutions
 =========
