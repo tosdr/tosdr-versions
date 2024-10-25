@@ -155,3 +155,4 @@ Your obligations under the following sections survive termination of this Agreem
 
 * [Privacy Policy](https://www.genoahealthcare.com/privacy-policy/)
 * [Terms of Use](https://www.genoahealthcare.com/website-terms-of-use/)
+* [Language Assistance and Notice of Nondiscrimination](https://www.genoahealthcare.com/language-assistance-and-notice-of-nondiscrimination/)
