@@ -3,6 +3,16 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
+[Hallowheel 2024
+
+Tricks? Treats? Take a spin and find out.
+
+SPIN TO WIN
+
+_keyboard\_arrow\_right_](https://drop.com/featured/hallowheel-2024)
+
+Free Standard Shipping in the US on orders over $99
+
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
