@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Taxidermy Nightmares! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/bad-taxidermy-nature/1/)
-* [Bad-Ass Presidential Moments!](https://www.somethingawful.com/photoshop-phriday/badass-presidential-moments/1/)
-* [Meet Uncle Jack!](https://www.somethingawful.com/comedy-goldmine/uncle-jack-mspaint/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [The Pedo Files](https://www.somethingawful.com/weekend-web/the-pedo-files/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [Rifts World Book Japan](https://www.somethingawful.com/dungeons-and-dragons/rifts-japan/1/)
+* [Behind the Scenes: Uwe Boll and Uwe Boll's Alone In the Dark](https://www.somethingawful.com/feature-articles/behind-scenes-uwe/1/)
+* [Botched Movie Titles](https://www.somethingawful.com/photoshop-phriday/botched-movie-titles/1/)
+* [Oblivion's Wonderful Legacy (Act II) - Erotic Fun for Adult Children](https://www.somethingawful.com/feature-articles/oblivion-mods-two/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)](http://forums.somethingawful.com/showthread.php?threadid=4073475 "(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/attention.png) [How often do you vanity search?](http://forums.somethingawful.com/showthread.php?threadid=4073494 "How often do you vanity search?")
 * ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [What's your go-to regional/macro brew?](http://forums.somethingawful.com/showthread.php?threadid=4073493 "What's your go-to regional/macro brew?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Why dont public schools have social skills classes?](http://forums.somethingawful.com/showthread.php?threadid=4073466 "Why dont public schools have social skills classes?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)](http://forums.somethingawful.com/showthread.php?threadid=4073475 "(Spooky) Goons Vs. Lethal Company (Friday, Oct 25, 7PM Central)")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [HELP I think somebody is t](http://forums.somethingawful.com/showthread.php?threadid=4073517 "HELP I think somebody is t")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-sandwich.gif) [Does everyone just have to work overtime now?](http://forums.somethingawful.com/showthread.php?threadid=4073478 "Does everyone just have to work overtime now?")
 
 ### Random Articles
 
-* [Vampiyaz](https://www.somethingawful.com/movie-reviews/vampiyaz/1/)
-* [Generation Web Design](https://www.somethingawful.com/awful-links/awful-link-990/)
-* [Manly Men and such forth](https://www.somethingawful.com/news/manly-men-such/)
-* [State Og Update: 08.17.03](https://www.somethingawful.com/state-og/state-og-update-36/)
-* [What the hell is in my food?](https://www.somethingawful.com/photoshop-phriday/strange-food-mishaps/1/)
+* [Awesome Free Cursors (Thanks, The Worst Unicorn!)](https://www.somethingawful.com/awful-links/awesome-free-cursors/)
+* [New Affordable Healthcare Plans](https://www.somethingawful.com/news/healthcare-changes/)
+* [Karyu Art](https://www.somethingawful.com/awful-links/karyu-art-tied/)
+* [A Harrowing Account of One Man's... (Part 1)](https://www.somethingawful.com/comedy-goldmine/starwar-betamax-harrowing/1/)
+* [P...please do not elect the coffee man](https://www.somethingawful.com/news/coffee-gentle-creature/)
 
 [Random!](https://www.somethingawful.com/random/)
 
