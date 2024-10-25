@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b46a788b-34ef-426f-8bb9-a6f8eeec201f/20241025T044714/b46a788b-34ef-426f-8bb9-a6f8eeec201f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b46a788b-34ef-426f-8bb9-a6f8eeec201f/20241025T044714/b46a788b-34ef-426f-8bb9-a6f8eeec201f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/suspected-lightning-strike-house-fire-rock-island/526-7fc4d01c-e397-402e-8b47-e07bac7f212e)
+        
+        #### [Suspected lightning strike leads to house fire in Rock Island](https://www.wqad.com/article/news/local/public-safety/suspected-lightning-strike-house-fire-rock-island/526-7fc4d01c-e397-402e-8b47-e07bac7f212e)
+        
     *  [![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_360x203.jpg)](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
         
         #### [Body of female found in Mississippi River near Davenport](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
-        
-    *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
-        
-        #### [Storms, much-needed rain forecasted to move into the Quad Cities region Thursday night](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-54°
+52°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
