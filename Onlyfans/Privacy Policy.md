@@ -149,7 +149,7 @@ By using OnlyFans, you acknowledge that you have read and understand the informa
     * **Periodic authentication of your age and identity**
         
         * During the time that you hold an account with us, we may require you to periodically authenticate your identity. If you have gone through the third-party age identity verification process, where permitted by applicable law our third-party providers may retain Face Recognition Data to enable you to authenticate your identity. Where this is retained, you do not need to provide the third-party provider with your government identity document again when authenticating your identity.
-        * **Withdrawing your consent:** You may request the withdrawal of your consent to the retention of your Face Recognition Data for the purposes of subsequent authentication (and delete this) by contacting [privacy@onlyfans.com](mailto:privacy@onlyfans.com). While withdrawing your consent to the retention of your Face Recognition Data will not affect your ability to complete a subsequent authentication process, it may require you to provide the third-party provider with your government identity document again during the authentication process.
+        * **Withdrawing your consent:** You may request the withdrawal of your consent to the retention of your Face Recognition Data for the purposes of subsequent authentication (and delete this) by contacting [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection). While withdrawing your consent to the retention of your Face Recognition Data will not affect your ability to complete a subsequent authentication process, it may require you to provide the third-party provider with your government identity document again during the authentication process.
     
 10. How / why your Personal Data is used and lawful bases for processing
     ====================================================================
@@ -361,7 +361,7 @@ By using OnlyFans, you acknowledge that you have read and understand the informa
     
     We have determined that the value of the Referral Program is reasonably related to the value of the Personal Data we process in connection with the Referral Program (based on our reasonable but sole determination). We estimate the value of the Personal Data we receive and otherwise process in connection with the Referral Program by considering the expense we incur in collecting and processing the Personal Data, as well as the expenses related to facilitating the Referral Program.
     
-    You may exercise your rights in relation to your Personal Data as outlined in this Policy, and as applicable, by submitting a ticket through your account or by emailing [privacy@onlyfans.com](mailto:privacy@onlyfans.com).
+    You may exercise your rights in relation to your Personal Data as outlined in this Policy, and as applicable, by submitting a ticket through your account or by emailing [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection).
     
     NEVADA SPECIFIC DISCLOSURES
     
@@ -372,7 +372,7 @@ By using OnlyFans, you acknowledge that you have read and understand the informa
     
     We have appointed a Data Protection Officer ("**DPO**") whose responsibilities include, together with our team of privacy specialists, responding to questions, requests, and concerns in relation to this Policy and our use of Personal Data.
     
-    If you have questions about this Policy, or how we process your Personal Data, please submit a [ticket](https://onlyfans.com/my/tickets/create) through your account or email us at [privacy@onlyfans.com](mailto:privacy@onlyfans.com) .
+    If you have questions about this Policy, or how we process your Personal Data, please submit a [ticket](https://onlyfans.com/my/tickets/create) through your account or email us at [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection).
     
     We have also appointed an EU Representative who may be reached as follows:
     
@@ -380,7 +380,7 @@ By using OnlyFans, you acknowledge that you have read and understand the informa
     Poland Company Number 0000688178  
     Zurawia 47 Street  
     00-680 Warsaw, Poland  
-    [fenix.eurep@dapr.pl](mailto:fenix.eurep@dapr.pl)
+    [\[email protected\]](https://onlyfans.com/cdn-cgi/l/email-protection)
     
 
 **Last updated: August 2024**
