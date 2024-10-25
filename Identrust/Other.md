@@ -155,7 +155,6 @@ We will provide the information we have within 30 days of receiving your request
 
 * **[Partners](https://www.identrust.com/partners)**
 * [Affiliated Program Partners](https://www.identrust.com/partners/affiliated)
-* [Integrated Solutions Partners](https://www.identrust.com/partners/solution)
 * [Trust Network Compliant Partners](https://www.identrust.com/partners/compliant)
 
 * **[Pricing](https://www.identrust.com/certificates-portfolio)**
