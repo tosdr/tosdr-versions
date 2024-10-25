@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Compliance
+[Government
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
-
-[Microsoft Dynamics CRM
-
-The Hidden Risks of Citizen Development in Power Platform](https://www.ownbackup.com/blog/the-hidden-risks-of-citizen-development-in-power-platform)
+How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
 
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Compliance
+[Government
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
-
-[Microsoft Dynamics CRM
-
-The Hidden Risks of Citizen Development in Power Platform](https://www.ownbackup.com/blog/the-hidden-risks-of-citizen-development-in-power-platform)
+How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
 
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
 
 Company
 
