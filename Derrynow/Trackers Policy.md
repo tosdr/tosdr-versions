@@ -287,13 +287,6 @@ Most Popular
 [Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](https://www.derrynow.com/news/arts---entertainment/1638775/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 24 2024](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Musician who told female hospital patient that he had healing hands granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Musician who told female hospital patient that he had healing hands granted bail")](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -315,15 +308,6 @@ Most Popular
 [Two men returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Changes to Derry's cemetery opening and closing times](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Changes to Derry's cemetery opening and closing times")](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
-
-Cemeteries will revert to winter opening hours from this weekend
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Counterfeit goods worth over £200K seized by Trading Standards Officers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Counterfeit goods worth over £200K seized by Trading Standards Officers")](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
 
 Seized goods
@@ -332,6 +316,24 @@ Seized goods
 
 [Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit")](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
+
+A sea of red and white as Hollybush Primary School welcomes Derry City players, Mark Connolly, Shane McEleney and Danny Mullen on Tuesday afternoon. (Photos: Jim McCafferty Photography)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Changes to Derry's cemetery opening and closing times](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Changes to Derry's cemetery opening and closing times")](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
+
+Cemeteries will revert to winter opening hours from this weekend
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, October 25 2024](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans")](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
 
 The newly appointed committee pictured at the recent AGM.
@@ -526,7 +535,7 @@ The newly appointed committee pictured at the recent AGM.
 [Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner")](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
+[![Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_24/1729785903749_0.jpg--.jpg?1729785904061 "Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner")](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,13 +564,6 @@ Seized goods
 
 [Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man charged with wounding with intent to cause grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
