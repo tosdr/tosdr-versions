@@ -28,7 +28,7 @@ Menu
         
         [Miraculous](https://www.playmobil.com/en-us/content/miraculous_themepage/miraculous_themepage.html "Miraculous")[Princess Magic](https://www.playmobil.com/en-us/content/princess_magic_themepage/princess_magic_themepage.html "Princess Magic")[Pirates](https://www.playmobil.com/en-us/content/pirates_themepage/pirates_themepage.html "Pirates")[Western](https://www.playmobil.us/en-us/web-shop/western/ "Western")[Novelmore](https://www.playmobil.us/en-us/web-shop/novelmore/ "Novelmore")
         
-        [Ayuma](https://www.playmobil.us/en-us/web-shop/ayuma/ "Ayuma")[Dino Rise](https://www.playmobil.us/en-us/web-shop/dino-rise/ "Dino Rise")[Dinos](https://www.playmobil.us/en-us/web-shop/dinos/ "Dinos")[SCOOBY-DOO!](https://www.playmobil.us/en-us/web-shop/scooby-doo%21/ "SCOOBY-DOO!")
+        [Ghostbusters](https://www.playmobil.us/en-us/web-shop/ghostbusters/ "Ghostbusters")[Ayuma](https://www.playmobil.us/en-us/web-shop/ayuma/ "Ayuma")[Dino Rise](https://www.playmobil.us/en-us/web-shop/dino-rise/ "Dino Rise")[Dinos](https://www.playmobil.us/en-us/web-shop/dinos/ "Dinos")[SCOOBY-DOO!](https://www.playmobil.us/en-us/web-shop/scooby-doo%21/ "SCOOBY-DOO!")
         
     * Fans & Collectors
         
