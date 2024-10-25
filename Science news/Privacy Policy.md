@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Drop in vaping drives tobacco product use by U.S. youth to a record low](https://www.sciencenews.org/article/vaping-tobacco-use-youth-record-low)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")4 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")37 mins ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
             
             By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")October 23, 2024
-            
-        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
-            
-            ### [Silk Road cities reached surprising heights in Central Asia’s mountains](https://www.sciencenews.org/article/silk-road-cities-central-asia-mountains)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")October 23, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")37 mins ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")6 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [The U.S. empire was built on bird dung](https://www.sciencenews.org/article/us-empire-built-bird-dung)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")3 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")8 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [The ‘Mekong ghost’ megafish has resurfaced after an extinction scare](https://www.sciencenews.org/article/mekong-ghost-megafish-rediscovered) 
             
-            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")23 hours ago
+            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")October 24, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
