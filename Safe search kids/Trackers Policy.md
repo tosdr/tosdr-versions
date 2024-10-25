@@ -635,11 +635,11 @@ Share This Article
 
  
 
-[![The History of Halloween for Students](https://www.safesearchkids.com/wp-content/uploads/2023/10/Happy-Halloween-The-History-of-Halloween.jpg)](https://www.safesearchkids.com/the-history-of-halloween/)
+[![Excited Parents Looking at Phone](https://www.safesearchkids.com/wp-content/uploads/2024/10/Excited-Parents.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### 
 
-[The History of Halloween](https://www.safesearchkids.com/the-history-of-halloween/)
+[Parental Controls 15% Off](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### Article Categories
 
@@ -654,20 +654,22 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![Excited Parents Looking at Phone](https://www.safesearchkids.com/wp-content/uploads/2024/10/Excited-Parents.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
+[![Classroom Halloween Party Ideas](https://www.safesearchkids.com/wp-content/uploads/2022/09/kids-having-fun-at-halloween-party.jpg)](https://www.safesearchkids.com/ideas-for-your-classrooms-halloween-party/)
 
 ### 
 
-[Parental Control SALE](https://www.safesearchkids.com/best-parental-control-app/)
+[School Halloween Party Ideas](https://www.safesearchkids.com/ideas-for-your-classrooms-halloween-party/)
 
-[![Safe Search Engine](https://www.safesearchkids.com/wp-content/uploads/2023/09/Safe-Kids-Search-Engine.jpg)](https://www.safesearchkids.com/kids-search-engine/)
+[![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
 
 ### 
 
-[The Safe Search Engine](https://www.safesearchkids.com/kids-search-engine/)
+[Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
 * [Amazon Prime 6 FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
-* [12 Must-Read Parenting Books](https://www.safesearchkids.com/parenting-books/)
+
+**Safe Search Kids has partnered with Grafari and Calcularis** to provide personalized learning apps for every child's success. [**Grafari**](https://constructor.tech/lp/grafari-us?utm_source=awin&utm_medium=paid&utm_campaign=grafari-o) empowers children to master reading and spelling. [**Calcularis**](https://constructor.tech/lp/calcularis-trial?utm_source=awin&utm_medium=paid&utm_campaign=calcularis) ignites an excitement for learning fundamental math skills.  
+  
 
 ### Parenting and Well-Being
 
@@ -858,8 +860,6 @@ Share This Article
 * [Ransomware Protection](https://www.safesearchkids.com/ransomware-protection/)
 * [The Fediverse and Social Media: What is it? Is it Safe?](https://www.safesearchkids.com/the-fediverse-and-its-relatiionship-with-social-media/)
 
-![Google Safe Search](https://www.safesearchkids.com/wp-content/uploads/2024/01/Safe-Search-Kids-4.jpg) Explore the Safe Search Engine - [Google for Kids](https://www.safesearchkids.com/google-kids/)
-
 ### Parental Controls
 
 * [The Rise of the AI Generation – Qustodio Report](https://www.safesearchkids.com/the-rise-of-the-ai-generation/)
@@ -892,8 +892,6 @@ Share This Article
 * [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
 * [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
-
-![Safe Search](https://www.safesearchkids.com/wp-content/uploads/2024/09/Safe-Search.jpg)
 
 Safe and Secure Internet Browsing
 ---------------------------------
