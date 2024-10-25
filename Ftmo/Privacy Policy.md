@@ -30,25 +30,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/privacy-policy/)
+        Español](https://ftmo.com/es/privacy-policy/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/privacy-policy/)
+        Deutsch](https://ftmo.com/de/privacy-policy/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/politique-de-confidentialite-hors-usa/)
+        Français](https://ftmo.com/fr/politique-de-confidentialite-hors-usa/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/pravidla-zpracovani-osobnich-udaju/)
+        Čeština](https://ftmo.com/cs/pravidla-zpracovani-osobnich-udaju/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/privacy-policy/)
+        Italiano](https://ftmo.com/it/privacy-policy/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/privacy-policy-countries-outside-of-usa/)
+        Tiếng Việt](https://ftmo.com/vi/privacy-policy-countries-outside-of-usa/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/politica-privacidade/)
+        Português](https://ftmo.com/pt/politica-privacidade/)
 * [](https://ftmo.com/?s=)
     
      
@@ -87,25 +87,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/privacy-policy/)
+        Español](https://ftmo.com/es/privacy-policy/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/privacy-policy/)
+        Deutsch](https://ftmo.com/de/privacy-policy/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/politique-de-confidentialite-hors-usa/)
+        Français](https://ftmo.com/fr/politique-de-confidentialite-hors-usa/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/pravidla-zpracovani-osobnich-udaju/)
+        Čeština](https://ftmo.com/cs/pravidla-zpracovani-osobnich-udaju/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/privacy-policy/)
+        Italiano](https://ftmo.com/it/privacy-policy/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/privacy-policy-countries-outside-of-usa/)
+        Tiếng Việt](https://ftmo.com/vi/privacy-policy-countries-outside-of-usa/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/politica-privacidade/)
+        Português](https://ftmo.com/pt/politica-privacidade/)
 * [Client Area](https://trader.ftmo.com/?lang=en)
 
 Privacy Policy
