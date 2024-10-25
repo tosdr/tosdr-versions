@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/persbureaus-en-reuters-in-het-bijzonder/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/gmo-zalm-onderweg-naar-jouw-bord/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
