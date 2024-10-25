@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/women-need-know-about-preventing-first-stroke-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/type-2-diabetes-low-carb-discontinue-medication-1440x810.jpg)
 
-What Women Need to Know About Preventing a First Stroke](https://www.everydayhealth.com/heart-health/what-women-need-to-know-about-preventing-a-first-stroke/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Low-Carb Diets May Stall the Progression of Type 2 Diabetes](https://www.everydayhealth.com/diabetes/low-carb-diets-may-stall-progression-of-type-2-diabetes/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/e-coli-outbreak-mcdonalds-quarter-pounders-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/how-well-balance-one-leg-future-mobility-1440x810.jpg)
 
-Multistate E. Coli Outbreak Tied to McDonald’s Quarter Pounders](https://www.everydayhealth.com/infectious-diseases/multistate-e-coli-outbreak-tied-to-mcdonalds/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+ To See How Well You’re Aging, Try Standing on One Leg](https://www.everydayhealth.com/healthy-aging/to-see-how-well-youre-aging-try-standing-on-one-leg/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
