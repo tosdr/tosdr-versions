@@ -31,1073 +31,1021 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Chelsea vence sin Moisés Caicedo en Conference League
-=====================================================
+Cortes de luz en Quito este viernes 25 de octubre
+=================================================
 
-El Chelsea venció sin Moisés Caicedo en la segunda fecha de la UEFA Conference League al Panathinaikos de Grecia como visitante.
---------------------------------------------------------------------------------------------------------------------------------
+Los cortes de luz en Quito para este viernes 25 de octubre se mantienen en dos franjas horarias.
+------------------------------------------------------------------------------------------------
 
-![Christopher Nkunku, celebra un gol del Chelsea de Moisés Caicedo, en Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/10/408bbc895619d0eacec003abb225da221f71ca3e.jpg)
+![Los cortes de luz en Quito este viernes 25 de octubre duran hasta ocho horas, divididas en dos franjas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-viernes-25-octubre.jpg)
 
-Una sobresaliente actuación de **João Félix**, autor de un doblete, permitió al Chelsea prolongar su pleno de victorias en la Liga Conferencia con una goleada este jueves (1-4) al **Panathinaikos**, en un encuentro en el que el atacante portugués se reivindicó ante el técnico de los ‘blues’, el italiano Enzo Maresca.
+Los horarios de los **cortes de luz** en **Quito** este **viernes 25 de octubre** también se aplicarán el sábado.
 
-“**No es que no lo esté haciendo bien durante la semana, es que los que están jugando en este momento lo están haciendo muy bien.** João simplemente tiene que seguir trabajando como lo está haciendo y ojalá podamos darle más minutos y oportunidades”, señaló Maresca en la previa del partido.
-
-### Más noticias:
-
-* [¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?](https://www.elcomercio.com/deportes/moises-caicedo-conference-league-chelsea-panathinaikos.html "¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?")
-* [Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-liverpool-asistencia-capitan.html "Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool")
-* [¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-de-moises-caicedo-contra-el-liverpool.html "¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?")
-
-**Joao Félix**, que el domingo pasado no disputó ni un solo minuto en la derrota (2-1) del Chelsea en el campo del **Liverpool**, todavía no ha sido titular en ninguno de los cinco partidos ligueros desde que llegó el pasado mes de agosto al conjunto londinense procedente del Atlético de Madrid.
-
-Titularidad que el atacante portugués si ha encontrado en la Liga Conferencia, la tercera competición continental, que **Maresca** ha decidido jugar con la unidad ‘b’, como atestiguan los once cambios que el preparador italiano introdujo este jueves en Atenas con relación al once titular que alineó en Anfield.
-
-Un Chelsea de estrellas no necesitó de Moisés Caicedo
------------------------------------------------------
-
-Un equipo ‘reserva’, eso sí, plagado de estrellas con jugadores como el español **Marc Cucurella**, el argentino Enzo Fernández, el ucraniano **Mykhailo Mudryk** o el francés **Christopher Nkunku**.
-
-Aunque si alguien destacó por encima de todos, ese fue **João Félix**, que dejó claro que quiere dejar de jugar entre semana en la Liga Conferencia y ser titular los fines de semana en los partidos de la Liga inglesa.
-
-Una reivindicación que el atacante luso justificó con goles y destellos de talento y a los veintidós minutos abrió el marcador para el **Chelsea** tras culminar una rápida transición que el mismo se encargó de iniciar.
-
-João Félix y Nkunku sellaron la victoria
-----------------------------------------
-
-A los diez minutos de la segunda mitad, el portugués encarriló definitivamente el triunfo del conjunto inglés con un remate desde el borde del área que se convirtió en el momentáneo **0-3** tras tocar en un defensa local.
-
-Goles a los que **João Félix** sumó el pase que provocó el penalti que permitió a Nkunku firmar el 0-4 que convirtió en una mera anécdota el posterior tanto del uruguayo **Facundo Pellistri** para el Panathinaikos que estableció el definitivo 1-4 a los sesenta y nueve minutos. 
-
-Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS
-===================================================================================
-
-El grupo de países emergentes está formado por Brasil, Rusia, India, China y Sudáfrica.
----------------------------------------------------------------------------------------
-
-![El presidente ruso Vladimir Putin (R) da la bienvenida al presidente de Venezuela, Nicolás Maduro, antes de su reunión al margen de la cumbre de los BRICS en Kazán, Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/10/maduro-putin-efe.jpg)
-
-En la **reciente cumbre de los BRICS**, realizada en Kazán, Venezuela quedó en una posición incómoda. Aunque Nicolás Maduro recibió un respaldo explícito del presidente ruso, Vladimir Putin, el veto de Brasil impidió el ingreso de Venezuela.
-
-### Más noticias
-
-El grupo de países emergentes está formado por **Brasil, Rusia, India, China y Sudáfrica**. Esta negativa marca una clara división dentro del bloque sobre la integración de nuevos miembros.
-
-Putin elogió a Maduro por su **liderazgo frente a las sanciones internacionales y los problemas económicos en Venezuela.** Durante su intervención, transmitida por televisión, afirmó que “Venezuela es un **socio confiable de Rusia** en América Latina”.
-
-Sin embargo, este apoyo no logró superar las reticencias de Brasil, cuyo presidente, Luiz Inácio Lula da Silva, se **mostró reacio a incluir a Venezuela** en el grupo, citando preocupaciones políticas y económicas, informa diario El País.
-
-Brasil frena la incorporación de Venezuela a los BRICS
-------------------------------------------------------
-
-El rechazo de Brasil a la inclusión de Venezuela se hizo evidente cuando el asesor en política internacional de Lula, Celso Amorim, explicó que era necesario ser **cuidadosos al expandir el bloque.** “No queremos crear un nuevo G-77”, declaró Amorim a CNN Brasil. Este veto también refuerza la postura de Brasil sobre las recientes elecciones en Venezuela, marcadas por acusaciones de fraude, indica El País.
-
-Como destacó El País, aunque Maduro obtuvo el respaldo de líderes como Putin, la posición de Brasil ha sido un golpe significativo en su intento de unir a Venezuela al bloque.
-
-Kendry Páez nuevamente es tendencia en Ecuador
-==============================================
-
-Kendry Páez ha perdido espacio en el equipo titular de Independiente del Valle en el segundo semestre.
-------------------------------------------------------------------------------------------------------
-
-![Kendry Páez con Independiente del Valle enfrentando a Boca en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_futbol_1.jpg)
-
-**Kendry Páez** es, sin dudarlo, uno de los jugadores de fútbol más mediático en el fútbol ecuatoriano en el último lustro, tanto por todo lo que hace en un campo de fútbol, como lo que hace fuera de él.
-
-Con 17 años, **Kendry Páez vive sus último meses en Ecuador**, puesto que en junio de 2025 tiene que hacer maletas y mudarse a Londres para unirse al Chelsea, club al que fue transferido en el 2023 desde Independiente del Valle.
+La **Empresa Eléctrica Quito (EEQ)** emitió la programación diaria en la capital.
 
 ### Más noticias:
 
-* [Desde Bolivia califican de ‘criminal e inhumano’ jugar en Ecuador](https://www.elcomercio.com/deportes/bolivia-ecuador-guayaquil-cortes-luz.html "Desde Bolivia califican de ‘criminal e inhumano’ jugar en Ecuador")
-* [Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual](https://www.elcomercio.com/deportes/jorge-valdivia-segunda-acusacion-chile-abuso.html "Jorge Valdivia, histórico futbolista de Chile, suma nueva acusación de abuso sexual")
-* [Ariel Holan critica la inestabilidad deportiva de Barcelona SC](https://www.elcomercio.com/deportes/futbol/ariel-holan-critica-la-inestabilidad-deportiva-barcelonasc.html "Ariel Holan critica la inestabilidad deportiva de Barcelona SC")
+* [Inés Manzano se pronunció sobre el estado del embalse de Mazar](https://www.elcomercio.com/actualidad/negocios/ines-manzano-mejoria-mazar.html "Inés Manzano se pronunció sobre el estado del embalse de Mazar")
+* [Ministra de Energía habló de los horarios de cortes de luz para las próximas semanas](https://www.elcomercio.com/actualidad/negocios/ministra-energia-refirio-horarios-cortes-luz-proximas-semanas.html "Ministra de Energía habló de los horarios de cortes de luz para las próximas semanas")
 
-Desde el 2023, Páez ha tenido un **ascenso meteórico en el fútbol ecuatoriano** en el que batió todo tipo de récords, en gran medida, ligados a su corta edad y al talento que muestra a la hora de anotar goles, tanto en su club, como en la selección.
+Horarios de cortes de luz en Quito este viernes 25 de octubre
+-------------------------------------------------------------
 
-Con 15 años, 9 meses, y 21 días, **debutó con Independiente en la Liga Pro**. Fue en el estadio La Cocha de Latacunga en la victoria 3-1 ante Mushuc Runa, con un golazo incluido.
+Luego de tener cortes de luz de hasta 10 horas, esta es la primera semana que Quito y el resto del país se acogen a una reducción en el horario de hasta 8 horas.
 
-Con la Selección de Ecuador **absoluta su debut fue con los 16 años, 4 meses y ocho días**, con el español Félix Sánchez en la zona técnica, enfrentando a Uruguay en el estadio Rodrigo Paz Delgado en la segunda fecha de las eliminatorias al Mundial 2026.
+Aunque la disposición fue una iniciativa del Gobierno de Daniel Noboa, la ministra de Energía encargada, Inés Manzano, no descartó cambios.
 
-A su edad le sumó tener el récord de precocidad de goles en eliminatorias (vs. Bolivia) y en la Copa América (vs. Jamaica).
+Manzano no descartó que se modifiquen estos horarios de los cortes de luz y se suspenda la reducción de los racionamientos. Estas declaraciones las hizo en una entrevista con radio Armónica, la mañana de este jueves.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/paez_futbol_2-1024x683.jpg)
+Ante la pregunta, si está confirmado que los cortes de luz de la semana del 28 de octubre al 3 de noviembre serán de seis horas diarias o si habrá cambios. Manzano respondió: “No puedo descartar algo así (cambios), sería una irresponsable”, dijo.
 
-¿Por qué es tendencia Páez?
----------------------------
+PUBLICIDAD
 
-El 2024 de Páez se ha vuelto una montaña rusa. Poco a poco a perdido protagonismo y espacio en el equipo titular de IDV, **su presente con la Tri no es el esperado por la calidad que posee**, y fuera de las canchas ha estado involucrado en más de una polémica.
+Además, agregó que los anuncios de reducción de dos horas en los cortes de luz, hasta llegar a 4 horas diarias durante la primera semana de noviembre, se hizo con base en predicciones del clima y a la información proporcionada por el **Instituto Nacional de Meteorología e Hidrología (Inamhi)**, pero estas han cambiado.
 
-En las últimas horas, su nombre es tendencia en las redes sociales, principalmente en X, por un video en donde se lo ve jugando un ‘picado’ de fútbol en cancha de cemento junto a un grupo de amigos.
+La **semana del 28 de noviembre** los cortes serían de hasta seis horas de duración y la **semana del 4 de noviembre** de hasta cuatro horas de duración.
 
-Con una sonrisa en su **rostro se lo ve disfrutando de un momento ameno**, tal como lo hacen cientos de personas en el país en la calle o en cualquier sitio que permita disputar un partido.
+Mientras tanto, los cortes de luz en Quito para este viernes 25 de octubre se mantienen con una duración de hasta **ocho horas y en dos franjas horarias**.
 
-> Aquí les pongo un video de Kendry Páez divirtiéndose con unos chicos y grandes en un partido de indor. El chico es un crack que está con un bajón, tendrá que volver a su nivel. Un buen picadito entre semana. [pic.twitter.com/faGbdSob8R](https://t.co/faGbdSob8R)
+A continuación, los cortes de luz en **Quito este viernes 25 de octubre de 2024:**
+
+Quito con lluvia en diferentes sectores este jueves 24 de octubre ¿Cuál es el motivo?
+=====================================================================================
+
+El Inamhi pronosticó las lluvias la tarde de este jueves en Quito.
+------------------------------------------------------------------
+
+![El ECU-911 reportó los sectores con lluvia en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvia-quito.jpg)
+
+**Lluvia** en diferentes sectores de **Quito** se registró la tarde y la noche de este **jueves 24 de octubre** de 2024.
+
+Tras **más de 10 días** sin precipitaciones, la capital tuvo un ligero cambio de clima esta tarde.
+
+### Más noticias:
+
+* [Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?](https://www.elcomercio.com/actualidad/ecuador/temperatura-aumenta-ecuador-que-pasa-con-lluvias.html "Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?")
+* [Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?](https://www.elcomercio.com/actualidad/ecuador/cuenca-lluvias-rios.html "Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?")
+
+Lluvia en Quito este jueves 24 de octubre de 2024
+-------------------------------------------------
+
+El **ECU 911** informó que se registró **lluvias moderadas** a través de su sistema de cámaras en varios sectores de Quito.
+
+Las lluvias se dieron en el norte de la capital, en los **sectores** de La Y, la av. América, Plaza Argentina, Redondel de El Ciclista, El Inca, La Mariscal, entre otros.
+
+También en algunos sectores de los valles como **Conocoto**, según reportó la ciudadanía.
+
+Hasta la publicación de esta nota, no había **alertas** relacionadas con las precipitaciones.
+
+La lluvia, sumado a los cortes de luz, empeoraron el **tráfico de vehículos** en Quito.
+
+El ECU 911 recomendó **reducir la velocidad**, encender las luces y limpiaparabrisas, y circular con precaución.
+
+Causas de las precipitaciones en la capital este jueves 24 de octubre de 2024
+-----------------------------------------------------------------------------
+
+El **Instituto Nacional de Metereología e Hidrología (Inamhi)** pronosticó lluvias aisladas en la Sierra.
+
+En específico, en Quito, señaló que las **lluvias** se presentarían en la tarde.
+
+> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Jueves 24 de octubre 2024. Lluvias ocasionales acompañadas de tormentas al norte de la Amazonía, estribaciones de cordillera, aisladas en la Sierra e interior norte del Litoral🌦️. Incremento de temperatura y radiación UV en varias localidades del país🥵 [pic.twitter.com/zdaMS0AAxi](https://t.co/zdaMS0AAxi)
 > 
-> — Luis Fernando Quiroz (@luchitoquiroz) [October 24, 2024](https://twitter.com/luchitoquiroz/status/1849445605199708657?ref_src=twsrc%5Etfw)
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 24, 2024](https://twitter.com/inamhi_ec/status/1849269895722156379?ref_src=twsrc%5Etfw)
+
+**Madeline Enríquez**, técnica del Inamhi, manifestó que las precipitaciones en la capital se deben a que hubo ingreso de humedad desde la cordillera oriental.
+
+Por este motivo, se dieron estas “**lluvias ocasionales”**.
+
+Manta asciende a la Liga Pro Serie A con goleada
+================================================
+
+En el 2021 fue la última temporada que el Manta estuvo en la Liga Pro Serie A.
+------------------------------------------------------------------------------
+
+![Jugadores de Manta celebran el ascenso a la Serie A 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/manta_1.jpg)
+
+¡Es oficial! El **Manta Fútbol Club** se convirtió este jueves 24 de octubre de 2024 en el segundo equipo ascendido a la Liga Pro Serie A de Ecuador, tras una campaña que le alcanzó para ser el subcampeón.
+
+La clasificación de **Manta se concretó este jueves en el estadio Jocay** con una goleada 6-1 ante Vargas Torres de Esmeraldas, que vive su propio calvario al intentar salvarse del descenso, a falta de una fecha para completar el calendario de la Serie B.
+
+### Más noticias:
+
+* [Nayely Bolaños se concentra en la Selección y en su futuro](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-equipo-exterior-dragonas.html "Nayely Bolaños se concentra en la Selección y en su futuro")
+* [Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional](https://www.elcomercio.com/deportes/luis-chango-mushuc-runa-arbitraje-nacional.html "Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional")
+* [Barcelona SC es líder de la Liga Pro, pero en multas](https://www.elcomercio.com/deportes/futbol/barcelonasc-es-lider-liga-pro-pero-en-multas.html "Barcelona SC es líder de la Liga Pro, pero en multas")
+
+Daniel Valencia (2), **Darlin Leiton (1), Roberto Valarezo (1)**, Christian Alemán (1) y Cristopher Angulo marcaron los seis tantos de los mantenses, mientas que Brandon Palacios marcó el descuento para los esmeraldeños.
+
+El Manta, dirigido técnicamente por **Efrén ‘Cachorro’ Mera, acumuló 60 puntos** luego de 17 victorias, nueve empates y nueve derrotas. Anotó 45 goles y recibió 36 para un gol diferencia positivo de +9.
+
+Por su parte **Vargas Torres tiene 32 puntos y está a un paso de perder la categoría**. En la jornada final necesita ganar su partido y esperar que Leones FC (34) no lo hagan para superarlo en puntos y asegurar su permanencia.
+
+El primer descendido fue **Chacaritas de Tungurahua que fue el equipo menos efectivo** y llegó a 28 unidades. Su campaña se cimentó con seis victorias, 10 empates y 19 derrotas. Anotó 2 goles y recibió 58 para un gol diferencia negativo de -33.
+
+En el 2021 fue la última vez que el Manta estuvo en la Serie A. Descendió con Olmedo en un año en el que alcanzó 28 puntos y solo pudo ganar seis veces.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/manta_2-1024x683.jpg)
+
+Foto: API.
+
+Cuniburo es el campeón
+----------------------
+
+Cuniburo se terminó de **consolidar como el mejor equipo de la Serie B** y se proclamó campeón de este año con 66 puntos, tras golear 1-5 a Chacaritas en condición de visitante.
+
+20 victorias, seis empates y nueve derrotas marcan la campaña del campeón. Anotó 61 goles y recibió 35 para un gol diferencias positivo de +26.
+
+Para los **pichinchanos será la primera vez que milite en la máxima** categoría del fútbol ecuatoriano.
+
+Su localía la ejercen en el estadio Olímpico Atahualpa. Su actual entrenador es el argentino Juan Grabowski.
+
+En el plantel destacan nombres como los de Marco Carrasco, **Kevin Ushiña, Luis Romero, Ariel Mina, Jefferson Orejuela**, Sergio López, José Lugo y Hernán Lino, todos con pasado en equipos de la Serie A.
 
 No te pierdas – El Confesionario
 --------------------------------
 
-Damián ‘Kitu’ Díaz inicia su rehabilitación en Banfield
-=======================================================
+Daniel Noboa emitió otro veto total en menos de una semana
+==========================================================
 
-Damián 'Kitu' Díaz, futbolista argentino nacionalizado ecuatoriano de Banfield, expuso su rehabilitación tras una lesión en el tobillo.
----------------------------------------------------------------------------------------------------------------------------------------
+El 22 de octubre, Daniel Noboa también emitió un veto total a un proyecto aprobado por la Asamblea.
+---------------------------------------------------------------------------------------------------
 
-![Damián Díaz (der.) en un encuentro con sus compañeros de Banfield tras su lesión.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-24T123536.716.jpg)
+![Daniel Noboa firmó otro veto total.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-veto-total.jpg)
 
-Con una muleta al costado y pasos lentos por encima de pequeñas barras, **Damián Díaz** recorría de lado a lado un circuito de rehabilitación en el complejo de **Banfield**. El ‘Kitu’ inició su rehabilitación con el club después de sufrir una **lesión**.
+El presidente **Daniel Noboa** emitió otro **veto total** en menos de una semana, este jueves 24 de octubre de 2024.
 
-Casi mes exacto después de que se produjo la dolencia del exfutbolista de **Barcelona SC**, el equipo volvió a mostrar en acción al volante. La jugada que lo lastimó se produjo el 23 de septiembre y, este 24 de octubre del 2024, los argentinos expusieron en sus redes sociales al ‘**Kitu**‘ durante sus terapias.
+La objeción total del Ejecutivo impide que la Asamblea trate esta iniciativa hasta **un año después**.
 
 ### Más noticias:
 
-* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
-* [Damián Díaz será intervenido quirúrgicamente por grave lesión](https://www.elcomercio.com/deportes/futbol/damian-diaz-sera-intervenido-quirurgicamente-por-grave-lesion.html "Damián Díaz será intervenido quirúrgicamente por grave lesión")
-* [Damián Díaz marcó un golazo de tiro libre con Banfield](https://www.elcomercio.com/deportes/futbol/damian-diaz-gol-banfield-argentina.html "Damián Díaz marcó un golazo de tiro libre con Banfield")
+* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
+* [Daniel Noboa emitió un veto total y un decreto sobre incendios](https://www.elcomercio.com/actualidad/politica/daniel-noboa-emitio-veto-total-decreto-incendios.html "Daniel Noboa emitió un veto total y un decreto sobre incendios")
 
-“**Que bueno tenerte en casa, ‘Kitu’**“, escribió el ‘Taladro’ en la historia de instagram en la cual mostró el proceso del otrora **capitán** del ‘Ídolo’. Allí, a su vez, se podría contemplar el tobillo izquierdo del cual Díaz fue operado y a este con el uniforme de entrenamiento de la escuadra.
+Otro veto total del Ejecutivo a un proyecto aprobado por la Asamblea
+--------------------------------------------------------------------
 
-> 👏⚽️LA RECUPERACIÓN DEL KITU👏  
->   
-> 📌Damián Díaz 🇦🇷 inicia su proceso de recuperación en las instalaciones del club, tras su lesión en Banfield🟢⚪️[#Kitu](https://twitter.com/hashtag/Kitu?src=hash&ref_src=twsrc%5Etfw) [#Banfield](https://twitter.com/hashtag/Banfield?src=hash&ref_src=twsrc%5Etfw) [#DamianDiaz](https://twitter.com/hashtag/DamianDiaz?src=hash&ref_src=twsrc%5Etfw)  
->   
-> 🎥 [@CAB\_oficial](https://twitter.com/CAB_oficial?ref_src=twsrc%5Etfw) [pic.twitter.com/aA4bOyk7XA](https://t.co/aA4bOyk7XA)
-> 
-> — KCH FM RADIO (@KCH\_FM) [October 24, 2024](https://twitter.com/KCH_FM/status/1849455390091608263?ref_src=twsrc%5Etfw)
+El presidente Daniel Noboa emitió un veto total al proyecto de **Ley Reformatoria a la Ley de Registro**.
 
-La publicación fue musicalizada con la canción “Antes y Después” de Ciro y los Persas. Esta hacía alusión al regreso del jugador y se enfocaba en el fragmento que dice “‘**¡Qué placer verte otra vez!’, nos decimos sin hablar. Hoy todo vuelve a empezar y será lo que ya fue**“.
+La propuesta de la Asamblea tenía el objetivo de incluir las resoluciones emanadas de la **jurisdicción indígena** que resuelvan conflictos internos de tierras, en los registros de actos y documentos públicos.
 
-La lesión de Damián ‘Kitu’ Díaz
--------------------------------
+Noboa no está de acuerdo con un artículo en el que se señala que las resoluciones emanadas de la jurisdicción indígena, en el caso de **conflictos internos** de tierras, puedan ser sujetas a registro.
 
-La lesión que sufrió **Damián ‘Kitu’ Díaz** se dio en el partido entre Banfield e Independiente Rivadavia de Mendoza. Aquel partido resultó favorable para el ‘Taladro’, sin embargo, este perdió a Díaz en el ocaso del primer tiempo.
+El Ejecutivo también señaló que el proyecto se contrapone con la **Declaración de las Naciones Unidas** sobre los derechos de los pueblos indígenas.
 
-Cuando el ‘Kitu’ fue a **disputar un balón** y se barrió en un intento por recuperarlo, su botín zurdo se trabó en el césped del terreno de juego. Debido al impulso y la fuerza que llevaba, su **tobillo** se dobló mientras su extremidad permanecía fijada y, tras ello, dejó el campo de juego[.](https://en.wikipedia.org/wiki/Dami%C3%A1n_D%C3%ADaz "https://en.wikipedia.org/wiki/Dami%C3%A1n_D%C3%ADaz")
+Dicha Declaración establece que: “los **pueblos indígenas** tienen derecho a conservar y reforzar sus propias instituciones (…) manteniendo, a la vez, su derecho a participar plenamente, si lo desean, en la vida política, económica, social y cultural”.
 
-Una vez que se evaluó a Díaz, el diagnóstico fue una **fractura del maleolo externo** de la pierna izquierda. A raíz de ello, el futbolista que defendió los colores de **la Tri** debió someterse a una intervención quirúrgica.
+### Más objeciones en el veto total de Daniel Noboa
 
-El proceso de Damián ‘Kitu’ Díaz con Banfield
----------------------------------------------
+Según Noboa, el proyecto también se contrapondría a la Constitución que, en su **artículo 171**, se refiere a las autoridades indígenas.
 
-Antes de su lesión, **Damián Díaz** se había destacado con **Banfield** y se convirtió en uno de los jugadores fundamentales de la escuadra a pesar de su reciente arribo. Tras llegar en agosto del 2024, este disputó cuatro compromisos en los cuales anotó un gol y brindó una asistencia.
+El artículo señala que las **autoridades indígenas** ejercerán funciones jurisdiccionales, con base en sus tradiciones ancestrales y su derecho propio.
 
-Después de su lesión, este permaneció en reposo y en su domicilio. A su vez, compartió una cena con sus compañeros de equipo en días a previos al inicio de su **rehabilitación** de tobillo.
+Esto, dentro de su ámbito territorial, con garantía de participación y decisión de las **mujeres**.
 
-  
+“Las autoridades aplicarán normas y procedimientos propios para la solución de sus conflictos internos, y que no sean **contrarios a la Constitución** y a los derechos humanos reconocidos en instrumentos internacionales”, señala el texto constitucional.
 
-Una ecuatoriana entre las estrellas del Mundial Femenino sub-17
-===============================================================
+Además, el Presidente sostuvo que las leyes “son muy claras respecto a los ámbitos y competencias de la **justicia indígena**”.
 
-Caprice Chiuchiolo es la única jugadora ecuatoriana que milita en el extranejero.
+Por lo que, de “aprobarse el proyecto de Ley se incurriría en **un error** al basarse en sentencias que no cuentan con analogía entre el hecho que generó la litis en el caso y los supuestos que se pretenden resolver mediante la reforma del artículo 25 de la Ley de Registro”.
+
+El documento del Ejecutivo aclara que cada caso tiene “**características particulares**“.
+
+Por esta razón, cada caso debe ser analizado en función de los **principios constitucionales** de igualdad, debido proceso y el respeto a la autonomía de las jurisdicciones.
+
+Este es el segundo veto total que emite el jefe de Estado en **menos de una semana**.
+
+Daniel Noboa emitió un veto total al proyecto de **reformas al Código de Ambiente**, el 22 de octubre.
+
+Lionel Messi fue nominado a un prestigioso premio
+=================================================
+
+Lionel Messi junto a Luis Suárez, futbolistas del Inter de Miami, fueron nominados al premio de mejor jugador de la temporada en la MLS
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi celebra un gol con el Inter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-24T181036.147.jpg)
+
+**Lionel Messi y Luis Suárez** figuran entre los cinco aspirantes al premio Landon Donovan al MVP de la MLS, anunció este jueves la liga.
+
+Cuatro de los cinco nominados al MVP son latinos ya que junto al argentino y el uruguayo (ambos del Inter Miami) aparecen el colombiano **Juan Camilo ‘Cucho’ Hernández** (Columbus Crew) y el brasileño Evander (Portland Timbers).
+
+### Más noticias:
+
+* [La MLS transmitirá a Lionel Messi en TikTok](https://www.elcomercio.com/deportes/futbol/lionel-messi-mls-tik-tok.html "La MLS transmitirá a Lionel Messi en TikTok")
+* [Leonardo Campana inicia el camino al título de la MLS Cup](https://www.elcomercio.com/deportes/futbol/leonardo-campana-atlanta-inter-miami.html "Leonardo Campana inicia el camino al título de la MLS Cup")
+* [Lionel Messi iguala récord por ganar premios en la MSL](https://www.elcomercio.com/deportes/lionel-messi-record-premios-mls.html "Lionel Messi iguala récord por ganar premios en la MSL")
+
+El belga **Christian Benteke** (D.C. United) completa la lista de aspirantes a un MVP que el año pasado se llevó el argentino **Luciano Acosta** (Cincinnati).
+
+Messi parte como favorito para este premio tras una impresionante campaña en la que sumó **20 goles y 16 asistencias** en solo 19 partidos[.](https://en.wikipedia.org/wiki/Lionel_Messi "https://en.wikipedia.org/wiki/Lionel_Messi")
+
+Suárez logró **20 tantos y 9 pases** de gol en 27 encuentros y también está nominado al premio a la contratación del año en la MLS.
+
+Lionel Messi y Luis Suárez, pilares del Inter de Miami en MLS
+-------------------------------------------------------------
+
+Tanto el genio de Rosario como el ariete charrúa fueron fundamentales para que el **Inter Miami** conquistara el **MLS Supporters’ Shield** (el trofeo para el mejor equipo de la temporada regular) y para que el conjunto de rosa batiera el récord de puntos histórico de la liga.
+
+Tras esta fantástica temporada, el **Inter Miami** es el equipo más representado en los finalistas a los premios con seis nominaciones.
+
+Así, el técnico **Gerardo Martino** (Inter Miami) aspira al premio **Sigi Schmid** al entrenador del año junto a **Chris Armas** (Colorado Rapids) y **Wilfried Nancy** (Columbus Crew).
+
+Otros nominados para el mejor jugador de la MLS
+-----------------------------------------------
+
+Además del mencionado Suárez, el argentino **Luca Orellano** (Cincinnati) y el brasileño Gabriel Pec (LA Galaxy) son finalistas a la mejor contratación del año.
+
+El español **Jordi Alba** (Inter Miami) opta al galardón al defensa del año junto a **Steven Moreira** (Columbus Crew) y **Jackson Ragen** (Seattle Sounders).
+
+Por otro lado, el reconocimiento al portero del año se decidirá entre **Kristijan Kahlina** (Charlotte), **Hugo Lloris** (Los Angeles FC) y **Patrick Schulte** (Columbus Crew).
+
+Finalmente, el paraguayo **Diego Gómez** (Inter Miami) y el uruguayo **Cristian Olivera** (Los Angeles FC) aspiran al premio al jugador joven del año junto a **Diego Luna** (Real Salt Lake), mientras que **Robin Lod** (Minnesota United), el argentino **Maxi Moralez** (New York City FC) y **Lewis Morgan** (New York Red Bulls) son los candidatos al jugador con espíritu de superación de esta temporada.
+
+Jonatan Álvez reveló que sus compañeros se ‘vendieron’ en 2015
+==============================================================
+
+Jhonatan Álvez llegó al fútbol ecuatoriano contratado por Liga de Quito en el 2015.
+-----------------------------------------------------------------------------------
+
+![Jhonatan Álvez con Liga de Quito en el 2015.](https://www.elcomercio.com/wp-content/uploads/2024/10/alvez_1.jpg)
+
+**Jonatan Álvez** es considerado uno de los mejores delanteros extranjeros que llegaron al país en la última década, donde se destacó por su olfato goleador y su extravagante y peculiar peinado.
+
+En el segundo semestre de 2015, Liga de Quito anunció la contratación de **Jonatan Álvez con la aprobación del argentino Luis Zubeldía**, que confío en el uruguayo para reforzar la zona de ataque de un equipo que estaba para pelear el título.
+
+### Más noticias:
+
+* [El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-mushuc-runa-copa-ecuador.html "El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador")
+* [(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores](https://www.elcomercio.com/deportes/futbol/alan-franco-tuvo-un-tierno-gesto-en-la-copa-libertadores.html "(Video) Alan Franco tuvo un tierno gesto en la Copa Libertadores")
+* [Angelo Preciado sufre dura derrota en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-sufre-dura-derrota-en-la-champions-league.html "Angelo Preciado sufre dura derrota en la Champions League")
+
+Según Transfermarkt, entre el **campeonato nacional y la Copa Sudamericana**, jugó 23 partidos, anotó 10 goles, recibió cuatro amarillas y fue expulsado una ocasión. Acumuló 1 861 minutos.
+
+Su paso por el ‘Rey de Copas’ **quedó marcado en la vuelta de los octavos de final de la Sudamericana** ante River Plate en el estadio Rodrigo Paz Delgado. Falló un penal y los universitarios quedaron eliminados del torneo de forma prematura.
+
+En el 2016, tras una mala relación con **Claudio Borghi, fue transferido al Barcelona Sporting Club**, en el que se vio su mejor versión y fue clave para ganar el título del campeonato nacional de 2016 y llegar a las semifinales de la Libertadores en 2017.
+
+En 2018 y el primer semestre de 2019 defendió las **camisetas de Junior de Colombia e Internacional de Brasil**, sin mucho éxito, por lo que para el segundo semestre volvió a Guayaquil para vivir una nueva etapa.
+
+Su punto más alto fue en la final de la Liga Pro en el 2020 con el título en el Rodrigo Paz Delgado. En la ida marcó el gol canario y en la vuelta anotó su penal para levantar el trofeo de campeón.
+
+Entre la Liga Pro, **Copa Ecuador, Copa Libertadores y Sudamericana**, completó 134 encuentros, anotó 58 goles, dio 16 asistencias, recibió 36 tarjetas amarillas, fue expulsado dos veces con doble amarilla y dos de forma directa. Acumuló 10 814 minutos.
+
+Entre 2021 y 2024 pasó por Atlético Nacional de Colombia, **Unión de Santa Fe de Argentina, Danubio de Uruguay** y Naranja Mekánica de Ecuador de la Segunda Categoría del Guayas.
+
+Álvez encendió la polémica
+--------------------------
+
+Una de las características de Álvez es que siempre está ligado a polémicas que han acompañado su carrera.
+
+El miércoles 23 de octubre de 2024, recordó la final del **campeonato nacional de 2015 entre Liga de Quito y Emelec**, ganada por el ‘Bombillo’ con un marcador global de 3-1 con tantos de Fernando Gaibor y Ángel Mena (2).
+
+El ‘Loco’ uruguayo jugó 87 minutos en la ida en el Reales Tamarindos, y los 90 en la vuelta en el Rodrigo Paz Delgado.
+
+En una espacio difundido por RCD Sports de Guayaquil, en la que también participaron **Néicer Reasco (Liga de Quito)**, Máximo Banguera (Barcelona SC) y Marcos Mondaini (Emelec), dio unas explosivas declaraciones de lo que, según él, sucedió hace casi nueve años.
+
+“Con Emelec perdimos bien la final, pero bueno, **se me vendieron unos niches** (…) unos macacos que ya estaban firmados con ustedes (dirigiéndose a Mondaini)” dijo el goleador.
+
+“**Ningún niche fue el siguiente año a Emelec**” recordó Reasco, aspecto que fue ratificado por Mondaini, pieza clave en el Emelec tricampeón entre 2013, 2014 y 2015.
+
+Álvez no dio nombres y el programa siguió su curso normal.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+¿Cuántos días de descanso hay por los feriados de noviembre?
+============================================================
+
+A Ecuador le quedan tres feriados en 2024, de estos, en noviembre se cumplen dos.
 ---------------------------------------------------------------------------------
 
-![Caprice Chiuchiolo (c) en el Mundial Femenino sub-17 de República Dominicana 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/caprice_1.jpg)
+![Ecuador tiene dos feriados en noviembre, uno de estos es la Independencia de Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriados-noviembre.jpg)
 
-La fase de grupos del **Mundial Femenino sub-17 que se disputa en República Dominicana** dejó para la Selección de Ecuador un saldo de dos victorias, seis goles y su boleto a los cuartos de final.
+**Ecuador** tendrá **dos feriados** en **noviembre** y, según la **Ley de Feriados**, existirá un descanso extendido.
 
-La Selección de **Ecuador juega por primera vez un Mundial** bajo la dirección técnica de Eduardo Moscoso, entrenador con una amplia carrera en el fútbol formativo femenino y masculino del país.
+En 2024, Ecuador tiene programados 10 feriados a nivel nacional, de los cuales ya se han cumplido **siete**.
+
+### Más noticias:
+
+* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
+* [Aún quedan feriados en este 2024, ¿son recuperables?](https://www.elcomercio.com/actualidad/ecuador/aun-quedan-feriados-2024-ecuador-son-recuperables.html "Aún quedan feriados en este 2024, ¿son recuperables?")
+
+¿Cuántos días de descanso hay por los feriados de noviembre?
+------------------------------------------------------------
+
+El último feriado nacional fue el de la **Independencia de Guayaquil**, que se conmemoró el miércoles 9 de octubre.
+
+Sin embargo, por la **Ley de Feriados**, el asueto del 9 de octubre se trasladó al viernes 11 de octubre.
+
+Los feriados de noviembre
+-------------------------
+
+En noviembre, los ecuatorianos se acogen a dos feriados, según el calendario del **Ministerio de Turismo**.
+
+El primero es el 2 de noviembre, **Día de los Difuntos**, una conmemoración que muestra la diversidad cultural del país.
+
+Cada pueblo y nacionalidad **indígena** tiene sus rituales y tradiciones para recordar a sus difuntos y honrar su memoria.
+
+Además, en **gastronomía**, una costumbre generalizada, es la preparación de la colada morada y las guaguas de pan.
+
+El segundo feriado es el del **3 de noviembre**, la Independencia de Cuenca.
+
+Este 2024, Cuenca conmemora **204 años** de su independencia.
+
+El 3 de noviembre de 1820, Cuenca expulsó a los **españoles** de sus territorios. 
+
+Los días de descanso por los feriados de noviembre
+--------------------------------------------------
+
+El **Día de Difuntos** cae sábado 2 de noviembre, pero se traslada al viernes 1 de noviembre.
+
+La **Independencia de Cuenca** cae el domingo 3 de noviembre y se traslada al lunes 4 de noviembre.
+
+Así, los días de descanso por los dos feriados de noviembre son cuatro: viernes 1, sábado 2, domingo 3 y lunes 4.
+
+Los dos feriados son de **descanso obligatorio** a nivel nacional y **no recuperables**.
+
+Luego de este feriado, el único descanso obligatorio es el de Navidad, el 25 de diciembre.
+
+Midtjylland de Denil Castillo hunde a Kevin Rodríguez en Europa League
+======================================================================
+
+Denil Castillo no estuvo convocado con el Midtjylland en Europa League y este venció al Union Saint Gilloise de Kevin Rodríguez.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Kevin Rodríguez del Union Saint Gilloise disputa un balón con Kevin Mbabú. compañero de Denil Castillo en el Midtjylland](https://www.elcomercio.com/wp-content/uploads/2024/10/1ad31dfe98fa81a2b1b4fd5b2f9191be9c6ab2a1.jpg)
+
+El Midtjylland, donde milita **Denil Castillo**, no necesitó del ecuatoriano para imponerse en la UEFA Europa League ante el Union Saint Gilloise de su compatriota **Kevin Rodríguez**. El conjunto danés venció por un marcador de 1-0 al de Bélgica, donde el delantero ecuatoriano sí tuvo acción.
+
+Los clubes se enfrentaron en la **tercera fecha** del certamen internacional y con distintos presentes. El equipo danés llegaba en la zona alta de la tabla de posiciones, mientras que los belgas ocupaban los últimos sitiales.
+
+### Más noticias:
+
+* [Ecuatorianos debutan en la Uefa Europa League](https://www.elcomercio.com/deportes/futbol/ecuatorianos-debutan-en-la-uefa-europa-league.html "Ecuatorianos debutan en la Uefa Europa League")
+* [¿Qué ecuatorianos juegan la fecha 3 de Europa League?](https://www.elcomercio.com/deportes/partidos-hora-ecuatorianos-uefa-europa-league.html "¿Qué ecuatorianos juegan la fecha 3 de Europa League?")
+* [(Video) Seleccionado ecuatoriano asiste en Europa League](https://www.elcomercio.com/deportes/video-seleccionado-ecuatoriano-asiste-en-europa-league.html "(Video) Seleccionado ecuatoriano asiste en Europa League")
+
+En el caso del **Midtjylland**, este decidió prescindir de Castillo a pesar de que sí lo tuvo en cuenta en los partidos previos. Antes, el volante tricolor había estado presente en los choques frente al Hoffenheim y el Maccabi Tel Aviv, en los cuales igualó y triunfó.
+
+A diferencia de sus rivales, el **Union Saint Gilloise** sí decidió contar con su futbolista tricolor. **Kevin Rodríguez** estuvo presente desde el inicio y se mantuvo en la cancha hasta el minuto 64, en el que fue sustituido por Franjo Ivanovic.
+
+El Midtjylland se impuso y el Saint Gilloise no lo pudo dar vuelta
+------------------------------------------------------------------
+
+En el compromiso, el Midtjylland se puso en ventaja de forma tempranera y aquel golpe resultó irreversible para el Union Saint Gilloise. **Ousmané Diao** puso el tanto para el conjunto danés a los 18 minutos de juego[.](https://en.wikipedia.org/wiki/UEFA_Europa_League "https://en.wikipedia.org/wiki/UEFA_Europa_League")
+
+En el conjunto belga, **Kevin Rodríguez** fue una de las principales opciones de ataque, pero aquello no se tradujo en réditos para su equipo. Su cambio en el segundo tiempo tampoco resultó un revulsivo para la escuadra.
+
+Con la derrota, el **Union Saint Gilloise** quedó en la vigesimonovena posición del certamen con un punto, mientras que sus rivales se posicionaron en el séptimo puesto con siete unidades. Al certamen le restan cinco fechas para definir los clasificados a **octavos de final.**
+
+Otros dos resultados de ecuatorianos en Europa League
+-----------------------------------------------------
+
+En la tercera fecha de la UEFA Europa League también se llevaron a cabo los partidos del Ferencváros, donde milita **Cristian Ramírez**, y del Anderlecht, donde está **Nilson Angulo**. El primero se enfrentó ante el Niza de Francia y el segundo ante el Ludogorets.
+
+Tanto Ramírez como Angulo triunfaron. El **Ferencvaros** quedó en la vigesimotercera posición y el **Anderlecht** en la tercera.
+
+El G20 busca dar relevancia a la sociedad civil
+===============================================
+
+El encuentro ministerial también respaldó el Plan de Acción Anticorrupción del G20 para el período 2025-2027.
+-------------------------------------------------------------------------------------------------------------
+
+![El vicepresidente de Brasil, Geraldo Alckmin (c), habla durante la Reunión Ministerial de Comercio e Inversión del G20, este jueves, en Brasilia (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/10/G20-BRASIL.jpg)
+
+Los países del [G20](https://www.elcomercio.com/actualidad/mundo/impuesto-minimo-global-cumbre-g20-paises.html "https://www.elcomercio.com/actualidad/mundo/impuesto-minimo-global-cumbre-g20-paises.html") es un grupo que reúne a las **mayores economías del mundo**. Actualmente es presidido por Brasil, se comprometieron este jueves a que la **sociedad civil** y el sector privado tengan una mayor participación en la **lucha anticorrupción**, informaron fuentes oficiales.
+
+### Más noticias
+
+* [Muchos miembros del G20 condenan a Rusia por el revés a la economía global](https://www.elcomercio.com/actualidad/mundo/miembros-g20-condenan-rusia-economia-global.html "https://www.elcomercio.com/actualidad/mundo/miembros-g20-condenan-rusia-economia-global.html")
+* L[íderes del G20 lanzan monedas a la Fontana de Trevi](https://www.elcomercio.com/actualidad/mundo/lideres-g20-monedas-fontana-trevi-roma.html "https://www.elcomercio.com/actualidad/mundo/lideres-g20-monedas-fontana-trevi-roma.html")
+* [El impuesto mínimo global, primer objetivo cumplido del G20](https://www.elcomercio.com/actualidad/mundo/impuesto-minimo-global-cumbre-g20-paises.html "https://www.elcomercio.com/actualidad/mundo/impuesto-minimo-global-cumbre-g20-paises.html")
+
+También abogaron por aplicar y **hacer cumplir medidas efectivas** para aumentar la transparencia y la rendición de cuentas, especialmente cuando ocurren desastres naturales.
+
+Los compromisos forman parte de la declaración adoptada por **consenso por los ministros del ramo**, en la ciudad brasileña de Natal, los cuales serán presentados a los líderes del G20 durante la cumbre que tendrá lugar en **Río de Janeiro** entre el 18 y 19 de noviembre.
+
+Soluciones coordinadas
+----------------------
+
+Según el jefe de la Contraloría General de Brasil, Vinícius Marques de Carvalho, la corrupción es un desafío mundial que requiere **soluciones coordinadas entre países**, en diálogo con la sociedad civil y el sector privado.
+
+“No podemos avanzar **sin la participación de todos los actores**, y el G20 ha demostrado ser un foro fundamental para este debate”, afirmó.
+
+En este sentido, señaló que la eficacia de cualquier política depende de la participación directa de las personas, pero también del sector privado, pues indicó que la **corrupción “no es un problema exclusivo** del Estado, sino también” de las empresas.
+
+“Cuando hablamos de corrupción, hablamos de **alguien que corrompe** y alguien que es corrompido. No tiene sentido tratar solo un lado del problema”, enfatizó.
+
+Durante el evento, se discutió la necesidad de desarrollar políticas que alienten a las empresas a adoptar de manera “proactiva” prácticas anticorrupción.
+
+En lo que se refiere a la lucha contra la **corrupción en situaciones de desastres climáticos**, el ministro recordó que en situaciones de emergencia es necesario movilizar rápidamente grandes volúmenes de recursos para atender a las poblaciones afectadas.
+
+No obstante, advirtió que en esas situaciones también aumenta el **riesgo de desvío** y malversación de fondos públicos.
+
+El encuentro ministerial también respaldó el **Plan de Acción Anticorrupción** del G20 para el período 2025-2027. Describe **prioridades comunes** para fortalecer las políticas anticorrupción a nivel mundial con el objetivo de mejorar la integridad, combatir el soborno internacional y fortalecer la aplicación de la ley.
+
+Países del G20
+--------------
+
+El G20 está formado por **Alemania, Arabia Saudí, Argentina, Australia, Brasil, Canadá, China, Corea del Sur, Estados Unidos.** También están países como **Francia, India, Indonesia, Italia, Japón, México, Reino Unido, Rusia, Sudáfrica y Turquía, además de la Unión Europea y la Unión Africana.**
+
+Viviana Veloz se refirió a la reconsideración de votos en el juicio político
+============================================================================
+
+Viviana Veloz explicó que, tras la proclamación de los resultados, ningún asambleísta solicitó reconsideración.
+---------------------------------------------------------------------------------------------------------------
+
+![Viviana Veloz, presidenta de la Asamblea Nacional en el juicio político a Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/veloz.jpg)
+
+La presidenta de la **Asamblea Nacional, Viviana Veloz**, se pronunció este jueves 24 de octubre de 2024 sobre el **proceso de juicio político** a la ministra del Interior, **Mónica Palencia**, y la posibilidad de **reconsideración de los votos**.
+
+### Más noticias
+
+* [Mónica Palencia enfrentará un juicio político, ¿cuántos votos se necesita para censurarla?](https://www.elcomercio.com/actualidad/politica/monica-palencia-enfrentara-juicio-politico-votos-censurarla.html "Mónica Palencia enfrentará un juicio político, ¿cuántos votos se necesita para censurarla?")
+* [Movida de Viviana Veloz hace que juicio político a Mónica Palencia no finalice aún, según el oficialismo](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-aun-en-suspenso.html "Movida de Viviana Veloz hace que juicio político a Mónica Palencia no finalice aún, según el oficialismo")
+* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
+
+Veloz explicó que, tras la proclamación de los resultados, **ningún asambleísta solicitó reconsideración a través de la Secretaría General**. “Después de que se proclamaron los resultados, ustedes pueden solicitar la Secretaría General y **ningún asambleísta solicitó la reconsideración**, y eso queda allí dentro del sistema que nosotros tenemos aquí en la Legislatura”, afirmó.
+
+Explicó que la próxima semana cualquier asambleísta podría pedir la reconsideración de los votos”, dijo Veloz. Además, mencionó que la **votación arrojó 77 votos a favor** y, al no alcanzar los 92 requeridos para la censura, la **ministra Palencia se mantiene en funcione**s.
+
+La presidenta destacó que el juicio político es un mecanismo de control, pero la decisión final depende de la Asamblea Nacional.
+
+Secretario de la Asamblea se refirió al tema de la reconsideración de votos
+---------------------------------------------------------------------------
+
+El **secretario de la Asamblea, Alejandro Muñoz**, también se refirió al tema, aclarando posibles controversias **respecto a la votación**.
+
+“Nada más indicar respecto a una situación que **posiblemente generó controversia** respecto a si el día de ayer dentro del debate del **segundo punto del orden**, convocado esto es en **juicio político a la doctora Mónica Palencia**, ministra del Interior”, indicó Muñoz.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
+> El secretario general de la Asamblea Nacional, [@AlejandroMunozH](https://twitter.com/AlejandroMunozH?ref_src=twsrc%5Etfw), aclara que después de la proclamación de los resultados de la votación en el juicio político a la ministra del Interior, Mónica Palencia, ningún asambleísta presentó la solicitud de reconsideración de la… [pic.twitter.com/v4oPAWUl0Z](https://t.co/v4oPAWUl0Z)
+> 
+> — Ecuador En Directo (@EcEnDirecto) [October 24, 2024](https://twitter.com/EcEnDirecto/status/1849525261697458388?ref_src=twsrc%5Etfw)
+
+Muñoz presentó dos documentos. El primero es una **certificación de la Secretaría General**, en la cual se confirma que, “una vez que se **proclamaron los resultados de la votación**, no se presentó ninguna solicitud de **rectificación o reconsideración** por parte de ninguno de los 137 asambleístas de acuerdo con los artículos **145 y 146 de la Ley Orgánica de la Función Legislativa**“.
+
+El segundo es un r**eporte del área de tecnología de la Asamblea Nacional** que indica que la última solicitud de palabra se la realizó a las 16:46. Según Muñoz, hasta la clausura de la sesión, no existió ninguna solicitud de pedido de palabra por parte de ninguna asambleísta.
+
+Muñoz concluyó que no se puede proceder con una solicitud de reconsideración que no ha sido presentada y que “tanto la presidencia de la Asamblea Nacional como la Secretaría General **ha actuado apegada a la ley**“.
+
+Vladímir Putin admite que países BRICS quieren que la guerra en Ucrania acabe
+=============================================================================
+
+El jefe del Kremlin expresó su agradecimiento a todos los socios por prestar atención al conflicto ucraniano.
+-------------------------------------------------------------------------------------------------------------
+
+![El presidente ruso, Vladimir Putin, llega para saludar a los invitados durante las reuniones bilaterales al margen de la cumbre de los BRICS en Kazán, el 24 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/vladimir-putin-efe-2024-brics.jpg)
+
+El presidente ruso, [Vladímir Putin](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html "https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html"), admitió este jueves, 24 de octubre de 2024, que todos los países del grupo BRICS, en particular China y Brasil, quieren que la **guerra en Ucrania** acabe cuanto antes y, preferiblemente, por la vía pacífica.
+
+### Más noticias
+
+* [Los BRICS se amplían en 2024 con nuevos países integrantes](https://www.elcomercio.com/actualidad/mundo/brics-amplian-2024-nuevos-paises-integrantes.html "Los BRICS se amplían en 2024 con nuevos países integrantes")
+* [Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html "Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS")
+* [Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS](https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html "Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS")
+
+“Todos están centrados en que el **conflicto (en Ucrania)** acabe lo antes posible y preferiblemente de manera pacífica”, dijo en rueda de prensa al término de la cumbre de BRICS.
+
+El jefe del Kremlin expresó su agradecimiento a **todos los socios** por prestar atención al conflicto ucraniano y “buscar la forma de resolverlo”.
+
+Durante la conferencia de prensa, **Putin volvió a acusar a EE.UU**. de apoyar un golpe de Estado en Ucrania en 2014, lo que llevó a la escalada actual, dijo.
+
+En cuanto a la situación actual en el frente, aseguró que el ejército ruso “actúa con firmeza en todas las direcciones”.
+
+“(Las tropas) están avanzando en todos los sectores de la línea de contacto”, aseguró.
+
+Situación en la región rusa de Kursk
+------------------------------------
+
+En particular, el líder ruso se **refirió a la situación en la región rusa de Kursk,** donde las tropas ucranianas irrumpieron el 6 de agosto pasado.
+
+“(Los militares rusos) están trabajando en el frente de Kursk. Algunas unidades del ejército ucraniano, incluido en la región de Kursk, están bloqueadas y rodeadas. Se trata aproximadamente de 2 000 efectivos”, aseguró.
+
+Al comentar la posibilidad de negociaciones con Ucrania, insistió en que es **Kiev el que se niega a dialogar con Moscú.**
+
+“La pelota está en su campo”, aseguró.
+
+A la vez, enfatizó que Rusia está dispuesta a considerar cualquier **acuerdo de paz** que tenga en cuenta “la realidad sobre el terreno” y descartó cualquier otra opción.
+
+Durante la cumbre de los BRICS, los **líderes de China, la India y Brasil abogaron** ante Putin por la necesidad de una pronta desescalada en Ucrania para el pronto inicio de negociaciones de paz.
+
+¿Miembros de juntas receptoras del voto aún pueden cobrar la compensación?
+==========================================================================
+
+El cobro de la compensación para los miembros de las juntas receptoras del voto contemplaban un plazo.
+------------------------------------------------------------------------------------------------------
+
+![Foto referencial de procesos electorales.](https://www.elcomercio.com/wp-content/uploads/2024/10/juntas-2.jpg)
+
+Los miembros de las **juntas receptoras del voto** de tres procesos electorales en Ecuador debían cobrar una **compensación**. Esta llegó con un plazo fijo.
+
+En la lista de esos comicios se ubicaron en unas **279 000 personas** registradas por el **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** en las jornadas democráticas.
+
+### Más noticias
+
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+* [Selección de miembros de las juntas para las elecciones 2025 se acerca](https://www.elcomercio.com/elecciones/seleccion-miembros-juntas-receptoras-voto-elecciones-2025-acerca.html "Selección de miembros de las juntas para las elecciones 2025 se acerca")
+* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
+
+> ¡Gracias por acompañarnos! 📡  
+>   
+> Finaliza diálogo de [#EnriquePita](https://twitter.com/hashtag/EnriquePita?src=hash&ref_src=twsrc%5Etfw), [@CNEVice](https://twitter.com/CNEVice?ref_src=twsrc%5Etfw), a través de la señal de [@radiocentroec](https://twitter.com/radiocentroec?ref_src=twsrc%5Etfw). 🗳️🇪🇨  
+>   
+> Consulta tu lugar de votación 📍 para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) en:  
+>   
+> 📲 [https://t.co/7jydYZoM65](https://t.co/7jydYZoM65) [pic.twitter.com/mbQ5irVYa5](https://t.co/mbQ5irVYa5)
+> 
+> — cnegobec (@cnegobec) [October 24, 2024](https://twitter.com/cnegobec/status/1849455484874502566?ref_src=twsrc%5Etfw)
+
+Miembros de las juntas receptoras del voto y las compensaciones
+---------------------------------------------------------------
+
+Las compensaciones autorizadas estaban encaminadas para quienes integraron las juntas receptoras del voto en las elecciones anticipadas de 2023. También, las consultas populares sobre el **Yasuní y el Chocó Andino**.
+
+No obstante, el plazo definido por el **CNE** se cumplió en septiembre de este 2024. Quienes no lo hicieron hasta el **20 de ese mes**, ya perdieron la remuneración.
+
+Las fuentes del **CNE** indicaron que ya no se puede realizar trámites para acceder al rubro. Este asciende a 20 dólares por cada **proceso electoral**.
+
+De acuerdo con el registro del CNE, en el caso de las elecciones anticipadas, 233 132 personas debían cobrar la compensación. De estos, lo hizo el 86%; es decir, 33 088 no cobraron.
+
+Los beneficiarios debían acercarse a las agencias del **Banco del Pacífico**, con la cédula de identidad.
+
+¿Y la consulta popular y el referendo?
+--------------------------------------
+
+Por otro lado, quienes fueron **miembros de las juntas receptoras del voto** en la **consulta popular** y el referendo aún no pueden cobrar la compensación. Estas **votaciones** se realizaron el 21 abril de este 2024.
+
+Según datos del **CNE**, aún no pueden cobrar la compensación. El anuncio para el pago se dará una vez que el **Ministerio de Finanzas** destine los recursos.
+
+Calendario para las elecciones 2025
+-----------------------------------
+
+El siguiente proceso electoral será el 9 de febrero de 2025. En este, los ecuatorianos elegirán al binomio presidencial, a 151 asambleístas del país y a cinco parlamentarios andinos.
+
+La campaña se desarrollará del **5 de enero al 6 de febrero**. De haber segunda vuelta, las votaciones serán el 13 de abril de 2025.
+
+Marco Angulo, jugador de Liga de Quito, dejó cuidados intensivos
+================================================================
+
+Marco Angulo, futbolista de Liga de Quito, dejó el área de cuidados intensivos después de estar involucrado en un siniestro de tránsito.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Angulo en un partido de la Liga de Quito por la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-24T153015.698.jpg)
+
+**Marco Angulo**, jugador de Liga de Quito, estuvo involucrado en un siniestro de tránsito durante la madrugada del 7 de octubre de 2024. Tras 17 días del evento, este 24 de octubre, **Pablo ‘Vitamina’ Sánchez** \-DT de los albos- reveló que el futbolista abandonó la sala de cuidados intensivos.
+
+En una rueda de prensa en el contexto de la previa del partido entre la **‘U’ y Mushuc Runa** por la fecha 11 de la **Liga Pro**, el entrenador de los albos brindó una actualización en cuanto al estado del futbolista. Este se mostró optimista, señaló que el futbolista ha mejorado y reveló los últimos hechos con respecto a su situación.
+
+### Más noticias:
+
+* [Marco Angulo, la motivación de Liga de Quito en el final de temporada](https://www.elcomercio.com/deportes/futbol/marco-angulo-la-motivacion-de-liga-de-quito-en-el-final-de-temporada.html "Marco Angulo, la motivación de Liga de Quito en el final de temporada")
+* [Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?](https://www.elcomercio.com/deportes/liga-quito-marco-angulo-inspiracion-tecnico-universitario.html "Liga de Quito se inspira en Marco Angulo, ¿cómo se encuentra?")
+* [Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro](https://www.elcomercio.com/deportes/liga-quito-liga-pro-marco-angulo-tecnico-universitario-partido.html "Liga de Quito dedicó partido a Marco Angulo y lidera la Liga Pro")
+
+“**Tuvimos una buena noticia, creo que fue antes de ayer (22 de octubre del 2024), en la cual nos comunicaron que Marco (Angulo) dejaba la terapia intensiva** y pasaba a una habitación normal, producto de que está estable y ha mejorado. Esto nos pone muy contentos”, sostuvo el entrenador azucena.
+
+En virtud de las circunstancias, **Pablo Sánchez** también detalló que eso va a permitir que el futbolista podrá recibir visitas de sus compañeros y el cuerpo técnico. Aquello, a su vez, estará sujeto a la disposición de la familia de Angulo.
+
+Liga de Quito y un gesto emotivo con Marco Angulo
+-------------------------------------------------
+
+En su pasado enfrentamiento ante Técnico Universitario, Liga de Quito dedicó su triunfo y el compromiso a **Marco Angulo**. Tras el compromiso, **‘Vitamina’ Sánchez** sostuvo que el grupo resultó afectado a raíz del suceso que afectó a sus dirigidos.
+
+Después de vencer al **‘Rodillo Rojo’**, este también sostuvo que se debía hacer un esfuerzo mayor debido a que la consigna era vencer en nombre de Marco Angulo. Asimismo, agregó que él nunca había vivido una situación similar.
+
+Antes del partido ante los ambateños, los jugadores albos también saltaron a la cancha con un cartel con relación a su compañero. En este plasmaron la frase “**Va por ti, Marco Angulo**“, junto al escudo de la institución de Ponceano.
+
+El siniestro de Marco Angulo
+----------------------------
+
+El siniestro en el que estuvo involucrado Marco Angulo se produjo en la **Autopista General Rumiñahui**, a la altura del Puente Ocho en la entrada a Conocoto. Allí, el vehículo en el cual se movilizaba se impactó con una biga.
+
+En el vehículo en el que se encontraba Angulo también estaban presentes **Roberto Cabezas**, futbolista de Independiente del Valle que falleció en el acto, y otros tres ocupantes. Después de ello, Angulo fue trasladado al Hospital Eugenio Espejo de Quito.
+
+Paola Cabezas habló sobre su continuidad en la Asamblea Nacional
+================================================================
+
+Paola Cabezas, asambleísta de la Revolución Ciudadana habló luego del juicio político a Mónica Palencia.
+--------------------------------------------------------------------------------------------------------
+
+![Paola Cabezas en el juicio político contra la ministra del Interior, Mónica Palencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/paola-cabezas.jpg)
+
+La legisladora del correísmo **Paola Cabezas** afirmó antes del juicio político contra la ministra del Interior que: “si no se censura y destituye a la señora Palencia sería sencillamente decirle al país que nosotros no cumplimos (…). Yo prefiero irme a mi casa, **me voy a la casa**“.
+
+### Más noticias
+
+* [Daniel Noboa recibió a Mónica Palencia, tras la decisión de la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-monica-palencia.html "Daniel Noboa recibió a Mónica Palencia, tras la decisión de la Asamblea")
+* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
+* [Valentina Centeno habló sobre el juicio político a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/valentina-centeno-hablo-juicio-politico-monica-palencia.html "Valentina Centeno habló sobre el juicio político a Mónica Palencia")
+
+Sin embargo, tras la decisión de **no destituir a Palencia**, Cabezas se pronunció sobre su futuro en la Asamblea Nacional.
+
+### ¿Qué dijo Paola Cabezas luego de juicio político?
+
+Paola Cabezas, asambleísta ecuatoriana, se pronunció en su **cuenta de X sobre los llamados a su salida** de la Asamblea.
+
+Afirmó que no se debe **“a la horda de trolls”** que buscan su salida de la política, sino a **millones de ciudadanos y ciudadanas**. Cabezas manifestó su disposición a someterse a la voluntad popular en las próximas elecciones.
+
+> Yo no me debo a la horda de trolls que quieren verme fuera de la política. Me debo a millones de ciudadanos y ciudadanas. ¿Quieren sacarme de la lid política? Hagan el trámite respectivo o ganen en las urnas. Yo no caeré en el juego de quienes sacan de contexto mis declaraciones.… [pic.twitter.com/W4a1EzAvGJ](https://t.co/W4a1EzAvGJ)
+> 
+> — Paola Cabezas Castillo (@PaolaCabezasC) [October 24, 2024](https://twitter.com/PaolaCabezasC/status/1849466567832080891?ref_src=twsrc%5Etfw)
+
+La legisladora invitó a sus **detractores a seguir los procesos legales** correspondientes si desean sacarla de la política. Añadió que no caerá en el juego de quienes **tergiversan sus declaraciones** y que acatará la decisión democrática del pueblo, sin más comentarios al respecto.
+
+Contexto del juicio político a Mónica Palencia
+----------------------------------------------
+
+La ministra del Interior, Mónica Palencia, enfrentó un **juicio político** el 23 de octubre a partir de las 08:40 en la Asamblea Nacional. Para censurar a la ministra del Interior se necesitaban **92 votos**, sin embargo, no se consiguió ese número.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBe-hi8RQv-/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBe-hi8RQv-/?utm_source=ig_embed&utm_campaign=loading)
+
+Cerca de las 17:00 se cerró el debate y se inició la votación sobre la moción para censurar a la ministra del Interior Mónica Palencia. En la votación de 133 asambleístas presentes, co**n 77 votos a favor, 40 en contra y 16 abstenciones** no se censuró a la **ministra Mónica Palencia**.
+
+Cortes de agua en el noroccidente de Quito ya tienen solución
+=============================================================
+
+Más de 100 000 personas se verán beneficiadas con la resolución del Ministerio de Energía y Minas.
+--------------------------------------------------------------------------------------------------
+
+![Los cortes de luz causaron el desabastecimiento de agua potable en los barrios de la zona alta del noroccidente de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/abastecimiento-de-agua.jpg)
+
+Los **cortes de luz** creaban una serie de problemas. Entre ellas, se encontraba el **desabastecimiento de agua,** sobre todo en las zonas altas. Pero el **abastecimiento de agua en el noroccidente de Quito ya tiene una solución**, según informó la administración **municipal**, para los sitios en donde se encuentran las **estaciones de bombeo** **de agua.**
+
+### Más noticias
+
+* [Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi](https://www.elcomercio.com/actualidad/quito/este-viernes-25-de-octubre-dia-mas-caluroso-en-quito-segun-inamhi.html "Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi")
+* [Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito](https://www.elcomercio.com/actualidad/quito/av-colon-quito-cerrada-parcialmente-por-trabajos-soterramiento.html "Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito")
+* [Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/trabajos-en-tuberia-causan-fuga-de-agua-en-la-av-gonzalez-suarez-en-quito.html "Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito")
+
+Noroccidente de Quito tendrá agua
+---------------------------------
+
+El **Ministerio de Energía y Minas** tomó una resolución que beneficia a los habitantes del noroccidente de Quito, pues **el abastecimiento de agua ya tiene solución**. Desde este 23 de octubre del 2024, ya no habrá cortes de luz para las estaciones de bombero del líquido vital[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador) "https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador)")
+
+Según el **Municipio de Quito**, esta medida **beneficiará a 100 000 personas** que veían cómo el agua se cortaba a la par de los **cortes de luz**.
+
+El martes pasado, el **alcalde de Quito**, **Pabel Muñoz**, en una entrevista con el canal de televisión TVC, sostuvo que había pedido que los **cortes de luz** no impactaran en ciertos sectores. Uno de sus pedidos era evitarlos en los lugares en donde se encuentran las **estaciones de bombeo**. Recordó que estas estaciones no se activan inmediatamente cuando regresa la luz, sino que tiene que pasar un tiempo para que vuelvan a reactivarse.
+
+“**Mientras más tiempo dure la suspensión de energía, más tiempo toma la recuperación del servicio de agua.** En cada corte, la recuperación del sistema hidráulico de distribución toma entre 2 y 5 días, lo que agravó la distribución de agua en estos sectores”, afirma el sitio oficial del Municipio capitalino, Quito informa.
+
+Los barrios beneficiados con el abastecimiento de agua
+------------------------------------------------------
+
+| #   | Nombre del Barrio |
+| --- | --- |
+| 1   | Loma Gorda – San Rafael |
+| 2   | Santa María de Cotocollao |
+| 3   | La Dolorosa- San Rafael |
+| 4   | La Pisulí |
+| 5   | La Planada |
+| 6   | Rancho Alto San Antonio |
+| 7   | San Pedro de Pisulí |
+| 8   | Tiwintza (José Roldós 2 Etapa) |
+| 9   | Vista Hermosa (Jaime Roldós) |
+| 10  | Barrio Camino a La Libertad |
+| 11  | Jaime Roldós Bajo |
+| 12  | La San Enrique de Velasco |
+| 13  | Magisterio Ecuatoriano |
+| 14  | Lotización José Peralta |
+| 15  | San José De Cangagua |
+| 16  | Urbanización Consejo Provincial |
+| 17  | La Paz |
+| 18  | Rancho Alto José Peralta |
+| 19  | 15 De Julio |
+| 20  | Barrio La Paz |
+| 21  | La Campiña – Anita Lucía |
+| 22  | San José Obrero |
+| 23  | Santa Rosa de Singuna |
+| 24  | Ana María Baja |
+| 25  | Av. Mariscal Sucre Tramo I |
+| 26  | Barrio Osorio |
+| 27  | Bellavista Alta |
+| 28  | Bosque Protector |
+| 29  | Centro Comercial Jumbo Centro |
+| 30  | Club Santa Fe |
+| 31  | Cochapamba Norte Bajo |
+| 32  | Cochapamba Norte Centro |
+| 33  | Cochapamba Sur Bajo I-II |
+| 34  | Colegio Intisana |
+| 35  | Conjunto Residencial Jardines Del Bosque |
+| 36  | Cooperativa Unión Nacional II |
+| 37  | El Bosque – Comercio |
+| 38  | El Pinar Alto |
+| 39  | El Triunfo – Barrio El Bosque |
+| 40  | Jardines Del Bosque |
+| 41  | Santa Anita Baja |
+| 42  | Santa Isabel – A-B |
+| 43  | Santa Isabel Bajo |
+| 44  | Terreno Junto Jardines Del Bosque |
+| 45  | Urbanizaciones: San Fernando, Bosque II, San Vicente I-II |
+| 46  | La Campiña |
+| 47  | Pusuquí Chico |
+| 48  | Colegio Francés |
+| 49  | Las Tolas |
+| 50  | Granilandia |
+| 51  | San José de Alugulla |
+| 52  | La Florida |
+| 53  | Santa Clara de Pomasqui |
+| 54  | San José |
+| 55  | La Unión |
+| 56  | Jhon F. Kennedy |
+
+Los BRICS se amplían en 2024 con nuevos países integrantes
+==========================================================
+
+Los países que se unieron al BRICS este año son Egipto, Etiopía, Irán y los Emiratos Árabes Unidos.
+---------------------------------------------------------------------------------------------------
+
+![El presidente ruso, Vladimir Putin (derecha), da la bienvenida al presidente de Laos, Thongloun Sisoulith (i), antes de su reunión al margen de la cumbre de los BRICS en Kazán, Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/10/BRICS-2024-PUTIN.jpg)
+
+El bloque BRICS, compuesto originalmente por **Brasil, Rusia, India, China y Sudáfrica**, dio un paso importante en su expansión global al sumar **seis nuevos países** en 2024.
+
+### Más noticias
+
+* [Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html "Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS")
+* [Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS](https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html "Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS")
+* [BRICS piden reforma de ONU y mayor participación de América Latina y Asia](https://www.elcomercio.com/actualidad/mundo/brics-piden-reforma-onu-mayor-papel-latina-asia-asuntos-mundiales.html "BRICS piden reforma de ONU y mayor participación de América Latina y Asia")
+
+Esta inclusión busca consolidar el grupo como un actor clave en el **escenario económico** y **político internacional**, con la meta de desafiar el predominio de las economías desarrolladas y crear un nuevo equilibrio global.
+
+Países que se unieron al BRICS
+------------------------------
+
+Los países que se unieron al BRICS este año son **Egipto, Etiopía, Irán y los Emiratos Árabes Unidos**. Estos nuevos miembros aportan una mayor **diversidad geopolítica** y **económica** al bloque, que busca posicionarse como una alternativa a las **instituciones dominadas por Occidente**, tales como el Fondo Monetario Internacional (FMI) y el Banco Mundial.
+
+Nuevos actores en la expansión del BRICS
+----------------------------------------
+
+El objetivo de esta ampliación es fomentar la **cooperación en áreas** clave como la **inversión, el comercio, la energía y el desarrollo tecnológico**, además de reducir la **dependencia del dólar** en las transacciones internacionales. La inclusión de estos seis países fortalece la **capacidad del bloque** para influir en decisiones globales sobre **desarrollo económico** y estabilidad financiera.
+
+Según diario El País, la expansión refleja el creciente interés de las **naciones emergentes** en formar parte de un grupo que promueva una **mayor equidad** en el comercio internacional y un nuevo orden financiero. Esta estrategia generó expectativas sobre el rol que los BRICS jugarán en la redefinición de la **economía global** en los próximos años.
+
+Los tres alimentos recomendados por Harvard para disminuir el riesgo de demencia 
+=================================================================================
+
+Uma Naidoo resaltó el papel crucial de cuidar la salud cerebral.
+----------------------------------------------------------------
+
+![El consumo de frutas es vital para la salud. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-.jpg)
+
+Una investigación reciente promovida por **Harvard** revela que **ciertos alimentos** pueden ser clave en la **prevención de la demencia y el deterioro cognitivo**.  
+
+### Más noticias
+
+* [Al eliminar este alimento a los 50, se puede potenciar la longevidad](https://www.elcomercio.com/tendencias/salud/alimento-azucar-longevidad-salud.html "https://www.elcomercio.com/tendencias/salud/alimento-azucar-longevidad-salud.html")
+* [La edad de mayor actividad sexual en los hombres no es la que muchos piensan](https://www.elcomercio.com/tendencias/salud/actividad-sexual-hombres-sexualidad.html "https://www.elcomercio.com/tendencias/salud/actividad-sexual-hombres-sexualidad.html") 
+
+**Uma Naidoo**, directora de psiquiatría nutricional, estilo de vida y metabólica del **Hospital General de Massachusetts**, vinculado a la prestigiosa universidad, afirma que **la alimentación juega un papel crucial en el cuidado de la salud cerebral**. 
+
+**Dieta equilibrada disminuye el riesgo de demencia** 
+------------------------------------------------------
+
+“Comer alimentos que **estimulan el cerebro** puede reducir significativamente el **riesgo de desarrollar problemas neurológicos**, mejorar la salud mental y **ayudar a mantenerse lúcido y concentrado**”, indicó Naidoo, destacando la importancia de una dieta equilibrada en la función cognitiva. 
+
+**El poder de los antioxidantes** 
+----------------------------------
+
+Naidoo señaló también que **los antioxidantes**, que se encuentran de manera abundante en los a**limentos de origen vegetal**, tienen un impacto positivo. “Quizás la parte más emocionante de la ciencia apunta al hecho de que **los antioxidantes**, esos compuestos que se encuentran en los alimentos vegetales que ayudan a combatir el **estrés oxidativo** y **reducen el riesgo de enfermedades crónicas**, ahora también están vinculados a **mejorar la función cerebral**, el estado de ánimo y la salud cognitiva”, subrayó la especialista. 
+
+**Alimentos recomendados** 
+---------------------------
+
+Entre los alimentos que recomienda para reducir el riesgo de demencia, destacan t**res frutas y frutos con propiedades neuroprotectoras**. 
+
+### **Arándanos** 
+
+![Foto: iStock.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-2-1024x683.jpg)
+
+Foto: iStock.
+
+Naidoo no duda en afirmar que las bayas son su fruta favorita. “Las bayas son mi fruta favorita”, comentó.  
+
+Según la experta, estas frutas tienen un **índice glucémico bajo**, lo que las convierte en una excelente opción para añadir a la dieta diaria sin elevar los niveles de azúcar en sangre.  
+
+Además, sus colores vivos son indicativos de la **presencia de polifenoles**, compuestos que **aportan un potente efecto antioxidante**. Estas propiedades, junto con la riqueza en flavonoides, folatos y fibra, **benefician no solo al sistema digestivo**, sino también a la **salud mental**. 
+
+### **Nueces** 
+
+![Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-1-1024x683.jpg)
+
+Foto: Freepik.
+
+Las nueces también forman parte de la **lista de alimentos recomendados por Naidoo**. Con solo 28 gramos de nueces, se puede obtener una **buena dosis de Omega-3**, esencial para la **formación de las membranas celulares** tanto en el cerebro como en el resto del cuerpo. 
+
+Estas **propiedades neuroprotectoras** han sido confirmadas por estudios, como el publicado en **The Journal of Nutrition, Health & Aging**, que analizó los hábitos alimenticios de **5 000 adultos mayores**.  
+
+Los resultados mostraron que quienes **consumían al menos 10 gramos de nueces al día** experimentaban **mejoras en su capacidad cognitiva**, incluyendo la memoria y el razonamiento. “Los hallazgos muestran que **comer frutos secos a diario** podría reducir el **riesgo de deterioro cognitivo** y contribuir a la **agudeza mental**, especialmente entre los adultos mayores de 55 años”, dijo Naidoo. 
+
+### **Aguacates** 
+
+![Foto: iStock.](https://www.elcomercio.com/wp-content/uploads/2024/10/alimentos-3-1024x683.jpg)
+
+Foto: iStock.
+
+El aguacate, una **fuente importante de magnesio**, se destaca por su contribución al **correcto funcionamiento cerebral**. Naidoo mencionó que el magnesio ha sido utilizado históricamente para **tratar la depresión mayor**, con resultados documentados desde 1921.  
+
+“Me encanta mezclar palta, garbanzos y aceite de oliva como una sabrosa pasta para untar en una tostada de pan integral de centeno, o como un aderezo para verduras recién cortadas”, añadió. 
+
+(Video) Jordy Caicedo anotó su primer gol oficial con el Sporting de Gijón
+==========================================================================
+
+El delantero ecuatoriano celebró su primer gol en competiciones oficiales en España.
+------------------------------------------------------------------------------------
+
+![Jordy Caicedo anotó su primer gol oficial con el Sporting de Gijón.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-13.jpg)
+
+**Jordy** **Caicedo** tuvo una pretemporada destacada con el Sporting de Gijón, en la que anotó varios goles, pero su primer tanto en partidos oficiales se hizo esperar hasta este jueves, 24 de octubre, cuando marcó en la Segunda División de España para la victoria de su equipo pro 2-0.
+
+El delantero ecuatoriano acumuló una racha de cinco partidos consecutivos sin anotar desde su debut oficial con el Sporting, que fue en la fecha 5 de la liga. En los primeros cuatro encuentros, **Caicedo no fue convocado debido a una lesión.**
+
+### Más noticias:
+
+* [Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/jordy-caicedo-seleccion-ecuador-convocatoria.html "Jordy Caicedo está pendiente de un llamado de la Selección de Ecuador")
+* [Un análisis del historial entre Ecuador y Paraguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/historial-entre-la-seleccion-de-ecuador-y-paraguay.html "Un análisis del historial entre Ecuador y Paraguay en eliminatorias")
+* [Kendry Páez recibe un guiño de la Copa América por su gol](https://www.elcomercio.com/deportes/futbol/kendry-paez-copa-america-gol.html "Kendry Páez recibe un guiño de la Copa América por su gol")
+
+El gol de Jordy Caicedo
+-----------------------
+
+El tan esperado **gol llegó en la undécima jornada**, apenas cinco minutos después de iniciado el partido contra el Huesca.
+
+En su segunda titularidad desde que llegó al fútbol español, Caicedo aprovechó un remate-centro de un compañero que parecía dirigirse al arco. Sin embargo, el **delantero tricolor no dudó en lanzarse** hacia el balón para asegurar la ventaja y así marcar su primer gol oficial en España.
+
+Su primer gol con e**l Gijón llegó tras 173 minutos**, que no es malo, ya que pese a tener ocho partidos no ha disputado muchos minutos.
+
+> Primer gol OFICIAL de Jordy Caicedo en la segunda división española, en su sexto partido.  
+> Da la sensación de que entraba aun sin el contacto de Caicedo, pero sirve para que gane confianza el ecuatoriano al que no se le venían dando las cosas. [pic.twitter.com/BXU1pzPeAu](https://t.co/BXU1pzPeAu)
+> 
+> — Diego Briones (@Diego\_Briones13) [October 24, 2024](https://twitter.com/Diego_Briones13/status/1849528932514791545?ref_src=twsrc%5Etfw)
+
+Para la segunda mitad del compromiso, Jordy Caicedo abandonó el terreno de juego a los 58 minutos. En su lugar ingresó Salen Dubasin.
+
+El fichaje de Jordy Caicedo por el Sporting de Gijón
+----------------------------------------------------
+
+Jordy Caicedo fue fichado por el **Sporting de Gijón** para reforzar su ataque en una operación llevada a cabo por el Grupo Orlegi. Esta incorporación también permitió la salida de Uros Djurdjevic, quien se desvinculó del club para fichar por el Atlas de México.
+
+Caicedo llegó al Sporting tras **disputar la Copa América con la Selección de Ecuador** y con experiencia en el fútbol europeo, habiendo jugado una temporada en el CSKA Sofía de Bulgaria y en el Sivasspor de Turquía. Sin embargo, su última temporada en el Atlas mexicano no fue la mejor.
+
+El delantero ecuatoriano manifestó su entusiasmo por regresar al fútbol europeo, destacando que le gusta mucho este estilo de juego. También expresó su compromiso con el Sporting de Gijón y su deseo de contribuir para que el equipo logre el objetivo del ascenso: “**Estoy deseoso de ponerme a las órdenes de Albes y ayudar a conseguir el objetivo con un club histórico”.**
+
+La Selección de Ecuador no mejora en el ranking FIFA
+====================================================
+
+La Selección de Ecuador conserva su puesto en el ranking FIFA desde junio.
+--------------------------------------------------------------------------
+
+![Selección de Ecuador en el Rodrigo Paz Delgado en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_ranking_1.jpg)
+
+En menos de un mes, la **Selección de Ecuador**, al mando del entrenador argentino Sebastián Beccacece, volverá a reunirse para afrontar la doble fecha de eliminatorias al Mundial 2026.
+
+El jueves 14 de noviembre de 2024, la Selección de **Ecuador recibirá a Bolivia en el estadio Monumental** de Guayaquil, y el martes 19 del mismo mes viajará a la calurosa Barranquilla para visitar a la siempre complicada Colombia.
 
 ### Más noticias:
 
 * [Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions](https://www.elcomercio.com/deportes/futbol/raphinha-brilla-goleada-fcbarcelonal-bayern-munich-champions.html "Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions")
 * [La Selección de Ecuador Femenina sub-17 se cita con España](https://www.elcomercio.com/deportes/futbol/ecuador-espana-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 se cita con España")
-* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
+* [Barcelona Sporting Club es multado con 80 300 dólares](https://www.elcomercio.com/deportes/futbol/barcelona-multa-economica-liga-pro.html "Barcelona Sporting Club es multado con 80 300 dólares")
 
-La base de jugadoras está conformada por 11 de Independiente del Valle, cuatro de Barcelona Sporting Club, dos de Quito FC, **una de Toreros FC, una de Universidad Católica**, una de Liga de Quito y una de SC del Sol.
+Esta jornada es clave para Ecuador, **puesto que Bolivia marcha en la séptima posición con 12 puntos** y Colombia es segunda con 19. La Tri es quinta con 13 y un gol diferencia positivo de +2.
 
-Nombres como los de la capitana Fiorella Pico, **la goleadora Jaslym Valverde**, o la habilidosa mediocampista Doménica Arboleda, son las que más han destacado en la fase de grupos, por su talento y capacidad para sacar adelante los encuentros.
+Para el Mundial que en el **2026 será organizado por Canadá, Estados Unidos y México**, la Conmebol tiene seis cupos directos, y la mitad de otro que se dirimirá con el representante de Oceanía en el 2025.
 
-La que más destaca es Caprice Chiuchiolo, la única jugadora que milita en el exterior en el fútbol de Estados Unidos, que brilla con luz propia y es una de las más destacadas del Mundial.
+Los resultados de septiembre **dejaron un sabor agridulce en los aficionados ecuatorianos** por el doble empate 0-0, primero en el Rodrigo Paz Delgado en Quito ante Paraguay, y segundo contra Uruguay en el Centenario en Montevideo.
 
-Caprice Chiuchiolo (Ecuador)
-----------------------------
+Como es habitual **después de la fecha de partidos de selecciones**, la FIFA publicó este jueves 24 de octubre la actualización del ranking, sin ninguna novedad para la Tri.
 
-Caprice Chiuchiolo nació en **Estados Unidos el 17 de abril de 2007**. Su vínculo con Ecuador viene por el lado de su abuela materna que es guayaquileña, y otros familiares que viven en el país.
+Entre las 10 primera selecciones, **Argentina y Francia** se mantienen en la casilla uno y dos, respectivamente.
 
-La Federación Ecuatoriana de Fútbol (FEF) detalló que la **mediocampista jugó siete partidos oficiales** con la Tri, antes de participar en el Mundial. Su debut oficial fue el 13 de marzo de 2024.
+Los cambios empiezan con **España, vigente campeona de la Eurocopa**, que escaló cinco posiciones y es tercera. Inglaterra se apoderó de la cuarta casilla en lugar de Brasil, que bajó al quinto lugar.
 
-Acumuló 292 minutos y marcó dos goles. En su país de nacimiento milita en SC del Sol de Phoenix, Arizona.
+Bélgica es sexta (perdió tres puestos), **Países Bajos es séptima, Portugal es octava** (perdió dos puestos), Colombia es novena (subió tres puestos) e Italia conserva la décima posición.
 
-Ante **Nueva Zelanda fue clave en la goleada 4-0**. Anotó dos goles y fue elegida como la mejor jugador del encuentro.
-
-El siguiente reto será ante **España en los cuartos de final.** El juego está programado para el domingo 27 de octubre, desde las 14:30, en el estadio Olímpico Félix Sánchez.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/caprice_2-1024x683.jpg)
-
-Foto: EFE.
-
-Melanie Bárcenas (Estados Unidos)
----------------------------------
-
-Autora de tres goles de los ocho de Estados Unidos en la fase de grupos (**uno ante España y dos ante Corea del Sur**), Mel Bárcenas ha sido un peligro constante para las defensas rivales y en particular para las porteras, que veían cómo su potente disparo causaba estragos en las oponentes porque lo usaba una y otra vez.
-
-Más allá de sus goles, la **atacante de 16 años del San Diego Wave**, considerada una de las grandes promesas del fútbol femenino, ha destacado desde la banda izquierda por su gran manejo de balón y por su poderío físico, aunque en algunos partidos llegó físicamente con problemas de calambres a los últimos minutos.
-
-Martina González (España)
--------------------------
-
-La lateral derecha del Barcelona Martina González, que ya ha debutado con su primer equipo, ha sido una pieza clave en el combinado de Kenio Gonzalo, **que ha basado parte de su juego ofensivo en el uso de las bandas** ante selecciones que se replegaban para evitar el peligro de España en su juego combinativo.
-
-Martina, que destaca por una gran lectura de juego que le permite subir la banda cuando es oportuno y mantenerse en su **posición cuando la acción lo requiere**, ha sido clave en el inicio de las jugadas ofensivas de España que luego finalizaban jugadoras como Alba Cerrato o Pau Comendador por sus magníficos centros laterales.
-
-Julia Wozniak (Polonia)
------------------------
-
-Sin lugar a dudas, la mejor guardameta del Mundial en esta fase de grupos, **ha dejado su portería a cero en los tres partidos disputados**, con paradas de muchísimo mérito que han ayudado a la clasificación de Polonia a los cuartos de final.
-
-La portera, que cuenta con una gran envergadura, es un seguro de vida en los balones aéreos y posee muchos reflejos debajo de los palos, llegando a realizar paradas que están entre las mejores del campeonato.
-
-Ante **Japón salvó dos goles que las asiáticas ya cantaban y ante Brasil** desquició al equipo rival con dos grandes manos cuando el balón entraba por una escuadra y eso suponía la clasificación de la Canarinha a los cuartos de final.
-
-Shakirat Moshood (Nigeria)
---------------------------
-
-Con tres goles en su cuenta particular (dos a Ecuador y uno a República Dominicana), Shakirat Moshood ha sido una **jugadora clave en el engranaje de las ‘Águilas Verdes’** en este Mundial Sub-17, un equipo que está siendo una de las gratas sorpresas, al sumar nueve puntos de los nueve posibles.
-
-Con un gran despliegue físico tanto en ataque como en defensa y con capacidad de hacer goles con su potente disparo, **la centrocampista ha sido una jugadora fija en la selección africana**, que queda como única representante de ese continente tras la eliminación de Kenia y Zambia.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/caprice_3-1024x683.jpg)
-
-Foto: EFE.
-
-Choe Rim-Jong (Corea del Norte)
--------------------------------
-
-En un equipo que cuenta con la **máxima goleadora del Mundial Femenino Sub-20** que se disputó en Colombia, Choe Il Son, la jugadora más destacada en este inicio de campeonato para las norcoreanas ha sido Choe Rim-Jong, autora del único ‘hat-trick’ hasta el momento.
-
-La extremo derecho, que destaca como todo el equipo por su rapidez y su agilidad para zafarse de sus rivales, se **puede mover por todo el frente de ataque**, lo que la hace indetectable para las defensas, así como por su capacidad goleadora en una selección que se está postulando como una de las tapadas en este Mundial.
-
-No te pierdas – El Confesionario
---------------------------------
-
-¿Cuándo se celebra Halloween y qué significa esta tradición?
-============================================================
-
-Halloween es una mezcla de creencias paganas y cristianas viajó desde Europa hasta América.
--------------------------------------------------------------------------------------------
-
-![Imagen que representa la celebración de Halloween.](https://www.elcomercio.com/wp-content/uploads/2024/10/halloween-efe-ok.jpg)
-
-Cada **31 de octubre**, millones de personas en todo el mundo participan en [Halloween](https://www.elcomercio.com/tendencias/cultura/halloween-festividad-efemeride-fecha.html "https://www.elcomercio.com/tendencias/cultura/halloween-festividad-efemeride-fecha.html"), una celebración cargada de misterio y diversión.
-
-### Más noticias
-
-* [¿Qué día se celebra Halloween?](https://www.elcomercio.com/tendencias/cultura/halloween-festividad-efemeride-fecha.html "¿Qué día se celebra Halloween? ")
-* [Octubre es un mes crítico para los gatos negros ¿Por qué?](https://www.elcomercio.com/narices-frias/octubre-gatos-negros-cuidados-halloween.html "Octubre es un mes crítico para los gatos negros ¿Por qué?")
-* [Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’](https://www.elcomercio.com/tendencias/cine/robot-salvaje-terrifier-cine-peliculas.html "Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’ ")
-
-Esta festividad, también conocida como la **Noche de Brujas**, tiene su origen en la antigua festividad celta llamada Samhain. En esta fecha, los celtas creían que el **mundo de los vivos** y los muertos se entrelazaba, y por ello realizaban **rituales para protegerse** de los espíritus malignos.
-
-La evolución de Halloween
--------------------------
-
-Con el tiempo, la tradición celta fue **transformándose, especialmente c**on la influencia del cristianismo. La Iglesia estableció el **1 de noviembre como el Día de Todos los Santos**, conocido también como “All Hallows’ Day”, y la noche anterior pasó a llamarse “All Hallows’ Eve”.
-
-Más tarde derivó en Halloween. Esta **mezcla de creencias paganas** y cristianas viajó desde Europa hasta América, donde cobró gran popularidad en el siglo XIX, impulsada por los **inmigrantes irlandeses**.
-
-Hoy en día, Halloween se **convirtió en una fiesta global**, especialmente en países como Estados Unidos, Canadá, Reino Unido y, más recientemente, en muchos países de América Latina.
-
-La festividad se caracteriza por actividades **como el ‘truco o trato’,** donde los niños disfrazados van de puerta en puerta **pidiendo dulces.** Los disfraces, que originalmente eran para ahuyentar a los espíritus, ahora incluyen personajes de **películas, superhéroes y figuras populares** de la cultura contemporánea.
-
-Halloween en la actualidad
---------------------------
-
-Además de los **disfraces y los dulces**, Halloween es una oportunidad para que las personas celebren lo macabro y lo divertido. Las **decoraciones de casas embrujadas**, las calabazas talladas (conocidas como Jack-o’-lanterns) y las **fiestas temáticas** son parte esencial de esta celebración. También es común ver maratones de **películas de terror, festivales y desfiles** en muchas ciudades.
-
-Aunque originalmente estaba ligada a **creencias sobre la muerte** y los espíritus, hoy Halloween es una celebración donde predomina la **diversión, la creatividad y la interacción social,** adaptada a diversas culturas alrededor del mundo.
-
-Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi
-==========================================================================
-
-Altas temperaturas, ráfagas de viento, más vegetación seca son condiciones propicias para la formación y propagación de incendios forestales.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El 20 de octubre, Bomberos Quito controló un incendio en el sector del puente 3, en la autopista Rumiñahui.](https://www.elcomercio.com/wp-content/uploads/2024/10/clima-incendios.jpg)
-
-El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer las **previsiones sobre el clima** presentes en Quito durante esta semana, que contemplan aumento de temperaturas.
-
-### Más noticias
-
-* [Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito](https://www.elcomercio.com/actualidad/quito/av-colon-quito-cerrada-parcialmente-por-trabajos-soterramiento.html "Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito")
-* [Av. Lola Quintana se cierra hasta el 7 de noviembre](https://www.elcomercio.com/actualidad/quito/av-lola-quintana-se-cierra-hasta-7-de-noviembre-conocoto.html "Av. Lola Quintana se cierra hasta el 7 de noviembre")
-* [Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/trabajos-en-tuberia-causan-fuga-de-agua-en-la-av-gonzalez-suarez-en-quito.html "Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito")
-
-Altas temperaturas
-------------------
-
-El Inamhi advierte que se registrarán **altas y muy altas** temperaturas en Quito este jueves 24 de octubre. El cielo tendrá incremento de nubosidad durante la tarde.
-
-**Madelyn Enríquez,** analista de Pronósticos del Inamhi, comenta a **El Comercio** que este jueves 24 de octubre podrían presentarse lluvias aisladas en el sur de Quito y en el valle.
-
-Además, estas condiciones climáticas estarán acompañadas de **ráfagas de viento**, por lo que se pide precaución ante las condiciones favorables para el inicio y propagación de incendios favorables.
-
-Por otro lado, el Inamhi advierte **sobre los niveles de radiación en niveles ‘muy altos’** que se registrarán este jueves 24 de octubre, como parte de las condiciones climáticas actuales.
-
-Esto se debe a la poca nubosidad en el cielo, lo que permite **el ingreso directo de los rayos solares** a la superficie de la Tierra, por ello, también la temperatura sube.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el jueves 24 de octubre de 2024. [pic.twitter.com/ULaSUM8iU7](https://t.co/ULaSUM8iU7)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 23, 2024](https://twitter.com/inamhi_ec/status/1849199519751090478?ref_src=twsrc%5Etfw)
-
-El viernes será más caluroso
-----------------------------
-
-El Inamhi advierte el incremento de temperaturas durante lo que queda de la semana, sobre todo el viernes 25 de octubre, que será **el día más caluroso**.
-
-El fin de semana del **26 y 27 de octubre** también habrá altas temperaturas, pero no serán tan calurosos como el viernes.
-
-Este jueves **24 de octubre** la temperatura máxima prevista es de 25 grados, por lo que la temperatura del viernes 25 podría registrar niveles más altos.
-
-Recomendaciones
----------------
-
-Ante estas condiciones climáticas, es importante tomar **algunas [precauciones](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**:
-
-* **Modifique sus rutinas diarias** y minimice la actividad intensa al aire libre.
-* Manténgase hidratado y **utilice protección solar**
-* Mantenga las habitaciones de su casa **frescas y ventiladas**
-* Ante el riesgo de **incendios forestales**, no encienda chispas o fuego en áreas rurales y forestales
-* **No arroje colillas** de cigarrillos ni fósforos encendidos
-* Si ve una columna de humo, **llame al 911**
-
-El fenómeno de ‘Smile 2’, éxito en taquilla y aclamada por la crítica 
-======================================================================
-
-‘Smile 2’ se convierte en un éxito rotundo, ya ha superado a su predecesora.
-----------------------------------------------------------------------------
-
-![El estreno de ‘Smile 2’ logró un éxito rotundo al recaudar 23 millones de dólares. Foto: Instagram @smilemovie.](https://www.elcomercio.com/wp-content/uploads/2024/10/Smile-2.jpg)
-
-**[‘Smile 2’](https://www.instagram.com/smilemovie/?hl=es "https://www.instagram.com/smilemovie/?hl=es")** es la secuela del **thriller psicológico** que sorprendió en 2022. La historia sigue a **Skye Riley**, interpretada por **Naomi Scott**, una **estrella del pop** que enfrenta **eventos perturbadores** mientras se prepara para su nueva gira mundial.  
-
-### Más noticias
-
-* [El oso Paddington obtiene un pasaporte británico para su viaje a Perú](https://www.elcomercio.com/tendencias/cine/paddington-pasaporte-cine-pelicula.html "https://www.elcomercio.com/tendencias/cine/paddington-pasaporte-cine-pelicula.html") 
-* [Adolescentes compran boletos de ‘Robot salvaje’ para colarse en ‘Terrifier 3’](https://www.elcomercio.com/tendencias/cine/robot-salvaje-terrifier-cine-peliculas.html "https://www.elcomercio.com/tendencias/cine/robot-salvaje-terrifier-cine-peliculas.html") 
-
-A medida que su fama crece, **Skye comienza a experimentar sucesos inquietantes** que la llevan a **cuestionar su realidad**. La presión del escrutinio público y los horrores que la acechan la empujan al límite. La película explora **temas de fama, trauma y la lucha interna** por mantener el control en medio del caos, lo que genera una atmósfera de constante tensión, a decir de la web [Tomatazos](https://www.tomatazos.com/noticias/950860/La-sonrisa-millonaria-Smile-2-arrasa-en-taquilla-y-destrona-a-su-predecesora-en-fin-de-semana-de-estreno "https://www.tomatazos.com/noticias/950860/La-sonrisa-millonaria-Smile-2-arrasa-en-taquilla-y-destrona-a-su-predecesora-en-fin-de-semana-de-estreno").  
-
-**Éxito en taquilla** 
-----------------------
-
-El **estreno de ‘Smile 2’ fue un éxito rotundo**, recaudó 23 millones de dólares en su primer fin de semana en la taquilla de Norteamérica. Esta cifra **superó a la de su predecesora**, que había logrado 22,6 millones en su apertura, siguiendo con Tomatazos. 
-
-A nivel global, **la película alcanzó un total de 46 millones de dólares**, lo que reafirma su éxito no solo en Estados Unidos sino también internacionalmente, de acuerdo con [Vandal](https://vandal.elespanol.com/noticia/r29349/joker-2-se-derrumba-en-taquilla-dejando-perdidas-millonarias-a-warner-y-smile-2-triunfa-resucitando-el-exito-de-terror "https://vandal.elespanol.com/noticia/r29349/joker-2-se-derrumba-en-taquilla-dejando-perdidas-millonarias-a-warner-y-smile-2-triunfa-resucitando-el-exito-de-terror"). 
-
-Este **sólido desempeño** es una clara señal del entusiasmo que genera entre los seguidores del género. El **costo de producción de ‘Smile 2’ fue de 28 millones**, lo que garantiza que **la película será rentable**. Este éxito ha llevado a especulaciones sobre una **posible tercera entrega**, ya que el género del terror suele ser muy lucrativo cuando se ejecuta correctamente, siguiendo con Vandal.  
-
-**Crítica a ‘Smile 2’** 
-------------------------
-
-**La crítica ha respondido positivamente a ‘Smile 2’**, se ha destacado su enfoque en el **desarrollo emocional de los personajes**, algo poco común en el género. O**wen Gleiberman**, crítico principal de **Variety**, elogió la habilidad del director **Parker Finn** para crear un “centro emocional genuino” en la película, lo cual es uno de sus mayores aciertos, a decir de [Tomatazos](https://www.tomatazos.com/noticias/950177/Si-hay-sonrisas-habra-exito-Smile-2-podria-recaudar-un-monto-muy-similar-a-la-primera-entrega "https://www.tomatazos.com/noticias/950177/Si-hay-sonrisas-habra-exito-Smile-2-podria-recaudar-un-monto-muy-similar-a-la-primera-entrega").  
-
-Con un **75% de aprobación en Tomatazos y una puntuación de 65 en Metacritic**, ‘Smile 2’ demuestra ser **más que una simple secuela**; ha logrado mantener al público en tensión constante y experimentar los mismos miedos y confusiones que la protagonista 
-
-**¿Cuál es la razón de su éxito?** 
------------------------------------
-
-El éxito de ‘Smile 2’ se debe a varios factores clave: una **narrativa intrigante** centrada en temas universales como la fama y el trauma, un **sólido desempeño en taquilla**, y una **recepción crítica favorable**. La combinación de estos elementos ha consolidado a Smile como **una franquicia fuerte dentro del género del terror psicológico**. Con el interés del público aún presente, es probable que veamos más historias relacionadas con este universo aterrador en el futuro. 
-
-**Elenco de ‘Smile 2’** 
-------------------------
-
-**Naomi Scott es Skye Riley**, una famosa artista de música pop, mientras que **Rosemarie DeWitt** interpreta a su madre y representante, Elizabeth. El elenco incluye a Miles Gutiérrez-Riley como su asistente Joshua, Dylan Gelula como Gemma, su antigua mejor amiga, y Raúl Castillo como Darius Bravo, el presidente de su discográfica. Además, Peter Jacobson, **Ray Nicholson (hijo del famoso Jack Nicholson)**, Lukas Gage y Kyle Gallner completan el reparto, con Drew Barrymore apareciendo como ella misma. 
-
-¿Por qué México llora a Fernando ‘Toro’ Valenzuela?
-===================================================
-
-El impacto de Fernando 'Toro' Valenzuela es comparable solo con el de Hugo Sánchez y Julio César Chávez.
---------------------------------------------------------------------------------------------------------
-
-![Fotografía de una ofrenda en la estatua del beisbolista mexicano Fernando Valenzuela, en el estadio Panamericano de Béisbol, en Guadalajara (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/Valenzuela-2.jpg)
-
-El reciente fallecimiento de **Fernando ‘Toro’ Valenzuela** ha dejado a **México** sumido en un profundo luto. Valenzuela, uno de los tres grandes deportistas en la historia del **país**, fue más que un lanzador; fue un fenómeno que unió a millones y que paralizó a la nación con su talento.
-
-Su impacto en el **béisbol** es comparable solo con el de futbolistas como **Hugo Sánchez** y el boxeador **Julio César Chávez**.
-
-### Más noticias:
-
-* [¿Qué ecuatorianos juegan la fecha 3 de Europa League?](https://www.elcomercio.com/deportes/partidos-hora-ecuatorianos-uefa-europa-league.html "¿Qué ecuatorianos juegan la fecha 3 de Europa League?")
-* [Adiós a Fernando ‘Toro’ Valenzuela, ícono del deporte mexicano](https://www.elcomercio.com/deportes/futbol/fernando-toro-valenzuela-icono-deporte-mexicano-fallece.html "Adiós a Fernando ‘Toro’ Valenzuela, ícono del deporte mexicano")
-* [Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-nuevamente-estadio-lleno-torneo-ascenso.html "Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso")
-
-Nacidos entre 1958 y 1962, estos tres atletas pusieron a **México** en el mapa deportivo mundial y cultivaron una amistad que trascendió cualquier rivalidad.
-
-La partida del ‘Toro’ ha conmocionado especialmente a Sánchez, quien, visiblemente afectado, lloró en un emotivo homenaje en vivo.
-
-El exfutbolista utilizó su cuenta en **X** para despedirse de su amigo: “Gracias, Fernando, por compartir una de las historias más bonitas que ha tenido **México**. Gracias por inspirarnos y por haber puesto el nombre de México tan alto en la liga de béisbol más importante del mundo. Hasta siempre, amigo deportivo”, fueron las palabras de **Sánchez.**
-
-Valenzuela, quien nació en Etchohuaquila, Sonora, en 1960, deslumbró a todos con su icónico lanzamiento de tirabuzón, combinado con una recta poderosa.
-
-Su mayor hazaña llegó en 1981, cuando condujo a los **Dodgers** de **Los Ángeles** a la victoria en la Serie Mundial, ganando el codiciado premio ‘Cy Young’ y el trofeo de novato del año.
-
-A los 19 años, su firma con los **Dodgers** marcó el inicio de una carrera llena de logros.
-
-La muerte de **Fernando Valenzuela** deja un vacío en el deporte mexicano y un legado imborrable. Hoy, México llora a un héroe que, con su pasión y talento, se convirtió en un símbolo de unidad y orgullo nacional.
-
-![En la inauguración del proyecto Legends estuvieron algunas leyendas del deporte. A la izquierda el mexicano Hugo Sánchez. Foto: @legends_exp](https://www.elcomercio.com/wp-content/uploads/2023/06/legends-700x443.jpg)
-
-A la izquierda el mexicano Hugo Sánchez. Foto: @legends\_exp
-
-Hugo Sánchez
-------------
-
-Hugo Sánchez, nacido en Ciudad de México el 11 de julio de 1958, es un destacado exfutbolista y entrenador mexicano.
-
-Reconocido como el mejor futbolista mexicano del siglo XX por la **IFFHS**, fue una estrella del **Real Madrid** en la década de 1980 e inicios de la del 1990, donde ganó diez títulos y destacó como goleador, logrando cuatro **Trofeos Pichichi** y una **Bota de Oro.**
-
-Con 516 goles en 883 partidos oficiales, es el máximo goleador mexicano de la historia.
-
-En 2003, se inauguró el **Estadio Hugo Sánchez Márquez** en su honor, y en 2011 fue incluido en el salón de la fama del fútbol por la FIFA.
-
-> Tremendas postales de los tres más grandes deportistas mexicanos de todos los tiempos: Hugo Sánchez, Julio César Chávez y Fernando 'Toro' Valenzuela. ⚽🥊⚾ [pic.twitter.com/8tnQx177K0](https://t.co/8tnQx177K0)
-> 
-> — Víctor Olivares (@Victorleaks) [October 23, 2024](https://twitter.com/Victorleaks/status/1849008854798909651?ref_src=twsrc%5Etfw)
-
-Julio César Chávez
-------------------
-
-**Julio César Chávez**, nacido en Ciudad Obregón, **Sonora**, el 12 de julio de 1962, es un legendario **exboxeador** mexicano que compitió entre 1980 y 2005.
-
-Obtuvo títulos mundiales en tres divisiones: superpluma, ligero y superligero, acumulando 107 victorias, de las cuales 87 fueron por nocaut.
-
-Reconocido por su potente pegada y resistencia, **Chávez** fue un destacado competidor en la década de 1990 y es considerado el mejor boxeador mexicano de la **historia.**
-
-Su récord incluye dos empates y seis derrotas, siendo derrotado por primera vez en su combate número 90. En 2011, fue incluido en el Salón Internacional de la Fama del Boxeo.
-
-Liga de Quito arriesga su liderato, ¿cómo se completa la fecha?
-===============================================================
-
-Liga de Quito es el principal candidato para ganar la segunda etapa de la Liga Pro 2024.
-----------------------------------------------------------------------------------------
-
-![Lisandro Alzugaray con Liga de Quito celebrando un gol en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/liga_mushuc_1.jpg)
-
-**Liga de Quito** pone sobre la mesa el liderato de la segunda etapa de la Liga Pro, cuando reciba en el estadio Rodrigo Paz Delgado a Mushuc Runa, que está al acecho para acercarse más a los puestos de vanguardia de la tabla de posiciones.
-
-El cuadro de Liga de Quito, **dirigido por el argentino Pablo ‘Vitamina’ Sánchez**, es el líder con 22 puntos y un gol diferencia de +10, mientras que Mushuc Runa, que dirige el uruguayo-paraguayo Ever Hugo Almeida, es quinto con 17 puntos y +4 de gol diferencia.
-
-### Más noticias:
-
-* [Moisés Ramírez de Independiente del Valle interesa en México](https://www.elcomercio.com/deportes/moises-ramirez-independiente-valle-puebla-mexico.html "Moisés Ramírez de Independiente del Valle interesa en México")
-* [Ariel Holan pensó en dejar Barcelona Sporting Club en junio](https://www.elcomercio.com/deportes/futbol/ariel-holan-barcelona-despido-alvarez.html "Ariel Holan pensó en dejar Barcelona Sporting Club en junio")
-* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
-
-Además, mientras el ‘Rey de Copas’ se enfocará solo en la Liga Pro, e**l Mushuc Runa también se encuentra en una decisiva instancia**, las semifinales de la Copa Ecuador, en las que perdió este miércoles 23 de octubre de 2024 por 1-2 ante El Nacional, en La Cocha de Latacunga.
-
-El encuentro entre los universitarios y el ‘ponchito’ está programado para el sábado 26, desde las 18:00, en lo que se proyecta como uno de los más destacados de esta jornada.
-
-En la fecha previa, **los albos ganaron 0-2 ante Técnico Universitario en el Bellavista de Ambato**, y Mushuc Runa empató 1-1 en Latacunga contra Deportivo Cuenca.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/liga_mushuc_2-1024x683.jpg)
-
-Foto: API.
-
-El resto de la fecha sigue
---------------------------
-
-El **Independiente del Valle,** con 20 puntos en la tabla de posiciones, arrancará este viernes la undécima fecha en su visita al Deportivo Cuenca, que cumple una discreta actuación en el torneo.
-
-Una derrota de Liga y un triunfo del cuadro del Valle, **ganador de la primera fase**, le daría al Independiente la opción para ganar la fase y el título de la actual temporada de forma directa.
-
-Entretanto, el **Orense, con 19 unidades**, también tiene alguna opción de ganar la segunda fase, pero tendrá un complicado enfrentamiento a domicilio con el El Nacional.
-
-El cuadro de ‘Los Puros Criollos’, como también le dicen a El Nacional, es octavo con 15 enteros.
-
-La **Universidad Católica del técnico argentino Jorge Célico**, con 17 puntos, decidirá su futuro en la segunda fase en el choque contra el Emelec.
-
-Será un enfrentamiento decisivo, también para el Emelec en su propósito de pescar algún billete para la próxima Copa Sudamericana.
-
-Con un presente más **complejo para ganar la segunda fase saldrá el Barcelona**, con 16 puntos, contra el Delfín, que tiene 15.
-
-El Barcelona sabe que, **si no puede ganar la fase, le quedará el consuelo de adjudicarse** el tercer puesto de la tabla acumulada de las dos fases para acceder a la Libertadores de 2025.
-
-Liga Pro – Fecha 11
--------------------
-
-### Viernes 25/10
-
-**15:00 Deportivo Cuenca vs. Independiente del Valle**
-
-Estadio: Alejandro Serrano Aguilar
-
-### Sábado 26/10
-
-**13:00 Libertad vs. Aucas**
-
-Estadio: Reina del Cisne
-
-**15:30 Universidad Católica vs. Emelec**
-
-Estadio: Olímpico Atahualpa
-
-**18:00 Liga de Quito vs. Mushuc Runa**
-
-Estadio: Rodrigo Paz Delgado
-
-### Domingo 27/10
-
-**12:00 Macará vs. Cumbayá**
-
-Estadio: Bellavista
-
-**14:30 El Nacional vs. Orense**
-
-Estadio: Olímpico Atahualpa
-
-**17:00 Barcelona SC vs. Delfín**
-
-Estadio: Monumental
-
-### Lunes 28/10
-
-**15:00 Imbabura vs. Técnico Universitario**
-
-Estadio: Olímpico de Ibarra
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/10/liga_mushuc_3-1024x683.jpg)
-
-Foto: API.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Giséle Pelicot llegó al Tribunal de Aviñón con su testimonio
-============================================================
-
-Giséle afirmó "he tomado conciencia de que no tengo que tener vergüenza, no tengo nada a reprocharme, he sufrido 100 violaciones".
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Gisele Pelicot (C), acompañada por su abogado Stéphane Babonneau (L), abandona el tribunal penal de Aviñón, Francia, el 23 de octubre de 2024, donde su exmarido es juzgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/Gisele-Pelicot-efe.jpg)
-
-[Gisèle Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html"), la víctima de decenas de violaciones orquestadas por su marido cuando ella estaba bajo efectos de somníferos, recordó a las mujeres que hoy apoyaron a sus **familiares acusados** que ella también tenía **“un hombre excepcional”**.
-
-### Más noticias
-
-* [Con audiencia de testigos Gisèle Pelicot corre el riesgo de ser revictimizada](https://www.elcomercio.com/actualidad/mundo/con-audiencia-testigos-gisele-pelicot-corre-riesgo-ser-revictimizada.html "Con audiencia de testigos Gisèle Pelicot corre el riesgo de ser revictimizada")
-* [Se proyectarán los videos de las violaciones a Gisèle Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "Se proyectarán los videos de las violaciones a Gisèle Pelicot")
-* [Dominique Pelicot, acusado de violar a su esposa por 10 años en Francia, habló en el juzgado](https://www.elcomercio.com/actualidad/mundo/dominique-pelicot-drogar-violar-esposa-juzgado-francia.html "Dominique Pelicot, acusado de violar a su esposa por 10 años en Francia, habló en el juzgado")
-
-“Estas madres, hermanas, mujeres, contaron que sus hermanos y maridos eran excepcionales. Yo también tenía un hombre excepcional, pero el **perfil del violador** puede estar en la familia, en los amigos”, dijo el miércoles, 24 de octubre de 2024, al volver a intervenir como testigo en el Tribunal de Aviñón (sureste).
-
-Esta mujer, convertida en un **auténtico símbolo feminista en Francia**, explicó que cada día acude al juicio por todas las **víctimas de violación** y por aquellas mujeres y hombres que día tras día la apoyan, con aplausos en los juzgados y con mensajes a través de las redes sociales.
-
-“He tomado conciencia de que **no tengo que tener vergüenza**, no tengo nada a reprocharme, he sufrido 100 violaciones”, aseguró.
-
-Videos de violaciones
----------------------
-
-También dijo que su solicitud de un juicio abierto y su consentimiento a que se mostraron **videos de la violaciones** se debe a que quiere “que todas la victimas de violación puedan decir que, si la señora Pelicot lo hizo, lo podemos hacer también”.
-
-“No tengan miedo”
------------------
-
-“No quiero que tengan miedo, nosotras no tenemos que tener vergüenza, son ellos”, insistió.
-
-Sin embargo, reconoció que está “**destruida” a sus 72 años:** “Soy una mujer completamente destruida y no sé cómo me voy a levantar. No sé si mi vida dará para entender todo lo que me ocurrió”.
-
-A preguntas de los abogados de las defensas, Gisèle Pelicot afirmó que **“entiende” las peticiones de perdón de algunos acusados**, pero que para ella son “inaudibles”. “Se excusan ellos mismos”, dijo.
-
-Del mismo modo, aprovechó su nuevo testimonio para reiterar que **no hay distintos grados de violaciones**. “Hay violación y ya”, después de que algunos abogados hayan tratado de rebajar la gravedad de las acciones de sus clientes.
-
-Testimonios de acusados
------------------------
-
-“Para mí son **violadores y lo seguirán siendo**“, sentenció Gisèle Pelicot. Mostró su enfado por algunos de los testimonios de los acusados y algunas de las preguntas de los abogados defensores.
-
-La última vez que tomó la palabra fue para denunciar “una humillación” en algunos de los testimonios y en las estrategias de algunas de las defensas. “Vinieron a violarme, es tan degradante lo que escucho en esta sala”.
-
-En las inmediaciones del Tribunal de Aviñón se pudieron ver **varias pancartas en apoyo a Gisèle Pelicot** y a las víctimas de abusos sexuales.
-
-“Una violación es una violación”, decía una de esas pancartas, mientras que en otra se leía en castellano **“Bienvenidas nuestras hermanas en apoyo a Gisèle”**, en referencia al grupo de feministas españolas que acudió a la manifestación que tuvo lugar el pasado sábado frente al juzgado en apoyo a la víctima.
-
-Como ya es tradición, a la llegada a los tribunales, **Gisèle Pelicot fue aplaudida**, en apoyo a la víctima de un caso que se convirtió en una causa con la que esta **mujer quiere que “la vergüenza cambie de bando”**, que las víctimas dejen de ser cuestionadas, como ella misma denunció que lo estuvo, y que **nunca más se repitan los hechos** que ella sufrió durante casi 10 años.
-
-Entre los congregados para aplaudir a Gisèle Pelicot estaba hoy Cristophe Brunel, que fue su profesor de arte dramático aficionado en 2010.
-
-“Ella lo dice: **esta lucha no es por ella,** sino por las otras. Y yo la creo, porque vi su actitud durante un año en clase”, señaló. Le regaló un **ramo de orquídeas** a la salida de la sesión de la mañana de hoy en la octava semana de juicio. 
-
-¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?
-=====================================================================
-
-Moisés Caicedo, figura y uno de los capitanes del Chelsea, no estará presente en la UEFA Conference League ante el Panathinaikos.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo (centro) disputa un partido ante el Liverpool de Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-24T110133.628.jpg)
-
-El Chelsea de **Moisés Caicedo** se enfrentará al Panathinaikos de Grecia en la tercera fecha de la UEFA Conference League. Para el compromiso de este 24 de octubre del 2024, el equipo no contará con el futbolista, quien es una de sus figuras y capitanes.
-
-Después de una formidable actuación ante el **Liverpool**, a pesar de su derrota, el DT Enzo Maresca decidió dar descanso al volante ecuatoriano. En la alineación, **Enzo Fernández y Kyeran Dewsbury Hall** ocuparán sus posiciones.
-
-### Más noticias:
-
-* [Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-liverpool-asistencia-capitan.html "Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool")
-* [¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-de-moises-caicedo-contra-el-liverpool.html "¿Cuándo juega el Chelsea de Moisés Caicedo contra el Liverpool?")
-* [Moisés Caicedo jugó su partido 50 y fue suspendido](https://www.elcomercio.com/deportes/futbol/moises-caicedo-seleccion-ecuador-partidos.html "Moisés Caicedo jugó su partido 50 y fue suspendido")
-
-De cara al partido, el elenco ‘blue’ llega en sexta posición de la primera ronda del campeonato continental. El elenco cuenta con **tres unidades** tras su debut contra el **Gent**, en el que venció por un marcador de 4-2.
-
-Para el choque, la escuadra británica se trasladó hacia Atenas, Grecia, para disputar el cotejo desde las 11:45. Tras ello, este y **Moisés Caicedo** tendrán otros seis compromisos contra distintos rivales a un solo partido en busca de llegar a los octavos de final[.](https://en.wikipedia.org/wiki/UEFA_Conference_League "https://en.wikipedia.org/wiki/UEFA_Conference_League")
-
-Moisés Caicedo y su segunda ausencia Conference League con el Chelsea
----------------------------------------------------------------------
-
-Antes de su ausencia en la convocatoria para el partido ante el **Panathinaikos**, Moisés Caicedo tampoco estuvo presente en el triunfo previo de la UEFA Conference League ante el Gent. En aquel compromiso, que se disputó en Londres, **Maresca** también optó por planear un equipo alterno.
-
-Pese a que el ecuatoriano no ha formado parte de los cruces, parte de sus compañeros que lo acompañan en el rol titular tampoco lo han hecho. De tal forma, el entrenador ha buscado encontrar un balance en el equipo para competir tanto en la **Premier League** como a nivel internacional.
-
-Antes de ingresar a la primera ronda de la **Conference League**, Caicedo sí disputó el torneo en las fases previas de clasificación. Allí, este se estrenó como capitán del equipo ante el **Servette** de Austria.
-
-¿Quiénes juegan con el Chelsea ante Panathinaikos?
---------------------------------------------------
-
-La alineación del **Chelsea** ante el **Panathinaikos** es Filip Jörgensen en el arco. En la línea defensiva van Renato Veiga, Axel Disasi y Benoit Badiashil; mientras que a nivel del mediocampo se ubican Marc Cucurella, Enzo Fernández, Kieran Dewsbury-Hall y Pedro Neto. Finalmente, en la línea de ataque se ubica Mijailo Mudryk, Joao Félix y Cristopher Nkunku.
-
-Más cambios de funcionarios en el sector energético en medio de los cortes de luz
-=================================================================================
-
-El Gerente General subrogante de CNEL renunció en medio de la crisis energética que afecta a Ecuador. Se va, tras tres meses en el cargo.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cambios se da en medio de la crisis energética que vive el país. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/cnel-1.jpg)
-
-En medio de la crisis energética y cortes de luz que afecta a Ecuador, renunció el gerente de la Empresa Eléctricas Pública Estratégica Corporación Nacional de Electricidad (CNEL), Eduardo Jácome. La ministra encargada de Energía, **Inés Manzano**, se refirió a la salida del funcionario y dijo que no tolerará la falta de acción en la actual situación energética del país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias:
-
-* [El Ministro de Energía se va y ya tiene reemplazo](https://www.elcomercio.com/actualidad/negocios/quien-asumira-el-ministerio-de-energia.html "El Ministro de Energía se va y ya tiene reemplazo")
-* [Ministerio de Energía anunció un cambio en la Dirección del Cenace](https://www.elcomercio.com/actualidad/ecuador/ministerio-energia-cambio-direccion-cenace.html "Ministerio de Energía anunció un cambio en la Dirección del Cenace")
-* [Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética](https://www.elcomercio.com/actualidad/negocios/gobierno-designa-nuevas-autoridades-electricidad-crisis-energetica.html "Gobierno designa nuevas autoridades de electricidad en medio de la crisis energética")
-
-**Eduardo Jácome** renunció el miércoles 23 de octubre por “motivos personales”. La renuncia lo hizo a través de una carta, confirmó la ministra Manzano, este 24 de octubre de 2024. La Gerencia de CNEL fue encargada a **Ángel Erazo**, que estaba en la Unidad de Negocios de CNEL Guayaquil, agregó.
-
-Inés Manzano reacciona a la renuncia de Jácome
-----------------------------------------------
-
-Según Manzano, la decisión de Jácome estaría relacionada con su exigente estilo de trabajo. Quienes no quieran trabajar con la misma intensidad que yo, pueden irse a sus casas. Creo que no está acostumbrado a trabajar bajo el mando de una mujer que exige información y acción las 24 horas, los 7 días de la semana, dijo durante una entrevista en radio Armónica.
-
-“Yo no le voy a pasar a nadie ninguna **falta de acción**, porque estamos en un momento, en el que todos debemos arrimar el hombro. Estos son los momentos en el que se ven a los profesionales”, dijo.
-
-Jácome ocupaba la gerencia de CNEL desde julio pasado y su último día de trabajo fue este 23 de octubre de 2024.
-
-La salida del funcionario se da en medio de la crisis energética por la que atraviesa el país y que ha obligado a programar **cortes de luz** en todo el Ecuador.
-
-Además, ocurre en medio de quejas ciudadanas por el aumento de los costos en las planillas de luz. El cobro de las mismas se suspendió temporalmente hasta que se realicen las investigaciones respectivas.
-
-La Empresa Eléctrica Pública Estratégica Corporación Nacional de Electricidad (CNEL) está a cargo de nueve unidades de negocios, que distribuyen y comercializan electricidad en Guayas, Santo Domingo de los Tsáchilas, Los Ríos, Bolívar, El Oro, Esmeraldas y otras provincias.
-
-Cambios en el sector energético entre los cortes de luz
--------------------------------------------------------
-
-Las últimas semanas se han cambiado autoridades en el sector energético. Uno de los primeros en renunciar fue el exviceministro de Electricidad, **Rafael Quintero**. En su lugar fue nombrado **Fabián Calero**. Luego renunció el exministro de Energía, **Antonio Goncalve**s. Esta cartera de Estado fue encargada a Inés Manzano.
-
-Asimismo, se han registrado cambios en las direcciones de la Corporación Eléctrica del Ecuador (Celec), el Operador Nacional de Electricidad (Cenace), entre otros.  
-
-Movida de Viviana Veloz hace que juicio político a Mónica Palencia no finalice aún
-==================================================================================
-
-Luego de finalizar la votación, la Asamblea debía reconsiderar la votación para archivar el juicio político a Mónica Palencia.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Mónica Palencia junto a Viviana Veloz en el juicio político desarrollado en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/palencia-veloz.jpg)
-
-El pasado miércoles 23 de octubre de 2024, la **Asamblea Nacional** votó sobre el juicio político a la ministra del Interior, **Mónica Palencia**. Sin embargo, no consiguieron los **92 votos** que eran necesarios para censurarla. Pero aún queda una duda sobre el **cierre de la votación**.
-
-### Más noticias
-
-* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
-* [Daniel Noboa recibió a Mónica Palencia, tras la decisión de la Asamblea](https://www.elcomercio.com/actualidad/politica/daniel-noboa-monica-palencia.html "Daniel Noboa recibió a Mónica Palencia, tras la decisión de la Asamblea")
-* [Mónica Palencia enfrentará un juicio político, ¿cuántos votos se necesita para censurarla?](https://www.elcomercio.com/actualidad/politica/monica-palencia-enfrentara-juicio-politico-votos-censurarla.html "Mónica Palencia enfrentará un juicio político, ¿cuántos votos se necesita para censurarla?")
-
-La ministra del Interior, Mónica Palencia, enfrentó un juicio político el 23 de octubre a partir de las **08:40 en la Asamblea Nacional**. Para censurar a la ministra del Interior se necesitaban **92 votos**, sin embargo, no se consiguió ese número.
-
-Cerca de las 17:00 se cerró el debate y se inició la votación sobre la moción para censurar a la ministra del Interior, Mónica Palencia. En la votación de **133 asambleístas presentes, con 77 votos a favor, 40 en contra y 16 objeciones,** no se censuró a la ministra **Mónica Palencia**.
-
-Bancada de ADN inconforme por no permitir la reconsideración de votos
----------------------------------------------------------------------
-
-Luego de finalizar la votación, la Asamblea debía reconsiderar la votación para archivar el juicio político a Mónica Palencia. Sin embargo, la presidenta**, Viviana Veloz (correísta)**, clausuró la sesión sin permitir esta acción.
-
-Valentina Centeno, asambleísta de ADN, mencionó que están inconformes con la decisión de Veloz de no permitir la reconsideración de los votos. “Lamentablemente, hoy, una vez más, las **mañas de la vieja política**. La presidenta de la Asamblea ha dejado abierta la votación y no nos ha dado paso a la reconsideración”, explicó Centeno.
-
-> Mañosa Viviana. La jefa de la bancada oficialista, Valentina Centeno, rechazó que la presidenta de la Asamblea, Viviana Veloz, no dio paso a la reconsideración de la votación del juicio político a la ministra Mónica Palencia, razón por la que "quedó abierta" y no sacramentada la… [pic.twitter.com/x0rWfq5XyP](https://t.co/x0rWfq5XyP)
-> 
-> — LaHistoria (@lahistoriaec) [October 23, 2024](https://twitter.com/lahistoriaec/status/1849231565328388455?ref_src=twsrc%5Etfw)
-
-Centeno explicó que, a pesar de que la **bancada de ADN y Construye** no votaron a favor de la censura, la votación aún está abierta. “Ellos están utilizando **mañas a través de la Asamblea para desestabilizar**”, indicó.
-
-Sobre un posible cambio en la votación de la **bancada de Construye**, Centeno dijo que se espera que **sean coherentes** con la decisión que ya tomaron y que está segura de que **respetarán esa postura**.
-
-El próximo lunes, a primera hora, según Centeno, van a reconsiderar lo votado el pasado 23 de octubre sobre el juicio a **Mónica Palencia.** “Ya existe un pronunciamiento de la Asamblea Nacional en contra de la censura a Mónica Palencia, quien continuará en su cargo”, explicó Centeno.
-
-¿Qué dice la Ley Orgánica de la Función Legislativa?
-----------------------------------------------------
-
-**Edison Guarango,** abogado constitucionalista, explicó que, según e**l artículo 145 de la Ley Orgánica de la Función Legislativa** **(LOFL)**, cualquier asambleísta tiene la facultad de **solicitar la reconsideración de una votación**.
-
-En la sesión del 23 de octubre, no se presentó ninguna solicitud de reconsideración, lo cual llevó al cierre de la **sesión sin este trámite**. Sin embargo, **Guarango** aclaró que en una sesión posterior aún se podría mocionar la reconsideración.
-
-Hasta que no haya una reconsideración, la **votación aún sigue abierta**, según Guarango.
-
-En caso de que se **logre mocionar la reconsideración**, Guarango detalló que se requiere una votación en la que se necesiten **70 votos para aprobar la moción**. Si esta reconsideración se acepta, la censura a la ministra necesitaría nuevamente **92 votos para ser efectiva**. Esto implica un proceso complejo, con varios **niveles de votación que deben superarse para destituir a la ministra**.
-
-Finalmente, Guarango indicó que si nadie reconsidera la votación, la decisión del 23 de octubre quedaría en firme, y e**l juicio político se archivaría**. Mientras no sea destituida, la ministra puede seguir ejerciendo **sus funciones sin impedimento alguno**.
-
-Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’
-===============================================================
-
-Troye es una republicana de toda la vida que en estas elecciones votará por Kamala Harris.
-------------------------------------------------------------------------------------------
-
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/donald-trump-efe--1.jpg)
-
-Cuando estaba en la Casa Blanca, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-afirma-que-biden-es-muy-superior-a-kamala.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-afirma-que-biden-es-muy-superior-a-kamala.html") mantenía una **doble postura** frente a Venezuela: mientras públicamente criticaba al Gobierno, en privado expresaba admiración por **Nicolás Maduro** por ser un hombre “fuerte”, según reveló en una entrevista la exasesora de la Casa Blanca Olivia Troye.
-
-### Más noticias
-
-* [Elon Musk realiza ‘lotería’ millonaria para ganar votos a favor de Donald Trump](https://www.elcomercio.com/actualidad/mundo/elon-musk-loteria-millonaria-estados-unidos.html "Elon Musk realiza ‘lotería’ millonaria para ganar votos a favor de Donald Trump")
-* [Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS](https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html "Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS")
-* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
-
-Una exrepublicana da su testimonio
+Ecuador se estaciona en el ranking
 ----------------------------------
 
-Troye, una republicana de toda la vida que en estas elecciones votará por Kamala Harris, contó el “conflicto interno” que la atormentó durante su etapa en la Casa Blanca como asesora principal en seguridad nacional y contraterrorismo para el entonces vicepresidente, Mike Pence.
+Tal como sucedió en las tres últimas actualizaciones, **Ecuador conservó el puesto 27 del ranking FIFA** y no mostró ninguna mejoría en su posición. Suma 1 536.32 puntos, tan solo 0.89 más que hace un mes.
 
-Una de las situaciones que más le impactaban era la admiración que Trump manifestaba por dictadores y “hombres fuertes”, y la naturalidad con la que hablaba de ello en reuniones a las que ella misma asistía. Durante una de esas juntas, **Trump elogió abiertamente a Nicolás Maduro**, al que denostaba en sus declaraciones públicas.
+El último **progreso significativo fue en junio cuando pasó del puesto 30 al 27**, en gran medida beneficiada por haber llegado a los cuartos de final de la Copa América en Estados Unidos, donde fue eliminada por Argentina en la tanda de penales.
 
-¿Trump apoyaba a Maduro?
-------------------------
+La mejor ubicación de **Ecuador en este ranking fue entre abril y junio de 2013** cuando estuvo en el puesto 10.
 
-“Le he oído hablar de Maduro, él apoyó a Maduro. Y yo **me quedé confundida** en esas juntas, porque me preguntaba: aquí estamos diciendo ‘libertad para Venezuela’, diciendo todas esas cosas, y aquí está el presidente afirmando que Maduro es fuerte”, narró Troye.
+El colombiano **Reinaldo Rueda era el entrenador y Antonio Valencia** el gran referente de esa generación que clasificó al Mundial Brasil 2014 y, entre sus resultados más destacados, se recuerda un 2-3 ante la Portugal de Cristiano Ronaldo en suelo portugués.
 
-Estas declaraciones, explicó, generaban desconcierto entre el personal de la Casa Blanca. Ella misma se cuestionaba cuáles eran las verdaderas intenciones de Trump, quien apoyaba a Maduro en privado mientras que en público abogaba por una política dura para sacarlo del poder.
+Ranking FIFA
+------------
 
-La sensación que acompañó a Troye durante su tiempo en la Casa Blanca fue de decepción al observar a un presidente que no dudaba en “jugar a la política”, en lugar de gobernar.
+1\. Argentina
 
-La retórica antiinmigrante de Trump
------------------------------------
+**2\. Francia**
 
-La retórica a**ntiinmigrante de Trump afectaba especialmente a Troye,** ya que su madre migró de México y ella misma se crió hablando español en la ciudad fronteriza de El Paso (Texas), manteniendo contacto constante con habitantes de Ciudad Juárez y Chihuahua, al otro lado de la frontera.
+3\. España
 
-“Cuando un presidente **utiliza ciertas palabras** y se expresa sobre estos temas, las consecuencias se sienten en nuestras comunidades”, aseguró.
+**4\. Inglaterra**
 
-Ejemplo de ello, relató, es el **tiroteo racista** ocurrido en 2019 en el centro comercial Walmart de su ciudad de El Paso, donde fallecieron 23 personas. El autor del ataque, un hombre blanco, publicó un manifiesto donde expresaba su deseo de **acabar con la “invasión hispana”**, empleando un lenguaje similar al utilizado por Trump.
+5\. Brasil
 
-La tía de Troye, de origen mexicano como su madre, se encontraba en el centro comercial en el momento del ataque y, aunque resultó ilesa, el corazón de Troye se encogía cuando escuchaba a Trump referirse a ese suceso en las reuniones de la Casa Blanca.
+**6\. Bélgica**
 
-“Era difícil para mí porque estaba viendo al presidente de mi partido hablar de mi comunidad y pensaba en mi tía”, explicó.
+7\. Países Bajos
 
-De asesora republicana a defensora de Harris
---------------------------------------------
+**8\. Portugal**
 
-Troye a**bandonó la Casa Blanca en agosto de 2020,** en parte debido a la mala gestión de Trump de la pandemia. En ese momento, ella era la encargada de **representar a Pence** en el grupo de trabajo de la Casa Blanca sobre el covid-19 y pudo constatar de primera mano cómo los intereses políticos guiaban la respuesta a la pandemia.
+9\. Colombia
 
-Apenas un mes después, **Troye sacudió al Partido Republicano** al publicar un vídeo con el grupo ‘Votantes republicanos contra Trump’ en el que anunciaba que, pese a ser criado en un hogar católico y con los valores republicanos, iba a votar por el demócrata Joe Biden en las elecciones de 2020.
+**10\. Italia**
 
-4 años después, Troye forma parte del grupo **‘Republicanos por Harris’** y llegó incluso a pronunciar un discurso en la **Convención Nacional Demócrata** en agosto, en el que urgió a los republicanos huérfanos de partido y votantes independientes a respaldar a Harris para preservar la democracia estadounidense.
+11\. Uruguay
 
-“Quiero **ver en la Casa Blanca a alguien que sea responsable**, que se tome en serio los asuntos cuando haya una crisis y que sea presidente para todos, no solo para un grupo”, enfatizó Troye.
+**16\. Estados Unidos**
 
-Su testimonio se produce cuando varios **exasesores de Trump** alertaron sobre los riesgos que supondría un segundo mandato. Esta misma semana, su exjefe de gabinete, el general John Kelly, aseguró que el expresidente cumple con la **definición de “fascista**“. Además, reveló que durante su mandato este llegó a sugerir que Adolf Hitler hizo algunas “cosas buenas”.
+17\. México
 
-Av. Lola Quintana se cierra hasta el 7 de noviembre
-===================================================
+**27\. Ecuador**
 
-El cierre vehicular se aplica desde este jueves 24 de octubre para la ejecución de los trabajos que permitan la ampliación a dos carriles
------------------------------------------------------------------------------------------------------------------------------------------
+35\. Panamá
 
-![La av. Lola Quintana tendrá cierres temporales desde este 24 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/av.-Lola-Quintana.jpg)
+**37\. Venezuela**
 
-La **Prefectura de Pichincha** informó sobre un cierre vehicular que se ejecutará en la **av. Lola Quintana** debido a trabajos que se realizarán en la vía.
+40\. Canadá
 
-### Más noticias
+**42\. Perú**
 
-* [Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/trabajos-en-tuberia-causan-fuga-de-agua-en-la-av-gonzalez-suarez-en-quito.html "Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito")
-* [Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito](https://www.elcomercio.com/actualidad/quito/av-colon-quito-cerrada-parcialmente-por-trabajos-soterramiento.html "Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito")
-* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
+43\. Chile
 
-Cierre de la vía
-----------------
+**49\. Costa Rica**
 
-La Prefectura de Pichincha informó que en la avenida Lola Quintana se realizan trabajos de ampliación a dos carriles y, por ello, se debe cerrar la circulación vehicular en esta vía.
+62\. Paraguay
 
-El cierre se aplicará en la rampa de conexión con la **autopista General Rumiñahui,** en sentido Conocoto-San Rafael, por lo que afectará a los habitantes de este sector.
+[89\. Bolivia](https://inside.fifa.com/es/fifa-world-ranking/men?dateId=id14443)
 
-Los cierres se realizarán en un horario de **09:00 a 13:00 y de 14:30 a 16:30,** desde el 24 de octubre hasta el 7 de noviembre.
-
-En este tiempo, se verá afectada la **circulación en el intercambiador** de la autopista General Rumiñahui -Armenia, desde el ingreso a la Policía Nacional hasta la salida.
-
-Los demás accesos a la autopista **estarán habilitados** permanentemente en sentido Quito-Valle y viceversa.
-
-Desvío a San Rafael
--------------------
-
-Si necesitas dirigirte a **San Rafael desde Conocoto** debes hacer el [siguiente recorrido](https://es.wikipedia.org/wiki/Valle_de_los_Chillos "https://es.wikipedia.org/wiki/Valle_de_los_Chillos"):
-
-* Av. Lola Quintana
-* Toma la calle 29 de Mayo
-* Gira hacia Ascázubi
-* Avanza hasta Belo Horizonte
-* Gira en César Endara
-* Baja por la Juan Cerafín Carrera
-* Toma la autopista General Rumiñahui en dirección a San Rafael
-
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Cierre temporal de la Avenida Lola Quintana 🚧  
->   
-> 📆 24 de octubre al 7 noviembre  
-> ⏰ 9h00 a 13h00 y 14h30 a 16h30  
-> 📍 En el Intercambiador AGR – Armenia, desde el ingreso a la Policía Nacional hasta la salida  
->   
-> Los demás accesos a la AGR estarán habilitados ⬇️
-> 
-> — Prefectura de Pichincha (@PichinchaGob) [October 23, 2024](https://twitter.com/PichinchaGob/status/1849196715624046718?ref_src=twsrc%5Etfw)
-
-Construcción del puente elevado
--------------------------------
-
-En la **autopista General Rumiñahui**, a la altura de la av. Lola Quintana, **se construye** un paso elevado para servir a los habitantes de Conocoto y sectores aledaños.
-
-A través de esta obra circularán alrededor de **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños, como La Armenia.
-
-Este puente tendrá una **longitud de 276 metros,** con un ancho de 3,5 metros. El proyecto también prevé la instalación de iluminación del puente y la señalización como vertical.
-
-En una escuela de Nuseirat se registran 17 fallecidos y 52 heridos
-==================================================================
-
-Entre las víctimas que llegaron al hospital Al Awda de Nuseirat, más de la mitad son menores, incluido un niño de solo 11 meses.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Una mujer palestina (C), madre del bebé de un año y medio asesinado Yaman Al Zaneen, llora durante su funeral en Deir al Balah, en el centro de la Franja de Gaza.](https://www.elcomercio.com/wp-content/uploads/2024/10/nuseirat-efe.jpg)
-
-Al menos **17 palestinos**, incluidos **nueve menores**, murieron y **52 resultaron heridos** en un bombardeo israelí en una escuela que albergaba **desplazados en el campo de refugiados** de Nuseirat, en el centro de la Franja, confirmó el Gobierno gazatí de [Hamás](https://www.elcomercio.com/actualidad/mundo/hamas-busca-nuevo-liderazgo-en-plena-guerra-en-gaza.html "https://www.elcomercio.com/actualidad/mundo/hamas-busca-nuevo-liderazgo-en-plena-guerra-en-gaza.html").
-
-Niños y mujeres desplazados
----------------------------
-
-“El ejército de ocupación sabía que la **escuela Al Suhada** incluía a miles de personas desplazadas, y que la mayoría de ellas **eran niños y mujeres** que tuvieron que irse de sus hogares por los bombardeos en sus barrios civiles”, indicó el Ejecutivo.
-
-El Ejército israelí informó del **ataque a la escuela de Nuseirat,** que según su versión, “era un centro de comando y control de Hamás” usado en el pasado para “**planificar y ejecutar ataques terrorista**s contras las tropas israelíes y el Estado de Israel”.
-
-“Este es otro ejemplo del abuso sistemático de la **infraestructura civil** por parte de la organización terrorista Hamás en violación del derecho internacional”, aseveró el Ejército, que dijo tomar medidas para proteger a los civiles.
-
-Entre las víctimas que llegaron al hospital **Al Awda de Nuseirat**, más de la mitad son menores, incluido un **niño de solo 11 meses**, según fuentes médicas.
-
-Ataques a centros de desplazamiento
------------------------------------
-
-“Esta masacre eleva a **196 el número de refugios y centros de desplazamiento** bombardeados por la ocupación y estos centros incluyen a cientos de miles de personas desplazadas por esta guerra genocida contra nuestro pueblo palestino”, señaló el Gobierno de Gaza.
-
-En las últimas horas también se reportaron ataques de **artillería en Bureij,** campamento del centro de la Franja cercano a Nuseirat, con un muerto confirmado de momento; y en Jan Yunis, en el sur, otro ataque israelí contra una vivienda ha causado al menos tres muertos.
-
-Fuentes de los servicios de emergencia confirmaron **29 muertos** en toda la Franja en ataques israelíes desde el amanecer de este jueves, 23 de ellos en el centro y sur del enclave.
-
-Además, al menos **55 palestinos murieron y 132 resultaron heridos** en la Franja de Gaza en la última jornada, hasta la medianoche, por la **ofensiva israelí,** que desde hace veinte 10 se ceba con las ciudades de Beit Lahia y Yabalia, en el norte del enclave.
-
-Tras 384 días de guerra, que comenzó el 7 de octubre de 2023, **los muertos en Gaza ascienden** a 42847 y los heridos a 100544, según los datos del **Ministerio de Sanidad de la Franja,** controlado por Hamás, que estima que hay además unos 10000 cuerpos atrapados bajo los escombros. 
-
-Karol G transforma su antiguo colegio en Medellín 
-==================================================
-
-Con la reconstrucción, Karol G benefició a más de 600 estudiantes con esta importante obra.
--------------------------------------------------------------------------------------------
-
-![Karol G reconstruyó el colegio donde estudió en Medellín. Foto: Instagram @karolg.](https://www.elcomercio.com/wp-content/uploads/2024/10/Karol-G-colegio.jpg)
-
-**Karol G**, la famosa cantante colombiana, ha dado un paso significativo en su comunidad al **reconstruir el colegio donde cursó sus estudios en Medellín**.
-
-### Más noticias
-
-* [¿Karol G o Shakira? Favoritos para triunfar en los Premios Billboard de la Música Latina](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-shakira-premios-billboard-musica-latina.html")
-* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
-
-Esta iniciativa no solo refleja su **compromiso social**, sino que también simboliza un regreso a sus raíces. La obra, realizada a través de su **fundación Con Cora**, busca **mejorar las condiciones educativas de los jóvenes** en su ciudad natal. 
-
-**Un proyecto necesario** 
---------------------------
-
-El colegio, que **sufrió daños severos debido a las lluvias**, necesitaba una intervención urgente. Karol G decidió actuar. La reconstrucción no solo incluye **mejoras estructurales**, sino también la **dotación de recursos educativos**. Este esfuerzo **beneficiará a más de 600 estudiantes**, quienes ahora podrán disfrutar de un ambiente más seguro y adecuado para aprender, de acuerdo con [La Opinión](https://www.laopinion.co/tendencias/que-bichota-karol-g-reconstruyo-el-colegio-donde-estudio-en-medellin "https://www.laopinion.co/tendencias/que-bichota-karol-g-reconstruyo-el-colegio-donde-estudio-en-medellin"). 
-
-> Karol G lidera la reconstrucción del Colegio Arenys de Mar en Medellín, tras el colapso causado por el desbordamiento de una quebrada. Su compromiso ofrece a más de 600 estudiantes un espacio digno y seguro para recibir educación de calidad. [pic.twitter.com/MqZme9cbNB](https://t.co/MqZme9cbNB)
-> 
-> — Karol G Reports (@KarolGReports) [October 22, 2024](https://twitter.com/KarolGReports/status/1848850642078515669?ref_src=twsrc%5Etfw)
-
-**La importancia de la educación** 
------------------------------------
-
-La educación es un pilar fundamental en la vida de **Karol G**. Desde sus inicios, ha hablado sobre la **importancia de invertir en el futuro de los jóvenes**. Al reconstruir su antiguo colegio, Karol G envía un mensaje claro: la educación debe ser accesible y de calidad para todos. Este proyecto se alinea con su visión de **empoderar a las nuevas generaciones**, a decir de [LaFM](https://www.lafm.com.co/entretenimiento/karol-g-reconstruye-colegio-en-medellin-para-mas-de-600-estudiantes "https://www.lafm.com.co/entretenimiento/karol-g-reconstruye-colegio-en-medellin-para-mas-de-600-estudiantes").  
-
-**Inversión en el futuro** 
----------------------------
-
-La inversión realizada en la reconstrucción del colegio es significativa. **La fundación Con Cora se encargó de gestionar los recursos necesarios** para llevar a cabo este ambicioso proyecto. Además de la infraestructura física, **se han implementado programas educativos** que fomentan el desarrollo integral de los estudiantes. Esto incluye **talleres artísticos y deportivos**, lo que promueve así un enfoque holístico en la educación, de acuerdo con [TeleMedellín](https://telemedellin.tv/fundacion-karol-g-obras-colegio-medellin/723201/ "https://telemedellin.tv/fundacion-karol-g-obras-colegio-medellin/723201/"). 
-
-**Un impacto duradero** 
-------------------------
-
-El impacto de esta iniciativa va más allá del ámbito educativo. Karol G, conocida por éxitos como Bichota, ha demostrado que es posible **combinar el éxito personal con un compromiso genuino hacia la comunidad.** Su acción inspira a otros artistas y figuras públicas a involucrarse en **causas sociales**. La reconstrucción del colegio es un ejemplo palpable de cómo se puede generar un cambio positivo en la sociedad 
-
-**Reconocimiento y admiración** 
+No te pierdas – El Confesionario
 --------------------------------
 
-**Karol G** ha recibido elogios tanto a nivel nacional como internacional por su **labor social**. Su capacidad para conectar con sus raíces y devolver a la comunidad lo que le ha dado es admirada por muchos. Este tipo de acciones solidifican su imagen como una **artista comprometida con el bienestar social.** 
+Binomio de la ID está a un paso de la papeleta de las elecciones 2025
+=====================================================================
 
-¿Qué ecuatorianos juegan la fecha 3 de Europa League?
-=====================================================
+El calendario para las elecciones 2025 contemplan tiempos para impugnaciones de las candidaturas de bimonios.
+-------------------------------------------------------------------------------------------------------------
 
-Kevin Rodríguez, Denil Castillo, Nilson Angulo y Cristian Ramírez tendrán acción en la tercera fecha de la UEFA Europa League.
-------------------------------------------------------------------------------------------------------------------------------
+![El CNE realiza varios procesos, como la definición de observadores, hacia las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-observadores-1.jpg)
 
-![Kevin Rodríguez en un partido previo a la UEFA Europa League con el Union Saint Gilloise](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-24T093846.090.jpg)
+Dos de los **16 binomios** inscritos en el **Consejo Nacional Electoral (CNE)** quedaron rezagados para entrar a la papeleta de las elecciones 2025 en Ecuador. Sin embargo, uno de estos ya tiene habilitado el camino[.](https://es.wikipedia.org/wiki/Ecuador)
 
-La **UEFA Europa League** regresa con la fecha 3 del certamen y un trío de ecuatorianos tendrá acción con sus clubes. Este jueves 24 de octubre del 2024, **Kevin Rodríguez** se enfrentará a **Denil Castillo**, mientras que **Cristian Ramírez y Nilson Angulo** también saltarán a la cancha.
-
-Después de que finalizasen los duelos de la **Champions League**, donde también estuvieron presentes tres futbolistas tricolores, la **Europa League** continúa con sus partidos. Aunque el 23 de octubre se disputaron dos cotejos, durante el 24 se celebrarán los 16 restantes.
-
-### Más noticias:
-
-* [Angelo Preciado sufre dura derrota en la Champions League](https://www.elcomercio.com/deportes/futbol/angelo-preciado-sufre-dura-derrota-en-la-champions-league.html "Angelo Preciado sufre dura derrota en la Champions League")
-* [Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions](https://www.elcomercio.com/deportes/futbol/raphinha-brilla-goleada-fcbarcelonal-bayern-munich-champions.html "Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions")
-* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
-
-En el caso de los equipos de jugadores ecuatorianos, el que mejor se ubica en la tabla de la primera ronda del certamen es el Anderlecht de **Nilson Angulo**, que ocupa la séptima posición con seis puntos. A este le sigue el Midjylland de **Denil Castillo** en décimo puesto y con cuatro unidades.
-
-A diferencia de sus compatriotas, **Kevin Rodríguez y Cristian Ramírez** se encuentran en la zona baja de la tabla. El primero ocupa la vigesimosexta posición con el **Union Saint Gilloise** con un punto; el segundo, la trigesimoprimera sin unidades.
-
-Entre los cotejos más vistosos también se encuentra el del **Manchester United** ante el **Fenerbahce**. Asimismo, también destaca el del **Tottenham** con el **AZ Almaark** y el del Porto con el Hoffenheim.
-
-Los choques de los ecuatorianos en Europa League
-------------------------------------------------
-
-El primer choque de la jornada de UEFA Europa League será el que enfrente al **Union Saint Gilloise** belga de Kevin Rodríguez contra el **Midjylland** danés de Denil Castillo. Aquel cotejo se llevará a cabo a las 11:45 de este jueves 24 de octubre[.](https://en.wikipedia.org/wiki/UEFA_Europa_League "https://en.wikipedia.org/wiki/UEFA_Europa_League")
-
-El **Ferencváros** húngaro de Cristian Ramírez también jugará a las 11:45 frente al **Niza** de Francia. Nilson Angulo y el **Anderlecht** cerrarán la fecha a las 14:00 al medirse ante el **Ludogorets** de Bulgaria.
-
-Partidos de la UEFA Europa League para el 24 de octubre del 2024
-----------------------------------------------------------------
-
-**Partido**: Eintracht Frankfurt vs. RFS Riga
-
-**Hora**: 11:45
-
-**Partido**: Roma vs. Dynamo Kyiv
-
-**Hora**: 11:45
-
-**Partido**: Midjylland vs. Union Saint-Gilloise
-
-**Hora**: 11:45
-
-**Partido**: Qarabag vs. Ajax
-
-**Hora**: 11:45
-
-**Partido**: Maccabi Tel Aviv vs. Real Sociedad
-
-**Hora**: 11:45
-
-**Partido**: PAOK vs. Viktoria Plzen
-
-**Hora**: 11:45
-
-**Partido**: Ferencváros vs. Niza
-
-**Hora**: 11:45
-
-**Partido**: Fenerbahce vs. Manchester United
-
-**Hora**: 14:00
-
-**Partido**: Tottenham vs. AZ Alkmaar
-
-**Hora**: 14:00
-
-**Partido**: Lyon vs. Besiktas
-
-**Hora**: 14:00
-
-**Partido**: Anderlecht vs. Ludogorets
-
-**Hora**: 14:00
-
-**Partido**: Athletic Bilbao vs. Slavia Praga
-
-**Hora**: 14:00
-
-**Partido**: Malmo vs. Olympiacos
-
-**Hora**: 14:00
-
-**Partido**: Porto vs. Hoffenheim
-
-**Hora**: 14:00
-
-**Partido**: Twente vs. Lazio
-
-**Hora**: 14:00
-
-**Partido**: Rangers vs. Steaua Bucurest
-
-**Hora**: 14:00
-
-Av. Colón está cerrada parcialmente por trabajos de soterramiento, en Quito
-===========================================================================
-
-Las obras que se ejecutan en la av. Colón corresponden al soterramiento y reemplazo de cables, como parte del proyecto Senderos Seguros
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Los trabajos corresponden al proyecto Sendero Seguro del Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Colon.jpg)
-
-La **Empresa Metropolitana de Obras Públicas** (Epmmop) informó sobre los trabajos que se ejecutarán este jueves 24 de octubre de 2024 debido a **soterramiento de cables**.
+Las duplas de la **Izquierda Democrática** (ID, **Carlos Rabascall y Alejandra Rivas**) y Suma (Jan Topic y Mishelle Calvache) recibieron impugnaciones en el **Tribunal Contencioso Electoral (TCE)**.
 
 ### Más noticias
 
-* [Así funciona el Pico y placa en Quito este jueves 24 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-24-de-octubre.html "Así funciona el Pico y placa en Quito este jueves 24 de octubre")
-* [Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito](https://www.elcomercio.com/actualidad/quito/trabajos-en-tuberia-causan-fuga-de-agua-en-la-av-gonzalez-suarez-en-quito.html "Trabajos en tubería causan fuga de agua en la av. González Suárez, en Quito")
-* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
+* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
+* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
 
-Trabajos en la av. Colón
+> El 9⃣ de febrero, en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), el Ecuador votará por:  
+>   
+> ➡️ 1 Binomio presidencial  
+> ➡️ Asambleístas nacionales, provinciales y por el exterior.  
+> ➡️ Parlamentarios andinos.  
+>   
+> 🔴 ¡Recuerda! El Censo poblacional de 2022 incrementó a 151 el número de legisladores que se… [pic.twitter.com/HkrkPzKCon](https://t.co/HkrkPzKCon)
+> 
+> — cnegobec (@cnegobec) [October 24, 2024](https://twitter.com/cnegobec/status/1849535287031902293?ref_src=twsrc%5Etfw)
+
+Binomios para las elecciones 2025
+---------------------------------
+
+Este jueves, 24 de octubre de 2024, el recurso que impedía que el **binomio de la ID** esté en firme para las votaciones, fue archivado.
+
+No obstante, hasta las 14:40 de este jueves, la notificación aún no ingresaba al **[CNE](https://www.cne.gob.ec/)**. Este paso es indispensable para que la dupla entre a la papeleta electoral.
+
+Sobre **Jan Topic** aún se espera una respuesta. En este caso, las impugnaciones en contra de la candidatura aún están en manos del **TCE**.
+
+Binomios ya en firme
+--------------------
+
+* **Jimmy Jairala y Lucía Vallecilla**, Movimiento Centro Democrático (CD), lista 1.
+* **Jorge Escala y Pacha Terán**, Partido Unidad Popular (UP), lista 2.
+* **Andrea González y Galo Moncayo**, Partido Sociedad Patriótica (PSE), lista 3.
+* **Víctor Araus y Cristina Carrera**, Movimiento Pueblo, Igualdad y Democracia (PID), lista 4.
+* **Luisa González y Diego Borja**, Movimiento de la Revolución Ciudadana (RC), lista 5.
+* **Henry Kronfle Kozhaya y Dallyana Passailaigue**, Partido Social Cristiano (PSC), lista 6.
+* **Daniel Noboa y María José Pinto**, Movimiento Acción Democrática Nacional (ADN), lista 7.
+* **Luis Felipe Tillería y Karla Rosero**, Partido Avanza, lista 8.
+* **Juan Iván Cueva con Cristina Reyes**, Movimiento Amigo, lista 16.
+* **Pedro Granja y Verónica Silva**, Partido Socialista Ecuatoriano (PSE), lista 17.
+* **Leonidas Iza Salazar y Katiuska Molina**, Movimiento Pachakutik, lista 18.
+* **Iván Saquicela y María Luisa Coello**, Movimiento Democracia Sí, lista 20.
+* **Francesco Tabacchi y Blanca Saquicela**, Movimiento Creando Oportunidades (CREO), lista 21.
+* **Henry Cucalón y Carla Larrea**, Movimiento Construye, lista 25.
+
+Las candidaturas finales
 ------------------------
 
-Como parte del proyecto **Senderos Seguros**, se ejecutarán trabajos en la av. Colón que implican suspender el tránsito vehicular en dos carriles.
+El 30 de diciembre se conocerán las candidaturas finales, que incluyen los aspirantes a los **151 puestos** en la **Asamblea y al Parlamento Andino**.
 
-Este cierre se aplicará **desde las 09:30 hasta las 15:30** del jueves 24 de octubre. Esto se aplicará desde la Colón y 12 de Octubre, incluida la Plaza Artigas, **hasta la av. 6 de Diciembre**.
+Como parte del proceso para llegar a las papeletas finales, el **CNE** debía resolver las objeciones presentadas antes del 12 de octubre de 2024.
 
-Los trabajos están a cargo de las empresas operadoras de telecomunicaciones, bajo la fiscalización de la Epmmop. La Secretaría de Hábitat y Ordenamiento Territorial y la **AMT coordinarán la gestión del flujo** vehicular.
+El **CNE** podía aceptar una objeción y rechazar la candidatura. Claro que los implicados podían presentar un recurso de impugnación, del 12 al 17 de octubre de 2024. El organismo electoral tenía hasta el 20 del mismo mes para resolver.
 
-La **Agencia Metropolitana de Tránsito** (AMT) informó que se **restringirá la circulación** en los carriles derechos de la av. Colón. Es decir, **los carriles derechos** en cada uno de los sentidos oriente-occidente y viceversa. El flujo vehicular se mantiene abierto en el carril izquierdo de cada sentido.
-
-Agentes metropolitanos de tránsito se encuentran en la zona **para asistir a los conductores** y precautelar la seguridad del personal que ejecuta los trabajos.
-
-Zonas afectadas
----------------
-
-* Av. 12 de Octubre
-* Plaza Artigas
-* Av. Colón
-* Av. 6 de Diciembre
-
-Rutas alternas
---------------
-
-Si necesitas circular por la zona intervenida, puedes tomar las siguientes rutas alternas para poder avanzar a tu destino:
-
-* Av. Orellana
-* Av. Veinimilla
-* Calle Luis Cordero
-
-Los trabajos en la zona incluyen el **soterramiento de cables** y el retiro de los que están ya en desuso o en mal estado. Esto, como parte del proyecto Senderos Seguros que impulsa el [Municipio](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") de Quito.
-
-> 👷🏻‍♂️[#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw)|  
->   
-> En el sector de la av. Colón por trabajos de retiro de cables se cerrarán las siguientes calles.🚧  
->   
-> 📆 Jueves 24 de octubre.  
-> ⏰ 09H00 a 15H00.  
->   
-> ➡️ Toma vías alternas.  
->   
-> ℹ️ Con información eficaz[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) ☀️ [pic.twitter.com/eLgOr7yVHk](https://t.co/eLgOr7yVHk)
-> 
-> — AMTQuito (@AMT\_Quito) [October 24, 2024](https://twitter.com/AMT_Quito/status/1849272737170120994?ref_src=twsrc%5Etfw)
+Por otro lado, está el **TCE**. En esta instancia también se pueden presentar cuestionamientos a las candidaturas, cuya sustanciación se contempla del 23 de octubre al 10 de noviembre de 2024.
