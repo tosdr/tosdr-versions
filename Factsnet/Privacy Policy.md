@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About New York City Halloween ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/35-facts-about-new-york-city-halloween/)
-
-Events
-
-24 Oct 2024
-
-[35 Facts About New York City Halloween](https://facts.net/events/35-facts-about-new-york-city-halloween/)
-
-[![35 Facts About Denali Brehmer ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-denali-brehmer/)
+[![35 Facts About Jack London ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-jack-london/)
 
 People
 
-24 Oct 2024
+25 Oct 2024
 
-[35 Facts About Denali Brehmer](https://facts.net/history/people/35-facts-about-denali-brehmer/)
+[35 Facts About Jack London](https://facts.net/history/people/35-facts-about-jack-london/)
+
+[![35 Facts About Madonna Inn ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/35-facts-about-madonna-inn/)
+
+Landmarks
+
+25 Oct 2024
+
+[35 Facts About Madonna Inn](https://facts.net/world/landmarks/35-facts-about-madonna-inn/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
