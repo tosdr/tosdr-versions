@@ -1,6 +1,6 @@
-Don't miss our Quarterly Roadmap Showcase, Thursday, October 24
+Don't miss our Quarterly Roadmap Showcase
 
-[Register now
+[Watch on demand
 
 ![](https://cdn.prod.website-files.com/667dd40ebb8095e89f275639/667dd40ebb8095e89f275b5d_arrow-right-icon-black.svg)](https://info.greynoise.io/webinar/quarterly-product-showcase-q4-2024)
 
