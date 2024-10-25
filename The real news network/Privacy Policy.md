@@ -76,12 +76,12 @@ Trending Posts
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
+* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
-* [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
+* [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 
 Close
 
@@ -140,12 +140,12 @@ Trending Posts
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Nebraska Supreme Court enfranchises 7,000 formerly convicted of felony crimes](https://therealnews.com/nebraska-supreme-court-enfranchises-7000-formerly-convicted-of-felony-crimes)
+* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
-* [Republicans’ cynical and selective concern for social welfare](https://therealnews.com/republicans-cynical-and-selective-concern-for-social-welfare) 
+* [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 
 [Skip to content](#main)
 
