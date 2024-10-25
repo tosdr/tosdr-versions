@@ -262,27 +262,17 @@ Main
                 
     * Column
         * By Type
+            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [Blogs](https://info.badgr.com/resources/blog)
             * [Case Studies](https://info.badgr.com/resources/case-studies)
             * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
+            * [Infographics](https://info.badgr.com/resources/infographic)
+            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
+            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
             * [Research](https://info.badgr.com/resources/research)
             * [Videos](https://info.badgr.com/resources/videos)
-            * [Infographics](https://info.badgr.com/resources/infographic)
-            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
-            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
-            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
-            
-            The Lifelong Learning Report
-            
-            #### 
-            
-            Trends and Insights from K-12 to Career
-            
-            [Learn More](https://www.instructure.com/research/lifelong-learning?utm_source=INST&utm_medium=RS&utm_campaign=24Q4-NO-IP-MUL-INST-RS-RE-Lifelong-Learning-Report-2024-Webnav&utm_id=701TU00000IiKaAYAV&CampaignID=701TU00000IiKaAYAV)
-            
 * News & Events
     * Column
         * Events
@@ -523,27 +513,17 @@ Main
                 
     * Column
         * By Type
+            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [Blogs](https://info.badgr.com/resources/blog)
             * [Case Studies](https://info.badgr.com/resources/case-studies)
             * [Ebooks & Buyer’s Guides](https://info.badgr.com/resources/ebooks)
+            * [Infographics](https://info.badgr.com/resources/infographic)
+            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
+            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
             * [Research](https://info.badgr.com/resources/research)
             * [Videos](https://info.badgr.com/resources/videos)
-            * [Infographics](https://info.badgr.com/resources/infographic)
-            * [On-Demand Webinars](https://info.badgr.com/resources/webinars)
-            * [InstructureCast](https://info.badgr.com/resources/instructurecast)
-            * [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
             * [All Resources](https://info.badgr.com/resources)
     * Column
-        *   ![Trends and Insights from K-12 to Career: The Lifelong Learning Report](/sites/default/files/styles/small_hq/public/image/2024-10/2024_Lifelong-Learning-Report-Web-Images-07-min.png?itok=QnR9ZAD-)
-            
-            The Lifelong Learning Report
-            
-            #### 
-            
-            Trends and Insights from K-12 to Career
-            
-            [Learn More](https://www.instructure.com/research/lifelong-learning?utm_source=INST&utm_medium=RS&utm_campaign=24Q4-NO-IP-MUL-INST-RS-RE-Lifelong-Learning-Report-2024-Webnav&utm_id=701TU00000IiKaAYAV&CampaignID=701TU00000IiKaAYAV)
-            
 * News & Events
     * Column
         * Events
