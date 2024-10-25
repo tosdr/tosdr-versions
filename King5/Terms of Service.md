@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/244572383/244572383_16x9.jpg) ![](https://media.king5.com/assets/KING/images/244572383/244572383_360x203.jpg)](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
+        
+        #### [Marysville Pilchuck briefly locks down after online threat day after anniversary of mass shooting](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
+        
     *  [![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
-        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c) [![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
-        
-        #### [Expect heavy winds, rain around western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
-    *  [![](https://media.king5.com/assets/KING/images/244572383/244572383_16x9.jpg) ![](https://media.king5.com/assets/KING/images/244572383/244572383_360x203.jpg)](https://www.king5.com/article/news/local/marysville-shooting/10-years-marysville-pilchuck-school-shooting/281-887d1454-a298-4976-ac93-a87a8add24aa)
-        
-        #### [10 years later: Marysville Pilchuck High School shooting](https://www.king5.com/article/news/local/marysville-shooting/10-years-marysville-pilchuck-school-shooting/281-887d1454-a298-4976-ac93-a87a8add24aa)
+        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,10 +58,9 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
-        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c) [![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4c95f429-0415-4081-8c28-2789e2e001a5/20240604T054253/4c95f429-0415-4081-8c28-2789e2e001a5_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
-        #### [Expect heavy winds, rain around western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
-    *  [![](https://media.king5.com/assets/KING/images/8e3f0372-5f6e-454f-847e-89e2fed2a206/20241025T120408/8e3f0372-5f6e-454f-847e-89e2fed2a206_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8e3f0372-5f6e-454f-847e-89e2fed2a206/20241025T120408/8e3f0372-5f6e-454f-847e-89e2fed2a206_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3cb2a86b-877b-455a-86b4-1d069eb8b68d/20241025T195143/3cb2a86b-877b-455a-86b4-1d069eb8b68d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3cb2a86b-877b-455a-86b4-1d069eb8b68d/20241025T195143/3cb2a86b-877b-455a-86b4-1d069eb8b68d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -96,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+56°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
