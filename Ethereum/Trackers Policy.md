@@ -45,7 +45,7 @@ On this page
 
 * [Cookie Policy](#cookie-policy)
 
-Website last updated: October 2, 2024
+Website last updated: October 23, 2024
 
 Go to top
 
