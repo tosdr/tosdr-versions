@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Edy Hurst. Credit: Andy Hollingworth](https://cdn.comedy.co.uk/images/library/people/300x200/e/edy_hurst_witch.jpg "Edy Hurst. Credit: Andy Hollingworth")](https://www.comedy.co.uk/live/fgwg/edy-hurst/) Live
+
+[First Gig, Worst Gig: Edy Hurst](https://www.comedy.co.uk/live/fgwg/edy-hurst/)
+
 [![The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_two_ronnies.jpg "The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC")](https://www.comedy.co.uk/quiz/329/) Quiz
 
 [British Comedy Quiz #329](https://www.comedy.co.uk/quiz/329/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes2.jpg "Neil Innes")](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/) People
 
 [Win Neil Innes's new biography, Dip My Brain In Joy](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/)
-
-[![Daniel Foxx](https://cdn.comedy.co.uk/images/library/people/300x200/d/daniel_foxx.jpg "Daniel Foxx")](https://www.comedy.co.uk/live/features/daniel-foxx-interview/) Live
-
-[Sketches, stationery and swears - Q&A with Daniel Foxx](https://www.comedy.co.uk/live/features/daniel-foxx-interview/)
 
 #### Subscribe to our newsletters
 
