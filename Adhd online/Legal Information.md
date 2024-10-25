@@ -78,10 +78,6 @@
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
 * [Take Smart Assessment](https://patients.adhdonline.com/signup)
 
-**⚠️ [Support Availability Friday 1-5 PM ET](#services-outage)**  
-
-[![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
-
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjM3MjkxIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
 ![](https://adhdonline.com/wp-content/uploads/2023/05/ellipse-and-diamond.svg "ellipse-and-diamond")
