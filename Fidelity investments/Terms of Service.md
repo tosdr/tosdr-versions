@@ -408,7 +408,7 @@ Locate an Investor Center by ZIP Code
 
 Please enter a valid ZIP code
 
-* ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0003_Instagram.png)  [Instagram, (Opens in a new window)](https://www.instagram.com/fidelity)
+* ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0003_Instagram.png)  [Instagram, (Opens in a new window)](https://www.instagram.com/fidelityinvestments)
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0002_LinkedIn.png)  [LinkedIn, (Opens in a new window)](https://www.linkedin.com/company/fidelity-investments)
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0004_YouTube.png)  [YouTube, (Opens in a new window)](https://www.youtube.com/user/fidelityinvestments)
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0006_Reddit.png)  [Reddit, (Opens in a new window)](https://www.reddit.com/r/fidelityinvestments/)
