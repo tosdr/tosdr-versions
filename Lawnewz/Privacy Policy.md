@@ -258,21 +258,21 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Moody-Routh-and-Garland-432x243.jpg)](https://lawandcrime.com/high-profile/surprised-florida-ag-sues-merrick-garland-to-vindicate-states-sovereign-interest-in-investigating-attempted-trump-assassination-suspect-while-federal-case-is-ongoing/)
+1. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
     
-    ### ['Surprised' Florida AG sues Merrick Garland to 'vindicate' state's 'sovereign interest' in investigating attempted Trump assassination suspect while federal case is ongoing](https://lawandcrime.com/high-profile/surprised-florida-ag-sues-merrick-garland-to-vindicate-states-sovereign-interest-in-investigating-attempted-trump-assassination-suspect-while-federal-case-is-ongoing/)
+    ### [Hells Angels member who allegedly 'walked through' and mopped up blood of victim in vicious beating pleads guilty to weapons charges](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
     
-2. [![Inset: Francisco Ortiz appearing in court on Wednesday (WFXT). Background: The building where Ortiz lived with the victim (WBTS).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfadfasdf-432x243.jpg)](https://lawandcrime.com/crime/dad-charged-after-toddler-dies-covered-in-feces-with-injuries-indicating-a-2-story-fall/)
+2. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-    ### [Dad charged after toddler dies covered in feces with injuries indicating a 2-story fall](https://lawandcrime.com/crime/dad-charged-after-toddler-dies-covered-in-feces-with-injuries-indicating-a-2-story-fall/)
+    ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-3. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/lawsuit/a-bridge-too-far-after-cnn-adds-amber-heard-lawyer-judge-rules-in-favor-of-navy-veteran-as-major-defamation-case-careens-towards-trial-on-jan-6/)
+3. [![Donald Trump](https://am24.mediaite.com/lc/cnt/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
-    ### ['A bridge too far': After CNN adds Amber Heard lawyer, judge rules in favor of Navy veteran as major defamation case careens towards trial on Jan. 6](https://lawandcrime.com/lawsuit/a-bridge-too-far-after-cnn-adds-amber-heard-lawyer-judge-rules-in-favor-of-navy-veteran-as-major-defamation-case-careens-towards-trial-on-jan-6/)
+    ### ['Denied': Georgia Supreme Court unanimously rejects GOP efforts to revive controversial election rules passed by Trump allies](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
     
-4. [![Inset: Addison Jenkins (Boyd Funeral Home). Background: Boyd Funeral Home (Google Street View).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/boyd-1-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
+4. [![Left to right: Jack Smith, Clarence Thomas, Donald Trump](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Smith-Thomas-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
     
-    ### [Funeral home shows grieving family wrong body in casket dressed in their father's suit, then insists it's really him: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-shows-grieving-family-wrong-body-in-casket-dressed-in-their-fathers-suit-then-insists-its-really-him-lawsuit/)
+    ### ['Unjust case was dead on arrival': Trump moves to dismiss Jan. 6 indictment and stop 'private-citizen Smith' from spending money — with Clarence Thomas leading the way](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
     
 5. [![Aileen Cannon, Jack Smith](https://am21.mediaite.com/lc/cnt/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
     
