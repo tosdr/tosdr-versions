@@ -1,76 +1,182 @@
 [Skip to content](#content)
 
-[![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-desktop-dark.png)](https://www.discoveryeducation.co.uk/)
 
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](https://www.discoveryeducation.co.uk/wp-content/themes/comet-wp/css/comet/images/de-logo-full.png)
-
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](https://www.discoveryeducation.co.uk/wp-content/themes/comet-wp/images/de-logo-full-black.png)](https://www.discoveryeducation.co.uk/)
-
-* OUR PRODUCTS
+* Solutions
     
-    * [CODING (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-    * [DOODLE ENGLISH AND SPELL (KS1 – KS2)](https://discoveryeducation.co.uk/resources/primary/doodleenglish)
-    * [DOODLE MATHS AND TABLES (EYFS – KS3)](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
-    * [DREAMBOX READING PLUS (KS1 – KS4)](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
-    * [ESPRESSO (EYFS-KS2)](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
-    * [TIME FOR PHONICS (EYFS – KS1)](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
-    * [AUGMENTED REALITY (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
-    * [HEALTH & RELATIONSHIPS (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
-    * [STEM CONNECT (KS1-KS3)](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
+    Close Solutions Open Solutions
     
-* SCHOOL SUCCESS
+    * [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
+        
+        STEM
+        
     
-    * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
-    * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
+    * [](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
+        
+        DoodleMaths and DoodleTables
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/coding/)
+        
+        Coding
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
+        
+        STEM Connect
+        
     
-* [TRY FOR FREE](https://www.discoveryeducation.co.uk/consultation-booking/)
-
-Open Search
-
-[Login](https://app.discoveryeducation.co.uk/) [Contact Us](#popup-get-started)
-
-[![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](https://www.discoveryeducation.co.uk/wp-content/themes/comet-wp/css/comet/images/de-logo-full.png)
-
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Discovery Education](https://www.discoveryeducation.co.uk/wp-content/themes/comet-wp/images/de-logo-full-black.png)](https://www.discoveryeducation.co.uk/)
-
-Open Menu Close Menu
-
-[Contact Us](#popup-get-started) [Login](https://app.discoveryeducation.co.uk/)
-
-* OUR PRODUCTS
+    * [](https://www.discoveryeducation.co.uk/resources/literacy-solutions)
+        
+        Literacy
+        
     
-    * [CODING (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-    * [DOODLE ENGLISH AND SPELL (KS1 – KS2)](https://discoveryeducation.co.uk/resources/primary/doodleenglish)
-    * [DOODLE MATHS AND TABLES (EYFS – KS3)](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
-    * [DREAMBOX READING PLUS (KS1 – KS4)](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
-    * [ESPRESSO (EYFS-KS2)](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
-    * [TIME FOR PHONICS (EYFS – KS1)](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
-    * [AUGMENTED REALITY (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
-    * [HEALTH & RELATIONSHIPS (KS1-KS2)](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
-    * [STEM CONNECT (KS1-KS3)](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
+    * [](https://www.discoveryeducation.co.uk/resources/primary/doodleenglish)
+        
+        DoodleEnglish and DoodleSpell
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
+        
+        Time for Phonics
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
+        
+        DreamBox Reading Plus
+        
     
-* SCHOOL SUCCESS
+    * [](https://www.discoveryeducation.co.uk/resources/curriculum-solutions)
+        
+        Curriculum
+        
     
-    * [SUCCESS WEBINARS](https://www.discoveryeducation.co.uk/success-webinars/)
-    * [YOUR SCHOOL SUCCESS ADVISORS](https://www.discoveryeducation.co.uk/school-success-advisors/)
-    * [FAQS](https://help.discoveryeducation.co.uk/hc/en-gb)
+    * [](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
+        
+        Espresso
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
+        
+        Health and Relationships
+        
+    * [](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
+        
+        Augmented Reality
+        
     
-* [TRY FOR FREE](https://www.discoveryeducation.co.uk/consultation-booking/)
+* School success
+    
+    Close School success Open School success
+    
+    * [](https://www.discoveryeducation.co.uk/success-webinars/)
+        
+        Success Webinars
+        
+    * [](https://www.discoveryeducation.co.uk/success-stories/)
+        
+        School Success Stories
+        
+    
+    * [](https://www.discoveryeducation.co.uk/school-success-advisors/)
+        
+        Your School Success Advisors
+        
+    * [](https://help.discoveryeducation.co.uk/hc/en-gb)
+        
+        FAQs
+        
+    
+* [Try for free](https://www.discoveryeducation.co.uk/consultation-booking/)
+    
+
+[Login](https://app.discoveryeducation.co.uk/)
+
+[Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
+
+[![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-desktop-dark.png)](https://www.discoveryeducation.co.uk/)
+
+[Login](https://app.discoveryeducation.co.uk/)
+
+[Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
+
+* Solutions
+    
+    Close Solutions Open Solutions
+    
+    * [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
+        
+        STEM
+        
+    
+    * [](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
+        
+        DoodleMaths and DoodleTables
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/coding/)
+        
+        Coding
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
+        
+        STEM Connect
+        
+    
+    * [](https://www.discoveryeducation.co.uk/resources/literacy-solutions)
+        
+        Literacy
+        
+    
+    * [](https://www.discoveryeducation.co.uk/resources/primary/doodleenglish)
+        
+        DoodleEnglish and DoodleSpell
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
+        
+        Time for Phonics
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
+        
+        DreamBox Reading Plus
+        
+    
+    * [](https://www.discoveryeducation.co.uk/resources/curriculum-solutions)
+        
+        Curriculum
+        
+    
+    * [](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
+        
+        Espresso
+        
+    * [](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
+        
+        Health and Relationships
+        
+    * [](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
+        
+        Augmented Reality
+        
+    
+* School success
+    
+    Close School success Open School success
+    
+    * [](https://www.discoveryeducation.co.uk/success-webinars/)
+        
+        Success Webinars
+        
+    * [](https://www.discoveryeducation.co.uk/success-stories/)
+        
+        School Success Stories
+        
+    
+    * [](https://www.discoveryeducation.co.uk/school-success-advisors/)
+        
+        Your School Success Advisors
+        
+    * [](https://help.discoveryeducation.co.uk/hc/en-gb)
+        
+        FAQs
+        
+    
+* [Try for free](https://www.discoveryeducation.co.uk/consultation-booking/)
+    
 
 These Terms of Service and Licence (these “**Standard Terms**”) are applicable to any Order Form (each, an “**Order Form**”) issued by Discovery Education Europe Limited ( “**Discovery Education**”) to the individual or entity listed in the Order Form (“**Subscriber**”) to provide access to the Discovery Education: Pathway CPD products and services identified therein (the “**Services**”) and to Subscriber’s use of the Services. Each Order Form shall be deemed to be part of these Standard Terms and subject to the terms and conditions set forth herein. These Standard Terms supersede all other prior and contemporaneous agreements, negotiations, communications or understandings, oral or written, with respect to the subject matter hereof. In no event shall the terms and conditions of any other purchase agreement amend or modify the terms and conditions of these Standard Terms.
 
@@ -191,34 +297,33 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 **Last updated:** 25 April 2023.  
 **Previous version:** [September 2022](https://www.discoveryeducation.co.uk/terms-of-use/pathway-28september2020/).
 
-![Discovery Education](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Discovery Education](https://www.discoveryeducation.co.uk/wp-content/themes/comet-wp/images/de-logo-full-black.png)
+![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-full-black-1.png)
 
-#### Company
+###### Company
 
 * [Awards](https://www.discoveryeducation.co.uk/awards/)
 * [Careers](https://apply.workable.com/discoveryed/)
 * [Events](https://www.discoveryeducation.co.uk/?page_id=17110)
 * [News](https://www.discoveryeducation.co.uk/in-the-news/)
 
-#### Not a subscriber?
+* [Awards](https://www.discoveryeducation.co.uk/awards/)
+* [Careers](https://apply.workable.com/discoveryed/)
+* [Events](https://www.discoveryeducation.co.uk/?page_id=17110)
+* [News](https://www.discoveryeducation.co.uk/in-the-news/)
 
-* [Request a callback](https://www.discoveryeducation.co.uk/callback)
-* [Request a trial](https://www.discoveryeducation.co.uk/trial)
-* [Order online](https://www.discoveryeducation.co.uk/resources/subscribe)
-
-#### Help
+###### Help
 
 * [Contact us](#popup-get-started "Contact us")
 * [Help Centre](https://www.discoveryeducation.co.uk/help)
 * [Technical requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
 
-* [twitter](https://twitter.com/discoveryeduk)
-* [facebook](https://www.facebook.com/discoveryeduk)
-* [linkedin](https://www.linkedin.com/company/discoveryeducationuk/)
-* [youtube](https://www.youtube.com/c/discoveryeducationuk)
-* [instagram](https://www.instagram.com/discoveryeduk/)
+* [Contact us](#popup-get-started "Contact us")
+* [Help Centre](https://www.discoveryeducation.co.uk/help)
+* [Technical requirements](https://www.discoveryeducation.co.uk/minimum-requirements)
+
+[Facebook](https://www.facebook.com/discoveryeduk) [X-twitter](https://twitter.com/discoveryeduk) [Youtube](https://www.youtube.com/c/discoveryeducationuk) [Linkedin](https://www.linkedin.com/company/discoveryeducationuk/) [Instagram](https://www.instagram.com/discoveryeduk/)
 
 * [Terms of use](https://www.discoveryeducation.co.uk/terms-of-use/)
 * [Privacy policy](https://www.discoveryeducation.co.uk/privacy-policy/)
@@ -227,7 +332,14 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 * [Sitemap](https://www.discoveryeducation.co.uk/sitemap/)
 * [Cookie settings](#)
 
-Copyright © 2024 Discovery Education. All rights reserved Discovery Education, Inc.  
+* [Terms of use](https://www.discoveryeducation.co.uk/terms-of-use/)
+* [Privacy policy](https://www.discoveryeducation.co.uk/privacy-policy/)
+* [DPA](https://www.discoveryeducation.co.uk/data-processing-addendum/)
+* [Sub-processors](https://www.discoveryeducation.co.uk/subprocessor/)
+* [Sitemap](https://www.discoveryeducation.co.uk/sitemap/)
+* [Cookie settings](#)
+
+****Copyright © 2024 Discovery Education. All rights reserved Discovery Education, Inc**.**  
 Discovery Education’s UK operating entity is Discovery Education Europe Limited, a company registered in England and Wales under Company Number: 03261277. Registered office: 9 Palace Yard Mews, Bath BA1 2NH. VAT number: GB 887 9082 56.
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
