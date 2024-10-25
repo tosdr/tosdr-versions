@@ -428,80 +428,6 @@ Shop Now](https://www.atari.com/collections/games)
 
 ### Popular Right Now
 
-[![Atari 7800+](files/7800_Product1.jpg)
-
-![Atari 7800+](files/7800_Product3.jpg)
-
-Pre-Order
-
-PRE-ORDER
-
-##### Atari 7800+
-
-Regular price Sale price $129.99
-
-Regular price $129.99
-
-Unit price /  per](https://www.atari.com/products/atari-7800) 
-
-[![Distressed Fuji Hoodie](files/unisex-heavy-blend-hoodie-red-front-66fab6ce118b1copy.jpg)
-
-![Distressed Fuji Hoodie](files/unisex-heavy-blend-hoodie-red-front-66fbff14e8df4copy.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
- 4XL
-
- 5XL
-
-##### Distressed Fuji Hoodie
-
-Regular price Sale price $48.00
-
-Regular price $48
-
-Unit price /  per](https://www.atari.com/products/distressed-fuji-hoodie)     
-
-[![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
-
-![Atari 2600+ Controller Mega Bundle](files/2600-console-1.webp)
-
-Add to cart
-
-##### Atari 2600+ Controller Mega Bundle
-
-Regular price $199.95 Sale price $169.95
-
-Regular price $169.95
-
-Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
-
-[![Atari 2600+](files/ProductImage-AV2.jpg)
-
-![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
-
-Add to cart
-
-##### Atari 2600+
-
-Regular price $129.99 Sale price $129.99
-
-Regular price $129.99
-
-Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
-
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
 ![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct3.jpg)
@@ -517,6 +443,64 @@ Regular price $199.95 Sale price $169.95
 Regular price $169.95
 
 Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
+
+[![Oversized Fuji Hoodie](files/ae5668c8-308b-435e-b57c-1bb3352c2aa2copy.jpg)
+
+![Oversized Fuji Hoodie](files/8b7b3d6f-daf8-4b06-a3db-3444bf0cdf8acopy.jpg)
+
+Add to cart
+
+ S
+
+ M
+
+ L
+
+ XL
+
+ 2XL
+
+ 3XL
+
+NEW
+
+##### Oversized Fuji Hoodie
+
+Regular price Sale price $50.00
+
+Regular price $50
+
+Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
+
+[![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
+
+![Atari 2600+ Controller Mega Bundle](files/2600-console-1.webp)
+
+Add to cart
+
+##### Atari 2600+ Controller Mega Bundle
+
+Regular price $199.95 Sale price $169.95
+
+Regular price $169.95
+
+Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
+
+[![Atari Joystick Decanter Set](files/DecanterSet_WB_Front_PDP.jpg)
+
+![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Add to cart
+
+NEW
+
+##### Atari Joystick Decanter Set
+
+Regular price Sale price $125.00
+
+Regular price $125
+
+Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
 
 [![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
 
@@ -613,32 +597,6 @@ Regular price Sale price $199.00
 Regular price $199
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
-
-[![CX78+ Gamepad](files/7800-controller-01.jpg)
-
-![CX78+ Gamepad](files/7800-controller-02.jpg)
-
-Add to cart
-
-##### CX78+ Gamepad
-
-Regular price Sale price $24.99
-
-Regular price $24.99
-
-Unit price /  per](https://www.atari.com/products/cx78-gamepad) 
-
-[![Ninja Golf 7800](files/7800-ninjagolf-011.jpg)
-
-Add to cart
-
-##### Ninja Golf 7800
-
-Regular price Sale price $29.99
-
-Regular price $29.99
-
-Unit price /  per](https://www.atari.com/products/ninja-golf-7800) 
 
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
