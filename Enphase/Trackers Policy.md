@@ -56,7 +56,7 @@
     
     EXPLORE
     
-    [Explore store](https://enphase.com/store) [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [AC Modules](https://enphase.com/store/modules-ac) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
+    [Explore store](https://enphase.com/store) [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
     
     ACCOUNT
     
@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -327,7 +327,7 @@ Your session expired. Please login again to continue to purchase.
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training-and-certifications)
+    * [Training](https://enphase.com/installers/training)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
@@ -337,7 +337,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage/gen2)
+    * [Storage](https://enphase.com/installers/storage)
     
 * Support
     
