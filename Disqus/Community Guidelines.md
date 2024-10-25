@@ -22,7 +22,7 @@ Parody Accounts
 
 Written by Disqus
 
-Updated over a week ago
+Updated over 6 years ago
 
 Although impersonating or portraying another person in a confusing or deceptive manner is against our terms of service, parody accounts are okay - as long as they meet the requirements below.
 
