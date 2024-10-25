@@ -12,7 +12,7 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 13h : 4m : 58s**](https://www.listenlively.com/product)
+[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 7h : 8m : 36s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
