@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/starbucks.jpg?ve=1&tl=1)
-
- ![Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/starbucks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/starbucks-ceo-company-menu-sales-slump)
-
-### [Starbucks CEO says company will fix 'overly complex menu' to reverse sales slump](https://www.fox4news.com/news/starbucks-ceo-company-menu-sales-slump)
-
- [![Police release video of deadly Arlington officer-involved shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/arlington-e-lamar-blvd-ois-body-cam_mp4_00.01.29.07.jpg?ve=1&tl=1)
-
- ![Police release video of deadly Arlington officer-involved shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/arlington-e-lamar-blvd-ois-body-cam_mp4_00.01.29.07.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-ois-tony-coward-body-camera-video)
-
-### [Police release video of deadly Arlington officer-involved shooting](https://www.fox4news.com/news/arlington-ois-tony-coward-body-camera-video)
-
- [![These trends will influence baby names in 2025, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/the-bear-sabrina-carpenter-getty.jpg?ve=1&tl=1)
-
- ![These trends will influence baby names in 2025, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/the-bear-sabrina-carpenter-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trends-influence-baby-names-2025-study)
-
-### [These trends will influence baby names in 2025, study finds](https://www.fox4news.com/news/trends-influence-baby-names-2025-study)
-
  [![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/gettyimages-2180808203-scaled.jpg?ve=1&tl=1)
 
  ![NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180808203-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
 
 ### [NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
 
- [![This is how much money you need to never work again](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-499180782.jpg?ve=1&tl=1)
+ [![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/menendez-brothers-1.jpg?ve=1&tl=1)
 
- ![This is how much money you need to never work again](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-499180782.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-how-much-money-you-need-never-work-again)
+ ![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/menendez-brothers-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/da-gascon-menendez-brothers-decision-resentencing)
 
-### [This is how much money you need to never work again](https://www.fox4news.com/news/is-how-much-money-you-need-never-work-again)
+### [Menendez Brothers: Decision on resentencing recommendation announced](https://www.fox4news.com/news/da-gascon-menendez-brothers-decision-resentencing)
+
+ [![TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102424-kst-tcu-protrait-project-enslaved-couple_00.25.56.02.jpg?ve=1&tl=1)
+
+ ![TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102424-kst-tcu-protrait-project-enslaved-couple_00.25.56.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
+
+### [TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
+
+ [![Menendez Brothers: Resentencing recommended by LA DA Gascón](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/lyle-and-erik-menendez-brothers.jpg?ve=1&tl=1)
+
+ ![Menendez Brothers: Resentencing recommended by LA DA Gascón](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/lyle-and-erik-menendez-brothers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-erik-lyle-resentencing-press-conference-recommended)
+
+### [Menendez Brothers: Resentencing recommended by LA DA Gascón](https://www.fox4news.com/news/menendez-brothers-erik-lyle-resentencing-press-conference-recommended)
+
+ [![9 Farmersville High School students arrested for hazing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-farmersville-isd-hazing-5p_00.00.01.28.jpg?ve=1&tl=1)
+
+ ![9 Farmersville High School students arrested for hazing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-farmersville-isd-hazing-5p_00.00.01.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-farmersville-high-school-students-arrested-hazing)
+
+### [9 Farmersville High School students arrested for hazing](https://www.fox4news.com/news/9-farmersville-high-school-students-arrested-hazing)
 
 ###### [News](https://www.fox4news.com/news)
 
