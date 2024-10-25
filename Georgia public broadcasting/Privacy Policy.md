@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-GHSA Flag Football: Featuring Dacula, North Oconee & Rockdale Co. at 5:30 P.M.
-------------------------------------------------------------------------------
-
-[WATCH!](https://www.gpb.org/events/sports/2024/10/24/2024-flag-football-week-four)
-
 Messages
 --------
 
