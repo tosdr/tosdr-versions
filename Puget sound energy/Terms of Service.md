@@ -15,8 +15,8 @@
             * [Pay station map](https://www.pse.com/en/pay-stations-map)
         * * [My bill](#)
             * [View and pay my bill](https://www.pse.com/account-and-billing/my-bill)
-            * [Explain my bill](https://www.pse.com/en/account-and-billing/my-bill/howtoreadyourbill)
-            * [Why is my bill high](https://www.pse.com/en/account-and-billing/my-bill/why-is-my-bill-high)
+            * Explain my bill
+            * Why is my bill high
             * [Payment history](https://www.pse.com/en/account-and-billing/my-accounts/bill-history/payment-history)
             * [Bill inserts and promotions](https://www.pse.com/en/account-and-billing/monthly-promotions)
             * [Go paperless](https://www.pse.com/account-and-billing/go-paperless)
@@ -30,7 +30,7 @@
             * [My account](https://www.pse.com/en/my-account)
             * [Start stop or move](https://www.pse.com/start-stop-move/start-stop-move)
             * [Preferences](https://www.pse.com/my-account/contact-information)
-            * [My documents](https://www.pse.com/en/account-and-billing/documenthistory)
+            * My documents
         * * [Rates](#)
             * [Tariffs, Rates, & Filings](https://www.pse.com/en/pages/rates)
             * [News and notices](https://www.pse.com/en/pages/rates/news-and-filings)
@@ -184,7 +184,7 @@
     * Account & Billing
         * * [My bill](#)
             * [View and pay my bill](https://www.pse.com/en/account-and-billing/pay-my-bill)
-            * [Explain my bill](https://www.pse.com/en/account-and-billing/my-bill/howtoreadyourbill)
+            * Explain my bill
             * [Help](https://www.pse.com/en/Customer-Service/help-center)
             * [Monthly promotions](https://www.pse.com/en/account-and-billing/monthly-promotions)
             * [Analyze my usage](https://www.pse.com/en/account-and-billing/my-usage/view-my-usage)
@@ -507,7 +507,7 @@ CancelOK
 
 * [Contact us](https://www.pse.com/en/contactpse "Contact Us")
 * [My account](https://www.pse.com/en/my-account "My Account")
-* [Start, stop or move](https://www.pse.com/en/start-stop-move/start-stop-move "Start, Stop or Move")
+* Start, stop or move
 * [Power outages](https://www.pse.com/en/outage "Power outages")
 * [Construction](https://www.pse.com/en/construction-services "Construction services")
 * [Savings and rebates](https://www.pse.com/en/rebates "Savings and Rebates")
