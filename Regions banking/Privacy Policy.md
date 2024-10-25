@@ -343,6 +343,19 @@ Privacy & Security
 * [Social Media Community Guidelines](https://www.regions.com/about-regions/privacy-security/social-media-community-guidelines)
 * [Vulnerability Disclosure Program](https://www.regions.com/about-regions/privacy-security/vulnerability-disclosure-program)
 
+Related Insights
+----------------
+
+[4 Easy Steps to Financial Management](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/4-steps-to-take-charge-of-your-accounts)
+
+[4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
+
+[Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
+
+[Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
+
+[See All Insights](https://www.regions.com/Insights/InsightsLibrary)
+
 You are here:
 -------------
 
