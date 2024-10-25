@@ -7,7 +7,7 @@
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
     * [Proxy](https://smartproxy.pxf.io/g1M7Y9)
-    * [Virtual cards](https://e.pn/?ref=xBEcMTPz)
+    * [Virtual cards](https://e.pn/?ref=kdnO2Ehs)
     * [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_en)
     * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
     * [Speed test](https://whoer.net/speedtest)
@@ -15,13 +15,13 @@
     * [Whois](https://whoer.net/checkwhois)
     * [DNS leak test](https://whoer.net/dns-leak-test)
     * [Port scanner](https://whoer.net/port-scanner-online)
-* [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
+* [Hide my data](https://whoer.net/best-anonymity-tools?category=all)
 * Help
 
 [Buy VPN now](https://whoer.net/vpn/buy)
 
 * [My IP](https://whoer.net/)
-* [Anonymity](https://whoer.net/best-anonymity-tools?category=all)
+* [Hide my data](https://whoer.net/best-anonymity-tools?category=all)
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
 * [Antidetect](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
