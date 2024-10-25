@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 856 1
+0 875 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/dawn-nintendo-and-etc-created-by-alice-yagami/)
+[](https://yiff-party.com/yiff/hexerade-cocktober-and-etc-created-by-voidpastelchalk/)
 
-[dawn (nintendo and etc) created by alice yagami](https://yiff-party.com/yiff/dawn-nintendo-and-etc-created-by-alice-yagami/)
+[hexerade (cocktober and etc) created by voidpastelchalk](https://yiff-party.com/yiff/hexerade-cocktober-and-etc-created-by-voidpastelchalk/)
 
-0 2 0
+0 3 0
 
 October 25, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/jack-savage-and-nick-wilde-directed-by-fenix-ai/)
+[](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-sw-wolf99ai169/)
 
-[jack savage and nick wilde directed by fenix ai](https://yiff-party.com/yiff-ai-premium/jack-savage-and-nick-wilde-directed-by-fenix-ai/)
+[nick wilde directed by sw wolf99ai169](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-sw-wolf99ai169/)
 
-0 59 0
+0 71 0
 
 September 25, 2024
 
-[](https://yiff-party.com/yiff/diane-foxington-and-mr-wolf-the-bad-guys-and-etc-created-by-koda-walker/)
+[](https://yiff-party.com/yiff/pinkie-pie-and-surprise-friendship-is-magic-and-etc-created-by-twistedscarlett60/)
 
-[diane foxington and mr. wolf (the bad guys and etc) created by koda walker](https://yiff-party.com/yiff/diane-foxington-and-mr-wolf-the-bad-guys-and-etc-created-by-koda-walker/)
+[pinkie pie and surprise (friendship is magic and etc) created by twistedscarlett60](https://yiff-party.com/yiff/pinkie-pie-and-surprise-friendship-is-magic-and-etc-created-by-twistedscarlett60/)
 
-0 193 0
+0 88 0
 
 September 25, 2024
 
