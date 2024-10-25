@@ -510,6 +510,18 @@ GeeksforGeeks will take all the steps reasonably necessary to ensure that your d
 We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of GeeksforGeeks, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
 ****I. With Your Consent:**** Except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information.
 
+****Sharing of User Activity with Recruiters****
+
+We value your achievements and progress on our platform, and we believe that your accomplishments reflect your skills and dedication. By using our services, you agree that GeeksforGeeks may share certain activity information with potential recruiters to enhance your visibility and career opportunities.
+
+Activities that may be shared include, but are not limited to:
+
+* Participation and performance in coding challenges and contests
+* Progress and completion of courses
+* Problem-solving achievements and milestones
+
+This information will be shared with the intention of showcasing your skills to potential employers who are seeking coding talent. Rest assured, we will never disclose sensitive information without your explicit consent.
+
 ****Security of Data****  
 The security of your data is important to us but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
