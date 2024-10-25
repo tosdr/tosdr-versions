@@ -77,8 +77,6 @@ The Applications and the Websites are hosted in Canada and are administered from
 
 These conditions of use are governed by and construed under the laws applicable in the Province of Quebec, Canada. You irrevocably acknowledge the jurisdiction of the courts of the Province of Quebec and agree to submit any dispute that may arise from the use of the Applications or Websites to the competent courts located in the judicial district of Montréal, Province of Quebec. However, any dispute that arises from a breach of copyright may also be submitted, at Druide’s discretion, to the competent courts located in the judicial district of the defendant.
 
-**An error has occurred.** Please try again later.
-
 ##### Antidote
 
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
