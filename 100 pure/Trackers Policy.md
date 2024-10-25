@@ -602,7 +602,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[FREE 2 PC GIFT WITH PURCHASE OF $120+ USE CODE: PMDUO](https://www.100percentpure.com/products/pm-treatment "https://www.100percentpure.com/products/pm-treatment")
+[Get A Free Retinol Restorative Neck Cream with purchase $75+ USE CODE: RETINOLGIFT](https://www.100percentpure.com/products/retinol-restorative-neck-cream?variant=36541959630 "https://www.100percentpure.com/products/retinol-restorative-neck-cream?variant=36541959630")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
