@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 839 1
+0 856 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-director-aislopper-3/)
+[](https://yiff-party.com/yiff/dawn-nintendo-and-etc-created-by-alice-yagami/)
 
-[directed by director aislopper](https://yiff-party.com/yiff-ai-premium/directed-by-director-aislopper-3/)
+[dawn (nintendo and etc) created by alice yagami](https://yiff-party.com/yiff/dawn-nintendo-and-etc-created-by-alice-yagami/)
 
-0 1 0
+0 2 0
 
 October 25, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furryranch/)
+[](https://yiff-party.com/yiff-ai-premium/jack-savage-and-nick-wilde-directed-by-fenix-ai/)
 
-[loona directed by furryranch](https://yiff-party.com/yiff-ai-premium/loona-directed-by-furryranch/)
+[jack savage and nick wilde directed by fenix ai](https://yiff-party.com/yiff-ai-premium/jack-savage-and-nick-wilde-directed-by-fenix-ai/)
 
-0 66 0
+0 59 0
 
 September 25, 2024
 
-[](https://yiff-party.com/yiff-gif/judy-hopps-zootopia-and-etc-created-by-bertydraws-and-evenesko-d-fox-artist/)
+[](https://yiff-party.com/yiff/diane-foxington-and-mr-wolf-the-bad-guys-and-etc-created-by-koda-walker/)
 
-[judy hopps (zootopia and etc) created by bertydraws and evenesko.d.fox (artist)](https://yiff-party.com/yiff-gif/judy-hopps-zootopia-and-etc-created-by-bertydraws-and-evenesko-d-fox-artist/)
+[diane foxington and mr. wolf (the bad guys and etc) created by koda walker](https://yiff-party.com/yiff/diane-foxington-and-mr-wolf-the-bad-guys-and-etc-created-by-koda-walker/)
 
-0 271 0
+0 193 0
 
 September 25, 2024
 
