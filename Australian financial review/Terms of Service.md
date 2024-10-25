@@ -320,15 +320,17 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![   ](https://static.ffx.io/images/$zoom_0.8126%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1027%2C$y_123/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/198d372855e7c2acdeb481ff0f566cd6d428090a)](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
+[![Sophia Forrest and Zara Zoe at their wedding.
+](https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_449/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fb7aaa85cf4e6900ffc15afa47b4ddd6c3531a05)](https://www.afr.com/life-and-luxury/fashion-and-style/the-ai-fashion-designer-sophia-forrest-chose-for-her-wedding-20240917-p5kb5z)
 
-### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
+### [The AI fashion designer Sophia Forrest chose for her wedding](https://www.afr.com/life-and-luxury/fashion-and-style/the-ai-fashion-designer-sophia-forrest-chose-for-her-wedding-20240917-p5kb5z)
 
-* Hannah Tattersall
+* 1 hr ago
+* Lauren Sams
 
-* ### [Bentley puts forward its new face of luxury with a V8 hybrid](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/bentley-puts-forward-its-new-face-of-luxury-with-a-v8-hybrid-20241010-p5khbx)
+* ### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
     
-* ### [The hidden Mediterranean beach where cows outnumber people](https://www.afr.com/life-and-luxury/travel/the-hidden-mediterranean-beach-where-cows-outnumber-people-20240923-p5kcp9)
+* ### [Bentley puts forward its new face of luxury with a V8 hybrid](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/bentley-puts-forward-its-new-face-of-luxury-with-a-v8-hybrid-20241010-p5khbx)
     
 
 [Rich List](https://www.afr.com/rich-list)
