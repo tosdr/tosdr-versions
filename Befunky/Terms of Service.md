@@ -8,45 +8,45 @@ Learn
 
 Sign In [Dashboard](https://www.befunky.com/dashboard/) Get Started
 
-[![](https://www.befunky.com/images/site/site-nav/create-photo.svg)
+[![Illustration of photo editing interface overlapping with an image icon, shown in cyan and blue tones.](https://www.befunky.com/images/site/site-nav/create-photo.svg)
 
 ###### Photo Editor
 
-Photo effects and tools for enhancing your photos](https://www.befunky.com/create/)[![](https://www.befunky.com/images/site/site-nav/create-collage.svg)
+Photo effects and tools for enhancing your photos](https://www.befunky.com/create/)[![Illustration of collage maker interface showing a cursor selecting an image within a grid layout, depicted in pink and blue tones.](https://www.befunky.com/images/site/site-nav/create-collage.svg)
 
 ###### Collage Maker
 
-Combine multiple photos into one with a grid layout](https://www.befunky.com/create/collage/)[![](https://www.befunky.com/images/site/site-nav/create-designer.svg)
+Combine multiple photos into one with a grid layout](https://www.befunky.com/create/collage/)[![Illustration of a multi-panel graphic design interface with overlapping layouts, including text blocks and an image preview, depicted in yellow and blue tones.](https://www.befunky.com/images/site/site-nav/create-designer.svg)
 
 ###### Graphic Designer
 
 Templates for creating banners, flyers, cards, & more](https://www.befunky.com/create/designer/)
 
-[![](https://www.befunky.com/images/site/site-nav/learn-gettingstarted.svg)
+[![Illustration of a photo editing interface with icons for adjusting settings, cropping, adding text, and applying effects, shown in purple tones.](https://www.befunky.com/images/site/site-nav/learn-gettingstarted.svg)
 
 ###### Getting Started
 
-Master the basics of BeFunky](https://www.befunky.com/getting-started/)[![](https://www.befunky.com/images/site/site-nav/learn-features.svg)
+Master the basics of BeFunky](https://www.befunky.com/getting-started/)[![Illustration of a dashboard with a grid of images and text lists, depicted in cyan and blue tones.](https://www.befunky.com/images/site/site-nav/learn-features.svg)
 
 ###### Features
 
-Learn what all you can do with BeFunky](https://www.befunky.com/features/)[![](https://www.befunky.com/images/site/site-nav/learn-plus.svg)
+Learn what all you can do with BeFunky](https://www.befunky.com/features/)[![Graphic for BeFunky Plus upgrade featuring a circular badge with a star surrounded by sparkles, in pink and blue tones.](https://www.befunky.com/images/site/site-nav/learn-plus.svg)
 
 ###### BeFunky Plus
 
-Unlock our most powerful features](https://www.befunky.com/pricing/)[![](https://www.befunky.com/images/site/site-nav/learn.svg)
+Unlock our most powerful features](https://www.befunky.com/pricing/)[![Illustration showing a camera, a video player, a pencil, and text, indicating multimedia and editing tools, in yellow tones.](https://www.befunky.com/images/site/site-nav/learn.svg)
 
 ###### Learn BeFunky
 
-Photo editing and design tips and techniques](https://www.befunky.com/learn/)[![](https://www.befunky.com/images/site/site-nav/learn-tutorials.svg)
+Photo editing and design tips and techniques](https://www.befunky.com/learn/)[![Diagram of step by step process flow with arrows connecting video, image, and text elements, in pink and blue tones.](https://www.befunky.com/images/site/site-nav/learn-tutorials.svg)
 
 ###### Tutorials
 
-Step-by-step guides for all our features](https://www.befunky.com/learn/tutorials/)[![](https://www.befunky.com/images/site/site-nav/learn-inspiration.svg)
+Step-by-step guides for all our features](https://www.befunky.com/learn/tutorials/)[![Illustration of a lightbulb surrounded by images and a heart, representing creativity and inspiration, in yellow tones.](https://www.befunky.com/images/site/site-nav/learn-inspiration.svg)
 
 ###### Inspiration
 
-Projects to inspire your creativity](https://www.befunky.com/learn/inspiration/)[![](https://www.befunky.com/images/site/site-nav/learn-whatsnew.svg)
+Projects to inspire your creativity](https://www.befunky.com/learn/inspiration/)[![Graphic showing a speech bubble with a plus sign and sparkles, indicating new features, in cyan tones.](https://www.befunky.com/images/site/site-nav/learn-whatsnew.svg)
 
 ###### What's New
 
