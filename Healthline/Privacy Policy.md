@@ -190,16 +190,16 @@
 
 Subscribe
 
-[#### Menopause](https://www.healthline.com/menopause)
+[#### Breast Cancer](https://www.healthline.com/breast-cancer)
 
-* [Treatment](https://www.healthline.com/menopause/treatment)
-* [Symptom Management](https://www.healthline.com/menopause/symptom-management)
-* [Weight Management](https://www.healthline.com/menopause/weight-management-nutrition)
-* [Holistic Health](https://www.healthline.com/menopause/holistic-health)
-* [Mental Well-Being](https://www.healthline.com/menopause/mental-wellbeing)
-* [Navigating Intimacy](https://www.healthline.com/menopause/intimacy-and-relationships)
-* [Resources for Doctors' Visits](https://www.healthline.com/menopause/doctor-guide)
-* [Early Menopause](https://www.healthline.com/menopause/early-menopause)
+* [Newly Diagnosed](https://www.healthline.com/breast-cancer/breast-cancer-basics)
+* [Treatments](https://www.healthline.com/breast-cancer/breast-cancer-treatment-medication)
+* [MBC](https://www.healthline.com/breast-cancer/metastatic-breast-cancer)
+* [Mental Well-Being](https://www.healthline.com/breast-cancer/breast-cancer-mental-health)
+* [Living Well](https://www.healthline.com/breast-cancer/living-well)
+* [Remission & Recurrence](https://www.healthline.com/breast-cancer/remission)
+* [Early Detection](https://www.healthline.com/breast-cancer/risks-screenings)
+* [Community](https://www.bezzybc.com/)
 
 Privacy Policy
 ==============
