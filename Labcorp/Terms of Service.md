@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-Close Menu
+ 
 
-[![Labcorp](https://pub-lh-prod.labcorp.com/content/dam/labcorp/images/2023/12/labcorp-logo.png)](https://www.labcorp.com/)
+[![Labcorp](/content/dam/labcorp/images/2023/12/labcorp-logo.png)](https://www.labcorp.com/)
 
 [Logins](https://www.labcorp.com/logins)
 
@@ -108,341 +108,181 @@ Industries
 
 [Help](https://www.labcorp.com/contact-us "Help")
 
-Open Menu
+[![Labcorp](/content/dam/labcorp/logos/labcorp-logos/labcorp-logo@2x.png)](https://www.labcorp.com/)
 
-[![Accessibility](/themes/custom/labcorp/images/accessibility.png "Accessibilty")](https://www.essentialaccessibility.com/labcorp/?utm_source=labcorphomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=labcorp)
+[About](https://www.labcorp.com/about)
 
-[![Labcorp](/themes/custom/labcorp/images/newbrand/Labcorp_Logo.svg)](https://www.labcorp.com/)
+[News](https://www.labcorp.com/newsroom)
 
-![Labcorp](/themes/custom/labcorp/images/newbrand/Labcorp_Logo.png)
+[Careers](https://careers.labcorp.com/global/en)
 
-* [About](https://www.labcorp.com/about)
-* [News](https://www.labcorp.com/newsroom)
-* [Careers](https://careers.labcorp.com/global/en)
-* [Investors](http://phx.corporate-ir.net/phoenix.zhtml?c=84636&p=irol-irhome)
+[Help](https://www.labcorp.com/contact-us)
 
-Search  Submit
+[Login](https://www.labcorp.com/logins)
 
-Toggle Search
+* [](https://www.essentialaccessibility.com/labcorp/?utm_source=labcorphomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=labcorp)
 
-* [Help](https://www.labcorp.com/contact-us)
+[![Labcorp](/content/dam/labcorp/images/2023/12/labcorp-logo.png)](https://www.labcorp.com/)
 
-Login
+[Logins](https://www.labcorp.com/logins)
 
-* [Patient](https://patient.labcorp.com/ "Patient Login")
-* [Provider](https://www.labcorplink.com/ui/#/login "Provider Login")
+Individuals & Patients
 
-Login [Help](https://www.labcorp.com/contact-us)
+[Find a Lab](https://www.labcorp.com/labs-and-appointments-advanced-search) [View Test Results](https://www.labcorp.com/patients/results) [Pay a Bill](https://patient.labcorp.com/invoices/find) [Shop for Tests](https://www.ondemand.labcorp.com/products)
 
-* [Patient](https://patient.labcorp.com/ "Patient Login")
-* [Provider](https://www.labcorplink.com/ui/#/login "Provider Login")
+[View Individuals & Patients Page](https://www.labcorp.com/patients)
 
-Animation
+Providers
 
- On Off
+[Test Menu](https://www.labcorp.com/test-menu/search) [Provider Login](https://link.labcorp.com/landing.html) [Education & Experts](https://www.labcorp.com/science) [Contact Us](https://www.labcorp.com/contact-labcorp-account-representative)
 
-[![Accessibility](/themes/custom/labcorp/images/accessibility.png "Accessibilty")](https://www.essentialaccessibility.com/labcorp/?utm_source=labcorphomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=labcorp)
+[View Providers Page](https://www.labcorp.com/providers)
 
-back to Main Menu
+Health Systems & Organizations
 
-Close Menu
+[Hospitals & Health Systems](https://www.labcorp.com/organizations/hospitals) [Employee Wellness & Testing](https://www.labcorp.com/organizations/employers) [Managed Care & Payors](https://www.labcorp.com/organizations/managed-care) [Resources](https://www.labcorp.com/organizations/resources)
 
-* [Individuals & Patients (Press Enter or Space to Go to Landing Page or Press Down to expand Menu)](https://www.labcorp.com/patients) Individuals & Patients expand menu
-    * [Individuals & Patients](https://www.labcorp.com/patients)
-        
-        Individuals & Patients
-        
-        [Appointments & Locations](https://www.labcorp.com/labs-and-appointments)
-        
-        [Labs & Appointments](https://www.labcorp.com/labs-and-appointments) Toggle Labs & Appointments
-        
-        * [Manage / Cancel an Appointment](https://express.labcorp.com/manage)
-        * [Prepare for Your Appointment](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
-        * [Lab Testing FAQ](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
-        * [Rate Your Visit](https://www.labcorp.com/rate-your-lab-visit)
-        
-        * * *
-        
-        * [Resource Center](https://www.labcorp.com/patients/resource-center)
-        * [Contact Us](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry)
-        * [Login](https://patient.labcorp.com/)
-        
-        [Billing & Insurance](https://www.labcorp.com/patients/bill-pay) Toggle Billing & Insurance
-        
-        * [Pay Your Bill](https://patient.labcorp.com/ui/guestBilling)
-        * [Billing FAQ](https://www.labcorp.com/frequently-asked-questions/patient/billing-insurance/all)
-        * [Insurance Coverage](https://www.labcorp.com/patients/labs-and-appointments/insurance-lists)
-        
-        [Test Results](https://www.labcorp.com/results) Toggle Test Results
-        
-        * [Login for Your Results](https://patient.labcorp.com/ui/)
-        * [Results FAQs](https://www.labcorp.com/patients/results)
-        
-        [Diseases & Conditions](https://www.labcorp.com/diseases) Toggle Diseases & Conditions
-        
-        * [Allergies](https://www.labcorp.com/allergies/patients)
-        * [Colorectal Cancer](https://www.labcorp.com/cancer/colorectal/patients)
-        * [COVID-19](https://www.labcorp.com/coronavirus-disease-covid-19/individuals)
-        * [more >>](https://www.labcorp.com/diseases)
-        
-        [OnDemand Testing](http://ondemand.labcorp.com/) Toggle OnDemand Testing
-        
-        * [At-Home Kits](https://www.ondemand.labcorp.com/catalog?category=261&query=&sort_by=search_api_relevance&sticky=)
-        * [COVID-19 Tests](https://www.ondemand.labcorp.com/covid-19-pcr-tests)
-        * [DNA Paternity Tests](https://dna.labcorp.com/?utm_source=labcorp&utm_medium=Referral&utm_campaign=dna)
-        * [Men’s Health Blood Test](https://www.ondemand.labcorp.com/lab-tests/mens-health)
-        * [Women’s Health Blood Test](https://www.ondemand.labcorp.com/lab-tests/womens-health)
-        * [more OnDemand tests »](https://www.ondemand.labcorp.com/catalog)
-        
-        [Clinical Trials](https://www.labcorp.com/trials) Toggle Clinical Trials
-        
-        * [Learn about trials >>](https://www.labcorp.com/trials)
-        
-        Individuals & Patients
-        
-        [Appointments & Locations](https://www.labcorp.com/labs-and-appointments)
-        
-        [Labs & Appointments](https://www.labcorp.com/labs-and-appointments) Toggle Labs & Appointments
-        
-        * [Manage / Cancel an Appointment](https://express.labcorp.com/manage)
-        * [Prepare for Your Appointment](https://www.labcorp.com/patients/labs-and-appointments/what-to-expect)
-        * [Lab Testing FAQ](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
-        * [Rate Your Visit](https://www.labcorp.com/rate-your-lab-visit)
-        
-        * * *
-        
-        * [Resource Center](https://www.labcorp.com/patients/resource-center)
-        * [Contact Us](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry)
-        * [Login](https://patient.labcorp.com/)
-        
-* [Providers (Press Enter or Space to Go to Landing Page or Press Down to expand Menu)](https://www.labcorp.com/providers) Providers expand menu
-    * [Providers](https://www.labcorp.com/providers)
-        
-        Providers
-        
-        [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        
-        * * *
-        
-        * [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Provider Portal Login](https://link.labcorp.com/landing)
-        
-        [Testing by Disease & Condition](https://www.labcorp.com/diseases) Toggle Testing by Disease & Condition
-        
-        * [Allergies](https://www.labcorp.com/allergies)
-        * [Alzheimer’s](https://www.labcorp.com/providers/neurology/neurodegenerative-diseases/alzheimers-disease)
-        * [Cancer](https://oncology.labcorp.com/)
-        * [COVID-19](https://www.labcorp.com/coronavirus-disease-covid-19/providers)
-        * [Chronic Kidney Disease](https://www.labcorp.com/chronic-kidney-disease)
-        * [Diabetes](https://www.labcorp.com/provider-services/programs/endocrine-experience/disease-states)
-        * [NASH](https://www.labcorp.com/NASH)
-        * [Neurodegenerative diseases](https://www.labcorp.com/providers/neurology/neurodegenerative-diseases)
-        * [Pregnancy](https://womenshealth.labcorp.com/providers/prenatal-screening)
-        * [more »](https://www.labcorp.com/diseases)
-        
-        [Testing & Services For](https://www.labcorp.com/providers) Toggle Testing & Services For
-        
-        * [Clinical Drug Testing](https://www.labcorp.com/clinical-drug-testing)
-        * [Genetics & Genomics](https://www.labcorp.com/genetics-genomics)
-        * [Neurology](https://www.labcorp.com/providers/neurology)
-        * [Oncology](https://oncology.labcorp.com/)
-        * [Primary Care](https://www.labcorp.com/providers/primary-care)
-        * [Rheumatology](https://www.labcorp.com/providers/rheumatology)
-        * [Urology](https://www.labcorp.com/urology)
-        * [More Specialties »](https://www.labcorp.com/providers/specialists)
-        
-        [Resources](https://www.labcorp.com/providers/provider-resources) Toggle Resources
-        
-        * [Insurance Resources](https://www.labcorp.com/organizations/managed-care/insurance-and-medicare)
-        * [Lab Certifications & Accreditations](https://www.labcorp.com/provider-services/resources/primary-testing-specialty-labs)
-        * [ICD-10 Codes](https://www.labcorp.com/provider-services/resources/icd-10-info)
-        * [Scientific Experts](https://www.labcorp.com/our-experts)
-        * [DEX Zcode Sharing Instructions](https://www.labcorp.com/providers/resources/dex-zcode-sharing-instructions)
-        
-        Providers
-        
-        [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        
-        * * *
-        
-        * [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Provider Portal Login](https://link.labcorp.com/landing)
-        
-* [Health Systems & Organizations (Press Enter or Space to Go to Landing Page or Press Down to expand Menu)](https://www.labcorp.com/organizations) Health Systems & Organizations expand menu
-    * [Health Systems & Organizations](https://www.labcorp.com/organizations)
-        
-        Health Systems & Organizations
-        
-        [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        
-        * * *
-        
-        * [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Managed Care Portal Login](https://payer.labcorp.com/ui/)
-        * [Provider Portal Login](https://www.labcorplink.com/ui/#/login)
-        * [Diseases & Conditions](https://www.labcorp.com/diseases)
-        * [Educational Resources](https://www.labcorp.com/organizations/resources)
-        
-        [Hospitals & Physician Systems](https://www.labcorp.com/organizations/hospitals) Toggle Hospitals & Physician Systems
-        
-        * [Outreach / Ambulatory](https://www.labcorp.com/organizations/hospitals/outreach)
-        * [Federally Qualified Health Centers (FQHCs)](https://www.labcorp.com/organizations/hospitals/federally-qualified-health-centers)
-        
-        [Lab Management & Partnerships](https://www.labcorp.com/lab-management-partnerships) Toggle Lab Management & Partnerships
-        
-        * [Lab Certifications & Accreditations](https://www.labcorp.com/providers/lab-certifications-accreditations)
-        * [Quality Story](https://www.labcorp.com/providers/provider-resources/LabQuality)
-        * [Lab Leader Resources](https://www.labcorp.com/lab-management-partnerships/laboratory-leader-resources)
-        
-        [Managed Care Health Plans](https://www.labcorp.com/organizations/managed-care) Toggle Managed Care Health Plans
-        
-        * [Gaps in Care Management](https://www.labcorp.com/health-systems-organizations/managed-care/gaps-care)
-        * [Lab Stewardship for Payers](https://www.labcorp.com/organizations/managed-care/gaps-care/lab-stewardship-payers)
-        * [ICD-10 Codes](https://www.labcorp.com/provider-services/resources/icd-10-info)
-        * [Lab Certifications & Accreditations](https://www.labcorp.com/providers/lab-certifications-accreditations)
-        
-        [Lab Data Integrations & Tools](https://www.labcorp.com/organizations/data) Toggle Lab Data Integrations & Tools
-        
-        * [Technology EMR/EHR Integrations](https://www.labcorp.com/organizations/data/diagnostic-assistant)
-        * [Data Insights & Analysis](https://www.labcorp.com/organizations/data/insights-analysis)
-        
-        [Employee Wellness & Testing](https://www.labcorp.com/health-systems-organizations/employers) Toggle Employee Wellness & Testing
-        
-        * [Employee Biometric Screening](https://www.labcorp.com/organizations/employers/employee-biometric-screenings)
-        * [Employee Health Coaching](https://www.labcorp.com/organizations/employers/employee-health-coaching)
-        * [Drug-Free Workplace](https://www.labcorp.com/organizations/employers/workplace-drug-testing)
-        * [COVID-19 Testing](https://www.labcorp.com/coronavirus-disease-covid-19/organizations)
-        * [Flu Vaccinations](https://www.labcorp.com/health-systems-organizations/employers/flu-vaccinations)
-        
-        [Government & Education](https://www.labcorp.com/organizations/government-education) Toggle Government & Education
-        
-        * [K-12 COVID-19](https://www.labcorp.com/coronavirus-disease-covid-19/organizations/return-school)
-        * [Public Health Services](https://www.cddmedical.com/BusinessSectors/PublicHealth)
-        * [Department of Defense](https://www.cddmedical.com/BusinessSectors/USDepartmentOfDefense)
-        
-        Health Systems & Organizations
-        
-        [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        
-        * * *
-        
-        * [Search Test Menu](https://www.labcorp.com/test-menu/search)
-        * [New & Updated Tests](https://www.labcorp.com/test-menu/new-updated)
-        * [Managed Care Portal Login](https://payer.labcorp.com/ui/)
-        * [Provider Portal Login](https://www.labcorplink.com/ui/#/login)
-        * [Diseases & Conditions](https://www.labcorp.com/diseases)
-        * [Educational Resources](https://www.labcorp.com/organizations/resources)
-        
-* [Biopharma (Press Enter or Space to Go to Landing Page or Press Down to expand Menu)](https://www.labcorp.com/biopharma) Biopharma expand menu
-    * [Biopharma](https://www.labcorp.com/biopharma)
-        
-        Biopharma
-        
-        [View Biopharma](https://biopharma.labcorp.com/)
-        
-        * * *
-        
-        * [Order Trial Test Kit](https://biopharma.labcorp.com/labs-kits/investigators/order-a-kit.html)
-        * [Print UPS Label](https://biopharma.labcorp.com/clinical-testing/labs-kits/investigators/investigator-study-team/ups-express.html)
-        
-        * * *
-        
-        [Lab Testing & Research](https://www.labcorp.com/biopharma) Toggle Lab Testing & Research
-        
-        * [Nonclinical Studies](https://www.labcorp.com/biopharma/nonclinical-research-studies)
-        * [Clinical Trial Testing](https://www.labcorp.com/biopharma/clinical-trial-testing-labs)
-        
-        [Consulting](https://biopharma.labcorp.com/services/consulting.html) Toggle Consulting
-        
-        * [Early Phase Development](https://biopharma.labcorp.com/nonclinical/early-phase-development-solutions.html)
-        * [Regulatory & Compliance](https://biopharma.labcorp.com/services/consulting.html)
-        
-        [Data & Commercialization](https://biopharma.labcorp.com/data-technology.html) Toggle Data & Commercialization
-        
-        * [Sponsored Testing](https://biopharma.labcorp.com/data-technology/sponsored-testing.html)
-        * [Data & AI](https://biopharma.labcorp.com/services/data-technology.html)
-        
-        [Environmental Testing](https://www.labcorp.com/industries) Toggle Environmental Testing
-        
-        * [Crop Protection Products](https://www.labcorp.com/industries/crop-protection.html)
-        * [Chemical Products](https://www.labcorp.com/industries/chemical.html)
-        
-        [Product & Molecule Testing](https://biopharma.labcorp.com/industry-solutions/by-product.html) Toggle Product & Molecule Testing
-        
-        * [Biomarkers](https://biopharma.labcorp.com/services/clinical-testing/precision-medicine-solutions/biomarker-solutions.html)
-        * [Cell & Gene Therapies](https://biopharma.labcorp.com/services/clinical-testing/precision-medicine-solutions/cell-and-gene-therapy.html)
-        * [Companion Diagnostics](https://biopharma.labcorp.com/services/clinical-testing/precision-medicine-solutions/companion-diagnostics.html)
-        * [Precision Medicine Products](https://biopharma.labcorp.com/clinical-testing/precision-medicine-solutions.html)
-        * [Medical Devices](https://www.labcorp.com/industries/device)
-        * [more >](https://biopharma.labcorp.com/industry-solutions/by-product.html)
-        
-        [Partnering Solutions](https://biopharma.labcorp.com/services/consulting.html) Toggle Partnering Solutions
-        
-        * [Investor Solutions](https://biopharma.labcorp.com/industry-solutions/customers/investorsolutions.html)
-        * [Labcorp Venture Fund](https://www.labcorp.com/venture-fund)
-        * [MarketPlace](https://biopharma.labcorp.com/services/marketplace.html)
-        
-        Biopharma
-        
-        [View Biopharma](https://biopharma.labcorp.com/)
-        
-        * * *
-        
-        * [Order Trial Test Kit](https://biopharma.labcorp.com/labs-kits/investigators/order-a-kit.html)
-        * [Print UPS Label](https://biopharma.labcorp.com/clinical-testing/labs-kits/investigators/investigator-study-team/ups-express.html)
-        
-        * * *
-        
+[View Organizations Page](https://www.labcorp.com/organizations)
 
-Labs & Appointments toggle
+Biopharma & Investigators
 
-Find Locations
+[Nonclinical Research](https://www.labcorp.com/biopharma/nonclinical) [Central Laboratory Services](https://www.labcorp.com/biopharma/central-labs) [Order a Kit](https://www.labcorp.com/biopharma/central-labs/trial-management/kit-orders) [Contact Us](https://www.labcorp.com/biopharma/contact)
 
-For hours, walk-ins and appointments.
+[View Biopharma Section](https://www.labcorp.com/biopharma)
 
-[Find a lab](https://www.labcorp.com/labs-and-appointments) [Modify Appointment](https://express.labcorp.com/manage) [Cancel Appointment](https://express.labcorp.com/manage)
+[Managing Your Health](https://www.labcorp.com/wellness)
+--------------------------------------------------------
 
-Locate Me
+* [Shop for Health Tests](https://www.ondemand.labcorp.com/products)
+* [Explore Women's Health](https://womenshealth.labcorp.com/)
+* [Annual Wellness Guidelines](https://www.labcorp.com/patients/health-screenings)
+* [More](https://www.labcorp.com/wellness)
 
-  
+* * *
 
+[Diseases & Therapeutic Areas](https://www.labcorp.com/diseases)
+----------------------------------------------------------------
+
+* [Cancer & Oncology](https://oncology.labcorp.com/)
+* [Neurology](https://www.labcorp.com/providers/neurology)
+* [Rheumatology](https://www.labcorp.com/providers/rheumatology)
+* [More](https://www.labcorp.com/diseases)
+
+* * *
+
+[Treatment Modalities & Methods](https://www.labcorp.com/modalities)
+--------------------------------------------------------------------
+
+* [Cell & Gene Therapies](https://www.labcorp.com/biopharma/central-labs/modalities/cell-gene-therapy)
+* [Precision Medicine](https://www.labcorp.com/biopharma/central-labs/modalities/precision-medicine)
+* [Vaccines](https://www.labcorp.com/modalities/vaccines/assays)
+* [More](https://www.labcorp.com/modalities)
+
+* * *
+
+[Scientific Lab Disciplines](https://www.labcorp.com/disciplines)
+-----------------------------------------------------------------
+
+* [Genetics & Genomics](https://www.labcorp.com/genetics-genomics)
+* [Pathology](https://www.labcorp.com/biopharma/nonclinical/disciplines/pathology)
+* [Toxicology](https://www.labcorp.com/biopharma/nonclinical/disciplines/toxicology)
+* [More](https://www.labcorp.com/disciplines)
+
+* * *
+
+[Labs](https://www.labcorp.com/disciplines)
+-------------------------------------------
+
+* [Diagnostic Reference & Specialty Labs](https://www.labcorp.com/providers/specialists)
+* [Nonclinical Labs](https://www.labcorp.com/biopharma/nonclinical)
+* [Central Labs](https://www.labcorp.com/biopharma/central-labs)
+
+* * *
+
+Industries
+----------
+
+* [Healthcare](https://www.labcorp.com/organizations/hospitals)
+* [Pharma](https://www.labcorp.com/biopharma)
+* [Medtech](https://medtech.labcorp.com/)
+* [Crop & Agricultural](https://crop-protection.labcorp.com/)
+* [Chemical & Environmental](https://chemical.labcorp.com/)
+
+[Education, events & experts](https://www.labcorp.com/science)
+
+[About us](https://www.labcorp.com/about "About")
+
+* * *
+
+[News](https://www.labcorp.com/newsroom "News")
+
+* * *
+
+[Careers](https://careers.labcorp.com/global/en "Careers")
+
+* * *
+
+[Investors](https://ir.labcorp.com/ "investors")
+
+* * *
+
+[Help](https://www.labcorp.com/contact-us "Help")
+
+Medtech
+
+* [Ethics, Security & Compliance](https://www.labcorp.com/content/labcorp/us/en/compliance)
+    
+    [Ethics, Security & Compliance](https://www.labcorp.com/content/labcorp/us/en/compliance)
+* [Ethics & Integrity](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics.html)
+    
+    [Ethics & Integrity](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics.html)
+    
+    [Ethics & Integrity](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics.html)
+    
+    [Code of Conduct](https://ir.labcorp.com/static-files/ab6a66d9-d4a8-4fb0-a6e6-ca75c3778153)
+    
+    [Combatting Modern Slavery](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics/slavery.html)
+    
+    [Political Contributions](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics/political-contributions.html)
+    
+* [Privacy & Security](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy.html)
+    
+    [Privacy & Security](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy.html)
+    
+    [Privacy & Security](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy.html)
+    
+    [HIPAA Privacy Practices](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/hipaa.html)
+    
+    [California & Virginia Privacy Policies](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/CA-VA.html)
+    
+    [Security Agreement](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/security-agreement.html)
+    
+    [Website Privacy Policy](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web.html)
+    
+    [Website Terms & Conditions](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web/terms-conditions.html)
+    
+    [Website Vulnerability Disclosure](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web/vulnerability.html)
+    
+* [Suppliers & Vendors](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors.html)
+    
+    [Suppliers & Vendors](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors.html)
+    
+    [Suppliers & Vendors](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors.html)
+    
+    [Independent Contractor Travel Policy](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors/contractor-travel-policy.html)
+    
+    [Terms & Conditions](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors/terms-and-conditions.html)
+    
+    [Code of Conduct & Ethics](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors.html#supplier-code-of-conduct)
+    
+    [U.S. False Claims Act](https://www.labcorp.com/content/labcorp/us/en/compliance/suppliers-vendors.html#false-claims)
     
 
-Reason for your visit
-
-\- Select Service -Routine LabworkPediatric CollectionEmployment Wellness with Body MeasurementH Pylori TestEmployment Drug Testing - UrineEmployment Drug Testing - Oral FluidRapid Drug Test - UrineRapid Drug Test - Oral FluidSaliva Alcohol ScreenHair CollectionCOVID-19 Unexposed/Symptom Free
-
-  
-
-Login toggle
-
-* [Patient](https://patient.labcorp.com/ "Patient Login")
-* [Provider](https://www.labcorplink.com/ui/#/login "Provider Login")
-
-Animation
-
- On Off
-
-Search  Submit
-
-* [About](https://www.labcorp.com/about)
-* [News](https://www.labcorp.com/newsroom)
-* [Careers](https://careers.labcorp.com/global/en)
-* [Investors](http://phx.corporate-ir.net/phoenix.zhtml?c=84636&p=irol-irhome)
-
-1. / [Home](https://www.labcorp.com/)
-2. / Terms and Conditions
+1. [Home](https://www.labcorp.com/content/labcorp/us/en.html) 
+2. [Ethics, Security and Compliance](https://www.labcorp.com/content/labcorp/us/en/compliance.html) 
+3. [Privacy Policies](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy.html) 
+4. [Web Privacy Policy](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web.html) 
+5. Terms and Conditions 
 
 Terms and Conditions
 ====================
@@ -450,23 +290,23 @@ Terms and Conditions
 1\. Scope of These Terms and Conditions
 ---------------------------------------
 
-These Terms and Conditions are applicable to your access to and use [www.labcorp.com](https://www.labcorp.com/) and all other websites and online applications operated by Laboratory Corporation of America Holdings or its affiliates and subsidiaries, including Laboratory Corporation of America (collectively, "Labcorp," “we,” “our,” “us”) that link to or incorporate these Terms and Conditions (the “Online Services”) Please read these Terms and Conditions carefully Your access to and use of the Online Services and the information, materials, products, tools, and services available through the Online Services are subject to these Terms and Conditions, regardless of whether you possess or do not possess an account through the Online Services linked to your name and/or contact information (“Account”)
+These Terms and Conditions are applicable to your access to and use [www.labcorp.com](https://www.labcorp.com/) and all other websites and online applications operated by Laboratory Corporation of America Holdings or its affiliates and subsidiaries, including Laboratory Corporation of America (collectively, "Labcorp," “we,” “our,” “us”) that link to or incorporate these Terms and Conditions (the “Online Services”) Please read these Terms and Conditions carefully Your access to and use of the Online Services and the information, materials, products, tools, and services available through the Online Services are subject to these Terms and Conditions, regardless of whether you possess or do not possess an account through the Online Services linked to your name and/or contact information (“Account”)
 
-**By accessing or using the Online Services, you acknowledge that you understand and agree to be bound by these Terms and Conditions If you do not understand or agree to be bound by these Terms and Conditions, do not access or use the Online Services** When you use certain of the Online Services (e.g., Labcorp®: Patient Portal, Labcorp®: PreCheck, etc.), we may provide you with additional terms and conditions relating to that specific Online Service, which will supplement the generally applicable terms of these Terms and Conditions In the event of any inconsistency between these Terms and Conditions and any Online Service-specific terms and conditions, the Online Service-specific terms and conditions shall govern with respect to your access to and use of that Online Service.
+**By accessing or using the Online Services, you acknowledge that you understand and agree to be bound by these Terms and Conditions If you do not understand or agree to be bound by these Terms and Conditions, do not access or use the Online Services** When you use certain of the Online Services (e.g., Labcorp®: Patient Portal, Labcorp®: PreCheck, etc.), we may provide you with additional terms and conditions relating to that specific Online Service, which will supplement the generally applicable terms of these Terms and Conditions In the event of any inconsistency between these Terms and Conditions and any Online Service-specific terms and conditions, the Online Service-specific terms and conditions shall govern with respect to your access to and use of that Online Service.
 
 **PLEASE NOTE THAT THIS AGREEMENT CONTAINS A MANDATORY ARBITRATION PROVISION THAT WAIVES YOUR RIGHT TO A JURY TRIAL AND REQUIRES USE OF ARBITRATION ON AN INDIVIDUAL BASIS.**
 
 2\. Privacy Statement
 ---------------------
 
-Our [Privacy Statement](https://www.labcorp.com/hipaa-privacy) describes how Labcorp collects information about you through the Online Services that is not protected health information under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), and how we use, disclose, and protect that information.
+Our [Privacy Statement](https://www.labcorp.com/hipaa-privacy) describes how Labcorp collects information about you through the Online Services that is not protected health information under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), and how we use, disclose, and protect that information.
 
 3\. Disclaimer of Content
 -------------------------
 
 **T**he Online Services provide general information about our company and selected subsidiaries, and the products and services offered by them, including diagnostic health testing and services, data analysis, clinical trials capabilities, employer health management solutions, and information about various health conditions.
 
-The clinical information contained within the "Health Care Provider" section [www.labcorp.com](https://www.labcorp.com/) is intended for the use of health care professionals. Health care providers should exercise their own clinical judgment when using our content, tools, or databases.
+The clinical information contained within the "Health Care Provider" section [www.labcorp.com](https://www.labcorp.com/) is intended for the use of health care professionals. Health care providers should exercise their own clinical judgment when using our content, tools, or databases.
 
 If you are any other website visitor, you should not use information found on the Online Services to replace a relationship with your physician or other health care professional and should not rely on that information as professional medical advice. Always seek the advice of your physician or other qualified health care provider concerning questions you have regarding a medical condition, and before starting, stopping, or modifying any treatment or medication. In the case of a health emergency, seek immediate assistance from emergency personnel. Never delay obtaining medical advice or disregard medical advice because of something you have or have not read on the Online Services.
 
@@ -485,12 +325,12 @@ Copyright, trademark, patent, and other applicable laws protect the services and
 
 The Online Services include material that is derived in whole or in part from materials that are copyrighted, including the format and layout of the Online Services. The copyrights are owned by Labcorp, or for licensed content, the content providers.
 
-**The Online Services are owned by Laboratory Corporation of America Holdings. None of the names, trademarks, service marks and logos of Labcorp appearing on the Online Services may be used in any advertising or publicity, or otherwise to indicate Labcorp’s sponsorship of or affiliation with any product or service, without express written permission of the operators of Labcorp.** Nothing contained on the Online Services should be construed as granting, by implication, estoppel, waiver or otherwise, any license or right of use to any trademark displayed on the Online Services without the written permission of the owners and operators of Labcorp or the third party owner of the trademark, if any. The Online Services may contain other proprietary notices and copyright information, the terms of which must be observed and followed.
+**The Online Services are owned by Laboratory Corporation of America Holdings. None of the names, trademarks, service marks and logos of Labcorp appearing on the Online Services may be used in any advertising or publicity, or otherwise to indicate Labcorp’s sponsorship of or affiliation with any product or service, without express written permission of the operators of Labcorp.** Nothing contained on the Online Services should be construed as granting, by implication, estoppel, waiver or otherwise, any license or right of use to any trademark displayed on the Online Services without the written permission of the owners and operators of Labcorp or the third party owner of the trademark, if any. The Online Services may contain other proprietary notices and copyright information, the terms of which must be observed and followed.
 
 5\. Right to Change Terms and Conditions
 ----------------------------------------
 
-The Terms and Conditions are available on the Online Services, including at the following link: [https://www.labcorp.com/terms-and-conditions](https://www.labcorp.com/terms-and-conditions)[.](https://www.labcorp.com/terms-and-conditions) Labcorp may, at any time and from time to time, in its sole discretion, change these Terms and Conditions, in whole or in part. You agree to review these Terms and Conditions periodically. Any changes to these Terms and Conditions will be effective immediately upon the posting of the modified Terms and Conditions to the Online Services. If you possess an Account, we may also provide notice of the changes to you when you log in to the Online Services or by sending notice of the changes to contact information that you have provided to us. You agree to comply with, and be bound by, the modified Terms and Conditions either (i) by continuing to use or access the Online Services after modified Terms and Conditions are posted to the Online Services, or (ii) if you possess an Account, by not requesting to terminate your Account within seven (7) calendar days after the changes are posted as described above.
+The Terms and Conditions are available on the Online Services, including at the following link: [https://www.labcorp.com/terms-and-conditions](https://www.labcorp.com/terms-and-conditions)[.](https://www.labcorp.com/terms-and-conditions) Labcorp may, at any time and from time to time, in its sole discretion, change these Terms and Conditions, in whole or in part. You agree to review these Terms and Conditions periodically. Any changes to these Terms and Conditions will be effective immediately upon the posting of the modified Terms and Conditions to the Online Services. If you possess an Account, we may also provide notice of the changes to you when you log in to the Online Services or by sending notice of the changes to contact information that you have provided to us. You agree to comply with, and be bound by, the modified Terms and Conditions either (i) by continuing to use or access the Online Services after modified Terms and Conditions are posted to the Online Services, or (ii) if you possess an Account, by not requesting to terminate your Account within seven (7) calendar days after the changes are posted as described above.
 
 6\. Your Provision of Contact and Account Information to Us
 -----------------------------------------------------------
@@ -539,12 +379,12 @@ By uploading, posting, transmitting, publishing, displaying, or otherwise making
 
 Labcorp reserves the right to change, condense, delete, or refuse to post any User-Provided Content on the Online Services in its sole discretion None of the User-Provided Content that you submit shall be subject to any obligation of confidence on the part of LabCorp, its agents, partners, or third-party service providers and their respective directors, officers, and employees.
 
-This Section 10 does not apply to any information defined as protected health information under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) that you upload, post, transmit, publish, display, or otherwise make available through nonpublic portions of the Online Services.
+This Section 10 does not apply to any information defined as protected health information under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) that you upload, post, transmit, publish, display, or otherwise make available through nonpublic portions of the Online Services.
 
 11\. Your Conduct
 -----------------
 
-You agree to comply with all laws, rules, and regulations applicable to your use of the Online Services In addition, you agree not to:
+You agree to comply with all laws, rules, and regulations applicable to your use of the Online Services In addition, you agree not to:
 
 * upload, post, email, transmit, or otherwise make available any User-Provided Content that is known by you to be false, inaccurate, or misleading;
 * upload, post, email, transmit, or otherwise make available any User-Provided Content that violates any law, statute, ordinance, or regulation (including, but not limited to, those governing export control, consumer protection, unfair competition, anti-discrimination, or false advertising);
@@ -572,7 +412,7 @@ You acknowledge and agree that we are not responsible or liable for the accuracy
 13\. Links to the Online Services
 ---------------------------------
 
-You should not link to the Online Services, nor use Labcorp’s name, trademark, logos, or otherwise refer to Labcorp in any public communications without first obtaining Labcorp’s advance written consent. Requests to link to the Online Services or use Labcorp’s name should be directed to [Labcorp Media Relations](https://www.labcorp.com/media-contacts).
+You should not link to the Online Services, nor use Labcorp’s name, trademark, logos, or otherwise refer to Labcorp in any public communications without first obtaining Labcorp’s advance written consent. Requests to link to the Online Services or use Labcorp’s name should be directed to [Labcorp Media Relations](https://www.labcorp.com/media-contacts).
 
 14\. Advertising and Sponsorships
 ---------------------------------
@@ -599,15 +439,15 @@ We reserve the right to do any of the following, at any time, at our sole discre
 
 PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY REQUIRE YOU AND LABCORP TO ARBITRATE DISPUTES ON AN INDIVIDUAL BASIS AND LIMIT THE MANNER IN WHICH YOU AND LABCORP CAN SEEK RELIEF FROM EACH OTHER.
 
-1. **Arbitration Agreement.** You and Labcorp mutually agree, to the fullest extent of the law, that any Dispute (defined below) shall be arbitrated and finally decided by binding arbitration administered by the American Arbitration Association (the “AAA”) under its Consumer Arbitration Rules (available at [www.adr.org](https://www.adr.org/) or by calling 800-778-7879), except as modified below or otherwise agreed to. As used in this Arbitration Agreement, “Dispute” means any dispute, claim, or controversy between us, including any past, currently pending, existing, or future dispute or disagreement, except: (a) claims by employees of Labcorp entities related to the terms or conditions of their employment; (b) claims for personal physical injury or wrongful death or survival claims arising from or in any way related to clinical laboratory services; and (c) claims for unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. **You and Labcorp agree that you are each giving up, to the fullest extent of the law, any right to have disputes resolved in court before a judge or jury.**
-2. **Class Action Waiver.** **You and Labcorp also mutually agree that, to the fullest extent allowed by law, and except as expressly set out below, each may bring claims against the other only in your or its individual capacity, on an individual basis, and not as a plaintiff or class member in any purported class, collective, non-individual, mass, or representative proceeding.** Further, the arbitrator may not join or consolidate more than one person’s claims, and may not otherwise preside over any form of representative, collective, non-individual, mass, or class proceeding, except as stated below Nothing in these terms should be read to allow class arbitration Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, inapplicable, invalid, void or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator All disputes with respect to whether any other aspect of this Dispute Resolution provision and its terms is unenforceable, unconscionable, applicable, valid, void or voidable shall be determined exclusively by an arbitrator, and not by any court, except as expressly set out below.
-3. **Arbitration Procedures.** Arbitration uses a neutral arbitrator to decide a dispute (instead of a judge or jury); arbitration allows for more limited discovery than a court case; and the arbitration process and results are subject to limited review by courts In arbitration, you have the right, at your own expense, to be represented by an attorney of your choosing Arbitrators can award the same damages and relief that a court could award, but any award or recovery must be consistent with this Agreement You and Labcorp also agree that any in-person arbitral hearing will occur in the United States in the same county and state as your billing address Any arbitration under this section will be confidential, and documents exchanged may not be used or shared outside of the arbitration process without the prior written consent of the parties or as required by law To the fullest extent of the law, the arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim, and the arbitrator cannot award relief for, or on behalf of, anyone who is not a party to the proceeding 
+1. **Arbitration Agreement.** You and Labcorp mutually agree, to the fullest extent of the law, that any Dispute (defined below) shall be arbitrated and finally decided by binding arbitration administered by the American Arbitration Association (the “AAA”) under its Consumer Arbitration Rules (available at [www.adr.org](https://www.adr.org/) or by calling 800-778-7879), except as modified below or otherwise agreed to. As used in this Arbitration Agreement, “Dispute” means any dispute, claim, or controversy between us, including any past, currently pending, existing, or future dispute or disagreement, except: (a) claims by employees of Labcorp entities related to the terms or conditions of their employment; (b) claims for personal physical injury or wrongful death or survival claims arising from or in any way related to clinical laboratory services; and (c) claims for unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. **You and Labcorp agree that you are each giving up, to the fullest extent of the law, any right to have disputes resolved in court before a judge or jury.**
+2. **Class Action Waiver.** **You and Labcorp also mutually agree that, to the fullest extent allowed by law, and except as expressly set out below, each may bring claims against the other only in your or its individual capacity, on an individual basis, and not as a plaintiff or class member in any purported class, collective, non-individual, mass, or representative proceeding.** Further, the arbitrator may not join or consolidate more than one person’s claims, and may not otherwise preside over any form of representative, collective, non-individual, mass, or class proceeding, except as stated below Nothing in these terms should be read to allow class arbitration Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, inapplicable, invalid, void or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator All disputes with respect to whether any other aspect of this Dispute Resolution provision and its terms is unenforceable, unconscionable, applicable, valid, void or voidable shall be determined exclusively by an arbitrator, and not by any court, except as expressly set out below.
+3. **Arbitration Procedures.** Arbitration uses a neutral arbitrator to decide a dispute (instead of a judge or jury); arbitration allows for more limited discovery than a court case; and the arbitration process and results are subject to limited review by courts In arbitration, you have the right, at your own expense, to be represented by an attorney of your choosing Arbitrators can award the same damages and relief that a court could award, but any award or recovery must be consistent with this Agreement You and Labcorp also agree that any in-person arbitral hearing will occur in the United States in the same county and state as your billing address Any arbitration under this section will be confidential, and documents exchanged may not be used or shared outside of the arbitration process without the prior written consent of the parties or as required by law To the fullest extent of the law, the arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim, and the arbitrator cannot award relief for, or on behalf of, anyone who is not a party to the proceeding 
     1. Each party retains the right to elect before or within 30 days after arbitration is initiated by either party to have any claims heard in small claims court on an individual (non-class, non-representative) basis for a dispute within the scope of such court’s jurisdiction.
-4. **Pre-Arbitration Notice and Good Faith Negotiations.** Both you and Labcorp agree that, before initiating any arbitration proceedings of any kind with the AAA, each party will notify the other in writing of any dispute so that the parties can attempt in good faith to resolve the dispute informally. The notice must be specific and individual to you and include: (i) your name, street address, telephone number, and the email address you use or used for the online services; (ii) a brief description of the dispute; (iii) the amount of money (if any) at issue; and (iv) the specific relief sought. The notice must be signed and include the handwritten signature of, as applicable, either you or a Labcorp employee, depending on which party is providing notice. Notice sent by you to Labcorp will be sent to the following email and street addresses: [\[email protected\]](https://www.labcorp.com/cdn-cgi/l/email-protection) and 531 South Spring Street, Law Department, Burlington, NC 27215. Notice sent by Labcorp to you will be sent to the email and street addresses that you provided to Labcorp. This notice is a requirement and condition precedent to initiating any arbitration proceedings.
+4. **Pre-Arbitration Notice and Good Faith Negotiations.** Both you and Labcorp agree that, before initiating any arbitration proceedings of any kind with the AAA, each party will notify the other in writing of any dispute so that the parties can attempt in good faith to resolve the dispute informally. The notice must be specific and individual to you and include: (i) your name, street address, telephone number, and the email address you use or used for the online services; (ii) a brief description of the dispute; (iii) the amount of money (if any) at issue; and (iv) the specific relief sought. The notice must be signed and include the handwritten signature of, as applicable, either you or a Labcorp employee, depending on which party is providing notice. Notice sent by you to Labcorp will be sent to the following email and street addresses: generalcounsel@labcorp.com and 531 South Spring Street, Law Department, Burlington, NC 27215. Notice sent by Labcorp to you will be sent to the email and street addresses that you provided to Labcorp. This notice is a requirement and condition precedent to initiating any arbitration proceedings.
     1. If you and Labcorp cannot agree how to resolve the dispute within 45 days after the notice is received by the other party, then either you or Labcorp may, as appropriate and in accordance with this Dispute Resolution section, commence an arbitration proceeding with a written demand for arbitration that is individual to you and your dispute, including the content set forth above and a handwritten signature.  Any limitations period will be tolled from the date the dispute is noticed to the other side until the expiration of this 45-day period.​​
     2. Compliance with this Pre-Arbitration Notice and Good Faith Negotiations provision (paragraph D) is an issue for a court to resolve, not the arbitrator.
-5. **Arbitration Fees.** The party initiating the arbitration will pay any filing, case initiation, or arbitrator fees, up to the amount that would be required to pursue the same claim in the U.S. District Court for the Middle District of North Carolina (currently, $402.00). For individual damages claims with less than $25,000 at issue, Labcorp will pay the additional, reasonable fees and costs of arbitration, not including attorneys’ fees.  For claims with more than $25,000 at issue, or where a party seeks injunctive or declaratory relief, the parties will share the fees and costs of arbitration equally.  The parties’ good faith negotiation of reasonable fees with the arbitration provider is authorized as needed.  If the arbitrator determines that your or Labcorp’s claim(s) are frivolous, the party bringing the frivolous claim(s) will reimburse the other party for any amounts that other party paid for the arbitration.
-6. **Federal Arbitration Act.** These Terms of Use affect interstate commerce, and the interpretation and enforceability of this Dispute Resolution provision will be substantively, procedurally, and exclusively governed by and construed and enforced in accordance with the Federal Arbitration Act, 9 U.S.C. § 1, et seq., to the maximum extent permitted by applicable law, except as modified by these terms of use.
+5. **Arbitration Fees.** The party initiating the arbitration will pay any filing, case initiation, or arbitrator fees, up to the amount that would be required to pursue the same claim in the U.S. District Court for the Middle District of North Carolina (currently, $402.00). For individual damages claims with less than $25,000 at issue, Labcorp will pay the additional, reasonable fees and costs of arbitration, not including attorneys’ fees.  For claims with more than $25,000 at issue, or where a party seeks injunctive or declaratory relief, the parties will share the fees and costs of arbitration equally.  The parties’ good faith negotiation of reasonable fees with the arbitration provider is authorized as needed.  If the arbitrator determines that your or Labcorp’s claim(s) are frivolous, the party bringing the frivolous claim(s) will reimburse the other party for any amounts that other party paid for the arbitration.
+6. **Federal Arbitration Act.** These Terms of Use affect interstate commerce, and the interpretation and enforceability of this Dispute Resolution provision will be substantively, procedurally, and exclusively governed by and construed and enforced in accordance with the Federal Arbitration Act, 9 U.S.C. § 1, et seq., to the maximum extent permitted by applicable law, except as modified by these terms of use.
 
 19\. Disclaimer of Warranty; Limitation of Liability
 ----------------------------------------------------
@@ -657,7 +497,7 @@ Laboratory Corporation of America Holdings
 Burlington, NC 27215  
 Attn: Law Department
 
-Specific questions and comments should be directed to the appropriate department via our [Contact Us page](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry). While we make every effort to respond to all correspondence within 1 business week, we cannot guarantee a response to every electronic communication.
+Specific questions and comments should be directed to the appropriate department via our [Contact Us page](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry). While we make every effort to respond to all correspondence within 1 business week, we cannot guarantee a response to every electronic communication.
 
 These Terms and Conditions were last updated on: February 7, 2024.
 
@@ -669,12 +509,13 @@ Labcorp
 * [Careers](https://careers.labcorp.com/global/en)
 * [Investors](https://ir.labcorp.com/)
 
-* [Go to the Labcorp Linkedin page](https://www.linkedin.com/company/labcorp/)
-* [![](/themes/custom/labcorp/images/twitterx-white.svg)Go to the Labcorp Twitter page](https://twitter.com/Labcorp)
-* [Go to the Labcorp Facebook page](https://www.facebook.com/Labcorp/)
-* [Go to the Labcorp YouTube page](https://www.youtube.com/c/LabcorpVideo)
-* [Go to the Labcorp Instagram Page](https://www.instagram.com/labcorp/)
-* [Go to the Labcorp Thread Page](https://www.threads.net/@labcorp)
+* [](https://www.linkedin.com/company/labcorp)
+* [](https://twitter.com/Labcorp)
+* [](https://www.facebook.com/Labcorp/)
+
+* [](https://www.youtube.com/c/labcorpvideo)
+* [](https://www.instagram.com/labcorp/?hl=en)
+* [](https://www.threads.net/@labcorp)
 
 FAQs
 ----
@@ -697,13 +538,13 @@ Quick Links
 * [Biopharma](https://biopharma.labcorp.com/)
 * [Drug Testing](https://www.labcorp.com/organizations/employers/workplace-drug-testing)
 * [Paternity Testing](https://dna.labcorp.com/?_ga=2.3058551.694261170.1626094000-1811160102.1614706644&utm_source=labcorp&utm_medium=Referral&utm_campaign=dna)
-* [Health Testing](https://www.ondemand.labcorp.com/)
+* [Health Testing](https://www.ondemand.labcorp.com/#_ga=2.118819017.1146137871.1701080977-469148767.1699610682)
 
 Contact Us
 ----------
 
-* [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry "Patient Contact")
-* [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
+* [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry)
+* [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry)
 * [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
 
 Email Preferences
@@ -712,48 +553,61 @@ Email Preferences
 * [Provider](https://go.labcorp.com/preferencecenter)
 * [Biopharma](https://connect.labcorp.com/preference-center)
 
-Mobile Footer Menu
+Labcorp
+-------
 
-* [Labcorp](#)
-    * [About Us](https://www.labcorp.com/about)
-    * [Newsroom](https://www.labcorp.com/newsroom)
-    * [Careers](https://careers.labcorp.com/global/en)
-    * [Investors](https://ir.labcorp.com/)
-* [FAQs](#)
-    * [Labs](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
-    * [Test Results](https://www.labcorp.com/frequently-asked-questions/patient/testing-information/all)
-    * [All Patient](https://www.labcorp.com/frequently-asked-questions/patient)
-    * [All Provider](https://www.labcorp.com/frequently-asked-questions/provider)
-* [Resources](#)
-    * [Suppliers & Vendors](https://www.labcorp.com/suppliers-and-vendors)
-    * [HIPAA Notice of Privacy Practices](https://www.labcorp.com/hipaa-privacy/hipaa-notice-privacy-practices)
-    * [No Surprises Act](https://www.labcorp.com/patients/bill-pay/payment-options/no-surprises-act)
-* [Quick Links](#)
-    * [Biopharma](https://biopharma.labcorp.com/)
-    * [Drug Testing](https://www.labcorp.com/organizations/employers/workplace-drug-testing)
-    * [Paternity Testing](https://dna.labcorp.com/?_ga=2.3058551.694261170.1626094000-1811160102.1614706644&utm_source=labcorp&utm_medium=Referral&utm_campaign=dna)
-    * [Health Testing](https://www.ondemand.labcorp.com/)
-* [Contact Us](#)
-    * [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry "Patient Contact")
-    * [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry "Provider Contact")
-    * [Biopharma](https://www.labcorp.com/content/labcorp/us/en/biopharma/contact.html)
-* [Email Preferences](#)
-    * [Provider](https://go.labcorp.com/preferencecenter)
-    * [Biopharma](https://connect.labcorp.com/preference-center)
+* [About Us](https://www.labcorp.com/about)
+* [Newsroom](https://www.labcorp.com/newsroom)
+* [Careers](https://careers.labcorp.com/global/en)
+* [Investors](https://ir.labcorp.com/)
 
-* [Labcorp on Linkedin](https://www.linkedin.com/company/labcorp/)
-* [![](/themes/custom/labcorp/images/twitterx-white.svg)Labcorp on Twitter](https://twitter.com/Labcorp)
-* [Labcorp on Facebook](https://www.facebook.com/Labcorp/)
-* [Labcorp on YouTube](https://www.youtube.com/c/LabcorpVideo)
-* [Labcorp on Instagram](https://www.instagram.com/labcorp/)
-* [Go to the Labcorp Thread Page](https://www.threads.net/@labcorp)
+FAQs
+----
 
-Legal Menu
+* [Labs](https://www.labcorp.com/frequently-asked-questions/patient/labs-appointments/all)
+* [Test Results](https://www.labcorp.com/frequently-asked-questions/patient/testing-information/all)
+* [All Patient](https://www.labcorp.com/frequently-asked-questions/patient)
+* [All Provider](https://www.labcorp.com/frequently-asked-questions/provider)
+
+Resources
+---------
+
+* [Suppliers & Vendors](https://www.labcorp.com/suppliers-and-vendors)
+* [HIPAA Notices of Privacy Practices](https://www.labcorp.com/about/hipaa-information)
+* [No Surprises Act](https://www.labcorp.com/patients/bill-pay/payment-options/no-surprises-act)
+
+Quick Links
+-----------
+
+* [Biopharma](https://biopharma.labcorp.com/)
+* [Drug Testing](https://www.labcorp.com/organizations/employers/workplace-drug-testing)
+* [Paternity Testing](https://dna.labcorp.com/?_ga=2.3058551.694261170.1626094000-1811160102.1614706644&utm_source=labcorp&utm_medium=Referral&utm_campaign=dna)
+* [Health Testing](https://www.ondemand.labcorp.com/)
+
+Contact Us
 ----------
 
-* [Privacy Statement](https://www.labcorp.com/hipaa-privacy)
-* [Terms and Conditions](https://www.labcorp.com/terms-and-conditions)
-* [Notice of Nondiscrimination](https://www.labcorp.com/labcorp-nondiscrimination-notice)
-* [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/combatting-modern-slavery)
+* [Patient](https://www.labcorp.com/help/contact-info-for-patient/patient-inquiry)
+* [Provider](https://www.labcorp.com/help/contact-info-for-provider/provider-inquiry)
 
-© 2024 Laboratory Corporation of America® Holdings. All Rights Reserved | Do Not Sell/Share My Personal Information
+Email Preferences
+-----------------
+
+* [Provider](https://go.labcorp.com/preferencecenter)
+* [Biopharma](https://connect.labcorp.com/preference-center)
+
+* [](https://www.linkedin.com/company/labcorp)
+* [](https://twitter.com/Labcorp)
+* [](https://www.facebook.com/Labcorp/)
+* [](https://www.youtube.com/c/labcorpvideo)
+* [](https://www.instagram.com/labcorp/?hl=en)
+* [](https://www.threads.net/@labcorp)
+
+* [Privacy Statement](https://www.labcorp.com/hipaa-privacy "Privacy Statement")
+* [Terms and Conditions](https://www.labcorp.com/terms-and-conditions "Terms and Conditions")
+* [Notice of Nondiscrimination](https://www.labcorp.com/labcorp-nondiscrimination-notice "Notice of Nondiscrimination")
+* [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/combatting-modern-slavery "Combatting Modern Slavery and Human Trafficking Statement")
+
+© 2024 Laboratory Corporation of America® Holdings. All Rights Reserved. 
+
+Do Not Sell or Share My Personal Information
