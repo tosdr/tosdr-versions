@@ -29,7 +29,7 @@ Terms of Use
 
 * * *
 
-_Last updated: October 11, 2024_
+_Last updated: October 25, 2024_
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -513,6 +513,7 @@ Princess Dental Staffing
 * [Houston](https://www.princessdentalstaffing.com/agency/texas/houston "Houston Dental Temp Agency")
 * [Las Vegas](https://www.princessdentalstaffing.com/agency/nevada/las-vegas "Las Vegas Dental Temp Agency")
 * [Los Angeles](https://www.princessdentalstaffing.com/agency/california/los-angeles "Los Angeles Dental Temp Agency")
+* [New York](https://www.princessdentalstaffing.com/agency/new-york/new-york "New York Dental Temp Agency")
 * [Phoenix](https://www.princessdentalstaffing.com/agency/arizona/phoenix "Phoenix Dental Temp Agency")
 
 * [Portland](https://www.princessdentalstaffing.com/agency/oregon/portland "Portland Dental Temp Agency")
@@ -597,7 +598,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-616371)
+Don’t have an account? [Sign up](#sign-up-300383)
 
 Sign up for an account
 
@@ -615,7 +616,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-616371)
+Already have an account? [Sign in](#sign-in-300383)
 
 Log in to your account
 
@@ -635,7 +636,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-282903)
+Don’t have an account? [Sign up](#sign-up-679636)
 
 Sign up for an account
 
@@ -653,7 +654,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-282903)
+Already have an account? [Sign in](#sign-in-679636)
 
 Success
 
