@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
     
-* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
+* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
     
-* [Explanation of the backup job icons](https://www.backup4all.com/the-backup-job-icons-meaning-kb.html)  
+* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
     
-* [How to create a continuous backup](https://www.backup4all.com/how-to-create-a-continuous-backup-kb.html)  
+* [How to create a private-public key pair](https://www.backup4all.com/how-to-create-a-private-public-key-pair-kb.html)  
     
-* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
 
 Choose language:
