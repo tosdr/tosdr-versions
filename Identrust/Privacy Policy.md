@@ -362,7 +362,6 @@ In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the
 
 * **[Partners](https://www.identrust.com/partners)**
 * [Affiliated Program Partners](https://www.identrust.com/partners/affiliated)
-* [Integrated Solutions Partners](https://www.identrust.com/partners/solution)
 * [Trust Network Compliant Partners](https://www.identrust.com/partners/compliant)
 
 * **[Pricing](https://www.identrust.com/certificates-portfolio)**
