@@ -1,4 +1,4 @@
-[Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/)[Help](https://support.cookiebot.com/hc/en-us/)[Newsletter](javascript:void(0))
+[Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/) [Help](https://support.cookiebot.com/hc/en-us/) [Newsletter](javascript:void(0))
 
 English
 
