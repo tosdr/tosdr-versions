@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
+* [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
+* [Electric Cars: Long-Lasting Renewable Batteries](https://www.sciencedaily.com/releases/2024/10/241024131708.htm)
+* [Wildfires Becoming Faster, More Dangerous](https://www.sciencedaily.com/releases/2024/10/241024145253.htm)
+* [Beyond Superheavy Element Livermorium](https://www.sciencedaily.com/releases/2024/10/241024131705.htm)
+* [Weight-Loss Drug May Cut Alzheimer's Risk](https://www.sciencedaily.com/releases/2024/10/241024131639.htm)
+* [Human Actions Cause Insect Color Change](https://www.sciencedaily.com/releases/2024/10/241024173707.htm)
 * [Better Brain-Machine Interfaces, Pacemakers](https://www.sciencedaily.com/releases/2024/10/241024145233.htm)
 * [Gut Bacterial Enzyme's Wide-Ranging Functions](https://www.sciencedaily.com/releases/2024/10/241024145501.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
-* ['Paleo-Robots' and Fish Walking On Land](https://www.sciencedaily.com/releases/2024/10/241023141806.htm)
-* [Colorado 'Swamp Dweller' Lived Alongside Dinos](https://www.sciencedaily.com/releases/2024/10/241023141759.htm)
-* [Bats: Fighting Deadly White-Nose Syndrome](https://www.sciencedaily.com/releases/2024/10/241023131034.htm)
-* [Rocky Planets Orbiting Small Stars: ...](https://www.sciencedaily.com/releases/2024/10/241023131045.htm)
-* [Bioengineering Plants to Make Food in the Dark](https://www.sciencedaily.com/releases/2024/10/241023131024.htm)
-* [What Standing On One Leg Can Tell You](https://www.sciencedaily.com/releases/2024/10/241023171600.htm)
-* [Healthy Reef Sounds May Help Coral Larvae, Reefs](https://www.sciencedaily.com/releases/2024/10/241023130930.htm)
 
 Trending Topics
 ---------------
@@ -251,17 +251,17 @@ this week
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
+
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Computers and Internet](https://www.sciencedaily.com/news/computers_math/computers_and_internet/)
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
   
 
