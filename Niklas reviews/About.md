@@ -22,21 +22,21 @@ Hi. My name is Niklas Pivic. I read and review books that have somehow intereste
 
 ### Latest Posts
 
-[](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
+[](https://niklas.reviews/sinead-oconnor-the-last-interview)
 
-29 min read Oct 9, 2024
+7 min read Oct 25, 2024
 
-#### [Kate Conger and Ryan Mac - 'Character Limit: How Elon Musk Destroyed Twitter'](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
+#### [Sinéad O'Connor - 'The Last Interview and Other Conversations'](https://niklas.reviews/sinead-oconnor-the-last-interview)
 
 [](https://niklas.reviews/about/)
 
 [Niklas Pivic](https://niklas.reviews/about/)
 
-[](https://niklas.reviews/graeme-thomson-under-the-ivy)
+[](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
 
-7 min read Sep 20, 2024
+29 min read Oct 9, 2024
 
-#### [Graeme Thomson - 'Under the Ivy'](https://niklas.reviews/graeme-thomson-under-the-ivy)
+#### [Kate Conger and Ryan Mac - 'Character Limit: How Elon Musk Destroyed Twitter'](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
 
 [](https://niklas.reviews/about/)
 
