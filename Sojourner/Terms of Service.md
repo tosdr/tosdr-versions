@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ec323e639f84d260850bdb2dbee63bbb
+cc0d9826ee87ed485c01d247afda2081
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Light blue glass oval star clasp](https://sojourner.biz/images/cache/SKU0555front.200.jpg)](https://sojourner.biz/clasps/glass/light-blue-glass-oval-star-clasp.html "Light blue glass oval star clasp")
+[![16 mm amber rounded rectangle beads](https://sojourner.biz/images/cache/glass/GL0042.200.jpg)](https://sojourner.biz/beads/glass/16-mm-amber-rounded-rectangle-beads.html "16 mm amber rounded rectangle beads")
 
-#### [Light blue glass oval star clasp](https://sojourner.biz/clasps/glass/light-blue-glass-oval-star-clasp.html "Light blue glass oval star clasp")
+#### [16 mm amber rounded rectangle beads](https://sojourner.biz/beads/glass/16-mm-amber-rounded-rectangle-beads.html "16 mm amber rounded rectangle beads")
 
-$34.00
+$10.00
 
 ### Best Sellers
 
@@ -162,14 +162,14 @@ $34.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
-    $26.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
     $17.00
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+    $26.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [2 mm amethyst round beads](https://sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")  
-    $10.00
+10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
