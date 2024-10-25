@@ -49,7 +49,7 @@
     *   ![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife "Internet-Tarife")
         * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit "Internet-Tarife ohne Laufzeit")
-        * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute "Für junge Leute unter 28")
+        * [Für junge Leute unter 28](https://www.telekom.de/shop/tarife/internet-tarife-young "Für junge Leute unter 28")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz "Zubuchoptionen")
         * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung "Verfügbarkeitsprüfung")
     *   ![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
