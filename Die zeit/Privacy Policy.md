@@ -8,6 +8,7 @@
 * [TEIL IV. Ihre Rechte](#ihreRechte)
 * [TEIL V. Gemeinsame Verantwortung](#gemeinsame_Verantwortung)
 * [TEIL VI. Privacy Einstellungen](#privacyEinstellungen)
+* [Social-Media-Profile](#Social-Media-Profile)
 
 ![ZEIT Online](//images.ctfassets.net/9q531vlek15f/22l1WrI5So1znPNOJr2IwA/7cc9193e19396441c14f65a9d87900d4/ZON.svg)
 
@@ -1986,6 +1987,173 @@ Ihre Zustimmung zur Verarbeitung personenbezogner Daten und Werbetracking könne
 Toggle Zustimmung/Widerspruch
 
 Betätigen Sie den Button "Zustimmung widerrufen" oder löschen Ihre Cookies im Browser so erscheint beim nächsten Laden der ZEIT Webseite wieder die vorgeschaltete Seite, auf der Sie zwischen dem Zugang mit Werbetracking und dem kostenpflichtigen Pur-Zugang mit deutlich weniger Werbung und ohne personenbezogener Datenerhebung wählen können.
+
+![Illustration](//images.ctfassets.net/9q531vlek15f/5ePQe36yKHi7KFkV7iAV3w/aa79c2b0339c5662c18e4dbe326978cf/Social-Media-Profile_v2.png)
+
+### Anbieter von Social-Media-Plattformen
+
+Wir haben Profile bei sozialen Netzwerken, um unsere Inhalte zu veröffentlichen und mit Nutzern in Kontakt zu treten. Wie Sie auch haben wir dafür einen Account angelegt und den Nutzungsbedingungen des jeweiligen sozialen Netzwerks zugestimmt.
+
+Die Verantwortlichkeiten für die Datenverarbeitung sind von Netzwerk zu Netzwerk unterschiedlich. Es kann sich um eine eigene oder gemeinsame Verantwortlichkeit nach Art. 26 DSGVO und in manchen Fällen sogar um eine Auftragsverarbeitung nach Art. 28 DSGVO handeln. Die Bewertung ergibt sich aus den Nutzungsbedingungen und integrierten Verträgen der Plattformanbieter, die wir als Grundlage für unsere Informationen nutzen (müssen).
+
+Die beim Aufruf der sozialen Netzwerke stattfindende Datenverarbeitung wird von den Anbietern vorgegeben. Wir können lediglich über die Vorgänge informieren, die in unserem Einflussbereich liegen und von uns kontrolliert werden können.
+
+### Meta-Profile
+
+**Gemeinsame Verantwortlichkeit**
+
+Unser Meta-Profil nutzen wir, um Informationen öffentlich zugänglich zu machen, Werbung zu platzieren und mit den Nutzern zu kommunizieren. Die beim Aufruf eines Profils stattfindende Datenverarbeitung erfolgt in gemeinsamer Verantwortlichkeit zwischen uns und dem Anbieter der Plattform. Wir haben aus diesem Grund einen [Vertrag nach Art. 26 DSGVO](https://www.facebook.com/legal/terms/page_controller_addendum "Vertrag nach Art. 26 DSGVO") geschlossen, in dem insbesondere die Erfüllung von Betroffenenrechten geregelt wird.
+
+Die verschiedenen Meta-Plattformen werden von der Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland betrieben. Der Anbieter ist verantwortlich für die Zulässigkeit der Datenverarbeitung über das jeweilige soziale Netzwerk. Das Unternehmen wird vertreten durch den Vorstand Gareth Lambe. Die Meta Platforms Ireland Limited hat einen [Datenschutzbeauftragten](https://www.facebook.com/help/contact/540977946302970 "Datenschutzbeauftragten der Meta Platforms Ireland Limited kontaktieren") benannt, den Sie jederzeit kontaktieren können.
+
+Ihre Betroffenenrechte können Sie jederzeit gegenüber uns oder der Meta Platforms Ireland Limited geltend machen. Da die Rechte in der Regel nur von letzterer erfüllt werden können, leiten wir solche Anfragen weiter.
+
+**Insights-Daten**
+
+Beim Aufruf unseres Profils werden Insights-Daten erhoben und ausgewertet. Dabei handelt es sich um zusammengefasste Statistiken, die anhand bestimmter, von der Meta Platforms Ireland Limited protokollierter Aktionen erstellt werden. Es geht dabei hauptsächlich darum, wie Sie mit unserem Profil und anderen Inhalten interagieren. Für uns besteht keine Möglichkeit, Sie über die Insights-Daten zu identifizieren oder diese einem Profil zuzuordnen. Die Insights-Daten werden auch bei Personen erhoben, die keinen Account haben. In dem Fall wird der Nutzer allerdings beim Aufruf der Plattform um eine Einwilligung gebeten – ohne diese können keine Inhalte eingesehen werden.
+
+Die Meta Platforms Ireland Limited stützt die Zulässigkeit der Verarbeitung von Insights-Daten auf das berechtigte Interesse in Form der Optimierung von Werbeanzeigen (Art. 6 Abs. 1 f) DSGVO). Wir selbst verwenden sie, um unser Profil besser zu machen und Inhalte bereitzustellen, die von Vielen gelesen werden. Um unsere Reichweite zu verbessern, brauchen wir viele Aufrufe und viel Traffic auf unserem Profil. Je mehr wir die Inhalte an die Interessen unserer Nutzer anpassen, desto eher können wir dies erreichen.
+
+Für uns sind die Insights-Daten ein Teil der bereitgestellten Funktionen des sozialen Netzwerks. Die Verarbeitung ist in den Nutzungsbedingungen geregelt, denen alle Profilinhaber zustimmen müssen. Sie haben bei der Anlage Ihres eigenen Accounts also die Verarbeitung vertraglich zugelassen. Wenn Sie die Nutzungsbedingungen nicht akzeptieren, können Sie kein Profil unterhalten. Insoweit ist die Bereitstellung der Insights-Daten erforderlich für die Nutzung.
+
+Die über unser Profil erhobenen Insights-Daten werden anonymisiert verarbeitet. Das bedeutet, dass die Daten so geändert werden, dass sie nicht mehr oder nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten und Arbeitskraft einer bestimmten oder bestimmbaren bzw. identifizierten oder identifizierbaren natürlichen Person zugeordnet werden können.
+
+**Direktnachrichten und Likes**
+
+Wir nutzen unseren Account, um mit Ihnen in Kontakt zu treten und zu interagieren. Das ist über Direktnachrichten, die Like-Funktion oder Kommentare möglich. In diesem Rahmen wird immer der Name angezeigt, der in Ihrem Profil hinterlegt ist.
+
+Die Zulässigkeit dieser Verarbeitung richtet sich nach dem berechtigten Interesse (Art. 6 Abs. 1 f) DSGVO). Die Kommunikation mit Ihnen ist für uns wichtig, um Fragen zu beantworten, auf Kritik einzugehen und Informationen auszutauschen. Nur so können wir unsere Leistungen verbessern. Sie können die verschiedenen Möglichkeiten zur Kommunikation nutzen, müssen es aber nicht. Die Inhalte unseres Profils können unabhängig davon angesehen werden.
+
+Kommentare werden zeitlich unbegrenzt auf unserem Profil gespeichert und können von anderen Nutzern eingesehen werden, bis Sie selbst den Kommentar wieder löschen. Das gleiche gilt für die Nutzung der Like-Funktion. Direktnachrichten werden ebenfalls gespeichert, allerdings in einem regelmäßigen Turnus gelöscht.
+
+**Widerspruch gegen die Verarbeitung von Insights-Daten**
+
+Die Insights-Daten werden auch für werbliche Zwecke verwendet, daher besteht grundsätzlich ein Widerspruchsrecht nach Art. 21 DSGVO. Die Meta Platforms Ireland Limited stellt in ihrer Datenschutzerklärung verschiedene [Formulare für die Geltendmachung von Rechten](https://www.facebook.com/privacy/explanation/ "Formulare für die Geltendmachung von Rechten") bereit. Dort können Sie der Datenverarbeitung widersprechen. Sie können dieses Recht auch uns gegenüber geltend machen und wir leiten die Anfrage dann an den Anbieter weiter.
+
+Bitte beachten Sie, dass im Falle eines Widerspruchs gegen die Verarbeitung von Insights-Daten die Nutzung der Plattform nur eingeschränkt oder überhaupt nicht mehr möglich ist.
+
+**Datenweitergabe und Drittstaatenübermittlung**
+
+Die Datenverarbeitung findet auf Servern der Meta Platforms Ireland Limited statt. Direktnachrichten werden von unseren Mitarbeitern gesehen und beantwortet. Alle sonstigen Aktionen sind öffentlich einsehbar.
+
+Unser Profil bei dem sozialen Netzwerk ist über das Internet auf der ganzen Welt abrufbar, sodass ein Zugriff auch aus Ländern ohne ausreichendes Datenschutzniveau möglich ist. Die Meta Platforms Ireland Limited hat [verschiedene Maßnahmen](https://www.facebook.com/privacy/policy?annotations%5b0%5d=9.ex.2-MechanismsWeUseFor&subpage=9.subpage.3-HowDoWeSafeguard "Maßnahmen der Meta Platforms Ireland Limited") ergriffen, um ein ausreichendes Datenschutzniveau zu gewährleisten.
+
+### TikTok-Profile
+
+**Verantwortlichkeiten**
+
+Wir haben Profile beim sozialen Netzwerk TikTok. Dabei handelt es sich um eine Social-Media-Plattform, auf der Nutzer kurze Videos erstellen, teilen und ansehen können. TikTok wird von der TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland sowie der TikTok Information Technologies UK Limited, One London Wall, London, EC2Y 5EB, United Kingdom bereitgestellt. Die TikTok-Unternehmen sind über die E-Mail-Adresse [dach@tiktok.com](mailto:dach@tiktok.com) und [verschiedene Online-Kontaktformulare](https://privacytiktok.zendesk.com/hc/en-us/requests/new "Online-Kontaktformulare") erreichbar. Den Datenschutzbeauftragten erreichen Sie ebenfalls über ein [Online-Formular](https://www.tiktok.com/legal/report/DPO "Datenschutzbeauftragten kontaktieren").
+
+Je nachdem, welche Aktionen wir über ein Profil ausführen und welche Funktionalitäten wir nutzen, werden unterschiedliche Daten von TikTok-Nutzern verarbeitet. Die Verantwortlichkeit für die Verarbeitung variiert dabei. Ein Teil erfolgt in gemeinsamer Verantwortlichkeit zwischen uns und den TikTok-Unternehmen. Wir haben aus diesem Grund einen [Vertrag nach Art. 26 DSGVO](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Vertrag nach Art. 26 DSGVO") geschlossen, in dem vor allem die Erfüllung von Betroffenenrechten geregelt wird. Dieser Vertrag ist Teil der „Jurisdiction Specific Terms“, die uns gegenüber einseitig vorgegeben werden. Andere Verarbeitungen erfolgen in eigener Verantwortlichkeit, sodass sowohl wir als auch die TikTok-Unternehmen die Einhaltung der geltenden Datenschutzvorgaben sicherstellen müssen. Bei der Nutzung mancher Funktionen handelt das soziale Netzwerk wiederum in unserem Auftrag und auf unsere Weisung hin. Bei diesen Konstellationen handelt es sich um eine sogenannte [Auftragsverarbeitung nach Art. 28 DSGVO](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Auftragsverarbeitung nach Art. 28 DSGVO"), die ebenfalls in den „Juristiction Specific Terms“ geregelt ist. Wann welches Unternehmen wie verantwortlich ist, ergibt sich aus der nachfolgenden Tabelle.
+
+| Zweck | Datenkategorien | Verantwortlichkeit |
+| --- | --- | --- |
+| Erhebung und Übermittlung von Entwicklerdaten und / oder Ereignisdaten durch (und an) TikTok | Entwicklerdaten und / oder Ereignisdaten | Gemeinsame Verantwortlichkeit |
+| Messung und Instight-Berichterstattung | Ereignisdaten | Gemeinsame Verantwortlichkeit |
+| Zielgruppenerstellung und Anzeigenausrichtung | Ereignisdaten | Getrennte Verantwortlichkeit |
+| Verbessern, Optimieren und Personalisieren von Anzeigen | Ereignisdaten | Getrennte Verantwortlichkeit |
+| Sicherheit, Schutz, Betrugsbekämpfung und Entwicklung | Entwicklerdaten und / oder Ereignisdaten | Getrennte Verantwortlichkeit |
+| Kontaktdetails Abgleich | Kontaktdaten | Auftragsverarbeitung |
+| Funktionalität des Entwicklerwerkeugs | Entwicklerdaten | Auftragsverarbeitung |
+| Benutzerdefinierte Zielgruppen (Kundendatei) Produkt | Kontaktdaten | Auftragsverarbeitung |
+| Lead Generation Produkt | Lead-Generierungsdaten (wie in den Lead-Generierungsbedingungen definiert) | Auftragsverarbeitung |
+
+Wir sind gemäß den [„Juristiction Specific Terms“](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Juristiction Specific Terms") dazu verpflichtet, Nutzer über das Vorliegen einer gemeinsamen Verantwortlichkeit mit den TikTok-Unternehmen sowie die wesentlichen Regelungen des Vertrags nach Art. 26 DSGVO zu informieren.
+
+**Nutzung von TikTok**
+
+Wir nutzen unsere Profile bei TikTok, um Informationen öffentlich zugänglich zu machen, Werbung zu platzieren und mit den Nutzern zu kommunizieren. Sie haben die Möglichkeit, über Direktnachrichten, die Like-Funktion oder Kommentare mit uns in Kontakt zu treten. Im Rahmen dieser Kontaktaufnahme wird dabei der Name angezeigt, der in Ihrem Profil als Benutzername hinterlegt ist. Sofern Sie ein Bild hinterlegt haben, ist auch dieses erkennbar.
+
+Die Zulässigkeit der beschriebenen Verarbeitung richtet sich nach unserem berechtigten Interesse (Art. 6 Abs. 1 f) DSGVO). Die Interaktion mit Nutzern ist für uns besonders wichtig, um Fragen zu beantworten, auf Kritik einzugehen und Informationen auszutauschen. Auch können wir unsere Inhalte auf eine Weise präsentieren, die von jüngeren Menschen geschätzt wird.
+
+Kommentare werden zeitlich unbegrenzt auf dem Kanal gespeichert und können von anderen Nutzern eingesehen werden. Das gleiche gilt für die Nutzung der Like-Funktion und Direktnachrichten. Sollten wir unser Profil löschen, werden auch die darüber generierten Inhalte gelöscht.
+
+Wenn Sie TikTok nutzen, werden diverse Daten durch das soziale Netzwerk verarbeitet. Dazu gehören unter anderem IP-Adresse, Standortdaten, Zeitzoneneinstellungen, Werbe-IDs, App- und Browser-Versionen sowie Geräteinformationen (System, Netzwerktyp, Geräte-ID, Bildschirmauflösung, Betriebssystem, Audioeinstellungen und angeschlossene Audiogeräte). Auch die von Ihnen aufgerufenen TikTok-Profile und Kanäle, Likes, Nachrichten und weitere Informationen zur Nutzung werden verarbeitet. Sofern Sie mit einem eigenen TikTok-Account angemeldet sind, werden diese Daten Ihrem Account zugeordnet. Weitere Informationen zur Verarbeitung Ihrer Daten finden Sie in der [Datenschutzerklärung von TikTok](https://www.tiktok.com/legal/page/eea/privacy-policy/de "Datenschutzerklärung von TikTok"). Die beschriebenen Verarbeitungen finden in alleiniger Verantwortung durch die TikTok-Unternehmen statt.
+
+**Insights-Daten**
+
+Die Erhebung und Übermittlung von Entwickler- und Ereignisdaten durch (und an) die TikTok-Unternehmen sowie die Messung und Insight-Berichterstattung finden in gemeinsamer Verantwortlichkeit statt. Die verarbeiteten [Insights-Daten](https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/understanding-your-analytics/ "Insights-Daten") geben Auskunft darüber, wie viele Nutzer zu welchem Zeitpunkt auf unseren Kanal oder die Beiträge zugegriffen haben. Die Daten werden uns in aggregierter Form als Statistiken bereitgestellt. Für uns besteht keine Möglichkeit, Sie über diese Statistiken persönlich zu identifizieren oder bestimmte Aktionen Ihrem Account zuzuordnen. Bitte beachten Sie, dass auch [Insights-Daten](https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/understanding-your-analytics/ "Insights-Daten") erhoben werden können, wenn Sie keinen eigenen TikTok-Account haben.
+
+Die Erhebung und Verwendung von [Insights-Daten](https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/understanding-your-analytics/ "Insights-Daten") ist aus unserer Perspektive zur Wahrung von Unternehmensinteressen erlaubt (Art. 6 Abs. 1 f) DSGVO). Anhand der anonymisierten Insights-Daten können wir die Inhalte unseres Kanals optimieren und so unseren Umsatz steigern.
+
+Wir speichern die aggregierten [Insights-Daten](https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/understanding-your-analytics/ "Insights-Daten") zeitlich unbegrenzt bzw. so lange, wie wir das jeweilige TikTok-Profil betreiben.
+
+**Datenschutzerklärung der TikTok-Unternehmen**
+
+Informationen über die Art und Weise, wie die TikTok-Unternehmen personenbezogene Daten verarbeiten (einschließlich der Rechtsgrundlage und der Möglichkeiten, Datenschutzrechte auszuüben), finden Sie in der [Datenschutzerklärung von TikTok](https://www.tiktok.com/legal/page/eea/privacy-policy/de "Datenschutzerklärung von TikTok").
+
+**Ausübung von Betroffenenrechten**
+
+Im Vertrag über gemeinsame Verantwortlichkeit wurde festgelegt, dass die TikTok-Unternehmen dafür verantwortlich sind, die Rechte von Betroffenen aus Art. 15-20 DSGVO in Bezug auf die vom sozialen Netzwerk nach der gemeinsamen Verarbeitung gespeicherten oder anderweitig verarbeiteten personenbezogenen Daten zu erfüllen. Wenn Sie ein Betroffenenrechte geltend machen möchten, nutzen Sie am besten das bereitgestellte [Online-Formular](https://privacytiktok.zendesk.com/hc/en-us/requests/new "Online-Formular von TikTok"). Sie können Ihre Betroffenenrechte auch uns gegenüber geltend machen. Wir leiten Ihre Anfrage dann weiter.
+
+**Datenweitergabe und Drittstaatenübermittlung**
+
+Die Datenverarbeitung findet auf Servern der TikTok-Unternehmen statt. Direktnachrichten werden von unseren Mitarbeitern gesehen und beantwortet. Alle sonstigen Aktionen sind öffentlich einsehbar.
+
+TikTok ist über das Internet auf der ganzen Welt abrufbar, sodass ein Zugriff auch aus Ländern ohne ausreichendes Datenschutzniveau möglich ist. Die Plattformbetreiber haben verschiedene Maßnahmen ergriffen, um ein ausreichendes Datenschutzniveau zu gewährleisten. Die in den [„Juristiction Specific Terms“](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms? "Juristiction Specific Terms") enthaltenen Standardvertragsklauseln regeln den internationalen Datentransfer und stellen sicher, dass die an der Datenverarbeitung beteiligten Unternehmen datenschutzkonform agieren.
+
+### X-Profile
+
+**Verantwortlichkeit**
+
+Der Kurznachrichtendienst X wird angeboten und betrieben von der Twitter International Unlimited Company, One Cumberland Place, Fenian Street Dublin 2, D02 AX07, Irland. Die datenschutzrechtliche Verantwortlichkeit liegt allein dort. Das Unternehmen gehört zur X Corporation, 1355 Market Street, Suite 900, San Francisco, CA 94103, USA.
+
+**Nutzung von X**
+
+Wir verwenden X und die darüber bereitgestellten Funktionen zum Teilen von Informationen und zur Kommunikation mit anderen Nutzerinnen und Nutzern. Dabei halten wir uns an die Nutzungsbedingungen, denen wir bei der Anlage unseres Profils zugestimmt haben.
+
+Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung. Informationen dazu finden Sie in der [Datenschutzerklärung von X](https://twitter.com/privacy?lang=de "Datenschutzerklärung von X"). Sie nutzen den Kurznachrichtendienst in eigener Verantwortung und müssen selbst entscheiden, ob Sie mit der Datenverarbeitung durch die Twitter International Unlimited Company einverstanden sind. Dies gilt insbesondere für die Nutzung der interaktiven Funktionen (z.B. Retweeten, Liken) und die Datenverarbeitung in Ländern außerhalb der EU und des EWR.
+
+**Datenschutzeinstellungen**
+
+Bei den allgemeinen Einstellungen Ihres Accounts sowie unter dem Punkt "Datenschutz und Sicherheit" haben Sie die Möglichkeit, die Verarbeitung Ihrer Daten einzuschränken. Darüber hinaus können Sie auf Ihrem Mobilgerät den Zugriff von X auf Kontakt- und Kalenderdaten, Fotos und Standortdaten beschränken (abhängig vom genutzten Betriebssystem). Weitere Informationen zu diesen Punkten finden Sie beim Plattformanbieter.
+
+### WhatsApp-Kanäle
+
+**Verantwortlichkeit**
+
+Der Messenger-Dienst WhatsApp wird angeboten und betrieben von der WhatsApp Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Irland. Die datenschutzrechtliche Verantwortlichkeit liegt allein dort. Das Unternehmen gehört zu [Meta Platforms, Inc.](https://www.facebook.com/help/111814505650678 "Meta Platforms, Inc."), 1601 Willow Road, 94025 Menlo Park, USA.
+
+**Nutzung von WhatsApp**
+
+Wir betreiben einen WhatsApp-Kanal, um Informationen bereitzustellen. Eine individuelle Kommunikation mit den Nutzerinnen und Nutzern findet dabei nicht statt. Wir können insbesondere weder die Telefonnummer noch den Profilnamen einsehen.
+
+Wir haben keinen Einfluss auf die stattfindende Datenverarbeitung bei der Nutzung von WhatsApp. Sie selbst entscheiden, ob Sie den Dienst in der angebotenen Form nutzen möchten. Bitte lesen Sie hierzu die [Datenschutzerklärung des Anbieters](https://www.whatsapp.com/legal/privacy-policy-eea "Datenschutzerklärung von WhatsApp").
+
+**Datenschutzeinstellungen**
+
+Sie haben die Möglichkeit, die Datenverarbeitung bei der Nutzung von WhatsApp anzupassen. Nutzen Sie dafür die [Datenschutzeinstellungen innerhalb der App](https://faq.whatsapp.com/3307102709559968/?locale=de_DE "Datenschutzeinstellungen innerhalb der App").
+
+### LinkedIn-Profile
+
+**LinkedIn-Account und Kommunikation mit Nutzern**
+
+Wir unterhalten verschiedene LinkedIn-Accounts, um uns mit Unternehmen und Personen zu vernetzen. Dort stellen wir uns vor, teilen Beiträge und interagieren mit anderen LinkedIn-Nutzern. Dabei können wir die auf Ihrem Profil veröffentlichten Inhalte sehen und zur Kommunikation mit Ihnen verwenden. Wir teilen und kommentieren z.B. Posts, verlinken LinkedIn-Nutzer oder nutzen die Nachrichten-Funktion.
+
+Die durch uns direkt stattfindende Datenverarbeitung erfolgt zur Wahrung unserer berechtigten Unternehmensinteressen (Art. 6 Abs. 1 f) DSGVO). Wir sind auf eine möglichst hohe Reichweite und daher auf berufsbezogene Netzwerke wie LinkedIn angewiesen. Die Kontaktaufnahme wird durch die ständige Interaktion mit den Nutzern und die verfügbaren Informationen in den Profilen erleichtert. Die Kommunikation mit uns bzw. die Interaktion mit unserem Profil ist freiwillig.
+
+Wenn Sie mehr über die Datenverarbeitung bei der Nutzung von LinkedIn erfahren möchten, lesen Sie bitte die [Datenschutzerklärung des Anbieters](https://www.linkedin.com/legal/privacy-policy "Datenschutzerklärung von LinkedIn") (LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland).
+
+**Seiten-Insights**
+
+Wenn Sie unser LinkedIn-Profil besuchen, der Seite folgen oder sich mit ihr beschäftigen, verarbeitet die LinkedIn Ireland Unlimited Company personenbezogene Daten, um uns in anonymisierter Form Statistiken und Einblicke zu gewähren. Damit erhalten wir Erkenntnisse über die Arten von Handlungen, die Personen auf unserer Seite vornehmen (sog. Seiten-Insights). Hierzu verarbeitet das soziale Netzwerk insbesondere solche Daten, die Sie in Ihrem Profil zur Verfügung gestellt haben (z.B. Funktion, Land, Branche, Dienstalter, Unternehmensgröße und Beschäftigungsstatus). Darüber hinaus werden Informationen darüber verarbeitet, wie Sie mit unserer LinkedIn-Unternehmensseite interagieren. Die Verarbeitung dient unserem berechtigten Interesse, die Arten von vorgenommenen Handlungen auf unserer LinkedIn-Unternehmensseite auszuwerten und unsere Unternehmensseite anhand dieser Erkenntnisse zu verbessern (Art. 6 Abs. 1 f) DSGVO).
+
+Mit den Seiten-Insights stellt die LinkedIn Ireland Unlimited Company uns keine personenbezogenen Daten von Ihnen zur Verfügung. Wir haben nur auf die zusammengefassten und anonymisierten Seiten-Insights Zugriff. Auch ist es uns nicht möglich, über Seiten-Insights Rückschlüsse zu einzelnen Mitgliedern zu ziehen. Die beschriebene Verarbeitung erfolgt durch die LinkedIn Ireland Unlimited Company und uns als gemeinsam Verantwortliche. Aus diesem Grund besteht eine [Vereinbarung zur gemeinsamen Verantwortlichkeit nach Art. 26 DSGVO](https://legal.linkedin.com/pages-joint-controller-addendum "Vereinbarung zur gemeinsamen Verantwortlichkeit nach Art. 26 DSGVO") mit dem Anbieter, in der folgendes festgelegt ist:
+
+Die LinkedIn Ireland Unlimited Company ist dafür verantwortlich, dass Sie Ihre Rechte aus der DSGVO ausüben können. Sie können das [Unternehmen online kontaktieren](https://www.linkedin.com/help/linkedin/ask/PPQ?lang=de) "LinkedIn online kontaktieren") oder über die [in der Datenschutzerklärung angegebenen Kontaktdaten](https://www.linkedin.com/legal/privacy-policy "Kontaktdaten von LinkedIn") erreichen. Den [Datenschutzbeauftragten](https://www.linkedin.com/help/linkedin/ask/TSO-DPO "Datenschutzbeauftragten von LinkedIn kontaktieren") können Sie über ein Online-Formular anschreiben. Sie können sich wegen der Ausübung Ihrer Rechte im Zusammenhang mit der Verarbeitung personenbezogener Daten im Rahmen der Seiten-Insights auch an uns wenden. Wir werden in einem solchen Fall Ihre Anfrage an das soziale Netzwerk weiterleiten.
+
+Die LinkedIn Ireland Unlimited Company und wir haben vereinbart, dass die irische Datenschutzkommission die federführende Aufsichtsbehörde für die Überwachung der Datenverarbeitung über die für Seiten-Insights ist. Sie haben stets das Recht, eine Beschwerde bei der irischen Datenschutzkommission (siehe unter [www.dataprotection.ie](http://www.dataprotection.ie/)) oder bei jeder anderen Aufsichtsbehörde einzureichen.
+
+**Empfänger von Daten**
+
+Wir verwenden LinkedIn lediglich als Plattform und richten uns nach den Nutzungsbedingungen des Anbieters. Wir selbst haben keine Auswirkung darauf, welche Daten beim Aufruf unseres Profils verarbeitet werden und wer Ihr Profil sehen kann. In dieser Hinsicht sind wir wie Sie nur ein Nutzer.
+
+Wir haben allerdings Mitarbeiter, die sich um die Betreuung unserer LinkedIn-Profile kümmern. Eingehende Nachrichten werden von ihnen eingesehen und bearbeitet. Je nachdem, wie Sie mit unsren Inhalten interagieren, können Ihr Profil sowie Ihre Veröffentlichungen von anderen Nutzern wahrgenommen werden.  
+Bei der Nutzung von LinkedIn findet ein Datentransfer in Drittländer außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums statt. [Nach den Angaben des Anbieters ist dieser durch Standardvertragsklauseln legitimiert](https://www.linkedin.com/help/linkedin/answer/62533 "Standardvertragsklauseln").
+
+**Speicherdauer**
+
+Wenn Sie einen Kommentar hinterlassen, wird dieser zeitlich unbegrenzt auf unserem Profil gespeichert (bis Sie ihn löschen). Das gleiche gilt für die Nutzung der Like-Funktion. Direktnachrichten an uns werden ebenfalls gespeichert, allerdings in einem regelmäßigen Turnus gelöscht.
 
 Kontakt
 
