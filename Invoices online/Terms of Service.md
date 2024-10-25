@@ -196,56 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=105453307)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=9468862)  
+ELLIE'S CLEANING CHICKS
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=48559682)  
-CHARLIEX CONSTRUCTIONS
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=194090759)  
+AMS Ambu Medical Supplies
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=107159710)  
-Druce Digital
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=167124173)  
+Norton Medical & Consult - Namibia
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=186270306)  
-National Elite Security Services (PTY) LTD
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=127655024)  
+webb it services
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=160993708)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=46209027)  
-OXYAIDER (PTY) LTD
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=14315544)  
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=19095803)  
-West Coast Horse Trails
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=47420202)  
-CBR Verwe/Paints
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=198577270)  
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=150082733)  
 Salvage Genie
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=128633102)  
-Vplay Grafix
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=18597195)  
+van Schaik rentals
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=111154077)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=36871677)  
+Mountain Lion Properties
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=120010842)  
-Qothiphango Mining
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=112842662)  
+Multi CNC Solutions CC
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=141164836)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=32219372)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=196028588)  
-SLOANE STAR MEAT MARKET
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=13683884)  
+Quad Biking Cape Town
+
+![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=21794229)  
+VA AND M BUSINESSES (PTY)LTD
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=134714897)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=25420418)  
+Depot Diesel (Pty) Ltd
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=121746155)  
+VIR Electrical (PTY) LTD
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=75082980)  
+Dombieterfontein (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
