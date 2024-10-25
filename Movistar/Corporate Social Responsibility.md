@@ -41,8 +41,6 @@ Ofertas para
 
 Ofertas Blue Weeks
 
-   Novedad   
-
 [](https://www.movistar.es/fibra-y-movil "Fibra, móvil y TV")
 
 miMovistar: Fibra, móvil y TV
@@ -134,6 +132,8 @@ Tiendas
 [](https://www.movistar.es/atencion-cliente/ayuda "Ayuda")
 
 Ayuda
+
+   Novedad   
 
 Titular de la cuenta
 
