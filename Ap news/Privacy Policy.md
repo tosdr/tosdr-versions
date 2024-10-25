@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strike on Gaza shelter kills 17 as Blinken says cease-fire talks will resume](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421)
-    * [Massive displacement from Israel-Hezbollah war transforms Beirut’s famed commercial street](https://apnews.com/article/lebanon-israel-hezbollah-displaced-hamra-beirut-582c617d6d3b8639c8c8ddec4a6916b7)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
+    * [An Israeli airstrike on a journalist compound kills 3 TV staffers, Lebanon's state news says](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
+    * [Gangs in Haiti open fire and hit a UN helicopter midair as violence surges](https://apnews.com/article/haiti-gang-violence-boat-ammunition-viv-ansamn-c6f18eca38ec60a727b8d33308d8e1ef)
+    * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
     
     Newsletters
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
-    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
+    * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [Erik and Lyle Menendez are a step closer to leaving prison, but freedom won't come quickly](https://apnews.com/article/california-menendez-brothers-erik-lyle-menendez-bafe4ca46b23751cfa7c4745e88f4edb)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump says if he takes office, he'll fire special counsel Jack Smith 'within 2 seconds'](https://apnews.com/article/trump-fire-special-counsel-jack-smith-b0d3d24286fbe0c461a901a33ec78d62)
-    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
-    * [The RNC is rebuilding its legal operation after Trump allies' failed effort to undo the 2020 race](https://apnews.com/article/trump-rnc-jan-6-legal-team-lawsuits-13d24822cc4899e5934a07661fe649e3)
+    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [WNBA outlook is promising after record-setting year, although the league has a few challenges ahead](https://apnews.com/article/wnba-cba-caitlin-clark-eabe7a584a95de91df017a1123988ae6)
-    * [Maria Sharapova and the Bryan brothers are elected to the International Tennis Hall of Fame](https://apnews.com/article/sharapova-bryan-brothers-hall-of-fame-4f3a9103998e1ce4f61c10b2bb5d131e)
-    * [NBA opens investigation into Joel Embiid's playing status after 76ers star misses season opener](https://apnews.com/article/joel-embiid-nba-injury-70ff33f6eec6e3b9aa13684add8e7149)
+    * [The Dodgers and Yankees are ready for the starriest World Series in decades](https://apnews.com/article/world-series-yankees-dogers-preview-566d47e09d6a6d946f995f568d806a5f)
+    * [With Kupp and Nacua back from injury, Stafford throws 4 TD passes in Rams' 30-20 win over Vikings](https://apnews.com/article/rams-vikings-score-3e2742010ed091e824a81a0a8ee2fb3e)
+    * [Darnold, O'Connell not blaming missed face mask call as reason why Vikings lost to Rams](https://apnews.com/article/vikings-rams-darnold-facemask-51e7dcc506570640a61deb7cb91a0e81)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
-    * [Music Review: Muna frontwoman Katie Gavin makes her solo debut with folky, evocative 'What A Relief'](https://apnews.com/article/katie-gavin-muna-what-relief-review-f3c8a64787ff00a13320bfbfd719caca)
     * [A playwright in Africa hopes to break the cultural silence on rape](https://apnews.com/article/theater-culture-mali-rape-sexual-assault-836bb0cc9ea0c9f6dd54b42c1c994226)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Argentine police raid the Buenos Aires hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
     
 * [Business](https://apnews.com/business)
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
+    * [Asian stocks are mostly higher, while Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
     * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
-    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     
 * [Science](https://apnews.com/science)
     
@@ -157,11 +157,11 @@ Menu
     
     TOP STORIES
     
+    * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
     * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
-    * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [German police say pizza order No. 40 came with a side of cocaine](https://apnews.com/article/germany-pizza-delivery-cocaine-7e29b0e1921310cc7dc7a5e592a3ec16)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -219,12 +219,12 @@ Menu
     
     TOP STORIES
     
+    * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
     * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
     * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
-    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -242,12 +242,12 @@ Menu
     
     TOP STORIES
     
+    * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
-    * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
-    * [The EPA imposes stricter standards to protect children from exposure to lead paint](https://apnews.com/article/lead-paint-poisoning-children-health-epa-12805d2eb5f15bd3987835fcce2650da)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -259,7 +259,7 @@ Menu
     
     * [One Tech Tip: How to prepare your online accounts for when you die](https://apnews.com/article/apple-google-instagram-facebook-tiktok-03f23c18e54e2d81edc66c3adf6e3838)
     * [New rules for US national security agencies balance AI's promise with need to protect against risks](https://apnews.com/article/artificial-intelligence-national-security-spy-agencies-abuses-a542119faf6c9f5e77c2e554463bff5a)
-    * [Nigeria releases American crypto executive after dropping money laundering case](https://apnews.com/article/nigeria-cryptocurrency-binance-da2f52ba457492e6a9c7733f646f5b2e)
+    * [AI-powered weapons scanners used in NYC subway found zero guns in one month test](https://apnews.com/article/subway-gun-scanners-ai-evolv-cdabf48e727d06c21a53e42a2a7a0249)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     * [For a Diwali treat with an American twist, a new cookbook serves up cardamom-spiced carrot blondies](https://apnews.com/article/diwali-dessert-recipe-cardamom-blondies-fe53549ed287c6ebf8f23a152e52ac1d)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
-    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Forced assimilation and abuse: How US boarding schools devastated Native American tribes](https://apnews.com/article/indian-boarding-schools-biden-apology-3e5376d10406e21c25eee35fc6be7510)
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
     * [The Czech Republic becomes one of last EU countries to sign a treaty with the Vatican](https://apnews.com/article/czechia-vatican-treaty-c9b1c49238fd0c41e752dee047850f0e)
-    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Ataque israelí mata a 17 personas en escuela convertida en refugio en Gaza](https://apnews.com/article/gaza-israel-libano-hamas-hezbollah-guerra-db9d789750d4afa116b8553fca137074)
+    * [Ataque israelí a complejo con reporteros en Líbano mata a 3 empleados de televisión, según agencia](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
+    * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
+    * [Tres policías heridos por el estallido de un coche-bomba en el centro-oeste de México](https://apnews.com/article/mexico-bomba-acambaro-guanajuato-ca4d816a24fabf17b31c8caf2eddf223)
+    * [Ecuador aumenta el racionamiento de energía con cortes diarios de 14 horas en plena crisis](https://apnews.com/article/ecuador-energia-cortes-gobierno-crisis-1141cef373614240232733ff0dca6ffb)
     * [Putin concluye cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
-    * [EEUU anuncia nuevas normas para uso de inteligencia artificial por parte de agencias gubernamentales](https://apnews.com/article/eeuu-seguridad-nacional-inteligencia-artificial-b649520059786af9799ce845668624c3)
-    * [Presidente del Congo anuncia planes para una nueva Constitución](https://apnews.com/article/congo-presidente-constitucion-1541932069ae6cd8d6b5e755b27d4faa)
-    * [Descarrilamiento de tren en norte de Noruega deja 1 muerto y 4 heridos](https://apnews.com/article/noruega-tren-descarrilamiento-2b508db564fc896743f158b6a63dc657)
-    * [En Colombia, la sequía extrema del río Amazonas castiga a las comunidades indígenas](https://apnews.com/article/colombia-clima-sequia-54a772edf9c60330ccb0889fb78571d2)
+    * [¿Qué es el fascismo? ¿Y por qué Harris dice que Trump es un fascista?](https://apnews.com/article/eeuu-elecciones-fascismo-harris-trump-15549fd28cf5319eeee090a99ae262a0)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strike on Gaza shelter kills 17 as Blinken says cease-fire talks will resume](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421)
-    * [Massive displacement from Israel-Hezbollah war transforms Beirut’s famed commercial street](https://apnews.com/article/lebanon-israel-hezbollah-displaced-hamra-beirut-582c617d6d3b8639c8c8ddec4a6916b7)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
+    * [An Israeli airstrike on a journalist compound kills 3 TV staffers, Lebanon's state news says](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
+    * [Gangs in Haiti open fire and hit a UN helicopter midair as violence surges](https://apnews.com/article/haiti-gang-violence-boat-ammunition-viv-ansamn-c6f18eca38ec60a727b8d33308d8e1ef)
+    * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
     
     Newsletters
     
@@ -479,8 +479,8 @@ Submit Search
     TOP STORIES
     
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
-    * [Russia amplified hurricane disinformation to drive Americans apart, researchers find](https://apnews.com/article/russia-hurricane-disinformation-fema-9e37c73ab8ffa2a2d338797a1a827e57)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
+    * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [Erik and Lyle Menendez are a step closer to leaving prison, but freedom won't come quickly](https://apnews.com/article/california-menendez-brothers-erik-lyle-menendez-bafe4ca46b23751cfa7c4745e88f4edb)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump says if he takes office, he'll fire special counsel Jack Smith 'within 2 seconds'](https://apnews.com/article/trump-fire-special-counsel-jack-smith-b0d3d24286fbe0c461a901a33ec78d62)
-    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
-    * [The RNC is rebuilding its legal operation after Trump allies' failed effort to undo the 2020 race](https://apnews.com/article/trump-rnc-jan-6-legal-team-lawsuits-13d24822cc4899e5934a07661fe649e3)
+    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [WNBA outlook is promising after record-setting year, although the league has a few challenges ahead](https://apnews.com/article/wnba-cba-caitlin-clark-eabe7a584a95de91df017a1123988ae6)
-    * [Maria Sharapova and the Bryan brothers are elected to the International Tennis Hall of Fame](https://apnews.com/article/sharapova-bryan-brothers-hall-of-fame-4f3a9103998e1ce4f61c10b2bb5d131e)
-    * [NBA opens investigation into Joel Embiid's playing status after 76ers star misses season opener](https://apnews.com/article/joel-embiid-nba-injury-70ff33f6eec6e3b9aa13684add8e7149)
+    * [The Dodgers and Yankees are ready for the starriest World Series in decades](https://apnews.com/article/world-series-yankees-dogers-preview-566d47e09d6a6d946f995f568d806a5f)
+    * [With Kupp and Nacua back from injury, Stafford throws 4 TD passes in Rams' 30-20 win over Vikings](https://apnews.com/article/rams-vikings-score-3e2742010ed091e824a81a0a8ee2fb3e)
+    * [Darnold, O'Connell not blaming missed face mask call as reason why Vikings lost to Rams](https://apnews.com/article/vikings-rams-darnold-facemask-51e7dcc506570640a61deb7cb91a0e81)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
-    * [Music Review: Muna frontwoman Katie Gavin makes her solo debut with folky, evocative 'What A Relief'](https://apnews.com/article/katie-gavin-muna-what-relief-review-f3c8a64787ff00a13320bfbfd719caca)
     * [A playwright in Africa hopes to break the cultural silence on rape](https://apnews.com/article/theater-culture-mali-rape-sexual-assault-836bb0cc9ea0c9f6dd54b42c1c994226)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Argentine police raid the Buenos Aires hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
     
 * [Business](https://apnews.com/business)
     
@@ -609,8 +609,8 @@ Submit Search
     TOP STORIES
     
     * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
+    * [Asian stocks are mostly higher, while Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
     * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
-    * [By moving to podcasts, Harris and Trump are turning away from legacy media to spread their messages](https://apnews.com/article/trump-harris-media-podcasts-a5a0870943177ea9320389748fe2fa5c)
     
 * [Science](https://apnews.com/science)
     
@@ -645,11 +645,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
     * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Conkers controversy: World tournament investigates claims of cheating with steel chestnut](https://apnews.com/article/uk-world-conkers-championships-cheating-b8619745c3ffcd0b00d3e347bfb986eb)
     * [After 67 days adrift, a Russian man was rescued but his brother and nephew are dead](https://apnews.com/article/russia-boat-adrift-rescue-sea-okhotsk-kamchatka-71722cac69b3f5bddb2e9d17cb9ff965)
-    * [Snake slithers through Dodgers dugout during NLCS loss to Mets](https://apnews.com/article/mlb-playoffs-dodgers-snake-mets-cab6a3ad5f89c9c8a1124cd31fff1169)
     * [German police say pizza order No. 40 came with a side of cocaine](https://apnews.com/article/germany-pizza-delivery-cocaine-7e29b0e1921310cc7dc7a5e592a3ec16)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -711,12 +711,12 @@ Submit Search
     
     TOP STORIES
     
+    * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
     * [Right-wing influencers hyped anti-Ukraine videos made by a TV producer also funded by Russian media](https://apnews.com/article/social-media-influencers-ben-swann-russia-trump-jr-ukraine-zelenskyy-9d4281756246b94eda05c478f3dac203)
     * [Tech firms remove social media accounts of a Russian drone factory after an AP investigation](https://apnews.com/article/alabuga-russia-africa-ukraine-war-shahed-drones-bc175c4c98d752dc298c23434637417e)
     * [His country trained him to fight. Then he turned against it. More like him are doing the same](https://apnews.com/article/military-extremism-pentagon-veterans-terrorism-capitol-riot-jan-6-0c1fdd7b6b761e9c9e8556a9b9e45dc9)
     * [A South Korean adoptee needed answers about the past. She got them — just not the ones she wanted](https://apnews.com/article/south-korea-adoption-fraud-identification-c1a432ae1c0c3557b27004215c8ef3b2)
     * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
-    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     
 * [Climate](https://apnews.com/climate-and-environment)
     
@@ -739,12 +739,12 @@ Submit Search
     
     TOP STORIES
     
+    * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
-    * [UK regulator approves second Alzheimer's drug in months but government won't pay for it](https://apnews.com/article/britain-alzheimers-drug-kisunla-b537bf5969d7de77a14023842e31ffc4)
-    * [The EPA imposes stricter standards to protect children from exposure to lead paint](https://apnews.com/article/lead-paint-poisoning-children-health-epa-12805d2eb5f15bd3987835fcce2650da)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -759,7 +759,7 @@ Submit Search
     
     * [One Tech Tip: How to prepare your online accounts for when you die](https://apnews.com/article/apple-google-instagram-facebook-tiktok-03f23c18e54e2d81edc66c3adf6e3838)
     * [New rules for US national security agencies balance AI's promise with need to protect against risks](https://apnews.com/article/artificial-intelligence-national-security-spy-agencies-abuses-a542119faf6c9f5e77c2e554463bff5a)
-    * [Nigeria releases American crypto executive after dropping money laundering case](https://apnews.com/article/nigeria-cryptocurrency-binance-da2f52ba457492e6a9c7733f646f5b2e)
+    * [AI-powered weapons scanners used in NYC subway found zero guns in one month test](https://apnews.com/article/subway-gun-scanners-ai-evolv-cdabf48e727d06c21a53e42a2a7a0249)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     * [For a Diwali treat with an American twist, a new cookbook serves up cardamom-spiced carrot blondies](https://apnews.com/article/diwali-dessert-recipe-cardamom-blondies-fe53549ed287c6ebf8f23a152e52ac1d)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
-    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Forced assimilation and abuse: How US boarding schools devastated Native American tribes](https://apnews.com/article/indian-boarding-schools-biden-apology-3e5376d10406e21c25eee35fc6be7510)
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
     * [The Czech Republic becomes one of last EU countries to sign a treaty with the Vatican](https://apnews.com/article/czechia-vatican-treaty-c9b1c49238fd0c41e752dee047850f0e)
-    * [French culture minister proposes entrance fee for Notre Dame to help fund preservation work](https://apnews.com/article/france-notre-dame-entrance-fee-preservation-culture-minister-1370f5018328303c7ea49b0e86ca4504)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Ataque israelí mata a 17 personas en escuela convertida en refugio en Gaza](https://apnews.com/article/gaza-israel-libano-hamas-hezbollah-guerra-db9d789750d4afa116b8553fca137074)
+    * [Ataque israelí a complejo con reporteros en Líbano mata a 3 empleados de televisión, según agencia](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
+    * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
+    * [Tres policías heridos por el estallido de un coche-bomba en el centro-oeste de México](https://apnews.com/article/mexico-bomba-acambaro-guanajuato-ca4d816a24fabf17b31c8caf2eddf223)
+    * [Ecuador aumenta el racionamiento de energía con cortes diarios de 14 horas en plena crisis](https://apnews.com/article/ecuador-energia-cortes-gobierno-crisis-1141cef373614240232733ff0dca6ffb)
     * [Putin concluye cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
-    * [EEUU anuncia nuevas normas para uso de inteligencia artificial por parte de agencias gubernamentales](https://apnews.com/article/eeuu-seguridad-nacional-inteligencia-artificial-b649520059786af9799ce845668624c3)
-    * [Presidente del Congo anuncia planes para una nueva Constitución](https://apnews.com/article/congo-presidente-constitucion-1541932069ae6cd8d6b5e755b27d4faa)
-    * [Descarrilamiento de tren en norte de Noruega deja 1 muerto y 4 heridos](https://apnews.com/article/noruega-tren-descarrilamiento-2b508db564fc896743f158b6a63dc657)
-    * [En Colombia, la sequía extrema del río Amazonas castiga a las comunidades indígenas](https://apnews.com/article/colombia-clima-sequia-54a772edf9c60330ccb0889fb78571d2)
+    * [¿Qué es el fascismo? ¿Y por qué Harris dice que Trump es un fascista?](https://apnews.com/article/eeuu-elecciones-fascismo-harris-trump-15549fd28cf5319eeee090a99ae262a0)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
