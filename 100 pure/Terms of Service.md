@@ -670,7 +670,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Philanthropy](https://www.100percentpure.com/pages/philanthropy)
     * [Sustainability](https://www.100percentpure.com/pages/sustainability-efforts)
     * [Press](https://www.100percentpure.com/pages/press)
-    * [Find a Store](https://www.100percentpure.com/pages/store-locations)
+    * [Find a Store](https://www.100percentpure.com/pages/store-location)
     
     #### [LEARN](#)
     
@@ -739,7 +739,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
 * [Philanthropy](https://www.100percentpure.com/pages/philanthropy)
 * [Sustainability](https://www.100percentpure.com/pages/sustainability-efforts)
 * [Press](https://www.100percentpure.com/pages/press)
-* [Find a Store](https://www.100percentpure.com/pages/store-locations)
+* [Find a Store](https://www.100percentpure.com/pages/store-location)
 * [LEARN](#)
 * [Blogs](https://www.100percentpure.com/blogs/feed#cover)
 * [Ingredient Glossary](https://www.100percentpure.com/pages/ingredient-glossary)
@@ -833,7 +833,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     
 * [Press](https://www.100percentpure.com/pages/press)
     
-* [Find a Store](https://www.100percentpure.com/pages/store-locations)
+* [Find a Store](https://www.100percentpure.com/pages/store-location)
     
 * [LEARN](#)
     
@@ -1150,14 +1150,14 @@ currency CHF Swiss franc (CHF)
 * [Our Mission](https://www.100percentpure.com/pages/about-us)
 * [Philanthropy](https://www.100percentpure.com/pages/philanthropy)
 * [Press](https://www.100percentpure.com/pages/press)
-* [Store Locations](https://www.100percentpure.com/pages/store-locations)
+* [Store Locations](https://www.100percentpure.com/pages/store-location)
 * [Wholesale US](https://wus.100percentpure.com/account/login?checkout_url=/)
 * [Wholesale CA](https://wca.100percentpure.com/account/login?checkout_url=/)
 
 * [Our Mission](https://www.100percentpure.com/pages/about-us)
 * [Philanthropy](https://www.100percentpure.com/pages/philanthropy)
 * [Press](https://www.100percentpure.com/pages/press)
-* [Store Locations](https://www.100percentpure.com/pages/store-locations)
+* [Store Locations](https://www.100percentpure.com/pages/store-location)
 * [Wholesale US](https://wus.100percentpure.com/account/login?checkout_url=/)
 * [Wholesale CA](https://wca.100percentpure.com/account/login?checkout_url=/)
 * [Accessibility](#)
