@@ -1,6 +1,8 @@
 [![Clickcease](https://monitor.clickcease.com/stats/stats.aspx)](https://www.clickcease.com/)
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -68,7 +70,9 @@ a
 
 [REQUEST A DEMO](http://about/)
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -255,7 +259,9 @@ The Company is not liable for any damages that may occur to You as a result of Y
 * **FORCE MAJEURE:** The Company is not liable for any failure to perform due to causes beyond its reasonable control including, but not limited to, acts of God, acts of civil authorities, acts of military authorities, riots, embargoes, acts of nature and natural disasters, and other acts which may be due to unforeseen circumstances.
 * **ELECTRONIC COMMUNICATIONS PERMITTED:** Electronic communications are permitted to both Parties under this Agreement, including e-mail or fax. For any questions or concerns, [please email Us at the following address: info@zeroeyes.com.](mailto:info@zeroeyes.com)
 
-[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
+
+![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 solutions for...
 ----------------
