@@ -72,7 +72,7 @@ If you think that the way we process your personal data with Google Analytics or
 
 [Climate](https://climate.stripe.com/g3LlrV)
 
-[Blog](https://www.seatingplan.com/blog)
+[Blog](https://blog.seatingplan.com/)
 
 [BRaiN Glue](https://brainglue.app/)
 
