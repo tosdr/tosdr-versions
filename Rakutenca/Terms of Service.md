@@ -257,7 +257,7 @@ FR
         
         [Aveda
         
-        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
+        10% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 10% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
@@ -317,7 +317,7 @@ FR
         
         [Michael Kors
         
-        6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
