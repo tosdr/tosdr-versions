@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Box using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-box-using-backup4all-kb.html)  
+* [How to create an automated backup](https://www.backup4all.com/how-to-create-an-automated-backup-kb.html)  
     
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [Troubleshooting installation errors](https://www.backup4all.com/troubleshooting-installation-errors-kb.html)  
     
-* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
+* [How to back up data files from Verizon using ...](https://www.backup4all.com/how-to-back-up-data-files-from-verizon-using-backup4all-kb.html)  
     
-* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
+* [How to clear the backup](https://www.backup4all.com/how-to-clear-the-backup-kb.html)  
     
-* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
 
 Choose language:
