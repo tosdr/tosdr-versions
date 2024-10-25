@@ -122,8 +122,6 @@ Shop
 
 [* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
 
-[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "New HP All-In Plan")
-
 [* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Business Technology Advisors")
 
 [* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery "#MyHP")
@@ -168,7 +166,7 @@ Shop
 
 [* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers "Large format plotter printers")
 
-[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "New HP All-In Plan")
+[* HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "HP All-In Plan")
 
 [* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink "Instant Ink")
 
@@ -301,7 +299,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
 
 * Shop PCs
 
@@ -309,7 +307,7 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Shop Print
 
-[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
+[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
 
 * Shop Accessories
 
