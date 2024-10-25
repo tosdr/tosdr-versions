@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/B-Testing-Statistics-for-Effective-Decision-Making-1.jpg?tr=w-60,h-50)
+    
+    Essential A/B Testing Statistics for Effective Decision-making](https://vwo.com/blog/ab-testing-statistics/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-35-Essential-Customer-Experience-Stats-You-Need-to-Know.jpg?tr=w-60,h-50)
     
     35 Essential Customer Experience Statisitics You Need to Know](https://vwo.com/blog/customer-experience-statistics/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
     
     Leveraging Session Recordings: A Game-Changer for Conversion Rate Optimization](https://vwo.com/blog/session-recordings-for-conversion-rate-optimization/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-CRO-Perspectives-Chester-Ong.jpg?tr=w-60,h-50)
-    
-    Balancing UX and CRO Necessary for Product Improvement & Impactful Results](https://vwo.com/blog/balancing-ux-cro/)
     
     Featured Blogs
     
