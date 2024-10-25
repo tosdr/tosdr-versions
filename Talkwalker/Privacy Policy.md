@@ -538,13 +538,6 @@ Footer
 * [Become an Affiliate](https://www.talkwalker.com/affiliate-program)
 * [Become a Partner](https://www.talkwalker.com/partners)
 
-### Support
-
-* [Need help?](https://www.talkwalker.com/help)
-* [Product updates](https://www.talkwalker.com/whats-new)
-* [Contact sales](https://www.talkwalker.com/about/contact-us)
-* [FAQ](https://www.talkwalker.com/faq)
-
 Language selectorEnglish
 
 * English
