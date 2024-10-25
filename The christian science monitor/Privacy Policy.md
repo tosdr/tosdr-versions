@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### How a Sudanese refugee in Uganda is keeping his homeland alive through food](https://www.csmonitor.com/World/Africa/2024/1025/sudan-war-uganda-refugees-food "How a Sudanese refugee in Uganda is keeping his homeland alive through food")
+
 [Dignity
 
 ### A tribute to Venezuela’s free thinkers](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1024/A-tribute-to-Venezuela-s-free-thinkers "A tribute to Venezuela’s free thinkers")
@@ -99,10 +103,6 @@ Recent Stories
 [Peace
 
 ### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
-
-[Integrity
-
-### Mozambique’s turn toward integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1023/Mozambique-s-turn-toward-integrity "Mozambique’s turn toward integrity")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### At BRICS summit, Russia tries to build a world without the US](https://www.csmonitor.com/World/Europe/2024/1024/brics-russia-vladimir-putin-ukraine-war-us-dollar "At BRICS summit, Russia tries to build a world without the US")
+[### With Senate hopes dwindling, Democrats look, once again, to Texas](https://www.csmonitor.com/USA/Society/2024/1025/senate-texas-cruz-allred-trump-harris "With Senate hopes dwindling, Democrats look, once again, to Texas")
 
-[### Netanyahu has high hopes of Trump. Might he be mistaken?](https://www.csmonitor.com/World/Middle-East/2024/1024/trump-harris-israel-netanyahu-peace "Netanyahu has high hopes of Trump. Might he be mistaken?")
+[### How a Sudanese refugee in Uganda is keeping his homeland alive through food](https://www.csmonitor.com/World/Africa/2024/1025/sudan-war-uganda-refugees-food "How a Sudanese refugee in Uganda is keeping his homeland alive through food")
 
-[### A terrorist attack in Turkey drew global condemnation. Then, Turkey struck back.](https://www.csmonitor.com/World/Middle-East/2024/1024/Turkey-PKK-Iraq-Syria-strikes-terrorist "A terrorist attack in Turkey drew global condemnation. Then, Turkey struck back.")
+[### She fled war in Sudan. Now she grapples with returning.](https://www.csmonitor.com/World/Africa/2024/1025/refugees-sudan-civil-war-displacement-crisis "She fled war in Sudan. Now she grapples with returning.")
 
 * * *
 
