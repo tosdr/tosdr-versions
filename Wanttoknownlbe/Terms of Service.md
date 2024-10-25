@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/wie-zijn-de-meesters-achter-het-gordijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/hoger-bewustzijn-hoe-komen-we-daar/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
