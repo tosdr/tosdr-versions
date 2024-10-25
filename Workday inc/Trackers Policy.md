@@ -470,7 +470,7 @@ If you have questions about our use of Cookies or other technologies, please con
 
 [](https://www.workday.com/)
 
-1. [](https://twitter.com/Workday "Go to Twitter")
+1. [](https://x.com/workday "Go to X")
 2. [](https://www.linkedin.com/company/workday "Go to LinkedIn")
 3. [](https://www.facebook.com/workday "Go to Facebook")
 4. [](https://www.instagram.com/workday "Go to Instagram")
