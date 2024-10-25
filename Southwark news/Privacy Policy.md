@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+    
+    ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+    
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
@@ -51,10 +55,6 @@
     [![The boarded up pub today (photo: Joel Taylor)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-11.21-e1729592630699-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
     
     ### [Why has this pub in Dulwich been vacant for twelve years?](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
-    
-    [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
-    
-    ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+    
+    ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+    
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
@@ -136,10 +140,6 @@ View All Result
     [![The boarded up pub today (photo: Joel Taylor)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-22-10-2024-at-11.21-e1729592630699-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
     
     ### [Why has this pub in Dulwich been vacant for twelve years?](https://southwarknews.co.uk/news/news-plus/why-has-this-pub-in-dulwich-been-vacant-for-twelve-years/)
-    
-    [![A balaclava-wearing youth cycling through Canada Water](https://southwarknews.co.uk/wp-content/uploads/2024/10/E22A8332-C1E9-40B9-9B98-06089BF5FDB5-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
-    
-    ### [‘This area is seen as rich pickings now’: are wealthy newcomers’ valuables behind Rotherhithe’s phone-snatching epidemic?](https://southwarknews.co.uk/news/news-plus/this-area-is-seen-as-rich-pickings-now-are-wealthy-newcomers-valuables-behind-rotherhithes-phone-snatching-epidemic/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
 ### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
@@ -412,12 +418,6 @@ Website
 ### [Firefighters tackle Walworth maisonette fire](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
 
 [23rd October 2024](https://southwarknews.co.uk/area/walworth/firefighters-tackle-walworth-maisonette-fire/)
-
-[![(middle) Jude Allen with his mum and Prince Harry.](https://southwarknews.co.uk/wp-content/uploads/2024/10/37ECD570-9016-42D1-8FA7-147DFAFD2265-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-
-### [Brave 14-year-old meets Prince Harry after winning award for organ donation campaign](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
-
-[22nd October 2024](https://southwarknews.co.uk/area/camberwell/brave-14-year-old-meets-prince-harry-after-winning-award-for-organ-donation-campaign/)
 
 ### USEFUL PAGES
 
