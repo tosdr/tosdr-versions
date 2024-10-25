@@ -1,6 +1,6 @@
 5.39.0
 
-1729844809117
+1729867387534
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1729845591009
+1729867728876
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1729845668932
+1729867728960
 
 You need to enable JavaScript to run this app.
 
@@ -549,6 +549,60 @@ The use of a Nextpay card (formally known as Directory Card) or the Nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Love & Roses Winter Coat November 2024 Competition
+
+The Promoter: Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
+
+Love & Roses | Bank Holiday Competition In Collaboration with Auree Jewellery
+
+To enter today’s competition:
+
+1\. Follow @loveandroses on Instagram
+
+2\. Like this post
+
+3\. Tag a friend in the comment section and your favourite winter emoji ❄️
+
+4\. Share to your stories for an extra entry
+
+Please Note: Only the @loveandroses account will contact you if you are successful. Any other account claiming to contact you on behalf of Love & Roses (Lipsy Ltd) is not legitimate.
+
+This giveaway opens on Saturday 26th October at 11:00am and closes on Saturday 2nd November 2024 at 17:00pm. UK or US residents 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
+
+7. Eligibility: This Promotion is open to UK residents, aged 18 or over, excluding:
+a. employees of Love & Roses (Lipsy Ltd) or its holding or subsidiary companies; b. employees or agents or suppliers of Love & Roses (Lipsy Ltd) or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or c. members of the immediate families or households of a) and b) above.8. No purchase necessary. Multiple entries are permitted.
+9. Start date/Time: Saturday 26th October at 11:00am
+10. Closing date/Time: Time: Saturday 2nd November 2024 at 17:00pm
+11. To enter, must do the following on the official @loveandroses Instagram account between 18:00pm on the start date and 18:00pm on the closing date as well as the below:
+A. Follow @loveandroses on Instagram
+
+B. Like the post
+
+C. Tag a friend in the comment section and your favourite winter emoji ❄️
+
+D. Share to your stories for an extra entry15. Entries made after 17:00pm on Saturday 2nd November, will not be counted.
+16. One winner will be selected at random by @loveandroses on Tuesday 5th November after 9:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day.
+17. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Love & Roses (Lipsy Ltd) reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses (Lipsy Ltd) does not accept any responsibility if you are not able to claim the prize.
+18. In the event of unforeseen circumstances Love & Roses (Lipsy Ltd) reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
+19. The prize is as follows:
+
+• 2 x £100 Next Voucher
+
+21. The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
+22. This prizes will be sent to the winner within 6 months of the competition ending and the exact date will be advised by the Love & Roses (Lipsy Ltd) marketing team to the winner upon winning.
+23. Love & Roses (Lipsy Ltd) will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
+24. The winner must be a UK resident and currently residing in the UK.
+25. Love & Roses (Lipsy Ltd) decision is final and no correspondence will be entered into.
+26. Love & Roses (Lipsy Ltd) reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
+27. By entering the competition you agree to being contacted for competition and marketing purposes by email, mail or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
+28. The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulations competition social media post.
+29. If you object to any or all of your details being published or made available, please contact Love & Roses (Lipsy Ltd) at marketing@lipsy.co.uk.
+30. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Love & Roses (Lipsy Ltd). Accordingly, Love & Roses (Lipsy Ltd) may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Love & Roses (Lipsy Ltd) as a result thereof.
+31. To the fullest extent permitted by law, Love & Roses (Lipsy Ltd) excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses (Lipsy Ltd), its agents or distributors or that of their employees. Your statutory rights are not affected.
+32. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
+
+Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
 
 ### Clinique Promotion
 
@@ -1150,60 +1204,6 @@ C. Tag one person in the comment section
 29. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Friends Like These. Accordingly, Friends Like These) may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Friends Like These) as a result thereof.
 30. To the fullest extent permitted by law, Friends Like These excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Friends Like These its agents or distributors or that of their employees. Your statutory rights are not affected./li>
 31. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
-
-Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
-
-### Love & Roses | Bank Holiday Competition In Collaboration with Auree Jewellery
-
-The Promoter: Lipsy Limited (registered at Company no. 05728110), 200 – 208 Tottenham Court Road, London, W1T 7PL
-
-Love & Roses | Bank Holiday Competition In Collaboration with Auree Jewellery
-
-To enter today’s competition:
-
-1\. Follow @loveandroses and @aureejewellery
-
-2\. Like this post
-
-3\. Tag a friend in the comments
-
-Please Note: Only the @loveandroses account will contact you if you are successful. Any other account claiming to contact you on behalf of Love & Roses (Lipsy Ltd) is not legitimate.
-
-This giveaway opens on Saturday 24th August 2024 and closes on Tuesday 27th August 2024 at 18:00pm. UK 18+ only. We will only notify the winner here on Instagram, via our official account @loveandroses. This giveaway is in no way endorsed, affiliated with, administered, or sponsored by Instagram.
-
-6. Eligibility: This Promotion is open to UK residents, aged 18 or over, excluding:
-a. employees of Love & Roses (Lipsy Ltd) or its holding or subsidiary companies; b. employees or agents or suppliers of Love & Roses (Lipsy Ltd) or its holding or subsidiary companies, who are professionally connected with the competition or its administration; or c. members of the immediate families or households of a) and b) above.7. No purchase necessary. Multiple entries are permitted.
-8. Start date/Time: \[Saturday 24th August 2024 at 11:00am\]
-9. Closing date/Time: \[Tuesday 27th August 2024 at 11:00am\]
-10. To enter, must do the following on the official @loveandroses Instagram account between 18:00pm on the start date and 18:00pm on the closing date as well as the below:
-A. Follow @loveandroses and @aureejewellery
-
-B. Like the post
-
-C. Tag a friend in the comments
-
-14. Entries made after 11:00am on Tuesday 27th August 2024, will not be counted.
-15. One winner will be selected at random by @loveandroses on Wednesday 28th August 2024 at 10:00am and contacted directly by @loveandroses Limited via Instagram direct mail before midnight that day. The winner must accept @loveandroses follow request if they have a private profile.
-16. The winner must confirm whether they wish to claim the prize within 3 days of receiving a notification. If the winner fails to do so, the winner shall forfeit the prize and Love & Roses (Lipsy Ltd) reserves the right to award the prize to a reserve winner selected at the same time as the original winner. Love & Roses (Lipsy Ltd) does not accept any responsibility if you are not able to claim the prize.
-17. In the event of unforeseen circumstances Love & Roses (Lipsy Ltd) reserves the right to substitute the prize for an alternative of equal or greater value. All reasonable efforts will be made to contact the winner before awarding the prize to a reserve.
-18. The prize is as follows:
-
-• 1 x £100 Auree Jewellery Voucher for any Jewellery on their site
-
-• 1 x £100 Next Voucher
-
-21. The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the Winner as specified in these Terms and Conditions.
-22. This prizes will be sent to the winner within 2 months of the competition ending and the exact date will be advised by the Love & Roses (Lipsy Ltd) marketing team to the winner upon winning.
-23. Love & Roses (Lipsy Ltd) will contact the prize winner via Instagram direct mail as soon as practicable to verify details for the prize.
-24. The winner must be a UK resident and currently residing in the UK.
-25. Love & Roses (Lipsy Ltd) decision is final and no correspondence will be entered into.
-26. Love & Roses (Lipsy Ltd) reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details and to refuse to award a prize or withdraw prize entitlement and/or refuse further participation in the promotion and disqualify the participant where there are reasonable grounds to believe there has been a breach of these Terms and Conditions or any instructions forming part of this promotions entry requirements or otherwise where a participant has gained unfair advantage in participating in the promotion or won using fraudulent means.
-27. By entering the competition you agree to being contacted for competition and marketing purposes by email, mail or telephone, from which you may opt out at any time, and to your personal details being used to administer the competition.
-28. The winner agrees to participate in publicity arising from the promotion in the form of use of their name and image in a congratulations competition social media post.
-29. If you object to any or all of your details being published or made available, please contact Love & Roses (Lipsy Ltd) at marketing@lipsy.co.uk.
-30. Events may occur that render the competition itself or the awarding of a prize impossible due to reasons beyond the control of Love & Roses (Lipsy Ltd). Accordingly, Love & Roses (Lipsy Ltd) may at its absolute discretion vary, amend or withdraw the competition and the winner agrees that no liability shall attach to Love & Roses (Lipsy Ltd) as a result thereof.
-31. To the fullest extent permitted by law, Love & Roses (Lipsy Ltd) excludes all liability for any loss, damage, personal injury or death suffered by the prize winner and/or their guest as a result of accepting the prize, except where it is caused by the negligence of Love & Roses (Lipsy Ltd), its agents or distributors or that of their employees. Your statutory rights are not affected.
-32. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
 
 Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
 
@@ -2674,7 +2674,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1729844494564
+1729868024137
 
 ### Our Social Networks
 
