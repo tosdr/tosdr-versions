@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Things I See: Living with Psychosis](/wp-content/thumbnails/13849-100x70.jpg?x53432)
+* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
     
-    The Things I See: Living with Psychosis
+    Panorama: The Battle For Bomb Alley
     
-    A short film by the BBC which sees three people sit down and tell their stories of living with mental health conditions and how they individually manage and deal with delusions which vary from the biz](https://documentaryheaven.com/things-see-living-with-psychosis/ "The Things I See: Living with Psychosis")
-* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
+* [![The Big Freeze](/wp-content/thumbnails/250-100x70.png?x53432)
     
-    The Mary Bell Case
+    The Big Freeze
     
-    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
-* [![Saving Egypts Oldest Pyramid](/wp-content/thumbnails/8597-100x70.jpg?x53432)
+    Imagine our world in the not-too-distant future? In parts of the northern hemisphere, the temperature plummets to -90 F. At 130 below, public transportation fails. Those caught outside freeze to death](https://documentaryheaven.com/the-big-freeze/ "The Big Freeze")
+* [![Keith Allen Will Burn In Hell](/wp-content/thumbnails/4192-100x70.jpg?x53432)
     
-    Saving Egypts Oldest Pyramid
+    Keith Allen Will Burn In Hell
     
-    In the sands of the Sahara stands one of our greatest legacies, the oldest stone structure of it's kind in the world, a hundred years older than it's famous cousin, the Great Pyramid of Giza, the step](https://documentaryheaven.com/saving-egypts-oldest-pyramid/ "Saving Egypts Oldest Pyramid")
-* [![The Brain: A Secret History](/wp-content/thumbnails/5930-100x70.jpg?x53432)
+    Keith Allen decides to pay a visit to one of Americas most hated family's.](https://documentaryheaven.com/keith-allen-will-burn-in-hell/ "Keith Allen Will Burn In Hell")
+* [![The Secret Life of Your Bodyclock](/wp-content/thumbnails/205-100x70.png?x53432)
     
-    The Brain: A Secret History
+    The Secret Life of Your Bodyclock
     
-    In a compelling and at times disturbing series, Dr Michael Mosley explores the brutal history of experimental psychology.Mosley embarks on three journeys to understand science’s last great frontier](https://documentaryheaven.com/the-brain-a-secret-history/ "The Brain: A Secret History")
-* [![Unforgiven: The Boys Who Killed Jamie Bulger](/wp-content/thumbnails/13858-100x70.jpg?x53432)
+    If you’re reading this any time after lunch and you’re not dead, well done. You have, in the words of Professor Russell Foster, a chronobiologist, “survived the most dangerous part of the day”. Chrono](https://documentaryheaven.com/the-secret-life-of-your-bodyclock/ "The Secret Life of Your Bodyclock")
+* [![Walls of Shame: Northern Ireland’s Troubles](/wp-content/thumbnails/12378-100x70.jpg?x53432)
     
-    Unforgiven: The Boys Who Killed Jamie Bulger
+    Walls of Shame: Northern Ireland’s Troubles
     
-    This episode of Dispatches from Channel 4 examines the crime which shook Britain to its very core, the murder of 2 year old James Bulger in 1993. More specifically it sets sights on James' killers Rob](https://documentaryheaven.com/unforgiven-boys-who-killed-jamie-bulger/ "Unforgiven: The Boys Who Killed Jamie Bulger")
+    The Good Friday Agreement was signed back in 1998, it brokered a peace deal between republicans and unionists in Northern Ireland. Nearly a decade later news network Al Jazeera visited Belfast to expl](https://documentaryheaven.com/walls-shame-northern-irelands-troubles/ "Walls of Shame: Northern Ireland’s Troubles")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
