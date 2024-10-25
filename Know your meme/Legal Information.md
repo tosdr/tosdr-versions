@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/339/jenna_marbs.jpg "Where Are They Now? Here's What Jenna Marbles Has Been Up To Since She Quit YouTube In 2020")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/344/memes_of_the_week_whats_the_matter_boy_meme_banner.jpg "The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More")
     
-    Where Are They Now? Here's What Jenna Marbles Has Been Up To Since She Quit YouTube In 2020](https://knowyourmeme.com/editorials/guides/where-are-they-now-heres-what-jenna-marbles-has-been-up-to-since-she-quit-youtube-in-2020)
+    The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-trump-materializes-in-a-mcdonalds-a-goblin-makes-fun-of-you-and-more)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/338/trump-mcdonalds-meme-explainer.jpg "Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/343/fp6.jpg "Why Is A Trump 'Macarena' Remix Going Viral On TikTok? The 'MAGArena' Song Explained")
     
-    Why Is Donald Trump Working At McDonald's? Memes About The President's 2024 Pennsylvania Photo Op Explained](https://knowyourmeme.com/editorials/guides/why-is-donald-trump-working-at-mcdonalds-memes-about-the-presidents-2024-pennsylvania-photo-op-explained)
+    Why Is A Trump 'Macarena' Remix Going Viral On TikTok? The 'MAGArena' Song Explained](https://knowyourmeme.com/editorials/guides/why-is-a-trump-macarena-remix-going-viral-on-tiktok-the-magarena-song-explained--2)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/337/georhe_pickens.jpg "What's With Memes Showing George Pickens Watching TV? The NFL Meme Showing Pickens Getting Drafted In A Ski Mask Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/342/fp7.jpg "Where Does The 'What's The Matter Lagerboy' Meme Come From? The Viral Hobgoblin Format Explained")
     
-    What's With Memes Showing George Pickens Watching TV? The NFL Meme Showing Pickens Getting Drafted In A Ski Mask Explained](https://knowyourmeme.com/editorials/guides/whats-with-memes-showing-george-pickens-watching-tv-the-nfl-meme-showing-pickens-getting-drafted-in-a-ski-mask-explained)
+    Where Does The 'What's The Matter Lagerboy' Meme Come From? The Viral Hobgoblin Format Explained](https://knowyourmeme.com/editorials/guides/where-does-the-whats-the-matter-lagerboy-meme-come-from-the-viral-afraid-you-might-taste-something-memes-explained--2)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/336/cover2.jpg "What Does The 'Man Looking At Three Fingers' Meme Mean? The 'Inglourious Basterds' Reaction Image Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/341/tfuefp.jpg "What's Up With The 'Tfue High Taper Fade' Memes On TikTok? The Viral Spin On Ninja's 'Low Taper Fade' Explained")
     
-    What Does The 'Man Looking At Three Fingers' Meme Mean? The 'Inglourious Basterds' Reaction Image Explained](https://knowyourmeme.com/editorials/guides/what-does-the-man-looking-at-three-fingers-meme-mean-the-inglourious-basterds-reaction-image-explained)
+    What's Up With The 'Tfue High Taper Fade' Memes On TikTok? The Viral Spin On Ninja's 'Low Taper Fade' Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-tfue-high-taper-fade-memes-on-tiktok-the-viral-spin-on-ninjas-low-taper-fade-meme-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/335/fdfdfd.jpg "What Is 'MILF Messenger' And Is It Really More Popular Than Twitter? The Viral iPhone App Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/340/Hello_Kitty_Girl_UCF_Professor_Travis_Meade_Controversy_banner.jpg "What's With The Rumors About A UCF Professor Being In A Relationship With A 'Hello Kitty' TA? The Controversy Explained")
     
-    What Is 'MILF Messenger' And Is It Really More Popular Than Twitter? The Viral iPhone App Explained](https://knowyourmeme.com/editorials/guides/what-is-milf-messenger-and-is-it-really-more-popular-than-twitter-the-viral-iphone-app-explained)
+    What's With The Rumors About A UCF Professor Being In A Relationship With A 'Hello Kitty' TA? The Controversy Explained](https://knowyourmeme.com/editorials/guides/whats-with-the-rumors-about-a-ucf-cs-professor-being-in-a-ddlg-relationship-with-a-hello-kitty-ta-the-controversy-explained)
     
 
 ##### Also Trending:
 
-[Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor") [#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks")
+[#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor") [Mia Khalifa U.S. Military PTSD Comment](https://knowyourmeme.com/memes/events/mia-khalifas-us-military-soldiers-ptsd-comment "Mia Khalifa U.S. Military PTSD Comment") [Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks")
 
 Copyright Infringement Notice
 =============================
