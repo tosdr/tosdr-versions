@@ -169,9 +169,7 @@ Software, SaaS, hardware, cloud, containers, and now AI—your hybrid IT environ
 
 [Book a demo](https://www.snowsoftware.com/about-us/contact-us?C_Interest1=sales)
 
-[Image
-
-![Ascend with Flexera One - Technology Spend dashboard](/sites/default/files/2023-05/ascend-technology-spend.png)](https://www.snowsoftware.com/flexera-one)
+[![Ascend with Flexera One - Technology Spend dashboard](/sites/default/files/2023-05/ascend-technology-spend.png)](https://www.snowsoftware.com/flexera-one)
 
 Optimize your hybrid IT environment with Flexera
 
@@ -380,43 +378,33 @@ Featured case studies
 Real success stories solving real-world IT problems
 ---------------------------------------------------
 
-[Image
-
-![](/sites/default/files/2024-07/resource-case-study-northern-trust.png)](https://www.youtube.com/watch?v=2iN0yD9Y5Yc)
+[![](/sites/default/files/2024-07/resource-case-study-northern-trust.png)](https://www.youtube.com/watch?v=2iN0yD9Y5Yc)
 
 Flexera One helps Northern Trust advance strategic business goals  
  
 
 [Discover how](https://www.flexera.com/resources/case-studies/northern-trust)
 
-[Image
-
-![](/sites/default/files/2024-07/resource-case-study-astrazeneca.png)](https://www.flexera.com/resources/case-studies/astrazeneca)
+[![](/sites/default/files/2024-07/resource-case-study-astrazeneca.png)](https://www.flexera.com/resources/case-studies/astrazeneca)
 
 AstraZeneca saves $2M in one year with Flexera  
  
 
 [Discover how](https://www.flexera.com/resources/case-studies/astrazeneca)
 
-[Image
-
-![](/sites/default/files/2024-07/resource-case-study-carlsberg.png)](https://www.youtube.com/watch?v=ygM2dnEuhxQ)
+[![](/sites/default/files/2024-07/resource-case-study-carlsberg.png)](https://www.youtube.com/watch?v=ygM2dnEuhxQ)
 
 Carlsberg increased efficiency and saved big with Flexera's FinOps and ITAM solutions
 
 [Discover how](https://www.flexera.com/resources/case-studies/carlsberg)
 
-[Image
-
-![Max Life Insurance case study](/sites/default/files/2024-08/resource-case-study-max-life-insurance.png)](https://www.flexera.com/resources/case-studies/max-life-insurance)
+[![Max Life Insurance case study](/sites/default/files/2024-08/resource-case-study-max-life-insurance.png)](https://www.flexera.com/resources/case-studies/max-life-insurance)
 
 Max Life Insurance achieves a 10% reduction across its top five enterprise software expenses with Snow Spend Optimizer.
 
 [Discover how](https://www.flexera.com/resources/case-studies/max-life-insurance)
 
-[Image
-
-![Sasol case study](/sites/default/files/2024-08/resource-case-study-sasol.png)](https://www.flexera.com/resources/case-studies/sasol)
+[![Sasol case study](/sites/default/files/2024-08/resource-case-study-sasol.png)](https://www.flexera.com/resources/case-studies/sasol)
 
 Sasol saves $34M with SAM from Flexera  
    
@@ -424,9 +412,7 @@ Sasol saves $34M with SAM from Flexera
 
 [Discover how](https://www.flexera.com/resources/case-studies/sasol)
 
-[Image
-
-![Christchurch City Council case study](/sites/default/files/2024-08/resource-case-study-christchurch.png)](https://www.flexera.com/resources/case-studies/christchurch-city-council)
+[![Christchurch City Council case study](/sites/default/files/2024-08/resource-case-study-christchurch.png)](https://www.flexera.com/resources/case-studies/christchurch-city-council)
 
 Christchurch City Council identifies 236 unknown SaaS applications with Flexera  
  
