@@ -30,25 +30,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/cookies/)
+        Español](https://ftmo.com/es/cookies/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/cookies/)
+        Deutsch](https://ftmo.com/de/cookies/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/cookies/)
+        Français](https://ftmo.com/fr/cookies/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/cookies/)
+        Čeština](https://ftmo.com/cs/cookies/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/cookies/)
+        Italiano](https://ftmo.com/it/cookies/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/cookies/)
+        Tiếng Việt](https://ftmo.com/vi/cookies/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/cookies/)
+        Português](https://ftmo.com/pt/cookies/)
 * [](https://ftmo.com/?s=)
     
      
@@ -87,25 +87,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/cookies/)
+        Español](https://ftmo.com/es/cookies/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/cookies/)
+        Deutsch](https://ftmo.com/de/cookies/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/cookies/)
+        Français](https://ftmo.com/fr/cookies/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/cookies/)
+        Čeština](https://ftmo.com/cs/cookies/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/cookies/)
+        Italiano](https://ftmo.com/it/cookies/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/cookies/)
+        Tiếng Việt](https://ftmo.com/vi/cookies/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/cookies/)
+        Português](https://ftmo.com/pt/cookies/)
 * [Client Area](https://trader.ftmo.com/?lang=en)
 
 COOKIE POLICY
