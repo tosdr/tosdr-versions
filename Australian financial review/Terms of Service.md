@@ -310,7 +310,6 @@ Advertise
 
 ### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
 
-* 53 mins ago
 * Patrick Durkin
 
 * ### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
@@ -325,7 +324,6 @@ Advertise
 
 ### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
 
-* 53 mins ago
 * Hannah Tattersall
 
 * ### [Bentley puts forward its new face of luxury with a V8 hybrid](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/bentley-puts-forward-its-new-face-of-luxury-with-a-v8-hybrid-20241010-p5khbx)
@@ -340,7 +338,6 @@ Advertise
 
 ### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/wealth/people/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
-* 6 mins ago
 * Yolanda Redrup, Lauren Sams and Matthew Drummond
 
 * ### [Australia’s richest people 40 and under break record](https://www.afr.com/wealth/people/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
