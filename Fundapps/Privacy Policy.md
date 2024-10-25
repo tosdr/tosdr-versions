@@ -419,3 +419,5 @@ We do not sell or share (for the purpose of cross-context behavioural advertisin
 ![Bcorp logo_partners](https://www.fundapps.co/hubfs/Logo%20Images/Accreditations/B-corp%20logo_partners.svg) ![AICA-logo-fundapps-Accreditation](https://www.fundapps.co/hs-fs/hubfs/Logo%20Images/Accreditations/AICA-logo.png?width=200&height=199&name=AICA-logo.png) ![ISO-logo](https://www.fundapps.co/hs-fs/hubfs/Logo%20Images/Accreditations/ISO-logo.png?width=200&height=199&name=ISO-logo.png)
 
 © 2024 FundApps. All rights reserved.
+
+Cookie Settings
