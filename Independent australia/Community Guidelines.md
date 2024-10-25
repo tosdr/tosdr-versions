@@ -94,7 +94,7 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Israel proclaims itself chief mourner, as Gaza lies in ruins](https://independentaustralia.net/article-display/israel-proclaims-itself-chief-mourner-as-gaza-lies-in-ruins,19104)
 
-[Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093)
+[Why the LNP would be worse at governing Queensland than Labor](https://independentaustralia.net/article-display/why-the-lnp-would-be-worse-at-governing-queensland-than-labor,19107)
 
 Comments Policy
 
