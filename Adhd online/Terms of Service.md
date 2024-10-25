@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
+**⚠️ [Support Availability Friday 1-5 PM ET](#services-outage)**
 
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
@@ -78,7 +78,7 @@
     * [Submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new)
 * [Take Smart Assessment](https://patients.adhdonline.com/signup)
 
-**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
+**⚠️ [Support Availability Friday 1-5 PM ET](#services-outage)**  
 
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
@@ -330,6 +330,12 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 [Take Smart Assessment](https://id.adhdonline.com/u/signup?state=hKFo2SBLYnJBWmpvWkJaeFVLMVdaVmFaMUZlS0RTVGY4aGxKYaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHRqMzlwd3lReVhrbVY1VHVlOFo4RXNXWUVyX2lKTVZ3o2NpZNkgMUZvTW1RTlpKdk5IZzVwUkwzdnlFd1lkTlJtZjEyZjk)
 
 * [Customer Support Chat](https://adhdonline.com/mobilechat)
+
+ ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
+
+On Friday, October 25th, our phone and chat services will be unavailable from 1-5 PM ET, but we’re still here for you! Please [submit a request ticket](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave us a voicemail at 888-493-2343, as our team will continue processing these requests. We appreciate your understanding.
+
+**The ADHD Online Team**
 
  ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
 
