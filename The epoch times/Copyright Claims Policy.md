@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/federal-judge-blocks-virginia-plan-to-purge-noncitizens-from-voter-rolls-5747769)
+* [Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://www.theepochtimes.com/business/spirit-airlines-announces-job-cuts-aircraft-selloff-amid-financial-uncertainty-5747984)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Blocks Virginia Plan to Purge Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745818-absentee-ballots-1200x800-1-LS-205x123.webp)](https://www.theepochtimes.com/us/federal-judge-blocks-virginia-plan-to-purge-noncitizens-from-voter-rolls-5747769)
-* [Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://www.theepochtimes.com/tech/meta-tiktok-and-google-cannot-evade-schools-lawsuit-alleging-harm-to-minors-court-rules-5747770)
+    ![Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://img.theepochtimes.com/assets/uploads/2022/06/30/Spirit-Airlines-planes-205x123.jpg.webp)](https://www.theepochtimes.com/business/spirit-airlines-announces-job-cuts-aircraft-selloff-amid-financial-uncertainty-5747984)
+* [The Battle for Space Is On](https://www.theepochtimes.com/article/the-battle-for-space-is-on-5729865)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
-    [![Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![The Battle for Space Is On](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Meta, TikTok, and Google Cannot Evade School’s Lawsuit Alleging Harm to Minors, Court Rules](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/tech/meta-tiktok-and-google-cannot-evade-schools-lawsuit-alleging-harm-to-minors-court-rules-5747770)
-* [Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://www.theepochtimes.com/us/judge-strikes-down-ohios-heartbeat-abortion-ban-5747698)
+    ![The Battle for Space Is On](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745315-Space-Warfare-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-battle-for-space-is-on-5729865)
+* [Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://www.theepochtimes.com/us/mother-sues-ai-firm-and-google-alleging-chatbot-drove-teen-to-suicide-5747797)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Strikes Down Ohio’s ‘Heartbeat’ Abortion Ban](https://img.theepochtimes.com/assets/uploads/2024/10/id5747693-1.tagreuters.com2024binary_LYNXMPEK9N0ZH-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-strikes-down-ohios-heartbeat-abortion-ban-5747698)
-* [A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://www.theepochtimes.com/health/a-low-carb-diet-may-eliminate-the-need-for-diabetes-drugs-study-suggests-5745960)
+    ![Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748126-Sewell-Setzer-and-mother-AP24299668536349-205x123.jpg)](https://www.theepochtimes.com/us/mother-sues-ai-firm-and-google-alleging-chatbot-drove-teen-to-suicide-5747797)
+* [Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://www.theepochtimes.com/us/trump-vows-campaign-will-scrutinize-integrity-of-election-closely-5748001)
     
-    3hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![A Low-Carb Diet May Eliminate the Need for Diabetes Drugs, Study Suggests](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747522-shutterstock_2201837973_Ketogenic_low_carb_low-carbohydrate_carbohydrate_keto_diet-205x123.jpg.webp)](https://www.theepochtimes.com/health/a-low-carb-diet-may-eliminate-the-need-for-diabetes-drugs-study-suggests-5745960)
-* [Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://www.theepochtimes.com/us/appeals-court-blocks-some-parts-of-new-york-gun-law-upholds-others-5747762)
+    ![Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739087-GettyImages-2177684056-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-campaign-will-scrutinize-integrity-of-election-closely-5748001)
+* [Conservatives Contest Long-Blue New Mexico in English and Spanish](https://www.theepochtimes.com/us/conservatives-contest-long-blue-new-mexico-in-english-and-spanish-5747617)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Conservatives Contest Long-Blue New Mexico in English and Spanish](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Appeals Court Blocks Some Parts of New York Gun Law, Upholds Others](https://img.theepochtimes.com/assets/uploads/2023/05/10/id5256356-handguns-GettyImages-1252351546-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-blocks-some-parts-of-new-york-gun-law-upholds-others-5747762)
-* [Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://www.theepochtimes.com/us/trump-harris-to-hold-dueling-events-in-texas-to-spotlight-key-issues-5747673)
+    ![Conservatives Contest Long-Blue New Mexico in English and Spanish](https://img.theepochtimes.com/assets/uploads/2024/10/id5736365-2.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/conservatives-contest-long-blue-new-mexico-in-english-and-spanish-5747617)
+* [UnitedHealth Confirms Hack Impacted 100 Million Americans](https://www.theepochtimes.com/us/unitedhealth-confirms-hack-impacted-100-million-americans-5747966)
     
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![UnitedHealth Confirms Hack Impacted 100 Million Americans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump, Harris to Hold Dueling Events in Texas to Spotlight Key Issues](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745553-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-to-hold-dueling-events-in-texas-to-spotlight-key-issues-5747673)
-* [Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://www.theepochtimes.com/us/supreme-court-overturns-conviction-of-attorney-for-smuggling-drugs-into-massachusetts-prison-5746580)
+    ![UnitedHealth Confirms Hack Impacted 100 Million Americans](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748073-UnitedHealth-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/unitedhealth-confirms-hack-impacted-100-million-americans-5747966)
+* [Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://www.theepochtimes.com/health/up-to-95-million-americans-exposed-to-cancer-causing-chemicals-in-tap-water-study-5747897)
     
-    5hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Overturns Conviction of Attorney for Smuggling Drugs Into Massachusetts Prison](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737969-10072024-DSC03073-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-overturns-conviction-of-attorney-for-smuggling-drugs-into-massachusetts-prison-5746580)
-* [JD Vance’s Michigan Town Hall: 5 Key Moments](https://www.theepochtimes.com/us/jd-vances-michigan-town-hall-5-key-moments-5747672)
+    ![Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691367-Water-California-205x123.jpg.webp)](https://www.theepochtimes.com/health/up-to-95-million-americans-exposed-to-cancer-causing-chemicals-in-tap-water-study-5747897)
+* [Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://www.theepochtimes.com/us/trump-promises-mass-deportation-of-illegal-immigrants-at-nevada-campaign-rally-5747712)
     
-    5hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    3hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
     
-    [![JD Vance’s Michigan Town Hall: 5 Key Moments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![JD Vance’s Michigan Town Hall: 5 Key Moments](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738815-JD-Vance-11_JF_10092024-205x123.jpg.webp)](https://www.theepochtimes.com/us/jd-vances-michigan-town-hall-5-key-moments-5747672)
-* [Early Voting to Begin in New York on Oct. 26](https://www.theepochtimes.com/us/early-voting-to-begin-in-new-york-on-oct-26-post-5746378)
+    ![Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748069-Trump-GettyImages-2180914616-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-mass-deportation-of-illegal-immigrants-at-nevada-campaign-rally-5747712)
+* [South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://www.theepochtimes.com/sports/south-florida-mens-basketball-coach-amir-abdur-rahim-dead-at-43-post-5747764)
     
-    6hr By [Oliver Mantyk](https://www.theepochtimes.com/author/oliver-mantyk)
+    3hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
     
-    [![Early Voting to Begin in New York on Oct. 26](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Early Voting to Begin in New York on Oct. 26](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747746-GettyImages-1780312312-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-to-begin-in-new-york-on-oct-26-post-5746378)
-* [Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
+    ![South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748068-GettyImages-1474447711-OP-205x123.jpg.webp)](https://www.theepochtimes.com/sports/south-florida-mens-basketball-coach-amir-abdur-rahim-dead-at-43-post-5747764)
+* [Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://www.theepochtimes.com/us/federal-government-proposes-student-loan-bailout-for-8-million-borrowers-5747776)
     
-    7hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    4hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ex-Provincial Premier, China Critic Arrested as Beijing’s Influence in Solomon Islands Ramps Up](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747748-rsz_suidani-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ex-provincial-premier-china-critic-arrested-as-beijings-influence-in-solomon-islands-ramps-up-5745551)
+    ![Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748077-8_25-GettyImages-1417997650-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-proposes-student-loan-bailout-for-8-million-borrowers-5747776)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
