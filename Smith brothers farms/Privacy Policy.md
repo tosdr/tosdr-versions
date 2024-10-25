@@ -186,9 +186,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (84)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (82)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (66)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (36)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
         
@@ -250,12 +250,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (86)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (25)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (26)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -280,28 +280,28 @@ Hi
         * [Treats (7)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (48)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
-        * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
+        * [Beef, Pork, & Poultry (13)](https://www.smithbrothersfarms.com/poultry)
             
         * [Bacon & Breakfast Meat (14)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
         * [Sausage, Dogs & Brats (3)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
-        * [Deli & Charcuterie (16)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
+        * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
     * [Meals & Sides (71)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (31)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (29)](https://www.smithbrothersfarms.com/entrees)
             
         * [Sides & Appetizers (16)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (8)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
-        * [Pizza & Pasta (14)](https://www.smithbrothersfarms.com/pasta)
+        * [Pizza & Pasta (13)](https://www.smithbrothersfarms.com/pasta)
             
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
