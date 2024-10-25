@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5adaa992-1a18-4662-acd6-6bbc313dea88/20241019T162835/5adaa992-1a18-4662-acd6-6bbc313dea88_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
+    *  [![](https://media.king5.com/assets/KING/images/b85d6eb9-5d19-47fe-852c-74a1d178a640/20241025T014621/b85d6eb9-5d19-47fe-852c-74a1d178a640_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b85d6eb9-5d19-47fe-852c-74a1d178a640/20241025T014621/b85d6eb9-5d19-47fe-852c-74a1d178a640_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/deputy-police-chief-paul-junger-administrative-leave-tacoma/281-abec4171-3e32-4e76-8480-241f30449361)
         
-        #### [Boeing machinists reject company's contract offer, remain on strike](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-contract-vote/281-faae898f-a354-4a5a-a468-50a14d5f4380)
+        #### [Tacoma's deputy police chief placed on administrative leave](https://www.king5.com/article/news/local/tacoma/deputy-police-chief-paul-junger-administrative-leave-tacoma/281-abec4171-3e32-4e76-8480-241f30449361) [![](https://media.king5.com/assets/KING/images/b85d6eb9-5d19-47fe-852c-74a1d178a640/20241025T014621/b85d6eb9-5d19-47fe-852c-74a1d178a640_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b85d6eb9-5d19-47fe-852c-74a1d178a640/20241025T014621/b85d6eb9-5d19-47fe-852c-74a1d178a640_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/deputy-police-chief-paul-junger-administrative-leave-tacoma/281-abec4171-3e32-4e76-8480-241f30449361)
         
-    *  [![](https://media.tegna-media.com/assets/KING/images/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619/83fd06dc-ac6f-4cb2-96f4-c1e8c1197619.jpg)](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [Tacoma Deputy Police Chief Paul Junger placed on administrative leave](https://www.king5.com/article/news/local/tacoma/deputy-police-chief-paul-junger-administrative-leave-tacoma/281-abec4171-3e32-4e76-8480-241f30449361)
+    *  [![](https://media.king5.com/assets/KING/images/4fa61c0d-df3b-45ce-9939-bc905b111001/20241025T013513/4fa61c0d-df3b-45ce-9939-bc905b111001_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4fa61c0d-df3b-45ce-9939-bc905b111001/20241025T013513/4fa61c0d-df3b-45ce-9939-bc905b111001_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-shooting-victims-identities-causes-of-death/281-89dd0a57-d74d-4b46-a9e4-a9e12ddd9530)
         
-        #### [3 of 4 Let's Go WA Initiatives face significant opposition headed into Nov. election: WA Poll](https://www.king5.com/article/news/politics/elections/2024-election-poll-results/281-02f6ad0b-9717-4f9e-96a0-78b5531eb13d)
+        #### [Teen charged with murder of parents, 3 siblings in Fall City](https://www.king5.com/article/news/crime/fall-city-shooting-victims-identities-causes-of-death/281-89dd0a57-d74d-4b46-a9e4-a9e12ddd9530)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/19944e29-e630-46bb-87f5-45cb69b8c0cd/20241024T200331/19944e29-e630-46bb-87f5-45cb69b8c0cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/19944e29-e630-46bb-87f5-45cb69b8c0cd/20241024T200331/19944e29-e630-46bb-87f5-45cb69b8c0cd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/5c35cb31-c012-450d-8d65-3d76af2aeb9c/20241025T011450/5c35cb31-c012-450d-8d65-3d76af2aeb9c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5c35cb31-c012-450d-8d65-3d76af2aeb9c/20241025T011450/5c35cb31-c012-450d-8d65-3d76af2aeb9c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+51°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
