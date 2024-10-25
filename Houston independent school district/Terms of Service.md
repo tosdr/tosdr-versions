@@ -344,8 +344,7 @@ Translate Language
     * [More](https://www.houstonisd.org/site/Default.aspx?PageType=1&SiteID=4&ChannelID=7892&DirectoryType=6)
 * [Board](https://www.houstonisd.org/domain/7897)
     
-    "* [2014 Redistricting Plan](https://www.houstonisd.org/domain/33219)
-    * [2022 Redistricting Plan](https://www.houstonisd.org/domain/55716)
+    "* [2022 Redistricting Plan](https://www.houstonisd.org/domain/55716)
     * [Board Calendar](https://www.houstonisd.org/Page/31476)
     * [Board Committees](https://www.houstonisd.org/domain/51770)
     * [Board Elections](https://www.houstonisd.org/domain/37559)
