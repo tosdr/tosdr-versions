@@ -1,5 +1,3 @@
-NEW: [www.brickplanet.com/upgrade](https://www.brickplanet.com/upgrade)
-
   
 
 404
