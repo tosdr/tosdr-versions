@@ -1,6 +1,6 @@
 The site's javascripts are blocked. This disables some functionality on the site.
 
-Our [Halloween Writing Contest](https://storiesonline.net/contest/halloween-2024) is coming up soon. Start Writing! \[ [Dismiss](javascript:hn();) \]
+The clock is ticking! hurry and submit your entry into our[Halloween Writing Contest](https://storiesonline.net/contest/halloween-2024) \[ [Dismiss](javascript:hn();) \]
 
 [Home](https://storiesonline.net/)
 
