@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
+* [![Buck](/wp-content/thumbnails/6155-100x70.jpg?x53432)
     
-    Panorama: The Battle For Bomb Alley
+    Buck
     
-    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
-* [![The Big Freeze](/wp-content/thumbnails/250-100x70.png?x53432)
+    Buck, reveals the life story of real-life horse whisperer, Buck Brannaman.A living legend in the horse world, Buck Brannaman was the inspiration for The Horse Whisperer. For this true cowboy, horses](https://documentaryheaven.com/buck/ "Buck")
+* [![Cancer Cure: Dr. Burzynski Therapy](/wp-content/thumbnails/6446-100x70.jpg?x53432)
     
-    The Big Freeze
+    Cancer Cure: Dr. Burzynski Therapy
     
-    Imagine our world in the not-too-distant future? In parts of the northern hemisphere, the temperature plummets to -90 F. At 130 below, public transportation fails. Those caught outside freeze to death](https://documentaryheaven.com/the-big-freeze/ "The Big Freeze")
-* [![Keith Allen Will Burn In Hell](/wp-content/thumbnails/4192-100x70.jpg?x53432)
+    Documentary on Stanislaw R. Burzynski's revolutionary cancer cure treatment based on his discovery on the mechanics of cancer, which lead him to the creation of the Antineoplaston Therapy. Dr. Burzyns](https://documentaryheaven.com/cancer-cure-dr-burzynski-therapy/ "Cancer Cure: Dr. Burzynski Therapy")
+* [![The Big Burn](/wp-content/thumbnails/11266-100x70.jpg?x53432)
     
-    Keith Allen Will Burn In Hell
+    The Big Burn
     
-    Keith Allen decides to pay a visit to one of Americas most hated family's.](https://documentaryheaven.com/keith-allen-will-burn-in-hell/ "Keith Allen Will Burn In Hell")
-* [![The Secret Life of Your Bodyclock](/wp-content/thumbnails/205-100x70.png?x53432)
+    On August 19th 1910, an assistant forest ranger named Edmund Pulaski emerged out of the smoked filled Bitterroot Mountains, that loomed over the town of Wallace, Idaho. For months himself and his](https://documentaryheaven.com/big-burn/ "The Big Burn")
+* [![Putin’s Revenge](/wp-content/thumbnails/14518-100x70.png?x53432)
     
-    The Secret Life of Your Bodyclock
+    Putin’s Revenge
     
-    If you’re reading this any time after lunch and you’re not dead, well done. You have, in the words of Professor Russell Foster, a chronobiologist, “survived the most dangerous part of the day”. Chrono](https://documentaryheaven.com/the-secret-life-of-your-bodyclock/ "The Secret Life of Your Bodyclock")
-* [![Walls of Shame: Northern Ireland’s Troubles](/wp-content/thumbnails/12378-100x70.jpg?x53432)
+    It was election day 2016 and as Americans headed to the polls United States intelligent agencies were on high alert. Intelligent agencies had been tracking a multi-pronged effort to influence voters,](https://documentaryheaven.com/putins-revenge/ "Putin’s Revenge")
+* [![Age of Extremes](/wp-content/thumbnails/4875-100x70.jpg?x53432)
     
-    Walls of Shame: Northern Ireland’s Troubles
+    Age of Extremes
     
-    The Good Friday Agreement was signed back in 1998, it brokered a peace deal between republicans and unionists in Northern Ireland. Nearly a decade later news network Al Jazeera visited Belfast to expl](https://documentaryheaven.com/walls-shame-northern-irelands-troubles/ "Walls of Shame: Northern Ireland’s Troubles")
+    Age of Extremes follows an array of British Muslims from different socio-cultural backgrounds and viewpoints, discussing the War on Terror, its implications for British Muslims and impact on community](https://documentaryheaven.com/age-of-extremes/ "Age of Extremes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
