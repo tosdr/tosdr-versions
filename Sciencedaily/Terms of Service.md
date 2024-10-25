@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 24, 2024**
+**October 25, 2024**
 
 * * *
 
@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
+* [Fire-Risk Blocking Hydrogen Production System](https://www.sciencedaily.com/releases/2024/10/241024132044.htm)
+* [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 * [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 * [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
 * [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
@@ -236,9 +239,6 @@ this hour
 * [Wildfires Becoming Faster, More Dangerous](https://www.sciencedaily.com/releases/2024/10/241024145253.htm)
 * [Beyond Superheavy Element Livermorium](https://www.sciencedaily.com/releases/2024/10/241024131705.htm)
 * [Weight-Loss Drug May Cut Alzheimer's Risk](https://www.sciencedaily.com/releases/2024/10/241024131639.htm)
-* [Human Actions Cause Insect Color Change](https://www.sciencedaily.com/releases/2024/10/241024173707.htm)
-* [Better Brain-Machine Interfaces, Pacemakers](https://www.sciencedaily.com/releases/2024/10/241024145233.htm)
-* [Gut Bacterial Enzyme's Wide-Ranging Functions](https://www.sciencedaily.com/releases/2024/10/241024145501.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
-
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
