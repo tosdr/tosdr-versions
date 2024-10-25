@@ -231,7 +231,7 @@ Main navigation
             
             "UserTesting makes getting feedback from a wide range of users fast and easy for us at Adobe"
             
-            [Learn more](https://www.usertesting.com/resources/customers/adobe-photoshop)
+            [Learn more](https://www.usertesting.com/resources/customers/microsoft)
             
               ![UserTesting customer logos in white](https://usertesting.widen.net/content/yinjgc45cy/webp/LOGO-2023-customer-Adobe-white-224x58.png?w=120&itok=Aya4KvW3)
             
@@ -247,13 +247,13 @@ Main navigation
             
         * Featured stories
             
-            * [Burberry](https://www.usertesting.com/resources/customers/burberry)
+            * [Burberry](https://www.usertesting.com/resources/customers/deezer-usertesting)
                 
-            * [Costa Coffee](https://www.usertesting.com/resources/customers/costa-coffee-usertesting)
+            * [Costa Coffee](https://www.usertesting.com/resources/customers/subway)
                 
             * [EssilorLuxottica](https://www.usertesting.com/resources/customers/essilorluxottica-usertesting)
                 
-            * [Panera Bread](https://www.usertesting.com/resources/customers/panera-bread-usertesting)
+            * [Panera Bread](https://www.usertesting.com/resources/customers/amazon-seller-central)
                 
             
         * For Our Customers
