@@ -54,7 +54,7 @@ It’s important that you read this policy carefully to fully understand how we 
 
 If you don’t agree with our policies, no hard feelings! You can simply leave the website and choose not to use any of our services, applications, or products.
 
-Now, let’s get into the nitty-gritty details. Voicemod Inc., Sucursal en España, with its registered office at Obispo Don Jerónimo 10, St. 46003, Valencia (Spain), being duly registered at Registro Mercantil de Valencia, Tomo 11462, Libro 8740, Folio 156, Hoja V-214069, Registration no. 1 is the controller to the processings of personal data below mentioned. If you have any questions please reach out to us using this [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy).
+Now, let’s get into the nitty-gritty details. Voicemod Inc., Sucursal en España, with its registered office at Obispo Don Jerónimo 10, St. 46003, Valencia (Spain), being duly registered at Registro Mercantil de Valencia, Tomo 11462, Libro 8740, Folio 156, Hoja V-214069, Registration no. 1 is the controller to the processings of personal data below mentioned. If you have any questions please reach out to us using this [Contact Form](https://www.voicemod.net/en/support/?letstalk=Legal%20Terms+%26+Privacy).
 
 Voicemod Products
 -----------------
@@ -86,7 +86,7 @@ Regarding All VM Products
 
 1\. Managing user accounts and licences 
 
-2\. Feedback and support  ([Support channel](https://www.voicemod.net/support/))
+2\. Feedback and support  ([Support channel](https://www.voicemod.net/en/support/))
 
 **Data processed:** 
 
@@ -321,12 +321,12 @@ Being that said, here’s information about your rights as per the GDPR and how 
 * **No automated decisions**. You have the right to not be subjected to automated decision-making that could significantly affect you.
 * **To file a complaint before the relevant supervisory authority.** If you’d have grounds to believe that any of your rights have not been properly fulfilled you can file a complaint before the relevant supervisory authority in your country.
 
-These rights are important, and we’re here to ensure that you can exercise them easily. To do so or if you have questions, please reach out to us using this [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy).
+These rights are important, and we’re here to ensure that you can exercise them easily. To do so or if you have questions, please reach out to us using this [Contact Form](https://www.voicemod.net/en/support/?letstalk=Legal%20Terms+%26+Privacy).
 
 Reach out to us! 
 -----------------
 
-Need to get in touch? Just contact us through our privacy [Contact Form](https://www.voicemod.net/support/?letstalk=Legal%20Terms+%26+Privacy) and let us know what’s on your mind. We’ll jump right on it and process your request faster than you can say “privacy protection”! We’re all about keeping things GDPR-compliant and following the laws and procedures in place to keep your data safe. 
+Need to get in touch? Just contact us through our privacy [Contact Form](https://www.voicemod.net/en/support/?letstalk=Legal%20Terms+%26+Privacy) and let us know what’s on your mind. We’ll jump right on it and process your request faster than you can say “privacy protection”! We’re all about keeping things GDPR-compliant and following the laws and procedures in place to keep your data safe. 
 
 As our offices are located in Spain, should you like to lodge a complaint, you can do so either before your relevant supervisory authority or the [Spanish Data Protection Agency](https://www.aepd.es/es) (AEPD), which you can reach out at 6, Jorge Juan – 28001 Madrid (Spain) or by calling (+34) 912 663 517. There’s also a [specific channel](https://sedeagpd.gob.es/sede-electronica-web/) you can contact them at for any data privacy needs.
 
@@ -418,15 +418,3 @@ Supercharge Your Voice
 * [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
 
 Facebook Instagram YouTube LinkedIn Tik Tok Discord Reddit
-
-Connecting issues? Please download the latest Voicemod version
-
-[Download Now!](https://voicemod.link/download-now)
-
-This is default text for notification bar
-
-Learn more
-
-[](javascript:void(0))[](javascript:void(0))
-
-[](javascript:void(0))
