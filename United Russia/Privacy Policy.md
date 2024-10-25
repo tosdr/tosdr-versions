@@ -305,7 +305,7 @@
 
 [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033) [#школьныемузеи](https://er.ru/activity/news?tags%5B0%5D=132691) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
 
-Сегодня 17:58
+25.10.24
 
 [![Решение социально-экономических задач в бюджете. Интервью Александра Жукова](https://cdn.er.ru/media/news/October2024/p9SAOlx3ruL9ufh18w2o-small.jpg)](https://er.ru/activity/news/reshenie-socialno-ekonomicheskih-zadach-v-byudzhete-intervyu-aleksandra-zhukova)
 
@@ -313,7 +313,7 @@
 
 [#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=29001) [#КП](https://er.ru/activity/news?tags%5B0%5D=10046) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82)
 
-Сегодня 14:00
+25.10.24
 
 [![При поддержке «Единой России» на железнодорожном вокзале Томска открылся зал ожидания Центра содействия мобильности](https://cdn.er.ru/media/news/October2024/LOyIEmxGAaz4iIs09CnK-small.JPG)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-tomska-otkrylsya-zal-ozhidaniya-centra-sodejstviya-mobilnosti)
 
@@ -321,7 +321,7 @@
 
 [#Томская область](https://er.ru/activity/news?tags%5B0%5D=1708) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Единаястранадоступнаясреда](https://er.ru/activity/news?tags%5B0%5D=1090066) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#вокзалы](https://er.ru/activity/news?tags%5B0%5D=4078)
 
-Сегодня 13:20
+25.10.24
 
 [![По инициативе «Единой России» и рабочей группы по СВО бойцы спецоперации в отпуске смогут получить амбулаторную медпомощь в любой государственной поликлинике](https://cdn.er.ru/media/news/October2024/sqPsxJivQMsL6Gb6EOyZ-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-i-rabochej-gruppy-po-svo-bojcy-specoperacii-v-otpuske-smogut-poluchit-ambulatornuyu-medpomosh-v-lyuboj-gosudarstvennoj-poliklinike)
 
@@ -329,7 +329,7 @@
 
 [#рабочаягруппапоСВО](https://er.ru/activity/news?tags%5B0%5D=1095403) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#медобслуживание](https://er.ru/activity/news?tags%5B0%5D=21514)
 
-Сегодня 12:42
+25.10.24
 
 [![Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://cdn.er.ru/media/news/October2024/gsyrdJUbbcKDdKmF3Nqh-small.jpg)](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
 
