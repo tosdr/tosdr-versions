@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Orcs Behaving Badly](https://www.somethingawful.com/comedy-goldmine/orcs-behaving-badly/1/)
-* [Movie Prequels](https://www.somethingawful.com/comedy-goldmine/movie-prequels/1/)
-* [Misinterpreted Items from the News!](https://www.somethingawful.com/comedy-goldmine/misinterpreted-items-from/1/)
-* [PlaneShift](https://www.somethingawful.com/mmo-roulette/planeshift/1/)
-* [Arcade Games that Should Not Be.](https://www.somethingawful.com/comedy-goldmine/arcade-games-that/1/)
+* [Flowgo, Veritas Academy, Tickle Media Forum, and That Bird's Nest](https://www.somethingawful.com/weekend-web/flowgo-veritas-academy/1/)
+* [Give Your Pet A Treat!](https://www.somethingawful.com/comedy-goldmine/give-pet-treat/1/)
+* [CSNation, Teen Problems and Issues, PokeCommunity, and GoFuckYourself](https://www.somethingawful.com/weekend-web/csnation-teen-problems/1/)
+* [Historical Inaccuracies (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part-2/1/)
+* [Variety Pack #11: Full-sized Micro Machines and Customized Dream Jets!](https://www.somethingawful.com/photoshop-phriday/variety-pack-11/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [HELP I think somebody is t](http://forums.somethingawful.com/showthread.php?threadid=4073517 "HELP I think somebody is t")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Letters and numbers vve dont really need](http://forums.somethingawful.com/showthread.php?threadid=4073545 "Letters and numbers vve dont really need")
-* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/attention.png) [How often do you vanity search?](http://forums.somethingawful.com/showthread.php?threadid=4073494 "How often do you vanity search?")
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [What's your go-to regional/macro brew?](http://forums.somethingawful.com/showthread.php?threadid=4073493 "What's your go-to regional/macro brew?")
 
 ### Random Articles
 
-* [Fifty More Hours Of Star Wars](https://www.somethingawful.com/news/star-wars-television/)
-* [Flames From Review of Radiohead - Amnesiac](https://www.somethingawful.com/truth-media-flames/flames-from-review/1/)
-* [Hojothum's Crazy Website](https://www.somethingawful.com/awful-links/awful-link-3670/)
-* [Onslaught of the Juggernaut](https://www.somethingawful.com/news/onslaught-juggernaut/)
-* [Dear Mr. Mayor](https://www.somethingawful.com/news/dear-mayor-clawmen/1/)
+* [Subj: THINGS I RAN AWAY FROM](https://www.somethingawful.com/news/roamin-dad-59/)
+* [Kingdom Come](https://www.somethingawful.com/awful-links/awful-link-2178/)
+* [Peak Oil is Not Healthy](https://www.somethingawful.com/news/peak-oil-not/)
+* [The Shopping Cart Retrieval Lady](https://www.somethingawful.com/news/shopping-cart-retrieval/)
+* [Plott Palm Trees (Thanks, M4rg4r1ne!)](https://www.somethingawful.com/awful-links/plott-palm-trees/)
 
 [Random!](https://www.somethingawful.com/random/)
 
