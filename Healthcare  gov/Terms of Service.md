@@ -128,11 +128,11 @@ Taxes
 
 Featured
 
-![](/assets/learn/static/featured/smiling-friends-group.jpg "Smiling group of friends")
+![](/assets/learn/static/featured/adobestock_549465688-746px.jpg "Woman wearing a tan button up shirt on computer")
 
-2025 Open Enrollment starts soon
+Preview plans & prices now
 
-[Open Enrollment for 2025 runs November 1, 2024–January 15, 2025. Get Open Enrollment tips.](https://www.healthcare.gov/quick-guide/)
+[Open Enrollment runs November 1, 2024–January 15, 2025. Compare plans now.](https://www.healthcare.gov/see-plans/#/)
 
 [Get Answers](https://www.healthcare.gov/get-answers/)
 
