@@ -116,6 +116,13 @@ Orders ship within 1-2 days
 
 [support@blackwolfnation.com](mailto:support@blackwolfnation.com)
 
+EARLY ACCESS TO SHOP BLACK FRIDAY DEALS
+---------------------------------------
+
+Get on the list to shop Black Friday before everyone!
+
+[Sign Up](https://blackwolfnation.com/pages/black-friday-early-access)
+
 ![Black Wolf Deals + Kits](//blackwolfnation.com/cdn/shop/collections/4.png?v=1722891268&width=1350)
 
 ### Black Wolf Deals + Kits
@@ -179,6 +186,8 @@ Popular products
 
 Haircare Bundle
 
+10
+
 $32.00](https://blackwolfnation.com/products/haircare-bundle)
 
 29% Off
@@ -199,7 +208,7 @@ FSA/HSA ELIGIBLE
 
 WUSH™ PRO Ear Cleaner
 
-600
+1477
 
 Color
 
