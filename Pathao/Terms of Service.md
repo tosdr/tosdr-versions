@@ -2,19 +2,19 @@
 
 ### The Biggest Fest Ends In
 
-06
+05
 
 Days
 
-02
+20
 
 Hours
 
-57
+56
 
 Minutes
 
-56
+16
 
 Seconds
 
