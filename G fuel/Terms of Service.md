@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                              
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                            
 
 [Skip to content](#MainContent)  
 
@@ -208,7 +208,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[countdown to Halloween 🔪 d h m s](https://gfuel.com/collections/fear-fest)
+[TERROR NEVER TASTED SO GOODShop BOGO Free Now!](https://gfuel.com/pages/bogo)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -392,56 +392,50 @@ Rated 4.8 out of 5 stars
 
 76 Reviews
 
-4.4
+4.8
 
-Rated 4.4 out of 5 stars
+Rated 4.8 out of 5 stars
 
-1,789 Reviews
+10 Reviews
+
+3.7
+
+Rated 3.7 out of 5 stars
+
+3 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,065 Reviews
+170 Reviews
 
-4.7
+4.8
 
-Rated 4.7 out of 5 stars
+Rated 4.8 out of 5 stars
 
-1,913 Reviews
+20 Reviews
+
+4.8
+
+Rated 4.8 out of 5 stars
+
+4 Reviews
+
+5.0
+
+Rated 5.0 out of 5 stars
+
+1 Review
+
+4.5
+
+Rated 4.5 out of 5 stars
+
+62 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
 1,119 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-1,450 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-2,882 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-1,196 Reviews
-
-4.6
-
-Rated 4.6 out of 5 stars
-
-28 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-624 Reviews
