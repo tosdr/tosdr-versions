@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
 * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
+* [Root Causes 433: Will AI Eat All the Electricity?](https://www.sectigo.com/resource-library/root-causes-433-will-ai-eat-all-the-electricity)
 * [Root Causes 432: Apple Floats New Short-lived Certificate Proposal](https://www.sectigo.com/resource-library/root-causes-432-apple-floats-new-short-lived-certificate-proposal)
 * [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
-* [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
-* [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Q4 2024 Pulse Webinar](https://www.sectigo.com/resource-library/q4-2024-pulse-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
     * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
+    * [Root Causes 433: Will AI Eat All the Electricity?](https://www.sectigo.com/resource-library/root-causes-433-will-ai-eat-all-the-electricity)
     * [Root Causes 432: Apple Floats New Short-lived Certificate Proposal](https://www.sectigo.com/resource-library/root-causes-432-apple-floats-new-short-lived-certificate-proposal)
     * [Root Causes 431: New Mozilla Proposal to Combat Delayed Revocation](https://www.sectigo.com/resource-library/root-causes-431-new-mozilla-proposal-to-combat-delayed-revocation)
-    * [Root Causes 430: How Does a TLS Handshake Work?](https://www.sectigo.com/resource-library/root-causes-430-how-does-a-tls-handshake-work)
-    * [Root Causes 429: ServiceNow Outage Due to Expired Root Certificate](https://www.sectigo.com/resource-library/root-causes-429-servicenow-outage-due-to-expired-root-certificate)
     
 
 *  #}
