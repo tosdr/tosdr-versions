@@ -249,7 +249,7 @@ University Resources
 --------------------
 
 * [Alumni](https://www.usdalumni.com/ "USD Alumni")
-* [Employment](https://yourfuture.sdbor.edu/postings/search?utf8=%E2%9C%93&query&query_v0_posted_at_date&435&query_organizational_tier_1_id%5B%5D=1259&225&commit=Search "Employment")
+* [Employment](https://yourfuture.sdbor.edu/postings/search?utf8=%E2%9C%93&query&query_v0_posted_at_date&435&query_organizational_tier_1_id%5B%5D=1259&225&commit=Search)
 * [Directory](https://www.usd.edu/Research-and-Faculty/Faculty-and-Staff "Faculty and Staff Directory")
 * [Policies](https://www.usd.edu/Policies "USD Policies")
 
