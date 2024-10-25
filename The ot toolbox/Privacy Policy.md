@@ -1,8 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-[![cropped-logo-2.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cropped-logo-2.png")
-
-![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
+[![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
 
 Search  Search
 
