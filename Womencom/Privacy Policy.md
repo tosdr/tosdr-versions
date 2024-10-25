@@ -41,47 +41,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Prince Harry and Meghan Markle](https://www.women.com/img/gallery/weird-things-about-meghan-markle-prince-harrys-relationship-we-cant-ignore/intro-1729696483.jpg)](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+*  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [Weird Things About Meghan Markle & Prince Harry's Relationship We Can't Ignore](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
-    =================================================================================================================================================================================
+    [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+    ==================================================================================================================
     
-    Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
+    It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
     
-    By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
     
-* *  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+* *  [![Miley Cyrus](https://www.women.com/img/gallery/miley-cyrus-is-childless-by-choice-her-heartbreaking-reason-makes-so-much-sense/intro-1729705548.jpg)](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
         
-        [Wellness](https://www.women.com/category/wellness/)
+        [Politics](https://www.women.com/category/politics/)
         
-        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
         
-        ### [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+        ### [Miley Cyrus Is Childless By Choice & Her Heartbreaking Reason Makes So Much Sense](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
         
-        Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
+        For some, it's a matter of not wanting kids. For others, like Miley Cyrus, there's specific reasoning behind living a child free life.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+        By Amanda Chatel [Read More](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
         
-    *  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    *  [![Prince Harry and Meghan Markle](https://www.women.com/img/gallery/weird-things-about-meghan-markle-prince-harrys-relationship-we-cant-ignore/intro-1729696483.jpg)](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
         
         [Relationships](https://www.women.com/category/relationships/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
         
-        ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        ### [Weird Things About Meghan Markle & Prince Harry's Relationship We Can't Ignore](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
         
-        More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+        Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
         
-        By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+        By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
         
 
 More Stories
 ------------
 
+*  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    
+    ### [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    
+    Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    
 *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -93,6 +105,18 @@ More Stories
     Taylor Swift isn't known for being a fashionista, but some of her red carpet looks have been downright bad. Here are five unstylish looks from five eras.
     
     By Amanda Chatel [Read More](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
+    
+*  [![Shailene Woodley smiling](https://www.women.com/img/gallery/5-celebrities-who-have-discussed-their-polyamorous-open-relationships/intro-1729614298.jpg)](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [5 Celebrities Who Have Discussed Their Polyamorous & Open Relationships](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
+    
+    More celebs than you might think embrace polyamorous and open relationships, but the ways in which they navigate them are all uniquely different.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1694420/celebrities-discussed-polyamorous-open-relationships/)
     
 *  [![Florence Pugh](https://www.women.com/img/gallery/want-to-smell-like-florence-pugh-we-know-her-favorite-perfume/intro-1729612390.jpg)](https://www.women.com/1694361/smell-like-florence-pugh-favorite-perfume/)
     
@@ -381,30 +405,6 @@ More Stories
     While the thought of Julia Roberts is likely to conjure thoughts of big, curly hair, the actress has experimented with far more looks than just that.
     
     By Amanda Chatel [Read More](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
-    
-*  [![Angelina Jolie red lipstick](https://www.women.com/img/gallery/angelina-jolies-best-old-hollywood-looks-that-prove-shes-the-ultimate-movie-star/intro-1728415128.jpg)](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Angelina Jolie's Best Old Hollywood Looks That Prove She's The Ultimate Movie Star](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
-    
-    Angelina Jolie's not dressing for us, she's dressing for herself, and paying homage the old Hollywood icons that came before her.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
-    
-*  [![Olivia Dunn on the red carpet](https://www.women.com/img/gallery/5-times-livvy-dunnes-outfits-totally-missed-the-mark/intro-1728408572.jpg)](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Times Livvy Dunne's Outfits Totally Missed The Mark](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
-    
-    Livvy Dunne is undoubtedly an influencer, but her outfits haven't always been on-trend. Occasionally, Dunne's ensembles have looked outdated or out of place.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
     
 
 Back
