@@ -29,7 +29,7 @@ Check out
 
  
 
-Free shipping on orders over £40
+Free shipping on orders over £50
 
      
 
