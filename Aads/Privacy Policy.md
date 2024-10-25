@@ -1,10 +1,3 @@
-![](/assets/alerts/rocket-b72d0a00612190092ad4304380d421e89ddddcf336ea44ac42dd488c7f4f6476.svg)
-
-**2024-10-23 15:50 UTC Apologies for yesterday’s connection issue, which was resolved in 30 mins.**  
-We’ve refunded all fees collected yesterday to advertisers and waived our fees for the next 24 hours to boost publishers' earnings
-
-![](/assets/alerts/close-3c7adf057be33c1d469b98ae0dafb7431ec725ac151de03d09e6082e7b55c6b1.svg)
-
    [![AADS](/assets/a-ads-logo-f2c75e582ea7e3261ef9aecbce54a5350060abbddd70020863282e1b1b93d150.svg "Bitcoin Advertising") ![AADS](/assets/white-logo-f5adfd46705cccf78a98cac0ab21c1e96c5eddd4735cf045d451e0e30f57b79c.svg "Bitcoin Advertising") ![AADS](/assets/logo-small-white-3e05637c0192b94b00cc628243b21f7fe274128514c5e4fed1dfbd6cdc75cc14.svg "Bitcoin Advertising") ![AADS](/assets/logo-small-780ad6aeb2795d1835653ea30b358ebe3d1886cf5efb092597f642f6f34ecb2b.svg "Bitcoin Advertising")](https://a-ads.com/)
 
 [Advertise](javascript:void(0))
