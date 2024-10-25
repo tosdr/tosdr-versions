@@ -19,7 +19,7 @@
     
 * [Information](https://schroederdennis.de/)
     
-    [IPv64 Support Forum](https://v64.tech/) [IPv64 for business](https://ipv64.net/business_solutions) [Consulting & Einrichtung](https://ipv64.net/consulting_solutions) [Die Technik von IPv64](https://ipv64.net/ipv64_technical) [Preise & Account Klassen](https://ipv64.net/pricing) [Wie ist meine IP?](https://ipv64.net/wieistmeineip) [v64-Tesla Project](https://ipv64.net/tesla) [Wiki](https://ipv64.net/wiki) [Homelabs](https://ipv64.net/homelab)
+    [IPv64 Support Forum](https://v64.tech/) [IPv64 for business](https://ipv64.net/business_solutions) [Consulting & Einrichtung](https://ipv64.net/consulting_solutions) [Die Technik von IPv64](https://ipv64.net/ipv64_technical) [Preise & Account Klassen](https://ipv64.net/pricing) [Partner Program](https://ipv64.net/partner_program) [Wie ist meine IP?](https://ipv64.net/wieistmeineip) [v64-Tesla Project](https://ipv64.net/tesla) [Wiki](https://ipv64.net/wiki) [Homelabs](https://ipv64.net/homelab)
     
 * [Statistics](https://statistics.ipv64.net/)
 * [Karriere](https://ipv64.net/jobs)
