@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Sonnenblumenöl im Test: Gute für die kalte und warme Küche](https://www.test.de/Sonnenblumenoel-im-Test-Gute-fuer-die-kalte-und-warme-Kueche-6078505-0/ "Sonnenblumenöl im Test - Gute für die kalte und warme Küche")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
+* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
 
 Service Stiftung Warentest
 
