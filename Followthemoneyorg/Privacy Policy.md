@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
+
+Successful incumbent candidates dominated 2013 fundraising.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
