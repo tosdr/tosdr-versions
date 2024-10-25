@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
-    
-    Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    
+    Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Buck](/wp-content/thumbnails/6155-100x70.jpg?x53432)
+* [![The Architect](/wp-content/thumbnails/9418-100x70.jpg?x53432)
     
-    Buck
+    The Architect
     
-    Buck, reveals the life story of real-life horse whisperer, Buck Brannaman.A living legend in the horse world, Buck Brannaman was the inspiration for The Horse Whisperer. For this true cowboy, horses](https://documentaryheaven.com/buck/ "Buck")
-* [![Cancer Cure: Dr. Burzynski Therapy](/wp-content/thumbnails/6446-100x70.jpg?x53432)
+    Vice News meets up with James Mitchell who was found to be the head of a program the United States set up in order to extract intelligence from captured "terrorists" via controversial forms of interro](https://documentaryheaven.com/architect/ "The Architect")
+* [![Black Taxis](/wp-content/thumbnails/13375-100x70.jpg?x53432)
     
-    Cancer Cure: Dr. Burzynski Therapy
+    Black Taxis
     
-    Documentary on Stanislaw R. Burzynski's revolutionary cancer cure treatment based on his discovery on the mechanics of cancer, which lead him to the creation of the Antineoplaston Therapy. Dr. Burzyns](https://documentaryheaven.com/cancer-cure-dr-burzynski-therapy/ "Cancer Cure: Dr. Burzynski Therapy")
-* [![The Big Burn](/wp-content/thumbnails/11266-100x70.jpg?x53432)
+    This film follows Brendan, Gerald and Tom all of whom are former volunteers of the Irish Republican Army or IRA. For these men and all Irish Republicans alike the period of armed struggle is now over,](https://documentaryheaven.com/black-taxis/ "Black Taxis")
+* [![Putin: A Russian Spy Story](/wp-content/thumbnails/16324-100x70.jpg?x53432)
     
-    The Big Burn
+    Putin: A Russian Spy Story
     
-    On August 19th 1910, an assistant forest ranger named Edmund Pulaski emerged out of the smoked filled Bitterroot Mountains, that loomed over the town of Wallace, Idaho. For months himself and his](https://documentaryheaven.com/big-burn/ "The Big Burn")
-* [![Putin’s Revenge](/wp-content/thumbnails/14518-100x70.png?x53432)
+    Putin: A Russian Spy Story is a 3 part documentary miniseries that reveals how Vladimir Putin managed to make his way from being an unremarkable KGB recruit to one of the most powerful men in the wor](https://documentaryheaven.com/putin-russian-spy-story/ "Putin: A Russian Spy Story")
+* [![Celtic vs Rangers: Clash Of The Titans](/wp-content/thumbnails/9797-100x70.jpg?x53432)
     
-    Putin’s Revenge
+    Celtic vs Rangers: Clash Of The Titans
     
-    It was election day 2016 and as Americans headed to the polls United States intelligent agencies were on high alert. Intelligent agencies had been tracking a multi-pronged effort to influence voters,](https://documentaryheaven.com/putins-revenge/ "Putin’s Revenge")
-* [![Age of Extremes](/wp-content/thumbnails/4875-100x70.jpg?x53432)
+    A study of one of the biggest rivalries in football to date, two of Scotland's biggest teams, Glasgow Rangers FC and Glasgow Celtic FC. The rivalry itself is deeply rooted in Scotland's religious divi](https://documentaryheaven.com/celtic-vs-rangers-clash-titans/ "Celtic vs Rangers: Clash Of The Titans")
+* [![Kill at Will? America on Trial](/wp-content/thumbnails/7170-100x70.jpg?x53432)
     
-    Age of Extremes
+    Kill at Will? America on Trial
     
-    Age of Extremes follows an array of British Muslims from different socio-cultural backgrounds and viewpoints, discussing the War on Terror, its implications for British Muslims and impact on community](https://documentaryheaven.com/age-of-extremes/ "Age of Extremes")
+    Ahead of America’s costliest ever elections, this documentary investigates how powerful lobby groups helped create laws blamed for some of the most controversial killings in recent US history.The](https://documentaryheaven.com/kill-at-will-america-on-trial/ "Kill at Will? America on Trial")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
