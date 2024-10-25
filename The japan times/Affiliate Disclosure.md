@@ -211,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[1](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![1](1)](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,19 @@ Latest News
 
 [Marubeni-backed salmon farm starts Japan sales as part of diversification push](https://www.japantimes.co.jp/business/2024/10/25/marubeni-salmon-farm/ "Marubeni-backed salmon farm starts Japan sales as part of diversification push")
 
-4 hours ago
+10 hours ago
 
 [Japan to resume trial removal of Fukushima nuclear debris, reports say](https://www.japantimes.co.jp/news/2024/10/25/japan/fukushima-debris-removal/ "Japan to resume trial removal of Fukushima nuclear debris, reports say")
 
-4 hours ago
+10 hours ago
 
 [Will Europe's pivot to Asia have any teeth?](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
 
-5 hours ago
+10 hours ago
 
 [Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
-7 hours ago
-
 [Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
