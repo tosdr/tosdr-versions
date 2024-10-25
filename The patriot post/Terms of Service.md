@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,18 +195,19 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111293-you-can-take-my-dot-dot-dot-you-know-2024-10-23)
+     [](https://patriotpost.us/memes/111376-choose-dish-2024-10-25)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34411)
+     [](https://patriotpost.us/cartoons/34416)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Mark Alexander Profiles of Valor: Morgan Luttrell](https://patriotpost.us/alexander/111365-profiles-of-valor-morgan-luttrell-2024-10-25)
 *      [Ben Shapiro Why Trump at McDonald’s Matters](https://patriotpost.us/opinion/111350-why-trump-at-mcdonalds-matters-2024-10-24)
 *      [Laura Hollis For Kamala Harris, Abortion Isn’t About Freedom; It’s About Force](https://patriotpost.us/opinion/111349-for-kamala-harris-abortion-isnt-about-freedom-its-about-force-2024-10-24)
 *      [Larry Elder Kamala’s Closing Argument: ‘I’m Obviously Not Joe Biden’](https://patriotpost.us/opinion/111346-kamalas-closing-argument-im-obviously-not-joe-biden-2024-10-24)
@@ -214,10 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Cal Thomas The Marijuana Campaign](https://patriotpost.us/opinion/111352-the-marijuana-campaign-2024-10-24)
 *      [Armstrong Williams The President Is Not a King or Queen: Down-Ballot Races Matter](https://patriotpost.us/opinion/111347-the-president-is-not-a-king-or-queen-down-ballot-races-matter-2024-10-24)
 *      [Ann Coulter Central Park Five: Be Careful What You Sue For](https://patriotpost.us/opinion/111343-central-park-five-be-careful-what-you-sue-for-2024-10-24)
-*      [The Washington Stand Does Every Vote Really Matter? Here’s Proof.](https://patriotpost.us/opinion/111364-does-every-vote-really-matter-heres-proof-2024-10-24)
-*      [Tony Perkins On Border Policy, Compassion Is Rooted in Justice](https://patriotpost.us/opinion/111331-on-border-policy-compassion-is-rooted-in-justice-2024-10-24)
-*      [Rich Lowry Yes, Kamala Harris Wants You Out of Your Gas-Powered Car](https://patriotpost.us/opinion/111315-yes-kamala-harris-wants-you-out-of-your-gas-powered-car-2024-10-24)
-*      [Jeff Jacoby Hispanic Voters Flock to the GOP, Exploding the ‘Great Replacement’ Theory](https://patriotpost.us/opinion/111328-hispanic-voters-flock-to-the-gop-exploding-the-great-replacement-theory-2024-10-24)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -231,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
