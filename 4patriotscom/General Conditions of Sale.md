@@ -164,7 +164,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        59 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        60 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
