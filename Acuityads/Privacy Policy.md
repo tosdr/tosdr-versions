@@ -31,9 +31,9 @@ Check out illumin's brand new Support Center
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![With Google in hot water with the DOJ, what exactly are anti-trust laws?](https://illumin.com/wp-content/uploads/2024/10/google-DPJ-263x300.jpg)
+    * ![B2B Advertising: the only guide you need](https://illumin.com/wp-content/uploads/2024/10/b2b-advertising-1-263x300.jpg)
         
-        With Google in hot water with the DOJ, what exactly are anti-trust laws?[Read More](https://illumin.com/insights/blog/google-and-doj-anti-trust-laws/)
+        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/b2b-advertising/)
         
 * [Company](#)
     * [Company](#)
@@ -216,7 +216,3 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
