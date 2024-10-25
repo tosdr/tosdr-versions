@@ -699,7 +699,7 @@ If you have a general question, want to contact the global privacy team and/or M
 
 For United States residents, to exercise your right to ask that we do not sale, share, or use your personal data for targeted advertising or to limit the use of your sensitive personal data, please click:
 
-* [Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8) ![CCPA Opt-Out Icon](https://www.mars.com/sites/g/files/jydpyr316/files/2022-12/privacy-choices-icon.png)
+* [Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8) ![CCPA Opt-Out Icon](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-10/privacy-choices-icon.png)
 
 We also recognize the Global Privacy Control for consumers who utilize that signal to exercise their privacy rights. You may also make a request by calling 1-844-316-5985, or by contacting a specific Mars entity with whom you have a relationship, including: 
 
