@@ -143,12 +143,12 @@ Choose a site language:
 
 * EN
     
-* [English](https://www.onetrust.com/)
-* [Deutsch](https://www.onetrust.com/de/)
-* [Español](https://www.onetrust.com/es/)
-* [Français](https://www.onetrust.com/fr/)
-* [Italiano](https://www.onetrust.com/it/)
-* [Português](https://www.onetrust.com/pt/)
+* [English](https://www.onetrust.com/cookie-policy/)
+* [Deutsch](https://www.onetrust.com/de/cookie-policy/)
+* [Español](https://www.onetrust.com/es/cookie-policy/)
+* [Français](https://www.onetrust.com/fr/cookie-policy/)
+* [Italiano](https://www.onetrust.com/it/cookie-policy/)
+* [Português](https://www.onetrust.com/pt/cookie-policy/)
 
 On-demand webinar coming soon...
 
@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Privacy beyond compliance: Driving business value through responsible data use](https://www.onetrust.com/resources/privacy-beyond-compliance-driving-business-value-through-responsible-data-use-webinar/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [Tackling your key challenges from the ICO Data Protection Practitioner's Conference](https://www.onetrust.com/resources/tackling-your-key-challenges-from-the-ico-data-protection-practitioners-conference-webinar/)
-* [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
 
 ### Platform
 
