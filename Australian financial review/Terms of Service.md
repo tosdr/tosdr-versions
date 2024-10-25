@@ -325,7 +325,6 @@ Advertise
 
 ### [The AI fashion designer Sophia Forrest chose for her wedding](https://www.afr.com/life-and-luxury/fashion-and-style/the-ai-fashion-designer-sophia-forrest-chose-for-her-wedding-20240917-p5kb5z)
 
-* 1 hr ago
 * Lauren Sams
 
 * ### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
