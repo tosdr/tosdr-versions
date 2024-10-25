@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/californie-160-aardbevingen-in-21-uur/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/gasland-verwoestende-resultaten-bij-boren-naar-aardgas/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
