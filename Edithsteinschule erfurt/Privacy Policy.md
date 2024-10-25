@@ -332,11 +332,19 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 **01.11.2024**
 
-schulfreier Tag
+schulfreier Tag (das Sekretariat ist geschlossen)
 
 **06.11.2024**
 
 14.00 – 18.00 Uhr Elternsprechtag (Terminvereinbarung ab 21.10.2024 übers Sekretariat möglich)
+
+**22.11.2024**
+
+Schulball (Einlass ab 18.00 Uhr)
+
+**11.12.2024**
+
+17.30 Uhr Adventskonzert in der Reglerkirche
 
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
