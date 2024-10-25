@@ -227,6 +227,6 @@ Email
 * [Follow](https://www.tiktok.com/@sonoff.official "Follow on TikTok")
 * [Follow](https://twitter.com/sonoff_global "Follow on X")
 
-Copyright © 2024 SONOFF All Rights Reserved. 备案号：[粤ICP备20054679号](https://beian.miit.gov.cn/)  
+Copyright © 2024 Shenzhen Sonoff Technologies Co., Ltd备案号：[粤ICP备20054679号](https://beian.miit.gov.cn/)  
 
 ### Pin It on Pinterest
