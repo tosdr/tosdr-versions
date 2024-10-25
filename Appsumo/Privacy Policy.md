@@ -275,7 +275,7 @@ We may use information that we collect about you, including personal information
 ![footer logo](https://appsumo2-cdn.appsumo.com/static/images/home/as-appsumo-logo-footer.svg)
 
 Part of the Sumo family  
-with [TidyCal](https://tidycal.com/), [FiveTaco](https://fivetaco.com/), and [SendFox](https://sendfox.com/).
+with [TidyCal](https://tidycal.com/), [BreezeDoc](https://breezedoc.com/), and [SendFox](https://sendfox.com/).
 
 *  [![Twitter Icon](https://appsumo2-cdn.appsumo.com/static/images/svg/twitter-icon.svg) Twitter](https://twitter.com/AppSumo)
 *  [![Instagram Icon](https://appsumo2-cdn.appsumo.com/static/images/svg/instagram-icon.svg) Instagram](https://www.instagram.com/appsumo/)
