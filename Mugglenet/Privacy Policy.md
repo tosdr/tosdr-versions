@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During the Harry Potter and the Chamber of Secrets film, Emma Watson broke her wrist.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-January 10, 2005 – Franz Ferdinand reconsidered contributing a song to Goblet of Fire.
+July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
 
 ### Potter Quote
 
-“I shall expect you and the Slytherins in the Great Hall in twenty minutes, also. If you wish to leave with your students, we shall not stop you. But if any of you attempt to sabotage our resistance or take up arms against us within this castle, then, Horace, we duel to kill.”
+“Alas! Ear wax!”
 
 [](#)
 
