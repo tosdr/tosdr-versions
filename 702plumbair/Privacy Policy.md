@@ -4,6 +4,7 @@ Skip to Content
 
 * [Financing](https://www.702plumbair.com/about-us/financing/)
 * [Specials](https://www.702plumbair.com/coupons/)
+* [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
 * [Blog](https://www.702plumbair.com/blog/)
 * [Reviews](https://www.702plumbair.com/reviews/)
 
@@ -41,7 +42,6 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     * [Heat Pumps](https://www.702plumbair.com/hvac-services/heat-pumps/)
     * [Indoor Air Quality](https://www.702plumbair.com/indoor-air-quality/)
     
-* [702 PlumbAIR Club](https://www.702plumbair.com/702-plumbair-club/)
 * [Areas We Serve](https://www.702plumbair.com/areas-we-serve/)
     
     * [Henderson](https://www.702plumbair.com/henderson/)
