@@ -401,6 +401,10 @@ Should you wish to report a complaint or if you feel that Accurate has not addre
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2050%22%3E%3C/svg%3E)
 
+![](https://www.accurate.com/wp-content/uploads/2024/10/SOC2_150.jpg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%20149%22%3E%3C/svg%3E)
+
 ![](https://www.accurate.com/wp-content/uploads/2023/09/Image-4.svg)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%201%201%22%3E%3C/svg%3E)
