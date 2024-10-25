@@ -22,19 +22,19 @@ Audio
 
 * * *
 
+* [![A Guide to Stephen King Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2019/04/24114115/PRH_StephenKing-1200x628-1.jpg)
+    
+    A Guide to Stephen King Books
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
+
+* * *
+
 * [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
     Join Our Authors for Upcoming Events
     
     Learn More >](https://www.penguinrandomhouse.com/authors/events/)
-
-* * *
-
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
-    
-    Audiobooks for Kids
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
