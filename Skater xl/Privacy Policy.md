@@ -453,7 +453,7 @@ System Requirements
 What Curators Say
 -----------------
 
-99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+104 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -470,20 +470,20 @@ Very Positive (48 reviews) ![](https://store.steamstatic.com/public/shared/image
 
 Review Type
 
- All (19,267)  
+ All (19,268)  
  Positive (16,576)  
- Negative (2,691)
+ Negative (2,692)
 
 Purchase Type
 
- All (19,267)  
+ All (19,268)  
  Steam Purchasers (18,128) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,139) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ Other (1,140) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,267)  
- Your Languages (13,311) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,268)  
+ Your Languages (13,312) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
