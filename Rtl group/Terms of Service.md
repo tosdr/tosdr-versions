@@ -307,6 +307,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Four Blauer Panther Awards for UFA and RTL Deutschland](/.galleries/images/Blue-Panther_16-9.png?__scale=undefined&description=)
+    
+    Four Blauer Panther Awards for UFA and RTL Deutschland
+    
+    25.10.2024
+    
+    Productions from RTL Deutschland and UFA have been honoured at the 2024 Blauer Panther TV & Streaming Awards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Four-Blauer-Panther-Awards-for-UFA-and-RTL-Deutschland/)
+    
+* [![slide-RTL Deutschland announces a new live event show](/.galleries/images/Stefan-Raab-2024_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland announces a new live event show
+    
+    25.10.2024
+    
+    RTL Deutschland announces a new game show with two of Germany’s greatest entertainers: Stefan Raab and comedian Michael "Bully" Herbig.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-announces-a-new-live-event-show/)
+    
 * [![slide- 32 Eyes & Ears Awards for RTL Deutschland](/.galleries/images/Eyes-Ears-2024_16-9.jpg?__scale=undefined&description=)
     
     32 Eyes & Ears Awards for RTL Deutschland
@@ -322,22 +338,6 @@ Europe's leading entertainment brand
     23.10.2024
     
     We Are Era’s Mesh Collective partners with the Vodafone Foundation in Germany for the cross-country campaign #MeMyselfandAI.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/We-Are-Era-educates-young-people-on-AI/)
-    
-* [![slide-Fremantle x Lantern Pictures](/.galleries/images/Fremantle_Lantern-Pictures_16-9.jpg?__scale=undefined&description=)
-    
-    Fremantle x Lantern Pictures
-    
-    21.10.2024
-    
-    Fremantle Australia signs an exclusive multi-year partnership with new Australian production company Lantern Pictures.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-x-Lantern-Pictures/)
-    
-* [![slide-Eat the World merges with Meet the World](/.galleries/images/Eat-the-World_16-9.jpg?__scale=undefined&description=)
-    
-    Eat the World merges with Meet the World
-    
-    21.10.2024
-    
-    A refreshed brand identity and increasing AI integration: Tour operator Eat the World merges with Meet the World to leverage synergies.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Eat-the-World-merges-with-Meet-the-World/)
     
 * [![slide-Digitalising <i>Stern</i>](/.galleries/images/Stern_16-9.png?__scale=undefined&description=)
     
