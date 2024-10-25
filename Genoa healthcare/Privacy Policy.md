@@ -149,3 +149,4 @@ We may change this policy. If we do so, such change will appear on this page of 
 
 * [Privacy Policy](https://www.genoahealthcare.com/privacy-policy/)
 * [Terms of Use](https://www.genoahealthcare.com/website-terms-of-use/)
+* [Language Assistance and Notice of Nondiscrimination](https://www.genoahealthcare.com/language-assistance-and-notice-of-nondiscrimination/)
