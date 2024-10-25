@@ -3,7 +3,6 @@
 * [Shop](https://espired.com/products/)
 * [Exclusive Products](https://espired.com/exclusive-products/)
 * [Homeschool Curriculum](https://www.homeschoolbuyersco-op.org/)
-* [Kids News](https://espired.com/kids-news/)
 * [Ventures](https://espired.com/ventures/)
 * [Curriculum Development](https://espired.com/curriculum-development/)
 * [Our Mission](https://espired.com/our-mission/)
