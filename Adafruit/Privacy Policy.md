@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The economy of human time is the next advantage of machinery in manufactures”
+“ The most dangerous phrase in the language is, We’ve always done it this way”
 
-[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
+[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
 
 [](https://www.adafruit.com/about)
 
