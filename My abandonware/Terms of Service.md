@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Danny Sullivan's Indy Heat](https://www.myabandonware.com/game/danny-sullivan-s-indy-heat-4s6)
+* [Dance Dance Revolution](https://www.myabandonware.com/game/dance-dance-revolution-gyf)
 * [Denjinmakai](https://www.myabandonware.com/game/denjinmakai-b84)
 * [Fighters Megamix](https://www.myabandonware.com/game/fighters-megamix-t0u)
 * [Duke Nukem 3D](https://www.myabandonware.com/game/duke-nukem-3d-t0t)
-* [Centipede](https://www.myabandonware.com/game/centipede-t0s)
-* [Batman & Robin](https://www.myabandonware.com/game/batman-robin-t0r)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
