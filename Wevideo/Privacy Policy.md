@@ -62,7 +62,7 @@ Skip to main content
     * [Help center](https://www.wevideo.com/support)
     
 * [Pricing](https://www.wevideo.com/pricing-overview)
-* [Sign up free](https://www.wevideo.com/signup) [Request a quote](https://www.wevideo.com/contact-sales)
+* [Sign up free](https://www.wevideo.com/signup) [Contact sales](https://www.wevideo.com/contact-sales)
     
     [Dashboard](https://www.wevideo.com/app) [Log out](#)
     
