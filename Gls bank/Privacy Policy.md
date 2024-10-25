@@ -693,8 +693,6 @@ Die Speicherung kann serverseitig und/oder in einem Cookie (sogenanntes Opt-In-C
 Wir nutzen Klaro! für die Einwilligung zu Cookies.  
 Klaro! Cookie-Einwilligungs-Management; Dienstanbieter: KIProtect GmbH, Bismarckstr. 10-12, 10625 Berlin, Deutschland; Website: [https://kiprotect.com/klaro](https://kiprotect.com/klaro); Datenschutzerklärung: [https://kiprotect.com/de/ressourcen/datenschutz](https://kiprotect.com/de/ressourcen/datenschutz)
 
- **Ihr Besuch wird derzeit nicht von der Matomo-Webanalyse-Software aufgezeichnet. Aktivieren Sie die vorstehende Checkbox, um die Aufzeichnung zu starten.**
-
 Weitere GLS Bank Angebote & Subdomains
 --------------------------------------
 
@@ -786,36 +784,12 @@ Lesen Sie hier unsere Datenschutzhinweise zur [videounterstützten telefonischen
 
 [GLS Nachhaltigkeitsbericht](#q4053140528)
 
-Der [GLS Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls-bank.de/) ist eine Webseite, welche wir unter unserer Subdomain [https://nachhaltigkeitsbericht.gls-bank.de/](https://nachhaltigkeitsbericht.gls-bank.de/) anbieten.  
+Der [GLS Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls.de/) ist eine Webseite, welche wir unter der Subdomain [https://nachhaltigkeitsbericht.gls.de/](https://nachhaltigkeitsbericht.gls-bank.de/) (sowie für einzelne Jahre [https://nachhaltigkeitsbericht2022.gls.de/](https://nachhaltigkeitsbericht2022.gls.de/), [https://nachhaltigkeitsbericht2021.gls.de/](https://nachhaltigkeitsbericht2021.gls.de/), [https://nachhaltigkeitsbericht2020.gls.de/](https://nachhaltigkeitsbericht2020.gls.de/)) anbieten.  
   
 Die Webseite nutzt unter anderem folgende technischen Dienste: Vimeo, YouTube (NoCookie) und ist auf unserem eigenen Server gehostet.
 
 **Cookies**  
-Die Webseite [https://nachhaltigkeitsbericht.gls-bank.de/](https://nachhaltigkeitsbericht.gls-bank.de/) verwendet ausschließlich funktionale Cookies. Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.  
-  
-**Vimeo**  
-Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden.  
-  
-Datenschutzerklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy). Wir weisen darauf hin, dass Vimeo Google Analytics einsetzen kann und verweisen hierzu auf die Datenschutzerklärung ([https://www.google.com/policies/privacy](https://www.google.com/policies/privacy) ) sowie Opt-Out-Möglichkeiten für Google-Analytics ([http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de) ) oder die Einstellungen von Google für die Datennutzung zu Marketingzwecken ([https://adssettings.google.com/](https://adssettings.google.com/)).  
-  
-Als Schutzmaßnahme binden wir die Videos in der **„Do Not Track“** Variante (dnt=1) ein, so dass personenbezogene Daten wenn nur in anonymisierter Form an Vimeo übermittelt werden. Dies gilt auch für Erklärvideos in der Kontoeröffnungsstrecke.  
-  
-**YouTube (youtube-nocookie.com)**  
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, in der youtube-nocookie.com Variante ein.  
-  
-Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/) , Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).  
-  
-**Tracking (Matomo, ehemals Piwik)**  
-Für uns ist es hilfreich, das Nutzerverhalten unserer Besucher\*innen zu erfassen. Mit diesen Ergebnissen können wir die Seiten verbessern und an die Nutzerbedürfnisse anpassen. Für die statistischen Auswertungen nutzen wir die Open-Source-Web-Analyse Software Matomo (früher Piwik) auf einem GLS Bank-eigenen Server. Mit ihr werden sogenannte Session-Cookies gesetzt, die sich nach Ende der Browser-Sitzung (Session) automatisch bzw. nach einer bestimmten Laufzeit wieder von Ihrer Festplatte löschen.
-
-[GRI Datenbericht](#q4053140529)
-
-Der [GRI Datenbericht](https://gri-datenbericht.gls-bank.de/ "GRI Datenbericht der GLS Bank") ist eine Webseite, welche wir unter unserer Subdomain [https://gri-datenbericht.gls-bank.de/](https://gri-datenbericht.gls-bank.de/) anbieten.  
-  
-Die Webseite nutzt unter anderem folgende technischen Dienste: Vimeo, YouTube (NoCookie) und ist auf unserem eigenen Server gehostet.
-
-**Cookies**  
-Die Webseite [https://gri-datenbericht.gls-bank.de/](https://gri-datenbericht.gls-bank.de/) verwendet ausschließlich funktionale Cookies. Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.  
+Die Webseite [https://nachhaltigkeitsbericht.gls.de/](https://nachhaltigkeitsbericht.gls.de/) verwendet ausschließlich funktionale Cookies. Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.  
   
 **Vimeo**  
 Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden.  
