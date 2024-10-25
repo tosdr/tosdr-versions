@@ -17,11 +17,6 @@ Main menu
     * [Sitting calendar](https://parliament.vic.gov.au/sittingcalendar)
     * [Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
     
-    #### [Hansard](https://parliament.vic.gov.au/hansard)
-    
-    * [Search Hansard](https://hansard.parliament.vic.gov.au/isysadvsearch.html)
-    * [Browse Hansard](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-debate/)
-    
     #### [Resources](https://parliament.vic.gov.au/link/4e38f172ae854e1fe76eee60cfb9f2ee.aspx#resources)
     
     * [Notice papers](https://parliament.vic.gov.au/notice-papers)
@@ -32,6 +27,37 @@ Main menu
     * [Guides for departments](https://parliament.vic.gov.au/parliamentary-activity/guides-for-departments/)
     * [Statistics](https://parliament.vic.gov.au/parliamentary-activity/statistics/)
     * [How sitting days work](https://parliament.vic.gov.au/about/how-parliament-works/how-sitting-days-work/)
+    
+    #### Latest Icon time
+    
+    * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28415)
+        
+        Icon calendar 17 October 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-27993)
+        
+        Icon calendar 17 October 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-27892)
+        
+        Icon calendar 16 October 2024
+        
+        Proof
+        
+    * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28330)
+        
+        Icon calendar 16 October 2024
+        
+        Final
+        
     
 * [Get involved](https://parliament.vic.gov.au/get-involved/)Expand Get involved
     
