@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6dca3f4636efbde0f4e5bfd02fb54d3b
+dc89d4cb68a91b983e4375f891b1ecf7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Tourmaline Sparkler necklace](https://www.sojourner.biz/images/cache/jewelry/N0071.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/tourmaline-sparkler-necklace.html "Tourmaline Sparkler necklace")
+[![2 mm champagne rice pearls](https://www.sojourner.biz/images/cache/pearls/PE0196.200.jpg)](https://www.sojourner.biz/beads/pearls/2-mm-champagne-rice-pearls.html "2 mm champagne rice pearls")
 
-#### [Tourmaline Sparkler necklace](https://www.sojourner.biz/jewelry/necklaces/tourmaline-sparkler-necklace.html "Tourmaline Sparkler necklace")
+#### [2 mm champagne rice pearls](https://www.sojourner.biz/beads/pearls/2-mm-champagne-rice-pearls.html "2 mm champagne rice pearls")
 
-$99.00
+$12.00
 
 ### Best Sellers
 
