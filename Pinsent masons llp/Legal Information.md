@@ -2,7 +2,7 @@
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-1. Legal Notices [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
+1. Legal Notices [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices) 
 
 [toggle menu](# "Menu")
 
@@ -272,7 +272,7 @@ General
 
 Pinsent Masons LLP is a limited liability partnership registered in England and Wales   (registered number: OC333653). It is authorised and regulated by the Solicitors Regulation Authority and the appropriate regulatory body in the other jurisdictions in which it operates.
 
-The word 'partner', used in relation to the LLP, refers to a member of Pinsent Masons LLP or an employee or consultant with equivalent standing. A list of the members of the LLP, and of those non-members who are designated as partners, and non-member partners in affiliated entities, is displayed at Pinsent Masons LLP's registered office: 30 Crown Place, London EC2A 4ES, United Kingdom and is available [here](https://www.pinsentmasons.com/legal-notices/list-of-members "List of members").
+The word 'partner', used in relation to the LLP, refers to a member of Pinsent Masons LLP or an employee or consultant with equivalent standing. A list of the members of the LLP, and of those non-members who are designated as partners, and non-member partners in affiliated entities, is displayed at Pinsent Masons LLP's registered office: 30 Crown Place, London EC2A 4ES, United Kingdom and is available [here](https://www.pinsentmasons.com/en-gb/legal-notices/list-of-members "List of members").
 
 Pinsent Masons LLP has offices in England, Scotland, Dubai, Qatar, the People's Republic of China and it has affiliated entities in Northern Ireland, Ireland, France, Germany, Spain, The Netherlands, Luxembourg, South Africa, Hong Kong, Singapore and Australia (together referred to as "Pinsent Masons"). Alsabhan & Alajaji Pinsent Masons LLC is a law firm and limited liability company formed in the Kingdom of Saudi Arabia, constituted and regulated in accordance with relevant local regulatory and legal requirements. Alsabhan & Alajaji Pinsent Masons LLC is licensed to practise in the Kingdom of Saudi Arabia under a foreign law licence (No. 450122000017) granted by the Kingdom of Saudi Arabia’s Ministry of Justice and is managed by its own members, partners or other principals.
 
@@ -315,7 +315,7 @@ We are committed to acting in accordance with all applicable professional conduc
 Statement of Ethics
 -------------------
 
-Pinsent Masons does not tolerate, permit, or engage in bribery, corruption, or improper payments of any kind in our business dealings, anywhere in the world, both with public officials and people in the private sector.  For further information, see the [Statement of Ethics](https://www.pinsentmasons.com/legal-notices/statement-of-ethics).  
+Pinsent Masons does not tolerate, permit, or engage in bribery, corruption, or improper payments of any kind in our business dealings, anywhere in the world, both with public officials and people in the private sector.  For further information, see the [Statement of Ethics](https://www.pinsentmasons.com/en-gb/legal-notices/statement-of-ethics).  
 
 Speak Up (Whistle Blowing)
 --------------------------
@@ -331,7 +331,7 @@ Senior Partner – Andrew Masraf
 Privacy Policy
 --------------
 
-Pinsent Masons may use your personal information together with other information for providing legal services, credit checks, anti- money laundering, marketing, administration and training, and we may disclose information to our service providers and agents for these purposes. We take the privacy and security of your information seriously. Worldwide we follow a global privacy policy and we will only use such personal information as set out in this privacy policy. For further information, see a full copy of our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy). 
+Pinsent Masons may use your personal information together with other information for providing legal services, credit checks, anti- money laundering, marketing, administration and training, and we may disclose information to our service providers and agents for these purposes. We take the privacy and security of your information seriously. Worldwide we follow a global privacy policy and we will only use such personal information as set out in this privacy policy. For further information, see a full copy of our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy). 
 
 Anti-Money Laundering Policies and Procedures
 ---------------------------------------------
@@ -340,17 +340,17 @@ Before accepting any new instruction, we will ask for information about the pote
 
 When first taking your instructions, we are required to identify both our client and (if relevant) the ultimate beneficial owner of our client, and to verify that identity in a number of ways.  We may need your assistance to satisfy these requirements.  Without compliance with these obligations, we will not be able to act for you.
 
-It is our policy that the requirements for identifying and verifying a client's identity which are in force in the UK, shall also apply in our offices outside the UK unless local laws impose higher requirements, in which event we shall apply those higher standards. For further information, see [Anti-Money Laundering](https://www.pinsentmasons.com/legal-notices/money-laundering).
+It is our policy that the requirements for identifying and verifying a client's identity which are in force in the UK, shall also apply in our offices outside the UK unless local laws impose higher requirements, in which event we shall apply those higher standards. For further information, see [Anti-Money Laundering](https://www.pinsentmasons.com/en-gb/legal-notices/money-laundering).
 
 Anti-Facilitation of Tax Evasion
 --------------------------------
 
-Pinsent Masons does not tolerate facilitation of tax evasion, wherever it may occur.  We expect the businesses and people we engage with to fully comply with their tax obligations.  We will not tolerate any of our partners, employees, agents or business partners knowingly assisting or encouraging tax fraud by any of the clients, suppliers or others that we do business with anywhere in the world. For further information, see [Anti-Facilitation of Tax Evasion Statement](https://www.pinsentmasons.com/legal-notices/anti-facilitation-of-tax-evasion-statement).
+Pinsent Masons does not tolerate facilitation of tax evasion, wherever it may occur.  We expect the businesses and people we engage with to fully comply with their tax obligations.  We will not tolerate any of our partners, employees, agents or business partners knowingly assisting or encouraging tax fraud by any of the clients, suppliers or others that we do business with anywhere in the world. For further information, see [Anti-Facilitation of Tax Evasion Statement](https://www.pinsentmasons.com/en-gb/legal-notices/anti-facilitation-of-tax-evasion-statement).
 
 Human Trafficking and Modern Slavery
 ------------------------------------
 
-Pinsent Masons opposes all forms of slavery and human trafficking, and is committed to taking steps to ensure that these do not occur in our business or in our supply chains. For further information, see [Modern Slavery Act Transparency Statement](https://www.pinsentmasons.com/legal-notices/modern-slavery).
+Pinsent Masons opposes all forms of slavery and human trafficking, and is committed to taking steps to ensure that these do not occur in our business or in our supply chains. For further information, see [Modern Slavery Act Transparency Statement](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery).
 
 Diversity and Equal Opportunities  
 -----------------------------------
@@ -370,7 +370,7 @@ As required under the Solicitors Regulation Authority Indemnity Insurance Rules,
 Terms and Conditions of Website Use
 -----------------------------------
 
-See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/terms-and-conditions) of Website Use (together with the documents referred to in it).
+See our [Terms and Conditions](https://www.pinsentmasons.com/en-gb/legal-notices/terms-and-conditions) of Website Use (together with the documents referred to in it).
 
 * [### UK Regulatory](#)
     
@@ -793,23 +793,23 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/ "Pinsent Masons")
+[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
