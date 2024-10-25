@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jesus-Pena-Juan-Salgado-326x245.jpg)](https://cwbchicago.com/2024/10/man-charged-with-murdering-high-school-soccer-captain-a-senseless-loss-of-talent-skill-and-leadership.html "Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’")
+
+Little Village
+
+### [Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’](https://cwbchicago.com/2024/10/man-charged-with-murdering-high-school-soccer-captain-a-senseless-loss-of-talent-skill-and-leadership.html "Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’")
+
+[October 20, 2024 3:44 PM](https://cwbchicago.com/2024/10)
+
+Prosecutors have charged a man with fatally shooting a 17-year-old high school soccer team captain as the victim drove home from practice with two friends this summer.[](https://cwbchicago.com/2024/10/man-charged-with-murdering-high-school-soccer-captain-a-senseless-loss-of-talent-skill-and-leadership.html "Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
 
 New City
@@ -262,16 +272,6 @@ Back of the Yards
 [October 20, 2024 8:21 AM](https://cwbchicago.com/2024/10)
 
 More than seven years after two Chicago police officers were shot while working in Back of the Yards, a second man was charged with the crime on Saturday.[](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Division-0412-october-20-326x245.jpg)](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
-
-Gold Coast
-
-### [Man stabbed, critically injured at Gold Coast bar](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
-
-[October 20, 2024 7:44 AM](https://cwbchicago.com/2024/10)
-
-A man is in critical condition after being cut in the neck during a fight at a Gold Coast bar overnight. Police are questioning a second man.[](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
 
 Search
 
