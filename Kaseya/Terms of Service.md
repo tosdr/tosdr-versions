@@ -360,12 +360,6 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/10/K365-Webinar-Advanced-Threat-Protection-1200x800-px-300x200.png)
-    
-    Advanced Threat Protection: Leveraging Kaseya 365 for Enhanced Security
-    
-    October 24
-    
     [View All Events](https://www.kaseya.com/events/)
     
 * [Company](# "Company")
