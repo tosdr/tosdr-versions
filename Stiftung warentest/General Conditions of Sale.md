@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Katzenkranken­versicherung im Test (12/2022): Kranken­versicherung für Katzen](https://www.test.de/Katzenkrankenversicherung-im-Test-122022-Krankenversicherung-fuer-Katzen-5935066-0/ "Katzenkrankenversicherung im Test (12/2022) - Krankenversicherung für Katzen")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Elektronische Patienten­akte: Digitale Akte bald auto­matisch für alle](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte bald automatisch für alle")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Chromebooks im Test: Güns­tiger rechnen mit Google](https://www.test.de/Chromebooks-im-Test-5966365-0/ "Chromebooks im Test - Günstiger rechnen mit Google")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
 
 Service Stiftung Warentest
 
