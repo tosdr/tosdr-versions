@@ -150,8 +150,10 @@ Latest reactions
 
 Latest forum posts
 
+* [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime?page=1 "File-Hunter.com downtime")
+* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
+* [Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen](https://www.msx.org/forum/msx-talk/software/looking-for-audio-from-shiro-to-kuro-no-densetsu-hyakki-hen "Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen")
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
-* [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime "File-Hunter.com downtime")
 * [@djh1697 --> MSX/Naim](https://www.msx.org/forum/msx-talk/off-topic/djh1697-msxnaim "@djh1697  --> MSX/Naim")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=69 "WonderTANG! Who wants to juice up your MSX?")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
@@ -161,8 +163,6 @@ Latest forum posts
 * [HIC board in FS-A1MKII - thanks RBSC!](https://www.msx.org/forum/msx-talk/hardware/hic-board-in-fs-a1mkii-thanks-rbsc "HIC board in FS-A1MKII - thanks RBSC!")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
-* [New MSX2 owner, intro, and some questions](https://www.msx.org/forum/msx-talk/general-discussion/new-msx2-owner-intro-and-some-questions "New MSX2 owner, intro, and some questions")
-* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=3 "Sony HB-75AS not displaying")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
