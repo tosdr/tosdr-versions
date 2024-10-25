@@ -317,7 +317,7 @@ Please enter a valid email address.
 
 Get 10% off your first purchase\*
 
-Three steps to saving:
+Three steps to savings:
 
 1. Sign up to receive Bose emails and communications below
 2. Become a My Bose member
@@ -329,7 +329,7 @@ The email address is invalid
 
 SIGN UP
 
-**\*The coupon code will be sent via email. Offer valid for full-priced products with a maximum discount of $100. Please see email for full terms and conditions of this offer.**
+**\*The coupon code will be sent via email and can be used for a maximum discount of $100. Other exclusions may apply. Please see email for full terms and conditions of this offer.**
 
 Email sign-up confirmation
 
