@@ -13,7 +13,7 @@
     * [Kunst & Kultur](https://www.sinoskop.de/blog/category/im-sinoskop/kunst-kultur/)
     * [Umwelt & Klima](https://www.sinoskop.de/blog/category/umwelt/)
 * [ENGLISH](https://www.sinoskop.de/blog/category/english/)
-* [ZEITSTRAHL](https://www.sinoskop.de/blog/category/zeitstrahl/)
+* [ZEITSTRAHL](https://www.sinoskop.de/blog/category/zeitstrahl-2024/)
     * [2024](https://www.sinoskop.de/blog/zeitstrahl-2024/)
     * [2023](https://www.sinoskop.de/blog/zeitstrahl-2023/)
     * [2021](https://www.sinoskop.de/blog/zeitstrahl-2021/)
