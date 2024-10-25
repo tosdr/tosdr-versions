@@ -128,7 +128,6 @@ These Terms and Conditions will be governed and be interpreted pursuant to the l
 
 * **[Partners](https://www.identrust.com/partners)**
 * [Affiliated Program Partners](https://www.identrust.com/partners/affiliated)
-* [Integrated Solutions Partners](https://www.identrust.com/partners/solution)
 * [Trust Network Compliant Partners](https://www.identrust.com/partners/compliant)
 
 * **[Pricing](https://www.identrust.com/certificates-portfolio)**
