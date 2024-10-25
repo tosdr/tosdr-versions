@@ -20,16 +20,16 @@ Friday, October 25 2024
 
 Latest
 
-* [Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
-* [White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
-* [What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
-* [What is YouTube Restricted Mode? (And how to use it)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
-* [Best SUV and Truck Tires of 2024](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
-* [OxygenOS 15 Will Bring Android 15 to OnePlus Phones](https://digitpatrox.com/oxygenos-15-will-bring-android-15-to-oneplus-phones/)
-* [ROI from AI projects has nosedived – how can IT leaders deliver success?](https://digitpatrox.com/roi-from-ai-projects-has-nosedived-how-can-it-leaders-deliver-success/)
-* [5 Best AI Writing Tools: Supercharge Your Content Creation](https://digitpatrox.com/5-best-ai-writing-tools-supercharge-your-content-creation/)
-* [MSI Codex R2 review: 1080p gaming on a budget](https://digitpatrox.com/msi-codex-r2-review-1080p-gaming-on-a-budget/)
-* [Henry Schein discloses data breach a year after ransomware attack](https://digitpatrox.com/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/)
+* [CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
+* [You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
+* [Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
+* [Microsoft Edge Adds Color Changes & Scrollbar Customization](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
+* [Jensen Huang just issued a big update on Nvidia’s Blackwell chip flaws](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
+* [Fax Not Going Through? Here Are 7 Tips to Make it Send](https://digitpatrox.com/fax-not-going-through-here-are-7-tips-to-make-it-send/)
+* [NYT Strands today — hints, spangram and answers for game #236 (Friday, October 25 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-236-friday-october-25-2024/)
+* [Apple creates Private Cloud Compute VM to let researchers find bugs](https://digitpatrox.com/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
+* [The Browser Company is building another browser, and it’s not called Arc.](https://digitpatrox.com/the-browser-company-is-building-another-browser-and-its-not-called-arc/)
+* [Deadlock Patch Notes (October 24): New Heroes, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-24-new-heroes-buffs-nerfs-other-changes/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/wLscK3G4U8MWPJsqTQn7Ti-1200-80.jpg)](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3587286-0-96987000-1729821071-shutterstock_editorial_2382522423.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
     
-    [Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
+    [CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
     
-    2 mins ago
+    48 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3587124-0-30299000-1729800511-shutterstock_771480628.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
+* [![](https://lifehacker.com/imagery/articles/01HP2JFQEZPKSKTPKS139X50H0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
     
-    [White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
-    
-    24 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JB00SFZTS5KSEBV6D2WVX6B6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
-    
-    [What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
-    
-    51 mins ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-is-YouTube-Restricted-Mode_.jpg)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
-    
-    [What is YouTube Restricted Mode? (And how to use it)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
-    
-    59 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1588689122/prod/content/dam/CRO-Images-2020/Cars/05May/CR-Cars-InlineHero-2020-Chevrolet-Silverado-Diesel-5-20)](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
-    
-    [Best SUV and Truck Tires of 2024](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
+    [You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
     
     1 hour ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1569856488/prod/content/dam/CRO%20Images%202019/Cars/September/CR-Cars-best-tire-brands-0919)](https://digitpatrox.com/best-tire-brands-of-2024/)
+    
+    [Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
+    
+    [Microsoft Edge Adds Color Changes & Scrollbar Customization](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
+    
+    2 hours ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/4MC7kb9PTyUzDRmHHcv6w7-1200-80.jpg)](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
+    
+    [Jensen Huang just issued a big update on Nvidia’s Blackwell chip flaws](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 mins ago
+* [48 mins ago
     
-    ### Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
-* [24 mins ago
+    ### CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
+* [1 hour ago
     
-    ### White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
-* [51 mins ago
+    ### You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
+* [2 hours ago
     
-    ### What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
+    ### Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
 
 Most Popular Topics
 
-* [August 23, 2024
+* [September 18, 2024
     
-    ### Brighton vs Man Utd live stream: How to watch Premier League game online](https://digitpatrox.com/brighton-vs-man-utd-live-stream-how-to-watch-premier-league-game-online/)
-* [2 weeks ago
+    ### Google Workspace users will see their Calendars front and center in Chrome](https://digitpatrox.com/google-workspace-users-will-see-their-calendars-front-and-center-in-chrome/)
+* [August 22, 2024
     
-    ### AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
-* [7 days ago
+    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
+* [1 week ago
     
-    ### Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
+    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### ROI from AI projects has nosedived – how can IT leaders deliver success?](https://digitpatrox.com/roi-from-ai-projects-has-nosedived-how-can-it-leaders-deliver-success/)
-* [2 hours ago
-    
-    ### 5 Best AI Writing Tools: Supercharge Your Content Creation](https://digitpatrox.com/5-best-ai-writing-tools-supercharge-your-content-creation/)
 * [3 hours ago
     
-    ### MSI Codex R2 review: 1080p gaming on a budget](https://digitpatrox.com/msi-codex-r2-review-1080p-gaming-on-a-budget/)
+    ### NYT Strands today — hints, spangram and answers for game #236 (Friday, October 25 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-236-friday-october-25-2024/)
+* [4 hours ago
+    
+    ### Apple creates Private Cloud Compute VM to let researchers find bugs](https://digitpatrox.com/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
+* [4 hours ago
+    
+    ### The Browser Company is building another browser, and it’s not called Arc.](https://digitpatrox.com/the-browser-company-is-building-another-browser-and-its-not-called-arc/)
 
 Most Viewed Topics
 
