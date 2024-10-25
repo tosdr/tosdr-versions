@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ondergang-afghanistan-op-geplande-herhaling/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/californie-160-aardbevingen-in-21-uur/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
