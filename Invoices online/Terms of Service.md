@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=9468862)  
-ELLIE'S CLEANING CHICKS
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=69493739)  
+Baby Toddles Infant Care
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=194090759)  
-AMS Ambu Medical Supplies
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=164889006)  
+Lily Fern & Co
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=167124173)  
-Norton Medical & Consult - Namibia
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=127655024)  
-webb it services
-
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=150082733)  
-Salvage Genie
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=18597195)  
-van Schaik rentals
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=36871677)  
-Mountain Lion Properties
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=112842662)  
-Multi CNC Solutions CC
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=32219372)  
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=130290830)  
 Digifax (Pty) Ltd trading as Digirent
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=13683884)  
-Quad Biking Cape Town
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=126712242)  
+Westside Car Audio CC
 
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=21794229)  
-VA AND M BUSINESSES (PTY)LTD
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=181996954)  
+Brilliant Roof Products
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=134714897)  
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=154659788)  
+Forgotten Goods (Pty) Ltd
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=194955461)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=186213006)  
+CBR Verwe/Paints
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=28687921)  
+kidoscabbie
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=19245168)  
 Cooper Logistics (Pty) Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=25420418)  
-Depot Diesel (Pty) Ltd
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=37048585)  
+SafeTclip
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=121746155)  
-VIR Electrical (PTY) LTD
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=71914165)  
+TurboFibre
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=1b16895208a8853b9f9d802af085fad343aff980050b0f04adaf54c7b740716a&c=75082980)  
-Dombieterfontein (PTY) LTD
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=123938734)  
+TIGERDSL
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=129068577)  
+Sarabi
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=2278e9a3854cd39d3bef0555b0bdef9dedb15633ae57837e6735d1fb6975dbc8&c=67708273)  
+Camp 4 Africa (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
