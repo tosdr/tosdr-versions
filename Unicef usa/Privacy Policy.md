@@ -536,6 +536,7 @@ Footer
 ------
 
 * [Media Hub](https://www.unicefusa.org/press)
+* [UNICEF Reports](https://www.unicefusa.org/media-hub/reports)
 * [Stories of UNICEF in Action](https://www.unicefusa.org/stories)
 * [Manage Cookies](#)
 * [Facebook](https://facebook.com/UNICEF-USA)
