@@ -59,7 +59,7 @@ Full Menu Menu
         * [Onboarding](https://www.fcps.edu/onboarding)
         * [Retirees](https://www.fcps.edu/about-fcps/employees/retirees)
         * [Professional Development](https://www.fcps.edu/about-fcps/employees/professional-development)
-        * [Recognition Programs](https://www.fcps.edu/about-fcps/employees/recognition-programs-0)
+        * [Recognition Programs](https://www.fcps.edu/about-fcps/employees/recognition-programs)
     
 * Services
     
@@ -150,7 +150,7 @@ Full Menu Menu
         * [All Board Committees...](https://www.fcps.edu/get-involved/school-board-committees)
         * [Community Advisory Committees](https://www.fcps.edu/get-involved/community-advisory-committees)
         * [Liaisons to Other Organizations](https://www.fcps.edu/get-involved/school-board-committees/liaisons-other-organizations)
-        * [Standing Committees](https://www.fcps.edu/get-involved/standing-committees)
+        * [Standing Committees](https://www.fcps.edu/get-involved/school-board-committees/standing-committees)
     * Students
         * [Activities](https://www.fcps.edu/activities)
         * [Athletics](https://www.fcps.edu/activities/student-athletics)
