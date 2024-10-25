@@ -143,12 +143,12 @@ Choose a site language:
 
 * EN
     
-* [English](https://www.onetrust.com/)
-* [Deutsch](https://www.onetrust.com/de/)
-* [Español](https://www.onetrust.com/es/)
-* [Français](https://www.onetrust.com/fr/)
-* [Italiano](https://www.onetrust.com/it/)
-* [Português](https://www.onetrust.com/pt/)
+* [English](https://www.onetrust.com/privacy-notice/)
+* [Deutsch](https://www.onetrust.com/de/privacy-notice/)
+* [Español](https://www.onetrust.com/es/privacy-notice/)
+* [Français](https://www.onetrust.com/fr/privacy-notice/)
+* [Italiano](https://www.onetrust.com/it/privacy-notice/)
+* [Português](https://www.onetrust.com/pt/privacy-notice/)
 
 On-demand webinar coming soon...
 
