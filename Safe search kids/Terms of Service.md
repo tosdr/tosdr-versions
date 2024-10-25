@@ -356,15 +356,16 @@ Share This Article
 * [Internet Security 101 | How To Be Safer Online](https://www.safesearchkids.com/internet-security-101/)
 * [Phishing, SMishing, Vishing, and Quishing](https://www.safesearchkids.com/protecting-against-online-scams-phishing-smishing-vishing/)
 * [Should I Save My Credit Card Information on a Website?](https://www.safesearchkids.com/should-i-save-my-credit-card-information-on-a-website/)
+* [Safe Search Settings](https://www.safesearchkids.com/how-to-turn-on-safesearch-and-lock-it-on-google/)
 * [Malware Removal and Protection](https://www.safesearchkids.com/malware-removal-and-protection/)
 * [Can Hackers Breach Microsoft 365 Accounts?](https://www.safesearchkids.com/can-hackers-breach-microsoft-365-accounts/)
 * [Detect And Remove Potentially Unwanted Programs](https://www.safesearchkids.com/how-to-detect-and-remove-pup-potentially-unwanted-programs/)
 * [How to Report an Email as Phishing](https://www.safesearchkids.com/how-to-report-a-phishing-email/)
 * [Is a VPN Necessary? VPN’s Explained for Dummies](https://www.safesearchkids.com/vpn-for-dummies-is-a-vpn-necessary/)
 * [Social Engineering (Psychological Manipulation)](https://www.safesearchkids.com/social-engineering-how-psychological-manipulation-exploits-online-behavior/)
-* [Safe Search Settings | How to Turn on Safe Search](https://www.safesearchkids.com/how-to-turn-on-safesearch-and-lock-it-on-google/)
+* [Google for Kids | Safe Search](https://www.safesearchkids.com/google-kids/)
+* [What is The Fediverse? Is it Safe?](https://www.safesearchkids.com/the-fediverse-and-its-relatiionship-with-social-media/)
 * [Ransomware Protection](https://www.safesearchkids.com/ransomware-protection/)
-* [The Fediverse and Social Media: What is it? Is it Safe?](https://www.safesearchkids.com/the-fediverse-and-its-relatiionship-with-social-media/)
 
 ### Parental Controls
 
