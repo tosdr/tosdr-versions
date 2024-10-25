@@ -85,6 +85,10 @@ Menu Close
             
             Apply proven practice for reading
             
+        * [Flocabulary](https://www.flocabulary.com/)
+            
+            Cultivate literacy across curriculum with standards-aligned, video-based lessons
+            
         * [Freckle](https://www.renaissance.com/products/freckle/)
             
             Differentiate practice for every learner
