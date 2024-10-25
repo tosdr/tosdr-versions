@@ -299,7 +299,3 @@ Choose Language
 * Türkçe
 * Українська
 * ‫العربية
-
-This website uses cookies. To learn more, visit our [Cookie Policy.](https://turbovpn.com/cookie-policy)
-
-Ok,I got it
