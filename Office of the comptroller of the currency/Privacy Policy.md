@@ -38,6 +38,8 @@ An official website of the United States government
         * [Office of Thrift Supervision Archive Search](https://www.occ.gov/news-events/newsroom/news-issuances-by-year/ots-issuances/index-ots-issuances.html "Office of Thrift Supervision (OTS) Issuances")
     
 
+Parts of this site may be down for maintenance from Friday, October 25, 8:00 p.m. to Sunday, October 27, 9:00 a.m. (Eastern).
+
 _[![OCC logo - search](/images/c-clamp-images/occ-logo-des.svg "OCC logo")​![OCC logo - mobile](/images/c-clamp-images/occ-logo-mob.svg "occ-logo-mob-white")](https://www.occ.gov/index.html "Home")_
 
 Search
