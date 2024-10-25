@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 * [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
 * [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
 * [Electric Cars: Long-Lasting Renewable Batteries](https://www.sciencedaily.com/releases/2024/10/241024131708.htm)
@@ -238,7 +239,6 @@ this hour
 * [Human Actions Cause Insect Color Change](https://www.sciencedaily.com/releases/2024/10/241024173707.htm)
 * [Better Brain-Machine Interfaces, Pacemakers](https://www.sciencedaily.com/releases/2024/10/241024145233.htm)
 * [Gut Bacterial Enzyme's Wide-Ranging Functions](https://www.sciencedaily.com/releases/2024/10/241024145501.htm)
-* [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
-
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
   
 
