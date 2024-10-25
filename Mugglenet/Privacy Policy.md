@@ -244,12 +244,6 @@ MuggleNet Archive Select Month October 2024  (17) September 2024  (30) August 
 
 ### October 2024
 
-#### Thu, Oct 24
-
-Angelina Johnson's birthday
-
-Recurs yearly
-
 #### Sat, Oct 26
 
 Nick Shirm's birthday (Zacharias Smith)
@@ -306,6 +300,38 @@ Molly Weasley's birthday
 
 Recurs yearly
 
+#### Thu, Oct 31
+
+Death of James and Lily Potter; Harry survives; Voldemort loses his power
+
+Recurs yearly
+
+1981
+
+Harry's name comes out of the Goblet of Fire
+
+Recurs yearly
+
+1994
+
+Nearly Headless Nick's deathday party; Mrs. Norris is petrified
+
+Recurs yearly
+
+1992
+
+Sirius Black attacks the Fat Lady
+
+Recurs yearly
+
+1993
+
+Troll in the girls' bathroom
+
+Recurs yearly
+
+1991
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -316,15 +342,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
 
 ### Potter History
 
-July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
+January 23, 2005 – The length of Half-Blood Prince was revealed on Barnes & Noble and Amazon websites.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
 
 [](#)
 
