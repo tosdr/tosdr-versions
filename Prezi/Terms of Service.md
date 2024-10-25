@@ -1,26 +1,26 @@
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/Vectors-Wrapper.svg)](https://prezi.com/?click_source=logged_element&page_location=header&element_type=logo)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/Vectors-Wrapper.svg)](https://prezi.com/?click_source=logged_element&page_location=header&element_type=logo)
 
 Products
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pp.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pp.svg)
 
-Videos](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pp.svg)
+Videos](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pp.svg)
 
-Presentations](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pd.svg)
+Presentations](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pd.svg)
 
 Infographics](https://prezi.com/design/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_design)
 
 INTEGRATIONS
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/webex.jpg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/webex.jpg)
 
 Prezi Video for Webex
 
-The exciting new way to engage and connect hybrid teams.](https://prezi.com/video/works-with/webex/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/zoom.jpg)
+The exciting new way to engage and connect hybrid teams.](https://prezi.com/video/works-with/webex/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/zoom.jpg)
 
 Prezi Video for Zoom
 
-Give more engaging, meaningful, virtual presentations in Zoom.](https://prezi.com/video/works-with/zoom/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/microsoft_teams.jpg)
+Give more engaging, meaningful, virtual presentations in Zoom.](https://prezi.com/video/works-with/zoom/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/microsoft_teams.jpg)
 
 Prezi Video for Microsoft Teams
 
@@ -28,15 +28,15 @@ Make your Microsoft Teams meetings more visual and engaging.](https://prezi.com/
 
 INSPIRATION
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/video.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/video.svg)
 
 Recommended videos
 
-See how other users use Prezi Video to engage their audiences.](https://prezi.com/video/explore/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/reusable.svg)
+See how other users use Prezi Video to engage their audiences.](https://prezi.com/video/explore/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/reusable.svg)
 
 Reusable presentations
 
-Browse some of our favorite presentations and copy them to use as templates.](https://prezi.com/gallery/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/templates.svg)
+Browse some of our favorite presentations and copy them to use as templates.](https://prezi.com/gallery/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/templates.svg)
 
 Present templates
 
@@ -44,11 +44,11 @@ Get a big head start when creating your own videos, presentations, or designs.](
 
 CONSIDERATION
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/security.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/security.svg)
 
 Security
 
-We are SOC2 compliant and monitor our systems closely, 24/7/365.](https://prezi.com/security/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/customers.svg)
+We are SOC2 compliant and monitor our systems closely, 24/7/365.](https://prezi.com/security/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/customers.svg)
 
 Our customers
 
@@ -60,19 +60,19 @@ Solutions
 
 It's a new world. Are you ready? Here's how Prezi helps your team thrive in today's hybrid workplace.
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/go_hybrid.webp)](https://prezi.com/solutions/hybrid-work/)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/go_hybrid.webp)](https://prezi.com/solutions/hybrid-work/)
 
 business
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/marketing.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/marketing.svg)
 
 For marketing
 
-Create impactful, custom-branded marketing messages that engage any audience.](https://prezi.com/business/marketing/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/sales.svg)
+Create impactful, custom-branded marketing messages that engage any audience.](https://prezi.com/business/marketing/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/sales.svg)
 
 For sales
 
-See how adding personality to your sales message improves customer relations.](https://prezi.com/business/sales/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/hr.svg)
+See how adding personality to your sales message improves customer relations.](https://prezi.com/business/sales/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/hr.svg)
 
 For human resources
 
@@ -80,11 +80,11 @@ Make important materials more engaging and memorable with Prezi.](https://prezi.
 
 education
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/teachers.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/teachers.svg)
 
 For teachers
 
-Create inspiring, fun, and meaningful hybrid learning experiences for your students.](https://prezi.com/education/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/students.svg)
+Create inspiring, fun, and meaningful hybrid learning experiences for your students.](https://prezi.com/education/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/students.svg)
 
 For students
 
@@ -96,23 +96,23 @@ Resources
 
 We've compiled these quick, easy-to-follow tutorials to make you a Prezi Video master in no time.
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/product_tutorials.webp)](https://www.youtube.com/embed/LRdbULX-abg?badge=0&autoplay=1&html5=1&rel=0)[The science
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/product_tutorials.webp)](https://www.youtube.com/embed/LRdbULX-abg?badge=0&autoplay=1&html5=1&rel=0)[The science
 
 Learn to grab their attention and keep it with presentation advice from the pros.
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/science_blog.webp)](https://prezi.com/the-science/)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/science_blog.webp)](https://prezi.com/the-science/)
 
 learn
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/tutorial.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/tutorial.svg)
 
 Product tutorials
 
-Become a Prezi master by watching these quick, easy-to-follow videos.](https://prezi.com/learn/product-tutorials/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/tips.svg)
+Become a Prezi master by watching these quick, easy-to-follow videos.](https://prezi.com/learn/product-tutorials/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/tips.svg)
 
 Presentation tips
 
-Book time with an expert Prezi trainer to help your team stand out.](https://prezi.com/learn/presenter-tips/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/edu.svg)
+Book time with an expert Prezi trainer to help your team stand out.](https://prezi.com/learn/presenter-tips/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/edu.svg)
 
 Educational resources
 
@@ -120,11 +120,11 @@ A collection of educational resources and best practices](https://prezi.com/lear
 
 support
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/support.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/support.svg)
 
 Support center
 
-Need help? Our Support Team is standing by with answers.](https://support.prezi.com/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/trainings.svg)
+Need help? Our Support Team is standing by with answers.](https://support.prezi.com/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/trainings.svg)
 
 Online trainings
 
@@ -132,15 +132,15 @@ How can we help you? Contact us for answers to all your Prezi questions.](https:
 
 connect
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/webinars.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/webinars.svg)
 
 Webinars
 
-Need help with a presentation, video, or graphic? Talk to an expert today.](https://prezi.com/cms/webinar/hybrid-work-series/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/blog.svg)
+Need help with a presentation, video, or graphic? Talk to an expert today.](https://prezi.com/cms/webinar/hybrid-work-series/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/blog.svg)
 
 Prezi blog
 
-Read the latest news and tips from our in- house and industry experts.](https://blog.prezi.com/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/newsroom.svg)
+Read the latest news and tips from our in- house and industry experts.](https://blog.prezi.com/)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/newsroom.svg)
 
 Prezi news room
 
@@ -150,23 +150,23 @@ Learn from experts, influencers, and thought leaders in our webinars and forums.
 
 [Log in](https://prezi.com/login/?click_source=logged_element&page_location=header&element_text=log_in) [Teams](https://prezi.com/cms/prezi-teams-buy-now/) [Get started](https://prezi.com/signup/?click_source=logged_element&page_location=header&element_text=get_started)
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/Hamburger.svg)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/Hamburger.svg)
 
 [Get started](https://prezi.com/signup/?click_source=logged_element&page_location=header&element_text=get_started&segment=individual) [Teams](https://prezi.com/cms/prezi-teams-buy-now/) [Log in](https://prezi.com/login/?click_source=logged_element&page_location=header&element_text=log_in)
 
-[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pv.svg)
+[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pv.svg)
 
 Videos
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pv_img.webp)](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pp.svg)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pv_img.webp)](https://prezi.com/video/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_video)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pp.svg)
 
 Presentations
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pp.png)](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pd.svg)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pp.png)](https://prezi.com/product/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_present)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pd.svg)
 
 Infographics
 
-![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/pd_thumbnail.webp)](https://prezi.com/design/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_design)
+![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/pd_thumbnail.webp)](https://prezi.com/design/?click_source=logged_element&page_location=header_product_dropdown&element_text=prezi_design)
 
 [Business](https://prezi.com/business/?click_source=logged_element&page_location=hamburger_menu&element_text=business) [Education](https://prezi.com/education/?click_source=logged_element&page_location=hamburger_menu&element_text=education) [Customers](https://prezi.com/business/customers/?click_source=logged_element&page_location=hamburger_menu_why_prezi_dropdown&element_text=customers) [The science](https://prezi.com/the-science/?click_source=logged_element&page_location=hamburger_menu_why_prezi_dropdown&element_text=the_science) [Conversational presenting](https://prezi.com/business/conversational-presenting/?click_source=logged_element&page_location=hamburger_menu_why_prezi_dropdown&element_text=conversational_presenting) [Presentation Gallery](https://prezi.com/gallery/?click_source=logged_element&page_location=hamburger_menu_discover_dropdown&element_text=presentation-gallery) [Video Gallery](https://prezi.com/video/explore/?click_source=logged_element&page_location=hamburger_menu_discover_dropdown&element_text=video-gallery) [Design Gallery](https://prezi.com/design/gallery/?click_source=logged_element&page_location=hamburger_menu_discover_dropdown&element_text=design-gallery) [Templates](https://prezi.com/presentation-template/?click_source=logged_element&page_location=hamburger_menu_discover_dropdown&element_text=templates) [Pricing](https://prezi.com/pricing/?click_source=logged_element&page_location=hamburger_menu&element_text=pricing)
 
@@ -321,6 +321,6 @@ Support
 
 [Learn](https://prezi.com/learn/?click_source=logged_element&page_location=footer&element_text=learn) [Prezi Support](https://prezi.com/business/support/?click_source=logged_element&page_location=footer&element_text=prezi_support) [Prezi Classic Support](https://prezi.com/support/?click_source=logged_element&page_location=footer&element_text=prezi_classic_support) [Hire an Expert](https://prezi.com/prezi-marketplace/?click_source=logged_element&page_location=footer&element_text=hire_an_expert) [Cookie Settings](#)
 
-[![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/facebook.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/)[![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/twitter.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/insta.svg)](https://www.instagram.com/prezicom/?click_source=logged_element&page_location=footer)[](https://www.tiktok.com/@prezicom/?click_source=logged_element&page_location=footer)[![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4906-49748ea/cmsservice/webflow/images/linkedin.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295)
+[![Facebook logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/facebook.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=facebook&url=https://www.facebook.com/prezicom/)[![Twitter logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/twitter.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=twitter&url=https://twitter.com/prezi)[![](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/insta.svg)](https://www.instagram.com/prezicom/?click_source=logged_element&page_location=footer)[](https://www.tiktok.com/@prezicom/?click_source=logged_element&page_location=footer)[![LinkedIn logo](https://assets.prezicdn.net/assets-versioned/cmsservice-versioned/4915-31af8b2/cmsservice/webflow/images/linkedin.svg)](https://prezi.com/redirect/?click_source=logged_element&page_location=footer_mobile&element_text=linkedin&url=https://www.linkedin.com/company/216295)
 
 © 2024 Prezi Inc. [Terms](https://prezi.com/legal/terms-of-service/?click_source=logged_element&page_location=footer&element_text=terms) & [Privacy Policy](https://prezi.com/legal/privacy-policy/?click_source=logged_element&page_location=footer&element_text=privacy_policy)
