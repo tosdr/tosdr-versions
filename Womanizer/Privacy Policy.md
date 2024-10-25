@@ -28,12 +28,52 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Bestsellers](https://www.womanizer.com/eu/bestseller)
     
+    * [NEW
+        
+        Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
+    * [NEW
+        
+        Vibe](https://www.womanizer.com/eu/vibe)
+    * [NEW
+        
+        Next](https://www.womanizer.com/eu/next)
+    * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [NEW
+        
+        Blend](https://www.womanizer.com/eu/blend)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
 * [Sale](https://www.womanizer.com/eu/sale)
     
+    * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
+    * [InsideOut](https://www.womanizer.com/eu/insideout)
+    * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
+    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
+    * [DUO](https://www.womanizer.com/eu/duo)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
+    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
+    * [Pro / W500](https://www.womanizer.com/eu/w500)
+    * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
+    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
+    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
+    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
+    * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
