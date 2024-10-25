@@ -3,9 +3,7 @@
 
 [](https://www.facebook.com/theitbros/)[](https://twitter.com/theitbros)[](https://www.reddit.com/user/TheITBrosCom/)
 
-[![TheITBros Shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20430%2097'%3E%3C/svg%3E)
-
-![TheITBros Shop](https://theitbros.com/wp-content/uploads/2023/04/logo_header.jpg)](https://theitbros.com/)
+[![TheITBros Shop](https://theitbros.com/wp-content/uploads/2023/04/logo_header.jpg)](https://theitbros.com/)
 
 * [Microsoft](https://theitbros.com/category/windows/)
     * [Windows](https://theitbros.com/category/miscellaneous/windows-10/)
