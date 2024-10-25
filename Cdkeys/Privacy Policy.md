@@ -114,7 +114,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -620,11 +619,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 7. \-33%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
+7.    [![Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/call_of_duty-_black_ops_6_-_cross-gen_bundle_1.jpg)   No 7. \-31%](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww)
     
     **[Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)](https://www.cdkeys.com/xbox-live/call-of-duty-black-ops-6-cross-gen-bundle-xbox-one-and-xbox-series-x-s-ww "Call of Duty: Black Ops 6 - Cross-Gen Bundle Xbox One & Xbox Series X|S (WW)")**
     
-    Special Price $61.09 RRP $90.99
+    Special Price $62.39 RRP $90.99
     
     [Add to Wish List](# "Add to Wish List")
     
