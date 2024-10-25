@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
+[![Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2022/12/2022-12-apolut-Pohlmann-im-Gespraech-mit-Albrecht-Mueller.jpg "Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=91393)
 
-* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
+* [Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=91393)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Russische Sabotage: Wollen unsere Geheimdienste uns eigentlich für dumm verkaufen?](https://www.nachdenkseiten.de/?p=123219)
-* [Unentwegt Stimmungsmache gegen Russland: So kann man in nur 20 Jahren die Stimmung komplett drehen](https://www.nachdenkseiten.de/?p=123158)
-* [Völkerrechtswidrige NATO-Kommandozentrale in Rostock? Die fragwürdigen Ausreden der Bundesregierung](https://www.nachdenkseiten.de/?p=123250)
-* [Viktor Orbán und die Farce im EU-Parlament](https://www.nachdenkseiten.de/?p=123072)
-* [Emmanuel Todd: Der Westen im Niedergang](https://www.nachdenkseiten.de/?p=123244)
-* [Fettspritze: Pharmariese baut eine Fabrik und bekommt ein lukratives Gesetz](https://www.nachdenkseiten.de/?p=123185)
+* [Unseren Medien fiel es erkennbar schwer, über den BRICS-Gipfel sachlich zu berichten](https://www.nachdenkseiten.de/?p=123655)
+* [Verteidigungsministerium und NATO verstricken sich in immer mehr Widersprüche zu CTF BALTIC in Rostock](https://www.nachdenkseiten.de/?p=123602)
+* [Teilt Baerbock Einschätzung von EU-Partnern, dass Israel Kriegsverbrechen im Libanon begeht?](https://www.nachdenkseiten.de/?p=123652)
+* [Die Hetzkampagnen von Politikern und Journalisten gegen Sahra Wagenknecht](https://www.nachdenkseiten.de/?p=123486)
+* [Die Folgen der deutschen Corona- und Außenpolitik](https://www.nachdenkseiten.de/?p=123573)
+* [Die Werte der Christlich-Demokratischen Union Deutschlands](https://www.nachdenkseiten.de/?p=123533)
 
 ### Audioangebot
 
