@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
+    
+    ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
+    
     [![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-360x180.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
     
     ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
@@ -51,10 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
     ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
-    
-    [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
-    
-    ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
+    
+    ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
+    
     [![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-360x180.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
     
     ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
@@ -136,10 +140,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Victory-Parade_censored-1-360x180.jpg)](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
     
     ### [Road safety consultation as locals fear being ‘run down’](https://southwarknews.co.uk/area/south-london/road-safety-consultation-as-locals-fear-being-run-down/)
-    
-    [![Central Cee cooking up a storm in Umana Yana (VICE)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-15-10-2024-at-16.22-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
-    
-    ### [Central Cee’s visit to our favourite Herne Hill roti shop gave us all hope](https://southwarknews.co.uk/area/herne-hill/central-cees-visit-to-our-favourite-herne-hill-roti-shop-gave-us-all-hope/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -375,12 +375,11 @@ Website
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
-[![CGI of new Nine Elms primary school.
-Image from Wandsworth Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-new-Nine-Elms-primary-school.-Image-from-Wandsworth-Council-120x86.jpg)](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+[![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-120x86.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
 
-### [New South London primary school to be built with special needs places](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
 
-[17th October 2024](https://southwarknews.co.uk/area/south-london/new-south-london-primary-school-to-be-built-with-special-needs-places/)
+[21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
 
 ### Featured Articles
 
