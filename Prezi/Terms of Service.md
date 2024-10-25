@@ -299,6 +299,10 @@ Languages
 
 Blog
 
+Oct. 25, 2024
+
+[The future of AI and work](https://blog.prezi.com/future-of-ai/)
+
 Oct. 24, 2024
 
 [70+ interesting psychology topics for presentation](https://blog.prezi.com/interesting-psychology-topics-for-presentation/)
@@ -306,10 +310,6 @@ Oct. 24, 2024
 Oct. 23, 2024
 
 [A guide for mastering your interview presentation](https://blog.prezi.com/interview-presentation/)
-
-Sept. 28, 2024
-
-[A complete guide to demonstration speech ideas](https://blog.prezi.com/demonstration-speech-ideas/)
 
 [Latest posts](https://blog.prezi.com/)
 
