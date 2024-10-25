@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
-2. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
-3. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
-4. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
-5. [\[2024\] 200+ Free Courses to Learn About History](https://www.classcentral.com/report/history-free-online-courses/)
+1. [8 Best Affiliate Marketing Courses for 2024](https://www.classcentral.com/report/best-affiliate-marketing-courses/)
+2. [10 Best Docker Courses for 2024](https://www.classcentral.com/report/best-docker-courses/)
+3. [\[2024\] 100 Top Pluralsight Courses of All Time](https://www.classcentral.com/report/pluralsight-top-courses/)
+4. [5 Best Botany Courses for 2024](https://www.classcentral.com/report/best-botany-courses/)
+5. [5 Best Canva Courses for 2024: Elevate Your Designs](https://www.classcentral.com/report/best-canva-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. marketing
+1. English
     
-2. psychology
+2. excel
     
-3. trading
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Computer Science
     
-    13,293 courses](https://www.classcentral.com/subject/web-development)
-2. [Cybersecurity
+    39,361 courses](https://www.classcentral.com/subject/cs)
+2. [Psychology
+    
+    2,448 courses](https://www.classcentral.com/subject/psychology)
+3. [Cybersecurity
     
     16,090 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Graphic Design
-    
-    4,228 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Project Management: The Basics for Success
+1. [Improving Healthcare Through Clinical Research
     
-    University of California, Irvine](https://www.classcentral.com/course/basicprojmanage-2782)
-2. [Maintaining a Mindful Life
+    University of Leeds](https://www.classcentral.com/course/clinical-research-4046)
+2. [The Science of Everyday Thinking
     
-    Monash University](https://www.classcentral.com/course/mindfulness-life-9078)
-3. [Fibonacci Numbers and the Golden Ratio
+    University of Queensland](https://www.classcentral.com/course/thinking-the-university-of-queensland-the-science-1332)
+3. [Sustainable Tourism: Society & Environmental Aspects
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fibonacci-6684)
+    Wageningen University](https://www.classcentral.com/course/sustainability-wageningen-university-research-sus-10356)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
