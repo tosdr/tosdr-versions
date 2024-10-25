@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The ‘Mekong ghost’ megafish has resurfaced after an extinction scare](https://www.sciencenews.org/article/mekong-ghost-megafish-rediscovered) 
             
-            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")10 hours ago
+            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")16 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [How insects can help catch rhino poachers](https://www.sciencenews.org/article/insects-help-catch-rhino-poachers)
             
-            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")12 hours ago
+            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")18 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")14 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
             
         * [Tech](https://www.sciencenews.org/topic/tech)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")14 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
