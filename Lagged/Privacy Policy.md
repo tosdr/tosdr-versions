@@ -208,7 +208,7 @@ Popular game categories
 -----------------------
 
 *  [![Animal Games](https://imgs2.dab3games.com/two-cats-duet-ft44.png) Animal Games421 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Arcade Games1,612 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Arcade Games](https://imgs2.dab3games.com/dino-dash-game-ft37.png) Arcade Games1,612 games](https://lagged.com/en/arcade "Arcade Games")
 *  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games413 games](https://lagged.com/en/car "Car Games")
 *  [![Football Games](https://imgs2.dab3games.com/super-bowl-test-ft1084.png) Football Games64 games](https://lagged.com/en/football "Football Games")
 *  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games795 games](https://lagged.com/en/funny "Funny Games")
@@ -216,7 +216,7 @@ Popular game categories
 *  [![Puzzle Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Puzzle Games2,323 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/klondike-solitair-game969.png) Solitaire Games58 games](https://lagged.com/en/solitaire "Solitaire Games")
 *  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games314 games](https://lagged.com/en/two-player "Two Player Games")
-*  [![Weird Games](https://imgs2.dab3games.com/choir-game.png) Weird Games63 games](https://lagged.com/en/weird "Weird Games")
+*  [![Weird Games](https://imgs2.dab3games.com/screamers-2263.png) Weird Games63 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
 --------------------
