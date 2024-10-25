@@ -22,7 +22,7 @@ Trademark Policy
 
 Written by Disqus
 
-Updated over a week ago
+Updated over 6 years ago
 
 What is a trademark policy violation on Disqus?
 ===============================================
