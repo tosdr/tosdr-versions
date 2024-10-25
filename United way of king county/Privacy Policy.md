@@ -145,6 +145,6 @@ United Way of King County is a 501(c)(3) nonprofit organization. EIN: 91-0565555
 
 Copyright 2024
 
-            
+              
 
 ![](https://www.facebook.com/tr?id=367751593788799&ev=PageView&noscript=1)
