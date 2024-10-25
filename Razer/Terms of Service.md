@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use%3Fidsite%3D$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&yn=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&jobid=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&note=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&ld=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&home=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&redirectasin=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&formattedHour=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&ref_type=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&credential=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&synchronizationBlocked=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&qqq=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&_id=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&typeCode=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&referrer_id=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&br=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&filtertype_8=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&jo=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&ispublic=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&domain=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&xg=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&baseSite=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&content=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&ad_user_data=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&returnurl=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&fr2=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&fa=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&v=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&destination=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E&i=$%27%22%60%20xid%3D1%20--%3E%3Cbms%3E)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
