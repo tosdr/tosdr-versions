@@ -97,31 +97,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 875 1
+0 898 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/hexerade-cocktober-and-etc-created-by-voidpastelchalk/)
+[](https://yiff-party.com/yiff/67872/)
 
-[hexerade (cocktober and etc) created by voidpastelchalk](https://yiff-party.com/yiff/hexerade-cocktober-and-etc-created-by-voidpastelchalk/)
+[#67872](https://yiff-party.com/yiff/67872/)
 
-0 3 0
+0 2 0
 
 October 25, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-sw-wolf99ai169/)
+[](https://yiff-party.com/yiff/rarity-and-spike-friendship-is-magic-and-etc-created-by-chrysalisdraws/)
 
-[nick wilde directed by sw wolf99ai169](https://yiff-party.com/yiff-ai-premium/nick-wilde-directed-by-sw-wolf99ai169/)
+[rarity and spike (friendship is magic and etc) created by chrysalisdraws](https://yiff-party.com/yiff/rarity-and-spike-friendship-is-magic-and-etc-created-by-chrysalisdraws/)
 
-0 71 0
+0 190 0
 
 September 25, 2024
 
-[](https://yiff-party.com/yiff/pinkie-pie-and-surprise-friendship-is-magic-and-etc-created-by-twistedscarlett60/)
+[](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-clandestina/)
 
-[pinkie pie and surprise (friendship is magic and etc) created by twistedscarlett60](https://yiff-party.com/yiff/pinkie-pie-and-surprise-friendship-is-magic-and-etc-created-by-twistedscarlett60/)
+[judy hopps and nick wilde directed by clandestina](https://yiff-party.com/yiff-ai-premium/judy-hopps-and-nick-wilde-directed-by-clandestina/)
 
-0 88 0
+0 51 0
 
 September 25, 2024
 
