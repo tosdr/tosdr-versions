@@ -219,7 +219,7 @@ If you want to understand in detail how HBF will handle your personal informatio
 
 Please note that more than one Collection Statement may be relevant to you if you have entered into a variety of interactions with HBF. Please feel free to contact us if you have any questions.
 
-* If you have a health insurance product with HBF you should refer to the [Private Health Insurance Collection Statement](https://www.hbf.com.au/-/media/project/hbf/hbf-web-app/files/legal/collection-statements/hbf-phi-collection-statement.pdf?rev=74be36c92c434304938fa2d741c472a8 "opens in a new window")
+* If you have a health insurance product with HBF you should refer to the [Private Health Insurance Collection Statement](https://www.hbf.com.au/-/media/project/hbf/hbf-web-app/files/legal/collection-statements/hbf-phi-collection-statement.pdf?rev=e13f4a8a133b42dd96e99284227b74f5 "opens in a new window")
 * If you are a medical provider you should refer to the [Providers / Health Practitioners Collection Statement](https://www.hbf.com.au/-/media/project/hbf/hbf-web-app/files/legal/collection-statements/hbf16089-provider-collection-statement.pdf?rev=039f96ae22e34d77980aef08cd12034e "opens in a new window")
 * If you use our website or our HBF App you should refer to the Website and App Privacy Statement, contained in the [HBF Terms of Use](https://www.hbf.com.au/about-hbf/legal/terms-of-use)
 * If you are enrolled into a Health Service program provided by HBF you should refer to the [HBF Health Service Programs Collection Statement](https://www.hbf.com.au/-/media/project/hbf/hbf-web-app/files/legal/collection-statements/hbf16144-health-programs-privacy-collection-statement.pdf?rev=b40c9136c92145149d00cb313b32b8dd "opens in a new window")
