@@ -36,18 +36,18 @@
         
         Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/)
     
+    * [![Russia sentences REvil ransomware members to over 4 years in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russia sentences REvil ransomware members to over 4 years in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/)
+    * [![Amazon seizes domains used in rogue Remote Desktop campaign to steal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
     * [![Try this course deal to train in popular IT certifications for $29.97](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Try this course deal to train in popular IT certifications for $29.97](https://www.bleepingcomputer.com/offer/deals/try-this-course-deal-to-train-in-popular-it-certifications-for-2997/)
     * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
-    * [![UnitedHealth says data of 100 million stolen in Change Healthcare breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
-    * [![Apple creates Private Cloud Compute VM to let researchers find bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Apple creates Private Cloud Compute VM to let researchers find bugs](https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
