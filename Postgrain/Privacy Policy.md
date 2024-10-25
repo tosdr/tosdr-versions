@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![UI UX - a imagem que ilustra o tema tem o fundo escuro e por cima uma tela de um dispositivo com várias telinhas abertas onde tem escrito UI/UX](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-UI-UX-Guia-para-iniciantes-580x290.jpg)](https://postgrain.com/?post_type=post&p=12673)
+[![novas tendências do consumidor - a imagem que ilustra o tema tem o fundo ao ar livre com uma mulher sorrindo e segurando um celular.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Novas-tendencias-do-consumidor-Otimize-seu-marketing-1-580x290.jpg)](https://postgrain.com/?post_type=post&p=12678)
 
-[UI UX: Por que é importante?](https://postgrain.com/?post_type=post&p=12673)
+[Confira Insights do Índice de Tendências Globais de Consumo de 2024](https://postgrain.com/?post_type=post&p=12678)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12673)
+[Leia mais](https://postgrain.com/?post_type=post&p=12678)
 
 Ilustração de um dos personagens do Postgrain
 
