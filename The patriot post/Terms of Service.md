@@ -216,6 +216,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Tim Graham CNN’s Town Hall Leans Into Boosting Kamala](https://patriotpost.us/opinion/111386-cnns-town-hall-leans-into-boosting-kamala-2024-10-25)
 *      [Hans von Spakovsky THE LAW IS CLEAR: Biden-Harris DOJ Can’t Stop States From Striking Aliens Off Voter Rolls](https://patriotpost.us/opinion/111384-the-law-is-clear-biden-harris-doj-cant-stop-states-from-striking-aliens-off-voter-rolls-2024-10-25)
 *      [Michael Reagan Kamala Misdeals the Hitler Card](https://patriotpost.us/opinion/111383-kamala-misdeals-the-hitler-card-2024-10-25)
+*      [Allen West The Fall of Barack Hussein Obama](https://patriotpost.us/opinion/111406-the-fall-of-barack-hussein-obama-2024-10-25)
 *      [Mark Alexander Profiles of Valor: Morgan Luttrell](https://patriotpost.us/alexander/111365-profiles-of-valor-morgan-luttrell-2024-10-25)
 *      [The Washington Stand How Did Politics Become ‘So Toxic, Divided, and Bitter?’ Obama.](https://patriotpost.us/opinion/111380-how-did-politics-become-so-toxic-divided-and-bitter-obama-2024-10-25)
 *      [The Babylon Bee 9 Ways Trump Is Exactly Like Hitler](https://patriotpost.us/opinion/111382-9-ways-trump-is-exactly-like-hitler-2024-10-25)
@@ -232,7 +233,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
