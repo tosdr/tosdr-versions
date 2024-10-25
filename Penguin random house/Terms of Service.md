@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+    
+    Audiobooks for Kids
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
 * [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
     
     33 Halloween Books for Little Pumpkins
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![A Guide to Stephen King Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2019/04/24114115/PRH_StephenKing-1200x628-1.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    A Guide to Stephen King Books
+    Books Bans Are on the Rise in America
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
-
-* * *
-
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
-    
-    Join Our Authors for Upcoming Events
-    
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
