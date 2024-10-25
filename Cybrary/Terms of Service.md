@@ -248,7 +248,7 @@ Back
 
 [Pricing](https://www.cybrary.it/upgrade?ref=wwwnavpricing)
 
-[Free Teams Demo](#)[Sign up](#)[Login](https://app.cybrary.it/login)
+[Free Teams Demo](https://www.cybrary.it/demo-request)[Sign up](#)[Login](https://app.cybrary.it/login)
 
 ![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bc9b6485b17ee470cf17a_UserCircle.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646bebc1c1b1c9b65da2b2fe_User%20icon%20mobile.svg)
 
