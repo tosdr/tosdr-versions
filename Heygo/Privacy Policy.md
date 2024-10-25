@@ -539,6 +539,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
+
+### [11 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
+
 [![20 best places to cruise month by month](https://media.restless.co.uk/uploads/2024/05/best-places-to-cruise-month-by-month-768x508.jpg)](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
 
 ### [20 best places to cruise month by month](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
@@ -568,12 +574,6 @@ New in travel
 ### [9 of the best travel destinations for 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
 
 [Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-2025/)
-
-[![8 of the best travel destinations for spring 2025](https://media.restless.co.uk/uploads/2024/10/the-best-travel-destinations-for-spring-2025-768x508.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
-
-### [8 of the best travel destinations for spring 2025](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
-
-[Read More »](https://restless.co.uk/travel/the-best-travel-destinations-for-spring/)
 
 Popular travel guides
 ---------------------
