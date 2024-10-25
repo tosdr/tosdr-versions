@@ -866,6 +866,22 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Chaz and Kegan were great at cleaning out our garage. Definitely recommend this company.
+
+Kyle Southern Naples 19/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
+
+Amy Seaman Naples 19/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
 
 Alexis D. Cincinnati 19/10/2024
@@ -898,17 +914,41 @@ Joyce May Austin 19/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Chaz and Kegan were great at cleaning out our garage. Definitely recommend this company.
+Couldn’t have been easier! Bobby and Zach were great.
 
-Kyle Southern Naples 19/10/2024
+Julie Tower Austin 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
+Steeve and gio did an amazing job
 
-Amy Seaman Naples 19/10/2024
+juliaslp Naples 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Crew was on time and did a great job
+
+Terry Klein Austin 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Excellent and polite, friendly service from Foug & Ignacio
+
+Moira Ross LA Metro 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+thank you AJ and TC
+
+Eric Bennett Austin 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -946,14 +986,6 @@ Michelle Madison 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were great, quick and courteous. Would use them again the next time I've got junk! See you in hell, old exercise machine!
-
-Luke Herr Columbus 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 André and Sam were courteous, friendly and efficient! Thank you for another great take away!!
 
 Mary Wisconsin 18/10/2024
@@ -962,49 +994,17 @@ Mary Wisconsin 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+They were great, quick and courteous. Would use them again the next time I've got junk! See you in hell, old exercise machine!
+
+Luke Herr Columbus 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Chris and Brayan awesome and fast to work with!
 
 Brandon Wisconsin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Shawn and Patrick showed up on time and very professional.
-
-Antonio Cecin Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steeve and gio did an amazing job
-
-Duke Downey Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Couldn’t have been easier! Bobby and Zach were great.
-
-Julie Tower Austin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steeve and gio did an amazing job
-
-juliaslp Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Excellent and polite, friendly service from Foug & Ignacio
-
-Moira Ross LA Metro 18/10/2024
 
 ### 
 
