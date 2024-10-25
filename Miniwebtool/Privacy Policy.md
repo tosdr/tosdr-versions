@@ -90,6 +90,6 @@ Tip: The widget is responsive to mobile devices. If the set width is larger than
 
 By embedding miniwebtool widgets on your site, you are agreeing to our [Terms of Service.](https://miniwebtool.com/about/terms-and-disclaimer/)
 
-Copyright © 2010- Miniwebtool.com | [Sitemap](https://miniwebtool.com/sitemap/) | [Guide](https://miniwebtool.com/guide/) | [Terms and Disclaimer](https://miniwebtool.com/about/terms-and-disclaimer/) | [Privacy Policy](https://miniwebtool.com/about/privacy/) | [Contact Us](https://miniwebtool.com/about/contact/)
+Copyright © 2010- Miniwebtool.com | [Sitemap](https://miniwebtool.com/sitemap/) | [Feed](https://miniwebtool.com/rss.xml) | [Guide](https://miniwebtool.com/guide/) | [Terms and Disclaimer](https://miniwebtool.com/about/terms-and-disclaimer/) | [Privacy Policy](https://miniwebtool.com/about/privacy/) | [Contact Us](https://miniwebtool.com/about/contact/)
 
 Preview
