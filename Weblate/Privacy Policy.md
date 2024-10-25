@@ -17,7 +17,7 @@
 Condiciones del servicio
 ========================
 
-Los documentos legales necesarios para ofrecer este servicio. El documento vinculante sobre los términos del servicio está en inglés. Para su comodidad contamos con traducciones.
+The legal documents necessary to offer our services. The Terms of Service document is legally-binding in English, translations are provided for your convenience.
 
 [Ver la versión en inglés](https://weblate.org/en/terms/)
 
