@@ -202,23 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_9e3163a3a6.jpg)
-
-Educação
-
-Educação
-
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data
-
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")[![Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/f/csm_real_moedadinheiro_jfcrz_abr_1701220049_1_b51dd6e180.jpg)
-
-Maceió
-
-Maceió
-
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data
-
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
+[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
 
 estampou revistas
 
@@ -226,7 +210,7 @@ estampou revistas
 
 Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo
 
-Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
+Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
 
 em maceió
 
@@ -234,7 +218,23 @@ em maceió
 
 Ministério Público Federal pede intervenção no Hospital Veredas
 
-Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")
+Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/2/csm_acidente-barraca-livros-centro_01635a0549.jpg)
+
+Grande susto!
+
+Grande susto!
+
+Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió
+
+Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-carros-batem-em-cruzamento-e-um-invade-banca-de-livros-no-centro-de-maceio/ "Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió")[![Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_Tribunal_de_Justica_de_Alagoas_-_foto_TJAL_b9f73b9d58.jpg)
+
+Concursos
+
+Concursos
+
+Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário
+
+Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário](https://www.tnh1.com.br/noticia/nid/tribunal-de-justica-de-alagoas-divulga-resultado-final-do-concurso-para-tecnico-judiciario/ "Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário")
 
 [![Demência pugilística: entenda o que é a doença que afetou Maguila](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_maguila-morte-reproducao-redes-sociais__2__4764ef3e5b.png)
 
