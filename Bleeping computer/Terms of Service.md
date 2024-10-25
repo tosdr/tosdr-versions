@@ -36,18 +36,18 @@
         
         Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/)
     
+    * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
+    * [![UnitedHealth says data of 100 million stolen in Change Healthcare breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
     * [![Apple creates Private Cloud Compute VM to let researchers find bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Apple creates Private Cloud Compute VM to let researchers find bugs](https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
     * [![Henry Schein discloses data breach a year after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Henry Schein discloses data breach a year after ransomware attack](https://www.bleepingcomputer.com/news/security/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/)
-    * [![Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
-    * [![Insurance admin Landmark says data breach impacts 800,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Insurance admin Landmark says data breach impacts 800,000 people](https://www.bleepingcomputer.com/news/security/insurance-admin-landmark-says-data-breach-impacts-800-000-people/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Over 6,000 WordPress sites hacked to install plugins pushing infostealers](https://www.bleepingcomputer.com/news/security/over-6-000-wordpress-sites-hacked-to-install-plugins-pushing-infostealers/)
 * [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
 * [![Windows Server](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
+* [![Cloud Servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    AWS, Azure auth keys found in Android and iOS apps used by millions](https://www.bleepingcomputer.com/news/security/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
 
 ##### Follow us:
 
