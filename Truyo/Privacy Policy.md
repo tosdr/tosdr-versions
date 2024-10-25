@@ -28,7 +28,7 @@
                 
             * * [CCPA](https://truyo.com/solutions/by-compliance/ccpa/)
                 * [Colorado Act](https://truyo.com/solutions/by-compliance/colorado/)
-                * [EU-AI Act](https://truyo.com/solutions/by-compliance/eu-ai/)
+                * [EU AI Act](https://truyo.com/solutions/by-compliance/eu-ai/)
                 * [NIST AI RMF](https://truyo.com/solutions/by-compliance/nist-ai-rmf/)
                 
         * * ![](/wp-content/uploads/2024/09/by_role.svg) By Role
@@ -37,26 +37,32 @@
                 * [AI Governance Board](https://truyo.com/solutions/by-role/ai-governance-board/)
                 
 * [Resources](#)
-    * * *  [![AI Coverance](/wp-content/uploads/2024/09/blog_icon.svg) Blog](https://truyo.com/blog/) [![AI Coverance](/wp-content/uploads/2024/09/case_studies.svg) Case Studies](https://truyo.com/coming-soon/)
+    * * *  [![Blog](/wp-content/uploads/2024/09/blog_icon.svg) Blog](https://truyo.com/blog/) [![Case Studies](/wp-content/uploads/2024/09/case_studies.svg) Events](https://truyo.com/events/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/webinar.svg) Webinars](https://get.truyo.com/mastering-ai-governance-webinar-series) [![AI Coverance](/wp-content/uploads/2024/09/whitepapers.svg) White Papers](https://get.truyo.com/vcdpa-whitepaper)
+        * *  [![Webinars](/wp-content/uploads/2024/10/webinar-1.svg) Webinars](https://truyo.com/webinars/) [![Whitepapers](/wp-content/uploads/2024/10/whitepapers-1.svg) Whitepapers](https://truyo.com/whitepapers/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/product_releases.svg) Product Releases](https://releases.truyo.com/) [![AI Coverance](/wp-content/uploads/2024/09/newsletters.svg) Newsletter & Press Releases](https://truyo.com/coming-soon/)
+        * *  [![Product Releases](/wp-content/uploads/2024/09/product_releases.svg) Product Releases](https://releases.truyo.com/) [![News](/wp-content/uploads/2024/09/newsletters.svg) News & Press Releases](https://truyo.com/news/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/privacy.svg) Privacy Legislation Tracker](https://truyo.com/coming-soon/) [![AI Coverance](/wp-content/uploads/2024/09/faq.svg) FAQs](https://truyo.com/coming-soon/)
+        * *  [![Privacy Legislation Tracker](/wp-content/uploads/2024/09/privacy.svg) Privacy Legislation Tracker](https://truyo.com/legislation-tracker/) [![FAQs](/wp-content/uploads/2024/10/faq-1.svg) FAQs](https://truyo.com/faq/)
                 
 * [Company](#)
     * * *  [![About](/wp-content/uploads/2024/09/about-icon.svg) About](https://truyo.com/about/)
                 
-        * *  [![Careers](/wp-content/uploads/2024/09/careers.svg) Careers](https://truyo.com/coming-soon/)
+        * *  [![Careers](/wp-content/uploads/2024/10/careers-1.svg) Careers](https://truyo.com/careers/)
                 
         * * [![COntact](/wp-content/uploads/2024/09/contact-icon.svg)Contact](https://truyo.com/contact/)
                 
 
 [Let's Connect](https://truyo.com/contact/)
 
+PRIVACY POLICY
+
 Privacy Policy
 ==============
+
+Truyo is designed to protect your privacy. Learn how we safeguard your data and respect your privacy. Read on to understand your rights.
+
+This Website Privacy Policy (the “Policy”) describes how IntraEdge, Inc., uses and discloses the information collected about you (your “personal information”) when you visit this website (the “Website”), when you use the Truyo Portal as a customer of ours, and when you communicate with us. We use the terms “IntraEdge,” “we”, “our”, and “us” to refer to IntraEdge, Inc. and our affiliates.
 
 ### 1\. Scope of this Policy
 
@@ -87,7 +93,7 @@ Unless you have opted-out or have otherwise refused to provide consent, the foll
 **Location Data:** This is non-precise information related to your general location derived from your device’s IP address. This does not reveal your precise location (i.e. your GPS latitude and longitude).  
 **Website Activity Data:** This is data about your browsing activity on our Website. For example, which pages you visited and when, how much time was spent on a page, what items were clicked on a page, whether you downloaded a document.
 
-We also automatically collect and allow certain of our partners and service providers to automatically collect, personal data from you when you visit the Website. This is done using various technologies including cookies and pixels, and the personal information is related to your interactions with our Website. Our partners and service providers also may collect personal data, may sync with additional third parties, and may allow third parties with whom they partner to set cookies on the Website. Please note, IntraEdge does not control these partners or third parties. You should refer to the privacy statements of such parties to find out what personal data they collect, how they use cookies and how they interact with other third parties. Please see our [Cookie Notice](https://truyocom.wpenginepowered.com/truyo-website-cookie-notice/) for further information on the cookies and pixels we use on the Website, including a list of the partners and subcontractors described above, and how you can opt-out.
+We also automatically collect and allow certain of our partners and service providers to automatically collect, personal data from you when you visit the Website. This is done using various technologies including cookies and pixels, and the personal information is related to your interactions with our Website. Our partners and service providers also may collect personal data, may sync with additional third parties, and may allow third parties with whom they partner to set cookies on the Website. Please note, IntraEdge does not control these partners or third parties. You should refer to the privacy statements of such parties to find out what personal data they collect, how they use cookies and how they interact with other third parties. Please see our [Cookie Notice](https://truyo.com/cookie-policy/) for further information on the cookies and pixels we use on the Website, including a list of the partners and subcontractors described above, and how you can opt-out.
 
 ### Information We Collect from Others
 
@@ -149,20 +155,20 @@ Links to web sites that are not operated by or for us (“**Third-Party Sites**�
 
 If you want to limit the data that we or others collect about you through this Website and want us to not target ads that are based on your interests to your browsers or devices, you may opt-out from tracking and tailored advertising at any time through one of the ways described below. If you opt-out, you will still see ads, but those ads are less likely to have anything to do with products or services you care about. With tailored advertising, you receive ads and offers that are more likely to be useful to you. Please note, if you use multiple browsers or devices you must opt-out from each browser and device individually.
 
-* * **Use Browser Setting to Block Cookies:** You can use your web browser to directly block all cookies, or just third-party cookies, through your browser settings. Using your browser settings to block all cookies, including strictly necessary ones, may interfere with proper site operation. Guidance on how to control cookies in popular browsers is contained here:
-        * [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-        * [MacOS Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-        * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-        * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
-        * [Adobe (Flash Cookies)](http://www.adobe.com/privacy/policies/flash-player.html)
-    * **Using Advertising Industry Tools:** You can opt-out of interest-based targeting provided by participating ad servers through the following:
-        * [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/)
-        * [Digital Advertising Alliance](http://optout.aboutads.info/?c=2)
-        * [Digital Advertising Alliance of Canada](https://youradchoices.ca/en/tools)
-        * [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
-        * **Google** allows users to opt-out of tracking by Google Analytics and Google Analytics Demographics and Interest Reporting services. You can adjust your setting [here](https://adssettings.google.com/u/0/authenticated), or download the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
-        * LinkedIn allows users and non-users to opt-out of targeted advertising [here](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=microsites-frontend_legal_cookie-policy).
-    * **Mobile Device Opt-Out:** To opt-out of receiving interest-based ads that are based on your behavior across different mobile applications, please follow instructions for iOS and Android devices. For iOS 7 or Higher: Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Select Ads > Enable “Opt-out of interest-based advertising”.
+* **Use Browser Setting to Block Cookies:** You can use your web browser to directly block all cookies, or just third-party cookies, through your browser settings. Using your browser settings to block all cookies, including strictly necessary ones, may interfere with proper site operation. Guidance on how to control cookies in popular browsers is contained here:
+    * [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+    * [MacOS Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+    * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+    * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+    * [Adobe (Flash Cookies)](http://www.adobe.com/privacy/policies/flash-player.html)
+* **Using Advertising Industry Tools:** You can opt-out of interest-based targeting provided by participating ad servers through the following:
+    * [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/)
+    * [Digital Advertising Alliance](http://optout.aboutads.info/?c=2)
+    * [Digital Advertising Alliance of Canada](https://youradchoices.ca/en/tools)
+    * [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
+    * **Google** allows users to opt-out of tracking by Google Analytics and Google Analytics Demographics and Interest Reporting services. You can adjust your setting [here](https://adssettings.google.com/u/0/authenticated), or download the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
+    * LinkedIn allows users and non-users to opt-out of targeted advertising [here](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=microsites-frontend_legal_cookie-policy).
+* **Mobile Device Opt-Out:** To opt-out of receiving interest-based ads that are based on your behavior across different mobile applications, please follow instructions for iOS and Android devices. For iOS 7 or Higher: Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting. For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Select Ads > Enable “Opt-out of interest-based advertising”.
 
 ### 6\. Security
 
@@ -302,6 +308,11 @@ You may only make a verifiable request for access or data portability twice with
 
 In addition to the CCPA, the California Civil Code permits California residents with whom we have an established business relationship to request that we provide you with a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the preceding calendar year. To make such a request, please contact us and mention that you are making a “California Shine the Light” inquiry.
 
+Let Truyo Be Your Guide Towards Safer AI Adoption
+-------------------------------------------------
+
+[Accelerate Your AI Journey Today](https://truyo.com/request-demo/)
+
 [![truyo brand logo](/wp-content/uploads/2024/09/truyo_logo.svg)](https://truyo.com/)
 
 [![intraedge brand logo](/wp-content/uploads/2024/09/IntraEdge_Logo_RGB_v1-1-1-1.png)](https://intraedge.com/)
@@ -316,27 +327,35 @@ Platform
 Company
 
 * [About](https://truyo.com/about/)
-* [Careers](https://truyo.com/coming-soon/)
+* [Careers](https://truyo.com/careers/)
 * [Contact](https://truyo.com/contact/)
 
 Resources
 
 * [Blog](https://truyo.com/blog/)
-* [Case Studies](https://truyo.com/coming-soon/)
-* [Webinars](https://get.truyo.com/mastering-ai-governance-webinar-series)
-* [White Papers](https://get.truyo.com/vcdpa-whitepaper)
+* [Events](https://truyo.com/events/)
+* [Webinars](https://truyo.com/webinars/)
+* [Whitepapers](https://truyo.com/whitepapers/)
 
 * [Product Releases](https://releases.truyo.com/)
-* [Newsletter & Product Releases](https://truyo.com/coming-soon/)
-* [Privacy Legislation Tracker](https://truyo.com/coming-soon/)
-* [FAQs](https://truyo.com/coming-soon/)
+* [News & Press Releases](https://truyo.com/news/)
+* [Privacy Legislation Tracker](https://truyo.com/legislation-tracker/)
+* [FAQs](https://truyo.com/faq/)
 
 Get in touch with us
 
 [](https://www.linkedin.com/company/truyo)[](https://www.facebook.com/truyofb?mibextid=kFxxJD)[](https://twitter.com/truyohq)
+
+[Subscribe to Newsletter](https://share.hsforms.com/1Ug9gvmwyQJesXojIjSWTBw2plvj)
 
 ![](/wp-content/uploads/2024/09/IAPP-Gold-Member.png) ![](/wp-content/uploads/2024/09/21972-312_SOC_NonCPA.png) ![](/wp-content/uploads/2024/09/CSA-Solution-Provider.png) ![](/wp-content/uploads/2024/09/StateRAMP.png) ![](/wp-content/uploads/2024/09/GovAI.png)
 
 Copyright © 2024, All Rights Reserved – Powered by Intel®
 
 [Privacy Policy](https://truyo.com/privacy-policy/) [Terms of Use](https://truyo.com/terms-of-use/)
+
+Learn Pricing
+=============
+
+Press Request
+=============
