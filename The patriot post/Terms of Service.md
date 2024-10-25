@@ -1,10 +1,10 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111362-mid-day-digest-2024-10-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111404-mid-day-digest-2024-10-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111362-mid-day-digest-2024-10-24?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111404-mid-day-digest-2024-10-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -207,14 +207,18 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Josh Hammer Donald Trump, Class Traitor Par Excellence](https://patriotpost.us/opinion/111394-donald-trump-class-traitor-par-excellence-2024-10-25)
+*      [Michael Barone The Democratic Party’s Bad October](https://patriotpost.us/opinion/111393-the-democratic-partys-bad-october-2024-10-25)
+*      [David Harsanyi Kamala Is the Bigger Threat to the Constitutional Order](https://patriotpost.us/opinion/111392-kamala-is-the-bigger-threat-to-the-constitutional-order-2024-10-25)
+*      [Erick Erickson A Bold Miscalculation](https://patriotpost.us/opinion/111391-a-bold-miscalculation-2024-10-25)
+*      [Gary Bauer The Fascism Farce](https://patriotpost.us/opinion/111390-the-fascism-farce-2024-10-25)
+*      [Victor Davis Hanson Kamala’s Inane Talking Points](https://patriotpost.us/opinion/111387-kamalas-inane-talking-points-2024-10-25)
+*      [Tim Graham CNN’s Town Hall Leans Into Boosting Kamala](https://patriotpost.us/opinion/111386-cnns-town-hall-leans-into-boosting-kamala-2024-10-25)
+*      [Hans von Spakovsky THE LAW IS CLEAR: Biden-Harris DOJ Can’t Stop States From Striking Aliens Off Voter Rolls](https://patriotpost.us/opinion/111384-the-law-is-clear-biden-harris-doj-cant-stop-states-from-striking-aliens-off-voter-rolls-2024-10-25)
+*      [Michael Reagan Kamala Misdeals the Hitler Card](https://patriotpost.us/opinion/111383-kamala-misdeals-the-hitler-card-2024-10-25)
 *      [Mark Alexander Profiles of Valor: Morgan Luttrell](https://patriotpost.us/alexander/111365-profiles-of-valor-morgan-luttrell-2024-10-25)
-*      [Ben Shapiro Why Trump at McDonald’s Matters](https://patriotpost.us/opinion/111350-why-trump-at-mcdonalds-matters-2024-10-24)
-*      [Laura Hollis For Kamala Harris, Abortion Isn’t About Freedom; It’s About Force](https://patriotpost.us/opinion/111349-for-kamala-harris-abortion-isnt-about-freedom-its-about-force-2024-10-24)
-*      [Larry Elder Kamala’s Closing Argument: ‘I’m Obviously Not Joe Biden’](https://patriotpost.us/opinion/111346-kamalas-closing-argument-im-obviously-not-joe-biden-2024-10-24)
-*      [Gary Bauer God’s Hand](https://patriotpost.us/opinion/111341-gods-hand-2024-10-24)
-*      [Cal Thomas The Marijuana Campaign](https://patriotpost.us/opinion/111352-the-marijuana-campaign-2024-10-24)
-*      [Armstrong Williams The President Is Not a King or Queen: Down-Ballot Races Matter](https://patriotpost.us/opinion/111347-the-president-is-not-a-king-or-queen-down-ballot-races-matter-2024-10-24)
-*      [Ann Coulter Central Park Five: Be Careful What You Sue For](https://patriotpost.us/opinion/111343-central-park-five-be-careful-what-you-sue-for-2024-10-24)
+*      [The Washington Stand How Did Politics Become ‘So Toxic, Divided, and Bitter?’ Obama.](https://patriotpost.us/opinion/111380-how-did-politics-become-so-toxic-divided-and-bitter-obama-2024-10-25)
+*      [The Babylon Bee 9 Ways Trump Is Exactly Like Hitler](https://patriotpost.us/opinion/111382-9-ways-trump-is-exactly-like-hitler-2024-10-25)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +232,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“During the course of administration, and in order to disturb it, the artillery of the press has been levelled against us, charged with whatsoever its licentiousness could devise or dare. These abuses of an institution so important to freedom and science are deeply to be regretted, inasmuch as they tend to lessen its usefulness and to sap its safety.” —Thomas Jefferson (1805)
+“The first transactions of a nation, like those of an individual upon his first entrance into life make the deepest impression, and are to form the leading traits in its character.” —George Washington (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
