@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Saturn's Moon Titan Has Thick Insulating Crust](https://www.sciencedaily.com/releases/2024/10/241025122818.htm)
+* ['Well-Man' Thrown from Castle 800 Years Ago](https://www.sciencedaily.com/releases/2024/10/241025122355.htm)
+* [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
 * [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
 * [Fire-Risk Blocking Hydrogen Production System](https://www.sciencedaily.com/releases/2024/10/241024132044.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
@@ -215,9 +218,6 @@ this hour
 * [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
 * [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
 * [Electric Cars: Long-Lasting Renewable Batteries](https://www.sciencedaily.com/releases/2024/10/241024131708.htm)
-* [Wildfires Becoming Faster, More Dangerous](https://www.sciencedaily.com/releases/2024/10/241024145253.htm)
-* [Beyond Superheavy Element Livermorium](https://www.sciencedaily.com/releases/2024/10/241024131705.htm)
-* [Weight-Loss Drug May Cut Alzheimer's Risk](https://www.sciencedaily.com/releases/2024/10/241024131639.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
-
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -248,7 +248,7 @@ this week
 
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
   
 
