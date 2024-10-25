@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Lähi-itä](https://yle.fi/t/18-185583/fi)[Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)[Pentulive](yle://SubjectArticles?subjectId=18-332106)
 
 [Hae](https://haku.yle.fi/)
 
@@ -14,8 +14,9 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Lähi-itä](https://yle.fi/t/18-185583/fi)
 * [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
+* [Pentulive](yle://SubjectArticles?subjectId=18-332106)
+* [Lähi-itä](https://yle.fi/t/18-185583/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
