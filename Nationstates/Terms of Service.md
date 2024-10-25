@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What triggers you about the AN? (9,628)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (9,628 posts)")
-* [Compliment AN's Lore (61)](https://forum.nationstates.net/viewtopic.php?t=555312&f=25&view=unread#unread ""Compliment AN's Lore" (61 posts)")
-* [Transformers: Electric Trepidation (10,074)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,074 posts)")
-* [GCF T20 World Cup 17: Everything thre… (90)](https://forum.nationstates.net/viewtopic.php?t=556622&f=7&view=unread#unread ""GCF T20 World Cup 17: Everything thread (MD7 posted)" (90 posts)")
-* [How do you imagine the player above y… (2,172)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (2,172 posts)")
+* [Your favorite part of AN’s forum sig XI (3,155)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,155 posts)")
+* [Say a random sentence (8,870)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (8,870 posts)")
+* [NSPolandball 4: The Most Countryballs… (3,591)](https://forum.nationstates.net/viewtopic.php?t=504866&f=19&view=unread#unread ""NSPolandball 4: The Most Countryballs You'll Ever See on NS" (3,591 posts)")
+* [\[DRAFT\] Ethical Oversight of Biomedic… (4)](https://forum.nationstates.net/viewtopic.php?t=557466&f=9&view=unread#unread ""[DRAFT] Ethical Oversight of Biomedical Research" (4 posts)")
+* [The Phoenix’s Spark (closed) (58)](https://forum.nationstates.net/viewtopic.php?t=556764&f=5&view=unread#unread ""The Phoenix’s Spark (closed)" (58 posts)")
 
 Advertisement
 
