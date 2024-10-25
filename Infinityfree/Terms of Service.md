@@ -17,7 +17,7 @@ Click [**here**](https://www.enable-javascript.com/) if you'd like to learn how.
 Terms of Service
 ================
 
-Last Revised: 2024-05-03
+Last Revised: 2024-10-25
 
 PLEASE READ THIS TERMS OF SERVICE AGREEMENT CAREFULLY, AS IT CONTAINS IMPORTANT INFORMATION REGARDING YOUR LEGAL RIGHTS AND REMEDIES.
 
@@ -84,11 +84,12 @@ You acknowledge and agree that:
 * You will not collect or harvest (or permit anyone else to collect or harvest) any User Content (as defined below) or any non-public or personally identifiable information about another User or any other person or entity without their express prior written consent.
 * You will not use this Site or the Services in a manner (as determined by InfinityFree in its sole and absolute discretion) that:
     * Is illegal, or promotes or encourages illegal activity;
-    * Promotes, encourages or engages in pornography;
+    * Promotes, encourages or engages in pornography or other content deemed adult related;
     * Promotes, encourages or engages in harm or exploitation of children;
     * Promotes, encourages or engages in terrorism, violence against people, animals, or property;
     * Promotes, encourages or engages in any spam or other unsolicited bulk emails, or computer or network hacking or cracking, cloaking or sneaky redirects;
     * Promotes, encourages or engages in the sale or distribution of prescription medication without a valid prescription;
+    * Promotes, encourages or engages in lottery, casino, slot machine or other gambling related activity;
     * Infringes on the intellectual property rights of another User or any other person or entity (or links to content on third party sites/servers that infringes intellectual property rights);
     * Violates the privacy or publicity rights of another User or any other person or entity, or breaches any duty of confidentiality that you owe to another User or any other person or entity;
     * Interferes with the operation of this Site or the Services found at this Site;
