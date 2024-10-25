@@ -196,57 +196,56 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Anri van der Linde
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=81575004)  
-NGB HOLDINGS PTY LTD
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=105453307)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=65689657)  
-McKaynine Mobility
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=48559682)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=63453764)  
-FX ACCOUNTING
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=107159710)  
+Druce Digital
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=51015368)  
-NWET Pty LTD
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=186270306)  
+National Elite Security Services (PTY) LTD
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=106915136)  
-Imvubu General Trading
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=160993708)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=3263768)  
-Dombieterfontein (PTY) LTD
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=46209027)  
+OXYAIDER (PTY) LTD
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=30000540)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=14315544)  
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=202457981)  
-RADIO TYGERBERG 104FM NPC
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=19095803)  
+West Coast Horse Trails
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=145223859)  
-APTV Telecoms CC
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=47420202)  
+CBR Verwe/Paints
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=146005214)  
-Printo
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=198577270)  
+Salvage Genie
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=38421253)  
-UMVIKELI PRIVATE SECURITY
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=128633102)  
+Vplay Grafix
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=38615754)  
-LEO DEVELOPMENT GROUP
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=111154077)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=21909959)  
-Network Grey (Pty) Ltd
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=120010842)  
+Qothiphango Mining
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=168583511)  
-Testpro Laboratory (Pty) Ltd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=141164836)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=f053edf05bb701aa9bc163679b5aca61cee30aeed7c163070ecb518e44faeed5&c=65595183)  
-J.M. HUMAN RESOURCES
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=ad20f4ebd83166ec9a1639f16ccab29f3eea05315fdf45d70306f66e7e6d829f&c=196028588)  
+SLOANE STAR MEAT MARKET
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
