@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=307743630704587&ev=PageView&noscript=1)            
 
-               
+                 
 
 Menu
 
@@ -34,7 +34,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)[Euractiv Pro
 
 For corporations](https://www.euractiv.com/euractiv-pro)
 
-Login
+Login My account
 
 [Ukraine](https://www.euractiv.com/topics/ukraine) [The Capitals](https://www.euractiv.com/sections/the-capitals) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/)
 
@@ -42,9 +42,7 @@ Login
 
 [Looking to access paid articles across multiple policy topics?
 
-Euractiv+](https://www.euractiv.com/euractiv-plus)
-
-[Interested in policy insights for EU professional organisations?
+Euractiv+](https://www.euractiv.com/euractiv-plus)[Interested in policy insights for EU professional organisations?
 
 Euractiv Pro](https://www.euractiv.com/euractiv-pro)
 
@@ -506,6 +504,6 @@ Login
 
 [](http://www.facebook.com/EURACTIV)[](http://www.twitter.com/euractiv)[](https://www.linkedin.com/company/euractiv-com/)[](http://www.youtube.com/euractiv)[](https://www.euractiv.com/?feed=mcfeed)[](https://www.instagram.com/euractiv/)[](https://masto.ai/@euractiv)[](https://t.me/EURACTIV_EU)[](https://bsky.app/profile/euractiv.com)[](https://www.threads.net/@euractiv)
 
-[Cookies](https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/) [Terms & Conditions](https://www.euractiv.com/terms) [Privacy statement](https://www.euractiv.com/privacy/) Euractiv 2024 [**A mediahuis company**](https://www.mediahuis.com/en/)
+[Cookies](https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/) [Terms & Conditions](https://www.euractiv.com/terms) [Privacy statement](https://www.euractiv.com/privacy/) [A mediahuis company](https://www.mediahuis.com/en/) Euractiv 2024
 
 © 1999 - 2024 | Efficacité et Transparence des Acteurs Européens. [EURACTIV MEDIA NETWORK BV.](https://www.euractiv.com/about-euractiv) | [Terms and Conditions](https://www.euractiv.com/terms) | [Cookie Policy](https://www.euractiv.com/about-euractiv/euractiv-com-cookie-policy/) | [Privacy Policy](https://www.euractiv.com/privacy/) | [Contact us](https://www.euractiv.com/contactus/)
