@@ -40,7 +40,7 @@ _expand\_more_
 
 More
 
-[Modern Governance 100_open\_in\_new_](https://boarddocs.com/modern-governance-100)[Diligent Elevate_open\_in\_new_
+[Cyber Risk Virtual Summit_open\_in\_new_](https://boarddocs.com/cyber-risk-virtual-summit)[Modern Governance 100_open\_in\_new_](https://boarddocs.com/modern-governance-100)[Diligent Elevate_open\_in\_new_
 
 (formerly Modern Governance Summit)](https://boarddocs.com/elevate)[Diligent Institute_open\_in\_new_](https://www.diligentinstitute.com/)
 
@@ -305,6 +305,7 @@ If we materially change this Privacy Policy, we will notify you of the changes. 
 * [Research & Reports](https://boarddocs.com/resources/research)
 * [Podcasts](https://boarddocs.com/resources/podcasts)
 * [Guides](https://boarddocs.com/resources/guides)
+* [Newsletter Signup](https://boarddocs.com/newsletter-signup)
 
 ### CompanyCompany
 
@@ -319,7 +320,7 @@ _security_
 
 At our core, transparency is key. We prioritize your privacy by providing clear information about your rights and facilitating their exercise. You're in control, with the option to manage your preferences and the extent of information shared with us and our partners.
 
-[Privacy Policy](https://boarddocs.com/legal/privacy)[Terms of use](https://boarddocs.com/legal/terms-of-use)[Cookie Policy](https://boarddocs.com/legal/cookie-policy)[Digital Services Act](https://boarddocs.com/legal/digital-services-act)[Newsletter Signup](https://boarddocs.com/newsletter-signup)
+[Privacy Policy](https://boarddocs.com/legal/privacy)[Terms of use](https://boarddocs.com/legal/terms-of-use)[Cookie Policy](https://boarddocs.com/legal/cookie-policy)[Digital Services Act](https://boarddocs.com/legal/digital-services-act)
 
 [Your Privacy Choices](https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit)[Trust Center](https://boarddocs.com/trust)[Vulnerability Disclosure Program](https://boarddocs.com/vulnerability-disclosure-program)[Modern Slavery Statement](https://boarddocs.com/legal/modern-slavery)[Accessibility Statement](https://boarddocs.com/accessibility-statement)
 
