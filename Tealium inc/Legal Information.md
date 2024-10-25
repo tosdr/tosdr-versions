@@ -151,7 +151,7 @@ Depending on the requested services or as necessary to complete any transaction 
 
 We will disclose any Personal Information we collect, use or receive if required or permitted by law, such as to comply with a subpoena or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-Retention of information
+**Retention of information**
 
 We will retain and use your Personal Information for the period necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, unless a longer retention period is required or permitted by law. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification, and the right to data portability cannot be enforced after the expiration of the retention period.
 
@@ -163,63 +163,35 @@ Depending on your location, data transfers may involve transferring and storing 
 
 Tealium complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Tealium has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Tealium has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-In compliance with the Data Privacy Framework Principles, Tealium commits to resolve complaints about our collection or use of your Personal Information.  EU, UK, and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Tealium at [privacy@tealium.com](mailto:privacy@tealium.com) or [dpo@tealium.com](mailto:dpo@tealium.com). 
+In compliance with the Data Privacy Framework Principles, Tealium commits to resolve complaints about our collection or use of your Personal Information.  EU, UK, and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Tealium at  [privacy@tealium.com](mailto:privacy@tealium.com) or [dpo@tealium.com](mailto:dpo@tealium.com). 
 
-If you do not receive acknowledgment of your complaint within 45 days of receipt from us or if you are not satisfied with our response, you may bring a complaint before the United States Council for International Business (USCIB). The USCIB is the American affiliate of the International Chamber of Commerce, the Business and Industry Advisory Committee to the OECD, and the International Organization of Employers. USCIB has agreed to act as a trusted third party on behalf of the European Union (EU) Data Protection Authorities, the Swiss (FDPIC), and the UK (ICO). For information about how to file a complaint before the USCIB, visit [uscib.org](http://uscib.org/). The services of this process are provided at no cost to you. As a last resort and in limited situations, individuals may seek binding arbitration from the Data Privacy Framework Panel.
+If you do not receive acknowledgment of your complaint within 45 days of receipt from us or if you are not satisfied with our response, you may bring a complaint before the United States Council for International Business (USCIB). The USCIB is the American affiliate of the International Chamber of Commerce, the Business and Industry Advisory Committee to the OECD, and the International Organization of Employers. USCIB has agreed to act as a trusted third party on behalf of the European Union (EU) Data Protection Authorities, the Swiss (FDPIC), and the UK (ICO). For information about how to file a complaint before the USCIB, visit [https://uscib.org/](https://uscib.org/). The services of this process are provided at no cost to you. As a last resort and in limited situations, individuals may seek binding arbitration from the Data Privacy Framework Panel.
 
-**The rights of users – Access and Choice**
+**Rights**
 
-You may contact us using the contact information below at any time. In addition, you can refine your data collection and privacy preferences by using our Privacy Manager, where you can decide what data is collected about you based on specific purposes. For example, if you are happy to let us track how you use our website, as long as we do not use that for advertising purposes you can simply disable data collection for advertising purposes, while leaving analytics tracking on in our Privacy Manager (https://tealium.com/preferences).
+You may contact us using the contact information below at any time. In addition, you can refine your data collection and privacy preferences by using our Privacy Manager, where you can decide what data is collected about you based on specific purposes. For example, if you are happy to let us track how you use our website, as long as we do not use that for advertising purposes you can simply disable data collection for advertising purposes, while leaving analytics tracking on in our Privacy Manager ([https://tealium.com/preferences](https://tealium.com/preferences)).
 
 Tealium’s marketing emails contain instructions, including an “unsubscribe link” on how to opt out of receiving marketing emails from Tealium. You can also unsubscribe here https://tealium.com/preferences.
 
-You can also exercise any of the rights stated below via our Data Subject Access Request page [https://tealium.com/data-subject-access-request-form/](https://tealium.com/data-subject-access-request-form/), by emailing us at [dpo@tealium.com](mailto:dpo@tealium.com) or via postage at the following address:
+You can also exercise any of the rights stated below via our Data Subject Access Request page [https://tealium.com/data-subject-access-request-form/](https://tealium.com/data-subject-access-request-form/), by emailing us at  or via postage at the following address: 9605 Scranton Road, Suite 600, San Diego, CA 92121
 
-9605 Scranton Road
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following  
 
-Suite 600
+1. you have the right to withdraw consent where you have previously given your consent to the processing of your information; 
+2. you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; 
+3. you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; 
+4. you have the right to verify the accuracy of your information and ask for it to be updated or corrected; 
+5. you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; 
+6. you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; and
+7. you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of, or on pre-contractual obligations thereof.
 
-San Diego, CA 92121
+**Choice**
 
-You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following: 
+If personal data covered by this Privacy Policy is to be used for a new purpose that is materially different from that for which the personal data was originally collected or subsequently authorized, or is to be disclosed to a non-agent third party in a manner not specified in this policy, OIDF will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us as specified in the “How to Contact Us” section below. Certain personal data, such as information about medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, is considered “Sensitive Information.” OIDF will not use Sensitive Personal for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual unless OIDF has received your affirmative and explicit consent (opt-in).
 
-(i) you have the right to withdraw consent where you have previously given your consent to the processing of your information; 
+**Accountability for Onward Transfer**
 
-(ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; 
-
-(iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; 
-
-(iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected; 
-
-(v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; 
-
-(vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; and
-
-(vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of, or on pre-contractual obligations thereof.
-
-**The right to object to processing**
-
-Where we process your Personal Information for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn whether we are processing Personal Information for direct marketing purposes, you may refer to the relevant sections of this Policy.
-
-**Data protection rights for European Economic Area** 
-
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights and Tealium aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. In certain circumstances, you have the following data protection rights:
-
-– You have the right to request access to your Personal Information that we store and you have the ability to access your Personal Information.
-
-– You have the right to request that we correct any Personal Information you believe is inaccurate. You also have the right to request us to complete the Personal Information you believe is incomplete.
-
-– You have the right to request the erasure of your Personal Information under certain conditions of this Policy.
-
-– You have the right to object to our processing of your Personal Information.
-
-–  You have the right to seek restrictions on the processing of your Personal Information. When you restrict the processing of your Personal Information, we may store it but will not process it further.
-
-–  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-
-–  You also have the right to withdraw your consent at any time where Tealium relied on your consent to process your Personal Information.
-
-– You have the right to complain to a Data Protection Authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+If you are an EU, UK, or Swiss Individual, where we transfer your personal data to a third party service provider (see above) who performs services for us or on our behalf, we are responsible for the processing of that data by them and shall remain liable if they process your personal data in a manner inconsistent with the DPF Principles referred to on this page, unless we prove that we are not responsible for the event giving rise to the damage.
 
 **California privacy rights**
 
@@ -241,11 +213,11 @@ The Website and Services use “cookies” to help personalize your online exper
 
 We may use cookies to collect, store, and track information for statistical purposes to operate the Website and Services. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
 
-Do Not Track signals
+**Do Not Track signals**
 
 Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a website. For these purposes, tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time. How browsers communicate the Do Not Track signal is not yet uniform. As a result, the Website and Services are not yet set up to interpret or respond to Do Not Track signals communicated by your browser. Even so, as described in more detail throughout this Policy, we limit our use and collection of your Personal Information.
 
-Advertisements
+**Advertisements**
 
 We may permit certain third-party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on the Website. These companies may deliver ads that might place cookies and otherwise track user behavior.
 
@@ -311,7 +283,6 @@ Attn: Legal Department
 | 8/31/2023 | Approval | 1.2 | Approval | DJ Landreneau | VP Compliance |
 
 **Policy Review**
-=================
 
 |     |     |
 | --- | --- |
@@ -320,7 +291,7 @@ Attn: Legal Department
 | Retention Period | Life of the company (archived when superseded) |
 | Next Review Date | August 2024 |
 | Location of policy | [Privacy Notices](https://drive.google.com/drive/u/0/folders/19EktKka5jsOgkD7SXtwv4JDSblYqMI5r) |
-| Policy Keyword Search | #policy, #privacy, |
+| Policy Keyword Search | #policy, #privacy |
 | Related Policies/Procedures | Cookie Notice |
 
 [![Tealium](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/logo-dark.svg "Tealium")](https://tealium.com/)
