@@ -15,10 +15,10 @@
     * [Partners](https://crowdmark.com/partners/)
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
-* [Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
+* [Customer Stories](https://crowdmark.com/case-studies/)
     * [Podcast](https://crowdmark.com/crowdmark-sessions/)
     * [Conference](https://crowdmark.com/events/community-conference/)
-    * [Customer Stories](https://crowdmark.com/customer-stories/)
+    * [Case Studies](https://crowdmark.com/case-studies/)
 * [Help](https://crowdmark.com/help/)
 
 * [Higher Ed](https://crowdmark.com/higher-ed/)
@@ -32,10 +32,10 @@
     * [Partners](https://crowdmark.com/partners/)
     * [News & Press](https://crowdmark.com/press/)
     * [FAQ](https://crowdmark.com/faq/)
-* [Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
+* [Customer Stories](https://crowdmark.com/case-studies/)
     * [Podcast](https://crowdmark.com/crowdmark-sessions/)
     * [Conference](https://crowdmark.com/events/community-conference/)
-    * [Customer Stories](https://crowdmark.com/customer-stories/)
+    * [Case Studies](https://crowdmark.com/case-studies/)
 * [Help](https://crowdmark.com/help/)
 
 [Get a Trial](https://crowdmark.com/contact/)
@@ -276,13 +276,13 @@ Learn about Crowdmark in person! [Check out our upcoming live events.](https://c
 
 [FAQ](https://crowdmark.com/faq/)
 
-[Knowledge Base](https://crowdmark.com/crowdmark-sessions/)
+[Customer Stories](https://crowdmark.com/case-studies/)
 
 [Podcast](https://crowdmark.com/crowdmark-sessions/)
 
 [Conference](https://crowdmark.com/events/community-conference/)
 
-[Customer Stories](https://crowdmark.com/customer-stories/)
+[Case Studies](https://crowdmark.com/case-studies/)
 
 [Help](https://crowdmark.com/help/)
 
