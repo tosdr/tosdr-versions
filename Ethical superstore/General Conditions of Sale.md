@@ -266,8 +266,8 @@ Customer Services Helpline
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
             * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
+            * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
