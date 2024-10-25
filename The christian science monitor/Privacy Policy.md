@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### With Senate hopes dwindling, Democrats look, once again, to Texas](https://www.csmonitor.com/USA/Society/2024/1025/senate-texas-cruz-allred-trump-harris "With Senate hopes dwindling, Democrats look, once again, to Texas")
-
 [### How a Sudanese refugee in Uganda is keeping his homeland alive through food](https://www.csmonitor.com/World/Africa/2024/1025/sudan-war-uganda-refugees-food "How a Sudanese refugee in Uganda is keeping his homeland alive through food")
 
 [### She fled war in Sudan. Now she grapples with returning.](https://www.csmonitor.com/World/Africa/2024/1025/refugees-sudan-civil-war-displacement-crisis "She fled war in Sudan. Now she grapples with returning.")
+
+[### At BRICS summit, Russia tries to build a world without the US](https://www.csmonitor.com/World/Europe/2024/1024/brics-russia-vladimir-putin-ukraine-war-us-dollar "At BRICS summit, Russia tries to build a world without the US")
 
 * * *
 
