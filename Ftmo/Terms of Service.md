@@ -30,25 +30,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/terms-conditions/)
+        Español](https://ftmo.com/es/terms-conditions/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/allgemeine-geschaeftsbedingungen/)
+        Deutsch](https://ftmo.com/de/allgemeine-geschaeftsbedingungen/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/terms-conditions/)
+        Français](https://ftmo.com/fr/terms-conditions/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/vseobecne-obchodni-podminky/)
+        Čeština](https://ftmo.com/cs/vseobecne-obchodni-podminky/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/terms-conditions/)
+        Italiano](https://ftmo.com/it/terms-conditions/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/cac-dieu-khoan-va-dieu-kien/)
+        Tiếng Việt](https://ftmo.com/vi/cac-dieu-khoan-va-dieu-kien/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/terms-conditions/)
+        Português](https://ftmo.com/pt/terms-conditions/)
 * [](https://ftmo.com/?s=)
     
      
@@ -87,25 +87,25 @@
     EN](#)
     * [![es](/wp-content/themes/ftmo-com/public/images/svg/flags/ES.svg)
         
-        ES](https://ftmo.com/es/terms-conditions/)
+        Español](https://ftmo.com/es/terms-conditions/)
     * [![de](/wp-content/themes/ftmo-com/public/images/svg/flags/DE.svg)
         
-        DE](https://ftmo.com/de/allgemeine-geschaeftsbedingungen/)
+        Deutsch](https://ftmo.com/de/allgemeine-geschaeftsbedingungen/)
     * [![fr](/wp-content/themes/ftmo-com/public/images/svg/flags/FR.svg)
         
-        FR](https://ftmo.com/fr/terms-conditions/)
+        Français](https://ftmo.com/fr/terms-conditions/)
     * [![cs](/wp-content/themes/ftmo-com/public/images/svg/flags/CZ.svg)
         
-        CS](https://ftmo.com/cs/vseobecne-obchodni-podminky/)
+        Čeština](https://ftmo.com/cs/vseobecne-obchodni-podminky/)
     * [![it](/wp-content/themes/ftmo-com/public/images/svg/flags/IT.svg)
         
-        IT](https://ftmo.com/it/terms-conditions/)
+        Italiano](https://ftmo.com/it/terms-conditions/)
     * [![vi](/wp-content/themes/ftmo-com/public/images/svg/flags/VN.svg)
         
-        VI](https://ftmo.com/vi/cac-dieu-khoan-va-dieu-kien/)
+        Tiếng Việt](https://ftmo.com/vi/cac-dieu-khoan-va-dieu-kien/)
     * [![pt](/wp-content/themes/ftmo-com/public/images/svg/flags/PT_pt.svg)
         
-        PT](https://ftmo.com/pt/terms-conditions/)
+        Português](https://ftmo.com/pt/terms-conditions/)
 * [Client Area](https://trader.ftmo.com/?lang=en)
 
 Terms and Conditions
