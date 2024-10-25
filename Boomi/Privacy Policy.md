@@ -6,7 +6,7 @@
     
     One platform for digital transformation](https://boomi.com/platform/)[###### Why Boomi
     
-    See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)[###### Pricing
+    See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)[###### iPaaS pricing & editions
     
     Flexible pricing for SMBs to enterprise](https://boomi.com/pricing/)[###### Security & compliance
     
@@ -141,7 +141,7 @@
     * [###### Why Boomi
         
         See why ~ 20,000 customers choose Boomi](https://boomi.com/why-boomi/)
-    * [###### Pricing
+    * [###### iPaaS pricing & editions
         
         Flexible pricing for SMBs to enterprise](https://boomi.com/pricing/)
     * [###### Security & compliance
@@ -641,7 +641,7 @@ The #1 intelligent iPaaS for digital transformation.
 * [Platform](https://boomi.com/platform/)
     * [Boomi Enterprise Platform](https://boomi.com/platform/)
     * [Why Boomi](https://boomi.com/why-boomi/)
-    * [Pricing](https://boomi.com/pricing/)
+    * [iPaaS pricing & editions](https://boomi.com/pricing/)
     * [Compliance](https://boomi.com/compliance/)
     * [What is iPaas?](https://boomi.com/platform/what-is-ipaas/)
 * [Solutions](#)
