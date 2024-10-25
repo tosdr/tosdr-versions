@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
-    
-    ### [Hells Angels member who allegedly 'walked through' and mopped up blood of victim in vicious beating pleads guilty to weapons charges](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
-    
-2. [![Mike Lindell](https://lawandcrime.com/wp-content/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+1. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
     ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-3. [![Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/08/AP24175250270956-432x243.jpeg)](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
+2. [![John Burgos](https://am21.mediaite.com/lc/cnt/uploads/2024/10/John-Burgos-432x243.jpg)](https://lawandcrime.com/crime/idiot-angry-that-power-hadnt-returned-after-hurricane-milton-takes-frustrations-out-by-shooting-his-dog-to-death-cops/)
     
-    ### ['Denied': Georgia Supreme Court unanimously rejects GOP efforts to revive controversial election rules passed by Trump allies](https://lawandcrime.com/high-profile/denied-georgia-supreme-court-unanimously-rejects-gop-efforts-to-revive-controversial-election-rules-passed-by-trump-allies/)
+    ### ['Idiot' angry that power hadn't returned after Hurricane Milton takes frustrations out by shooting his dog to death: Cops](https://lawandcrime.com/crime/idiot-angry-that-power-hadnt-returned-after-hurricane-milton-takes-frustrations-out-by-shooting-his-dog-to-death-cops/)
     
-4. [![Left to right: Jack Smith, Clarence Thomas, Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/10/Smith-Thomas-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
+3. [![Jeffrey Clark](https://am24.mediaite.com/lc/cnt/uploads/2021/08/Jeffrey-Clark-432x243.jpg)](https://lawandcrime.com/high-profile/not-a-get-out-of-state-court-free-card-mark-meadows-failure-to-remove-georgia-rico-case-to-federal-court-comes-back-to-haunt-jeffrey-clark-too/)
     
-    ### ['Unjust case was dead on arrival': Trump moves to dismiss Jan. 6 indictment and stop 'private-citizen Smith' from spending money — with Clarence Thomas leading the way](https://lawandcrime.com/high-profile/unjust-case-was-dead-on-arrival-trump-moves-to-dismiss-jan-6-indictment-and-stop-private-citizen-smith-from-spending-money-with-clarence-thomas-leading-the-way/)
+    ### ['Not a get-out-of-state-court-free card': Mark Meadows' failure to remove Georgia RICO case to federal court comes back to haunt Jeffrey Clark, too](https://lawandcrime.com/high-profile/not-a-get-out-of-state-court-free-card-mark-meadows-failure-to-remove-georgia-rico-case-to-federal-court-comes-back-to-haunt-jeffrey-clark-too/)
     
-5. [![Aileen Cannon, Jack Smith](https://lawandcrime.com/wp-content/uploads/2024/05/Aileen-Cannon-Jack-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
+4. [![Left: Hunter M. Buckentine (Sherburne County Jail). Right: Jordan Kramer (Iten Funeral Home).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/aaaaaaaaaa-432x243.jpg)](https://lawandcrime.com/crime/new-record-man-who-posted-photo-of-speedometer-at-150-mph-to-snapchat-moments-before-causing-fatal-crash-learns-his-fate/)
     
-    ### [Judge Cannon's Mar-a-Lago dismissal apparently has Trump eyeing her to replace Jack Smith's boss — and an accused would-be assassin noticed](https://lawandcrime.com/high-profile/judge-cannons-mar-a-lago-dismissal-apparently-has-trump-eyeing-her-to-replace-jack-smiths-boss-and-an-accused-would-be-assassin-noticed/)
+    ### ['New record': Man who posted photo of speedometer at 150 mph to Snapchat moments before causing fatal crash learns his fate](https://lawandcrime.com/crime/new-record-man-who-posted-photo-of-speedometer-at-150-mph-to-snapchat-moments-before-causing-fatal-crash-learns-his-fate/)
+    
+5. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
+    
+    ### [Hells Angels member who allegedly 'walked through' and mopped up blood of victim in vicious beating pleads guilty to weapons charges](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
     
 
 [](http://eepurl.com/c89Jdb)
