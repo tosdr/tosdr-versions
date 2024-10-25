@@ -96,6 +96,11 @@ Privacy Policy
 
 [Privacy Policy](https://legal.hughesnet.com/PrivacyPolicy.cfm)
 
+###   
+Do Not Call Policy
+
+[Do Not Call Policy](https://legal.hughesnet.com/node/796)
+
 [Privacy Policy](https://legal.hughesnet.com/PrivacyPolicy.cfm)
 ---------------------------------------------------------------
 
