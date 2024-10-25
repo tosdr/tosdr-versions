@@ -290,23 +290,6 @@ Send Message
 
 Δ
 
-Get this deal! Call now.
-------------------------
-
-Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
-
-Call **866-678-4172**
-
-**or scan the code below**
-
-![Scan to call 866-678-4172](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149-1.png)
-
-[Call 866-678-4172](tel:866-678-4172)
-
-No thanks, I'll continue unprotected
-
-![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
-
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
