@@ -28,7 +28,7 @@
                 
             * * [CCPA](https://truyo.com/solutions/by-compliance/ccpa/)
                 * [Colorado Act](https://truyo.com/solutions/by-compliance/colorado/)
-                * [EU-AI Act](https://truyo.com/solutions/by-compliance/eu-ai/)
+                * [EU AI Act](https://truyo.com/solutions/by-compliance/eu-ai/)
                 * [NIST AI RMF](https://truyo.com/solutions/by-compliance/nist-ai-rmf/)
                 
         * * ![](/wp-content/uploads/2024/09/by_role.svg) By Role
@@ -37,18 +37,18 @@
                 * [AI Governance Board](https://truyo.com/solutions/by-role/ai-governance-board/)
                 
 * [Resources](#)
-    * * *  [![AI Coverance](/wp-content/uploads/2024/09/blog_icon.svg) Blog](https://truyo.com/blog/) [![AI Coverance](/wp-content/uploads/2024/09/case_studies.svg) Case Studies](https://truyo.com/coming-soon/)
+    * * *  [![Blog](/wp-content/uploads/2024/09/blog_icon.svg) Blog](https://truyo.com/blog/) [![Case Studies](/wp-content/uploads/2024/09/case_studies.svg) Events](https://truyo.com/events/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/webinar.svg) Webinars](https://get.truyo.com/mastering-ai-governance-webinar-series) [![AI Coverance](/wp-content/uploads/2024/09/whitepapers.svg) White Papers](https://get.truyo.com/vcdpa-whitepaper)
+        * *  [![Webinars](/wp-content/uploads/2024/10/webinar-1.svg) Webinars](https://truyo.com/webinars/) [![Whitepapers](/wp-content/uploads/2024/10/whitepapers-1.svg) Whitepapers](https://truyo.com/whitepapers/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/product_releases.svg) Product Releases](https://releases.truyo.com/) [![AI Coverance](/wp-content/uploads/2024/09/newsletters.svg) Newsletter & Press Releases](https://truyo.com/coming-soon/)
+        * *  [![Product Releases](/wp-content/uploads/2024/09/product_releases.svg) Product Releases](https://releases.truyo.com/) [![News](/wp-content/uploads/2024/09/newsletters.svg) News & Press Releases](https://truyo.com/news/)
                 
-        * *  [![AI Coverance](/wp-content/uploads/2024/09/privacy.svg) Privacy Legislation Tracker](https://truyo.com/coming-soon/) [![AI Coverance](/wp-content/uploads/2024/09/faq.svg) FAQs](https://truyo.com/coming-soon/)
+        * *  [![Privacy Legislation Tracker](/wp-content/uploads/2024/09/privacy.svg) Privacy Legislation Tracker](https://truyo.com/legislation-tracker/) [![FAQs](/wp-content/uploads/2024/10/faq-1.svg) FAQs](https://truyo.com/faq/)
                 
 * [Company](#)
     * * *  [![About](/wp-content/uploads/2024/09/about-icon.svg) About](https://truyo.com/about/)
                 
-        * *  [![Careers](/wp-content/uploads/2024/09/careers.svg) Careers](https://truyo.com/coming-soon/)
+        * *  [![Careers](/wp-content/uploads/2024/10/careers-1.svg) Careers](https://truyo.com/careers/)
                 
         * * [![COntact](/wp-content/uploads/2024/09/contact-icon.svg)Contact](https://truyo.com/contact/)
                 
@@ -190,27 +190,35 @@ Platform
 Company
 
 * [About](https://truyo.com/about/)
-* [Careers](https://truyo.com/coming-soon/)
+* [Careers](https://truyo.com/careers/)
 * [Contact](https://truyo.com/contact/)
 
 Resources
 
 * [Blog](https://truyo.com/blog/)
-* [Case Studies](https://truyo.com/coming-soon/)
-* [Webinars](https://get.truyo.com/mastering-ai-governance-webinar-series)
-* [White Papers](https://get.truyo.com/vcdpa-whitepaper)
+* [Events](https://truyo.com/events/)
+* [Webinars](https://truyo.com/webinars/)
+* [Whitepapers](https://truyo.com/whitepapers/)
 
 * [Product Releases](https://releases.truyo.com/)
-* [Newsletter & Product Releases](https://truyo.com/coming-soon/)
-* [Privacy Legislation Tracker](https://truyo.com/coming-soon/)
-* [FAQs](https://truyo.com/coming-soon/)
+* [News & Press Releases](https://truyo.com/news/)
+* [Privacy Legislation Tracker](https://truyo.com/legislation-tracker/)
+* [FAQs](https://truyo.com/faq/)
 
 Get in touch with us
 
 [](https://www.linkedin.com/company/truyo)[](https://www.facebook.com/truyofb?mibextid=kFxxJD)[](https://twitter.com/truyohq)
+
+[Subscribe to Newsletter](https://share.hsforms.com/1Ug9gvmwyQJesXojIjSWTBw2plvj)
 
 ![](/wp-content/uploads/2024/09/IAPP-Gold-Member.png) ![](/wp-content/uploads/2024/09/21972-312_SOC_NonCPA.png) ![](/wp-content/uploads/2024/09/CSA-Solution-Provider.png) ![](/wp-content/uploads/2024/09/StateRAMP.png) ![](/wp-content/uploads/2024/09/GovAI.png)
 
 Copyright © 2024, All Rights Reserved – Powered by Intel®
 
 [Privacy Policy](https://truyo.com/privacy-policy/) [Terms of Use](https://truyo.com/terms-of-use/)
+
+Learn Pricing
+=============
+
+Press Request
+=============
