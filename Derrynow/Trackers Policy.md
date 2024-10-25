@@ -266,46 +266,14 @@ Most Popular
 [Derry Death Notices - Friday, October 25 2024](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit")](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
+[![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 
-A sea of red and white as Hollybush Primary School welcomes Derry City players, Mark Connolly, Shane McEleney and Danny Mullen on Tuesday afternoon. (Photos: Jim McCafferty Photography)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Counterfeit goods worth over £200K seized by Trading Standards Officers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Counterfeit goods worth over £200K seized by Trading Standards Officers")](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
-
-Seized goods
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Counterfeit goods worth over £200K seized by Trading Standards Officers](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner")](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Francis Bradley Inquest: Use of lethal force in 1986 shooting was justified – coroner](https://www.derrynow.com/news/local-news/1638981/francis-bradley-inquest-use-of-lethal-force-in-1986-shooting-was-justified-coroner.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry GAA Minors gala presentation night at the Elk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry GAA Minors gala presentation night at the Elk")](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry GAA Minors gala presentation night at the Elk](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans")](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
-
-The newly appointed committee pictured at the recent AGM.
-
-[Home](https://www.derrynow.com/)
-
-[Glenshane Community Development Limited celebrates 35 years of community impact and announces future plans](https://www.derrynow.com/news/home/1639058/glenshane-community-development-limited-celebrates-35-years-of-community-impact-and-announces-future-plans.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Hannah McCloskey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hannah McCloskey")](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
 
@@ -316,19 +284,47 @@ Hannah McCloskey
 [Derry girl bringing Depop in real life back for a second time](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Visitors advised to plan ahead for Derry Halloween celebrations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visitors advised to plan ahead for Derry Halloween celebrations")](https://www.derrynow.com/news/local-news/1638863/visitors-advised-to-plan-ahead-for-derry-halloween-celebrations.html)
+[![Conditional discharge for woman charged with assault and criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conditional discharge for woman charged with assault and criminal damage")](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Visitors advised to plan ahead for Derry Halloween celebrations](https://www.derrynow.com/news/local-news/1638863/visitors-advised-to-plan-ahead-for-derry-halloween-celebrations.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Conditional discharge for woman charged with assault and criminal damage](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![UPDATE: Derry City Cemetery road repair works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UPDATE: Derry City Cemetery road repair works")](https://www.derrynow.com/news/local-news/1638915/update-derrycity-cemetery-road-repair-works.html)
+[![Polish man who broke partner's jaw jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[UPDATE: Derry City Cemetery road repair works](https://www.derrynow.com/news/local-news/1638915/update-derrycity-cemetery-road-repair-works.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Who are the guests on tonight's RTE Late Late Show? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's RTE Late Late Show? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's RTE Late Late Show? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man admits breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits breaching non-molestation order")](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man admits breaching non-molestation order](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man facing number of drugs charges returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 
@@ -344,6 +340,34 @@ ADVERTISEMENT - CONTINUE READING BELOW
 Advertise with Us
 
 Multimedia
+
+[![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast")](https://www.derrynow.com/story-telling/pictures---videos/1639905/in-pictures-olts-mellow-deeds-choir-serve-up-a-musical-feast.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast](https://www.derrynow.com/story-telling/pictures---videos/1639905/in-pictures-olts-mellow-deeds-choir-serve-up-a-musical-feast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry pupils share ‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry pupils share ‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize")](https://www.derrynow.com/story-telling/pictures---videos/1639389/in-pictures-derry-pupils-share-ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
 
@@ -390,36 +414,6 @@ Photos by Jim McCafferty.
 
 [IN PICTURES: Mayor hosts reception for Gareth Vaughan](https://www.derrynow.com/story-telling/derry-sport/1638104/in-pictures-mayor-hosts-reception-for-gareth-vaughan.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Northwest Neurodiversity UK region charity base support group launched in Derry](https://www.derrynow.com/story-telling/pictures---videos/1636770/in-pictures-northwest-neurodiversity-uk-region-charity-base-support-group-launched-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: DCU celebrates International Credit Union Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: DCU celebrates International Credit Union Day")](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
-
-IN PICTURES: DCU celebrates International Credit Union Day
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: DCU celebrates International Credit Union Day](https://www.derrynow.com/story-telling/pictures---videos/1635890/in-pictures-dcu-celebrates-international-credit-union-day.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About in Dan's Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About in Dan's Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About in Dan's Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1635934/throwback-tuesday-out-and-about-in-dan-s-bar-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap")](https://www.derrynow.com/story-telling/pictures---videos/1635813/in-pictures-people-dive-into-the-treasure-trove-of-free-spooky-outfits-at-the-halloween-costume-swap.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: People dive into the treasure trove of free spooky outfits at the Halloween Costume Swap](https://www.derrynow.com/story-telling/pictures---videos/1635813/in-pictures-people-dive-into-the-treasure-trove-of-free-spooky-outfits-at-the-halloween-costume-swap.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,55 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Conditional discharge for woman charged with assault and criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conditional discharge for woman charged with assault and criminal damage")](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+[![More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 2,300 patients at GP practice set to be transferred to neighbouring health centres")](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Conditional discharge for woman charged with assault and criminal damage](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man admits breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits breaching non-molestation order")](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man admits breaching non-molestation order](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail")](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Hannah McCloskey](https://www.derrynow.com/resizer/165/93/true/2024_10_25/Hannah_McCloskey-1729848964236_1729849671.jpg--.jpg?1729849671497 "Hannah McCloskey")](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
-
-Hannah McCloskey
-
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[Derry girl bringing Depop in real life back for a second time](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NIE Networks thank employees from Campsie Depot for recent accreditation](https://www.derrynow.com/resizer/165/93/true/2024_10_25/PXL_20241018_112219870.MP_%281%29-1729849252384.jpg--.jpg?1729849253079 "NIE Networks thank employees from Campsie Depot for recent accreditation")](https://www.derrynow.com/news/home/1639372/nie-networks-thank-employees-from-campsie-depot-for-recent-accreditation.html)
-
-NIE Networks employees from the Campsie Depot and surrounding area who enjoyed a celebratory lunch in recognition of their Investors in People Platinum accreditation.
+Fairhill Medical Practice will close its doors on Thursday.
 
 [Home](https://www.derrynow.com/)
 
-[NIE Networks thank employees from Campsie Depot for recent accreditation](https://www.derrynow.com/news/home/1639372/nie-networks-thank-employees-from-campsie-depot-for-recent-accreditation.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024")](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
+
+John Thompson, Head of Safety and Corporate Responsibility, Translink; Noel Davoren, Estates Manager, CCGBC; Councillor Frances Burton, representing NILGA; and Damien Guy, Estates Supervisor, CCGBC.
+
+[Home](https://www.derrynow.com/)
+
+[Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mayor urges public to stay safe at Derry Halloween celebrations](https://www.derrynow.com/resizer/165/93/true/2024_10_25/DerryHalloweenLaunch20241-1729860512082.jpg--.jpg?1729860512694 "Mayor urges public to stay safe at Derry Halloween celebrations")](https://www.derrynow.com/news/local-news/1639628/mayor-urges-public-to-stay-safe-at-derry-halloween-celebrations.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor urges public to stay safe at Derry Halloween celebrations](https://www.derrynow.com/news/local-news/1639628/mayor-urges-public-to-stay-safe-at-derry-halloween-celebrations.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dearbhaile Brady with her Nestlé Outstanding Games Debut award.](https://www.derrynow.com/resizer/165/93/true/2024_10_25/2969153-1729858584758.jpg--.jpg?1729858587293 "Dearbhaile Brady with her Nestlé Outstanding Games Debut award.")](https://www.derrynow.com/news/derry-sport/1639580/county-derry-athlete-honoured-at-the-paralympics-ireland-awards-gala.html)
+
+Dearbhaile Brady with her Nestlé Outstanding Games Debut award.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[County Derry athlete honoured at the Paralympics Ireland Awards Gala](https://www.derrynow.com/news/derry-sport/1639580/county-derry-athlete-honoured-at-the-paralympics-ireland-awards-gala.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
