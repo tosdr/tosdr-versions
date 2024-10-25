@@ -77,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
 * [Tipps für Kaffeegenuss](https://www.zeit.de/angebote/zeit-magazin/kaffeegenuss/index)
 * [Coaching: Urbanes Leben mit Hund](https://www.zeit.de/angebote/hundeexpertin/index)
 * [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
