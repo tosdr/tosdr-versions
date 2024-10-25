@@ -18,7 +18,7 @@
 * Our Science
     * [Our Science](https://www.sanofi.com/en/our-science)
     * [Our Pipeline](https://www.sanofi.com/en/our-science/our-pipeline)
-    * [Clinical Trials and Results](https://www.sanofi.com/en/our-science/clinical-trials-and-results)
+    * [Clinical Trials and Results](https://www.sanofistudies.com/us/en/)
 * Your Health
     * [Your Health](https://www.sanofi.us/en/your-health)
     * Vaccines
