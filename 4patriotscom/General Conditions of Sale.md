@@ -158,7 +158,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        225 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        226 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//shop.4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
@@ -189,7 +189,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge Electric Cooler & Warmer
         
-        112 reviews](https://4patriots.com/products/freedom-fridge-1)
+        113 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//shop.4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
