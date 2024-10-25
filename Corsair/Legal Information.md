@@ -40,7 +40,7 @@ Search Icon
 PRIVACY POLICY
 ==============
 
-[Human Resource Privacy Policy](https://www.corsair.com/s/human-resource-privacy-policy)[iCUE Privacy Policy](https://res.cloudinary.com/corsair-pwa/image/upload/v1688744547/pages/Legal%20Documents/iCUE_Privacy_Policy.pdf)[Corsair Cookie Policy](https://assets.corsair.com/image/upload/v1709657873/pages/Legal%20Documents/Corsair_cookie_policy.pdf)
+[Human Resource Privacy Policy](https://www.corsair.com/s/human-resource-privacy-policy)[iCUE Privacy Policy](https://res.cloudinary.com/corsair-pwa/image/upload/v1688744547/pages/Legal%20Documents/iCUE_Privacy_Policy.pdf)[Corsair Cookie Policy](https://assets.corsair.com/image/upload/v1729866827/pages/Legal%20Documents/Corsair_cookie_policy.pdf)
 
 _Last updated and effective as of_: July 16, 2024
 
