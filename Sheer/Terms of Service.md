@@ -94,7 +94,7 @@ _By using Sheer.com, you agree to the following:_
 * No watermarks or ads allowed except for your main brand name. No domain name allowed.
 * Your Sheer URL is watermarked automatically on the content.
 * You must provide the original files.
-* Our system will calculate a long term, projected 3-year monetary value. This is completed within 15 days of the video being live on our Network.
+* Our system will calculate a long term, projected 3-year monetary value. This is completed within 15 days of the video being live on our Network. This feature is not available for new accounts. However all accounts retain higher payouts.
 * You agree to transfer full and exclusive ownership of the content to us (meaning you will not be allowed to use it with any other website or service, except authorized partner sites), at the moment of release.
 * The 3-year projected value from the sales of exclusive content is paid in advance to your account 15 days after the release date of the video.
 * Abusing the exclusive option may result in the loss of the ability to receive advance payments or even the removal of the ability to release exclusive content completely.
