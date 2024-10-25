@@ -64,7 +64,7 @@ The state of teamwork is ... not great. Learn why workers and leaders are feelin
 
 [Get the report](https://www.mural.co/get/teamwork-research-report-2024)
 
-[Pricing](https://www.mural.co/pricing)[Contact sales](https://www.mural.co/contact-us/sales)
+[Pricing](https://www.mural.co/pricing)
 
 Search
 
@@ -72,9 +72,7 @@ Search
 
 Sign in
 
-[Contact sales](https://www.mural.co/contact-us/sales)
-
-[‍
+[Contact sales](https://www.mural.co/contact-us/sales)[‍
 
 Sign up free](https://app.mural.co/signup)
 
