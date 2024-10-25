@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/eerste-succes-juridische-aanpak-nieuw-911-onderzoek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/eindelijk-intelligente-kijk-op-klimaatverandering/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
