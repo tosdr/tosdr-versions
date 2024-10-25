@@ -76,7 +76,7 @@ article2 days ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototype
 
 ### Just Keep Roving
 
-article7 days ago](https://science.nasa.gov/blog/just-keep-roving/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article1 week ago](https://science.nasa.gov/blog/just-keep-roving/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -307,7 +307,13 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
+[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
+
+4 min read
+
+### TSE Campaign For Your Consideration
+
+article 1 hour ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
 
 3 min read
 
@@ -319,13 +325,7 @@ article 1 day ago](https://science.nasa.gov/learning-resources/science-activatio
 
 ### Gateway: Life in a Lunar Module
 
-article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)[![LExSO](https://science.nasa.gov/wp-content/uploads/2024/10/early-conceptual-lexso.png)
-
-2 min read
-
-### LExSO
-
-article 6 days ago](https://science.nasa.gov/mission/lexso/)
+article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Highlights
 
-[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
+[![Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/EdNightOct2024_Werdin-Pfisterer%20(AuroraKit)%20-%20Carolyn%20Y.%20Ng.JPG)
+
+2 min read
+
+### Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
+
+article 3 hours ago](https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
 
 5 min read
 
 ### NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
 
-article 3 hours ago](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/)[![ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)](https://images-assets.nasa.gov/image/jsc2024e062107/jsc2024e062107~orig.jpg)
+article 6 hours ago](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/)[![ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)](https://images-assets.nasa.gov/image/jsc2024e062107/jsc2024e062107~orig.jpg)
 
 2 min read
 
 ### ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)
 
-article 15 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)[![SEAQUE (Space Entanglement and Annealing QUantum Experiment)](https://assets.science.nasa.gov/dynamicimage/assets/science/bps/quantum-leaps/bps-investigations/SEAQUE/Space_Entanglement_Annealing_QUantum_Experiment.jpg)
-
-2 min read
-
-### SEAQUE (Space Entanglement and Annealing QUantum Experiment)
-
-article 15 hours ago](https://science.nasa.gov/biological-physical/investigations/seaque-space-entanglement-and-annealing-quantum-experiment/)
+article 18 hours ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 24 hours ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 1 day ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -445,7 +445,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/navigati
 
 ### NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
 
-article 7 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)[![Liftoff of Atlantis on the STS-34 mission](https://www.nasa.gov/wp-content/uploads/2024/10/sts-34-11-liftoff-s34-s-023.jpg?w=544)
+article 1 week ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/)[![Liftoff of Atlantis on the STS-34 mission](https://www.nasa.gov/wp-content/uploads/2024/10/sts-34-11-liftoff-s34-s-023.jpg?w=544)
 
 11 min read
 
