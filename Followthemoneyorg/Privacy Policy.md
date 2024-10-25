@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
+[![Lobbyists](/assets/Images/teasers/small/company-lobbyists-pie-chart-new3.png)](https://www.followthemoney.org/research/institute-research/buying-broadband-a-boost)
 
-Successful incumbent candidates dominated 2013 fundraising.
+Telecom companies hire 1,000s of state lobbyists.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
