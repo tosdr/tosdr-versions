@@ -321,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.12/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.14/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -612,7 +612,7 @@ Sign up and enjoy these benefits!
 * [Legacy Arlo Products](https://www.netgear.com/about/legacyarloproducts/)
 
 Ad and Cookie Privacy
----------------------
+=====================
 
 ##### We use common tracking technologies.
 
