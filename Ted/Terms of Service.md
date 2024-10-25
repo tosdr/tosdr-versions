@@ -82,7 +82,6 @@ Type to search
 * [Jobs at TED](https://www.ted.com/about/our-organization/jobs-at-ted)
 * [Our policies + terms](https://www.ted.com/about/our-organization/our-policies-terms)
     * [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy)
-    * [TED Safeguarding Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-safeguarding-policy)
     * [Solicitation Disclosure](https://www.ted.com/about/our-organization/our-policies-terms/solicitation-disclosure)
     * [TED.com Terms of Use](https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use)
     * [Privacy Policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
