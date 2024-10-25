@@ -427,8 +427,8 @@ Related information:
 * [About Product Review](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000TNlc&l=en_US&fs=RelatedArticle)
 * [Privacy Policy](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmjz&l=en_US&fs=RelatedArticle)
 * [Pre-Order Terms & Conditions](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA3Ie00000000LT&l=en_US&fs=RelatedArticle)
+* [How do I create/register UNIQLO account?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmp4&l=en_US&fs=RelatedArticle)
 * [Accessibility](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmwy&l=en_US&fs=RelatedArticle)
-* [When will I get my order after successful order notification?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000TNYs&l=en_US&fs=RelatedArticle)
 
 Contact UNIQLO Indonesia
 ------------------------
