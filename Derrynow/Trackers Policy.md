@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-24 Oct 2024
+25 Oct 2024
 
 * [Home
     
@@ -266,26 +266,19 @@ Most Popular
 [Throwback Thursday: Partytime in Derry's Metro Bar (2008)](https://www.derrynow.com/story-telling/pictures---videos/1637374/throwback-thursday-partytime-in-derry-s-metro-bar-2008.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Private collection of sought-after vintage tractors going to auction in Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Private collection of sought-after vintage tractors going to auction in Ireland")](https://www.derrynow.com/news/national-news/1638533/pictures-private-collection-of-sought-after-vintage-tractors-going-to-auction-in-ireland.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Private collection of sought-after vintage tractors going to auction in Ireland](https://www.derrynow.com/news/national-news/1638533/pictures-private-collection-of-sought-after-vintage-tractors-going-to-auction-in-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Woman charged with assaulting hospital staff and drug possession jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with assaulting hospital staff and drug possession jailed")](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Woman charged with assaulting hospital staff and drug possession jailed](https://www.derrynow.com/news/local-news/1638681/woman-charged-with-assaulting-hospital-staff-and-drug-possession-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating assault at Derry's Magee campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating assault at Derry's Magee campus")](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating assault at Derry's Magee campus](https://www.derrynow.com/news/local-news/1638246/police-investigating-assault-at-derry-s-magee-campus.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 24 2024](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late late show late ")](https://www.derrynow.com/news/arts---entertainment/1638775/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 
@@ -294,12 +287,26 @@ Most Popular
 [Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](https://www.derrynow.com/news/arts---entertainment/1638775/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, October 24 2024](https://www.derrynow.com/news/deaths/1637375/derry-death-notices-thursday-october-24-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Musician who told female hospital patient that he had healing hands granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Musician who told female hospital patient that he had healing hands granted bail")](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Musician who told female hospital patient that he had healing hands granted bail](https://www.derrynow.com/news/local-news/1638627/musician-who-told-female-hospital-patient-that-he-had-healing-hands-granted-bail.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with wounding with intent to cause grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with wounding with intent to cause grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two men returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1638644/two-men-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 
@@ -316,13 +323,6 @@ Cemeteries will revert to winter opening hours from this weekend
 
 [Changes to Derry's cemetery opening and closing times](https://www.derrynow.com/news/local-news/1638607/changes-to-derry-s-cemetery-opening-and-closing-times.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged with wounding with intent to cause grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with wounding with intent to cause grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged with wounding with intent to cause grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1638690/man-charged-with-wounding-with-intent-to-cause-grievous-bodily-harm-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Counterfeit goods worth over £200K seized by Trading Standards Officers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Counterfeit goods worth over £200K seized by Trading Standards Officers")](https://www.derrynow.com/news/local-news/1638752/counterfeit-goods-worth-over-200k-seized-by-trading-standards-officers.html)
 
