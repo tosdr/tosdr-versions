@@ -5,7 +5,7 @@
 Main navigation
 ---------------
 
-* [prime deals](https://www.lelo.com/discount-and-deals)
+* [Black Friday](https://www.lelo.com/black-friday)
 * [Best Selling Sex Toys](https://www.lelo.com/bestsellers)
 * [Sex Toys for Women](https://www.lelo.com/sex-toys-for-women)
     * [VIEW ALL PRODUCTS](https://www.lelo.com/sex-toys-for-women)
@@ -71,9 +71,9 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-PRIME DEALS: UP TO 50% OFF + A FREE TOY
+BLACK FRIDAY: UP TO 50% OFF + GIFT
 
-[SHOP NOW](https://www.lelo.com/discount-and-deals)
+[SHOP NOW](https://www.lelo.com/black-friday)
 
   ![terms](https://assets.lelo.com/dx/static/2022-06/Shipping_page_1920x414px_desktop_2.jpg?VersionId=TSXTlvhO2iGKuwb9CTuJIxezLVC5J4eE)
 
