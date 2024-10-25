@@ -27,6 +27,8 @@ false
         
     * [Cisco Support](https://www.cisco.com/c/en/us/support/index.html)
         
+    * [AppDynamics Support](https://www.splunk.com/en_us/customer-success/appdynamics-support.html)
+        
     
 * [Languages](#)
     * [Deutsch](https://www.splunk.com/de_de)
@@ -206,6 +208,8 @@ false
         
     * [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
         
+    * [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
+        
     
 * [Resources](#)
     
@@ -345,6 +349,8 @@ false
     * [Product Security Updates](https://advisory.splunk.com/)
         
     * [Cisco Support](https://www.cisco.com/c/en/us/support/index.html)
+        
+    * [AppDynamics Support](https://www.splunk.com/en_us/customer-success/appdynamics-support.html)
         
     
 * Click Search
@@ -565,6 +571,8 @@ Better Together
 
 [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
 
+[AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
+
 ![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
 
 [Resources
@@ -690,6 +698,8 @@ Press
 [Product Security Updates](https://advisory.splunk.com/)
 
 [Cisco Support](https://www.cisco.com/c/en/us/support/index.html)
+
+[AppDynamics Support](https://www.splunk.com/en_us/customer-success/appdynamics-support.html)
 
 [Log In](https://www.splunk.com/saml/login?module=nav)
 
