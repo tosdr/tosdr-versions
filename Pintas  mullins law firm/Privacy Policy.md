@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What can i expect to recover in a successful talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-can-i-expect-to-recover-in-a-successful-talcum-powder-lawsuit.jpg "What Can I Expect to Recover in a Successful Talcum Powder Lawsuit?")](https://www.pintas.com/talcum-powder/what-can-i-expect-to-recover-in-a-successful-talcum-powder-lawsuit/ "What Can I Expect to Recover in a Successful Talcum Powder Lawsuit?")
+[![How long can you live with stage 4 cancer without treatment?](https://www.pintas.com/wp-content/uploads/2020/11/how-long-can-you-live-with-stage-4-cancer-without-treatment.jpg "How Long Can You Live with Stage 4 Cancer without Treatment?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/ "How Long Can You Live with Stage 4 Cancer without Treatment?")
 
-[#### What Can I Expect to Recover in a Successful Talcum Powder Lawsuit?](https://www.pintas.com/talcum-powder/what-can-i-expect-to-recover-in-a-successful-talcum-powder-lawsuit/)
+[#### How Long Can You Live with Stage 4 Cancer without Treatment?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/)
 
-[![How do you know if lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-you-know-if-lung-cancer-is-caused-by-asbestos.jpg "How Do You Know If Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/ "How Do You Know If Lung Cancer Is Caused By Asbestos?")
+[![Can lung cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-lung-cancer-be-caused-by-asbestos.jpg "Can Lung Cancer Be Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/ "Can Lung Cancer Be Caused by Asbestos?")
 
-[#### How Do You Know If Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-lung-cancer-is-caused-by-asbestos/)
+[#### Can Lung Cancer Be Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/)
 
-[![What is considered neglect in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-neglect-in-a-nursing-home-scaled.jpg "What Is Considered Neglect in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/ "What Is Considered Neglect in a Nursing Home?")
+[![Can lungs get rid of asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-lungs-get-rid-of-asbestos.jpg "Can Lungs Get Rid of Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/ "Can Lungs Get Rid of Asbestos?")
 
-[#### What Is Considered Neglect in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/)
+[#### Can Lungs Get Rid of Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
