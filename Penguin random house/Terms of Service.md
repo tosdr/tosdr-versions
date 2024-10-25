@@ -1,6 +1,6 @@
 [Skip to Main Content (Press Enter)](#mainblock)
 
-[Discover Your Next Great Read! ✉️](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://www.penguinrandomhouse.com/subscribe/)
 
 Books
 
@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![A Guide to Stephen King Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2019/04/24114115/PRH_StephenKing-1200x628-1.jpg)
     
-    Audiobooks for Kids
+    A Guide to Stephen King Books
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    Books Bans Are on the Rise in America
+    Audiobooks for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
@@ -520,7 +520,7 @@ NOTE: THE ABOVE CONTACT INFORMATION IS PROVIDED EXCLUSIVELY FOR NOTIFYING PRH TH
 
 [Back to Top](#top)
 
-[Discover Your Next Great Read! ✉️](https://sites.prh.com/sign-up)
+[BECOME A BOOK EXPERT 📚](https://www.penguinrandomhouse.com/subscribe/)
 
 Connect
 
