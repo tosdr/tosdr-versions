@@ -134,7 +134,7 @@ NotesnookPrivacy for everyone
 
 [](https://twitter.com/notesnook)[](https://www.reddit.com/r/notesnook)[](https://t.me/notesnook)[](https://discord.com/invite/zQBK97EE22)[](https://fosstodon.org/@notesnook)[](https://blog.notesnook.com/feed.xml)
 
-[Overview](https://notesnook.com/)[Try for free](https://app.notesnook.com/)[Monographs](https://monogr.ph/)[Vericrypt](https://vericrypt.notesnook.com/)[Web Clipper](https://notesnook.com/notesnook-web-clipper)[Import your notes](https://importer.notesnook.com/)[Roadmap](https://notesnook.com/roadmap)NOTESNOOK VS[Evernote](https://notesnook.com/privacy-focused-evernote-alternative)[OneNote](https://notesnook.com/encrypted-microsoft-onenote-alternative-notetaking-app)
+[Overview](https://notesnook.com/)[Try for free](https://app.notesnook.com/signup)[Monographs](https://monogr.ph/)[Vericrypt](https://vericrypt.notesnook.com/)[Web Clipper](https://notesnook.com/notesnook-web-clipper)[Import your notes](https://importer.notesnook.com/)[Roadmap](https://notesnook.com/roadmap)NOTESNOOK VS[Evernote](https://notesnook.com/privacy-focused-evernote-alternative)[OneNote](https://notesnook.com/encrypted-microsoft-onenote-alternative-notetaking-app)
 
 LINKS[Login](https://app.notesnook.com/login)[Create a new account](https://app.notesnook.com/signup)[Downloads](https://notesnook.com/downloads)[Pricing](https://notesnook.com/pricing)[Notesnook for Education](https://notesnook.com/education)[Help](https://help.notesnook.com/)[Github](https://github.com/streetwriters/notesnook)[Blog](https://blog.notesnook.com/)
 
