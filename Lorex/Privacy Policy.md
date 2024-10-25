@@ -460,7 +460,7 @@ Your cart is empty
     Rechargeable security cameras that wirelessly connect to a recorder](https://www.lorex.com/collections/wire-free-security-systems)
     
     * [Battery-Operated Security System...](https://www.lorex.com/collections/wire-free-security-systems)
-    * [Wire-Free Security Cameras](https://www.lorex.com/collections/wire-free-security-cameras)
+    * [Battery-Operated Security Cameras](https://www.lorex.com/collections/battery-operated-security-cameras)
     
     [**Shop All >**](https://www.lorex.com/collections/wire-free-security-systems)
     
