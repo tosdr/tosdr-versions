@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Denies Motion to Disqualify Administrative Law Judge in H&R Block Case](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-denies-motion-disqualify-administrative-law-judge-hr-block-case)
+    ### [FTC Publishes Request for Public Comment on Proposed Modification to HISA’s Assessment Methodology Rule](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-publishes-request-public-comment-proposed-modification-hisas-assessment-methodology-rule)
     
-    October 18, 2024
+    October 24, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
