@@ -408,6 +408,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [NYC honors WNBA champs Liberty with ticker-tape parade, ceremony](https://www.fox4news.com/news/nyc-ny-liberty-parade-2024-tickets-route-ticker-tape-canyon-of-heroes)
 
+ [![Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kaeden-farish-bedford-tarrant-county-conviction.png?ve=1&tl=1)
+
+ ![Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kaeden-farish-bedford-tarrant-county-conviction.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/azle-teen-becomes-first-person-tarrant-county-convicted-murder-dealing-fentanyl)
+
+### [Azle teen becomes first person in Tarrant County convicted of murder for dealing fentanyl](https://www.fox4news.com/news/azle-teen-becomes-first-person-tarrant-county-convicted-murder-dealing-fentanyl)
+
+ [![Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/10242024-rr-pkg-peyton-frisco-jewelry-theft-crime-_00.00.22.16.jpg?ve=1&tl=1)
+
+ ![Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/10242024-rr-pkg-peyton-frisco-jewelry-theft-crime-_00.00.22.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jewelry-thieves-targeting-victims-southeast-asian-descent-during-diwali-frisco-police-warn)
+
+### [Jewelry thieves targeting victims of Southeast Asian descent during Diwali, Frisco police warn](https://www.fox4news.com/news/jewelry-thieves-targeting-victims-southeast-asian-descent-during-diwali-frisco-police-warn)
+
  [![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/menendez-brothers-1.jpg?ve=1&tl=1)
 
  ![Menendez Brothers: Decision on resentencing recommendation announced](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/menendez-brothers-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/da-gascon-menendez-brothers-decision-resentencing)
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102424-kst-tcu-protrait-project-enslaved-couple_00.25.56.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
 
 ### [TCU unveils "The Portrait Project" honoring former slaves who helped form university](https://www.fox4news.com/news/tcu-unveils-the-portrait-project-honoring-former-slaves-who-helped-form-university)
-
- [![Menendez Brothers: Resentencing recommended by LA DA Gascón](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/lyle-and-erik-menendez-brothers.jpg?ve=1&tl=1)
-
- ![Menendez Brothers: Resentencing recommended by LA DA Gascón](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/lyle-and-erik-menendez-brothers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-erik-lyle-resentencing-press-conference-recommended)
-
-### [Menendez Brothers: Resentencing recommended by LA DA Gascón](https://www.fox4news.com/news/menendez-brothers-erik-lyle-resentencing-press-conference-recommended)
-
- [![9 Farmersville High School students arrested for hazing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-farmersville-isd-hazing-5p_00.00.01.28.jpg?ve=1&tl=1)
-
- ![9 Farmersville High School students arrested for hazing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-farmersville-isd-hazing-5p_00.00.01.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/9-farmersville-high-school-students-arrested-hazing)
-
-### [9 Farmersville High School students arrested for hazing](https://www.fox4news.com/news/9-farmersville-high-school-students-arrested-hazing)
 
 ###### [News](https://www.fox4news.com/news)
 
