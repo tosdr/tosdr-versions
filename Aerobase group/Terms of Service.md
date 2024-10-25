@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [France, Germany to hammer out next steps for delay-prone FCAS warplane](https://www.defensenews.com/global/europe/2024/10/25/france-germany-to-hammer-out-next-steps-for-delay-prone-fcas-warplane/)  
+    10/25/24 07:22am  
+    
+    A mockup of the New Generation Fighter (NGF) for the Future Combat Air System (FCAS) program is on display at the Paris Air Show in June 2023. (Julien de Rosa/AFP via Getty Images)
+    
 * [Northrop expects next B-21 contract by year’s end](https://www.defensenews.com/air/2024/10/24/northrop-expects-next-b-21-contract-by-years-end/)  
     10/24/24 01:22pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/22/24 02:52pm  
     
     Contract delays and software problems with the F-35 are costing Lockheed Martin hundreds of millions of dollars, and the company is trying to get the program back on track and start recouping its costs. (Senior Airman Edgar Grimaldo/U.S. Air Force)
-    
-* [Russia flaunts doomsday weapons to curb Western support for Ukraine](https://www.defensenews.com/global/europe/2024/10/19/russia-flaunts-doomsday-weapons-to-curb-western-support-for-ukraine/)  
-    10/19/24 10:00am  
-    
-    In this image taken from video released by Russian Defense Ministry Press Service in October 2022, a Yars intercontinental ballistic missile is test-fired as part of Russia's nuclear drills from a launch site in Plesetsk. (Russian Defense Ministry Press Service via AP)
     
 
 Recent parts by keyword  
