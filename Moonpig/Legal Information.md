@@ -71,6 +71,7 @@ Menu
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
     * [Halloween](https://www.moonpig.com/uk/personalised-cards/halloween/)
     * [Diwali](https://www.moonpig.com/uk/personalised-cards/diwali/)
+    * [Christmas](https://www.moonpig.com/uk/personalised-cards/christmas/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
@@ -214,6 +215,7 @@ Menu
     ### Gifts by Occasion
     
     * [Birthday](https://www.moonpig.com/uk/gifts/birthday/)
+    * [Christmas](https://www.moonpig.com/uk/gifts/christmas/star-picks/)
     * [Congratulations](https://www.moonpig.com/uk/gifts/congratulations/)
     * [Anniversary](https://www.moonpig.com/uk/gifts/anniversary/all/)
     * [Wedding](https://www.moonpig.com/uk/gifts/weddings/all/)
