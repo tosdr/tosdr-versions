@@ -140,15 +140,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [US District Court for the Southern District of New York orders a new trial on compensatory damages in Atos’ litigation with TriZetto](https://atos.net/en/2024/press-release/financial-information-press-releases_2024_10_25/us-district-court-for-the-southern-district-of-new-york-orders-a-new-trial-on-compensatory-damages-in-atos-litigation-with-trizetto)
         * [Decisive new step in the completion of the financial restructuring: Atos’ accelerated safeguard plan approved by the specialized Commercial Court of Nanterre](https://atos.net/en/2024/press-release_2024_10_24/decisive-new-step-in-the-completion-of-the-financial-restructuring-atos-accelerated-safeguard-plan-approved-by-the-specialized-commercial-court-of-nanterre)
         * [Third quarter 2024 revenue in line with September 2nd Business Plan](https://atos.net/en/2024/press-release_2024_10_24/third-quarter-2024-revenue-in-line-with-september-2nd-business-plan-cash-position-in-line-with-september-2nd-business-plan-fy2024-outlook)
-        * [“Gefion” AI supercomputer, built by Eviden, inaugurated as one of the world’s most powerful in Denmark](https://atos.net/en/2024/press-release_2024_10_23/gefion-ai-supercomputer-built-by-eviden-inaugurated-as-one-of-the-worlds-most-powerful-in-denmark)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 24, 2024
+        Oct 25, 2024
         
-        ### Decisive new step in the completion of the financial restructuring: Atos’ accelerated safeguard plan approved by the specialized Commercial Court of Nanterre
+        ### US District Court for the Southern District of New York orders a new trial on compensatory damages in Atos’ litigation with TriZetto
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -165,18 +165,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Successfully integrating AI into your business strategy](https://atos.net/en/blog/successfully-integrate-ai-business-strategy-lessons-from-experience)
         * [Are you prepared to secure your data and critical IT infrastructure?](https://atos.net/en/blog/are-you-prepared-to-secure-your-data-and-critical-it-infrastructure)
         * [The role of AI in digital workplace security](https://atos.net/en/blog/the-role-of-ai-in-digital-workplace-security)
         * [Generative AI: Technology matters, but adoption matters more](https://atos.net/en/blog/generative-ai-technology-matters-ai-adoption-matters-more)
-        * [DORA and NIS2: The impact of new EU cybersecurity regulations](https://atos.net/en/blog/understanding-new-eu-cybersecurity-regulations-directives-dora-nis2)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 23, 2024
+        Oct 25, 2024
         
-        ### Are you prepared to secure your data and critical IT infrastructure?
+        ### Successfully integrating AI into your business strategy
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
