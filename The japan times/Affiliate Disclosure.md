@@ -131,28 +131,58 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+
+  [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+
+[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+
+  [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+
 [Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
   [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
-[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
-
-  [![North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
-
-[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
-
-  [![The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429429.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.")](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+
+  [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -161,38 +191,6 @@ Editors' Picks
 By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
 
   [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[‘Zombie Shinkansen’ delivers high-speed thrills and chills](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-By [Johan Brooks](https://www.japantimes.co.jp/author/4555/johan-brooks/ "Johan Brooks")  
-
-  [![Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429273.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's first 'Zombie Shinkansen' terrified and delighted passengers on the way from Tokyo to Shin-Osaka.")](https://www.japantimes.co.jp/life/2024/10/22/lifestyle/zombie-shinkansen-halloween/ "‘Zombie Shinkansen’ delivers high-speed thrills and chills")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[U.S. says North Korean troops in Russia, possibly to fight in Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un visits a training base at an undisclosed location in North Korea in a photo released on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/24/asia-pacific/politics/johnson-nk-rus-confirm/ "U.S. says North Korean troops in Russia, possibly to fight in Ukraine war")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[German tourist goes missing in Wakayama](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429282.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Claudio Worm, a German university student who came to Japan on a sightseeing trip on Sept. 21, has gone missing in Wakayama Prefecture.")](https://www.japantimes.co.jp/news/2024/10/22/japan/missing-german-tourist-student/ "German tourist goes missing in Wakayama")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
-
-  [![The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429429.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The South Korean Coast Guard vessel Taepyongyang, the U.S. Coast Guard cutter Waesche and the Japan Coast Guard vessel Wakasa patrol in formation during a trilateral exercise in the Sea of Japan in June.")](https://www.japantimes.co.jp/news/2024/10/23/asia-pacific/us-coast-guard-indo-pacific-interview/ "With ramped-up activities, U.S. Coast Guard plots greater Indo-Pacific role")
 
 Podcast
 -------
@@ -213,9 +211,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump vs. Harris: Competing visions for a warming world](https://www.japantimes.co.jp/news/2024/10/25/world/politics/trump-harris-climate-visions/ "Trump vs. Harris: Competing visions for a warming world")
-
-52 mins ago
-
-[U.S. Democratic candidates step up immigration messaging in last weeks](https://www.japantimes.co.jp/news/2024/10/25/world/politics/democrats-immigration-message-ramp-up/ "U.S. Democratic candidates step up immigration messaging in last weeks")
+[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
 1 hours ago
 
-[Defense tax hikes hinge on election results](https://www.japantimes.co.jp/news/2024/10/25/japan/politics/defense-spending-election/ "Defense tax hikes hinge on election results")
+[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-1 hours ago
+2 hours ago
 
-[U.S. presses for Gaza truce as negotiators prepare to meet](https://www.japantimes.co.jp/news/2024/10/25/world/politics/us-gaza-settlement-push/ "U.S. presses for Gaza truce as negotiators prepare to meet")
+[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
-1 hours ago
+2 hours ago
 
-[LA Times editorial chief quits after Harris column quashed](https://www.japantimes.co.jp/news/2024/10/25/world/la-times-editorial-chief-quits/ "LA Times editorial chief quits after Harris column quashed")
+[Election wildcard in Wakayama puts rural district in national spotlight](https://www.japantimes.co.jp/news/2024/10/25/japan/politics/seko-nikai-ldp-wakayama/ "Election wildcard in Wakayama puts rural district in national spotlight")
+
+2 hours ago
+
+[Tetsuya Chiba becomes first manga artist to receive Order of Culture](https://www.japantimes.co.jp/news/2024/10/25/japan/order-of-culture-manga-artist/ "Tetsuya Chiba becomes first manga artist to receive Order of Culture")
 
 2 hours ago
 
