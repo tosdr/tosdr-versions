@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/readiness-tool-windows-vista-80x42.png.webp)](https://thebackroomtech.com/2008/04/07/using-checksur-to-repair-windows-vista-update-problems/ "Using CheckSUR to repair Windows Vista update problems")[Using CheckSUR to repair Windows Vista update problems](https://thebackroomtech.com/2008/04/07/using-checksur-to-repair-windows-vista-update-problems/ "Using CheckSUR to repair Windows Vista update problems")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/proset1-47x52.png.webp)](https://thebackroomtech.com/2008/10/21/fix-intel-proset-for-windows-device-manager-missing-tabs/ "Fix: Intel PROSet for Windows Device Manager Missing Tabs")[Fix: Intel PROSet for Windows Device Manager Missing Tabs](https://thebackroomtech.com/2008/10/21/fix-intel-proset-for-windows-device-manager-missing-tabs/ "Fix: Intel PROSet for Windows Device Manager Missing Tabs")
+    ![](https://s11921.pcdn.co/wp-content/uploads/get-process-80x42.png)](https://thebackroomtech.com/2019/05/07/best-practices-for-signing-a-windows-powershell-script/ "Best Practices for Signing a Windows PowerShell Script")[Best Practices for Signing a Windows PowerShell Script](https://thebackroomtech.com/2019/05/07/best-practices-for-signing-a-windows-powershell-script/ "Best Practices for Signing a Windows PowerShell Script")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/setspn-command-line-80x42.png.webp)](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")[Explanation of Service Principal Names in Active Directory](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/setspn-command-line-80x42.png)](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")[Explanation of Service Principal Names in Active Directory](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/esxi-complete-adapter-list-80x41.png.webp)](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")[Fix VMware Missing HBA Adapters](https://thebackroomtech.com/2018/08/17/fix-vmware-missing-hba-adapters/ "Fix VMware Missing HBA Adapters")
+    ![](https://s11921.pcdn.co/wp-content/uploads/vm-avaliability-set-80x34.png)](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")[Overview of Azure Virtual Machine Availability Sets](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")
 
 #### Our Publishing Family
 
