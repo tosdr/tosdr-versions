@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/wilson-sheridan-mcdonalds-041A-b-Mark-Weyermuller--326x245.jpg)](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
 
-Uptown
+New City
 
-### [Update: Man shot on McDonald’s parking lot has died](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+### [Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
 
-[October 19, 2024 9:46 AM](https://cwbchicago.com/2024/10)
+[October 20, 2024 10:48 AM](https://cwbchicago.com/2024/10)
 
-The man shot while sitting in a McDonald’s parking lot in Uptown on Friday afternoon has died.[](https://cwbchicago.com/2024/10/update-man-shot-on-mcdonalds-parking-lot-has-died.html "Update: Man shot on McDonald’s parking lot has died")
+An off-duty Blue Island police officer is in custody after he allegedly shot at an off-duty Chicago police officer’s car during a road rage incident Saturday evening, according to internal CPD communications provided to CWBChicago.[](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Angel-Ayala-Brenndon-Struck-and-Nichole-Osborne.-Chicago-Police-Department-GoFundMe-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edgar-Barron-ccso-326x245.jpg)](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
 
-Humboldt Park
+Back of the Yards
 
-### [Man gets 32 years for murdering woman during Puerto Rican Fest celebrations](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+### [7 years after allegedly shooting two Chicago cops, man is charged](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
 
-[October 19, 2024 9:19 AM](https://cwbchicago.com/2024/10)
+[October 20, 2024 8:21 AM](https://cwbchicago.com/2024/10)
 
-A judge on Friday sentenced a man to 32 years in prison for murdering a woman and shooting a tourist during Puerto Rican Fest celebrations in Humboldt Park three years ago.[](https://cwbchicago.com/2024/10/man-gets-32-years-for-murdering-woman-during-puerto-rican-fest-celebrations.html "Man gets 32 years for murdering woman during Puerto Rican Fest celebrations")
+More than seven years after two Chicago police officers were shot while working in Back of the Yards, a second man was charged with the crime on Saturday.[](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Ashanti-Randolph-326x245.jpg)](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Division-0412-october-20-326x245.jpg)](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
 
-West Loop
+Gold Coast
 
-### [Say Cheese! Chicago man charged with murder beams winning smile in police mugshot](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+### [Man stabbed, critically injured at Gold Coast bar](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
 
-[October 19, 2024 8:20 AM](https://cwbchicago.com/2024/10)
+[October 20, 2024 7:44 AM](https://cwbchicago.com/2024/10)
 
-A Chicago man smiled broadly for his mugshot as prosecutors charged him with murdering a man in the West Loop last month.[](https://cwbchicago.com/2024/10/smile-chicago-charged-with-west-loop-murder-beams-winning-smile-in-police-mugshot.html "Say Cheese! Chicago man charged with murder beams winning smile in police mugshot")
+A man is in critical condition after being cut in the neck during a fight at a Gold Coast bar overnight. Police are questioning a second man.[](https://cwbchicago.com/2024/10/man-stabbed-critically-injured-at-gold-coast-bar.html "Man stabbed, critically injured at Gold Coast bar")
 
 Search
 
