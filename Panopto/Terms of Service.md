@@ -39,7 +39,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
     Panopto has acquired Elai, bringing world-class Generative AI Video Features to the world of Video Training & Learning.
     
-    [Read More](https://www.panopto.com/de/create-impactful-training-videos-with-elai/)
+    [Read More](https://www.panopto.com/create-impactful-training-videos-with-elai/)
     
     * Elai Generative AI Video
         * [Elai for Business](https://www.panopto.com/create-impactful-training-videos-with-elai/)
