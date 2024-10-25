@@ -1111,7 +1111,7 @@ _Updated July 1, 2020_
 
 ![To Medela Homepage](/configuration/brand/logo-medela.svg)
 
-[Privacy & Cookie Policy](https://www.medela.us/en-us/footer-content/privacy-and-cookie-policy) [Terms & Conditions](https://www.medela.us/en-us/footer-content/terms-and-conditions)
+[Privacy & Cookie Policy](https://www.medela.us/en-us/footer-content/privacy-and-cookie-policy) [Terms & Conditions](https://www.medela.us/en-us/footer-content/terms-and-conditions) [Symbols Glossary](https://www.medela.us/en-us/footer-content/symbols-glossary)
 
 [](https://www.linkedin.com/company/medela)[](https://www.youtube.com/channel/UC9PwVbd1UyoS0R8CfslBsOg?app=desktop&cbrd=1)
 
