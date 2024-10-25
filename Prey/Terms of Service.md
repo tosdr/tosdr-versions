@@ -118,13 +118,13 @@ Blog
 
 Latest updates & insights about security](https://preyproject.com/blog)
 
-[![Backup and remote wiping procedures](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67190105eb9c654bc594c9ac_Backup-and-Remote-Wiping-Procedures.png)
+[![Implementing effective IT asset lifecycle strategies](https://cdn.prod.website-files.com/664e6b29f3ed49c2317db2f2/67192f1ecb62173660c365f9_Implementing-effective-IT-asset-lifecycle-strategies.webp)
 
 Editor's Pick
 
-Backup and remote wiping procedures
+Implementing effective IT asset lifecycle strategies
 
-Discover strategies for secure backups, data encryption, off-site storage, and remote wipe methods to ensure business continuity and data protection.](https://preyproject.com/blog/backup-and-remote-wiping-procedures)
+Discover how to maximize efficiency with IT asset lifecycle strategies. Learn tips for planning, acquisition, deployment, and disposal of your assets.](https://preyproject.com/blog/implementing-effective-it-asset-lifecycle-strategies)
 
 Menu icon
 
