@@ -303,18 +303,6 @@ _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplako
 
 _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
 
-[![A quantum bicyclist in front of a classical unicyclist](https://www.quantamagazine.org/wp-content/uploads/2024/10/QuantumMemory_crChanelleNibbelinkThumbnail.webp)](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
-
-[#### ‘Quantum Memory’ Proves Exponentially Powerful](https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/)
-
-_By_ [Lakshmi Chandrasekaran](https://www.quantamagazine.org/authors/lakshmi-chandrasekaran)
-
-[![An illustration in which perspective lines converge at a central point and different types of astronomical objects form concentric circles around that point.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FirstBillionYears-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
-
-[#### The ‘Beautiful Confusion’ of the First Billion Years Comes Into View](https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/)
-
-_By_ [Rebecca Boyle](https://www.quantamagazine.org/authors/rebecca-boyle)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ThoughtExperiments_ThoughtExperiments-crMarkBelan-Thumbnail.webp)](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 
 [#### The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
