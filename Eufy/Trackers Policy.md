@@ -556,9 +556,9 @@
     
     [Explore Smart Lighting](https://www.eufy.com/smart-lighting?ref=navimenu_4_3_copy) [Blog](https://www.eufy.com/blogs/smart-lights?ref=navimenu_4_4_copy)
     
-    * [eufy Permanent Outdoor Lights E22（150ft/45m）
+    * [eufy Permanent Outdoor Lights E22（100ft/30m）
         
-        New](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_1_1_img)
+        New](https://us.eufy.com/products/t8l02121?ref=navimenu_4_1_1_img)
     * [eufy Outdoor String Lights E10
         
         New](https://us.eufy.com/products/t8l10111?ref=navimenu_4_1_2_img)
@@ -580,7 +580,7 @@
         
         Feature Products
         
-        [eufy Permanent Outdoor Lights E22（150ft/45m）](https://us.eufy.com/products/bundle-t8l02121-1-t8l02121-85-1?ref=navimenu_4_2_1_1_copy) [Outdoor String Lights E10](https://us.eufy.com/products/t8l10111?ref=navimenu_4_2_1_2_copy)
+        [eufy Permanent Outdoor Lights E22（100ft/30m）](https://us.eufy.com/products/t8l02121?ref=navimenu_4_2_1_1_copy) [Outdoor String Lights E10](https://us.eufy.com/products/t8l10111?ref=navimenu_4_2_1_2_copy)
         
         [Shop Outdoor Lights](https://us.eufy.com/collections/outdoor-lighting?ref=navimenu_4_2_1_all_copy)[](https://us.eufy.com/pages/cookie-notice?ref=navimenu_4_2_1_more_copy)
         
