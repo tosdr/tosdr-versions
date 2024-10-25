@@ -227,7 +227,7 @@ If our Platform is acquired or merged with another company, your information may
 
 Log InSign Up[Features](https://www.subscribestar.com/features)[Pricing](https://www.subscribestar.com/pricing)[Developers](https://www.subscribestar.com/api)[About](https://www.subscribestar.com/about)
 
-[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)[DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
+[Terms of Service](https://www.subscribestar.com/tos)[Privacy Policy](https://www.subscribestar.com/privacy)[EU DSA](https://www.subscribestar.com/dsa)[Refund Policy](https://www.subscribestar.com/refund)[Contact Us](https://www.subscribestar.com/contacts)
 
 [All Stars](https://www.subscribestar.com/stars)[Brand](https://www.subscribestar.com/brand)[Do's & Don'ts](https://www.subscribestar.com/guidelines)[FAQ](https://www.subscribestar.com/help)
 
