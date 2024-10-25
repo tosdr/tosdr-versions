@@ -1,6 +1,7 @@
 * [](https://www.alignable.com/)
 
 * [Home](https://www.alignable.com/)
+* [Features](https://www.alignable.com/landing/new-features)
 * [About Us](https://www.alignable.com/about)
 * [Testimonials](https://www.alignable.com/testimonials)
 * Resources
