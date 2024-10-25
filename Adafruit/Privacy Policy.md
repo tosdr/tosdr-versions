@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later”
+“ The economy of human time is the next advantage of machinery in manufactures”
 
-[Unknown](http://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html?_r=1&pagewanted=all)
+[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
 
 [](https://www.adafruit.com/about)
 
