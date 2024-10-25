@@ -321,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.12/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.14/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
