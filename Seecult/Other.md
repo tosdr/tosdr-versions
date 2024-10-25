@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/ko-nam-je-kriv-001.jpg?itok=zkqIS-kx)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-brooklyn-bridge-nyc/bruklin.jpg?itok=4ar3DtJb)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-brooklyn-bridge-4)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/noc-muzeja/institut-servantes-noc-muzeja-2007/noc-muzeja-34.jpg?itok=QNARejl1)](http://seecult.org/galerija/foto-galerija/foto-arhiva/noc-muzeja/institut-servantes-noc-muzeja-2007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/tanja-ostojic-body-politics-agency/personal-space.jpg?itok=fuUqMhW3)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/tanja-ostoji%C4%87-body-politics-agency)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Obračun s pripadnošću i nasleđem](http://seecult.org/vest/obracun-s-pripadnoscu-i-nasledem)
+* [Marija Ručara u MSUB-u i MPU](http://seecult.org/vest/marija-rucara-u-msub-u-i-mpu)
 * [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
 * [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
 * [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
@@ -430,8 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Omaž autorstvu, u slavu Puriše Đorđevića](http://seecult.org/vest/omaz-autorstvu-u-slavu-purise-dordevica)
 * [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
 * [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
-* [Aktivitet: 100 godina nadrealizma](http://seecult.org/vest/aktivitet-100-godina-nadrealizma)
-* [Pejaković novi direktor Drame SNP-a, Aja Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-aja-jung-direktorka-baleta)
 
 * [Konkursi](#tab1_1)
 
