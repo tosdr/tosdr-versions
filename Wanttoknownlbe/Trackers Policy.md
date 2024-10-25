@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/eindelijk-intelligente-kijk-op-klimaatverandering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/persbureaus-en-reuters-in-het-bijzonder/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
