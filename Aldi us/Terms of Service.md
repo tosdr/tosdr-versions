@@ -335,6 +335,7 @@ You are here:
 * [Scope of U.S. Online Privacy Notice](https://www.aldi.us/terms-of-use/scope-of-us-online-privacy-notice/)
 * [ALDI Photo Share](https://www.aldi.us/terms-of-use/aldi-photo-share/)
 * [Official Giveaway Rules - Instagram](https://www.aldi.us/terms-of-use/official-giveaway-rules-instagram/)
+* [Official Contest Rules](https://www.aldi.us/terms-of-use/official-contest-rules/)
 
 ALDI U.S. Terms of Use
 ======================
