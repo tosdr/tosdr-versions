@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who can i sue for a wrongful death in an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility-300x200.jpg "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/ "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")
+[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
 
-[#### Who Can I Sue for a Wrongful Death in an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/)
+[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
 
-[![Are elderly people given lots of rules at nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-elderly-people-given-lots-of-rules-at-nursing-homes-scaled.jpg "Are Elderly People Given Lots of Rules at Nursing Homes?")](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/ "Are Elderly People Given Lots of Rules at Nursing Homes?")
+[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
 
-[#### Are Elderly People Given Lots of Rules at Nursing Homes?](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/)
+[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
 
-[![How common is sexual abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-common-is-sexual-abuse-in-nursing-homes-scaled.jpg "How Common Is Sexual Abuse in Nursing Homes?")](https://www.pintas.com/faq/how-common-is-sexual-abuse-in-nursing-homes/ "How Common Is Sexual Abuse in Nursing Homes?")
+[![How quickly does lung cancer progress?](https://www.pintas.com/wp-content/uploads/2020/03/lung-cancer-lawsuit-lawyer-how-quickly-does-lung-cancer-progress.jpg "How Quickly Does Lung Cancer Progress?")](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress "How Quickly Does Lung Cancer Progress?")
 
-[#### How Common Is Sexual Abuse in Nursing Homes?](https://www.pintas.com/faq/how-common-is-sexual-abuse-in-nursing-homes/)
+[#### How Quickly Does Lung Cancer Progress?](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
