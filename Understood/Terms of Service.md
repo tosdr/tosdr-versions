@@ -1,3 +1,5 @@
+[Skip to content](#target-skip-to-content)
+
 [](https://www.understood.org/en "Understood homepage")
 
 * Explore resources
