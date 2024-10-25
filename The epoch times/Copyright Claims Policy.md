@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://www.theepochtimes.com/health/how-long-you-can-balance-on-1-leg-reveals-neuromuscular-aging-5747352)
+* [Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
     
-    NEW By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How Long You Can Balance on 1 Leg Reveals Neuromuscular Aging](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5685470-Shutterstock_2465134791-205x123.jpg.webp)](https://www.theepochtimes.com/health/how-long-you-can-balance-on-1-leg-reveals-neuromuscular-aging-5747352)
-* [American Crypto Executive Held in Nigeria Is Released, US Government Says](https://www.theepochtimes.com/us/american-crypto-executive-held-in-nigeria-is-released-us-government-says-5747283)
-    
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![American Crypto Executive Held in Nigeria Is Released, US Government Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![American Crypto Executive Held in Nigeria Is Released, US Government Says](https://img.theepochtimes.com/assets/uploads/2023/06/09/id5324382-binance-2023-06-09T042548Z_4_LYNXMPEJ5801L_RTROPTP_4_USA-SEC-BINANCE-ZHAO-205x123.jpg.webp)](https://www.theepochtimes.com/us/american-crypto-executive-held-in-nigeria-is-released-us-government-says-5747283)
-* [Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://www.theepochtimes.com/us/apple-goldman-sachs-to-pay-nearly-90-million-for-apple-card-service-issues-5747300)
-    
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Apple, Goldman Sachs to Pay Nearly $90 Million for Apple Card Service Issues](https://img.theepochtimes.com/assets/uploads/2019/03/26/GettyImages-1132776908-205x123.jpg.webp)](https://www.theepochtimes.com/us/apple-goldman-sachs-to-pay-nearly-90-million-for-apple-card-service-issues-5747300)
-* [Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://www.theepochtimes.com/us/florida-ag-sues-doj-for-blocking-investigation-of-trump-assassination-attempt-5747142)
+    ![Day in Photos: Car Bomb, Freed on Bail, and Tropical Storm Trami](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747449-AP24298665642488-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-car-bomb-freed-on-bail-and-tropical-storm-trami-5747141)
+* [In Arizona, Biden to Make Apology for Indian Boarding Schools](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
     
     NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Florida AG Sues DOJ for Blocking Investigation of Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743137-GettyImages-2172608196KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-ag-sues-doj-for-blocking-investigation-of-trump-assassination-attempt-5747142)
-* [LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://www.theepochtimes.com/us/la-times-editorials-editor-quits-after-papers-owner-blocks-harris-endorsement-5747269)
+    ![In Arizona, Biden to Make Apology for Indian Boarding Schools](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735279-GettyImages-2175684313-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/in-arizona-biden-to-make-apology-for-indian-boarding-schools-5747415)
+* [Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
     
-    2hr By [Kimberly Hayek](https://www.theepochtimes.com/author/kimberly-hayek)
+    1hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![LA Times Editorials Editor Quits After Paper’s Owner Blocks Harris Endorsement](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747420-GettyImages-1258523069-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/la-times-editorials-editor-quits-after-papers-owner-blocks-harris-endorsement-5747269)
-* [Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://www.theepochtimes.com/world/blinken-announces-135-million-humanitarian-aid-package-for-gaza-5747219)
+    ![Owners of Ship Involved in Baltimore Bridge Collapse Settle DOJ Lawsuit for $100 Million](https://img.theepochtimes.com/assets/uploads/2024/04/06/id5623069-04052024-DSC02634-The-Francis-Scott-Key-Bridge-205x123.jpg.webp)](https://www.theepochtimes.com/us/owners-of-ship-involved-in-baltimore-bridge-collapse-settle-doj-lawsuit-for-100-million-5747539)
+* [Curcumin: The Firefighter Stamping Out Inflammation](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
     
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    3hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough) and [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
-    [![Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Blinken Announces $135 Million Humanitarian Aid Package for Gaza](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747424-US-Qatar-Blinken-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/blinken-announces-135-million-humanitarian-aid-package-for-gaza-5747219)
-* [Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://www.theepochtimes.com/us/top-georgia-official-says-state-fended-off-election-related-cyberattack-5747341)
+    ![Curcumin: The Firefighter Stamping Out Inflammation](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747288-Curcumin_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/curcumin-the-firefighter-that-tames-inflammation-easing-pain-and-joint-problems-5742580)
+* [Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://www.theepochtimes.com/epochtv/our-boys-are-falling-behind-why-asks-warren-farrell-5738556)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Jan Jekielek](https://www.theepochtimes.com/author/jan-jekielek), Epoch TV
     
-    [![Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Top Georgia Official Says State Fended Off Election-Related Cyberattack](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747422-GettyImages-2153452790-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/top-georgia-official-says-state-fended-off-election-related-cyberattack-5747341)
-* [TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://www.theepochtimes.com/us/tiktok-argues-for-dismissal-of-nebraskas-allegations-the-social-media-platform-harms-children-5747303)
+    ![Our Boys Are Falling Behind. Why? Asks Warren Farrell](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747115-241023-ATL_Warren-Farrell_HD_TN-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/our-boys-are-falling-behind-why-asks-warren-farrell-5738556)
+* [US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://www.theepochtimes.com/china/us-federal-agencies-failing-to-deter-ccp-political-warfare-says-house-report-5747275)
     
-    3hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    3hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![TikTok Argues for Dismissal of Nebraska’s Suit Alleging the Social Media Platform Harms Children](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743320-GettyImages-1227952189-205x123.jpg.webp)](https://www.theepochtimes.com/us/tiktok-argues-for-dismissal-of-nebraskas-allegations-the-social-media-platform-harms-children-5747303)
-* [Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://www.theepochtimes.com/us/massachusetts-supreme-court-says-web-tracking-software-doesnt-violate-state-wiretap-law-5747296)
+    ![US Federal Agencies Failing to Deter CCP Political Warfare, Says House Report](https://img.theepochtimes.com/assets/uploads/2024/06/03/id5661967-06032024-DSC02840-James-Comer-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-federal-agencies-failing-to-deter-ccp-political-warfare-says-house-report-5747275)
+* [Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://www.theepochtimes.com/us/vast-majority-of-americans-want-photo-id-and-proof-of-citizenship-to-vote-gallup-5747297)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Massachusetts Supreme Court Says Web Tracking Software Doesn’t Violate State Wiretap Law](https://img.theepochtimes.com/assets/uploads/2022/12/05/logo-Meta--e1670235811135-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-supreme-court-says-web-tracking-software-doesnt-violate-state-wiretap-law-5747296)
-* [US Postal Service Warns Voters Not to Delay Mailing Ballots](https://www.theepochtimes.com/us/us-postal-service-warns-voters-not-to-delay-mailing-ballots-5747335)
+    ![Vast Majority of Americans Want Photo ID and Proof of Citizenship to Vote: Gallup](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747548-NV-Vote-2_JF_10192024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/vast-majority-of-americans-want-photo-id-and-proof-of-citizenship-to-vote-gallup-5747297)
+* [What Dozens of Interviews With Voters in Pennsylvania Reveal](https://www.theepochtimes.com/article/what-dozens-of-interviews-with-voters-in-pennsylvania-reveal-5745388)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![US Postal Service Warns Voters Not to Delay Mailing Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What Dozens of Interviews With Voters in Pennsylvania Reveal](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Postal Service Warns Voters Not to Delay Mailing Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738747-GettyImages-1227902406KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-postal-service-warns-voters-not-to-delay-mailing-ballots-5747335)
+    ![What Dozens of Interviews With Voters in Pennsylvania Reveal](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747371-Pennsylvania-voters-10-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-dozens-of-interviews-with-voters-in-pennsylvania-reveal-5745388)
+* [Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://www.theepochtimes.com/health/menopause-and-lung-health-how-hormonal-shifts-accelerate-lung-function-decline-5655048)
+    
+    5hr By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
+    
+    [![Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Menopause and Lung Health: How Hormonal Shifts Accelerate Lung Function Decline](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747515-GettyImages-1340719659-205x123.jpg.webp)](https://www.theepochtimes.com/health/menopause-and-lung-health-how-hormonal-shifts-accelerate-lung-function-decline-5655048)
+* [Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://www.theepochtimes.com/us/missouri-bird-flu-investigation-finds-no-evidence-of-human-transmission-cdc-says-5747376)
+    
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Missouri Bird Flu Investigation Finds No Evidence of Human Transmission, CDC Says](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730786-shutterstock_2476039745_dairy_milk_cow_flu_h5n1_influenza-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/missouri-bird-flu-investigation-finds-no-evidence-of-human-transmission-cdc-says-5747376)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
