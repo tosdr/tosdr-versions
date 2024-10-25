@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/sp-en-cda-willen-eindelijk-daden-maar-eerst-woorden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/klaas-dijkhof-vaccinatie-onkundig-wegduik-kundig/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
