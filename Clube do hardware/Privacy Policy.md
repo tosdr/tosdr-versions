@@ -134,6 +134,86 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Rodrigomatheus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255009.thumb.jpeg.8487a03f0cda5655a9fe27bbaf38ab2a.jpeg)](https://www.clubedohardware.com.br/profile/1255009-rodrigomatheus/ "Ir ao perfil de Rodrigomatheus")
+        
+        0
+        
+        [Travamentos sem explicação rx 580 Ryzen 7](https://www.clubedohardware.com.br/forums/topic/1700547-travamentos-sem-explica%C3%A7%C3%A3o-rx-580-ryzen-7/?do=getNewComment "Travamentos sem explicação rx 580 Ryzen 7")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Rodrigomatheus](https://www.clubedohardware.com.br/profile/1255009-rodrigomatheus/ "Ir ao perfil de Rodrigomatheus")  
+        38 minutos atrás
+        
+    * [![FernandoHernandes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255008.thumb.jpeg.ae78729deef44f5b6b7e2e864a0dbdd6.jpeg)](https://www.clubedohardware.com.br/profile/1255008-fernandohernandes/ "Ir ao perfil de FernandoHernandes")
+        
+        0
+        
+        [Formatei meu lenovo idealpad 320 15iap e agora ele so tem 83gb livre](https://www.clubedohardware.com.br/forums/topic/1700546-formatei-meu-lenovo-idealpad-320-15iap-e-agora-ele-so-tem-83gb-livre/?do=getNewComment "Formatei meu lenovo idealpad 320 15iap  e agora ele so tem 83gb livre")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [FernandoHernandes](https://www.clubedohardware.com.br/profile/1255008-fernandohernandes/ "Ir ao perfil de FernandoHernandes")  
+        3 horas atrás
+        
+    * [![Matheus Henrique Vieira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255007.thumb.png.3aa98e566fc46bb6b3ea2517448db0a7.png)](https://www.clubedohardware.com.br/profile/1255007-matheus-henrique-vieira/ "Ir ao perfil de Matheus Henrique Vieira")
+        
+        2
+        
+        [PC recém montado reinicia ou congela se ativo XMP das memórias](https://www.clubedohardware.com.br/forums/topic/1700545-pc-rec%C3%A9m-montado-reinicia-ou-congela-se-ativo-xmp-das-mem%C3%B3rias/?do=getNewComment "PC recém montado reinicia ou congela se ativo XMP das memórias")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Matheus Henrique Vieira](https://www.clubedohardware.com.br/profile/1255007-matheus-henrique-vieira/ "Ir ao perfil de Matheus Henrique Vieira")  
+        3 horas atrás
+        
+    * [![pedrokioma](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/03931304f387b4b1a2c1aac4eed4641d.thumb.jpg.efb57a2c8a515a09eb3c94e394da95fd.jpg)](https://www.clubedohardware.com.br/profile/978213-pedrokioma/ "Ir ao perfil de pedrokioma")
+        
+        0
+        
+        [Meu SSD não aparece na formatação](https://www.clubedohardware.com.br/forums/topic/1700544-meu-ssd-n%C3%A3o-aparece-na-formata%C3%A7%C3%A3o/?do=getNewComment "Meu SSD não aparece na formatação")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [pedrokioma](https://www.clubedohardware.com.br/profile/978213-pedrokioma/ "Ir ao perfil de pedrokioma")  
+        4 horas atrás
+        
+    * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
+        
+        2
+        
+        [Opinião sobre fonte msi](https://www.clubedohardware.com.br/forums/topic/1700543-opini%C3%A3o-sobre-fonte-msi/?do=getNewComment "Opinião sobre fonte msi")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
+        4 horas atrás
+        
+    * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
+        
+        1
+        
+        [Sugestões de monitor 21'' - 27'' 240hz](https://www.clubedohardware.com.br/forums/topic/1700542-sugest%C3%B5es-de-monitor-21-27-240hz/?do=getNewComment "Sugestões de monitor 21'' - 27'' 240hz")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
+        4 horas atrás
+        
+    * [![Zalgo](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/6cc96b4da52fb8d960ae74cc7f5face1.thumb.jpg.b274a5392b7d93c7ab9be42615dd7e87.jpg)](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")
+        
+        1
+        
+        [Sugestão de Gabinete em torno de 400 reais](https://www.clubedohardware.com.br/forums/topic/1700541-sugest%C3%A3o-de-gabinete-em-torno-de-400-reais/?do=getNewComment "Sugestão de Gabinete em torno de 400 reais")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Zalgo](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")  
+        5 horas atrás
+        
+    * [![LGM02](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254610-lgm02/ "Ir ao perfil de LGM02")
+        
+        1
+        
+        [Comparação AM4 ou AM5](https://www.clubedohardware.com.br/forums/topic/1700540-compara%C3%A7%C3%A3o-am4-ou-am5/?do=getNewComment "Comparação AM4 ou AM5")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [LGM02](https://www.clubedohardware.com.br/profile/1254610-lgm02/ "Ir ao perfil de LGM02")  
+        5 horas atrás
+        
     * [![LuisH.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1178640.thumb.jpeg.b33747f0c2e041ff09c8ac178916ac98.jpeg)](https://www.clubedohardware.com.br/profile/1178640-luish/ "Ir ao perfil de LuisH.")
         
         0
@@ -142,97 +222,17 @@ Política de privacidade
         
         [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
         Por [LuisH.](https://www.clubedohardware.com.br/profile/1178640-luish/ "Ir ao perfil de LuisH.")  
-        18 minutos atrás
+        6 horas atrás
         
     * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
         
-        1
+        4
         
         [Recomendação de SSD NVMe de 1TB](https://www.clubedohardware.com.br/forums/topic/1700537-recomenda%C3%A7%C3%A3o-de-ssd-nvme-de-1tb/?do=getNewComment "Recomendação de SSD NVMe de 1TB")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
         Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
-        22 minutos atrás
-        
-    * [![bugikaum](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236289c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/751915-bugikaum/ "Ir ao perfil de bugikaum")
-        
-        2
-        
-        [Recomendação de Pc Completo com monitor e onde comprar online](https://www.clubedohardware.com.br/forums/topic/1700536-recomenda%C3%A7%C3%A3o-de-pc-completo-com-monitor-e-onde-comprar-online/?do=getNewComment "Recomendação de Pc Completo com monitor e onde comprar online")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [bugikaum](https://www.clubedohardware.com.br/profile/751915-bugikaum/ "Ir ao perfil de bugikaum")  
-        25 minutos atrás
-        
-    * [![Raivos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254912.thumb.jpeg.f40c9465dbe7b41f4d7a2634e326e044.jpeg)](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")
-        
-        0
-        
-        [Controle de led ARGB na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1700535-controle-de-led-argb-na-placa-m%C3%A3e/?do=getNewComment "Controle de led ARGB na placa-mãe")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Raivos](https://www.clubedohardware.com.br/profile/1254912-raivos/ "Ir ao perfil de Raivos")  
-        28 minutos atrás
-        
-    * [![Claudevan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1241568.thumb.jpeg.e763598c12a00d13550cfd99a83b377f.jpeg)](https://www.clubedohardware.com.br/profile/1241568-claudevan/ "Ir ao perfil de Claudevan")
-        
-        2
-        
-        [Fonte rise mode zeus 500w é de boa? Aguenta uma Radeon RX 6600 Ryzen 5 5600GT?](https://www.clubedohardware.com.br/forums/topic/1700534-fonte-rise-mode-zeus-500w-%C3%A9-de-boa-aguenta-uma-radeon-rx-6600-ryzen-5-5600gt/?do=getNewComment "Fonte rise mode zeus 500w é de boa? Aguenta uma Radeon RX 6600 Ryzen 5 5600GT?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Claudevan](https://www.clubedohardware.com.br/profile/1241568-claudevan/ "Ir ao perfil de Claudevan")  
-        47 minutos atrás
-        
-    * [![kleber_07](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4628c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK0%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/399864-kleber_07/ "Ir ao perfil de kleber_07")
-        
-        0
-        
-        [servidor de backup ( TrueNAS ou outros )](https://www.clubedohardware.com.br/forums/topic/1700533-servidor-de-backup-truenas-ou-outros/?do=getNewComment "servidor de backup ( TrueNAS ou outros )")
-        
-        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
-        Por [kleber\_07](https://www.clubedohardware.com.br/profile/399864-kleber_07/ "Ir ao perfil de kleber_07")  
-        1 hora atrás
-        
-    * [![Gabriel fran](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254667.thumb.png.9cc14405494b1eb0c8d940d7b1d45db3.png)](https://www.clubedohardware.com.br/profile/1254667-gabriel-fran/ "Ir ao perfil de Gabriel fran")
-        
-        1
-        
-        [estou pensando em comprar uma placa-mãe nova e mais atual](https://www.clubedohardware.com.br/forums/topic/1700532-estou-pensando-em-comprar-uma-placa-m%C3%A3e-nova-e-mais-atual/?do=getNewComment "estou pensando em comprar uma placa-mãe nova e mais atual")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Gabriel fran](https://www.clubedohardware.com.br/profile/1254667-gabriel-fran/ "Ir ao perfil de Gabriel fran")  
-        1 hora atrás
-        
-    * [![pvictor17](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626ac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254998-pvictor17/ "Ir ao perfil de pvictor17")
-        
-        0
-        
-        [Perda de FPS de dia ao ligar o PC de noite volta ao normal](https://www.clubedohardware.com.br/forums/topic/1700531-perda-de-fps-de-dia-ao-ligar-o-pc-de-noite-volta-ao-normal/?do=getNewComment "Perda de FPS de dia ao ligar o PC de  noite volta ao normal")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [pvictor17](https://www.clubedohardware.com.br/profile/1254998-pvictor17/ "Ir ao perfil de pvictor17")  
-        2 horas atrás
-        
-    * [![GJO](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/IMG-20240811-WA0179.thumb.jpg.9166c70feaa68869ae656c541ec1f0ff.jpg)](https://www.clubedohardware.com.br/profile/1254997-gjo/ "Ir ao perfil de GJO")
-        
-        1
-        
-        [PC não dá vídeo após troca de processador](https://www.clubedohardware.com.br/forums/topic/1700530-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo-ap%C3%B3s-troca-de-processador/?do=getNewComment "PC não dá vídeo após troca de processador")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [GJO](https://www.clubedohardware.com.br/profile/1254997-gjo/ "Ir ao perfil de GJO")  
-        2 horas atrás
-        
-    * [![joaog32j](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1236089.thumb.png.a934d633123f60f39dab93978c6510d2.png)](https://www.clubedohardware.com.br/profile/1236089-joaog32j/ "Ir ao perfil de joaog32j")
-        
-        0
-        
-        [Dica de uma boa opção de fonte para i5 2500 e GTX 960](https://www.clubedohardware.com.br/forums/topic/1700529-dica-de-uma-boa-op%C3%A7%C3%A3o-de-fonte-para-i5-2500-e-gtx-960/?do=getNewComment "Dica de uma boa opção de fonte para i5 2500 e GTX 960")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [joaog32j](https://www.clubedohardware.com.br/profile/1236089-joaog32j/ "Ir ao perfil de joaog32j")  
-        2 horas atrás
+        6 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
