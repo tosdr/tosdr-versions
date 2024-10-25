@@ -1,4 +1,4 @@
-[![HALF-LIFE Project Beta](https://hl2-beta.ru/Themes/warmlampedvgui/images/theme/hlbp_logo.png)](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&)
+[![HALF-LIFE Project Beta](https://hl2-beta.ru/Themes/warmlampedvgui/images/theme/hlbp_logo.png)](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&)
 
 Вход|Регистрация 
 
@@ -11,17 +11,17 @@
 
 * * *
 
-* [Регистрация](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=register)
+* [Регистрация](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=register)
 
 Меню сайта
 
-* [Новости](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&)
-* [Форум](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=forum)
-* [Загрузки](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=downloads)
-* [Статьи](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=articles)
-* [Галерея](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=gallery)
-* [О нас](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&page=about)
-* [Ссылки](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&page=links)
+* [Новости](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&)
+* [Форум](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=forum)
+* [Загрузки](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=downloads)
+* [Статьи](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=articles)
+* [Галерея](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=gallery)
+* [О нас](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&page=about)
+* [Ссылки](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&page=links)
     *   [![VK](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/vk.png)  VK group](https://vk.com/beta_project)
     *   [![ST](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/st.png)  STEAM group](http://steamcommunity.com/groups/hl-beta)
     *   [![YT](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/yt.png)  Youtube Channel](https://www.youtube.com/c/HL2ProjectBeta)
@@ -32,17 +32,17 @@
     *   [![VCC](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/vcc.png)  VCC Discord Server](https://discord.gg/scXwfXt)
     *   [![LN](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/ln.png)  LeakNet](https://leaknet.org/)
     *   [![VA](https://hl2-beta.ru/Themes/warmlampedvgui/images/links_icons/va.png)  Valve Archive](https://valvearchive.com/)
-* [Поиск](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=search)
-* [Вход](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=login)
-* [Регистрация](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=register)
+* [Поиск](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=search)
+* [Вход](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=login)
+* [Регистрация](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=register)
 
 Switch language
 
-*  [![EN](https://hl2-beta.ru/english.png "EN") English](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=agreement;language=english)
-*  [![RU](https://hl2-beta.ru/russian.png "RU") Russian](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=agreement;language=russian-utf8)
+*  [![EN](https://hl2-beta.ru/english.png "EN") English](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=agreement;language=english)
+*  [![RU](https://hl2-beta.ru/russian.png "RU") Russian](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=agreement;language=russian-utf8)
 
-* [Главная](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&)/
-* [Регистрационное соглашение и политика конфиденциальности](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=agreement)
+* [Главная](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&)/
+* [Регистрационное соглашение и политика конфиденциальности](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=agreement)
 
 ### Регистрационное соглашение
 
@@ -96,5 +96,5 @@ Switch language
 Также обратите внимание, что программное обеспечение размещает cookie (текстовый файл, содержащий некоторую информацию: имя пользователя и пароль) в кэше вашего браузера. Он используется ТОЛЬКО для того, чтобы сохранить Ваше состояние на форуме. Это программное обеспечение не собирает и не отправляет какую-либо другую информацию с Вашего компьютера.
 
 * [HALF-LIFE Project Beta © 2007-2024](http://hl2-beta.ru/ "HALF-LIFE Project Beta")
-* [SMF 2.0.19](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=credits "Simple Machines Forum") | [SMF © 2017](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines")  
-    [SimplePortal 2.3.7 © 2008-2024, SimplePortal](https://simpleportal.net/) | [Условия и политика](https://hl2-beta.ru/index.php?PHPSESSID=6b64b10bd38a2e38c739b325d7022b86&action=agreement)
+* [SMF 2.0.19](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=credits "Simple Machines Forum") | [SMF © 2017](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines")  
+    [SimplePortal 2.3.7 © 2008-2024, SimplePortal](https://simpleportal.net/) | [Условия и политика](https://hl2-beta.ru/index.php?PHPSESSID=c0e05cc9b4fbeed22e67aaae56d11f3f&action=agreement)
