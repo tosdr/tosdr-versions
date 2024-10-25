@@ -130,50 +130,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Kobus Venter
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=9712635)  
-PROGRAPHIX PTY LTD
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=8974477)  
+Printo
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=69844394)  
-Blue Sky Solar Services
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=55406399)  
+Oak Tree Immigration
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=147510313)  
-Van Der Merwe Olieverspreiders
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=56092745)  
+Fox Alarms & Security
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=99888939)  
-AquariumSmiths
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=165604964)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=197668786)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=90284834)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=6960713)  
-Little Nutty Professors
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=176640088)  
+Eruca (PTY)Ltd
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=19762874)  
-Gemini-IT Group
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=99578299)  
+Repairs In Motion
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=31967389)  
-Chiron Medical Solutions
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=9021371)  
+Three Moons Emporium
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=126092007)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=167701672)  
+Lizzy Pop PTY(Ltd)
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=100574199)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=7899739)  
+LEONARD
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=75722504)  
-VIR Electrical (PTY) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=76322896)  
+Multi CNC Solutions CC
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=157789674)  
-Itroniq (Pty) Ltd
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=185903863)  
+Know Informatics
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=94940800)  
-Sarabi
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=152139336)  
+kidoscabbie
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=164156470)  
-RADIO TYGERBERG 104FM NPC
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=37232057)  
+#DiGi3 Marketing & Design
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=db54251d2ece1cbc3dbf0f918270c5bdd26cb72fc4f328a3ff1990c94ecf3c21&c=126587563)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=ff506fac7c099441075c3a3382d00208f24bf0498c28082748ed0b4f74a693dd&c=125238030)  
+All Trucking Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
