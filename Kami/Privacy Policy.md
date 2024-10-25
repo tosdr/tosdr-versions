@@ -357,7 +357,7 @@ We reserve the right to amend this Privacy Policy at any time. Please check this
 
 We also reserve the right to amend the EU Model Contract Clauses in case when the European Commission adopts new ones.
 
-Kami has a published Cookies Policy found [here](https://www.kamipp.com/cookies-policy).
+Kami has a published Cookies Policy found [here](https://www.kamiapp.com/cookies-policy).
 
 Links to Other Sites
 --------------------
