@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
+   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
+
+crime ambiental
+
+Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+
+Tabuleiro do Martins
+
+Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
+
+Em Maceió
+
+Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
 
 em pajuçara
 
@@ -30,19 +42,7 @@ Casal trabalha para reativar três poços da Região Metropolitana de Maceió; v
 
 Maceió
 
-Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")   [![Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_23-10-24-Reforma-da-Praca-Moleque-Namorador-antes-durante-IPLAN-Victor-Vercant-3_ca3cb901b6.jpg)
-
-Maceió
-
-Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa](https://www.tnh1.com.br/noticia/nid/restauracao-da-praca-moleque-namorador-vai-preservar-piso-em-pedra-portuguesa/ "Restauração da Praça Moleque Namorador vai preservar piso em pedra portuguesa")   [![Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
-
-Cidade Universitária
-
-Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-baleado-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada")   [![Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_protesto-passarela-fernandes-lima_5475952124.jpg)
-
-Manifestação
-
-Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito](https://www.tnh1.com.br/noticia/nid/entidades-sindicais-fazem-protesto-contra-pec-66-na-fernandes-lima-mas-sem-afetar-transito/ "Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afetar trânsito")
+Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Entidades sindicais fazem protesto contra PEC 66 na Fernandes Lima, mas sem afet
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
-
-EM SÃO BRÁS
-
-Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
+   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
 
 Alagoas
 
-Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
+Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
+
+Delimitar locais
+
+Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
+
+EM SÃO BRÁS
+
+Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
+
+Alagoas
+
+Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
 
 hermafrodita
 
-Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
+Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")   [![Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/1/csm_primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica__1__02419308f9.jpg)
 
 39 anos
 
-Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")   [![Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/f/csm_estado-publica-decreto-e-portaria-sobre-pagamento-de-precatorios-do-fundef-a-quase-9-mil-servidores-administrativos_52c0b99f2c.jpg)
-
-Educação
-
-Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data](https://www.tnh1.com.br/noticia/nid/governo-de-alagoas-anuncia-pagamento-de-juros-dos-precatorios-do-fundef-veja-data/ "Governo de Alagoas anuncia pagamento de juros dos precatórios do Fundef; veja data ")   [![Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
-
-barra grande
-
-Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https://www.tnh1.com.br/noticia/nid/banhista-e-atingida-por-moto-aquatica-em-praia-de-maragogi-veja-video/ "Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo")
+Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica](https://www.tnh1.com.br/noticia/nid/primeira-mulher-transplantada-de-rim-no-hospital-do-coracao-alagoano-recebe-alta-medica/ "Primeira mulher transplantada de rim no Hospital do Coração Alagoano recebe alta médica")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Banhista é atingida por moto aquática em praia de Maragogi; veja vídeo](https
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/8/csm_adolescentes-mortos-perseguicao-reproducao-arquivo-pessoal_1132b7d470.png)
+   [![PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
 
-Depoimentos
+operação LOG OFF 2
 
-Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos](https://www.tnh1.com.br/noticia/nid/veja-o-que-dizem-pms-envolvidos-em-perseguicao-que-terminou-com-adolescentes-mortos/ "Veja o que dizem PMs envolvidos em perseguição que terminou com adolescentes mortos")   [![PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_pm-apreende-arma-de-fogo-municoes-e-drogas-em-acoes-em-maceio-e-satuba_dfb217ee43.jpeg)
+PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca](https://www.tnh1.com.br/noticia/nid/pf-deflagra-operacao-de-combate-ao-abuso-sexual-infantojuvenil-e-cumpre-mandado-em-arapiraca/ "PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca")   [![Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_apreensao_cocaina_foto_ascom_pc-al_191e5f671b.jpeg)
 
-Polícia
+Ação conjunta
 
-PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba](https://www.tnh1.com.br/noticia/nid/pm-apreende-revolver-38-cocaina-e-maconha-em-acoes-em-maceio-e-satuba/ "PM apreende revólver 38, cocaína e maconha em ações em Maceió e Satuba")   [![iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/b/csm_iPad_recuperado_-_foto_pc-al_3250251c29.jpeg)
+Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos](https://www.tnh1.com.br/noticia/nid/policias-de-al-e-ma-apreendem-200-kg-de-cocaina-avaliados-em-r-10-milhoes-tres-sao-presos/ "Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos")   [![Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/b/csm_Palmiera_dos_Indios_Ascom_db755caba7.png)
 
-Estava em casa
+Em 24 horas
 
-iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió](https://www.tnh1.com.br/noticia/nid/ipad-furtado-de-aluna-de-medicina-em-faculdade-e-recuperado-apos-rastreamento-em-maceio/ "iPad furtado de aluna de Medicina em faculdade é recuperado após rastreamento em Maceió")   [![Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/8/csm_prisao_estuprador_craibas_-_foto_ascom_pc_f20b6a26c3.jpeg)
+Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/dois-sao-presos-por-descumprimento-de-medidas-protetivas-em-palmeira-dos-indios/ "Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
 
-No trabalho
+Tabuleiro do Martins
 
-Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial](https://www.tnh1.com.br/noticia/nid/suspeito-de-estuprar-jovem-e-obriga-la-a-comer-areia-e-preso-em-operacao-policial/ "Suspeito de estuprar jovem e obrigá-la a comer areia é preso em operação policial")   [![Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/1/csm_prisao_teotonio_vilela_-_foto_ascom_pc__1__62dba69da5.jpeg)
+Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Policiais vão a local de homicídio, mas só encontram vítima depois de mensagens em rede social](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_policia_militar_monitoramento_-_foto_ascom_pm_0f63c24ef5.jpg)
 
-com arma branca
+Na Levada
 
-Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/video-foragido-e-capturado-por-tentar-matar-dono-de-bar-no-interior-de-alagoas/ "Vídeo: foragido é capturado por tentar matar dono de bar no interior de Alagoas")   [![Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/e/csm_morto-furtada-cidade-universitaria_f13a7dc742.jpg)
+Policiais vão a local de homicídio, mas só encontram vítima depois de mensagens em rede social](https://www.tnh1.com.br/noticia/nid/policiais-vao-a-local-de-homicidio-mas-so-encontram-vitima-depois-de-mensagens-em-rede-social/ "Policiais vão a local de homicídio, mas só encontram vítima depois de mensagens em rede social")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
 
-Cidade Universitária
+Em Maceió
 
-Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada](https://www.tnh1.com.br/noticia/nid/homem-em-situacao-de-rua-e-baleado-na-cabeca-enquanto-andava-em-moto-furtada/ "Homem em situação de rua é baleado na cabeça enquanto andava em moto furtada")
+Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -226,49 +226,49 @@ Grande susto!
 
 Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió
 
-Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-carros-batem-em-cruzamento-e-um-invade-banca-de-livros-no-centro-de-maceio/ "Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió")[![Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/b/csm_Tribunal_de_Justica_de_Alagoas_-_foto_TJAL_b9f73b9d58.jpg)
+Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/video-carros-batem-em-cruzamento-e-um-invade-banca-de-livros-no-centro-de-maceio/ "Vídeo: carros batem em cruzamento e um invade banca de livros no Centro de Maceió")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
 
-Concursos
+Importunação sexual
 
-Concursos
+Importunação sexual
 
-Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
 
-Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário](https://www.tnh1.com.br/noticia/nid/tribunal-de-justica-de-alagoas-divulga-resultado-final-do-concurso-para-tecnico-judiciario/ "Tribunal de Justiça de Alagoas divulga resultado final do concurso para técnico judiciário")
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")
 
-[![Demência pugilística: entenda o que é a doença que afetou Maguila](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_maguila-morte-reproducao-redes-sociais__2__4764ef3e5b.png)
+[![Vídeo: incêndio de grandes proporções destrói casa no município do Pilar ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_incendio_pilar1_016392e113.png)
 
-Saúde
+Interior
 
-Saúde
+Interior
 
-Demência pugilística: entenda o que é a doença que afetou Maguila
+Vídeo: incêndio de grandes proporções destrói casa no município do Pilar
 
-Demência pugilística: entenda o que é a doença que afetou Maguila](https://www.tnh1.com.br/noticia/nid/demencia-pugilistica-entenda-o-que-e-a-doenca-que-afetou-maguila/ "Demência pugilística: entenda o que é a doença que afetou Maguila")[![Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_rivaldo-barbosa-presta-depoimento-ao-stf-1729793229605_v2_450x450.jpg_e1b0dafddf.jpg)
+Vídeo: incêndio de grandes proporções destrói casa no município do Pilar](https://www.tnh1.com.br/noticia/nid/video-incendio-de-grandes-proporcoes-destroi-casa-no-municipio-do-pilar/ "Vídeo: incêndio de grandes proporções destrói casa no município do Pilar ")[![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_402da4785b.jpg)
 
-está preso
+Alagoas
 
-está preso
+Alagoas
 
-Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora
+Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30
 
-Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora](https://www.tnh1.com.br/noticia/nid/delegado-compara-prisao-no-caso-marielle-a-assassinato-e-diz-ter-gratidao-a-vereadora/ "Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora")[![Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/d/csm_angel-salazar-reproducao_aea3a5b1c9.jpg)
+Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")[![Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/1/csm_cadela_cruza_f3856b896d.png)
 
-ator cubano
+Brasil
 
-ator cubano
+Brasil
 
-Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente
+Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza
 
-Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente](https://www.tnh1.com.br/noticia/nid/causa-da-morte-de-astro-de-scarface-e-divulgada-com-motivo-surpreendente/ "Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente")[![DIU hormonal pode causar câncer de mama? Entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_diu-hormonal-reproducao-freepik_39a922b84d.jpg)
+Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://www.tnh1.com.br/noticia/nid/golden-retriever-fica-gravida-tutora-descobre-que-pai-e-um-shih-tzu-e-cruza-viraliza/ "Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza")[![Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_mario-marroquim-crb-foto-reproducao_ce156442b0.png)
 
-Saúde
+Em entrevista
 
-Saúde
+Em entrevista
 
-DIU hormonal pode causar câncer de mama? Entenda
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada
 
-DIU hormonal pode causar câncer de mama? Entenda](https://www.tnh1.com.br/noticia/nid/diu-hormonal-pode-causar-cancer-de-mama-entenda/ "DIU hormonal pode causar câncer de mama? Entenda")
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
