@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| One Number AwayLuke Combs<br><br>4:58am |
-| Everything I NeedChayce Beckham<br><br>4:55am |
-| Tennessee OrangeMegan Moroney<br><br>4:51am |
-| Where It EndsBailey Zimmerman<br><br>4:48am |
-| Golden ChildMeghan Patrick<br><br>4:44am |
+| Pretty Little PoisonWarren Zeiders<br><br>11:37am |
+| Holy SmokesBailey Zimmerman<br><br>11:34am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:31am |
+| Where The Green Grass GrowsTim Mcgraw<br><br>11:28am |
+| AustinDasha<br><br>11:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
