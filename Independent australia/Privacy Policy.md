@@ -86,13 +86,13 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Denying hungry kids and women’s rights w David Crisafulli et al](https://independentaustralia.net/article-display/denying-hungry-kids-and-womens-rights-with-david-crisafulli-et-al,19083)
+[One Nation's James Ashby's contentious abortion views](https://independentaustralia.net/article-display/exclusive-one-nation-only-wants-to-control-womens-bodies-some-of-the-time,19102)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
 ['Adult Crime, Adult Time' in Qld: LNP direct anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099)
 
-[Australia’s economic data does not compute](https://independentaustralia.net/article-display/australias-economic-data-does-not-compute,19095)
+[Israel proclaims itself chief mourner, as Gaza lies in ruins](https://independentaustralia.net/article-display/israel-proclaims-itself-chief-mourner-as-gaza-lies-in-ruins,19104)
 
 [Steven Miles’ results boost his claim to Queensland’s top job](https://independentaustralia.net/article-display/steven-miles-results-boost-his-claim-to-queenslands-top-job,19093)
 
@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [EXCLUSIVE IA INTERVIEW: One Nation's James Ashby's contentious abortion views](https://independentaustralia.net/article-display/exclusive-ia-interview-one-nations-james-ashbys-contentious-abortion-views,19102 "Permanent Link : EXCLUSIVE IA INTERVIEW: One Nation's James Ashby's contentious abortion views")
+* [Queensland's so called 'highway to hell' election beat-up](https://independentaustralia.net/article-display/queenslands-so-called-highway-to-hell-election-beat-up,19105 "Permanent Link : Queensland's so called 'highway to hell' election beat-up")
 * [Israel proclaims itself chief mourner, as Gaza lies in ruins](https://independentaustralia.net/article-display/israel-proclaims-itself-chief-mourner-as-gaza-lies-in-ruins,19104 "Permanent Link : Israel proclaims itself chief mourner, as Gaza lies in ruins")
 * [CARTOONS: Mark David gets the royal treatment](https://independentaustralia.net/article-display/cartoons-mark-david-gets-the-royal-treatment,19089 "Permanent Link : CARTOONS: Mark David gets the royal treatment")
 * [TikTok addiction: It takes all of 35 minutes](https://independentaustralia.net/article-display/tiktok-addiction-it-takes-all-of-35-minutes,19103 "Permanent Link : TikTok addiction: It takes all of 35 minutes")
 * [Nuclear lobby on track to sabotage COP29](https://independentaustralia.net/article-display/nuclear-lobby-on-track-to-sabotage-cop29,19101 "Permanent Link : Nuclear lobby on track to sabotage COP29")
 * [EDITORIAL: EXCLUSIVE — One Nation only wants to control women’s bodies some of the time](https://independentaustralia.net/article-display/editorial-exclusive-one-nation-only-wants-to-control-womens-bodies-some-of-the-time,19100 "Permanent Link : EDITORIAL: EXCLUSIVE — One Nation only wants to control women’s bodies some of the time")
-* ['Adult Crime, Adult Time' in Queensland: LNP direct their anger toward children](https://independentaustralia.net/article-display/adult-crime-adult-time-in-queensland-lnp-direct-their-anger-toward-children,19099 "Permanent Link : 'Adult Crime, Adult Time' in Queensland: LNP direct their anger toward children")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
