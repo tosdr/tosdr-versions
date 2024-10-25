@@ -253,13 +253,13 @@ article 3 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-life-i
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
+article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/herac7m2crewb.png?w=1024)
 
 7 min read
 
 ### NASA Selects Crew for 45-Day Simulated Mars Mission in Houston
 
-article 7 days ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)
+article 1 week ago](https://www.nasa.gov/humans-in-space/nasa-selects-crew-for-45-day-simulated-mars-mission-in-houston/)
 
 ### Highlights
 
@@ -285,7 +285,13 @@ article 2 days ago](https://www.nasa.gov/reference/risk-of-injury-and-compromise
 
 ### Highlights
 
-[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
+[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### High-Altitude ER-2 Flights Get Down-to-Earth Data
+
+article 34 mins ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
 
 2 min read
 
@@ -297,39 +303,39 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)[![Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.](https://science.nasa.gov/wp-content/uploads/2023/12/jason3-20160114climate.jpg)
-
-1 min read
-
-### Amendment 59: A.12 Ocean Surface Topography Science Team Proposal Due Date Delay to October 31, 2024.
-
-article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-59-a-12-ocean-surface-topography-science-team-proposal-due-date-delay-to-october-31-2024/)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
 
 ### Highlights
 
-[![Sinister Solar System](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001359/GSFC_20171208_Archive_e001359~large.jpg)
+[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
+
+2 min read
+
+### Total Solar Eclipse Broadcast For Your Consideration
+
+article 2 hours ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-your-consideration/)[![Sinister Solar System](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001359/GSFC_20171208_Archive_e001359~large.jpg)
 
 1 min read
 
 ### Sinister Solar System
 
-article 9 hours ago](https://science.nasa.gov/solar-system/sinister-solar-system/)[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
+article 17 hours ago](https://science.nasa.gov/solar-system/sinister-solar-system/)[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
 
 5 min read
 
 ### TSE Campaign For Your Consideration
 
-article 13 hours ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)[![Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/e/Europa_Clipper_Journey_to_an_Ocean_World_Desk_Background_1920x1080.png)
-
-3 min read
-
-### Europa Trek: NASA Offers a New Guided Tour of Jupiter’s Ocean Moon
-
-article 2 days ago](https://science.nasa.gov/learning-resources/science-activation/europa-trek-nasa-offers-a-new-guided-tour-of-jupiters-ocean-moon/)
+article 21 hours ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)
 
 ### Featured
 
-[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+
+2 min read
+
+### Hubble Sees a Celestial Cannonball
+
+article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
@@ -341,35 +347,29 @@ article 3 days ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototyp
 
 ### Hubble Captures a New View of Galaxy M90
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)[![NASA’s Hubble Sees a Stellar Volcano](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-raquarii-stsci-01j80b5p0qfsrzn9a2e48f61cx.jpg)
-
-3 min read
-
-### NASA’s Hubble Sees a Stellar Volcano
-
-article 1 week ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/)
+article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/)
 
 ### Highlights
 
-[![Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/EdNightOct2024_Werdin-Pfisterer%20(AuroraKit)%20-%20Carolyn%20Y.%20Ng.JPG)
+[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### High-Altitude ER-2 Flights Get Down-to-Earth Data
+
+article 34 mins ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+
+2 min read
+
+### Hubble Sees a Celestial Cannonball
+
+article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/EdNightOct2024_Werdin-Pfisterer%20(AuroraKit)%20-%20Carolyn%20Y.%20Ng.JPG)
 
 2 min read
 
 ### Educator Night at the Museum of the North: Activating Science in Fairbanks Classrooms
 
-article 15 hours ago](https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
-
-5 min read
-
-### NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
-
-article 18 hours ago](https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/)[![ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)](https://images-assets.nasa.gov/image/jsc2024e062107/jsc2024e062107~orig.jpg)
-
-2 min read
-
-### ARTEMOSS (Antarctic Isolate 1 (ANT1) Radiation Tolerance Experiment with Moss in Orbit on the Space Station)
-
-article 1 day ago](https://science.nasa.gov/biological-physical/investigations/artemoss-antarctic-isolate-1-ant1-radiation-tolerance-experiment-with-moss-in-orbit-on-the-space-station/)
+article 23 hours ago](https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/biological-physical/investigations/a
 
 ### NASA and Partners Scaling to New Heights in Air Traffic Management
 
-article 7 days ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-management-demoed/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-management-demoed/)[![Two NASA test pilots walk toward the camera. Behind them is a blue and white F/A-18 research jet.](https://www.nasa.gov/wp-content/uploads/2023/03/afrc2016-0195-196-1.jpg?w=1024)
 
 4 min read
 
@@ -429,7 +429,7 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/new-minecraft-game/
 
 ### NASA-Themed Pumpkin-Carving Templates and Stencils
 
-article 12 months ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
+article 1 year ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carving-templates-and-stencils/)
 
 ### Featured
 
@@ -473,7 +473,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/langley/una-reu
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 2 weeks ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)
+article 3 weeks ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
