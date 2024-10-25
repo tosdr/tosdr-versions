@@ -20,16 +20,16 @@ Friday, October 25 2024
 
 Latest
 
-* [CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
-* [You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
-* [Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
-* [Microsoft Edge Adds Color Changes & Scrollbar Customization](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
-* [Jensen Huang just issued a big update on Nvidia’s Blackwell chip flaws](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
-* [Fax Not Going Through? Here Are 7 Tips to Make it Send](https://digitpatrox.com/fax-not-going-through-here-are-7-tips-to-make-it-send/)
-* [NYT Strands today — hints, spangram and answers for game #236 (Friday, October 25 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-236-friday-october-25-2024/)
-* [Apple creates Private Cloud Compute VM to let researchers find bugs](https://digitpatrox.com/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
-* [The Browser Company is building another browser, and it’s not called Arc.](https://digitpatrox.com/the-browser-company-is-building-another-browser-and-its-not-called-arc/)
-* [Deadlock Patch Notes (October 24): New Heroes, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-24-new-heroes-buffs-nerfs-other-changes/)
+* [UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
+* [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
+* [Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
+* [Iceland’s four-day working week trials have been a roaring success – economic growth spiked, workers were happier, and burnout plummeted](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
+* [Who needs a humanoid robot when everything is already robotic? – Computerworld](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
+* [The Best Paid VPNs in 2024](https://digitpatrox.com/the-best-paid-vpns-in-2024/)
+* [Best Winter/Snow Tires – Consumer Reports](https://digitpatrox.com/best-winter-snow-tires-consumer-reports/)
+* [Amazon Fire HD 8 (2024) Review: A Great Budget Tablet](https://digitpatrox.com/amazon-fire-hd-8-2024-review-a-great-budget-tablet/)
+* [Dell Inspiron 14 Plus (7441) review](https://digitpatrox.com/dell-inspiron-14-plus-7441-review/)
+* [What Is PCI Compliance? A Simple Guide for Businesses](https://digitpatrox.com/what-is-pci-compliance-a-simple-guide-for-businesses/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3587286-0-96987000-1729821071-shutterstock_editorial_2382522423.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/02/28/UnitedHealth_Group_UHG.jpg)](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
     
-    [CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
+    [UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
     
-    48 mins ago
+    6 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HP2JFQEZPKSKTPKS139X50H0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
+* [![](https://cdn.vox-cdn.com/thumbor/e3ta7NnDUg3i9CqHoW0VKIVW2XU=/0x0:1400x784/1200x628/filters:focal(700x392:701x393)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697470/Screenshot_2024_10_24_at_5.35.30_PM.png)](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
     
-    [You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
+    [Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
     
-    1 hour ago
+    23 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1569856488/prod/content/dam/CRO%20Images%202019/Cars/September/CR-Cars-best-tire-brands-0919)](https://digitpatrox.com/best-tire-brands-of-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/netflix-territory-filmed.jpg)](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
     
-    [Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
+    [Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
+    
+    38 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/VeFsGoCHoZgbKtCffhGoGE-1200-80.jpg)](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
+    
+    [Iceland’s four-day working week trials have been a roaring success – economic growth spiked, workers were happier, and burnout plummeted](https://digitpatrox.com/icelands-four-day-working-week-trials-have-been-a-roaring-success-economic-growth-spiked-workers-were-happier-and-burnout-plummeted/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/edge.jpg)](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3574918-0-31827000-1729850572-2_iStock-1272712384-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
     
-    [Microsoft Edge Adds Color Changes & Scrollbar Customization](https://digitpatrox.com/microsoft-edge-adds-color-changes-scrollbar-customization/)
+    [Who needs a humanoid robot when everything is already robotic? – Computerworld](https://digitpatrox.com/who-needs-a-humanoid-robot-when-everything-is-already-robotic-computerworld/)
     
     2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/4MC7kb9PTyUzDRmHHcv6w7-1200-80.jpg)](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
-    
-    [Jensen Huang just issued a big update on Nvidia’s Blackwell chip flaws](https://digitpatrox.com/jensen-huang-just-issued-a-big-update-on-nvidias-blackwell-chip-flaws/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [48 mins ago
+* [6 mins ago
     
-    ### CMA probe of Google, Anthropic ‘a precautionary’ move: Analyst – Computerworld](https://digitpatrox.com/cma-probe-of-google-anthropic-a-precautionary-move-analyst-computerworld/)
-* [1 hour ago
+    ### UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://digitpatrox.com/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
+* [23 mins ago
     
-    ### You Can Get Microsoft Visual Studio Pro on Sale for $30 Right Now](https://digitpatrox.com/you-can-get-microsoft-visual-studio-pro-on-sale-for-30-right-now/)
-* [2 hours ago
+    ### Amazon’s Like a Dragon works better as a mob drama than a Yakuza adaptation](https://digitpatrox.com/amazons-like-a-dragon-works-better-as-a-mob-drama-than-a-yakuza-adaptation/)
+* [38 mins ago
     
-    ### Best Tire Brands of 2024](https://digitpatrox.com/best-tire-brands-of-2024/)
+    ### Where’s the Netflix’s Territory Filmed?](https://digitpatrox.com/wheres-the-netflixs-territory-filmed/)
 
 Most Popular Topics
 
-* [September 18, 2024
+* [August 14, 2024
     
-    ### Google Workspace users will see their Calendars front and center in Chrome](https://digitpatrox.com/google-workspace-users-will-see-their-calendars-front-and-center-in-chrome/)
-* [August 22, 2024
+    ### Popular Compact Cars to Avoid & What to Buy Instead](https://digitpatrox.com/popular-compact-cars-to-avoid-what-to-buy-instead/)
+* [August 20, 2024
     
-    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
-* [1 week ago
+    ### These PS4 Features Are Still Missing from the PS5](https://digitpatrox.com/these-ps4-features-are-still-missing-from-the-ps5/)
+* [2 weeks ago
     
-    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
+    ### All Jujutsu Kaisen Arcs in Order](https://digitpatrox.com/all-jujutsu-kaisen-arcs-in-order/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### NYT Strands today — hints, spangram and answers for game #236 (Friday, October 25 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-236-friday-october-25-2024/)
+    ### Best Winter/Snow Tires – Consumer Reports](https://digitpatrox.com/best-winter-snow-tires-consumer-reports/)
+* [3 hours ago
+    
+    ### Amazon Fire HD 8 (2024) Review: A Great Budget Tablet](https://digitpatrox.com/amazon-fire-hd-8-2024-review-a-great-budget-tablet/)
 * [4 hours ago
     
-    ### Apple creates Private Cloud Compute VM to let researchers find bugs](https://digitpatrox.com/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
-* [4 hours ago
-    
-    ### The Browser Company is building another browser, and it’s not called Arc.](https://digitpatrox.com/the-browser-company-is-building-another-browser-and-its-not-called-arc/)
+    ### Dell Inspiron 14 Plus (7441) review](https://digitpatrox.com/dell-inspiron-14-plus-7441-review/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
