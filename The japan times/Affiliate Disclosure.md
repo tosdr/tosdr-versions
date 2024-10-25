@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 25, 2024](https://www.japantimes.co.jp/archive/2024/10/25/ "archive page")
+[October 26, 2024](https://www.japantimes.co.jp/archive/2024/10/26/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
-[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
-  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
+[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+[Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+
+  [![Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429947.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”")](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+
 [Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
 
   [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
-
-[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
 Editors' Picks
 --------------
@@ -162,14 +162,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
@@ -178,19 +170,27 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
+
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+
+By [Owen Ziegler](https://www.japantimes.co.jp/author/3107/owen-ziegler/ "Owen Ziegler")  
+
+  [![Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429947.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”")](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
 
   [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Polls show Japan's ruling bloc could lose its majority. What would happen then?](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
-
-  [![Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/23/429608.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba arrives to deliver a campaign speech in Osaka on Sunday.")](https://www.japantimes.co.jp/news/2024/10/23/japan/politics/ldp-no-majority-lower-house/ "Polls show Japan's ruling bloc could lose its majority. What would happen then?")
 
 Podcast
 -------
@@ -202,18 +202,18 @@ Podcast
 Longform
 --------
 
-  [![A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/21/428219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A collage made of undated handout pictures released by the Yamagata University Institute of Nasca shows 10 of 303 new geoglyphs discovered by scientists at the university in Japan.")](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+  [![When Italy’s Cavour aircraft carrier visited Japan in August, it was the latest in a string of other ports of call by European nations such as Britain, Germany and France, all of whom are engaging in military and defense industry partnerships in East Asia.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429804.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "When Italy’s Cavour aircraft carrier visited Japan in August, it was the latest in a string of other ports of call by European nations such as Britain, Germany and France, all of whom are engaging in military and defense industry partnerships in East Asia.")](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
 
-[The Japanese researcher uncovering the mystery of Peru’s Nazca Lines](https://www.japantimes.co.jp/news/2024/10/21/japan/science-health/nazca-lines-japan-masato-sakai/ "The Japanese researcher uncovering the mystery of Peru’s Nazca Lines")
+[Will Europe's pivot to Asia have any teeth?](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[1](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
 
-[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[![1](1)](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Marubeni-backed salmon farm starts Japan sales as part of diversification push](https://www.japantimes.co.jp/business/2024/10/25/marubeni-salmon-farm/ "Marubeni-backed salmon farm starts Japan sales as part of diversification push")
+
+4 hours ago
+
+[Japan to resume trial removal of Fukushima nuclear debris, reports say](https://www.japantimes.co.jp/news/2024/10/25/japan/fukushima-debris-removal/ "Japan to resume trial removal of Fukushima nuclear debris, reports say")
+
+4 hours ago
+
+[Will Europe's pivot to Asia have any teeth?](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
+
+5 hours ago
+
 [Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
-1 hours ago
+7 hours ago
 
 [Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-2 hours ago
-
-[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
-
-2 hours ago
-
-[Election wildcard in Wakayama puts rural district in national spotlight](https://www.japantimes.co.jp/news/2024/10/25/japan/politics/seko-nikai-ldp-wakayama/ "Election wildcard in Wakayama puts rural district in national spotlight")
-
-2 hours ago
-
-[Tetsuya Chiba becomes first manga artist to receive Order of Culture](https://www.japantimes.co.jp/news/2024/10/25/japan/order-of-culture-manga-artist/ "Tetsuya Chiba becomes first manga artist to receive Order of Culture")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
