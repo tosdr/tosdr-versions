@@ -401,6 +401,41 @@ The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN:
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
 
+Rainforest Match Active
+
+Double your impact against deforestation.
+
+Act now!
+
+[Give Today](#)
+
+X
+
+People & Forests
+
+Support nature’s guardians.  
+Act now!
+
+[Give Today](#)
+
+X
+
+Habitats Matter.
+
+Your gift helps protect vital forest habitats for wildlife.
+
+[Donate Today](#)
+
+X
+
+Save Forests Today!
+
+Your gift helps protect tropical forests!
+
+[Give Today](#)
+
+X
+
 Gifts Matched Today!
 
 Your donation today will be matched. Act now!
