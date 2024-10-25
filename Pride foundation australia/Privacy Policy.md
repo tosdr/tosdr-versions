@@ -310,6 +310,7 @@ Menu
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
+* [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
 
@@ -319,6 +320,7 @@ Menu
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
+* [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
 
@@ -352,6 +354,7 @@ Subscribe
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
+* [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
 
@@ -359,6 +362,7 @@ Subscribe
 * [Major Grant Recipients](https://pridefoundation.org.au/past-major-grant-recipients/)
 * [Small Grants](https://pridefoundation.org.au/small-grants/)
 * [Small Grant Recipients](https://pridefoundation.org.au/past-small-grant-recipients/)
+* [Grant Recipient Login](https://pridefoundation.org.au/grant-recipient-login/)
 * [Publications](https://pridefoundation.org.au/publications/)
 * [Financial Statements](https://pridefoundation.org.au/annual-financial-statements/)
 
