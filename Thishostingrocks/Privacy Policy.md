@@ -158,6 +158,17 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
 * [](https://thishosting.rocks/go/subscribe/ "Follow us on Email")
 * [](https://thishosting.rocks/community/ "Join our community on Slack")
 
+### Featured Review
+
+* [![Cloudways](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQAAAAA2RLUcAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBYMJAAABkAABxZvbSQAAAABJRU5ErkJggg==)
+    
+    ![Cloudways](https://thishosting.rocks/wp-content/uploads/2023/05/cloudways-50x50.png)](https://thishosting.rocks/cloudways-review/ "Cloudways")
+    
+    [Cloudways](https://thishosting.rocks/cloudways-review/ "Cloudways")
+    
+    9.7
+    
+
 ### Latest Reviews
 
 * [![Surf Hosting](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQAAAAA2RLUcAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBYMJAAABkAABxZvbSQAAAABJRU5ErkJggg==)
@@ -183,6 +194,17 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
     [Snappa](https://thishosting.rocks/snappa-review/ "Snappa")
     
     8.6
+    
+
+### Featured Review
+
+* [![Cloudways](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyAQAAAAA2RLUcAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBYMJAAABkAABxZvbSQAAAABJRU5ErkJggg==)
+    
+    ![Cloudways](https://thishosting.rocks/wp-content/uploads/2023/05/cloudways-50x50.png)](https://thishosting.rocks/cloudways-review/ "Cloudways")
+    
+    [Cloudways](https://thishosting.rocks/cloudways-review/ "Cloudways")
+    
+    9.7
     
 
   
