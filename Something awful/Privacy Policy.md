@@ -205,25 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Flowgo, Veritas Academy, Tickle Media Forum, and That Bird's Nest](https://www.somethingawful.com/weekend-web/flowgo-veritas-academy/1/)
-* [Give Your Pet A Treat!](https://www.somethingawful.com/comedy-goldmine/give-pet-treat/1/)
-* [CSNation, Teen Problems and Issues, PokeCommunity, and GoFuckYourself](https://www.somethingawful.com/weekend-web/csnation-teen-problems/1/)
-* [Historical Inaccuracies (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part-2/1/)
-* [Variety Pack #11: Full-sized Micro Machines and Customized Dream Jets!](https://www.somethingawful.com/photoshop-phriday/variety-pack-11/1/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [Jesus vs. NIN](https://www.somethingawful.com/icq-pranks/icq-transcript-jesus/1/)
+* [Flat Earth Society](https://www.somethingawful.com/weekend-web/flat-earth-society/1/)
+* [Dean v. Kwame](https://www.somethingawful.com/icq-pranks/kwame-kilpatrick-prank/1/)
+* [Remove One Lettr! (Part 2 of 3)](https://www.somethingawful.com/photoshop-phriday/remove-letter-lettr/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [what's your greatest talent and what has it gained you?](http://forums.somethingawful.com/showthread.php?threadid=4073571 "what's your greatest talent and what has it gained you?")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [HELP I think somebody is t](http://forums.somethingawful.com/showthread.php?threadid=4073517 "HELP I think somebody is t")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I guess some goons are Finnish?](http://forums.somethingawful.com/showthread.php?threadid=4073566 "I guess some goons are Finnish?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Letters and numbers vve dont really need](http://forums.somethingawful.com/showthread.php?threadid=4073545 "Letters and numbers vve dont really need")
 
 ### Random Articles
 
-* [Subj: THINGS I RAN AWAY FROM](https://www.somethingawful.com/news/roamin-dad-59/)
-* [Kingdom Come](https://www.somethingawful.com/awful-links/awful-link-2178/)
-* [Peak Oil is Not Healthy](https://www.somethingawful.com/news/peak-oil-not/)
-* [The Shopping Cart Retrieval Lady](https://www.somethingawful.com/news/shopping-cart-retrieval/)
-* [Plott Palm Trees (Thanks, M4rg4r1ne!)](https://www.somethingawful.com/awful-links/plott-palm-trees/)
+* [Pixie'z Page](https://www.somethingawful.com/awful-links/awful-link-730/)
+* [Welcome to 2020, Poverty 2.0!](https://www.somethingawful.com/news/poverty-20/)
+* [The Official Nancy Kerrigan Website](https://www.somethingawful.com/awful-links/awful-link-2204/)
+* [Joseph Fink's Web Zone](https://www.somethingawful.com/awful-links/awful-link-3796/)
+* [I Hate You Page 126](https://www.somethingawful.com/cliff-yablonski/i-hate-you-126/)
 
 [Random!](https://www.somethingawful.com/random/)
 
