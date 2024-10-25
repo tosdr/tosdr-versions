@@ -321,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.12/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.14/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -614,7 +614,7 @@ Sign up and enjoy these benefits!
 NETGEAR Terms and Conditions
 
 
---------------------------------
+================================
 
 **Please read these NETGEAR Terms and Conditions (“Terms and Conditions”) carefully. This agreement affects your rights.**  
   
