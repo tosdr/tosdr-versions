@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+    [](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
     
-    ![LazyFlock's New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
+    [](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
     
-    ![LazyFlock's New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/wp-content/uploads/2024/10/Rory-McIlroy-PGA-Tour_-A-Retrospective-Look-as-EA-Prepares-to-Shut-Down-Servers-on-January-16-2025.png)
+
+[Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 25, 2024/
+
+EA’s Rory McIlroy PGA Tour is shutting down its online services on January 16, 2025, effectively ending an era of…
+
+[Read More](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+
+![Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/wp-content/uploads/2024/10/Croc——-Legend-of-the-Gobbos-Remaster-Is-Skipping-Steam-but-Players-Can-Still-Play-on-PC.png)
+
+[Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 25, 2024/
+
+Argonaut Games recently confirmed that the beloved 1997 platformer Croc: Legend of the Gobbos will return in an HD remaster.…
+
+[Read More](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
+
 ![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
 
 [LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
@@ -218,32 +244,6 @@ October 22, 2024/
 As Alan Wake 2 nears its first anniversary, Remedy Entertainment has announced a massive update packed with community-requested features. Released…
 
 [Read More](https://player.me/alan-wake-2-anniversary-update/)
-
-![No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know](https://player.me/wp-content/uploads/2024/10/No-More-Room-in-Hell-2-Release-Date-Early-Access-and-Everything-You-Need-to-Know.png)
-
-[No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 21, 2024/
-
-After No More Room in Hell 2’s first appearance at the Summer Game Fest 2024, Lever Games and Torn Banner…
-
-[Read More](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/)
-
-![Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement](https://player.me/wp-content/uploads/2024/10/Valley-Peaks-Nintendo-Switch-Release-Indefinity-Delayed-After-April-2024-Announcement.png)
-
-[Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 21, 2024/
-
-Valley Peaks is a first-person, cozy platformer developed by Tub Club and published by Those Awesome Guys, known for games…
-
-[Read More](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/wp-content/uploads/2024/10/Rory-McIlroy-PGA-Tour_-A-Retrospective-Look-as-EA-Prepares-to-Shut-Down-Servers-on-January-16-2025.png)
+
+[Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 25, 2024/
+
+EA’s Rory McIlroy PGA Tour is shutting down its online services on January 16, 2025, effectively ending an era of…
+
+[Read More](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+
+![Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/wp-content/uploads/2024/10/Croc——-Legend-of-the-Gobbos-Remaster-Is-Skipping-Steam-but-Players-Can-Still-Play-on-PC.png)
+
+[Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 25, 2024/
+
+Argonaut Games recently confirmed that the beloved 1997 platformer Croc: Legend of the Gobbos will return in an HD remaster.…
+
+[Read More](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
+
 ![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
 
 [LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
@@ -379,32 +405,6 @@ October 21, 2024/
 Valley Peaks is a first-person, cozy platformer developed by Tub Club and published by Those Awesome Guys, known for games…
 
 [Read More](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
-
-![Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed](https://player.me/wp-content/uploads/2024/10/Subnautica-2-Is-Officially-Launching-in-2025-on-PC-and-Xbox-with-Early-Access-Release-Date-Unconfirmed.png)
-
-[Subnautica 2 Is Officially Launching in 2025 on PC and Xbox, with Early Access Release Date Unconfirmed](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 18, 2024/
-
-During the October 17, 2024, Xbox Partner Preview event, Krafton and Unknown Worlds Entertainment officially announced Subnautica 2. Slated for…
-
-[Read More](https://player.me/subnautica-2-is-launching-in-2025-on-pc-and-xbox/)
-
-![Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback](https://player.me/wp-content/uploads/2024/10/Phasmophobia-Console-Early-Access-Release-Date-Confirmed-on-October-29-but-with-a-Slight-Drawback.png)
-
-[Phasmophobia Console Early Access Release Date Confirmed on October 29, but with a Slight Drawback](https://player.me/phasmophobia-console-early-access-release-confirmed/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 18, 2024/
-
-Since its original PC launch in 2020, Phasmophobia has garnered a massive fanbase of aspiring ghost hunters and earned a…
-
-[Read More](https://player.me/phasmophobia-console-early-access-release-confirmed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world 
 
 player.me
 
+[](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/ "Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025")
+
+[Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+
+October 25, 2024
+
+[](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/ "Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC")
+
+[Croc: Legend of the Gobbos Remaster Is Skipping Steam, but Players Can Still Play on PC](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
+
+October 25, 2024
+
 [](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/ "LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs")
 
 [LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
@@ -853,22 +865,10 @@ October 22, 2024
 
 October 22, 2024
 
-[](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/ "No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know")
-
-[No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/)
-
-October 21, 2024
-
-[](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/ "Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement")
-
-[Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
-
-October 21, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 574,623 times, 7 visit(s) today
+Visited 574,691 times, 75 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
