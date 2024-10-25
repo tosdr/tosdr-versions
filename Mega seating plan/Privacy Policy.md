@@ -267,7 +267,7 @@ For further information, please refer to our [privacy policy](https://www.seatin
 
 [Climate](https://climate.stripe.com/g3LlrV)
 
-[Blog](https://www.seatingplan.com/blog)
+[Blog](https://blog.seatingplan.com/)
 
 [BRaiN Glue](https://brainglue.app/)
 
