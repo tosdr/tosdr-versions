@@ -2,6 +2,8 @@
 
 Previous
 
+[Limited time only! 30% off Instant Long-Wear Makeup Remover. Shop now.](https://www.bobbibrowncosmetics.com/14011/7321/skincare/makeup-remover/instant-long-wear-makeup-remover)
+
 [Get a free Crushed Lip Set on $85+ ($50 value). Use code: crush at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
@@ -265,6 +267,8 @@ HOLIDAY GIFT GUIDE
  [Special offers](https://www.bobbibrowncosmetics.com/offers-landing-page) Special offers 
 
 Special offers
+
+[30% off Instant Long-Wear Makeup Remover](https://www.bobbibrowncosmetics.com/product/14011/7321/skincare/makeup-remover/instant-long-wear-makeup-remover "30% off Instant Long-Wear Makeup Remover")
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
