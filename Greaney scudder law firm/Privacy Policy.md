@@ -138,19 +138,21 @@ Get In Touch
 Visit
 -----
 
-* 203 Madison Avenue
-* Kent, WA 98302
+[203 Madison Avenue](https://maps.app.goo.gl/Degroy38msicguh89)  
+[Kent, WA 98302](https://maps.app.goo.gl/Degroy38msicguh89)
 
 Start a conversation
 --------------------
 
-* [253-859-0220](tel:+1-253-859-0220)
+[253-859-0220](tel:+1-253-859-0220)
 
 * [Follow](https://www.facebook.com/Greaney.Law.Firm "Follow on Facebook")
 * [Follow](https://www.linkedin.com/company/greaney-law-firm/about/ "Follow on LinkedIn")
 
 Review Our Firm
 ---------------
+
+[Proudly serving residents across Kent and the greater Puget Sound area](https://www.greaneylaw.com/personal-injury-lawyer-in-kent-washington/)
 
 Copyright © – All rights reserved – Greaney Scudder Law – Website by [Assetlab](https://www.assetlab.us/)
 
