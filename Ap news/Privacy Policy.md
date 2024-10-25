@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [An Israeli airstrike on a journalist compound kills 3 TV staffers, Lebanon's state news says](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
-    * [Gangs in Haiti open fire and hit a UN helicopter midair as violence surges](https://apnews.com/article/haiti-gang-violence-boat-ammunition-viv-ansamn-c6f18eca38ec60a727b8d33308d8e1ef)
+    * [Israeli strikes kill 36 people in Gaza's Khan Younis and 3 journalists in southern Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
+    * [Georgia prepares for a divisive election which could determine its future in Europe](https://apnews.com/article/georgia-russia-election-georgian-dream-opposition-7514f5b099c6442c72c43e550e851f10)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
     * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [Erik and Lyle Menendez are a step closer to leaving prison, but freedom won't come quickly](https://apnews.com/article/california-menendez-brothers-erik-lyle-menendez-bafe4ca46b23751cfa7c4745e88f4edb)
+    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris says Trump 'is a fascist' after John Kelly says the former president wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Donald Trump tells supporters to 'just vote' at Georgia rally organized by Charlie Kirk](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
-    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
+    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
+    * [Trump says China's leader will bully Harris 'like a baby' as his allies try to infantilize her](https://apnews.com/article/trump-insults-harris-infantilize-baby-sexism-b2ab4c91580d87d843aa3b19f958a6e8)
+    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
     
     Newsletters
     
@@ -73,7 +73,7 @@ Menu
     TOP STORIES
     
     * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     
     Newsletters
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [A playwright in Africa hopes to break the cultural silence on rape](https://apnews.com/article/theater-culture-mali-rape-sexual-assault-836bb0cc9ea0c9f6dd54b42c1c994226)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
-    * [Argentine police raid the Buenos Aires hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Argentine police raid the hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
+    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
     
 * [Business](https://apnews.com/business)
     
@@ -127,7 +127,7 @@ Menu
     TOP STORIES
     
     * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
-    * [Asian stocks are mostly higher, while Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
+    * [World stocks are mixed as Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
     * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
     
 * [Science](https://apnews.com/science)
@@ -247,7 +247,7 @@ Menu
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
+    * [Warsaw opens a new modern art museum as it tries to leave Poland's communist legacy behind](https://apnews.com/article/poland-warsaw-modern-art-museum-2962d0b240b51cc98dc51484b6b92cf6)
     * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
-    * [For a Diwali treat with an American twist, a new cookbook serves up cardamom-spiced carrot blondies](https://apnews.com/article/diwali-dessert-recipe-cardamom-blondies-fe53549ed287c6ebf8f23a152e52ac1d)
-    * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
     
 * [Religion](https://apnews.com/religion)
     
@@ -295,10 +295,10 @@ Menu
     
     * [Ataque israelí a complejo con reporteros en Líbano mata a 3 empleados de televisión, según agencia](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Tres policías heridos por el estallido de un coche-bomba en el centro-oeste de México](https://apnews.com/article/mexico-bomba-acambaro-guanajuato-ca4d816a24fabf17b31c8caf2eddf223)
     * [Ecuador aumenta el racionamiento de energía con cortes diarios de 14 horas en plena crisis](https://apnews.com/article/ecuador-energia-cortes-gobierno-crisis-1141cef373614240232733ff0dca6ffb)
-    * [Putin concluye cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
-    * [¿Qué es el fascismo? ¿Y por qué Harris dice que Trump es un fascista?](https://apnews.com/article/eeuu-elecciones-fascismo-harris-trump-15549fd28cf5319eeee090a99ae262a0)
+    * [Zelenskyy afirma que Rusia desplegará tropas norcoreanas en los próximos días](https://apnews.com/article/rusia-ucrania-guerra-norcorea-soldados-e00f9671761aa806ed5211b295db725e)
+    * [Tormenta se aleja de Filipinas tras dejar 65 muertos y expertos advierten sobre un posible giro](https://apnews.com/article/tormenta-trami-filipinas-vietnam-6cc1c6dad3ad05ea79117e5a8e3eac4e)
+    * [Fiscal de la CPI que acusó a Netanyahu enfrenta denuncia por conducta sexual inapropiada](https://apnews.com/article/crimenes-de-guerra-cpi-abuso-sexual-metoo-a2fce840e3b781cbe5c6637fd0e23348)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [An Israeli airstrike on a journalist compound kills 3 TV staffers, Lebanon's state news says](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
-    * [Gangs in Haiti open fire and hit a UN helicopter midair as violence surges](https://apnews.com/article/haiti-gang-violence-boat-ammunition-viv-ansamn-c6f18eca38ec60a727b8d33308d8e1ef)
+    * [Israeli strikes kill 36 people in Gaza's Khan Younis and 3 journalists in southern Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [‘US doesn’t see me as an American’: Thousands of adoptees live in limbo without citizenship](https://apnews.com/article/adoption-citizenship-immigration-congress-0c71631786c35f7042ff99726e9dcd23)
+    * [Georgia prepares for a divisive election which could determine its future in Europe](https://apnews.com/article/georgia-russia-election-georgian-dream-opposition-7514f5b099c6442c72c43e550e851f10)
     
     Newsletters
     
@@ -480,7 +480,7 @@ Submit Search
     
     * [President Biden to apologize for 150-year Indian boarding school policy](https://apnews.com/article/indian-border-schools-apology-biden-haaland-701872132d7f191973d54cd05286ef75)
     * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [Erik and Lyle Menendez are a step closer to leaving prison, but freedom won't come quickly](https://apnews.com/article/california-menendez-brothers-erik-lyle-menendez-bafe4ca46b23751cfa7c4745e88f4edb)
+    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris says Trump 'is a fascist' after John Kelly says the former president wanted generals like Hitler's](https://apnews.com/article/trump-john-kelly-nazis-hitler-87d672e1ec1a6645808050fc60f6b8bc)
-    * [Donald Trump tells supporters to 'just vote' at Georgia rally organized by Charlie Kirk](https://apnews.com/article/turning-point-election-2024-donald-trump-2b3580134a6b19dff18771c3fdb0f11a)
-    * [Abortion bans are top of mind for young women in North Carolina as they consider Harris or Trump](https://apnews.com/article/abortion-election-harris-trump-women-north-carolina-f14edf1e33c367a430784f7848834514)
+    * [Harris to give her campaign's closing argument at the Ellipse, where Trump helped spark Capitol riot](https://apnews.com/article/harris-election-town-hall-pennsylvania-a92fd0dbad3cf635fb4d5c920d471967)
+    * [Trump says China's leader will bully Harris 'like a baby' as his allies try to infantilize her](https://apnews.com/article/trump-insults-harris-infantilize-baby-sexism-b2ab4c91580d87d843aa3b19f958a6e8)
+    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
     
     Newsletters
     
@@ -533,7 +533,7 @@ Submit Search
     TOP STORIES
     
     * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     * [Biden heads to Indian Country as Harris steps up appeal to Native American voters](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     
     Newsletters
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A playwright in Africa hopes to break the cultural silence on rape](https://apnews.com/article/theater-culture-mali-rape-sexual-assault-836bb0cc9ea0c9f6dd54b42c1c994226)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
-    * [Argentine police raid the Buenos Aires hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Argentine police raid the hotel where One Direction’s Liam Payne died](https://apnews.com/article/liam-payne-argentina-death-signer-one-direction-drugs-0446b9bae8582c414b464a986a80055a)
+    * [Beyoncé, whose ‘Freedom’ is Harris’ campaign anthem, is expected at Democrat's Texas rally on Friday](https://apnews.com/article/harris-beyonce-freedom-trump-reproductive-rights-texas-eb74ef99d0ab14f6feb3c9722aa26138)
     
 * [Business](https://apnews.com/business)
     
@@ -609,7 +609,7 @@ Submit Search
     TOP STORIES
     
     * [No end for Boeing labor strike as workers reject latest contract proposal](https://apnews.com/article/boeing-strike-vote-ca1326b3512b577bba76bee9e9e66a17)
-    * [Asian stocks are mostly higher, while Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
+    * [World stocks are mixed as Japan's Nikkei falls ahead of weekend election](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
     * [Tesla posts surprise $2.17 billion third-quarter profit, up 17.3% from a year ago](https://apnews.com/article/tesla-net-profit-sales-increase-faf86a8a3ebe236a7acec6cd222a1fb1)
     
 * [Science](https://apnews.com/science)
@@ -744,7 +744,7 @@ Submit Search
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
     * [What to know about E. coli and the McDonald's outbreak](https://apnews.com/article/e-coli-mcdonalds-outbreak-bacteria-quarter-pounder-080847096a6b7062b4fb17037393fc99)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights — hoping battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -777,9 +777,9 @@ Submit Search
     
     TOP STORIES
     
+    * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
+    * [Warsaw opens a new modern art museum as it tries to leave Poland's communist legacy behind](https://apnews.com/article/poland-warsaw-modern-art-museum-2962d0b240b51cc98dc51484b6b92cf6)
     * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
-    * [For a Diwali treat with an American twist, a new cookbook serves up cardamom-spiced carrot blondies](https://apnews.com/article/diwali-dessert-recipe-cardamom-blondies-fe53549ed287c6ebf8f23a152e52ac1d)
-    * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
     
 * [Religion](https://apnews.com/religion)
     
@@ -803,10 +803,10 @@ Submit Search
     
     * [Ataque israelí a complejo con reporteros en Líbano mata a 3 empleados de televisión, según agencia](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Tres policías heridos por el estallido de un coche-bomba en el centro-oeste de México](https://apnews.com/article/mexico-bomba-acambaro-guanajuato-ca4d816a24fabf17b31c8caf2eddf223)
     * [Ecuador aumenta el racionamiento de energía con cortes diarios de 14 horas en plena crisis](https://apnews.com/article/ecuador-energia-cortes-gobierno-crisis-1141cef373614240232733ff0dca6ffb)
-    * [Putin concluye cumbre de los BRICS con vistas a ampliar la influencia rusa](https://apnews.com/article/brics-rusia-putin-china-india-1478544f8f0a34e8dceebc1841a44349)
-    * [¿Qué es el fascismo? ¿Y por qué Harris dice que Trump es un fascista?](https://apnews.com/article/eeuu-elecciones-fascismo-harris-trump-15549fd28cf5319eeee090a99ae262a0)
+    * [Zelenskyy afirma que Rusia desplegará tropas norcoreanas en los próximos días](https://apnews.com/article/rusia-ucrania-guerra-norcorea-soldados-e00f9671761aa806ed5211b295db725e)
+    * [Tormenta se aleja de Filipinas tras dejar 65 muertos y expertos advierten sobre un posible giro](https://apnews.com/article/tormenta-trami-filipinas-vietnam-6cc1c6dad3ad05ea79117e5a8e3eac4e)
+    * [Fiscal de la CPI que acusó a Netanyahu enfrenta denuncia por conducta sexual inapropiada](https://apnews.com/article/crimenes-de-guerra-cpi-abuso-sexual-metoo-a2fce840e3b781cbe5c6637fd0e23348)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
