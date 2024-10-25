@@ -47,7 +47,7 @@ Manage Account
 * [My Referrals](https://www.samsung.com/us/web/account/my-referrals/)
 * [My Rewards](https://www.samsung.com/us/web/account/my-rewards/)
 * [Product Registration](https://www.samsung.com/us/support/register/)
-* [Samsung Account](https://v3.account.samsung.com/dashboard/profile)
+* [Samsung Account](https://v3.account.samsung.com/dashboard/)
 * [Log Out](javascript:;)
 
 Hamburger
