@@ -17,9 +17,9 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get BOGO Tickets Now for The Carpenter** In theaters November 1st. Get tickets early!](https://www.fandangomovietickets.com/thecarpenter?cmp=TARS~FANDANGO~The_Carpenter_BOGO_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Scream Worthy Savings** See classic horror movies and get deals near you
@@ -64,14 +64,6 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
-    
-    ### Popular Poster Pack
-    
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
-    
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
-    
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
     ### Seize the We Are Venom Bundle
@@ -79,6 +71,14 @@ Offers
     Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
+    
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+    
+    ### Popular Poster Pack
+    
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 * [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
@@ -197,6 +197,16 @@ New & Coming soon
 
 Close
 
+![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
+
+#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
+
+We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
+
+### SPECIAL OFFER
+
+Close
+
 ![Popular Poster Pack](https://images.fandango.com/cms/assets/351a2720-8db8-11ef-a588-3b078e6b3d8a--fan-globalnavbar-wickedbundle-343x362.png)
 
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
@@ -212,16 +222,6 @@ Close
 #### Purchase a ticket to Wicked in IMAX and get a Wicked Collector's Pin Pack! While supplies lasts. See terms for details.
 
 Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
-
-### SPECIAL OFFER
-
-Close
-
-![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
-
-#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
-
-We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
 
 ### Get BOGO Tickets Now for The Carpenter
 
