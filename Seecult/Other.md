@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2007/2008/36-g.jpg?itok=hj6_2Y6j)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20072008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa/peta-scena-frontalni-prizor.jpg?itok=nPYEtcgL)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/dobar-dan-gospodine-noa/dobar-dan-gospodine-noa)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/brajan-feri-sava-centar-71007/bryan-ferry-010.jpg?itok=8zAhykHh)](http://seecult.org/galerija/foto-galerija/foto-arhiva/brajan-feri-sava-centar-71007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kristalni-globus.jpg?itok=5_3oxPI7)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -446,6 +446,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
 * [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
 * [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
 * [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
@@ -455,7 +456,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
 * [Aktivitet: 100 godina nadrealizma](http://seecult.org/vest/aktivitet-100-godina-nadrealizma)
 * [Pejaković novi direktor Drame SNP-a, Aja Jung direktorka Baleta](http://seecult.org/vest/pejakovic-novi-direktor-drame-snp-aja-jung-direktorka-baleta)
-* [Šta bi bio život da nema reči](http://seecult.org/vest/sta-bi-bio-zivot-da-nema-reci)
 
 * [Konkursi](#tab1_1)
 
