@@ -252,6 +252,7 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
 * [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
 * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+* [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 
 ##### Media
 
@@ -409,6 +410,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
         * [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
         * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+        * [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
     * Media
         * [Press releases](https://www.tenable.com/media#press-releases)
         * [Financial news releases](https://investors.tenable.com/news-releases)
