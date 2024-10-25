@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+1. [![Jennifer Gledhill, Matthew Johnson](https://am23.mediaite.com/lc/cnt/uploads/2024/10/gledhill-432x243.jpg)](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
+    
+    ### [In wild twist, parents accused of helping alleged killer daughter buy new mattress from Amazon after her national guardsman husband learned of affair and was shot in his sleep](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
+    
+2. [![Top inset: David Paul Daniel's booking photo (Catawba County Sheriff's Office). Bottom inset: Daniel at the U.S. Capitol building on Jan. 6, 2021. (U.S. Attorney). Background: A screenshot shows Daniel inside the U.S. Capitol building on Jan. 6, 2021, authorities said. (U.S. Attorney).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/daniel-432x243.jpg)](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
+    
+    ### [Jan. 6 riot suspect facing charges of child pornography possession, sexual exploitation of a minor](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
+    
+3. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
     ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-2. [![John Burgos](https://am21.mediaite.com/lc/cnt/uploads/2024/10/John-Burgos-432x243.jpg)](https://lawandcrime.com/crime/idiot-angry-that-power-hadnt-returned-after-hurricane-milton-takes-frustrations-out-by-shooting-his-dog-to-death-cops/)
+4. [![Inset: Angel Schonabaum (Vanderburgh County Jail). Background: The Evansville, Indiana, home where an infant suffered 50 rat bites (WEHT).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/rats-432x243.jpg)](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
     
-    ### ['Idiot' angry that power hadn't returned after Hurricane Milton takes frustrations out by shooting his dog to death: Cops](https://lawandcrime.com/crime/idiot-angry-that-power-hadnt-returned-after-hurricane-milton-takes-frustrations-out-by-shooting-his-dog-to-death-cops/)
+    ### [Mother of baby found with over 50 rat bites and ‘very near to death' just got no prison time](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
     
-3. [![Jeffrey Clark](https://am24.mediaite.com/lc/cnt/uploads/2021/08/Jeffrey-Clark-432x243.jpg)](https://lawandcrime.com/high-profile/not-a-get-out-of-state-court-free-card-mark-meadows-failure-to-remove-georgia-rico-case-to-federal-court-comes-back-to-haunt-jeffrey-clark-too/)
+5. [![File Photo by: zz/ESBP/STAR MAX/IPx 2017 5/1/17 Sean P. Diddy Combs at the 2017 Costume Institute Benefit Gala celebrating the opening of the exhibition ](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Sean-Combs-432x243.jpg)](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
     
-    ### ['Not a get-out-of-state-court-free card': Mark Meadows' failure to remove Georgia RICO case to federal court comes back to haunt Jeffrey Clark, too](https://lawandcrime.com/high-profile/not-a-get-out-of-state-court-free-card-mark-meadows-failure-to-remove-georgia-rico-case-to-federal-court-comes-back-to-haunt-jeffrey-clark-too/)
-    
-4. [![Left: Hunter M. Buckentine (Sherburne County Jail). Right: Jordan Kramer (Iten Funeral Home).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/aaaaaaaaaa-432x243.jpg)](https://lawandcrime.com/crime/new-record-man-who-posted-photo-of-speedometer-at-150-mph-to-snapchat-moments-before-causing-fatal-crash-learns-his-fate/)
-    
-    ### ['New record': Man who posted photo of speedometer at 150 mph to Snapchat moments before causing fatal crash learns his fate](https://lawandcrime.com/crime/new-record-man-who-posted-photo-of-speedometer-at-150-mph-to-snapchat-moments-before-causing-fatal-crash-learns-his-fate/)
-    
-5. [![Background: The Hells Angels Vallejo (California) clubhouse (Google Maps). Inset: Kenneth Caspers Jr. (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Kenneth-Caspers-Jr.-Hells-Angels-Vallejo-clubhouse-432x243.jpg)](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
-    
-    ### [Hells Angels member who allegedly 'walked through' and mopped up blood of victim in vicious beating pleads guilty to weapons charges](https://lawandcrime.com/crime/hells-angels-member-who-allegedly-walked-through-and-mopped-up-blood-of-victim-in-vicious-beating-pleads-guilty-to-weapons-charges/)
+    ### ['The Court's intervention is critical': Diddy and the feds are fighting over just how far a gag order should go to crack down on 'leaks' in RICO and sex trafficking case](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
     
 
 [](http://eepurl.com/c89Jdb)
