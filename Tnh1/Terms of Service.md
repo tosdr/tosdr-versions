@@ -218,7 +218,15 @@ Maceió
 
 Prefeitura de Maceió antecipa salário de servidores municipais; veja data
 
-Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
+Prefeitura de Maceió antecipa salário de servidores municipais; veja data](https://www.tnh1.com.br/noticia/nid/prefeitura-de-maceio-antecipa-salario-de-servidores-municipais-veja-data/ "Prefeitura de Maceió antecipa salário de servidores municipais; veja data")[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
+
+estampou revistas
+
+estampou revistas
+
+Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo
+
+Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
 
 em maceió
 
@@ -226,49 +234,41 @@ em maceió
 
 Ministério Público Federal pede intervenção no Hospital Veredas
 
-Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/4/csm_confusao_petropolis_-_foto_video_d7a5b1303e.png)
+Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")
 
-Ao menos um ferido
+[![Demência pugilística: entenda o que é a doença que afetou Maguila](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/b/csm_maguila-morte-reproducao-redes-sociais__2__4764ef3e5b.png)
 
-Ao menos um ferido
+Saúde
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió
+Saúde
 
-Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió](https://www.tnh1.com.br/noticia/nid/videos-briga-entre-integrantes-de-organizadas-tem-tiros-e-correria-em-maceio/ "Vídeos: briga entre integrantes de organizadas tem tiros e correria em Maceió")
+Demência pugilística: entenda o que é a doença que afetou Maguila
 
-[![Meta AI no WhatsApp vai usar seus dados para treinar robôs?](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_csm_whatsapp-foto-reproducao_80f43974df_3b5ef250b5.jpg)
+Demência pugilística: entenda o que é a doença que afetou Maguila](https://www.tnh1.com.br/noticia/nid/demencia-pugilistica-entenda-o-que-e-a-doenca-que-afetou-maguila/ "Demência pugilística: entenda o que é a doença que afetou Maguila")[![Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/7/csm_rivaldo-barbosa-presta-depoimento-ao-stf-1729793229605_v2_450x450.jpg_e1b0dafddf.jpg)
 
-Tecnologia
+está preso
 
-Tecnologia
+está preso
 
-Meta AI no WhatsApp vai usar seus dados para treinar robôs?
+Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora
 
-Meta AI no WhatsApp vai usar seus dados para treinar robôs?](https://www.tnh1.com.br/noticia/nid/meta-ai-no-whatsapp-vai-usar-seus-dados-para-treinar-robos/ "Meta AI no WhatsApp vai usar seus dados para treinar robôs?")[![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_84e9c021ce.jpeg)
+Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora](https://www.tnh1.com.br/noticia/nid/delegado-compara-prisao-no-caso-marielle-a-assassinato-e-diz-ter-gratidao-a-vereadora/ "Delegado compara prisão no caso Marielle a assassinato e diz ter gratidão à vereadora")[![Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/d/csm_angel-salazar-reproducao_aea3a5b1c9.jpg)
 
-EM SÃO BRÁS
+ator cubano
 
-EM SÃO BRÁS
+ator cubano
 
-Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada
+Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente
 
-Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")[![Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/a/csm_Apri__gio__Podemos___candidato_a_Prefeitura_de_Taboao_da_Serra_-_Foto_Reproducao_-_Instagram_1a6d7a93f8_ebbfc70d58.jpg)
+Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente](https://www.tnh1.com.br/noticia/nid/causa-da-morte-de-astro-de-scarface-e-divulgada-com-motivo-surpreendente/ "Causa da morte de astro de 'Scarface' é divulgada com motivo surpreendente")[![DIU hormonal pode causar câncer de mama? Entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_diu-hormonal-reproducao-freepik_39a922b84d.jpg)
 
-Brasil
+Saúde
 
-Brasil
+Saúde
 
-Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia
+DIU hormonal pode causar câncer de mama? Entenda
 
-Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia](https://www.tnh1.com.br/noticia/nid/ataque-contra-prefeito-alagoano-em-sao-paulo-foi-planejado-diz-policia/ "Ataque contra prefeito alagoano em São Paulo foi planejado, diz polícia")[![Mineira de 3 anos tem condição tão rara que ainda não tem nome](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/8/csm_mineira-liz-nasce-condicao-rara-reproducao-arquivo-pessoal_f3786051fe.jpg)
-
-criança especial
-
-criança especial
-
-Mineira de 3 anos tem condição tão rara que ainda não tem nome
-
-Mineira de 3 anos tem condição tão rara que ainda não tem nome](https://www.tnh1.com.br/noticia/nid/mineira-de-3-anos-tem-condicao-tao-rara-que-ainda-nao-tem-nome/ "Mineira de 3 anos tem condição tão rara que ainda não tem nome")
+DIU hormonal pode causar câncer de mama? Entenda](https://www.tnh1.com.br/noticia/nid/diu-hormonal-pode-causar-cancer-de-mama-entenda/ "DIU hormonal pode causar câncer de mama? Entenda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
