@@ -255,15 +255,15 @@ FR
         
         Recommended Stores
         
-        [Clearly
+        [Aveda
+        
+        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 10% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
         3% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
-        $3 Cash Back](https://www.rakuten.ca/weight-watchers-canada)[Aveda
-        
-        3% Cash Back](https://www.rakuten.ca/aveda)[TSC
+        $3 Cash Back](https://www.rakuten.ca/weight-watchers-canada)[TSC
         
         1.5% Cash Back](https://www.rakuten.ca/tsc)
         
