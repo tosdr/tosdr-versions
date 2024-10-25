@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180877506.jpg?ve=1&tl=1)
+ [![NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/10/32/18/screenshot-2024-10-25-055916.png?ve=1&tl=1)
 
- ![Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180877506.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/seguin-duchene-have-goal-2-assists-each-stars-down-bruins-5-2)
+ ![NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-25-055916.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-crew-8-splashdown)
 
-### [Seguin and Duchene have a goal and 2 assists each and Stars down Bruins 5-2](https://www.fox4news.com/sports/seguin-duchene-have-goal-2-assists-each-stars-down-bruins-5-2)
+### [NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://www.fox4news.com/news/nasa-crew-8-splashdown)
 
- [![Fire extinguished at Pier 121 Marina in Lewisville](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/lewisville-fire.jpg?ve=1&tl=1)
+ [![Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-1390568553.jpg?ve=1&tl=1)
 
- ![Fire extinguished at Pier 121 Marina in Lewisville](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/lewisville-fire.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pier-121-marina-lewisville-catches-fire)
+ ![Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-1390568553.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/austin-fc-nico-estevez-new-head-coach)
 
-### [Fire extinguished at Pier 121 Marina in Lewisville](https://www.fox4news.com/news/pier-121-marina-lewisville-catches-fire)
+### [Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://www.fox4news.com/sports/austin-fc-nico-estevez-new-head-coach)
 
- [![State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/roberson-paxton.jpg?ve=1&tl=1)
+ [![McDonald's E. coli outbreak expands: At least 75 now sickened](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180538535-scaled.jpg?ve=1&tl=1)
 
- ![State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/roberson-paxton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/robert-roberson-update-oct-25)
+ ![McDonald's E. coli outbreak expands: At least 75 now sickened](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180538535-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-latest-quarter-pounders-onions)
 
-### [State lawmakers to Ken Paxton: 'We won't quit' looking into Robert Roberson case](https://www.fox4news.com/news/robert-roberson-update-oct-25)
+### [McDonald's E. coli outbreak expands: At least 75 now sickened](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-latest-quarter-pounders-onions)
 
- [![Frozen waffle recall over listeria concerns expanded: see the product list](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/recalled-products.jpg?ve=1&tl=1)
+ [![Video shows how quickly a distracted driver caused a 9-car pileup](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/driver.jpg?ve=1&tl=1)
 
- ![Frozen waffle recall over listeria concerns expanded: see the product list](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/recalled-products.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frozen-waffle-recall-2024-expanded-october-listeria)
+ ![Video shows how quickly a distracted driver caused a 9-car pileup](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/driver.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/distracted-driver-crash-oklahoma)
 
-### [Frozen waffle recall over listeria concerns expanded to include pancakes: see the product list](https://www.fox4news.com/news/frozen-waffle-recall-2024-expanded-october-listeria)
+### [Video shows how quickly a distracted driver caused a 9-car pileup](https://www.fox4news.com/news/distracted-driver-crash-oklahoma)
 
- [![Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180873728.jpg?ve=1&tl=1)
+ [![VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-2180881108.jpg?ve=1&tl=1)
 
- ![Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180873728.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-mavericks-spurs-oct-25)
+ ![VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180881108.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
 
-### [Doncic scores 28, Thompson adds 22 in Dallas debut as Mavs top Spurs 120-109](https://www.fox4news.com/sports/dallas-mavericks-spurs-oct-25)
+### [VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
 
 ###### [News](https://www.fox4news.com/news)
 
