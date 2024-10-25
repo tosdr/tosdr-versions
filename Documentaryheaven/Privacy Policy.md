@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Les Stroud: Off the Grid](/wp-content/thumbnails/757-100x70.png?x53432)
+* [![The Things I See: Living with Psychosis](/wp-content/thumbnails/13849-100x70.jpg?x53432)
     
-    Les Stroud: Off the Grid
+    The Things I See: Living with Psychosis
     
-    Thoreau said that if an emergency struck, a man should be able to leave his home with nothing more than the clothing on his back and feel like he left nothing behind. Self sufficiency is almost imposs](https://documentaryheaven.com/les-stroud-off-the-grid/ "Les Stroud: Off the Grid")
-* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
+    A short film by the BBC which sees three people sit down and tell their stories of living with mental health conditions and how they individually manage and deal with delusions which vary from the biz](https://documentaryheaven.com/things-see-living-with-psychosis/ "The Things I See: Living with Psychosis")
+* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
     
-    Reality and the Extended Mind
+    The Mary Bell Case
     
-    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
-* [![Swallowed by a Black Hole](/wp-content/thumbnails/8011-100x70.jpg?x53432)
+    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
+* [![Saving Egypts Oldest Pyramid](/wp-content/thumbnails/8597-100x70.jpg?x53432)
     
-    Swallowed by a Black Hole
+    Saving Egypts Oldest Pyramid
     
-    This summer, the black hole at the centre of the Milky Way is getting ready to feast.A gas cloud three times the size of our planet has strayed within the gravitational reach of our nearest superm](https://documentaryheaven.com/swallowed-black-hole/ "Swallowed by a Black Hole")
-* [![The Fabulous Life Of Billion Dollar Wall Street Ballers](/wp-content/thumbnails/3820-100x70.jpg?x53432)
+    In the sands of the Sahara stands one of our greatest legacies, the oldest stone structure of it's kind in the world, a hundred years older than it's famous cousin, the Great Pyramid of Giza, the step](https://documentaryheaven.com/saving-egypts-oldest-pyramid/ "Saving Egypts Oldest Pyramid")
+* [![The Brain: A Secret History](/wp-content/thumbnails/5930-100x70.jpg?x53432)
     
-    The Fabulous Life Of Billion Dollar Wall Street Ballers
+    The Brain: A Secret History
     
-    Ever thought about how those Wallstreet Brokers lived, while speculating with your money and burning it in the financial crisis? In this documentary you see the homes of Billionaires and multi Million](https://documentaryheaven.com/the-fabulous-life-of-billion-dollar-wall-street-ballers/ "The Fabulous Life Of Billion Dollar Wall Street Ballers")
-* [![The Maze Prison Escape](/wp-content/thumbnails/5165-100x70.jpg?x53432)
+    In a compelling and at times disturbing series, Dr Michael Mosley explores the brutal history of experimental psychology.Mosley embarks on three journeys to understand science’s last great frontier](https://documentaryheaven.com/the-brain-a-secret-history/ "The Brain: A Secret History")
+* [![Unforgiven: The Boys Who Killed Jamie Bulger](/wp-content/thumbnails/13858-100x70.jpg?x53432)
     
-    The Maze Prison Escape
+    Unforgiven: The Boys Who Killed Jamie Bulger
     
-    Documentary on The Maze Prison Escape in the Early 1980s. 36 IRA Men in Block 7 escaped from Europes most secure prison based inside a British Military Facility just outside Lisburn.This escape took](https://documentaryheaven.com/the-maze-prison-escape/ "The Maze Prison Escape")
+    This episode of Dispatches from Channel 4 examines the crime which shook Britain to its very core, the murder of 2 year old James Bulger in 1993. More specifically it sets sights on James' killers Rob](https://documentaryheaven.com/unforgiven-boys-who-killed-jamie-bulger/ "Unforgiven: The Boys Who Killed Jamie Bulger")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
