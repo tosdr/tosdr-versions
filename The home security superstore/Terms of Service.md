@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off SPY CAMERAS I Use Code: SPY15](https://www.thehomesecuritysuperstore.com/collections/spy-cameras?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SPY+CAMERAS)
+[Buy 1 Get 1 Free Keychain Stun Guns I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-keychain-stun-guns?utm_source=Top&utm_medium=Banner&utm_campaign=Daily+Deal%3A+Keychain+Stun+Guns+BOGO&utm_id=Website)
 
-TODAY'S OFFER: :: | 15% Off SPY CAMERAS I Use Code: SPY15
+TODAY'S OFFER: :: | Buy 1 Get 1 Free Keychain Stun Guns I Click Here!
 
 TODAY'S OFFER: : :
 
- 15% Off SPY CAMERAS I Use Code: SPY15
+ Buy 1 Get 1 Free Keychain Stun Guns I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
