@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
     * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
-    * [Maharashtra Elections](https://www.news18.com/elections/)
+    * [Waaree Energies IPO](https://www.news18.com/business/ipo/waaree-energies-ipo-allotment-finalised-gmp-indicates-100-profit-for-investors-check-listing-date-9097742.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
     * [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
-    * [Kriti Sanon](https://www.news18.com/movies/kriti-sanon-recalls-relatives-treating-her-and-nupur-differently-it-angered-me-exclusive-9096659.html)
+    * [Arjun Kapoor](https://www.news18.com/movies/arjun-kapoor-shares-a-cryptic-post-on-malaika-aroras-birthday-never-forget-who-9098100.html)
     * [Diwali 2024](https://www.news18.com/topics/diwali/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -172,10 +172,10 @@ In Trends:
 
 * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
 * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
-* [Maharashtra Elections](https://www.news18.com/elections/)
+* [Waaree Energies IPO](https://www.news18.com/business/ipo/waaree-energies-ipo-allotment-finalised-gmp-indicates-100-profit-for-investors-check-listing-date-9097742.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
 * [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
-* [Kriti Sanon](https://www.news18.com/movies/kriti-sanon-recalls-relatives-treating-her-and-nupur-differently-it-angered-me-exclusive-9096659.html)
+* [Arjun Kapoor](https://www.news18.com/movies/arjun-kapoor-shares-a-cryptic-post-on-malaika-aroras-birthday-never-forget-who-9098100.html)
 * [Diwali 2024](https://www.news18.com/topics/diwali/)
 
 * Follow Us
