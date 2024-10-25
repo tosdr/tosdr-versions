@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -169,6 +169,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Вкусной еде рады везде! Лучшие рецепты НА ВЫХОДНЫЕ №24-43](https://www.russianfood.com/reading/?post_id=22775) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/683/sm_682646.jpg)](https://www.russianfood.com/reading/?post_id=22775)
+
+Картофель, запечённый с творогом. Индейка с морковью. Мясная запеканка с брокколи. Рыбная запеканка с брокколи и цветной капустой. Рыбные котлеты с йогуртом. Курица с вишней и беконом. Куриная печень с яблоками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22775)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22775#comments) | 25.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Небанально, просто, вкусно. Лучшие рецепты из РЫБЫ (26)](https://www.russianfood.com/reading/?post_id=22774) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/704/sm_703271.jpg)](https://www.russianfood.com/reading/?post_id=22774)
+
+Рыба с грибным соусом и сыром. Рыба с капустой. Салат "Мимоза" со скумбрией. Рыбные котлеты с баклажаном. Суп с рыбными фрикадельками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22774)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22774#comments) | 25.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусное настроение в каждом блюде. Время КАПУСТЫ (20)](https://www.russianfood.com/reading/?post_id=22773) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/705/sm_704044.jpg)](https://www.russianfood.com/reading/?post_id=22773)
+
+Голубцы из пекинской капусты с картошкой. Курица с брокколи в сметане. Капустный салат с колбасой. Рыба с цветной капустой. Крем-суп из брокколи с сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22773)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22773#comments) | 25.10.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Невероятные ароматы. Лучшие рецепты для начинающих №24-43](https://www.russianfood.com/reading/?post_id=22771) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/746/sm_745581.jpg)](https://www.russianfood.com/reading/?post_id=22771)
@@ -221,7 +263,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174614#comments) | 24.10.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174614#comments) | 24.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -291,7 +333,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174428#comments) | 24.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174428#comments) | 24.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -319,7 +361,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174339#comments) | 24.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174339#comments) | 24.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -334,48 +376,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173857#comments) | 23.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Котлеты, запечённые в пергаменте](https://www.russianfood.com/recipes/recipe.php?rid=173946) |     |
-
-[![Фото к рецепту: Котлеты, запечённые в пергаменте](//img1.russianfood.com/dycontent/images_upl/736/sm_735823.jpg "Фото к рецепту: Котлеты, запечённые в пергаменте")](https://www.russianfood.com/recipes/recipe.php?rid=173946)
-
-Фарш из говядины, сала, лука и чеснока смешивается с яйцом и манной крупой. Затем формируются котлеты, которые по одной заворачиваются в пергамент и запекаются. Эти котлеты, запечённые в пергаменте, отличаются особенной сочностью.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173946)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173946#comments) | 23.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Домашние кукурузные палочки](https://www.russianfood.com/recipes/recipe.php?rid=174307) |     |
-
-[![Фото к рецепту: Домашние кукурузные палочки](//img1.russianfood.com/dycontent/images_upl/746/sm_745579.jpg "Фото к рецепту: Домашние кукурузные палочки")](https://www.russianfood.com/recipes/recipe.php?rid=174307)
-
-Домашние кукурузные палочки готовятся без добавления яиц и сливочного масла. Такие кукурузные палочки получаются слегка хрустящими снаружи и мягкими внутри. По вкусу палочки отличаются от магазинных - они больше напоминают воздушное печенье.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174307)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174307#comments) | 23.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Творожная запеканка с цукатами (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174323) |     |
-
-[![Фото к рецепту: Творожная запеканка с цукатами (без муки)](//img1.russianfood.com/dycontent/images_upl/741/sm_740551.jpg "Фото к рецепту: Творожная запеканка с цукатами (без муки)")](https://www.russianfood.com/recipes/recipe.php?rid=174323)
-
-Эта творожная запеканка готовится без добавления муки. Благодаря аккуратно введенным в тесто взбитым белкам и манной крупе запеканка получается пышной. По мере остывания она немного осядет, но останется нежной. Цукаты и изюм делают такую запеканку ещё аппетитнее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174323)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174323#comments) | 23.10.24 |     |
 
 |     |
 | --- |
@@ -448,10 +448,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744567.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174569) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741167.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174424) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737499.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173003) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742828.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174240) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744001.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174540) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745581.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174614) |
-| [Овощной суп с чечевицей и кускусом](https://www.russianfood.com/recipes/recipe.php?rid=174569) | [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [Гуляш из курицы в томатно-йогуртовой подливе](https://www.russianfood.com/recipes/recipe.php?rid=174424) | [Пирожки с морковью и апельсином, из "хрущёвского" теста (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173003) | [Грибной суп с кукурузной полентой](https://www.russianfood.com/recipes/recipe.php?rid=174240) | [Закусочный пирог из лаваша с колбасой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174540) | [Сладкий перец с фаршем, запечённый в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174614) |
-| [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742801.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174428) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736473.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745226.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174638) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735823.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173946) |
-| [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Томатный суп с фаршем и баклажанами](https://www.russianfood.com/recipes/recipe.php?rid=174428) | [Салат с жареными помидорами, зеленью и йогуртовой заправкой](https://www.russianfood.com/recipes/recipe.php?rid=173448) | [Картофельные котлеты с квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174638) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Котлеты, запечённые в пергаменте](https://www.russianfood.com/recipes/recipe.php?rid=173946) |
+| [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735823.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173946) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744567.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174569) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737499.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173003) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745581.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174614) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742692.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174339) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742801.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174428) |
+| [Котлеты, запечённые в пергаменте](https://www.russianfood.com/recipes/recipe.php?rid=173946) | [Овощной суп с чечевицей и кускусом](https://www.russianfood.com/recipes/recipe.php?rid=174569) | [Пирожки с морковью и апельсином, из "хрущёвского" теста (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173003) | [Сладкий перец с фаршем, запечённый в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174614) | [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [Тыквенный суп с луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174339) | [Томатный суп с фаршем и баклажанами](https://www.russianfood.com/recipes/recipe.php?rid=174428) |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742828.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174240) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745226.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174638) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744001.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174540) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745579.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174307) | [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741167.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174424) |
+| [Грибной суп с кукурузной полентой](https://www.russianfood.com/recipes/recipe.php?rid=174240) | [Картофельные котлеты с квашеной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174638) | [Закусочный пирог из лаваша с колбасой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174540) | [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [Домашние кукурузные палочки](https://www.russianfood.com/recipes/recipe.php?rid=174307) | [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Гуляш из курицы в томатно-йогуртовой подливе](https://www.russianfood.com/recipes/recipe.php?rid=174424) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -468,4 +468,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(113)
+(127)
