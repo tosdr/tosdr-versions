@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b46a788b-34ef-426f-8bb9-a6f8eeec201f/20241025T044714/b46a788b-34ef-426f-8bb9-a6f8eeec201f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b46a788b-34ef-426f-8bb9-a6f8eeec201f/20241025T044714/b46a788b-34ef-426f-8bb9-a6f8eeec201f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/suspected-lightning-strike-house-fire-rock-island/526-7fc4d01c-e397-402e-8b47-e07bac7f212e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12/20241025T140801/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12/20241025T140801/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12_360x203.jpg)](https://www.wqad.com/article/news/local/mcmanus-orthodontics-coloring-sweepstakes-winners/526-a8d421b9-9434-4e8d-8ea4-f6bce6cd26e9)
         
-        #### [Suspected lightning strike leads to house fire in Rock Island](https://www.wqad.com/article/news/local/public-safety/suspected-lightning-strike-house-fire-rock-island/526-7fc4d01c-e397-402e-8b47-e07bac7f212e)
+        #### [McManus Orthodontics Coloring Sweepstakes 2024 Winners](https://www.wqad.com/article/news/local/mcmanus-orthodontics-coloring-sweepstakes-winners/526-a8d421b9-9434-4e8d-8ea4-f6bce6cd26e9)
         
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a121a1b5-1890-4743-b8f9-8d64c359e234/a121a1b5-1890-4743-b8f9-8d64c359e234_360x203.jpg)](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_360x203.jpg)](https://www.wqad.com/article/news/health/air-ems-filling-gaps-rural-ambulance-services-iowa/526-15481e66-83c3-4ac1-a7c5-844ee6c28dd5)
         
-        #### [Body of female found in Mississippi River near Davenport](https://www.wqad.com/article/news/local/body-found-mississippi-river-davenport-iowa/526-d5cff241-5be7-4245-96f5-f8578045a17a)
+        #### [Air EMS filling in the gaps for rural ambulance services](https://www.wqad.com/article/news/health/air-ems-filling-gaps-rural-ambulance-services-iowa/526-15481e66-83c3-4ac1-a7c5-844ee6c28dd5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-59°
+60°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
