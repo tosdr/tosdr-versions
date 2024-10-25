@@ -186,11 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Chris Tadvick](https://cdn.returningveterans.org/images/honor/Chris_Tadvick.jpg)  
+![Bert S. Adams](https://cdn.returningveterans.org/images/honor/Bert_Adams_copy_2.jpg)  
 
-**In Honor of Chris Tadvick**  
-United States Marine Corps  
-Submitted by John Radford](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Bert S. Adams**  
+United States Army  
+Submitted by Beth Adams](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/25/24 - 8:31:00  
+Printed 10/25/24 - 2:21:44  
 © 2024 Returning Veterans Project
