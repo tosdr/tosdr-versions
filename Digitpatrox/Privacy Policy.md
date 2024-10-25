@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, October 24 2024
+Friday, October 25 2024
 
 Latest
 
-* [Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
-* [Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
-* [Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
-* [Where next for private cloud networks?](https://digitpatrox.com/where-next-for-private-cloud-networks/)
-* [Master Affiliate Marketing & Watch Your Income Grow](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
-* [Lemokey X5 review | Tom’s Guide](https://digitpatrox.com/lemokey-x5-review-toms-guide/)
-* [New Qilin ransomware encryptor features stronger encryption, evasion](https://digitpatrox.com/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
-* [A new iMessage safety feature prompts kids to report explicit images to Apple](https://digitpatrox.com/a-new-imessage-safety-feature-prompts-kids-to-report-explicit-images-to-apple/)
-* [Pokemon Bronze Forever Codes (October 2024)](https://digitpatrox.com/pokemon-bronze-forever-codes-october-2024/)
-* [Vendor Spotlight: Cyscale](https://digitpatrox.com/vendor-spotlight-cyscale/)
+* [Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
+* [White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
+* [What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
+* [What is YouTube Restricted Mode? (And how to use it)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
+* [Best SUV and Truck Tires of 2024](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
+* [OxygenOS 15 Will Bring Android 15 to OnePlus Phones](https://digitpatrox.com/oxygenos-15-will-bring-android-15-to-oneplus-phones/)
+* [ROI from AI projects has nosedived – how can IT leaders deliver success?](https://digitpatrox.com/roi-from-ai-projects-has-nosedived-how-can-it-leaders-deliver-success/)
+* [5 Best AI Writing Tools: Supercharge Your Content Creation](https://digitpatrox.com/5-best-ai-writing-tools-supercharge-your-content-creation/)
+* [MSI Codex R2 review: 1080p gaming on a budget](https://digitpatrox.com/msi-codex-r2-review-1080p-gaming-on-a-budget/)
+* [Henry Schein discloses data breach a year after ransomware attack](https://digitpatrox.com/henry-schein-discloses-data-breach-a-year-after-ransomware-attack/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Henry-Schein-data-breach-victims-now-number-166K-up-from-29K.jpg)](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
+* [![](https://cdn.mos.cms.futurecdn.net/wLscK3G4U8MWPJsqTQn7Ti-1200-80.jpg)](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
     
-    [Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
+    [Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
     
-    7 mins ago
+    2 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728574147/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Self-Watering-Plants-10-24)](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3587124-0-30299000-1729800511-shutterstock_771480628.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
     
-    [Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
+    [White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
     
-    30 mins ago
+    24 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/34.jpg)](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
+* [![](https://lifehacker.com/imagery/articles/01JB00SFZTS5KSEBV6D2WVX6B6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
     
-    [Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
+    [What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
     
-    33 mins ago
+    51 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/kkSxF7avnLVjrNeHRABpSa-1200-80.jpg)](https://digitpatrox.com/where-next-for-private-cloud-networks/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-is-YouTube-Restricted-Mode_.jpg)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
     
-    [Where next for private cloud networks?](https://digitpatrox.com/where-next-for-private-cloud-networks/)
+    [What is YouTube Restricted Mode? (And how to use it)](https://digitpatrox.com/what-is-youtube-restricted-mode-and-how-to-use-it/)
+    
+    59 mins ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1588689122/prod/content/dam/CRO-Images-2020/Cars/05May/CR-Cars-InlineHero-2020-Chevrolet-Silverado-Diesel-5-20)](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
+    
+    [Best SUV and Truck Tires of 2024](https://digitpatrox.com/best-suv-and-truck-tires-of-2024/)
     
     1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/10/tra_20241023-the-affiliate-marketing-passive-income-masterclass-bundle.jpg)](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
-    
-    [Master Affiliate Marketing & Watch Your Income Grow](https://digitpatrox.com/master-affiliate-marketing-watch-your-income-grow/)
-    
-    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 mins ago
+* [2 mins ago
     
-    ### Dental company Henry Schein raises number of data breach victims from 29K to 166K](https://digitpatrox.com/dental-company-henry-schein-raises-number-of-data-breach-victims-from-29k-to-166k/)
-* [30 mins ago
+    ### Infosys announces plans to open London AI lab](https://digitpatrox.com/infosys-announces-plans-to-open-london-ai-lab/)
+* [24 mins ago
     
-    ### Best Self-Watering Planters – Consumer Reports](https://digitpatrox.com/best-self-watering-planters-consumer-reports/)
-* [33 mins ago
+    ### White House tells intelligence agencies: Use more AI](https://digitpatrox.com/white-house-tells-intelligence-agencies-use-more-ai/)
+* [51 mins ago
     
-    ### Google Play’s Rules Are Killing Indie Android Apps](https://digitpatrox.com/google-plays-rules-are-killing-indie-android-apps/)
+    ### What’s Coming to Max in November 2024](https://digitpatrox.com/whats-coming-to-max-in-november-2024/)
 
 Most Popular Topics
 
-* [August 29, 2024
+* [August 23, 2024
     
-    ### California’s contentious AI safety bill gets closer to becoming a law – Computerworld](https://digitpatrox.com/californias-contentious-ai-safety-bill-gets-closer-to-becoming-a-law-computerworld/)
-* [September 4, 2024
+    ### Brighton vs Man Utd live stream: How to watch Premier League game online](https://digitpatrox.com/brighton-vs-man-utd-live-stream-how-to-watch-premier-league-game-online/)
+* [2 weeks ago
     
-    ### OpenAI might use Apple’s TSMC for chips – Computerworld](https://digitpatrox.com/openai-might-use-apples-tsmc-for-chips-computerworld/)
-* [August 22, 2024
+    ### AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
+* [7 days ago
     
-    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
+    ### Amazon will stream a live election special hosted by Brian Williams](https://digitpatrox.com/amazon-will-stream-a-live-election-special-hosted-by-brian-williams/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### New Qilin ransomware encryptor features stronger encryption, evasion](https://digitpatrox.com/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
+    ### ROI from AI projects has nosedived – how can IT leaders deliver success?](https://digitpatrox.com/roi-from-ai-projects-has-nosedived-how-can-it-leaders-deliver-success/)
+* [2 hours ago
+    
+    ### 5 Best AI Writing Tools: Supercharge Your Content Creation](https://digitpatrox.com/5-best-ai-writing-tools-supercharge-your-content-creation/)
 * [3 hours ago
     
-    ### A new iMessage safety feature prompts kids to report explicit images to Apple](https://digitpatrox.com/a-new-imessage-safety-feature-prompts-kids-to-report-explicit-images-to-apple/)
-* [3 hours ago
-    
-    ### Pokemon Bronze Forever Codes (October 2024)](https://digitpatrox.com/pokemon-bronze-forever-codes-october-2024/)
+    ### MSI Codex R2 review: 1080p gaming on a budget](https://digitpatrox.com/msi-codex-r2-review-1080p-gaming-on-a-budget/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
