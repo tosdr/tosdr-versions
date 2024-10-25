@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Community
+[Joy
 
-### How a Sudanese refugee in Uganda is keeping his homeland alive through food](https://www.csmonitor.com/World/Africa/2024/1025/sudan-war-uganda-refugees-food "How a Sudanese refugee in Uganda is keeping his homeland alive through food")
+### Yankee Dodger Dandy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1025/Yankee-Dodger-Dandy "Yankee Dodger Dandy")
 
-[Dignity
+[Safety
 
-### A tribute to Venezuela’s free thinkers](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1024/A-tribute-to-Venezuela-s-free-thinkers "A tribute to Venezuela’s free thinkers")
+### Under deadly Israeli siege, north Gaza residents face terrifying ultimatum](https://www.csmonitor.com/World/Middle-East/2024/1025/israeli-siege-north-gaza-palestinians "Under deadly Israeli siege, north Gaza residents face terrifying ultimatum")
 
-[Peace
+[Freedom
 
-### Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.](https://www.csmonitor.com/World/Middle-East/2024/1023/yahya-sinwar-hamas-netanyahu-cease-fire-blinken "Is an Israel-Hamas cease-fire possible? Pressures mount on Netanyahu.")
+### Civil rights on the red carpet: Freedom Awards honor 3 icons](https://www.csmonitor.com/The-Culture/2024/1025/freedom-award-spike-lee-sherrilyn-ifill-xernona-clayton "Civil rights on the red carpet: Freedom Awards honor 3 icons")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 24, 2024
+October 25, 2024
 
-A swing state study
+A new editor for the Monitor
 
-Wrestling with issues of class and race, and with a predominantly rural makeup, North Carolina is in some ways a microcosm of the United States, Simon Montlake reports today. For dueling candidates in a presidential race, the state is also a major test of earned trust with voters within some key demographic groups. We begin today’s Daily with the latest of our on-the-ground swing state reports. (We’re on top of developments on the Korean Peninsula, too – a lot of buzz at our morning meeting.)
+For many in the newsroom, Christa Case Bryant was one of those people you just knew would be editor someday. There’s the commitment to fairness that has been the Monitor’s hallmark for decades. There’s the reporting awards for covering Congress that show Monitor journalism at its best. And there’s the deep understanding and love for the Monitor’s mission and essential connection to Christian Science.Well, as some of you now know, it has happened. With my family likely to remain in Germany for some time, I am stepping down, and I could not be happier to see Christa taking the position. Former Editor Willis Abbot said, “What newspaperman in the world wouldn’t be proud to be editor of The Christian Science Monitor!” It was an honor to do it for eight years.Christa not only brings her credentials, but will also be the second woman to hold the post in our 116-year history. For a news organization founded by a woman, Mary Baker Eddy, that seems worthy of a cheer. You can read the official announcement here.I’ve got much more I’m excited to do at the Monitor and will be taking a senior role, to be announced in January. Until then, I’ll continue to be your cruise director here and work to help Christa hit the ground running, with a transition planned for early next year. Please help me welcome her to the job.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### How a Sudanese refugee in Uganda is keeping his homeland alive through food](https://www.csmonitor.com/World/Africa/2024/1025/sudan-war-uganda-refugees-food "How a Sudanese refugee in Uganda is keeping his homeland alive through food")
+[### Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.](https://www.csmonitor.com/USA/2024/1025/Biden-Native-American-apology-election-boarding-school "Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.")
 
-[### She fled war in Sudan. Now she grapples with returning.](https://www.csmonitor.com/World/Africa/2024/1025/refugees-sudan-civil-war-displacement-crisis "She fled war in Sudan. Now she grapples with returning.")
+[### The Menendez brothers received life without parole. Should they walk free?](https://www.csmonitor.com/USA/2024/1025/Menendez-brothers-murder-case-resentencing-LA "The Menendez brothers received life without parole. Should they walk free?")
 
-[### At BRICS summit, Russia tries to build a world without the US](https://www.csmonitor.com/World/Europe/2024/1024/brics-russia-vladimir-putin-ukraine-war-us-dollar "At BRICS summit, Russia tries to build a world without the US")
+[### Under deadly Israeli siege, north Gaza residents face terrifying ultimatum](https://www.csmonitor.com/World/Middle-East/2024/1025/israeli-siege-north-gaza-palestinians "Under deadly Israeli siege, north Gaza residents face terrifying ultimatum")
 
 * * *
 
