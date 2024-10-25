@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Everything works beautifully. In fact it had worked perfectly for so long that I had completely forgotten how to set up a VPN.
+I am very happy with your service.
 
-Tim Coutts
+Alan Stevenson
