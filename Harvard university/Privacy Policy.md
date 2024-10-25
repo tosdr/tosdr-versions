@@ -211,9 +211,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Unearthed papyrus contains lost scenes from Euripides’ plays** Alums help identify, decipher ‘one of the most significant new finds in Greek literature in this century’](https://news.harvard.edu/gazette/story/2024/10/unearthed-papyrus-contains-lost-scenes-from-euripides-plays/)
-        2. [**What’s next after a Nobel? It’s a surprise.** Harvard scientist Gary Ruvkun awarded medicine prize for microRNA insights. ‘My ignorance is bliss,’ he says.](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
-        3. [**Getting to the bottom of long COVID** A reservoir of virus in the body may explain why some people experience long COVID symptoms](https://news.harvard.edu/gazette/story/2024/10/getting-to-the-bottom-of-long-covid/)
+        1. [**What happened when a meteorite the size of four Mount Everests hit Earth?**  Giant impact had silver lining for life, according to new study](https://news.harvard.edu/gazette/story/2024/10/what-happened-when-a-meteorite-the-size-of-four-mount-everests-hit-earth/)
+        2. [**How to apply cool-headed reason to red-hot topics** Michael J. Sandel brings back wildly popular ‘Justice’ course amid time of strained discourse on college campuses](https://news.harvard.edu/gazette/story/2024/10/how-to-apply-cool-headed-reason-to-red-hot-topics/)
+        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
