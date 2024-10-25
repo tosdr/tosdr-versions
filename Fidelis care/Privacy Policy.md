@@ -55,7 +55,6 @@ Login to your account, make a payment, see benefits and more.
 * [Make A Payment](https://www.fideliscare.org/Member/Helpful-Tools/Make-A-Payment)
 * [Health Resources](https://www.fideliscare.org/Member/Helpful-Tools/Health-Resources)
 * [Pharmacy Benefit Information](https://www.fideliscare.org/Member/Helpful-Tools/Member-Pharmacy)
-* [Member Portal Resources](https://www.fideliscare.org/Member/Member-Portal-Resources)
 * [Find a Doctor](https://www.fideliscare.org/Find-A-Doctor)
 * [Get Coverage](https://www.fideliscare.org/Blog/Year-Round-Health-Insurance)
 
