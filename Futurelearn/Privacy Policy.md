@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![accountant at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-98-150x150.png)](https://www.futurelearn.com/info/blog/accounting-degree-guide)
+    
+    [A complete guide to accounting degrees](https://www.futurelearn.com/info/blog/accounting-degree-guide)
+    -------------------------------------------------------------------------------------------------------
+    
+    Thinking about taking an online accounting degree to learn specialist knowledge and improve your career …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [![software engineer working](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-97-150x150.png)](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
     
     [A complete guide to software engineering degrees](https://www.futurelearn.com/info/blog/software-engineering-degree-guide)
@@ -744,15 +753,6 @@ Powered By
     Discover how a diploma of higher education could propel your career forward, and get tips …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [![woman on ipad](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1552881556-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
-    
-    [How does the future of AI integration impact those looking for their next role or degree?](https://www.futurelearn.com/info/blog/impact-of-ai-on-job-roles)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    As AI becomes more popular, FutureLearn asked ChatGPT which job roles and degrees AI would …
-    
-    Category: [Career Development](https://www.futurelearn.com/info/blog/careers)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
