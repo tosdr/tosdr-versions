@@ -32,7 +32,7 @@
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     * [WWE OFFICIAL PARTNER](https://investors.airestech.com/2024/08/01/wwe-and-aires-tech-announce-multi-year-global-marketing-partnership/)
     
-* [WIN UFC TIX](https://airestech.com/pages/ufc-lets-run-this-city-sweep)
+* [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
 Country/region
 
@@ -564,7 +564,7 @@ United States (USD $)
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     * [WWE OFFICIAL PARTNER](https://investors.airestech.com/2024/08/01/wwe-and-aires-tech-announce-multi-year-global-marketing-partnership/)
     
-* [WIN UFC TIX](https://airestech.com/pages/ufc-lets-run-this-city-sweep)
+* [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
  Search our site  
 
