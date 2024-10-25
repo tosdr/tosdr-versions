@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How long can you live with stage 4 cancer without treatment?](https://www.pintas.com/wp-content/uploads/2020/11/how-long-can-you-live-with-stage-4-cancer-without-treatment.jpg "How Long Can You Live with Stage 4 Cancer without Treatment?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/ "How Long Can You Live with Stage 4 Cancer without Treatment?")
+[![Who can i sue for a wrongful death in an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility-300x200.jpg "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/ "Who Can I Sue for a Wrongful Death in an Assisted Living Facility?")
 
-[#### How Long Can You Live with Stage 4 Cancer without Treatment?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/)
+[#### Who Can I Sue for a Wrongful Death in an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-can-i-sue-for-a-wrongful-death-in-an-assisted-living-facility/)
 
-[![Can lung cancer be caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-lung-cancer-be-caused-by-asbestos.jpg "Can Lung Cancer Be Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/ "Can Lung Cancer Be Caused by Asbestos?")
+[![Are elderly people given lots of rules at nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-elderly-people-given-lots-of-rules-at-nursing-homes-scaled.jpg "Are Elderly People Given Lots of Rules at Nursing Homes?")](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/ "Are Elderly People Given Lots of Rules at Nursing Homes?")
 
-[#### Can Lung Cancer Be Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-caused-by-asbestos/)
+[#### Are Elderly People Given Lots of Rules at Nursing Homes?](https://www.pintas.com/faq/are-elderly-people-given-lots-of-rules-at-nursing-homes/)
 
-[![Can lungs get rid of asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-lungs-get-rid-of-asbestos.jpg "Can Lungs Get Rid of Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/ "Can Lungs Get Rid of Asbestos?")
+[![How common is sexual abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-common-is-sexual-abuse-in-nursing-homes-scaled.jpg "How Common Is Sexual Abuse in Nursing Homes?")](https://www.pintas.com/faq/how-common-is-sexual-abuse-in-nursing-homes/ "How Common Is Sexual Abuse in Nursing Homes?")
 
-[#### Can Lungs Get Rid of Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-lungs-get-rid-of-asbestos/)
+[#### How Common Is Sexual Abuse in Nursing Homes?](https://www.pintas.com/faq/how-common-is-sexual-abuse-in-nursing-homes/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
