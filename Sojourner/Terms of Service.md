@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-53b2d74a423f39d41cb6a401a3867317
+a216b752993a561d4534a27f8ab1a19c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![13 mm triangle milk glass with blue beads](https://sojourner.biz/images/cache/glass/GL0243.200.jpg)](https://sojourner.biz/beads/glass/13-mm-triangle-milk-glass-with-blue-beads.html "13 mm triangle milk glass with blue beads")
+[![Fancy jasper puffed oval beads](https://sojourner.biz/images/cache/stone/STN021.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-puffed-oval-beads.html "Fancy jasper puffed oval beads")
 
-#### [13 mm triangle milk glass with blue beads](https://sojourner.biz/beads/glass/13-mm-triangle-milk-glass-with-blue-beads.html "13 mm triangle milk glass with blue beads")
+#### [Fancy jasper puffed oval beads](https://sojourner.biz/beads/stone-m-z/other-stones/fancy-jasper-puffed-oval-beads.html "Fancy jasper puffed oval beads")
 
-$5.00
+$12.00
 
 ### Best Sellers
 
