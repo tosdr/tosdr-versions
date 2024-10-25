@@ -31,9 +31,9 @@ Check out illumin's brand new Support Center
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![With Google in hot water with the DOJ, what exactly are anti-trust laws?](https://illumin.com/wp-content/uploads/2024/10/google-DPJ-263x300.jpg)
+    * ![B2B Advertising: the only guide you need](https://illumin.com/wp-content/uploads/2024/10/b2b-advertising-1-263x300.jpg)
         
-        With Google in hot water with the DOJ, what exactly are anti-trust laws?[Read More](https://illumin.com/insights/blog/google-and-doj-anti-trust-laws/)
+        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/b2b-advertising/)
         
 * [Company](#)
     * [Company](#)
