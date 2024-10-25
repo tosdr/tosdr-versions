@@ -96,6 +96,8 @@ Discover the hottest items flying off the shelves.
     
     ### [Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3)
     
+    [15 reviews](https://www.rangextd.com/products/starscope-ver-3)
+    
     Next day delivery
     
     $159.99 $79.99
@@ -107,6 +109,8 @@ Discover the hottest items flying off the shelves.
     Quantity  Add to cart
     
     ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    [12 reviews](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     Next day delivery
     
@@ -120,6 +124,8 @@ Discover the hottest items flying off the shelves.
     
     ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
     
+    [4 reviews](https://www.rangextd.com/products/blaux-heater-450w)
+    
     Next day delivery
     
     $159.99 $79.99
@@ -131,6 +137,8 @@ Discover the hottest items flying off the shelves.
     Quantity  Add to cart
     
     ### [Kore 2.0 Elite Smart Watch - Health Tracker,](https://www.rangextd.com/products/kore-2-0)
+    
+    [4 reviews](https://www.rangextd.com/products/kore-2-0)
     
     Next day delivery
     
@@ -155,6 +163,8 @@ Discover the hottest items flying off the shelves.
     Quantity  Add to cart
     
     ### [Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
+    
+    [4 reviews](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
     Next day delivery
     
@@ -192,6 +202,8 @@ Discover the hottest items flying off the shelves.
     
     ### [KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale)
     
+    [4 reviews](https://www.rangextd.com/products/korescale)
+    
     Next day delivery
     
     $218.99 $109.99
@@ -204,6 +216,8 @@ Discover the hottest items flying off the shelves.
     
     ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
     
+    [4 reviews](https://www.rangextd.com/products/laundry-masher-pineapple)
+    
     Next day delivery
     
     $110.99 $55.99
@@ -215,6 +229,8 @@ Discover the hottest items flying off the shelves.
     Quantity  Add to cart
     
     ### [MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
+    
+    [4 reviews](https://www.rangextd.com/products/mindinsole)
     
     Out of stock
     
@@ -239,6 +255,8 @@ Discover the hottest items flying off the shelves.
     Quantity  Add to cart
     
     ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
+    
+    [4 reviews](https://www.rangextd.com/products/snapshot-camera)
     
     Next day delivery
     
