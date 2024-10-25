@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2171411864-1-1200x630.jpg)](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam_victim-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
 
-(Photo by Valerie Terranova/FilmMagic)
+[Texas Republicans slam Kamala for rally in city where 12-yr-old girl was murdered by illegals](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
 
-[Kamala scores what’s likely the most apropos endorsement in the history of endorsements](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tempe-trashcan-1200x630.jpg)](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-14-1200x630.jpg)](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
+[Trump rips Kamala’s immigration policies that have made U.S. ‘like a garbage can for the world’](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
 
-[Kamala plans final campaign speech at symbolic spot she hopes will damage Trump](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-1200x630.png)](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-criminal-aliens-arriving-1200x630.jpg)](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
+[Obama defends Kamala’s McJob claim](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
 
-[Tenn. AG reveals ICE released thousands of ‘murderers and rapists’ from detention centers into US streets](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-menendez-brothers-1200x630.jpg)](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-stock-market-1200x630.jpg)](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
+[Menendez brothers’ uncle is furious, says DA is seeking fame days ahead of a crucial election he’s poised to lose](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
 
-[Billionaire investor believes stock market is ‘convinced’ who will win presidential election](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-1200x630.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-alex-wagner-1200x630.jpg)](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
+[Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
 
-[Black women voters tell MSNBC that Kamala doesn’t have ‘what it takes’ to go up against world leaders](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-clinton-1200x630.png)](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/college-student--1200x630.png)](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
+[Duck Hillary! Clinton’s latest Trump claim comes with a GIANT boomerang!](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
 
-[‘Maybe the media’s lying to you’: Charlie Kirk leaves ‘indoctrinated’ Trump hater speechless](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-bible-1200x630.jpg)](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoff-1200x630.jpg)](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
+[CBS News targets federal minimum wage in battleground states — didn’t think that one through!](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
 
-[Woman allegedly slapped by Doug Emhoff breaks her silence, ‘disgusted’ by his ‘fabricated persona’](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-facebook-deceased-family-1200x630.jpg)](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/admin-ajax-4-1200x630.jpg)](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
+[Boy, 15, who shot up parents, three siblings tried to frame younger brother in bizarre twist](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
 
-[George Conway tells off sister of slain soldier at center of latest anti-Trump hit piece](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-kam-split-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mia-khalifa-1200x630.jpg)
-
-### Pro-Hamas porn star ‘influencer’ hits new low in unhinged rant mocking U.S. military with PTSD](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
+### JD Vance calls out Kamala’s ‘disgraceful’ anti-Catholic bigotry](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,18 @@ Search for:
 ### [DC pizza chain declared ‘racist’ over ‘hella disrespectful’ dessert named after former mayor](https://americanwirenews.com/dc-pizza-chain-declared-racist-over-hella-disrespectful-dessert-named-after-former-mayor/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kari-lake-220x180.png)](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
+
+[Kari Lake responds to creepy compliment from Bill Clinton](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kmac-djt1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/big-name-reportedly-on-the-list-to-be-trump-white-house-chief-of-staff/)
+
+[Big name reportedly on the list to be Trump White House chief of staff](https://americanwirenews.com/big-name-reportedly-on-the-list-to-be-trump-white-house-chief-of-staff/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-barronfamily-1200-x-628-220x180.jpg)](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
+
+[Barron Trump draws high praise for his humility: ‘Most interesting 18-year-old I’ve met’](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
 
@@ -167,20 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-bitter-220x180.jpg)](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
 [Obama’s perplexed over how America ‘got so toxic and divided’ – X lends a hand](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-walz-dumbdumber-220x180.jpg)](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
-[Meta Oversight Board frees Harris and Walz ‘Dumb and Dumber’ meme from Facebook jail](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-davi-keaton-220x180.jpg)](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
-
-[‘Shame on him’: Actor Robert Davi has epic response to Michael Keaton anti-Trump rant](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2021/11/GettyImages-493247111-220x180.jpg)](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
-
-[Charges pending after harassment over pro-Trump sign leads to shooting in Vegas](https://americanwirenews.com/charges-pending-after-harassment-over-pro-trump-sign-leads-to-shooting-in-vegas/)
-
-Getty Images
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
