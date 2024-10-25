@@ -655,13 +655,13 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * [Jobs](https://jobs.euractiv.com/)
 * [Submit an opinion](https://www.euractiv.com/about-euractiv/opinion-criteria-structure-and-examples-for-external-contributions/)
 * [Press releases](https://pr.euractiv.com/)
+* [Agenda](https://agenda.euractiv.com/)
 
 ##### About Euractiv
 
 * [About us](https://www.euractiv.com/about-euractiv)
 * [Podcasts](https://www.euractiv.com/podcast)
 * [Events](https://events.euractiv.com/)
-* [Agenda](https://agenda.euractiv.com/)
 * [Mediahuis](https://www.mediahuis.com/en/)
 * [Contact us](https://www.euractiv.com/contactus)
 * [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
