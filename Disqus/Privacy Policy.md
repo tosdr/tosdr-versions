@@ -24,7 +24,7 @@ Disqus' Data Processing Agreement is an amendment to Disqus' Terms of Service fo
 
 Written by Disqus
 
-Updated over a week ago
+Updated over a year ago
 
 This Disqus Data Processing Agreement (“**DPA**”), that includes the Standard Contractual Clauses adopted by the European Commission, as applicable, reflects the parties’ agreement with respect to the terms governing the Processing of Personal Data under the [Disqus Terms of Service](https://help.disqus.com/terms-and-policies/terms-of-service) (the “**Agreement**”). This DPA is an amendment to the Agreement and is effective upon its incorporation into the Agreement (sign-up). Upon its incorporation into the Agreement, the DPA will form a part of the Agreement.
 
