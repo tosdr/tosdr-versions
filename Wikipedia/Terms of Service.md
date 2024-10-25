@@ -3,7 +3,7 @@
 Other languages:
 
 * [Afrikaans](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (6% translated)")
-* [Bahasa Indonesia](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (49% translated)")
+* [Bahasa Indonesia](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (48% translated)")
 * [Bahasa Melayu](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (3% translated)")
 * [Cymraeg](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (5% translated)")
 * [Deutsch](https://wikimediafoundation.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
