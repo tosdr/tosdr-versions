@@ -746,6 +746,7 @@ Info
 * [Military/First Responder Discount](https://www.airestech.com/pages/military-first-responder-discount)
 * [Contact](https://www.airestech.com/pages/contact)
 * [Terms of Service](https://www.airestech.com/policies/terms-of-service)
+* [\*Based on public research and studies](https://airestech.com/blogs/emf-101/is-emf-really-that-harmful-answers-from-the-latest-research)
 
 Explore
 
