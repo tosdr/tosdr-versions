@@ -150,10 +150,11 @@ Latest reactions
 
 Latest forum posts
 
-* [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime?page=1 "File-Hunter.com downtime")
-* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
-* [Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen](https://www.msx.org/forum/msx-talk/software/looking-for-audio-from-shiro-to-kuro-no-densetsu-hyakki-hen "Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
+* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
+* [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime?page=1 "File-Hunter.com downtime")
+* [Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen](https://www.msx.org/forum/msx-talk/software/looking-for-audio-from-shiro-to-kuro-no-densetsu-hyakki-hen "Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen")
 * [@djh1697 --> MSX/Naim](https://www.msx.org/forum/msx-talk/off-topic/djh1697-msxnaim "@djh1697  --> MSX/Naim")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=69 "WonderTANG! Who wants to juice up your MSX?")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=61 "List of undumped MSX software (PLEASE HELP!)")
@@ -162,12 +163,12 @@ Latest forum posts
 * [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 * [HIC board in FS-A1MKII - thanks RBSC!](https://www.msx.org/forum/msx-talk/hardware/hic-board-in-fs-a1mkii-thanks-rbsc "HIC board in FS-A1MKII - thanks RBSC!")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
-* [Multiplayer link cable](https://www.msx.org/forum/msx-talk/development/multiplayer-link-cable?page=3 "Multiplayer link cable")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
@@ -180,7 +181,6 @@ News headlines
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
-* [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
