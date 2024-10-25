@@ -23,7 +23,7 @@ Search for shoes, clothes, etc.Search
 * [Collections](https://www.zappos.com/)
 * [Brands](https://www.zappos.com/c/brands)
 * [Sale](https://www.zappos.com/sale)
-* [Activities](https://www.zappos.com/running)
+* [Activity](https://www.zappos.com/running)
 * [Gifts](https://www.zappos.com/c/holiday-gift-guide)
 
 [Help & Support](https://www.zappos.com/c/customer-service)
