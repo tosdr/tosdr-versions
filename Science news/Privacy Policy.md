@@ -89,6 +89,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")37 mins ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [A new implant tested in animals reverses drug overdoses](https://www.sciencenews.org/article/implant-reverses-drug-overdoses)
             
             By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")October 23, 2024
@@ -99,12 +105,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")October 23, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Once-weekly insulin might mean fewer shots for some with diabetes](https://www.sciencenews.org/article/diabetes-blood-sugar-insulin-weekly)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 22, 2024
-            
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
         * [Animals](https://www.sciencenews.org/topic/animals)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [The ‘Mekong ghost’ megafish has resurfaced after an extinction scare](https://www.sciencenews.org/article/mekong-ghost-megafish-rediscovered) 
+            ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
-            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")16 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")37 mins ago
             
-        * [Life](https://www.sciencenews.org/topic/life)
+        * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
-            ### [How insects can help catch rhino poachers](https://www.sciencenews.org/article/insects-help-catch-rhino-poachers)
+            ### [The U.S. empire was built on bird dung](https://www.sciencenews.org/article/us-empire-built-bird-dung)
             
-            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")18 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")3 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [Polar bears are being exposed to more pathogens as the climate warms](https://www.sciencenews.org/article/polar-bears-pathogens-climate-change)
+            ### [The ‘Mekong ghost’ megafish has resurfaced after an extinction scare](https://www.sciencenews.org/article/mekong-ghost-megafish-rediscovered) 
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")October 23, 2024
+            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")23 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 24, 2024
             
         * [Tech](https://www.sciencenews.org/topic/tech)
             
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")20 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 24, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
