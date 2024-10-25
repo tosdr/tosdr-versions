@@ -85,7 +85,7 @@ Privacy Policy
 PRIVACY POLICY FOR KRISP
 ------------------------
 
-_Last updated: May 7, 2024_
+_Last updated: October 25, 2024_
 
 Welcome to [www.krisp.ai](https://www.krisp.ai/) (“**Site**”), hosted by Krisp Technologies, Inc. (“**Company**”, “**we**”, “**us**” and/or “**our**”). Company provides AI meeting assistant and noise cancellation technologies to individuals and businesses (“**Krisp**”). In order to provide the Site and/or Krisp, we collect personal data from our Site visitors (“**Site Visitors**”) and our customers (“**Customers**”). We also collect the personal data of our Customers’ Authorized Users (as defined in the [Krisp Terms of Use](https://krisp.ai/terms-of-use/)) when they use Krisp, and we also collect certain information from third parties. All references to “you” and “your” in this Privacy Policy mean the Site Visitors, Customers, including the person accepting this Privacy Policy on behalf of an entity or organization, and Authorized Users, as the case may be.
 
@@ -335,9 +335,11 @@ We do not sell your personal information within the scope of, and according to t
 
 ### **INTERNATIONAL DATA TRANSFERS**
 
-Company is a United States corporation, which primarily stores information in the United States. To facilitate our global operations, we may process personal information from around the world, including from other countries and in other countries in which Company has operations, in order to provide the Site and/or Krisp.
+Company is a United States corporation, which primarily processes and stores information in the United States. To facilitate our global operations, we may process and store personal information from around the world, including from other countries and in other countries in which Company, our group affiliates, or our subprocessors (as identified in our [Privacy for humans](https://krisp.ai/privacy-for-humans/) webpage) have operations, in order to provide the Site and/or Krisp.
 
-**If you are accessing or using our Site and/or Krisp or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.**
+**If you are accessing or using our Site and/or Krisp or otherwise providing personal information to us, you acknowledge and agree that your personal information may be transferred or stored in the United States, where we are established, as well as other jurisdictions in which we, our group affiliates or our subprocessors operate**.  
+
+Where personal data of users in the EEA, Switzerland, or the UK is being transferred to a recipient located in a country outside the EEA, Switzerland, or the UK which has not been recognized as having an adequate level of data protection, we take appropriate safeguards to ensure that your personal information will remain protected in accordance with this Privacy Policy and applicable laws. These safeguards include implementing the Module 2 of European Commission’s Standard Contractual Clauses as issued on 4 June 2021 under Article 46(2) GDPR for transfers originating in the EEA, Switzerland (with amendments required under the applicable Swiss law) and the UK Addendum permitted under Article 46(2) of the UK GDPR for the transfer of data originating in the UK. Please contact us if you have any questions or concerns related to international data transfers.
 
 If you are a Customer, you are responsible for informing your Authorized Users of how and where their personal information will be processed at the time of collection. Because different countries may have different data protection laws than the United States we take steps to ensure adequate safeguards are in place to protect your data as explained in this Privacy Policy. We enter into data processing agreements with our Customers on request.
 
