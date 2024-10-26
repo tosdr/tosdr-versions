@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+55°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
