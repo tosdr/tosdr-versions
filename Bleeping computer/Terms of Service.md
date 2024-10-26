@@ -36,6 +36,9 @@
         
         QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
     
+    * [![New Cisco ASA and FTD features block VPN brute-force password attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
     * [![New Windows Driver Signature bypass allows kernel rootkit installs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
@@ -45,9 +48,6 @@
     * [![Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
-    * [![Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fortinet warns of new critical FortiManager flaw used in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-critical-fortimanager-flaw-used-in-zero-day-attacks/)
+* [![Microsoft Teams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
-* [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
 
 ##### Follow us:
 
