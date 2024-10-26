@@ -10,7 +10,7 @@
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Health](https://www.thehindu.com/sci-tech/health/)
+2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
 4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
@@ -30,7 +30,7 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 ![HamberMenu](https://www.thehindu.com/theme/images/th-online/menu-hamber-icon.svg)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Health](https://www.thehindu.com/sci-tech/health/)
+2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
 4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
@@ -43,7 +43,7 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 * [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
 
 1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Health](https://www.thehindu.com/sci-tech/health/)
+2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
 4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
@@ -521,7 +521,7 @@ Read in App
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [BRICS 2024 LIVE, 23 Oct](https://www.thehindu.com/news/international/brics-summit-2024-kazan-russia-modi-china-putin-xi-jinping-live-updates-october-23-2024/article68785550.ece) [Cyclone DANA LIVE (23 Oct)](https://www.thehindu.com/news/national/west-bengal/cyclone-dana-odisha-west-bengal-weather-live-updates-october-23-2024/article68785544.ece) [PM Modi Xi Jinping meet](https://www.thehindu.com/news/national/pm-modi-to-hold-bilateral-meeting-with-chinese-president-xi-jinping-on-23-10-204/article68784331.ece) [BJP MP Tejasvi Surya seeks disciplinary action](https://www.thehindu.com/news/national/bjp-mp-tejasvi-surya-seeks-disciplinary-action-against-opposition-members-for-threatening-chief-of-waqf-bill-panel/article68765298.ece) [19-year-old woman dies in MP after being set on fire](https://www.thehindu.com/news/national/madhya-pradesh/19-year-old-woman-dies-in-madhya-pradesh-after-being-set-on-fire-on-dussehra-for-filing-molestation-case/article68768476.ece) [Omar Abdullah’s Cabinet passes J & K Statehood resolution](https://www.thehindu.com/news/national/jammu-and-kashmir/jk-cabinet-passes-statehood-resolution-in-first-meeting/article68772141.ece) [Hyderabad police crack down on Group I aspirants](https://www.thehindu.com/news/cities/Hyderabad/tension-flares-as-hyderabad-police-crack-down-on-group-i-aspirants/article68770376.ece) [BJP, Jan Suraaj Party, HAM(S) name candidates](https://www.thehindu.com/news/national/bihar/bjp-jan-suraaj-party-hams-name-candidates-for-bihar-bypolls-bjp-leader-rcp-singh-to-form-new-party/article68772718.ece) [India Canada row](https://www.thehindu.com/news/international/canadian-opposition-leader-says-justin-trudeau-using-nijjars-murder-to-divert-attention-from-other-controversies/article68769351.ece)
+[News](https://www.thehindu.com/news/) [Israel strikes on Iran LIVE](https://www.thehindu.com/news/international/israel-strikes-iran-retaliation-west-asia-crisis-reaction-live-updates-oct-26-2024/article68798867.ece) [IND vs NZ 2nd Test Day 3 Live Updates](https://www.thehindu.com/sport/cricket/india-vs-new-zealand-2nd-test-day-3-live-updates/article68798912.ece) [50% hike in prices of commonly used drugs](https://www.thehindu.com/sci-tech/health/why-did-the-govt-sanction-a-50-hike-in-prices-of-commonly-used-drugs/article68786521.ece) [Indian hockey team beats Germany 5-3](https://www.thehindu.com/sport/hockey/hockey-test-india-men-vs-germany-men-second-test-in-new-delhi-on-october-24-2024/article68791409.ece) [Israel plans to ‘empty’ Gaza Strip of Palestinians: Mahmoud Abbas](https://www.thehindu.com/news/international/israel-plans-to-empty-gaza-strip-of-palestinians-mahmoud-abbas/article68791768.ece) [Jose Mourinho gets red card against Man United](https://www.thehindu.com/sport/football/jose-mourinho-gets-red-card-against-man-united-as-fenerbahce-holds-on-for-draw-in-europa-league/article68793471.ece) [Germany gives India special status for military purchase approvals](https://www.thehindu.com/news/national/germany-gives-india-special-status-for-military-purchase-approvals/article68788008.ece) [Iran strike will show the world Israel’s might: Defence chief Yoav Gallant](https://www.thehindu.com/news/international/iran-strike-will-show-the-world-israels-might-defence-chief-yoav-gallant/article68788881.ece) [Justice Sanjiv Khanna to take oath as Chief Justice of India on November 11](https://www.thehindu.com/news/national/justice-sanjiv-khanna-to-take-oath-as-chief-justice-of-india-on-11-11-2024/article68792732.ece)
 
 ##### Trending on Group sites
 
