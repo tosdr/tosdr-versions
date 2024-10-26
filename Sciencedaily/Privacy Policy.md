@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
+* [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
+* [Arid Regions: Capturing Water Vapor from Air](https://www.sciencedaily.com/releases/2024/10/241025122821.htm)
 * [Saturn's Moon Titan Has Thick Insulating Crust](https://www.sciencedaily.com/releases/2024/10/241025122818.htm)
 * ['Well-Man' Thrown from Castle 800 Years Ago](https://www.sciencedaily.com/releases/2024/10/241025122355.htm)
 * [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
@@ -215,9 +218,6 @@ this hour
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 * [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 * [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
-* [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
-* [Electric Cars: Long-Lasting Renewable Batteries](https://www.sciencedaily.com/releases/2024/10/241024131708.htm)
-* [Wildfires Becoming Faster, More Dangerous](https://www.sciencedaily.com/releases/2024/10/241024145253.htm)
 
 Trending Topics
 ---------------
@@ -232,7 +232,7 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -246,9 +246,9 @@ this week
 
 [Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
-
 [Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
   
 
