@@ -124,11 +124,7 @@ Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agr
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
+[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
 
 estampou revistas
 
@@ -210,15 +206,7 @@ estampou revistas
 
 Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo
 
-Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Ministério Público Federal pede intervenção no Hospital Veredas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_Hospital_Veredas_foto_MPF_AL_1bef9001c7.jpeg)
-
-em maceió
-
-em maceió
-
-Ministério Público Federal pede intervenção no Hospital Veredas
-
-Ministério Público Federal pede intervenção no Hospital Veredas](https://www.tnh1.com.br/noticia/nid/ministerio-publico-federal-pede-intervencao-no-hospital-veredas/ "Ministério Público Federal pede intervenção no Hospital Veredas ")[![Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/8/csm_caracteristicas-comuns-repeticao-pexels-cottonbro-4861373__1__9dc2e72b6c.jpg)
+Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_caracteristicas-comuns-repeticao-pexels-cottonbro-4861373__1__9dc2e72b6c.jpg)
 
 São tendências
 
@@ -226,7 +214,15 @@ São tendências
 
 Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA
 
-Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://www.tnh1.com.br/noticia/nid/seis-palavras-que-as-pessoas-menos-inteligentes-repetem-segundo-a-ia/ "Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
+Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://www.tnh1.com.br/noticia/nid/seis-palavras-que-as-pessoas-menos-inteligentes-repetem-segundo-a-ia/ "Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA")[![Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_mario-marroquim-crb-foto-reproducao_ce156442b0.png)
+
+Em entrevista
+
+Em entrevista
+
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada
+
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
 
 Importunação sexual
 
@@ -236,39 +232,39 @@ Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a
 
 Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")
 
-[![Mulher é diagnosticada com 'síndrome genital inquieta' após meses tendo orgasmos espontâneos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/e/csm_orgasmo-reproducao-freepik_48d3bad23a.png)
+[![Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_hugh-jackman-sutton-foster-reproducao_064a1c7767.jpg)
 
-35 anos
+Novo amor?
 
-35 anos
+Novo amor?
 
-Mulher é diagnosticada com 'síndrome genital inquieta' após meses tendo orgasmos espontâneos
+Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman
 
-Mulher é diagnosticada com 'síndrome genital inquieta' após meses tendo orgasmos espontâneos](https://www.tnh1.com.br/noticia/nid/mulher-e-diagnosticada-com-sindrome-genital-inquieta-apos-meses-tendo-orgasmos-espontaneos/ "Mulher é diagnosticada com 'síndrome genital inquieta' após meses tendo orgasmos espontâneos")[![Maceió é um dos destinos mais procurados nos feriados de novembro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/0/csm_orla-ponta-verde-edvan1_456463db46.jpg)
+Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://www.tnh1.com.br/noticia/nid/atriz-termina-casamento-de-10-anos-e-aumenta-rumores-de-romance-com-hugh-jackman/ "Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman")[![Mulher acusa inteligência artificial pela morte de filho de 14 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_mulher-acusa-IA-morte-filho-arquivo-pessoal_8f883378d8.jpg)
 
-Turismo
+NOS EUA
 
-Turismo
+NOS EUA
 
-Maceió é um dos destinos mais procurados nos feriados de novembro
+Mulher acusa inteligência artificial pela morte de filho de 14 anos
 
-Maceió é um dos destinos mais procurados nos feriados de novembro](https://www.tnh1.com.br/noticia/nid/maceio-e-um-dos-destinos-mais-procurados-nos-feriados-de-novembro/ "Maceió é um dos destinos mais procurados nos feriados de novembro")[![Mulher sente dores, faz exames e descobre que tem cinco órgãos a mais ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/9/csm_mulher-descobre-cinco-orgaos-a-mais-exames-reproducao-redes-sociais_ed46978012.jpg)
+Mulher acusa inteligência artificial pela morte de filho de 14 anos](https://www.tnh1.com.br/noticia/nid/mulher-acusa-inteligencia-artificial-pela-morte-de-filho-de-14-anos/ "Mulher acusa inteligência artificial pela morte de filho de 14 anos")[![Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_hezbollah-reproducao-X_4e8f6fb453.jpg)
 
-31 anos
+PLANEJAVA ATENTADOS
 
-31 anos
+PLANEJAVA ATENTADOS
 
-Mulher sente dores, faz exames e descobre que tem cinco órgãos a mais
+Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil
 
-Mulher sente dores, faz exames e descobre que tem cinco órgãos a mais](https://www.tnh1.com.br/noticia/nid/mulher-sente-dores-faz-exames-e-descobre-que-tem-cinco-orgaos-a-mais/ "Mulher sente dores, faz exames e descobre que tem cinco órgãos a mais ")[![Paolla Oliveira faz desabafo ao citar suposta rivalidade com famosas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_paolla_oliveira_-_reproducao_d148994602.jpg)
+Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil](https://www.tnh1.com.br/noticia/nid/argentina-identifica-chefe-do-hezbollah-responsavel-por-recrutamento-no-brasil/ "Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil")[![Mãe de Matthew Perry revela últimas conversas com o ator](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_ator-friends-mae-revelacoes-reproducao_199b2775e9.png)
 
-Nas redes sociais
+TRÁGICA MORTE
 
-Nas redes sociais
+TRÁGICA MORTE
 
-Paolla Oliveira faz desabafo ao citar suposta rivalidade com famosas
+Mãe de Matthew Perry revela últimas conversas com o ator
 
-Paolla Oliveira faz desabafo ao citar suposta rivalidade com famosas](https://www.tnh1.com.br/noticia/nid/paolla-oliveira-faz-desabafo-ao-citar-suposta-rivalidade-com-famosas/ "Paolla Oliveira faz desabafo ao citar suposta rivalidade com famosas")
+Mãe de Matthew Perry revela últimas conversas com o ator](https://www.tnh1.com.br/noticia/nid/mae-de-matthew-perry-revela-ultimas-conversas-com-o-ator/ "Mãe de Matthew Perry revela últimas conversas com o ator")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
