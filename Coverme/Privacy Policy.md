@@ -14,7 +14,7 @@
 Privacy Policy
 ==============
 
-The coverme.ws website (the "Website" or "CoverMe Website") and CoverMe mobile applications (the "Software" or "CoverMe Software") are owned and operated by Airbit Communication Limited("CoverMe", "us" or "we"). It is CoverMe's policy to respect your privacy regarding any information we may collect while operating our websites and CoverMe Software.
+The coverme.ws website (the "Website" or "CoverMe Website") and CoverMe mobile applications (the "Software" or "CoverMe Software") are owned and operated by CoverMe Communications Inc("CoverMe", "us" or "we"). It is CoverMe's policy to respect your privacy regarding any information we may collect while operating our websites and CoverMe Software.
 
 ### Information We Collect
 
@@ -128,7 +128,7 @@ Email: [info@coverme.ws](mailto:info@coverme.ws)
 * |
 * [Terms of Service](https://www.coverme.ws/en/terms.html)
 
-© 2024 Airbit Communication Limited
+© 2024 CoverMe Communications Inc
 
 Follow Us
 
@@ -147,7 +147,7 @@ About Us
 
 [Privacy Policy](http://www.coverme.ws/men/privacy_policy.html)[Terms of Service](http://www.coverme.ws/men/terms.html)
 
-© 2022 Airbit Communication Limited
+© 2022 CoverMe Communications Inc
 
 Get the redeem code  ![copy](/images_new/copy@1x.png)
 
