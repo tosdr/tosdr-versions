@@ -172,7 +172,7 @@ Very Positive (50) \- 84% of the 50 user reviews in the last 30 days are positiv
 
 All Reviews:
 
-Very Positive (18,130) \- 86% of the 18,130 user reviews for this game are positive.    
+Very Positive (18,131) \- 86% of the 18,131 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,130) All Time
+Very Positive (86% of 18,131) All Time
 
 Recent Reviews:
 
@@ -359,7 +359,7 @@ Awards
 Buy Skater XL
 =============
 
-SPECIAL PROMOTION! Offer ends October 28
+SPECIAL PROMOTION! Offer ends in
 
 \-25%
 
@@ -453,7 +453,7 @@ System Requirements
 What Curators Say
 -----------------
 
-101 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+104 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -462,7 +462,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,130 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,131 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -470,20 +470,20 @@ Very Positive (50 reviews) ![](https://store.steamstatic.com/public/shared/image
 
 Review Type
 
- All (19,270)  
- Positive (16,578)  
+ All (19,271)  
+ Positive (16,579)  
  Negative (2,692)
 
 Purchase Type
 
- All (19,270)  
- Steam Purchasers (18,130) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,271)  
+ Steam Purchasers (18,131) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,140) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,270)  
- Your Languages (13,312) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,271)  
+ Your Languages (13,313) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
