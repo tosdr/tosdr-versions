@@ -97,6 +97,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/345/hawk_tuah_explainer_1719165998161_1719166007905_1719199488348_1719199498498.jpeg "It Sure Looks Like This 5-Year-Old Reddit Post Features 'Hawk Tuah' Girl Haliey Welch Getting Hit With A Dart")
+    
+    It Sure Looks Like This 5-Year-Old Reddit Post Features 'Hawk Tuah' Girl Haliey Welch Getting Hit With A Dart](https://knowyourmeme.com/news/it-sure-looks-like-the-top-post-on-rholdmycosmo-five-years-old-features-hawk-tuah-girl-haliey-welch-getting-hit-with-a-dart)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/344/memes_of_the_week_whats_the_matter_boy_meme_banner.jpg "The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More")
     
     The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-trump-materializes-in-a-mcdonalds-a-goblin-makes-fun-of-you-and-more)
@@ -113,14 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     What's Up With The 'Tfue High Taper Fade' Memes On TikTok? The Viral Spin On Ninja's 'Low Taper Fade' Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-tfue-high-taper-fade-memes-on-tiktok-the-viral-spin-on-ninjas-low-taper-fade-meme-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/340/Hello_Kitty_Girl_UCF_Professor_Travis_Meade_Controversy_banner.jpg "What's With The Rumors About A UCF Professor Being In A Relationship With A 'Hello Kitty' TA? The Controversy Explained")
-    
-    What's With The Rumors About A UCF Professor Being In A Relationship With A 'Hello Kitty' TA? The Controversy Explained](https://knowyourmeme.com/editorials/guides/whats-with-the-rumors-about-a-ucf-cs-professor-being-in-a-ddlg-relationship-with-a-hello-kitty-ta-the-controversy-explained)
-    
 
 ##### Also Trending:
 
-[#KamalaGropedMe](https://knowyourmeme.com/memes/kamalagropedme "#KamalaGropedMe") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor") [Mia Khalifa U.S. Military PTSD Comment](https://knowyourmeme.com/memes/events/mia-khalifas-us-military-soldiers-ptsd-comment "Mia Khalifa U.S. Military PTSD Comment") [Donald Trump Working at McDonald's](https://knowyourmeme.com/memes/events/donald-trump-working-at-mcdonalds "Donald Trump Working at McDonald's") [Typhlosion Game Freak Leaks](https://knowyourmeme.com/memes/events/typhlosion-game-freak-leaks "Typhlosion Game Freak Leaks")
+[DumbDumbJeez Dine and Dash Controversy](https://knowyourmeme.com/memes/events/kick-streamer-dumbdumbjeez-dine-and-dash-controversy "DumbDumbJeez Dine and Dash Controversy") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Mia Khalifa U.S. Military PTSD Comment](https://knowyourmeme.com/memes/events/mia-khalifas-us-military-soldiers-ptsd-comment "Mia Khalifa U.S. Military PTSD Comment") [Just a Robot](https://knowyourmeme.com/memes/people/just-a-robot "Just a Robot") [Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt") [What's the Matter Lagerboy](https://knowyourmeme.com/memes/whats-the-matter-lagerboy "What's the Matter Lagerboy")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### O HAI! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
