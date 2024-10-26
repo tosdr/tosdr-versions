@@ -4,7 +4,7 @@
 
 [Home](https://essential.gg/)[Features](https://essential.gg/#world-hosting)[Versions](https://essential.gg/downloads)[Wiki](https://essential.gg/wiki)[Changelog](https://essential.gg/changelog)[Support](https://essential.gg/discord)
 
-[GitHub](https://essential.gg/github)[Discord](https://essential.gg/discord)[Twitter](https://essential.gg/twitter)[TikTok](https://essential.gg/tiktok)
+[Discord](https://essential.gg/discord)[GitHub](https://essential.gg/github)[Twitter](https://essential.gg/twitter)[TikTok](https://essential.gg/tiktok)
 
 Made by
 
@@ -433,23 +433,29 @@ Essential
 
 [Download](https://essential.gg/true)
 
-For Windows and macOS
+Installer for Windows and macOS
 
-[Wiki](https://essential.gg/wiki)[Support](https://essential.gg/discord)[Changelog](https://essential.gg/changelog)[Versions](https://essential.gg/downloads)
+Product
 
-[GitHub](https://essential.gg/github)[Discord](https://essential.gg/discord)[Twitter](https://essential.gg/twitter)[TikTok](https://essential.gg/tiktok)
+[Download](https://essential.gg/versions)[Wiki](https://essential.gg/wiki)[Support](https://essential.gg/discord)[Status](https://essential.statuspage.io/)[Changelog](https://essential.gg/changelog)[Licenses](https://essential.gg/licenses)
 
-[Licenses](https://essential.gg/licenses)[Privacy Policy](https://essential.gg/privacy-policy)[Company Imprint](https://essential.gg/imprint)[Terms & Conditions](https://essential.gg/terms-of-use)
+Community
 
-ModCore Inc.
+[Discord](https://essential.gg/discord)[GitHub](https://essential.gg/github)[Twitter](https://essential.gg/twitter)[TikTok](https://essential.gg/tiktok)
 
-South Fulton Avenue 444  
-US-10553 Mount Vernon  
-United States  
+Company
+
+[Privacy Policy](https://essential.gg/privacy-policy)[Terms & Conditions](https://essential.gg/terms-of-use)[Company Info](https://essential.gg/imprint)
 
 Made by
 
 [Spark Universe](https://sparkuniverse.com/)
+
+ModCore Inc.  
+1401 Pennsylvania Avenue  
+Suite 105 #4013  
+Wilmington, DE 19806  
+United States  
 
 Your browser is outdated! We have disabled some animations so that you can still use the site. Please consider updating your browser.
 
