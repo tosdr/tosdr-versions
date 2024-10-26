@@ -414,22 +414,22 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. java
+1. sql
     
-2. law
+2. web development
     
-3. javascript
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Artificial Intelligence
     
-    39,361 courses](https://www.classcentral.com/subject/cs)
-2. [Psychology
+    12,373 courses](https://www.classcentral.com/subject/ai)
+2. [Marketing
     
-    2,448 courses](https://www.classcentral.com/subject/psychology)
+    7,811 courses](https://www.classcentral.com/subject/marketing)
 3. [Cybersecurity
     
     16,090 courses](https://www.classcentral.com/subject/cybersecurity)
@@ -437,15 +437,15 @@ Popular subjects
 Popular courses
 ---------------
 
-1. [Improving Healthcare Through Clinical Research
+1. [AP® Microeconomics
     
-    University of Leeds](https://www.classcentral.com/course/clinical-research-4046)
-2. [The Science of Everyday Thinking
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/edx-ap-microeconomics-8630)
+2. [Comprendere la filosofia
     
-    University of Queensland](https://www.classcentral.com/course/thinking-the-university-of-queensland-the-science-1332)
-3. [Sustainable Tourism: Society & Environmental Aspects
+    University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
+3. [Extreme Geological Events
     
-    Wageningen University](https://www.classcentral.com/course/sustainability-wageningen-university-research-sus-10356)
+    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
