@@ -358,15 +358,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
+Evanna Lynch found out about the auditions for the role of Luna Lovegood after reading a news post on MuggleNet. She has been a long-term fan of the series and the website. She made Luna’s lion hat in Harry Potter and the Half-Blood Prince and created some of the jewelry worn by Luna in the films.
 
 ### Potter History
 
-May 21, 2013 – An annotated first edition of Harry Potter and the Philosopher’s Stone is sold at a Sotheby’s auction for £150,000. The proceeds were donated to English PEN and Lumos.
+July 29, 2008 – The first Harry Potter and the Half-Blood Prince teaser trailer makes its way online and plays in front of The Mummy in theaters.
 
 ### Potter Quote
 
-“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
+“Go on, Harry, take it! You saved Dad’s life, if anyone’s got the right to eavesdrop on him it’s you. . . .”
 
 [](#)
 
