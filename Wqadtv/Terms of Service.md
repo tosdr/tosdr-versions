@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12/20241025T140801/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12/20241025T140801/f7a67be8-ac4e-4ad6-b5bd-2840a25baf12_360x203.jpg)](https://www.wqad.com/article/news/local/mcmanus-orthodontics-coloring-sweepstakes-winners/526-a8d421b9-9434-4e8d-8ea4-f6bce6cd26e9)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b390401c-71f7-4459-9b68-e96a331ae387/20241026T022725/b390401c-71f7-4459-9b68-e96a331ae387_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b390401c-71f7-4459-9b68-e96a331ae387/20241026T022725/b390401c-71f7-4459-9b68-e96a331ae387_360x203.jpg)](https://www.wqad.com/article/news/politics/candidates-cross-party-lines-local-and-national-elections/526-e94e4d03-2673-4a7b-bd44-805435a12e7f)
         
-        #### [McManus Orthodontics Coloring Sweepstakes 2024 Winners](https://www.wqad.com/article/news/local/mcmanus-orthodontics-coloring-sweepstakes-winners/526-a8d421b9-9434-4e8d-8ea4-f6bce6cd26e9)
+        #### [Candidates cross party lines: what it means for local and national elections](https://www.wqad.com/article/news/politics/candidates-cross-party-lines-local-and-national-elections/526-e94e4d03-2673-4a7b-bd44-805435a12e7f)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_360x203.jpg)](https://www.wqad.com/article/news/health/air-ems-filling-gaps-rural-ambulance-services-iowa/526-15481e66-83c3-4ac1-a7c5-844ee6c28dd5)
         
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c5a7216f-81a3-4078-91ba-427af234e594/20241025T121029/c5a7216f-81a3-4078-91ba-427af234e594_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c5a7216f-81a3-4078-91ba-427af234e594/20241025T121029/c5a7216f-81a3-4078-91ba-427af234e594_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/450350ab-9c11-424c-aaf7-73bf314829c5/20241025T220839/450350ab-9c11-424c-aaf7-73bf314829c5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/450350ab-9c11-424c-aaf7-73bf314829c5/20241025T220839/450350ab-9c11-424c-aaf7-73bf314829c5_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Sunny skies and cooler temperatures to start the upcoming weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-60°
+44°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
