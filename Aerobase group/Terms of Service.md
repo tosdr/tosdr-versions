@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Israel launches military strikes against Iran](https://www.defensenews.com/flashpoints/israel-palestine/2024/10/26/israel-launches-military-strikes-against-iran/)  
+    10/25/24 08:11pm  
+    
+    Rockets are seen over Jerusalem as a siren sounds a warning of incoming missiles fired from Iran, in Jerusalem, Tuesday, Oct. 1, 2024. (AP Photo/Mahmoud Illean, File)
+    
 * [France, Germany to hammer out next steps for delay-prone FCAS warplane](https://www.defensenews.com/global/europe/2024/10/25/france-germany-to-hammer-out-next-steps-for-delay-prone-fcas-warplane/)  
     10/25/24 07:22am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/23/24 05:11pm  
     
     Boeing has lost billions of dollars on the fixed-price KC-46 program, and a nearly six-week machinist strike has heightened the refueling tanker's problems. (Airman Lauren Torres/Air Force)
-    
-* [Lockheed feels financial pinch from F-35 upgrade, contract delays](https://www.defensenews.com/air/2024/10/22/lockheed-feels-financial-pinch-from-f-35-upgrade-contract-delays/)  
-    10/22/24 02:52pm  
-    
-    Contract delays and software problems with the F-35 are costing Lockheed Martin hundreds of millions of dollars, and the company is trying to get the program back on track and start recouping its costs. (Senior Airman Edgar Grimaldo/U.S. Air Force)
     
 
 Recent parts by keyword  
