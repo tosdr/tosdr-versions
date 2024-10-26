@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/10/32/18/screenshot-2024-10-25-055916.png?ve=1&tl=1)
+ [![Israel launches retaliation attack against Iran](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-573687621-e1729899574488.jpg?ve=1&tl=1)
 
- ![NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-25-055916.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-crew-8-splashdown)
+ ![Israel launches retaliation attack against Iran](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-573687621-e1729899574488.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/israel-launches-attack-iran)
 
-### [NASA Crew-8 mission: Astronaut suffers 'medical issue' after splashdown off Florida coast](https://www.fox4news.com/news/nasa-crew-8-splashdown)
+### [Israel launches retaliation attack against Iran](https://www.fox4news.com/news/israel-launches-attack-iran)
 
- [![Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-1390568553.jpg?ve=1&tl=1)
+ [![Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/seth-altman-tarrant-co-jail-mug.png?ve=1&tl=1)
 
- ![Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-1390568553.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/austin-fc-nico-estevez-new-head-coach)
+ ![Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/seth-altman-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seth-altman-captured-blue-alert-suspect)
 
-### [Austin hires former Dallas coach Estevez to revive club after missing playoffs last two seasons](https://www.fox4news.com/sports/austin-fc-nico-estevez-new-head-coach)
+### [Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://www.fox4news.com/news/seth-altman-captured-blue-alert-suspect)
 
- [![McDonald's E. coli outbreak expands: At least 75 now sickened](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180538535-scaled.jpg?ve=1&tl=1)
+ [![President Biden visits Arizona, apologizes for ‘sin’ of 150-year-old boarding school policy](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/gettyimages-2180167328-scaled.jpg?ve=1&tl=1)
 
- ![McDonald's E. coli outbreak expands: At least 75 now sickened](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180538535-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-latest-quarter-pounders-onions)
+ ![President Biden visits Arizona, apologizes for ‘sin’ of 150-year-old boarding school policy](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180167328-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-biden-visits-arizona-apologizes-sin-150-year-old-boarding-school-policy)
 
-### [McDonald's E. coli outbreak expands: At least 75 now sickened](https://www.fox4news.com/news/mcdonalds-e-coli-outbreak-latest-quarter-pounders-onions)
+### [Biden apologizes for boarding-school system](https://www.fox4news.com/news/president-biden-visits-arizona-apologizes-sin-150-year-old-boarding-school-policy)
 
- [![Video shows how quickly a distracted driver caused a 9-car pileup](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/driver.jpg?ve=1&tl=1)
+ [![No students hurt after DeSoto ISD school bus catches fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/5p-head-3-desoto-school-bus-fire_00.00.12.16.jpg?ve=1&tl=1)
 
- ![Video shows how quickly a distracted driver caused a 9-car pileup](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/driver.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/distracted-driver-crash-oklahoma)
+ ![No students hurt after DeSoto ISD school bus catches fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/5p-head-3-desoto-school-bus-fire_00.00.12.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/desoto-isd-school-bus-fire-friday)
 
-### [Video shows how quickly a distracted driver caused a 9-car pileup](https://www.fox4news.com/news/distracted-driver-crash-oklahoma)
+### [No students hurt after DeSoto ISD school bus catches fire](https://www.fox4news.com/news/desoto-isd-school-bus-fire-friday)
 
- [![VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-2180881108.jpg?ve=1&tl=1)
+ [![Large public safety career fair for students held at UNT Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102524-jg-untd-criminal-justice-career-expo-5pkg-r_00.01.06.08.jpg?ve=1&tl=1)
 
- ![VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180881108.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
+ ![Large public safety career fair for students held at UNT Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102524-jg-untd-criminal-justice-career-expo-5pkg-r_00.01.06.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/public-safety-career-fair-unt-dallas)
 
-### [VP Kamala Harris Houston rally at Shell Energy Stadium, Beyoncé to possibly attend](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
+### [Large public safety career fair for students held at UNT Dallas](https://www.fox4news.com/news/public-safety-career-fair-unt-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
