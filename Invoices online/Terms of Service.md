@@ -196,63 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=213321476)  
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=162399486)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=142448192)  
 Sarabi
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=164645313)  
-LEONARD
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=159751067)  
+United Paintball Federation
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=203766991)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=132775264)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=43568850)  
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=123788954)  
+van Schaik rentals
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=63563536)  
+MONSTER SECURITY SERVICES
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=35715508)  
+Nogana Events and Decor
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=15467765)  
+Kaylas Creations
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=6077181)  
+Kainos (Pty) Ltd
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=119219238)  
 NEW BEGINNINGS DESIGNS
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=32287140)  
-West Coast Horse Trails
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=94555599)  
+Electro-Heat
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=68148803)  
-Imvubu General Trading
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=74160829)  
+Vplay Letsheng Mall
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=153956556)  
-Tagline Brands
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=114359211)  
+Stevens Consulting
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=148559360)  
-#DiGi3 Marketing & Design
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=11164221)  
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=27452101)  
 MSPCloud (Pty) Ltd
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=13580605)  
-Import Maaw
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=200164756)  
-Alliance Energy
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=208915533)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=32784168)  
-Multi CNC Solutions CC
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=69574227)  
-Hydroworld T/A Milliqua
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=160733918)  
-Network Grey (Pty) Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b99ed76fb99949bbc1b213b264e76bde4b37a560672a0c912682914ce454bea7&c=161047573)  
+#DiGi3 Marketing & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
