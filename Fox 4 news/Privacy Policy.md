@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/trump-rogan.jpg?ve=1&tl=1)
+
+ ![Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/trump-rogan.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-joe-rogan-podcast-2024)
+
+### [Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://www.fox4news.com/news/trump-joe-rogan-podcast-2024)
+
+ [![Stolen Dallas Fire-Rescue ambulance found after crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/Ambulance.jpg?ve=1&tl=1)
+
+ ![Stolen Dallas Fire-Rescue ambulance found after crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/Ambulance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stolen-dallas-fire-rescue-ambulance-found-after-crash)
+
+### [Stolen Dallas Fire-Rescue ambulance found after crash](https://www.fox4news.com/news/stolen-dallas-fire-rescue-ambulance-found-after-crash)
+
+ [![Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181095952-scaled.jpg?ve=1&tl=1)
+
+ ![Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181095952-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-take-game-1-world-series-vs-yankees)
+
+### [Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://www.fox4news.com/news/dodgers-take-game-1-world-series-vs-yankees)
+
  [![VP Kamala Harris speaks at Houston rally, Beyoncé makes introduction](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-2180313099.jpg?ve=1&tl=1)
 
  ![VP Kamala Harris speaks at Houston rally, Beyoncé makes introduction](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180313099.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
@@ -413,24 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Trump, Harris bring presidential campaigns to Texas Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/trump-harris.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-texas-kamala-harris-rally)
 
 ### [Trump, Harris bring presidential campaigns to Texas Friday](https://www.fox4news.com/news/donald-trump-texas-kamala-harris-rally)
-
- [![Haltom City teen faces 10 years in prison for selling Glock switches](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-switch-dealer-pleads-guilty-9p_00.00.26.48.jpg?ve=1&tl=1)
-
- ![Haltom City teen faces 10 years in prison for selling Glock switches](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-switch-dealer-pleads-guilty-9p_00.00.26.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/juan-angel-rendon-guilty-plea-machine-gun-operation-texas-kill-switch-arrest)
-
-### [Haltom City teen faces 10 years in prison for selling Glock switches](https://www.fox4news.com/news/juan-angel-rendon-guilty-plea-machine-gun-operation-texas-kill-switch-arrest)
-
- [![Israel launches retaliation attack against Iran](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-573687621-e1729899574488.jpg?ve=1&tl=1)
-
- ![Israel launches retaliation attack against Iran](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-573687621-e1729899574488.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/israel-launches-attack-iran)
-
-### [Israel launches retaliation attack against Iran](https://www.fox4news.com/news/israel-launches-attack-iran)
-
- [![Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/seth-altman-tarrant-co-jail-mug.png?ve=1&tl=1)
-
- ![Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/seth-altman-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seth-altman-captured-blue-alert-suspect)
-
-### [Man at center of Blue Alert wanted for shooting Texas police officer arrested in Fort Worth](https://www.fox4news.com/news/seth-altman-captured-blue-alert-suspect)
 
 ###### [News](https://www.fox4news.com/news)
 
