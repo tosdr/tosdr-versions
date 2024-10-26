@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-convenince-store-1200x630.jpg)](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-secret-service-2-1200x630.jpg)](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
 
-[Black Chicagoans shock convenience store worker with responses on election: ‘Make America Great Again!’](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
+[Whistleblowers claim Secret Service employees working with Trump were made to sign NDAs](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mel-gibson--1200x630.png)](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joeariz1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
 
-[Mel Gibson is down for Trump, says Kamala has ‘the IQ of a fence post’](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
+[Biden eulogizes ex-congresswoman who isn’t dead](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-1200x630.jpg)](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hagari-1200x630.jpg)](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
 
-Getty Images
+[Republicans unite, Kamala ‘out partying’ as Israel begins retaliatory strikes on Iran](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
 
-[New survey shows whopping percent of Americans want voter ID, proof of citizenship to vote](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jennings-sellers-1200x630.jpg)](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-1200x630.png)](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
+[CNN commentator dishes up reality check: ‘Thousands of Hitlers … running around college campuses’](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
 
-[‘Absolute coward’: Kamala ​​declines appearance on Joe Rogan’s podcast](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voter-registration-1200x630.jpg)](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-poop-1200x630.png)](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
+[Thousands of ‘potentially fraudulent voter registration applications’ uncovered, stopped in Pennsylvania](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
 
-[Poop statue placed outside Capitol to mark J6 doesn’t give intended impression: ‘Time for Pelosi to get FLUSHED’](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-comic-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-homemade-bridge-1200x630.jpg)](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
+[Trump-hating comic freaks out over polls: ‘It is time to f\*\*king panic’](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
 
-[‘Redneck ingenuity for the win!’ Locals get creative when gov’t fails to come through with Helene relief](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-crying-temper-tantrum-1200x630.jpg)](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-vance-oreilly-1200x630.jpg)](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
+[Top WaPo editor throws fit, resigns after paper won’t endorse Kamala](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
 
-[Bill O’Reilly tells Cuomo he ‘let Vance off’ during NewsNation town hall](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-survivor1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lgreek-flags-amber-matthews-1200x630.jpg)](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
+[Holocaust survivor weighs in on Kamala likening Trump to Hitler: ‘Worst thing I’ve ever heard’](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
 
-[Pro-Palestine zealot charged after she posts HERSELF ignorantly tearing down Greek flags, not Israeli](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-trump-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-1-1200x630.jpg)
-
-### Fmr. Obama official STUNS Fox hosts and viewers with ‘mind blowing’ take on Kamala’s border stance](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
+### Rogan reveals what finally made him sit down with Trump: ‘I think the timing is perfect’](https://americanwirenews.com/rogan-reveals-what-finally-made-him-sit-down-with-trump-i-think-the-timing-is-perfect/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,6 +78,14 @@ Getty Images
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-the-five-discussion-220x180.jpg)](https://americanwirenews.com/tarlov-goes-full-whataboutism-to-defend-harris-inciteful-language/)
+
+[Tarlov goes full whataboutism to defend Harris’ inciteful language](https://americanwirenews.com/tarlov-goes-full-whataboutism-to-defend-harris-inciteful-language/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-angrykamala-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/gop-congressional-leaders-call-on-kamala-to-stifle-her-dangerous-rhetoric-about-trump-she-fires-back/)
+
+[GOP Congressional leaders call on Kamala to stifle her dangerous rhetoric about Trump, she fires back](https://americanwirenews.com/gop-congressional-leaders-call-on-kamala-to-stifle-her-dangerous-rhetoric-about-trump-she-fires-back/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-glenn-youngkin-220x180.jpg)](https://americanwirenews.com/gov-youngkin-sounds-off-on-stunning-ruling-to-reinstate-removed-individuals-to-voter-rolls/)
 
 [Gov. Youngkin sounds off on ‘stunning ruling’ to reinstate removed individuals to voter rolls](https://americanwirenews.com/gov-youngkin-sounds-off-on-stunning-ruling-to-reinstate-removed-individuals-to-voter-rolls/)
@@ -88,21 +94,59 @@ Getty Images
 
 [Illegal with ‘aggressive, drug-resistant’ form of TB released after making contact with ‘hundreds of detainees’, state sues](https://americanwirenews.com/illegal-with-aggressive-drug-resistant-form-of-tb-released-after-making-contact-with-hundreds-of-detainees-state-sues/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-homemade-bridge-220x180.jpg)](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
+
+[‘Redneck ingenuity for the win!’ Locals get creative when gov’t fails to come through with Helene relief](https://americanwirenews.com/redneck-ingenuity-for-the-win-locals-get-creative-when-govt-fails-to-come-through-with-helene-relief/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lgreek-flags-amber-matthews-220x180.jpg)](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
+
+[Pro-Palestine zealot charged after she posts HERSELF ignorantly tearing down Greek flags, not Israeli](https://americanwirenews.com/pro-palestine-zealot-charged-after-she-posts-herself-ignorantly-tearing-down-greek-flags-not-israeli/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/mugshot-lcdc-1-220x180.jpg)](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
 
 [Bearded perp makes it into mugshot Hall of Shame after threatening to bomb beauty store](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-convenince-store-220x180.jpg)](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
+
+[Black Chicagoans shock convenience store worker with responses on election: ‘Make America Great Again!’](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-lv-220x180.png)](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
 
 [‘Man of the people!’ Trump met with raucous applause when he stops by Cuban Kitchen](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-1-220x180.jpg)](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
+
+[Fmr. Obama official STUNS Fox hosts and viewers with ‘mind blowing’ take on Kamala’s border stance](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+
+[New survey shows whopping percent of Americans want voter ID, proof of citizenship to vote](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mel-gibson--220x180.png)](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
+
+[Mel Gibson is down for Trump, says Kamala has ‘the IQ of a fence post’](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-poop-220x180.png)](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
+
+[Poop statue placed outside Capitol to mark J6 doesn’t give intended impression: ‘Time for Pelosi to get FLUSHED’](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Bannon-220x180.jpg)](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
 
 [Steve Bannon’s timely release from prison could help Trump win](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-vance-oreilly-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
+
+[Bill O’Reilly tells Cuomo he ‘let Vance off’ during NewsNation town hall](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hannity-smith-220x180.jpg)](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
 
 [Sean Hannity wallops Stephen A. Smith in heated battle over Kamala’s campaign](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-220x180.png)](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
+
+[‘Absolute coward’: Kamala ​​declines appearance on Joe Rogan’s podcast](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kari-lake-220x180.png)](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
 
@@ -131,52 +175,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-220x180.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
 
 [Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-menendez-brothers-220x180.jpg)](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
-
-[Menendez brothers’ uncle is furious, says DA is seeking fame days ahead of a crucial election he’s poised to lose](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-220x180.png)](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
-
-[Obama defends Kamala’s McJob claim](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tempe-trashcan-220x180.jpg)](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
-
-[Trump rips Kamala’s immigration policies that have made U.S. ‘like a garbage can for the world’](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam_victim-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
-
-[Texas Republicans slam Kamala for rally in city where 12-yr-old girl was murdered by illegals](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-kam-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
-
-[JD Vance calls out Kamala’s ‘disgraceful’ anti-Catholic bigotry](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/college-student--220x180.png)](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
-
-[‘Maybe the media’s lying to you’: Charlie Kirk leaves ‘indoctrinated’ Trump hater speechless](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
-
-[Swing state puts voting rights for non-citizens on the ballot to clarify state constitution](https://americanwirenews.com/swing-state-puts-voting-rights-for-non-citizens-on-the-ballot-to-clarify-state-constitution/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamalateeth-1200-x-628-220x180.jpg)](https://americanwirenews.com/desperate-dnc-will-run-billboard-with-debunked-atlantics-hitler-headline-outside-trump-rally/)
-
-[‘Desperate’ DNC will run billboard with ‘debunked’ Atlantic’s Hitler headline outside Trump rally](https://americanwirenews.com/desperate-dnc-will-run-billboard-with-debunked-atlantics-hitler-headline-outside-trump-rally/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-stock-market-220x180.jpg)](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
-
-[Billionaire investor believes stock market is ‘convinced’ who will win presidential election](https://americanwirenews.com/billionaire-investor-believes-stock-market-is-convinced-who-will-win-presidential-election/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-emhoff-220x180.jpg)](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
-
-[Woman allegedly slapped by Doug Emhoff breaks her silence, ‘disgusted’ by his ‘fabricated persona’](https://americanwirenews.com/woman-allegedly-slapped-by-doug-emhoff-breaks-her-silence-disgusted-by-his-fabricated-persona/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-illegal-aliens-220x180.jpg)](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
-
-[‘Quiet amnesty’: Here’s how Biden-Harris regime is making it impossible to deport massive amount of illegals](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
