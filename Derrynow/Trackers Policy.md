@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 25 2024](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who are the guests on tonight's RTE Late Late Show? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's RTE Late Late Show? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's RTE Late Late Show? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 
 Derry Crown Court
@@ -335,18 +321,29 @@ Derry Magistrate's Court
 [Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail")](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1639383/who-are-the-guests-on-tonight-s-graham-norton-show-as-irish-stars-lead-line-up.html)
+
+Photo: PA
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's Graham Norton Show as Irish stars lead line-up?](https://www.derrynow.com/news/arts---entertainment/1639383/who-are-the-guests-on-tonight-s-graham-norton-show-as-irish-stars-lead-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
-
-[![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 
@@ -354,6 +351,13 @@ Multimedia
 
 [PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
 
@@ -515,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 26 2024](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
 
 Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Miller, Sportsfile
@@ -524,7 +535,7 @@ Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Mil
 [Derry City title hopes end with defeat at St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival")](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
+[![‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](https://www.derrynow.com/resizer/165/93/true/2024_10_25/25-10-24_DEEDS_choir_16-1729870342461.jpg--.jpg?1729870343044 "‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival")](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
 
 One of the Mellow Deeds choir in full flow on Friday morning. (Photo: Jim McCafferty Photography)
 
@@ -559,13 +570,6 @@ Derry Crown Court
 
 [Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor urges public to stay safe at Derry Halloween celebrations](https://www.derrynow.com/resizer/165/93/true/2024_10_25/DerryHalloweenLaunch20241-1729860512082.jpg--.jpg?1729860512694 "Mayor urges public to stay safe at Derry Halloween celebrations")](https://www.derrynow.com/news/local-news/1639628/mayor-urges-public-to-stay-safe-at-derry-halloween-celebrations.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Mayor urges public to stay safe at Derry Halloween celebrations](https://www.derrynow.com/news/local-news/1639628/mayor-urges-public-to-stay-safe-at-derry-halloween-celebrations.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
