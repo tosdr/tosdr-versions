@@ -24,6 +24,7 @@ Dein eigener Server für grenzenlosen Spielspaß.
 Leistungsstarke Rootserver für alle Anwendungsfälle.
 
 * — [Linux Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+* — [Ryzen Rootserver NEU](https://mc-host24.de/ryzen-rootserver-mieten)
 * — [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
 
 Web & Domains
@@ -62,6 +63,7 @@ Menü schließen
     * [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
     * [Gameserver Cloud](https://mc-host24.de/gameserver/list)
     * [Linux Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+    * [Ryzen Rootserver NEU](https://mc-host24.de/ryzen-rootserver-mieten)
     * [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
     * [Webspace](https://mc-host24.de/webspace-mieten)
     * [Domains](https://mc-host24.de/domain-mieten)
