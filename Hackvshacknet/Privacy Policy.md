@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
-* [![Galacticok](/data/avatars/s/108/108380.jpg?1729928742)](http://hackvshack.net/members/galacticok.108380/)
-* [](http://hackvshack.net/members/popa-pisa.108379/)
-* [](http://hackvshack.net/members/senzium.108378/)
-* [![TrueVHzer0](/data/avatars/s/108/108377.jpg?1729922020)](http://hackvshack.net/members/truevhzer0.108377/)
-* [![mrdunghr](/data/avatars/s/108/108376.jpg?1729920455)](http://hackvshack.net/members/mrdunghr.108376/)
-* [![gawaf1337](/data/avatars/s/108/108375.jpg?1729919496)](http://hackvshack.net/members/gawaf1337.108375/)
-* [](http://hackvshack.net/members/lzqlz.108374/)
-* [](http://hackvshack.net/members/salzx2016.108373/)
-* [![u_us](/data/avatars/s/108/108372.jpg?1729911671)](http://hackvshack.net/members/u_us.108372/)
-* [](http://hackvshack.net/members/jntml.108371/)
-* [![HeavenDead](/data/avatars/s/108/108370.jpg?1729907826)](http://hackvshack.net/members/heavendead.108370/)
-* [](http://hackvshack.net/members/robertcht.108369/)
+* [![wwwxcftd](/data/avatars/s/108/108417.jpg?1729951362)](http://hackvshack.net/members/wwwxcftd.108417/)
+* [](http://hackvshack.net/members/peperrr.108416/)
+* [](http://hackvshack.net/members/commonuser.108415/)
+* [![bluee](/data/avatars/s/108/108414.jpg?1729950390)](http://hackvshack.net/members/bluee.108414/)
+* [![sosals](/data/avatars/s/108/108413.jpg?1729949712)](http://hackvshack.net/members/sosals.108413/)
+* [![saha](/data/avatars/s/108/108412.jpg?1729949427)](http://hackvshack.net/members/saha.108412/)
+* [![olyxoo](/data/avatars/s/108/108411.jpg?1729949332)](http://hackvshack.net/members/olyxoo.108411/)
+* [](http://hackvshack.net/members/thexgyt.108410/)
+* [![araevsky](/data/avatars/s/108/108409.jpg?1729948951)](http://hackvshack.net/members/araevsky.108409/)
+* [](http://hackvshack.net/members/mortrefres.108408/)
+* [![bluelights](/data/avatars/s/108/108407.jpg?1729948445)](http://hackvshack.net/members/bluelights.108407/)
+* [](http://hackvshack.net/members/laurex.108406/)
 
 ### Partners
 
@@ -255,15 +255,15 @@ Threads
 
 Messages
 
-22,787
+22,789
 
 Members
 
-108,379
+108,416
 
 Latest member
 
-[popa pisa](http://hackvshack.net/members/popa-pisa.108379/)
+[Peperrr](http://hackvshack.net/members/peperrr.108416/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -271,15 +271,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-41
+75
 
 Guests online
 
-306
+359
 
 Total visitors
 
-347
+434
 
 Totals may include hidden visitors.
 
