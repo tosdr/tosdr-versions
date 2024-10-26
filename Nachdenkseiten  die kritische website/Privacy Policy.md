@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/04/230418-Gespraech-Ganser-Mueller-TitelbildKasten.jpg "Daniele Ganser im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=96507)
+[![Interview mit Michael Lüders: „Wir werden als mitschuldig gelten für den Massenmord im Gazastreifen“](https://www.nachdenkseiten.de/wp-content/uploads/2024/10/241022-Lueders-Holmes-Kasten-NDS.jpg "Interview mit Michael Lüders: „Wir werden als mitschuldig gelten für den Massenmord im Gazastreifen“")](https://www.nachdenkseiten.de/?p=123626)
 
-* [Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=96507)
+* [Interview mit Michael Lüders: „Wir werden als mitschuldig gelten für den Massenmord im Gazastreifen“](https://www.nachdenkseiten.de/?p=123626)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
