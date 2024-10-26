@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israel conducts airstrikes against Iranian military targets](https://www.csmonitor.com/World/Middle-East/2024/1026/Israel-missile-strikes-Tehran-Iran "Israel conducts airstrikes against Iranian military targets")
+
 [### Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.](https://www.csmonitor.com/USA/2024/1025/Biden-Native-American-apology-election-boarding-school "Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.")
 
 [### The Menendez brothers received life without parole. Should they walk free?](https://www.csmonitor.com/USA/2024/1025/Menendez-brothers-murder-case-resentencing-LA "The Menendez brothers received life without parole. Should they walk free?")
-
-[### Under deadly Israeli siege, north Gaza residents face terrifying ultimatum](https://www.csmonitor.com/World/Middle-East/2024/1025/israeli-siege-north-gaza-palestinians "Under deadly Israeli siege, north Gaza residents face terrifying ultimatum")
 
 * * *
 
