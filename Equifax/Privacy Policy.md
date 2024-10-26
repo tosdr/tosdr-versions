@@ -116,8 +116,8 @@
     
     * USA [English](https://www.equifax.com/)
     * Brazil [Portuguese](https://www.equifax.com.br/)
-    * Canada [English](https://www.consumer.equifax.ca/en/personal/) [French](https://www.consumer.equifax.ca/fr/personnel/)
-    * Mexico [Spanish](https://www.equifax.com.mx/)
+    * Canada [English](https://www.equifax.ca/en/personal/) [French](https://www.equifax.ca/fr/personnel/)
+    * Mexico [Spanish](https://www.equifax.com.mx/es/)
     * Argentina [Spanish](https://www.soluciones.equifax.com.ar/)
     * Peru [Spanish](https://www.equifax.pe/)
     * Chile [Spanish](https://soluciones.equifax.cl/)
