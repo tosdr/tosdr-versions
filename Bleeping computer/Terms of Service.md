@@ -36,18 +36,18 @@
         
         QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
     
+    * [![New Windows Driver Signature bypass allows kernel rootkit installs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+    * [![Want to work in cybersecurity? Check out this $56 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Want to work in cybersecurity? Check out this $56 course bundle deal](https://www.bleepingcomputer.com/offer/deals/want-to-work-in-cybersecurity-check-out-this-56-course-bundle-deal/)
+    * [![Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
     * [![Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
-    * [![Russia sentences REvil ransomware members to over 4 years in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russia sentences REvil ransomware members to over 4 years in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/)
-    * [![Amazon seizes domains used in rogue Remote Desktop campaign to steal data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
-    * [![Try this course deal to train in popular IT certifications for $29.97](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Try this course deal to train in popular IT certifications for $29.97](https://www.bleepingcomputer.com/offer/deals/try-this-course-deal-to-train-in-popular-it-certifications-for-2997/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
