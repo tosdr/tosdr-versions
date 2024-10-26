@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[DRAFT\] Liberate Orthodox Radical Occ… (15)](https://forum.nationstates.net/viewtopic.php?t=557539&f=24&view=unread#unread ""[DRAFT] Liberate Orthodox Radical Occupational Republic" (15 posts)")
-* [AL holds YL's hands, thoughts (5)](https://forum.nationstates.net/viewtopic.php?t=557483&f=25&view=unread#unread ""AL holds YL's hands, thoughts" (5 posts)")
-* [Nickname AN's flag (7)](https://forum.nationstates.net/viewtopic.php?t=557547&f=25&view=unread#unread ""Nickname AN's flag" (7 posts)")
-* [Transformers: Electric Trepidation (10,203)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,203 posts)")
-* [Thread Transfer Possibility? (13)](https://forum.nationstates.net/viewtopic.php?t=540930&f=16&view=unread#unread ""Thread Transfer Possibility?" (13 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (12,457)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (12,457 posts)")
+* [Islamic Discussion Thread ٥: Free Taj… (11,839)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,839 posts)")
+* [Agree or Disagree III (11,711)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (11,711 posts)")
+* [Would you Live in AN'S (3,825)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (3,825 posts)")
+* [The Problem about \[Radical\] Islam (es… (118)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (118 posts)")
 
 Advertisement
 
