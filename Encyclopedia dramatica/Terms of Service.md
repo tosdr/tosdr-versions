@@ -130,7 +130,7 @@ Navigation menu
 * [Page information](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:Basic_Rules&action=info "More information about this page")
 
 * This page was last edited on 16 June 2022, at 21:12.
-* This page has been accessed 375 times.
+* This page has been accessed 385 times.
 
 * [Privacy policy](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:Privacy_policy)
 * [About Encyclopedia Dramatica](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:About)
