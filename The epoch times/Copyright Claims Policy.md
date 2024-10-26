@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Governors’ Races to Watch in the 2024 Election](https://www.theepochtimes.com/us/governors-races-to-watch-5748191)
+    
+    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Governors’ Races to Watch in the 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Governors’ Races to Watch in the 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741963-AP24289492278104-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/governors-races-to-watch-5748191)
+* [Early Voting in All of Michigan](https://www.theepochtimes.com/us/early-voting-in-all-of-michigan-5748005)
+    
+    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    
+    [![Early Voting in All of Michigan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Early Voting in All of Michigan](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739987-10092024-L1160187-Detroit-Michigan-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-in-all-of-michigan-5748005)
+* [New York’s Proposition 1 Sparks Debate Over Parents’ Rights](https://www.theepochtimes.com/us/new-yorks-proposition-1-sparks-debate-over-parents-rights-5747362)
+    
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    
+    [![New York’s Proposition 1 Sparks Debate Over Parents’ Rights](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New York’s Proposition 1 Sparks Debate Over Parents’ Rights](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747480-new-york-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-proposition-1-sparks-debate-over-parents-rights-5747362)
+* [What North Korean Involvement Could Mean for the Russia–Ukraine War](https://www.theepochtimes.com/world/what-north-korean-involvement-could-mean-for-the-russia-ukraine-war-5747506)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![What North Korean Involvement Could Mean for the Russia–Ukraine War](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![What North Korean Involvement Could Mean for the Russia–Ukraine War](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671501-2024-06-18T235613Z_1_LYNXMPEK5H0VT_RTROPTP_4_NORTHKOREA-RUSSIA-205x123.jpg.webp)](https://www.theepochtimes.com/world/what-north-korean-involvement-could-mean-for-the-russia-ukraine-war-5747506)
+* [Key Moments From Trump’s Candid Conversation With Joe Rogan](https://www.theepochtimes.com/us/key-moments-from-trumps-candid-conversation-with-joe-rogan-5748290)
+    
+    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Key Moments From Trump’s Candid Conversation With Joe Rogan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Key Moments From Trump’s Candid Conversation With Joe Rogan](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748298-New-Project-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/key-moments-from-trumps-candid-conversation-with-joe-rogan-5748290)
 * [Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://www.theepochtimes.com/world/hamas-commander-on-oct-7-worked-for-unrwa-israel-says-5748030)
     
-    1hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748031-mohammed-itiwi-on-oct.-7-205x123.jpg.webp)](https://www.theepochtimes.com/world/hamas-commander-on-oct-7-worked-for-unrwa-israel-says-5748030)
 * [Gratitude: An Alternative Medicine for Anger and Depression](https://www.theepochtimes.com/health/gratitude-an-alternative-medicine-for-anger-and-depression-5719710)
     
-    3hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert), [Robert Backer](https://www.theepochtimes.com/expert/robert-backer) and [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts)
+    9hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert), [Robert Backer](https://www.theepochtimes.com/expert/robert-backer) and [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts)
     
     [![Gratitude: An Alternative Medicine for Anger and Depression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Gratitude: An Alternative Medicine for Anger and Depression](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744159-Untitled_Artwork-gratitude1-205x123.jpg.webp)](https://www.theepochtimes.com/health/gratitude-an-alternative-medicine-for-anger-and-depression-5719710)
 * [Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://www.theepochtimes.com/us/wisconsins-in-person-early-voting-up-40-percent-from-2020-post-5748153)
     
-    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    9hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746485-Wisconson_JF_10222024-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsins-in-person-early-voting-up-40-percent-from-2020-post-5748153)
 * [Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://www.theepochtimes.com/article/day-in-photos-illegal-crossing-returning-spacecraft-presidents-apology-5747971)
     
-    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748093-GettyImages-2180106026KOKO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-crossing-returning-spacecraft-presidents-apology-5747971)
-* [Israel Launches Retaliatory Strikes Against Targets In Iran](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
+* [Israel Launches Retaliatory Strikes Against Military Targets in Iran](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Israel Launches Retaliatory Strikes Against Targets In Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Launches Retaliatory Strikes Against Military Targets in Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Launches Retaliatory Strikes Against Targets In Iran](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748246-GALLANT-NETANYAHU-205x123.jpeg.webp)](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
-* [Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://www.theepochtimes.com/us/bezos-made-decision-to-block-harris-endorsement-in-washington-post-paper-reports-5748038)
-    
-    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://img.theepochtimes.com/assets/uploads/2024/02/11/id5585037-Jeff-Bezos-205x123.jpg.webp)](https://www.theepochtimes.com/us/bezos-made-decision-to-block-harris-endorsement-in-washington-post-paper-reports-5748038)
-* [Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://www.theepochtimes.com/entertainment/phil-lesh-grateful-dead-co-founding-bassist-has-died-at-84-post-5748122)
-    
-    5hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
-    
-    [![Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://img.theepochtimes.com/assets/uploads/2015/09/GD86875915-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/phil-lesh-grateful-dead-co-founding-bassist-has-died-at-84-post-5748122)
-* [Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://www.theepochtimes.com/us/appeals-court-overturns-mississippi-law-that-allows-mail-in-ballots-after-election-day-5748121)
-    
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724443-GettyImages-1281302247-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-overturns-mississippi-law-that-allows-mail-in-ballots-after-election-day-5748121)
-* [DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://www.theepochtimes.com/china/doj-indicts-8-chinese-companies-for-allegedly-distributing-manufacturing-fentanyl-5747968)
-    
-    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734657-07292024-DSC09126-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/doj-indicts-8-chinese-companies-for-allegedly-distributing-manufacturing-fentanyl-5747968)
-* [Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://www.theepochtimes.com/health/curcumin-supplementation-linked-to-54-percent-reduction-in-age-related-vision-loss-risk-5747864)
-    
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748131-shutterstock_1608820219_curcumin_turmeric_tumeric_supplement-205x123.jpg.webp)](https://www.theepochtimes.com/health/curcumin-supplementation-linked-to-54-percent-reduction-in-age-related-vision-loss-risk-5747864)
+    ![Israel Launches Retaliatory Strikes Against Military Targets in Iran](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748246-GALLANT-NETANYAHU-205x123.jpeg.webp)](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
