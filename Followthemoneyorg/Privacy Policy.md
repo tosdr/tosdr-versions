@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+[![DualAdvantage](/assets/logos/DuelAdvantage.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2007-2008-state-elections)
 
-Look at this tobacco giant’s giving.
+Check out the power of a dual advantage.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
