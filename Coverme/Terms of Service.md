@@ -15,7 +15,7 @@ Terms of Service
 ================
 
 Welcome to CoverMe.  
-The coverme.ws website (the "Website" or "CoverMe Website") and CoverMe mobile applications (the Software or CoverMe Software) are owned and operated by Airbit Communication Limited("CoverMe", "us" or "we"). By visiting our website or using the CoverMe mobile application, and by accessing the information, resources, services, products, and tools we provide, you understand and agree to accept and adhere to the following terms and conditions as stated in this policy (hereafter referred to as "User Agreement"), along with the terms and conditions as stated in our Privacy Policy (please refer to the Privacy Policy section below for more information).
+The coverme.ws website (the "Website" or "CoverMe Website") and CoverMe mobile applications (the Software or CoverMe Software) are owned and operated by CoverMe Communications Inc("CoverMe", "us" or "we"). By visiting our website or using the CoverMe mobile application, and by accessing the information, resources, services, products, and tools we provide, you understand and agree to accept and adhere to the following terms and conditions as stated in this policy (hereafter referred to as "User Agreement"), along with the terms and conditions as stated in our Privacy Policy (please refer to the Privacy Policy section below for more information).
 
 This agreement is in effect as of October 1, 2020.
 
@@ -44,7 +44,7 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
         1. Is illegal, threatening, defamatory, abusive, harassing, degrading, intimidating, fraudulent, deceptive, invasive, racist, or contains any type of suggestive, inappropriate, or explicit language;
         2. Infringes on any trademark, patent, trade secret, copyright, or other proprietary right of any party;
         3. Contains any type of unauthorized or unsolicited advertising;
-        4. Impersonates any person or entity, including any Airbit Communication Limited. employees or representatives.
+        4. Impersonates any person or entity, including any CoverMe Communications Inc. employees or representatives.
         
         We have the right at our sole discretion to remove any content that we feel, in our judgment, does not comply with this User Agreement, along with any content that we feel is otherwise offensive, harmful, objectionable, inaccurate, or violates any third-party party copyrights or trademarks. We are also not responsible for any delay in removing or failure to remove such content. If you post content that we choose to remove, you hereby consent to such removal, and consent to waive any claim against us.
         
@@ -62,7 +62,7 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
     11. Some carriers may prohibit or restrict the use of Voice over Internet Protocol (VoIP) functionality over their network, and may also impose additional fees, or other charges in connection with VoIP. You agree to learn and abide by your carrier's network restrictions. CoverMe will not be held liable for any charges, fees or liability imposed by your carrier for use of VoIP over their networks.
     12. The Software does not guarantee the self-destructing messages you send will be self-destructed. Furthermore, someone could find a way to video capture CoverMe, take a screen shot, or take a photo of the phone. CoverMe cannot promise that your messages will not be copied by some alternative means and redistributed.
     13. Although we use the highest standard encryption which is mathematically impractical to crack, CoverMe does not guarantee the encryption algorithms used by the Software are unbreakable in any way as technology advances and the scientific understanding of computing methods and mathematics becomes ever more complex. CoverMe will not be held liable for any loss, damages in connection with your information protected by the Software is decrypted, stolen, deleted, copied, hacked or intercepted.
-    14. You agree to indemnify and hold harmless Airbit Communication Limited. and its parent company and affiliates, and their directors, officers, managers, employees, donors, agents, and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation of this User Agreement or the failure to fulfill any obligations relating to your account as incurred by you or any other person using your account. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this User Agreement. In the event of these circumstances, you agree to provide us with all reasonably requested cooperation.
+    14. You agree to indemnify and hold harmless CoverMe Communications Inc. and its parent company and affiliates, and their directors, officers, managers, employees, donors, agents, and licensors, from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation of this User Agreement or the failure to fulfill any obligations relating to your account as incurred by you or any other person using your account. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this User Agreement. In the event of these circumstances, you agree to provide us with all reasonably requested cooperation.
     15. Sending any type of unauthorized or unsolicited advertising or sending a large number of messages and calls frequently in a short time is strictly prohibited. We have the right to reclaim the CoverMe phone numbers that were assigned to you.
     16. Unlimited calling plan does not include calls to Alaska of U.S, Yukon of Canada, directory assistance numbers, and certain special phone numbers. Additional per minutes charge applies. Please check calling rates of calls to the above destinations. You acknowledge the right for CoverMe to suspend all or part of the Calling Service and Texting Service at no liability to CoverMe if your usage of CoverMe Products and Services is inconsistent with fair use. Fair use will be determined by CoverMe in a manner relevant to each separate service offering and subject to CoverMe's sole discretion. In some, but not all, cases, this may mean that services are measured compared to other CoverMe users, to industry-wide averages or norms, or to traffic patterns consistent with human as opposed to machine operation. CoverMe reserves the right to evaluate what it considers fair use according to any single or number of factors and in its sole discretion according to the disclosed or other factors, and the evaluation shall be a breach of the terms of this Agreement.
 2. CoverMe Phone Numbers
@@ -130,15 +130,15 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
     3. The information obtained by using our Resources will be accurate or reliable
     4. Any defects in the operation or functionality of any Resources we provide will be repaired or corrected.
     5. Furthermore, you understand and agree that: Any content downloaded or otherwise obtained through the use of our Resources is done at your own discretion and risk, and that you are solely responsible for any damage to your computer or other devices for any loss of data that may result from the download of such content.
-    6. No information or advice, whether expressed, implied, oral or written, obtained by you from Airbit Communication Limited. or through any Resources we provide shall create any warranty, guarantee, or conditions of any kind, except for those expressly outlined in this User Agreement.
+    6. No information or advice, whether expressed, implied, oral or written, obtained by you from CoverMe Communications Inc. or through any Resources we provide shall create any warranty, guarantee, or conditions of any kind, except for those expressly outlined in this User Agreement.
     7. Under extreme circumstances, shall the phone number providers terminates the service with or without a cause, we will replace the numbers to minimize service disruption.
 8. Limitation of Liability
     
-    In conjunction with the Limitation of Warranties as explained above, you expressly understand and agree that any claim against us shall be limited to the amount you paid, if any, for use of products and/or services. Airbit Communication Limited. will not be liable for any direct, indirect, incidental, consequential or exemplary loss or damages which may be incurred by you as a result of using our Resources, or as a result of any changes, data loss or corruption, cancellation, loss of access, or downtime to the full extent that applicable limitation of liability laws apply.
+    In conjunction with the Limitation of Warranties as explained above, you expressly understand and agree that any claim against us shall be limited to the amount you paid, if any, for use of products and/or services. CoverMe Communications Inc. will not be liable for any direct, indirect, incidental, consequential or exemplary loss or damages which may be incurred by you as a result of using our Resources, or as a result of any changes, data loss or corruption, cancellation, loss of access, or downtime to the full extent that applicable limitation of liability laws apply.
     
 9. Copyrights/Trademarks
     
-    All content and materials available on coverme.ws—including but not limited to text, graphics, website name, code, images and logos—are the intellectual property of Airbit Communication Limited, and are protected by applicable copyright and trademark laws. Any inappropriate uses, including but not limited to the reproduction, distribution, display or transmission of any content on this site is strictly prohibited, unless specifically authorized by Airbit Communication Limited.
+    All content and materials available on coverme.ws—including but not limited to text, graphics, website name, code, images and logos—are the intellectual property of CoverMe Communications Inc, and are protected by applicable copyright and trademark laws. Any inappropriate uses, including but not limited to the reproduction, distribution, display or transmission of any content on this site is strictly prohibited, unless specifically authorized by CoverMe Communications Inc.
     
 10. Termination of Use
     
@@ -150,13 +150,13 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
     
 12. Governing Law
     
-    The Website and the Software are controlled by Airbit Communication Limited. from its offices located in Hong Kong. The Website and the Software can be accessed by most countries around the world. As each country has laws that may differ from those of Hong Kong, by accessing our website and the Software, you agree that the statutes and laws of California, without regard to the conflict of laws and the United Nations Convention on the International Sales of Goods, will apply to all matters relating to the use of this website and the purchase of any products or services through this site.
+    The Website and the Software are controlled by CoverMe Communications Inc. from its offices located in Hong Kong. The Website and the Software can be accessed by most countries around the world. As each country has laws that may differ from those of Hong Kong, by accessing our website and the Software, you agree that the statutes and laws of California, without regard to the conflict of laws and the United Nations Convention on the International Sales of Goods, will apply to all matters relating to the use of this website and the purchase of any products or services through this site.
     
     Furthermore, any action to enforce this User Agreement shall be brought in the courts located in Hong Kong. You hereby agree to personal jurisdiction by such courts, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
     
 13. Guarantee
     
-    UNLESS OTHERWISE EXPRESSED, AIRBIT COMMUNICATION LIMITED. EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+    UNLESS OTHERWISE EXPRESSED, COVERME COMMUNICATIONS INC. EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO: THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
     
 14. Contact Information
     
@@ -181,7 +181,7 @@ WE RESERVE THE RIGHT TO CHANGE THIS USER AGREEMENT FROM TIME TO TIME WITHOUT NOT
 * |
 * [Terms of Service](https://www.coverme.ws/en/terms.html)
 
-© 2024 Airbit Communication Limited
+© 2024 CoverMe Communications Inc
 
 Follow Us
 
@@ -200,7 +200,7 @@ About Us
 
 [Privacy Policy](http://www.coverme.ws/men/privacy_policy.html)[Terms of Service](http://www.coverme.ws/men/terms.html)
 
-© 2022 Airbit Communication Limited
+© 2022 CoverMe Communications Inc
 
 Get the redeem code  ![copy](/images_new/copy@1x.png)
 
