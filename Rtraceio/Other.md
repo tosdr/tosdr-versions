@@ -1,7 +1,7 @@
-[Blog](https://blog.rtrace.io/) [About](https://blog.rtrace.io/about/me) [Music](https://blog.rtrace.io/about/my/music) [DJ Sets](https://blog.rtrace.io/about/my/sets) [Live](https://live.rtrace.io/)
+[Blog](https://blog.rtrace.io/) [About](https://blog.rtrace.io/about/me) [Music](https://blog.rtrace.io/about/my/music) [Live](https://live.rtrace.io/)
 
-[Impressum](#Impressum "Impressum")
-===================================
+Impressum
+=========
 
 Im Sinne der Offenlegungspflicht / In terms of the disclosure obligation:
 
@@ -62,4 +62,4 @@ DMCA takedown requests are processed within 5 workdays.
 5. ![Atom-Feed](/img/rss-16x16.png) [Atom-Feed](https://blog.rtrace.io/atom.xml)
 6. ![Status](/img/uptimekuma-16x16.png) [Status](https://status.rtrace.io/)
 
-made with and [Hexo](https://hexo.io/) by [Raffael](https://blog.rtrace.io/about/me)
+made with ❤️ and [Hexo](https://hexo.io/) by [Raffael](https://blog.rtrace.io/about/me)
