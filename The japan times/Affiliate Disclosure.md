@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 26, 2024](https://www.japantimes.co.jp/archive/2024/10/26/ "archive page")
+[October 27, 2024](https://www.japantimes.co.jp/archive/2024/10/27/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -139,13 +139,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
+[Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+
+  [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
-
-[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
-  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
 
 [Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
@@ -172,19 +172,17 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+
+  [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[¥1,500 minimum wage or bust, Japanese companies told](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -213,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +255,23 @@ Latest News
 
 [The man who shaped China’s strongman rule has a new job: winning Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/politics/china-wang-huning/ "The man who shaped China’s strongman rule has a new job: winning Taiwan")
 
-46 mins ago
+6 hours ago
 
 [NATO invites Japan, three others to ambassador-level meeting on North Korea](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-nato-north-korea-russia/ "NATO invites Japan, three others to ambassador-level meeting on North Korea")
 
-2 hours ago
+9 hours ago
 
 [As U.S. election looms, Biden aides struggle with Middle East wars](https://www.japantimes.co.jp/news/2024/10/26/world/politics/us-middle-east-wars-election/ "As U.S. election looms, Biden aides struggle with Middle East wars")
 
-3 hours ago
+9 hours ago
 
 [In Guatemala, families mourn the migrants who never reached the U.S.](https://www.japantimes.co.jp/news/2024/10/26/world/society/guatemala-family-mourn-us-crossing/ "In Guatemala, families mourn the migrants who never reached the U.S.")
 
-4 hours ago
+10 hours ago
 
 [U.S. missile agency scales back Guam defense plans](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-missile-agency-guam-defense/ "U.S. missile agency scales back Guam defense plans")
 
-4 hours ago
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
