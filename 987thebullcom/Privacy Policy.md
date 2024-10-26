@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Miles On ItKane Brown Ft Marshmello<br><br>5:40pm |
-| Hotel KeyOld Dominion<br><br>5:37pm |
-| Watermelon MoonshineLainey Wilson<br><br>5:34pm |
-| Big Green TractorJason Aldean<br><br>5:25pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:22pm |
+| Love SomebodyMorgan Wallen<br><br>11:35pm |
+| I Am Not OkayJelly Roll<br><br>11:32pm |
+| AustinDasha<br><br>11:29pm |
+| I Never LieZach Top<br><br>11:25pm |
+| Hard To ForgetSam Hunt<br><br>11:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Sports • Midwest
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
