@@ -205,29 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [FUCK CHRISTMAS: I HATE YOU SHERRY JOHNSTON](https://www.somethingawful.com/levi-johnston/levi-johnston-christmas/1/)
-* [Dean v. Kwame](https://www.somethingawful.com/icq-pranks/kwame-kilpatrick-prank/1/)
-* [Interested Times](https://www.somethingawful.com/news/easter-bunny-bush/1/)
-* [Embarassing Sexual Moments Part 1](https://www.somethingawful.com/comedy-goldmine/embarassing-sexual-moments/1/)
-* [World War Fun](https://www.somethingawful.com/photoshop-phriday/world-war-fun/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [2009 Fashion SWAT Howl-o-ween Shocktober Spooktacular](https://www.somethingawful.com/fashion-swat/fashion-2009-halloween/1/)
+* [WTF, Traveller Art!?](https://www.somethingawful.com/dungeons-and-dragons/traveller-artwork-steve/1/)
+* [HELP!! dick stuck in vcr](https://www.somethingawful.com/comedy-goldmine/not-explaining-vcr/)
+* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Fellas with dicks, do you pee through the hole on your underwear?](http://forums.somethingawful.com/showthread.php?threadid=4073628 "Fellas with dicks, do you pee through the hole on your underwear?")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [what's your greatest talent and what has it gained you?](http://forums.somethingawful.com/showthread.php?threadid=4073571 "what's your greatest talent and what has it gained you?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
-* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I guess some goons are Finnish?](http://forums.somethingawful.com/showthread.php?threadid=4073566 "I guess some goons are Finnish?")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [MS PAINT THREAD: Draw Garfield From Memory](http://forums.somethingawful.com/showthread.php?threadid=4073629 "MS PAINT THREAD: Draw Garfield From Memory")
 * ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [watching spinny wheels](http://forums.somethingawful.com/showthread.php?threadid=4073597 "watching spinny wheels")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Letters and numbers vve dont really need](http://forums.somethingawful.com/showthread.php?threadid=4073545 "Letters and numbers vve dont really need")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I guess some goons are Finnish?](http://forums.somethingawful.com/showthread.php?threadid=4073566 "I guess some goons are Finnish?")
 
 ### Random Articles
 
-* [Being a Better Nerd](https://www.somethingawful.com/news/being-better-nerd/)
-* [My Sincere Apologies](https://www.somethingawful.com/mooflogs/daily-apology/)
-* [Peter Parker Writes The News](https://www.somethingawful.com/news/peter-parker-news/)
-* [Abelard](https://www.somethingawful.com/awful-links/awful-link-1491/)
-* [Mario's Time Machine](https://www.somethingawful.com/rom-pit/mariotimemachine/)
+* [What's Riker Doing?](https://www.somethingawful.com/photoshop-phriday/riker-star-trek/1/)
+* [The Indecent Bargain Proposal](https://www.somethingawful.com/news/shoestring-indecent-proposal/)
+* [WELCOME TO HUG HEAVEN](https://www.somethingawful.com/awful-links/awful-link-682/)
+* [Hug E Gram (Thanks, Crass!)](https://www.somethingawful.com/awful-links/hug-e-gram/)
+* [Countdown to Destruction](https://www.somethingawful.com/garbage-day/feist-reminder-muppet/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
