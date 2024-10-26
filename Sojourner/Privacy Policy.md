@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-57cb8468f60e8fe874421d2f6d341f56
+6c0698af0c6858e30fc506b861975f61
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm clear frosted heart beads](https://www.sojourner.biz/images/cache/glass/HRT008.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-clear-frosted-heart-beads.html "10 mm clear frosted heart beads")
+[![Little black clasp](https://www.sojourner.biz/images/cache/SKU0202front.200.jpg)](https://www.sojourner.biz/clasps/glass/little-black-clasp.html "Little black clasp")
 
-#### [10 mm clear frosted heart beads](https://www.sojourner.biz/beads/glass/10-mm-clear-frosted-heart-beads.html "10 mm clear frosted heart beads")
+#### [Little black clasp](https://www.sojourner.biz/clasps/glass/little-black-clasp.html "Little black clasp")
 
-$4.00
+$13.50
 
 ### Best Sellers
 
