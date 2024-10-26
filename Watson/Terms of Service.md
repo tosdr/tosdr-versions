@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)11°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,21 +54,21 @@
 
 Thèmes du moment
 
+* [Gaza](https://www.watson.ch/fr/gaza/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
-* [Mode](https://www.watson.ch/fr/mode/)
-* [Famille](https://www.watson.ch/fr/famille/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [eglise](https://www.watson.ch/fr/eglise/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Parti socialiste](https://www.watson.ch/fr/parti-socialiste/)
+* [Iran](https://www.watson.ch/fr/iran/)
+* [Lara Gut-Behrami](https://www.watson.ch/fr/lara-gut-behrami/)
 * [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Analyse](https://www.watson.ch/fr/analyse/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [eglise](https://www.watson.ch/fr/eglise/)
+* [Hamas](https://www.watson.ch/fr/hamas/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [McDonald's](https://www.watson.ch/fr/mcdonald-s/)
 * [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Russie](https://www.watson.ch/fr/russie/)
