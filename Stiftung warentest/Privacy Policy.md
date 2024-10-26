@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
-* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Service Stiftung Warentest
 
