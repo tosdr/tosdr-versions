@@ -82,7 +82,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2404 reviews (2404)
+2405 reviews (2405)
 
 $28.00 $28.00
 
@@ -368,7 +368,7 @@ ADD TO TOTE
 
 ### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
-689 reviews (689)
+691 reviews (691)
 
 $48.00
 
@@ -602,7 +602,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Get A Free Retinol Restorative Neck Cream with purchase $75+ USE CODE: RETINOLGIFT](https://www.100percentpure.com/products/retinol-restorative-neck-cream?variant=36541959630 "https://www.100percentpure.com/products/retinol-restorative-neck-cream?variant=36541959630")
+[Get Pumpkin GWP with purchase $55+ USE CODE: PUMPKIN](https://www.100percentpure.com/products/pumpkin-gwp?variant=41847662641230 "https://www.100percentpure.com/products/pumpkin-gwp?variant=41847662641230")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
