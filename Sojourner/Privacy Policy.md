@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6c0698af0c6858e30fc506b861975f61
+1727caf8f12fee1f2d15817c3af87427
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Little black clasp](https://www.sojourner.biz/images/cache/SKU0202front.200.jpg)](https://www.sojourner.biz/clasps/glass/little-black-clasp.html "Little black clasp")
+[![8 mm round taupe pearls](https://www.sojourner.biz/images/cache/pearls/PE0013.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-round-taupe-pearls.html "8 mm round taupe pearls")
 
-#### [Little black clasp](https://www.sojourner.biz/clasps/glass/little-black-clasp.html "Little black clasp")
+#### [8 mm round taupe pearls](https://www.sojourner.biz/beads/pearls/8-mm-round-taupe-pearls.html "8 mm round taupe pearls")
 
-$13.50
+$24.00
 
 ### Best Sellers
 
