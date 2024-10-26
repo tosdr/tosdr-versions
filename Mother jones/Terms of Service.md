@@ -8,10 +8,10 @@
 
 *  
     
-* [Trump](https://www.motherjones.com/politics/2024/10/trump-profane-rallies-insults-campaign/)
-* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-pennsylvania-trump-petition-100-dollars/)
-* [Black Conservative Voters](https://www.motherjones.com/politics/2024/10/whats-up-with-black-maga/)
-* [Jimmy Carter](https://www.motherjones.com/politics/2024/10/jimmy-carter-voting-rights-act-assistance/)
+* [Prison Reform](https://www.motherjones.com/politics/2024/10/california-ballot-initiative-involuntary-servitude-prisoners-prop-6/)
+* [Black Male Voters](https://www.motherjones.com/politics/2024/10/black-voters-republications-trump-podcast-extra-reveal/)
+* [Project 2025](https://www.motherjones.com/politics/2024/10/non-citizen-voting/)
+* [Trump](https://www.motherjones.com/politics/2024/10/trump-rhetoric-violent-threats-migrants-assassination-attempt-conspiracy-theories/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Trump](https://www.motherjones.com/politics/2024/10/trump-profane-rallies-insults-campaign/)
-* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-pennsylvania-trump-petition-100-dollars/)
-* [Black Conservative Voters](https://www.motherjones.com/politics/2024/10/whats-up-with-black-maga/)
-* [Jimmy Carter](https://www.motherjones.com/politics/2024/10/jimmy-carter-voting-rights-act-assistance/)
+* [Prison Reform](https://www.motherjones.com/politics/2024/10/california-ballot-initiative-involuntary-servitude-prisoners-prop-6/)
+* [Black Male Voters](https://www.motherjones.com/politics/2024/10/black-voters-republications-trump-podcast-extra-reveal/)
+* [Project 2025](https://www.motherjones.com/politics/2024/10/non-citizen-voting/)
+* [Trump](https://www.motherjones.com/politics/2024/10/trump-rhetoric-violent-threats-migrants-assassination-attempt-conspiracy-theories/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
