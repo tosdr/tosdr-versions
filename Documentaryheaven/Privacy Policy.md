@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Architect](/wp-content/thumbnails/9418-100x70.jpg?x53432)
+* [![Reel Bad Arabs: How Hollywood Vilifies A People](/wp-content/thumbnails/1843-100x70.jpg?x53432)
     
-    The Architect
+    Reel Bad Arabs: How Hollywood Vilifies A People
     
-    Vice News meets up with James Mitchell who was found to be the head of a program the United States set up in order to extract intelligence from captured "terrorists" via controversial forms of interro](https://documentaryheaven.com/architect/ "The Architect")
-* [![Black Taxis](/wp-content/thumbnails/13375-100x70.jpg?x53432)
+    This groundbreaking documentary dissects a slanderous aspect of cinematic history that has run virtually unchallenged from the earliest days of silent film to today's biggest Hollywood blockbusters. F](https://documentaryheaven.com/reel-bad-arabs-how-hollywood-vilifies-a-people/ "Reel Bad Arabs: How Hollywood Vilifies A People")
+* [![Goonj: The Empty Call](/wp-content/thumbnails/7662-100x70.jpeg?x53432)
     
-    Black Taxis
+    Goonj: The Empty Call
     
-    This film follows Brendan, Gerald and Tom all of whom are former volunteers of the Irish Republican Army or IRA. For these men and all Irish Republicans alike the period of armed struggle is now over,](https://documentaryheaven.com/black-taxis/ "Black Taxis")
-* [![Putin: A Russian Spy Story](/wp-content/thumbnails/16324-100x70.jpg?x53432)
+    A documentary featuring Mr. Naseeruddin Shah that explores the issues revolving around the illegal cultivation of cannabis (the biological name for the derivative plant for charas or marijuana) in the](https://documentaryheaven.com/goonj-empty-call/ "Goonj: The Empty Call")
+* [![Radiohead – Meeting People Is Easy](/wp-content/thumbnails/5912-100x70.jpg?x53432)
     
-    Putin: A Russian Spy Story
+    Radiohead – Meeting People Is Easy
     
-    Putin: A Russian Spy Story is a 3 part documentary miniseries that reveals how Vladimir Putin managed to make his way from being an unremarkable KGB recruit to one of the most powerful men in the wor](https://documentaryheaven.com/putin-russian-spy-story/ "Putin: A Russian Spy Story")
-* [![Celtic vs Rangers: Clash Of The Titans](/wp-content/thumbnails/9797-100x70.jpg?x53432)
+    Meeting People Is Easy takes place during the promotion of Radiohead's 1997 release OK Computer, containing a collage of video clips, sound bites, and dialogue going behind the scenes with the band on](https://documentaryheaven.com/radiohead-meeting-people-is-easy/ "Radiohead – Meeting People Is Easy")
+* [![Free to Play](/wp-content/thumbnails/8711-100x70.jpg?x53432)
     
-    Celtic vs Rangers: Clash Of The Titans
+    Free to Play
     
-    A study of one of the biggest rivalries in football to date, two of Scotland's biggest teams, Glasgow Rangers FC and Glasgow Celtic FC. The rivalry itself is deeply rooted in Scotland's religious divi](https://documentaryheaven.com/celtic-vs-rangers-clash-titans/ "Celtic vs Rangers: Clash Of The Titans")
-* [![Kill at Will? America on Trial](/wp-content/thumbnails/7170-100x70.jpg?x53432)
+    This film follows three gamers from across the world turned professional as they attempt to compete for a million dollar prize. They have entered the first Dota 2 International Tournament, Dota has ra](https://documentaryheaven.com/free-to-play/ "Free to Play")
+* [![Into The Universe With Stephen Hawking](/wp-content/thumbnails/3433-100x70.jpg?x53432)
     
-    Kill at Will? America on Trial
+    Into The Universe With Stephen Hawking
     
-    Ahead of America’s costliest ever elections, this documentary investigates how powerful lobby groups helped create laws blamed for some of the most controversial killings in recent US history.The](https://documentaryheaven.com/kill-at-will-america-on-trial/ "Kill at Will? America on Trial")
+    Stephen Hawking hosts an epic brand new kind of cosmology series, a Planet Earth of the heavens. It takes the world’s most famous scientific mind and sets it free, powered by the limitless possibiliti](https://documentaryheaven.com/into-the-universe-with-stephen-hawking/ "Into The Universe With Stephen Hawking")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
