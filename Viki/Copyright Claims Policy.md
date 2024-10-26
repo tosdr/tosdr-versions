@@ -13,52 +13,52 @@
 
 * 
 
-著作權政策
------
+Copyright Policy
+----------------
 
-最近更新日期: 2020 年 09 月 16 日
+Last updated: 16 September 2020
 
-Viki, Inc. 為您提供一個互動平台，可讓您存取電視節目，電影及其他內容（合稱「**內容**」），與其他使用者互動以及加入線上社群，而且您還可以在線上社群中為我們的內容做審查，評論及提供字幕（下稱「**Rakuten Viki**」，「**我們／我們的**」和／或「**我方**」）。
+Viki, Inc. provides you with an interactive platform that allows you to access television shows, movies and other content (collectively, “**Content**”), interact with other users and be part of an online community where you may review, comment andprovide subtitles for the Content (“**Rakuten Viki**”, “**We**”, “**Our**” and/or “**Us**”).
 
-本著作權政策所敘述者，為我方如何針對主張著作權侵權之清楚通知做出回應，該等侵權係關於素材或素材連結出現於完全遵守《數位千禧年著作權法案》（「**DMCA**」）之 Viki.com，Rakuten Viki 品牌的應用程式，Soompi.com，Soompi 品牌的應用程式和其他 Rakuten Viki 相關網站，應用程式，通訊和服務（合稱「**服務**」）。
+This Copyright Policy describes how We respond to clear notices of claimed copyright infringement relating to material or links to material made available through Viki.com, Rakuten Viki branded applications, Soompi.com, Soompi branded applications, and other Rakuten Viki related sites, applications, communications and services (collectively, “**Services**”) that fully comply with the Digital Millennium Copyright Act (“**DMCA**”).
 
-請留意，根據 17 U.S.C. Section 512(f) 規定，任何人若是基本上故意錯誤陳述素材係侵權，或素材經失誤或錯認而遭移除或停用，會承擔法律責任。
+Please note that under 17 U.S.C. Section 512(f), any person who knowingly materially misrepresents that material is infringing, or that material was removed or disabled by mistake or misidentification, may be subject to liability.
 
-1. **如何提交 DMCA 著作權聲明？**
+1. **HOW TO SUBMIT A DMCA COPYRIGHT NOTICE?**
     
-    如果您是著作權所有人或代理人，您認為我方「**服務**」上可用之任何素材侵害您的著作權，則您（「**請求權人**」）可以書面提出一份 DMCA 著作權聲明（可採電子郵件提出）到 Viki 的「**指定著作權代理人**」，內含以下全部資訊：
+    If you are a copyright owner or agent thereof, and you believe that any material made available on our Services infringes your copyright, then you (“**Claimant**”) may submit a written DMCA Copyright Notice (email is accepted) to Viki’s Designated Copyright Agent with all the following information:
     
-    1. 標示聲稱受到侵權且受著作權保護的作品，或者，如果在一次通知中涵蓋多個受著作權保護的作品，則應提供此類作品的代表性清單（例如原始作品的副本或連結）；
-    2. 標示出聲稱遭受侵權的素材或成為侵權行為問題的素材；標示出遭移除或無法進行存取的素材，且標示出足以使我們在我們的服務上找到該素材的合理資訊（例如，侵權素材的連結）；
-    3. 如下之聲明：
-        1. 您確信，所投訴之受著作權保護作品之使用，並未經著作權所有者，其代理人或法律的授權；及
-        2. 此份通知中，您有得到授權可代表聲稱遭受侵害專屬權利之著作權所有人，此資訊為正準，如有不實，願受偽證罪處罰；
-    4. 足以使我們聯絡到您的資訊，例如地址，電話號碼以及電子郵件地址（如有）；及
-    5. 獲得聲稱專屬權利遭受侵害之著作權所有人授權之人士的實體或電子簽名（打上您的法定全名即足夠）。
-2. **我們如何應對 DMCA 著作權聲明？**
+    1. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works (e.g. a copy of or link to the original work);
+    2. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Us to locate the material on Our Services (e.g. a link to the infringing material);
+    3. A statement that:
+        1. you have a good faith belief that use of the copyrighted work in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+        2. the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed;
+    4. Information reasonably sufficient to permit Us to contact you, such as an address, telephone number, and email address (if available); and
+    5. A physical or electronic signature of the person authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed (typing your full legal name is sufficient).
+2. **HOW WE MAY RESPOND TO DMCA COPYRIGHT NOTICE?**
     
-    我們可能會移除或停用任何侵權素材的存取。如果我們決定要移除或停用素材的存取，以回應 DMCA 著作權聲明，我們會盡力聯絡張貼有問題素材或使之可取用之人士（「**涉嫌侵權人**」）。我方可自行定，將 DMCA 著作權聲明的副本交給涉嫌侵權人。
+    We may remove or disable access to any infringing material. If We decide to remove or disable access to material in response to a DMCA Copyright Notice, We will make efforts to contact the person who has posted or made available the material at issue (“**Alleged Infringer**”). We may, at Our discretion, share a copy of the DMCA Copyright Notice to the Alleged Infringer.
     
-3. **如何提交 DMCA 抗辯通知？**
+3. **HOW TO SUBMIT A DMCA COUNTER NOTICE?**
     
-    如果您認為您的素材被移除或限制存取是因失誤或錯認，您可以提交一份 DMCA 抗辯通知到 Viki 的指定著作權代理人，內含以下全部資訊：
+    If you believe your material was removed or to which access was restricted as a result of mistake or misidentification, you may submit a DMCA Counter Notice to Viki’s Designated Copyright Agent with all the following information:
     
-    1. 遭移除或停用前標示出素材及其位置；
-    2. 如下之聲明：
-        1. 您發誓，您確信素材遭到移除或停用係因失誤或錯認，如有不實，願受偽證罪處罰；及
-        2. 您同意您所提供地址的聯邦地方法院可以主張管轄權；或如果您的地址位於美國境外，則您同意 Rakuten Viki 所在地點的任何法院均有管轄權，並且您願意接受提出原始 DMCA 著作權聲明訴訟人士之程序服務；以及
-    3. 您的法定全名，實體住址，電子郵件地址（如有），電話號碼，和實體或電子簽名（打入您的法定全名即足夠）。
-4. **提交 DMCA 抗辯通知後會發生什麼事情？**
+    1. Identification of the material and its location before removal or being disabled;
+    2. A statement that:
+        1. You swear, under penalty of perjury that you have a good faith belief that the material was removed or disabled by mistake or misidentification; and
+        2. You consent to the jurisdiction of the Federal District court for the address provided or, if your address is outside of the United States, you consent to the jurisdiction of any juridical district in which Rakuten Viki is located, and that you will accept service of process from the person who filed the original DMCA Copyright Notice; and
+    3. Your full legal name, physical address, email address (if available), telephone number, and physical or electronic signature (typing your full legal name is sufficient).
+4. **WHAT HAPPENS AFTER YOU SUBMIT A DMCA COUNTER NOTICE?**
     
-    我方可自行決定，將 DMCA 抗辯通知的副本交給請求權人。若在我們將 DMCA 抗辯通知交給請求權人之後的 10 個工作日內，尚未收到請求權人通知，已提出法律訴訟，尋求法院命令以防止進一步侵權，我們可能會恢復或停止有問題素材被停用存取。
+    We may, at Our discretion, share a copy of the DMCA Counter Notice with the Claimant. We may restore or cease disabling access to the material at issue if we do not receive notice from the Claimant that an action has been filed seeking a court order to prevent further infringement, within 10 business days after We shared the DMCA Counter Notice with the Claimant.
     
-5. **反覆侵權政策**
+5. **REPEAT INFRINGER POLICY**
     
-    我方的政策是，於適當情況下，終止一再侵權之使用者的帳戶，或情況為正當時將單次侵權者帳戶終止。此做法並不限制我們尋求其他補救措施以解決涉嫌或實際侵權的權利。
+    Our policy is to terminate in the appropriate circumstances, the accounts of users who are repeat infringers or who infringe on a single occasion if the circumstances warrant. This does not limit Our ability to pursue other remedies We may have to address suspected or actual infringement.
     
-6. **我方指定的著作權代理人**
+6. **OUR DESIGNATED COPYRIGHT AGENT**
     
-    您可以透過發送電子郵件至[dmca@viki.com](mailto:dmca@viki.com)來與我方的指定著作權代理人聯絡，或透過郵件寄送到以下地址：
+    You can contact Our Designated Copyright Agent by sending an email to [dmca@viki.com](mailto:dmca@viki.com) or by mail to the following address:
     
     **Viki, Inc**  
     Attention: Designated Copyright Agent/ Legal Department  
