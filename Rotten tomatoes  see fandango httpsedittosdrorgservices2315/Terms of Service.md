@@ -21,15 +21,10 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get BOGO Tickets Now for The Carpenter** In theaters November 1st. Get tickets early!](https://www.fandangomovietickets.com/thecarpenter?cmp=TARS~FANDANGO~The_Carpenter_BOGO_GlobalNav)
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Scream Worthy Savings** See classic horror movies and get deals near you
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
-*  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
 * **Flowers + Movies** Get $40 off spooky flowers with ticket purchase.
 
 Go to next offer
@@ -88,13 +83,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
-* [Chance to win a trip to the Premiere of the film! image link ![Chance to win a trip to the Premiere of the film!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6049a9b0-82b0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer) 
+* [Save 25% off on all Andrea Bocelli products image link ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b5147840-82af-11ef-a07e-5b03d6159fe4--homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer) 
     
-    ### Chance to win a trip to the Premiere of the film!
+    ### Save 25% off on all Andrea Bocelli products
     
-    Buy a ticket to Wicked for a chance to win a trip to the Premiere of the film!
+    Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer)
     
 
 New & Coming soon
@@ -211,7 +206,7 @@ Close
 
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
 
-\*Wicked Popular Poster Pack bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Wicked (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The limited edition Wicked poster will begin shipping in the month of November. Please use a physical address where the limited edition Wicked poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions below for each item included in the Wicked Popular Poster Pack bundle. [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_promomodule)
+\*Wicked Popular Poster Pack bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Wicked (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The limited edition Wicked poster will begin shipping in the month of November. Please use a physical address where the limited edition Wicked poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See https://fandan.co/PopularPosterPack for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_promomodule)
 
 ### Special Offer
 
@@ -226,16 +221,6 @@ Limited time offer. While supplies last. Log into your account on Fandango.com o
 ### Get BOGO Tickets Now for The Carpenter
 
 Close
-
-### Special Offer
-
-Close
-
-![Buy a ticket to Wicked](https://images.fandango.com/cms/assets/e3e573f0-82bd-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-wicked-343x362.png)
-
-#### Buy a ticket to Wicked for a chance to win a trip to the Premiere of the film!
-
-"Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EduwQ9931CtOtL55pN916mEBDNo8AyGNxhToRXwsx7m92Q?e=xwbr8S Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends October 23, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 " [Learn More](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_promomodule)
 
 ### Halloween Deals Near You!
 
@@ -267,26 +252,6 @@ Close
 
 Limited time offer. While supplies last. Rent or purchase any movie or TV show on Fandango at Home or purchase at least (1) movie ticket on Fandango between 12:00am PT on October 1, 2024 and 11:59pm PT on October 31, 2024 and get a Bouqs promo code (“code”) for $40 off one (1) qualifying merchandise product (before taxes) from a list of eligible flowers at https://bouqs.com/offers/fandangohalloween2024 plus receive $7.00 off shipping on weekday delivery. Code expires at 11:59 PT on November 18, 2024. Delivery not available in Puerto Rico, American Samoa, Guam, the Northern Marina Islands, the USVI, or APO/FPO addresses. Certain FedEx limitations exist in some areas of Hawaii and Alaska. Not combinable or stackable with any other offers. Code is not valid on vases, sale items, prior purchases, in-store pick-up orders or purchase made on The Bouqs Company iPhone, iPad or Android apps. One code per person per transaction. Code cannot be redeemed for cash and is not valid for resale. [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_promomodule)
 
-### Special Offer
-
-Close
-
-![Save 50% off on Terrifier 2!](https://images.fandango.com/cms/assets/930d6910-77aa-11ef-8321-2b978811c524--fan-globalnavbar-terrifier3-343x362.jpg)
-
-#### Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
-
-Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Terrifier 3’ between 9:00am PT on 9/23/24 and 11:59pm PT on 10/25/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Fandango at Home Promotional Code (“Code”) that is good for 50% off the purchase (and not the rental) of Terrifier 2 in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 10/30/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_promomodule)
-
-### Fandango offer: Gift, Give or Receive a ticket to The Forge
-
-Close
-
-![Gift, Give or Receive a ticket to The Forge](https://images.fandango.com/cms/assets/00731a20-22d0-11ef-a07e-5b03d6159fe4--fan-globalnavbar-forge-343x362.jpg)
-
-#### Buy a ticket for yourself and everyone else you want to share the movie with through The Kingdom Builders Gifted Ticket Program.
-
-See Terms at https://theforge.egifter.com/offer-terms. [Give and Get Tickets](https://theforge.egifter.com/?cmp=TARS~FANDANGO~TheForgeGiftedTicket_globalnav)
-
 ### Apple Pay Wednesday
 
 Close
@@ -296,20 +261,6 @@ Close
 #### Today only! Save $5 off your order with Apple Pay.
 
 Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 8/21/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 8/21/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
-
-### Get Deadpool's Premium Package Today!
-
-Close
-
-![Get Deadpool's Premium Package](https://images.fandango.com/cms/assets/a4c07f00-13b2-11ef-8321-2b978811c524--fan-globalnavbar-deadpoolpackage-343x362.jpg)
-
-#### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
-
-Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
-
-### Rediscover the magic of Hogwarts!
-
-Close
 
 SPECIAL OFFER
 
