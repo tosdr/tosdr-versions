@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![scorecard2013](/assets/logos/bestpracticescorecardmap2012.png)](http://www.followthemoney.org/research/institute-research/scorecard-essential-disclosure-requirements-for-independent-spending-2013)
+[![NRG Energy Giving](/assets/Images/teasers/small/NRG.png)](http://www.followthemoney.org/research/blog/nrg-energy-blue-red-green/)
 
-2013: Who got an F on essential disclosure requirements?
+NRG Energy Giving, by Party, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
