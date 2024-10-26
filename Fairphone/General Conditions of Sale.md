@@ -49,7 +49,7 @@
 
 [Login](https://shop.fairphone.com/web/login)
 
-English
+Germany | English
 
 [Change country](https://shop.fairphone.com/languagegateway/?previous_id=1&previous_type=wordpress?previous_id=1&previous_type=wordpress&previous_url=fairphone-returns-policy)
 
