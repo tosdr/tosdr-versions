@@ -222,19 +222,10 @@ Atos homepage](https://atos.net/en/)
         
         [**Watch the video >**](https://youtu.be/VeDBVLCHkN0?si=gLRfTKkvo_rBhUlc)
         
-    * [Worldwide Locations](https://atos.net/en/worldwide-locations)
+    * [Analysts and Advisors](https://atos.net/en/analysts-and-advisors)˅
         
-        * [Worldwide Locations](https://atos.net/en/worldwide-locations)
-        
-        Advancing what matters
-        ----------------------
-        
-        [**Watch the video >**](https://youtu.be/VeDBVLCHkN0?si=gLRfTKkvo_rBhUlc)
-        
-    * [Analysts and Advisors](#)˅
-        
-        * [Analysts and Advisors](#)˅
-        * [Industry Analysts Private Portal](https://atos.net/en/analysts-and-advisors/industry-analysts-private-portal)
+        * [Analysts and Advisors](https://atos.net/en/analysts-and-advisors)˅
+        * [Industry Analysts Private Portal](https://atos-analystportal.arinsights.com/)
         
         Advancing what matters
         ----------------------
@@ -282,6 +273,15 @@ Atos homepage](https://atos.net/en/)
     * [Partners and Channels](https://atos.net/en/partners-and-channels)
         
         * [Partners and Channels](https://atos.net/en/partners-and-channels)
+        
+        Advancing what matters
+        ----------------------
+        
+        [**Watch the video >**](https://youtu.be/VeDBVLCHkN0?si=gLRfTKkvo_rBhUlc)
+        
+    * [Worldwide Locations](https://atos.net/en/worldwide-locations)
+        
+        * [Worldwide Locations](https://atos.net/en/worldwide-locations)
         
         Advancing what matters
         ----------------------
