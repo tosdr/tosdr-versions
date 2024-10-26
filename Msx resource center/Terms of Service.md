@@ -140,8 +140,9 @@ MSX Music player
 
 Latest reactions
 
-* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
+* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
+* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -149,23 +150,22 @@ Latest reactions
 * [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
-* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 
 Latest forum posts
 
+* [PANASONIC FS-A1 MSX2 SCHEMATICS](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-msx2-schematics "PANASONIC FS-A1 MSX2 SCHEMATICS")
+* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=70 "WonderTANG! Who wants to juice up your MSX?")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Using a Stereo Effects Processor with MSX](https://www.msx.org/forum/msx-talk/hardware/using-a-stereo-effects-processor-with-msx "Using a Stereo Effects Processor with MSX")
 * [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime?page=1 "File-Hunter.com downtime")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
-* [PANASONIC FS-A1 MSX2 SCHEMATICS](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-msx2-schematics "PANASONIC FS-A1 MSX2 SCHEMATICS")
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
 * [Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen](https://www.msx.org/forum/msx-talk/software/looking-for-audio-from-shiro-to-kuro-no-densetsu-hyakki-hen "Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen")
 * [@djh1697 --> MSX/Naim](https://www.msx.org/forum/msx-talk/off-topic/djh1697-msxnaim "@djh1697  --> MSX/Naim")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
-* [RIP Fabio Belavenuto](https://www.msx.org/forum/msx-talk/general-discussion/rip-fabio-belavenuto?page=2 "RIP Fabio Belavenuto")
-* [Tabmegx and openmsx](https://www.msx.org/forum/msx-talk/general-discussion/tabmegx-and-openmsx "Tabmegx and openmsx")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
