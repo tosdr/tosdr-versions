@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 
 Derry Crown Court
@@ -268,21 +275,12 @@ Derry Crown Court
 [Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Hannah McCloskey](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hannah McCloskey")](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
+[![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 
-Hannah McCloskey
+[Property](https://www.derrynow.com/section/1232/property)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[Derry girl bringing Depop in real life back for a second time](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 
@@ -290,6 +288,13 @@ Hannah McCloskey
 
 [PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, October 26 2024](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Polish man who broke partner's jaw jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
 
@@ -298,46 +303,37 @@ Hannah McCloskey
 [Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Conditional discharge for woman charged with assault and criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conditional discharge for woman charged with assault and criminal damage")](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+[![IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast")](https://www.derrynow.com/story-telling/pictures---videos/1639905/in-pictures-olts-mellow-deeds-choir-serve-up-a-musical-feast.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Conditional discharge for woman charged with assault and criminal damage](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: OLT’s ‘Mellow DEEDS’ Choir serve up a musical feast](https://www.derrynow.com/story-telling/pictures---videos/1639905/in-pictures-olts-mellow-deeds-choir-serve-up-a-musical-feast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man admits breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits breaching non-molestation order")](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Miller, Sportsfile
 
-[Derry man admits breaching non-molestation order](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![Man facing number of drugs charges returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
+[Derry City title hopes end with defeat at St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry Magistrate's Court
+[![Woman dies in hospital following Co Tyrone road crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman dies in hospital following Co Tyrone road crash")](https://www.derrynow.com/news/northern-ireland/1640370/woman-dies-in-hospital-following-co-tyrone-road-crash.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman dies in hospital following Co Tyrone road crash](https://www.derrynow.com/news/northern-ireland/1640370/woman-dies-in-hospital-following-co-tyrone-road-crash.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail")](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
+[![More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 2,300 patients at GP practice set to be transferred to neighbouring health centres")](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
 
-Derry Magistrate's Court
+Fairhill Medical Practice will close its doors on Thursday.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[14-year-old youth charged with possessing articles in connection with petrol bombs charged with breaching bail](https://www.derrynow.com/news/local-news/1639432/14-year-old-youth-charged-with-possessing-articles-in-connection-with-petrol-bombs-charged-with-breaching-bail.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1639383/who-are-the-guests-on-tonight-s-graham-norton-show-as-irish-stars-lead-line-up.html)
-
-Photo: PA
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show as Irish stars lead line-up?](https://www.derrynow.com/news/arts---entertainment/1639383/who-are-the-guests-on-tonight-s-graham-norton-show-as-irish-stars-lead-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -345,19 +341,19 @@ Advertise with Us
 
 Multimedia
 
-[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 
 [Property](https://www.derrynow.com/section/1232/property)
 
 [PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
 
@@ -519,57 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
+[![Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'")](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured receiving his award from Danielle McNally, DCSDC on Tuesday at the Guildhall, Derry. (Photos: Jim McCafferty Photography)
 
-[Derry Death Notices - Saturday, October 26 2024](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
+[Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Miller, Sportsfile
+[![New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ")](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
+
+New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](https://www.derrynow.com/resizer/165/93/true/2024_10_25/23-10-24_St._Joseph_s_Spooker_04-1729850620007.jpg--.jpg?1729850621742 "‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize")](https://www.derrynow.com/news/local-news/1639407/ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
+
+Brodie McMenamin receiving his prize from Ms. Mrs. Doherty On right is the scary clown Kayden Williamson-Traynor. (Photo: Jim McCafferty Photography)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](https://www.derrynow.com/news/local-news/1639407/ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_26/2817958-1729937943617.jpg--.jpg?1729937946561 "Derry City")](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
+
+Patrick McEleney is hurt by Derry City's title failure
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry City title hopes end with defeat at St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Patrick McEleney - 'There's only so many opportunities the players can get'](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](https://www.derrynow.com/resizer/165/93/true/2024_10_25/25-10-24_DEEDS_choir_16-1729870342461.jpg--.jpg?1729870343044 "‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival")](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_26/2969866-1729937093723.jpg--.jpg?1729937095546 "Derry City")](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
 
-One of the Mellow Deeds choir in full flow on Friday morning. (Photo: Jim McCafferty Photography)
+Ruaidhri Higgins watched his team's title chances end at Inchicore. Pic by Tyler Miller/ Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ruaidhri Higgins left 'devastated' by Derry City title failure](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/resizer/165/93/true/2024_10_25/CDP_-_29-10-24_-_Page_9_lead_pic-1729865781892_1729865982.JPG--.JPG?1729865982665 "More than 2,300 patients at GP practice set to be transferred to neighbouring health centres")](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
-
-Fairhill Medical Practice will close its doors on Thursday.
-
-[Home](https://www.derrynow.com/)
-
-[More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](https://www.derrynow.com/resizer/165/93/true/2024_10_25/Causeway_Coast_and_Glens-1729872962375.jpg--.jpg?1729872963960 "Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024")](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
-
-John Thompson, Head of Safety and Corporate Responsibility, Translink; Noel Davoren, Estates Manager, CCGBC; Councillor Frances Burton, representing NILGA; and Damien Guy, Estates Supervisor, CCGBC.
-
-[Home](https://www.derrynow.com/)
-
-[Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
-
-Derry Crown Court
+[![Visit the home of Halloween as Derry gets set to awaken!](https://www.derrynow.com/resizer/165/93/true/2024_10_22/IDNT_24-10-24_Derry_Halloween-1729597634423.jpg--.jpg?1729597634513 "Visit the home of Halloween as Derry gets set to awaken!")](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Visit the home of Halloween as Derry gets set to awaken!](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
