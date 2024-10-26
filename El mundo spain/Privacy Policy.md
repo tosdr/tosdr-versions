@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxxJAAoAAVEAAABcDy0)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZxycPQoAAVAAAABbyH8)
 
 Es noticia
 
@@ -16,6 +16,7 @@ Es noticia
 * [Princesa Leonor](https://www.elmundo.es/yodona/moda/reina-letizia/2024/10/25/671bc5c8fdddff66ba8b457c.html)
 * [Ilia Topuria](https://www.elmundo.es/deportes/mas-deporte/2024/10/25/671b6df421efa0e4418b45a6.html)
 * [Caso Koldo](https://www.elmundo.es/espana/2024/10/24/671a61a3e9cf4a31218b458a.html)
+* [Santander derrumbe](https://www.elmundo.es/espana/2024/10/26/671c7d17e9cf4ac1538b4588.html)
 * [Rescate Air Europa](https://www.elmundo.es/espana/2024/10/25/671ba653e9cf4a95178b457b.html)
 * [Bárbara Rey](https://www.elmundo.es/loc/famosos/2024/10/25/671bb01b21efa0ce4f8b458d.html)
 * [Guardia Civil Barcelona](https://www.elmundo.es/cataluna/2024/10/25/671bc8f9e4d4d87e498b458b.html)
