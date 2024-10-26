@@ -134,7 +134,7 @@ In any case, it will be your sole responsibility to ensure the legitimate use of
 
 * **Free Qustodio Account.** Use of Qustodio Services will be limited to 30 days from the day You register Your Qustodio Account.
 
-* **Premium Qustodio Account.** The use of Qustodio Services will be subject to the payment of fees for the contracted term, according to the plan You have selected. Subscription renewal will be automatic and for the same term as previously selected by You, unless You notify otherwise in writing at least 30 days prior to the renewal date. 
+* **Premium Qustodio Account.** The use of Qustodio Services will be subject to the payment of fees for the contracted term, according to the plan You have selected. **Subscription renewal will be automatic and for the same term as previously selected by You, unless You notify otherwise in writing at least 30 days prior to the renewal date.** 
 
 **Cancellation**. You may cancel your Qustodio Account at any time. All cancellation requests should be sent to: [support@qustodio.com](mailto:support@qustodio.com). We may cancel your subscription immediately in the event of a breach of these Terms of Service by sending you written notice to your email address. We reserve the right to terminate our relationship with you, in the event that your Qustodio Account is inactive for more than 1 month, by sending you a 15-day written notice to your email address. We also reserve the right to terminate your Qustodio Account for any other circumstances we deem appropriate, as well as when your Free Qustodio Account, by giving you 30 days written notice to your email address.
 
