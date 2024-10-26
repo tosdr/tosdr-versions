@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
+
+New translation
+
+[Gil Fields and the Fraternity Brothers - Gioconda](https://lyricstranslate.com/en/gil-fields-and-f-gioconda-english)
+
+Italian → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Daniele Serra - Siberiana](https://lyricstranslate.com/en/daniele-serra-siberiana-spanish)
+
+Italian → Spanish
+
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New song
 
-[León Gieco - John el Cowboy](https://lyricstranslate.com/en/leon-gieco-john-el-cowboy-lyrics)
+[Gil Fields and the Fraternity Brothers - Gioconda](https://lyricstranslate.com/en/gil-fields-and-frater-gioconda-lyrics)
 
-Spanish
+Italian
 
-[![Lithium](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1471960-1717634859.png)](https://lyricstranslate.com/en/translator/lithium "Lithium")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
-New song
+New translation
 
-[Foo Fighters - Winnebago](https://lyricstranslate.com/en/foo-fighters-winnebago-lyrics)
+[Daniele Serra - Siberiana](https://lyricstranslate.com/en/daniele-serra-siberiana-english)
 
-English
+Italian → English
 
 [![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
 
 New song
 
-[Annega - Dance Until The Rise](https://lyricstranslate.com/en/annega-dance-until-rise-lyrics)
+[Ir Sais - Disidi](https://lyricstranslate.com/en/ir-sais-disidi-lyrics)
 
-Mauritian Créole
+Papiamento
 
-[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
-
-New song
-
-[León Gieco - Un día Baltazar](https://lyricstranslate.com/en/leon-gieco-un-dia-baltazar-lyrics)
-
-Spanish
-
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New translation
 
-[Ofra Haza - Fata Morgana](https://lyricstranslate.com/en/ofra-haza-fata-morgana-english)
+[Gil Fields and the Fraternity Brothers - Angelo credimi](https://lyricstranslate.com/en/gil-fields-and-f-angelo-credimi-english)
 
-English → English
+Italian → English
 
-[![Bacho](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1487397-1720835335.png)](https://lyricstranslate.com/en/translator/bacho "Bacho")
-
-New request
-
-[Evin Agassi - پریا (Pariya)](https://lyricstranslate.com/en/request/%D9%BE%D8%B1%DB%8C%D8%A7-0)
-
-Persian → Transliteration
-
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
-
-Transcription request fulfilled
-
-[Wat Moet Ik Doen? \[What Have I Done?\]](https://lyricstranslate.com/en/loud-house-ost-wat-moet-ik-doen-what-h-lyrics)
-
-Dutch
-
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1721597011.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New song
 
-[The Loud House (OST) - Wat Moet Ik Doen? \[What Have I Done?\]](https://lyricstranslate.com/en/loud-house-ost-wat-moet-ik-doen-what-h-lyrics)
+[Gil Fields and the Fraternity Brothers - Angelo credimi](https://lyricstranslate.com/en/gil-fields-and-frater-angelo-credimi-lyrics)
 
-Dutch
+Italian
+
+[![kejora.senja](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1232098-1689550181.jpg)](https://lyricstranslate.com/en/translator/kejorasenja "kejora.senja")
+
+New song
+
+[Seda Tripkolic - Ne Olur Gitme](https://lyricstranslate.com/en/seda-tripkolic-ne-olur-gitme-lyrics)
+
+Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
