@@ -64,7 +64,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/200?intake=CNBC%3Ffbclid%3DIwAR30ZdGG2NrsVQCQwAhBU_tqmX8u5ZUJXX90ambf5Pv30xjk7kiaht818U0 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/59 "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
