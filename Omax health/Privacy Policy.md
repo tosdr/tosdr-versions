@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)               
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)           
 
-Privacy Policy – Omax Health - Omax Health                                 
+Privacy Policy – Omax Health - Omax Health                      
+
+               
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3401 reviews](https://omaxhealth.com/pages/reviews)
+[3403 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3081)
+(3082)
 
 5%
 
@@ -327,7 +329,17 @@ Go to product page
 
 (53)
 
-2197
+2199
+
+M
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Mary G.
+
+**Great product**
+
+This does exactly what it says I have had neck issues for a while now and it helps with the pain and inflammation
 
 J
 
@@ -348,13 +360,5 @@ J.S.
 **BEST SOCKS EVER!!**
 
 I work construction and these are the most comfortable and longest lasting socks I have ever tried. So glad I discovered them.
-
-R
-
-[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
-
-Robert C.
-
-Best fish oil. Been using it over 10 years.
 
 Load More
