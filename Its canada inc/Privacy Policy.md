@@ -1,4 +1,4 @@
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729731816)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729875758)](https://its-can.com/)
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
@@ -34,7 +34,7 @@ Menu
 
 [Contact Us](https://its-can.com/contact/)
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729731816)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729875758)](https://its-can.com/)
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
@@ -70,7 +70,7 @@ Menu
 
 [Contact Us](https://its-can.com/contact/)
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729731816)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1729875758)](https://its-can.com/)
 
 [Client Support](https://its-can.itclientportal.com/)
 
@@ -269,13 +269,13 @@ Privacy Officer, privacy@its-can.com
 * [Blog](https://its-can.com/blog/)
 * [FAQ](https://its-can.com/faq/)
 
-   
+  
 
  I agree to the Privacy Policy and give my permission to process my personal data for the purposes specified in the Privacy Policy.
 
 Send
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png?time=1729731816)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png?time=1729875758)](https://its-can.com/)
 
 [Schedule Consultation](#form)
 
@@ -283,7 +283,7 @@ Reviewed on
 
 __________ 5/5
 
-[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg?time=1729731816)](https://clutch.co/profile/its-canada#summary)
+[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg?time=1729875758)](https://clutch.co/profile/its-canada#summary)
 
 [Reviews](https://clutch.co/profile/its-canada#summary)
 
