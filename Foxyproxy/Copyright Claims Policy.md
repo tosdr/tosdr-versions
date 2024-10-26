@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I used your proxy server to watch mlb.tv without blackout restrictions in Texas. It worked perfectly.
+I'm really enjoying the service so far.
 
-Carlos Escobedo
+Gareth Wynn
