@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/j1n7bv2eZjJZ7yeM0AF8-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
+
+[«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
+
+[#Габбасов](https://er.ru/activity/news?tags%5B0%5D=50449) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
+
+Сегодня 14:25
+
 [![«Единая Россия» передала лекарства белгородским росгвардейцам](https://cdn.er.ru/media/news/October2024/fRHIyqr4SYNxawprC8ya-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
 
 [«Единая Россия» передала лекарства белгородским росгвардейцам](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
@@ -338,14 +346,6 @@
 [#рабочаягруппапоСВО](https://er.ru/activity/news?tags%5B0%5D=1095403) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#медобслуживание](https://er.ru/activity/news?tags%5B0%5D=21514)
 
 25.10.24
-
-[![Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://cdn.er.ru/media/news/October2024/gsyrdJUbbcKDdKmF3Nqh-small.jpg)](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
-
-[Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
-
-24.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
