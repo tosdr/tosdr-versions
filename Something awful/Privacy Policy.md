@@ -205,29 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [Jesus vs. NIN](https://www.somethingawful.com/icq-pranks/icq-transcript-jesus/1/)
-* [Flat Earth Society](https://www.somethingawful.com/weekend-web/flat-earth-society/1/)
+* [FUCK CHRISTMAS: I HATE YOU SHERRY JOHNSTON](https://www.somethingawful.com/levi-johnston/levi-johnston-christmas/1/)
 * [Dean v. Kwame](https://www.somethingawful.com/icq-pranks/kwame-kilpatrick-prank/1/)
-* [Remove One Lettr! (Part 2 of 3)](https://www.somethingawful.com/photoshop-phriday/remove-letter-lettr/1/)
+* [Interested Times](https://www.somethingawful.com/news/easter-bunny-bush/1/)
+* [Embarassing Sexual Moments Part 1](https://www.somethingawful.com/comedy-goldmine/embarassing-sexual-moments/1/)
+* [World War Fun](https://www.somethingawful.com/photoshop-phriday/world-war-fun/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [what's your greatest talent and what has it gained you?](http://forums.somethingawful.com/showthread.php?threadid=4073571 "what's your greatest talent and what has it gained you?")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [HELP I think somebody is t](http://forums.somethingawful.com/showthread.php?threadid=4073517 "HELP I think somebody is t")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [People you wronged but not in a meaningful or significant way](http://forums.somethingawful.com/showthread.php?threadid=4073544 "People you wronged but not in a meaningful or significant way")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I guess some goons are Finnish?](http://forums.somethingawful.com/showthread.php?threadid=4073566 "I guess some goons are Finnish?")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [watching spinny wheels](http://forums.somethingawful.com/showthread.php?threadid=4073597 "watching spinny wheels")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Letters and numbers vve dont really need](http://forums.somethingawful.com/showthread.php?threadid=4073545 "Letters and numbers vve dont really need")
 
 ### Random Articles
 
-* [Pixie'z Page](https://www.somethingawful.com/awful-links/awful-link-730/)
-* [Welcome to 2020, Poverty 2.0!](https://www.somethingawful.com/news/poverty-20/)
-* [The Official Nancy Kerrigan Website](https://www.somethingawful.com/awful-links/awful-link-2204/)
-* [Joseph Fink's Web Zone](https://www.somethingawful.com/awful-links/awful-link-3796/)
-* [I Hate You Page 126](https://www.somethingawful.com/cliff-yablonski/i-hate-you-126/)
+* [Being a Better Nerd](https://www.somethingawful.com/news/being-better-nerd/)
+* [My Sincere Apologies](https://www.somethingawful.com/mooflogs/daily-apology/)
+* [Peter Parker Writes The News](https://www.somethingawful.com/news/peter-parker-news/)
+* [Abelard](https://www.somethingawful.com/awful-links/awful-link-1491/)
+* [Mario's Time Machine](https://www.somethingawful.com/rom-pit/mariotimemachine/)
 
 [Random!](https://www.somethingawful.com/random/)
 
