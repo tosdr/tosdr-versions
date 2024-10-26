@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece](https://cdn.comedy.co.uk/images/library/misc/300x200/g/ghost_huns.jpg "Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece")](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/) Live
+
+[Ghost Huns are set for their live Halloween show](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/)
+
 [![Edy Hurst. Credit: Andy Hollingworth](https://cdn.comedy.co.uk/images/library/people/300x200/e/edy_hurst_witch.jpg "Edy Hurst. Credit: Andy Hollingworth")](https://www.comedy.co.uk/live/fgwg/edy-hurst/) Live
 
 [First Gig, Worst Gig: Edy Hurst](https://www.comedy.co.uk/live/fgwg/edy-hurst/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Mr Sleepybum. Jody Kamali. Credit: Igor Emerich](https://cdn.comedy.co.uk/images/library/misc/300x200/m/mr_sleepybum.jpg "Mr Sleepybum. Jody Kamali. Credit: Igor Emerich")](https://www.comedy.co.uk/live/random8/jody-kamali/) Live
 
 [Random 8: Jody Kamali](https://www.comedy.co.uk/live/random8/jody-kamali/)
-
-[![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes2.jpg "Neil Innes")](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/) People
-
-[Win Neil Innes's new biography, Dip My Brain In Joy](https://www.comedy.co.uk/people/neil_innes/competitions/dip-my-brain-in-joy/)
 
 #### Subscribe to our newsletters
 
