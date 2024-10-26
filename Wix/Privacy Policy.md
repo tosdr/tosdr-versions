@@ -118,9 +118,9 @@
         
         Read the latest industry tips and trends.
         
-    * [Wix Learn](https://www.wix.com/learn)
+    * [AI features](https://www.wix.com/features/ai)
         
-        Upskill with on-demand video lessons.
+        Discover all the ways to create and grow with AI.
         
     * [Web design inspiration](https://www.wix.com/explore/websites)
         
@@ -744,7 +744,7 @@ To determine the appropriate retention period for Personal Information, we consi
 
 bottom of page
 
-                                        
+                                       
 
 Product
 
