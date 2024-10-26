@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» передала лекарства белгородским росгвардейцам](https://cdn.er.ru/media/news/October2024/fRHIyqr4SYNxawprC8ya-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
+
+[«Единая Россия» передала лекарства белгородским росгвардейцам](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
+
+[#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282)
+
+Сегодня 12:40
+
 [![Александр Хинштейн: Школьные музеи - лучшая школа патриотизма](https://cdn.er.ru/media/news/October2024/1pk7Va8JIOCS4AWiLK0r-small.jpg)](https://er.ru/activity/news/aleksandr-hinshtejn-shkolnye-muzei-luchshaya-shkola-patriotizma)
 
 [Александр Хинштейн: Школьные музеи - лучшая школа патриотизма](https://er.ru/activity/news/aleksandr-hinshtejn-shkolnye-muzei-luchshaya-shkola-patriotizma)
@@ -336,14 +344,6 @@
 [Развитие страны в долгосрочной перспективе: «Единая Россия» проголосовала за проект бюджета в первом чтении](https://er.ru/activity/news/razvitie-strany-v-dolgosrochnoj-perspektive-edinaya-rossiya-progolosovala-za-proekt-byudzheta-v-pervom-chtenii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
-
-24.10.24
-
-[![Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://cdn.er.ru/media/news/October2024/Eyn90wPxXNH0ycPs7ehC-small.jpg)](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
-
-[Минфин поддерживает предложение «Единой России» об увеличении в бюджете финансирования на обновление инфраструктуры детского летнего отдыха](https://er.ru/activity/news/minfin-podderzhivaet-predlozhenie-edinoj-rossii-ob-uvelichenii-v-byudzhete-finansirovaniya-na-obnovlenie-infrastruktury-detskogo-letnego-otdyha)
-
-[#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#Минфин](https://er.ru/activity/news?tags%5B0%5D=2764) [#Силуанов](https://er.ru/activity/news?tags%5B0%5D=5116) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#отдыхдетей](https://er.ru/activity/news?tags%5B0%5D=130852) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскиелагеря](https://er.ru/activity/news?tags%5B0%5D=110055)
 
 24.10.24
 
