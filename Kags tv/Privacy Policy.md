@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KAGS/images/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031/e13cd0e2-a3ac-4fbe-ab8a-66abf8c55031_360x203.jpg)](https://www.kagstv.com/article/news/crime/police-seize-over-60k-from-illegal-gambling-machines-throughout-bryan-texas/500-fd02cac7-cac0-40bf-b4ba-24eb9a125ccc)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_360x203.jpg)](https://www.kagstv.com/article/news/local/man-accused-of-shooting-texas-police-chief-prompting-blue-alert-arrested-fort-worth/501-abd91176-b9d7-48ad-9ff1-054046b8c096)
         
-        #### [Over $60,000 seized from illegal gambling machines throughout Bryan](https://www.kagstv.com/article/news/crime/police-seize-over-60k-from-illegal-gambling-machines-throughout-bryan-texas/500-fd02cac7-cac0-40bf-b4ba-24eb9a125ccc)
+        #### [Man accused of shooting Texas police chief prompting Blue Alert arrested in Fort Worth](https://www.kagstv.com/article/news/local/man-accused-of-shooting-texas-police-chief-prompting-blue-alert-arrested-fort-worth/501-abd91176-b9d7-48ad-9ff1-054046b8c096)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/592384532/592384532_360x203.jpg)](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/613851683/613851683_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/613851683/613851683_360x203.jpg)](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
         
-        #### [One in custody after search for suspects following pursuit crash in Robertson County](https://www.kagstv.com/article/news/crime/law-enforcement-searching-suspects-pursuit-ends-crash-robertson-county/500-c62605b5-eec4-48bd-b2d0-6d9c10148ac3)
+        #### [Man dead, woman arrested after stabbing in Grimes County](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-88°
+75°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
