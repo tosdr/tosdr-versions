@@ -293,23 +293,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Jennifer Gledhill, Matthew Johnson](https://lawandcrime.com/wp-content/uploads/2024/10/gledhill-432x243.jpg)](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
+1. [![Jennifer Gledhill, Matthew Johnson](https://am23.mediaite.com/lc/cnt/uploads/2024/10/gledhill-432x243.jpg)](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
     
     ### [In wild twist, parents accused of helping alleged killer daughter buy new mattress from Amazon after her national guardsman husband learned of affair and was shot in his sleep](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
     
-2. [![Top inset: David Paul Daniel's booking photo (Catawba County Sheriff's Office). Bottom inset: Daniel at the U.S. Capitol building on Jan. 6, 2021. (U.S. Attorney). Background: A screenshot shows Daniel inside the U.S. Capitol building on Jan. 6, 2021, authorities said. (U.S. Attorney).](https://lawandcrime.com/wp-content/uploads/2024/10/daniel-432x243.jpg)](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
+2. [![Top inset: David Paul Daniel's booking photo (Catawba County Sheriff's Office). Bottom inset: Daniel at the U.S. Capitol building on Jan. 6, 2021. (U.S. Attorney). Background: A screenshot shows Daniel inside the U.S. Capitol building on Jan. 6, 2021, authorities said. (U.S. Attorney).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/daniel-432x243.jpg)](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
     
     ### [Jan. 6 riot suspect facing charges of child pornography possession, sexual exploitation of a minor](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
     
-3. [![Mike Lindell](https://lawandcrime.com/wp-content/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+3. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
     ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
     
-4. [![Inset: Angel Schonabaum (Vanderburgh County Jail). Background: The Evansville, Indiana, home where an infant suffered 50 rat bites (WEHT).](https://lawandcrime.com/wp-content/uploads/2024/10/rats-432x243.jpg)](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
+4. [![Inset: Angel Schonabaum (Vanderburgh County Jail). Background: The Evansville, Indiana, home where an infant suffered 50 rat bites (WEHT).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/rats-432x243.jpg)](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
     
     ### [Mother of baby found with over 50 rat bites and ‘very near to death' just got no prison time](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
     
-5. [![File Photo by: zz/ESBP/STAR MAX/IPx 2017 5/1/17 Sean P. Diddy Combs at the 2017 Costume Institute Benefit Gala celebrating the opening of the exhibition ](https://lawandcrime.com/wp-content/uploads/2024/10/Sean-Combs-432x243.jpg)](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
+5. [![File Photo by: zz/ESBP/STAR MAX/IPx 2017 5/1/17 Sean P. Diddy Combs at the 2017 Costume Institute Benefit Gala celebrating the opening of the exhibition ](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Sean-Combs-432x243.jpg)](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
     
     ### ['The Court's intervention is critical': Diddy and the feds are fighting over just how far a gag order should go to crack down on 'leaks' in RICO and sex trafficking case](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
     
