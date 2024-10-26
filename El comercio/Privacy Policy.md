@@ -31,47 +31,147 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-La luz del deporte resplandece en la crisis
-===========================================
+MrBeast enfrenta una demanda que amenaza su ‘reino’
+===================================================
 
-En medio de la crisis energética, las selecciones ecuatorianas, los atletas y ciclistas nos llenan de orgullo
--------------------------------------------------------------------------------------------------------------
+La demanda podría terminar con la imagen de chico 'bueno' que proyecta MrBeast.
+-------------------------------------------------------------------------------
 
-![La Selección de Ecuador femenina Sub 17 realiza una destacada actuación en el Mundial de la categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/EcuadorSeleccion.jpg)
+![El influencer MrBeast tiene 26 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo190.jpg)
 
-En momentos de **crisis**, cuando el pesimismo y la inseguridad acechan a nuestra sociedad, el **deporte** se erige como un faro de esperanza.
+500 millones de seguidores, una fortuna personal multimillonaria y un imperio empresarial global respaldan a **Jimmy Donaldson**, conocido como **MrBeast**.
 
-La reciente situación en Ecuador, marcada por apagones y caos en las calles por la falta de semáforos, ha dejado una profunda huella en el ánimo de la ciudadanía. Sin embargo, nuestros deportistas han sabido devolvernos la alegría y el orgullo, recordándonos que, incluso en las adversidades, podemos brillar.
+Sin embargo, un documento judicial de 54 páginas podría representar el desafío más difícil en su carrera.
 
-> El fútbol femenino ha sido un claro ejemplo de este renacer.
+### **Más noticias:**
 
-La **Selección de Ecuador Sub-17**, en un hito histórico, logró clasificarse a los cuartos de final del Mundial que se celebra en República Dominicana.
+* [MrBeast en Ecuador, lo que se sabe de su visita](https://www.elcomercio.com/tendencias/trending/mrbeast-ecuador-visita-influencer.html "https://www.elcomercio.com/tendencias/trending/mrbeast-ecuador-visita-influencer.html")
+* [MrBeast en Ecuador, aparentemente visitó el Teleférico de Quito](https://www.elcomercio.com/tendencias/trending/mrbest-ecuador-visita-teleferico-jimmy-donaldson.html "https://www.elcomercio.com/tendencias/trending/mrbest-ecuador-visita-teleferico-jimmy-donaldson.html")
+* [¿Qué viene a hacer MrBeast en Ecuador?](https://www.elcomercio.com/tendencias/trending/mrbest-youtuber-redes-sociales-ecuador.html "https://www.elcomercio.com/tendencias/trending/mrbest-youtuber-redes-sociales-ecuador.html")
 
-Este domingo 27 de octubre, nuestras jóvenes guerreras se enfrentarán a **España**, un desafío que no solo representa la lucha por un lugar en las semifinales del Mundial, sino también un símbolo de progreso y potencial en el deporte femenino ecuatoriano.
+**¿Quién es MrBeast?**
+----------------------
 
-Junto a ellas, las Dragonas IDV dejaron huella en la **Copa Libertadores Femenina** al alcanzar las semifinales y terminar en una destacada cuarta posición.
+**MrBeast**, cuyo nombre real es **Jimmy Donaldson**, es uno de los creadores de contenido más influyentes y reconocidos de YouTube.
 
-Estas actuaciones nos llenan de esperanza y nos muestran que el talento ecuatoriano tiene un futuro brillante en el **fútbol femenino.**
+Nacido el 7 de mayo de 1998, comenzó su carrera en la plataforma en 2012, pero alcanzó la fama en 2018 con sus videos innovadores y extravagantes, donde entrega grandes premios en efectivo y realiza desafíos espectaculares.
 
-No podemos olvidar a la **Selección de Ecuador Sub-15**, liderada por el exmundialista Juan Carlos Burbano, que llegó a la final del reciente Sudamericano en Bolivia.
+**¿Por qué es famoso MrBeast?**
+-------------------------------
 
-A pesar de perder en penales ante Paraguay, el **subcampeonato** es un reflejo de la proyección que tiene este equipo, que promete dar muchas alegrías en el futuro.
+Su enfoque filantrópico, que incluye donaciones millonarias a organizaciones benéficas y regalos a personas necesitadas, ha contribuido a su imagen como un “chico bueno” en **la Internet**.
 
-En el ámbito del **atletismo**, Belsy Quiñonez y Jholeixon Rodríguez brillaron con nuevos **récords nacionales** en el Campeonato Nacional U18 realizado en Quito, el pasado fin de semana.
+Con más de 500 millones de suscriptores, **MrBeast** revolucionó el contenido en línea al crear producciones de alto presupuesto que capturan la atención del público.
 
-Quiñónez, con su récord sudamericano en lanzamiento de bala, y Rodríguez, con un impresionante salto en alto de 2,09 metros, demuestran que la nueva generación de atletas ecuatorianos está lista para dejar su huella en el escenario internacional.
+Su estilo de entretenimiento, caracterizado por grandes concursos y donaciones, cautivó a una audiencia diversa y le permitió establecer un imperio **empresarial** que abarca desde la venta de productos hasta la creación de contenido para plataformas de streaming.
 
-Ambos y otros destacados seleccionados estarán presentes en el próximo **Sudamericano U18** que se realizará en Argentina, en diciembre.
+**MrBeast enfrenta una demanda que amenaza su ‘reino’**
+-------------------------------------------------------
 
-La confirmación de **Jefferson Cepeda** en el **Movistar Team** de **España** también es un motivo de celebración.
+Cinco mujeres interpusieron acciones legales contra la productora de **MrBeast**, MrB2024, y contra **Amazon**, tras su participación en el programa ‘Beast Games’, que está por lanzarse en Amazon Prime Video.
 
-Este ciclista de 28 años, que ha trabajado arduamente para llegar a la élite del **ciclismo mundial**, representa la perseverancia y el talento ecuatoriano. Su inclusión por primera vez en un equipo del **World Tour** abre las puertas para que más deportistas nacionales sigan sus pasos.
+En la demanda, las demandantes alegan haber “sufrido particular y colectivamente” en un entorno que “sistemáticamente fomentó una cultura de **misoginia** y sexismo”.
 
-Este orgullo tricolor se refleja también en el talento de ciclistas como Richard Carapaz, Jhonatan Narváez, Jonathan Caicedo, Alexander Cepeda, Martín López y, desde 2025, Jefferson Cepeda, quienes han dejado su huella en equipos de la UCI World Tour, la máxima categoría en el ciclismo.
+Estas acusaciones afectan gravemente la imagen que MrBeast cultiva como uno de los influencers más amables de **internet**.
 
-Estos atletas son un testimonio del potencial que el país posee y de la importancia de seguir apoyando el desarrollo del deporte en todas sus categorías. En cada competencia nos demuestran que el esfuerzo y la pasión pueden superar cualquier barrera.
+**La demanda a MrBeast incluye acoso sexual**
+---------------------------------------------
 
-Con su esfuerzo, el deporte se convierte en una luz que ilumina en estos días oscuros, y esperamos que en 2025 sigamos disfrutando de sus triunfos.
+Los detalles del documento indican que los concursantes estaban “mal alimentados y excesivamente cansados”.
+
+Se afirma que las comidas se ofrecían “de manera esporádica y escasa”, lo que ponía en riesgo la salud de los participantes. Además, se sugiere que existía un ambiente de trabajo hostil, marcado por el acoso **sexual**.
+
+El **New York Times**, en un artículo reciente, reportó que varios concursantes fueron hospitalizados durante el **rodaje**, y uno de ellos comentó que pasó más de 20 horas sin recibir alimentos.
+
+**MrBeast mantiene el silencio**
+--------------------------------
+
+La BBC se comunicó con **MrBeast** y Amazon, pero hasta el momento, no han emitido comentarios al respecto.
+
+A pesar de las controversias, la popularidad de MrBeast sigue en aumento. En julio, el influencer enferentó otra controversia relacionada con su excopresentadora, y en agosto reveló una colaboración con KSI y Logan Paul para lanzar una nueva línea de alimentos.
+
+A pesar de estos desafíos, su imperio sigue creciendo y se espera que su respuesta a la demanda sea crucial para su futuro.
+
+¿A qué hora se juega el clásico entre Real Madrid y el FC Barcelona?
+====================================================================
+
+El partido entre los equipos españoles es considerado el clásico de fútbol más importante del mundo.
+----------------------------------------------------------------------------------------------------
+
+![Rodrygo (izq.), del Real Madrid, frente a Frenkie de Jong, del FC Barcelona, en 'El Clásico'.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-24.jpg)
+
+La nueva edición de ‘El Clásico’ entre **Real Madrid y el FC Barcelona** llega cargada de expectación y grandes expectativas, ya que promete ser uno de los mejores enfrentamientos desde la era de Lionel Messi y Cristiano Ronaldo.
+
+Este será el enfrentamiento **número 257 entre ambos equipos**, el partido que más veces se ha jugado en España, con 188 encuentros en La Liga, 189 con el próximo que se jugará.
+
+### Más noticias:
+
+* [Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo](https://www.elcomercio.com/deportes/futbol/real-madrid-barcelona-devuelven-la-magia-al-clasico-post-messi-y-ronaldo.html "Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo")
+* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
+* [Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions](https://www.elcomercio.com/deportes/futbol/raphinha-brilla-goleada-fcbarcelonal-bayern-munich-champions.html "Raphinha brilla en la goleada del FC Barcelona al Bayern Múnich en Champions")
+
+**Real Madrid tiene la ventaja histórica con 105 victorias**, mientras que el FC Barcelona tiene 99 triunfos y se han registrado 52 empates. En cuanto a goles, los merengues dominan con 432 anotaciones, frente a las 416 de los culés.
+
+¿A qué hora se juega el Real Madrid vs. FC Barcelona?
+-----------------------------------------------------
+
+El Clásico de España entre **Real Madrid y FC Barcelona** se disputará este sábado 26 de octubre a las 14:00 (hora de Ecuador) en el Estadio Santiago Bernabéu.
+
+Los culés llegan al partido como líderes de La Liga y el equipo con el mejor ataque, acumulando **27 puntos en 10 jornadas**, gracias a un fútbol rápido y efectivo liderado por jóvenes promesas y jugadores experimentados.
+
+Los merengues, por su parte, están invictos en el torneo y se sitúan en el segundo lugar de la tabla con **24 puntos**. El equipo blanco, conocido por su contundencia y eficacia.
+
+Los nuevos ‘Galácticos’ vs. La Masía y la experiencia
+-----------------------------------------------------
+
+Este clásico enfrentará, por un lado, a las estrellas internacionales del **Real Madrid** y, por el otro, a la prometedora generación de canteranos del **FC Barcelona**.
+
+Para el Madrid, **Kylian** **Mbappé** disputará su primer clásico, Jude Bellingham sigue consolidándose como un ídolo para los madridistas, y **Vinícius Júnior** llega como principal favorito al próximo Balón de Oro.
+
+Por el Barcelona, estarán **Lamine Yamal,** la joven promesa; Pedri, **Lewandowski** y Raphinha en un nivel destacado; y jóvenes talentos como Pau Cubarsí y Gavi, quienes están ganando protagonismo en el equipo.
+
+Cafetería Modelo, 74 años de tradición en la gastronomía de Quito
+=================================================================
+
+Cafetería Modelo es una tradición en la gastronomía quiteña. Guillermo Báez, su propietario e hijo del fundador, nos cuenta su historia.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Guillermo Báez (d) y El Señor del Sombrero, en un diálogo sobre los 74 años de la Cafetería Modelo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1-12.jpg)
+
+En un mundo vertiginoso, de restaurantes y bares que aparecen y desaparecen, hay varios que, en cambio, parecen estar destinados a permanecer y convertirse en emblemáticos. Eso ocurre con la **Cafetería Modelo,** que tiene **74 años** y es una marca de **tradición** en la **gastronomía de Quito**.
+
+### Más noticias
+
+* [Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria](https://www.elcomercio.com/tendencias/gastronomia/dia-mundial-pasta-alimento-historia.html "Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria ")
+* [Cinco chefs destacan la importancia de su profesión en el Día del Chef](https://www.elcomercio.com/tendencias/gastronomia/dia-internacional-chef-efemeride.html "Cinco chefs destacan la importancia de su profesión en el Día del Chef ")
+* [La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento](https://www.elcomercio.com/tendencias/salud/quinua-alimento-envejecimiento-nutricion.html "La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento ")
+
+Cafetería Modelo, 74 años de tradición
+--------------------------------------
+
+Todo comenzó en **1950**. **Guillermo Báez**, originario de **Mulaló** (Cotopaxi), decidió abrir una **cafetería** con una pequeña y vieja máquina para hacer café. Desde entonces, fue constituyéndose en una marca que siempre ha acompañado a los quiteños, sobre todo, al inicio, para los desayunos. Y es **toda una tradición**.
+
+Por eso, en este podcast ‘**La sobremesa con El Señor del Sombrero**‘, hablamos con su hijo, también llamado **Guillermo Báez**, para que nos contara la **historia** y cómo fue evolucionando hasta convertirse, además de una cafetería, en un restaurante, cuando en la década de los 90, decidió ampliar su menú, incorporar platos, mejorar la decoración del sitio, e incluso expandirse a otros lugares de Quito.
+
+Romper la costumbre
+-------------------
+
+Fue por el año **1998** cuando **Guillermo Báez hijo** pensó que era necesario ampliar el menú. No solo quedarse como una cafetería. Había que ampliar la oferta para atraer a más clientes, sobre todo para los almuerzos.
+
+No fue una tarea fácil. Guillermo, que había estudiado ingeniería comercial, tenía que convencer a su padre que el negocio debía modificarse, evolucionar, no quedarse en el sitio de siempre. No fue tarea fácil. La **reinvención** es compleja en ciertos momentos y cuesta dar el primer paso.
+
+Finalmente, luego de muchas conversaciones, su padre aceptó. Y fue para bien. Porque allí encontramos ahora uno de los mejores **secos de chivo** que se puede encontrar en la ciudad. No se podrá negar que el ponche, caliente, por cierto, es también una de sus preparaciones más representativas.
+
+“**No voy a decir que somos los mejores,** pero sí creo que somos buenos”, dice Báez en este podcast.
+
+Cafetería Modelo, una búsqueda de expansión
+-------------------------------------------
+
+El local principal queda en la calle **Sucre y García Moreno,** diagonal a la Iglesia de La Compañía, en el **Centro Histórico de Quito**. Es un local que en principio perteneció al **Banco Central**. Cuando este lo puso en venta, los Báez pensaron en comprarlo, pero pedían valores muy altos. Por fortuna, para ellos y los comensales, los nuevos propietarios los mantuvieron como inquilinos. Y pese a que hubo algunos cambios de dueños, siempre pudieron renovar los contratos de alquiler con la **Cafetería Modelo.**
+
+Sin embargo, muy previsores, adquirieron otros locales en el Centro Histórico que arriendan a otros comerciantes, pero lo tienen siempre presente por si acaso se termine el contrato con el actual.
+
+Luego, Guillermo, bajo la necesidad de independencia que a todo hijo le llega, decidió abrir un local en la **Villaflora**, en un inmueble que fue de su propiedad. Vendieron el edificio y cerraron el local, pero se expandieron más bien hacia el norte. Pero esa historia de 74 años, es mejor escuchar en este episodio de El Señor del Sombrero, en que también dialogamos sobre el plato que une a los ecuatorianos a finales de octubre: la **colada morada**, que una vez fue declarado como el mejor de la ciudad, y las **guaguas de pan**[.](https://www.tripadvisor.es/Restaurant_Review-g294308-d1086858-Reviews-Restaurante_y_Cafeteria_Modelo-Quito_Pichincha_Province.html "https://www.tripadvisor.es/Restaurant_Review-g294308-d1086858-Reviews-Restaurante_y_Cafeteria_Modelo-Quito_Pichincha_Province.html")
 
 ‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas
 =========================================================================================
@@ -184,6 +284,48 @@ Su hoja de vida
 * También es magíster en comunicación científica, médica y ambiental.
 * Fue presidenta de la [Asociación de Psicooncología de Chile](https://apchi.cl/ "https://apchi.cl/")
 
+La luz del deporte resplandece en la crisis
+===========================================
+
+En medio de la crisis energética, las selecciones ecuatorianas, los atletas y ciclistas nos llenan de orgullo
+-------------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador femenina Sub 17 realiza una destacada actuación en el Mundial de la categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/EcuadorSeleccion.jpg)
+
+En momentos de **crisis**, cuando el pesimismo y la inseguridad acechan a nuestra sociedad, el **deporte** se erige como un faro de esperanza.
+
+La reciente situación en Ecuador, marcada por apagones y caos en las calles por la falta de semáforos, ha dejado una profunda huella en el ánimo de la ciudadanía. Sin embargo, nuestros deportistas han sabido devolvernos la alegría y el orgullo, recordándonos que, incluso en las adversidades, podemos brillar.
+
+> El fútbol femenino ha sido un claro ejemplo de este renacer.
+
+La **Selección de Ecuador Sub-17**, en un hito histórico, logró clasificarse a los cuartos de final del Mundial que se celebra en República Dominicana.
+
+Este domingo 27 de octubre, nuestras jóvenes guerreras se enfrentarán a **España**, un desafío que no solo representa la lucha por un lugar en las semifinales del Mundial, sino también un símbolo de progreso y potencial en el deporte femenino ecuatoriano.
+
+Junto a ellas, las Dragonas IDV dejaron huella en la **Copa Libertadores Femenina** al alcanzar las semifinales y terminar en una destacada cuarta posición.
+
+Estas actuaciones nos llenan de esperanza y nos muestran que el talento ecuatoriano tiene un futuro brillante en el **fútbol femenino.**
+
+No podemos olvidar a la **Selección de Ecuador Sub-15**, liderada por el exmundialista Juan Carlos Burbano, que llegó a la final del reciente Sudamericano en Bolivia.
+
+A pesar de perder en penales ante Paraguay, el **subcampeonato** es un reflejo de la proyección que tiene este equipo, que promete dar muchas alegrías en el futuro.
+
+En el ámbito del **atletismo**, Belsy Quiñonez y Jholeixon Rodríguez brillaron con nuevos **récords nacionales** en el Campeonato Nacional U18 realizado en Quito, el pasado fin de semana.
+
+Quiñónez, con su récord sudamericano en lanzamiento de bala, y Rodríguez, con un impresionante salto en alto de 2,09 metros, demuestran que la nueva generación de atletas ecuatorianos está lista para dejar su huella en el escenario internacional.
+
+Ambos y otros destacados seleccionados estarán presentes en el próximo **Sudamericano U18** que se realizará en Argentina, en diciembre.
+
+La confirmación de **Jefferson Cepeda** en el **Movistar Team** de **España** también es un motivo de celebración.
+
+Este ciclista de 28 años, que ha trabajado arduamente para llegar a la élite del **ciclismo mundial**, representa la perseverancia y el talento ecuatoriano. Su inclusión por primera vez en un equipo del **World Tour** abre las puertas para que más deportistas nacionales sigan sus pasos.
+
+Este orgullo tricolor se refleja también en el talento de ciclistas como Richard Carapaz, Jhonatan Narváez, Jonathan Caicedo, Alexander Cepeda, Martín López y, desde 2025, Jefferson Cepeda, quienes han dejado su huella en equipos de la UCI World Tour, la máxima categoría en el ciclismo.
+
+Estos atletas son un testimonio del potencial que el país posee y de la importancia de seguir apoyando el desarrollo del deporte en todas sus categorías. En cada competencia nos demuestran que el esfuerzo y la pasión pueden superar cualquier barrera.
+
+Con su esfuerzo, el deporte se convierte en una luz que ilumina en estos días oscuros, y esperamos que en 2025 sigamos disfrutando de sus triunfos.
+
 Los interpelantes perdieron el juicio
 =====================================
 
@@ -203,21 +345,6 @@ En el mercado negro, donde se cotizan los **votos**, se decía que estaban en ju
 Votar a favor de la **ministra** era declarar que se vendían al **gobierno**, votar en contra era declarar que se entregaban al **correísmo** y traicionaban al país. Los asambleístas de **Construye** hicieron como el mago: dijeron las **palabras mágicas** y desapareció una causal, otras **palabras mágicas** y desapareció el mago. Se abstuvieron en la **votación**.
 
 Los **socialcritianos** cumplieron su palabra, votaron por la censura y, tal vez, aseguraron la **vicepresidencia** de la **Asamblea**. La **revolución ciudadana** sumó una nueva desgracia a su racha de mala suerte. La sentencia al **excontralor** y el retiro de la visa al expresidente y al **exvicepresidente** ratifican que la condena por parte de la **justicia ecuatoriana** tenía pleno fundamento y en el **ámbito internacional** ya no podrán seguir acusando a los **jueces** y alegando lawfare.
-
-Cartas a Quito / 26 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este sábado 26 de octubre de 2024
------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¡Ponga los pies en el suelo, señor Alcalde! 
---------------------------------------------
-
-La vanidad y la cleptomanía son parte de la personalidad de los miembros de la RC5, que sacan a relucir cuando son autoridad. En vísperas de elecciones se esmeran en proponer proyectos rimbombantes con jugosas comisiones y poca efectividad. Esta vez el Alcalde de Quito está empeñado en completar el despropósito iniciado por su coideario en el 2011, se trata de la ampliación de la primera línea del Metro de Quito hasta la Ofelia, con la pretensión de llegar hasta Calderón. Es clara la aplicación de la personalidad, cuando el burgo maestre en recesión, con urgencia y, plata ajena, ofrece financiar los estudios, cuyo valor debe alcanzar al 1% del valor de la construcción estimado entre 500 y 600 millones de USD. Esta inoportuna iniciativa ha generado duras críticas de la ciudadanía y del propio Concejo Metropolitano. La preocupación es que, no es conveniente embarcarse en la construcción de un ramal, si la línea principal que está en servicio no está cerrada, tiene por resolver problemas graves ahora mismo: no hay recepción definitiva con Acciona, no hay contrato de mantenimiento del material rodante, faltan accesorios de comodidad para el usuario en los trenes, no hay integración con los sistemas de transporte público en superficie. El problema principal del Metro de Quito es que, no es autosustentable, antes de pensar en una nueva deuda, la autoridad municipal debe preocuparse por hacerle rentable, apenas tiene el ingreso de 150 000 usuarios/día, que no cubre los costos de operación y mantenimiento, por lo que el Municipio tiene que subsidiar 50 millones USD/año, sin contar con las cuotas que debe pagar a los prestamistas que financiaron la construcción de la primera línea. En resumen, es verdad que la Ofelia y Calderón necesitan transporte público masivo, pero no necesariamente el Metro, hay sistemas alternativos mucho más baratos, ¡Ponga los pies en el suelo, señor Alcalde!
-
-Marco A. Zurita Ríos 
 
 Delicia de chocolate, el pastel perfecto para los amantes del dulce
 ===================================================================
@@ -294,6 +421,21 @@ Preparación del glaseado
 * Una vez que el **pastel** esté completamente frío, **colocar** una capa de glaseado en la parte superior de una de las capas del pastel. **Colocar** la segunda capa encima y cubrir todo el **pastel** con el glaseado restante.
 
 Decora al gusto y disfruta de tu delicioso **pastel** de chocolate. ¡Buen provecho!
+
+Cartas a Quito / 26 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este sábado 26 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¡Ponga los pies en el suelo, señor Alcalde! 
+--------------------------------------------
+
+La vanidad y la cleptomanía son parte de la personalidad de los miembros de la RC5, que sacan a relucir cuando son autoridad. En vísperas de elecciones se esmeran en proponer proyectos rimbombantes con jugosas comisiones y poca efectividad. Esta vez el Alcalde de Quito está empeñado en completar el despropósito iniciado por su coideario en el 2011, se trata de la ampliación de la primera línea del Metro de Quito hasta la Ofelia, con la pretensión de llegar hasta Calderón. Es clara la aplicación de la personalidad, cuando el burgo maestre en recesión, con urgencia y, plata ajena, ofrece financiar los estudios, cuyo valor debe alcanzar al 1% del valor de la construcción estimado entre 500 y 600 millones de USD. Esta inoportuna iniciativa ha generado duras críticas de la ciudadanía y del propio Concejo Metropolitano. La preocupación es que, no es conveniente embarcarse en la construcción de un ramal, si la línea principal que está en servicio no está cerrada, tiene por resolver problemas graves ahora mismo: no hay recepción definitiva con Acciona, no hay contrato de mantenimiento del material rodante, faltan accesorios de comodidad para el usuario en los trenes, no hay integración con los sistemas de transporte público en superficie. El problema principal del Metro de Quito es que, no es autosustentable, antes de pensar en una nueva deuda, la autoridad municipal debe preocuparse por hacerle rentable, apenas tiene el ingreso de 150 000 usuarios/día, que no cubre los costos de operación y mantenimiento, por lo que el Municipio tiene que subsidiar 50 millones USD/año, sin contar con las cuotas que debe pagar a los prestamistas que financiaron la construcción de la primera línea. En resumen, es verdad que la Ofelia y Calderón necesitan transporte público masivo, pero no necesariamente el Metro, hay sistemas alternativos mucho más baratos, ¡Ponga los pies en el suelo, señor Alcalde!
+
+Marco A. Zurita Ríos 
 
 Centro Histórico: un lugar de las disputas y de la memoria de Quito
 ===================================================================
@@ -834,143 +976,4 @@ Entre ellas, con **células madre** para desarrollar modelos organoides para est
 
 Estos vuelos comerciales se iniciaron en 2020 y permitieron a Estados Unidos volver a **enviar astronautas** desde suelo estadounidense tras la cancelación en 2011 del programa de transbordadores espaciales.
 
-Desde el último vuelo del transbordador Atlantis a la órbita terrestre en 2011, la NASA se vió obligada a utilizar únicamente los **sistemas de lanzamiento rusos** como el Soyuz para poner en órbita a sus astronautas. 
-
-TCE decidió sobre los candidatos a asambleístas nacionales de Construye
-=======================================================================
-
-La decisión del TCE sobre los candidatos a asambleístas nacionales de Construye fue tomada por unanimidad.
-----------------------------------------------------------------------------------------------------------
-
-![El TCE decidió sobre los candidatos a asambleístas nacionales de Construye.](https://www.elcomercio.com/wp-content/uploads/2024/10/tce-candidatos-asambleistas-construye-1.jpg)
-
-El **Tribunal Contencioso Electoral (TCE)** decidió sobre los **candidatos a asambleístas** nacionales del movimiento **Construye**, este viernes 25 de octubre de 2024.
-
-### Más noticias:
-
-* [TCE tomó decisión sobre candidatos de Avanza, Pachakutik y Democracia Sí](https://www.elcomercio.com/actualidad/politica/tce-tomo-decision-candidatos-avanza-pachakutik-democracia-si.html "TCE tomó decisión sobre candidatos de Avanza, Pachakutik y Democracia Sí")
-* [Se aplaza de audiencia de Verónica Abad en el TCE](https://www.elcomercio.com/actualidad/politica/veronica-abad-logra-aplazamiento-audiencia-tce.html "Se aplaza de audiencia de Verónica Abad en el TCE")
-
-TCE tomó una decisión sobre los candidatos a asambleístas nacionales de Construye
----------------------------------------------------------------------------------
-
-Días atrás, el **Consejo Nacional Electoral (CNE)** no calificó estas candidaturas por no cumplir los requisitos dispuestos en el **Código de la Democracia**.
-
-El CNE advirtió que, en ciertos casos, los candidatos del **movimiento Construye** no incluyeron las **declaraciones juramentadas**, ni los **planes de trabajo** en sus postulaciones.
-
-Por estas razones, el CNE decidió **negar** la inscripción de los candidatos de Construye. 
-
-Construye **apeló** ante el TCE la decisión del CNE por considerar que se atentaron algunos derechos.
-
-Sin embargo, esta tarde, el Pleno del TCE no aceptó el recurso de apelación presentado por **Iván González**, representante de Construye.
-
-Los **jueces electorales** ratificaron la negación de la calificación de las candidaturas a asambleístas nacionales de Construye.
-
-La resolución del TCE sobre los candidatos a asambleístas nacionales del movimiento Construye es de **última instancia** y se dio por **unanimidad**.
-
-Antes, el TCE negó la inscripción de candidaturas para asambleístas naciones de otras **tres organizaciones** políticas.
-
-**Avanza, Pachakutik y Democracia Sí** son las organizaciones que también se quedaron sin candidatos a asambleístas nacionales para las elecciones 2025.
-
-La razón en estos tres casos fue, principalmente, la falta de cumplimiento de procesos de democracia interna o **elecciones primarias**.
-
-El 9 de febrero de 2024, los ecuatorianos eligen **Presidente y Vicepresidente** de la República.
-
-**Asambleístas** nacionales, provinciales y de las circunscripciones del exterior, y parlamentarios andinos.
-
-Actualmente, el CNE se encuentra en el proceso de **calificación** de candidaturas, que incluyen procesos de apelación ante el TCE y dictámenes de última instancia.
-
-Corinthians de Félix Torres denuncia gestos racistas en Sudamericana
-====================================================================
-
-El racismo en el fútbol continúa en Sudamérica, sobre todo en los equipos de Brasil.
-------------------------------------------------------------------------------------
-
-![Memphis Depay es compañero de Félix Torres en el Corinthians de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-22.jpg)
-
-El **Corinthians** del ecuatoriano Félix Torres informó este viernes 25 de octubre sobre **“gestos racistas”** realizados por los hinchas del Racing durante el partido de ida de las semifinales de la Copa Sudamericana. El club brasileño anunció que presentará el caso ante la Conmebol.
-
-“Una vez más, en una competición sudamericana, vemos” escenas “absurdas y lamentables” de la afición rival “que perjudican no solo al **Corinthians**, sino a todo el país”, señaló el club brasileño en una nota divulgada en sus redes sociales.
-
-### Más noticias:
-
-* [Así van las semifinales de Copa Libertadores y Sudamericana](https://www.elcomercio.com/deportes/futbol/asi-van-las-semifinales-de-copa-libertadores-y-sudamericana.html "Así van las semifinales de Copa Libertadores y Sudamericana")
-* [El Corinthians de Félix Torres igualó en semifinales de Sudamericana](https://www.elcomercio.com/deportes/futbol/corinthians-de-felix-torres-igualo-racing-semifinales-de-sudamericana.html "El Corinthians de Félix Torres igualó en semifinales de Sudamericana")
-* [Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-junior-entre-la-lucha-contra-el-racismo-y-el-balon-de-oro.html "Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro")
-
-Racismo en la Copa Sudamericana
--------------------------------
-
-El conjunto paulista hizo referencia a un video difundido en Internet. Allí hay un fanático de **Racing** “**haciendo gestos racistas a la hinchada del Corinthians**” este jueves en el estadio Neo Química Arena, en São Paulo.
-
-La escuadra albinegra avisó que “está buscando identificar” al supuesto agresor. Además, se comprometió a “llevar el caso a la Policía, así como a la **Conmebol** (Confederación Sudamericana de Fútbol)”.
-
-“El **Corinthians**, como ha hecho desde su fundación, no acepta ningún tipo de racismo o discriminación”, subrayó.
-
-Sin ventajas en la ida
-----------------------
-
-Corinthians y **Racing Club** empataron 2-2 este jueves en el encuentro de ida de las semifinales de la Copa Sudamericana.
-
-El próximo jueves volverán a verse las caras en **El Cilindro de Avellaneda** en busca de un billete para la final del torneo.
-
-El técnico del Racing, **Gustavo Costas**, manifestó en la rueda de prensa posterior al partido su preocupación por la “inseguridad” que hay en Brasil para los hinchas de los equipos visitantes, tras el grave episodio con aficionados del Peñarol en Río de Janeiro.
-
-Casi 300 aficionados del **Peñarol** fueron detenidos el miércoles pasado tras cometer diversos altercados en los alrededores de una playa de Río, horas antes del partido de ida de semifinales de Copa Libertadores contra **Botafogo**.
-
-Los disturbios obligaron a la **Policía** **brasileña a intervenir** con dureza para devolver la normalidad a la región. 
-
-Fiscal Marcelo Vásconez fue asesinado en Manta
-==============================================
-
-El fiscal de Manta, Marcelo Vásconez, fue acribillado al salir de su jornada laboral junto con su guardaespaldas, un custodio de la Policía.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![El lugar donde se perpetró el asesinato del fiscal Marcelo Vásconez y su guardaespadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-8-2.jpg)
-
-El **fiscal de Manta**, Marcelo Vásconez, fue acribillado al salir de su jornada laboral junto con su **guardaespaldas**, Marco Ismael Moreno, un custodio de la Policía[.](https://es.wikipedia.org/wiki/Fiscal_(funcionario) "https://es.wikipedia.org/wiki/Fiscal_(funcionario)")
-
-### Más noticias
-
-* [Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presenta-imagenes-como-pruebas-caso-metastasis.html "Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis")
-* [Fiscalía presentó peritajes como pruebas en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-peritaje-prueba-caso-metastasis.html "Fiscalía presentó peritajes como pruebas en el caso Metástasis")
-
-Fiscal fue asesinado en Manta
------------------------------
-
-El ataque armado ocurrió en los exteriores de la **Fiscalía General del Estado**, hoy viernes 25 de octubre, en la avenida 4 de Noviembre a las 17:00. Su cuerpo fue llevado con vida a una **clínica privada** y luego 50 minutos, su corazón dejó de **palpitar**. Recibió más de 40 tiros. No portaba chaleco antibalas, confirmó la Policía a EL COMERCIO.
-
-> LAMENTAMOS INFORMAR  
->   
-> Esta tarde se suscitó el asesinato de nuestro compañero [#PoliMarcoIsmaelMorenoQuille](https://twitter.com/hashtag/PoliMarcoIsmaelMorenoQuille?src=hash&ref_src=twsrc%5Etfw), mismo que cumplía la función de custodio del fiscal Marcelo Vásconez, quien también perdió la vida en un ataque armado, en Manta, [#Manabí](https://twitter.com/hashtag/Manab%C3%AD?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Nuestras unidades especializadas… [pic.twitter.com/BdBbfZh1ea](https://t.co/BdBbfZh1ea)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 25, 2024](https://twitter.com/PoliciaEcuador/status/1849957642086608999?ref_src=twsrc%5Etfw)
-
-El fiscal trabajaba 15 años en Manta
-------------------------------------
-
-Vásconez era oriundo de la ciudad de Riobamba y **tenía más de 15 años trabajando en Manta** como agente fiscal. Tenía 45 años, era padre de tres hijos menores de edad y vivía en una urbanización privada de la ciudad.
-
-Sicarios perpetraron el crimen
-------------------------------
-
-El coronel Emerson Luna, jefe del Comando de la Policía de Manta, informó que se han **desplegado varias unidades especializadas** para dar con los atacantes. Evitó dar más detalles de la **investigación** porque el caso se investigará de forma reservada para evitar fuga de información.
-
-Este crimen fue perpetrado por sicarios que usaron fusiles y escaparon en un **auto blanco.** Luego del ataque, el carro fue abandonado y le prendieron fuego en el barrio El Porvenir, ubicado a 5 minutos del lugar del crimen. Aún no hay pista de los responsables.
-
-> 𝗘𝗦𝗧𝗔𝗠𝗢𝗦 𝗗𝗘 𝗟𝗨𝗧𝗢🕊️  
->   
-> Expresamos nuestro más profundo dolor por la muerte de nuestro compañero [#PoliMarcoIsmaelMorenoQuille](https://twitter.com/hashtag/PoliMarcoIsmaelMorenoQuille?src=hash&ref_src=twsrc%5Etfw), quien fue asesinado mientras cumplía la función de policia de protección del señor fiscal Marcelo Vásconez, en [#Manta](https://twitter.com/hashtag/Manta?src=hash&ref_src=twsrc%5Etfw), siendo emboscados por… [pic.twitter.com/hFAGq5AY26](https://t.co/hFAGq5AY26)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 26, 2024](https://twitter.com/PoliciaEcuador/status/1849965639688941895?ref_src=twsrc%5Etfw)
-
-Las investigaciones del fiscal
-------------------------------
-
-Vásconez investigó el hallazgo de una carga de droga dentro la **Base Aérea de Manta** y el asesinato de su colega, la fiscal Luz Marina Delgado. Por esta muerte hubo tres mujeres sentenciadas a 36 años de cárcel tras recibir un pago de 200 mil dólares, según el juicio.
-
-Además, lideró la investigación del asesinato del alcalde de Manta, **Agustín Intriago**, donde sentenciaron a seis personas a 36 años de cárcel. También lideró la investigación, hace 11 años, de los líderes de la banda **Los Choneros** donde diez de sus cabecillas fueron sentenciados a 25 años de cárcel por el asesinato de Jairon Carreño. También lideró **investigaciones contra varias personas extrajeras** vinculadas al tráfico internacional de drogas, se informó.
-
-Actualmente, Vasconez, investigaba **muertes violentas**, ataques armados, balaceras, sicariatos y bandas internacionales relacionadas con el crimen organizado en Manta. En su despacho tenía procesos de investigación en **contra presuntos sicarios vinculados a los grupos armados Los Lobos, Los Pepes y Los Choneros, t**res bandas que operan en Manta y que han desatado una guerra por liderar los envío de droga al extranjero, según la Policía.
+Desde el último vuelo del transbordador Atlantis a la órbita terrestre en 2011, la NASA se vió obligada a utilizar únicamente los **sistemas de lanzamiento rusos** como el Soyuz para poner en órbita a sus astronautas.
