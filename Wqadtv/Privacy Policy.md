@@ -58,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/aee35a2e-42a7-4d35-b22c-707da1cc36b9/20241026T115002/aee35a2e-42a7-4d35-b22c-707da1cc36b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aee35a2e-42a7-4d35-b22c-707da1cc36b9/20241026T115002/aee35a2e-42a7-4d35-b22c-707da1cc36b9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Sunny and fall-like weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Another pleasant fall-day ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-54°
+56°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
