@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/gasland-verwoestende-resultaten-bij-boren-naar-aardgas/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/resonantie-en-de-nieuwe-wereld/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
