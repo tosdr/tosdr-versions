@@ -88,11 +88,11 @@ Address: PO Box 2050, 40311 Gothenburg, Sweden
 
 | Topic |     | Replies | Views | Activity |
 | --- | --- | --- | --- | --- |
-| [Ignorance about blokada VPN](https://community.blokada.org/t/ignorance-about-blokada-vpn/9660)<br><br>[Support](https://community.blokada.org/c/support/21) | 2   | 3206 | January 24, 2021 |
-| [What is Blokada Plus (VPN)?](https://community.blokada.org/t/what-is-blokada-plus-vpn/37)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [linked](https://community.blokada.org/tag/linked) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 28  | 578576 | December 12, 2021 |
-| [Privacy Policy](https://community.blokada.org/t/privacy-policy/6)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 0   | 142341 | June 16, 2020 |
+| [Ignorance about blokada VPN](https://community.blokada.org/t/ignorance-about-blokada-vpn/9660)<br><br>[Support](https://community.blokada.org/c/support/21) | 2   | 3208 | January 24, 2021 |
+| [What is Blokada Plus (VPN)?](https://community.blokada.org/t/what-is-blokada-plus-vpn/37)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [linked](https://community.blokada.org/tag/linked) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 28  | 578605 | December 12, 2021 |
+| [Privacy Policy](https://community.blokada.org/t/privacy-policy/6)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 0   | 142359 | June 16, 2020 |
 | [Problems with usage](https://community.blokada.org/t/problems-with-usage/5387)<br><br>[Support](https://community.blokada.org/c/support/21)<br><br>[ios](https://community.blokada.org/tag/ios) | 2   | 1932 | October 17, 2020 |
-| [Blokada Cloud Privacy Policy](https://community.blokada.org/t/blokada-cloud-privacy-policy/16982)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-cloud](https://community.blokada.org/tag/blokada-cloud) | 0   | 25826 | September 25, 2021 |
+| [Blokada Cloud Privacy Policy](https://community.blokada.org/t/blokada-cloud-privacy-policy/16982)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-cloud](https://community.blokada.org/tag/blokada-cloud) | 0   | 25827 | September 25, 2021 |
 
 * [Home](https://community.blokada.org/)
 * [Categories](https://community.blokada.org/categories)
