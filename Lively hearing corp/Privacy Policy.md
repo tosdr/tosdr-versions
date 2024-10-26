@@ -12,13 +12,15 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 7h : 8m : 36s**](https://www.listenlively.com/product)
+[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 1h : 10m : 12s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
