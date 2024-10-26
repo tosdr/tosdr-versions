@@ -13,7 +13,7 @@ Menu
     TOP STORIES
     
     * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [Israel launches strikes on military targets in Iran, escalating Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
+    * [Israel strikes Iran as payback for missile attack, risking escalation of Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
     
     Newsletters
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
-    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     
     Newsletters
     
@@ -54,7 +54,7 @@ Menu
     
     * [Altogether fitting and proper? Trump repeatedly compares himself to Abraham Lincoln](https://apnews.com/article/lincoln-trump-compares-better-e7c1cbdb9cf263060771c941e99f0e0b)
     * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
-    * [Trump visits Texas to tape Joe Rogan's podcast and to criticize Harris on immigration](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
-    * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
+    * [Who does Trump see as 'enemies from within'?](https://apnews.com/article/donald-trump-enemies-from-within-5c4a34776469a55e71d3ba4d4e68cf62)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani won't pitch in the World Series, but that's not slowing Ohtanimania](https://apnews.com/article/world-series-shohei-ohtani-dodgers-5a66c4173f472e059bb30f5dfca86225)
-    * [Juan Soto opens the World Series on his 26th birthday with baseball abuzz about his future](https://apnews.com/article/world-series-soto-yankees-4661aea64e79b6342bc7a88db7ae3efe)
-    * [Yankees vs Dodgers: The World Series' most frequent rivalry through the years](https://apnews.com/article/world-series-yankees-dodgers-bff08bfb932f8e56257f852a488e4a94)
+    * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
+    * [Bronny James expected to begin splitting time between Lakers, G League team after trip](https://apnews.com/article/lakers-bronny-reddick-e99fe792df4b26074407c4c8694060db)
+    * [Towns, Brunson help Knicks roll to a 123-98 victory over the Pacers in their home opener](https://apnews.com/article/pacers-knicks-score-ae1fb45f46cdf190337c0d4f5af061fa)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
     * [Phil Lesh, founding member of Grateful Dead and influential bassist, dies at 84](https://apnews.com/article/phil-lesh-dies-grateful-dead-491f2ca2727f4b16be0cca033a7b1b6f)
     * [Leonardo DiCaprio endorses Kamala Harris for president](https://apnews.com/article/leonardo-dicaprio-endorses-kamala-harris-election-2024-40bf7286e7219dfd59957bf28d34f578)
-    * [Fourth Spider-Man movie starring Tom Holland is set for release July 2026](https://apnews.com/article/spider-man-4-tom-holland-f05d915262adb2859c0bbf36e0967455)
     
 * [Business](https://apnews.com/business)
     
@@ -157,11 +157,11 @@ Menu
     
     TOP STORIES
     
-    * [An abrupt goodbye to a guerilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
+    * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
+    * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
     * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
     * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
     * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
-    * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -247,7 +247,7 @@ Menu
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
     * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
-    * [Delta sues cybersecurity firm CrowdStrike over tech outage that canceled flights](https://apnews.com/article/delta-airlines-crowdstrike-outage-lawsuit-43bb230d2edf235bb9f7928c4279fec2)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel lanza ataques contra objetivos militares en Irán, en escalada de conflicto en Oriente Medio](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
+    * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Fiscal de CPI que acusó a Netanyahu enfrenta denuncia por conducta sexual inapropiada](https://apnews.com/article/crimenes-de-guerra-cpi-abuso-sexual-metoo-a2fce840e3b781cbe5c6637fd0e23348)
-    * [Reportan 75 casos de E. coli vinculados a hamburguesas de McDonald’s en EEUU](https://apnews.com/article/ecoli-hamburguesas-quarter-pounders-mcdonalds-4fe83d18a3dcdce81b0d4dfb86432b26)
-    * [En una elección reñida donde cada voto cuenta, Harris va tras electorado que conforma base de Trump](https://apnews.com/article/kamala-harris-donald-trump-eeuu-elecciones-9f7dfbf450a5584166e27ab4899b8ece)
+    * [Vistazo al contacto de Musk con Putin y por qué es importante](https://apnews.com/article/musk-putin-elecciones-eeuu-6f52ee22a9ba2947c9b61a73ec4e4678)
+    * [Rusos crearon video falso que muestra destrucción de boletas con votos por Trump, dice FBI](https://apnews.com/article/eeuu-elecciones-desinformacion-rusia-fbi-trump-moscu-761daa2421441adfb9bb1fa5b92054d6)
+    * [Gobierno colombiano alcanza acuerdo con mineros y sigue dialogando con campesinos que bloquean vías](https://apnews.com/article/protesta-mineros-campesinos-colombia-paramos-609d4d0c6ecb9bc2172e2d06b5664013)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,7 +461,7 @@ Submit Search
     TOP STORIES
     
     * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [Israel launches strikes on military targets in Iran, escalating Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
+    * [Israel strikes Iran as payback for missile attack, risking escalation of Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
     
     Newsletters
@@ -479,8 +479,8 @@ Submit Search
     TOP STORIES
     
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
-    * [In Asheville, high school seniors make key life choices under the stress of Helene recovery](https://apnews.com/article/hurricane-helene-north-carolina-high-school-education-da215ba2eaa7b0ea72d35975548ad4d5)
     
     Newsletters
     
@@ -509,7 +509,7 @@ Submit Search
     
     * [Altogether fitting and proper? Trump repeatedly compares himself to Abraham Lincoln](https://apnews.com/article/lincoln-trump-compares-better-e7c1cbdb9cf263060771c941e99f0e0b)
     * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
-    * [Trump visits Texas to tape Joe Rogan's podcast and to criticize Harris on immigration](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
-    * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
+    * [Who does Trump see as 'enemies from within'?](https://apnews.com/article/donald-trump-enemies-from-within-5c4a34776469a55e71d3ba4d4e68cf62)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani won't pitch in the World Series, but that's not slowing Ohtanimania](https://apnews.com/article/world-series-shohei-ohtani-dodgers-5a66c4173f472e059bb30f5dfca86225)
-    * [Juan Soto opens the World Series on his 26th birthday with baseball abuzz about his future](https://apnews.com/article/world-series-soto-yankees-4661aea64e79b6342bc7a88db7ae3efe)
-    * [Yankees vs Dodgers: The World Series' most frequent rivalry through the years](https://apnews.com/article/world-series-yankees-dodgers-bff08bfb932f8e56257f852a488e4a94)
+    * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
+    * [Bronny James expected to begin splitting time between Lakers, G League team after trip](https://apnews.com/article/lakers-bronny-reddick-e99fe792df4b26074407c4c8694060db)
+    * [Towns, Brunson help Knicks roll to a 123-98 victory over the Pacers in their home opener](https://apnews.com/article/pacers-knicks-score-ae1fb45f46cdf190337c0d4f5af061fa)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
     * [Phil Lesh, founding member of Grateful Dead and influential bassist, dies at 84](https://apnews.com/article/phil-lesh-dies-grateful-dead-491f2ca2727f4b16be0cca033a7b1b6f)
     * [Leonardo DiCaprio endorses Kamala Harris for president](https://apnews.com/article/leonardo-dicaprio-endorses-kamala-harris-election-2024-40bf7286e7219dfd59957bf28d34f578)
-    * [Fourth Spider-Man movie starring Tom Holland is set for release July 2026](https://apnews.com/article/spider-man-4-tom-holland-f05d915262adb2859c0bbf36e0967455)
     
 * [Business](https://apnews.com/business)
     
@@ -645,11 +645,11 @@ Submit Search
     
     TOP STORIES
     
-    * [An abrupt goodbye to a guerilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
+    * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
+    * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
     * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
     * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
     * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
-    * [Champion cleared of cheating with a metal chestnut at the World Conker Championships](https://apnews.com/article/world-conker-championships-cheating-allegations-0f37223f4fe666844b09cb6c3704e4bc)
     * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -744,7 +744,7 @@ Submit Search
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
     * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
-    * [Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
     
 * [Tech](https://apnews.com/technology)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
     * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
-    * [Delta sues cybersecurity firm CrowdStrike over tech outage that canceled flights](https://apnews.com/article/delta-airlines-crowdstrike-outage-lawsuit-43bb230d2edf235bb9f7928c4279fec2)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel lanza ataques contra objetivos militares en Irán, en escalada de conflicto en Oriente Medio](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
+    * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Fiscal de CPI que acusó a Netanyahu enfrenta denuncia por conducta sexual inapropiada](https://apnews.com/article/crimenes-de-guerra-cpi-abuso-sexual-metoo-a2fce840e3b781cbe5c6637fd0e23348)
-    * [Reportan 75 casos de E. coli vinculados a hamburguesas de McDonald’s en EEUU](https://apnews.com/article/ecoli-hamburguesas-quarter-pounders-mcdonalds-4fe83d18a3dcdce81b0d4dfb86432b26)
-    * [En una elección reñida donde cada voto cuenta, Harris va tras electorado que conforma base de Trump](https://apnews.com/article/kamala-harris-donald-trump-eeuu-elecciones-9f7dfbf450a5584166e27ab4899b8ece)
+    * [Vistazo al contacto de Musk con Putin y por qué es importante](https://apnews.com/article/musk-putin-elecciones-eeuu-6f52ee22a9ba2947c9b61a73ec4e4678)
+    * [Rusos crearon video falso que muestra destrucción de boletas con votos por Trump, dice FBI](https://apnews.com/article/eeuu-elecciones-desinformacion-rusia-fbi-trump-moscu-761daa2421441adfb9bb1fa5b92054d6)
+    * [Gobierno colombiano alcanza acuerdo con mineros y sigue dialogando con campesinos que bloquean vías](https://apnews.com/article/protesta-mineros-campesinos-colombia-paramos-609d4d0c6ecb9bc2172e2d06b5664013)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
