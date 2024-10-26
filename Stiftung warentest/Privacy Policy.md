@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Kinder­roller im Test: Sieben sind echte Rock‘n Roller](https://www.test.de/Kinderroller-im-Test-5936182-0/ "Kinderroller im Test - Sieben sind echte Rock‘n Roller")
-* [Gewusst wie: Paypal-Konto einrichten](https://www.test.de/Gewusst-wie-Paypal-Konto-einrichten-5986194-0/ "Gewusst wie - Paypal-Konto einrichten")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Alternative zum Solarpanel: Sonnen­strom aus dem Dachziegel](https://www.test.de/Alternative-zum-Solarpanel-Sonnenstrom-aus-dem-Dachziegel-5936867-0/ "Alternative zum Solarpanel - Sonnenstrom aus dem Dachziegel")
+* [Barrierefrei reisen: Urlaub ohne Hinder­nisse](https://www.test.de/Barrierefrei-reisen-Urlaub-ohne-Hindernisse-6024514-0/ "Barrierefrei reisen - Urlaub ohne Hindernisse")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
 
 Service Stiftung Warentest
 
