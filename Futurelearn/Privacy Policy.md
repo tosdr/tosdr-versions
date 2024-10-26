@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![economics student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-99-150x150.png)](https://www.futurelearn.com/info/blog/economics-degree-careers)
+    
+    [What can I do with an economics degree?](https://www.futurelearn.com/info/blog/economics-degree-careers)
+    ---------------------------------------------------------------------------------------------------------
+    
+    Wondering which jobs you can do with an economics degree? Discover the top 10 careers …
+    
+    Category: [Business and Management](https://www.futurelearn.com/info/businessandmanagement), [Degrees](https://www.futurelearn.com/info/faq/degrees)
+    
 * [![accountant at work](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-98-150x150.png)](https://www.futurelearn.com/info/blog/accounting-degree-guide)
     
     [A complete guide to accounting degrees](https://www.futurelearn.com/info/blog/accounting-degree-guide)
@@ -744,15 +753,6 @@ Powered By
     FutureLearn, the leading social learning platform, is excited to announce its strategic content partnership with …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![mature student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1479512006-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/diphe-guide)
-    
-    [The complete guide to a diploma of higher education (DipHE)](https://www.futurelearn.com/info/blog/diphe-guide)
-    ----------------------------------------------------------------------------------------------------------------
-    
-    Discover how a diploma of higher education could propel your career forward, and get tips …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
