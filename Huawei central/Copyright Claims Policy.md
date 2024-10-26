@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei MatePad Pro 13.2 October 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/10/MatePadPro-13.2-400x240.jpg)
+        
+        Huawei MatePad Pro 13.2 is getting October 2024 security update](https://www.huaweicentral.com/huawei-matepad-pro-13-2-is-getting-october-2024-security-update/)
     * [![Huawei FreeClip September 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/09/FreeClip-400x240.jpg)
         
         Huawei improves FreeClip connectivity with September 2024 update](https://www.huaweicentral.com/huawei-improves-freeclip-connectivity-with-september-2024-update/)
@@ -59,9 +62,6 @@ Huawei Central
     * [![Huawei Pura 70 Pro AI Image Expand](https://www.huaweicentral.com/wp-content/uploads/2024/07/Pura-70-Pro-400x240.jpg)
         
         Huawei Pura 70 Pro starts receiving AI Image Expand feature update](https://www.huaweicentral.com/huawei-pura-70-pro-starts-receiving-ai-image-expand-feature-update/)
-    * [![Huawei FreeLace Pro 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeLace-Pro-2-400x240.jpg)
-        
-        Huawei optimizes FreeLace Pro 2 with July 2024 software update](https://www.huaweicentral.com/huawei-optimizes-freelace-pro-2-with-july-2024-software-update/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
