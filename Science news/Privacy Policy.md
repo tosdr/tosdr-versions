@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Drop in vaping drives tobacco product use by U.S. youth to a record low](https://www.sciencenews.org/article/vaping-tobacco-use-youth-record-low)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")9 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")15 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")12 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")18 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")12 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")18 hours ago
             
         * [Science & Society](https://www.sciencenews.org/topic/science-society)
             
             ### [The U.S. empire was built on bird dung](https://www.sciencenews.org/article/us-empire-built-bird-dung)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")14 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")20 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
