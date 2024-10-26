@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -238,6 +238,8 @@ Search results
     Quantity  Add to cart
     
     ### Davis [Davis Quick-Dry Shampoo - Gallon](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
+    
+    20 in stock
     
     $59.74
     
