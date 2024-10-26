@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Yankees lose heartbreaking World Series Game 1 on walk-off grand slam](https://nypost.com/2024/10/25/sports/yankees-lose-game-1-of-world-series-on-walkoff-grand-slam/)
-
 Terms Of Use
 ============
 
