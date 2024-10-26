@@ -25,9 +25,10 @@ Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagesp
     9. [Fortinet Integration](https://www.abuseipdb.com/fortinet "Fortinet Integration")
     10. [OpenCTI Integration](https://www.abuseipdb.com/opencti "OpenCTI Integration")
     11. [PolarityCE Integration](https://www.abuseipdb.com/polarityce "Polarity Integration")
+    12. [Integrations](https://www.abuseipdb.com/integrations "Maser Integrations List")
     
-    13. [Laravel Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://packagist.org/packages/abuseipdb/laravel "Laravel Integration (PHP)") 
-    14. [Node.js Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://www.npmjs.com/package/abuseipdb-client "Node.js Integration (JS)") 
+    14. [Laravel Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://packagist.org/packages/abuseipdb/laravel "Laravel Integration (PHP)") 
+    15. [Node.js Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://www.npmjs.com/package/abuseipdb-client "Node.js Integration (JS)") 
 * [Statistics](https://www.abuseipdb.com/statistics "Statistics")
 * [IP Tools](#)
     * [Convert IP Address Format](https://www.abuseipdb.com/tools/ip-address-converter)
