@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
+    
+    ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
+    
+    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
+    
+    ### [TEAM NEWS: Swansea City vs Millwall – Harris makes four changes](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
+    
+    [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
+    
+    ### [Family of former Dulwich College teacher to fund new school places for local children](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
     ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
@@ -43,18 +55,6 @@
     [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
     ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-360x180.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-    
-    ### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-    
-    [![Cllr James McAsh visited the Reception class at Hollydale Primary School. Image- Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-James-McAsh-visited-the-Reception-class-at-Hollydale-Primary-School.-Image-Southwark-Council-360x180.jpg)](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
-    
-    ### [Reflector badges to keep Southwark schoolchildren safe as daylight hours shorten](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
-    
-    [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
-    
-    ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
+    
+    ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
+    
+    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
+    
+    ### [TEAM NEWS: Swansea City vs Millwall – Harris makes four changes](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
+    
+    [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
+    
+    ### [Family of former Dulwich College teacher to fund new school places for local children](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
     ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
@@ -128,18 +140,6 @@ View All Result
     [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
     ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-360x180.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-    
-    ### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-    
-    [![Cllr James McAsh visited the Reception class at Hollydale Primary School. Image- Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-James-McAsh-visited-the-Reception-class-at-Hollydale-Primary-School.-Image-Southwark-Council-360x180.jpg)](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
-    
-    ### [Reflector badges to keep Southwark schoolchildren safe as daylight hours shorten](https://southwarknews.co.uk/news/community/reflector-badges-to-keep-southwark-schoolchildren-safe-as-daylight-hours-shorten/)
-    
-    [![Northern abutment ‘Dead Man’s Hole’ viewed from the pedestrian pavement on the jetty to the east of the bridge. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/Northern-abutment-‘Dead-Mans-Hole-viewed-from-the-pedestrian-pavement-on-the-jetty-to-the-east-of-the-bridge.-Image-Southwark-Council-Planning-Documents-360x180.png)](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
-    
-    ### [‘Unsightly’ metal gantries to be removed from Tower Bridge](https://southwarknews.co.uk/area/bermondsey/unsightly-metal-gantries-to-be-removed-from-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -207,6 +207,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
 
+[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
+[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
+
 [![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
 
 ### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
@@ -218,12 +224,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
 [21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
-
-[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
 
 [![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
