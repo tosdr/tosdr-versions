@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
+
+  [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
+
 [18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
   [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
@@ -143,16 +147,20 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
 
-[Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
-  [![Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429947.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”")](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
-
-[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
-
-  [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+  [![Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430069.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.")](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -178,19 +186,13 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
   [![Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429925.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Leaders of the three major business groups — Keidanren, Keizai Doyukai and the Japan Chamber of Commerce — meet Prime Minister Shigeru Ishiba on Oct. 4 in Tokyo.")](https://www.japantimes.co.jp/business/2024/10/24/economy/keizai-doyukai-minimum-wage/ "¥1,500 minimum wage or bust, Japanese companies told")
 
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
+[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
-By [Owen Ziegler](https://www.japantimes.co.jp/author/3107/owen-ziegler/ "Owen Ziegler")  
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
-  [![Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429947.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ryoma Takeuchi (right) is perfectly cast as Kazuma Kiryu, a Jack Reacher-esque character of impermeable physicality in Amazon Prime’s new series “Like a Dragon: Yakuza.”")](https://www.japantimes.co.jp/culture/2024/10/25/tv-streaming/like-a-dragon-yakuza-amazon-prime/ "Amazon’s ‘Like a Dragon: Yakuza’ pulls its biggest punch")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ex-Japan envoy says North Korea troops have changed Ukraine war](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
-
-  [![Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429950.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Former Japanese Ambassador to Ukraine Kuninori Matsuda speaks during an interview on Wednesday in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/24/japan/ex-japan-envoy-ukraine-war/ "Ex-Japan envoy says North Korea troops have changed Ukraine war")
+  [![Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430069.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.")](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[1](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![1](1)](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,21 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Marubeni-backed salmon farm starts Japan sales as part of diversification push](https://www.japantimes.co.jp/business/2024/10/25/marubeni-salmon-farm/ "Marubeni-backed salmon farm starts Japan sales as part of diversification push")
+[U.S., Japan and South Korea express 'grave concern' over North Korean troops in Russia](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/us-japan-south-korea-north-korea-russia/ "U.S., Japan and South Korea express 'grave concern' over North Korean troops in Russia")
 
-10 hours ago
+48 mins ago
 
-[Japan to resume trial removal of Fukushima nuclear debris, reports say](https://www.japantimes.co.jp/news/2024/10/25/japan/fukushima-debris-removal/ "Japan to resume trial removal of Fukushima nuclear debris, reports say")
+[Israel strikes Iran military targets amid fears of a wider war](https://www.japantimes.co.jp/news/2024/10/26/world/israel-iran-strikes-military-targets/ "Israel strikes Iran military targets amid fears of a wider war")
 
-10 hours ago
+1 hours ago
 
-[Will Europe's pivot to Asia have any teeth?](https://www.japantimes.co.jp/news/2024/10/25/asia-pacific/europe-japan-defense-cooperation/ "Will Europe's pivot to Asia have any teeth?")
+[U.S. approves potential $2 billion arms sale to Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/taiwan-us-weapons-sales/ "U.S. approves potential $2 billion arms sale to Taiwan")
 
-10 hours ago
+1 hours ago
 
-[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
+[Candidates enter final day of campaigning in tight Japan election](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "Candidates enter final day of campaigning in tight Japan election")
 
-[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
+1 hours ago
+
+[Fearing China's hypersonic weapons, U.S. Navy seeks to arm ships with Patriot missiles](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-navy-patriots-china-hypersonic-missiles/ "Fearing China's hypersonic weapons, U.S. Navy seeks to arm ships with Patriot missiles")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
