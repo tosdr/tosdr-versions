@@ -12,13 +12,15 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 7h : 8m : 36s**](https://www.listenlively.com/product)
+[Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500!Last chance to save $300 on the Select 500! **Sale ends in 1h : 10m : 11s**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -189,7 +191,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* Latest
+* New
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
