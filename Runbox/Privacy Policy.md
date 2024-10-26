@@ -122,7 +122,7 @@ The information will also be used to customize the Service for you, to maintain 
 
 ### Legal basis[](#legal-basis)
 
-The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, in particular the [Personal Data Act](https://lovdata.no/dokument/NL/lov/2018-06-15-38) (Norwegian), which implement the [EU General Data Protection Regulation (GDPR).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
+The Service is subject to and compliant with the laws and regulations of the Kingdom of Norway, in particular the [Personal Data Act](https://lovdata.no/dokument/NLE/lov/2018-06-15-38), which implement the [EU General Data Protection Regulation (GDPR).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 
 [](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)[The Privacy Policy is compliant with the guidelines issued by](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) [The Norwegian Data Protection Authority (DPA)](https://www.datatilsynet.no/en/), an independent public agency established to protect individuals’ privacy.
 
