@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
-    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
-    * [Waaree Energies IPO](https://www.news18.com/business/ipo/waaree-energies-ipo-allotment-finalised-gmp-indicates-100-profit-for-investors-check-listing-date-9097742.html)
+    * [Israel-Iran Conflict](https://www.news18.com/world/israel-precise-strike-iran-tehran-blast-100-planes-nukes-oil-fighter-jet-behind-the-scenes-9099615.html)
+    * [India Squad](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-nitish-reddy-at-7-indias-strongest-playing-xi-for-border-gavaskar-trophy-9099605.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
-    * [Arjun Kapoor](https://www.news18.com/movies/arjun-kapoor-shares-a-cryptic-post-on-malaika-aroras-birthday-never-forget-who-9098100.html)
+    * [Ratan Tata](https://www.news18.com/business/ratan-tata-will-for-shantanu-naidu-details-9098856.html)
+    * [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-was-disappointed-with-helicopter-entry-scene-in-k3g-reveals-nikkhil-advani-he-thought-9099576.html)
     * [Diwali 2024](https://www.news18.com/topics/diwali/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,11 +171,11 @@ Follow us on
 In Trends:
 
 * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
-* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-says-thanks-after-nimrat-kaur-comments-marriages-dont-last-viral-9097948.html)
-* [Waaree Energies IPO](https://www.news18.com/business/ipo/waaree-energies-ipo-allotment-finalised-gmp-indicates-100-profit-for-investors-check-listing-date-9097742.html)
+* [Israel-Iran Conflict](https://www.news18.com/world/israel-precise-strike-iran-tehran-blast-100-planes-nukes-oil-fighter-jet-behind-the-scenes-9099615.html)
+* [India Squad](https://www.news18.com/cricket/no-r-ashwin-ravindra-jadeja-nitish-reddy-at-7-indias-strongest-playing-xi-for-border-gavaskar-trophy-9099605.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Noel Tata](https://www.news18.com/business/noel-tata-cannot-become-the-chairman-of-tata-sons-because-of-a-rule-ratan-tata-made-in-2022-9097058.html)
-* [Arjun Kapoor](https://www.news18.com/movies/arjun-kapoor-shares-a-cryptic-post-on-malaika-aroras-birthday-never-forget-who-9098100.html)
+* [Ratan Tata](https://www.news18.com/business/ratan-tata-will-for-shantanu-naidu-details-9098856.html)
+* [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-was-disappointed-with-helicopter-entry-scene-in-k3g-reveals-nikkhil-advani-he-thought-9099576.html)
 * [Diwali 2024](https://www.news18.com/topics/diwali/)
 
 * Follow Us
