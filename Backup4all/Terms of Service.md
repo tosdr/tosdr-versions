@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
+* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
     
-* [How to shutdown computer after backup](https://www.backup4all.com/how-to-shutdown-computer-after-backup-kb.html)  
+* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
     
-* [Access denied error when trying to create a s ...](https://www.backup4all.com/access-denied-error-when-trying-to-create-a-scheduled-task-kb.html)  
+* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
     
-* [How to configure two jobs to run each one to ...](https://www.backup4all.com/how-to-configure-two-jobs-to-run-each-one-to-a-different-onedri-kb.html)  
+* [How to install Backup4all Monitor](https://www.backup4all.com/how-to-install-backup4all-monitor-kb.html)  
     
-* [How to restore a backup to HiDrive](https://www.backup4all.com/how-to-restore-a-backup-to-hidrive-kb.html)  
+* [How to restore to Hitachi](https://www.backup4all.com/how-to-restore-to-hitachi-kb.html)  
     
 
 Choose language:
