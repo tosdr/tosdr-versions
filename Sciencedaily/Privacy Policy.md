@@ -212,12 +212,12 @@ this hour
 * ['Well-Man' Thrown from Castle 800 Years Ago](https://www.sciencedaily.com/releases/2024/10/241025122355.htm)
 * [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
 * [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
-* [Fire-Risk Blocking Hydrogen Production System](https://www.sciencedaily.com/releases/2024/10/241024132044.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 * [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 * [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
 * [Chronic Pain Predicted Within 3 Days of Injury](https://www.sciencedaily.com/releases/2024/10/241024131740.htm)
 * [Electric Cars: Long-Lasting Renewable Batteries](https://www.sciencedaily.com/releases/2024/10/241024131708.htm)
+* [Wildfires Becoming Faster, More Dangerous](https://www.sciencedaily.com/releases/2024/10/241024145253.htm)
 
 Trending Topics
 ---------------
@@ -240,7 +240,7 @@ this week
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
