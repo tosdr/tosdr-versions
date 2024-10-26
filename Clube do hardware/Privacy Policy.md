@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Luigi Spigariol](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251367.thumb.png.73ef663a79b9a481efd7758232e01f95.png)](https://www.clubedohardware.com.br/profile/1251367-luigi-spigariol/ "Ir ao perfil de Luigi Spigariol")
+    * [![Samuel Ives](https://lh6.googleusercontent.com/-hODdQPh4dmI/AAAAAAAAAAI/AAAAAAAAAFM/YdVy52JTEbE/photo.jpg)](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")
         
-        2
+        0
         
-        [Pedal do volante logitech G920 dando choque](https://www.clubedohardware.com.br/forums/topic/1700637-pedal-do-volante-logitech-g920-dando-choque/?do=getNewComment "Pedal do volante logitech G920 dando choque")
+        [Marcas/Modelos de Nobreaks confiáveis em 2024](https://www.clubedohardware.com.br/forums/topic/1700657-marcasmodelos-de-nobreaks-confi%C3%A1veis-em-2024/?do=getNewComment "Marcas/Modelos de Nobreaks confiáveis em 2024")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Luigi Spigariol](https://www.clubedohardware.com.br/profile/1251367-luigi-spigariol/ "Ir ao perfil de Luigi Spigariol")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Samuel Ives](https://www.clubedohardware.com.br/profile/846749-samuel-ives/ "Ir ao perfil de Samuel Ives")  
+        32 minutos atrás
+        
+    * [![v1cezin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254556.thumb.jpeg.e4167c71ff4b693d74a8a6fe28987ac3.jpeg)](https://www.clubedohardware.com.br/profile/1254556-v1cezin/ "Ir ao perfil de v1cezin")
+        
+        4
+        
+        [Ryzen 7 7800X3D é compatível com memória RAM DDR5 de 4800Hz?](https://www.clubedohardware.com.br/forums/topic/1700654-ryzen-7-7800x3d-%C3%A9-compat%C3%ADvel-com-mem%C3%B3ria-ram-ddr5-de-4800hz/?do=getNewComment "Ryzen 7 7800X3D é compatível com memória RAM DDR5 de 4800Hz?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [v1cezin](https://www.clubedohardware.com.br/profile/1254556-v1cezin/ "Ir ao perfil de v1cezin")  
         1 hora atrás
         
-    * [![ArturRJ](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/okazaki.thumb.jpeg.787ffc31ea5b2b7261ef1cd67bee9507.jpeg)](https://www.clubedohardware.com.br/profile/1188113-arturrj/ "Ir ao perfil de ArturRJ")
+    * [![lucca01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254749.thumb.png.0f949f250f719a353731dbb75f02df89.png)](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")
         
         0
         
-        [Tela Azul ao Jogar Simcity](https://www.clubedohardware.com.br/forums/topic/1700636-tela-azul-ao-jogar-simcity/?do=getNewComment "Tela Azul ao Jogar Simcity")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [ArturRJ](https://www.clubedohardware.com.br/profile/1188113-arturrj/ "Ir ao perfil de ArturRJ")  
-        2 horas atrás
-        
-    * [![nathan__](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249826.thumb.png.d77e79f380a080c2f8e7efeac7a52244.png)](https://www.clubedohardware.com.br/profile/1249826-nathan__/ "Ir ao perfil de nathan__")
-        
-        0
-        
-        [Ryzen 5 5600X + 3080 POR R$ 6,500.](https://www.clubedohardware.com.br/forums/topic/1700635-ryzen-5-5600x-3080-por-r-6500/?do=getNewComment "Ryzen 5 5600X + 3080 POR R$ 6,500.")
-        
-        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
-        Por [nathan\_\_](https://www.clubedohardware.com.br/profile/1249826-nathan__/ "Ir ao perfil de nathan__")  
-        2 horas atrás
-        
-    * [![MarkinSH](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255049.thumb.jpeg.41b08f5b55f89c71e3ae5e30cb601d8b.jpeg)](https://www.clubedohardware.com.br/profile/1255049-markinsh/ "Ir ao perfil de MarkinSH")
-        
-        0
-        
-        [gargalo em varios jogos.](https://www.clubedohardware.com.br/forums/topic/1700634-gargalo-em-varios-jogos/?do=getNewComment "gargalo em varios jogos.")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [MarkinSH](https://www.clubedohardware.com.br/profile/1255049-markinsh/ "Ir ao perfil de MarkinSH")  
-        2 horas atrás
-        
-    * [![Gudy2022](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46287%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")
-        
-        2
-        
-        [Suporte para deixar a GPU na vertical que caiba no gabinete DT3 Hyperflow](https://www.clubedohardware.com.br/forums/topic/1700633-suporte-para-deixar-a-gpu-na-vertical-que-caiba-no-gabinete-dt3-hyperflow/?do=getNewComment "Suporte para deixar a GPU na vertical que caiba no gabinete DT3 Hyperflow")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Gudy2022](https://www.clubedohardware.com.br/profile/1198203-gudy2022/ "Ir ao perfil de Gudy2022")  
-        2 horas atrás
-        
-    * [![Vinicius Piras](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/fara.thumb.jpg.93eaedd843b86311f4183d986ea3fdd8.jpg)](https://www.clubedohardware.com.br/profile/1230891-vinicius-piras/ "Ir ao perfil de Vinicius Piras")
-        
-        0
-        
-        [Meu PC não dá Vídeo](https://www.clubedohardware.com.br/forums/topic/1700632-meu-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Meu PC não dá Vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Vinicius Piras](https://www.clubedohardware.com.br/profile/1230891-vinicius-piras/ "Ir ao perfil de Vinicius Piras")  
-        3 horas atrás
-        
-    * [![Henrique21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/1.thumb.webp.44f52aca14f309666ca7bafaa272e51b.webp)](https://www.clubedohardware.com.br/profile/1255047-henrique21/ "Ir ao perfil de Henrique21")
-        
-        0
-        
-        [Recomendação de PC AM5 até R$ 30.000,00 com uma GeForce RTX 4090](https://www.clubedohardware.com.br/forums/topic/1700631-recomenda%C3%A7%C3%A3o-de-pc-am5-at%C3%A9-r-3000000-com-uma-geforce-rtx-4090/?do=getNewComment "Recomendação de PC AM5 até R$ 30.000,00 com uma GeForce RTX 4090")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Henrique21](https://www.clubedohardware.com.br/profile/1255047-henrique21/ "Ir ao perfil de Henrique21")  
-        4 horas atrás
-        
-    * [![CaiioV](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255046.thumb.png.5ad847802f715e2d78e09400f0f5bfe1.png)](https://www.clubedohardware.com.br/profile/1255046-caiiov/ "Ir ao perfil de CaiioV")
-        
-        1
-        
-        [Qual placa-mãe comprar para o meu Ryzen 5 5600G?](https://www.clubedohardware.com.br/forums/topic/1700630-qual-placa-m%C3%A3e-comprar-para-o-meu-ryzen-5-5600g/?do=getNewComment "Qual placa-mãe comprar para o meu Ryzen 5 5600G?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [CaiioV](https://www.clubedohardware.com.br/profile/1255046-caiiov/ "Ir ao perfil de CaiioV")  
-        4 horas atrás
-        
-    * [![sejumilde](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1250065.thumb.jpeg.5a27b495b5a04e0478d9c8936be676e1.jpeg)](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")
-        
-        1
-        
-        [O que vocês acham do meu airflow? Está bom assim?](https://www.clubedohardware.com.br/forums/topic/1700629-o-que-voc%C3%AAs-acham-do-meu-airflow-est%C3%A1-bom-assim/?do=getNewComment "O que vocês acham do meu airflow? Está bom assim?")
+        [sobre qual cooler comprar](https://www.clubedohardware.com.br/forums/topic/1700650-sobre-qual-cooler-comprar/?do=getNewComment "sobre qual cooler comprar")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [sejumilde](https://www.clubedohardware.com.br/profile/1250065-sejumilde/ "Ir ao perfil de sejumilde")  
-        4 horas atrás
+        Por [lucca01](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")  
+        1 hora atrás
         
-    * [![pedropaes1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252450.thumb.png.d184f91aea55e54f46ce61c280cb8181.png)](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")
+    * [![Sabrina Lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1229911.thumb.png.673da9b04b5623e92a503040d71d00e8.png)](https://www.clubedohardware.com.br/profile/1229911-sabrina-lopes/ "Ir ao perfil de Sabrina Lopes")
+        
+        0
+        
+        [SSD Samsung 970 Evo Plus não é detectado na B450M Steel Legend](https://www.clubedohardware.com.br/forums/topic/1700649-ssd-samsung-970-evo-plus-n%C3%A3o-%C3%A9-detectado-na-b450m-steel-legend/?do=getNewComment "SSD Samsung 970 Evo Plus não é detectado na B450M Steel Legend")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Sabrina Lopes](https://www.clubedohardware.com.br/profile/1229911-sabrina-lopes/ "Ir ao perfil de Sabrina Lopes")  
+        1 hora atrás
+        
+    * [![lucca01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254749.thumb.png.0f949f250f719a353731dbb75f02df89.png)](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")
+        
+        0
+        
+        [sobre qual placa-mãe comprar](https://www.clubedohardware.com.br/forums/topic/1700648-sobre-qual-placa-m%C3%A3e-comprar/?do=getNewComment "sobre qual placa-mãe comprar")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [lucca01](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")  
+        1 hora atrás
+        
+    * [![lucca01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254749.thumb.png.0f949f250f719a353731dbb75f02df89.png)](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")
         
         2
         
-        [PC desliga em jogo mais pesado - Intel Corei5 12400f, rx 7600, fonte 550w](https://www.clubedohardware.com.br/forums/topic/1700627-pc-desliga-em-jogo-mais-pesado-intel-corei5-12400f-rx-7600-fonte-550w/?do=getNewComment "PC desliga em jogo mais pesado - Intel Corei5 12400f, rx 7600, fonte 550w")
+        [sobre qual memória RAM comprar](https://www.clubedohardware.com.br/forums/topic/1700647-sobre-qual-mem%C3%B3ria-ram-comprar/?do=getNewComment "sobre qual memória RAM comprar")
         
-        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
-        Por [pedropaes1](https://www.clubedohardware.com.br/profile/1252450-pedropaes1/ "Ir ao perfil de pedropaes1")  
-        4 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [lucca01](https://www.clubedohardware.com.br/profile/1254749-lucca01/ "Ir ao perfil de lucca01")  
+        1 hora atrás
+        
+    * [![Rhaylan Santos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1240772.thumb.png.46b47581b4b68c93c9a3dc056b349f65.png)](https://www.clubedohardware.com.br/profile/1240772-rhaylan-santos/ "Ir ao perfil de Rhaylan Santos")
+        
+        1
+        
+        [Upgrade em PC Ryzen 5 5500, Radeon RX 6600 e 16GB, o que mudar?](https://www.clubedohardware.com.br/forums/topic/1700646-upgrade-em-pc-ryzen-5-5500-radeon-rx-6600-e-16gb-o-que-mudar/?do=getNewComment "Upgrade em PC Ryzen 5 5500, Radeon RX 6600 e 16GB, o que mudar?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Rhaylan Santos](https://www.clubedohardware.com.br/profile/1240772-rhaylan-santos/ "Ir ao perfil de Rhaylan Santos")  
+        1 hora atrás
+        
+    * [![Lucas Santana9](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255058.thumb.png.eb8e05a849fd08fb902709eb16d9d9f6.png)](https://www.clubedohardware.com.br/profile/1255058-lucas-santana9/ "Ir ao perfil de Lucas Santana9")
+        
+        1
+        
+        [Fonte Gamemax GS600 é suficiente para Ryzen 7 5700X e Radeon RX 7700XT?](https://www.clubedohardware.com.br/forums/topic/1700645-fonte-gamemax-gs600-%C3%A9-suficiente-para-ryzen-7-5700x-e-radeon-rx-7700xt/?do=getNewComment "Fonte Gamemax GS600 é suficiente para Ryzen 7 5700X e Radeon RX 7700XT?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Lucas Santana9](https://www.clubedohardware.com.br/profile/1255058-lucas-santana9/ "Ir ao perfil de Lucas Santana9")  
+        2 horas atrás
+        
+    * [![LipeGFA](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255057.thumb.jpeg.2a9abb9b11a1147ca4a2853bf0cb3f44.jpeg)](https://www.clubedohardware.com.br/profile/1255057-lipegfa/ "Ir ao perfil de LipeGFA")
+        
+        0
+        
+        [Overclock Ryzen 5 5600 com uma ASRock A520M-HVS](https://www.clubedohardware.com.br/forums/topic/1700643-overclock-ryzen-5-5600-com-uma-asrock-a520m-hvs/?do=getNewComment "Overclock Ryzen 5 5600 com uma ASRock A520M-HVS")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [LipeGFA](https://www.clubedohardware.com.br/profile/1255057-lipegfa/ "Ir ao perfil de LipeGFA")  
+        2 horas atrás
+        
+    * [![fabiomineiro](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255055.thumb.png.c19b68c5e29d764b39d3f5b54a40fece.png)](https://www.clubedohardware.com.br/profile/1255055-fabiomineiro/ "Ir ao perfil de fabiomineiro")
+        
+        0
+        
+        [Recomendações de peças para pc novo por até R$ 2500](https://www.clubedohardware.com.br/forums/topic/1700642-recomenda%C3%A7%C3%B5es-de-pe%C3%A7as-para-pc-novo-por-at%C3%A9-r-2500/?do=getNewComment "Recomendações de peças para pc novo por até R$ 2500")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [fabiomineiro](https://www.clubedohardware.com.br/profile/1255055-fabiomineiro/ "Ir ao perfil de fabiomineiro")  
+        3 horas atrás
         
     
 
