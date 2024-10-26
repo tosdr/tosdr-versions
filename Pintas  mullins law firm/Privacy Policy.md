@@ -263,7 +263,7 @@ Select State(Required)
 
 Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNewJerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAmerican SamoaGuamThe Northern Mariana IslandsPuerto RicoU.S. Virgin Islands
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
 Name
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
+[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
 
-[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
+[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
 
-[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
+[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
 
-[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
+[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
 
-[![How quickly does lung cancer progress?](https://www.pintas.com/wp-content/uploads/2020/03/lung-cancer-lawsuit-lawyer-how-quickly-does-lung-cancer-progress.jpg "How Quickly Does Lung Cancer Progress?")](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress "How Quickly Does Lung Cancer Progress?")
+[![How long can you live with stage 4 mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-can-you-live-with-stage-4-mesothelioma.jpg "How Long Can You Live with Stage 4 Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/ "How Long Can You Live with Stage 4 Mesothelioma?")
 
-[#### How Quickly Does Lung Cancer Progress?](https://www.pintas.com/practice-areas/lung-cancer/how-quickly-does-lung-cancer-progress)
+[#### How Long Can You Live with Stage 4 Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,9 +306,9 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 message
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
+Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
