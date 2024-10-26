@@ -516,7 +516,7 @@ CUSTOMERS
 * [Email Preferences](https://www.logitech.com/en-us/my-account/email-preferences.html)
 * [Student Discount](https://www.logitech.com/en-us/promo/student-discount.html)
 
- [![](/content/dam/logitech/common/facebook.svg)](http://www.facebook.com/Logitech)[![](/content/dam/logitech/common/twitter.svg)](http://www.twitter.com/Logitech)[![](/content/dam/logitech/common/instagram-logo.svg)](http://instagram.com/logitech?ref=badge)
+ [![](/content/dam/logitech/common/facebook.svg)](http://www.facebook.com/Logitech)[![](/content/dam/logitech/common/twitter-new.svg)](http://www.twitter.com/Logitech)[![](/content/dam/logitech/common/instagram-logo.svg)](http://instagram.com/logitech?ref=badge)
 
     
 
