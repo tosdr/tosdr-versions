@@ -107,6 +107,7 @@ Error
 * [DISCLOSURE: INVESTIGATIVE CONSUMER REPORT](#contract-ryp4k-vlkl)
 * [Tokenized Authorization (B2B) - EN-GB](#contract-robwm0vs)
 * [Wallet Authorization en-GB](#contract-hzugruzvb)
+* [Applicant Terms of Use](#contract-skxc4ktljx)
 
 Test Contract 2
 ---------------
@@ -2642,7 +2643,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 23rd 2024
+##### Effective October 25th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6234,6 +6235,181 @@ You have asked [Certn](https://certn.co/) to collect, process and deliver the fo
 It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
 You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our Privacy Policy ( [https://certn.co/privacy-policy/](https://certn.co/privacy-policy/) ).
+
+Applicant Terms of Use
+----------------------
+
+### Version 1.0
+
+##### Effective October 25th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/671c048a17209d720565a7eb.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**APPLICANT TERMS OF USE**
+
+Certn collects and processes information, including personal data, for the purpose of providing background screening and verification services (the “**Services**”). By accessing and utilizing the Services, you agree to be bound by the following terms and conditions ("**Terms**"). Before you proceed, please read the Terms below carefully.
+
+**License.**
+
+Certn grants you a license to use the web or mobile application (the “**App**”), along with any updates, documentation, and related services.
+
+**Your Account.**
+
+To access the app, create an account with your name, email, and password, or use single sign-on (SSO) login. You agree to provide accurate, current, and complete information during the registration process, and to update such information as necessary to keep it accurate, current, and complete. Certn will not be responsible for any inaccuracies or third-party decisions resulting from incorrect or incomplete information submitted by you.
+
+You are responsible for maintaining the confidentiality of your account, username, and password and for restricting unauthorized access thereto. You agree to accept responsibility for all activities that occur with your permission or authorization under your account. You agree to notify Certn immediately of any unauthorized use of your account or password, or any other breach of security.
+
+The personal information collected through the App will be used exclusively for the purpose of conducting the Services. Certn will not disclose this information to third parties without your explicit consent, except as required by law.
+
+**Access to Dashboard**.
+
+Certn will provide you with a dashboard that contains, among other things, requests for information, tasks to complete and a repository of completed background checks and verifications, including verifiable credentials, as defined below (“**Results**”). Certn does not, and cannot, provide legal advice or other related services to you. Certn also does not guarantee that any third party you consent to share your Results with will comply with applicable local, provincial, state or federal laws, rules, regulations, and requirements (“**Applicable Laws**”) in their collection or use of such Results.
+
+**Verifiable Credentials.**
+
+If you are using the wallet feature of the App (only available on the mobile app) (“**MyCertn** **Wallet**”) to store, share and verify personal credentials (“**verifiable** **credentials**”) the following terms apply:
+
+* Certn shall not be responsible for any correspondence or relationship between you and any end users with whom you choose to share your personal information.
+* You can share verifiable credentials with third parties at any time and for as long as you choose.
+* It is your responsibility to ensure that you are comfortable with, and to request and review the privacy policy of, any third party with whom you share your personal information.
+* Certn, and the third party issuers providing verifiable credentials to the MyCertn Wallet, do not guarantee that the Services will be error-free, complete, or accurate at all times.
+* Certn makes no representation, warranty, or assurance regarding the suitability of the MyCertn Wallet or its services for any particular purpose.
+* Certn does not guarantee that the MyCertn Wallet, your use of it, or any Services provided through it will comply with, or help you comply with, any applicable laws or regulations.
+* You may download the MyCertn Wallet onto your device for personal use only.
+* You may not transfer the MyCertn Wallet or access to the Services to others, except as otherwise stated in this agreement.
+* You may withdraw your consent to share your verifiable credentials at anytime, however, if you share your verifiable credential with a third party, you acknowledge that they may retain and use the information as required by law.
+* Certn is not responsible for verifying the third party, so we recommend only sharing verifiable credentials with trusted individuals and organizations.
+
+**Device Requirements.**
+
+By using the mobile App, including the MyCertn Wallet, if applicable, you agree to us collecting and using technical information about your device and related software, hardware and peripherals to improve our products and to provide the Services to you.
+
+Use of the App, including the MyCertn Wallet, if applicable, may require that your device meets minimum operating requirements, including memory or operating systems. We will inform you of any minimum system requirements from time to time. If you do not meet the minimum specifications detailed for the App, you may experience limited use or be unable to use or access the MyCertn Wallet or Services entirely.
+
+**Update to the App and Services.**
+
+From time to time we may automatically update the App and revise the Services to improve performance, enhance functionality, reflect changes to the operating system or address security issues (“**Updates**”). Alternatively we may ask you to update the App for these reasons. Updates may modify or delete certain features and/or functionalities. You agree that Certn has no obligation to (i) provide any Updates, or (ii) continue to provide or enable any particular features and/or functionalities of the App.
+
+If you opt out of automatic updates you may not be able to continue using the App or the Services.
+
+We are not responsible for other websites or content. The App may contain links to other independent websites and display, include or make available third-party content (including data, information, applications and other products services) or provide links to third-party websites or services (“**Third-Party Services**”) which are not provided by Certn. Such Third-Party Services are not under Certn’s control, and we are not responsible for and have not checked and approved their content or their privacy policies (if any).
+
+Notwithstanding anything to the contrary in these Terms, you acknowledge and agree that: (a) you access or deploy Third-Party Services through the App at your sole discretion; (b) you should read the terms and conditions and privacy policies associated with any Third-Party Services which govern your use of such Third-Party Services; and (c) Certn does not own or control Third-Party Services.
+
+Certn does not in any way warrant the accuracy, reliability, security, completeness, usefulness, non-infringement, or quality of any Third-Party Services. You agree that you bear all risks associated with using or relying on Third-Party Services.
+
+**Using our Services.**
+
+By using the Services and App you agree and confirm that:
+
+* You will use the Services and App in accordance with the Terms and all Applicable Laws.
+* You are of legal age in your jurisdiction.
+* You have the right to provide the information submitted to Certn.
+* The information provided is true, accurate, and not misleading.
+* You are the individual the information pertains to.
+* The information does not infringe any third-party legal obligations or rights, including intellectual property or privacy rights.
+
+**Your Privacy.**
+
+In accordance with applicable data protection legislation, we are required to provide you with certain information about who we are, how we process your personal information and for what purposes, and your rights in relation to your personal information and how to exercise them. This information is provided within the Certn [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj), unless you are using a specific Service to which a different privacy policy applies, which we will make available to you.
+
+By providing your personal information, you consent to Certn sharing such information with the necessary third-party service providers required to fulfill your request to complete the Services. These third-parties shall be entitled to rely on this consent to collect information about you, solely for the purpose of fulfilling the Services.
+
+In the event that Certn or a third party ceases operating or otherwise ceases to make available the Services to you, your personal information will be purged from our systems, upon notice to you and any third party with whom you shared your information, in accordance with applicable data protection legislation.
+
+Your information, which may include personal information, financial information, login credentials, communication data, and sensitive personal data, that we hold on our servers is encrypted at rest using the industry standard AES-256 encryption algorithm, and encrypted in flight using TLS 1.2 as a minimum. We only store your information as long as it is needed, in accordance with applicable laws and regulations.
+
+**Access to Results.**
+
+Certn will provide you with Results as well as status updates related to the Results through the App. The Results provided will be based on information provided to Certn by third-party sources, and Certn cannot guarantee the accuracy, completeness, or timeliness of the information contained in the Results. You acknowledge and agree that Certn is not responsible for any errors, omissions, or inaccuracies within the Results.
+
+**Disputes, Corrections, Deletions**.
+
+If you wish to dispute any Results, or correct any inaccuracies associated with your personal information, you can do so within the App. You can also request access to or for the deletion of any information that was previously provided to or shared by Certn.
+
+**Restrictions**.
+
+You agree not to access or use the App for any unlawful purpose or for any other purpose other than that for which Certn makes it available.
+
+You specifically acknowledge that you shall not:
+
+* Provide or transmit data that is illegal, harmful, threatening, insulting, disturbing, injurious, obscene, defamatory, unacceptable from a racial or ethnic perspective.
+* Violate any of Certn’s intellectual property rights.
+* Unlawfully gather or disclose information about others through the App.
+* Use any information obtained from the App in order to harass, abuse, or harm another person.
+* Attempt to impersonate another user or person or use the username of another user.
+* Transmit malicious software or any programs designed to disrupt the App or Certn’s systems.
+* Misuse Certn's support services or submit false requests or background check orders.
+* Disassemble, decompile, or reverse engineer any part of the App or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the App or Services or create derivative works based on it.
+* Use, or attempt to use, the App for unauthorized purposes.
+* Use the App for the benefit of any third party without Certn’s prior written permission.
+* Modify, remove, or obscure any copyright, trademark, patent or other notices or legends that appear on the App.
+* Create liability for Certn or its service providers or cause Certn to lose the services of our service providers.
+* Rent, lease, sub-license, or make the App or Services available to others without prior written consent from Certn.
+
+**Intellectual Property**.
+
+All Intellectual Property Rights (as defined below) related to the App and Services shall be owned by Certn absolutely and in their entirety. These rights include database rights, patents, copyrights, trademarks (whether registered or unregistered), trade secrets, design rights (whether registered or unregistered) know-how, mask works, moral rights, and all similar rights that may exist now or later in any jurisdiction, including without limitation any applications and registrations for the foregoing, and the Certn name, logos, designs, domain names, graphics, icons, scripts, service marks, features, functions, text, graphics, button icons, images, software, data compilations and other distinctive brand features, and the compilation and organization thereof (“**Intellectual Property Rights**”).
+
+Subject to these Terms, Certn grants you a worldwide, limited, revocable, non-exclusive license to access and use the App and Services as they are provided to you by Certn for your personal, non-commercial use only. The license is non-transferable and non-assignable, and you shall not grant to any third party any right, permission, license or sublicense with respect to any of the rights granted hereunder without Certn’s prior written permission, which it may withhold in its sole discretion. You do not acquire any ownership or other intellectual property rights in the App or the Services beyond this limited right of use. Violation of any provision of this license may result in immediate termination of the license, in Certn’s sole discretion.
+
+**Responsibilities.**
+
+The App and the Services are not intended to provide legal, tax or financial advice. The Services, or certain portions and/or functionalities thereof, are provided with the understanding that neither we nor our third-parties are engaged in rendering accounting, investment, tax, legal, or other professional services. Certn specifically disclaims any liability, loss, or risk which is incurred as a consequence, directly or indirectly, of the use and application of any of the content on the App. Further, we and our third-party service providers are not responsible for any credit, insurance, employment or investment decisions or any damages or other losses resulting from decisions that arise in any way from the use of the Services or any materials or information accessible through it. Past performance does not guarantee future results.
+
+YOU AGREE YOUR USE OF THE SERVICES AND ALL INFORMATION AND CONTENT (INCLUDING THAT OF THIRD PARTIES) IS AT YOUR RISK AND IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE, AND OUR THIRD PARTY PROVIDERS, DISCLAIM ALL WARRANTIES OF ANY KIND AS TO THE USE OF THE SERVICES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. WE, AND OUR ISSUERS, MAKE NO WARRANTY THAT THE SERVICES (i) WILL MEET YOUR REQUIREMENTS, (ii) WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE SERVICES WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS IN THE SERVICES OR TECHNOLOGY WILL BE CORRECTED. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL. WE, ON BEHALF OF OURSELVES AND ALL THIRD-PARTY PROVIDERS, EXPRESSLY DISCLAIM ANY TYPE OF REPRESENTATION OR WARRANTY REGARDING THE AVAILABILITY OR RESPONSE TIME OF THE SERVICES OR CONTENT OR INFORMATION OBTAINED THROUGH THE SERVICES OR THAT SUCH ACCESS WILL BE UNINTERRUPTED OR ERROR-FREE AND, EXCEPT AS EXPRESSLY PROVIDED FOR HEREIN, EXPRESSLY DISCLAIM THE ACCURACY, COMPLETENESS AND CURRENCY OF ALL INFORMATION COLLECTED ON YOUR BEHALF. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US OR OUR PROVIDERS THROUGH OR FROM THE SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+
+YOU AGREE THAT WE (INCLUDING OUR OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS) AND OUR THIRD-PARTY PROVIDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER LOSSES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, RESULTING FROM (i) THE USE OR THE INABILITY TO USE THE SERVICES AT OUR WEBSITE/MOBILE APPLICATION OR OF ANY THIRD PARTY ACCOUNT PROVIDER’S WEBSITE/MOBILE APPLICATION; (ii) THE COST OF GETTING SUBSTITUTE GOODS AND SERVICES, (iii) ANY PRODUCTS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO, THROUGH OR FROM THE SERVICES, (iv) UNLESS CAUSED BY CERTN, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSION OR DATA, (v) STATEMENTS OR CONDUCT OF ANYONE ON THE SERVICES, (vi) THE USE, INABILITY TO USE, UNAUTHORIZED USE, PERFORMANCE OR NON-PERFORMANCE OF ANY THIRD PARTY SITE, EVEN IF THE PROVIDER HAS BEEN ADVISED PREVIOUSLY OF THE POSSIBILITY OF SUCH DAMAGES, OR (vii) ANY OTHER MATTER RELATING TO THE SERVICES.
+
+CERTN’S LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE WALLET OR YOUR CREDENTIAL SHALL BE LIMITED TO CAD $1,000.
+
+While Certn strives to provide a reliable and accessible App, Certn does not guarantee uninterrupted access. Maintenance, updates, or unforeseen issues may temporarily impact the availability of the App.
+
+The App is intended for personal and private use. If you use the App for commercial, business, or resale purposes, we will not be liable for any losses, including loss of profit, loss of business, business interruption, or loss of business opportunity.
+
+To the extent permitted by law, we are not responsible for delays, delivery failures, or other loss or damage resulting from the transmission of data over communications networks, including the internet. You acknowledge that using the internet, mobile networks, and other communications media involves risks, such as viruses, data security issues, piracy, service availability, and data transmission reliability. If our provision of the Services or support for the MyCertn Wallet is delayed due to an event outside our control, we will inform you as soon as possible and take steps to minimize the impact of the delay.
+
+**Termination**.
+
+Certn may terminate your access to the App and your Results at any time, with or without cause or notice. Upon termination, you agree to immediately cease using the App.
+
+These Terms are subject to change from time to time. Certn will notify you of any material change within the App. Your continued use of the App will indicate your acceptance of the revised terms.
+
+**Electronic Transaction**.
+
+By using the Services you warrant that you have agreed to transact electronically through the App. You agree that an electronic signature is the legal equivalent of a manual signature. You further warrant that the use of a keypad, mouse or other device to select an item, button, icon or similar act/action, constitutes a valid signature as if actually signed in writing. You also warrant that no certification authority or other third-party verification is necessary to validate an electronic signature, and that the lack of such certification or third-party verification will not in any way affect the enforceability of the electronic signature. After authorizing the use of your electronic signature, you may still withdraw your consent within the App or by reaching out to support@certn.co.
+
+**Governing Law**.
+
+All matters relating to the Services and your access to, and use of, the App, will be governed by the laws in the province of British Columbia and the federal laws of Canada applicable therein.
+
+**Miscellaneous.**
+
+Nothing contained in these Terms shall be construed as creating any employment, agency, partnership, franchise, joint venture, or other form of joint enterprise or authority to bind the other party.
+
+Certn shall not be responsible for any failure or delay in its performance under these Terms due to causes beyond its reasonable control, including, but not limited to, labor disputes, strikes, lockouts, internet or telecommunications failures, shortages of or inability to obtain labor, energy, or supplies, war, terrorism, riot, acts of God or governmental action, pandemic, acts by hackers or other malicious third parties and problems with the Internet generally, and such performance shall be excused to the extent that it is prevented or delayed by reason of any of the foregoing.
+
+Any waiver of a provision of these Terms will only be valid if provided in writing and applies only to the specific occurrence so waived. Failure to enforce any provision will not constitute a waiver.
+
+In the event that any of the provisions in the Terms are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of the Terms.
+
+Certn may update these Terms from time to time. Any changes will be effective upon posting on the App. It is your responsibility to review these Terms regularly.
+
+**Support**.
+
+You can request support via email sent to [support@certn.co](mailto:support@certn.co).
+
+**Notices and Consent to Receive Notices Electronically.**
+
+You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices on the App. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing. If you have any questions about these Terms, you can contact customer support within the App or via email at [support@certn.co](mailto:support@certn.co).
+
+“**Certn**” is inclusive of Certn Holdings Inc. and each of its subsidiaries.
 
 * * *
 
