@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/ulje.jpg?itok=vfn7-CYk)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/bunusevac-srba-centrala.jpg?itok=BoBE2Bap)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sto-naslovnih-strana-mladine/mladina-sept-2001.jpg?itok=GtFtbEJn)](http://seecult.org/galerija/foto-galerija/foto-arhiva/sto-naslovnih-strana-mladine)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/bogorodica-sa-preslicom.jpg?itok=bdO_UjxX)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
