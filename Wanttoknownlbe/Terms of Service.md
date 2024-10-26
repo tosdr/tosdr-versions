@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-onbenutte-kracht-van-lachen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/wist-je-dat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
