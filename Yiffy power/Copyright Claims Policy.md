@@ -75,7 +75,7 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 939 1
+0 951 1
 
 October 8, 2024
 
@@ -83,23 +83,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 90 1
+0 104 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/mythology-created-by-difis/)
+[](https://yiff-party.com/yiff-ai-premium/cosette-directed-by-daedramrask/)
 
-[mythology created by difis](https://yiff-party.com/yiff/mythology-created-by-difis/)
+[cosette directed by daedramrask](https://yiff-party.com/yiff-ai-premium/cosette-directed-by-daedramrask/)
 
-0 221 0
+0 50 0
 
 September 26, 2024
 
-[](https://yiff-party.com/yiff/game-freak-and-etc-created-by-blackfreeman/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-6/)
 
-[game freak and etc created by blackfreeman](https://yiff-party.com/yiff/game-freak-and-etc-created-by-blackfreeman/)
+[directed by birdlover](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-6/)
 
-0 3 0
+0 1 0
 
 October 26, 2024
 
