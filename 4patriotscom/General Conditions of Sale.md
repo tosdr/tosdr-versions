@@ -189,7 +189,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Freedom Fridge Electric Cooler & Warmer
         
-        113 reviews](https://4patriots.com/products/freedom-fridge-1)
+        114 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//shop.4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
