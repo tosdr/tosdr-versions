@@ -241,9 +241,9 @@ Games you might like
 
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png)
 
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
-
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
+
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
 [Two Cats Duet](https://lagged.com/en/g/two-cats-duet) ![Two Cats Duet Game](https://imgs2.dab3games.com/two-cats-duet-ft44.png)
 
