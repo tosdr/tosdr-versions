@@ -44,37 +44,37 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method by Pastebin Team 5S](https://pastebin.com/FyvdSdUj)
+* [⭐ Binance Account hack 50](https://pastebin.com/q2RmxJRT)
     
     JavaScript | 2 sec ago | 0.11 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/PaFL11af)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/cB3j3DSJ)
     
-    JavaScript | 2 sec ago | 0.09 KB
+    JavaScript | 6 sec ago | 0.11 KB
     
-* [⭐ Binance Account hack 50](https://pastebin.com/pcER5sUY)
+* [⭐ FREE giftcards method](https://pastebin.com/RRbKcL7L)
     
-    JavaScript | 4 sec ago | 0.11 KB
+    JavaScript | 8 sec ago | 0.05 KB
     
-* [Leaked by Zak](https://pastebin.com/sPfcBbt9)
-    
-    JavaScript | 5 sec ago | 0.09 KB
-    
-* [⭐ Binance Account hack KF](https://pastebin.com/RvR1ps5h)
-    
-    JavaScript | 7 sec ago | 0.11 KB
-    
-* [BTC ACCOUNTS HACKED](https://pastebin.com/BzEzDqKK)
-    
-    JavaScript | 7 sec ago | 0.09 KB
-    
-* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/68bv7wvV)
-    
-    JavaScript | 7 sec ago | 0.11 KB
-    
-* [⭐ FREE giftcards method by Pastebin Team 9O](https://pastebin.com/wqBJwWN9)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/7zw5bKJw)
     
     JavaScript | 8 sec ago | 0.11 KB
+    
+* [⭐️ EARN $500 INSTANTLY GI](https://pastebin.com/ZYeqaQyu)
+    
+    JavaScript | 10 sec ago | 0.11 KB
+    
+* [⭐️ EARN $500 INSTANTLY LT](https://pastebin.com/fR9jkutr)
+    
+    JavaScript | 13 sec ago | 0.11 KB
+    
+* [⭐ FREE giftcards method by Pastebin Team 7X](https://pastebin.com/UT2vt5h8)
+    
+    JavaScript | 15 sec ago | 0.11 KB
+    
+* [⭐ FREE giftcards method by Pastebin Team 5S](https://pastebin.com/3CgYNujj)
+    
+    JavaScript | 16 sec ago | 0.11 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
