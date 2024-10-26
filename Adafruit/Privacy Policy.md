@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Don't undertake a project unless it is manifestly important and nearly impossible”
+“ Don't fight forces, use them”
 
-[Edwin Land](http://en.wikipedia.org/wiki/Edwin_H._Land)
+[R. Buckminster Fuller](http://en.wikipedia.org/wiki/Buckminster_Fuller)
 
 [](https://www.adafruit.com/about)
 
