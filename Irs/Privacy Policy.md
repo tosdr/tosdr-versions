@@ -478,7 +478,7 @@ You may submit Privacy Act Request to the IRS at the [FOIA Public Access Portal
 
 You may mail or fax your request to:  
 Internal Revenue Service  
-FOIA Public Liaison Line: [312-292-3297](tel:312-292-3297)  
+FOIA Public Liaison Line: [312-292-2929](tel:312-292-2929)  
 IRS FOIA/Privacy Act Request  
 HQ FOIA  
 Stop 211  
@@ -539,7 +539,7 @@ Washington, DC 20224
 
 [What you should know](https://www.irs.gov/taxpayer-bill-of-rights)
 
-Page Last Reviewed or Updated: 20-Aug-2024
+Page Last Reviewed or Updated: 25-Oct-2024
 
 * [Share](#)
     * Facebook
