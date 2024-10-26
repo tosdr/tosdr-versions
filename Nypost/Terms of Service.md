@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Israel fires retaliatory strikes against Tehran over ballistic missile barrage](https://nypost.com/2024/10/25/world-news/israel-fires-retaliatory-strike-against-iran-over-ballistic-missile-barrage-report/)
+[Yankees lose heartbreaking World Series Game 1 on walk-off grand slam](https://nypost.com/2024/10/25/sports/yankees-lose-game-1-of-world-series-on-walkoff-grand-slam/)
 
 Terms Of Use
 ============
