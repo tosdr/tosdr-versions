@@ -1,6 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
+Use code SAVE10 to save 10% on select Certified Refurbished. [Shop](https://www.bose.com/c/refurbished)
+
+Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
 [Cancel](#)
 
