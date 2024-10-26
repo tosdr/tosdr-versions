@@ -1,4 +1,4 @@
-[![byutv](/_nuxt/img/byutv-logo.f8c9916.svg)](https://www.byutv.org/)  Privacy Policy[](https://www.byutv.org/search)
+[![byutv](/_nuxt/img/byutv-logo.c79f47d.svg)](https://www.byutv.org/)  Privacy Policy[](https://www.byutv.org/search)
 
 [home](https://www.byutv.org/) [shows](https://www.byutv.org/shows) [live](https://www.byutv.org/live) [my byutv](https://www.byutv.org/favorites)
 
@@ -82,7 +82,7 @@ The mission of BYUtv is to create purposeful, engaging viewing and listening exp
 
 A Service of Brigham Young University.
 
-Client Version: 5.0.5010
+Client Version: 5.0.5075
 
 API Version: 5.60.0
 
@@ -117,7 +117,7 @@ API Version: 5.60.0
 
 Play
 
-![](/_nuxt/img/byutv-logo.f8c9916.svg)
+![](/_nuxt/img/byutv-logo.c79f47d.svg)
 
 0:00
 
@@ -129,7 +129,7 @@ Play
 
 Speed
 
-![](/_nuxt/img/cc-settings-white.0c16898.svg)
+![](/_nuxt/img/cc-settings-white.353105b.svg)
 
 CC Settings
 
@@ -141,11 +141,11 @@ More
 
 More
 
-![](/_nuxt/img/cc-white.c957092.svg)
+![](/_nuxt/img/cc-white.5aac10c.svg)
 
 Captions On
 
-![](/_nuxt/img/share-white.6a4ec4b.svg)
+![](/_nuxt/img/share-white.c4fa678.svg)
 
 Share
 
@@ -183,7 +183,7 @@ Fullscreen
 
 [![Watch on BYUtv](/images/byutv-logo.svg)Watch on BYUtv](https://www.byutv.org/undefined)
 
-![](/_nuxt/img/cc-settings-blue.eb2ab45.svg)
+![](/_nuxt/img/cc-settings-blue.0052121.svg)
 
 ### Caption Settings
 
@@ -206,13 +206,13 @@ Quick-Styles
 
 Language
 
-![](/_nuxt/img/cc-settings-white.0c16898.svg)
+![](/_nuxt/img/cc-settings-white.353105b.svg)
 
 ### Advanced Caption Settings
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTguNTkgMTYuNTggMTMuMTcgMTIgOC41OSA3LjQxIDEwIDZsNiA2LTYgNi0xLjQxLTEuNDJaIiBzdHlsZT0iZmlsbDojZmZmIi8+PC9zdmc+)
 
-![](/_nuxt/img/cc-settings-white.0c16898.svg)
+![](/_nuxt/img/cc-settings-white.353105b.svg)
 
 ### Advanced Caption Settings
 
@@ -252,15 +252,15 @@ Caption Window
 
 100%
 
-![](/_nuxt/img/share-blue.18acf69.svg)
+![](/_nuxt/img/share-blue.dc1d3c6.svg)
 
 ### Share
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTcuNDEgOC41OCAxMiAxMy4xN2w0LjU5LTQuNTlMMTggMTBsLTYgNi02LTYgMS40MS0xLjQyWiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjwvc3ZnPg==)
 
-Share Full Show ![](/_nuxt/img/share-episode.9e246d7.svg "Share Episode")
+Share Full Show ![](/_nuxt/img/share-episode.edde7ee.svg "Share Episode")
 
-Create and Share Clip ![](/_nuxt/img/share-clip.70d565b.svg "Share Clip")
+Create and Share Clip ![](/_nuxt/img/share-clip.d46a2b0.svg "Share Clip")
 
 ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGRhdGEtbmFtZT0iTGF5ZXIgMSIgdmlld0JveD0iMCAwIDIwMCAyMDAiPjxwYXRoIGQ9Ik0xMDguNTgzIDEwOS43NDZjLTUuNzM3IDUuNzM3LTE1LjAzOCA1LjczNy0yMC43NzUgMHMtNS43MzctMTUuMDM4IDAtMjAuNzc1bDc2LjQ4NS01NS41MDgtNTUuNzEgNzYuMjgzWm02MC44OS02NC44MzYtMTAuOTM4IDE0Ljk3N2MxNC4wMDYgMTQuNTcyIDIyLjY0NCAzNC4zNDEgMjIuNjQ0IDU2LjEwMmE4MC42IDgwLjYgMCAwIDEtMi42MDcgMjAuMzQ0SDIxLjcxM2E4MC42IDgwLjYgMCAwIDEtMi42MDYtMjAuMzQ0YzAtNDQuNjg0IDM2LjM1Mi04MS4wMzYgODEuMDM2LTgxLjAzNmE4MC41MjggODAuNTI4IDAgMCAxIDMzLjYzNyA3LjM0bDE2LjU0OS0xMi4wMWMtMTQuNzM4LTguNjYyLTMxLjg5LTEzLjY0LTUwLjE4Ni0xMy42NEM0NS4zNjMgMTYuNjQ0Ljc5NyA2MS4yMS43OTcgMTE1Ljk5YzAgMTQuNDA4IDMuMDg3IDI4LjEwOCA4LjYyOCA0MC40NzhIMTkwLjg2YzUuNTQxLTEyLjM3IDguNjI4LTI2LjA3IDguNjI4LTQwLjQ3OCAwLTI3LjgzNC0xMS41MS01My4wMjYtMzAuMDE2LTcxLjA4WiIgc3R5bGU9ImZpbGw6IzBmYTZlMjtzdHJva2Utd2lkdGg6MCIvPjwvc3ZnPg==)
 
