@@ -33,7 +33,7 @@ Check out illumin's brand new Support Center
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
     * ![B2B Advertising: the only guide you need](https://illumin.com/wp-content/uploads/2024/10/b2b-advertising-1-263x300.jpg)
         
-        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/b2b-advertising/)
+        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/guides/b2b-advertising/)
         
 * [Company](#)
     * [Company](#)
@@ -492,3 +492,7 @@ A platform that provides the perfect space for journey planning, execution, and 
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1682&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fterms-and-conditions%2F)
