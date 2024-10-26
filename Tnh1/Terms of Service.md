@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
-
-crime ambiental
-
-Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Tabuleiro do Martins
-
-Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
-
-Em Maceió
-
-Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
-
-em pajuçara
-
-Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://www.tnh1.com.br/noticia/nid/roda-gigante-na-orla-de-maceio-vai-ter-ar-condicionado-e-wi-fi-veja-prazo-de-instalacao/ "Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação")   [![Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_agua_agencia_brasil_56ecf1b993.png)
-
-abastecimento
-
-Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais](https://www.tnh1.com.br/noticia/nid/casal-trabalha-para-reativar-tres-pocos-da-regiao-metropolitana-de-maceio-veja-locais/ "Casal trabalha para reativar três poços da Região Metropolitana de Maceió; veja locais")   [![Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_Maceio_verao_d2f01512df.png)
+   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
 
 Maceió
 
-Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão](https://www.tnh1.com.br/noticia/nid/maceio-e-uma-das-cidades-mais-buscadas-pelos-brasileiros-para-as-ferias-de-verao/ "Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Verão")
+Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+
+no jacintinho
+
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
+
+crime ambiental
+
+Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+
+Tabuleiro do Martins
+
+Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
+
+Em Maceió
+
+Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
+
+em pajuçara
+
+Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://www.tnh1.com.br/noticia/nid/roda-gigante-na-orla-de-maceio-vai-ter-ar-condicionado-e-wi-fi-veja-prazo-de-instalacao/ "Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Maceió é uma das cidades mais buscadas pelos brasileiros para as férias de Ve
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
+   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
+
+balneabilidade
+
+Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
 
 Alagoas
 
-É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
+É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
 
 Alagoas
 
-Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
+Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
 
 Delimitar locais
 
-Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
+Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
 
 EM SÃO BRÁS
 
-Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
+Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
 
 Alagoas
 
-Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")   [![Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_porco_jequia_50464bce22.png)
-
-hermafrodita
-
-Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/condicao-rara-filhote-de-suino-nasce-com-dois-sexos-no-interior-de-alagoas/ "Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas")
+Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Condição rara: filhote de suíno nasce com dois sexos no interior de Alagoas](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_7ab8ef42ee.jpeg)
+   [![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_0a434c35b5.jpeg)
+
+Polícia
+
+Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")   [![Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/0/csm_csm_18DO-REAL-DEODORENSE_6570eef071_5b44800e32.png)
+
+Polícia
+
+Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://www.tnh1.com.br/noticia/nid/disputa-por-paredao-de-som-termina-com-uso-de-spray-de-pimenta-e-prisao-na-barra-de-sao-miguel/ "Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel")   [![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_7578f1a6e7.jpg)
+
+foram monitorados
+
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")   [![Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_csm_homem-morto-tiros-IFAL-cortesia_7645e32b96_c8477d1355.jpeg)
+
+região metropolitana
+
+Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://www.tnh1.com.br/noticia/nid/homem-morto-dentro-de-carro-em-satuba-ja-tinha-sido-alvo-de-outro-atentado/ "Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado")   [![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_7ab8ef42ee.jpeg)
 
 Violência
 
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")   [![Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_homem_vai_a_delegacia_fazer_BO_e_e_preso_por_ter_mandado_em_aberto_-_foto_Reproducao_TV_Pajucara_2_a657e62ef8.jpeg)
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")   [![Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_homem_vai_a_delegacia_fazer_BO_e_e_preso_por_ter_mandado_em_aberto_-_foto_Reproducao_TV_Pajucara_2_a657e62ef8.jpeg)
 
 TV Pajuçara flagrou
 
-Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://www.tnh1.com.br/noticia/nid/em-maceio-homem-vai-ate-delegacia-fazer-bo-e-termina-preso-por-homicidio/ "Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio")   [![PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
-
-operação LOG OFF 2
-
-PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca](https://www.tnh1.com.br/noticia/nid/pf-deflagra-operacao-de-combate-ao-abuso-sexual-infantojuvenil-e-cumpre-mandado-em-arapiraca/ "PF deflagra operação de combate ao abuso sexual infantojuvenil e cumpre mandado em Arapiraca")   [![Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_apreensao_cocaina_foto_ascom_pc-al_191e5f671b.jpeg)
-
-Ação conjunta
-
-Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos](https://www.tnh1.com.br/noticia/nid/policias-de-al-e-ma-apreendem-200-kg-de-cocaina-avaliados-em-r-10-milhoes-tres-sao-presos/ "Polícias de AL e MA apreendem 200 kg de cocaína avaliados em R$ 10 milhões; três são presos")   [![Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/b/csm_Palmiera_dos_Indios_Ascom_db755caba7.png)
-
-Em 24 horas
-
-Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios](https://www.tnh1.com.br/noticia/nid/dois-sao-presos-por-descumprimento-de-medidas-protetivas-em-palmeira-dos-indios/ "Dois são presos por descumprimento de medidas protetivas em Palmeira dos Índios")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Tabuleiro do Martins
-
-Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")
+Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://www.tnh1.com.br/noticia/nid/em-maceio-homem-vai-ate-delegacia-fazer-bo-e-termina-preso-por-homicidio/ "Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -214,7 +214,15 @@ Importunação sexual
 
 Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
 
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
+
+projeções
+
+projeções
+
+Série B: veja as chances de acesso e risco de queda após 33ª rodada
+
+Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
 
 Violência
 
@@ -222,49 +230,41 @@ Violência
 
 Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
 
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")[![Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_cadela_cruza_f3856b896d.png)
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")
 
-Brasil
+[![Estudo identifica mais de 600 vírus em escovas de dente e chuveiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Escova_de_dente_-_foto_Pixabay_001b82bb43.jpg)
 
-Brasil
+Saúde
 
-Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza
+Saúde
 
-Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://www.tnh1.com.br/noticia/nid/golden-retriever-fica-gravida-tutora-descobre-que-pai-e-um-shih-tzu-e-cruza-viraliza/ "Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza")
+Estudo identifica mais de 600 vírus em escovas de dente e chuveiros
 
-[![Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_hugh-jackman-sutton-foster-reproducao_064a1c7767.jpg)
+Estudo identifica mais de 600 vírus em escovas de dente e chuveiros](https://www.tnh1.com.br/noticia/nid/estudo-identifica-mais-de-600-virus-em-escovas-de-dente-e-chuveiros/ "Estudo identifica mais de 600 vírus em escovas de dente e chuveiros")[![Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_Livia_Gabriele_da_Silva_Matos__de_19_anos__morreu_apos_se_encontrar_com_o_jogador_do_sub-20_do_Corinthians_Dimas_Candido_de_Oliveira_-_foto_Reproducao_283feea2d1.jpg)
 
-Novo amor?
+São Paulo
 
-Novo amor?
+São Paulo
 
-Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman
+Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians
 
-Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://www.tnh1.com.br/noticia/nid/atriz-termina-casamento-de-10-anos-e-aumenta-rumores-de-romance-com-hugh-jackman/ "Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman")[![Mulher acusa inteligência artificial pela morte de filho de 14 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_mulher-acusa-IA-morte-filho-arquivo-pessoal_8f883378d8.jpg)
+Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians](https://www.tnh1.com.br/noticia/nid/justica-arquiva-caso-de-jovem-morta-em-encontro-com-jogador-do-corinthians/ "Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians")[![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_4cc75201c2.jpeg)
 
-NOS EUA
+Polícia
 
-NOS EUA
+Polícia
 
-Mulher acusa inteligência artificial pela morte de filho de 14 anos
+Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares
 
-Mulher acusa inteligência artificial pela morte de filho de 14 anos](https://www.tnh1.com.br/noticia/nid/mulher-acusa-inteligencia-artificial-pela-morte-de-filho-de-14-anos/ "Mulher acusa inteligência artificial pela morte de filho de 14 anos")[![Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_hezbollah-reproducao-X_4e8f6fb453.jpg)
+Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
 
-PLANEJAVA ATENTADOS
+no jacintinho
 
-PLANEJAVA ATENTADOS
+no jacintinho
 
-Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
 
-Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil](https://www.tnh1.com.br/noticia/nid/argentina-identifica-chefe-do-hezbollah-responsavel-por-recrutamento-no-brasil/ "Argentina identifica chefe do Hezbollah responsável por recrutamento no Brasil")[![Mãe de Matthew Perry revela últimas conversas com o ator](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_ator-friends-mae-revelacoes-reproducao_199b2775e9.png)
-
-TRÁGICA MORTE
-
-TRÁGICA MORTE
-
-Mãe de Matthew Perry revela últimas conversas com o ator
-
-Mãe de Matthew Perry revela últimas conversas com o ator](https://www.tnh1.com.br/noticia/nid/mae-de-matthew-perry-revela-ultimas-conversas-com-o-ator/ "Mãe de Matthew Perry revela últimas conversas com o ator")
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
