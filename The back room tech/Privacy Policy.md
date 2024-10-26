@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2035'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/snapshot-manager-80x35.png)](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")[Reduce the Size of Virtual Machine Disk in VMware Workstation](https://thebackroomtech.com/2017/09/11/reduce-size-virtual-machine-disk-vmware-workstation/ "Reduce the Size of Virtual Machine Disk in VMware Workstation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/mso-cache-80x41.png)](https://thebackroomtech.com/2007/10/02/howto-move-the-microsoft-office-msocache-directory-to-a-different-drive/ "Howto: Move the Microsoft Office MSOCache Directory to a Different Drive")[Howto: Move the Microsoft Office MSOCache Directory to a Different Drive](https://thebackroomtech.com/2007/10/02/howto-move-the-microsoft-office-msocache-directory-to-a-different-drive/ "Howto: Move the Microsoft Office MSOCache Directory to a Different Drive")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/get-process-80x42.png)](https://thebackroomtech.com/2019/05/07/best-practices-for-signing-a-windows-powershell-script/ "Best Practices for Signing a Windows PowerShell Script")[Best Practices for Signing a Windows PowerShell Script](https://thebackroomtech.com/2019/05/07/best-practices-for-signing-a-windows-powershell-script/ "Best Practices for Signing a Windows PowerShell Script")
+    ![](https://s11921.pcdn.co/wp-content/uploads/smtpdeliverysettingssmall-47x52.jpg.optimal.jpg)](https://thebackroomtech.com/2008/03/28/troubleshooting-exchange-error-447-delivery-delay-and-failures/ "Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures")[Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures](https://thebackroomtech.com/2008/03/28/troubleshooting-exchange-error-447-delivery-delay-and-failures/ "Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
+    
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
     ![](https://s11921.pcdn.co/wp-content/uploads/setspn-command-line-80x42.png)](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")[Explanation of Service Principal Names in Active Directory](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
-    
-    ![](https://s11921.pcdn.co/wp-content/uploads/vm-avaliability-set-80x34.png)](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")[Overview of Azure Virtual Machine Availability Sets](https://thebackroomtech.com/2018/10/05/overview-of-azure-virtual-machine-availability-sets/ "Overview of Azure Virtual Machine Availability Sets")
 
 #### Our Publishing Family
 
