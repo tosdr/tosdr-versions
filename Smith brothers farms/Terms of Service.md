@@ -188,11 +188,11 @@ Hi
         
     * [New! (82)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (36)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (33)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Fall Flavors (44)](https://www.smithbrothersfarms.com/fall-favorites)
+    * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
         
-    * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -207,7 +207,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (12)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -232,7 +232,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (55)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (56)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
@@ -243,7 +243,7 @@ Hi
             
         * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (10)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (11)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (12)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
@@ -306,12 +306,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (50)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (49)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (24)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (26)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (25)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Snacks (39)](https://www.smithbrothersfarms.com/snacks)
