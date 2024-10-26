@@ -2,14 +2,14 @@ Saturday, October 26 2024
 
 Breaking News
 
+* [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
+* [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
+* [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
 * [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
 * [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
+* [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
 * [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
 * [Dems Trying To Change Voting Rules In State They Can’t Win Under Current System](https://www.conservativedailynews.com/2024/10/dems-trying-to-change-voting-rules-in-state-they-cant-win-under-current-system/)
-* [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/)
-* [America Needs A Congress That Will Stop Borrowing Money](https://www.conservativedailynews.com/2024/10/america-needs-a-congress-that-will-stop-borrowing-money/)
-* [Mark Halperin Says Harris’ CNN Town Hall ‘Performance’ Was ‘Last Straw For A Lot Of Democrats’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-harris-cnn-town-hall-performance-was-last-straw-for-a-lot-of-democrats/)
-* [Kamala’s Last Twelve Days Of Relevance](https://www.conservativedailynews.com/2024/10/kamalas-lasttwelve-days-of-relevance/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
+    
+    [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
+    
+    October 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Crazy-Kamala-220x150.webp)](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
+    
+    [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
+    
+    October 26, 2024
+    
+* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/their-last-card/)
+    
+    [Their Last Card](https://www.conservativedailynews.com/2024/10/their-last-card/)
+    
+    October 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Donald-Trump-success-pic-220x150.png)](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
+    
+    [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
+    
+    October 26, 2024
+    
 * [![Iran Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
     
     [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
@@ -154,33 +178,10 @@ Recent Posts
     
     October 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/10/dems-trying-to-change-voting-rules-in-state-they-cant-win-under-current-system/)
-    
-    [Dems Trying To Change Voting Rules In State They Can’t Win Under Current System](https://www.conservativedailynews.com/2024/10/dems-trying-to-change-voting-rules-in-state-they-cant-win-under-current-system/)
-    
-    October 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/1280px-Kamala_Harris_48004671538-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/)
-    
-    [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/)
-    
-    October 25, 2024
-    
-* [![Congress federal debt spending](https://www.conservativedailynews.com/wp-content/uploads/2022/12/gv122922dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-needs-a-congress-that-will-stop-borrowing-money/)
-    
-    [America Needs A Congress That Will Stop Borrowing Money](https://www.conservativedailynews.com/2024/10/america-needs-a-congress-that-will-stop-borrowing-money/)
-    
-    October 25, 2024
-    
-* [![Kamala Harris 2024 election empty pantsuit](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/mark-halperin-says-harris-cnn-town-hall-performance-was-last-straw-for-a-lot-of-democrats/)
-    
-    [Mark Halperin Says Harris’ CNN Town Hall ‘Performance’ Was ‘Last Straw For A Lot Of Democrats’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-harris-cnn-town-hall-performance-was-last-straw-for-a-lot-of-democrats/)
-    
-    October 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [All About The 2024 Winchester Experience Event](https://www.thegunpage.com/all-about-the-2024-winchester-experience-event/10611465)
 * ["The Sower of Death" – the History of Yugoslavian M84 Machinegun](https://www.thegunpage.com/the-sower-of-death-the-history-of-yugoslavian-m84-machinegun/10611458)
 * [POTD: Putting The XM7 To The Test At Fort Campbell](https://www.thegunpage.com/potd-putting-the-xm7-to-the-test-at-fort-campbell/10611459)
 * [TFB Podcast Roundup 152: The October 25th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-152-the-october-25th-roundup/10611460)
@@ -190,7 +191,6 @@ Recent Posts
 * [James Reeves Designed These Shoes: The Stache by 5.11](https://www.thegunpage.com/james-reeves-designed-these-shoes-the-stache-by-5-11/10611456)
 * [Ohio Woman Fatally Shoots Man In The Groin Upon Request](https://www.thegunpage.com/ohio-woman-fatally-shoots-man-in-the-groin-upon-request/10611445)
 * [11th Circuit Considering Florida’s Under-21 Long Gun Purchase Ban This Week](https://www.thegunpage.com/11th-circuit-considering-floridas-under-21-long-gun-purchase-ban-this-week/10611441)
-* [NEW Arm Brace Ready Hi-Point Pistols](https://www.thegunpage.com/new-arm-brace-ready-hi-point-pistols/10611444)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/#comment-782887)
 * Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
 * Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 * Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
@@ -240,7 +241,6 @@ Recent Comments
 * KayCee on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782805)
 * Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
 * charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
-* charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
 
 [Close](#)
 
