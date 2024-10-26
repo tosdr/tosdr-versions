@@ -211,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,13 @@ Latest News
 
 [The man who shaped China’s strongman rule has a new job: winning Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/politics/china-wang-huning/ "The man who shaped China’s strongman rule has a new job: winning Taiwan")
 
-6 hours ago
-
 [NATO invites Japan, three others to ambassador-level meeting on North Korea](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-nato-north-korea-russia/ "NATO invites Japan, three others to ambassador-level meeting on North Korea")
-
-9 hours ago
 
 [As U.S. election looms, Biden aides struggle with Middle East wars](https://www.japantimes.co.jp/news/2024/10/26/world/politics/us-middle-east-wars-election/ "As U.S. election looms, Biden aides struggle with Middle East wars")
 
-9 hours ago
-
 [In Guatemala, families mourn the migrants who never reached the U.S.](https://www.japantimes.co.jp/news/2024/10/26/world/society/guatemala-family-mourn-us-crossing/ "In Guatemala, families mourn the migrants who never reached the U.S.")
 
-10 hours ago
-
 [U.S. missile agency scales back Guam defense plans](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-missile-agency-guam-defense/ "U.S. missile agency scales back Guam defense plans")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
