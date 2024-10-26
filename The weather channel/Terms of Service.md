@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/science/video/treasure-hunter-uses-mad-weather-skills-to-find-prize)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/science/video/treasure-hunter-uses-mad-weather-skills-to-find-prize)
+[Top Weather Stories](https://weather.com/storms/hurricane/video/florida-eagles-clive-connie-hurricane-milton-webcam)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/florida-eagles-clive-connie-hurricane-milton-webcam)
 
 Products
 --------
@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/science/video/treasure-hunter-uses-mad-weather-skills-to-find-prize)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoVideo](https://weather.com/storms/hurricane/video/florida-eagles-clive-connie-hurricane-milton-webcam)
 
 More ForecastsMoreArrow down
 
