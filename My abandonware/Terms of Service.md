@@ -93,8 +93,8 @@ Top downloads
 * [Mario Teaches Typing](https://www.myabandonware.com/game/mario-teaches-typing-1gl)
 * [Silent Hill 2: Restless Dreams](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd)
 * [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
-* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [Need for Speed: Most Wanted](https://www.myabandonware.com/game/need-for-speed-most-wanted-i4m)
+* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [Need for Speed: Underground 2](https://www.myabandonware.com/game/need-for-speed-underground-2-ega)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Championship Sprint](https://www.myabandonware.com/game/championship-sprint-5hd)
-* [Crypt Killer](https://www.myabandonware.com/game/crypt-killer-duv)
-* [Cliff Hanger](https://www.myabandonware.com/game/cliff-hanger-sii)
-* [Danny Sullivan's Indy Heat](https://www.myabandonware.com/game/danny-sullivan-s-indy-heat-4s6)
-* [Dance Dance Revolution](https://www.myabandonware.com/game/dance-dance-revolution-gyf)
+* [Sonic Jam](https://www.myabandonware.com/game/sonic-jam-t14)
+* [Scrabble](https://www.myabandonware.com/game/scrabble-t13)
+* [Resident Evil 2](https://www.myabandonware.com/game/resident-evil-2-t12)
+* [Quiz Wiz: Cyber Trivia](https://www.myabandonware.com/game/quiz-wiz-cyber-trivia-t11)
+* [Monopoly](https://www.myabandonware.com/game/monopoly-t10)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Blinky Bill's Extraordinary Balloon Adventure](https://www.myabandonware.com/game/blinky-bill-s-extraordinary-balloon-adventure-m8b)
-* [OutRun 2 SP SDX](https://www.myabandonware.com/game/outrun-2-sp-sdx-soh)
-* [Abenteuer im marchen buchland](https://www.myabandonware.com/game/abenteuer-im-marchen-buchland-gfq)
+* [Sprint 2](https://www.myabandonware.com/game/sprint-2-scl)
+* [Open Season: The Expansion Pack for Cabela's Big Game Hunter II](https://www.myabandonware.com/game/open-season-the-expansion-pack-for-cabela-s-big-game-hunter-ii-n2y)
+* [The Gold Collection](https://www.myabandonware.com/game/the-gold-collection-q0i)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
