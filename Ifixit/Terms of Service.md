@@ -230,7 +230,7 @@ _Looking for our **Data Security and Store Sales Policies**, including informati
 
 **View Statistics:**
 
-Past 24 Hours: 45
+Past 24 Hours: 42
 
 Past 7 Days: 309
 
