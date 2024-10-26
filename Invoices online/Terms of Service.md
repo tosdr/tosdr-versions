@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=132574171)  
-McKaynine Mobility
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=213321476)  
+Sarabi
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=27433626)  
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=164645313)  
+LEONARD
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=203766991)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=43568850)  
 NEW BEGINNINGS DESIGNS
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=141268331)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=32287140)  
+West Coast Horse Trails
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=68148803)  
+Imvubu General Trading
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=153956556)  
+Tagline Brands
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=148559360)  
+#DiGi3 Marketing & Design
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=11164221)  
 MSPCloud (Pty) Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=209677981)  
-OptaServ
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=13580605)  
+Import Maaw
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=27449609)  
-Eruca (PTY)Ltd
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=200164756)  
+Alliance Energy
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=146929649)  
-SA Security Brokerz (Pty) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=208915533)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=163359957)  
-Tiny Cuddles Photography
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=32784168)  
+Multi CNC Solutions CC
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=80139072)  
-Cooper Logistics (Pty) Ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=69574227)  
+Hydroworld T/A Milliqua
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=51390264)  
-United Paintball Federation
-
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=156214041)  
-VA AND M BUSINESSES (PTY)LTD
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=197660680)  
-Redlum Group (Pty) Ltd
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=194876051)  
-Three Moons Emporium
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=83089408)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=7148858)  
-Repairs In Motion
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=7892f058f09dbc6d586a18340d129d81fbe052f001846605b11e18b38c94209f&c=102438763)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=cdc3fa46f581188a8d2af6e5a3a7966223a49ba27238ad2af72958d594494bd2&c=160733918)  
+Network Grey (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
