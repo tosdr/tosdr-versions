@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Human history becomes more and more a race between education and catastrophe”
+“ Don't undertake a project unless it is manifestly important and nearly impossible”
 
-[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
+[Edwin Land](http://en.wikipedia.org/wiki/Edwin_H._Land)
 
 [](https://www.adafruit.com/about)
 
