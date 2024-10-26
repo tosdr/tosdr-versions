@@ -151,5 +151,3 @@ Free standard shipping on all U.S. orders.
 All trademarks are the property of their respective owners. © SanMedica (2012-2024) All Rights Reserved.
 
 "Close (esc)"
-
-// Show thumbnail images below product carousel on PDPs
