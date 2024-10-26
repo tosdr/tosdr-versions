@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://www.theepochtimes.com/business/spirit-airlines-announces-job-cuts-aircraft-selloff-amid-financial-uncertainty-5747984)
+* [Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://www.theepochtimes.com/world/hamas-commander-on-oct-7-worked-for-unrwa-israel-says-5748030)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    1hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Spirit Airlines Announces Job Cuts, Aircraft Selloff Amid Financial Uncertainty](https://img.theepochtimes.com/assets/uploads/2022/06/30/Spirit-Airlines-planes-205x123.jpg.webp)](https://www.theepochtimes.com/business/spirit-airlines-announces-job-cuts-aircraft-selloff-amid-financial-uncertainty-5747984)
-* [The Battle for Space Is On](https://www.theepochtimes.com/article/the-battle-for-space-is-on-5729865)
+    ![Hamas Terrorist in Oct. 7 Attack Worked for UNRWA, Israel Says](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748031-mohammed-itiwi-on-oct.-7-205x123.jpg.webp)](https://www.theepochtimes.com/world/hamas-commander-on-oct-7-worked-for-unrwa-israel-says-5748030)
+* [Gratitude: An Alternative Medicine for Anger and Depression](https://www.theepochtimes.com/health/gratitude-an-alternative-medicine-for-anger-and-depression-5719710)
     
-    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
+    3hr By [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert), [Robert Backer](https://www.theepochtimes.com/expert/robert-backer) and [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts)
     
-    [![The Battle for Space Is On](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Gratitude: An Alternative Medicine for Anger and Depression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Battle for Space Is On](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745315-Space-Warfare-1-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-battle-for-space-is-on-5729865)
-* [Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://www.theepochtimes.com/us/mother-sues-ai-firm-and-google-alleging-chatbot-drove-teen-to-suicide-5747797)
+    ![Gratitude: An Alternative Medicine for Anger and Depression](https://img.theepochtimes.com/assets/uploads/2024/10/19/id5744159-Untitled_Artwork-gratitude1-205x123.jpg.webp)](https://www.theepochtimes.com/health/gratitude-an-alternative-medicine-for-anger-and-depression-5719710)
+* [Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://www.theepochtimes.com/us/wisconsins-in-person-early-voting-up-40-percent-from-2020-post-5748153)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    3hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mother Sues AI Firm and Google, Alleging Chatbot Drove Teen to Suicide](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748126-Sewell-Setzer-and-mother-AP24299668536349-205x123.jpg)](https://www.theepochtimes.com/us/mother-sues-ai-firm-and-google-alleging-chatbot-drove-teen-to-suicide-5747797)
-* [Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://www.theepochtimes.com/us/trump-vows-campaign-will-scrutinize-integrity-of-election-closely-5748001)
+    ![Wisconsin’s In-Person Early Voting up 40 Percent From 2020](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746485-Wisconson_JF_10222024-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsins-in-person-early-voting-up-40-percent-from-2020-post-5748153)
+* [Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://www.theepochtimes.com/article/day-in-photos-illegal-crossing-returning-spacecraft-presidents-apology-5747971)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Vows Campaign Will Scrutinize Integrity of Election Closely](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739087-GettyImages-2177684056-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-vows-campaign-will-scrutinize-integrity-of-election-closely-5748001)
-* [Conservatives Contest Long-Blue New Mexico in English and Spanish](https://www.theepochtimes.com/us/conservatives-contest-long-blue-new-mexico-in-english-and-spanish-5747617)
+    ![Day in Photos: Illegal Crossing, Returning Spacecraft, President’s Apology](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748093-GettyImages-2180106026KOKO-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-crossing-returning-spacecraft-presidents-apology-5747971)
+* [Israel Launches Retaliatory Strikes Against Targets In Iran](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Conservatives Contest Long-Blue New Mexico in English and Spanish](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Launches Retaliatory Strikes Against Targets In Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Conservatives Contest Long-Blue New Mexico in English and Spanish](https://img.theepochtimes.com/assets/uploads/2024/10/id5736365-2.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/conservatives-contest-long-blue-new-mexico-in-english-and-spanish-5747617)
-* [UnitedHealth Confirms Hack Impacted 100 Million Americans](https://www.theepochtimes.com/us/unitedhealth-confirms-hack-impacted-100-million-americans-5747966)
+    ![Israel Launches Retaliatory Strikes Against Targets In Iran](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748246-GALLANT-NETANYAHU-205x123.jpeg.webp)](https://www.theepochtimes.com/world/israel-launches-retaliatory-strikes-against-targets-in-iran-5748177)
+* [Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://www.theepochtimes.com/us/bezos-made-decision-to-block-harris-endorsement-in-washington-post-paper-reports-5748038)
     
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![UnitedHealth Confirms Hack Impacted 100 Million Americans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![UnitedHealth Confirms Hack Impacted 100 Million Americans](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748073-UnitedHealth-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/unitedhealth-confirms-hack-impacted-100-million-americans-5747966)
-* [Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://www.theepochtimes.com/health/up-to-95-million-americans-exposed-to-cancer-causing-chemicals-in-tap-water-study-5747897)
+    ![Bezos Made Decision to Block Harris Endorsement in Washington Post, Paper Reports](https://img.theepochtimes.com/assets/uploads/2024/02/11/id5585037-Jeff-Bezos-205x123.jpg.webp)](https://www.theepochtimes.com/us/bezos-made-decision-to-block-harris-endorsement-in-washington-post-paper-reports-5748038)
+* [Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://www.theepochtimes.com/entertainment/phil-lesh-grateful-dead-co-founding-bassist-has-died-at-84-post-5748122)
     
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    5hr By [Elma Aksalic](https://www.theepochtimes.com/author/elma-aksalic)
     
-    [![Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Up to 95 Million Americans Exposed to Cancer-Causing Chemicals in Tap Water: Study](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691367-Water-California-205x123.jpg.webp)](https://www.theepochtimes.com/health/up-to-95-million-americans-exposed-to-cancer-causing-chemicals-in-tap-water-study-5747897)
-* [Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://www.theepochtimes.com/us/trump-promises-mass-deportation-of-illegal-immigrants-at-nevada-campaign-rally-5747712)
+    ![Phil Lesh, Grateful Dead Co-Founding Bassist, Has Died at 84](https://img.theepochtimes.com/assets/uploads/2015/09/GD86875915-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/phil-lesh-grateful-dead-co-founding-bassist-has-died-at-84-post-5748122)
+* [Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://www.theepochtimes.com/us/appeals-court-overturns-mississippi-law-that-allows-mail-in-ballots-after-election-day-5748121)
     
-    3hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Promises Mass Deportation of Illegal Immigrants at Nevada Campaign Rally](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748069-Trump-GettyImages-2180914616-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-mass-deportation-of-illegal-immigrants-at-nevada-campaign-rally-5747712)
-* [South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://www.theepochtimes.com/sports/south-florida-mens-basketball-coach-amir-abdur-rahim-dead-at-43-post-5747764)
+    ![Appeals Court Overturns Mississippi Law That Allows Mail-In Ballots After Election Day](https://img.theepochtimes.com/assets/uploads/2024/09/14/id5724443-GettyImages-1281302247-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-overturns-mississippi-law-that-allows-mail-in-ballots-after-election-day-5748121)
+* [DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://www.theepochtimes.com/china/doj-indicts-8-chinese-companies-for-allegedly-distributing-manufacturing-fentanyl-5747968)
     
-    3hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
+    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![South Florida Men’s Basketball Coach Amir Abdur-Rahim Dead at 43](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748068-GettyImages-1474447711-OP-205x123.jpg.webp)](https://www.theepochtimes.com/sports/south-florida-mens-basketball-coach-amir-abdur-rahim-dead-at-43-post-5747764)
-* [Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://www.theepochtimes.com/us/federal-government-proposes-student-loan-bailout-for-8-million-borrowers-5747776)
+    ![DOJ Indicts 8 Chinese Companies for Allegedly Distributing, Manufacturing Fentanyl](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734657-07292024-DSC09126-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/doj-indicts-8-chinese-companies-for-allegedly-distributing-manufacturing-fentanyl-5747968)
+* [Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://www.theepochtimes.com/health/curcumin-supplementation-linked-to-54-percent-reduction-in-age-related-vision-loss-risk-5747864)
     
-    4hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
-    [![Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Government Proposes Student Loan Bailout for 8 Million Borrowers](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748077-8_25-GettyImages-1417997650-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-proposes-student-loan-bailout-for-8-million-borrowers-5747776)
+    ![Curcumin Supplementation Linked to 54 Percent Reduction in Age-Related Vision Loss Risk](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5748131-shutterstock_1608820219_curcumin_turmeric_tumeric_supplement-205x123.jpg.webp)](https://www.theepochtimes.com/health/curcumin-supplementation-linked-to-54-percent-reduction-in-age-related-vision-loss-risk-5747864)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
