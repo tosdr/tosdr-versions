@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Area 51](https://www.myabandonware.com/game/area-51-c5g)
+* [APB](https://www.myabandonware.com/game/apb-l8)
 * [720º](https://www.myabandonware.com/game/720o-6a2)
 * [Wonder Stadium '99](https://www.myabandonware.com/game/wonder-stadium-99-t1e)
 * [Uzumaki: Noroi Simulation](https://www.myabandonware.com/game/uzumaki-noroi-simulation-t1d)
-* [Uzumaki: Denshi Kaikihen](https://www.myabandonware.com/game/uzumaki-denshi-kaikihen-t1c)
-* [Umitsuri ni Ikō!](https://www.myabandonware.com/game/umitsuri-ni-iko-t1b)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
