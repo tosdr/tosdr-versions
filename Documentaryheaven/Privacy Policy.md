@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
-    
-    Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    
+    Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Cuban Skateboard Crisis](/wp-content/thumbnails/7031-100x70.jpg?x53432)
+* [![The Town Travellers Took Over](/wp-content/thumbnails/13834-100x70.jpg?x53432)
     
-    The Cuban Skateboard Crisis
+    The Town Travellers Took Over
     
-    A short Documentary filmed in Cuba exploring the problems faced by young Cuban skateboarders due to the trade embargo’s with the US. Produced, Directed & Filmed by Phil Brown.](https://documentaryheaven.com/the-cuban-skateboard-crisis/ "The Cuban Skateboard Crisis")
-* [![CRY WOLF: An Unethical Oil Story](/wp-content/thumbnails/6523-100x70.jpg?x53432)
+    Rathkeale in County Limerick, Ireland, may seem like any other sleepy rural village though it is anything but. Irelands traveling community seem to have chosen the town as their spiritual home, their](https://documentaryheaven.com/town-travellers-took-over/ "The Town Travellers Took Over")
+* [![Saturn: Lord of The Rings](/wp-content/thumbnails/68-100x70.png?x53432)
     
-    CRY WOLF: An Unethical Oil Story
+    Saturn: Lord of The Rings
     
-    DeSmogBlog investigates the controversial decision by Alberta's government to ignore the threat of rapid industrial expansion in the Alberta Tar Sands region, and instead kill thousands of wolves to a](https://documentaryheaven.com/cry-wolf-an-unethical-oil-story/ "CRY WOLF: An Unethical Oil Story")
-* [![Charlie Brooker’s Screenwipe](/wp-content/thumbnails/6089-100x70.jpg?x53432)
+    With its famous rings, Saturn is the most distant planet clearly visible to the naked eye. But how did the rings get there and when were they formed? To study the planet in detail, scientists needed t](https://documentaryheaven.com/saturn-lord-of-the-rings/ "Saturn: Lord of The Rings")
+* [![Cyberbullies: A Killer Network](/wp-content/thumbnails/10622-100x70.jpg?x53432)
     
-    Charlie Brooker’s Screenwipe
+    Cyberbullies: A Killer Network
     
-    Screenwipe is a television programme, presented by comedian Charlie Brooker, which reviews other British television programmes with a caustic and humorous tone. Brooker analyses specific programmes a](https://documentaryheaven.com/charlie-brookers-screenwipe/ "Charlie Brooker’s Screenwipe")
-* [![UFO: The Greatest Story Ever Denied](/wp-content/thumbnails/963-100x70.jpg?x53432)
+    These days there are more smart devices in the world than there are people to use them, ranging from smartphones, tablets and computers, we all have one if not more than one, possibly even a few forgo](https://documentaryheaven.com/cyberbullies-killer-network/ "Cyberbullies: A Killer Network")
+* [![Chairman Mao Declassified](/wp-content/thumbnails/6553-100x70.png?x53432)
     
-    UFO: The Greatest Story Ever Denied
+    Chairman Mao Declassified
     
-    Somewhere in the back of your mind, you’ve always known it was true. Special Features: Trevor James Constable – Critter footage that has never been released for over fifty years that reveals entities](https://documentaryheaven.com/ufo-the-greatest-story-ever-denied/ "UFO: The Greatest Story Ever Denied")
-* [![Ebola: The Search for a Cure](/wp-content/thumbnails/9205-100x70.jpg?x53432)
+    One of the most formidable leaders that the world has ever seen, Mao was undeniably a brilliant political and economic mind, despite his role as a progenitor of 20th Century Communism and a homicidal](https://documentaryheaven.com/chairman-mao-declassified/ "Chairman Mao Declassified")
+* [![Battle of the X-Planes](/wp-content/thumbnails/2684-100x70.jpg?x53432)
     
-    Ebola: The Search for a Cure
+    Battle of the X-Planes
     
-    Nobody really knows where the Ebola virus comes from but whats even scarier is the fact that his recent outbreak is the worst Ebola epidemic the world has ever seen, with the current death toll claimi](https://documentaryheaven.com/ebola-search-cure/ "Ebola: The Search for a Cure")
+    Inside the high-tech, high-stakes competition to create America’s newest fighter plane. NOVA goes behind the doors of the world’s two largest aerospace companies to record classified meetings, climbs](https://documentaryheaven.com/battle-of-the-x-planes/ "Battle of the X-Planes")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
