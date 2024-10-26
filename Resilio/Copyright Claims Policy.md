@@ -157,25 +157,21 @@ Case Studies
 
 ![](/images/right.svg)](https://www.resilio.com/resources/#type=case_study)[![](/images/video-playlist.svg)
 
-Events & Webinars  
+Webinars  
 
-![](/images/right.svg)](https://www.resilio.com/events/)[![](/images/exchange.svg)
+![](/images/right.svg)](https://www.resilio.com/resources/#type=webinar)[![](/images/video-playlist.svg)
+
+Events  
+
+![](/images/right.svg)](https://www.resilio.com/resources/#type=event)[![](/images/exchange.svg)
 
 P2P vs. Client Server  
 
-![](/images/right.svg)](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server)[![](/images/exchange.svg)
-
-Why P2P is Faster?  
-
-![](/images/right.svg)](https://www.resilio.com/tech/p2p-is-faster/)[![](/images/round-play_circle_outline-24px_1.svg)![](/images/video-playlist.svg)
+![](/images/right.svg)](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server)[![](/images/round-play_circle_outline-24px_1.svg)![](/images/video-playlist.svg)
 
 Resilio Platform Demos & Tutorials  
 
-![](/images/right.svg)](https://www.resilio.com/tech/connect-tutorials/)[![](/images/round-insert_chart_outlined-24px.svg)![](/images/speedometer.svg)
-
-Speed Calculator  
-
-![](/images/right.svg)](https://www.resilio.com/speed-calculator/)[![](/images/learning.svg)
+![](/images/right.svg)](https://www.resilio.com/tech/connect-tutorials/)[![](/images/learning.svg)
 
 Resource Center  
 
@@ -241,7 +237,7 @@ Industries
 
 Resources
 
-[Case Studies](https://www.resilio.com/resources/#type=case_study) [Events & Webinars](https://www.resilio.com/events/) [P2P vs. Client Server](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server) [Why P2P is faster?](https://www.resilio.com/tech/p2p-is-faster/) [Resilio Platform Demos & Tutorials](https://www.resilio.com/tech/connect-tutorials/) [Speed Calculator](https://www.resilio.com/speed-calculator/) [Resource Center](https://www.resilio.com/resources/) [blog](https://www.resilio.com/blog/)
+[Case Studies](https://www.resilio.com/resources/#type=case_study) [Webinars](https://www.resilio.com/resources/#type=webinar) [Events](https://www.resilio.com/resources/#type=event) [P2P vs. Client Server](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server) [Resilio Platform Demos & Tutorials](https://www.resilio.com/tech/connect-tutorials/) [Resource Center](https://www.resilio.com/resources/) [blog](https://www.resilio.com/blog/)
 
 Support: Resilio Platform
 
@@ -475,11 +471,11 @@ Learning & education
 
 ![](/images/right.svg)](https://www.resilio.com/resources/#type=case_study)[Resource Center
 
-![](/images/right.svg)](https://www.resilio.com/resources/)[Events & Webinars
+![](/images/right.svg)](https://www.resilio.com/resources/)[Webinars
 
-![](/images/right.svg)](https://www.resilio.com/events/)[Speed Calculator
+![](/images/right.svg)](https://www.resilio.com/resources/#type=webinar)[Events
 
-![](/images/right.svg)](https://www.resilio.com/speed-calculator/)[Follow us on LinkedIn
+![](/images/right.svg)](https://www.resilio.com/resources/#type=event)[Follow us on LinkedIn
 
 ![](/images/right.svg)](https://www.linkedin.com/company/resilio-inc./)[Blog
 
