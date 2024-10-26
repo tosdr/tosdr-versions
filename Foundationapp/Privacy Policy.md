@@ -181,7 +181,7 @@ The Service and our business may change from time to time. As a result we may ch
 
 ### 10. Contact Us
 
-If you have any questions about our Privacy Policy or information practices, please feel free to contact us at our designated request address: [\[email protected\]](https://foundation.app/cdn-cgi/l/email-protection).
+If you have any questions about our Privacy Policy or information practices, please feel free to contact us at our designated request address: support@foundation.app.
 
 **Privacy Snapshot**
 
