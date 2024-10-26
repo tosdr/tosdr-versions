@@ -212,8 +212,8 @@ Menu
         [Read more news](http://news.harvard.edu/)
         
         1. [**What happened when a meteorite the size of four Mount Everests hit Earth?**  Giant impact had silver lining for life, according to new study](https://news.harvard.edu/gazette/story/2024/10/what-happened-when-a-meteorite-the-size-of-four-mount-everests-hit-earth/)
-        2. [**How to apply cool-headed reason to red-hot topics** Michael J. Sandel brings back wildly popular ‘Justice’ course amid time of strained discourse on college campuses](https://news.harvard.edu/gazette/story/2024/10/how-to-apply-cool-headed-reason-to-red-hot-topics/)
-        3. [**Do phones belong in schools?** Banning cellphones may help protect classroom focus, but school districts need to stay mindful of students’ sense of connection, experts say.](https://news.harvard.edu/gazette/story/2023/03/experts-see-pros-and-cons-to-allowing-cellphones-in-class/)
+        2. [**Does academic writing have to be boring?** English professor, journalist says first step to better prose is being aware that no one has to read you](https://news.harvard.edu/gazette/story/2024/10/how-to-improve-academic-writing/)
+        3. [**Are rich different from you and me? Would we be better off without them?** Safra Center for Ethics debate weighs extreme wealth, philanthropy, income inequality, and redistribution](https://news.harvard.edu/gazette/story/2024/10/are-rich-different-from-you-and-me-would-we-be-better-off-without-them/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
