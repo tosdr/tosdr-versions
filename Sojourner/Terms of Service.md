@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-db6f8a1719b4b2eba8ecd20b3ba69686
+ad2a17e8c0350556c2aa1c87a9dcf438
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm by 3 mm white rice pearls](https://sojourner.biz/images/cache/pearls/PE0197.200.jpg)](https://sojourner.biz/beads/pearls/6-mm-by-3-mm-white-rice-pearls.html "6 mm by 3 mm white rice pearls")
+[![8 mm purple stripe heart beads](https://sojourner.biz/images/cache/glass/HRT019.200.jpg)](https://sojourner.biz/beads/glass/8-mm-purple-stripe-heart-beads.html "8 mm purple stripe heart beads")
 
-#### [6 mm by 3 mm white rice pearls](https://sojourner.biz/beads/pearls/6-mm-by-3-mm-white-rice-pearls.html "6 mm by 3 mm white rice pearls")
+#### [8 mm purple stripe heart beads](https://sojourner.biz/beads/glass/8-mm-purple-stripe-heart-beads.html "8 mm purple stripe heart beads")
 
-$10.00
+$3.00
 
 ### Best Sellers
 
@@ -162,10 +162,10 @@ $10.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
 10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
