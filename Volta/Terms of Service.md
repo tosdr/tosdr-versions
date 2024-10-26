@@ -51,7 +51,7 @@ Open navigation menu [Open search](https://voltacharger.com/search)
     
 * [Max 240W Cable⚡](https://voltacharger.com/products/volta-max-240w-cable)
 * [VoltaGo Max Power Bank🔋](https://voltacharger.com/pages/voltago-max-power-bank)
-* [Clearance](https://voltacharger.com/collections/clearance-sales)
+* [Halloween🎃](https://voltacharger.com/collections/clearance-sales)
 * About
     
     * [Our Story](https://voltacharger.com/pages/about-volta)
@@ -73,7 +73,7 @@ Country
 * Products
 * [Max 240W Cable⚡](https://voltacharger.com/products/volta-max-240w-cable)
 * [VoltaGo Max Power Bank🔋](https://voltacharger.com/pages/voltago-max-power-bank)
-* [Clearance](https://voltacharger.com/collections/clearance-sales)
+* [Halloween🎃](https://voltacharger.com/collections/clearance-sales)
 * About
 
 * [](https://web.facebook.com/voltacharger/?_rdc=1&_rdr)
