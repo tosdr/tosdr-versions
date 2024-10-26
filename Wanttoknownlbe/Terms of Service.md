@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/wist-je-dat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/medicijngebruik-meer-doden-dan-heroine-en-cocaine-samen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
