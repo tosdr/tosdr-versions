@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, October 25 2024
+Saturday, October 26 2024
 
 Latest
 
-* [Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
-* [Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
-* [Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
-* [Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
-* [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
-* [Netflix’s Territory Cast and Characters](https://digitpatrox.com/netflixs-territory-cast-and-characters/)
-* [How to watch porn in Indiana](https://digitpatrox.com/how-to-watch-porn-in-indiana/)
-* [Another senior staffer just left OpenAI – here’s what they had to say](https://digitpatrox.com/another-senior-staffer-just-left-openai-heres-what-they-had-to-say/)
-* [A living history from 1.0 to 15 – Computerworld](https://digitpatrox.com/a-living-history-from-1-0-to-15-computerworld/)
-* [Here’s How the Mortgage Loan Origination Process Works](https://digitpatrox.com/heres-how-the-mortgage-loan-origination-process-works/)
+* [The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
+* [It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
+* [Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
+* [Die 6 besten kostenlosen Alternativen zu Microsoft Word](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
+* [LSU vs Texas A&M livestream: How to watch college football Week 9 game online from anywhere](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
+* [Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://digitpatrox.com/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
+* [Boeing reportedly considers selling off its space business](https://digitpatrox.com/boeing-reportedly-considers-selling-off-its-space-business/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-26/)
+* [Intel just won a 15-year legal battle against EU](https://digitpatrox.com/intel-just-won-a-15-year-legal-battle-against-eu/)
+* [Apple defines what we should expect from cloud-based AI security – Computerworld](https://digitpatrox.com/apple-defines-what-we-should-expect-from-cloud-based-ai-security-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/aapPzizUA52fXnnk8xxZo7-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729515889/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-The-Benefits-of-Tea-Nov-Dec24-1024)](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
     
-    [Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
+    [The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
     
-    26 mins ago
+    18 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241025-change-healthcare-cyberattack-oct-numbers.jpg)](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/call-of-duty-black-ops-6-cover-image.jpg)](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
     
-    [Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
+    [It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
     
-    29 mins ago
+    21 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/YhrqwnS7iBXjtUEEevYX4i-1200-80.jpg)](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
+* [![](https://cdn.mos.cms.futurecdn.net/CLJaFKTNRBdaManAfvkpDf-1200-80.jpg)](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
     
-    [Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
-    
-    44 mins ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2024/03/21/Microsoft-Russia.jpg)](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
-    
-    [Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://digitpatrox.com/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
+    [Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
     
     1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/4eck3o-Y1gTUj_kS7UV78l_3-Hg=/0x0:1332x888/1200x628/filters:focal(666x444:667x445)/cdn.vox-cdn.com/uploads/chorus_asset/file/25698442/8bitdo_1.jpg)](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
+* [![](https://assets.techrepublic.com/uploads/2023/05/tr52623-microsoft365-substrate.jpeg)](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
     
-    [8BitDo’s first smartphone controller has Hall effect joysticks and triggers](https://digitpatrox.com/8bitdos-first-smartphone-controller-has-hall-effect-joysticks-and-triggers/)
+    [Die 6 besten kostenlosen Alternativen zu Microsoft Word](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
     
     1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/bnw5VKpC2AfPoeYBPPYtMH-1200-80.png)](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
+    
+    [LSU vs Texas A&M livestream: How to watch college football Week 9 game online from anywhere](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [26 mins ago
+* [18 mins ago
     
-    ### Everything you need to know about the ‘mass exploitation’ of FortiManager appliances](https://digitpatrox.com/everything-you-need-to-know-about-the-mass-exploitation-of-fortimanager-appliances/)
-* [29 mins ago
+    ### The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
+* [21 mins ago
     
-    ### Change Healthcare Cyberattack Affects Over 100 Million People](https://digitpatrox.com/change-healthcare-cyberattack-affects-over-100-million-people/)
-* [44 mins ago
+    ### It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
+* [1 hour ago
     
-    ### Act fast! Woot is knocking 34% off this Baseus portable charging bundle](https://digitpatrox.com/act-fast-woot-is-knocking-34-off-this-baseus-portable-charging-bundle/)
+    ### Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
 
 Most Popular Topics
 
-* [12 hours ago
+* [August 19, 2024
     
-    ### Wear OS 5 Rolling out to Galaxy Watch 6 and Watch 6 Classic](https://digitpatrox.com/wear-os-5-rolling-out-to-galaxy-watch-6-and-watch-6-classic/)
-* [August 14, 2024
+    ### Big tech is flexing its muscle to try and ‘water down’ California’s AI regulation – here’s why that’s a problem](https://digitpatrox.com/big-tech-is-flexing-its-muscle-to-try-and-water-down-californias-ai-regulation-heres-why-thats-a-problem/)
+* [August 22, 2024
     
-    ### Sonos lays off 100 employees as its app crisis continues](https://digitpatrox.com/sonos-lays-off-100-employees-as-its-app-crisis-continues/)
-* [September 11, 2024
+    ### August updates cause Windows Server boot issues, freezes](https://digitpatrox.com/august-updates-cause-windows-server-boot-issues-freezes/)
+* [September 2, 2024
     
-    ### Cyber workforce growth slows as tight budgets hit hiring targets — and it’s going to create a more dangerous threat landscape and send burnout through the roof](https://digitpatrox.com/cyber-workforce-growth-slows-as-tight-budgets-hit-hiring-targets-and-its-going-to-create-a-more-dangerous-threat-landscape-and-send-burnout-through-the-roof/)
+    ### How to Change Minecart Speed in Minecraft](https://digitpatrox.com/how-to-change-minecart-speed-in-minecraft/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Boeing reportedly considers selling off its space business](https://digitpatrox.com/boeing-reportedly-considers-selling-off-its-space-business/)
 * [3 hours ago
     
-    ### How to watch porn in Indiana](https://digitpatrox.com/how-to-watch-porn-in-indiana/)
-* [3 hours ago
-    
-    ### Another senior staffer just left OpenAI – here’s what they had to say](https://digitpatrox.com/another-senior-staffer-just-left-openai-heres-what-they-had-to-say/)
+    ### NYT Strands Today: Hints, Answers & Spangram for October 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-26/)
 * [4 hours ago
     
-    ### A living history from 1.0 to 15 – Computerworld](https://digitpatrox.com/a-living-history-from-1-0-to-15-computerworld/)
+    ### Intel just won a 15-year legal battle against EU](https://digitpatrox.com/intel-just-won-a-15-year-legal-battle-against-eu/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
