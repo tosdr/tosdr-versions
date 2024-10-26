@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[DumbDumbJeez Dine and Dash Controversy](https://knowyourmeme.com/memes/events/kick-streamer-dumbdumbjeez-dine-and-dash-controversy "DumbDumbJeez Dine and Dash Controversy") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [Mia Khalifa U.S. Military PTSD Comment](https://knowyourmeme.com/memes/events/mia-khalifas-us-military-soldiers-ptsd-comment "Mia Khalifa U.S. Military PTSD Comment") [Just a Robot](https://knowyourmeme.com/memes/people/just-a-robot "Just a Robot") [Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt") [What's the Matter Lagerboy](https://knowyourmeme.com/memes/whats-the-matter-lagerboy "What's the Matter Lagerboy")
+[Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus") [DumbDumbJeez Dine and Dash Controversy](https://knowyourmeme.com/memes/events/kick-streamer-dumbdumbjeez-dine-and-dash-controversy "DumbDumbJeez Dine and Dash Controversy") [Mia Khalifa U.S. Military PTSD Comment](https://knowyourmeme.com/memes/events/mia-khalifas-us-military-soldiers-ptsd-comment "Mia Khalifa U.S. Military PTSD Comment") [Just a Robot](https://knowyourmeme.com/memes/people/just-a-robot "Just a Robot")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
