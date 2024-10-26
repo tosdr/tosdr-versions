@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/f/csm_modelo-famosa-situacao-de-rua-reproducao-redes-sociais_a3b0a05fdd.jpg)
-
-estampou revistas
-
-estampou revistas
-
-Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo
-
-Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo](https://www.tnh1.com.br/noticia/nid/em-situacao-de-rua-ha-8-anos-ex-modelo-carrega-pertences-em-carrinho-e-revira-lixo/ "Em situação de rua há 8 anos, ex-modelo carrega pertences em carrinho e revira lixo")[![Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_caracteristicas-comuns-repeticao-pexels-cottonbro-4861373__1__9dc2e72b6c.jpg)
-
-São tendências
-
-São tendências
-
-Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA
-
-Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA](https://www.tnh1.com.br/noticia/nid/seis-palavras-que-as-pessoas-menos-inteligentes-repetem-segundo-a-ia/ "Seis palavras que as pessoas menos ‘inteligentes’ repetem, segundo a IA")[![Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/2/csm_mario-marroquim-crb-foto-reproducao_ce156442b0.png)
+[![Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_mario-marroquim-crb-foto-reproducao_ce156442b0.png)
 
 Em entrevista
 
@@ -222,7 +206,7 @@ Em entrevista
 
 Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada
 
-Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
 
 Importunação sexual
 
@@ -230,7 +214,23 @@ Importunação sexual
 
 Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
 
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
+
+Violência
+
+Violência
+
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
+
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")[![Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_cadela_cruza_f3856b896d.png)
+
+Brasil
+
+Brasil
+
+Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza
+
+Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza](https://www.tnh1.com.br/noticia/nid/golden-retriever-fica-gravida-tutora-descobre-que-pai-e-um-shih-tzu-e-cruza-viraliza/ "Golden Retriever fica grávida, tutora descobre que pai é um Shih Tzu e cruza viraliza")
 
 [![Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_hugh-jackman-sutton-foster-reproducao_064a1c7767.jpg)
 
