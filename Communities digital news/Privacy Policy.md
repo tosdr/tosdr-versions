@@ -116,6 +116,42 @@ Getty Images
 
 [Barron Trump draws high praise for his humility: ‘Most interesting 18-year-old I’ve met’](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-facebook-deceased-family-220x180.jpg)](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
+
+[Boy, 15, who shot up parents, three siblings tried to frame younger brother in bizarre twist](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-bible-220x180.jpg)](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
+
+[CBS News targets federal minimum wage in battleground states — didn’t think that one through!](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-clinton-220x180.png)](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
+
+[Duck Hillary! Clinton’s latest Trump claim comes with a GIANT boomerang!](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-220x180.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
+
+[Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-menendez-brothers-220x180.jpg)](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
+
+[Menendez brothers’ uncle is furious, says DA is seeking fame days ahead of a crucial election he’s poised to lose](https://americanwirenews.com/menendez-brothers-uncle-is-furious-says-da-is-seeking-fame-days-ahead-of-a-crucial-election-hes-poised-to-lose/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-220x180.png)](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
+
+[Obama defends Kamala’s McJob claim](https://americanwirenews.com/obama-defends-kamalas-mcjob-claim/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-tempe-trashcan-220x180.jpg)](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
+
+[Trump rips Kamala’s immigration policies that have made U.S. ‘like a garbage can for the world’](https://americanwirenews.com/trump-rips-kamalas-immigration-policies-that-have-made-u-s-like-a-garbage-can-for-the-world/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kam_victim-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
+
+[Texas Republicans slam Kamala for rally in city where 12-yr-old girl was murdered by illegals](https://americanwirenews.com/texas-republicans-slam-kamala-for-rally-in-city-where-12-yr-old-girl-was-murdered-by-illegals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jd-kam-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
+
+[JD Vance calls out Kamala’s ‘disgraceful’ anti-Catholic bigotry](https://americanwirenews.com/jd-vance-calls-out-kamalas-disgraceful-anti-catholic-bigotry/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/college-student--220x180.png)](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
 
 [‘Maybe the media’s lying to you’: Charlie Kirk leaves ‘indoctrinated’ Trump hater speechless](https://americanwirenews.com/maybe-the-medias-lying-to-you-charlie-kirk-leaves-indoctrinated-trump-hater-speechless/)
@@ -141,44 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-illegal-aliens-220x180.jpg)](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
 
 [‘Quiet amnesty’: Here’s how Biden-Harris regime is making it impossible to deport massive amount of illegals](https://americanwirenews.com/quiet-amnesty-heres-how-biden-harris-regime-is-making-it-impossible-to-deport-massive-amount-of-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-alex-wagner-220x180.jpg)](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
-
-[Black women voters tell MSNBC that Kamala doesn’t have ‘what it takes’ to go up against world leaders](https://americanwirenews.com/black-women-voters-tell-msnbc-that-kamala-doesnt-have-what-it-takes-to-go-up-against-world-leaders/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-los-angeles-times-220x180.jpg)](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
-
-[LA Times editor quits after paper refuses to endorse Kamala Harris: ‘Makes us look craven’](https://americanwirenews.com/la-times-editor-quits-after-paper-refuses-to-endorse-kamala-harris-makes-us-look-craven/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2171411864-1-220x180.jpg)](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
-
-[Kamala scores what’s likely the most apropos endorsement in the history of endorsements](https://americanwirenews.com/kamala-scores-whats-likely-the-most-apropos-endorsement-in-the-history-of-endorsements/)
-
-(Photo by Valerie Terranova/FilmMagic)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-adam-carolla-pete-buttigieg-split-220x180.jpg)](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
-
-[Adam Carolla drops brutal reality check on Pete Buttigieg’s high-speed rail fantasy](https://americanwirenews.com/adam-carolla-drops-brutal-reality-check-on-pete-buttigiegs-high-speed-rail-fantasy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/admin-ajax-4-220x180.jpg)](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
-
-[George Conway tells off sister of slain soldier at center of latest anti-Trump hit piece](https://americanwirenews.com/george-conway-tells-off-sister-of-slain-soldier-at-center-of-latest-anti-trump-hit-piece/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-criminal-aliens-arriving-220x180.jpg)](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
-
-[Tenn. AG reveals ICE released thousands of ‘murderers and rapists’ from detention centers into US streets](https://americanwirenews.com/tenn-ag-reveals-ice-released-thousands-of-murderers-and-rapists-from-detention-centers-into-us-streets/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mia-khalifa-220x180.jpg)](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
-
-[Pro-Hamas porn star ‘influencer’ hits new low in unhinged rant mocking U.S. military with PTSD](https://americanwirenews.com/pro-hamas-porn-star-influencer-hits-new-low-in-unhinged-rant-mocking-u-s-military-with-ptsd/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-14-220x180.jpg)](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
-
-[Kamala plans final campaign speech at symbolic spot she hopes will damage Trump](https://americanwirenews.com/kamala-plans-final-campaign-speech-at-symbolic-spot-she-hopes-will-damage-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-warren-buffet-220x180.jpg)](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
-
-[The ‘Oracle of Omaha’ passes on endorsing Kamala](https://americanwirenews.com/the-oracle-of-omaha-passes-on-endorsing-kamala/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
