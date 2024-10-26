@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
+
+### [Home sweet home for crew of StarBase 118 Ops](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
+
+Federation News Service October 26, 2024
+
+STARBASE 118 – Ops crew return to base for shore leave after an unexpectedly long absence. The crew of StarBase 118 Ops have finally returned
+
+[Read More »](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2019/07/AstraeusSurvey-768x384.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
 
 ### [USS Astraeus Crew Embraces Shore Leave as Repairs Continue](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
@@ -377,18 +389,6 @@ Federation News Service October 23, 2024
 MARCHLANDS – Red alert sounds as imposters attempt to take over the USS Constitution The crew of the USS Constitution-B NCC 3012-B found themselves in
 
 [Read More »](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2013/07/StarfleetAcademyflag-e1648664193765-768x480.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-academy-graduates-459/)
-
-### [New Academy Graduates](https://www.starbase118.net/2024/new-academy-graduates-459/)
-
-FltAdml. Tristan Wolf October 22, 2024
-
-Please welcome our newest Academy graduates to the StarBase 118 fleet: Arus Bex, Imril, Skye Shepherd, and Mylas Bosko!
-
-[Read More »](https://www.starbase118.net/2024/new-academy-graduates-459/)
 
 Ready to get started?
 ---------------------
