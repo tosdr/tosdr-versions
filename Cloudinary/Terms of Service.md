@@ -44,7 +44,7 @@
     By Use Case
     
     * [Composable Architecture](https://cloudinary.com/solutions/composable-architecture)
-    * [DAM for Video](https://cloudinary.com/products/digital_asset_management/dam-video)
+    * [Omnichannel](https://cloudinary.com/solutions/omnichannel)
     * [Headless DAM](https://cloudinary.com/solutions/headless)
     * [Performance Optimization](https://cloudinary.com/solutions/performance_optimization)
     * [UGC](https://cloudinary.com/solutions/user-generated-content)
@@ -56,7 +56,7 @@
     * [Developers](https://cloudinary.com/developers)
     * [E-commerce](https://cloudinary.com/solutions/e-commerce-teams)
     * [IT Teams](https://cloudinary.com/solutions/it-teams)
-    * [Marketers](https://cloudinary.com/solutions/marketing-teams)
+    * [Marketers](https://cloudinary.com/solutions/marketer)
     * [Product and Engineering](https://cloudinary.com/solutions/product-and-engineering-teams)
     
     By Industry
