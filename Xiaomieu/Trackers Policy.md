@@ -227,7 +227,7 @@ To learn more about cookies, and find more information about blocking certain ty
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1729959732%2C3da7a34fbc566dc0d3115d912f034edd) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1729959732%2C3da7a34fbc566dc0d3115d912f034edd)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1729981569%2Cdc16e649a88a553109b371f1967342bf) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1729981569%2Cdc16e649a88a553109b371f1967342bf)
     
     * Essential cookies
     
