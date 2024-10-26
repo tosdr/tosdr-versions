@@ -1,4 +1,4 @@
-Saturday, October 26 2024
+Sunday, October 27 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
