@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-030e73cc1c86ea75810e4a4516047581
+dd243230a4b6c2afe6a99d72e9bb3078
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Small broken-ice carnelian clasp](https://sojourner.biz/images/cache/SKU0174front.200.jpg)](https://sojourner.biz/clasps/glass/small-broken-ice-carnelian-clasp.html "Small broken-ice carnelian clasp")
+[![12 mm to 14 mm glass bugle beads](https://sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-#### [Small broken-ice carnelian clasp](https://sojourner.biz/clasps/glass/small-broken-ice-carnelian-clasp.html "Small broken-ice carnelian clasp")
+#### [12 mm to 14 mm glass bugle beads](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
 
-$13.50
+$4.00
 
 ### Best Sellers
 
