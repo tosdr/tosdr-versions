@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. sql
+1. law
     
-2. web development
+2. computer science
     
-3. cyber security
+3. flutter
     
 
 Popular subjects
