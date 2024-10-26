@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Netflix works like a charm. I will keep this subscription. I really appreciate your help, and how quickly you replied to my problems.
+You people are great. Thanks so much.
 
-Mark Hallerberg
+David Nicolson Freidberg
