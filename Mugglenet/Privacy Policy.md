@@ -358,15 +358,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Evanna Lynch found out about the auditions for the role of Luna Lovegood after reading a news post on MuggleNet. She has been a long-term fan of the series and the website. She made Luna’s lion hat in Harry Potter and the Half-Blood Prince and created some of the jewelry worn by Luna in the films.
+Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
 
 ### Potter History
 
-July 29, 2008 – The first Harry Potter and the Half-Blood Prince teaser trailer makes its way online and plays in front of The Mummy in theaters.
+November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
 
 ### Potter Quote
 
-“Go on, Harry, take it! You saved Dad’s life, if anyone’s got the right to eavesdrop on him it’s you. . . .”
+“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
 
 [](#)
 
