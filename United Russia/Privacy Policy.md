@@ -299,13 +299,13 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/j1n7bv2eZjJZ7yeM0AF8-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
+[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/PftT7j1myUbfvfzqql3L-small.png)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
 
 [«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
 
 [#Габбасов](https://er.ru/activity/news?tags%5B0%5D=50449) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
-Сегодня 14:25
+26.10.24
 
 [![«Единая Россия» передала лекарства белгородским росгвардейцам](https://cdn.er.ru/media/news/October2024/fRHIyqr4SYNxawprC8ya-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
 
@@ -313,7 +313,7 @@
 
 [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282)
 
-Сегодня 12:40
+26.10.24
 
 [![Александр Хинштейн: Школьные музеи - лучшая школа патриотизма](https://cdn.er.ru/media/news/October2024/1pk7Va8JIOCS4AWiLK0r-small.jpg)](https://er.ru/activity/news/aleksandr-hinshtejn-shkolnye-muzei-luchshaya-shkola-patriotizma)
 
