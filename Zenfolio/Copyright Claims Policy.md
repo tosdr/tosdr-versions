@@ -135,3 +135,5 @@ Help
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
 [**SAVE up to 50%!** Offer Ends Soon.\* – View Plans](https://zenfolio.com/plans-pricing/)
+
+[Try It FREE](https://zenfolio.com/trial/)
