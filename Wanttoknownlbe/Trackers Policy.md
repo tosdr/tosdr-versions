@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-holocaust-ter-discussie-stellen-mag-in-nederland/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/natuurlijke-covid-immuniteit-duurt-levenslang/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
