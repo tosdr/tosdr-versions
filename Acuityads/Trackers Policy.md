@@ -33,7 +33,7 @@ Check out illumin's brand new Support Center
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
     * ![B2B Advertising: the only guide you need](https://illumin.com/wp-content/uploads/2024/10/b2b-advertising-1-263x300.jpg)
         
-        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/b2b-advertising/)
+        B2B Advertising: the only guide you need[Read More](https://illumin.com/insights/guides/b2b-advertising/)
         
 * [Company](#)
     * [Company](#)
