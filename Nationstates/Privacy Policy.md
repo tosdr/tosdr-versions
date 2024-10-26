@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would you chill with AU¿ (1,814)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,814 posts)")
-* [Guess AN's Gender (3,961)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (3,961 posts)")
-* [AL hugs YL (116)](https://forum.nationstates.net/viewtopic.php?t=556020&f=25&view=unread#unread ""AL hugs YL" (116 posts)")
-* [Using the AN's flag, how do they deal… (8,448)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,448 posts)")
-* [Revenge of Rate the Song above you (7,096)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (7,096 posts)")
+* [American Politics: Remember, Remember… (3,927)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (3,927 posts)")
+* [Sudanese Civil War (2)](https://forum.nationstates.net/viewtopic.php?t=557538&f=20&view=unread#unread ""Sudanese Civil War" (2 posts)")
+* [Your favorite part of AN’s forum sig XI (3,242)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,242 posts)")
+* [The Collective Security League Assemb… (574)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (574 posts)")
+* [AN collapses, YL reaction V (34)](https://forum.nationstates.net/viewtopic.php?t=555980&f=25&view=unread#unread ""AN collapses, YL reaction V" (34 posts)")
 
 Advertisement
 
