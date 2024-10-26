@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)[🎨 Happy International Artist Day! 🖌️ Bring your vision to life with a .ART domain for only $1.99!](https://www.dynadot.com/domain/art?utm_source=Promobar&utm_campaign=ART%20Promobar%20Artists%20Day&drefid=4621)
+[Stand Out with a .ONE Domain for Just $3.49! 🏆 Claim yours now ➡️](https://www.dynadot.com/domain/one?utm_source=Promobar&utm_campaign=ONE%20Promobar%20Oct%202024&utm_medium=one&drefid=4614)
 
 [](https://www.dynadot.com/)
 
