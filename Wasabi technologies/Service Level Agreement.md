@@ -26,7 +26,7 @@ Wasabi Service Level Agreement
   
   
 
-[Company](https://wasabi.com/legal/sla#)
+[Company](https://wasabi.com/legal/sla?nabe=5568846273708032%3A1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
