@@ -213,9 +213,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[1](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![1](1)](https://www.japantimes.co.jp/about-us/link-policy/1 "1")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S., Japan and South Korea express 'grave concern' over North Korean troops in Russia](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/us-japan-south-korea-north-korea-russia/ "U.S., Japan and South Korea express 'grave concern' over North Korean troops in Russia")
+[The man who shaped China’s strongman rule has a new job: winning Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/politics/china-wang-huning/ "The man who shaped China’s strongman rule has a new job: winning Taiwan")
 
-48 mins ago
+46 mins ago
 
-[Israel strikes Iran military targets amid fears of a wider war](https://www.japantimes.co.jp/news/2024/10/26/world/israel-iran-strikes-military-targets/ "Israel strikes Iran military targets amid fears of a wider war")
-
-1 hours ago
-
-[U.S. approves potential $2 billion arms sale to Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/taiwan-us-weapons-sales/ "U.S. approves potential $2 billion arms sale to Taiwan")
-
-1 hours ago
-
-[Candidates enter final day of campaigning in tight Japan election](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "Candidates enter final day of campaigning in tight Japan election")
-
-1 hours ago
-
-[Fearing China's hypersonic weapons, U.S. Navy seeks to arm ships with Patriot missiles](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-navy-patriots-china-hypersonic-missiles/ "Fearing China's hypersonic weapons, U.S. Navy seeks to arm ships with Patriot missiles")
+[NATO invites Japan, three others to ambassador-level meeting on North Korea](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-nato-north-korea-russia/ "NATO invites Japan, three others to ambassador-level meeting on North Korea")
 
 2 hours ago
+
+[As U.S. election looms, Biden aides struggle with Middle East wars](https://www.japantimes.co.jp/news/2024/10/26/world/politics/us-middle-east-wars-election/ "As U.S. election looms, Biden aides struggle with Middle East wars")
+
+3 hours ago
+
+[In Guatemala, families mourn the migrants who never reached the U.S.](https://www.japantimes.co.jp/news/2024/10/26/world/society/guatemala-family-mourn-us-crossing/ "In Guatemala, families mourn the migrants who never reached the U.S.")
+
+4 hours ago
+
+[U.S. missile agency scales back Guam defense plans](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-missile-agency-guam-defense/ "U.S. missile agency scales back Guam defense plans")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
