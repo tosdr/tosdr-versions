@@ -31,1103 +31,920 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética
-==========================================================================
+¿En Europa se paga un precio justo por el banano? 
+==================================================
 
-Petro destacó que estos problemas se agravan por factores externos como la sequía en Ecuador y el bloqueo en Cuba.
-------------------------------------------------------------------------------------------------------------------
+Principales productores denuncian que en los supermercados europeos hay una guerra de descuentos del banano.
+------------------------------------------------------------------------------------------------------------
 
-![Gustavo Petro en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/gustavo-petro-efe.jpg)
+![Imagen sobre industria bananera.](https://www.elcomercio.com/wp-content/uploads/2024/10/banano-captura.jpg)
 
-El presidente [Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html") muestra apoyo a **Ecuador y Cuba** por sus crisis energéticas. Llama a la solidaridad de los pueblos de **América Latina** y al desarrollo de energías renovables.
+Europa es uno de los **mayores consumidores** de [banano](https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html "https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html") del mundo, con un promedio de **14 kilos por persona al año**, y su **mayor proveedor** es **Latinoamérica**. Los principales productores denuncian que en los **supermercados europeos** hay una **guerra de descuentos** que no respeta el precio justo del producto.
 
 ### Más noticias
 
-* [Gustavo Petro habla del inicio de un golpe de Estado por parte del CNE de Colombia](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "Gustavo Petro habla del inicio de un golpe de Estado por parte del CNE de Colombia")
-* [Petro dice que investigación contra su campaña de 2022 viola fuero presidencial](https://www.elcomercio.com/actualidad/mundo/petro-dice-investigacion-contra-campana-viola-presidencial.html "Petro dice que investigación contra su campaña de 2022 viola fuero presidencial")
-* [Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’](https://www.elcomercio.com/actualidad/mundo/petro-critica-en-onu-a-presidente-argentino-javier-milei-y-su-viva-la-libertad-carajo.html "Petro critica en ONU a presidente argentino, Javier Milei, y su ‘Viva la libertad, carajo’")
+* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
+* [El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador](https://www.elcomercio.com/actualidad/ecuador/geofisico-mejora-lupa-observar-cuatro-volcanes-ecuador.html "El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador")
+* [Plaga del moko ataca plantaciones bananeras del Ecuador; conozca las hectáreas afectadas](https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html "https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html")
 
-El presidente de Colombia, Gustavo Petro, manifestó su **apoyo y solidaridad hacia Ecuador y Cuba** debido a las crisis energéticas que ambos países enfrentan. En sus declaraciones, Petro destacó que estos **problemas se agravan** por **factores externos** como la **sequía en Ecuador** y el bloqueo en Cuba, situaciones que están afectando gravemente la vida cotidiana de sus habitantes.
+Lo venden por debajo de su **valor r**eal, aseguran, sin que eso refleje sus **esfuerzos por cumplir normativas,** lograr certificaciones y pagar salarios dignos.
 
-Crisis enerética y solidaridad latinoamericana
-----------------------------------------------
+Recientemente, la **Fuerza de Tarea Conjunta de Latinoamérica,** que integran los gremios exportadores de banano de **Colombia, Costa Rica, Ecuador, Guatemala, Perú y República Dominicana**, denunció que la cadena de supermercados alemana Lidl vendía banano de origen latinoamericano a **0,89 euros por kilo**, casi un euro por debajo de sus competidores.
 
-La **situación energética en Ecuador y Cuba** generó un **fuerte impacto en la región.** En Ecuador, el Ministerio de Energía anunció un aumento en el **racionamiento eléctrico**, alcanzando hasta 14 horas diarias sin suministro.
+Supermercados europeos
+----------------------
 
-Situación en Cuba
------------------
+Otros supermercados europeos también lo venden actualmente a **0,99 euros por kilo**, con una rebaja del 32 % respecto a su precio habitual de 1,47 euros por kilo.
 
-Por su parte, Cuba **enfrenta una ola de apagones** que afecta a aproximadamente 10 millones de personas. Ante este panorama, Petro subrayó la **urgencia de apoyo mutuo entre naciones.** “La sequía en Ecuador es inclemente y el bloqueo en Cuba es crítico para la vida humana”, afirmó el presidente colombiano, citado por Diario La República de Colombi
+Para José Antonio Hidalgo, director ejecutivo de la Asociación de Exportadores de Banano del Ecuador (AEBE), el **primer exportador mundial** de este fruto, este tipo de **ofertas no reflejan los esfuerzos** de la industria para llevar un producto de calidad a Europa que cumpla con todas las regulaciones.
 
-En este contexto, Petro instó a los **países latinoamericanos** a colaborar con **Ecuador y Cuba** en el desarrollo de fuentes de energía sostenible, como **la solar y la eólica.** “Es hora de que todos los pueblos hermanos de **América Latina nos solidaricemos**“, señaló el mandatario, quien también fue citado por Diario La República de Colombia. Este llamado refleja la visión d**e Petro de avanzar** hacia un cambio en el modelo energético que permita una mayor independencia energética y sustentabilidad.
+“Nos genera mucha preocupación, porque nuestro banano perdió un **20 % de su valor** en los últimos quince años”, advirtió Hidalgo.
 
-Según Diario La República de Colombia, Petro enfatizó la necesidad de **fortalecer la infraestructura** de energías renovables en la región, particularmente en naciones afectadas por crisis energéticas.
+“Esa estrategia, al final del día no es sostenible porque nunca vas a terminar un círculo vicioso de precios bajos”, señaló el representante de AEBE al apuntar que **así no se podrá mejorar las condiciones** de la cadena valor del banano.
 
-Dragonas Independiente manejan un millonario presupuesto
-========================================================
+Comercio justo como referencia
+------------------------------
 
-Dragonas Independiente son el mejor equipo de Ecuador en el 2024 y el cuarto del continente.
+Hidalgo abogó por involucrar las **autoridades europeas, las certificadoras y los supermercados,** para que el consumidor entienda que las nuevas reglamentaciones y exigencias de la Unión Europea (UE), como la **Ley de Debida Diligencia, el Pacto Verde y la estrategia** ‘De la granja a la mesa’, tienen un coste. “No podemos tener un pacto verde con números rojos”, sentenció.
+
+“Soy consciente de que el consumidor europeo lo va a entender si se le explica bien que tiene que pagar un poco más **para generar una sostenibilidad** en toda la cadena”, apuntó Hidalgo durante la celebración del vigésimo primera edición del ‘Banana Time’. Se trata de la mayor **convención internacional** de la industria bananera, que AEBE organiza anualmente en Guayaquil (Ecuador).
+
+El director ejecutivo de AEBE señaló que “la **referencia para la negociación en Europa** a nivel de los supermercados tiene que ser la metodología de comercio justo o ‘fair trade'”, que calcula la estructura de los costes de producción en cada país.
+
+En Ecuador, el precio mínimo fijado a nivel nacional para la caja de **18,14 kilos es de 6,85 dólares** y está previsto que sea de 7,25 dólares en 2025.
+
+La metodología ‘fair trade’ fue incorporada por la cadena de supermercados alemana Aldi y la británica Sainsbury’s, “pero más ‘retailers’ tienen que sumarse, y hasta ahora no hemos visto una señal de esa verdadera intención de tener una responsabilidad compartida en la cadena”, lamentó Hidalgo.
+
+En el caso de Sainsbury’s, esta semana vende bananas con certificación de comercio a justo a 1,25 libras (1,49 euros o 1,62 dólares) por ocho unidades y media docena de unidades de producción orgánica a 1,80 libras (2,15 euros o 2,33 dólares), comprobó Efe.
+
+Banano con salarios dignos
+--------------------------
+
+Hidalgo enfatizó que el **banano ecuatoriano** cumple con todos los **requerimientos, normativas y derechos laborales,** al contar con 11 sellos y pasar cada productor por 29 días al año de auditorías.
+
+Detalló que el salario promedio es de **562,50 dólares,** por encima de los 483 dólares que calculó la Coalición de Salarios Dignos en torno al manejo de la **Ley de Debida Diligencia de la UE.**
+
+“Somos un país que tiene un banano que va con salario digno a la UE. Estamos en pleno cumplimiento”, enfatizó Hidalgo, al anotar que el **55 % de la estructura de coste** de una caja de banano es mano de obra.
+
+Con más de 3.500 millones de dólares en exportaciones en 2023, la UE y Rusia concentran más de la mitad de las **exportaciones de banano ecuatoriano**, por lo que ocurra en esos mercados impacta en la economía de Ecuador.
+
+“Somos los que tenemos mayor impacto social, porque a diferencia de los demás países que producen banano, nosotros tenemos **5 400 productores**, de los que cerca de **3 400 son pequeños**, son economías familiares a los que cualquier cambio afecta a su economía y familia”, concluyó Hidalgo. 
+
+Kendry Páez regresó a la titularidad en Independiente del Valle
+===============================================================
+
+Páez regresó al once titular con Independiente del Valle, brindando una destacada actuación.
 --------------------------------------------------------------------------------------------
 
-![Jugadoras de Dragonas Independiente en la Superliga Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_presupuesto_1.jpg)
+![Kendry Páez en un partido con Independiente del Valle en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-23.jpg)
 
-**Dragonas Independiente** son el mejor equipo de Ecuador del fútbol femenino en el 2024 y el cuarto mejor de la Copa Libertadores, con lo que consolidan su proyecto para los años venideros.
+Después de cinco partidos como suplente, y sin jugar en los últimos dos, **Kendry Páez** volvió a la titularidad con Independiente del Valle este viernes 25 de octubre en la jornada 11 de la Liga Pro.
 
-En la Superliga Femenina, **Dragonas Independiente, con el colombiano Gustavo Pineda como DT, se coronaron como las merecidas campeonas** y demostraron estar en un nivel superior a sus rivales a lo largo de todo el año de competencia.
+El joven talento fue parte fundamental en la **victoria de los ‘Rayados’ por 2-0** sobre Deportivo Cuenca, disputando un total de 87 minutos, la mayor cantidad de tiempo que ha tenido en cancha desde que comenzó el segundo semestre de la temporada.
 
 ### Más noticias:
 
-* [Damián ‘Kitu’ Díaz inicia su rehabilitación en Banfield](https://www.elcomercio.com/deportes/damian-kitu-diaz-rehabilitacion-banfield-lesion.html "Damián ‘Kitu’ Díaz inicia su rehabilitación en Banfield")
 * [Kendry Páez nuevamente es tendencia en Ecuador](https://www.elcomercio.com/deportes/futbol/kendry-paez-indor-futbol-tendencia.html "Kendry Páez nuevamente es tendencia en Ecuador")
-* [Chelsea vence sin Moisés Caicedo en Conference League](https://www.elcomercio.com/deportes/chelsea-moises-caicedo-conference-panathinaikos.html "Chelsea vence sin Moisés Caicedo en Conference League")
+* [Kendry Páez sumó su segundo partido en la banca de suplentes](https://www.elcomercio.com/deportes/futbol/kendry-paez-sumo-su-segundo-partido-en-la-banca-de-suplentes.html "Kendry Páez sumó su segundo partido en la banca de suplentes")
+* [Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista](https://www.elcomercio.com/deportes/futbol/kendry-paez-entre-los-mejores-talentos-generacionales-segun-prestigiosa-revista.html "Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista")
 
-En el grupo B ganaron los 12 partidos que disputaron y completaron 36 puntos ante **Ñañas, Universidad Católica, ESPUCE**, Deportivo Ibarra, Ñusta y Toreros. Anotaron 49 goles y tan solo recibieron siete para un gol diferencia positivo de +42.
+Páez mostró intensidad en el juego, presionando y provocando errores en el rival. Su rendimiento le valió una **calificación de 7.5** en Sofa Score, el tercer puntaje más alto del equipo.
 
-En esa primera etapa, Liga de Quito se le acercó con 35 puntos, que ganó nueve partidos, empató dos y perdió uno.
+En cifras, Kendry tuvo un 93% de acierto en sus pases, realizó dos pases clave, ganó el 100% de sus duelos y se **mantuvo activo en defensa**, con un despeje, una intercepción y dos entradas.
 
-En uno de los cuadrangulares conformó el grupo B. En seis encuentros ganaron cuatro y empataron dos. Se enfrentaron a **Barcelona Sporting Club, Leones del Norte y ESPUCE**. Anotaron 13 tantos y recibieron cinco para un gol diferencia positivo de +8.
+Kendry Páez perdió protagonismo en Independiente del Valle
+----------------------------------------------------------
 
-En las semifinales aplastaron a Liga de Quito con un marcador global de 7-1, con lo que certificaron su condición de favoritas.
+En el primer semestre de la temporada, Páez **acumuló 1,370 minutos entre la Liga Pro y la Copa Libertadores**, siendo titular en 16 de los 21 partidos. Ingresó desde el banco solo tres veces y estuvo ausente en dos encuentros debido a convocatorias con la selección ecuatoriana.
 
-En las finales se impusieron **5-1 en el global contra Barcelona SC**, con lo que levantaron el primer trofeo de la Superliga Femenina de forma invicta.
+Durante ese tiempo, el **mediocampista creativo sumó cinco goles y cinco asistencias**, logrando una participación en gol cada 137 minutos. Fue un rendimiento notable para un jugador que no era la principal figura ofensiva de Independiente del Valle.
 
-En su plantel contaron con **Nayely Bolaños, la goleadora con 21 goles**, con lo que destronó a Madelen Riera, de BSC, que había ostentado este sitial desde 2019, año de la puesta en marcha de la Superliga Femenina.
+Sin embargo, en el segundo semestre, su protagonismo se redujo. Aunque ha estado presente en 13 de los 15 partidos posibles, ha sumado solo 630 minutos entre la **Liga Pro, Copa Ecuador y Sudamericana**. De esos 13 partidos, inició como titular en solo siete y no completó ninguno.
 
-![Gustavo Pineda, entrenador de Dragonas Independiente.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_presupuesto_2-1024x683.jpg)
+A nivel de estadísticas, **Kendry tiene dos goles** en la segunda etapa de la Liga Pro, lo cual resalta la disminución en su impacto en el equipo.
 
-Gustavo Pineda, entrenador de Dragonas Independiente.
+Conozca el funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz
+=========================================================================================
 
-El presupuesto de Dragonas
---------------------------
+El Metro de Quito, el Trolebús y la Ecovía tienen sus directrices de funcionamiento en los cortes de luz.
+---------------------------------------------------------------------------------------------------------
 
-El proyecto de **Dragonas Independiente no solo está centrado en el equipo principal**, sino que también tienen una infraestructura que pone un énfasis especial en el reclutamiento y formación de jóvenes talentos.
+![Los cortes de luz y el funcionamiento del Metro de Quito, Trolebús y Ecovía.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-metro-quito-trolebus-ecovia.jpg)
 
-Una muestra de ello es que **11 de las 21 convocadas por Eduardo Moscoso**, entrenador de la Selección de Ecuador Femenina para el Mundial sub-17 en República Dominicana, son parte del equipo que está clasificado para los cuartos de final.
+Los **cortes de luz** afectan varias actividades en **Quito**, pero el funcionamiento del **Metro**, **Trolebus y Ecovía** tienen un tratamiento diferente.
 
-Entre ese grupo de jugadoras se **destacan la capitana Fiorella Pico y la delantera Mary Guerra**, que son campeonas de la Superliga Femenina en 2024.
+Los servicios de **transporte** interconectado de Quito movilizan a miles de pasajeros a diario en la capital.
 
-En la Selección absoluta aportan con seis de las 26 citadas para la doble fecha de amistosos ante Chile.
+### Más noticias:
 
-Una de los aspectos para sostener todo proyecto deportivo es el económico. En ese ítem, se confirmó a EL COMERCIO que el presupuesto anual de las D**ragonas es cercano a los 500 000 dólares**, muy superior al que maneja BSC que, por ejemplo, en el 2023 bordeó los 220 000.
+* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
+* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
 
-Sin revelar cifras, se indicó que la delantera Nayely Bolaños, **la mediocampista Mayerli Rodríguez** y la defensora Analiz Zambrano, todas ecuatorianas, son las mejor valoradas de todo el plantel.
+Funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz
+------------------------------------------------------------------------------
 
-![Nayely Bolaños.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_presupuesto_3-1024x683.jpg)
+En septiembre, el Trolebus y la Ecovía modificaron sus **horarios** por los cortes de luz.
 
-Nayely Bolaños.
+Debido a los cortes de energía nocturnos en el país, el Trole y la Ecovía modificaron el horario de **cierre del sistema.**
+
+La **Empresa Metropolitana de Transporte de Pasajeros de Quito** informó que el Trolebús y la Ecovía funcionarán hasta las 20:00 de este 18 de septiembre de 2024.
+
+Sin embargo, en esta ocasión, con **cortes de luz de 14 horas** de duración, desde la **Empresa Pública Metropolitana de Pasajeros** se confirmó que no existirían cambios.
+
+Los **horarios habituales** se mantienen para el Trolebús, la Ecovía y los alimentadores.
+
+El servicio se mantiene con normalidad por ser un **sector estratégico.**
+
+En tanto, desde el Metro de Quito, se informó que, al ser un **servicio público prioritario**, se garantiza la continuidad de su operación.
+
+El **Metro de Quito** tiene cuatro subestaciones independientes propias para alimentar el sistema.
+
+En las calles, los operadores del Metro y la Ecovía se enfrentan a los **semáforos apagados**.
+
+La **Agencia Metropolitana de Tránsito (AMT)** informó que, debido a los cortes de energía, su personal es ubica en diferentes intersecciones con semáforos sin conexión.
+
+> 👮🏾[#GestiónAMT](https://twitter.com/hashtag/Gesti%C3%B3nAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Tu bienestar es nuestra prioridad!  
+> 🔌 Debido a los cortes de energía dispuestos por el Gobierno Nacional, 🚔 nos encontramos en diferentes intersecciones con semáforos sin conexión gestionando el tránsito para que llegues a salvo a tu destino.  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bjlsBlhBoP](https://t.co/bjlsBlhBoP)
+> 
+> — AMTQuito (@AMT\_Quito) [October 25, 2024](https://twitter.com/AMT_Quito/status/1849785858200662250?ref_src=twsrc%5Etfw)
+
+Encuestas de CNN y New York Times arrojan un empate ajustado entre Trump y Harris
+=================================================================================
+
+El sondeo del NYT sí detectó una leve tendencia de cambio en favor de Trump en las últimas dos semanas.
+-------------------------------------------------------------------------------------------------------
+
+![Combo de fotografías de archivo que muestra a la vicepresidenta de EE.UU. Kamala Harris (i) y al expresidente Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/10/donald-trump-kamala-harris-efe.jpg)
+
+Dos encuestas publicadas este viernes, 25 de octubre de 2024, por la **cadena de televisión CNN** y por el diario **The New York Times (NYT)** sobre las **preferencias electorales** de los estadounidenses arrojan un **empate técnico** muy ajustado entre los candidatos **Donald Trump** y [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html").
+
+### Más noticias
+
+* [Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’](https://www.elcomercio.com/actualidad/mundo/donald-trump-alaba-privado-nicolas-maduro-fuerte.html "Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’")
+* [Kamala Harris dará un mitin electoral en la Explanada Nacional de Washington](https://www.elcomercio.com/actualidad/mundo/kamala-harris-simbolico-mitin-electoral-explanada-nacional-washington.html "Kamala Harris dará un mitin electoral en la Explanada Nacional de Washington")
+* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "Kamala Harris considera que Donald Trump ‘es un fascista’")
+
+Encuesta Nacional publica CNN
+-----------------------------
+
+La encuesta nacional que publica CNN la realizó la empresa SSRS entre el 20 y el 23 de octubre, con una muestra de 1704 votantes, y muestra un 47 % de apoyo tanto para Trump como para Harris. Se trata del **resultado más ajustado** comparado con **encuestas similares** en los pasados meses, en los que uno de los dos candidatos se situaba ligeramente por encima.
+
+La cadena recuerda que, a diferencia de las **otras dos elecciones** en las que se presentó Trump, en 2016 y 2020, cuando su rival en cada caso le sacaba **varios puntos en los sondeos**, en esta ocasión la diferencia con su contrincante es insignificante.
+
+CNN destaca que, en unos comicios especialmente turbulentos, los sondeos demostraron una gran estabilidad, así como un **porcentaje muy alto de votantes decididos** desde el principio de la campaña (85 %) frente al 15 % que han cambiado de parecer. Del total, un **11 % se declaran aún indecisos o abiertos** a cambiar de parecer.
+
+Apoyos a Harris y Donald Trump
+------------------------------
+
+En cuanto a la del NYT, realzada por el Siena College, da a **Harris un 49 % de apoyos** frente al **48 % de Trump** a nivel nacional; en un despiece sobre los **estados pendulares**, cuatro son liderados por Harris y tres por Trump, en ambos casos por solo un punto de diferencia, insignificante teniendo en cuenta el margen de error.
+
+Sondeo en estados
+-----------------
+
+Hay otros estados donde la ventaja ya es mucho más clara, pero están repartidos: Harris lleva seis puntos por delante o más en **Minnesota, New Hampshire o Virginia; Trump, la misma ventaja en Texas, Florida y Ohio.**
+
+Este sondeo resalta que si no se detectasen cambios desde hoy hasta el 5 de noviembre, Harris podría lograr **276 votos electorales (siendo 270 la mayoría)** frente a los 262 de Trump. La diferencia es tan corta que esas cifras podrían revertirse si la **encuesta está subestimando** los apoyos del expresidente o si algunos de sus partidarios están ocultando su intención de voto, dos hechos que se detectaron en anteriores comicios.
+
+El sondeo del NYT sí detectó una **leve tendencia** de cambio en favor de Trump en las últimas dos semanas, tanto a escala nacional como en los **siete estados bisagra**, con la única excepción de Michigan.
+
+Independiente del Valle ganó y lidera la Liga Pro
+=================================================
+
+Independiente del Valle fue el ganador de la primera fase de la Liga Pro y se clasificó para las finales.
+---------------------------------------------------------------------------------------------------------
+
+![Michael Hoyos (c) en el estadio Alejandro Serrano Aguilar en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/idv_dc_1.jpg)
+
+**Independiente del Valle**, provisionalmente, es el nuevo líder de la segunda etapa de la Liga Pro, tras ganarle por 0-2 al Deportivo Cuenca en el estadio Alejandro Serrano Aguilar.
+
+La tarde de este **viernes 25 de octubre de 2024 el Deportivo Cuenca** recibió a Independiente del Valle en la apertura de la fecha 11 de la segunda etapa, con un número más que aceptable en las gradas de este estadio.
+
+### Más noticias:
+
+* [Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas](https://www.elcomercio.com/deportes/futbol/daniel-noboa-impulsa-proyecto-de-ley-para-transformar-a-los-clubes-en-sociedades-anonimas.html "Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas")
+* [José Pileggi se plantea renunciar a la presidencia de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-se-plantea-renunciar-a-la-presidencia-de-emelec.html "José Pileggi se plantea renunciar a la presidencia de Emelec")
+* [El Corinthians de Félix Torres igualó en semifinales de Sudamericana](https://www.elcomercio.com/deportes/futbol/corinthians-de-felix-torres-igualo-racing-semifinales-de-sudamericana.html "El Corinthians de Félix Torres igualó en semifinales de Sudamericana")
+
+El colombiano **Jeison Medina (21′) y el argentino Cristian Zabala (99+4′)** fueron los autores de los dos goles de los del Valle, con los que plasmó en el marcador la efectividad para vencer la resistencia de Hamilton Piedra.
+
+Medina completó los 17 goles en la tabla de goleadores y se consolida como el segundo de este ítem en lo que va de la actual temporada, tres menos que el paraguayo Alex Arce, que con Liga de Quito tiene que enfrentar a Mushuc Runa en el Rodrigo Paz Delgado.
+
+El colombiano llegó a su sexto gol con IDV. Antes le anotó a Emelec (2), Imbabura (2) y Universidad Católica (1). Los 11 restantes tantos los hizo con Aucas en la primera etapa.
+
+Para el defensor **Zabala fue el segundo tanto en el año**. Antes le hizo uno a LDU en el estadio de IDV.
+
+Independiente toma el liderato
+------------------------------
+
+Independiente del Valle completó los 23 puntos y es líder. Su campana se resume en **siete victorias, dos empates y dos derrotas**. Anotó 23 goles y recibió 12 para un gol diferencias positivo de +11.
+
+Liga, con un partido menos, es segunda con 22 unidades, fruto de siete triunfos, un empate y dos derrotas. **Anotó 20 goles y recibió 10** para un gol diferencias positivo de +10.
+
+El Cuenca cayó a la **casilla 13 y se mantiene con 9 unidades**. En las 11 fechas ganó tres, empató tres y perdió cinco. Anotó ocho tantos y recibió 16 para un gol diferencia negativo de -8.
+
+En la fecha 12, **Independiente recibirá a El Nacional, desde las 15:00**, del domingo 3 de noviembre, mientras que Deportivo Cuenca, un día antes, visitará a Cumbayá, desde las 14:00, en el Olímpico Atahualpa.
+
+Tabla de posiciones – fecha 11
+------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-6-819x1024.jpg)
 
 No te pierdas – El Confesionario
 --------------------------------
 
-La Liga Pro modifica horarios de fecha 11 por cortes de luz
-===========================================================
+Hospitlizado uno de los astronautas de la NASA que amerizó en Florida
+=====================================================================
 
-La Liga Pro modificó nuevamente los horarios de los partidos de la fecha 11 debido a la extensión de cortes de luz en el país.
-------------------------------------------------------------------------------------------------------------------------------
+Los cuatro astronautas reliazaron nuevas investigaciones científicas para avanzar en la exploración humana más allá de la órbita baja.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Lisandro Alzugaray (centro) celebra un gol con sus compañeros de Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241019133224-fbl-liga-pro-tecnico-liga-1-scaled.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/nasa-ameriza-efe.jpg)
 
-A raíz de los cortes de luz en Ecuador, la **Liga Pro** había manifestado que modificaría los horarios de sus partidos. Pese a que la agenda de los cotejos ya estaba pactada para la **fecha 11**, la extensión de racionamientos eléctricos motivó nuevos cambios.
+Uno de los **cuatro tripulantes** de la octava misión espacial comercial de la NASA y SpaceX que amerizó este viernes, 25 de octubre de 2024, en **Pensacola (Florida)** tras permanecer cerca de **ocho meses** en la **Estación Espacial Internacional** fue hospitalizado, informó la agencia espacial estadounidense.
 
-La noche del jueves 24 de octubre del 2024, **Inés Manzano**, ministra de energía, señaló que los cortes de luz en el país se extenderían de ocho a 14 horas. Al siguiente día, el 25 de octubre, la institución que administra el campeonato ecuatoriano dio a conocer la reprogramación.
+### Más noticias
+
+* [NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter](https://www.elcomercio.com/actualidad/mundo/nasa-lanza-nave-clipper-en-busca-de-rastros-de-vida-en-luna-de-jupiter.html "NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter")
+* [Primeras candidatas a estrellas fallidas, fuera de la Vía Láctea](https://www.elcomercio.com/tendencias/ciencia/primeras-candidatas-estrellas-fallidas.html "Primeras candidatas a estrellas fallidas, fuera de la Vía Láctea")
+* [La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad](https://www.elcomercio.com/tecnologia/nasa-envio-carta-agradecimiento-hacker-vulnerar-sistemas-seguridad.html "La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad")
+
+Por cuestiones de confidencialidad, la NASA **no reveló ni el nombre del hospitalizado** ni su condición de salud, pero se trata de uno de los estadounidenses.
+
+Los astronautas de la NASA **Matthew Dominick, Michael Barratt y Jeanette Epps,** y el cosmonauta de Roscosmos Alexander Grebenkin, llegaron esta madrugada a la Tierra tras partir el miércoles pasado desde la estación orbital.
+
+Astronauta en centro hospitalario
+---------------------------------
+
+Uno de los astronautas permanece en el **centro hospitalario Ascension Sacred Heart de Pensacola,** mientras que los otros tripulantes viajaron al Centro Espacial Johnson de la NASA en Houston (Texas).
+
+“Después de aterrizar de manera segura en la Tierra como parte de la misión SpaceX Crew-8 de la NASA el viernes, un astronauta de la NASA experimentó un **problema médico**“, señaló la agencia en un comunicado.
+
+Según la NASA, los viajeros estuvieron en total **232 días a bordo de la EEI tras despegar el pasado 3 de marzo en un cohete Falcon 9 de SpaceX** desde el Centro Espacial Kennedy de la NASA, en Florida.
+
+La misión SpaceX Crew-8 amerizó hoy con éxito a las 7:29 GMT y los equipos de recuperación aseguraron rápidamente la **nave espacial tras caer en el mar** y ayudaron a los astronautas en la salida.
+
+Durante la misión, los miembros de la tripulación viajaron casi 160 millones de kilómetros y completaron 3 760 órbitas alrededor de la Tierra.
+
+Investigaciones científicas
+---------------------------
+
+Los cuatro llevaron a cabo **nuevas investigaciones científicas** para avanzar en la exploración humana más allá de la órbita baja terrestre y beneficiar la vida humana en la Tierra.
+
+Entre ellas, con **células madre** para desarrollar modelos organoides para estudiar enfermedades degenerativas. Además, explorar cómo la **temperatura del combustible** afecta la inflamabilidad del material y estudiar cómo los vuelos espaciales afectan la función inmunológica de los astronautas.
+
+Estos vuelos comerciales se iniciaron en 2020 y permitieron a Estados Unidos volver a **enviar astronautas** desde suelo estadounidense tras la cancelación en 2011 del programa de transbordadores espaciales.
+
+Desde el último vuelo del transbordador Atlantis a la órbita terrestre en 2011, la NASA se vió obligada a utilizar únicamente los **sistemas de lanzamiento rusos** como el Soyuz para poner en órbita a sus astronautas. 
+
+TCE decidió sobre los candidatos a asambleístas nacionales de Construye
+=======================================================================
+
+La decisión del TCE sobre los candidatos a asambleístas nacionales de Construye fue tomada por unanimidad.
+----------------------------------------------------------------------------------------------------------
+
+![El TCE decidió sobre los candidatos a asambleístas nacionales de Construye.](https://www.elcomercio.com/wp-content/uploads/2024/10/tce-candidatos-asambleistas-construye-1.jpg)
+
+El **Tribunal Contencioso Electoral (TCE)** decidió sobre los **candidatos a asambleístas** nacionales del movimiento **Construye**, este viernes 25 de octubre de 2024.
 
 ### Más noticias:
 
-* [Manta asciende a la Liga Pro Serie A con goleada](https://www.elcomercio.com/deportes/futbol/serie-b-manta-ascenso-ecuador.html "Manta asciende a la Liga Pro Serie A con goleada")
-* [Barcelona SC es líder de la Liga Pro, pero en multas](https://www.elcomercio.com/deportes/futbol/barcelonasc-es-lider-liga-pro-pero-en-multas.html "Barcelona SC es líder de la Liga Pro, pero en multas")
-* [Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último](https://www.elcomercio.com/deportes/aucas-liga-pro-macara-partido.html "Aucas consiguió su segunda victoria en la etapa de Liga Pro y ya no es último")
+* [TCE tomó decisión sobre candidatos de Avanza, Pachakutik y Democracia Sí](https://www.elcomercio.com/actualidad/politica/tce-tomo-decision-candidatos-avanza-pachakutik-democracia-si.html "TCE tomó decisión sobre candidatos de Avanza, Pachakutik y Democracia Sí")
+* [Se aplaza de audiencia de Verónica Abad en el TCE](https://www.elcomercio.com/actualidad/politica/veronica-abad-logra-aplazamiento-audiencia-tce.html "Se aplaza de audiencia de Verónica Abad en el TCE")
 
-En virtud de las decisiones de las autoridades, ningún compromiso se extenderá más allá de las 17:15. Las 15:30 es la hora máxima para que arranquen los cotejos del **campeonato nacional**, mientras que los más tempraneros serán desde las 10:30.
+TCE tomó una decisión sobre los candidatos a asambleístas nacionales de Construye
+---------------------------------------------------------------------------------
 
-Los choques se llevarán a cabo desde este **viernes 25 de octubre del 2024** y se cerrarán el lunes 28 de octubre. En los días mencionados habrá solo un partido y el sábado y el domingo se celebrarán tres en cada día.
+Días atrás, el **Consejo Nacional Electoral (CNE)** no calificó estas candidaturas por no cumplir los requisitos dispuestos en el **Código de la Democracia**.
 
-Horarios reprogramados de la fecha 11 de Liga Pro
--------------------------------------------------
+El CNE advirtió que, en ciertos casos, los candidatos del **movimiento Construye** no incluyeron las **declaraciones juramentadas**, ni los **planes de trabajo** en sus postulaciones.
 
-**Viernes 25 de octubre del 2024**
+Por estas razones, el CNE decidió **negar** la inscripción de los candidatos de Construye. 
 
-**Partido**: Deportivo Cuenca vs. Independiente del Valle
+Construye **apeló** ante el TCE la decisión del CNE por considerar que se atentaron algunos derechos.
 
-**Hora**: 15:00
+Sin embargo, esta tarde, el Pleno del TCE no aceptó el recurso de apelación presentado por **Iván González**, representante de Construye.
 
-**Estadio**: Alejandro Serrano Aguilar
+Los **jueces electorales** ratificaron la negación de la calificación de las candidaturas a asambleístas nacionales de Construye.
 
-**Sábado 26 de octubre del 2024**
+La resolución del TCE sobre los candidatos a asambleístas nacionales del movimiento Construye es de **última instancia** y se dio por **unanimidad**.
 
-**Partido**: Libertad vs. Aucas
+Antes, el TCE negó la inscripción de candidaturas para asambleístas naciones de otras **tres organizaciones** políticas.
 
-**Hora**: 10:30
+**Avanza, Pachakutik y Democracia Sí** son las organizaciones que también se quedaron sin candidatos a asambleístas nacionales para las elecciones 2025.
 
-**Estadio**: Reina del Cisne
+La razón en estos tres casos fue, principalmente, la falta de cumplimiento de procesos de democracia interna o **elecciones primarias**.
 
-**Partido**: Universidad Católica vs. Emelec
+El 9 de febrero de 2024, los ecuatorianos eligen **Presidente y Vicepresidente** de la República.
 
-**Hora**: 13:00
+**Asambleístas** nacionales, provinciales y de las circunscripciones del exterior, y parlamentarios andinos.
 
-**Estadio**: Olímpico Atahualpa
+Actualmente, el CNE se encuentra en el proceso de **calificación** de candidaturas, que incluyen procesos de apelación ante el TCE y dictámenes de última instancia.
 
-**Partido**: Liga de Quito vs. Mushuc Runa
+Corinthians de Félix Torres denuncia gestos racistas en Sudamericana
+====================================================================
 
-**Estadio**: Rodrigo Paz Delgado
+El racismo en el fútbol continúa en Sudamérica, sobre todo en los equipos de Brasil.
+------------------------------------------------------------------------------------
 
-**Hora**: 15:30
+![Memphis Depay es compañero de Félix Torres en el Corinthians de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-22.jpg)
 
-**Domingo 27 de octubre del 2024**
+El **Corinthians** del ecuatoriano Félix Torres informó este viernes 25 de octubre sobre **“gestos racistas”** realizados por los hinchas del Racing durante el partido de ida de las semifinales de la Copa Sudamericana. El club brasileño anunció que presentará el caso ante la Conmebol.
 
-**Partido**: Macará vs. Cumbayá
+“Una vez más, en una competición sudamericana, vemos” escenas “absurdas y lamentables” de la afición rival “que perjudican no solo al **Corinthians**, sino a todo el país”, señaló el club brasileño en una nota divulgada en sus redes sociales.
 
-**Estadio**: Bellavista
+### Más noticias:
 
-**Hora**: 10:30
+* [Así van las semifinales de Copa Libertadores y Sudamericana](https://www.elcomercio.com/deportes/futbol/asi-van-las-semifinales-de-copa-libertadores-y-sudamericana.html "Así van las semifinales de Copa Libertadores y Sudamericana")
+* [El Corinthians de Félix Torres igualó en semifinales de Sudamericana](https://www.elcomercio.com/deportes/futbol/corinthians-de-felix-torres-igualo-racing-semifinales-de-sudamericana.html "El Corinthians de Félix Torres igualó en semifinales de Sudamericana")
+* [Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-junior-entre-la-lucha-contra-el-racismo-y-el-balon-de-oro.html "Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro")
 
-**Partido**: El Nacional vs. Orense
+Racismo en la Copa Sudamericana
+-------------------------------
 
-**Estadio**: Olímpico Atahualpa
+El conjunto paulista hizo referencia a un video difundido en Internet. Allí hay un fanático de **Racing** “**haciendo gestos racistas a la hinchada del Corinthians**” este jueves en el estadio Neo Química Arena, en São Paulo.
 
-**Hora**: 13:00
+La escuadra albinegra avisó que “está buscando identificar” al supuesto agresor. Además, se comprometió a “llevar el caso a la Policía, así como a la **Conmebol** (Confederación Sudamericana de Fútbol)”.
 
-**Partido**: Barcelona SC vs. Delfín
+“El **Corinthians**, como ha hecho desde su fundación, no acepta ningún tipo de racismo o discriminación”, subrayó.
 
-**Hora**: 15:30
+Sin ventajas en la ida
+----------------------
 
-**Estadio**: Monumental Isidro Romero
+Corinthians y **Racing Club** empataron 2-2 este jueves en el encuentro de ida de las semifinales de la Copa Sudamericana.
 
-**Lunes 28 de octubre del 2024**
+El próximo jueves volverán a verse las caras en **El Cilindro de Avellaneda** en busca de un billete para la final del torneo.
 
-**Partido**: Imbabura vs. Técnico Universitario
+El técnico del Racing, **Gustavo Costas**, manifestó en la rueda de prensa posterior al partido su preocupación por la “inseguridad” que hay en Brasil para los hinchas de los equipos visitantes, tras el grave episodio con aficionados del Peñarol en Río de Janeiro.
 
-**Estadio**: Olímpico de Ibarra
+Casi 300 aficionados del **Peñarol** fueron detenidos el miércoles pasado tras cometer diversos altercados en los alrededores de una playa de Río, horas antes del partido de ida de semifinales de Copa Libertadores contra **Botafogo**.
 
-**Hora**: 15:00
+Los disturbios obligaron a la **Policía** **brasileña a intervenir** con dureza para devolver la normalidad a la región. 
 
-Por estas razones hubo incendios forestales en Ecuador
-======================================================
+Fiscal Marcelo Vásconez fue asesinado en Manta
+==============================================
 
-La Secretaría General de Riesgos del Ecuador levantó un informe que detalla la razón de los incendios forestales en el país.
-----------------------------------------------------------------------------------------------------------------------------
+El fiscal de Manta, Marcelo Vásconez, fue acribillado al salir de su jornada laboral junto con su guardaespaldas, un custodio de la Policía.
+--------------------------------------------------------------------------------------------------------------------------------------------
 
-![El incendio forestal de Guápulo provocó el cierre de una vía y afectó a varias viviendas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-forestales-Ecuador.jpg)
+![El lugar donde se perpetró el asesinato del fiscal Marcelo Vásconez y su guardaespadas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-8-2.jpg)
 
-**Ecuador** pasa por una época larga de estiaje. La falta de lluvias convierte a la vegetación en combustible y los fuertes vientos propagan las llamas de los **incendios forestales** a gran velocidad[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
+El **fiscal de Manta**, Marcelo Vásconez, fue acribillado al salir de su jornada laboral junto con su **guardaespaldas**, Marco Ismael Moreno, un custodio de la Policía[.](https://es.wikipedia.org/wiki/Fiscal_(funcionario) "https://es.wikipedia.org/wiki/Fiscal_(funcionario)")
+
+### Más noticias
+
+* [Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presenta-imagenes-como-pruebas-caso-metastasis.html "Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis")
+* [Fiscalía presentó peritajes como pruebas en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-peritaje-prueba-caso-metastasis.html "Fiscalía presentó peritajes como pruebas en el caso Metástasis")
+
+Fiscal fue asesinado en Manta
+-----------------------------
+
+El ataque armado ocurrió en los exteriores de la **Fiscalía General del Estado**, hoy viernes 25 de octubre, en la avenida 4 de Noviembre a las 17:00. Su cuerpo fue llevado con vida a una **clínica privada** y luego 50 minutos, su corazón dejó de **palpitar**. Recibió más de 40 tiros. No portaba chaleco antibalas, confirmó la Policía a EL COMERCIO.
+
+> LAMENTAMOS INFORMAR  
+>   
+> Esta tarde se suscitó el asesinato de nuestro compañero [#PoliMarcoIsmaelMorenoQuille](https://twitter.com/hashtag/PoliMarcoIsmaelMorenoQuille?src=hash&ref_src=twsrc%5Etfw), mismo que cumplía la función de custodio del fiscal Marcelo Vásconez, quien también perdió la vida en un ataque armado, en Manta, [#Manabí](https://twitter.com/hashtag/Manab%C3%AD?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Nuestras unidades especializadas… [pic.twitter.com/BdBbfZh1ea](https://t.co/BdBbfZh1ea)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 25, 2024](https://twitter.com/PoliciaEcuador/status/1849957642086608999?ref_src=twsrc%5Etfw)
+
+El fiscal trabajaba 15 años en Manta
+------------------------------------
+
+Vásconez era oriundo de la ciudad de Riobamba y **tenía más de 15 años trabajando en Manta** como agente fiscal. Tenía 45 años, era padre de tres hijos menores de edad y vivía en una urbanización privada de la ciudad.
+
+Sicarios perpetraron el crimen
+------------------------------
+
+El coronel Emerson Luna, jefe del Comando de la Policía de Manta, informó que se han **desplegado varias unidades especializadas** para dar con los atacantes. Evitó dar más detalles de la **investigación** porque el caso se investigará de forma reservada para evitar fuga de información.
+
+Este crimen fue perpetrado por sicarios que usaron fusiles y escaparon en un **auto blanco.** Luego del ataque, el carro fue abandonado y le prendieron fuego en el barrio El Porvenir, ubicado a 5 minutos del lugar del crimen. Aún no hay pista de los responsables.
+
+> 𝗘𝗦𝗧𝗔𝗠𝗢𝗦 𝗗𝗘 𝗟𝗨𝗧𝗢🕊️  
+>   
+> Expresamos nuestro más profundo dolor por la muerte de nuestro compañero [#PoliMarcoIsmaelMorenoQuille](https://twitter.com/hashtag/PoliMarcoIsmaelMorenoQuille?src=hash&ref_src=twsrc%5Etfw), quien fue asesinado mientras cumplía la función de policia de protección del señor fiscal Marcelo Vásconez, en [#Manta](https://twitter.com/hashtag/Manta?src=hash&ref_src=twsrc%5Etfw), siendo emboscados por… [pic.twitter.com/hFAGq5AY26](https://t.co/hFAGq5AY26)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 26, 2024](https://twitter.com/PoliciaEcuador/status/1849965639688941895?ref_src=twsrc%5Etfw)
+
+Las investigaciones del fiscal
+------------------------------
+
+Vásconez investigó el hallazgo de una carga de droga dentro la **Base Aérea de Manta** y el asesinato de su colega, la fiscal Luz Marina Delgado. Por esta muerte hubo tres mujeres sentenciadas a 36 años de cárcel tras recibir un pago de 200 mil dólares, según el juicio.
+
+Además, lideró la investigación del asesinato del alcalde de Manta, **Agustín Intriago**, donde sentenciaron a seis personas a 36 años de cárcel. También lideró la investigación, hace 11 años, de los líderes de la banda **Los Choneros** donde diez de sus cabecillas fueron sentenciados a 25 años de cárcel por el asesinato de Jairon Carreño. También lideró **investigaciones contra varias personas extrajeras** vinculadas al tráfico internacional de drogas, se informó.
+
+Actualmente, Vasconez, investigaba **muertes violentas**, ataques armados, balaceras, sicariatos y bandas internacionales relacionadas con el crimen organizado en Manta. En su despacho tenía procesos de investigación en **contra presuntos sicarios vinculados a los grupos armados Los Lobos, Los Pepes y Los Choneros, t**res bandas que operan en Manta y que han desatado una guerra por liderar los envío de droga al extranjero, según la Policía.
+
+Matan a un exalcalde del sur de México a menos de un mes de abandonar el cargo
+==============================================================================
+
+Los agresores mataron a balazos al político del Movimiento Regeneración Nacional (Morena) dentro de su camioneta junto con su chofer.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial sobre el hecho.](https://www.elcomercio.com/wp-content/uploads/2024/10/pistola-pexels.jpg)
+
+Desconocidos asesinaron a balazos al **exalcalde oficialista Aurelio Méndez Rosales**, de Huamuxtitlán, municipio del sureño estado de Guerrero, a menos de un mes de abandonar el cargo.
+
+### Más noticias
+
+* [¿Por qué México llora a Fernando ‘Toro’ Valenzuela?](https://www.elcomercio.com/deportes/futbol/mexico-llora-fernando-toro-valenzuela-sanchez-chavez.html "¿Por qué México llora a Fernando ‘Toro’ Valenzuela?")
+* [Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas](https://www.elcomercio.com/actualidad/mundo/sheinbaum-insistira-demanda-mexico-contra-ecuador-salvoconducto-glas.html "Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas")
+* [Ciudad de México recibirá a siete millones de personas por Día de Muertos](https://www.elcomercio.com/actualidad/mundo/ciudad-mexico-preve-7-millones-personas-100-millones-dolares-dia-muertos.html "Ciudad de México recibirá a siete millones de personas por Día de Muertos")
+
+Los agresores mataron a balazos al político del **Movimiento Regeneración Nacional (Morena)** dentro de su camioneta junto con su chofer, identificado como **Cristo,** según confirmó este viernes la Fiscalía General del Estado.
+
+Habitantes del municipio de la región de la Montaña de Guerrero señalaron que a las 14:00 del jueves ocurrió una **balacera en la cabecera municipal**, donde minutos más tarde reportaron la desaparición del exalcalde, quien dejó el cargo el 30 de septiembre.
+
+Al lugar acudieron **policías ministeriales** que confirmaron a través de un comunicado el doble homicidio, pues los dos cuerpos estaban en su interior, con impactos de arma de fuego, por lo que ninguna persona estaba secuestrada.
+
+Mientras que el actual presidente municipal, Daniel Méndez, del opositor partido Movimiento Ciudadano (MC), solicitó la presencia y apoyo de policías del Estado. También se refirió a los militares para que brinden mayor **seguridad a los habitantes**, pues semanas antes ocurrieron otros hechos violentos en municipios aledaños de la Montaña.
+
+La Fiscalía General del Estado anunció la apertura de una carpeta de investigación por el **delito de homicidio calificado**, por lo que busca a los presuntos culpables.
+
+Aurelio Méndez Rosales dejó la administración municipal hace 25 días y antes de terminar su gestión y de las elecciones del 2 de junio, el pasado 7 de febrero asesinaron a **balazos al promotor comunitario** de la región de la Montaña, Abraham Ramírez, padre de la candidata de Morena en ese municipio, Rosalba Ramírez.
+
+Guerrero y la violencia
+-----------------------
+
+Guerrero vive una ola de violencia del **crimen organizado** que también alcanza a los políticos, pues apenas el 6 de octubre decapitaron al **opositor Alejandro Arcos,** alcalde de Chilpancingo, capital del estado, en un hecho que aún no termina de esclarecerse.
+
+Estos hechos muestran que los homicidios de políticos no terminaron tras las consideradas elecciones más violentas de México, las del pasado 2 de junio, con más de **30 aspirantes asesinados**, según organizaciones civiles, aunque el Gobierno mexicano solo reconoció el asesinato de 12 candidatos.
+
+Asesinato al gobernador de Sinaloa 
+-----------------------------------
+
+ La presidenta de México, **Claudia Sheinbaum**, argumentó este lunes, 21 de octubre de 2024, que corresponde a la Fiscalía General de la República (FGR) investigar al **gobernador de Sinaloa, Rubén Rocha Moya**. Esto ante la polémica que desató la captura de los capos Ismael ‘El Mayo’ Zambada y Joaquín Guzmán López.
+
+La mandataria respondió a **cuestionamientos de la prensa** sobre la revelación de la FGR, que aseveró que el diputado electo Héctor Cuén murió asesinado el 25 de julio en una finca en la que presuntamente se reuniría con Zambada y Guzmán López el mismo día en el que arrestaron a ambos líderes del Cártel de Sinaloa en Estados Unidos.
+
+Asesinato al padre Marcelo Pérez Pérez
+--------------------------------------
+
+La presidenta de México, Claudia Sheinbaum, negó el martes, 22 de octubre de 2024, que exista un ambiente de **“guerra civil” en Chiapas,** estado de la frontera sur del país. Esto pese a las denuncias de habitantes indígenas por los asesinatos de defensores de la tierra y pueblos originarios, como el padre Marcelo Pérez Pérez.
+
+La mandataria, quien asumió el 1 de octubre, aseveró que su Gobierno “está trabajando” y que ya se investiga el caso de Pérez Pérez, a quien balearon **sujetos desconocidos** en una motocicleta cuando acaba de dar misa en San Cristóbal de Las Casas.  
+
+  
+
+El Nacional paraliza sus entrenamientos por falta de pagos
+==========================================================
+
+Los jugadores de El Nacional anunciaron que no continuarán con sus entrenamientos a raíz de falta de pagos.
+-----------------------------------------------------------------------------------------------------------
+
+![Jorge Ordóñez, delantero de El Nacional, en un partido de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-25T154935.927.jpg)
+
+La mañana de este viernes 25 de octubre del 2024, previo a la undécima fecha de la **Liga Pro**, los jugadores de **El Nacional** tomaron una radical decisión. El equipo de los puros criollos decidió paralizar sus entrenamientos a raíz de falta de pagos.
+
+A pesar de la reciente clasificación del conjunto rojo a las semifinales de la **Copa Ecuador**, la plantilla mostró su disconformidad y difundió un video en el que expuso su situación. En el audiovisual de los futbolistas, estos salen reunidos en conjunto en una de las tribunas del complejo de El Sauce.
+
+### Más noticias:
+
+* [Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional](https://www.elcomercio.com/deportes/luis-chango-mushuc-runa-arbitraje-nacional.html "Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional")
+* [El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-mushuc-runa-copa-ecuador.html "El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador")
+* [¿A qué hora juega El Nacional semifinales de Copa Ecuador?](https://www.elcomercio.com/deportes/semifinal-el-nacional-mushuc-runa-copa-ecuador.html "¿A qué hora juega El Nacional semifinales de Copa Ecuador?")
+
+Durante el video, los jugadores permanecieron sentados y enfocados en aquel sector. Mientras se los proyectaba, la **voz en off** de uno de los miembros de la escuadra expresaba las quejas y la situación en la que se encuentran él y sus compañeros.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBjrIYkqqsU/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBjrIYkqqsU/?utm_source=ig_embed&utm_campaign=loading)
+
+En el pronunciamiento, los futbolistas también solicitaron a la **Liga Pro** y a la **Federación Ecuatoriana de Fútbol (FEF)** su intervención. Tras la decisión de los miembros del elenco, la dirigencia de El Nacional aún no ha emitido un pronunciamiento oficial.
+
+¿Qué dijeron los jugadores de El Nacional?
+------------------------------------------
+
+El representante de los **futbolistas criollos** señaló que él y sus compañeros se encuentran impagos durante ‘varios’ meses. Asimismo, señaló que existe **incertidumbre** en torno hacia cuándo recibirán los valores.
+
+“**No sabemos cuándo ni en qué momento vamos a recibir nuestro salario. Damos lo mejor de nosotros en cada partido, pero no nos respalda nuestra directiva. Pedimos que se pongan la mano en el pecho y nos ayuden.** Tenemos nuestra familia, hijos y hogares que mantener. Liga Pro, Federación ayúdanos”, se manifestó.
+
+Después de dar el anuncio, los jugadores no volvieron a dar declaraciones. Asimismo, tampoco se han referido a su próximo compromiso por la **Liga Pro** ante Orense.
+
+El Nacional está a espera de partidos cruciales
+-----------------------------------------------
+
+El próximo partido de los puros criollos ante **Orense** será el domingo 27 de octubre del 2024 en el Estadio Olímpico Atahualpa. La hora pactada son las 18:00.
+
+El duelo ante el conjunto que dirige Santiago Escobar, sin embargo, no será el más determinante para el futuro del ‘Bi-Tri’. El jueves 31 de octubre del 2024, el equipo se medirá ante el **Mushuc Runa** en la semifinal de vuelta de la Copa Ecuador, donde ganó en la ida.
+
+Desde Bolivia ratifican que es ‘criminal’ jugar en Ecuador
+==========================================================
+
+La Selección de Bolivia deberá jugar contra Ecuador en Guayaquil en la fecha 11 de las eliminatorias.
+-----------------------------------------------------------------------------------------------------
+
+![Félix Torres (i) en las eliminatorias al Mundial Catar 2022 en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/bolivia_ratifica_1.jpg)
+
+La polémica en la previa del partido entre la **Selección de Bolivia y Ecuador por fecha 11** de las eliminatorias sudamericanas al Mundial 2026, vino desde el ‘Altiplano’ con un sector de la prensa.
+
+El encuentro entre **Ecuador y Bolivia está planificado para el jueves 14 de noviembre** de 2024 en el estadio Monumental de Barcelona Sporting Club, ubicado en Guayaquil e inaugurado en 1987.
+
+### Más noticias:
+
+* [Midtjylland de Denil Castillo hunde a Kevin Rodríguez en Europa League](https://www.elcomercio.com/deportes/futbol/denil-castillo-kevin-rodriguez-europa-league.html "Midtjylland de Denil Castillo hunde a Kevin Rodríguez en Europa League")
+* [Jonatan Álvez reveló que sus compañeros se ‘vendieron’ en 2015](https://www.elcomercio.com/deportes/futbol/jonatan-alvez-liga-emelec-final2015.html "Jonatan Álvez reveló que sus compañeros se ‘vendieron’ en 2015")
+* [Lionel Messi fue nominado a un prestigioso premio](https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html "Lionel Messi fue nominado a un prestigioso premio")
+
+La primera vez de Bolivia en el **Monumental fue el domingo 19 de septiembre de 1993** en el proceso al Mundial Estados Unidos 1994, con algo más de 10 000 personas en las gradas y el colombiano John Toro como árbitro central.
+
+Los bolivianos contaban con un equipo en el que destacan **Gustavo Quinteros, Marco Antonio Etcheverry y Julio César Valdivieso**, vinculados con el fútbol ecuatorianos en la Tri, Barcelona SC, Emelec y Deportivo Quevedo.
+
+Los bolivianos se adelantaron en el marcador a los 45 minuto del primer tiempo por intermedio de Willian Ramallo, mientras que los ecuatorianos empataron a los 72 minutos con la firma del defensor Raúl Noriega.
+
+En el grupo B, **Brasil lo ganó con 12 puntos y Bolivia alcanzó el segundo sitial con 11**, uno más que Uruguay, que se quedó con 10 en la tercera posición. Ecuador (5) y Venezuela (2) cerraron la tabla de posiciones.
+
+La segunda regresaron el 12 de octubre de 1997, **rumbo a Francia 1998, donde cayó 1-0** con un tanto del argentino-ecuatoriano Ariel Graziani.
+
+La última visita fue el 7 de octubre de 2021, en el **proceso a Catar 2022, con goleada 3-0** con goles de los delanteros goleadores Enner Valencia (2) y Michael Estrada.
+
+Redoblan la apuesta desde Bolivia
+---------------------------------
+
+El martes 22 de octubre, el periodista boliviano Juan Pastén Peñafiel encendió la polémica al asegurar que es “criminal e inhumano” jugar en Ecuador, debido a los cortes de luz que afectan al país y cada vez se agrava más.
+
+“Es criminal donde nos quieren llevar a jugar, ¿**qué tal que se corte la luz en pleno partido**? (…) Ojalá que no pase eso en Ecuador, **por eso no nos pueden llevar a un sitio donde no hay luz** (…) ¿**Cómo vamos a sobrellevar el calor sin aire acondicionado**?” (…) Es inhumano ir a jugar en Ecuador mientras tanto no haya luz en ese país”, dijo.
+
+Lejos de ajar la tensión a sus comentarios, Pastén Peñafiel volvió a emitir los comentarios y se ratificó en lo dicho. Lo hizo la noche del jueves 24 en su programa Deportivo que es transmitido en Bolivia TV.
+
+“Yo creo que sí. **No están dadas la condiciones por los cortes de luz**. Los ecuatorianos tienen un panorama bastante complicado, no solo en lo relacionado con el fútbol, sino en otras actividades cotidianas”, indicó el periodista.
+
+¿A las 20:00 (19:00 de Ecuador) habrá luz en el estadio Monumental?, se preguntó, al tiempo de recordar que el último **Clásico del Astillero entre Barcelona SC y Emelec** modificó su horario original y empezó con luz natural a las 17:00.
+
+¿Habrá suficientes generadores para los hoteles y las casas?, fue otra de las preguntas que hizo en el video publicado en sus redes sociales.
+
+Finalmente, aseguró que la **escuadra boliviana está en capacidad de sumar en el Monumental** y seguir con la cosecha de buenos resultados para mantenerse en la zona de repechaje o de clasificación directa al Mundial.
+
+“Téngalo por seguro. Vamos a empatar y cuidado si les ganamos. Eso sería trágico para ustedes”, cerró.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBhj1q_Nfus/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Juan Pastén Peñafiel (@hdphijodepascuala)](https://www.instagram.com/reel/DBhj1q_Nfus/?utm_source=ig_embed&utm_campaign=loading)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Moisés Caicedo, el nuevo héroe de los hinchas ecuatorianos
+==========================================================
+
+Moisés Caicedo se consolida como uno de los pilares de la Selección de Ecuador, ganándose el respeto y el cariño de la afición.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo tomándose fotos con los aficionados de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-20.jpg)
+
+**Moisés** **Caicedo** se ha ganado el respeto y cariño de los hinchas ecuatorianos no solo por cómo defiende los colores de la **Selección de Ecuador,** sino también por su excepcional trato con los aficionados.
+
+Fuera del césped, ‘Moi’ se ha **convertido en un ídolo para niños y jóvenes**, como lo demuestran sus frecuentes acercamientos a los fanáticos y pequeños gestos que dejan huella.
+
+### Más noticias:
+
+* [Chelsea vence sin Moisés Caicedo en Conference League](https://www.elcomercio.com/deportes/chelsea-moises-caicedo-conference-panathinaikos.html "Chelsea vence sin Moisés Caicedo en Conference League")
+* [¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?](https://www.elcomercio.com/deportes/moises-caicedo-conference-league-chelsea-panathinaikos.html "¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?")
+* [Desentrañando el proceso de la Selección de Ecuador, ¿existe?](https://www.elcomercio.com/deportes/futbol/desentranando-el-proceso-de-la-seleccion-de-ecuador-existe.html "Desentrañando el proceso de la Selección de Ecuador, ¿existe?")
+
+En la cancha, su liderazgo y experiencia le han valido el **reconocimiento como uno de los capitanes** del equipo nacional, a pesar de su corta edad.
+
+Moisés Caicedo, el nuevo héroe
+------------------------------
+
+Después de la victoria de Ecuador 1-0 ante Perú en el Estadio Rodrigo Paz Delgado, Caicedo se acercó a una de las localidades para tomarse fotos con los aficionados, incluso **llegando a tomar la cámara y convertirse en su propio fotógrafo**, un gesto que los asistentes no olvidarán.
+
+Y en el último partido de la ‘Tri’ en el mismo escenario, esta vez contra Paraguay (0-0), volvió a sorprender. Durante el himno, en medio de la lluvia, él y su compañero Piero Hincapié se quitaron sus chaquetas para **proteger a los niños que los acompañaban**, mostrando una vez más su compromiso y liderazgo.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-21-1024x683.jpg)
+
+Moisés Caicedo y Piero Hincapié protegiendo a los niños de la lluvia. Foto: Diego Pallero / El Comercio.
+
+Moisés Caicedo y medio centenar de partidos
+-------------------------------------------
+
+A sus 22 años, Moisés Caicedo **ya cuenta con 50 partidos en la Selección de Ecuado**r, consolidándose como el quinto jugador con más presencias en el equipo actual. Enner Valencia lidera este listado con 93 partidos y está cerca de alcanzar la marca de 100 encuentros, un logro reservado para pocos.
+
+Caicedo ha jugado dos **Copas América (**2021 y 2024) y estuvo en el **Mundial de Qatar** 2022\. En lo que respecta a números, ha sumado tres goles y ocho asistencias, estadísticas que muestran su influencia en el equipo y perfilan a Caicedo como uno de los grandes referentes del fútbol ecuatoriano.
+
+Así será la atención en los bancos por los cortes de luz
+========================================================
+
+En medio de los cortes de luz que enfrenta el Ecuador durante octubre de 2024, la Asobanca informó cómo funcionará la atención bancaria.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de una persona en la ventanilla de un banco.](https://www.elcomercio.com/wp-content/uploads/2024/10/atencion-banco.jpg)
+
+En medio de los cortes de luz que enfrenta el Ecuador durante octubre de 2024, la **Asociación de Bancos Privados del Ecuador (Asobanca)** confirmó a **EL COMERCIO** que los bancos **privados no tendrán interrupciones en su atención,** a través de todos sus canales disponibles.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil este sábado 26 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-26-octubre.html "Cortes de luz en Guayaquil este sábado 26 de octubre")
+* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
+* [Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/negocios/profesionales-de-ecuador-hacen-propuestas-para-enfrentar-los-cortes-de-luz.html "Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz")
+
+**Marco Rodríguez**, **presidente ejecutivo de Asobanca**, aseguró que se implementaron protocolos específicos para ajustar la **atención en las agencias bancarias físicas**, teniendo en cuenta los horarios de **corte de luz anunciados para cada sector o región**.
+
+Intermitencias en la conectividad
+---------------------------------
+
+Los cortes de luz también generan un impacto en los **servicios de telecomunicaciones**, incluyendo la **telefonía móvil e internet**. La Asociación de Empresas de Telecomunicaciones catalogó esta situación como un evento de fuerza mayor, lo que significa que la **conectividad de las familias y empresas se ha visto afectada**.
+
+> 📣¿Qué pasa con la atención médica en la red pública de salud por los cortes de luz?👇[https://t.co/2bpL30Vmxy](https://t.co/2bpL30Vmxy) [pic.twitter.com/qSBSW4wkrl](https://t.co/qSBSW4wkrl)
+> 
+> — El Comercio (@elcomerciocom) [October 25, 2024](https://twitter.com/elcomerciocom/status/1849927743242129552?ref_src=twsrc%5Etfw)
+
+En este contexto, se registra intermitencias en el acceso a los **servicios financieros digitales**, como las aplicaciones móviles de los bancos.
+
+Acciones de contingencia
+------------------------
+
+Para hacer frente a estas dificultades, los bancos han desplegado acciones de **continuidad de negocio** y medidas de contingencia. Esto con el objetivo de **mitigar el impacto en los servicios digitales**. Estas medidas buscan minimizar las **afectaciones** y asegurar que los usuarios puedan seguir realizando sus transacciones financieras.
+
+Aun con estas acciones, el acceso a los s**ervicios digitales puede presentar limitaciones** debido a la intermitencia en la conectividad, que es una consecuencia directa de los cortes de energía prolongados.
+
+El compromiso de la **banca privada ecuatoriana** se enfoca en garantizar la atención continua a sus usuarios, adaptando sus operaciones.
+
+La CorteIDH condena a Ecuador por tortura y muerte de un detenido por la Policía en 1992
+========================================================================================
+
+Por este caso, el Estado ecuatoriano reconoció su responsabilidad durante el proceso ante la CorteIDH.
+------------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo general de una audiencia de la Corte Interamericana de Derechos Humanos (CorteIDH).](https://www.elcomercio.com/wp-content/uploads/2024/10/corteidh-EFE.jpg)
+
+La **Corte Interamericana de Derechos Humanos** (CorteIDH) condenó este viernes, 25 de octubre de 2024, al Estado de Ecuador por la **tortura y muerte** en 1992 de **Gustavo Washington Hidalgo** tras ser detenido por oficiales de la [Policía](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html").
+
+### Más noticias
+
+* [Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?](https://www.elcomercio.com/actualidad/seguridad/policia-localizo-63-personas-desaparecidas-ecuador-causas.html "Policía localizó a 63 personas desaparecidas en Ecuador, ¿cuáles fueron las causas?")
+* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
+* [Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones")
+
+La CorteIDH, con sede en Costa Rica, notificó este viernes, 25 de octubre de 2024, la **sentencia** en la cual establece “la r**esponsabilidad internacional** del Estado por la violación de los derechos a la **vida e integridad personal**, en perjuicio de **Gustavo Washington Hidalgo**. Esto por la **tortura y su ejecució**n extrajudicial ocasionada por **agentes estatales** mientras se encontraba bajo su custodia”.
+
+Violación de derechos
+---------------------
+
+Además, el tribunal internacional declaró la responsabilidad del Estado por la **violación de los derechos** a las **garantías judiciales** y **protección judicial.** Esto por la falta de la debida **diligencia en la investigación** de los hechos. Además, por la **violación a la integridad personal** y los derechos de la niñez por las afectaciones sufridas, en perjuicio de los familiares de la víctima.
+
+Los hecho se remontan al 8 de diciembre de 1992, en el pueblo de Tosagua, **en la provincia de Manabí,** cuando Gustavo Washington Hidalgo, quien se encontraba en **estado etílico, intentó ingresar a una pista de baile**. Sin embargo, fue impedido por los organizadores del evento.
+
+Cuatro policías
+---------------
+
+“Al lugar llegaron cuatro agentes policiales. En estas circunstancias se inició un **altercado físico** entre el señor Hidalgo y los **cuatro policías**, **con el fin de detenerlo.** El señor Hidalgo se resistió y los policías le propinaron golpes de puños y puntapiés, arrastrándolo **tres cuadras hasta la Comisaría**. Una vez en la Comisaría, el señor Hidalgo fue llevado al calabozo y sometido a más golpes e insultos hasta que dejó de quejarse”, explicó la CorteIDH.
+
+Hidalgo fue revisado por un médico y declarado fallecido en el sitio. La autopsia constató que las causas de muerte fueron **traumatismo cerrado de abdomen**, hemorragia abdominal aguda interna y shock hipovolémico.
+
+Por este caso, el Estado ecuatoriano reconoció su **responsabilidad durante el proceso ante la CorteIDH.**
+
+En su sentencia de este viernes, la CorteIDH ordenó a Ecuador continuar con las investigaciones y destacó los esfuerzos recientemente realizados por la **Fiscalía General.** Esto debido a que reanudó y emprender la investigación ante la jurisdicción ordinaria, a fin de esclarecer de forma completa lo ocurrido y establecer las sanciones correspondientes.
+
+“El Estado deberá, dentro de un plazo razonable y con la **debida diligencia, promover, continuar y concluir eficazmente la sustanciación** de dicho proceso penal en curso en el ámbito interno y, en su caso, sancionar a los responsables por todos los hechos del caso sufridos por la víctima”, indica el fallo.
+
+Además, “el **Estado deberá garantizar el pleno acceso y capacidad** de actuar de los familiares en todas las etapas de las investigaciones”, detalla.
+
+La CorteIDH también ordenó **indemnizaciones para los familiares de la víctima** por conceptos de medidas de rehabilitación, daño material y daño inmaterial.
+
+¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?
+==================================================================
+
+Los cortes de luz se incrementaron de ocho a 14 horas al día, desde este 25 de octubre de 2024. La situación hídrica del Ecuador es una de las razones.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El embalse de Mazar es uno de los más grandes del país y alimenta a tres hidroeléctricas de la cuenca del río Paute: Mazar, Paute-Molino y Sopladora. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/mazar-17092024.jpg)
+
+La noche del 24 de octubre de 2024 se anunció un incremento en las horas de los **cortes de luz** en **Ecuador**. La ministra encargada de Energía, **Inés Manzano,** informó que los racionamientos eléctricos pasaron de ocho a 14 horas diarias, hasta el domingo 27 de octubre[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html "Servicios de salud tienen disposiciones por cortes de luz")
+* [Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/negocios/profesionales-de-ecuador-hacen-propuestas-para-enfrentar-los-cortes-de-luz.html "Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz")
+* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
+
+¿Por qué se incrementaron las horas de los apagones?
+----------------------------------------------------
+
+La ministra Manzano dijo. “Tomamos esta dura decisión, basados en la difícil situación climática. Toda Sudamérica enfrenta una sequía sin precedentes y Ecuador no es la excepción. Varios países tienen cortes de electricidad y todos hemos visto con asombro las imágenes de un seco río Amazonas”.
+
+“El principal problema son los caudales deprimidos en límites históricos, como es el caso de Mazar y Coca Codo Sinclair”, aseguró la ministra Manzano, en su video de la noche del jueves 24 de octubre de 2024.
+
+Complejo hidroeléctrico Paute
+-----------------------------
+
+A las 16:00 de este 25 de octubre, las tres hidroeléctricas del Complejo Paute, en el Austro: **Mazar, Paute-Molina y Sopladora** permanecían apagadas.
+
+Según la ministra, el objetivo es cuidar el agua del **embalse de Mazar**, que alimenta estas tres centrales. El Complejo Paute es el más grande del país, las tres hidroeléctricas juntas tienen una capacidad instalada de 1 700 megavatios (MW) y en condiciones normales proporciona el 30% de la demanda de energía del país.
+
+El agua del embalse de Mazar llegó a 2 111,17 metros sobre el nivel del mar (m.s.n.m.) a las 16:00 de este viernes. El dato muestra que le falta más de tres metros de agua para que pueda operar sin riesgo, que es 2 115 m.s.n.m..
+
+Según **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha, cuando la **central de Mazar** opera con menos de 2 115 m.s.n.m. en su embalse, corre el riesgo de que ingresen sedimentos y dañen los equipos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/mazar-25102024-1024x448.jpg)
+
+A las 16:00 de este viernes, el **caudal de Mazar**, es decir, el agua que ingresa al embalse, fue de 12,03 metros cúbicos por segundo (m³/s). Una **cantidad muy baja** que no permite que el reservorio se recupere.
+
+Según los datos de la Corporación Eléctrica del Ecuador Sur (**CelecSur**), después de cerca 10 horas de no utilizar el agua del reservorio, el embalse de Mazar solo subió 11 centímetros. Pasó de 2 111,06 a 2 111,17.
+
+Para llenar el embalse se necesita un caudal de 140 m³/s, es decir, lluvias muy fuertes, por 30 días. Solo así se podría llegar a su máximo, que es 2 153 m.s.n.m.
+
+Pero la necesidad de lluvias es constante, **Acuña** recordó que con el embalse lleno se puede generar energía por 45 días consecutivos.
+
+Central Coca Codo Sinclair
+--------------------------
+
+Los cortes de luz también se incrementaron por la falta de agua en el **río Coca**, que alimenta la central hidroeléctrica **Coca Codo Sinclair**.
+
+Según el reporte de la Celec, el afluente registró un caudal de 20 m³/s, este jueves 24 de octubre. El caudal promedio de este río es de 287 m3/s.
+
+La **ministra Manzano** señaló que el domingo 27 de octubre de 2024 se hará una evaluación de la situación hídrica del país. Con los nuevos datos se tomarán decisiones para mantener o cambiar los tiempos de **cortes de luz** en el Ecuador.
+
+Cómo liberar espacio en tu teléfono al vaciar WhatsApp 
+=======================================================
+
+Liberar espacio en tu teléfono es sencillo al vaciar la papelera de WhatsApp.
+-----------------------------------------------------------------------------
+
+![WhatsApp acumula archivos como fotos, videos y documentos que pueden ocupar un espacio considerable en tu dispositivo. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-almacenamiento.jpg)
+
+**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")** se ha convertido en una **herramienta esencial para la comunicación diaria**. Sin embargo, su uso continuo provoca la **acumulación de archivos multimedia** que pueden **saturar la memoria del dispositivo**. Esto no solo ocupa **espacio innecesario**, sino que también puede **afectar el rendimiento del móvil**, haciéndolo más lento y propenso a fallas. A continuación, exploraremos **cómo vaciar la papelera de WhatsApp y liberar espacio en tu teléfono**. 
+
+### Más noticias
+
+* [WhatsApp refuerza la protección para combatir el ‘phishing’ y el ‘spam’](https://www.elcomercio.com/tecnologia/whatsapp-phishing-spam-actualizacion.html "https://www.elcomercio.com/tecnologia/whatsapp-phishing-spam-actualizacion.html") 
+* [Truco para ver mensajes eliminados en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-mensajes-eliminados-tutorial.html") 
+
+**¿Qué es la papelera de WhatsApp?** 
+-------------------------------------
+
+Aunque **WhatsApp no tiene una “papelera” en el sentido tradicional**, sí acumula **archivos que pueden considerarse como basura**. Estos incluyen fotos, videos, audios y documentos que se envían y reciben a diario. Con el tiempo, estos archivos pueden **ocupar un espacio considerable en tu dispositivo**. 
+
+**Pasos para liberar espacio en WhatsApp** 
+-------------------------------------------
+
+### **1\. Acceder al “Administrador de Almacenamiento”** 
+
+Para comenzar, abre la aplicación de WhatsApp y dirígete a los “Ajustes”. Desde allí, selecciona “Almacenamiento y datos”. Esta sección te permitirá **gestionar los archivos almacenados.** 
+
+### **2\. Borrar el caché** 
+
+Una de las primeras acciones que puedes realizar es **borrar el caché de WhatsApp**. Esto no eliminará tus archivos importantes, solo **liberará espacio ocupado por datos temporales**. Ve a “Ajustes”, luego a “Aplicaciones”, busca WhatsApp y selecciona “Borrar caché”  
+
+### **3\. Eliminar archivos de grupos y canales** 
+
+Los **grupos y canales** suelen compartir numerosos **archivos multimedia**. Para eliminar estos archivos, ve a “Almacenamiento y datos”, luego a “Administrar almacenamiento”. Aquí podrás seleccionar los grupos o canales cuyos archivos deseas eliminar. 
+
+### **4\. Limpiar archivos reenviados** 
+
+**WhatsApp permite identificar los archivos que han sido reenviados muchas veces**. Para borrarlos, accede nuevamente a “Administrar almacenamiento” y selecciona la opción correspondiente para ver estos archivos. 
+
+### **5\. Eliminar los archivos más pesados** 
+
+Otra forma efectiva de **liberar espacio** es eliminar los archivos que más ocupan. En “Administrar almacenamiento”, podrás ver una lista de **los archivos más grandes**. Selecciona aquellos que ya no necesites y elimínalos  
+
+### **6\. Vaciar chats** 
+
+Si deseas un enfoque más drástico, puedes **vaciar todos los chats**. Esto eliminará todos los mensajes dentro de un chat específico sin borrar el chat en sí. Ve a “Ajustes”, luego “Chats” y selecciona “Vaciar todos los chats”  
+
+**Consejos adicionales** 
+-------------------------
+
+A decir de [El Mundo](https://www.elmundo.es/tecnologia/trucos/2024/09/26/66f5991ee4d4d8b2738b45d1.html "https://www.elmundo.es/tecnologia/trucos/2024/09/26/66f5991ee4d4d8b2738b45d1.html"), es **recomendable revisar tu almacenamiento cada cierto tiempo** para evitar acumulaciones innecesarias. Al usar el “Administrador de Archivos”, puedes acceder directamente al administrador de archivos de tu teléfono para **eliminar carpetas específicas** donde se almacenan los datos de WhatsApp.  
+
+**Antes de realizar eliminaciones masivas**, asegúrate de **hacer copias de seguridad** si deseas conservar ciertos mensajes o archivos importantes. 
+
+Cortes de luz en Guayaquil este sábado 26 de octubre
+====================================================
+
+Los cortes de luz en Guayaquil para este sábado 26 de octubre son hasta en tres franjas horarias.
+-------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este sábado 26 de octubre se realizan en tres franjas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-sabado-26-octubre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **sábado 26 de octubre** serán de **14 horas**, en **tres franjas horarias**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+**CNEL** reprogramó los horarios de este fin de semana, tras el anuncio del Gobierno de **Daniel Noboa** de suspender la reducción de cortes de luz a ocho horas.
+
+### Más noticias:
+
+* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html "Servicios de salud tienen disposiciones por cortes de luz")
+* [Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-expresa-solidaridad-ecuador-cuba-crisis-energetica.html "Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética")
+* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
+
+Cortes de luz en Guayaquil este sábado 26 de octubre
+----------------------------------------------------
+
+El Gobierno suspendió la reducción de cortes de luz paulatina de 10 a 8, 6 y 4 horas hasta el **10 de noviembre,** a las 23:26 de este jueves 24 de octubre.
+
+El anuncio lo hizo la ministra de Energía encargada, **Inés Manzano**, tras detallar la crítica situación hidroeléctrica del país.
+
+Los embalses de las **centrales hidroeléctricas** están a la baja, con el mínimo requerido para funcionar.
+
+Mientras el Gobierno gestiona la **compra** de energía entre noviembre y diciembre, los caudales de los ríos no abastecen a las centrales existentes.
+
+Esta situación hizo que el régimen **retroceda** en la intención de reducir los cortes para el sector residencial.
+
+Así, Guayaquil y el resto del país se enfrenta a una de las peores **crisis energética** de su historia.
+
+Y, en lo que va del **año**, los cortes de 14 horas son los **más extendidos que han existido**.
+
+Hasta ahora, la **suspensión del servicio de energía eléctrica** había sido de hasta 12 y 10 horas.
+
+A continuación, los **horarios de cortes de luz en Guayaquil para este sábado 26 de octubre de 2024**:
+
+El Gobierno dijo que evaluará esta medida de incremento de horas de los cortes de luz este **domingo 27 de octubre.**
+
+Además, Manzano manifestó que en **diciembre** sí existirá reducción en las horas de cortes de luz y que hasta podrían no existir.
+
+Quito rompe un récord Guinness
+==============================
+
+Los participantes tuvieron que estar en el parque Bicentenario desde las 08:00 de este viernes 25 de octubre de 2024 para romper el récord Guinness.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los adultos mayores fueron parte del evento para romper el récord Guinness en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Record-Guinness-Quito.jpg)
+
+En el parque **Bicentenario**, en el norte de **Quito**, miles de personas se reunieron para intentar romper un **récord** **Guinness** que actualmente posee una provincia china[.](https://es.wikipedia.org/wiki/Libro_Guinness_de_los_r%C3%A9cords "https://es.wikipedia.org/wiki/Libro_Guinness_de_los_r%C3%A9cords")
+
+### Más noticias
+
+* [Dibujar a Quito podrá ser un récord Guinness](https://www.elcomercio.com/actualidad/quito/dibujar-quito-record-guinness.html "Dibujar a Quito podrá ser un récord Guinness")
+* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
+* [La agenda cultural para este 26 y 27 de octubre de 2024 en Quito](https://www.elcomercio.com/tendencias/cultura/agenda-cultural-quito-actividades.html "La agenda cultural para este 26 y 27 de octubre de 2024 en Quito ")
+
+La convocatoria para intentar romper este récord fue realizada por **Visit Quito**. ¿De qué se trata?
+
+¿De qué trata el récord Guinness que intenta romper Quito?
+----------------------------------------------------------
+
+Quito intenta romper el **récord Guinness** de la mayor cantidad de personas reunidas en un mismo lugar dibujando la imagen de una ciudad.
+
+Este récord, hasta ahora, le pertenece a la provincia china de **Jiangxi**, vigente desde 2019, con 4 173 participantes. Según Visit Quito, se esperaba la participación de alrededor de 10 000 personas para lograr este récord.
+
+Estudiantes y adultos mayores participaron para alcanzar el récord Guinness
+---------------------------------------------------------------------------
+
+Al evento, que era de acceso al público, asistieron estudiantes de **instituciones** **educativas** y **adultos** **mayores** del programa del **Patronato San José** del Municipio de Quito.
+
+Asimismo, 180 estudiantes universitarios participaron como veedores del **récord**, en el que los asistentes dibujaron simultáneamente la imagen que tienen de **Quito**.
+
+Parámetros de los dibujos para obtener el récord Guinness
+---------------------------------------------------------
+
+Antes de que se iniciara la cuenta regresiva para que los participantes comenzaran a dibujar **Quito**, se explicaron las **bases de los dibujos** en una pantalla grande.
+
+El mensaje detallaba que el dibujo debía tener un corazón que ocupara casi toda la cartulina proporcionada por los organizadores.
+
+Dentro de este corazón, obligatoriamente debía estar, en la parte superior, un dibujo de **nubes** y un **sol**, que representaban el “cielo de Quito”.
+
+El resto del espacio podía ser usado para plasmar lo que significaba **Quito** para cada participante, sin utilizar letras ni números. Además, el gráfico no debía salir del corazón.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Record-Guinness-participantes-1024x683.jpg)
+
+Estudiantes de diferentes instituciones educativas mientras reciben las indicaciones para intentar romper el récord Guinness. Foto: Julio Estrella / EL COMERCIO.
+
+El conteo tras la realización del dibujo
+----------------------------------------
+
+Todos los participantes comenzaron a dibujar al mismo tiempo y tuvieron cinco minutos para plasmar su idea de **Quito**.
+
+Solamente se les permitió usar un **lápiz** y la **cartulina** entregada por los organizadores y estudiantes universitarios que estaban presentes.
+
+Una vez que el tiempo finalizó, los veedores recogieron los dibujos y los llevaron a otro lugar para validar que cumplieran con los parámetros establecidos. Luego de varias horas de conteo y verificación de información, Quito logró romper el récord Guinness con 6 775 personas.
+
+Argentina identifica al presunto jefe operativo de Hezbolá en Latinoamérica y pide captura
+==========================================================================================
+
+Informe apuntó a Karaki como el encargado de comprar la camioneta Ford F-100 utilizada para el ataque contra la Embajada de Israel.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Bandera de Argentina, imagen referencial del tema.](https://www.elcomercio.com/wp-content/uploads/2024/10/bandera-argentina-wiki.jpg)
+
+El **Gobierno argentino** señaló este viernes, 25 de octubre de 2024, a **Hussein Ahmad Karaki** como je**fe operativo del grupo chií libanés Hezbolá** en [América Latina](https://www.elcomercio.com/actualidad/mundo/efectos-crisis-climatica-america-latina.html "https://www.elcomercio.com/actualidad/mundo/efectos-crisis-climatica-america-latina.html"), pidió su captura internacional y afirmó que fue él quien compró el **carro bomba** utilizado para el atentado a la Embajada de Israel en Buenos Aires en 1992.
 
 Más noticias
 ------------
 
-* [La sequía activa los incendios forestales en Ecuador](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-ecuador-danos-autoridades.html "La sequía activa los incendios forestales en Ecuador")
-* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
-* [Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas](https://www.elcomercio.com/actualidad/ecuador/cuatro-incendios-forestales-esmeraldas-vegetacion.html "Cuatro incendios forestales destruyeron 12 hectáreas de vegetación en Esmeraldas")
+* [Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-dice-ataco-230-objetivos-hezbola-sur-libano.html "Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano")
+* [Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU](https://www.elcomercio.com/actualidad/mundo/israel-ensana-sur-libano-vuelve-atacar-onu.html "Israel se ensaña con el sur del Líbano y vuelve a atacar a la ONU")
+* [Israel mata a Yahya Sinwar, líder de Hamas](https://www.elcomercio.com/actualidad/mundo/israel-mata-a-yahya-sinwar-lider-de-hamas.html "Israel mata a Yahya Sinwar, líder de Hamas")
 
-Ante estas emergencias, en **Quito** se reunieron los cuerpos de bomberos de 22 ciudades de la región interandina. Cada ciudad habló sobre sus **fortalezas** y **debilidades** y sobre cómo pueden ayudarse para atender las emergencias.
+En una rueda de prensa, la ministra de Seguridad argentina, **Patricia Bullrich**, describió a Karaki como “el cerebro y **reclutador de Hezbulá en América Latina**“. Destacó que “fue el que compró y **preparó la camioneta que explotó en la Embajada de Israel**” en Argentina. El ataque saldó la muerte de 29 personas.
 
-Las personas provocan los incendios forestales en Ecuador
----------------------------------------------------------
+Bullrich destacó además que Karaki, que habría operado en la **región con documentos de Brasil,** **Colombia y Venezuela**, se encuentra actualmente en **Líbano,** país en el que nació, y reveló que la **información anunciada** este viernes es el resultado de una investigación conjunta con otros países de la región.
 
-Desde el 1 de enero hasta el 21 de octubre de 2024, **Ecuador** registró 3 999 incendios forestales en 22 provincias. Así lo detalla un informe de la **Secretaría de Gestión de Riesgos del Ecuador.**
+¿Quién es Karaki?
+-----------------
 
-El documento revela que la mayoría de los incendios son causados por **actividades humanas** y según el teniente coronel del **Cuerpo de Bomberos Quito**, Esteban Cárdenas, de todos estos incendios ocurridos en **Ecuador**, solo uno fue de **origen natural**, el resto tuvo que ver el humano, pues “la naturaleza no se lastima a ella misma”.
+“Queremos que se sepa quién es Karaki, queremos que el **pueblo argentino sepa que Karaki** estuvo atrás de los atentados a la Embajada. Fue quien compró el **coche bomba en la Embajada**. Fue el jefe operacional, en **línea directa con (Hasan) Nasralá**, que fue muerto hace unas **semanas en el Líbano,** y que recibió la orden directa para el ataque luego también a la AMIA”, agregó la ministra al vincular también a Karaki al atentado contra la **Asociación Mutual Israelita Argentina (AMIA)** en 1994, en el que murieron 85 personas.
 
-El **incendio forestal** al que se refiere **Cárdenas** es el que ocurrió en la cumbre del volcán **Pichincha**, en Quito, en agosto de 2024, que fue provocado por un rayo.
+Si bien **Bullrich no aportó más información** sobre el rol del presunto jefe operativo de Hizbulá en la región en aquel segundo ataque, un informe del servicio de inteligencia israelí Mosad ubicó a Karaki como el presunto comandante de aquella operación.
 
-Reportes de los incendios forestales en Ecuador
------------------------------------------------
+En ese informe, ampliamente difundido por la **prensa argentina e internacional** en 2022, el Mosad ya apuntó a Karaki como el encargado de **comprar la camioneta Ford F-100** utilizada para el ataque contra la Embajada de Israel.
 
-A escala nacional se reportaron incendios provocados por negligencia, actividades agrícolas y quemas controladas que se salieron de control.
+Aunque Hizbulá, aliado de Irán, fue apuntado por **diversas investigaciones** como responsable de los atentados contra la Embajada de Israel y la AMIA, ambas causas siguen abiertas en la Justicia argentina, la cual, además, mantiene **ordenes de captura** contra varios exfuncionarios iraníes por el ataque a la mutualista judía.
 
-**Cárdenas** afirma que estas actividades son realizadas, en su mayoría, por adultos mayores y es difícil cambiar sus creencias a esa edad, por lo menos en **Quito**.
-
-Las altas temperaturas y la falta de humedad también contribuyeron a la rápida propagación de estos incendios, especialmente en la Sierra, donde **la capital** fue una de las ciudades más afectadas.
-
-Mapa de hectáreas quemadas en el Ecuador
-----------------------------------------
-
-Provincias más afectadas por los incendios forestales en Ecuador
-----------------------------------------------------------------
-
-![table visualization](https://public.flourish.studio/visualisation/19929683/thumbnail)
-
-**Agosto** y **septiembre** se destacaron como los meses de mayor recurrencia y severidad de los **incendios**, concentrando más del 75% de la cobertura vegetal destruida.
-
-Esta situación ha llevado a la **declaratoria** de **emergencia** en varias localidades, como el Distrito Metropolitano de **Quito** y los cantones **Sigchos (Cotopaxi) y Quilanga** (**Loja**)
-
-Acciones de las autoridades ante los incendios forestales en Ecuador
---------------------------------------------------------------------
-
-Entre las medidas adoptadas por el Gobierno de **Daniel** **Noboa** se incluyen intervenciones aéreas y la colaboración con Fuerzas Armadas y brigadas especializadas.
-
-Se realizaron 25 activaciones de Brigadas de Respuesta a Incendios Forestales (**BRIF**), mientras que la Fuerza Aérea de Perú colaboró con descargas de agua. Asimismo, se emitió el Decreto Nro. 391 para coordinar acciones frente a estos eventos.
-
-Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz
-==========================================================================
-
-El Consejo Consultivo de Ingenierías y Economía (CCIE) nace para enfrentar la crisis energética en Ecuador,
------------------------------------------------------------------------------------------------------------
-
-![Un grupo de profesionales ecuatorianos plantean propuestas para enfrentar la crisis eléctrica.](https://www.elcomercio.com/wp-content/uploads/2024/10/ingenieros.jpg)
-
-Un grupo de colegios y profesionales en libre ejercicio creó el **Consejo Consultivo de Ingenierías y Economía** (CCIE) con el objetivo de hacer propuestas para enfrentar la **crisis del sector** **eléctrico** de país. **Ecuador** atraviesa por una grave situación **energética**, que ha obligado a programar **cortes de luz** de hasta 14 horas diarias desde este viernes 25 de octubre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cinco salidas para que Ecuador reactive la economía](https://www.elcomercio.com/actualidad/negocios/cinco-alternativas-ecuador-reactivar-economia-crisis.html "Cinco salidas para que Ecuador reactive la economía")
-* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
-* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "Comisión aprobó informe para segundo debate del proyecto urgente sobre energía")
-
-“Hoy hemos iniciado el día con una mayor preocupación para todos los ecuatorianos. Hace unos días se anunció que iba a reducir los cortes de luz, pero hoy tenemos un incremento a 14 horas”, señaló **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha y coordinador del Consejo Consultivo.
-
-Ante la actual crisis energética, el grupo de profesionales solicitó a las autoridades ecuatorianas tomar medidas inmediatas para enfrentar la **crisis eléctrica del país**. Además, presentaron 14 propuestas técnicas para estabilizar el sistema energético y la **economía nacional**.
-
-Propuestas técnicas:
---------------------
-
-1. **Ahorro de energía.** Emprender una campaña intensiva hacia la población en general, para concientizarla sobre la importancia del ahorro eléctrico.
-2. **Gratuidad de electricidad**. Revisar la gratuidad del pago de 180 KWh propuesto por el Gobierno Nacional para los meses de diciembre 2024, enero y febrero 2025. Además, se debe incentivar a quienes ahorren energía y penalizar a aquellos que incrementen su consumo.
-3. **Horarios de cortes de luz.** Mantener los horarios extendidos de apagones con la finalidad de incrementar el volumen de agua en la presa Mazar, para poder generar electricidad en noviembre y diciembre, históricamente estos son los meses más graves de estiaje.
-4. **Mesas técnicas de trabajo**. Conformar mesas de trabajo técnicas que incluyan al Gobierno Nacional, gremios profesionales, trabajadores, empresarios y ciudadanía, para analizar la crisis eléctrica de manera integral y adoptar las medidas de mitigación necesarias.
-5. **Transparencia.** Promover la transparencia de la información eléctrica a la ciudadanía y otorgar al Operador Nacional de Electricidad (Cenace) autonomía técnica, necesaria, libre de decisiones políticas.
-6. **Trabajos en termoeléctricas.** Realizar, mantenimiento, reparación y reposición de las centrales térmicas existentes. Así como planificar la contratación de nuevas centrales térmicas, asegurando los sistemas de transmisión y subtransmisión para atender la actual demanda de electricidad.
-7. **Jornada laboral.** Disminuir la jornada laboral a 6 horas diarias, garantizando el suministro de energía eléctrica en este horario. Así se reduciría aproximadamente un 25 % de la energía consumida en la jornada normal de trabajo. Estos horarios se deberán planificar en función de las diferentes actividades, tales como educación, comercio, burocracia, etc., dentro de un horario de 8 am a 4 pm.
-
-Más propuestas
---------------
-
-1. **Manejo técnico.** La crisis eléctrica debe tener un manejo técnico para evitar que prevalezcan intereses políticos sobre las soluciones necesarias. A su vez, se debe nominar en cargos de decisión a profesionales experimentados y conocedores de la problemática eléctrica.
-2. **Demanda de electricidad.** La demanda deberá sujetarse a la oferta real de electricidad.
-3. **Créditos.** Ampliar la línea crediticia para la compra de generadores y UPS (Sistemas de alimentación ininterrumpida, por sus siglas en inglés) para uso residencial, PYMES y comercio menor.
-4. **Poder Legislativo.** Hacer un llamado a la Asamblea Nacional para que aporte con soluciones a la problemática eléctrica, permitiendo la revisión, cumplimiento y normado para el cumplimiento obligatorio del **Plan Maestro de Electrificación**, tanto para lo público como lo privado.
-5. **Participación privada.** Posibilitar el desarrollo de proyectos de generación privados, garantizando el pago de la energía vendida.
-6. **Gastos de inversión.** Priorizar los gastos de inversión del Gobierno o facilitar a la empresa privada la terminación y desarrollo de proyectos diseñados y paralizados en su construcción.
-7. **Participación de los GAD.** Permitir que los gobiernos autónomos descentralizados (municipios, prefecturas y juntas parroquiales) reactiven y generen energía eléctrica en sus jurisdicciones.
-
-Consejo Consultivo
-------------------
-
-El Consejo Consultivo de Ingenierías y Economía (CCIE) busca establecer espacios de diálogo y análisis, y brindar asesoramiento a entidades estatales y organizaciones sociales para abordar los problemas generados por la crisis energética.
-
-Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17
-==========================================================================
-
-El partido entre la Selección de Ecuador femenina y España será en el Estadio Olímpico Félix Sánchez de Santo Domingo, República Dominicana
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador femenina jugará ante España en el Mundial de la categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuadorsub17.jpg)
-
-**Ecuador** se alista para un emocionante desafío en los cuartos de final de la **Copa Mundial Femenina Sub-17**, donde se enfrentará a España este domingo 27 de octubre en Santo Domingo, **República Dominicana**.
-
-La **Selección de Ecuador femenina**, bajo la dirección de **Eduardo Moscoso,** ha tenido un desempeño destacado en la fase de grupos, con dos victorias y un total de seis goles. Haber llegado a los cuartos de final, ya es histórico para el fútbol femenino del país.
-
-### Más noticias:
-
-* [Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025](https://www.elcomercio.com/deportes/ciclismo/ciclistas-ecuatorianos-world-tour-carapaz-cepeda.html "Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025")
-* [La Selección de Ecuador Femenina sub-17 se cita con España](https://www.elcomercio.com/deportes/futbol/ecuador-espana-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 se cita con España")
-* [Selección de Ecuador Femenina Sub-17 clasificó a cuartos de final del Mundial](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-sub-17-clasifico-cuartos-final-del-mundial.html "Selección de Ecuador Femenina Sub-17 clasificó a cuartos de final del Mundial")
-
-La destacada actuación de jugadoras como la capitana **Fiorella Pico**, la goleadora **Jaslym Valverde** y la talentosa **Doménica Arboleda** ha sido clave para el éxito del equipo.
-
-El partido entre la Selección de Ecuador femenina y España será en el **Estadio Olímpico Félix Sánchez** de Santo Domingo, República Dominicana, desde las 14:30 (hora Ecuador).  
-
-Caprice Chiuchiolo se destaca en la Selección de Ecuador femenina
------------------------------------------------------------------
-
-Sin embargo, la estrella emergente ha sido **Caprice Chiuchiolo,** la única jugadora que milita en el fútbol estadounidense, quien ha brillado con luz propia y se convirtió en figura central del torneo tras anotar dos goles en la contundente victoria por 4-0 sobre **Nueva Zelanda.**
-
-En el partido, Arboleda abrió el marcador en el minuto 41, seguido de un doblete de Chiuchiolo en el 43 y 49, y un gol de **Dariana Morán** en el 79.
-
-Al finalizar el encuentro, Moscoso expresó su orgullo por el rendimiento de sus jugadoras, quienes lograron clasificar a cuartos de final desde el segundo puesto del grupo.
-
-Ahora, Ecuador se prepara para enfrentar a España, la vigente campeona que llegó al torneo con una sólida trayectoria.
-
-“Vamos a competir y estamos felices de estar entre las ocho mejores del mundo”, destacó el entrenador Moscoso. **Chiuchiolo,** por su parte, afirmó que el equipo tiene la ambición de seguir haciendo historia y se siente honrada de representar a Ecuador.
-
-El partido se disputará en el estadio **Olímpico Félix Sánchez**, donde la selección ecuatoriana espera continuar su camino hacia la gloria en esta histórica primera participación en la Copa Mundial Femenina Sub-17.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBfIk7HvpfF/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBfIk7HvpfF/?utm_source=ig_embed&utm_campaign=loading)
-
-Asalto armado se registró en el norte de Quito este viernes 25 de octubre
-=========================================================================
-
-La Policía pide a la ciudadanía solicitar resguardo policial al 911 siempre que se vaya a retirar dinero por seguridad
-----------------------------------------------------------------------------------------------------------------------
-
-![El conductor de la camioneta fue herida a la altura de la cadera y trasladada al hospital.](https://www.elcomercio.com/wp-content/uploads/2024/10/asalto-gasolinera.jpg)
-
-Un ataque armado se reportó en el **norte de Quito**, en una gasolinera ubicada en las avenidas 6 de Diciembre y Gaspar de Villarroel.
-
-El hecho se registró este viernes, 25 de octubre de 2024. Aún no se han difundido datos oficiales.
-
-### Más noticias
-
-* [Policía capturó a mujer que estaría vinculada a Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html "Policía capturó a mujer que estaría vinculada a Los Tiguerones")
-* [Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones")
-* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
-
-El asalto en el norte de Quito
-------------------------------
-
-Según informó la teniente Andrea Lomas, **de la Policía Nacional,** el blanco del hecho habría sido una persona que retiró dinero en el banco y que llegó a tanquear a la gasolinera.
-
-Las versiones de los testigos indican qu**e dos sujetos armados** interceptaron a una persona de sexo masculino para intentar quitarle el dinero. Los antisociales **habrían disparado tres veces al carro.**
-
-Al final, el dinero no pudo ser robado y **se encuentra en cadena de custodia.**
-
-La Policía confirmó el ataque **y resaltó que la víctima no solicitó** resguardo policial. Al parecer, el ataque fue parte de la modalidad conocida como ‘sacapintas’.
-
-En este delito, los presuntos ladrones **vieron a la víctima salir con el dinero** desde el banco y lo siguieron hasta que hizo una parada. Lo interceptaron y dispararon.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBjnoPFR1hQ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DBjnoPFR1hQ/?utm_source=ig_embed&utm_campaign=loading)
-
-El ciudadano se movilizaba **en una camioneta gris**, la cual terminó con los agujeros en la carrocería.
-
-La persona herida fue **alcanzada por l**as balas a nivel de la cadera. Los organismos de socorro la trasladaron a una casa de salud para que recibiera la atención médica adecuada.
-
-Al momento, se encuentra con **pronóstico estable**.
-
-La Policía busca a los responsables
+Intentos de ataque en Latinoamérica
 -----------------------------------
 
-La Policía revisó el historial de la víctima y **constató que no registra antecedentes penales**. Además, se encuentra desplegada en la zona para encontrar a los autores del hecho.
+Bullrich señaló además que Karaki estuvo detrás de una serie de **intentos de ataque en Latinoamérica** en los últimos años, incluyendo uno en Colombia en 2021 y otro en Bolivia contra empresarios israelíes mediante el uso de un carro bomba.
 
-La **Policía Nacional** recuerda a la ciudadanía que si se va a realizar el retiro de una fuerte cantidad de dinero, es necesario **pedir custodia policia**l.
-
-Este resguardo se puede solicita**r llamando al 911**; no importa el monto que se traslade, la Policía está presta a brindar [este servicio](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Alcalde busca que Asamblea no permita uso de recursos de Quito para ley energética
-==================================================================================
-
-El alcalde de Quito, Pabel Muñoz, envió dos propuestas a la Asamblea Nacional en medio de la crisis energética. Allí se tramita una nueva ley que incentiva la participación privada en la generación luz. Pero Muñoz busca que no se permita el uso de recursos de Quito para la ley energética. Más noticias En contra \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Pabel Muñoz, alcalde de Quito, está en contra de que fideicomisos para la generación eléctrica usen recursos de la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-17-1.jpg)
-
-El **alcalde de Quito**, **Pabel Muñoz**, envió dos propuestas a la **Asamblea Nacional** en medio de la **crisis energética**. Allí se tramita una nueva ley que incentiva la **participación privada** en la generación luz. Pero Muñoz busca que no se permita el uso de recursos de Quito para la ley energética.
-
-### Más noticias
-
-* [Pronóstico señala temperaturas de hasta 28 grados en Quito este viernes 25 de octubre](https://www.elcomercio.com/actualidad/quito/pronostico-senala-temperaturas-de-hasta-28-grados-en-quito-este-viernes-25-de-octubre.html "Pronóstico señala temperaturas de hasta 28 grados en Quito este viernes 25 de octubre")
-* [Una persona murió en incendio en Chimbacalle, Quito](https://www.elcomercio.com/actualidad/quito/una-persona-murio-en-incendio-en-chimbacalle-quito.html "Una persona murió en incendio en Chimbacalle, Quito")
-* [Cortes de agua en el noroccidente de Quito ya tienen solución](https://www.elcomercio.com/actualidad/quito/abastecimiento-agua-noroccidente-quito-solucion.html "Cortes de agua en el noroccidente de Quito ya tienen solución")
-
-En contra de que los recursos de Quito vayan a los fideicomisos
----------------------------------------------------------------
-
-En un video subido a su red social de X (exTwitter), el 24 de octubre del 2024, el **alcalde de Quito, Pabel Muñoz,** sostuvo que una de sus propuestas contiene la prohibición en la constitución de los **fideicomisos**, los recursos de la ciudad.
-
-“D_e_be quedar absolutamente claro que no pueden ser parte de los **fideicomisos** los **recursos** que les pertenece a los quiteños y quiteñas -y de hecho a todos los ciudadanos que viven en las ciudades- porque esos recursos les pertenecen a los cantones”, dijo Muñoz.
-
-En la **Asamblea Nacional** se tramita el proyecto de **Ley Orgánica para Impulsar la Iniciativa Privada en la Transición a Energías Renovables**. Es una ley de carácter **económico urgente**.
-
-Para Muñoz, el uso que darían los **fideicomisos** a los **recursos municipales** complicarían dos sectores importantes para **Quito**: la **recolección de basura** y el **presupuesto para los bomberos.**
-
-Municipios podrían generar energía
-----------------------------------
-
-Otro planteamiento del **Alcalde de Quito** a la Asamblea es que se “contemple que se permita de manera más amplia a los municipios que ya generamos energía, podamos aumentarla”. Muñoz se refiere a los 40 megavatios que ya genera el **Municipio de Quito**.
-
-“Nosotros planteamos que **con esa energía se cubra mínimamente tres servicios básicos**“. En primer lugar, es dotar de energía a las **estaciones de bombeo** para que el **agua** llegue a las partes altas de la ciudad.
-
-El segundo servicio que se vería beneficiado es el **Metro de Quito.** Finalmente, el sistema de **Trolebús**, que, para el primer trimestre del próximo año, será 100% eléctrico.
-
-“Permítasenos a los **gobiernos autónomos** que utilicemos **nuestros propios recursos**, la **basura**, por ejemplo, que es un recurso, o el **hídrico** de nuestros territorios con el que **podemos hacer proyectos de generación de energía,** dijo Muñoz[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito") [](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-  
-
-Cuenca cumplió 105 días de sequía y con altas temperaturas
-==========================================================
-
-El sábado 19 y el miércoles 23 de octubre de 2024, las temperaturas en el Austro bordearon los 30 grados.
----------------------------------------------------------------------------------------------------------
-
-![El río Tomebamba registra un caudal de 0,94 metros cúbicos por segundo. Está en niveles de estiaje. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/Cuenca-sequia.jpg)
-
-Las **temperaturas** en **Cuenca** aumentaron 2,5 grados centígrados, en promedio, durante los últimos 10 años.
-
-En el 2014, la temperatura máxima fue de 25, grados y ahora llega a 27,5, en promedio.
-
-En la última semana prácticamente ha existido ausencia de nubosidad en Cuenca, dice **Rigoberto Guerrero**, coordinador de la **Red Hidrometereológica de Etapa**.
-
-“Eso ha ocasionado que la radiación ingrese de manera directa, lo que ha ocasionado que las temperaturas suban en los últimos siete días y superen los 26 grados”.
-
-El sábado 19 y el miércoles 23 de octubre bordearon los 30 grados.
-
-El pronóstico es que la ausencia de nubosidad persista en los últimos días de octubre, sobre todo, en las mañanas.
-
-**Guerrero** indica que estas condiciones climáticas son habituales en el último trimestre del año en el **Austro**. El récord de temperaturas en **Cuenca** se registró a finales de 2023 con 29,4 grados centígrados.
-
-El sábado 19 y el miércoles 23 de octubre se alcanzó ese récord y “es probable que lleguemos a los 30”, dice **Guerrero**.
-
-### Más notas
-
-* [Embalse de Mazar está cerca del nivel mínimo de operación](https://www.elcomercio.com/actualidad/negocios/el-embalse-de-mazar-se-acerca-nuevamente-a-su-nivel-mas-critico.html "Embalse de Mazar está cerca del nivel mínimo de operación")
-* [Cortes de luz serán de hasta 14 horas diarias en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-14-horas-ecuador-viernes-25-octubre.html "Cortes de luz serán de hasta 14 horas diarias en Ecuador")
-
-La sequía se agudiza en Cuenca
-------------------------------
-
-**La falta** nubosidad en el Austro ocasiona que las probabilidades de lluvias se reduzcan. Eso ocasiona otro problema más, que es la mayor evaporación del agua, dice Guerrero. “Eso hace que la situación sea más crítica”.
-
-Guerrero indica que este octubre hubo una ausencia casi completa de lluvias, a excepción de días puntuales. “Y cuando llovió fue por períodos cortos y no fue intenso, Por eso no subieron los caudales”.
-
-Los pronósticos para noviembre y diciembre
-------------------------------------------
-
-Para noviembre y diciembre, dice Guerrero, se espera un escenario favorable. “Los pronósticos se realizan en función de las temperaturas y humedad en la Amazonía. En estos meses de sequía, las temperaturas altas en la Amazonía han impedido que el paso de humedad hacia la cuenca alta del río Paute”.
-
-En noviembre y diciembre se prevé que ese escenario cambiará, aunque no significativamente. “Esperamos que las lluvias aumenten en la **cuenca alta del río Paute**”, señala Guerrero.
-
-El experto recuerda que se requieren más de 15 días de lluvias para salir de la **sequía hidrológica.** Este viernes 25 de octubre de 2024 se cumplieron 105 días. “Para que los ríos recuperen sus niveles normales de forma sostenida se necesitan de 30 a 40 días”.
-
-¿Cómo quedan los horarios de clases con los cortes de luz?
-==========================================================
-
-Ministerio de Educación definió los horarios de clases por el incremento de cortes de luz.
-------------------------------------------------------------------------------------------
-
-![Estudiantes de Ecuador tienen nuevos horarios por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/clases-luz-2.jpg)
-
-El anuncio del Gobierno sobre el aumento de los **cortes de luz** hasta 14 horas diarias generó cambios en los horarios de **clases**.
-
-El **Ministerio de Educación** emitió las disposiciones para la comunidad educativa a escala nacional.
-
-### Más noticias
-
-* [Cortes de luz en Manabí este viernes 25 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-manabi-este-viernes-25-octubre.html "Cortes de luz en Manabí este viernes 25 de octubre")
-* [Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito](https://www.elcomercio.com/actualidad/quito/cortes-energia-suman-2024-fatal-restaurantes-quito.html "Los cortes de luz se suman a un 2024 fatal para los restaurantes de Quito")
-* [Cortes de luz en Cuenca este viernes 25 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-cuenca-este-viernes-25-de-octubre.html "Cortes de luz en Cuenca este viernes 25 de octubre")
-
-Cortes de luz y las clases
---------------------------
-
-La **Cartera de Estado** estableció el detalle de las horas de ingreso y salida para los estudiantes que asisten a las tres jornadas: **matutina, vespertina y nocturna**. En el caso de esta última, hay otra novedad.
-
-Las medidas están fijadas para este viernes, 25 de octubre, y se extenderán hasta el 31 del mismo mes.
-
-* **Jornada matutina:** las clases comenzarán una hora más tarde de lo habitual, según el horario de ingreso establecido en cada institución. La salida se mantiene.
-* **Jornada vespertina:** empezará a la hora habitual y finalizará a las 17:00.
-* **Jornada nocturna:** modalidad **no presencial** en todas las unidades educativas y se activan recursos académicos y guías pedagógicas.
-
-> \[COMUNICADO\] Informamos a la ciudadanía los lineamientos para garantizar la continuidad educativa, desde el viernes 25 al jueves 31 de octubre. [pic.twitter.com/THpMhxdE7L](https://t.co/THpMhxdE7L)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 25, 2024](https://twitter.com/Educacion_Ec/status/1849870369731248244?ref_src=twsrc%5Etfw)
-
-Las acciones complementarias
-----------------------------
-
-De acuerdo con el **[Ministerio de Educación](https://educacion.gob.ec/)**, para que los estudiantes refuercen los conocimientos aprendidos en el aula, después de la jornada educativa, los docentes promoverán actividades de corta duración.
-
-Para esos refuerzos se usarán recursos disponibles en casa. Según la entidad, se apunta a promover espacios de **diálogo familiar**.
-
-La alternativa va dirigida a los niveles educativos de sostenimiento fiscal. Las instituciones **particulares, fiscomisionales y municipales** podrán adoptar estas medidas o establecer sus propias disposiciones, siempre garantizando la continuidad educativa.
-
-Elementos adicionales
----------------------
-
-En el caso de la jornada nocturna, el **Ministerio de Educación** especificó que la modalidad no presencial no es exclusivamente virtual.
-
-Las labores incluyen actividades guiadas, **fichas pedagógicas**, proyectos que los estudiantes deben desarrollar de manera autónoma.
-
-FMI reconoce que la sequía impactará en el crecimiento y la fiscalidad de Ecuador
-=================================================================================
-
-La sequía en Ecuador impactará tanto en sus perspectivas económicas como en las necesidades fiscales del país.
---------------------------------------------------------------------------------------------------------------
-
-![Ministro de Finanzas, Juan Carlos Vega junto a representantes del FMI el pasado 23 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/fmi.jpg)
-
-El **Fondo Monetario Internacional (FMI)** alertó este viernes que la sequía en Ecuador impactará tanto en sus **perspectivas económicas como en las necesidades fiscales del país**, que tiene un programa de crédito de **48 meses con la institución desde mayo**.
-
-### Más noticias
-
-* [Ministro de Economía se reúne con el FMI para concretar nuevo préstamo](https://www.elcomercio.com/actualidad/negocios/ministro-de-economia-se-reune-con-el-fmi-para-concretar-nuevo-prestamo.html "Ministro de Economía se reúne con el FMI para concretar nuevo préstamo")
-* [FMI reducirá el costo de sus créditos para los países más endeudados](https://www.elcomercio.com/actualidad/negocios/fmi-reducira-costo-creditos-paises-endeudados.html "FMI reducirá el costo de sus créditos para los países más endeudados")
-* [FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?](https://www.elcomercio.com/actualidad/negocios/ecuador-credito-fmi-bajo-programa-resiliencia-sostenibilidad.html "FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?")
-
-“Ecuador enfrenta una **crisis eléctrica muy difícil** con la peor sequía en muchas décadas. La situación sigue desarrollándose, pero esperamos que tenga un impacto tanto en las **condiciones económicas** como en las necesidades fiscales”, dijo Ana Corbacho, **subdirectora del FMI para América Latina y el Caribe**, en una rueda de prensa.
-
-> Previsão de crescimento do FMI para as principais economias da América Latina em 2025:  
-> 🇦🇷Argentina: 5,0%  
-> 🇧🇴Bolívia: 2,2%  
-> 🇧🇷Brasil: 2,2%  
-> 🇨🇱Chile: 2,4%  
-> 🇨🇴Colômbia: 2,5%  
-> 🇨🇷Costa Rica: 3,5%  
-> 🇸🇻El Salvador: 3,0%  
-> 🇪🇨 Equador: 1,2%  
-> 🇬🇹Guatemala: 3,6%  
->   
-> ➡️[https://t.co/4Wkdy5zbak](https://t.co/4Wkdy5zbak) [pic.twitter.com/thHhhn4TwC](https://t.co/thHhhn4TwC)
-> 
-> — FMI (@FMInoticias) [October 25, 2024](https://twitter.com/FMInoticias/status/1849840079943921839?ref_src=twsrc%5Etfw)
-
-Así, Corbacho reconoció que las perspectivas de crecimiento anunciadas esta semana **0,3 % para este año y 1,2 % para el próximo no son muy realistas**.
-
-El Gobierno de Daniel Noboa calificó la sequía como **“la peor de las últimas seis décadas”**, y desde hace más de un mes Ecuador afronta también fuertes restricciones energéticas.
-
-El directorio del FMI aprobó en mayo un nuevo programa de **crédito de 48 meses para Ecuador**, con el objetivo de permitir el acceso a un préstamo de **4 000 millones de dólares** y un desembolso inmediato de **1 000 millones de dólares**.
-
-Programa para apoyar las políticas de Ecuador
----------------------------------------------
-
-El programa se firmó bajo el **Servicio Ampliado del Fondo (SAF)**, con el objetivo de apoyar las políticas de Ecuador para estabilizar la economía, salvaguardar la dolarización y sentar las bases para un crecimiento sostenible e inclusivo, según el FMI.
-
-Corbacho señaló que las autoridades han hecho “un progreso muy fuerte en el avance de su programa de estabilización” y “tomaron **medidas fiscales** muy importantes que ya muestran resultados con una mejora en la posición fiscal”.
-
-“También vemos que las comisiones de liquidez y, en última instancia, la posición de reserva del país son más fuertes de lo que esperábamos cuando **aprobamos el programa en mayo**“, afirmó Corbacho.
-
-Por su parte, **Rodrigo Valdés, director del FMI para América Latina y el Caribe,** detalló que se está cerca de **“tener la nueva revisión del programa”** y felicitó a las autoridades ecuatorianas por cumplir con las metas establecidas.
-
-“Las autoridades han estado implementando esto de manera muy sólida. Así que somos muy optimistas, al menos desde el lado del **compromiso de las autoridades** sobre su propio programa que ha sido apoyado por el panel. Habrá una misión pronto para esta revisión”, agregó.
-
-Hace unas semanas, el FMI informó que las autoridades ecuatorianas están considerando solicitar un nuevo crédito de resiliencia, un **MSR (RSF, en inglés)**, un mecanismo que proporciona financiación asequible a largo plazo a los países que emprenden reformas para reducir los riesgos para la estabilidad.
-
-EE. UU. investiga a Emilio Azcárraga de Televisa por caso FIFAgate
-==================================================================
-
-Emilio Azcárraga Jean, presidente ejecutivo del Consejo de Grupo Televisa, solicitó una licencia con efecto inmediato.
-----------------------------------------------------------------------------------------------------------------------
-
-![Fotografía del 28 de mayo de 2024 del propietario del club América y presidente de Grupo Televisa, Emilio Azcárraga Jean, durante un acto protocolario en el estadio Azteca de Ciudad de México.](https://www.elcomercio.com/wp-content/uploads/2024/10/azcarraga_mexico_1.jpg)
-
-**Emilio Azcárraga Jean**, presidente ejecutivo del Consejo del Grupo Televisa, el conglomerado de medios más grande de Latinoamérica, solicitó una licencia con efecto inmediato mientras se lleva a cabo una investigación por el Departamento de Justicia de Estados Unidos en relación con la Federación Internacional de Fútbol Asociación (FIFA), informó la compañía.
-
-“Grupo Televisa dio a conocer que su Consejo de Administración aprobó una propuesta del Sr. Emilio Azcárraga Jean, presidente ejecutivo del Consejo, **para tomar licencia, con efecto inmediato, en tanto se resuelve la investigación** que está llevando a cabo el Departamento de Justicia de los EEUU, relacionada con la FIFA”, señala el reporte financiero enviado a la Bolsa Mexicana de Valores (BMV).
-
-### Más noticias:
-
-* [Una ecuatoriana entre las estrellas del Mundial Femenino sub-17](https://www.elcomercio.com/deportes/futbol/caprice-chichiolo-mundial-ecuador-femenino.html "Una ecuatoriana entre las estrellas del Mundial Femenino sub-17")
-* [Damián ‘Kitu’ Díaz inicia su rehabilitación en Banfield](https://www.elcomercio.com/deportes/damian-kitu-diaz-rehabilitacion-banfield-lesion.html "Damián ‘Kitu’ Díaz inicia su rehabilitación en Banfield")
-* [Kendry Páez nuevamente es tendencia en Ecuador](https://www.elcomercio.com/deportes/futbol/kendry-paez-indor-futbol-tendencia.html "Kendry Páez nuevamente es tendencia en Ecuador")
-
-El caso, que había sido revelado inicialmente por Televisa, el pasado 30 de agosto, **involucra presuntos sobornos a directivos de la FIFA** para obtener los derechos de transmisión de los mundiales de fútbol de 2018, 2022, 2026 y 2030.
-
-Azcárraga Jean, quien ha liderado Televisa durante más de dos décadas, tras suceder a su **padre quien fundó la empresa en 1973**, y es una de las figuras más influyentes en los medios de comunicación en México y Latinoamérica, decidió apartarse de su cargo en medio de las crecientes presiones legales que enfrenta el conglomerado.
-
-Aunque el impacto económico y reputacional de esta investigación aún es incierto, la empresa subrayó que seguirá cooperando plenamente con las autoridades para esclarecer los hechos.
-
-“La compañía tuvo conocimiento que la investigación que lleva a cabo el Departamento de Justicia de los EEUU, relacionada con la FIFA, **pudiera tener un impacto material en la situación financiera** o resultados de operación de la compañía. La compañía no puede predecir el resultado de la investigación o si efectivamente tendrá un impacto material”, informó.
-
-La investigación forma parte de un caso más amplio que involucra a varias empresas y directivos en el **esquema de corrupción conocido como “FIFAgate”**, que ha sacudido al mundo del fútbol en los últimos años.
-
-Desde la revelación de la reapertura del caso en agosto, las acciones de Televisa han mostrado cierta volatilidad en los mercado.
-
-Sin embargo, Azcárraga Jean continuará vinculado a la empresa, aunque con su licencia, **el conglomerado televisivo enfrenta un desafío clave** en medio de un contexto ya complejo para la industria mediática en México y a nivel global. 
-
-No te pierdas – El Confesionario
---------------------------------
-
-Pronóstico señala temperaturas de hasta 28 grados en Quito este viernes 25 de octubre
-=====================================================================================
-
-Inamhi advierte altas temperaturas, radiación en niveles extremadamente altos y ráfagas de viento. En la tarde, se prevén lluvias
----------------------------------------------------------------------------------------------------------------------------------
-
-![Inamhi prevé altas temperaturas hasta el 27 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/temperaturas-Quito.jpg)
-
-El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer el pronóstico **del clima** presente en Quito este viernes 25 de octubre, que contempla temperaturas de hasta 28 grados.
-
-### Más noticias
-
-* [Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi](https://www.elcomercio.com/actualidad/quito/este-viernes-25-de-octubre-dia-mas-caluroso-en-quito-segun-inamhi.html "Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi")
-* [Las altas temperaturas afectan a Quito. ¿Cuándo vuelve la lluvia?](https://www.elcomercio.com/actualidad/quito/altas-temperaturas-quito-lluvia-radiacion.html "Las altas temperaturas afectan a Quito. ¿Cuándo vuelve la lluvia?")
-* [Una persona murió en incendio en Chimbacalle, Quito](https://www.elcomercio.com/actualidad/quito/una-persona-murio-en-incendio-en-chimbacalle-quito.html "Una persona murió en incendio en Chimbacalle, Quito")
-
-Incremento de temperaturas
---------------------------
-
-El Inamhi emitió la **advertencia meteorológica 54,** la cual advierte que se registrarán altas y muy altas temperaturas, radiación y ráfagas de viento en Ecuador.
-
-Esta alerta estará vigente hasta el domingo 27 de octubre. Los días con mayor intensidad y riesgo son el **25 y 26 de octubre**.
-
-Las provincias más afectadas serán **Guayas, El Oro, Manabí y Los Ríos**, en el Litoral. Así mismo, la Amazonía registrará las altas temperaturas.
-
-En la región Interandina, el **riesgo de las altas temperaturas** será mayor en Loja, Azuay, Imbabura y Pichincha. Las lluvias en la **zona austral** podrían presentarse, pero serían leves y puntuales. No se prevén lluvias intensas en esa zona.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #54 l Entre el 24 y 27 de octubre se presentarán Muy Altas Temperaturas, Radiación y Ráfagas de viento en la Amazonía, Sierra y zona centro – sur del Litoral. 🌤️🌡️🥵  
->   
-> Los días con mayor intensidad y riesgo son el 25 y 26 de octubre. Tome precauciones🔥 [pic.twitter.com/MmfIS7cExW](https://t.co/MmfIS7cExW)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 24, 2024](https://twitter.com/inamhi_ec/status/1849530183893545158?ref_src=twsrc%5Etfw)
-
-Quito registrará temperaturas de hasta 28 grados
-------------------------------------------------
-
-**Cristian Paliz**, máster en Meteorología y especialista en Pronósticos del Inamhi, **explicó a El Comercio** que las temperaturas pueden incrementarse, sobre todo en horas del mediodía.
-
-La **temperatura en Quito** y sobre todo en el valle puede **alcanzar los 28 grados centígrados**.
-
-Sin embargo, también se **registra nubosidad en el cielo,** lo cual incrementa la probabilidad de chubascos y lluvias ocasionales durante la tarde.
-
-En horas de la tarde de este viernes 25 de octubre, se prevé presencia de lluvias leves en el norte, sur de Quito y valles. También habrá **presencia de ráfagas de viento**.
-
-Durante la noche y madrugada del sábado 26 de octubre, el cielo permanecerá parcialmente nublado y no se espera presencia de lluvias.
-
-Durante la noche, se esperan **temperaturas mínimas** de hasta 11 [grados centígrados](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Según Madelyn Enríquez, analista de Pronósticos del Inamhi, **este viernes 25 de octubre será el día más caluroso en la semana.**
-
-A estas condiciones se suman los **altos niveles de radiació**n debido a que la poca nubosidad en el cielo permite el paso directo de los rayos solares.
-
-Tenga precaución y use protector solar y ropa que cubra la piel. **Manténgase hidratado.**
-
-> 🌦️[#ElClimaQuiteño](https://twitter.com/hashtag/ElClimaQuite%C3%B1o?src=hash&ref_src=twsrc%5Etfw) | Pronóstico para el viernes 25 de octubre 2024, según el [@inamhi\_ec](https://twitter.com/inamhi_ec?ref_src=twsrc%5Etfw):  
->   
-> 🌡️Temperatura: 22°C y 28°C.  
-> 🌞Radiación: Extremadamente alto  
-> ☁️Mañana poco nubosa, ráfagas de viento, parcial nublado y chubascos por la tarde.  
->   
-> ✅Usa protector solar y lleva paraguas [pic.twitter.com/itpilyhNCY](https://t.co/itpilyhNCY)
-> 
-> — COE Quito (@coequito) [October 25, 2024](https://twitter.com/coequito/status/1849867181162627222?ref_src=twsrc%5Etfw)
-
-¿A qué se deben estas condiciones?
-----------------------------------
-
-Según Paliz, hemos experimentad**o condiciones subsidentes**, las cuales inhiben las lluvias, por ello hay presencia de altas temperaturas y lluvias escasas.
-
-Estas condiciones subsidentes causan que **haya descensos de masa de aire seco** desde niveles más altos de la tropósfera, lo que genera un calentamiento por descenso de estas masas de aire.
-
-Además, la falta de **nubosidad en el cielo** durante la mañana incrementa los registros de temperatura, ya que hay paso directo de los rayos solares a la superficie terrestre.
-
-La próxima semana entramos a condiciones convergentes, influenciados por una onda tropical, lo que favorece **presencia de lluvias**.
-
-> [#MonitoreoSatelital](https://twitter.com/hashtag/MonitoreoSatelital?src=hash&ref_src=twsrc%5Etfw) 🛰️l Viernes, 25 de octubre (11h00): Cielos pocos nubosos, masas de aire cálidas y la radiación solar diurna elevan las temperaturas en la amazonia y sierra. Advertencia #54 Ante incremento de temperatura diurna hasta el 27 oct. 🥵🌤️☂️ Lluvias por la tarde. 🌦️ [pic.twitter.com/Cvmm0gVxPg](https://t.co/Cvmm0gVxPg)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 25, 2024](https://twitter.com/inamhi_ec/status/1849848523803734276?ref_src=twsrc%5Etfw)
-
-Elecciones en Uruguay: ¿giro la izquierda o continuidad?
-========================================================
-
-Según las últimas encuestas, la consultora Factum arrojó que el Frente Amplio alcanzaría el 44 % de los votos.
---------------------------------------------------------------------------------------------------------------
-
-![El candidato a la presidencia de Uruguay por el oficialista Partido Nacional, Álvaro Delgado, habla durante el acto de cierre de campaña, este martes en Las Piedras (Uruguay).](https://www.elcomercio.com/wp-content/uploads/2024/10/alvaro-delgado-uruguay.jpg)
-
-A tan solo dos días de las **elecciones presidenciales** y **parlamentarias** en [Uruguay](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html"), la vuelta de la izquierda al poder o la **continuidad de la actual coalición** de Gobierno es una incógnita. Esto en medio de una **campaña “pobre”** que hasta el momento no logra convencer al electorado.
-
-### Más noticias
-
-* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
-* [Este es el país más caro de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html")
-* [Médica personal de José Mujica habló de su estado de salud](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")
-
-Con **Yamandú Orsi** liderando todas las encuestas, el o**positor Frente Amplio** buscará volver tras cinco años y luego de a cabo la conducción del país sudamericano en el período 2005-2020.
-
-Mientras tanto, las **cuatro fuerzas políticas** de la coalición gobernante buscarán unir nuevamente esfuerzos para seguir adelante por otros cinco años.
-
-Por el momento, el **oficialista Álvaro Delgado** es segundo en todas las encuestas, mientras que Andrés Ojeda -del Partido Colorado- es tercero.
-
-Para ser electo, cualquiera de los candidatos deberá superar el 50 % de los votos válidos emitidos por los ciudadanos. De lo contrario, los dos más votados avanzarán a una segunda vuelta el 27 de noviembre.
-
-No se da por ganador a ninguno en las elecciones en Uruguay
------------------------------------------------------------
-
-En diálogo con el **politólogo Alfonso Lessa** indica que por el momento no da por hecha la victoria de ningún candidato tanto en la primera como en una **eventual segunda vuelta.**
-
-Explica que el número de indecisos es alto y **“no parece ser totalmente favorable** al Frente Amplio”.
-
-Por otra parte, dice que un salto **de Ojeda al segundo lugar** para avanzar a la siguiente instancia sería “una hazaña política” y repasa que algunas encuestas lo colocan cerca.
-
-Asimismo, apunta que una **eventual victoria de la oposición** se daría en medio de un escenario de “mucha negociación” ya que -en su opinión- podría hacerlo sin lograr la mayoría parlamentaria. De ser así, sería la primera vez que el **Frente Amplio gobernaría** de esta manera.
-
-Lessa también habla de la **posible aprobación del plebiscito** propuesto por la central sindical PIT-CNT para reformar la seguridad social y lo que esto podría generar a futuro. Este también se votará el domingo 27 de octubre.
-
-“Si triunfa va a generar problemas para cualquier Gobierno. Cuando uno habla con empresarios y demás ves que lo que les preocupa es que se pueda aprobar la **reforma de la seguridad social**”, detalla.
-
-En ese contexto, añade que en el **presente ciclo de elecciones el país** vivió una “campaña pobre” por parte de todos los partidos políticos.
-
-“No ha habido grandes temas de debate, la gente no se movilizaron, ninguno de los candidatos es carismático. Ahora están en esta cosa. Pero ha sido todo **más bien superficial**”, afirma.
-
-Optimismo, certezas y renovación
---------------------------------
-
-“Nuestra **fuerza política está bien** y vamos a ser la **fuerza política mayoritaria**, porque hace tiempo que viene siendo así. Eso no es ninguna novedad. Hay mucha expectativa de la **mayoría parlamentaria**, de la segunda vuelta. Con calma pero con optimismo”, dijo días atrás Orsi en una rueda de prensa.
-
-Allí puntualizó que “es probable” una segunda vuelta ya que en Uruguay “es muy difícil” lograr una victoria en las elecciones de octubre.
-
-“Evidentemente hay un clima muy diferente y muy auspicioso para nuestro Frente Amplio. Hay un entusiasmo militante, una alegría y una **esperanza en la gente que aparte te lo transmite**”, concluyó.
-
-Por su parte, Delgado dijo en un acto que su **partido representa la esperanza nacional** y que es “mucho más que la continuidad del rumbo”.
-
-“Hoy somos la esperanza nacional de que este rumbo continúe y que **Uruguay no retroceda.** Somos las certezas. Este partido, nuestro Partido Nacional, es el que hoy le da certezas a la gente. Certezas a los que nos votan y seguramente también a los que no nos votan”, enfatizó.
-
-En tanto, Ojeda indicó en un acto que su fuerza está **“donde nadie pensó”** que iba a estar y en un lugar “que tiene a muchísima gente enojada y nerviosa”.
-
-“Hace un buen rato que venimos diciendo que **caminamos con dos claves: la renovación y la unidad**”, afirmó el candidato, quien añadió que el Partido Colorado está “a un paso” de pelear por la Presidencia.
-
-Según las últimas encuestas, la consultora Factum arrojó que el Frente Amplio alcanzaría el 44 % de los votos, mientras que el 24 % sería para el Partido Nacional y el 17 % para el Partido Colorado.
-
-En tanto, la consultora Cifra le dio **44 % al Frente Amplio, 24 % al Partido Nacional y 14 % al Partido Colorado.**
-
-Lo arrojado por estas encuestas indica que las **elecciones presidenciales** del país suramericano se definirán en una segunda vuelta.
-
-El té verde fortalece la salud mental y emocional 
-==================================================
-
-El té verde es una bebida rica en antioxidantes que mejora la salud mental y reduce la ansiedad.
-------------------------------------------------------------------------------------------------
-
-![El té verde, valorado por su sabor y beneficios para la salud, puede fortalecer la salud emocional y cognitiva. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/te-verde-salud.jpg)
-
-El **té verde** ha sido valorado durante siglos no solo por su sabor, sino también por sus **múltiples beneficios para la salud**.  
-
-### Más noticias
-
-* [Hoy es el Día del Té, una bebida con múltiples variedades y beneficios](https://www.elcomercio.com/tendencias/dia-te-variedades-multiples-beneficios.html "https://www.elcomercio.com/tendencias/dia-te-variedades-multiples-beneficios.html")
-* [El té verde puede dificultar la digestión de los carbohidratos](https://www.elcomercio.com/tendencias/ciencia/teverde-digestion-carbohidrato-almidon-estudio.html "https://www.elcomercio.com/tendencias/ciencia/teverde-digestion-carbohidrato-almidon-estudio.html")
-
-En los últimos años, **investigaciones han demostrado que esta bebida puede tener un impacto positivo en la salud mental**. A continuación, te contamos, cómo el té verde puede **fortalecer la salud emocional y cognitiva**, basándose en estudios científicos recientes. 
-
-**Beneficios del té verde para la salud mental** 
--------------------------------------------------
-
-**El té verde contiene compuestos bioactivos** que pueden **mejorar la función cerebral**. Entre estos se encuentran las **catequinas**, que son **poderosos antioxidantes**. Estos compuestos **ayudan a proteger las células del cerebro del daño oxidativo**, lo que puede ser crucial para **mantener una buena salud mental** a lo largo del tiempo, a decir de [Bupa Salud](https://www.bupasalud.com/salud/beneficios-te-verde "https://www.bupasalud.com/salud/beneficios-te-verde"). 
-
-**Mejora de la memoria y atención** 
-------------------------------------
-
-Un **estudio publicado en la National Library of Medicine** destaca que **el té verde puede mejorar las funciones cognitivas**, especialmente en áreas como la **memoria y la atención**. Esto se atribuye a su **contenido de cafeína y L-teanina**, un **aminoácido** que promueve la **producción de neurotransmisores como la dopamina y la noradrenalina**, siguiendo con Bupa Salud. 
-
-La **combinación de cafeína y L-teanina crea un efecto sinérgico** que potencia el rendimiento cognitivo sin los efectos secundarios típicos de otras bebidas con cafeína, como el café, a decir de [Infobae](https://www.infobae.com/colombia/2024/10/22/este-es-el-te-conocido-como-oro-verde-que-tiene-beneficios-para-la-salud-mental/ "https://www.infobae.com/colombia/2024/10/22/este-es-el-te-conocido-como-oro-verde-que-tiene-beneficios-para-la-salud-mental/").  
-
-**Reducción de la ansiedad** 
------------------------------
-
-Uno de los beneficios más destacados del té verde es su **capacidad para reducir la ansiedad**. La **L-teanina**, presente en altas concentraciones en esta bebida, tiene **efectos relajantes en el cerebro**. Un estudio mostró que los participantes que consumieron 200 miligramos de L-teanina diariamente durante cuatro semanas experimentaron una **disminución significativa en los niveles de ansiedad y depresión**, de acuerdo con [Healthline](https://www.healthline.com/health/es/beneficios-del-te-verde "https://www.healthline.com/health/es/beneficios-del-te-verde"). Esto sugiere que **el té verde no solo mejora el estado de ánimo**, sino que también **puede ser una herramienta útil para manejar el estrés diario**. 
-
-**Efectos sobre el sueño** 
----------------------------
-
-La calidad del sueño es un componente esencial de la salud mental. El **té verde**, gracias a su contenido de **L-teanina**, puede contribuir a **mejorar la calidad del sueño**. Aunque contiene cafeína, esta sustancia no interfiere con el sueño cuando se consume en cantidades moderadas. De hecho, muchos consumidores reportan una **sensación de calma y relajación después de beberlo**, siguiendo con Healthline.  
-
-**Antioxidantes y su papel en la salud mental** 
-------------------------------------------------
-
-Los **antioxidantes presentes en el té verde** son fundamentales para **combatir el estrés oxidativo**, un factor asociado con diversas **enfermedades mentales**. Los **polifenoles**, especialmente las **catequinas como el EGCG** (epigalocatequina galato), han demostrado tener **propiedades antiinflamatorias y neuroprotectoras**, de acuerdo con Healthline. Esto significa que **pueden ayudar a prevenir o mitigar trastornos neurodegenerativos como el Alzheimer y el Parkinson**. 
-
-**Prevención de enfermedades neurodegenerativas** 
---------------------------------------------------
-
-Investigaciones han sugerido que los **componentes del té verde pueden ofrecer protección contra enfermedades neurodegenerativas**. Estudios realizados en tubos de ensayo han mostrado que **las catequinas pueden proteger las neuronas y reducir el riesgo de desarrollar estas condiciones**, siguiendo con Infobae.  
-
-Este hallazgo resalta la **importancia del té verde** no solo como una bebida saludable, sino también como un **potencial aliado en la prevención de problemas cognitivos** asociados con la edad. 
-
-**Consumo recomendado** 
-------------------------
-
-De acuerdo con Bupa Salud, para obtener los beneficios mencionados, **se recomienda consumir al menos cinco tazas de té verde al día**. Sin embargo, es importante tener en cuenta los **efectos secundarios potenciales** asociados con un **consumo excesivo**, especialmente debido a su **contenido de cafeína**. La moderación es clave para disfrutar de sus beneficios sin experimentar **efectos adversos como insomnio o malestar estomacal**. 
-
-¿Qué pasó con el perro de Liam Payne?
-=====================================
-
-La muerte de Payne continúa bajo investigación.
------------------------------------------------
-
-![Liam Payne junto a su mascota.](https://www.elcomercio.com/wp-content/uploads/2024/10/liam-perrito.png)
-
-La inesperada muerte de [Liam Payne](https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html "https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html") causó gran impacto en sus fans y amigos. Su perro **Stanley será cuidado por su novia,** Kate Cassidy, tras la tragedia.
-
-### Más noticias
-
-* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/entretenimiento/policia-allano-hotel-liam-payne.html "Policía allanó hotel donde se hospedó Liam Payne")
-* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación")
-* [Fans de Liam Payne en Ecuador se unen a los tributos mundiales](https://www.elcomercio.com/tendencias/liam-payne-one-direction-musica-homenajes-tributo.html "Fans de Liam Payne en Ecuador se unen a los tributos mundiales")
-
-La trágica muerte de Liam Payne, exintegrante de One Direction, el 16 de octubre, conmocionó al mundo del espectáculo. Según información de La Nación, el **cantante británico, de 31 años,** falleció tras caer del tercer piso del hotel **Casa Sur en Palermo.**
-
-La noticia se difundió rápidamente, provocando una oleada de homenajes de sus fanáticos y **conmovedores mensajes** de sus excompañeros de banda, como Harry Styles y Niall Horan.
-
-¿Qué pasará con Stanley?
-------------------------
-
-Mientras los **seguidores de Payne** se recuperan de la tristeza, surge una inquietud importante: ¿qué será de su querido perro, Stanley? Adoptado a principios de este año, **Stanley se convirtió en un fiel** compañero del cantante.
-
-Los fans expresaron su **preocupación en redes sociales**, buscando respuestas sobre el bienestar del animal tras la trágica **pérdida de su dueño**. La Nación informó que, **según fuentes cercanas,** la novia de Payne, Kate Cassidy, se quedará al cuidado de Stanley. Imágenes recientes la muestran comprando comida para perros, lo que confirma que el animal estará en buenas manos.
-
-La muerte de Payne **continúa bajo investigación,** y se reveló que los resultados preliminares de la autopsia indican la presencia de **diversas sustancias en su sistema**, incluyendo cocaína rosa y benzodiazepinas. Esta información fue reportada por ABC News. Su padre, Geoff Payne, se trasladó a Buenos Aires para hacerse cargo de los trámites de repatriación del cuerpo.
-
-En medio del dolor, Kate Cassidy compartió en redes sociales un conmovedor homenaje, recordando a Liam como **su mejor amigo y el amor de su vida.** La Nación siguió de cerca esta historia, que no solo resalta la trágica pérdida de un artista, sino también la **importancia del cuidado de los seres queridos**, humanos y animales.
-
-Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025
-======================================================================
-
-Richard Carapaz encabeza una generación ganadora de ciclistas ecuatorianos en equipos de la categoría máxima en el ciclismo de ruta
------------------------------------------------------------------------------------------------------------------------------------
-
-![Richard Carapaz logró otro hito al colocarse líder del Tour de Francia tras la etapa 3 en la edición 2024. Al final se ubicó en el casillero 17 y fue 'rey de la montaña'.](https://www.elcomercio.com/wp-content/uploads/2024/10/Carapaz-3.jpg)
-
-Con la incorporación de **Jefferson Cepeda** al **Movistar Team**, **Ecuador** suma a otro ciclista en la **UCI World Tour**, la máxima categoría del **ciclismo** de ruta en el mundo. El primero fue **Richard Carapaz**, desde el 2016.
-
-Desde entonces, seis ciclistas tricolores han corrido en algún equipo de la máxima división del **ciclismo**.
-
-Ahora, con **Cepeda,** es probable que cinco **ecuatorianos** compitan entre la élite del pedal en el 2025.
-
-### Más noticias:
-
-* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
-* [El ecuatoriano Jefferson Cepeda ficha por el Movistar Team](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-movistar-team-ecuatoriano-ciclismo.html "El ecuatoriano Jefferson Cepeda ficha por el Movistar Team")
-* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
-
-**Richard Carapaz**, **Jhonatan Narváez**, **Jonathan Caicedo**, **Alexander Cepeda**, **Martín López** y desde el 2025 **Jefferson Cepeda** son los ecuatorianos que militan o han militado en escuadras de la **UCI World Tour.**
-
-En un deporte profesional tan complicado y exigente, ver a ecuatorianos brillar en los mejores equipos del mundo es motivo de gran satisfacción y orgullo para los aficionados en el país.
-
-Richard Carapaz
----------------
-
-**Richard Carapaz**, campeón olímpico en **Tokio 2020**, es el máximo referente del **ciclismo ecuatoriano** en la historia.
-
-El carchense llegó a un equipo del **World Tour** (WT), el **Movistar Team**, a mediados del 2016. Fue el primer ecuatoriano en hacerlo.
-
-Antes de llegar a la máxima categoría pasó por los clubes **Team RPM Ecuador** y Panavial – GAD Carchi; el equipo continental colombiano **Strongman-Campagnolo Wilier** y el club español **LIzarte.**
-
-Para el 2017 corrió su primera gran vuelta, la **Vuelta a España**, en la que finalizó en el casillero 36.
-
-**‘Richie’** es el tricolor con más participaciones en grandes vueltas, con un total de 13: Tour de Francia (4), Giro de Italia (3) y Vuelta a España (6).
-
-Ganó el **Giro de Italia** en el 2019, fue segundo en la **Vuelta a España 2020** y tercero en el **Tour de Francia** 2021. Además, subcampeón del **Giro 2022**.
-
-También es campeón del **Tour de Suiza 2021** y ganador de [siete etapas en grandes vueltas](https://www.elcomercio.com/deportes/ciclismo/carapaz-giro-records-mundo-ciclismo.html). ¡Impresionante!
-
-Con 23 triunfos como profesional, **Carapaz** finalizó la temporada 2024 en el puesto 19 del ranking mundial de la **Unión Ciclista Internacional** (UCI).
-
-La ‘**Locomotora del Carchi**‘ tiene contrato el **EF Education-EasyPost** hasta el 2025.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-16-2-1024x683.jpg)
-
-En la gráfica, Jhonatan Narváez y Jefferson Cepeda en un entrenamiento. Foto: IG Jhonatan Narváez
-
-Jhonatan Narváez
-----------------
-
-**Jhonatan Narváez**, de 27 años, competirá en el 2025 para el poderoso **UAE Team Emirates**. En esa escuadra será compañero de **Tadej Pogacar**, uno de los mejores **ciclistas** de todos los tiempos.
-
-En este 2024, el **‘Lagarto’ Narváez** superó a [**Pogacar** en la etapa 1 del Giro de Italia.](https://www.elcomercio.com/deportes/ciclismo/jhonatan-narvaez-giro-italia-llanto.html?)
-
-Esa fue su segunda victoria de etapa en una gran vuelta, sumada a la que ya ganó en el 2020 también en el **Giro de Italia.** Ha competido en siete grandes vueltas: Giro (5) y Vuelta (2).
-
-Con 11 victorias profesionales, incluido el oro en los Juegos Panamericanos 2023, **Narváez** firmó un contrato con UAE hasta el 2026.
-
-El ciclista del **Playón de San Francisco**, en **Sucumbíos**, corrió para el **Ineos Grenadiers** entre 2019 y 2024. Antes, en el 2018, militó en el **Quick-Step Floors** también del WT.
-
-Jefferson Cepeda
-----------------
-
-**Jefferson Alveiro Cepeda**, de 28 años, fichó para el [Movistar Team](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-movistar-team-ecuatoriano-ciclismo.html) por dos temporadas.
-
-En el 2019 se unió al equipo español **Caja Rural – Seguros RGA**, de categoría UCI ProTeam.
-
-Este 2024 ganó el Tour of Qinghai Lake en China, lo que [emocionó a su equipo.](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-gana-china-equipo-ecuatoriano.html) Finalizó la temporada en el casillero 124 del ranking mundial de la UCI.
-
-“He trabajado muy duro para lograrlo y siento que estoy listo para enfrentar nuevos retos y carreras”, dijo sobre su traspaso, agradeciendo además al **Caja Rural**.
-
-Cepeda es otro de los cracks del **Playón de San Francisco**, en **Sucumbíos**, que corren en Europa.
-
-![Alexander Cepeda, ciclista ecuatoriano del EF Education-EasyPost. Foto: EF Education-EasyPost.](https://www.elcomercio.com/wp-content/uploads/2024/05/AlexanderCepedaEFE-1024x683.jpg)
-
-Alexander Cepeda, ciclista ecuatoriano del EF Education-EasyPost. Foto: EF Education-EasyPost.
-
-Alexander Cepeda
-----------------
-
-**Alexander Cepeda**, de 26 años, tiene contrato con **EF Education-EasyPost** hasta finales del 2024.
-
-Finalizó la temporada en el casillero 355 del mundo.
-
-El ‘**Chalequito**‘ tuvo un año destacado y quedó campeón del **Tour de l’Ain**, en **Francia.** En esa carrera además ganó una etapa.
-
-El ciclista del **Playón de San Francisco** tiene seis participaciones en grandes vueltas. Estuvo cinco veces en el **Giro de Italia** y tiene una **Vuelta a España**.
-
-Se unió al **EF Education-EasyPost** en agosto del 2022. Pasó a ese equipo desde el Drone Hopper – Androni Giocattoli, de Italia, de categoría UCI ProTeams.
-
-Martín López
-------------
-
-El imbabureño **[Martín López](https://www.elcomercio.com/deportes/ciclismo/martin-lopez-tour-suiza-ecuatoriano-universidad.html)** debutó este 2024 como parte de primer equipo del Astana.
-
-Con 23 años todavía no tiene victorias profesionales, pero en esta temporada logró mostrarse. Fue quinto en el **Tour de Turquía**, décimo en la **Petronas Le Tour de Langkawi** y finalizó en el casillero 18 del **Tour de Suiza.**
-
-Además, debutó en la **Vuelta a España**, su primera gran vuelta, pero debió [abandonar para la etapa 10 por covid.](https://www.elcomercio.com/deportes/ciclismo/harold-lopez-se-despide-vuelta-a-espana-por-covid.html)
-
-López, de 23 años, finalizó la temporada en el casillero 427 del mundo. Tiene contrato con el **Astana**, del WT, hasta 2025.
-
-![Martín López, ciclista ecuatoriano del Astana en el Tour de Turquía 2024. Foto: @haroldmartinlopez](https://www.elcomercio.com/wp-content/uploads/2024/04/HaroldMartinLopez-1024x683.jpg)
-
-Martín López, ciclista ecuatoriano del Astana en el Tour de Turquía 2024. Foto: @haroldmartinlopez
-
-Jonathan Caicedo
-----------------
-
-Jonathan Caicedo, de 31 años, corrió para el **EF Education-EasyPost** entre el 2019 y el 2023.
-
-Con esa escuadra alcanzó su aclamada victoria de etapa del **Giro de Italia** en el 2020.
-
-En este 2024, con el **Petrolike** de México (categoría continental), ganó la etapa 3 del Sibiu Cycling Tour de Rumanía.
-
-El carchense finalizó el año en el casillero 291 del mundo (cuarto en el ranking de Ecuador).
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBcsSDHoPgQ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBcsSDHoPgQ/?utm_source=ig_embed&utm_campaign=loading)
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C2051H5r624/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Cyclisme Actualités Ecuador 🦅 (@cyclisme\_actualites\_ecuador)](https://www.instagram.com/reel/C2051H5r624/?utm_source=ig_embed&utm_campaign=loading)
-
-¿Cómo será la Vuelta al Ecuador de automovilismo 2024?
-======================================================
-
-La Vuelta al Ecuador de automovilismo 2024 se llevará a cabo entre el 22 y el 30 de noviembre y contará con cinco etapas.
--------------------------------------------------------------------------------------------------------------------------
-
-![Alfonso Quitola y Leo Rojas, primeros inscritos a la Vuelta de Ecuador de automovilismo 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-25T095112.630.jpg)
-
-La **Vuelta al Ecuador** de automovilismo 2024 está a casi un mes de celebrarse y ya cuenta con una organización definida y equipos inscritos. El certamen se llevará a cabo entre el 22 y el 30 de noviembre del 2024 y tendrá cinco etapas.
-
-La competencia tendrá tramos cronometrados y con enlaces que conformarán alrededor de 1 255 kilómetros. Aquel recorrido se llevará a cabo por las regiones **Costa y Sierra** del Ecuador.
-
-### Más noticias:
-
-* [Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-jugo-media-hora-en-su-vuelta-seleccion-de-ecuador.html "Leonardo Campana jugó media hora en su vuelta a la Selección de Ecuador")
-* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
-* [Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?](https://www.elcomercio.com/actualidad/politica/en-que-casos-se-realiza-segunda-vuelta-electoral.html "Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?")
-
-Los lugares del país por los cuales rodarán los vehículos serán la provincia de **El Oro, Loja, Azuay, Cañar, Chimborazo, Tungurahua, Imbabura y Pichincha.**
-
-Dentro de los nueve días para los cuales está planificado el evento, solo cinco contemplarán pruebas para los equipos inscritos. Estos alternarán con una agenda que también contempla fases de descanso y **menesteres protocolares y técnicos**.
-
-¿Cuál es el cronograma de la Vuelta al Ecuador?
------------------------------------------------
-
-El viernes 22 de noviembre del 2024 será el primer día de la **Vuelta al Ecuador** y en él se realizarán verificaciones administrativas, técnicas y de seguridad. Asimismo, tendrá lugar el ‘**shakedown**‘, que es un tramo menor a **siete kilómetros** donde los pilotos podrán llevar al máximo a sus vehículos y definir los últimos ajustes mecánicos.
-
-Aquella prueba preliminar se llevará a cabo en la Pista **La Avanzada de El Oro**. Asimismo, allí también se presentará a las tripulaciones que formarán parte de la competencia. En aquel escenario también habrá la etapa especial ‘**Superprime**‘ durante el 23 de noviembre, la cual se corre en un circuito cerrado y permite que los corredores compitan en paralelo.
-
-La primera etapa será entre **El Oro y Loja** durante el 24 de noviembre, mientras que al día siguiente se celebrará entre Loja y Azuay. El martes 26 habrá descanso y el miércoles 27 se correrá entre Cañar, Chimborazo y Tungurahua.
-
-El jueves 28 habrá una etapa en Tungurahua; al siguente día, descanso. Finalmente, el sábado 30 de noviembre será la etapa **Imbabura – Pichincha** y la premiación en la capital.
-
-¿Cuáles son los inscritos en la Vuelta al Ecuador?
---------------------------------------------------
-
-La **Vuelta al Ecuador** ya cuenta con siete equipos inscritos. Las duplas de pilotos son la de Alfonso Quirola y Leo Rojas, Juan Carlos Velasco y Juan Carlos Núñez, Nicolás Reyes y Pablo Reyes, Santiago Espinoza y Patricio Espinoza, John Zabaleta y Karina Zabaleta.
-
-El vuelo más breve del mundo, un trayecto de solo un minuto y medio
-===================================================================
-
-El avión solo puede transportar a ocho pasajeros.
--------------------------------------------------
-
-![El vuelo más corto del mundo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-3.jpg)
-
-El **transporte aéreo** se encarga de llevar a las **personas** a **diversos destinos**. Existen **vuelos** largos, con duraciones de más de seis horas, pero también hay unos que tardan menos. El más corto del mundo se encuentra en **Escocia**[.](https://es.wikipedia.org/wiki/Vuelo "https://es.wikipedia.org/wiki/Vuelo")
-
-### Más noticias
-
-* [Dos aerolíneas dejan de operar en Ecuador ¿Cuáles son la razones?](https://www.elcomercio.com/actualidad/ecuador/dos-aerolineas-dejan-ecuador.html "Dos aerolíneas dejan de operar en Ecuador ¿Cuáles son la razones?")
-* [Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada](https://www.elcomercio.com/actualidad/ecuador/aeropuerto-mariscal-sucre-de-quito-reprograma-vuelos-de-salida-y-llegada.html "Aeropuerto Mariscal Sucre de Quito reprograma vuelos de salida y llegada")
-* [Aviones sobrevuelan el cielo de Quito, este 23 de octubre, ¿a qué se debe?](https://www.elcomercio.com/actualidad/quito/aviones-sobrevuelan-el-cielo-de-quito-este-23-de-octubre-a-que-se-debe.html "Aviones sobrevuelan el cielo de Quito, este 23 de octubre, ¿a qué se debe?")
-
-El vuelo LM711 de Longanair, una **aerolínea escocesa**, tarda, en promedio, un minuto y 80 segundos. A veces, ha logrado aterrizar en tan solo 53 segundos cuando hay buen viento, **equipaje ligero** y las condiciones son óptimas.
-
-Esta ruta aérea viaja desde Westray hasta Papa Westray, dos pequeñas **islas ubicadas en el archipiélago de las Órcadas.** Con una distancia de 2,7 kilómetros, es reconocida por los **Guinness World Records** como la más corta del mundo.
-
-El vuelo más corto del mundo, una experiencia única en las Islas Órcadas
-------------------------------------------------------------------------
-
-Este **vuelo** fue inaugurado en 1967 y se ha **popularizado** entre los **lugareños** que necesitan ir a la otra isla y los **turistas curiosos** que desean subir en el viaje aéreo más corto. ‘CNN Travel’ explicó que este trayecto solo se realiza entre dos y tres veces diarias.
-
-La Britten-Norman Islander, la **aeronave** encargada de este trayecto, solo tiene **capacidad** para llevar a **ocho pasajeros** y los **medios locales** dicen que se parece más a un paseo en bus.
-
-> [@soygustavoeduardo](https://www.tiktok.com/@soygustavoeduardo?refer=embed "@soygustavoeduardo")
-> 
-> Vamos a tomar el vuelo más corto del mundo [#vuelos](https://www.tiktok.com/tag/vuelos?refer=embed "vuelos") [#viajes](https://www.tiktok.com/tag/viajes?refer=embed "viajes") [#westray](https://www.tiktok.com/tag/westray?refer=embed "westray") [#vuelomascortodelmundo](https://www.tiktok.com/tag/vuelomascortodelmundo?refer=embed "vuelomascortodelmundo")
-> 
-> [♬ Texazz – Jewvicii](https://www.tiktok.com/music/Texazz-7073822734731446273?refer=embed "♬ Texazz - Jewvicii")
-
-Un recorrido flexible
----------------------
-
-La **ruta comienza** en el **Aeropuerto de Kirkwall,** para en Westray y luego se dirige hacia Papa Westray. Durante este viaje, las **personas** pueden decidir en donde bajarse.
-
-No es **permitido** llevar **equipaje a bordo**, quienes viajen con maletas deben llegar 10 minutos antes del **abordaje** para registrarlas.
-
-“Los **aviones** que vuelan a estas **islas** son bastante pequeños, ¡es como subir a un minibús! No se puede llevar **equipaje** de mano a bordo, todo tiene que ir en el **maletero**“, explicó el ‘tiktoker’ Noel Phillips sobre el tema.
-
-> [@naoelphilips](https://www.tiktok.com/@naoelphilips?refer=embed "@naoelphilips")
-> 
-> I took the worlds shortest flight, which is so short it will fit into one TikTok video. [#shortestflight](https://www.tiktok.com/tag/shortestflight?refer=embed "shortestflight")
-> 
-> [♬ original sound – Noel Philips – Noel Philips](https://www.tiktok.com/music/original-sound-Noel-Philips-7428162523683195690?refer=embed "♬ original sound - Noel Philips - Noel Philips")
-
-¿Cuánto cuesta viajar en el vuelo comercial más corto del mundo?
-----------------------------------------------------------------
-
-Depende de la **temporada**, pero suele costar 14,50 libras esterlinas, alrededor de 80 mil pesos colombianos. Además, aquellos que tengan una **dirección** permanente en Colonsay, Orkney, Shetland, Western Isles, Islay, Jura, Caithness y partes de Sutherland tienen derecho a un 50 por ciento de descuento en **viajes aéreos.**
-
-“Para todos los demás, **Loganair** ofrece **tarifas especiales** a través de su **oficina** entre islas, como tarifas para personas mayores, **tarifas para turistas** y **devoluciones** abiertas con precios que oscilan entre £ 17 y £ 45″.
-
-No obstante, quienes no deseen subir en este **avión** por un solo minutos, puede tomar un **ferry**. Este **transbordador** opera en los meses de **verano** y el recorrido alrededor de 20 minutos. Sin embargo, ‘**Simple Flying**‘ indicó que suele atravesar **aguas turbulentas**.
-
-¿Cuál es la importancia de este corto vuelo?
---------------------------------------------
-
-Los lugareños utilizan el **vuelo** para conectar con las **zonas** más pobladas de las islas a través de Kirkwall. Westray tiene una **población** de poco menos de 600 personas, mientras que Papa Westray, o Papay, como también lo conocen las personas oriundas de este sitio, tiene alrededor de 80 personas que consideran la **isla** su hogar.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-6-3-1024x683.jpg)
-
-“Los **vuelos** están subvencionados por el **Gobierno** escocés como Obligaciones de Servicio Público (PSO) para quienes viven en **comunidades isleñas** con la **única alternativa de un viaje** en barco de 20 minutos, que a menudo puede sufrir **interrupciones** debido a las aguas **turbulentas**“, explicó ‘The Scotsman’.
-
-Una persona murió en incendio en Chimbacalle, Quito
-===================================================
-
-El Cuerpo de Bomberos recomienda seguir algunos consejos en las viviendas, más aún en época de apagones
--------------------------------------------------------------------------------------------------------
-
-![Foto referencial. El Cuerpo de Bomberos controla el fuego en una vivienda.](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-estructural.jpg)
-
-El ECU911 informó este **viernes 25 de octubre** sobre una emergencia registrada en un barrio del sur de Quito que implicaba un incendio estructural.
-
-### Más noticias
-
-* [Dos nuevos ataques armados se registraron en Manabí](https://www.elcomercio.com/actualidad/seguridad/dos-nuevos-ataques-armados-se-registraron-en-manabi.html "Dos nuevos ataques armados se registraron en Manabí")
-* [Un incendio se registró en El Panecillo este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/incendio-quito-el-panecillo-miercoles-23-de-octubre.html "Un incendio se registró en El Panecillo este miércoles 23 de octubre")
-* [Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi](https://www.elcomercio.com/actualidad/quito/este-viernes-25-de-octubre-dia-mas-caluroso-en-quito-segun-inamhi.html "Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi")
-
-La emergencia en Chimbacalle
-----------------------------
-
-El servicio de emergencia informó que **recibió una llamada de alerta a** las 21:41 del jueves 24 de octubre, en la que se pedía ayuda.
-
-Se trataba de un **incendio estructural** en la primera planta de una vivienda en las calles Antisana e Illiniza, en el sector de Chimbacalle.
-
-La atención oportuna desde el Centro Zonal 2-9 se realizó con la coordinación del **Cuerpo de Bomberos** Quito, Policía Nacional y el COE Metropolitano.
-
-Estos organismos de socorro acudieron hasta el **sitio de la emergencia** con unidades especializadas para solventar las necesidades de las personas afectadas.
-
-Según los datos proporcionados por las unidades de primera respuesta, una persona resultó afectada y otra persona falleció.
-
-La persona afectada es una mujer de 39 años, quien recibió atención de primeros auxilios hasta estabilizarla y darle de alta en el sitio. Se conoce que la persona fallecida es un varón.
-
-No se conoce las causas de este incendio.
-
-Recomendaciones de seguridad
-----------------------------
-
-Es importante tomar algunas **precauciones en las viviendas**, mucho más en esta época de apagones, cuando tenemos velas prendidas durante horas.
-
-El **Cuerpo de Bomberos** recomienda:
-
-* Verificar las conexiones de gas, que no tengan fugas
-* Asegúrate que las hornillas de la cocina estén apagadas (cocinas de gas)
-* Revisar las conexiones eléctricas para prevenir contocircuitos
-* No dejar velas encendidas sin una persona que las vigile
-* Coloca las velas en sitios seguros y lejos de material inflamable
-* No coloques velas encendidas al alcance de los niños
-
-> 💡[#PrevenciónBQ](https://twitter.com/hashtag/Prevenci%C3%B3nBQ?src=hash&ref_src=twsrc%5Etfw) | Recomendaciones para los cortes de luz.  
->   
-> 🤓👉 Recuerda que es muy importante estar preparados para evitar cualquier accidente.[#SalvamosVidas](https://twitter.com/hashtag/SalvamosVidas?src=hash&ref_src=twsrc%5Etfw) [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HVxNG0u8LX](https://t.co/HVxNG0u8LX)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 16, 2024](https://twitter.com/BomberosQuito/status/1846553001625813081?ref_src=twsrc%5Etfw)
+Además, mencionó que el más reciente intento de ataque en el que estuvo involucrado tuvo lugar en Perú en marzo de este año y añadió que la **Policía Federal de Brasil**, en colaboración con Argentina, frustró en 2023 una operación contra instalaciones de la **comunidad judía** y una segunda contra un empresario.
