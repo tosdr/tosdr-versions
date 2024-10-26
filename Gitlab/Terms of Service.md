@@ -2055,7 +2055,6 @@
                 * [ ]  [PathFactory Analytics](https://handbook.gitlab.com/handbook/marketing/marketing-operations/pathfactory/pathfactory-analytics/)
                 * [ ]  [PathFactory for Sales](https://handbook.gitlab.com/handbook/marketing/marketing-operations/pathfactory/pathfactory-for-sales/)
             * [ ]  [Qualified](https://handbook.gitlab.com/handbook/marketing/marketing-operations/qualified/)
-            * [ ]  [Reachdesk](https://handbook.gitlab.com/handbook/marketing/marketing-operations/reachdesk/)
             * [ ]  [Rev](https://handbook.gitlab.com/handbook/marketing/marketing-operations/rev/)
             * [ ]  [Ringlead](https://handbook.gitlab.com/handbook/marketing/marketing-operations/ringlead/)
             * [ ]  [Self-Service List Imports](https://handbook.gitlab.com/handbook/marketing/marketing-operations/automated-list-import/)
