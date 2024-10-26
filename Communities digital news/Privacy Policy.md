@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-secret-service-2-1200x630.jpg)](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harryo-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/it-changed-everything-for-me-rap-label-founder-reveals-why-hes-backing-trump/)
 
-[Whistleblowers claim Secret Service employees working with Trump were made to sign NDAs](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
+[‘It changed everything for me’: Rap label founder reveals why he’s backing Trump](https://americanwirenews.com/it-changed-everything-for-me-rap-label-founder-reveals-why-hes-backing-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joeariz1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-rally-event-1200x630.jpg)](https://americanwirenews.com/trump-mocks-cnn-anchor-allison-cooper-and-sends-leftists-spiraling/)
 
-[Biden eulogizes ex-congresswoman who isn’t dead](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
+[Trump mocks CNN anchor ‘Allison Cooper’ and sends leftists spiraling](https://americanwirenews.com/trump-mocks-cnn-anchor-allison-cooper-and-sends-leftists-spiraling/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hagari-1200x630.jpg)](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-shooting-banks-1200x630.jpg)](https://americanwirenews.com/rapper-arrested-for-murder-for-hire-plot-days-after-being-awarded-keys-to-chicago/)
 
-[Republicans unite, Kamala ‘out partying’ as Israel begins retaliatory strikes on Iran](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
+Images via U.S. Dept. of Justice/Broward County Sheriff's Office
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jennings-sellers-1200x630.jpg)](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
+[Rapper arrested for murder for hire plot days after being awarded keys to Chicago](https://americanwirenews.com/rapper-arrested-for-murder-for-hire-plot-days-after-being-awarded-keys-to-chicago/)
 
-[CNN commentator dishes up reality check: ‘Thousands of Hitlers … running around college campuses’](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-watters-harris-1-1200x630.jpg)](https://americanwirenews.com/jesse-watters-says-its-all-over-but-the-crying-kamala-has-reached-her-full-potential/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voter-registration-1200x630.jpg)](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
+[Jesse Watters says it’s all over but the crying: ‘Kamala has reached her full potential’](https://americanwirenews.com/jesse-watters-says-its-all-over-but-the-crying-kamala-has-reached-her-full-potential/)
 
-[Thousands of ‘potentially fraudulent voter registration applications’ uncovered, stopped in Pennsylvania](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rapaport-1200x630.jpg)](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-comic-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
+[‘Stop with the Hitler s\*\*t!’ Rapaport takes flamethrower to the left’s most desperate narrative](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
 
-[Trump-hating comic freaks out over polls: ‘It is time to f\*\*king panic’](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-houston-1200x630.jpg)](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-crying-temper-tantrum-1200x630.jpg)](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
+[Here are some of the ‘lowlights’ from Kamala’s dumpster fire Houston rally](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
 
-[Top WaPo editor throws fit, resigns after paper won’t endorse Kamala](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-6-1200x630.jpg)](https://americanwirenews.com/trump-tells-rogan-the-enemy-within-is-a-bigger-problem-than-kim-jong-un/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-survivor1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
+[Trump tells Rogan the ‘enemy within’ is ‘a bigger problem’ than Kim Jong Un](https://americanwirenews.com/trump-tells-rogan-the-enemy-within-is-a-bigger-problem-than-kim-jong-un/)
 
-[Holocaust survivor weighs in on Kamala likening Trump to Hitler: ‘Worst thing I’ve ever heard’](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-morningjoe-1200x630.jpg)](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-trump-1200x630.jpg)
+[‘Morning Joe’ suggests Trump supporters can get out of America](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
 
-### Rogan reveals what finally made him sit down with Trump: ‘I think the timing is perfect’](https://americanwirenews.com/rogan-reveals-what-finally-made-him-sit-down-with-trump-i-think-the-timing-is-perfect/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-1200x630.jpg)
+
+### ‘Screw you!’ Ugly scene on ‘The View’ when Joy Behar blows her stack as Kamala circles the drain](https://americanwirenews.com/screw-you-ugly-scene-on-the-view-when-joy-behar-blows-her-stack-as-kamala-circles-the-drain/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,9 +80,45 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voter-registration-220x180.jpg)](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
+
+[Thousands of ‘potentially fraudulent voter registration applications’ uncovered, stopped in Pennsylvania](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-trump-220x180.jpg)](https://americanwirenews.com/rogan-reveals-what-finally-made-him-sit-down-with-trump-i-think-the-timing-is-perfect/)
+
+[Rogan reveals what finally made him sit down with Trump: ‘I think the timing is perfect’](https://americanwirenews.com/rogan-reveals-what-finally-made-him-sit-down-with-trump-i-think-the-timing-is-perfect/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-survivor1-1200-x-628-220x180.jpg)](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
+
+[Holocaust survivor weighs in on Kamala likening Trump to Hitler: ‘Worst thing I’ve ever heard’](https://americanwirenews.com/holocaust-survivor-weighs-in-on-kamala-likening-trump-to-hitler-worst-thing-ive-ever-heard/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-the-five-discussion-220x180.jpg)](https://americanwirenews.com/tarlov-goes-full-whataboutism-to-defend-harris-inciteful-language/)
 
 [Tarlov goes full whataboutism to defend Harris’ inciteful language](https://americanwirenews.com/tarlov-goes-full-whataboutism-to-defend-harris-inciteful-language/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jennings-sellers-220x180.jpg)](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
+
+[CNN commentator dishes up reality check: ‘Thousands of Hitlers … running around college campuses’](https://americanwirenews.com/cnn-commentator-dishes-up-reality-check-thousands-of-hitlers-running-around-college-campuses/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-comic-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
+
+[Trump-hating comic freaks out over polls: ‘It is time to f\*\*king panic’](https://americanwirenews.com/trump-hating-comic-freaks-out-over-polls-it-is-time-to-fking-panic/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-secret-service-2-220x180.jpg)](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
+
+[Whistleblowers claim Secret Service employees working with Trump were made to sign NDAs](https://americanwirenews.com/whistleblowers-claim-secret-service-employees-working-with-trump-were-made-to-sign-ndas/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hagari-220x180.jpg)](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
+
+[Republicans unite, Kamala ‘out partying’ as Israel begins retaliatory strikes on Iran](https://americanwirenews.com/republicans-unite-kamala-out-partying-as-israel-begins-retaliatory-strikes-on-iran/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-crying-temper-tantrum-220x180.jpg)](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
+
+[Top WaPo editor throws fit, resigns after paper won’t endorse Kamala](https://americanwirenews.com/top-wapo-editor-throws-fit-resigns-after-paper-wont-endorse-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joeariz1-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
+
+[Biden eulogizes ex-congresswoman who isn’t dead](https://americanwirenews.com/joe-eulogizes-ex-congresswoman-who-isnt-dead/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-angrykamala-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/gop-congressional-leaders-call-on-kamala-to-stifle-her-dangerous-rhetoric-about-trump-she-fires-back/)
 
@@ -139,42 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-vance-oreilly-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
 
 [Bill O’Reilly tells Cuomo he ‘let Vance off’ during NewsNation town hall](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hannity-smith-220x180.jpg)](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
-
-[Sean Hannity wallops Stephen A. Smith in heated battle over Kamala’s campaign](https://americanwirenews.com/sean-hannity-wallops-stephen-a-smith-in-heated-battle-over-kamalas-campaign/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-220x180.png)](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
-
-[‘Absolute coward’: Kamala ​​declines appearance on Joe Rogan’s podcast](https://americanwirenews.com/absolute-coward-kamala-declines-appearance-on-joe-rogans-podcast/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kari-lake-220x180.png)](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
-
-[Kari Lake responds to creepy compliment from Bill Clinton](https://americanwirenews.com/kari-lake-responds-to-creepy-compliment-from-bill-clinton/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kmac-djt1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/big-name-reportedly-on-the-list-to-be-trump-white-house-chief-of-staff/)
-
-[Big name reportedly on the list to be Trump White House chief of staff](https://americanwirenews.com/big-name-reportedly-on-the-list-to-be-trump-white-house-chief-of-staff/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-barronfamily-1200-x-628-220x180.jpg)](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
-
-[Barron Trump draws high praise for his humility: ‘Most interesting 18-year-old I’ve met’](https://americanwirenews.com/barron-trump-draws-high-praise-for-his-humility-most-interesting-18-year-old-ive-met/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-facebook-deceased-family-220x180.jpg)](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
-
-[Boy, 15, who shot up parents, three siblings tried to frame younger brother in bizarre twist](https://americanwirenews.com/boy-15-who-shot-up-parents-three-siblings-tried-to-frame-younger-brother-in-bizarre-twist/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-harris-bible-220x180.jpg)](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
-
-[CBS News targets federal minimum wage in battleground states — didn’t think that one through!](https://americanwirenews.com/cbs-news-targets-federal-minimum-wage-in-battleground-states-didnt-think-that-one-through/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hillary-clinton-220x180.png)](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
-
-[Duck Hillary! Clinton’s latest Trump claim comes with a GIANT boomerang!](https://americanwirenews.com/duck-hillary-clintons-latest-trump-claim-comes-with-a-giant-boomerang/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-220x180.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
-
-[Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
