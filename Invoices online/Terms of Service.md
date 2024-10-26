@@ -196,58 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=66728238)  
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=59725327)  
+Entidee Enterprise PTY (ltd)
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=54216874)  
-MONSTER CONNECT (PTY) LTD
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=153270831)  
+NIMAWELL
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=118424570)  
-National Elite Security Services (PTY) LTD
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=144385178)  
-Gemini-IT Group
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=55511810)  
-NEW BEGINNINGS DESIGNS
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=39587107)  
-OXYAIDER (PTY) LTD
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=174243732)  
-NJR ICT Services (Pty) Ltd
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=78143127)  
-Tracknetics
-
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=78341466)  
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=101938727)  
 Roamfree Boerdery (PTY) LTD
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=47604911)  
-Alliance Energy
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=197307205)  
+Baby Toddles Infant Care
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=46149744)  
-KTEN PARTS
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=72188560)  
+Redlum Group (Pty) Ltd
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=95876419)  
-Norton Medical & Consult - Namibia
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=176275719)  
+Multi CNC Solutions CC
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=112569075)  
-Echo Recording Studio cc
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=104472313)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=172948187)  
-Cooper Power South Africa (Pty) LTD
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=149586179)  
+Myfinance-Online
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=e1f3fb2e9ea9b881b5f558ccefa715fbd0328a3bb127b77eeaff2c00c652124d&c=85894832)  
-Lemba Truck Stop
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=180368650)  
+Website Café (PTY) LTD
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=15698466)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=196979435)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=152321681)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=196456531)  
+Kaylas Creations
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=206264021)  
+Tagline Brands
+
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=114983746)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
