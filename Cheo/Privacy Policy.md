@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Mother and daughter smiling at each other](/en/rotatingimages/defaultInterior/Banner-5.jpg)
+![Boy in wheelchair and father smiling at each other](/en/rotatingimages/defaultInterior/Banner-8.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
