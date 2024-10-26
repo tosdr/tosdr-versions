@@ -260,7 +260,7 @@ Other languages:
 * [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (100% translated)")
 * [جهلسری بلوچی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bcc "Policy:Terms of Use/bcc (5% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "Policy:Terms of Use/fa (22% translated)")
-* [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "Policy:Terms of Use/arz (2% translated)")
+* [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "Policy:Terms of Use/arz (3% translated)")
 * [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "Policy:Terms of Use/ps (12% translated)")
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ckb "Policy:Terms of Use/ckb (2% translated)")
 * [ܐܪܡܝܐ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arc "Policy:Terms of Use/arc (0% translated)")
