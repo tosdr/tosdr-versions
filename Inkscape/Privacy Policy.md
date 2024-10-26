@@ -1,14 +1,14 @@
-[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/zh-hans/)
+[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/en/)
 
-[Inkscape](https://inkscape.org/zh-hans/)
-=========================================
+[Inkscape](https://inkscape.org/en/)
+====================================
 
-[自由绘图。](https://inkscape.org/zh-hans/)
---------------------------------------
+[Draw Freely.](https://inkscape.org/en/)
+----------------------------------------
 
 * [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
-* 简体中文
+* English
     
     [English](https://inkscape.org/en/about/privacy/)
     
@@ -42,63 +42,63 @@
     
     [Indonesia](https://inkscape.org/id/about/privacy/)
     
-* [登录](https://inkscape.org/zh-hans/user/login/?next=/zh-hans/about/privacypolicy/)
+* [Log in](https://inkscape.org/user/login/?next=/about/privacy/)
     
-* [注册](https://inkscape.org/zh-hans/user/register/)
+* [Register](https://inkscape.org/user/register/)
     
 
- ![搜索](https://media.inkscape.org/static/images/search.svg)
+ ![Search](https://media.inkscape.org/static/images/search.svg)
 
-* [关于](https://inkscape.org/zh-hans/about/)
-    * [概览](https://inkscape.org/zh-hans/about/overview/)
-    * [功能](https://inkscape.org/zh-hans/about/features/)
-    * [截图](https://inkscape.org/zh-hans/about/screenshots/)
-    * [Governance](https://inkscape.org/zh-hans/*board/)
-    * [许可](https://inkscape.org/zh/about/license/)
-    * [品牌和商标](https://inkscape.org/zh/about/branding/)
-* [下载](https://inkscape.org/zh-hans/release/)
-    * [当前版本 1.4](https://inkscape.org/zh-hans/release/)
-    * [开发版](https://inkscape.org/zh-hans/release/inkscape-master/?latest=1)
-    * [插件](https://inkscape.org/zh-hans/gallery/=extension/)
-* [新闻](https://inkscape.org/zh-hans/news/)
+* [About](https://inkscape.org/about/)
+    * [Overview](https://inkscape.org/about/overview/)
+    * [Features](https://inkscape.org/about/features/)
+    * [Screenshots](https://inkscape.org/about/screenshots/)
+    * [Governance](https://inkscape.org/*leadership-committee/)
+    * [Licensing](https://inkscape.org/about/license/)
+    * [Branding](https://inkscape.org/about/branding/)
+* Download
+    * [Current Stable Version 1.4](https://inkscape.org/release/)
+    * [Unstable development snapshot](https://inkscape.org/release/inkscape-master/?latest=1)
+    * [Extensions](https://inkscape.org/gallery/=extension/)
+* [News](https://inkscape.org/news/)
     * [Calendars](https://inkscape.org/cals/)
     * [Contributor Blog](https://inkscape.org/*membership/blog/)
-* [社区](https://inkscape.org/zh-hans/community/)
-    * [行为守则](https://inkscape.org/zh-hans/community/coc/)
-    * [论坛](https://inkscape.org/zh-hans/forums/)
-    * [聊天室](https://chat.inkscape.org/channel/inkscape_user)
-    * [邮件列表](https://lists.inkscape.org/postorius/lists/?all-lists)
-    * [画廊](https://inkscape.org/zh-hans/gallery/)
-    * [团队](https://inkscape.org/zh-hans/user/teams/)
+* [Community](https://inkscape.org/community/)
+    * [Code of Conduct](https://inkscape.org/community/coc/)
+    * [Forums](https://inkscape.org/forums/)
+    * [Chat](https://chat.inkscape.org/channel/inkscape_user)
+    * [Mailing Lists](https://lists.inkscape.org/postorius/lists/?all-lists)
+    * [Gallery](https://inkscape.org/gallery/)
+    * [Teams](https://inkscape.org/user/teams/)
     * [About Screen Contest](https://inkscape.org/community/about-screen-contests/)
-* [学习资源](https://inkscape.org/zh/learn/)
-    * [常见问题](https://inkscape.org/zh-hans/learn/faq/)
-    * [书籍和手册](https://inkscape.org/zh/learn/books/)
-    * [教程](https://inkscape.org/zh-hans/learn/tutorials/)
-    * [动画](https://inkscape.org/zh/learn/animation/)
-* [贡献](https://inkscape.org/zh/contribute/)
-    * [测试](https://inkscape.org/zh/contribute/testing/)
-    * [Report Bugs](https://inkscape.org/zh/contribute/report-bugs/)
-    * [翻译](https://inkscape.org/zh/contribute/translations/)
-    * [社区任务列表](https://inkscape.org/zh/contribute/to-do-list/)
-    * [促进发展](https://inkscape.org/zh/contribute/promote/)
-    * [贡献者统计](https://inkscape.org/zh/contribute/contributors/)
+* [Learn](https://inkscape.org/learn/)
+    * [FAQ](https://inkscape.org/learn/faq/)
+    * [Books and Manuals](https://inkscape.org/learn/books/)
+    * [Tutorials](https://inkscape.org/learn/tutorials/)
+    * [Animation](https://inkscape.org/learn/animation/)
+* [Contribute](https://inkscape.org/contribute/)
+    * [Testing](https://inkscape.org/contribute/testing/)
+    * [Report Bugs](https://inkscape.org/contribute/report-bugs/)
+    * [Translations](https://inkscape.org/contribute/translations/)
+    * [Community To-Do List](https://inkscape.org/contribute/to-do-list/)
+    * [Promote](https://inkscape.org/contribute/promote/)
+    * [Contributor Stats](https://inkscape.org/contribute/contributors/)
     * [Extensions](https://inkscape.gitlab.io/extensions/documentation/)
-* [开发](https://inkscape.org/zh/develop/)
-    * [开发入门](https://inkscape.org/zh/develop/getting-started/)
-    * [关于 SVG](https://inkscape.org/zh/develop/about-svg/)
-    * [编程规范](https://inkscape.org/zh/develop/coding-style/)
-    * [Bug Management](https://inkscape.org/zh-hans/develop/bug-management/)
-    * [Inkscape 的代码仓库](https://inkscape.org/zh/develop/inkscape-git/)
-    * [调试](https://inkscape.org/zh/develop/debugging/)
-    * [扩展](https://inkscape.org/zh/develop/extensions/)
-* [支持我们](https://inkscape.org/zh-hans/support-us/)
-    * [捐赠](https://inkscape.org/zh-hans/support-us/donate/)
-    * [Contributor Meetings](https://inkscape.org/zh/support-us/hackfests/)
-    * [SVG Standards Work](https://inkscape.org/zh/support-us/svg-standards-work/)
-    * [Sponsors](https://inkscape.org/zh/support-us/sponsors/)
+* [Develop](https://inkscape.org/develop/)
+    * [Getting Started](https://inkscape.org/develop/getting-started/)
+    * [About SVG](https://inkscape.org/develop/about-svg/)
+    * [Coding Style](https://inkscape.org/develop/coding-style/)
+    * [Bug Management](https://inkscape.org/develop/bug-management/)
+    * [Inkscape's Repositories](https://inkscape.org/develop/inkscape-git/)
+    * [Debugging](https://inkscape.org/develop/debugging/)
+    * [Extensions](https://inkscape.org/develop/extensions/)
+* [Support Us](https://inkscape.org/support-us/)
+    * [Donate](https://inkscape.org/support-us/donate/)
+    * [Contributor Meetings](https://inkscape.org/support-us/hackfests/)
+    * [SVG Standards Work](https://inkscape.org/support-us/svg-standards-work/)
+    * [Sponsors](https://inkscape.org/support-us/sponsors/)
 
-[主页](https://inkscape.org/zh-hans/) » [关于](https://inkscape.org/zh-hans/simplified-chinese-about/) » _隐私条款_
+[Home](https://inkscape.org/) » [About](https://inkscape.org/about/) » _Privacy Policy_
 
 Software Privacy Policy
 =======================
@@ -202,10 +202,10 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This document was last updated on June 28, 2016
 
-Inkscape 是遵循[GPL](http://www.gnu.org/licenses/gpl-2.0.html)的自由开源软件。
+Inkscape is Free and Open Source Software licensed under the [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
 
-致谢： [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [作者](https://inkscape.org/zh-hans/credits/ "作者") [![PY](https://media.inkscape.org/static/images/django.svg "此网站运行：
+With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [The Authors](https://inkscape.org/credits/ "The Authors") [![PY](https://media.inkscape.org/static/images/django.svg "This site is running:
 Python 3.6.8
 Django 2.2
-App: CMS [隐私条款]
+App: CMS [Privacy Policy]
 InkscapeWeb 1.6, as of Mon Oct 14 23:27:40 2024 (cf26cc5)")](https://gitlab.com/inkscape/inkscape-web)
