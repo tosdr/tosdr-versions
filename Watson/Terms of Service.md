@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)11°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)10°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Gaza](https://www.watson.ch/fr/gaza/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [Parti socialiste](https://www.watson.ch/fr/parti-socialiste/)
 * [Iran](https://www.watson.ch/fr/iran/)
-* [Lara Gut-Behrami](https://www.watson.ch/fr/lara-gut-behrami/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Santé](https://www.watson.ch/fr/sante/)
+* [Parti socialiste](https://www.watson.ch/fr/parti-socialiste/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [eglise](https://www.watson.ch/fr/eglise/)
-* [Hamas](https://www.watson.ch/fr/hamas/)
+* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
+* [Roger Federer](https://www.watson.ch/fr/roger-federer/)
+* [Lara Gut-Behrami](https://www.watson.ch/fr/lara-gut-behrami/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Espace](https://www.watson.ch/fr/espace/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Marco Odermatt](https://www.watson.ch/fr/marco-odermatt/)
+* [Astronomie](https://www.watson.ch/fr/astronomie/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
 * [McDonald's](https://www.watson.ch/fr/mcdonald-s/)
 * [Faits divers](https://www.watson.ch/fr/faits-divers/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Police](https://www.watson.ch/fr/police/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Paris](https://www.watson.ch/fr/paris/)
-* [France](https://www.watson.ch/fr/france/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
