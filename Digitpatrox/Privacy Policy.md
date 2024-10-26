@@ -20,16 +20,16 @@ Saturday, October 26 2024
 
 Latest
 
-* [The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
-* [It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
-* [Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
-* [Die 6 besten kostenlosen Alternativen zu Microsoft Word](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
-* [LSU vs Texas A&M livestream: How to watch college football Week 9 game online from anywhere](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
-* [Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://digitpatrox.com/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
-* [Boeing reportedly considers selling off its space business](https://digitpatrox.com/boeing-reportedly-considers-selling-off-its-space-business/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-26/)
-* [Intel just won a 15-year legal battle against EU](https://digitpatrox.com/intel-just-won-a-15-year-legal-battle-against-eu/)
-* [Apple defines what we should expect from cloud-based AI security – Computerworld](https://digitpatrox.com/apple-defines-what-we-should-expect-from-cloud-based-ai-security-computerworld/)
+* [Apple’s shifting Vision Pro priorities – Computerworld](https://digitpatrox.com/apples-shifting-vision-pro-priorities-computerworld/)
+* [Which New Kindle Is Best For You](https://digitpatrox.com/which-new-kindle-is-best-for-you/)
+* [Is Loose Tea Better Than Bagged?](https://digitpatrox.com/is-loose-tea-better-than-bagged/)
+* [8BitDo Introduces Its First Smartphone Gamepad](https://digitpatrox.com/8bitdo-introduces-its-first-smartphone-gamepad/)
+* [ChatGPT-Cheat Sheet: Ein vollständiger Leitfaden für 2024](https://digitpatrox.com/chatgpt-cheat-sheet-ein-vollstandiger-leitfaden-fur-2024/)
+* [We just benchmarked the Snapdragon 8 Elite — the iPhone 16 Pro is officially on notice](https://digitpatrox.com/we-just-benchmarked-the-snapdragon-8-elite-the-iphone-16-pro-is-officially-on-notice/)
+* [Russia sentences REvil ransomware members to over 4 years in prison](https://digitpatrox.com/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/)
+* [Apple wins a battle (and $250) in its smartwatch patent fight with Masimo](https://digitpatrox.com/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo/)
+* [NYT Connections Today: Hints and Answers for October 26, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-26-2024/)
+* [UK government says new data bill will free up millions of hours of public sector time](https://digitpatrox.com/uk-government-says-new-data-bill-will-free-up-millions-of-hours-of-public-sector-time/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729515889/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-The-Benefits-of-Tea-Nov-Dec24-1024)](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3586849-0-66931100-1729870957-shutterstock_editorial_2420699019.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apples-shifting-vision-pro-priorities-computerworld/)
     
-    [The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
+    [Apple’s shifting Vision Pro priorities – Computerworld](https://digitpatrox.com/apples-shifting-vision-pro-priorities-computerworld/)
     
-    18 mins ago
+    6 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/call-of-duty-black-ops-6-cover-image.jpg)](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
+* [![](https://lifehacker.com/imagery/articles/01JASWRP3XSRTY1HQQ0KF0863J/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/which-new-kindle-is-best-for-you/)
     
-    [It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
+    [Which New Kindle Is Best For You](https://digitpatrox.com/which-new-kindle-is-best-for-you/)
     
-    21 mins ago
+    33 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/CLJaFKTNRBdaManAfvkpDf-1200-80.jpg)](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728507774/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-Is-Loose-Tea-Better-Than-Bagged-Nov-Dec24-1024)](https://digitpatrox.com/is-loose-tea-better-than-bagged/)
     
-    [Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2023/05/tr52623-microsoft365-substrate.jpeg)](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
-    
-    [Die 6 besten kostenlosen Alternativen zu Microsoft Word](https://digitpatrox.com/die-6-besten-kostenlosen-alternativen-zu-microsoft-word/)
+    [Is Loose Tea Better Than Bagged?](https://digitpatrox.com/is-loose-tea-better-than-bagged/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/bnw5VKpC2AfPoeYBPPYtMH-1200-80.png)](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/28.jpg)](https://digitpatrox.com/8bitdo-introduces-its-first-smartphone-gamepad/)
     
-    [LSU vs Texas A&M livestream: How to watch college football Week 9 game online from anywhere](https://digitpatrox.com/lsu-vs-texas-am-livestream-how-to-watch-college-football-week-9-game-online-from-anywhere/)
+    [8BitDo Introduces Its First Smartphone Gamepad](https://digitpatrox.com/8bitdo-introduces-its-first-smartphone-gamepad/)
+    
+    1 hour ago
+    
+* [![](https://assets.techrepublic.com/uploads/2023/04/chatgpt-adobe-stock-irissca.jpg)](https://digitpatrox.com/chatgpt-cheat-sheet-ein-vollstandiger-leitfaden-fur-2024/)
+    
+    [ChatGPT-Cheat Sheet: Ein vollständiger Leitfaden für 2024](https://digitpatrox.com/chatgpt-cheat-sheet-ein-vollstandiger-leitfaden-fur-2024/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [6 mins ago
     
-    ### The Benefits of Tea – Consumer Reports](https://digitpatrox.com/the-benefits-of-tea-consumer-reports/)
-* [21 mins ago
+    ### Apple’s shifting Vision Pro priorities – Computerworld](https://digitpatrox.com/apples-shifting-vision-pro-priorities-computerworld/)
+* [33 mins ago
     
-    ### It’s a Great Year to Check Out the New Call of Duty](https://digitpatrox.com/its-a-great-year-to-check-out-the-new-call-of-duty/)
+    ### Which New Kindle Is Best For You](https://digitpatrox.com/which-new-kindle-is-best-for-you/)
 * [1 hour ago
     
-    ### Human error is cybersecurity’s number one concern, Kaseya report finds](https://digitpatrox.com/human-error-is-cybersecuritys-number-one-concern-kaseya-report-finds/)
+    ### Is Loose Tea Better Than Bagged?](https://digitpatrox.com/is-loose-tea-better-than-bagged/)
 
 Most Popular Topics
 
-* [August 19, 2024
+* [September 6, 2024
     
-    ### Big tech is flexing its muscle to try and ‘water down’ California’s AI regulation – here’s why that’s a problem](https://digitpatrox.com/big-tech-is-flexing-its-muscle-to-try-and-water-down-californias-ai-regulation-heres-why-thats-a-problem/)
-* [August 22, 2024
+    ### How to use slicers in Excel – Computerworld](https://digitpatrox.com/how-to-use-slicers-in-excel-computerworld/)
+* [4 weeks ago
     
-    ### August updates cause Windows Server boot issues, freezes](https://digitpatrox.com/august-updates-cause-windows-server-boot-issues-freezes/)
-* [September 2, 2024
+    ### Get 74% off a Powerful Grade A Refurbished MacBook Air Through 10/27](https://digitpatrox.com/get-74-off-a-powerful-grade-a-refurbished-macbook-air-through-10-27/)
+* [August 28, 2024
     
-    ### How to Change Minecart Speed in Minecraft](https://digitpatrox.com/how-to-change-minecart-speed-in-minecraft/)
+    ### This HR Learning Bundle is Packed with Lessons to Help You Thrive](https://digitpatrox.com/this-hr-learning-bundle-is-packed-with-lessons-to-help-you-thrive/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Boeing reportedly considers selling off its space business](https://digitpatrox.com/boeing-reportedly-considers-selling-off-its-space-business/)
 * [3 hours ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for October 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-26/)
-* [4 hours ago
+    ### Russia sentences REvil ransomware members to over 4 years in prison](https://digitpatrox.com/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/)
+* [3 hours ago
     
-    ### Intel just won a 15-year legal battle against EU](https://digitpatrox.com/intel-just-won-a-15-year-legal-battle-against-eu/)
+    ### Apple wins a battle (and $250) in its smartwatch patent fight with Masimo](https://digitpatrox.com/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo/)
+* [3 hours ago
+    
+    ### NYT Connections Today: Hints and Answers for October 26, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-26-2024/)
 
 Most Viewed Topics
 
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
