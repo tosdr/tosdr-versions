@@ -43,18 +43,18 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
-* [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
-* [![مجلسِ سرمایه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![مجلسِ سرمایه](https://karkhane.org/app/uploads/2022/02/majles-e-sarmaye-95x65.jpg)](https://karkhane.org/3687/%d9%85%d8%ac%d9%84%d8%b3-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87/)[مجلسِ سرمایه](https://karkhane.org/3687/%d9%85%d8%ac%d9%84%d8%b3-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87/)
 * [![داستان درجه دو - اورهان کمال](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![داستان درجه دو - اورهان کمال](https://karkhane.org/app/uploads/2020/09/orhan-kamal-daraje-do-95x65.jpg)](https://karkhane.org/2150/%d8%af%d8%b1%d8%ac%d9%87-%d8%af%d9%88/)[داستان کوتاه: درجه دو](https://karkhane.org/2150/%d8%af%d8%b1%d8%ac%d9%87-%d8%af%d9%88/)
 * [![نمایش‌نامه «خطِ خواب» (۱)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نمایش‌نامه «خطِ خواب» (۱)](https://karkhane.org/app/uploads/2022/02/xat-e-xaab-1-95x65.jpg)](https://karkhane.org/3696/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%ae%d8%b7-%d8%ae%d9%88%d8%a7%d8%a8-%db%b1/)[نمایش‌نامه «خطِ خواب» (۱)](https://karkhane.org/3696/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d8%ae%d8%b7-%d8%ae%d9%88%d8%a7%d8%a8-%db%b1/)
+* [![درباره کمک‌پرستاران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![درباره کمک‌پرستاران](https://karkhane.org/app/uploads/2023/05/darbare-komakparastaran-95x65.jpg)](https://karkhane.org/4939/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%da%a9%d9%85%da%a9%d9%be%d8%b1%d8%b3%d8%aa%d8%a7%d8%b1%d8%a7%d9%86/)[درباره‌ی کمک‌پرستاران](https://karkhane.org/4939/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%da%a9%d9%85%da%a9%d9%be%d8%b1%d8%b3%d8%aa%d8%a7%d8%b1%d8%a7%d9%86/)
+* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
