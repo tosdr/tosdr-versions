@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 6 9 , 0 1 2
+1 , 0 6 9 , 0 4 0
 
 * [Play](#)
     
@@ -135,7 +135,7 @@ Upcoming
 
 Add a daily reminder to your calendar:
 
-[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20241025T100000+0000/20241025T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20241025T100000+0000&et=20241025T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-10-25T10:00:00+00:00 2024-10-25T10:30:00+00:00
+[Google](https://www.google.com/calendar/render?action=TEMPLATE&text=Claim+Free+Crypto&dates=20241026T100000+0000/20241026T103000+0000&details=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&location=&sf=true&output=xml&recur=RRULE:FREQ%3DDAILY)  \[  [Yahoo](https://calendar.yahoo.com/?v=60&view=d&type=20&title=Claim+Free+Crypto&st=20241026T100000+0000&et=20241026T103000+0000&desc=www.pipeflare.io+-+Claim+Free+ZEC%2C+MATIC%2C+and+1FLR&uid=)  \[  Apple 2024-10-26T10:00:00+00:00 2024-10-26T10:30:00+00:00
 
 Close
 
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729890608) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729912153) to resend activation email.
 
 OK
 
@@ -305,7 +305,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729890608) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1729912153) to resend activation email.
 
 OK
 
@@ -1170,7 +1170,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 365000
+x 385000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1199,7 +1199,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 600000
+x 630000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1235,7 +1235,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 365000
+x 385000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1264,7 +1264,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 600000
+x 630000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
