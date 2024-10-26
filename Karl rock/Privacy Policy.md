@@ -414,13 +414,13 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+* [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
-    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
-* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
