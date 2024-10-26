@@ -169,7 +169,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
     
 
 * [Code](https://github.com/HermanMartinus/bearblog)
-* [Issues 20](https://github.com/HermanMartinus/bearblog/issues)
+* [Issues 19](https://github.com/HermanMartinus/bearblog/issues)
 * [Pull requests 5](https://github.com/HermanMartinus/bearblog/pulls)
 * [Actions](https://github.com/HermanMartinus/bearblog/actions)
 * [Projects 0](https://github.com/HermanMartinus/bearblog/projects)
