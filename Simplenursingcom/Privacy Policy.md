@@ -231,8 +231,7 @@ Company
 * [Contact Us](https://simplenursing.com/contact-us/)
 * [Privacy Policy & Terms of Service](https://simplenursing.com/privacy-policy/)
 * [See Pricing & Plans](https://simplenursing.com/pricing/)
-* [Reviews](https://www.trustpilot.com/review/simplenursing.com)
-* [Testimonials](https://simplenursing.com/testimonials/)
+* [Reviews](https://simplenursing.com/testimonials/)
 
 SimpleNursing Products
 
@@ -241,14 +240,14 @@ SimpleNursing Products
 * [NCLEX-PN® Prep](https://simplenursing.com/nclex-pn/)
 * [TEAS](https://simplenursing.com/teas/)
 
-Resources
+Free Resources
 
-* [For Nursing Instructors](https://simplenursing.com/for-nursing-instructors/)
+* [Nursing Resume Template](https://simplenursing.com/free-nursing-resume-templates/)
 * [The SimpleNursing Blog](https://simplenursing.com/blog/)
-* [NCLEX Prep Comparisons](https://simplenursing.com/nclex-prep-comparisons-2024/)
+* [Head to Toe Assessment](https://simplenursing.com/how-to-conduct-head-to-toe-nurse-assessment/)
+* [Nursing Care Plans](https://simplenursing.com/nursing-care-plans/)
 * [NCLEX Practice Questions](https://simplenursing.com/nclex-practice-questions-review/)
 * [Next Gen NCLEX Questions](https://simplenursing.com/next-gen-nclex-questions/)
-* [Nursing Care Plans](https://simplenursing.com/nursing-care-plans/)
 
 Connect With Us
 
