@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/trump-rogan.jpg?ve=1&tl=1)
+ [![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/GettyImages-1863760125.jpg?ve=1&tl=1)
 
- ![Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/trump-rogan.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-joe-rogan-podcast-2024)
+ ![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/GettyImages-1863760125.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-dalvin-cook-active-roster)
 
-### [Donald Trump makes a 3-hour appearance on Joe Rogan’s podcast: Key takeaways](https://www.fox4news.com/news/trump-joe-rogan-podcast-2024)
+### [Dallas Cowboys running back Dalvin Cook elevated to active roster](https://www.fox4news.com/sports/dallas-cowboys-dalvin-cook-active-roster)
 
- [![Stolen Dallas Fire-Rescue ambulance found after crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/Ambulance.jpg?ve=1&tl=1)
+ [![Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-146700920.jpg?ve=1&tl=1)
 
- ![Stolen Dallas Fire-Rescue ambulance found after crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/Ambulance.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stolen-dallas-fire-rescue-ambulance-found-after-crash)
+ ![Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-146700920.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/famous-alaska-volcano-sees-seismic-unrest-after-more-than-30-year-slumber)
 
-### [Stolen Dallas Fire-Rescue ambulance found after crash](https://www.fox4news.com/news/stolen-dallas-fire-rescue-ambulance-found-after-crash)
+### [Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://www.fox4news.com/news/famous-alaska-volcano-sees-seismic-unrest-after-more-than-30-year-slumber)
 
- [![Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181095952-scaled.jpg?ve=1&tl=1)
+ [![Menendez brothers lead prison reform with Norway-inspired project](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-539886710.jpg?ve=1&tl=1)
 
- ![Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181095952-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-take-game-1-world-series-vs-yankees)
+ ![Menendez brothers lead prison reform with Norway-inspired project](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-539886710.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-prison-reform)
 
-### [Freddie Freeman's walkoff grand slam powers Dodgers past Yankees in World Series Game 1](https://www.fox4news.com/news/dodgers-take-game-1-world-series-vs-yankees)
+### [Menendez brothers lead prison reform with Norway-inspired project](https://www.fox4news.com/news/menendez-brothers-prison-reform)
 
- [![VP Kamala Harris speaks at Houston rally, Beyoncé makes introduction](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/gettyimages-2180313099.jpg?ve=1&tl=1)
+ [![NASA astronaut released from hospital after 'medical issue' during splashdown](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180065323-scaled.jpg?ve=1&tl=1)
 
- ![VP Kamala Harris speaks at Houston rally, Beyoncé makes introduction](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180313099.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
+ ![NASA astronaut released from hospital after 'medical issue' during splashdown](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180065323-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-astronaut-space-x-dragon-hospital-update)
 
-### [VP Kamala Harris speaks at Houston rally, Beyoncé makes introduction](https://www.fox4news.com/news/vp-kamala-harris-houston-campaign-rally-beyonce)
+### [NASA astronaut released from hospital after 'medical issue' during splashdown](https://www.fox4news.com/news/nasa-astronaut-space-x-dragon-hospital-update)
 
- [![Trump, Harris bring presidential campaigns to Texas Friday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/trump-harris.png?ve=1&tl=1)
+ [![Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-956699758.jpg?ve=1&tl=1)
 
- ![Trump, Harris bring presidential campaigns to Texas Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/trump-harris.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-texas-kamala-harris-rally)
+ ![Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-956699758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/san-antonio-texas-man-punches-election-worker-remove-trump-hat)
 
-### [Trump, Harris bring presidential campaigns to Texas Friday](https://www.fox4news.com/news/donald-trump-texas-kamala-harris-rally)
+### [Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://www.fox4news.com/news/san-antonio-texas-man-punches-election-worker-remove-trump-hat)
 
 ###### [News](https://www.fox4news.com/news)
 
