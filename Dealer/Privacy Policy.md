@@ -45,7 +45,6 @@ Search For :
         * [Corporate Information](https://coxautoinc.com/)
         * [Corporate Responsibility](https://www.dealer.com/company/corporate-responsibility/)
         * [Careers](https://www.dealer.com/company/careers/)
-* [Success Stories](https://www.dealer.com/success-stories/)
 * [Support](https://dealer.com/support/)
 
 Search For : 
@@ -352,7 +351,6 @@ Atlanta, Ga 30328  
         * [Corporate Information](https://coxautoinc.com/)
         * [Corporate Responsibility](https://www.dealer.com/company/corporate-responsibility/)
         * [Careers](https://www.dealer.com/company/careers/)
-* [Success Stories](https://www.dealer.com/success-stories/)
 * [Support](https://www.dealer.com/support/)
     * [Contact: 877.327.8422](tel:8773278422)
     * [Support: 888.895.2994](tel:8888952994)
