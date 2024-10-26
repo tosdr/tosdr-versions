@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/cancer-and-bankruptcy-1440x810.jpg)
+
+Cancer Can Deal a Devastating Financial Blow](https://www.everydayhealth.com/cancer/cancer-can-deal-a-devastating-financial-blow/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/type-2-diabetes-low-carb-discontinue-medication-1440x810.jpg)
 
-Low-Carb Diets May Stall the Progression of Type 2 Diabetes](https://www.everydayhealth.com/diabetes/low-carb-diets-may-stall-progression-of-type-2-diabetes/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/how-well-balance-one-leg-future-mobility-1440x810.jpg)
-
- To See How Well You’re Aging, Try Standing on One Leg](https://www.everydayhealth.com/healthy-aging/to-see-how-well-youre-aging-try-standing-on-one-leg/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Low-Carb Diets May Stall the Progression of Type 2 Diabetes](https://www.everydayhealth.com/diabetes/low-carb-diets-may-stall-progression-of-type-2-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
