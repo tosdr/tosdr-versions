@@ -253,11 +253,23 @@ _By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelew
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
+[![Two white dots orbiting each other against a black background with purple material streaming onto them.](https://www.quantamagazine.org/wp-content/uploads/2024/10/FinalParsecProblem-crLucianoCombi_etal_2022_ApJ_928_187-Thumbnail.jpg)](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+
+[#### How Do Merging Supermassive Black Holes Pass the Final Parsec?](https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/)
+
+_By_ [Jonathan O'Callaghan](https://www.quantamagazine.org/authors/jonathan-ocallaghan)
+
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/10/LargestPrimeFactor-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 
 [#### Big Advance on Simple-Sounding Math Problem Was a Century in the Making](https://www.quantamagazine.org/big-advance-on-simple-sounding-math-problem-was-a-century-in-the-making-20241014/)
 
 _By_ [Erica Klarreich](https://www.quantamagazine.org/authors/erica-klarreich)
+
+[![A line creating an optimal path through an array of dots](https://www.quantamagazine.org/wp-content/uploads/2024/10/DijkstraOptimality_crDaveWhyte-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
+
+[#### Computer Scientists Establish the Best Way to Traverse a Graph](https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/)
+
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ThoughtExperiments_ThoughtExperiments-crMarkBelan-Thumbnail.webp)](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
 
