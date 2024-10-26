@@ -6,11 +6,11 @@
 
 Days
 
-21
+14
 
 Hours
 
-01
+57
 
 Minutes
 
