@@ -1,3 +1,7 @@
+[A sudden platinum upgrade raffle has appeared!](https://danbooru.donmai.us/forum_topics/29304)
+
+[](#)
+
 [![](/packs/static/danbooru-logo-128x128-ea111b6658173e847734.png)](https://danbooru.donmai.us/) [Danbooru](https://danbooru.donmai.us/)
 
 [](#)[](#)
