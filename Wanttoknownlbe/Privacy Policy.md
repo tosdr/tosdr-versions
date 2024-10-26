@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/resonantie-en-de-nieuwe-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/telepathisch-bericht-98-aardbeving/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
