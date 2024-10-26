@@ -1,9 +1,3 @@
-[Booking.com: Save 15% or more on your end of year getaway! + 5% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)[Booking.com: Mini break. Maximum memories. Save 15% or more on your 2024 late escape + 5% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/booking-com?store=booking-com&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -317,7 +311,7 @@ FR
         
         [Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        8% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
