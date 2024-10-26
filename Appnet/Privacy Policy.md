@@ -58,7 +58,7 @@ Enter a username
 
 Username error
 
-REGISTER
+CREATE ACCOUNT
 
 Cancel
 
