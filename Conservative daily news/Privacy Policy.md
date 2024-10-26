@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [C.G. Haenel Announces the Jaeger NXT Adjustable and Tracker Straight-Pull](https://www.thegunpage.com/c-g-haenel-announces-the-jaeger-nxt-adjustable-and-tracker-straight-pull/10611453)
+* [TFB Review: Meprolight MPO-DF Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-df-open-emitter-pistol-sight/10611455)
 * [Federal Judge Issues Permanent Injunction Against NY Public Housing Gun Ban](https://www.thegunpage.com/federal-judge-issues-permanent-injunction-against-ny-public-housing-gun-ban/10611450)
+* [James Reeves Designed These Shoes: The Stache by 5.11](https://www.thegunpage.com/james-reeves-designed-these-shoes-the-stache-by-5-11/10611456)
 * [Ohio Woman Fatally Shoots Man In The Groin Upon Request](https://www.thegunpage.com/ohio-woman-fatally-shoots-man-in-the-groin-upon-request/10611445)
 * [11th Circuit Considering Florida’s Under-21 Long Gun Purchase Ban This Week](https://www.thegunpage.com/11th-circuit-considering-floridas-under-21-long-gun-purchase-ban-this-week/10611441)
 * [NEW Arm Brace Ready Hi-Point Pistols](https://www.thegunpage.com/new-arm-brace-ready-hi-point-pistols/10611444)
 * [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.thegunpage.com/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/10611439)
 * [Results: 2024 NRA National High Power Rifle Mid-Range, Long-Range Championships](https://www.thegunpage.com/results-2024-nra-national-high-power-rifle-mid-range-long-range-championships/10611438)
 * [5 Firearms To Have On Hand For A Natural Disaster](https://www.thegunpage.com/5-firearms-to-have-on-hand-for-a-natural-disaster/10611435)
-* [POTD: IWI Carmel – Thermal and Neons](https://www.thegunpage.com/potd-iwi-carmel-thermal-and-neons/10611436)
-* [Concealed Carry Corner: Range Guns Vs Carry Guns](https://www.thegunpage.com/concealed-carry-corner-range-guns-vs-carry-guns/10611437)
-* [Democrat Media Op Gone Wrong: Candidate Shoots Reporter](https://www.thegunpage.com/democrat-media-op-gone-wrong-candidate-shoots-reporter/10611432)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
