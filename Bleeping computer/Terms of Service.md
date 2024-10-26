@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Mandiant says new Fortinet flaw has been exploited since June](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![UnitedHealth says data of 100 million stolen in Change Healthcare breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
+        UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
+    * [![Apple creates Private Cloud Compute VM to let researchers find bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Apple creates Private Cloud Compute VM to let researchers find bugs](https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
     * [![Cisco fixes VPN DoS flaw discovered in password spray attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Cisco fixes VPN DoS flaw discovered in password spray attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/)
-    * [![Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
-    * [![Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/)
+        QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
     
+    * [![Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
     * [![Russia sentences REvil ransomware members to over 4 years in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Russia sentences REvil ransomware members to over 4 years in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-revil-ransomware-members-to-over-4-years-in-prison/)
@@ -45,9 +48,6 @@
     * [![Try this course deal to train in popular IT certifications for $29.97](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Try this course deal to train in popular IT certifications for $29.97](https://www.bleepingcomputer.com/offer/deals/try-this-course-deal-to-train-in-popular-it-certifications-for-2997/)
-    * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
