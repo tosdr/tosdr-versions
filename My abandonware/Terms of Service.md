@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Sonic Jam](https://www.myabandonware.com/game/sonic-jam-t14)
-* [Scrabble](https://www.myabandonware.com/game/scrabble-t13)
-* [Resident Evil 2](https://www.myabandonware.com/game/resident-evil-2-t12)
-* [Quiz Wiz: Cyber Trivia](https://www.myabandonware.com/game/quiz-wiz-cyber-trivia-t11)
-* [Monopoly](https://www.myabandonware.com/game/monopoly-t10)
+* [720º](https://www.myabandonware.com/game/720o-6a2)
+* [Wonder Stadium '99](https://www.myabandonware.com/game/wonder-stadium-99-t1e)
+* [Uzumaki: Noroi Simulation](https://www.myabandonware.com/game/uzumaki-noroi-simulation-t1d)
+* [Uzumaki: Denshi Kaikihen](https://www.myabandonware.com/game/uzumaki-denshi-kaikihen-t1c)
+* [Umitsuri ni Ikō!](https://www.myabandonware.com/game/umitsuri-ni-iko-t1b)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
