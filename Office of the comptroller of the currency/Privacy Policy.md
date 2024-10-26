@@ -189,233 +189,173 @@ Menu
     An official website of the United States government
     
 
-[About](https://www.occ.gov/about/index-about.html)
----------------------------------------------------
-
-* [Who We Are](https://www.occ.gov/about/who-we-are/index-who-we-are.html)
-* [What We Do](https://www.occ.gov/about/what-we-do/index-what-we-do.html)
-* [Connect With Us](https://www.occ.gov/about/connect-with-us/index-connect-with-us.html)
-
-* [Home](https://www.occ.gov/index.html)
-* [About](https://www.occ.gov/about/index-about.html)
-* [Policies](https://www.occ.gov/about/policies/index-policies.html)
-
-Privacy Policy
-==============
-
-Share This Page:
-
-The Privacy Act of 1974 establishes certain controls over any personal information collected by the Office of the Comptroller of the Currency (OCC) and how it is used. For additional information on your rights under the Privacy Act and the Freedom of Information Act (FOIA), please see [Your Right To Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](https://www.gsa.gov/cdnstatic/Your_Right_to_Federal_Records.pdf) (PDF).
-
-The OCC respects your privacy. We do not collect or store information about members of the public who call or write the agency or visit our website, unless you identify yourself so that we can respond to an inquiry or request from you.
-
-* We use your personal identifying information only for the purpose for which it is originally collected.
-* We maintain your personal identifying information in secure computer systems and limit employee access to those with a business reason to see it.
-* We do not disclose your information to anyone outside the OCC, except when compelled by law or in connection with a criminal investigation (as explained below).
-
-* Expand All
-* Collapse All
-
-### Privacy Policy Show
-
-**Thank you for visiting the OCC website and reviewing our privacy policy. We remind you that if you link to a site outside the OCC, you are subject to the policies of the new site.**
-
-**_When visiting the OCC website:_** If you visit our site to read or download information, we do not collect information about you, but we do collect and store information about your Internet connection and the date and time of your visit. Specifically, we record:
-
-* The name of the domain from which you access the Internet (for example, microsoft.com, if you are connecting from an Microsoft account, or princeton.edu, if you are connecting from Princeton University's domain).
-* The IP (internet protocol) address from which you access our site. An IP address is a number automatically assigned to your computer whenever you are connected to the world wide web.
-* The internet address of the website from which you linked directly to our site, if any (for example, www.fdic.gov, if you are following a link from the FDIC website, or www.google.com, if you find us using the Google search engine).
-* The type of web browsing software you are using to view our site.
-* Your computer's operating system.
-* The search terms you enter into our site search application.
-* The links you click on pages on our website.
-* The date and time you access our site.
-* The pages you visit.
-* The action you tried to perform or the item you requested from the OCC website (for example, download a document) and whether or not you were successful. When we examine this data, it is presented in an aggregate form.
-
-Cookies
--------
-
-"Persistent cookies" collect personal information to recognize your computer in the future. The OCC does not use persistent cookies or other technology to collect personally identifiable information (PII) about visitors to our website.
-
-"Temporary" or "session" cookies are used on the OCC.gov web pages to support voluntary customer surveys and to help us accurately analyze how visitors navigate through our website at an aggregated level. These cookies are stored in memory and are only available during an active browser session. They do not collect personal information on visitors, and they are erased as soon as you close your web browser. No PII about you is maintained as a result of a temporary or session cookie.
-
-OCC.gov uses Google Analytics Premium to track web traffic. Please refer to the following policies on Google's website for more information:
-
-* [Google's main privacy policy](https://policies.google.com/privacy?hl=en)
-* [Cookies and Google Analytics on websites](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
-* [Opt out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
-
-We use this information to help us make our site more useful to visitors. We learn what users like and need; what kind of technology they are using; how often they visit; and other valuable information that helps us offer our visitors the best site possible.
-
-If you are sending electronic mail to the OCC, we want to remind you that email is not necessarily secure against interception. If your information is very sensitive or includes personal or confidential information—such as your bank account, charge card, or social security number—you may want to send it by postal mail to the following addresses.
-
-Formal written complaint to the OCC about a national bank or its operating subsidiary:  
-Customer Assistance Group  
-P.O. Box 53570  
-Houston, TX 77052.
-
-Freedom of Information Act (FOIA) request:  
-Comptroller of the Currency  
-Disclosure Officer  
-Suite 3E-218  
-Mail Stop 6W-11  
-Washington, DC 20219  
-Fax requests: (202) 649-6160
-
-To request electronically, use our online [FOIA website](https://foia-pal.occ.gov/)
-
-Building and General Correspondence Address:  
-Office of the Comptroller of the Currency  
-400 7th Street SW, Suite 3E-218  
-Washington, D.C. 20219
-
-**_When making an inquiry, request, or complaint that requires follow-up:_** If you are making an inquiry or request or filing a complaint that warrants supervisory or other attention, we may need to share your information with others.
-
-* We may need to bring your correspondence to the attention of our attorneys, examiners, or other staff members as appropriate.
-* If necessary to address the issue, we may need to share your correspondence with other federal, state, or local agencies responsible for administering or enforcing laws, rules, or regulations, or for investigating known or suspected violations of laws, rules, or regulations, such as the Justice Department or state bank regulators.
-* Under limited circumstances, such as a request from Congress or a private individual acting with appropriate legal authority, we may be required by law to disclose information you submit.
-* If you file a complaint about a national bank or its affiliate, we typically provide your customer identification information along with the complaint to the affected bank. This information is usually necessary for the bank to be able to investigate and correct a problem. In turn, a bank sometimes provides the OCC with additional information about you when it responds to our inquiry. All this information is securely retained in OCC records.
-
-### Privacy Impact Assessments Show
-
-The Office of the Comptroller of the Currency conducts a Privacy Impact Assessment (PIA) on information systems that collect personally identifiable information from the public. We prepare PIAs to
-
-* ensure that information handling conforms to applicable legal, regulatory, and policy requirements regarding privacy;
-* determine the risks and effects of collecting, maintaining, and disseminating information in identifiable form in an electronic information system; and
-* examine and evaluate protections and alternative processes for handling information to mitigate potential privacy risks.
-
-Also, PIAs confirm that we use the information for the purpose intended, that the information remains timely and accurate, that it is protected while we have it, and that we hold it only as long as we need it.
-
-* [Administrative Operations External Service Providers](https://www.occ.gov/about/policies/pclia-aoesp.pdf "Administrative Operations External Service Providers") (PDF)
-* [ANBE Testing Administrator Service](https://www.occ.gov/about/policies/pclia-anbetas.pdf "ANBE Testing Administrator Service") (PDF)
-* [Business Support System](https://www.occ.gov/about/policies/pclia-bss.pdf "Business Support System") (PDF)
-* [Case Analysis Management Program](https://www.occ.gov/about/policies/pclia-camp.pdf "Case Analysis Management Program") (PDF)
-* [Central Application Tracking System](https://www.occ.gov/about/policies/central-application-tracking-system-pia.pdf "Central Application Tracking System (CATS)") (PDF)
-* [Chief Counsel Office Support System](https://www.occ.gov/about/policies/pclia-ccoss.pdf "Chief Counsel Office Support System") (PDF)
-* [Compliance Applications](https://www.occ.gov/about/policies/pclia-ca.pdf "Compliance Applications") (PDF)
-* [Electronic Freedom of Information Act System](https://www.occ.gov/about/policies/efoia.pdf "EFOIA") (PDF)
-* [Email Broadcast System](https://www.occ.gov/about/policies/pclia-ebs.pdf "Email Broadcast System") (PDF)
-* [Enterprise Analytics Platform](https://www.occ.gov/about/policies/pclia-eap.pdf "Enterprise Analytics Platform") (PDF) 
-* [Enterprise Search Platform - Fusion](https://www.occ.gov/about/policies/pclia-esp.pdf "Enterprise Search Platform - Fusion") (PDF)
-* [External Communications Support System](https://www.occ.gov/about/policies/pclia-ecss.pdf "External Communications Support System") (PDF)
-* [Financial Management External Service Providers](https://www.occ.gov/about/policies/pclia-fmesp.pdf "Financial Management External Service Providers") (PDF)
-* [Financial Management Support System](https://www.occ.gov/about/policies/pclia-fmss.pdf "Financial Management Support System") (PDF)
-* [Human Capital External Service Providers](https://www.occ.gov/about/policies/pclia-hcesp.pdf "Human Capital External Service Providers") (PDF)
-* [Human Capital Management Support System](https://www.occ.gov/about/policies/pclia-hcmss.pdf "Human Capital Management Support System") (PDF)
-* [Information Sharing & Collaboration External Service Providers](https://www.occ.gov/about/policies/pclia-is-c-esp.pdf "Information Sharing  & Collaboration External Service Providers") (PDF)
-* [Information Sharing and Collaboration On-Premise](https://www.occ.gov/about/policies/pclia-is-c-p.pdf "Information Sharing and Collaboration On-Premise") (PDF)
-* [Information Technology Infrastructure General Support System](https://www.occ.gov/about/policies/policies-network-support.pdf "Privacy Impact Assessment - General Support System (GSS)") (PDF)
-* [Information Technology Management General Support System](https://www.occ.gov/about/policies/pclia-itmgss.pdf "Information Technology Management General Support System") (PDF)
-* [Litigation Support System](https://www.occ.gov/about/policies/pclia-lss.pdf "Litigation Support System") (PDF)
-* [Management and Accountability Reporting Tool](https://www.occ.gov/about/policies/management-accounting-tools-smart.pdf "$MART Privacy Impact Assessment") (PDF)
-* [Microsoft Cloud Services](https://www.occ.gov/about/policies/pclia-mscs.pdf "Microsoft Cloud Services") (PDF)
-* [Office of Security External Service Providers](https://www.occ.gov/about/policies/pclia-osesp.pdf "Office of Security External Service Providers") (PDF)
-* [Physical and Personnel Security System](https://www.occ.gov/about/policies/pclia-ppss.pdf "Physical and Personnel Security System") (PDF)
-* [Security Services General Support System](https://www.occ.gov/about/policies/pclia-ssgss.pdf "Security Services General Support System") (PDF)
-* [ServiceNow Enterprise Service Management](https://www.occ.gov/about/policies/pclia-sn.pdf "ServiceNow Enterprise Service Management") (PDF) 
-* [Supervisory Information System](https://www.occ.gov/about/policies/pclia-sis.pdf "Supervisory Information System") (PDF)
-
-### Privacy Act System of Records Notices (SORN) Show
-
-### System of Records Notices (SORNs)
-
-A System of Records is a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifier assigned to the individual. The Privacy Act requires each agency to publish notice of its systems of records in the _Federal Register_.
-
-### What Is a SORN?
-
-A SORN is a formal notice to the public published in the _Federal Register_ that identifies the purpose for which PII is collected, from whom and what type of PII is collected, how the PII is shared externally (routine uses), and how to access and correct any PII maintained by the department.
-
-### When Is a SORN required?
-
-A SORN is required when the department has a system of records as defined above. In some instances, the Department may have an existing SORN that covers a collection of systems or programs. During the Privacy Threshold Analysis and Privacy Impact Assessment processes, our office, in coordination with the bureau privacy officer, will help determine whether a new SORN is required.
-
-### Office of the Comptroller of the Currency (OCC)
-
-81 Fed. Reg. 2945 ([PDF](https://www.govinfo.gov/content/pkg/FR-2016-01-19/pdf/2016-00763.pdf))
-
-### Table of Contents
-
-* CC .100—Enforcement Action Report System
-* CC .110—Reports of Suspicious Activities
-* CC .120—Bank Fraud Information System
-* CC .200—Chain Banking Organizations System
-* CC .210—Bank Securities Dealers System
-* CC .220—Notices of Proposed Changes in Employees, Officers and Directors Tracking System
-* CC .340—Access Control System
-* CC .341—Mass Communication System
-* CC .500—Chief Counsel's Management Information System
-* CC .510—Litigation Information System
-* CC .600—Consumer Complaint and Inquiry Information System
-* CC .700—Correspondence Tracking System
-* CC .701—Retiree Billing System
-* CC .800—Office of Inspector General Investigations System
-* OTS .003—OTS Consumer Complaint Files
-
-### Privacy Act Request Show
-
-A request for records maintained by the Office of the Comptroller of the Currency (OCC) about yourself or another individual constitutes a Privacy Act request. **Privacy Act requests cannot be submitted through this web page, by email, or by telephone.** This type of request must be submitted by the U.S. Postal Service or commercial delivery with proof of identity to the following address:
-
-Freedom of Information Act Officer  
-Disclosure Services, Communications Division  
-Office of the Comptroller of the Currency  
-400 7th St. SW,  
-Suite 3E-218  
-Washington, DC 20219
-
-### What you need to know and include with a Privacy Act Request:
-
-The OCC does not maintain bank records, account statements, loan documents, promissory notes, or bond information. These records are maintained by the individual financial institution or lender.
-
-Your signed request must include your name, address, contact number, email, and a description of the requested records, including assigned case numbers. Proof of identity is required to protect your privacy and information about you from unauthorized disclosure. The proof of identity must be clear and original.
-
-An acceptable Privacy Act request includes:
-
-* a signed request with a notarized statement swearing or affirming your identity and acknowledging that you understand the Privacy Act penalties for requesting or obtaining access to records under false pretenses; or
-* a signed request with a copy of your valid driver's license or another form of identification containing your signature; or
-* a signed request with an unsworn declaration subscribed to as true under penalty of perjury in accordance with 28 USC 1746. The following is an example of an unsworn declaration.
-
-* * *
-
-_**This statement verifies that I am the individual who is the subject of the records requested and that my address is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.**_
-
-_**I understand the penalties contained in 5 USC 552a(i)(3) for requesting or obtaining access to records under false pretenses. I certify under penalty of perjury pursuant to 28 USC 1746 that this statement is true and correct.  
-  
-Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**_
-
-* * *
-
-### Requests for information about other individuals:
-
-If you are requesting personal information about or for another individual, you must provide proof of identity about that individual, and you must provide a signed, original authorization from that individual granting you third-party access to the information. The authorization must acknowledge that you understand the penalties for obtaining information under false pretenses. The authorizations and proof of identity must be clear and original. Please note: The OCC does not accept faxed or emailed authorizations or proof of identity.
-
-If you are seeking records about yourself or your minor children (under age 18), you must select declaration to your identity: "I declare under penalty of perjury that I am (Name) and that the statements contained in this document are true and correct."
-
-If you have any questions call (202) 649-6700.
-
-### Email Update Privacy Policy Show
-
-Subscribers to OCC email updates should review the [GovDelivery Subscriber Privacy Policy](https://subscriberhelp.granicus.com/s/article/Granicus-LLC-SubscriberPrivacy-Statement).
-
-### Contact information for submitting a privacy question or complaint Show
-
-Privacy Program Office  
-400 7th St. SW  
-RM 3W-408  
-Washington, DC 20219  
-[PrivacyProgramOffice@occ.treas.gov](mailto:PrivacyProgramOffice@occ.treas.gov)
-
-### Contact information for the SAOP Show
-
-The Senior Agency Official for Privacy (SAOP) is designated as the OCC's [Chief Information Officer](https://www.occ.gov/about/who-we-are/leadership/index-leadership.html "Leadership") (CIO).
-
-Privacy Program Office  
-400 7th St. SW  
-RM 3W-408  
-Washington, DC 20219  
-[PrivacyProgramOffice@occ.treas.gov](mailto:PrivacyProgramOffice@occ.treas.gov)
-
-Privacy Policy Last Reviewed: November 2021
+Promoting a Safe, Sound, and Fair Federal Banking System
+--------------------------------------------------------
+
+[Learn about what we do](https://www.occ.gov/about/index-about.html)
+
+Spotlight
+=========
+
+* [![Acting Comptroller Speech](/images/homepage-spotlight/spotlight-acting-comptroller-speech.png "Acting Comptroller Speech")](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-121.html "Acting Comptroller Discusses Frameworks to Identify Systemic Risk")
+    
+    [Acting Comptroller Discusses Frameworks to Identify Systemic Risk](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-121.html "Acting Comptroller Discusses Frameworks to Identify Systemic Risk")
+    
+* [![OCC Issues Enforcement Action Against Wells Fargo Bank](/images/homepage-spotlight/spotlight-enforcement-action.png "OCC Issues Enforcement Action Against Wells Fargo Bank")](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-116.html "OCC Issues Cease and Desist Order, Assesses $450 Million Civil Money Penalty, and Imposes Growth Restriction Upon TD Bank, N.A. for BSA/AML Deficiencies")
+    
+    [OCC issues Enforcement Order and $450 Million CMP against TD Bank for BSA/AML Deficiencies](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-116.html "OCC Issues Cease and Desist Order, Assesses $450 Million Civil Money Penalty, and Imposes Growth Restriction Upon TD Bank, N.A. for BSA/AML Deficiencies")
+    
+* [![Hurricane Proclamation](/images/homepage-spotlight/spotlight-hurricane-proclamation.png "Hurricane Proclamation")](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-114.html "OCC Allows National Banks and Federal Savings Associations in Florida Affected by Hurricane Milton to Close")
+    
+    [OCC Issues Proclamation for Hurricane Milton](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-114.html "OCC Allows National Banks and Federal Savings Associations in Florida Affected by Hurricane Milton to Close")
+    
+
+### Financial Institution Search
+
+Find Community Reinvestment Act (CRA), enforcement, and institution data for OCC-regulated banks, federal savings associations, and federal banks and agencies.
+
+[Begin Search](https://www.occ.gov/publications-and-resources/tools/occ-financial-institution-search/index-occ-financial-institution-search.html "OCC Financial Institution Search")
+
+* News & Alerts
+    -------------
+    
+    * * News Release
+        * Oct 25, 2024
+        
+        ### [Acting Comptroller Discusses Frameworks to Identify Systemic Risk](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-121.html)
+        
+    * * News Release
+        * Oct 21, 2024
+        
+        ### [OCC Finalizes Revisions to Its Recovery Planning Guidelines](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-120.html)
+        
+    * * News Release
+        * Oct 18, 2024
+        
+        ### [OCC Appoints Receiver for The First National Bank of Lindsay, Lindsay, Oklahoma](https://www.occ.gov/news-issuances/news-releases/2024/nr-occ-2024-119.html)
+        
+    
+* Bulletins
+    ---------
+    
+    * * Bulletin
+        * Oct 22, 2024
+        
+        ### [OCC Guidelines Establishing Standards for Recovery Planning by Certain Large Insured National Banks, Insured Federal Savings Associations, and Insured Federal Branches: Final Guidelines](https://www.occ.gov/news-issuances/bulletins/2024/bulletin-2024-31.html)
+        
+    * * Bulletin
+        * Oct 21, 2024
+        
+        ### [Interest Rate Risk: Interest Rate Risk Statistics Report](https://www.occ.gov/news-issuances/bulletins/2024/bulletin-2024-30.html)
+        
+    * * Bulletin
+        * Oct 03, 2024
+        
+        ### [Commercial Lending: Refinance Risk](https://www.occ.gov/news-issuances/bulletins/2024/bulletin-2024-29.html)
+        
+    
+
+* [News, Alerts & BulletinsView the OCC Newsroom](https://www.occ.gov/news-events/newsroom/index.html)
+
+Featured Publications
+---------------------
+
+* [![Interest Rate Risk Statistics Report, Fall 2024](/images/pub-covers/interest-rate-risk-statistics-report/img-interest-rate-risk-stat-rep-fall-2024.png)](https://www.occ.gov/publications-and-resources/publications/interest-rate-risk-statistics-reports/files/interest-rate-risk-statistics-report-fall-2024.html)
+    
+    [Interest Rate Risk Statistics Report: Fall 2024](https://www.occ.gov/publications-and-resources/publications/interest-rate-risk-statistics-reports/files/interest-rate-risk-statistics-report-fall-2024.html)
+    
+* [![Financial Literacy Update](/images/pub-covers/ca-flu/flu-pub-cover.png)](https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-updates/financial-literacy-4th-quarter-2024.html)
+    
+    [Financial Literacy Update: Fourth Quarter 2024](https://www.occ.gov/publications-and-resources/publications/community-affairs/financial-literacy-updates/financial-literacy-4th-quarter-2024.html)
+    
+* [![Quarterly Report on Bank Derivatives Activities: Q2 2024](/images/pub-covers/quarterly-report-on-bank-derivatives-activities/img-derivatives-quarterly-qtr2-2024.png)](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/q2-2024-derivatives-quarterly.html)
+    
+    [Quarterly Report on Bank Trading and Derivatives Activities: Second Quarter 2024](https://www.occ.gov/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/files/q2-2024-derivatives-quarterly.html)
+    
+* [![Mortgage Metrics Report: Q2 2024](/images/pub-covers/mortgage-metrics-report/img-mortgage-metrics-q2-2024.png)](https://www.occ.gov/publications-and-resources/publications/mortgage-metrics-reports/files/mortgage-metrics-report-q2-2024.html)
+    
+    [Mortgage Metrics Report: Second Quarter 2024](https://www.occ.gov/publications-and-resources/publications/mortgage-metrics-reports/files/mortgage-metrics-report-q2-2024.html)
+    
+* [![2024 Cybersecurity and Financial System Resilience Report](/images/pub-covers/cybersecurity-financial-system-resilience/img-2024-cybersecurity-report.jpg)](https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2024-cybersecurity-report.html)
+    
+    [2024 Cybersecurity and Financial System Resilience Report](https://www.occ.gov/publications-and-resources/publications/cybersecurity-and-financial-system-resilience/files/2024-cybersecurity-report.html)
+    
+* [![Semiannual Risk Perspective, Spring 2024](/images/pub-covers/semiannual-risk-perspective/img-semiannual-risk-perspective-spring-2024.jpg)](https://www.occ.gov/publications-and-resources/publications/semiannual-risk-perspective/files/semiannual-risk-perspective-spring-2024.html)
+    
+    [Semiannual Risk Perspective: Spring 2024](https://www.occ.gov/publications-and-resources/publications/semiannual-risk-perspective/files/semiannual-risk-perspective-spring-2024.html)
+    
+
+* [Featured PublicationsView All Publications](https://www.occ.gov/publications-and-resources/publications/index-publications.html)
+
+Upcoming Events
+---------------
+
+* Oct 28, 2024
+    
+    [Nebraska Interagency Affordable Housing and Community Development Forum](https://www.occ.gov/news-events/events/files/ev-nebraska-affordable-housing-and-cd-forum-oct-28-2024.html)
+    
+    Omaha, NE
+    
+* Oct 29, 2024
+    
+    [CRA and Bank Support for Workforce Development](https://www.occ.gov/news-events/events/files/ev-cra-bank-support-for-workforce-dev-oct-29-2024.html)
+    
+    Erie, PA
+    
+* Oct 30, 2024
+    
+    [Wyoming Banker CRA Roundtable](https://www.occ.gov/news-events/events/files/ev-wyoming-cra-roundtable-oct-30-2024.html)
+    
+    Virtual
+    
+* Oct 30, 2024
+    
+    [Community Bank Director Workshop: Operational Risk](https://www.occ.gov/news-events/events/files/event-comm-bank-dir-wksp-operational-risk-oct-30-2024.html)
+    
+    New York, NY
+    
+
+* [Upcoming EventsView All Events](https://www.occ.gov/news-events/events/index-events.html)
+
+Topics
+------
+
+* ### [Supervision & Examination](https://www.occ.gov/topics/supervision-and-examination/index-supervision-and-examination.html)
+    
+    The OCC examines the condition of the banks it supervises and their compliance with laws and regulations.
+    
+    [MoreMore](https://www.occ.gov/topics/supervision-and-examination/index-supervision-and-examination.html)
+    
+* ### [Charters & Licensing](https://www.occ.gov/topics/charters-and-licensing/index-charters-licensing.html)
+    
+    The OCC's chartering and licensing activities ensure that the corporate structures of banks are safe and sound.
+    
+    [MoreMore](https://www.occ.gov/topics/charters-and-licensing/index-charters-licensing.html)
+    
+* ### [Economics](https://www.occ.gov/topics/economics/index-economics.html)
+    
+    The OCC's economists support the OCC mission through economic thought leadership, analysis, and research to aid bank supervision and policy development.
+    
+    [MoreMore](https://www.occ.gov/topics/economics/index-economics.html)
+    
+* ### [Laws & Regulations](https://www.occ.gov/topics/laws-and-regulations/index-laws-and-regulations.html)
+    
+    The OCC issues rules and regulations and takes enforcement actions against banks that don't comply.
+    
+    [MoreMore](https://www.occ.gov/topics/laws-and-regulations/index-laws-and-regulations.html)
+    
+* ### [Consumers & Communities](https://www.occ.gov/topics/consumers-and-communities/index-consumers-and-communities.html)
+    
+    The OCC safeguards a diverse banking system that makes financial services accessible to underserved consumers and communities.
+    
+    [MoreMore](https://www.occ.gov/topics/consumers-and-communities/index-consumers-and-communities.html)
+    
+* ### [OCC Topics Index](https://www.occ.gov/topics/topics-sitemap.html)
+    
+    View a list of all OCC topics sorted alphabetically and by subject area.
+    
+    [MoreMore](https://www.occ.gov/topics/topics-sitemap.html)
+    
 
 [![OCC logo - footer](/images/c-clamp-images/footer-occ-logo.png "OCC logo footer")](https://www.occ.gov/index.html "Home")
 
