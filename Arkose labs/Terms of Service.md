@@ -366,7 +366,3 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
-
-                                                  
-
-https://www.arkoselabs.com/arkose-university/sign-up/
