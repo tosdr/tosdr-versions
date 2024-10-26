@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Betriebs­rente: Satte Renten­erhöhung dank Inflation](https://www.test.de/Betriebsrente-Satte-Rentenerhoehung-dank-Inflation-5977597-0/ "Betriebsrente - Satte Rentenerhöhung dank Inflation")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [Leser­aufruf zu Dark Patterns: Melden Sie uns Manipulation im Netz](https://www.test.de/Leseraufruf-zu-Dark-Patterns-Melden-Sie-uns-Manipulation-im-Netz-6047043-0/ "Leseraufruf zu Dark Patterns - Melden Sie uns Manipulation im Netz")
 
 Service Stiftung Warentest
 
