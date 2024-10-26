@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**The Texas Border** | VOCES](https://video.nhpbs.org/video/the-texas-border-djsnn4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Researching Candidates** | The State We're In](https://video.nhpbs.org/video/researching-candidates-cvk7kq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Counting The Vote Screening** | Firing Line](https://video.nhpbs.org/video/counting-the-vote-screening-qhlhbr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trump's Final Push; Liz Cheney** | To The Contrary](https://video.nhpbs.org/video/trumps-final-push-liz-cheney-lxybit?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 25, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-25-2024-pbs-news-hour-full-episode-1729828801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 24, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-24-2024-joghu5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Israel launches retaliatory strikes on targets in Iran** | PBS News Hour](https://video.nhpbs.org/video/tehran-explosions-geoff-dis-1729898579?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**How voters will react to Trump's escalating rhetoric** | Washington Week with The Atlantic](https://video.nhpbs.org/video/how-voters-will-react-to-trumps-escalating-rhetoric-kzqeoy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 25, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-25-2024-xqskoq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Counting The Vote Screening** | Firing Line](https://video.nhpbs.org/video/counting-the-vote-screening-qhlhbr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 NH CD1 Candidate Forum** | NH Votes](https://video.nhpbs.org/video/2024-nh-cd1-candidate-forum-udibjz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 1 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-1-scene-mnxngx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview of Lions of the Skeleton Coast** | Nature](https://video.nhpbs.org/video/about-lions-of-the-skeleton-coast?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
