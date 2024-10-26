@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-     [![Shop The 2024 Trump Collection](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)   ![Shop The 2024 Trump Collection](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)](https://sdbullion.com/silver/trump)
+       [![Shop The 2024 Trump Collection](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)    ![Shop The 2024 Trump Collection](https://sdbullion.com/media/wysiwyg/sticky_header/trump-medals-2-585x75_1_.jpg)](https://sdbullion.com/silver/trump)
 
 Search  Search
 
