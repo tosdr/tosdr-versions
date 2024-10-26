@@ -14,19 +14,19 @@ Recommendations
 
 Audio
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/09/26151432/PRH_New-Audio_site_1200x626_Oct2024.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
-
-* * *
-
 * [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
     
     33 Halloween Books for Little Pumpkins
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
+
+* * *
+
+* [![A Guide to Stephen King Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2019/04/24114115/PRH_StephenKing-1200x628-1.jpg)
+    
+    A Guide to Stephen King Books
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
 
 * * *
 
