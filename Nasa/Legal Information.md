@@ -76,7 +76,7 @@ article1 day ago](https://science.nasa.gov/science-research/biological-physical-
 
 ### Hubble Sees a Celestial Cannonball
 
-article13 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article15 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Red Rocks with Green Spots at ‘Serpentine Rapids’
 
-article 3 hours ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+article 5 hours ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
 ### Hubble Sees a Celestial Cannonball
 
-article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
 
 5 min read
 
@@ -291,7 +291,7 @@ article 2 days ago](https://www.nasa.gov/reference/risk-of-injury-and-compromise
 
 ### High-Altitude ER-2 Flights Get Down-to-Earth Data
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
+article 10 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Amendment 62: New Opportunity: A.61 INSPYRE Science Team](https://science.nasa.gov/wp-content/uploads/2024/09/quebec-canada-wildfire-smoke-consumes-new-jersey-and-new-york-city-june-7-2023-52958921436.jpg)
 
 2 min read
 
@@ -313,7 +313,7 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Total Solar Eclipse Broadcast For Your Consideration
 
-article 9 hours ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-your-consideration/)[![Sinister Solar System](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001359/GSFC_20171208_Archive_e001359~large.jpg)
+article 11 hours ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-your-consideration/)[![Sinister Solar System](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001359/GSFC_20171208_Archive_e001359~large.jpg)
 
 1 min read
 
@@ -335,7 +335,7 @@ article 1 day ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-202
 
 ### Hubble Sees a Celestial Cannonball
 
-article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
@@ -357,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
-article 7 hours ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 9 hours ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### High-Altitude ER-2 Flights Get Down-to-Earth Data
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Image of the tutorials section on the OSDR website.](https://www.nasa.gov/wp-content/uploads/2024/10/tutorials.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Image of the tutorials section on the OSDR website.](https://www.nasa.gov/wp-content/uploads/2024/10/tutorials.jpg?w=1024)
 
 1 min read
 
 ### New OSDR Tutorials
 
-article 12 hours ago](https://www.nasa.gov/new-osdr-tutorials/)
+article 14 hours ago](https://www.nasa.gov/new-osdr-tutorials/)
 
 ### Highlights
 
@@ -439,7 +439,7 @@ article 1 year ago](https://www.nasa.gov/stem-content/nasa-themed-pumpkin-carvin
 
 ### NASA Quiet Space Fan Research to Benefit Commercial Space Stations
 
-article 2 days ago](https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+article 3 days ago](https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
@@ -461,7 +461,7 @@ article 2 days ago](https://science.nasa.gov/technology/rps/after-60-years-nucle
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 5 hours ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 7 hours ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
