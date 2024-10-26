@@ -31,6 +31,520 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Los siete estados clave en las elecciones de EE.UU.
+===================================================
+
+En Estados Unidos los swing states serán claves en las elecciones el próximo martes 5 de noviembre de 2024.
+-----------------------------------------------------------------------------------------------------------
+
+![Kamala Harris en un mitin en Georgia, antes de las elecciones del 5 de noviembre en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala.jpg)
+
+**Los swing states** o **“estados bisagra”** son aquellos que **no tienen un historial consistente de votar** por un solo partido en las elecciones presidenciales de Estados Unidos. En la elección de 2024, estos estados **juegan un papel crucial**, ya que su voto puede inclinar la balanza hacia cualquiera de los **dos principales candidatos**.
+
+### Más noticias
+
+* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
+* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
+* [Republicanos anti Trump arrancan un tour por estados clave de EE.UU.](https://www.elcomercio.com/actualidad/mundo/republicanos-anti-trump-arrancan-tour-estados-clave-ee-uu.html "Republicanos anti Trump arrancan un tour por estados clave de EE.UU.")
+
+Estos estados son el foco de **campañas intensas** y reciben una gran cantidad de visitas de los candidatos durante la contienda.
+
+En las elecciones de 2024, siete estados se consideran clave para definir el resultado. Entre ellos están **Arizona, Georgia, Michigan, Wisconsin, Nevada, Pensilvania y Carolina del Norte**.
+
+> Swing States poll by [@RedfieldWilton](https://twitter.com/RedfieldWilton?ref_src=twsrc%5Etfw)  
+>   
+> Wisconsin – 🔵 Harris 49-47%  
+> Pennsylvania – 🔵 Harris 48-47%  
+> Michigan – 🟡 Tie 47-47%  
+> Arizona – 🔴 Trump 48-46%  
+> North Carolina – 🔴 Trump 48-47%  
+> Georgia – 🔴 Trump 48-47%  
+> Nevada – 🔴 Trump 47-46%  
+> ——  
+> #110 (1.8/3.0) | N=7,362 | 10/20-22… [pic.twitter.com/qRextNZkzd](https://t.co/qRextNZkzd)
+> 
+> — InteractivePolls (@IAPolls2022) [October 25, 2024](https://twitter.com/IAPolls2022/status/1849844660492968215?ref_src=twsrc%5Etfw)
+
+Cada uno tiene características **demográficas y políticas** que los hacen impredecibles. Por ejemplo, estados como **Pensilvania y Michigan** son conocidos por su población trabajadora del **cinturón industrial**, mientras que **Nevada y Arizona** tienen una creciente diversidad étnica que influye en el voto​.​
+
+Los desafíos de la movilización de votantes
+-------------------------------------------
+
+En estos estados, la movilización de votantes es esencial. Los candidatos han implementado estrategias específicas para **atraer a diversos grupos**.
+
+Por ejemplo, la campaña de **Kamala Harris** trabajó para fortalecer el apoyo en áreas urbanas clave de **Michigan**, mientras que **Donald Trump** se enfocó en consolidar su base en **Carolina del Norte**, apelando a votantes de **zonas rurales y suburbanas**.
+
+La participación es otro **factor decisivo en los estados bisagra**. Las campañas se esfuerzan por movilizar a votantes jóvenes y de comunidades minoritarias, quienes a menudo tienen niveles de **participación fluctuantes**.
+
+La dinámica en estos estados puede cambiar rápidamente dependiendo de qué **grupo demográfico** decida salir a votar en mayor cantidad el **día de las elecciones**​.
+
+> The 2024 Presidential Election is now just 10 days away.  
+>   
+> Meanwhile, Michigan is panning out to be the most important race in the country.  
+>   
+> Currently, Donald Trump has taken the lead in ALL swing states aside from Michigan.  
+>   
+> According to [@Kalshi](https://twitter.com/Kalshi?ref_src=twsrc%5Etfw)'s prediction markets, the odds in… [pic.twitter.com/ZuPB6Bm8mi](https://t.co/ZuPB6Bm8mi)
+> 
+> — The Kobeissi Letter (@KobeissiLetter) [October 25, 2024](https://twitter.com/KobeissiLetter/status/1849847022980833561?ref_src=twsrc%5Etfw)
+
+Tendencias históricas y factores clave
+--------------------------------------
+
+En elecciones recientes, algunos de estos **estados cambiaron de partido en comparación con elecciones anteriores**, destacando la volatilidad del voto en estas regiones.
+
+Por ejemplo, estados como **Georgia y Arizona** votaron por el **Partido Demócrata en 2020**, a pesar de haber sido tradicionalmente republicanos en **elecciones anteriores**. Esto indica que las campañas en 2024 deben adaptarse y ser flexibles para captar nuevos votantes en estos **estados cambiantes**​.
+
+La **economía local y temas específicos como el empleo**, la atención médica y la inmigración juegan un papel importante en la decisión de los votantes en estos estados. Las campañas se ajustan para resaltar políticas que aborden estas preocupaciones, y es común ver debates intensos sobre estos temas durante los últimos días de la campaña​.
+
+Estos estados bisagra seguirán siendo el **centro de atención** hasta el cierre de las urnas el día de la elección, y los resultados en **ellos podrían definir el próximo presidente de Estados Unidos**.
+
+La importancia de cada estado bisagra en 2024
+---------------------------------------------
+
+### Arizona
+
+Arizona fue un e**stado tradicionalmente republicano** hasta que Biden lo ganó en 2020. Su creciente diversidad étnica y el **rápido crecimiento poblacional** han hecho que ambos partidos consideren el estado como esencial para asegurar el triunfo.
+
+Los candidatos buscan captar el voto latino, que representa una porción significativa del electorado.
+
+### Georgia
+
+**Georgia fue clave en 2020 cuando Biden** rompió una racha republicana de décadas. La organización del voto y la participación de **comunidades afroamericanas** fueron cruciales.
+
+La c**ompetencia sigue siendo intensa,** y ambos partidos ven el estado como fundamental para llegar a los 270 votos electorales.
+
+### Michigan
+
+Parte del **cinturón industrial**, Michigan fue ganado por Trump en 2016, pero volvió a los demócratas en 2020. La **economía y temas laborales** son relevantes aquí.
+
+> Early voting in swing states [pic.twitter.com/dnZAdg5PuX](https://t.co/dnZAdg5PuX)
+> 
+> — Special Situations 🌐 Research Newsletter (Jay) (@SpecialSitsNews) [October 25, 2024](https://twitter.com/SpecialSitsNews/status/1849819652710338725?ref_src=twsrc%5Etfw)
+
+Las campañas están enfocadas en atraer a **votantes de clase trabajadora**, un grupo que puede decidir el resultado.
+
+### Wisconsin
+
+ En 2016, **Wisconsin** sorprendió al inclinarse hacia Trump, pero volvió a apoyar a los demócratas en 2020.
+
+Es un estado donde las campañas deben ganar el apoyo tanto en áreas rurales como urbanas. La competencia es cerrada y cada voto cuenta.
+
+### Nevada
+
+Nevada tiene una gran **población de trabajadores sindicalizados** y votantes latinos, lo que lo hace un estado competitivo.
+
+La economía y políticas de inmigración suelen ser los temas predominantes en las campañas. Los resultados aquí pueden marcar la **diferencia para alcanzar la mayoría electoral**.
+
+### Pensilvania
+
+Es uno de los **estados más disputados** y puede definir el resultado electoral.
+
+> Latest Swing State Odds (% chance of winning)  
+>   
+> 🟥 Arizona • Trump 70-30%  
+> 🟥 Georgia • Trump 70-30%  
+> 🟥 Pennsylvania • Trump 60-40%  
+> 🟥 Wisconsin • Trump 57-43%  
+> 🟥 Michigan • Trump 56-44%  
+> 🟥 Nevada • Trump 55-45% [pic.twitter.com/e6mpxeXe5H](https://t.co/e6mpxeXe5H)
+> 
+> — Polymarket (@Polymarket) [October 21, 2024](https://twitter.com/Polymarket/status/1848447132543685076?ref_src=twsrc%5Etfw)
+
+Con sus 19 votos electorales, Pensilvania ha sido un punto de enfoque para ambas campañas, que buscan captar el apoyo de los suburbios de Filadelfia y áreas industriales. Los temas económicos son claves.
+
+### Carolina del Norte
+
+Este estado tiene **16 votos electorales** y fue republicano en 2020, pero las encuestas muestran una carrera cerrada.
+
+Las campañas están invirtiendo recursos significativos para atraer a **votantes jóvenes, afroamericanos y suburbanos**, ya que podría inclinarse para cualquiera de los partidos en esta elección.
+
+Piero Hincapié se destaca en Bayer Leverkusen ante Werder Bremen
+================================================================
+
+El Bayer 04 Leverkusen, de Piero Hincapié, se llevó un empate de visita. El ecuatoriano recibió una amarilla.
+-------------------------------------------------------------------------------------------------------------
+
+![El ecuatoriano Piero Hincapié del Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-25.jpg)
+
+El **Bayer Leverkusen**, con el ecuatoriano **Piero Hincapié** como titular, se enfrentó al **Werder Bremen** en un emocionante partido de la Bundesliga el 26 de octubre de 2024.
+
+El encuentro, disputado en el Weserstadion, culminó en un empate 2-2.
+
+Hincapié tuvo una actuación destacada, mostrando firmeza en defensa y contribuyendo al ataque, aunque recibió una cartulina amarilla por un gesto inapropiado cerca del final de juego.  
+
+### Más noticias:
+
+* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
+* [El Brighton de Pervis Estupiñán se dejó empatar ante Wolves](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-empatar-wolves-premier.html "El Brighton de Pervis Estupiñán se dejó empatar ante Wolves")
+* [Deportivo Quito rescata su complejo de Carcelén](https://www.elcomercio.com/deportes/deportivo-quito-complejo-carcelen-remodelaciones.html "Deportivo Quito rescata su complejo de Carcelén")
+
+**Hincapié** tomó el balón y lo elevó al aire para evitar que uno de sus rivales pudiera reanudar el juego de inmediato. Eso no fue bien visto por el árbitro que le mostró la amarilla, cerca del final del partido.
+
+El marcador se abrió a favor de **Leverkusen** gracias a un gol de Victor Boniface a los 30 minutos.
+
+Sin embargo, el Bremen respondió con un tanto de Marvin Ducksch a los 74’. La alegría de los locales duró poco, ya que el 2-1 llegó para Leverkusen con un autogol de Felix Agu a los 77’.
+
+A pesar de que parecía que Leverkusen se llevaría la victoria, Bremen luchó con pundonor y logró igualar el marcador a los 90 minutos con un gol de **Romano Schmid.**
+
+Ambos equipos dividieron honores en un gran partido.
+
+Con este empate, el **Bayer 04 Leverkusen** se mantiene en la tercera posición de la tabla, acumulando 15 puntos.
+
+**Hincapié**, de 22 años, sigue destacándose en la defensa, lo que ha llamado la atención de varios clubes importantes en Europa.
+
+Piero Hincapié
+--------------
+
+Hincapié ha sido clave en la histórica campaña del Bayer Leverkusen, que culminó con la consecución de la Bundesliga y la Copa de Alemania en la temporada 2023/24.
+
+Sin embargo, rumores sobre su futuro han comenzado a circular, sugiriendo que el esmeraldeño podría estar considerando su salida del club. La razón principal de su posible traspaso es el deseo de contar con más minutos de juego, algo que varios equipos europeos están dispuestos a ofrecer.
+
+Clubes de renombre, como **Bayern Múnich,** Liverpool, Tottenham Hotspur y Atlético de Madrid, están interesados en el joven defensor. Además, se ha sumado el Manchester United, que busca replicar el éxito que tuvo con el ecuatoriano Antonio Valencia.
+
+Mientras **Hincapié** se destaca en la defensa del Bayer Leverkusen, la presión por su futuro crece, y la afición espera que su actuación en el campo pueda sellar un traspaso exitoso a un club de alto perfil. El equipo continúa con su búsqueda de la victoria en este crucial encuentro, que podría definir el rumbo de la temporada.
+
+Real Madrid fortalece su centro del campo ante FC Barcelona (alineaciones)
+==========================================================================
+
+Real Madrid presentará cambios para recibir al FC Barcelona en el clásico de España que se disputará en el Bernabéu
+-------------------------------------------------------------------------------------------------------------------
+
+![El delantero del FC Barcelona Lamine Yamal antes de su partido ante el Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-1-4.jpg)
+
+La entrada de Andriy Lunin, Aurélien Tchouaméni y Eduardo Camavinga son las novedades de Carlo Ancelotti en el once del **Real Madrid** para la disputa del **clásico** ante **FC Barcelona**, en el **Santiago Bernabéu**, el 26 de octubre del 2024.
+
+Con el técnico italiano fortaleciendo su centro del campo con un cambio de sistema y apostando por cuatro medios para el partido que arrancará a las 14:00, hora de Ecuador.
+
+### Más noticias:
+
+* [¿A qué hora se juega el clásico entre Real Madrid y el FC Barcelona?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juega-clasico-real-madrid-fcbarcelona.html "¿A qué hora se juega el clásico entre Real Madrid y el FC Barcelona?")
+* [Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo](https://www.elcomercio.com/deportes/futbol/real-madrid-barcelona-devuelven-la-magia-al-clasico-post-messi-y-ronaldo.html "Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo")
+* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
+
+Alineación del Real Madrid
+--------------------------
+
+Regresa **Ancelotti** a un dibujo 4-4-2 para encarar el duelo ante el líder de LaLiga EA Sports, el Barcelona, e incrementa el músculo en su centro del campo dando entrada a la pareja de medios franceses, Tchouaméni y Camavinga, en detrimento de Luka Modric y tras la lesión muscular de Rodrygo.
+
+La tercera novedad en el once titular del **Real Madrid** es el portero ucraniano Lunin que cubre la baja por lesión de Courtois.
+
+El Real Madrid inicia el clásico con: Lunin; Lucas Vázquez, Militao, Rüdiger, Mendy; Tchouaméni, Fede Valverde, Camavinga, Bellingham; Vinícius y Mbappé.
+
+Alineación FC Barcelona
+-----------------------
+
+Hansi Flick, entrenador del **FC Barcelona,** repite para el clásico contra el Real Madrid el once titular que goleó 4-1 al Bayern Múnich el pasado miércoles, con Fermín López titular y Dani Olmo en el banquillo.
+
+La presencia de uno u otro futbolista en el centro del campo era la principal duda del técnico germano para visitar el Santiago Bernabéu.
+
+El once titular del Barça lo forman: Iñaki Peña; Jules Kounde, Pau Cubarsí, Íñigo Martinez, Alejandro Balde; Marc Casadó, Fermín López, Pedri; Lamine Yamal, Raphinha y Robert Lewandowski. 
+
+Hijos de ‘Diddy’ Combs salen del anominato para defender a su padre
+===================================================================
+
+'Diddy' Combs tiene siete hijos. Los seis mayores se pronunciaron en redes sociales.
+------------------------------------------------------------------------------------
+
+![El rapero 'Diddy' Combs está detenido en una prisión federal de Nueva York. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo194.jpg)
+
+Seis hijos del rapero y productor **Sean ‘Diddy’ Combs** salieron en defensa de su padre. El polémico artista se encuentra ahora mismo detenido sin derecho a fianza en una prisión federal de Nueva York.
+
+### **Más noticias:**
+
+* [¿Quién es Diddy?](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html")
+* [‘Diddy’ suma una nueva denuncia escalofriante](https://www.elcomercio.com/tendencias/entretenimiento/diddy-suma-una-nueva-denuncia-escalofriante.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-suma-una-nueva-denuncia-escalofriante.html")
+* [La obsesión de Diddy por los príncipes William y Harry](https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html "https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html")
+
+**¿Qué pasó con ‘Diddy’ Combs?**
+--------------------------------
+
+El cantante y productor Sean ‘Diddy’ Combs enfrenta serias acusaciones de crimen organizado. También,de **tráfico sexual** y trata de personas, así como múltiples cargos por agresiones sexuales contra mujeres.
+
+**Hijos de ‘Diddy’ Combs salen del anominato para defender a su padre**
+-----------------------------------------------------------------------
+
+En una publicación conjunta en **Instagram**, Quincy Brown, hijo adoptivo de Combs, y sus hermanos Justin Dior, Christian ‘King’, Chance, D’Lila y Jessie manifestaron su apoyo incondicional.
+
+Aseguran que el último mes ha sido devastador para la familia y que muchos han juzgado a su padre y a ellos mismos basándose en rumores y “narrativas falsas” que han proliferado en las redes sociales.
+
+> [View this post on Instagram](https://www.instagram.com/p/DBbIxQHPOjn/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Quincy (@quincy)](https://www.instagram.com/p/DBbIxQHPOjn/?utm_source=ig_embed&utm_campaign=loading)
+
+Los hermanos declararon: “Nos aferramos a la verdad, sabiendo que prevalecerá y que nada destruirá la fuerza de nuestra familia”.
+
+Resaltaron la importancia de permanecer unidos en este difícil momento, enfatizando que apoyarán a su padre en cada paso del proceso judicial.
+
+**‘Diddy’ suma más de una centena de demandas**
+-----------------------------------------------
+
+Diddy, conocido por su influyente carrera en la música y los negocios, ha visto su imagen pública comprometida por estas acusaciones. Además de sus seis hijos mayores, el rapero es padre de una niña de dos años. Las acusaciones en su contra han generado un gran revuelo mediático, lo que ha llevado a sus hijos a expresar su descontento con la forma en que se han manejado los hechos en la opinión pública.
+
+La situación sigue en desarrollo y la familia continúa enfrentando la adversidad con la esperanza de que se haga justicia. El futuro de Combs y el impacto de estas acusaciones en su carrera y vida personal se mantienen como temas de interés en los medios.
+
+La construcción de parques industriales en México crece un 20 %
+===============================================================
+
+En México hay ahora 460 parques industriales y están construyéndose 93 nuevos.
+------------------------------------------------------------------------------
+
+![El presidente de la Asociación Mexicana de Parques Industriales Privados (AMPIP), Jorge Ávalos, habla durante la Reunión Anual de Industriales de CONCAMIN, en las instalaciones de Cintermex, este lunes en la ciudad de Monterrey (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/parques-mexico-efe.jpg)
+
+La construcción de parques industriales en [México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html") creció un 20 % en el último año con una inversión mayor a 4 000 millones de dólares por el **‘nearshoring’** o reubicación de empresas. Lo reveló este lunes Jorge Ávalos, presidente de la **Asociación Mexicana de Parques Industriales Privados** (AMPIP).
+
+### Más noticias
+
+* [México tendrá la primeras elecciones judiciales en junio de 2025](https://www.elcomercio.com/actualidad/mundo/mexico-tendra-primeras-elecciones-judiciales-junio-2025.html "México tendrá la primeras elecciones judiciales en junio de 2025")
+* [La frontera de México resiente las restricciones migratorias de EE.UU.](https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html")
+* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html")
+
+En México hay ahora **460 parques industriales** y están construyéndose 93 nuevos, detalló el líder empresarial en el panel **‘Fortalezas y retos de la economía mexicana de cara al nearshoring’**. Se realizó Reunión Anual de Industriales que se celebró en **Nuevo León**, estado de la frontera norte del país.
+
+“Hoy estamos construyendo **93 parques industriales este año**. Representa el 20 % de la capacidad total de parques que teníamos hasta hace 1 año. Nunca en mis 25 años de estar en la asociación vi este dinamismo”, aseguró Ávalos en el evento de la Confederación de Cámaras Industriales de México.
+
+Agregó que la inversión que se realizará **superará los 4 000 millones de dólares**. Ya rebasan los 3 000 millones del año anterior.
+
+Fondos de inversión de Estados Unidos
+-------------------------------------
+
+Expuso que hay más de **80 fondos de inversión de Estados Unidos** que están inyectado capital en los parques industriales porque “son mucho más optimistas los inversionistas extranjeros”.
+
+“Lo que estamos viendo en Nuevo León, Volvo acaba de anunciar una planta que tiene casi 20 hectáreas techadas, eso es por decir (un ejemplo), una sola”, indicó.
+
+También citó que DHL está haciendo un centro o ‘hub’ de logística en el **Aeropuerto Internacional Felipe Ángeles** (AIFA) de la capital mexicana de más de 200 000 m².
+
+En el evento, Salvador Portillo, presidente de la **Cámara Nacional de Manufacturas Eléctricas y** presidente de la comisión de **‘nearshoring’** de Concamin, destacó la importancia de garantizar la electricidad al argumentar que esta actividad es transversal a todas las actividades económicas en la nación.
+
+“**Sin electricidad no hay un futuro eléctrico** y, si ustedes observan, está concentrado básicamente en dos rubros: el primer rubro del **consumo eléctrico** es prácticamente del sector industrial, consume el 60 %, y el sector residencial consume el 24 %”, precisó.
+
+Rubo de transporte
+------------------
+
+Actualmente dijo que el **rubro del transport**e consume 0.5 %, pero advirtió de que la **electromovilidad** y la necesidad de una infraestructura de carga va a potenciar este consumo.
+
+También expuso que “**cualquier actividad industrial** que propicie el ‘nearshoring’ va a requerir electricidad y va a requerir electricidad en un monto importante”.
+
+“Algo muy importante para incentivar el **‘nearshoring’** es que la energía sea de **fuentes renovables**, cada día es más exigente que el componente de la energía que consumen las empresas que exportan hacia Estados Unidos tenga un cierto **componente de energía renovable**“, compartió. 
+
+Ben Affleck está listo para salir, pero tendría una condición para la ‘afortunada’
+==================================================================================
+
+Medios internacionales aseguran que Ben Affleck luce más radiante tras separarse de Jennifer Lopez.
+---------------------------------------------------------------------------------------------------
+
+![Ben Affleck cumplió 52 años el pasado 15 de agosto. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo193.jpg)
+
+**Jennifer Lopez y Ben Affleck**, que alguna vez fueron la pareja más célebre de **Hollywood**, pusieron fin a su relación una vez más, después de haber reavivado su romance en 2021.
+
+La ruptura causó desilusión entre sus seguidores. Ahora, ambos se centran en sus **carreras** y vidas personales.
+
+### **Más noticias:**
+
+* [Jennifer Lopez con nuevo romance, dicen medios internacionales](https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html "https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html")
+* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html")
+* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html "https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html")
+
+**Ben Affleck está listo para salir, pero tiene una condición para la ‘afortunada’**
+------------------------------------------------------------------------------------
+
+Ben Affleck expresó recientemente que se siente “listo para volver a salir”, sin preocuparse por la controversia que rodea su separación de Lopez.
+
+El actor, conocido por su papel en ‘Batman’, ha captado la atención mediática por su renovada energía tras la ruptura, y mencionó que tiene “una condición” para la mujer con la que desee relacionarse.
+
+> [View this post on Instagram](https://www.instagram.com/p/ConCjgsuexu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Ben Affleck (@benaffleckreturn)](https://www.instagram.com/p/ConCjgsuexu/?utm_source=ig_embed&utm_campaign=loading)
+
+Una fuente cercana a Affleck, de 52 años, indicó, según International The News,: “Ben no ha abandonado la idea de las relaciones y se siente preparado para seguir adelante”.
+
+El informante agregó que el actor mantendrá sus futuras citas de manera casual, sin compromisos serios hasta que se complete su divorcio de la famosa cantante.
+
+Además, se conoció que **Affleck** está interesado en salir solo con personas que sean sobrias o que estén en recuperación.
+
+Después de atravesar momentos difíciles en los últimos años, el actor deja claro que su salud y bienestar son su prioridad. “No va a poner en riesgo su sobriedad”, subrayó la fuente.
+
+Los fanáticos están ansiosos por saber quién será la próxima persona que llamará la atención del actor Ben Affleck, de 52 años.
+
+El Brighton de Pervis Estupiñán se dejó empatar ante Wolves
+===========================================================
+
+Brighton ganaba cómodo hasta el minuto 88 del partido, pero entonces llegó una remontada en contra del equipo de Estupiñán
+--------------------------------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán del Brighton de la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pervis.jpg)
+
+El **Brighton,** con el ecuatoriano **Pervis Estupiñán** en la titularidad, dejó escapar dos puntos valiosos en la **Premier League** tras empatar 2-2 contra el Wolverhampton Wanderers (Wolves) este 26 de octubre de 2024.
+
+Cuando el partido se acercaba a su final, el equipo local parecía encaminado hacia una victoria, liderando 2-1. Sin embargo, el drama se desató en el tiempo de descuento.
+
+### Más noticias:
+
+* [Pervis Estupiñán y el Brighton sorprenden en la Premier League](https://www.elcomercio.com/deportes/previs-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton sorprenden en la Premier League")
+* [Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-clave-remontada-brighton-ante-tottenham.html "Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham")
+* [¿Cuándo juega el Chelsea ante Brighton?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-brighton-moises-caicedo.html "¿Cuándo juega el Chelsea ante Brighton?")
+
+Los hinchas del Brighton celebraban el buen desempeño de su equipo, que había anotado dos goles:
+
+Danny Welbeck abrió el marcador a los 45 minutos, seguido por Evan Ferguson, quien amplió la ventaja a los 85. Con un resultado aparentemente seguro, el equipo se relajó, permitiendo que los Wolves reaccionaran en los minutos finales.
+
+La remontada de los visitantes comenzó cuando **Rayan Aït-Nouri** descontó a los 88 minutos, poniendo en alerta al Brighton.
+
+En el tercer minuto de descuento, **Matheus Cunha** sorprendió a la defensa local, anotando el gol del empate y desatando la frustración en el estadio.
+
+El encuentro culminó 2-2, y el Brighton dejó escapar la oportunidad de sumar tres puntos importantes en casa.
+
+Brighton de Pervis Estupiñán
+----------------------------
+
+Con este empate, el Brighton se queda con 16 puntos, ocupando la quinta posición de la tabla, a siete puntos del líder, el Manchester City.
+
+Los Wolves, por su parte, suman su primera unidad tras nueve partidos, saliendo de la última posición en la clasificación.
+
+**Pervis Estupiñán**, pieza clave en el equipo y habitual titular de la Selección de Ecuador, se llevó una tarjeta amarilla en el minuto 74.
+
+A pesar de su esfuerzo en el campo, el equipo no pudo consolidar la ventaja, lo que dejó un sabor amargo en el **Brighton Stadium.**
+
+Las estadísticas del partido favorecieron al Brighton, que mantuvo un 52% de posesión y realizó 19 remates frente a los 14 de los Wolves.
+
+Sin embargo, la falta de concentración en los momentos decisivos les costó dos puntos cruciales en su lucha por escalar en la Premier League.
+
+Nuevo caso de crueldad animal en Quito
+======================================
+
+El caso fue reportado al ECU 911 por una ciudadana que transitaba por el sector.
+--------------------------------------------------------------------------------
+
+![Este nuevo caso de crueldad animal ocurrió en el sur de Quito. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo192.jpg)
+
+El 15 pasado de octubre, el **ECU 911** recibió una **alerta** sobre un nuevo caso de crueldad animal. Este se suma al reportado el pasado 5 de octubre.
+
+Ese día, 13 perros tipo **pitbull** fueron rescatados de un criadero ilegal. Los animales tenían signos de maltrato.
+
+### **Más noticias:**
+
+* [13 perros en condición de maltrato, rescatados en Quito](https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html "https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html")
+* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
+* [Multa ejemplar para un caso de crueldad animal en Ecuador](https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link")
+
+**Nuevo caso de crueldad animal en Quito**
+------------------------------------------
+
+Tras recibir la alerta, el ECU 911 reportó el hallazgo de siete cachorros recién nacidos abandonados en **Quito**.
+
+La **[Unidad de Bienestar Animal](https://bienestaranimal.quito.gob.ec/ "https://bienestaranimal.quito.gob.ec/")** (UBA) se puso en contacto con la mujer que reportó el suceso y procedió a rescatarlos.
+
+Los indefensos animales fueron abandonados en las vías del tren en el sector de San Martín, al sur de la ciudad.
+
+**Cachorros abandonados por más de 12 horas en Quito**
+------------------------------------------------------
+
+Los cachorros, envueltos en una bolsa de plástico, enfrentaron la cruel realidad del abandono. Al llegar al lugar, la mujer que alertó al ECU 911 descubrió que tres de los cachorros estaban muertos.
+
+Los cuatro cachorros restantes (tres machos y una hembra) fueron trasladados al Centro de Atención Veterinaria, Rescate y Acogida Temporal (CAVRAT) Quito Sur. Ahí recibieron asistencia médica.
+
+**Crueldad animal deja siete cachorros muertos**
+------------------------------------------------
+
+Desafortunadamente, los veterinarios confirmaron que los cachorros no sobrevivieron, pues soportaron las inclemencias del clima por más de 12 horas.
+
+La etapa neonatal es crítica para los cachorros. En esa, ellos requieren cuidados especiales para desarrollar un sistema inmunológico adecuado.
+
+El abandono en condiciones adversas puede causar desnutrición, convulsiones e insuficiencia cardiaca, entre otros problemas.
+
+Deportivo Quito rescata su complejo de Carcelén
+===============================================
+
+El Deportivo Quito busca el ascenso hacia la Serie B de Ecuador y ha realizado remodelaciones en su complejo.
+-------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Quito en su complejo, el cual ha tenido remodelaciones.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-25T183812.754.jpg)
+
+El **Deportivo Quito** se encuentra en la Segunda Categoría del fútbol ecuatoriano y busca ascender hacia la **Serie B** del balompié nacional. Mientras continúa su trayecto en el torneo, este ha remodelado su complejo y realizado modificaciones.
+
+En septiembre del 2024, la nueva directiva de la ‘AKD’, encabezada por **José Pardo**, fue oficializada en el club. A raíz de ello, los cambios de infraestructura y rehabilitación de las instalaciones del **Complejo Ney Mancheno** han formado parte de su proyecto, el cual arrancó desde que fue electa.
+
+### Más noticias:
+
+* [Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana](https://www.elcomercio.com/deportes/futbol/deportivo-quito-cantera-orense-ascenso-2.html "Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana")
+* [Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-nuevamente-estadio-lleno-torneo-ascenso.html "Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso")
+* [Deportivo Quito tiene una deuda de 7 millones y planea reducirla](https://www.elcomercio.com/deportes/deportivo-quito-valor-deuda-jose-pardo.html "Deportivo Quito tiene una deuda de 7 millones y planea reducirla")
+
+Los cambios y reparaciones en la casa del equipo capitalino, que se ubica en el sector de **Carcelén**, se dan como complemento a la iniciativa de rehabilitar y estabilizar al club tanto a **nivel futbolístico** como administrativo e institucional. En diálogo con EL COMERCIO, Pardo reveló los mantenimientos, recuperaciones e implementaciones que se han llevado a cabo.
+
+Al igual que lo realizado en el **Ney Mancheno** también se manifestaron proyectos a futuro de la institución, más allá del ascenso. A su vez, este contó el estado de la deuda del equipo y las expectativas del trajín en Segunda Categoría.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAvurl4xLAx/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Bendito Fútbol (@benditofutbol)](https://www.instagram.com/reel/DAvurl4xLAx/?utm_source=ig_embed&utm_campaign=loading)
+
+Los cambios en el Complejo Ney Mancheno de Deportivo Quito
+----------------------------------------------------------
+
+Las modificaciones que se han llevado a cabo en el **Complejo Ney Mancheno** han sido dentro de distintas áreas. Estas abarcan espacios dentro de las estancias de jugadores y oficinas administrativas como canchas y espacios recreativos.
+
+“Se arregló la cancha. Le invertimos mucho tiempo en arreglar porque estaba destruida. La concentración estaba totalmente en mal estado, se la arregló. Se arregló la cocina, que estaba inservible, el comedor y las oficinas. **La oficina ya no tiene goteras. Hemos puesto las copas en el lugar donde se merecen. Aparte de eso se arregló también el tema del camerino, las duchas, todo… la parte del agua caliente funciona**, antes no teníamos agua caliente, todo estaba en supermal estado”, sostuvo Pardo.
+
+Las demás canchas del Complejo del **Deportivo Quito** también se han puesto en óptimas condiciones. Se implementaron tres nuevas, una casi profesional que se destinó a las categorías juveniles, otra para 55 niños en la escuela del club y otra sintética que se encuentra en proceso y servirá para que el club genere ingresos[.](https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito "https://es.wikipedia.org/wiki/Sociedad_Deportivo_Quito")
+
+¿De cuánto es la deuda de Deportivo Quito?
+------------------------------------------
+
+Pardo detalló la situación financiera de **Deportivo Quito** y el monto total de su deuda. A pesar de esto, afirmó que es posible que esta cantidad se reduzca debido a la prescripción de las deudas de los acreedores.
+
+“**Lo hemos manejado bastante bien. Este año no hemos tenido ningún problema y lo seguiremos manejando así. Las deudas del club, están todas ya registradas.** Tenemos una base real de cuánto se debe que son **siete millones** de dólares, de los cuales pueden bajar porque hay un montón de temas de prescripción y cosas así. Yo creo que cuatro millones, aproximadamente, es la deuda, no podríamos decir negociable, pero una deuda que tiene el club”, comentó Pardo.
+
+El dirigente, además, mencionó que el presupuesto destinado para la plantilla y el cuerpo técnico es de **20 mil dólares.** También indicó que cualquier ingreso adicional se destina a cubrir deudas y suspensiones.
+
+La ‘AKD’ va por los octavos de final
+------------------------------------
+
+Dentro de la fase nacional del torneo de Segunda Categoría, **Deportivo Quito** se encuentra en los dieciseisavos de final. Antes de llegar a tal etapa, este superó a Santa Elena SC.
+
+Dentro de su actual ronda, el conjunto de la Plaza del Teatro tiene como rival a Cantera Orense, filial de **Orense**. En el primer compromiso, en Machala, el conjunto capitalino igualó por 1-1 y definirá su pase a los octavos durante el domingo 27 de octubre del 2024.
+
+Israel lanzó ataque de represalia contra Irán
+=============================================
+
+El ataque de Israel contra Irán dejó soldados muertos.
+------------------------------------------------------
+
+![Irán vive este sábado una jornada de aparente normalidad tras los ataques de esta madrugada de Israel. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo191.jpg)
+
+En la madrugada del sábado, **Israel** realizó un ataque de represalia contra **Irán**, ejecutando bombardeos en tres tandas contra instalaciones militares en varias ciudades, incluida **Teherán**.
+
+Este **ataque** responde al lanzamiento de más de 180 misiles balísticos por parte de la República Islámica hace casi un mes.
+
+### **Más noticias:**
+
+* [España incauta el mayor cargamento de droga de su historia; la cocaína fue embarcada en Ecuador](https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html "https://www.elcomercio.com/actualidad/mundo/espana-mayor-cargamento-droga-ecuador.html")
+* [Dos personas transportaban droga en cartones y mochilas, en el sur de Quito](https://www.elcomercio.com/actualidad/dos-personas-transportaban-droga-sur-quito.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/dos-personas-transportaban-droga-sur-quito.html?source=Internal&ref=Single+Content+Link")
+* [Policía encontró droga oculta en insólito lugar](https://www.elcomercio.com/actualidad/quito/policia-droga-oculta-canes-quito.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/policia-droga-oculta-canes-quito.html?source=Internal&ref=Single+Content+Link")
+
+**Israel lanzó ataque de represalia contra Irán**
+-------------------------------------------------
+
+El portavoz del Ejército israelí, **Daniel Hagari,** confirmó que la operación se enfocó en objetivos militares, excluyendo instalaciones nucleares.
+
+Los bombardeos se centraron en **Teherán** y en las provincias de Juzestán e Ilam. Según medios oficiales iraníes, los ataques se dirigieron a sistemas de defensa y a instalaciones de fabricación de drones y misiles.
+
+El primer ministro israelí, Benjamín Netanyahu, supervisó la operación desde una base militar en Tel Aviv, donde recibió luz verde del gabinete de seguridad. Aunque Irán afirmó que sus sistemas de defensa interceptaron el ataque, reconoció “daños limitados” y confirmó la muerte de al menos dos soldados.
+
+En respuesta a los bombardeos, el vicepresidente iraní, Mohammad Reza Aref, afirmó que “el poder de Irán humilla a los enemigos de la patria”.
+
+Además, la portavoz del Gobierno **iraní** destacó la normalidad en el país tras el ataque y subrayó los “daños limitados”.
+
+El portavoz militar **israelí** anunció la conclusión de la operación, denominada ‘Días de Arrepentimiento’, advirtiendo que una nueva agresión iraní recibiría respuesta.
+
+**Estados Unidos se pronunció sobre el ataque**
+-----------------------------------------------
+
+Mientras tanto, Estados Unidos valoró el ataque israelí como “proporcionado” y pidió a Irán que cese sus agresiones.
+
+El país norteamericano reforzó previamente la defensa aérea israelí con el despliegue del sistema THAAD y cazas F-16 en la región.
+
+Este nuevo episodio de tensión se produce en un contexto donde Irán ha lanzado ataques previos contra Israel, complicando aún más la situación en la región.
+
 MrBeast enfrenta una demanda que amenaza su ‘reino’
 ===================================================
 
@@ -41,7 +555,7 @@ La demanda podría terminar con la imagen de chico 'bueno' que proyecta MrBeast.
 
 500 millones de seguidores, una fortuna personal multimillonaria y un imperio empresarial global respaldan a **Jimmy Donaldson**, conocido como **MrBeast**.
 
-Sin embargo, un documento judicial de 54 páginas podría representar el desafío más difícil en su carrera.
+Sin embargo, un documento judicial de 54 páginas podría representar el desafío más difícil en su carrera, según un artículo publicado por la BBC.
 
 ### **Más noticias:**
 
@@ -62,6 +576,10 @@ Nacido el 7 de mayo de 1998, comenzó su carrera en la plataforma en 2012, pero 
 Su enfoque filantrópico, que incluye donaciones millonarias a organizaciones benéficas y regalos a personas necesitadas, ha contribuido a su imagen como un “chico bueno” en **la Internet**.
 
 Con más de 500 millones de suscriptores, **MrBeast** revolucionó el contenido en línea al crear producciones de alto presupuesto que capturan la atención del público.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBT8csvx-zW/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by MrBeast (@mrbeast)](https://www.instagram.com/reel/DBT8csvx-zW/?utm_source=ig_embed&utm_campaign=loading)
 
 Su estilo de entretenimiento, caracterizado por grandes concursos y donaciones, cautivó a una audiencia diversa y le permitió establecer un imperio **empresarial** que abarca desde la venta de productos hasta la creación de contenido para plataformas de streaming.
 
@@ -172,6 +690,48 @@ El local principal queda en la calle **Sucre y García Moreno,** diagonal a la I
 Sin embargo, muy previsores, adquirieron otros locales en el Centro Histórico que arriendan a otros comerciantes, pero lo tienen siempre presente por si acaso se termine el contrato con el actual.
 
 Luego, Guillermo, bajo la necesidad de independencia que a todo hijo le llega, decidió abrir un local en la **Villaflora**, en un inmueble que fue de su propiedad. Vendieron el edificio y cerraron el local, pero se expandieron más bien hacia el norte. Pero esa historia de 74 años, es mejor escuchar en este episodio de El Señor del Sombrero, en que también dialogamos sobre el plato que une a los ecuatorianos a finales de octubre: la **colada morada**, que una vez fue declarado como el mejor de la ciudad, y las **guaguas de pan**[.](https://www.tripadvisor.es/Restaurant_Review-g294308-d1086858-Reviews-Restaurante_y_Cafeteria_Modelo-Quito_Pichincha_Province.html "https://www.tripadvisor.es/Restaurant_Review-g294308-d1086858-Reviews-Restaurante_y_Cafeteria_Modelo-Quito_Pichincha_Province.html")
+
+La luz del deporte resplandece en la crisis
+===========================================
+
+En medio de la crisis energética, las selecciones ecuatorianas, los atletas y ciclistas nos llenan de orgullo
+-------------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador femenina Sub 17 realiza una destacada actuación en el Mundial de la categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/EcuadorSeleccion.jpg)
+
+En momentos de **crisis**, cuando el pesimismo y la inseguridad acechan a nuestra sociedad, el **deporte** se erige como un faro de esperanza.
+
+La reciente situación en Ecuador, marcada por apagones y caos en las calles por la falta de semáforos, ha dejado una profunda huella en el ánimo de la ciudadanía. Sin embargo, nuestros deportistas han sabido devolvernos la alegría y el orgullo, recordándonos que, incluso en las adversidades, podemos brillar.
+
+> El fútbol femenino ha sido un claro ejemplo de este renacer.
+
+La **Selección de Ecuador Sub-17**, en un hito histórico, logró clasificarse a los cuartos de final del Mundial que se celebra en República Dominicana.
+
+Este domingo 27 de octubre, nuestras jóvenes guerreras se enfrentarán a **España**, un desafío que no solo representa la lucha por un lugar en las semifinales del Mundial, sino también un símbolo de progreso y potencial en el deporte femenino ecuatoriano.
+
+Junto a ellas, las Dragonas IDV dejaron huella en la **Copa Libertadores Femenina** al alcanzar las semifinales y terminar en una destacada cuarta posición.
+
+Estas actuaciones nos llenan de esperanza y nos muestran que el talento ecuatoriano tiene un futuro brillante en el **fútbol femenino.**
+
+No podemos olvidar a la **Selección de Ecuador Sub-15**, liderada por el exmundialista Juan Carlos Burbano, que llegó a la final del reciente Sudamericano en Bolivia.
+
+A pesar de perder en penales ante Paraguay, el **subcampeonato** es un reflejo de la proyección que tiene este equipo, que promete dar muchas alegrías en el futuro.
+
+En el ámbito del **atletismo**, Belsy Quiñonez y Jholeixon Rodríguez brillaron con nuevos **récords nacionales** en el Campeonato Nacional U18 realizado en Quito, el pasado fin de semana.
+
+Quiñónez, con su récord sudamericano en lanzamiento de bala, y Rodríguez, con un impresionante salto en alto de 2,09 metros, demuestran que la nueva generación de atletas ecuatorianos está lista para dejar su huella en el escenario internacional.
+
+Ambos y otros destacados seleccionados estarán presentes en el próximo **Sudamericano U18** que se realizará en Argentina, en diciembre.
+
+La confirmación de **Jefferson Cepeda** en el **Movistar Team** de **España** también es un motivo de celebración.
+
+Este ciclista de 28 años, que ha trabajado arduamente para llegar a la élite del **ciclismo mundial**, representa la perseverancia y el talento ecuatoriano. Su inclusión por primera vez en un equipo del **World Tour** abre las puertas para que más deportistas nacionales sigan sus pasos.
+
+Este orgullo tricolor se refleja también en el talento de ciclistas como Richard Carapaz, Jhonatan Narváez, Jonathan Caicedo, Alexander Cepeda, Martín López y, desde 2025, Jefferson Cepeda, quienes han dejado su huella en equipos de la UCI World Tour, la máxima categoría en el ciclismo.
+
+Estos atletas son un testimonio del potencial que el país posee y de la importancia de seguir apoyando el desarrollo del deporte en todas sus categorías. En cada competencia nos demuestran que el esfuerzo y la pasión pueden superar cualquier barrera.
+
+Con su esfuerzo, el deporte se convierte en una luz que ilumina en estos días oscuros, y esperamos que en 2025 sigamos disfrutando de sus triunfos.
 
 ‘El lenguaje bélico convierte al cáncer en un enemigo y reprime emociones’: Daniela Rojas
 =========================================================================================
@@ -284,68 +844,6 @@ Su hoja de vida
 * También es magíster en comunicación científica, médica y ambiental.
 * Fue presidenta de la [Asociación de Psicooncología de Chile](https://apchi.cl/ "https://apchi.cl/")
 
-La luz del deporte resplandece en la crisis
-===========================================
-
-En medio de la crisis energética, las selecciones ecuatorianas, los atletas y ciclistas nos llenan de orgullo
--------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador femenina Sub 17 realiza una destacada actuación en el Mundial de la categoría.](https://www.elcomercio.com/wp-content/uploads/2024/10/EcuadorSeleccion.jpg)
-
-En momentos de **crisis**, cuando el pesimismo y la inseguridad acechan a nuestra sociedad, el **deporte** se erige como un faro de esperanza.
-
-La reciente situación en Ecuador, marcada por apagones y caos en las calles por la falta de semáforos, ha dejado una profunda huella en el ánimo de la ciudadanía. Sin embargo, nuestros deportistas han sabido devolvernos la alegría y el orgullo, recordándonos que, incluso en las adversidades, podemos brillar.
-
-> El fútbol femenino ha sido un claro ejemplo de este renacer.
-
-La **Selección de Ecuador Sub-17**, en un hito histórico, logró clasificarse a los cuartos de final del Mundial que se celebra en República Dominicana.
-
-Este domingo 27 de octubre, nuestras jóvenes guerreras se enfrentarán a **España**, un desafío que no solo representa la lucha por un lugar en las semifinales del Mundial, sino también un símbolo de progreso y potencial en el deporte femenino ecuatoriano.
-
-Junto a ellas, las Dragonas IDV dejaron huella en la **Copa Libertadores Femenina** al alcanzar las semifinales y terminar en una destacada cuarta posición.
-
-Estas actuaciones nos llenan de esperanza y nos muestran que el talento ecuatoriano tiene un futuro brillante en el **fútbol femenino.**
-
-No podemos olvidar a la **Selección de Ecuador Sub-15**, liderada por el exmundialista Juan Carlos Burbano, que llegó a la final del reciente Sudamericano en Bolivia.
-
-A pesar de perder en penales ante Paraguay, el **subcampeonato** es un reflejo de la proyección que tiene este equipo, que promete dar muchas alegrías en el futuro.
-
-En el ámbito del **atletismo**, Belsy Quiñonez y Jholeixon Rodríguez brillaron con nuevos **récords nacionales** en el Campeonato Nacional U18 realizado en Quito, el pasado fin de semana.
-
-Quiñónez, con su récord sudamericano en lanzamiento de bala, y Rodríguez, con un impresionante salto en alto de 2,09 metros, demuestran que la nueva generación de atletas ecuatorianos está lista para dejar su huella en el escenario internacional.
-
-Ambos y otros destacados seleccionados estarán presentes en el próximo **Sudamericano U18** que se realizará en Argentina, en diciembre.
-
-La confirmación de **Jefferson Cepeda** en el **Movistar Team** de **España** también es un motivo de celebración.
-
-Este ciclista de 28 años, que ha trabajado arduamente para llegar a la élite del **ciclismo mundial**, representa la perseverancia y el talento ecuatoriano. Su inclusión por primera vez en un equipo del **World Tour** abre las puertas para que más deportistas nacionales sigan sus pasos.
-
-Este orgullo tricolor se refleja también en el talento de ciclistas como Richard Carapaz, Jhonatan Narváez, Jonathan Caicedo, Alexander Cepeda, Martín López y, desde 2025, Jefferson Cepeda, quienes han dejado su huella en equipos de la UCI World Tour, la máxima categoría en el ciclismo.
-
-Estos atletas son un testimonio del potencial que el país posee y de la importancia de seguir apoyando el desarrollo del deporte en todas sus categorías. En cada competencia nos demuestran que el esfuerzo y la pasión pueden superar cualquier barrera.
-
-Con su esfuerzo, el deporte se convierte en una luz que ilumina en estos días oscuros, y esperamos que en 2025 sigamos disfrutando de sus triunfos.
-
-Los interpelantes perdieron el juicio
-=====================================
-
-La Revolución Ciudadana intentó censurar a la ministra Palencia, pero fracasó por falta de apoyo.
--------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La **revolución ciudadana** necesitaba destituir a la **ministra Palencia** para expresar gratitud al  gobierno populista de México, que acoge con generosidad a los **prófugos** del **partido** acusados de corrupción. Para ello debía establecer como causal de **destitución** la irrupción en la **embajada mexicana**.
-
-También tenía que probar que no había abandonado a su **mártir** en la **cárcel**.  Para censurar a la ministra, probar que Glas fue **secuestrado** en la **embajada** y que es **víctima de persecución política** y  **judicial**, necesitaba los **votos** socialcristianos y los de Construye.
-
-Los **socios** exigían a la **revolución ciudadana** que retire como causal la incursión a la **embajada** y dejara solo el tema de la **inseguridad**, pero no se podía retirar lo que ya era parte del **juicio**. Los interpelantes aceptaron hacer el papel de tontos y no hablar ni una palabra sobre el tema. El resto era la **valoración** y negociación de los votos.
-
-En el mercado negro, donde se cotizan los **votos**, se decía que estaban en juego las **sanciones** a la flota pesquera y la **vicepresidencia** de la **Asamblea**, por un lado, y la calificación de la lista de **asambleístas** nacionales, por el otro; pero los cálculos no cuadraban para **Construye**.
-
-Votar a favor de la **ministra** era declarar que se vendían al **gobierno**, votar en contra era declarar que se entregaban al **correísmo** y traicionaban al país. Los asambleístas de **Construye** hicieron como el mago: dijeron las **palabras mágicas** y desapareció una causal, otras **palabras mágicas** y desapareció el mago. Se abstuvieron en la **votación**.
-
-Los **socialcritianos** cumplieron su palabra, votaron por la censura y, tal vez, aseguraron la **vicepresidencia** de la **Asamblea**. La **revolución ciudadana** sumó una nueva desgracia a su racha de mala suerte. La sentencia al **excontralor** y el retiro de la visa al expresidente y al **exvicepresidente** ratifican que la condena por parte de la **justicia ecuatoriana** tenía pleno fundamento y en el **ámbito internacional** ya no podrán seguir acusando a los **jueces** y alegando lawfare.
-
 Delicia de chocolate, el pastel perfecto para los amantes del dulce
 ===================================================================
 
@@ -436,6 +934,26 @@ Estas son las cartas a Quito de este sábado 26 de octubre de 2024
 La vanidad y la cleptomanía son parte de la personalidad de los miembros de la RC5, que sacan a relucir cuando son autoridad. En vísperas de elecciones se esmeran en proponer proyectos rimbombantes con jugosas comisiones y poca efectividad. Esta vez el Alcalde de Quito está empeñado en completar el despropósito iniciado por su coideario en el 2011, se trata de la ampliación de la primera línea del Metro de Quito hasta la Ofelia, con la pretensión de llegar hasta Calderón. Es clara la aplicación de la personalidad, cuando el burgo maestre en recesión, con urgencia y, plata ajena, ofrece financiar los estudios, cuyo valor debe alcanzar al 1% del valor de la construcción estimado entre 500 y 600 millones de USD. Esta inoportuna iniciativa ha generado duras críticas de la ciudadanía y del propio Concejo Metropolitano. La preocupación es que, no es conveniente embarcarse en la construcción de un ramal, si la línea principal que está en servicio no está cerrada, tiene por resolver problemas graves ahora mismo: no hay recepción definitiva con Acciona, no hay contrato de mantenimiento del material rodante, faltan accesorios de comodidad para el usuario en los trenes, no hay integración con los sistemas de transporte público en superficie. El problema principal del Metro de Quito es que, no es autosustentable, antes de pensar en una nueva deuda, la autoridad municipal debe preocuparse por hacerle rentable, apenas tiene el ingreso de 150 000 usuarios/día, que no cubre los costos de operación y mantenimiento, por lo que el Municipio tiene que subsidiar 50 millones USD/año, sin contar con las cuotas que debe pagar a los prestamistas que financiaron la construcción de la primera línea. En resumen, es verdad que la Ofelia y Calderón necesitan transporte público masivo, pero no necesariamente el Metro, hay sistemas alternativos mucho más baratos, ¡Ponga los pies en el suelo, señor Alcalde!
 
 Marco A. Zurita Ríos 
+
+Los interpelantes perdieron el juicio
+=====================================
+
+La Revolución Ciudadana intentó censurar a la ministra Palencia, pero fracasó por falta de apoyo.
+-------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La **revolución ciudadana** necesitaba destituir a la **ministra Palencia** para expresar gratitud al  gobierno populista de México, que acoge con generosidad a los **prófugos** del **partido** acusados de corrupción. Para ello debía establecer como causal de **destitución** la irrupción en la **embajada mexicana**.
+
+También tenía que probar que no había abandonado a su **mártir** en la **cárcel**.  Para censurar a la ministra, probar que Glas fue **secuestrado** en la **embajada** y que es **víctima de persecución política** y  **judicial**, necesitaba los **votos** socialcristianos y los de Construye.
+
+Los **socios** exigían a la **revolución ciudadana** que retire como causal la incursión a la **embajada** y dejara solo el tema de la **inseguridad**, pero no se podía retirar lo que ya era parte del **juicio**. Los interpelantes aceptaron hacer el papel de tontos y no hablar ni una palabra sobre el tema. El resto era la **valoración** y negociación de los votos.
+
+En el mercado negro, donde se cotizan los **votos**, se decía que estaban en juego las **sanciones** a la flota pesquera y la **vicepresidencia** de la **Asamblea**, por un lado, y la calificación de la lista de **asambleístas** nacionales, por el otro; pero los cálculos no cuadraban para **Construye**.
+
+Votar a favor de la **ministra** era declarar que se vendían al **gobierno**, votar en contra era declarar que se entregaban al **correísmo** y traicionaban al país. Los asambleístas de **Construye** hicieron como el mago: dijeron las **palabras mágicas** y desapareció una causal, otras **palabras mágicas** y desapareció el mago. Se abstuvieron en la **votación**.
+
+Los **socialcritianos** cumplieron su palabra, votaron por la censura y, tal vez, aseguraron la **vicepresidencia** de la **Asamblea**. La **revolución ciudadana** sumó una nueva desgracia a su racha de mala suerte. La sentencia al **excontralor** y el retiro de la visa al expresidente y al **exvicepresidente** ratifican que la condena por parte de la **justicia ecuatoriana** tenía pleno fundamento y en el **ámbito internacional** ya no podrán seguir acusando a los **jueces** y alegando lawfare.
 
 Centro Histórico: un lugar de las disputas y de la memoria de Quito
 ===================================================================
@@ -543,437 +1061,3 @@ La institución recordó que los trámites son personales y que solo se permitir
 > 📌COMUNICADO: A la ciudadanía. [pic.twitter.com/fGyGxAzyoF](https://t.co/fGyGxAzyoF)
 > 
 > — Registro Civil Ecuador 🇪🇨 (@RegistroCivilec) [October 25, 2024](https://twitter.com/RegistroCivilec/status/1849947941806411916?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Cuenca este sábado 26 de octubre
-=================================================
-
-Los cortes de luz en Cuenca son hasta en tres franjas horarias este sábado 26 de octubre.
------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Cuenca este sábado 26 de octubre se mantienen con una duración de 14 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-sabado-26-octubre.jpg)
-
-Los **cortes de luz** en **Cuenca** este **sábado 26 de octubre** serán de **14 horas**, en **tres franjas horarias**[.](https://es.wikipedia.org/wiki/Quito)
-
-**Centrosur** reprogramó los horarios de este fin de semana, tras el anuncio del Gobierno de **Daniel Noboa** de suspender la reducción de cortes de luz a ocho horas.
-
-### Más noticias:
-
-* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html)
-* [Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-expresa-solidaridad-ecuador-cuba-crisis-energetica.html)
-* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html)
-
-Cortes de luz en Cuenca este sábado 26 de octubre
--------------------------------------------------
-
-El Gobierno suspendió la reducción de cortes de luz paulatina de 10 a 8, 6 y 4 horas hasta el **10 de noviembre,** a las 23:26 de este jueves 24 de octubre.
-
-El anuncio lo hizo la ministra de Energía encargada, **Inés Manzano**, tras detallar la crítica situación hidroeléctrica del país.
-
-Los embalses de las **centrales hidroeléctricas** están a la baja, con el mínimo requerido para funcionar.
-
-Mientras el Gobierno gestiona la **compra** de energía entre noviembre y diciembre, los caudales de los ríos no abastecen a las centrales existentes.
-
-Esta situación hizo que el régimen **retroceda** en la intención de reducir los cortes para el sector residencial.
-
-Así, Cuenca y el resto del país se enfrenta a una de las peores **crisis energética** de su historia.
-
-Y, en lo que va del **año**, los cortes de 14 horas son los **más extendidos que han existido**.
-
-Hasta ahora, la **suspensión del servicio de energía eléctrica** había sido de hasta 12 y 10 horas.
-
-A continuación, los **horarios de cortes de luz en Cuenca para este sábado 26 de octubre de 2024**:
-
-El Gobierno dijo que evaluará esta medida de incremento de horas de los cortes de luz este **domingo 27 de octubre.**
-
-Además, Manzano manifestó que en **diciembre** sí existirá reducción en las horas de cortes de luz y que hasta podrían no existir.
-
-Inter Miami de Messi y Campana debuta con triunfo en los playoffs de la MLS
-===========================================================================
-
-El equipo liderado por el argentino Lionel Messi inició con pie derecho la postemporada de la MLS.
---------------------------------------------------------------------------------------------------
-
-![Lionel Messi disputando sus primeros playoffs de la MLS con el Inter Miami.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-25.jpg)
-
-El I**nter Miami, de Lionel Messi,** derrotó 2-1 al Atlanta United este viernes 25 de octubre de 2024, en el primer partido de los cuartos de final de la Conferencia Este. El ecuatoriano **Leonardo Campana** no formó parte del encuentro.
-
-Con esta victoria, el conjunto de las ‘Garzas’ **se adelanta 1-0 en la serie** y está a un triunfo de avanzar a las semifinales de conferencia. Cabe recordar que en esta ronda se juega al mejor de tres partidos, por lo que el primer equipo que gane dos enfrentamientos pasará a la siguiente etapa.
-
-### Más noticias:
-
-* [Leonardo Campana inicia el camino al título de la MLS Cup](https://www.elcomercio.com/deportes/futbol/leonardo-campana-atlanta-inter-miami.html "Leonardo Campana inicia el camino al título de la MLS Cup")
-* [Lionel Messi fue nominado a un prestigioso premio](https://www.elcomercio.com/deportes/lionel-messi-premio-mejor-mls.html "Lionel Messi fue nominado a un prestigioso premio")
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-
-El segundo cotejo se jugará el **próximo sábado 2 de noviembre,** a las 18:00 (hora de Ecuador) en el Mercedes-Benz Stadium de Atlanta. Si fuera necesario un tercer partido, este está pactado para el 9 de noviembre a las 20:00, en el DRV PNK Stadium de Miami.
-
-Inter Miami se impuso por la mínima
------------------------------------
-
-El partido en Fort Lauderdale, Florida, casa de las ‘Garzas’, comenzó con rapidez para los locales. **Luis** **Suárez** anotó a los dos minutos luego de una gran jugada colectiva que concluyó con el uruguayo definiendo con precisión dentro del área.
-
-> HAD TO BE HIM 9️⃣🇺🇾 [pic.twitter.com/0CTmAIA9Os](https://t.co/0CTmAIA9Os)
-> 
-> — Inter Miami CF (@InterMiamiCF) [October 26, 2024](https://twitter.com/InterMiamiCF/status/1849977828550328757?ref_src=twsrc%5Etfw)
-
-A pesar de mantener la ventaja y el control del partido, el **Atlanta United logró el empate** antes del descanso. Una desconcentración defensiva permitió que Saba Lobzhanidze igualara el marcador en el DRV PNK Stadium.
-
-En la segunda mitad, el dominio de **Inter Miami aumentó,** logrando controlar casi el 70 % de la posesión. Sin embargo, el equipo encontró dificultades para convertir, a pesar de varias llegadas al arco rival.
-
-Finalmente, un goleador inesperado apareció para el Inter Miami. A los 60 minutos, en un tiro de esquina rápido, **Lionel Messi envió un pase a Jordi Alba**, quien sacó un potente zurdazo desde media distancia que se incrustó en la red, dándole a las ‘Garzas’ el gol de la victoria y la ventaja en la serie.
-
-> LA CONEXIÓN LM🔟 🤝 JA 1️⃣8️⃣✨[pic.twitter.com/m0AyA7wCk4](https://t.co/m0AyA7wCk4)
-> 
-> — Inter Miami CF (@InterMiamiCF) [October 26, 2024](https://twitter.com/InterMiamiCF/status/1849997518882381950?ref_src=twsrc%5Etfw)
-
-España incauta el mayor cargamento de droga de su historia; la cocaína fue embarcada en Ecuador
-===============================================================================================
-
-La nueva incautación supera las más de nueve toneladas de droga halladas en 2023.
----------------------------------------------------------------------------------
-
-![La droga se halló en el puerto de la ciudad de Algeciras, en la provincia de Cádiz](https://www.elcomercio.com/wp-content/uploads/2024/10/droga-incautada-espana-ecuador-cocaina.jpg)
-
-La Policía de **España** incautó **13 toneladas de cocaína** que provenían de Ecuador, en lo que se considera como el **mayor cargamento** de droga decomisada en este país.
-
-### Más noticias
-
-* [Dos personas transportaban droga en cartones y mochilas, en el sur de Quito](https://www.elcomercio.com/actualidad/dos-personas-transportaban-droga-sur-quito.html "Dos personas transportaban droga en cartones y mochilas, en el sur de Quito")
-* [Policía encontró droga oculta en insólito lugar](https://www.elcomercio.com/actualidad/quito/policia-droga-oculta-canes-quito.html "Policía encontró droga oculta en insólito lugar")
-* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
-
-La sustancia estupefaciente logró salir de **Ecuador** escondida en un contenedor de plátanos, luego, la mercancía pasó a **Colombia** antes de llegar a Europa.
-
-Los uniformados encontraron la cocaína en el puerto de la ciudad de **Algeciras**, en la provincia de Cádiz. El destino final de este producto ilegal era **Portugal**, donde llegaría a través de barco.
-
-Estos 13 000 kilos son el **mayor alijo** intervenido en España, que supera los casi 9 500 kilos de cocaína que fueron hallados en el mismo puerto en agosto de 2023.
-
-Ese cargamento de droga también llegó en un contenedor de plátanos procedente de Colombia, embarcada en Ecuador.
-
-Al menos 30 organizaciones delincuenciales en Europa esperaban la cocaína.
-
-Policía extraditó a fabricante de drogas a Lituania
----------------------------------------------------
-
-La Policía de Ecuador, con la Unidad de la Policía Internacional (Interpol), extraditó a un ciudadano a **Lituania**, que producía y comercializaba **metanfetamina**.
-
-**Andrejus T.** mantenía la **notificación roja** de la Interpol por el delito de tráfico de drogas.
-
-Los gendarmes trasladaron al hombre desde la cárcel para hombres de **El Inca**, de Quito, hasta el Aeropuerto Internacional Mariscal Sucre, con destino a su país.
-
-En 2018, las autoridades encontraron 815 563 gramos de metanfetamina en poder del lituano, en la localidad de Kaunas, en Lituania.
-
-El 19 de marzo de 2024, la Unidad Nacional de Detención de Personas de Alta Peligrosidad Requeridas por la Ley localizó a Andrejus T. en **Montañita**, provincia de Santa Elena.
-
-El lituano tenía en su contra una orden de detención con fines de extradición de fecha 29 de noviembre de 2023, sobre el cual pesa una pena privativa de libertad de más de **12 años**.
-
-Luego de **siete meses** de permanecer detenido en el país, finalmente este jueves 24 de octubre de 2024, la Policía de Ecuador lo extraditó a Europa.
-
-> EXTRADICIÓN DE UN EXTRANJERO IMPLICADO EN EL DELITO DE POSESIÓN DE SUSTANCIAS ILÍCITAS  
->   
-> Andrejus T., fue extraditado desde [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) hasta [#Lituania](https://twitter.com/hashtag/Lituania?src=hash&ref_src=twsrc%5Etfw), mediante cooperación policial internacional con [@INTERPOL\_HQ](https://twitter.com/INTERPOL_HQ?ref_src=twsrc%5Etfw), quien tiene una notificación roja y era requerido por las… [pic.twitter.com/0e4Dy8lD94](https://t.co/0e4Dy8lD94)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 25, 2024](https://twitter.com/PoliciaEcuador/status/1849618862104305786?ref_src=twsrc%5Etfw)
-
-Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris 
-==================================================================
-
-La campaña de Kamala Harris busca el voto latino con el apoyo de Maná y Los Tigres del Norte.
----------------------------------------------------------------------------------------------
-
-![Kamala Harris será apoyada por Maná y Los Tigres del Norte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Kamala-Harris-delantera-efe.jpg)
-
-**Maná** y **Los Tigres del Norte** se unirán a la vicepresidenta **Kamala Harris** la próxima semana, anunció la central de campaña demócrata, este viernes 25 de octubre.
-
-El encuentro se dará en los estados clave de **Nevada y Arizona**, como parte de los actos programados para motivar el voto latino.
-
-### Más noticias:
-
-* [Kamala Harris es apoyada en Atlanta por Barack Obama, músicos y actores](https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html "Kamala Harris es apoyada en Atlanta por Barack Obama, músicos y actores")
-* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "Kamala Harris considera que Donald Trump ‘es un fascista’")
-
-Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris 
-------------------------------------------------------------------
-
-El mítico grupo de rock en español y la reconocida banda de música mexicana norteña se presentarán en apoyo a la Vicepresidenta el próximo jueves en **Nevada y Arizona**, respectivamente.
-
-Esto, como parte del movimiento demócrata **‘When We Vote We Win’**.
-
-La central de campaña dijo en un comunicado que Los Tigres del Norte y Maná “son **voces de confianza**” para sus seguidores.
-
-Ellos han dado el respaldo a la Vicepresidenta porque “**saben lo que está en juego** y pueden alentar y movilizar aún más a la gente para que vaya a votar”, señaló.
-
-Este no es el primer apoyo por parte de **artistas hispanos** que Harris recibe.
-
-La semana pasada, el cantante **Marc Anthony** hizo oficial su apoyo a la vicepresidenta a través de un anuncio publicitario en el que de paso recuerda a los latinos lo “divisivo” que fue el mandato de **Donald Trump** (2017-2021).
-
-El **voto latino** podría inclinar la balanza para definir quién ocupará la **Casa Blanca** por los próximos cuatro años, especialmente en estados clave como Arizona, Nevada y Georgia, donde las campañas están quemando todos sus cartuchos.
-
-Dos encuestas publicadas este viernes por la cadena de televisión CNN y por el diario The New York Times sobre las preferencias electorales de los estadounidenses ante las presidenciales arrojan un **empate técnico** muy ajustado entre Trump y Harris, por lo que cada voto cuenta.
-
-¿En Europa se paga un precio justo por el banano? 
-==================================================
-
-Principales productores denuncian que en los supermercados europeos hay una guerra de descuentos del banano.
-------------------------------------------------------------------------------------------------------------
-
-![Imagen sobre industria bananera.](https://www.elcomercio.com/wp-content/uploads/2024/10/banano-captura.jpg)
-
-Europa es uno de los **mayores consumidores** de [banano](https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html "https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html") del mundo, con un promedio de **14 kilos por persona al año**, y su **mayor proveedor** es **Latinoamérica**. Los principales productores denuncian que en los **supermercados europeos** hay una **guerra de descuentos** que no respeta el precio justo del producto.
-
-### Más noticias
-
-* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
-* [El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador](https://www.elcomercio.com/actualidad/ecuador/geofisico-mejora-lupa-observar-cuatro-volcanes-ecuador.html "El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador")
-* [Plaga del moko ataca plantaciones bananeras del Ecuador; conozca las hectáreas afectadas](https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html "https://www.elcomercio.com/actualidad/negocios/plaga-del-moko-ataca-plantaciones-bananeras-del-ecuador-conozca-las-hectareas-afectadas.html")
-
-Lo venden por debajo de su **valor r**eal, aseguran, sin que eso refleje sus **esfuerzos por cumplir normativas,** lograr certificaciones y pagar salarios dignos.
-
-Recientemente, la **Fuerza de Tarea Conjunta de Latinoamérica,** que integran los gremios exportadores de banano de **Colombia, Costa Rica, Ecuador, Guatemala, Perú y República Dominicana**, denunció que la cadena de supermercados alemana Lidl vendía banano de origen latinoamericano a **0,89 euros por kilo**, casi un euro por debajo de sus competidores.
-
-Supermercados europeos
-----------------------
-
-Otros supermercados europeos también lo venden actualmente a **0,99 euros por kilo**, con una rebaja del 32 % respecto a su precio habitual de 1,47 euros por kilo.
-
-Para José Antonio Hidalgo, director ejecutivo de la Asociación de Exportadores de Banano del Ecuador (AEBE), el **primer exportador mundial** de este fruto, este tipo de **ofertas no reflejan los esfuerzos** de la industria para llevar un producto de calidad a Europa que cumpla con todas las regulaciones.
-
-“Nos genera mucha preocupación, porque nuestro banano perdió un **20 % de su valor** en los últimos quince años”, advirtió Hidalgo.
-
-“Esa estrategia, al final del día no es sostenible porque nunca vas a terminar un círculo vicioso de precios bajos”, señaló el representante de AEBE al apuntar que **así no se podrá mejorar las condiciones** de la cadena valor del banano.
-
-Comercio justo como referencia
-------------------------------
-
-Hidalgo abogó por involucrar las **autoridades europeas, las certificadoras y los supermercados,** para que el consumidor entienda que las nuevas reglamentaciones y exigencias de la Unión Europea (UE), como la **Ley de Debida Diligencia, el Pacto Verde y la estrategia** ‘De la granja a la mesa’, tienen un coste. “No podemos tener un pacto verde con números rojos”, sentenció.
-
-“Soy consciente de que el consumidor europeo lo va a entender si se le explica bien que tiene que pagar un poco más **para generar una sostenibilidad** en toda la cadena”, apuntó Hidalgo durante la celebración del vigésimo primera edición del ‘Banana Time’. Se trata de la mayor **convención internacional** de la industria bananera, que AEBE organiza anualmente en Guayaquil (Ecuador).
-
-El director ejecutivo de AEBE señaló que “la **referencia para la negociación en Europa** a nivel de los supermercados tiene que ser la metodología de comercio justo o ‘fair trade'”, que calcula la estructura de los costes de producción en cada país.
-
-En Ecuador, el precio mínimo fijado a nivel nacional para la caja de **18,14 kilos es de 6,85 dólares** y está previsto que sea de 7,25 dólares en 2025.
-
-La metodología ‘fair trade’ fue incorporada por la cadena de supermercados alemana Aldi y la británica Sainsbury’s, “pero más ‘retailers’ tienen que sumarse, y hasta ahora no hemos visto una señal de esa verdadera intención de tener una responsabilidad compartida en la cadena”, lamentó Hidalgo.
-
-En el caso de Sainsbury’s, esta semana vende bananas con certificación de comercio a justo a 1,25 libras (1,49 euros o 1,62 dólares) por ocho unidades y media docena de unidades de producción orgánica a 1,80 libras (2,15 euros o 2,33 dólares), comprobó Efe.
-
-Banano con salarios dignos
---------------------------
-
-Hidalgo enfatizó que el **banano ecuatoriano** cumple con todos los **requerimientos, normativas y derechos laborales,** al contar con 11 sellos y pasar cada productor por 29 días al año de auditorías.
-
-Detalló que el salario promedio es de **562,50 dólares,** por encima de los 483 dólares que calculó la Coalición de Salarios Dignos en torno al manejo de la **Ley de Debida Diligencia de la UE.**
-
-“Somos un país que tiene un banano que va con salario digno a la UE. Estamos en pleno cumplimiento”, enfatizó Hidalgo, al anotar que el **55 % de la estructura de coste** de una caja de banano es mano de obra.
-
-Con más de 3.500 millones de dólares en exportaciones en 2023, la UE y Rusia concentran más de la mitad de las **exportaciones de banano ecuatoriano**, por lo que ocurra en esos mercados impacta en la economía de Ecuador.
-
-“Somos los que tenemos mayor impacto social, porque a diferencia de los demás países que producen banano, nosotros tenemos **5 400 productores**, de los que cerca de **3 400 son pequeños**, son economías familiares a los que cualquier cambio afecta a su economía y familia”, concluyó Hidalgo. 
-
-Kendry Páez regresó a la titularidad en Independiente del Valle
-===============================================================
-
-Páez regresó al once titular con Independiente del Valle, brindando una destacada actuación.
---------------------------------------------------------------------------------------------
-
-![Kendry Páez en un partido con Independiente del Valle en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-23.jpg)
-
-Después de cinco partidos como suplente, y sin jugar en los últimos dos, **Kendry Páez** volvió a la titularidad con Independiente del Valle este viernes 25 de octubre en la jornada 11 de la Liga Pro.
-
-El joven talento fue parte fundamental en la **victoria de los ‘Rayados’ por 2-0** sobre Deportivo Cuenca, disputando un total de 87 minutos, la mayor cantidad de tiempo que ha tenido en cancha desde que comenzó el segundo semestre de la temporada.
-
-### Más noticias:
-
-* [Kendry Páez nuevamente es tendencia en Ecuador](https://www.elcomercio.com/deportes/futbol/kendry-paez-indor-futbol-tendencia.html "Kendry Páez nuevamente es tendencia en Ecuador")
-* [Kendry Páez sumó su segundo partido en la banca de suplentes](https://www.elcomercio.com/deportes/futbol/kendry-paez-sumo-su-segundo-partido-en-la-banca-de-suplentes.html "Kendry Páez sumó su segundo partido en la banca de suplentes")
-* [Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista](https://www.elcomercio.com/deportes/futbol/kendry-paez-entre-los-mejores-talentos-generacionales-segun-prestigiosa-revista.html "Kendry Páez entre los mejores talentos generacionales, según prestigiosa revista")
-
-Páez mostró intensidad en el juego, presionando y provocando errores en el rival. Su rendimiento le valió una **calificación de 7.5** en Sofa Score, el tercer puntaje más alto del equipo.
-
-En cifras, Kendry tuvo un 93% de acierto en sus pases, realizó dos pases clave, ganó el 100% de sus duelos y se **mantuvo activo en defensa**, con un despeje, una intercepción y dos entradas.
-
-Kendry Páez perdió protagonismo en Independiente del Valle
-----------------------------------------------------------
-
-En el primer semestre de la temporada, Páez **acumuló 1,370 minutos entre la Liga Pro y la Copa Libertadores**, siendo titular en 16 de los 21 partidos. Ingresó desde el banco solo tres veces y estuvo ausente en dos encuentros debido a convocatorias con la selección ecuatoriana.
-
-Durante ese tiempo, el **mediocampista creativo sumó cinco goles y cinco asistencias**, logrando una participación en gol cada 137 minutos. Fue un rendimiento notable para un jugador que no era la principal figura ofensiva de Independiente del Valle.
-
-Sin embargo, en el segundo semestre, su protagonismo se redujo. Aunque ha estado presente en 13 de los 15 partidos posibles, ha sumado solo 630 minutos entre la **Liga Pro, Copa Ecuador y Sudamericana**. De esos 13 partidos, inició como titular en solo siete y no completó ninguno.
-
-A nivel de estadísticas, **Kendry tiene dos goles** en la segunda etapa de la Liga Pro, lo cual resalta la disminución en su impacto en el equipo.
-
-Conozca el funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz
-=========================================================================================
-
-El Metro de Quito, el Trolebús y la Ecovía tienen sus directrices de funcionamiento en los cortes de luz.
----------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz y el funcionamiento del Metro de Quito, Trolebús y Ecovía.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-metro-quito-trolebus-ecovia.jpg)
-
-Los **cortes de luz** afectan varias actividades en **Quito**, pero el funcionamiento del **Metro**, **Trolebus y Ecovía** tienen un tratamiento diferente.
-
-Los servicios de **transporte** interconectado de Quito movilizan a miles de pasajeros a diario en la capital.
-
-### Más noticias:
-
-* [Alcalde quiere extender el Metro de Quito y acude al Banco Mundial](https://www.elcomercio.com/actualidad/quito/alcalde-extender-metro-quito-banco-mundial-financiamiento.html "Alcalde quiere extender el Metro de Quito y acude al Banco Mundial")
-* [Ecovía y Trolebús modificarán sus horarios por cortes de luz](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-modificaran-horarios-por-cortes-de-luz.html "Ecovía y Trolebús modificarán sus horarios por cortes de luz")
-
-Funcionamiento del Metro de Quito, Trolebús y Ecovía durante los cortes de luz
-------------------------------------------------------------------------------
-
-En septiembre, el Trolebus y la Ecovía modificaron sus **horarios** por los cortes de luz.
-
-Debido a los cortes de energía nocturnos en el país, el Trole y la Ecovía modificaron el horario de **cierre del sistema.**
-
-La **Empresa Metropolitana de Transporte de Pasajeros de Quito** informó que el Trolebús y la Ecovía funcionarán hasta las 20:00 de este 18 de septiembre de 2024.
-
-Sin embargo, en esta ocasión, con **cortes de luz de 14 horas** de duración, desde la **Empresa Pública Metropolitana de Pasajeros** se confirmó que no existirían cambios.
-
-Los **horarios habituales** se mantienen para el Trolebús, la Ecovía y los alimentadores.
-
-El servicio se mantiene con normalidad por ser un **sector estratégico.**
-
-En tanto, desde el Metro de Quito, se informó que, al ser un **servicio público prioritario**, se garantiza la continuidad de su operación.
-
-El **Metro de Quito** tiene cuatro subestaciones independientes propias para alimentar el sistema.
-
-En las calles, los operadores del Metro y la Ecovía se enfrentan a los **semáforos apagados**.
-
-La **Agencia Metropolitana de Tránsito (AMT)** informó que, debido a los cortes de energía, su personal es ubica en diferentes intersecciones con semáforos sin conexión.
-
-> 👮🏾[#GestiónAMT](https://twitter.com/hashtag/Gesti%C3%B3nAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Tu bienestar es nuestra prioridad!  
-> 🔌 Debido a los cortes de energía dispuestos por el Gobierno Nacional, 🚔 nos encontramos en diferentes intersecciones con semáforos sin conexión gestionando el tránsito para que llegues a salvo a tu destino.  
->   
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bjlsBlhBoP](https://t.co/bjlsBlhBoP)
-> 
-> — AMTQuito (@AMT\_Quito) [October 25, 2024](https://twitter.com/AMT_Quito/status/1849785858200662250?ref_src=twsrc%5Etfw)
-
-Encuestas de CNN y New York Times arrojan un empate ajustado entre Trump y Harris
-=================================================================================
-
-El sondeo del NYT sí detectó una leve tendencia de cambio en favor de Trump en las últimas dos semanas.
--------------------------------------------------------------------------------------------------------
-
-![Combo de fotografías de archivo que muestra a la vicepresidenta de EE.UU. Kamala Harris (i) y al expresidente Donald Trump.](https://www.elcomercio.com/wp-content/uploads/2024/10/donald-trump-kamala-harris-efe.jpg)
-
-Dos encuestas publicadas este viernes, 25 de octubre de 2024, por la **cadena de televisión CNN** y por el diario **The New York Times (NYT)** sobre las **preferencias electorales** de los estadounidenses arrojan un **empate técnico** muy ajustado entre los candidatos **Donald Trump** y [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html").
-
-### Más noticias
-
-* [Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’](https://www.elcomercio.com/actualidad/mundo/donald-trump-alaba-privado-nicolas-maduro-fuerte.html "Donald Trump alaba en privado a Nicolás Maduro por ser ‘fuerte’")
-* [Kamala Harris dará un mitin electoral en la Explanada Nacional de Washington](https://www.elcomercio.com/actualidad/mundo/kamala-harris-simbolico-mitin-electoral-explanada-nacional-washington.html "Kamala Harris dará un mitin electoral en la Explanada Nacional de Washington")
-* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "Kamala Harris considera que Donald Trump ‘es un fascista’")
-
-Encuesta Nacional publica CNN
------------------------------
-
-La encuesta nacional que publica CNN la realizó la empresa SSRS entre el 20 y el 23 de octubre, con una muestra de 1704 votantes, y muestra un 47 % de apoyo tanto para Trump como para Harris. Se trata del **resultado más ajustado** comparado con **encuestas similares** en los pasados meses, en los que uno de los dos candidatos se situaba ligeramente por encima.
-
-La cadena recuerda que, a diferencia de las **otras dos elecciones** en las que se presentó Trump, en 2016 y 2020, cuando su rival en cada caso le sacaba **varios puntos en los sondeos**, en esta ocasión la diferencia con su contrincante es insignificante.
-
-CNN destaca que, en unos comicios especialmente turbulentos, los sondeos demostraron una gran estabilidad, así como un **porcentaje muy alto de votantes decididos** desde el principio de la campaña (85 %) frente al 15 % que han cambiado de parecer. Del total, un **11 % se declaran aún indecisos o abiertos** a cambiar de parecer.
-
-Apoyos a Harris y Donald Trump
-------------------------------
-
-En cuanto a la del NYT, realzada por el Siena College, da a **Harris un 49 % de apoyos** frente al **48 % de Trump** a nivel nacional; en un despiece sobre los **estados pendulares**, cuatro son liderados por Harris y tres por Trump, en ambos casos por solo un punto de diferencia, insignificante teniendo en cuenta el margen de error.
-
-Sondeo en estados
------------------
-
-Hay otros estados donde la ventaja ya es mucho más clara, pero están repartidos: Harris lleva seis puntos por delante o más en **Minnesota, New Hampshire o Virginia; Trump, la misma ventaja en Texas, Florida y Ohio.**
-
-Este sondeo resalta que si no se detectasen cambios desde hoy hasta el 5 de noviembre, Harris podría lograr **276 votos electorales (siendo 270 la mayoría)** frente a los 262 de Trump. La diferencia es tan corta que esas cifras podrían revertirse si la **encuesta está subestimando** los apoyos del expresidente o si algunos de sus partidarios están ocultando su intención de voto, dos hechos que se detectaron en anteriores comicios.
-
-El sondeo del NYT sí detectó una **leve tendencia** de cambio en favor de Trump en las últimas dos semanas, tanto a escala nacional como en los **siete estados bisagra**, con la única excepción de Michigan.
-
-Independiente del Valle ganó y lidera la Liga Pro
-=================================================
-
-Independiente del Valle fue el ganador de la primera fase de la Liga Pro y se clasificó para las finales.
----------------------------------------------------------------------------------------------------------
-
-![Michael Hoyos (c) en el estadio Alejandro Serrano Aguilar en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/idv_dc_1.jpg)
-
-**Independiente del Valle**, provisionalmente, es el nuevo líder de la segunda etapa de la Liga Pro, tras ganarle por 0-2 al Deportivo Cuenca en el estadio Alejandro Serrano Aguilar.
-
-La tarde de este **viernes 25 de octubre de 2024 el Deportivo Cuenca** recibió a Independiente del Valle en la apertura de la fecha 11 de la segunda etapa, con un número más que aceptable en las gradas de este estadio.
-
-### Más noticias:
-
-* [Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas](https://www.elcomercio.com/deportes/futbol/daniel-noboa-impulsa-proyecto-de-ley-para-transformar-a-los-clubes-en-sociedades-anonimas.html "Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas")
-* [José Pileggi se plantea renunciar a la presidencia de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-se-plantea-renunciar-a-la-presidencia-de-emelec.html "José Pileggi se plantea renunciar a la presidencia de Emelec")
-* [El Corinthians de Félix Torres igualó en semifinales de Sudamericana](https://www.elcomercio.com/deportes/futbol/corinthians-de-felix-torres-igualo-racing-semifinales-de-sudamericana.html "El Corinthians de Félix Torres igualó en semifinales de Sudamericana")
-
-El colombiano **Jeison Medina (21′) y el argentino Cristian Zabala (99+4′)** fueron los autores de los dos goles de los del Valle, con los que plasmó en el marcador la efectividad para vencer la resistencia de Hamilton Piedra.
-
-Medina completó los 17 goles en la tabla de goleadores y se consolida como el segundo de este ítem en lo que va de la actual temporada, tres menos que el paraguayo Alex Arce, que con Liga de Quito tiene que enfrentar a Mushuc Runa en el Rodrigo Paz Delgado.
-
-El colombiano llegó a su sexto gol con IDV. Antes le anotó a Emelec (2), Imbabura (2) y Universidad Católica (1). Los 11 restantes tantos los hizo con Aucas en la primera etapa.
-
-Para el defensor **Zabala fue el segundo tanto en el año**. Antes le hizo uno a LDU en el estadio de IDV.
-
-Independiente toma el liderato
-------------------------------
-
-Independiente del Valle completó los 23 puntos y es líder. Su campana se resume en **siete victorias, dos empates y dos derrotas**. Anotó 23 goles y recibió 12 para un gol diferencias positivo de +11.
-
-Liga, con un partido menos, es segunda con 22 unidades, fruto de siete triunfos, un empate y dos derrotas. **Anotó 20 goles y recibió 10** para un gol diferencias positivo de +10.
-
-El Cuenca cayó a la **casilla 13 y se mantiene con 9 unidades**. En las 11 fechas ganó tres, empató tres y perdió cinco. Anotó ocho tantos y recibió 16 para un gol diferencia negativo de -8.
-
-En la fecha 12, **Independiente recibirá a El Nacional, desde las 15:00**, del domingo 3 de noviembre, mientras que Deportivo Cuenca, un día antes, visitará a Cumbayá, desde las 14:00, en el Olímpico Atahualpa.
-
-Tabla de posiciones – fecha 11
-------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-6-819x1024.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Hospitlizado uno de los astronautas de la NASA que amerizó en Florida
-=====================================================================
-
-Los cuatro astronautas reliazaron nuevas investigaciones científicas para avanzar en la exploración humana más allá de la órbita baja.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/nasa-ameriza-efe.jpg)
-
-Uno de los **cuatro tripulantes** de la octava misión espacial comercial de la NASA y SpaceX que amerizó este viernes, 25 de octubre de 2024, en **Pensacola (Florida)** tras permanecer cerca de **ocho meses** en la **Estación Espacial Internacional** fue hospitalizado, informó la agencia espacial estadounidense.
-
-### Más noticias
-
-* [NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter](https://www.elcomercio.com/actualidad/mundo/nasa-lanza-nave-clipper-en-busca-de-rastros-de-vida-en-luna-de-jupiter.html "NASA lanza nave Clipper en busca de rastros de vida en luna de Júpiter")
-* [Primeras candidatas a estrellas fallidas, fuera de la Vía Láctea](https://www.elcomercio.com/tendencias/ciencia/primeras-candidatas-estrellas-fallidas.html "Primeras candidatas a estrellas fallidas, fuera de la Vía Láctea")
-* [La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad](https://www.elcomercio.com/tecnologia/nasa-envio-carta-agradecimiento-hacker-vulnerar-sistemas-seguridad.html "La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad")
-
-Por cuestiones de confidencialidad, la NASA **no reveló ni el nombre del hospitalizado** ni su condición de salud, pero se trata de uno de los estadounidenses.
-
-Los astronautas de la NASA **Matthew Dominick, Michael Barratt y Jeanette Epps,** y el cosmonauta de Roscosmos Alexander Grebenkin, llegaron esta madrugada a la Tierra tras partir el miércoles pasado desde la estación orbital.
-
-Astronauta en centro hospitalario
----------------------------------
-
-Uno de los astronautas permanece en el **centro hospitalario Ascension Sacred Heart de Pensacola,** mientras que los otros tripulantes viajaron al Centro Espacial Johnson de la NASA en Houston (Texas).
-
-“Después de aterrizar de manera segura en la Tierra como parte de la misión SpaceX Crew-8 de la NASA el viernes, un astronauta de la NASA experimentó un **problema médico**“, señaló la agencia en un comunicado.
-
-Según la NASA, los viajeros estuvieron en total **232 días a bordo de la EEI tras despegar el pasado 3 de marzo en un cohete Falcon 9 de SpaceX** desde el Centro Espacial Kennedy de la NASA, en Florida.
-
-La misión SpaceX Crew-8 amerizó hoy con éxito a las 7:29 GMT y los equipos de recuperación aseguraron rápidamente la **nave espacial tras caer en el mar** y ayudaron a los astronautas en la salida.
-
-Durante la misión, los miembros de la tripulación viajaron casi 160 millones de kilómetros y completaron 3 760 órbitas alrededor de la Tierra.
-
-Investigaciones científicas
----------------------------
-
-Los cuatro llevaron a cabo **nuevas investigaciones científicas** para avanzar en la exploración humana más allá de la órbita baja terrestre y beneficiar la vida humana en la Tierra.
-
-Entre ellas, con **células madre** para desarrollar modelos organoides para estudiar enfermedades degenerativas. Además, explorar cómo la **temperatura del combustible** afecta la inflamabilidad del material y estudiar cómo los vuelos espaciales afectan la función inmunológica de los astronautas.
-
-Estos vuelos comerciales se iniciaron en 2020 y permitieron a Estados Unidos volver a **enviar astronautas** desde suelo estadounidense tras la cancelación en 2011 del programa de transbordadores espaciales.
-
-Desde el último vuelo del transbordador Atlantis a la órbita terrestre en 2011, la NASA se vió obligada a utilizar únicamente los **sistemas de lanzamiento rusos** como el Soyuz para poner en órbita a sus astronautas.
