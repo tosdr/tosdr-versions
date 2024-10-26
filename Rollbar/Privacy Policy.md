@@ -517,7 +517,7 @@ We may revise this Privacy Policy from time to time, and will post the most curr
 **CONTACT**  
 Your personal information is controlled by Rollbar, Inc. Have questions or concerns about the Services or your privacy? Contact our Data Protection Officer at [\[email protected\]](https://docs.rollbar.com/cdn-cgi/l/email-protection) If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
 
-Updated 23 days ago
+Updated 24 days ago
 
 * * *
 
