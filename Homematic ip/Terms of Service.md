@@ -329,6 +329,14 @@ TÜV Rheinland zertifiziert den automatischen hydraulischen Abgleich mit Homemat
 
 [Okt.
 
+31-02
+
+Event
+
+BAUHAUS Regensburg: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-31-bauhaus-regensburg)
+
+[Okt.
+
 24-26
 
 Event
