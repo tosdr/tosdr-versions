@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8f8e3cb9-6070-4823-ac62-ef9c03f64476/20241026T004856/8f8e3cb9-6070-4823-ac62-ef9c03f64476_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8f8e3cb9-6070-4823-ac62-ef9c03f64476/20241026T004856/8f8e3cb9-6070-4823-ac62-ef9c03f64476_360x203.jpg)](https://www.king5.com/article/news/crime/fall-city-quintuple-homicide-case-move-adult-court/281-f5efc194-5836-4323-9d26-02782ff1d07f)
+    *  [![](https://media.king5.com/assets/KING/images/ac6d5561-9e3e-437d-97d3-40f52b01bf2b/20241025T014057/ac6d5561-9e3e-437d-97d3-40f52b01bf2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac6d5561-9e3e-437d-97d3-40f52b01bf2b/20241025T014057/ac6d5561-9e3e-437d-97d3-40f52b01bf2b_360x203.jpg)](https://www.king5.com/article/news/local/sound-transit-approves-route-for-west-seattle-light-rail-extension/281-6e0723c9-5932-421c-bb90-486a8da79685)
         
-        #### [Here’s why prosecutors requested the Fall City quintuple homicide case be moved to adult court](https://www.king5.com/article/news/crime/fall-city-quintuple-homicide-case-move-adult-court/281-f5efc194-5836-4323-9d26-02782ff1d07f)
+        #### [Sound Transit approves route for West Seattle light rail extension](https://www.king5.com/article/news/local/sound-transit-approves-route-for-west-seattle-light-rail-extension/281-6e0723c9-5932-421c-bb90-486a8da79685)
         
-    *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+    *  [![](https://media.king5.com/assets/KING/images/244572383/244572383_16x9.jpg) ![](https://media.king5.com/assets/KING/images/244572383/244572383_360x203.jpg)](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
         
-        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+        #### [Marysville Pilchuck briefly locks down after online threat day after anniversary of mass shooting](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/401d638d-ba6b-404f-a72d-88d619c1dfaa/20241026T050823/401d638d-ba6b-404f-a72d-88d619c1dfaa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/401d638d-ba6b-404f-a72d-88d619c1dfaa/20241026T050823/401d638d-ba6b-404f-a72d-88d619c1dfaa_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
         #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
-        
-    *  [![](https://media.king5.com/assets/KING/images/593292bc-6c01-4a53-b3f3-11dad16340db/20241026T011101/593292bc-6c01-4a53-b3f3-11dad16340db_16x9.jpg) ![](https://media.king5.com/assets/KING/images/593292bc-6c01-4a53-b3f3-11dad16340db/20241026T011101/593292bc-6c01-4a53-b3f3-11dad16340db_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+52°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
