@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/hoofd-en-bijzaken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-holocaust-ter-discussie-stellen-mag-in-nederland/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
