@@ -414,13 +414,13 @@ Top
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
 * [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
     [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
-    
-* [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
-    
-    [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
