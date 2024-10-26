@@ -189,6 +189,14 @@ Press Releases
 
 [See all press releases](https://www.unitedwayri.org/about-us/newsroom/)
 
+25 Oct
+
+#### [United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger](https://www.unitedwayri.org/press-release/united-way-of-ri-honors-local-champions-at-98th-annual-celebration-highlights-work-making-rhode-island-stronger/ "United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger")
+
+Providence, R.I. (October 22, 2024) – It’s been a year of creating a stronger, more equitable Rhode Island, and as United Way used its 98th Annual Celebration to cast light on the change made possible when our community works together, the organization also honored local champions who have gone above and beyond in service. Read \[…\]
+
+[Read more](https://www.unitedwayri.org/press-release/united-way-of-ri-honors-local-champions-at-98th-annual-celebration-highlights-work-making-rhode-island-stronger/ "United Way of RI Honors Local Champions at 98th Annual Celebration, Highlights Work Making Rhode Island Stronger")
+
 24 Oct
 
 #### [United Way of Rhode Island Receives $20,000 from Point32Health Foundation to Support “United We Vote RI” Campaign](https://www.unitedwayri.org/press-release/united-way-appoints-new-board-members-p-r-2/ "United Way of Rhode Island Receives $20,000 from Point32Health Foundation to Support “United We Vote RI” Campaign")
@@ -204,14 +212,6 @@ Providence, R.I. (October 15, 2024) – United Way of Rhode Island has received 
 United Way of Rhode Island has installed a slate of five new members to its Board of Directors, each bringing a unique and powerful perspective to the organization and its mission to create opportunities for all Rhode Islanders. Read more.
 
 [Read more](https://www.unitedwayri.org/press-release/united-way-appoints-new-board-members-p-r/ "United Way of Rhode Island Elects New Members to its Board of Directors")
-
-23 Sep
-
-#### [Paola Fernandez Appointed Chair of United Way of RI Board of Directors](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
-
-United Way of Rhode Island has named a new chair of its Board of Directors, appointing Paola Fernandez to the volunteer leadership position. Fernandez is SVP, Community Development Officer for Centreville Bank and succeeds Dolph Johnson, retired EVP and Chief Human Resources Officer of Hasbro, Inc., who recently completed his three-year term as chair. Read \[…\]
-
-[Read more](https://www.unitedwayri.org/press-release/paola-fernandez-appointed-chair-of-united-way-of-ri-board-of-directors/ "Paola Fernandez Appointed Chair of United Way of RI Board of Directors")
 
 UPCOMING EVENTS
 ---------------
