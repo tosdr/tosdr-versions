@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
-    
-    Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    
+    Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Reel Bad Arabs: How Hollywood Vilifies A People](/wp-content/thumbnails/1843-100x70.jpg?x53432)
+* [![The Beavers: More Than A Softball Team](/wp-content/thumbnails/7637-100x70.jpg?x53432)
     
-    Reel Bad Arabs: How Hollywood Vilifies A People
+    The Beavers: More Than A Softball Team
     
-    This groundbreaking documentary dissects a slanderous aspect of cinematic history that has run virtually unchallenged from the earliest days of silent film to today's biggest Hollywood blockbusters. F](https://documentaryheaven.com/reel-bad-arabs-how-hollywood-vilifies-a-people/ "Reel Bad Arabs: How Hollywood Vilifies A People")
-* [![Goonj: The Empty Call](/wp-content/thumbnails/7662-100x70.jpeg?x53432)
+    Softball teams come and go, but sometimes a group of guys get together to form a team that goes beyond the ball field. This is the story of co-workers at the New York Telephone Company back in the the](https://documentaryheaven.com/beavers-more-than-softball-team/ "The Beavers: More Than A Softball Team")
+* [![The Extraordinary Case of Alex Lewis](/wp-content/thumbnails/14125-100x70.jpeg?x53432)
     
-    Goonj: The Empty Call
+    The Extraordinary Case of Alex Lewis
     
-    A documentary featuring Mr. Naseeruddin Shah that explores the issues revolving around the illegal cultivation of cannabis (the biological name for the derivative plant for charas or marijuana) in the](https://documentaryheaven.com/goonj-empty-call/ "Goonj: The Empty Call")
-* [![Radiohead – Meeting People Is Easy](/wp-content/thumbnails/5912-100x70.jpg?x53432)
+    This is the incredible story of Alex Lewis, a husband and father of one who back in late 2013 came down with a dose of the common cold, this minor ailment swiftly took a turn for the worse developing](https://documentaryheaven.com/extraordinary-case-of-alex-lewis/ "The Extraordinary Case of Alex Lewis")
+* [![Trench Town: The Forgotten Land](/wp-content/thumbnails/8340-100x70.jpg?x53432)
     
-    Radiohead – Meeting People Is Easy
+    Trench Town: The Forgotten Land
     
-    Meeting People Is Easy takes place during the promotion of Radiohead's 1997 release OK Computer, containing a collage of video clips, sound bites, and dialogue going behind the scenes with the band on](https://documentaryheaven.com/radiohead-meeting-people-is-easy/ "Radiohead – Meeting People Is Easy")
-* [![Free to Play](/wp-content/thumbnails/8711-100x70.jpg?x53432)
+    Trench Town is a powerful look into the lives of the children living there. As one boy says, “Every morning as I rise, I hear gunshots firing”. Indeed, as we follow the children to school we can see g](https://documentaryheaven.com/trench-town/ "Trench Town: The Forgotten Land")
+* [![The Nuclear Option](/wp-content/thumbnails/14581-100x70.jpg?x53432)
     
-    Free to Play
+    The Nuclear Option
     
-    This film follows three gamers from across the world turned professional as they attempt to compete for a million dollar prize. They have entered the first Dota 2 International Tournament, Dota has ra](https://documentaryheaven.com/free-to-play/ "Free to Play")
-* [![Into The Universe With Stephen Hawking](/wp-content/thumbnails/3433-100x70.jpg?x53432)
+    In Japan the bright lights never stop burning, the nation has an insatiable for energy but with virtually no natural resources to generate it. In order to meet demand for their electrical needs h](https://documentaryheaven.com/nuclear-option/ "The Nuclear Option")
+* [![The Library of Alexandria](/wp-content/thumbnails/12021-100x70.jpg?x53432)
     
-    Into The Universe With Stephen Hawking
+    The Library of Alexandria
     
-    Stephen Hawking hosts an epic brand new kind of cosmology series, a Planet Earth of the heavens. It takes the world’s most famous scientific mind and sets it free, powered by the limitless possibiliti](https://documentaryheaven.com/into-the-universe-with-stephen-hawking/ "Into The Universe With Stephen Hawking")
+    Constructed and established in the 3rd century BC, The Royal Library of Alexandria located in Alexandria, Egypt was one of the largest and most significant libraries of the ancient world. It was](https://documentaryheaven.com/library-of-alexandria/ "The Library of Alexandria")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
