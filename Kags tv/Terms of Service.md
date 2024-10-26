@@ -29,9 +29,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/a4020560-61a7-4b15-b0d1-1910b00ac1e1/20241026T025530/a4020560-61a7-4b15-b0d1-1910b00ac1e1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a4020560-61a7-4b15-b0d1-1910b00ac1e1/20241026T025530/a4020560-61a7-4b15-b0d1-1910b00ac1e1_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
+    *  [![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_16x9.jpg) ![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
         
-        #### [14-year-old reported missing out of Bryan area](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
+        #### [14-year-old reported missing out of Bryan area found safe](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
         
     *  [![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_360x203.jpg)](https://www.kagstv.com/article/news/local/man-accused-of-shooting-texas-police-chief-prompting-blue-alert-arrested-fort-worth/501-abd91176-b9d7-48ad-9ff1-054046b8c096)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-72°
+90°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
