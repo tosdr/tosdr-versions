@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Kelly Clarkson Pours Her Soul Into...](https://classiccountrymusic.com/kelly-clarkson-pours-her-soul-into-cover-of-kenny-rogers-sweet-music-man/)
+* [Oak Ridge Boys Release First Album...](https://classiccountrymusic.com/oak-ridge-boys-release-first-album-since-loss-of-joe-bonsall/)
 * [Dolly Parton Unveils Plans To Celebrate...](https://classiccountrymusic.com/dolly-parton-unveils-plans-to-celebrate-dollywoods-40th-season/)
-* [Jimmy Fortune Mourns Death Of His...](https://classiccountrymusic.com/jimmy-fortune-mourns-death-of-his-precious-son-jimmy-jr/)
-* [Toby Keith’s Wife Speaks Out For...](https://classiccountrymusic.com/toby-keiths-wife-speaks-out-for-the-first-time-since-his-death/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
