@@ -33,10 +33,6 @@ Update your browser to view this website correctly. [Update my browser now](http
 * [Sign In](https://www.noip.com/login)
 * [Sign Up](https://www.noip.com/sign-up)
 
-No-IP is Now Ranked the Fastest Managed DNS Provider\* Learn More About [Our Managed DNS Offerings](https://www.noip.com/managed-dns?utm_campaign=fastest-managed-dns&utm_medium=banner&utm_source=noip-site)
-
-\*According to DNSPerf
-
 * [Sign In](https://www.noip.com/login)
 * [...](#)
     
@@ -62,10 +58,6 @@ HIDE MENU
 * [Espanol](https://www.noip.com/setlocale/es-MX)
 
 Managed DNS Services
-
-No-IP is Now Ranked the Fastest Managed DNS Provider\* Learn More About [Our Managed DNS Offerings](https://www.noip.com/managed-dns?utm_campaign=fastest-managed-dns&utm_medium=banner&utm_source=noip-site)
-
-\*According to DNSPerf
 
 [Dynamic DNS](https://www.noip.com/remote-access) [Managed DNS](https://www.noip.com/managed-dns) [Domains](https://www.noip.com/domains)
 
