@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije/photos/bunusevac-srba-centrala.jpg?itok=BoBE2Bap)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/slike/paintings/ovde-i-onde.jpg?itok=ozDyZSzu)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-skulpture-projekti/slike-paintings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/bogorodica-sa-preslicom.jpg?itok=bdO_UjxX)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka/kinoteka-digi1.jpg?itok=QXJ46_vO)](http://seecult.org/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,7 +422,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
-* [Svetska premijera – Kada bi Šopen govorio](http://seecult.org/vest/svetska-premijera-kada-bi-sopen-govorio)
+* [Akademska knjiga najbolji izdavač](http://seecult.org/vest/akademska-knjiga-najbolji-izdavac)
+* [Svetska premijera – pijanisti koji govore](http://seecult.org/vest/svetska-premijera-pijanisti-koji-govore)
 * [Obračun s pripadnošću i nasleđem](http://seecult.org/vest/obracun-s-pripadnoscu-i-nasledem)
 * [Marija Ručara u MSUB-u i MPU](http://seecult.org/vest/marija-rucara-u-msub-u-i-mpu)
 * [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
 * [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
 * [Omaž autorstvu, u slavu Puriše Đorđevića](http://seecult.org/vest/omaz-autorstvu-u-slavu-purise-dordevica)
-* [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
 
 * [Konkursi](#tab1_1)
 
