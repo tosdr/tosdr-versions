@@ -302,6 +302,4 @@ Web: [Autism-Products.com](https://www.autism-products.com/)
 
 ![fbpx](https://www.facebook.com/tr?id=990838791019188&ev=PageView&noscript=1)
 
-                                                                                                      
-
 [Go to Top](#)
