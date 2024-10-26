@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 147 utilisateurs actifs
+##### 526 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [SearchGPT d'OpenAI : sera-t-il meilleur que Google ?](https://lecrabeinfo.net/searchgpt-dopenai-sera-t-il-meilleur-que-google.html)
 * [Comment regarder YouTube sans pub gratuitement (grâce à yout-ube.com) ?](https://lecrabeinfo.net/comment-regarder-youtube-sans-pub-gratuitement-grace-a-yout-ube-com.html)
 * [Des pirates peuvent désinstaller les correctifs de sécurité de Windows et réintroduire d'anciennes vulnérabilités](https://lecrabeinfo.net/des-pirates-peuvent-desinstaller-les-correctifs-de-securite-de-windows-et-reintroduire-danciennes-vulnerabilites.html)
-* [Vider tout le cache sur Windows 10 : 8 étapes pour un nettoyage complet](https://lecrabeinfo.net/vider-tout-le-cache-sur-windows-10-8-etapes-pour-un-nettoyage-complet.html)
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 855 membres
-* 932 articles
+* 67 856 membres
+* 933 articles
 * 26 796 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
