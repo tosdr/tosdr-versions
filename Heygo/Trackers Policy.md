@@ -392,6 +392,8 @@ Featured travel offers
     
     30% off | Greece | 10 days | Hotel, Flights & Transfers Included
     
+    Black Friday Sale: up to 70% off selected deals
+    
     From £1,199pp £1,719pp  
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
