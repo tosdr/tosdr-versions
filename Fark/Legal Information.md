@@ -232,9 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [When I eat this pizza, I just want to eat more](https://www.fark.com/goto/13440680) ( [fox6now.com](https://www.fark.com/goto/13440680) ) » [(10 comments)](https://www.fark.com/comments/13440680/When-I-eat-this-pizza-I-just-want-to-eat-more) |
-| [Discussion](https://www.fark.com/discussion/) | [Friday Premier League Live from King Power Stadium: Leicester hosting Nottingham Forest. Leicester have scored in all of their fixtures this season while Forest have only allowed six goals. On USA at 3:00 pm ET](https://www.fark.com/goto/13440200) ( [premierleague.com](https://www.fark.com/goto/13440200) ) » [(16 comments)](https://www.fark.com/comments/13440200/Friday-Premier-League-Live-from-King-Power-Stadium-Leicester-hosting-Nottingham-Forest-Leicester-have-scored-in-all-of-their-fixtures-this-season-while-Forest-have-only-allowed-six-goals-On-USA-at-300-pm-ET) |
-| [Sports](https://www.fark.com/sports/) | [Some sports might be improved with a bit of hand-to-hand combat. Chess not so much](https://www.fark.com/goto/13441004) ( [metro.co.uk](https://www.fark.com/goto/13441004) ) » [(3 comments)](https://www.fark.com/comments/13441004/Some-sports-might-be-improved-with-a-bit-of-hand-to-hand-combat-Chess-not-so-much) |
-| [Business](https://www.fark.com/business/) | [Pro-tip: don't take your investing advice from Twitter users who don't even user their real name](https://www.fark.com/goto/13440820) ( [yahoo.com](https://www.fark.com/goto/13440820) ) » [(3 comments)](https://www.fark.com/comments/13440820/Pro-tip-dont-take-your-investing-advice-from-Twitter-users-who-dont-even-user-their-real-name) |
-| [STEM](https://www.fark.com/stem/) | [In space, you just can't see straight](https://www.fark.com/goto/13440970) ( [edition.cnn.com](https://www.fark.com/goto/13440970) ) » [(5 comments)](https://www.fark.com/comments/13440970/In-space-you-just-cant-see-straight) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Community movie could get a LaForge cameo](https://www.fark.com/goto/13440556) ( [deadline.com](https://www.fark.com/goto/13440556) ) » [(20 comments)](https://www.fark.com/comments/13440556/Community-movie-could-get-a-LaForge-cameo) |
-| [Fandom](https://www.fark.com/fandom/) | [Almost as infamous as Super 3D Noah's Ark it's the Friday Fark Gaming Thread. LGT a list of best JRPGs. What have you been playing? Alpha Centauri? Persona 5 Royal? Helldivers II? Side note: Older games you'll always have installed? Tell us inside](https://www.fark.com/goto/13439344) ( [gamerant.com](https://www.fark.com/goto/13439344) ) » [(130 comments)](https://www.fark.com/comments/13439344/Almost-as-infamous-as-Super-3D-Noahs-Ark-its-Friday-Fark-Gaming-Thread-LGT-a-list-of-best-JRPGs-What-have-you-been-playing-Alpha-Centauri-Persona-5-Royal-Helldivers-II-Side-note-Older-games-youll-always-have-installed-Tell-us-inside) |
-| [D'awww](https://www.fark.com/dawww/) | [Dogs are beginning a third evolution](https://www.fark.com/goto/13440948) ( [msn.com](https://www.fark.com/goto/13440948) ) » [(2 comments)](https://www.fark.com/comments/13440948/Dogs-are-beginning-a-third-evolution) |
-| [Food](https://www.fark.com/food/) | [Ketchup in space? There's a knack to it](https://www.fark.com/goto/13440920) ( [bbc.com](https://www.fark.com/goto/13440920) ) » [(7 comments)](https://www.fark.com/comments/13440920/Ketchup-in-space-Theres-a-knack-to-it) |
-| [Politics](https://www.fark.com/politics/) | [In which the erratic ramblings of Trump are dissected](https://www.fark.com/goto/13440562) ( [rawstory.com](https://www.fark.com/goto/13440562) ) » [(22 comments)](https://www.fark.com/comments/13440562/In-which-erratic-ramblings-of-Trump-are-dissected) |
+| [Main](https://www.fark.com/) | [A Proper Bond Villian's Lair](https://www.fark.com/goto/13441426) ( [zillow.com](https://www.fark.com/goto/13441426) ) » [(22 comments)](https://www.fark.com/comments/13441426/A-Proper-Bond-Villians-Lair) |
+| [Discussion](https://www.fark.com/discussion/) | [Evil corporations, copyright law, tourism, and architecture are all on the Fark Weird News Quiz, October 18-24 Roast chicken edition](https://www.fark.com/goto/13441460) ( [fark.com](https://www.fark.com/goto/13441460) ) » [(6 comments)](https://www.fark.com/comments/13441460/Evil-corporations-copyright-law-tourism-architecture-are-all-on-Fark-Weird-News-Quiz-October-18-24-Roast-chicken-edition) |
+| [Sports](https://www.fark.com/sports/) | [Contrary to media reports, the Warriors did not win their season opener against the Blazers by a franchise record 139 - 104. They won by a franchise record 140 - 104](https://www.fark.com/goto/13441306) ( [cbsnews.com](https://www.fark.com/goto/13441306) ) » [(0 comments)](https://www.fark.com/comments/13441306/Contrary-to-media-reports-Warriors-did-not-win-their-season-opener-against-Blazers-by-a-franchise-record-139-104-They-won-by-a-franchise-record-140-104) |
+| [Business](https://www.fark.com/business/) | [How small can a vacuum cleaner be?](https://www.fark.com/goto/13441424) ( [architecturaldigest.com](https://www.fark.com/goto/13441424) ) » [(1 comment)](https://www.fark.com/comments/13441424/How-small-can-a-vacuum-cleaner-be) |
+| [STEM](https://www.fark.com/stem/) | [Robopainters, roboplasterers and robosanders to be deployed at half of new BTO construction sites "to enhance site productivity"](https://www.fark.com/goto/13441136) ( [asiaone.com](https://www.fark.com/goto/13441136) ) » [(4 comments)](https://www.fark.com/comments/13441136/Robopainters-roboplasterers-robosanders-to-be-deployed-at-half-of-new-BTO-construction-sites-to-enhance-site-productivity) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Lesh is (no) more](https://www.fark.com/goto/13441178) ( [rollingstone.com](https://www.fark.com/goto/13441178) ) » [(18 comments)](https://www.fark.com/comments/13441178/Lesh-is-no-more) |
+| [Fandom](https://www.fark.com/fandom/) | [Scientists discover new device that is impervious to a Twister. Future midwest homes to be constructed out of disused Redbox kiosks](https://www.fark.com/goto/13441396) ( [gizmodo.com](https://www.fark.com/goto/13441396) ) » [(2 comments)](https://www.fark.com/comments/13441396/Scientists-discover-new-device-that-is-impervious-to-a-Twister-Future-midwest-homes-to-be-constructed-out-of-disused-Redbox-kiosks) |
+| [D'awww](https://www.fark.com/dawww/) | [These pandas are letting the good times roll](https://www.fark.com/goto/13441274) ( [local21news.com](https://www.fark.com/goto/13441274) ) » [(0 comments)](https://www.fark.com/comments/13441274/These-pandas-are-letting-good-times-roll) |
+| [Food](https://www.fark.com/food/) | [Just how big can a mouth get?](https://www.fark.com/goto/13441238) ( [livescience.com](https://www.fark.com/goto/13441238) ) » [(5 comments)](https://www.fark.com/comments/13441238/Just-how-big-can-a-mouth-get) |
+| [Politics](https://www.fark.com/politics/) | [Washington Post confirms F. Y. Bezos halted their endorsement of Harris because he wants that sweet sweet government money he lost due to Trump last time around](https://www.fark.com/goto/13441324) ( [cnbc.com](https://www.fark.com/goto/13441324) ) » [(76 comments)](https://www.fark.com/comments/13441324/Washington-Post-confirms-F-Y-Bezos-halted-their-endorsement-of-Harris-because-he-wants-that-sweet-sweet-government-money-he-lost-due-to-Trump-last-time-around) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 25 2024 15:43:19  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 25 2024 21:43:59  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
