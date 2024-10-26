@@ -385,28 +385,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
-    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
+    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
     
-    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    Narodni muzej Srbije, Trg Republike 1a, Beograd
     
-    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
+    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
     
-    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
+    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
     
-    autorka: dr Rajka Bošković
+    Saradnice na izložbi: Olga Špehar i Jelena Premović
     
-    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-brooklyn-bridge-nyc/bruklin.jpg?itok=4ar3DtJb)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-brooklyn-bridge-4)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/3d-tapet-001.jpg?itok=-JATCPWm)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/tanja-ostojic-body-politics-agency/personal-space.jpg?itok=fuUqMhW3)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/tanja-ostoji%C4%87-body-politics-agency)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tuborg_0.jpg?itok=Py_NVK5s)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Svetska premijera – Kada bi Šopen govorio](http://seecult.org/vest/svetska-premijera-kada-bi-sopen-govorio)
 * [Obračun s pripadnošću i nasleđem](http://seecult.org/vest/obracun-s-pripadnoscu-i-nasledem)
 * [Marija Ručara u MSUB-u i MPU](http://seecult.org/vest/marija-rucara-u-msub-u-i-mpu)
 * [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
 * [Omaž autorstvu, u slavu Puriše Đorđevića](http://seecult.org/vest/omaz-autorstvu-u-slavu-purise-dordevica)
 * [Cvetičanin: (Ne)razumevanje stanja kulture u Srbiji danas](http://seecult.org/vest/cveticanin-nerazumevanje-stanja-kulture-u-srbiji-danas)
-* [Otvoren 60. Oktobarski salon - Šta ostaje?](http://seecult.org/vest/otvoren-60-oktobarski-salon-sta-ostaje)
 
 * [Konkursi](#tab1_1)
 
