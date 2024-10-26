@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Think about the metric by which your life will be judged, and make a resolution to live every day so that in the end, your life will be judged a success”
+“ Human history becomes more and more a race between education and catastrophe”
 
-[Clayton M. Christensen](https://en.wikipedia.org/wiki/Clayton_Christensen)
+[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
 
 [](https://www.adafruit.com/about)
 
