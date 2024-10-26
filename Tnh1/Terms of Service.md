@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
+   [![Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/9/csm_rui_palmeira_psd_0fbeebc50e.jpeg)
+
+EX-PREFEITO DE MACEIÓ
+
+Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
 
 Maceió
 
-Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
 no jacintinho
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
 
 crime ambiental
 
-Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
 
 Tabuleiro do Martins
 
-Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
+Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
 
 Em Maceió
 
-Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")   [![Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_Roda-gigante_0bc82498fb.png)
-
-em pajuçara
-
-Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação](https://www.tnh1.com.br/noticia/nid/roda-gigante-na-orla-de-maceio-vai-ter-ar-condicionado-e-wi-fi-veja-prazo-de-instalacao/ "Roda Gigante na orla de Maceió vai ter ar-condicionado e wi-fi; veja prazo de instalação")
+Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_0a434c35b5.jpeg)
+   [![Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_pm-flagra-crimes-de-trafico-de-drogas-e-violencia-domestica-no-sertao_1a2416cdcd.jpg)
+
+DELMIRO GOUVEIA
+
+Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://www.tnh1.com.br/noticia/nid/jovem-tenta-fugir-da-pm-em-terreno-baldio-mas-e-preso-com-drogas-e-r300-em-especie/ "Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie")   [![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_0a434c35b5.jpeg)
 
 Polícia
 
-Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")   [![Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/0/csm_csm_18DO-REAL-DEODORENSE_6570eef071_5b44800e32.png)
+Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")   [![Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_csm_18DO-REAL-DEODORENSE_6570eef071_5b44800e32.png)
 
 Polícia
 
-Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://www.tnh1.com.br/noticia/nid/disputa-por-paredao-de-som-termina-com-uso-de-spray-de-pimenta-e-prisao-na-barra-de-sao-miguel/ "Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel")   [![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_7578f1a6e7.jpg)
+Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://www.tnh1.com.br/noticia/nid/disputa-por-paredao-de-som-termina-com-uso-de-spray-de-pimenta-e-prisao-na-barra-de-sao-miguel/ "Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel")   [![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_7578f1a6e7.jpg)
 
 foram monitorados
 
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")   [![Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/8/csm_csm_homem-morto-tiros-IFAL-cortesia_7645e32b96_c8477d1355.jpeg)
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")   [![Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/8/csm_csm_homem-morto-tiros-IFAL-cortesia_7645e32b96_c8477d1355.jpeg)
 
 região metropolitana
 
-Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://www.tnh1.com.br/noticia/nid/homem-morto-dentro-de-carro-em-satuba-ja-tinha-sido-alvo-de-outro-atentado/ "Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado")   [![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_7ab8ef42ee.jpeg)
+Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://www.tnh1.com.br/noticia/nid/homem-morto-dentro-de-carro-em-satuba-ja-tinha-sido-alvo-de-outro-atentado/ "Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado")   [![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_7ab8ef42ee.jpeg)
 
 Violência
 
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")   [![Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_homem_vai_a_delegacia_fazer_BO_e_e_preso_por_ter_mandado_em_aberto_-_foto_Reproducao_TV_Pajucara_2_a657e62ef8.jpeg)
-
-TV Pajuçara flagrou
-
-Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio](https://www.tnh1.com.br/noticia/nid/em-maceio-homem-vai-ate-delegacia-fazer-bo-e-termina-preso-por-homicidio/ "Em Maceió, homem vai até delegacia fazer B.O. e termina preso por homicídio")
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ Em entrevista
 
 Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada
 
-Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
-
-Importunação sexual
-
-Importunação sexual
-
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
-
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
+Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
 
 projeções
 
@@ -222,7 +214,15 @@ projeções
 
 Série B: veja as chances de acesso e risco de queda após 33ª rodada
 
-Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
+Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
+
+Importunação sexual
+
+Importunação sexual
+
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
+
+Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
 
 Violência
 
@@ -232,39 +232,39 @@ Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
 
 Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")
 
-[![Estudo identifica mais de 600 vírus em escovas de dente e chuveiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Escova_de_dente_-_foto_Pixabay_001b82bb43.jpg)
+[![Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/0/csm_ex-astro_mirim_divulgacao_a2e23f9bec.jpg)
 
-Saúde
+lembra dele?
 
-Saúde
+lembra dele?
 
-Estudo identifica mais de 600 vírus em escovas de dente e chuveiros
+Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado
 
-Estudo identifica mais de 600 vírus em escovas de dente e chuveiros](https://www.tnh1.com.br/noticia/nid/estudo-identifica-mais-de-600-virus-em-escovas-de-dente-e-chuveiros/ "Estudo identifica mais de 600 vírus em escovas de dente e chuveiros")[![Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/9/csm_Livia_Gabriele_da_Silva_Matos__de_19_anos__morreu_apos_se_encontrar_com_o_jogador_do_sub-20_do_Corinthians_Dimas_Candido_de_Oliveira_-_foto_Reproducao_283feea2d1.jpg)
+Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado](https://www.tnh1.com.br/noticia/nid/ex-astro-mirim-surge-irreconhecivel-em-retrato-policial-apos-ser-preso-por-dirigir-embriagado/ "Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado")[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
 
-São Paulo
+TRAGÉDIA
 
-São Paulo
+TRAGÉDIA
 
-Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians](https://www.tnh1.com.br/noticia/nid/justica-arquiva-caso-de-jovem-morta-em-encontro-com-jogador-do-corinthians/ "Justiça arquiva caso de jovem morta em encontro com jogador do Corinthians")[![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_4cc75201c2.jpeg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
 
-Polícia
+batida com caminhão
 
-Polícia
+batida com caminhão
 
-Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares
+Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE
 
-Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
+Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")[![Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_liam_payne_divulgacao_6b0d286335.jpg)
 
-no jacintinho
+caiu de 13 metros
 
-no jacintinho
+caiu de 13 metros
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
+Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")
+Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha](https://www.tnh1.com.br/noticia/nid/liam-payne-desmaiou-em-saguao-de-hotel-momentos-antes-de-queda-fatal-revela-testemunha/ "Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
