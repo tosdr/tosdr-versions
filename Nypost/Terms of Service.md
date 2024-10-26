@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Israel fires retaliatory strikes against Tehran over ballistic missile barrage](https://nypost.com/2024/10/25/world-news/israel-fires-retaliatory-strike-against-iran-over-ballistic-missile-barrage-report/)
+
 Terms Of Use
 ============
 
