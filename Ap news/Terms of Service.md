@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israel attacks Iran in series of pre-dawn airstrikes targeting military infrastructure](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
+    * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
+    * [Russian strikes on Kyiv and central Ukraine kill 2 teenagers and injure dozens](https://apnews.com/article/russia-ukraine-war-kyiv-attack-drone-4325c6b695c010cb2556e48f2efa275c)
+    * [Georgia votes in an election that could take it toward the EU or into Russia's orbit](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
-    * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
+    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
-    * [Who does Trump see as 'enemies from within'?](https://apnews.com/article/donald-trump-enemies-from-within-5c4a34776469a55e71d3ba4d4e68cf62)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
     * [Stock market today: Wall Street closes mostly lower and ends a 6-week winning streak](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
-    * [Allies hope a Trump win changes the system for mortgages. Some warn it will make them pricier](https://apnews.com/article/fannie-freddie-conservatorship-trump-project-2025-mortgages-686bd902ce630a64c90f9373bee9e2be)
     
 * [Science](https://apnews.com/science)
     
@@ -157,11 +157,11 @@ Menu
     
     TOP STORIES
     
+    * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
     * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
     * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
     * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
-    * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -173,7 +173,7 @@ Menu
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -242,12 +242,12 @@ Menu
     
     TOP STORIES
     
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
     * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
-    * [Warsaw opens a new modern art museum as it tries to leave Poland's communist legacy behind](https://apnews.com/article/poland-warsaw-modern-art-museum-2962d0b240b51cc98dc51484b6b92cf6)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Catholic church reform process expected to disappoint hopes of more equity for women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
     * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
-    * [Takeaways from AP's report on the past and present of two historic Philadelphia churches](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-a4effc65e2c64519eb660d3c1a4834fc)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [Israel lanza ataques de madrugada contra infraestructura militar en Irán](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
     * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Las guerras afectan a más de 600 millones de mujeres y niñas, según la ONU](https://apnews.com/article/naciones-unidas-mujer-guerra-igualdad-genero-15fbc70f3d37aa3cc9b72ebb2564768a)
-    * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
-    * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
-    * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Choque de avionetas ligeras en pleno vuelo causa 3 muertos en Australia](https://apnews.com/article/australia-accidente-avion-5e16654e14d73c40faa12d7034d73c1e)
+    * [Trump deja a simpatizantes esperando por horas en el frío para grabar el podcast de Joe Rogan](https://apnews.com/article/trump-michigan-joe-rogan-podcast-22881af72dbc1532193b355733624346)
+    * [Yamandú Orsi, el heredero político de Mujica que apuesta por una izquierda renovada en Uruguay](https://apnews.com/article/uruguay-elecciones-perfil-yamandu-orsi-izquierda-renovada-frente-amplio-23b9e8e23c31776633d57b21bb4361ca)
+    * [Veterinario y guía presidencial, Álvaro Delgado tiene el reto de sostener al oficialismo en Uruguay](https://apnews.com/article/uruguay-elecciones-alvaro-delgado-partido-nacional-mantener-oficialismo-3c407af153b07328bef0ed15d6ff67a7)
+    * [La "nueva política" de Uruguay lleva el rostro de Andrés Ojeda, el candidato que quiere enamorar](https://apnews.com/article/elecciones-uruguay-candidato-andres-ojeda-nueva-politica-partido-colorado-8b43b5253133df9960d7ccd192973a89)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel attacks Iran in series of pre-dawn airstrikes targeting military infrastructure](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
+    * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
+    * [Russian strikes on Kyiv and central Ukraine kill 2 teenagers and injure dozens](https://apnews.com/article/russia-ukraine-war-kyiv-attack-drone-4325c6b695c010cb2556e48f2efa275c)
+    * [Georgia votes in an election that could take it toward the EU or into Russia's orbit](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
     * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
-    * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
+    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
-    * [Who does Trump see as 'enemies from within'?](https://apnews.com/article/donald-trump-enemies-from-within-5c4a34776469a55e71d3ba4d4e68cf62)
     
     Newsletters
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
     * [Stock market today: Wall Street closes mostly lower and ends a 6-week winning streak](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
-    * [Allies hope a Trump win changes the system for mortgages. Some warn it will make them pricier](https://apnews.com/article/fannie-freddie-conservatorship-trump-project-2025-mortgages-686bd902ce630a64c90f9373bee9e2be)
     
 * [Science](https://apnews.com/science)
     
@@ -645,11 +645,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
     * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
     * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
     * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
-    * [A New Zealand airport wants you to hug goodbye faster](https://apnews.com/article/new-zealand-airport-goodbye-hugs-time-limit-d6176082ffb6ab66e8d2f05dd590b8aa)
     * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -661,7 +661,7 @@ Submit Search
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Mammogram centers must now inform women about their breast density. Here's how it could affect you](https://apnews.com/article/dense-breasts-mammogram-cancer-screening-24d2d68c39395be2e75b9dec9dc08787)
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -739,12 +739,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [At least 75 people are sickened as the deadly McDonald's E. coli outbreak expands](https://apnews.com/article/mcdonalds-e-coli-outbreak-quarter-pounder-a1ec3dc14636f5e713b15b32aedcd524)
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [People 50 and older should get pneumococcal vaccine, U.S. health officials recommend](https://apnews.com/article/pneumococcal-vaccine-cdc-546bd33b402c30b2b36880d16d45e9db)
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     
 * [Tech](https://apnews.com/technology)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
     * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
-    * [Warsaw opens a new modern art museum as it tries to leave Poland's communist legacy behind](https://apnews.com/article/poland-warsaw-modern-art-museum-2962d0b240b51cc98dc51484b6b92cf6)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Catholic church reform process expected to disappoint hopes of more equity for women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
     * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
-    * [Takeaways from AP's report on the past and present of two historic Philadelphia churches](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-a4effc65e2c64519eb660d3c1a4834fc)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Israel lanza ataques de madrugada contra infraestructura militar en Irán](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
     * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Las guerras afectan a más de 600 millones de mujeres y niñas, según la ONU](https://apnews.com/article/naciones-unidas-mujer-guerra-igualdad-genero-15fbc70f3d37aa3cc9b72ebb2564768a)
-    * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
-    * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
-    * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Choque de avionetas ligeras en pleno vuelo causa 3 muertos en Australia](https://apnews.com/article/australia-accidente-avion-5e16654e14d73c40faa12d7034d73c1e)
+    * [Trump deja a simpatizantes esperando por horas en el frío para grabar el podcast de Joe Rogan](https://apnews.com/article/trump-michigan-joe-rogan-podcast-22881af72dbc1532193b355733624346)
+    * [Yamandú Orsi, el heredero político de Mujica que apuesta por una izquierda renovada en Uruguay](https://apnews.com/article/uruguay-elecciones-perfil-yamandu-orsi-izquierda-renovada-frente-amplio-23b9e8e23c31776633d57b21bb4361ca)
+    * [Veterinario y guía presidencial, Álvaro Delgado tiene el reto de sostener al oficialismo en Uruguay](https://apnews.com/article/uruguay-elecciones-alvaro-delgado-partido-nacional-mantener-oficialismo-3c407af153b07328bef0ed15d6ff67a7)
+    * [La "nueva política" de Uruguay lleva el rostro de Andrés Ojeda, el candidato que quiere enamorar](https://apnews.com/article/elecciones-uruguay-candidato-andres-ojeda-nueva-politica-partido-colorado-8b43b5253133df9960d7ccd192973a89)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
