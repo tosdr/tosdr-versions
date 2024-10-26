@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ac6d5561-9e3e-437d-97d3-40f52b01bf2b/20241025T014057/ac6d5561-9e3e-437d-97d3-40f52b01bf2b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac6d5561-9e3e-437d-97d3-40f52b01bf2b/20241025T014057/ac6d5561-9e3e-437d-97d3-40f52b01bf2b_360x203.jpg)](https://www.king5.com/article/news/local/sound-transit-approves-route-for-west-seattle-light-rail-extension/281-6e0723c9-5932-421c-bb90-486a8da79685)
+    *  [![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_360x203.jpg)](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
         
-        #### [Sound Transit approves route for West Seattle light rail extension](https://www.king5.com/article/news/local/sound-transit-approves-route-for-west-seattle-light-rail-extension/281-6e0723c9-5932-421c-bb90-486a8da79685)
+        #### [Seattle-based Native Youth Rise Above nonprofit to have first-time charity team at NYC Marathon](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
         
-    *  [![](https://media.king5.com/assets/KING/images/244572383/244572383_16x9.jpg) ![](https://media.king5.com/assets/KING/images/244572383/244572383_360x203.jpg)](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
+    *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
-        #### [Marysville Pilchuck briefly locks down after online threat day after anniversary of mass shooting](https://www.king5.com/article/news/local/online-threat-brief-lockdown-marysville-pilchuck/281-55fc6799-c328-443d-ad97-eba6a6216194)
+        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/401d638d-ba6b-404f-a72d-88d619c1dfaa/20241026T050823/401d638d-ba6b-404f-a72d-88d619c1dfaa_16x9.jpg) ![](https://media.king5.com/assets/KING/images/401d638d-ba6b-404f-a72d-88d619c1dfaa/20241026T050823/401d638d-ba6b-404f-a72d-88d619c1dfaa_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c4964845-fa21-42e6-9304-04189a098d33/20241026T150523/c4964845-fa21-42e6-9304-04189a098d33_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4964845-fa21-42e6-9304-04189a098d33/20241026T150523/c4964845-fa21-42e6-9304-04189a098d33_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+57°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
