@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/telepathisch-bericht-98-aardbeving/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/kokosnoot-geneest/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
