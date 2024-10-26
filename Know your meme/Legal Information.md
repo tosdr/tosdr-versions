@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/345/hawk_tuah_explainer_1719165998161_1719166007905_1719199488348_1719199498498.jpeg "It Sure Looks Like This 5-Year-Old Reddit Post Features 'Hawk Tuah' Girl Haliey Welch Getting Hit With A Dart")
+* [![You vs. The Guy She Says Not to Worry About](https://i.kym-cdn.com/featured_items/icons/wide/000/026/364/You_vs_Guy_She_Told_You_Not_To_Worry_About_meme_banner.jpg "Happy Anniversary To 'You Vs. The Guy She Told You Not To Worry About'")
     
-    It Sure Looks Like This 5-Year-Old Reddit Post Features 'Hawk Tuah' Girl Haliey Welch Getting Hit With A Dart](https://knowyourmeme.com/news/it-sure-looks-like-the-top-post-on-rholdmycosmo-five-years-old-features-hawk-tuah-girl-haliey-welch-getting-hit-with-a-dart)
+    Happy Anniversary To 'You Vs. The Guy She Told You Not To Worry About'](https://knowyourmeme.com/memes/you-vs-the-guy-she-told-you-not-to-worry-about)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/344/memes_of_the_week_whats_the_matter_boy_meme_banner.jpg "The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More")
+* [![Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/363/cover2.jpg "Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format")
     
-    The Weekly Meme Roundup: Trump Materializes In A McDonald's, A Goblin Makes Fun Of You And More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-trump-materializes-in-a-mcdonalds-a-goblin-makes-fun-of-you-and-more)
+    Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format](https://knowyourmeme.com/memes/chinese-restaurant-never-let-you-finish-your-sentence)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/343/fp6.jpg "Why Is A Trump 'Macarena' Remix Going Viral On TikTok? The 'MAGArena' Song Explained")
+* [![Layers of Irony](https://i.kym-cdn.com/featured_items/icons/wide/000/026/362/succcccccccccccccc.png "How Many Years Of 'Succ' Has It Been? Like 9 Or 10, My Dude")
     
-    Why Is A Trump 'Macarena' Remix Going Viral On TikTok? The 'MAGArena' Song Explained](https://knowyourmeme.com/editorials/guides/why-is-a-trump-macarena-remix-going-viral-on-tiktok-the-magarena-song-explained--2)
+    How Many Years Of 'Succ' Has It Been? Like 9 Or 10, My Dude](https://knowyourmeme.com/memes/layers-of-irony)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/342/fp7.jpg "Where Does The 'What's The Matter Lagerboy' Meme Come From? The Viral Hobgoblin Format Explained")
+* [![Official logo of the Shiba Inu (SHIB) meme coin](https://i.kym-cdn.com/featured_items/icons/wide/000/026/361/Shiba_Inu_Coin_cover.jpg "Everything You Need To Know About The Shiba Inu (SHIB) Meme Coin ")
     
-    Where Does The 'What's The Matter Lagerboy' Meme Come From? The Viral Hobgoblin Format Explained](https://knowyourmeme.com/editorials/guides/where-does-the-whats-the-matter-lagerboy-meme-come-from-the-viral-afraid-you-might-taste-something-memes-explained--2)
+    Everything You Need To Know About The Shiba Inu (SHIB) Meme Coin](https://knowyourmeme.com/memes/subcultures/shiba-inu-shib-meme-coin)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/341/tfuefp.jpg "What's Up With The 'Tfue High Taper Fade' Memes On TikTok? The Viral Spin On Ninja's 'Low Taper Fade' Explained")
+* [![Blood-Curdling Stalker Scream From _HL2_ Beta Has Been Traumatizing Meme Enjoyers Since 2022](https://i.kym-cdn.com/featured_items/icons/wide/000/026/360/cover1.jpg "Blood-Curdling Stalker Scream From _HL2_ Beta Has Been Traumatizing Meme Enjoyers Since 2022")
     
-    What's Up With The 'Tfue High Taper Fade' Memes On TikTok? The Viral Spin On Ninja's 'Low Taper Fade' Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-the-tfue-high-taper-fade-memes-on-tiktok-the-viral-spin-on-ninjas-low-taper-fade-meme-explained)
+    Blood-Curdling Stalker Scream From \_HL2\_ Beta Has Been Traumatizing Meme Enjoyers Since 2022](https://knowyourmeme.com/memes/half-life-2-stalker-scream)
     
 
 ##### Also Trending:
 
-[Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt")
+[Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
