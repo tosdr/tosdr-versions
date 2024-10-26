@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (3,701)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (3,701 posts)")
-* [Millennium High Point Foreign Investm… (130)](https://forum.nationstates.net/viewtopic.php?t=523347&f=6&view=unread#unread ""Millennium High Point Foreign Investments" (130 posts)")
-* [What Music Are You Listening to? v18 (12,449)](https://forum.nationstates.net/viewtopic.php?t=534070&f=19&view=unread#unread ""What Music Are You Listening to? v18" (12,449 posts)")
-* [Maximillian Investment Capital Corpor… (47)](https://forum.nationstates.net/viewtopic.php?t=531768&f=6&view=unread#unread ""Maximillian Investment Capital Corporation" (47 posts)")
-* [Womanly things that men do these days… (566)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (566 posts)")
+* [Would you chill with AU¿ (1,814)](https://forum.nationstates.net/viewtopic.php?t=551805&f=25&view=unread#unread ""Would you chill with AU¿" (1,814 posts)")
+* [Guess AN's Gender (3,961)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (3,961 posts)")
+* [AL hugs YL (116)](https://forum.nationstates.net/viewtopic.php?t=556020&f=25&view=unread#unread ""AL hugs YL" (116 posts)")
+* [Using the AN's flag, how do they deal… (8,448)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,448 posts)")
+* [Revenge of Rate the Song above you (7,096)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (7,096 posts)")
 
 Advertisement
 
