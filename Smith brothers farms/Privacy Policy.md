@@ -314,12 +314,12 @@ Hi
         * [Coffee (25)](https://www.smithbrothersfarms.com/coffee-2)
             
         
-    * [Snacks (39)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (38)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
         * [Salsa, Dips & Hummus (17)](https://www.smithbrothersfarms.com/salsa)
             
-        * [Chips, Crackers & Nuts (19)](https://www.smithbrothersfarms.com/chips-and-crackers)
+        * [Chips, Crackers & Nuts (18)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
