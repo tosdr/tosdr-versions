@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/kokosnoot-geneest/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/stijging-corona-gevallen-hoezo-manipulatie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
