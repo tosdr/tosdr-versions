@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is wonderful and very easy to use. Sometime in the near future I will subscribe to your UK service again so I can watch BBC tv. Thanks for your really good efforts.
+Netflix works like a charm. I will keep this subscription. I really appreciate your help, and how quickly you replied to my problems.
 
-Mercedes Burnside
+Mark Hallerberg
