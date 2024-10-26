@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-cc0d9826ee87ed485c01d247afda2081
+030e73cc1c86ea75810e4a4516047581
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![16 mm amber rounded rectangle beads](https://sojourner.biz/images/cache/glass/GL0042.200.jpg)](https://sojourner.biz/beads/glass/16-mm-amber-rounded-rectangle-beads.html "16 mm amber rounded rectangle beads")
+[![Small broken-ice carnelian clasp](https://sojourner.biz/images/cache/SKU0174front.200.jpg)](https://sojourner.biz/clasps/glass/small-broken-ice-carnelian-clasp.html "Small broken-ice carnelian clasp")
 
-#### [16 mm amber rounded rectangle beads](https://sojourner.biz/beads/glass/16-mm-amber-rounded-rectangle-beads.html "16 mm amber rounded rectangle beads")
+#### [Small broken-ice carnelian clasp](https://sojourner.biz/clasps/glass/small-broken-ice-carnelian-clasp.html "Small broken-ice carnelian clasp")
 
-$10.00
+$13.50
 
 ### Best Sellers
 
