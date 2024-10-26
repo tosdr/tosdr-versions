@@ -1,15 +1,15 @@
-Friday, October 25 2024
+Saturday, October 26 2024
 
 Breaking News
 
+* [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
+* [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
 * [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
 * [Dems Trying To Change Voting Rules In State They Can’t Win Under Current System](https://www.conservativedailynews.com/2024/10/dems-trying-to-change-voting-rules-in-state-they-cant-win-under-current-system/)
 * [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/)
 * [America Needs A Congress That Will Stop Borrowing Money](https://www.conservativedailynews.com/2024/10/america-needs-a-congress-that-will-stop-borrowing-money/)
 * [Mark Halperin Says Harris’ CNN Town Hall ‘Performance’ Was ‘Last Straw For A Lot Of Democrats’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-harris-cnn-town-hall-performance-was-last-straw-for-a-lot-of-democrats/)
 * [Kamala’s Last Twelve Days Of Relevance](https://www.conservativedailynews.com/2024/10/kamalas-lasttwelve-days-of-relevance/)
-* [Excuse Me Kamala, Women Are More Than A Uterus](https://www.conservativedailynews.com/2024/10/excuse-me-kamala-women-are-more-than-a-uterus/)
-* [President Joe Biden’s Schedule for Friday, October 25, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-friday-october-25-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Iran Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
+    
+    [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
+    
+    October 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
+    
+    [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
+    
+    October 25, 2024
+    
+* [![Kamala Harris catastrophic damage](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
+    
+    [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
+    
+    October 25, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
     
     [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
@@ -160,27 +178,12 @@ Recent Posts
     
     October 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5688-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/kamalas-lasttwelve-days-of-relevance/)
-    
-    [Kamala’s Last Twelve Days Of Relevance](https://www.conservativedailynews.com/2024/10/kamalas-lasttwelve-days-of-relevance/)
-    
-    October 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/07-oct-surprise-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/october-desperation/)
-    
-    [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/)
-    
-    October 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5683-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/excuse-me-kamala-women-are-more-than-a-uterus/)
-    
-    [Excuse Me Kamala, Women Are More Than A Uterus](https://www.conservativedailynews.com/2024/10/excuse-me-kamala-women-are-more-than-a-uterus/)
-    
-    October 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* ["The Sower of Death" – the History of Yugoslavian M84 Machinegun](https://www.thegunpage.com/the-sower-of-death-the-history-of-yugoslavian-m84-machinegun/10611458)
+* [POTD: Putting The XM7 To The Test At Fort Campbell](https://www.thegunpage.com/potd-putting-the-xm7-to-the-test-at-fort-campbell/10611459)
+* [TFB Podcast Roundup 152: The October 25th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-152-the-october-25th-roundup/10611460)
 * [C.G. Haenel Announces the Jaeger NXT Adjustable and Tracker Straight-Pull](https://www.thegunpage.com/c-g-haenel-announces-the-jaeger-nxt-adjustable-and-tracker-straight-pull/10611453)
 * [TFB Review: Meprolight MPO-DF Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-df-open-emitter-pistol-sight/10611455)
 * [Federal Judge Issues Permanent Injunction Against NY Public Housing Gun Ban](https://www.thegunpage.com/federal-judge-issues-permanent-injunction-against-ny-public-housing-gun-ban/10611450)
@@ -188,9 +191,6 @@ Recent Posts
 * [Ohio Woman Fatally Shoots Man In The Groin Upon Request](https://www.thegunpage.com/ohio-woman-fatally-shoots-man-in-the-groin-upon-request/10611445)
 * [11th Circuit Considering Florida’s Under-21 Long Gun Purchase Ban This Week](https://www.thegunpage.com/11th-circuit-considering-floridas-under-21-long-gun-purchase-ban-this-week/10611441)
 * [NEW Arm Brace Ready Hi-Point Pistols](https://www.thegunpage.com/new-arm-brace-ready-hi-point-pistols/10611444)
-* [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.thegunpage.com/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/10611439)
-* [Results: 2024 NRA National High Power Rifle Mid-Range, Long-Range Championships](https://www.thegunpage.com/results-2024-nra-national-high-power-rifle-mid-range-long-range-championships/10611438)
-* [5 Firearms To Have On Hand For A Natural Disaster](https://www.thegunpage.com/5-firearms-to-have-on-hand-for-a-natural-disaster/10611435)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
 * Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 * Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
 * [Concerned](http://cdn/) on [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/#comment-782833)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
 * charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
 * charles wilkins on [Salty](https://www.conservativedailynews.com/2024/10/salty/#comment-782785)
-* MarkJ on [North Carolina Reports Record Early Voter Turnout, But Hurricane Helene’s Impact May Linger At Polls](https://www.conservativedailynews.com/2024/10/north-carolina-reports-record-early-voter-turnout-but-hurricane-helenes-impact-may-linger-at-polls/#comment-782784)
 
 [Close](#)
 
