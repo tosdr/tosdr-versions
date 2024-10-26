@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most dangerous phrase in the language is, We’ve always done it this way”
+“ Think about the metric by which your life will be judged, and make a resolution to live every day so that in the end, your life will be judged a success”
 
-[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+[Clayton M. Christensen](https://en.wikipedia.org/wiki/Clayton_Christensen)
 
 [](https://www.adafruit.com/about)
 
