@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I Am Not OkayJelly Roll<br><br>4:59am |
-| I See YouLuke Bryan<br><br>4:56am |
-| I Never LieZach Top<br><br>4:52am |
-| Our SongTaylor Swift<br><br>4:49am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:46am |
+| To Be Loved By YouParker Mccollum<br><br>11:41am |
+| 23Chayce Beckham<br><br>11:37am |
+| I Never LieZach Top<br><br>11:33am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:30am |
+| In Case You Didn'T KnowBrett Young<br><br>11:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Country • Western
+News Talk • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
