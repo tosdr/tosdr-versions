@@ -53,46 +53,6 @@ Warenkorb Warenkorb
 
  
 
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Alle Angebote
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Unsere Highlights
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Mode
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Sport
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Multimedia
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Möbel
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Heimtextilien
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Haushalt
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Spielzeug
-
-![](https://i.otto.de/i/otto/BIG_Deal_Badge_sq)
-
-Baumarkt
-
 Damen-Mode![](https://i.otto.de/i/otto/cd05c6c6-8692-5b95-95c3-c221f3e2a99c/?h=200&upscale=true&w=200)
 
 <Zurück[Damen-Mode](https://www.mirapodo.de/damen/)
