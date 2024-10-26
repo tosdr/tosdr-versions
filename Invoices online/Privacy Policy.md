@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Hugo van Sittert
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=146831226)  
-Creative Characters
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=86282326)  
+All Trucking Solutions
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=158798918)  
-kidoscabbie
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=140166194)  
+Qothiphango Mining
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=88881127)  
-IYD
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=27040527)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=133522005)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=204493986)  
+Entidee Enterprise PTY (ltd)
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=109091459)  
-VIR Electrical (PTY) LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=65780577)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=152238816)  
-Dr V Naik Consult
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=122404240)  
+MONSTER SECURITY GUARDING
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=61572844)  
-Secunda Signs T/A Local Print and Signs
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=27356005)  
+Norton Medical & Consult - Namibia
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=183209195)  
-Testpro Laboratory (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=209720822)  
+MSPCloud (Pty) Ltd
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=159193716)  
-Fox Alarms & Security
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=94425675)  
+#DiGi3 Marketing & Design
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=70082939)  
-OptaServ
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=211561608)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=210265592)  
-NJR ICT Services (Pty) Ltd
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=85657992)  
+Moremi Kitchens Rustenburg
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=90757533)  
-Camp 4 Africa (Pty) Ltd
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=37275216)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=85031373)  
-Depot Diesel (Pty) Ltd
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=165748097)  
+Waterfinatics Swim School
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=19032313)  
-Quad Biking Cape Town
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=41949074)  
+Immediate Health (pty)ltd
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=c3a2d5b9d09755f02c92d69c203e518a624b0f17209729bc1f1429b9e7f89499&c=92099974)  
-Three Moons Emporium
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=24136638)  
+Frameless Fanatix (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
