@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Steuer­änderungen 2024: Bundes­rat stimmt für Wachstums­chancengesetz](https://www.test.de/Steueraenderungen-2024-beschlossen-6076655-0/ "Steueränderungen 2024 - Bundesrat stimmt für Wachstumschancengesetz")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Bio-Dünger aus Brenn­nesseln: Jauche juchhe!](https://www.test.de/Bio-Duenger-aus-Brennnesseln-Jauche-juchhe-6025880-0/ "Bio-Dünger aus Brennnesseln - Jauche juchhe!")
+* [Gewusst wie: Patienten­daten anfordern](https://www.test.de/Gewusst-wie-Patientendaten-anfordern-6051265-0/ "Gewusst wie - Patientendaten anfordern")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
 
 Service Stiftung Warentest
 
