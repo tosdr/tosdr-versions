@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/medicijngebruik-meer-doden-dan-heroine-en-cocaine-samen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/edith-schippers-van-complot-tot-dictatoriale-trekjes/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
