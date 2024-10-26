@@ -387,9 +387,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [euphoria](https://www.merriam-webster.com/word-of-the-day)
+#### [categorical](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of euphoria](/dist-cross-dungarees/2024-10-24--18-52-22-6aylc/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of euphoria")
+[![Listen to the pronunciation of categorical](/dist-cross-dungarees/2024-10-24--18-52-22-6aylc/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of categorical")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
