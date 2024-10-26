@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dd243230a4b6c2afe6a99d72e9bb3078
+db6f8a1719b4b2eba8ecd20b3ba69686
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm to 14 mm glass bugle beads](https://sojourner.biz/images/cache/glass/GL0196.200.jpg)](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+[![6 mm by 3 mm white rice pearls](https://sojourner.biz/images/cache/pearls/PE0197.200.jpg)](https://sojourner.biz/beads/pearls/6-mm-by-3-mm-white-rice-pearls.html "6 mm by 3 mm white rice pearls")
 
-#### [12 mm to 14 mm glass bugle beads](https://sojourner.biz/beads/glass/12-mm-to-14-mm-glass-bugle-beads.html "12 mm to 14 mm glass bugle beads")
+#### [6 mm by 3 mm white rice pearls](https://sojourner.biz/beads/pearls/6-mm-by-3-mm-white-rice-pearls.html "6 mm by 3 mm white rice pearls")
 
-$4.00
+$10.00
 
 ### Best Sellers
 
