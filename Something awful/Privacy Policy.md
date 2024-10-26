@@ -205,29 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [2009 Fashion SWAT Howl-o-ween Shocktober Spooktacular](https://www.somethingawful.com/fashion-swat/fashion-2009-halloween/1/)
-* [WTF, Traveller Art!?](https://www.somethingawful.com/dungeons-and-dragons/traveller-artwork-steve/1/)
-* [HELP!! dick stuck in vcr](https://www.somethingawful.com/comedy-goldmine/not-explaining-vcr/)
-* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
+* [The Virtual Boy Petition](https://www.somethingawful.com/awful-links/awful-link-700/)
+* [August 25, 2008](https://www.somethingawful.com/forum-fridays/ff08-25-08/1/)
+* [Battleship; Lockout; The Cabin in the Woods; The Three Stooges](https://www.somethingawful.com/current-movie-reviews/battleship-lockout/1/)
+* [Advicenators!](https://www.somethingawful.com/weekend-web/advicenators/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Fellas with dicks, do you pee through the hole on your underwear?](http://forums.somethingawful.com/showthread.php?threadid=4073628 "Fellas with dicks, do you pee through the hole on your underwear?")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [what's your greatest talent and what has it gained you?](http://forums.somethingawful.com/showthread.php?threadid=4073571 "what's your greatest talent and what has it gained you?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
-* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [MS PAINT THREAD: Draw Garfield From Memory](http://forums.somethingawful.com/showthread.php?threadid=4073629 "MS PAINT THREAD: Draw Garfield From Memory")
 * ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [watching spinny wheels](http://forums.somethingawful.com/showthread.php?threadid=4073597 "watching spinny wheels")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [saying hi to a motherfucker](http://forums.somethingawful.com/showthread.php?threadid=4073568 "saying hi to a motherfucker")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Fellas with dicks, do you pee through the hole on your underwear?](http://forums.somethingawful.com/showthread.php?threadid=4073628 "Fellas with dicks, do you pee through the hole on your underwear?")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [MS PAINT THREAD: Draw Garfield From Memory](http://forums.somethingawful.com/showthread.php?threadid=4073629 "MS PAINT THREAD: Draw Garfield From Memory")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I guess some goons are Finnish?](http://forums.somethingawful.com/showthread.php?threadid=4073566 "I guess some goons are Finnish?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-mspaint.gif) [Do you have any good goon aphorisms?](http://forums.somethingawful.com/showthread.php?threadid=4073567 "Do you have any good goon aphorisms?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Are you ready for NoFap November 2024?](http://forums.somethingawful.com/showthread.php?threadid=4073633 "Are you ready for NoFap November 2024?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [what's your greatest talent and what has it gained you?](http://forums.somethingawful.com/showthread.php?threadid=4073571 "what's your greatest talent and what has it gained you?")
 
 ### Random Articles
 
-* [What's Riker Doing?](https://www.somethingawful.com/photoshop-phriday/riker-star-trek/1/)
-* [The Indecent Bargain Proposal](https://www.somethingawful.com/news/shoestring-indecent-proposal/)
-* [WELCOME TO HUG HEAVEN](https://www.somethingawful.com/awful-links/awful-link-682/)
-* [Hug E Gram (Thanks, Crass!)](https://www.somethingawful.com/awful-links/hug-e-gram/)
-* [Countdown to Destruction](https://www.somethingawful.com/garbage-day/feist-reminder-muppet/1/)
+* [The Something Awful All-Star Matchup!](https://www.somethingawful.com/news/something-awful-allstar/)
+* [Jessica Trance Online](https://www.somethingawful.com/awful-links/awful-link-2972/)
+* [eBay USA USA USA!](https://www.somethingawful.com/news/ebay-usa-usa/)
+* [Collectible Plates](https://www.somethingawful.com/photoshop-phriday/collectible-plates/1/)
+* [State Og Update: 10.08.05](https://www.somethingawful.com/state-og/state-og-update-118/)
 
 [Random!](https://www.somethingawful.com/random/)
 
