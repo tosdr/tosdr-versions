@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Am Not OkayJelly Roll<br><br>4:59am |
-| I See YouLuke Bryan<br><br>4:56am |
-| I Never LieZach Top<br><br>4:52am |
-| Our SongTaylor Swift<br><br>4:49am |
-| I Ain'T Sayin'Jordan Davis<br><br>4:46am |
+| She Got The Best Of MeLuke Combs<br><br>11:07am |
+| Buy DirtJordan Davis Ft Luke Bryan<br><br>11:04am |
+| Wind Up Missing YouTucker Wetmore<br><br>11:01am |
+| Boys 'Round HereBlake Shelton Ft Pistol Annies And F<br><br>10:58am |
+| Whiskey On YouNate Smith<br><br>10:55am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -362,17 +362,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
