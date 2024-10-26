@@ -20,13 +20,13 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+    
+    ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+    
     [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
     ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
-    
-    ### [TEAM NEWS: Swansea City vs Millwall – Harris makes four changes](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
     
     [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
     
@@ -105,13 +105,13 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+    
+    ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+    
     [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
     ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    [![Millwall team bus. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_7414-2024-09-21T13_35_44.968-360x180.jpg)](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
-    
-    ### [TEAM NEWS: Swansea City vs Millwall – Harris makes four changes](https://southwarknews.co.uk/news/team-news-swansea-city-vs-millwall-harris-makes-four-changes/)
     
     [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
     
