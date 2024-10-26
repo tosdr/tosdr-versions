@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100272/nz-vs-ind-2nd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 2nd Test - Stumps")[AFGA vs INDA - AFGA Won](https://www.cricbuzz.com/live-cricket-scores/107659/afga-vs-inda-semi-final-2-b1-v-a2-acc-mens-t20-emerging-teams-asia-cup-2024 "Afghanistan A v India A, Semi Final 2 (B1 v A2) - AFGA Won")[USA vs SCO - Ings Break](https://www.cricbuzz.com/live-cricket-scores/107017/usa-vs-sco-37th-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Scotland, 37th Match - Ings Break")[TIT vs WPR - Live](https://www.cricbuzz.com/live-cricket-scores/103600/tit-vs-wpr-qualifier-2-csa-t20-challenge-2024 "Titans v Western Province, Qualifier 2 - Live")[ENG vs PAK - Stumps](https://www.cricbuzz.com/live-cricket-scores/101045/eng-vs-pak-3rd-test-england-tour-of-pakistan-2024 "England v Pakistan, 3rd Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/100272/nz-vs-ind-2nd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 2nd Test - Stumps")[AFGA vs INDA - AFGA Won](https://www.cricbuzz.com/live-cricket-scores/107659/afga-vs-inda-semi-final-2-b1-v-a2-acc-mens-t20-emerging-teams-asia-cup-2024 "Afghanistan A v India A, Semi Final 2 (B1 v A2) - AFGA Won")[USA vs SCO - SCO Won](https://www.cricbuzz.com/live-cricket-scores/107017/usa-vs-sco-37th-match-icc-cricket-world-cup-league-two-2023-27 "United States of America v Scotland, 37th Match - SCO Won")[TIT vs WPR - TIT Won](https://www.cricbuzz.com/live-cricket-scores/103600/tit-vs-wpr-qualifier-2-csa-t20-challenge-2024 "Titans v Western Province, Qualifier 2 - TIT Won")[ENG vs PAK - Stumps](https://www.cricbuzz.com/live-cricket-scores/101045/eng-vs-pak-3rd-test-england-tour-of-pakistan-2024 "England v Pakistan, 3rd Test - Stumps")
 
 AllLive NowToday
 
@@ -90,7 +90,7 @@ AllLive NowToday
     
 * ICC CWC League Two 2023-27
     
-    [United States of America vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107017/usa-vs-sco-37th-match-icc-cwc-league-two-2023-27 "United States of America v Scotland, 37th Match - Ings Break")
+    [United States of America vs Scotland](https://www.cricbuzz.com/live-cricket-scores/107017/usa-vs-sco-37th-match-icc-cwc-league-two-2023-27 "United States of America v Scotland, 37th Match - SCO Won")
     
     37th Match
     
@@ -116,15 +116,11 @@ AllLive NowToday
     
     CSA T20 Challenge
     
-    [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103591/wpr-vs-nwest-eliminator-csa-t20-challenge "Western Province v North West, Eliminator - WPR Won")
-    
-    Eliminator
-    
-* [Titans vs Western Province  LIVE](https://www.cricbuzz.com/live-cricket-scores/103600/tit-vs-wpr-qualifier-2-csa-t20-challenge "Titans v Western Province, Qualifier 2 - Live")
+    [Titans vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103600/tit-vs-wpr-qualifier-2-csa-t20-challenge "Titans v Western Province, Qualifier 2 - TIT Won")
     
     Qualifier 2
     
-* [Lions vs TBC](https://www.cricbuzz.com/live-cricket-scores/103602/lions-vs-tbc-final-csa-t20-challenge "Lions v TBC, Final - Upcoming")
+* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/103602/lions-vs-tit-final-csa-t20-challenge "Lions v Titans, Final - Upcoming")
     
     Final
     
@@ -132,11 +128,7 @@ AllLive NowToday
     
     Ranji Trophy
     
-    [Jharkhand vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97513/jhkd-vs-cdg-elite-group-d-ranji-trophy "Jharkhand v Chandigarh, Elite Group D - Preview")
-    
-    Elite Group D
-    
-* [Bengal vs Kerala](https://www.cricbuzz.com/live-cricket-scores/97495/ben-vs-ker-elite-group-c-ranji-trophy "Bengal v Kerala, Elite Group C - Preview")
+    [Bengal vs Kerala](https://www.cricbuzz.com/live-cricket-scores/97495/ben-vs-ker-elite-group-c-ranji-trophy "Bengal v Kerala, Elite Group C - Preview")
     
     Elite Group C
     
@@ -144,33 +136,17 @@ AllLive NowToday
     
     Elite Group C
     
-* [Andhra vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97466/ap-vs-hp-elite-group-b-ranji-trophy "Andhra v Himachal Pradesh, Elite Group B - Preview")
-    
-    Elite Group B
-    
-* [Rajasthan vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/97457/raj-vs-guj-elite-group-b-ranji-trophy "Rajasthan v Gujarat, Elite Group B - Preview")
-    
-    Elite Group B
-    
-* [Delhi vs Assam](https://www.cricbuzz.com/live-cricket-scores/97511/del-vs-asm-elite-group-d-ranji-trophy "Delhi v Assam, Elite Group D - Preview")
+* [Jharkhand vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97513/jhkd-vs-cdg-elite-group-d-ranji-trophy "Jharkhand v Chandigarh, Elite Group D - Preview")
     
     Elite Group D
     
-* [Tripura vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97448/tri-vs-mum-elite-group-a-ranji-trophy "Tripura v Mumbai, Elite Group A - Preview")
-    
-    Elite Group A
-    
-* [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Preview")
+* [Madhya Pradesh vs Haryana](https://www.cricbuzz.com/live-cricket-scores/97500/mp-vs-har-elite-group-c-ranji-trophy "Madhya Pradesh v Haryana, Elite Group C - Preview")
     
     Elite Group C
     
 * [Maharashtra vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/97446/mah-vs-mgly-elite-group-a-ranji-trophy "Maharashtra v Meghalaya, Elite Group A - Preview")
     
     Elite Group A
-    
-* [Madhya Pradesh vs Haryana](https://www.cricbuzz.com/live-cricket-scores/97500/mp-vs-har-elite-group-c-ranji-trophy "Madhya Pradesh v Haryana, Elite Group C - Preview")
-    
-    Elite Group C
     
 * [Jammu and Kashmir vs Services](https://www.cricbuzz.com/live-cricket-scores/97437/jk-vs-ser-elite-group-a-ranji-trophy "Jammu and Kashmir v Services, Elite Group A - Preview")
     
@@ -188,25 +164,45 @@ AllLive NowToday
     
     Elite Group D
     
-* [Hyderabad vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97473/hyd-vs-pdc-elite-group-b-ranji-trophy "Hyderabad v Puducherry, Elite Group B - Preview")
-    
-    Elite Group B
-    
 * [Tamil Nadu vs Chhattisgarh](https://www.cricbuzz.com/live-cricket-scores/97522/tn-vs-cg-elite-group-d-ranji-trophy "Tamil Nadu v Chhattisgarh, Elite Group D - Preview")
     
     Elite Group D
     
+* [Hyderabad vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97473/hyd-vs-pdc-elite-group-b-ranji-trophy "Hyderabad v Puducherry, Elite Group B - Preview")
+    
+    Elite Group B
+    
+* [Andhra vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97466/ap-vs-hp-elite-group-b-ranji-trophy "Andhra v Himachal Pradesh, Elite Group B - Preview")
+    
+    Elite Group B
+    
+* [Delhi vs Assam](https://www.cricbuzz.com/live-cricket-scores/97511/del-vs-asm-elite-group-d-ranji-trophy "Delhi v Assam, Elite Group D - Preview")
+    
+    Elite Group D
+    
+* [Rajasthan vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/97457/raj-vs-guj-elite-group-b-ranji-trophy "Rajasthan v Gujarat, Elite Group B - Preview")
+    
+    Elite Group B
+    
+* [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Preview")
+    
+    Elite Group C
+    
+* [Tripura vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97448/tri-vs-mum-elite-group-a-ranji-trophy "Tripura v Mumbai, Elite Group A - Preview")
+    
+    Elite Group A
+    
 * Ranji Trophy Plate
     
-    [Manipur vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98141/mnp-vs-miz-plate-ranji-trophy-plate "Manipur v Mizoram, Plate - Preview")
+    [Arunachal Pradesh vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98123/arnp-vs-skm-plate-ranji-trophy-plate "Arunachal Pradesh v Sikkim, Plate - Preview")
+    
+    Plate
+    
+* [Manipur vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98141/mnp-vs-miz-plate-ranji-trophy-plate "Manipur v Mizoram, Plate - Preview")
     
     Plate
     
 * [Goa vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98132/goa-vs-ngl-plate-ranji-trophy-plate "Goa v Nagaland, Plate - Preview")
-    
-    Plate
-    
-* [Arunachal Pradesh vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98123/arnp-vs-skm-plate-ranji-trophy-plate "Arunachal Pradesh v Sikkim, Plate - Preview")
     
     Plate
     
@@ -240,15 +236,15 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Wellington vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107289/wel-vs-cd-9th-match-the-ford-trophy-2024-25 "Wellington v Central Districts, 9th Match - Preview")
+    [Central Districts vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107289/cd-vs-wel-9th-match-the-ford-trophy-2024-25 "Central Districts v Wellington, 9th Match - Break")
     
     9th Match
     
-* [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107283/cntbry-vs-nk-8th-match-the-ford-trophy-2024-25 "Canterbury v Northern Knights, 8th Match - Preview")
+* [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107283/cntbry-vs-nk-8th-match-the-ford-trophy-2024-25 "Canterbury v Northern Knights, 8th Match - Abandon")
     
     8th Match
     
-* [Auckland vs Otago](https://www.cricbuzz.com/live-cricket-scores/107281/akl-vs-otg-7th-match-the-ford-trophy-2024-25 "Auckland v Otago, 7th Match - Preview")
+* [Otago vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107281/otg-vs-akl-7th-match-the-ford-trophy-2024-25 "Otago v Auckland, 7th Match - Ings Break")
     
     7th Match
     
@@ -631,37 +627,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [India pick Ramandeep Singh, Vijaykumar Vyshak for T20I tour of South Africa](https://www.cricbuzz.com/cricket-news/132207/india-pick-ramandeep-singh-vijaykumar-vyshak-for-t20i-tour-of-south-africa "India pick Ramandeep Singh, Vijaykumar Vyshak for T20I tour of South Africa")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132206/abhimanyu-easwaran-harshit-rana-nitish-reddy-picked-for-australia-tests "Abhimanyu Easwaran, Harshit Rana, Nitish Reddy picked for Australia Tests")
 
 [Abhimanyu Easwaran, Harshit Rana, Nitish Reddy picked for Australia Tests](https://www.cricbuzz.com/cricket-news/132206/abhimanyu-easwaran-harshit-rana-nitish-reddy-picked-for-australia-tests "Abhimanyu Easwaran, Harshit Rana, Nitish Reddy picked for Australia Tests")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132205/was-in-shock-getting-kohli-out-off-the-full-toss-santner "Was in shock getting Kohli out off the full toss - Santner")
 
 [Was in shock getting Kohli out off the full toss - Santner](https://www.cricbuzz.com/cricket-news/132205/was-in-shock-getting-kohli-out-off-the-full-toss-santner "Was in shock getting Kohli out off the full toss - Santner")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132204/through-grit-and-grace-shakeel-embraces-4th-test-ton "Through grit and grace Shakeel embraces 4th Test ton")
 
 [Through grit and grace Shakeel embraces 4th Test ton](https://www.cricbuzz.com/cricket-news/132204/through-grit-and-grace-shakeel-embraces-4th-test-ton "Through grit and grace Shakeel embraces 4th Test ton")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132203/mitchell-santner-7-wicket-haul-india-vs-nz-pune-test-cricket "A familiar foe brews the perfect storm for India")
 
 [A familiar foe brews the perfect storm for India](https://www.cricbuzz.com/cricket-news/132203/mitchell-santner-7-wicket-haul-india-vs-nz-pune-test-cricket "A familiar foe brews the perfect storm for India")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132202/shakeel-spinners-put-pakistan-on-top-in-rawalpindi "Shakeel, spinners put Pakistan on top in Rawalpindi")
 
 [Shakeel, spinners put Pakistan on top in Rawalpindi](https://www.cricbuzz.com/cricket-news/132202/shakeel-spinners-put-pakistan-on-top-in-rawalpindi "Shakeel, spinners put Pakistan on top in Rawalpindi")
 
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
