@@ -14,37 +14,53 @@
     
     ###### Capabilities
     
-    [![AI - Menu Icon](https://boomi.com/wp-content/uploads/AI-Menu-Icon.svg)
+    [![AI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![AI - Menu Icon](https://boomi.com/wp-content/uploads/AI-Menu-Icon.svg)
     
     ###### Boomi AI
     
-    Integrate and automate with generative AI](https://boomi.com/platform/ai/)[![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
+    Integrate and automate with generative AI](https://boomi.com/platform/ai/)[![API Management - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
     
     ###### API management
     
-    Simplify API deployment and management](https://boomi.com/platform/api-management/)[![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
+    Simplify API deployment and management](https://boomi.com/platform/api-management/)[![Integration - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
     
     ###### Integration
     
-    Connect your applications and data](https://boomi.com/platform/integration/)[![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
+    Connect your applications and data](https://boomi.com/platform/integration/)[![Hub - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
     
-    ###### Data management
+    ![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
     
-    Synchronized 360-degree view of your data](https://boomi.com/platform/datahub/)
+    ###### DataHub
     
-    [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
+    The foundation for trusted data](https://boomi.com/platform/datahub/)
+    
+    [![Flow - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
     
     ###### Flow
     
-    Build and automate workflows with low-code](https://boomi.com/platform/flow/)[![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
+    Build and automate workflows with low-code](https://boomi.com/platform/flow/)[![Event Streams - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
     
     ###### Events streams
     
-    Create real-time, event-driven integrations](https://boomi.com/platform/events-streams/)[![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
+    Create real-time, event-driven integrations](https://boomi.com/platform/events-streams/)[![EDI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
     
     ###### B2B/EDI management
     
-    Collaborate with trading partners](https://boomi.com/platform/b2b-management/)[![Task Automation - Menu Icon](https://boomi.com/wp-content/uploads/Task-Automation-Menu-Icon.svg)
+    Collaborate with trading partners](https://boomi.com/platform/b2b-management/)[![Task Automation - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Task Automation - Menu Icon](https://boomi.com/wp-content/uploads/Task-Automation-Menu-Icon.svg)
     
     ###### Task automation
     
@@ -68,7 +84,19 @@
     
     ###### Integrate your apps
     
-    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
+    [![Netsuite - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
     
     [Explore all connectors](https://boomi.com/connectors/)
     
@@ -76,7 +104,23 @@
     
 * Case studies
     
-    [![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)](https://boomi.com/customers/)[![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/australian-red-cross/)[![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/american-cancer-society/)[![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/23andme/)[![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)](https://boomi.com/customer/dropbox/)[![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)](https://boomi.com/customer/cloudflare/)[![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)](https://boomi.com/customer/sky/)[![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/origin-energy/)
+    [![case-study-icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)](https://boomi.com/customers/)[![Australian Red Cross - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/australian-red-cross/)[![American Cancer Society - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/american-cancer-society/)[![23andMe - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/23andme/)[![Dropbox Logo Color](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)](https://boomi.com/customer/dropbox/)[![1200px-Cloudflare_logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)](https://boomi.com/customer/cloudflare/)[![Sky - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)](https://boomi.com/customer/sky/)[![Origin - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)](https://boomi.com/customer/origin-energy/)
     
     [Explore all case studies](https://boomi.com/customers/)
     
@@ -111,11 +155,31 @@
 * [Contact us](https://boomi.com/company/contact/)
 
 * [Language](javascript:;)
-    * [![en-flag](https://boomi.com/wp-content/themes/boomi/assets/images/united-states.svg)English](https://boomi.com/ "Language switcher : English")
-    * [![fr-flag](https://boomi.com/wp-content/themes/boomi/assets/images/france.svg)Français](https://boomi.com/fr/ "Language switcher : French")
-    * [![de-flag](https://boomi.com/wp-content/themes/boomi/assets/images/germany.svg)Deutsch](https://boomi.com/de/ "Language switcher : German")
-    * [![it-flag](https://boomi.com/wp-content/themes/boomi/assets/images/italy.svg)Italiano](https://boomi.com/it/ "Language switcher : Italian")
-    * [![ja-flag](https://boomi.com/wp-content/themes/boomi/assets/images/japan.svg)日本語](https://boomi.com/ja/ "Language switcher : Japanese")
+    * [![en-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![en-flag](https://boomi.com/wp-content/themes/boomi/assets/images/united-states.svg)
+        
+        English](https://boomi.com/ "Language switcher : English")
+    * [![fr-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![fr-flag](https://boomi.com/wp-content/themes/boomi/assets/images/france.svg)
+        
+        Français](https://boomi.com/fr/ "Language switcher : French")
+    * [![de-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![de-flag](https://boomi.com/wp-content/themes/boomi/assets/images/germany.svg)
+        
+        Deutsch](https://boomi.com/de/ "Language switcher : German")
+    * [![it-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![it-flag](https://boomi.com/wp-content/themes/boomi/assets/images/italy.svg)
+        
+        Italiano](https://boomi.com/it/ "Language switcher : Italian")
+    * [![ja-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![ja-flag](https://boomi.com/wp-content/themes/boomi/assets/images/japan.svg)
+        
+        日本語](https://boomi.com/ja/ "Language switcher : Japanese")
 * [Get started](javascript:;)
     * [Boomi Discover](https://discover.boomi.com/)
     * [Connectors](https://boomi.com/connectors/)
@@ -125,7 +189,11 @@
 
 [Start free trial](https://boomi.com/form/trial/)[View demo](https://boomi.com/boomi-product-demo/)[Login](https://platform.boomi.com/?_ga=2.140176439.544537635.1525375425-968405543.1525375425)
 
- [![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)[![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)
+[![Boomi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)[![Boomi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)
 
 * Platform
     
@@ -150,43 +218,59 @@
     
     Capabilities
     
-    * [![AI - Menu Icon](https://boomi.com/wp-content/uploads/AI-Menu-Icon.svg)
+    * [![AI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![AI - Menu Icon](https://boomi.com/wp-content/uploads/AI-Menu-Icon.svg)
         
         ###### Boomi AI
         
         Integrate and automate with generative AI](https://boomi.com/platform/ai/)
-    * [![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
+    * [![API Management - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
         
         ###### API management
         
         Simplify API deployment and management](https://boomi.com/platform/api-management/)
-    * [![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
+    * [![Integration - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
         
         ###### Integration
         
         Connect your applications and data](https://boomi.com/platform/integration/)
-    * [![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
+    * [![Hub - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
-        ###### Data management
+        ![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
         
-        Synchronized 360-degree view of your data](https://boomi.com/platform/datahub/)
+        ###### DataHub
+        
+        The foundation for trusted data](https://boomi.com/platform/datahub/)
     
-    * [![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
+    * [![Flow - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Flow - Menu Icon](https://boomi.com/wp-content/uploads/Flow-Menu-Icon.svg)
         
         ###### Flow
         
         Build and automate workflows with low-code](https://boomi.com/platform/flow/)
-    * [![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
+    * [![Event Streams - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Event Streams - Menu Icon](https://boomi.com/wp-content/uploads/Event-Streams-Menu-Icon.svg)
         
         ###### Events streams
         
         Create real-time, event-driven integrations](https://boomi.com/platform/events-streams/)
-    * [![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
+    * [![EDI - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![EDI - Menu Icon](https://boomi.com/wp-content/uploads/EDI-Menu-Icon.svg)
         
         ###### B2B/EDI management
         
         Collaborate with trading partners](https://boomi.com/platform/b2b-management/)
-    * [![Task Automation - Menu Icon](https://boomi.com/wp-content/uploads/Task-Automation-Menu-Icon.svg)
+    * [![Task Automation - Menu Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Task Automation - Menu Icon](https://boomi.com/wp-content/uploads/Task-Automation-Menu-Icon.svg)
         
         ###### Task automation
         
@@ -237,7 +321,19 @@
     
     [Explore all connectors](https://boomi.com/connectors/)
     
-    [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
+    [![Netsuite - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
     
     * [Start free trial](https://boomi.com/form/trial/)
     * [Request a demo](https://boomi.com/custom-demo-request/)
@@ -249,35 +345,51 @@
     
     [Explore all case studies](https://boomi.com/customers/)
     
-    [![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)
+    [![case-study-icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![case-study-icon](https://boomi.com/wp-content/uploads/case-study-icon.svg)
     
     ###### Explore all](https://boomi.com/customers/)
     
-    [![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)
+    [![Australian Red Cross - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Australian Red Cross - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Australian-Red-Cross-Menu-Case-Study-Logo.svg)
     
     ###### Australian Red Cross](https://boomi.com/customer/australian-red-cross/)
     
-    [![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)
+    [![American Cancer Society - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![American Cancer Society - Menu Case Study Logo](https://boomi.com/wp-content/uploads/American-Cancer-Society-Menu-Case-Study-Logo.svg)
     
     ###### American Cancer Society](https://boomi.com/customer/american-cancer-society/)
     
-    [![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)
+    [![23andMe - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![23andMe - Menu Case Study Logo](https://boomi.com/wp-content/uploads/23andMe-Menu-Case-Study-Logo.svg)
     
     ###### 23andMe](https://boomi.com/customer/23andme/)
     
-    [![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)
+    [![Dropbox Logo Color](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Dropbox Logo Color](https://boomi.com/wp-content/uploads/Dropbox-Logo-Color.svg)
     
     ###### Dropbox](https://boomi.com/customer/dropbox/)
     
-    [![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)
+    [![1200px-Cloudflare_logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![1200px-Cloudflare_logo](https://boomi.com/wp-content/uploads/1200px-Cloudflare_logo.png)
     
     ###### Cloudflare](https://boomi.com/customer/cloudflare/)
     
-    [![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)
+    [![Sky - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Sky - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Sky-Menu-Case-Study-Logo.png)
     
     ###### Sky](https://boomi.com/customer/sky/)
     
-    [![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)
+    [![Origin - Menu Case Study Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![Origin - Menu Case Study Logo](https://boomi.com/wp-content/uploads/Origin-Menu-Case-Study-Logo.svg)
     
     ###### Origin](https://boomi.com/customer/origin-energy/)
     
@@ -632,11 +744,15 @@ If you have questions about this Privacy Statement or would like to contact us f
     **Boomi BeNeLux B.V**.  
     Email: [privacy@boomi.com](mailto:privacy@boomi.com)
 
-[![Boomi](https://boomi.com/wp-content/uploads/Boomi-Logo-White-Footer.svg)](https://boomi.com/)
+[![Boomi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Boomi](https://boomi.com/wp-content/uploads/Boomi-Logo-White-Footer.svg)](https://boomi.com/)
 
 The #1 intelligent iPaaS for digital transformation.
 
-[![G2 Review - Footer 1 1](https://boomi.com/wp-content/uploads/G2-Review-Footer-1-1.svg)](https://www.g2.com/products/boomi/reviews)
+[![G2 Review - Footer 1 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![G2 Review - Footer 1 1](https://boomi.com/wp-content/uploads/G2-Review-Footer-1-1.svg)](https://www.g2.com/products/boomi/reviews)
 
 * [Platform](https://boomi.com/platform/)
     * [Boomi Enterprise Platform](https://boomi.com/platform/)
@@ -658,7 +774,7 @@ The #1 intelligent iPaaS for digital transformation.
     * [NetSuite](https://boomi.com/solutions/application/netsuite/)
     * [Workday](https://boomi.com/solutions/application/workday/)
     * [ServiceNow](https://boomi.com/solutions/application/servicenow/)
-    * [Slack](https://boomi.com/solutions/application/slack/)
+    * [AWS](https://boomi.com/solutions/application/aws/)
     * [All connectors](https://boomi.com/connectors/)
 * [Resources](https://boomi.com/resources)
     * [Blog](https://boomi.com/blog/)
