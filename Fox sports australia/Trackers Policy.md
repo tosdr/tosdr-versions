@@ -26,16 +26,36 @@ FOX SCORES
     | COK | 6   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240201)
-* [Men's PC
+* [Women's PC
     
-    26/10 19:10 AEST
+    27/10 13:35 AEST
     
     |     |     |
     | --- | --- |
-    | FIJ | –   |
-    | COK | –   |
+    | NZL | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240202)
+* [Men's PC
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | FIJ | 56  |
+    | COK | 6   |
     
     Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240201)
+* [Men's PC
+    
+    27/10 16:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NZL | –   |
+    | AUS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240202)
 * Netball
     
 * [Women's Test
@@ -52,16 +72,6 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3 Session 2
-    
-    |     |     |
-    | --- | --- |
-    | IND | 156 & 4 /143 |
-    | NZL | 259 & 255 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250302)
-* [Men's Test
-    
     PAK won by 9 wkts
     
     |     |     |
@@ -70,6 +80,26 @@ FOX SCORES
     | ENG | 267 & 112 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250203)
+* [Men's Test
+    
+    NZL won by 113 runs
+    
+    |     |     |
+    | --- | --- |
+    | IND | 156 & 245 |
+    | NZL | 259 & 255 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250302)
+* [Women's BBL
+    
+    27/10 13:40 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADE | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250101)
 * AFL
     
 * [AFL Women's
@@ -84,16 +114,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240903)
 * [AFL Women's
     
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | WCE | 2.3.15 |
-    | GEE | 4.0.24 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240905)
-* [AFL Women's
-    
     Complete
     
     |     |     |
@@ -104,12 +124,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240904)
 * [AFL Women's
     
-    26/10 20:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | ESS | –   |
-    | RIC | –   |
+    | WCE | 3.5.23 |
+    | GEE | 9.2.56 |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240905)
+* [AFL Women's
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | ESS | 6.6.42 |
+    | RIC | 6.6.42 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240906)
 * Motorsport
@@ -148,24 +178,34 @@ FOX SCORES
     
 * [NBL
     
-    4th Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SEM | 65  |
-    | ILL | 74  |
+    | SEM | 82  |
+    | ILL | 88  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060005/play-by-play)
 * [NBL
     
-    26/10 20:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | TAS | –   |
+    | BRI | 79  |
+    | TAS | 87  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060006)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060006/play-by-play)
+* [NBL
+    
+    27/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD | –   |
+    | NZB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25060007)
 * [NBA
     
     Full Time
@@ -276,21 +316,113 @@ FOX SCORES
     | LAC | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010052)
-* Football
+* [NBA
     
-* [Women's Int
-    
-    Full Time
+    27/10 10:00 AEST
     
     |     |     |
     | --- | --- |
-    | SUIW | 1   |
-    | AUSW | 1   |
+    | CHA | –   |
+    | MIA | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240104)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010058)
+* [NBA
+    
+    27/10 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DET | –   |
+    | BOS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010054)
+* [NBA
+    
+    27/10 10:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | WAS | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010056)
+* [NBA
+    
+    27/10 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIN | –   |
+    | TOR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011031)
+* [NBA
+    
+    27/10 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CHI | –   |
+    | OKC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010060)
+* [NBA
+    
+    27/10 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEM | –   |
+    | ORL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010062)
+* [NBA
+    
+    27/10 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | HOU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010064)
+* [NBA
+    
+    27/10 13:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PHO | –   |
+    | DAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010066)
+* [NBA
+    
+    27/10 13:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAL | –   |
+    | SAC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010068)
+* Rugby
+    
+* [Men's Test
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | JPN | 19  |
+    | NZL | 64  |
+    
+    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241101)
+* Football
+    
 * [A-League M
     
-    2nd Half
+    Full Time
     
     |     |     |
     | --- | --- |
@@ -300,34 +432,34 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250202)
 * [A-League M
     
-    26/10 19:35 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MCY | –   |
-    | MVC | –   |
+    | MCY | 1   |
+    | MVC | 3   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250203)
 * [A-League M
-    
-    26/10 21:45 AEST
-    
-    |     |     |
-    | --- | --- |
-    | PER | –   |
-    | WEL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250204)
-* [Premier League
     
     Full Time
     
     |     |     |
     | --- | --- |
-    | LEI | 1   |
-    | NOT | 3   |
+    | PER | 0   |
+    | WEL | 2   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250905)
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250204)
+* [A-League M
+    
+    27/10 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AFC | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250205)
 * [Premier League
     
     27/10 1:00 AEST
@@ -390,6 +522,16 @@ FOX SCORES
     | NYY | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024003002CB33C)
+* [MLB
+    
+    27/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAD | –   |
+    | NYY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240030024A93F)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
