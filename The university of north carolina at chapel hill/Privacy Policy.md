@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/DavieAwards04-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/ClemensHero-250x141.jpg)
     
-    Four honored with 2024 Davie Awards for service](https://www.unc.edu/posts/2024/10/22/four-honored-with-2024-davie-awards-for-service/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/24-7660-UCM-Decoding-Genetics-Header_D1.1-250x141.jpg)
+    Provost invested at American Academy of Sciences and Letters](https://www.unc.edu/posts/2024/10/25/provost-invested-at-american-academy-of-sciences-and-letters/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/Robotics_HERO-250x141.jpg)
     
-    Researchers help decode risk for psychiatric disorders](https://www.unc.edu/posts/2024/10/21/researchers-help-decode-risk-for-psychiatric-disorders/)
+    Robotics work heralds ‘discovery factories’](https://www.unc.edu/posts/2024/10/25/robotics-work-heralds-discovery-factories/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=1e6e8b039a&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=a177778fac&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
