@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    33 Halloween Books for Little Pumpkins
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+    
+    How To Read More in 2024
+    
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     Audiobooks for Kids
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
-
-* * *
-
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
