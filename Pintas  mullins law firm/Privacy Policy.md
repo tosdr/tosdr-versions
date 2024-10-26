@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is sexual questioning considered sexual abuse?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Is Sexual Questioning Considered Sexual Abuse?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/ "Is Sexual Questioning Considered Sexual Abuse?")
+[![Can chemo and radiation cure stage 3 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-chemo-and-radiation-cure-stage-3-lung-cancer.jpg "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/ "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")
 
-[#### Is Sexual Questioning Considered Sexual Abuse?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-questioning-considered-sexual-abuse/)
+[#### Can Chemo and Radiation Cure Stage 3 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/)
 
-[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
+[![Does mesothelioma affect both lungs?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-does-mesothelioma-affect-both-lungs.jpg "Does Mesothelioma Affect Both Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/ "Does Mesothelioma Affect Both Lungs?")
 
-[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
+[#### Does Mesothelioma Affect Both Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/)
 
-[![How long can you live with stage 4 mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-long-can-you-live-with-stage-4-mesothelioma.jpg "How Long Can You Live with Stage 4 Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/ "How Long Can You Live with Stage 4 Mesothelioma?")
+[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
 
-[#### How Long Can You Live with Stage 4 Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-long-can-you-live-with-stage-4-mesothelioma/)
+[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
