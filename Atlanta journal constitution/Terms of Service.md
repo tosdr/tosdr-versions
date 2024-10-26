@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Israel launches strikes on military targets in Iran, escalating Mideast wars](https://www.ajc.com/news/nation-world/israel-launches-strikes-on-military-targets-in-iran-escalating-mideast-wars/E2BOSJO4NJGL3IGLAXCAGIL47M/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1760)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1760)](https://www.ajc.com/)
 
 Log In
