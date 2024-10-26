@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Foundation-Craft](plugins/MineCraft/icons/25x25xFoundation-Craft_1694578831.png.pagespeed.ic.3NY6E8gU-J.png)
+[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
 
-Foundation Craft](https://minecraft-server.net/details/Foundation-Craft/ "Foundation Craft")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+TotalAnarchy](https://minecraft-server.net/details/Total__Anarchy/ "TotalAnarchy")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny") [Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
+
+Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06158 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06464 - Created by [Debaucus](https://debauc.us/)
