@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100272/nz-vs-ind-2nd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 2nd Test - NZ Won")[SL vs WI - Break](https://www.cricbuzz.com/live-cricket-scores/108275/sl-vs-wi-3rd-odi-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 3rd ODI - Break")[ENG vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101045/eng-vs-pak-3rd-test-england-tour-of-pakistan-2024 "England v Pakistan, 3rd Test - PAK Won")[INDW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/108681/indw-vs-nzw-2nd-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 2nd ODI - Preview")[ADSW vs BRHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101251/adsw-vs-brhw-1st-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Brisbane Heat Women, 1st Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs IND - NZ Won](https://www.cricbuzz.com/live-cricket-scores/100272/nz-vs-ind-2nd-test-new-zealand-tour-of-india-2024 "New Zealand v India, 2nd Test - NZ Won")[ENG vs PAK - PAK Won](https://www.cricbuzz.com/live-cricket-scores/101045/eng-vs-pak-3rd-test-england-tour-of-pakistan-2024 "England v Pakistan, 3rd Test - PAK Won")[SL vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/108275/sl-vs-wi-3rd-odi-west-indies-tour-of-sri-lanka-2024 "Sri Lanka v West Indies, 3rd ODI - WI Won")[INDW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/108681/indw-vs-nzw-2nd-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 2nd ODI - Preview")[ADSW vs BRHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101251/adsw-vs-brhw-1st-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Brisbane Heat Women, 1st Match - Preview")
 
 AllLive NowToday
 
@@ -74,7 +74,7 @@ AllLive NowToday
     
 * Sri Lanka v West Indies, 2024
     
-    [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108275/sl-vs-wi-3rd-odi-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 3rd ODI - Break")
+    [Sri Lanka vs West Indies](https://www.cricbuzz.com/live-cricket-scores/108275/sl-vs-wi-3rd-odi-sri-lanka-v-west-indies-2024 "Sri Lanka v West Indies, 3rd ODI - WI Won")
     
     3rd ODI
     
@@ -90,19 +90,9 @@ AllLive NowToday
     
     37th Match
     
-* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107025/usa-vs-nep-38th-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 38th Match - Upcoming")
+* [United States of America vs Nepal](https://www.cricbuzz.com/live-cricket-scores/107025/usa-vs-nep-38th-match-icc-cwc-league-two-2023-27 "United States of America v Nepal, 38th Match - Preview")
     
     38th Match
-    
-* ICC Mens T20 World Cup Sub Regional Africa Qualifier Group B, 2024
-    
-    [Gambia vs Mozambique](https://www.cricbuzz.com/live-cricket-scores/108515/gm-vs-moz-15th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Gambia v Mozambique, 15th Match - MOZ Won")
-    
-    15th Match
-    
-* [Zimbabwe vs Kenya](https://www.cricbuzz.com/live-cricket-scores/108513/zim-vs-ken-14th-match-icc-mens-t20-world-cup-sub-regional-africa-qualifier-group-b-2024 "Zimbabwe v Kenya, 14th Match - ZIM Won")
-    
-    14th Match
     
 * T20 LEAGUE
     
@@ -112,7 +102,7 @@ AllLive NowToday
     
     Qualifier 2
     
-* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/103602/lions-vs-tit-final-csa-t20-challenge "Lions v Titans, Final - Upcoming")
+* [Lions vs Titans](https://www.cricbuzz.com/live-cricket-scores/103602/lions-vs-tit-final-csa-t20-challenge "Lions v Titans, Final - Preview")
     
     Final
     
@@ -222,7 +212,7 @@ AllLive NowToday
     
     Semi Final 2 (B1 v A2)
     
-* [Sri Lanka A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107665/sla-vs-afga-final-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Afghanistan A, Final - Upcoming")
+* [Sri Lanka A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107665/sla-vs-afga-final-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Afghanistan A, Final - Preview")
     
     Final
     
@@ -244,11 +234,7 @@ AllLive NowToday
     
     New Zealand Women tour of India 2024
     
-    [India Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/108673/indw-vs-nzw-1st-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 1st ODI - INDW Won")
-    
-    1st ODI
-    
-* [India Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/108681/indw-vs-nzw-2nd-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 2nd ODI - Preview")
+    [India Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/108681/indw-vs-nzw-2nd-odi-new-zealand-women-tour-of-india-2024 "India Women v New Zealand Women, 2nd ODI - Preview")
     
     2nd ODI
     
@@ -272,7 +258,7 @@ AllLive NowToday
     
 * USA Women tour of Zimbabwe, 2024
     
-    [Zimbabwe Women vs United States of America Women](https://www.cricbuzz.com/live-cricket-scores/108705/zimw-vs-usaw-4th-odi-usa-women-tour-of-zimbabwe-2024 "Zimbabwe Women v United States of America Women, 4th ODI - Break")
+    [Zimbabwe Women vs United States of America Women](https://www.cricbuzz.com/live-cricket-scores/108705/zimw-vs-usaw-4th-odi-usa-women-tour-of-zimbabwe-2024 "Zimbabwe Women v United States of America Women, 4th ODI - ZIMW Won")
     
     4th ODI
     
@@ -282,11 +268,11 @@ AllLive NowToday
     
 * Greece Women v Bulgaria Women, 2024
     
-    [Greece Women vs Bulgaria Women](https://www.cricbuzz.com/live-cricket-scores/109148/grcw-vs-bgrw-1st-t20i-greece-women-v-bulgaria-women-2024 "Greece Women v Bulgaria Women, 1st T20I - Toss")
+    [Bulgaria Women vs Greece Women](https://www.cricbuzz.com/live-cricket-scores/109148/bgrw-vs-grcw-1st-t20i-greece-women-v-bulgaria-women-2024 "Bulgaria Women v Greece Women, 1st T20I - GRCW Won")
     
     1st T20I
     
-* [Greece Women vs Bulgaria Women](https://www.cricbuzz.com/live-cricket-scores/109155/grcw-vs-bgrw-2nd-t20i-greece-women-v-bulgaria-women-2024 "Greece Women v Bulgaria Women, 2nd T20I - Preview")
+* [Bulgaria Women vs Greece Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/109155/bgrw-vs-grcw-2nd-t20i-greece-women-v-bulgaria-women-2024 "Bulgaria Women v Greece Women, 2nd T20I - Live")
     
     2nd T20I
     
@@ -308,7 +294,7 @@ AllLive NowToday
     
     6th Match
     
-* [Singapore Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/108867/sinw-vs-mmrw-7th-match-singapore-womens-t20i-tri-series-2024 "Singapore Women v Myanmar Women, 7th Match - Upcoming")
+* [Singapore Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/108867/sinw-vs-mmrw-7th-match-singapore-womens-t20i-tri-series-2024 "Singapore Women v Myanmar Women, 7th Match - Preview")
     
     7th Match
     
@@ -623,41 +609,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132219/how-pakistan-spun-the-rawalpindi-narrative-for-glory "How Pakistan spun the Rawalpindi narrative for glory")
+  [](https://www.cricbuzz.com/cricket-news/132227/evin-lewis-ton-earns-consolation-win-for-wi "Evin Lewis ton earns consolation win for WI ")
 
-[How Pakistan spun the Rawalpindi narrative for glory](https://www.cricbuzz.com/cricket-news/132219/how-pakistan-spun-the-rawalpindi-narrative-for-glory "How Pakistan spun the Rawalpindi narrative for glory")
+[Evin Lewis ton earns consolation win for WI](https://www.cricbuzz.com/cricket-news/132227/evin-lewis-ton-earns-consolation-win-for-wi "Evin Lewis ton earns consolation win for WI ")
 
-1m ago
+35m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132218/shan-masood-relishes-pakistans-adaptability-and-sacrifices-of-his-batters "Shan Masood relishes Pakistan's 'adaptability' and 'sacrifices' of his batters")
+  [](https://www.cricbuzz.com/cricket-news/132226/we-wanted-to-fire-a-shot-first-up-and-i-certainly-think-weve-done-that-in-both-games "'We wanted to fire a shot first up and I certainly think we've done that in both games'")
 
-[Shan Masood relishes Pakistan's 'adaptability' and 'sacrifices' of his batters](https://www.cricbuzz.com/cricket-news/132218/shan-masood-relishes-pakistans-adaptability-and-sacrifices-of-his-batters "Shan Masood relishes Pakistan's 'adaptability' and 'sacrifices' of his batters")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132217/new-zealand-scale-this-generations-everest "New Zealand scale this generation's Everest ")
-
-[New Zealand scale this generation's Everest](https://www.cricbuzz.com/cricket-news/132217/new-zealand-scale-this-generations-everest "New Zealand scale this generation's Everest ")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132216/mitchell-santner-takes-13-as-india-drop-first-home-series-since-12 "Santner takes 13 as India drop first home series since '12")
-
-[Santner takes 13 as India drop first home series since '12](https://www.cricbuzz.com/cricket-news/132216/mitchell-santner-takes-13-as-india-drop-first-home-series-since-12 "Santner takes 13 as India drop first home series since '12")
+['We wanted to fire a shot first up and I certainly think we've done that in both games'](https://www.cricbuzz.com/cricket-news/132226/we-wanted-to-fire-a-shot-first-up-and-i-certainly-think-weve-done-that-in-both-games "'We wanted to fire a shot first up and I certainly think we've done that in both games'")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132215/usa-cricket-sacks-head-coach-stuart-law-following-allegations "USA Cricket sacks head coach Stuart Law following allegations")
+  [](https://www.cricbuzz.com/cricket-news/132225/india-left-to-ponder-over-shattered-home-invincibility "India left to ponder over shattered home invincibility")
 
-[USA Cricket sacks head coach Stuart Law following allegations](https://www.cricbuzz.com/cricket-news/132215/usa-cricket-sacks-head-coach-stuart-law-following-allegations "USA Cricket sacks head coach Stuart Law following allegations")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132214/currie-mcmullen-and-umeed-steamroll-usa "Currie, McMullen and Umeed steamroll USA")
-
-[Currie, McMullen and Umeed steamroll USA](https://www.cricbuzz.com/cricket-news/132214/currie-mcmullen-and-umeed-steamroll-usa "Currie, McMullen and Umeed steamroll USA")
+[India left to ponder over shattered home invincibility](https://www.cricbuzz.com/cricket-news/132225/india-left-to-ponder-over-shattered-home-invincibility "India left to ponder over shattered home invincibility")
 
 3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132224/need-to-find-ways-of-scoring-runs-to-put-bowlers-under-pressure-rohit-sharma "Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma")
+
+[Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma](https://www.cricbuzz.com/cricket-news/132224/need-to-find-ways-of-scoring-runs-to-put-bowlers-under-pressure-rohit-sharma "Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132223/csk-look-ahead-as-dhoni-clears-the-air-over-ipl-participation "CSK look ahead as Dhoni clears the air over IPL participation")
+
+[CSK look ahead as Dhoni clears the air over IPL participation](https://www.cricbuzz.com/cricket-news/132223/csk-look-ahead-as-dhoni-clears-the-air-over-ipl-participation "CSK look ahead as Dhoni clears the air over IPL participation")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132222/wtc-scenarios-india-cede-sure-footing-to-resurgent-new-zealand "WTC scenarios: India cede sure footing; Resurgent NZ make their way up")
+
+[WTC scenarios: India cede sure footing; Resurgent NZ make their way up](https://www.cricbuzz.com/cricket-news/132222/wtc-scenarios-india-cede-sure-footing-to-resurgent-new-zealand "WTC scenarios: India cede sure footing; Resurgent NZ make their way up")
+
+5h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
