@@ -12,8 +12,8 @@ Menu
     
     TOP STORIES
     
+    * [Israel attacks Iran in series of pre-dawn airstrikes targeting military infrastructure](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
     * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [Israel strikes Iran as payback for missile attack, risking escalation of Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
     
     Newsletters
@@ -93,8 +93,8 @@ Menu
     TOP STORIES
     
     * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Bronny James expected to begin splitting time between Lakers, G League team after trip](https://apnews.com/article/lakers-bronny-reddick-e99fe792df4b26074407c4c8694060db)
-    * [Towns, Brunson help Knicks roll to a 123-98 victory over the Pacers in their home opener](https://apnews.com/article/pacers-knicks-score-ae1fb45f46cdf190337c0d4f5af061fa)
+    * [Freddie Freeman's World Series grand slam sparks a joyous family moment in a difficult year](https://apnews.com/article/world-series-freddie-freeman-183b452a84d0d3c18832c960a388b062)
+    * [Reddick's plan to give Davis an increased role has led to 2-0 start for Lakers](https://apnews.com/article/lakers-reddick-davis-6c55a6c31d035cc1ee90410af710c691)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
+    * [Las guerras afectan a más de 600 millones de mujeres y niñas, según la ONU](https://apnews.com/article/naciones-unidas-mujer-guerra-igualdad-genero-15fbc70f3d37aa3cc9b72ebb2564768a)
     * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Vistazo al contacto de Musk con Putin y por qué es importante](https://apnews.com/article/musk-putin-elecciones-eeuu-6f52ee22a9ba2947c9b61a73ec4e4678)
-    * [Rusos crearon video falso que muestra destrucción de boletas con votos por Trump, dice FBI](https://apnews.com/article/eeuu-elecciones-desinformacion-rusia-fbi-trump-moscu-761daa2421441adfb9bb1fa5b92054d6)
-    * [Gobierno colombiano alcanza acuerdo con mineros y sigue dialogando con campesinos que bloquean vías](https://apnews.com/article/protesta-mineros-campesinos-colombia-paramos-609d4d0c6ecb9bc2172e2d06b5664013)
+    * [Choque de avionetas ligeras en pleno vuelo causa 3 muertos en Australia](https://apnews.com/article/australia-accidente-avion-5e16654e14d73c40faa12d7034d73c1e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,8 +460,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Israel attacks Iran in series of pre-dawn airstrikes targeting military infrastructure](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
     * [Here's a look at what came out of Blinken's 11th trip to the Middle East](https://apnews.com/article/us-israel-gaza-lebanon-hamas-blinken-c450119702081057ff6c816d6a19e51a)
-    * [Israel strikes Iran as payback for missile attack, risking escalation of Mideast wars](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-25-2024-0920f63542d158ad5999c481e421da00)
     * [An Israeli airstrike killed journalists covering the war in Lebanon as they slept](https://apnews.com/article/journalists-killed-lebanon-israel-c89cf1109daaf3e6e7b766584710234d)
     
     Newsletters
@@ -563,8 +563,8 @@ Submit Search
     TOP STORIES
     
     * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Bronny James expected to begin splitting time between Lakers, G League team after trip](https://apnews.com/article/lakers-bronny-reddick-e99fe792df4b26074407c4c8694060db)
-    * [Towns, Brunson help Knicks roll to a 123-98 victory over the Pacers in their home opener](https://apnews.com/article/pacers-knicks-score-ae1fb45f46cdf190337c0d4f5af061fa)
+    * [Freddie Freeman's World Series grand slam sparks a joyous family moment in a difficult year](https://apnews.com/article/world-series-freddie-freeman-183b452a84d0d3c18832c960a388b062)
+    * [Reddick's plan to give Davis an increased role has led to 2-0 start for Lakers](https://apnews.com/article/lakers-reddick-davis-6c55a6c31d035cc1ee90410af710c691)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
+    * [Las guerras afectan a más de 600 millones de mujeres y niñas, según la ONU](https://apnews.com/article/naciones-unidas-mujer-guerra-igualdad-genero-15fbc70f3d37aa3cc9b72ebb2564768a)
     * [Irán dice que ataques israelíes contra bases militares en 3 provincias causaron "daños limitados"](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-f0a6db87285f6e3171656da73e369dc4)
     * [Violento inicio de gobierno de presidenta de México plantea dudas sobre estrategia de seguridad](https://apnews.com/article/mexico-violencia-carteles-ejercito-sheinbaum-c6ca13037c5117bb670266d42202b6bb)
     * [Astrónomos aficionados protegen el cielo nocturno de México para la próxima generación](https://apnews.com/article/astronomia-estrellas-mexico-cielos-nocturnos-e8ce9978e0dd8967df9f92bf571aa49c)
-    * [Vistazo al contacto de Musk con Putin y por qué es importante](https://apnews.com/article/musk-putin-elecciones-eeuu-6f52ee22a9ba2947c9b61a73ec4e4678)
-    * [Rusos crearon video falso que muestra destrucción de boletas con votos por Trump, dice FBI](https://apnews.com/article/eeuu-elecciones-desinformacion-rusia-fbi-trump-moscu-761daa2421441adfb9bb1fa5b92054d6)
-    * [Gobierno colombiano alcanza acuerdo con mineros y sigue dialogando con campesinos que bloquean vías](https://apnews.com/article/protesta-mineros-campesinos-colombia-paramos-609d4d0c6ecb9bc2172e2d06b5664013)
+    * [Choque de avionetas ligeras en pleno vuelo causa 3 muertos en Australia](https://apnews.com/article/australia-accidente-avion-5e16654e14d73c40faa12d7034d73c1e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
