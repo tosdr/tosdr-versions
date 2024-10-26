@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+*  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
     [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-    ==================================================================================================================
+    [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    =============================================================================================================
     
-    It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
+    If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
     
-    By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+    By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
     
-* *  [![Miley Cyrus](https://www.women.com/img/gallery/miley-cyrus-is-childless-by-choice-her-heartbreaking-reason-makes-so-much-sense/intro-1729705548.jpg)](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+* *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1729581051.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
-        [Politics](https://www.women.com/category/politics/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Miley Cyrus Is Childless By Choice & Her Heartbreaking Reason Makes So Much Sense](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+        ### [5 Sabrina Carpenter Outfits That Totally Missed The Mark](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
-        For some, it's a matter of not wanting kids. For others, like Miley Cyrus, there's specific reasoning behind living a child free life.
+        With how good Sabrina Carpenter is at looking glamorous, you'd think we're talking nonsense when we say she's had some outfit fails.
         
-        By Amanda Chatel [Read More](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+        By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
-    *  [![Prince Harry and Meghan Markle](https://www.women.com/img/gallery/weird-things-about-meghan-markle-prince-harrys-relationship-we-cant-ignore/intro-1729696483.jpg)](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    *  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Weird Things About Meghan Markle & Prince Harry's Relationship We Can't Ignore](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+        ### [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
         
-        Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
+        It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
         
-        By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+        By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
         
 
 More Stories
 ------------
 
+*  [![Miley Cyrus](https://www.women.com/img/gallery/miley-cyrus-is-childless-by-choice-her-heartbreaking-reason-makes-so-much-sense/intro-1729705548.jpg)](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [Miley Cyrus Is Childless By Choice & Her Heartbreaking Reason Makes So Much Sense](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+    
+    For some, it's a matter of not wanting kids. For others, like Miley Cyrus, there's specific reasoning behind living a child free life.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
+    
+*  [![Prince Harry and Meghan Markle](https://www.women.com/img/gallery/weird-things-about-meghan-markle-prince-harrys-relationship-we-cant-ignore/intro-1729696483.jpg)](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    
+    ### [Weird Things About Meghan Markle & Prince Harry's Relationship We Can't Ignore](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    
+    Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
+    
+    By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    
 *  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
     
     [Wellness](https://www.women.com/category/wellness/)
@@ -381,30 +405,6 @@ More Stories
     Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
     
     By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-    
-*  [![Kristen Stewart at an event](https://www.women.com/img/gallery/5-kristen-stewart-looks-that-bella-swan-wouldve-hated/intro-1728592311.jpg)](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [5 Kristen Stewart Looks That Bella Swan Would've Hated](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
-    
-    We get that K.Stew and Bella probably wouldn't have shared a closet, but let's say some of the actor's looks would send her "Twilight" character into hiding.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1685585/kristen-stewart-looks-bella-swan-twilight-would-hate/)
-    
-*  [![Julia Roberts](https://www.women.com/img/gallery/julia-robertss-most-iconic-hair-looks-of-all-time/intro-1728426066.jpg)](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Julia Roberts's Most Iconic Hair Looks Of All Time](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
-    
-    While the thought of Julia Roberts is likely to conjure thoughts of big, curly hair, the actress has experimented with far more looks than just that.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
     
 
 Back
