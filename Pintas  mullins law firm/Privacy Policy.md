@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can chemo and radiation cure stage 3 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-chemo-and-radiation-cure-stage-3-lung-cancer.jpg "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/ "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")
+[![What percentage of lung nodules turn out to be cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-lung-nodules-turn-out-to-be-cancer.jpg "What Percentage of Lung Nodules Turn Out to Be Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/ "What Percentage of Lung Nodules Turn Out to Be Cancer?")
 
-[#### Can Chemo and Radiation Cure Stage 3 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/)
+[#### What Percentage of Lung Nodules Turn Out to Be Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/)
 
-[![Does mesothelioma affect both lungs?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-does-mesothelioma-affect-both-lungs.jpg "Does Mesothelioma Affect Both Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/ "Does Mesothelioma Affect Both Lungs?")
+[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
 
-[#### Does Mesothelioma Affect Both Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/)
+[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
 
-[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
+[![Can you put a camera in a nursing home room?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-put-a-camera-in-a-nursing-home-room.jpg "Can You Put a Camera in a Nursing Home Room?")](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/ "Can You Put a Camera in a Nursing Home Room?")
 
-[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
+[#### Can You Put a Camera in a Nursing Home Room?](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/)
 
 ### Injured?  
 Tell Us What Happened.
