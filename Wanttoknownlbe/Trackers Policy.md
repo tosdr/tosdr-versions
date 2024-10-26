@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/klimaat/bosbranden-canada-klimaat-ontkenner-verzon-list/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/ex-minister-kinderen-vanuit-thuis-aan-pedofielen-geleverd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
