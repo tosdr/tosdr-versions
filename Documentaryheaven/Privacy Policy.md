@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+    
+    The Beginning and the End of the Universe
+    
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
     
     The Next Great Extinction Event
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Beavers: More Than A Softball Team](/wp-content/thumbnails/7637-100x70.jpg?x53432)
+* [![The Cuban Skateboard Crisis](/wp-content/thumbnails/7031-100x70.jpg?x53432)
     
-    The Beavers: More Than A Softball Team
+    The Cuban Skateboard Crisis
     
-    Softball teams come and go, but sometimes a group of guys get together to form a team that goes beyond the ball field. This is the story of co-workers at the New York Telephone Company back in the the](https://documentaryheaven.com/beavers-more-than-softball-team/ "The Beavers: More Than A Softball Team")
-* [![The Extraordinary Case of Alex Lewis](/wp-content/thumbnails/14125-100x70.jpeg?x53432)
+    A short Documentary filmed in Cuba exploring the problems faced by young Cuban skateboarders due to the trade embargo’s with the US. Produced, Directed & Filmed by Phil Brown.](https://documentaryheaven.com/the-cuban-skateboard-crisis/ "The Cuban Skateboard Crisis")
+* [![CRY WOLF: An Unethical Oil Story](/wp-content/thumbnails/6523-100x70.jpg?x53432)
     
-    The Extraordinary Case of Alex Lewis
+    CRY WOLF: An Unethical Oil Story
     
-    This is the incredible story of Alex Lewis, a husband and father of one who back in late 2013 came down with a dose of the common cold, this minor ailment swiftly took a turn for the worse developing](https://documentaryheaven.com/extraordinary-case-of-alex-lewis/ "The Extraordinary Case of Alex Lewis")
-* [![Trench Town: The Forgotten Land](/wp-content/thumbnails/8340-100x70.jpg?x53432)
+    DeSmogBlog investigates the controversial decision by Alberta's government to ignore the threat of rapid industrial expansion in the Alberta Tar Sands region, and instead kill thousands of wolves to a](https://documentaryheaven.com/cry-wolf-an-unethical-oil-story/ "CRY WOLF: An Unethical Oil Story")
+* [![Charlie Brooker’s Screenwipe](/wp-content/thumbnails/6089-100x70.jpg?x53432)
     
-    Trench Town: The Forgotten Land
+    Charlie Brooker’s Screenwipe
     
-    Trench Town is a powerful look into the lives of the children living there. As one boy says, “Every morning as I rise, I hear gunshots firing”. Indeed, as we follow the children to school we can see g](https://documentaryheaven.com/trench-town/ "Trench Town: The Forgotten Land")
-* [![The Nuclear Option](/wp-content/thumbnails/14581-100x70.jpg?x53432)
+    Screenwipe is a television programme, presented by comedian Charlie Brooker, which reviews other British television programmes with a caustic and humorous tone. Brooker analyses specific programmes a](https://documentaryheaven.com/charlie-brookers-screenwipe/ "Charlie Brooker’s Screenwipe")
+* [![UFO: The Greatest Story Ever Denied](/wp-content/thumbnails/963-100x70.jpg?x53432)
     
-    The Nuclear Option
+    UFO: The Greatest Story Ever Denied
     
-    In Japan the bright lights never stop burning, the nation has an insatiable for energy but with virtually no natural resources to generate it. In order to meet demand for their electrical needs h](https://documentaryheaven.com/nuclear-option/ "The Nuclear Option")
-* [![The Library of Alexandria](/wp-content/thumbnails/12021-100x70.jpg?x53432)
+    Somewhere in the back of your mind, you’ve always known it was true. Special Features: Trevor James Constable – Critter footage that has never been released for over fifty years that reveals entities](https://documentaryheaven.com/ufo-the-greatest-story-ever-denied/ "UFO: The Greatest Story Ever Denied")
+* [![Ebola: The Search for a Cure](/wp-content/thumbnails/9205-100x70.jpg?x53432)
     
-    The Library of Alexandria
+    Ebola: The Search for a Cure
     
-    Constructed and established in the 3rd century BC, The Royal Library of Alexandria located in Alexandria, Egypt was one of the largest and most significant libraries of the ancient world. It was](https://documentaryheaven.com/library-of-alexandria/ "The Library of Alexandria")
+    Nobody really knows where the Ebola virus comes from but whats even scarier is the fact that his recent outbreak is the worst Ebola epidemic the world has ever seen, with the current death toll claimi](https://documentaryheaven.com/ebola-search-cure/ "Ebola: The Search for a Cure")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
