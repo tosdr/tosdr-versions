@@ -332,6 +332,22 @@ Recurs yearly
 
 1991
 
+### November 2024
+
+#### Fri, Nov 1
+
+Harry is left with the Dursleys; wizarding world celebrates the fall of Voldemort
+
+Recurs yearly
+
+1981
+
+Natalia Tena's birthday
+
+Recurs yearly
+
+Nymphadora Tonks
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -342,15 +358,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
+Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
 
 ### Potter History
 
-January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
+May 21, 2013 – An annotated first edition of Harry Potter and the Philosopher’s Stone is sold at a Sotheby’s auction for £150,000. The proceeds were donated to English PEN and Lumos.
 
 ### Potter Quote
 
-“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
+“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
 
 [](#)
 
