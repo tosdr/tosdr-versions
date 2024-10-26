@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-strijd-om-de-bloedlijnen-en-onze-vrije-wil/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-onbenutte-kracht-van-lachen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
