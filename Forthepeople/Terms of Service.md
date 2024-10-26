@@ -273,7 +273,7 @@ Zip Code
 
 E-mail 
 
-\- Case Type - \- Case Type -Airbag InjuryAnimal AttackBirth InjuryBusiness DisputeCar AccidentChildhood Sex AbuseCivil RightsClass ActionDangerous DrugsData BreachDefective ProductsEmployment IssueEnvironmental IssuesGardasilHair RelaxerHurt at WorkInsurance DisputeMaui WildfireMedical InjuryMesotheliomaNursing HomeOtherOther InjuryProduct InjurySlip & FallSocial Media HarmSocial SecurityTepezzaTrip and FallUnpaid Wages/EarningsVeteran DisabilityWeight Loss DrugWorkplace Discrimination
+\- Case Type - \- Case Type -Airbag InjuryAnimal AttackBirth InjuryBusiness DisputeCar AccidentChildhood Sex AbuseCivil RightsClass ActionDangerous DrugsData BreachDefective ProductsEmployment IssueEnvironmental IssuesGardasilGeorgia BioLab DisasterHair RelaxerHurt at WorkInsurance DisputeMaui WildfireMedical InjuryMesotheliomaNursing HomeOtherOther InjuryProduct InjurySlip & FallSocial Media HarmSocial SecurityTepezzaTrip and FallUnpaid Wages/EarningsVeteran DisabilityWeight Loss DrugWorkplace Discrimination
 
 Please describe what happened
 
