@@ -1,6 +1,6 @@
 ![search](data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23111' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-search'%3e%3ccircle cx='11' cy='11' r='8'%3e%3c/circle%3e%3cline x1='21' y1='21' x2='16.65' y2='16.65'%3e%3c/line%3e%3c/svg%3e)
 
-Luni, 21 Octombrie 2024
+Sâmbătă, 26 Octombrie 2024
 
 [![Adevărul](/logo.svg)](https://adevarul.ro/ "Adevărul")
 
