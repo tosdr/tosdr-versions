@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 732 active visitors** | **Friday, October 25, 2024** |
+| **You are 1 of 670 active visitors** | **Saturday, October 26, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**War is an ugly thing but not the ugliest of things; the decayed and degraded state of moral and patriotic feelings which thinks that nothing is worth war is much worse. A man who has nothing for which he is willing to fight, nothing which is more important than his own personal safety, is a miserable creature and has no chance of being free unless made and kept so by the exertions of better men than himself. � John Stuart Mills
+ **QUOTES TO REMEMBER**Without freedom there will be no firearms among the people; without firearms among the people there will not long be freedom. Certainly there are examples of countries where the people remain relatively free after the people have been disarmed, but there are no examples of a totalitarian state being created or existing where the people have personal arms. � Neal Knox
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
