@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Sneha and Abhay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Nikita and Philippe](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Sneha and Abhay](https://image.wedmegood.com/resized/250X/uploads/images/648ecd00a66d4130aaa87198aa524553realwedding/663101739720a80008a94781_1714487667872.jpeg?crop=4,729,859,483)
+![Nikita and Philippe](https://image.wedmegood.com/resized/250X/uploads/images/1baadfbd05c44dd580f07a0af22711ddrealwedding/Snapinsta.app_457518821_18455163016055408_385776897293784825_n_1080.jpg?crop=113,483,858,482)
 
-Sneha and Abhay (Mumbai)](https://www.wedmegood.com/real_wedding/detail/sneha-and-abhay-mumbai-cross-culture-wedding-4413)
+Nikita and Philippe (Udaipur)](https://www.wedmegood.com/real_wedding/detail/nikita-and-philippe-udaipur-cross-culture-wedding-4416)
 
-[![Shivani and Bonish](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Lavina and Dharmesh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Shivani and Bonish](https://image.wedmegood.com/resized/250X/uploads/images/8f47755b68634cf199304dea58c9ef77realwedding/IMG_0055.jpeg?crop=215,326,1626,914)
+![Lavina and Dharmesh](https://image.wedmegood.com/resized/250X/uploads/images/6395969358d345b7bed68add0b1a6d54realwedding/WK900491.jpg?crop=316,355,1626,914)
 
-Shivani and Bonish (Jaipur)](https://www.wedmegood.com/real_wedding/detail/shivani-and-bonish-jaipur-cross-culture-wedding-4412)
+Lavina and Dharmesh (Mumbai)](https://www.wedmegood.com/real_wedding/detail/lavina-and-dharmesh-mumbai-cross-culture-wedding-4415)
 
 Browse by Category
 
