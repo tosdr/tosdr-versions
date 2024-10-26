@@ -16,7 +16,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/339095948682)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/bf8c50d44052)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -57,7 +57,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/339095948682)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/bf8c50d44052)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Pretty Little PoisonWarren Zeiders<br><br>11:37am |
-| Holy SmokesBailey Zimmerman<br><br>11:34am |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:31am |
-| Where The Green Grass GrowsTim Mcgraw<br><br>11:28am |
-| AustinDasha<br><br>11:25am |
+| Miles On ItKane Brown Ft Marshmello<br><br>5:40pm |
+| Hotel KeyOld Dominion<br><br>5:37pm |
+| Watermelon MoonshineLainey Wilson<br><br>5:34pm |
+| Big Green TractorJason Aldean<br><br>5:25pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -366,13 +366,13 @@ Spanish • Western
 
 Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
