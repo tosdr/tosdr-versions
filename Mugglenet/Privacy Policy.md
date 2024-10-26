@@ -342,15 +342,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Forty versions of Salazar Slytherin’s infamous locket had to be created to accommodate Harry Potter and Ron Weasley’s failed attempts to destroy it during filming.
+The Ripley Scroll (England, 1570) teaches readers how to create the philosopher’s stone.
 
 ### Potter History
 
-May 10, 2006 – The Harry Potter and the Goblet of Fire DVD sets a world record.
+January 29, 2006 – Harry Potter and the Goblet of Fire is announced as the eighth-highest grossing film of all time.
 
 ### Potter Quote
 
-“Hey! Mr. English guy! I think your egg is hatching!”
+“That brings \[Trelawney’s\] total of real predictions up to two. I should offer her a pay raise. . . .”
 
 [](#)
 
