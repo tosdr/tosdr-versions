@@ -137,4 +137,4 @@ A portion of the sale from items purchased through the Amazon, GamesPlanet, Best
 * [Like on Facebook](https://facebook.com/OpenCriticDotCom)
 * [Follow on Twitter](https://twitter.com/Open_Critic)
 
-© 2024 Copyright: OpenCritic Inc, a [Valnet, Inc.](https://www.valnetinc.com/odyssey) publication
+Copyright © 2024 [Valnet Inc.](https://www.valnetinc.com/odyssey)
