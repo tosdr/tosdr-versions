@@ -769,11 +769,11 @@ Vyhledat pro:
 SEO, copy & online byznys
 -------------------------
 
+* [Google zruší vyhledávací pole u webů v SERP](https://danielberanek.cz/google-zrusi-vyhledavaci-pole-u-webu-v-serp/)
 * [#AI autorem? ´si děláš kozy, ne?](https://danielberanek.cz/ai-autorem-si-delas-kozy-ne/)
 * [Učitel vědomí AI Daniel Beránek](https://danielberanek.cz/ucitel-vedomi-ai-daniel-beranek/)
 * [Jedna Valentýnská: jak se Topface zamilovala do svého infiltrátora](https://danielberanek.cz/jedna-valentynska-jak-se-topface-zamilovala-do-sveho-infiltratora/)
 * [Odkryj aj neznámu vo Svete hľadaní Seznamu](https://danielberanek.cz/odkryj-aji-neznamu-vo-svetu-hledani-seznamu/)
-* [3\. konverzace s Bing AI](https://danielberanek.cz/3-konverzace-s-bing-ai/)
 
 [AI](https://danielberanek.cz/tags/ai/) [Anonymous](https://danielberanek.cz/tags/anonymous/) [Apple](https://danielberanek.cz/tags/apple/) [Avast](https://danielberanek.cz/tags/avast/) [Chrome](https://danielberanek.cz/tags/chrome/) [Chromium](https://danielberanek.cz/tags/chromium/) [Copywriter](https://danielberanek.cz/tags/copywriter/) [Copywriting](https://danielberanek.cz/tags/copywriting/) [E-commerce](https://danielberanek.cz/tags/e-commerce/) [Edge](https://danielberanek.cz/tags/edge/) [Facebook](https://danielberanek.cz/tags/facebook/) [Firefox](https://danielberanek.cz/tags/firefox/) [Google](https://danielberanek.cz/tags/google/) [Kyberbezpečnost](https://danielberanek.cz/tags/kyberbezpecnost/) [Letem online světem](https://danielberanek.cz/tags/letem-online-svetem/) [Live chat](https://danielberanek.cz/tags/live-chat/) [Microsoft](https://danielberanek.cz/tags/microsoft/) [Mozilla](https://danielberanek.cz/tags/mozilla/) [Obrázkové formáty](https://danielberanek.cz/tags/obrazkove-formaty/) [Opera](https://danielberanek.cz/tags/opera/) [Prohlížeč](https://danielberanek.cz/tags/prohlizec/) [SEO](https://danielberanek.cz/tags/seo/) [SEO konzultant](https://danielberanek.cz/tags/seo-konzultant/) [Seznam.cz](https://danielberanek.cz/tags/seznam/) [Smartsupp](https://danielberanek.cz/tags/smartsupp/) [SSODS](https://danielberanek.cz/tags/ssods/) [Technické SEO](https://danielberanek.cz/tags/technicke-seo/) [Umělá inteligence](https://danielberanek.cz/tags/umela-inteligence/) [Vivaldi](https://danielberanek.cz/tags/vivaldi/) [Vyhledávání](https://danielberanek.cz/tags/vyhledavani/) [Windows](https://danielberanek.cz/tags/windows/) [WordPress](https://danielberanek.cz/tags/wordpress/)
 
