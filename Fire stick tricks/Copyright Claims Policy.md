@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [Is HiAnime Safe & Legal? Everything You Need to Know](https://www.firesticktricks.com/is-hianime-safe-and-legal.html)
-* [15 CouchTuner Alternatives (That Really Work) in 2024](https://www.firesticktricks.com/couchtuner-alternatives-2.html)
-* [How to Install Kaito Kodi Addon on FireStick](https://www.firesticktricks.com/kaito-kodi-addon.html)
-* [How to Install MP3 Streams Kodi Addon on FireStick](https://www.firesticktricks.com/mp3-streams-kodi-addon.html)
-* [How to Install Samsung TV Plus Kodi Addon on FireStickdfgvcv1](https://www.firesticktricks.com/samsung-tv-plus-kodi-addon.html)
+* [30 Best Sites to Watch TV Shows Online for FREE (2024)](https://www.firesticktricks.com/watch-tv-shows-online-for-free.html)
+* [26 Best Free Online Movie Streaming Sites (Oct 2024)](https://www.firesticktricks.com/free-movie-streaming-sites.html)
+* [Is 123Movies Safe and Legal? Everything You Need to Know](https://www.firesticktricks.com/is-123movies-safe-and-legal.html)
+* [How to Install WatchNixtoons2 Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/watchnixtoons2-kodi-addon.html)
+* [How to Install Sport HD Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/sporthd-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
