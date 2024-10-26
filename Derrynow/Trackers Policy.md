@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-25 Oct 2024
+26 Oct 2024
 
 * [Home
     
@@ -266,6 +266,13 @@ Most Popular
 [Derry Death Notices - Friday, October 25 2024](https://www.derrynow.com/news/deaths/1638848/derry-death-notices-friday-october-25-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Who are the guests on tonight's RTE Late Late Show? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's RTE Late Late Show? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's RTE Late Late Show? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co. Tyrone man admits assaulting girlfriend during romantic stay in Derry hotel")](https://www.derrynow.com/news/local-news/1639632/co-tyrone-man-admits-assaulting-girlfriend-during-romantic-stay-in-derry-hotel.html)
 
 Derry Crown Court
@@ -284,33 +291,12 @@ Hannah McCloskey
 [Derry girl bringing Depop in real life back for a second time](https://www.derrynow.com/news/arts---entertainment/1639377/derry-girl-bringing-depop-in-real-life-back-for-a-second-time.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Conditional discharge for woman charged with assault and criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conditional discharge for woman charged with assault and criminal damage")](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Conditional discharge for woman charged with assault and criminal damage](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Polish man who broke partner's jaw jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who are the guests on tonight's RTE Late Late Show? Here's the line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's RTE Late Late Show? Here's the line-up")](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's RTE Late Late Show? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1639238/who-are-the-guests-on-tonight-s-rte-late-late-show-here-s-the-line-up.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man admits breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits breaching non-molestation order")](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man admits breaching non-molestation order](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 
@@ -319,12 +305,26 @@ Hannah McCloskey
 [PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
+[![Polish man who broke partner's jaw jailed at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Conditional discharge for woman charged with assault and criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conditional discharge for woman charged with assault and criminal damage")](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Conditional discharge for woman charged with assault and criminal damage](https://www.derrynow.com/news/local-news/1639529/conditional-discharge-for-woman-charged-with-assault-and-criminal-damage.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man admits breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man admits breaching non-molestation order")](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man admits breaching non-molestation order](https://www.derrynow.com/news/local-news/1639487/derry-man-admits-breaching-non-molestation-order.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man facing number of drugs charges returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1639391/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 
@@ -515,7 +515,25 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 2,300 patients at GP practice set to be transferred to neighbouring health centres")](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
+
+Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Miller, Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City title hopes end with defeat at St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival")](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
+
+One of the Mellow Deeds choir in full flow on Friday morning. (Photo: Jim McCafferty Photography)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/resizer/165/93/true/2024_10_25/CDP_-_29-10-24_-_Page_9_lead_pic-1729865781892_1729865982.JPG--.JPG?1729865982665 "More than 2,300 patients at GP practice set to be transferred to neighbouring health centres")](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
 
 Fairhill Medical Practice will close its doors on Thursday.
 
@@ -524,7 +542,7 @@ Fairhill Medical Practice will close its doors on Thursday.
 [More than 2,300 patients at GP practice set to be transferred to neighbouring health centres](https://www.derrynow.com/news/home/1639750/more-than-2-300-patients-at-gp-practice-set-to-be-transferred-to-neighbouring-health-centres.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024")](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
+[![Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024](https://www.derrynow.com/resizer/165/93/true/2024_10_25/Causeway_Coast_and_Glens-1729872962375.jpg--.jpg?1729872963960 "Coleraine takes home third successive Best Large Town title at Translink Ulster in Bloom Awards 2024")](https://www.derrynow.com/news/home/1640026/coleraine-takes-home-third-successive-best-large-town-title-at-translink-ulster-in-bloom-awards-2024.html)
 
 John Thompson, Head of Safety and Corporate Responsibility, Translink; Noel Davoren, Estates Manager, CCGBC; Councillor Frances Burton, representing NILGA; and Damien Guy, Estates Supervisor, CCGBC.
 
@@ -548,22 +566,6 @@ Derry Crown Court
 
 [Mayor urges public to stay safe at Derry Halloween celebrations](https://www.derrynow.com/news/local-news/1639628/mayor-urges-public-to-stay-safe-at-derry-halloween-celebrations.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dearbhaile Brady with her Nestlé Outstanding Games Debut award.](https://www.derrynow.com/resizer/165/93/true/2024_10_25/2969153-1729858584758.jpg--.jpg?1729858587293 "Dearbhaile Brady with her Nestlé Outstanding Games Debut award.")](https://www.derrynow.com/news/derry-sport/1639580/county-derry-athlete-honoured-at-the-paralympics-ireland-awards-gala.html)
-
-Dearbhaile Brady with her Nestlé Outstanding Games Debut award.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[County Derry athlete honoured at the Paralympics Ireland Awards Gala](https://www.derrynow.com/news/derry-sport/1639580/county-derry-athlete-honoured-at-the-paralympics-ireland-awards-gala.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Polish man who broke partner's jaw jailed at Derry Crown Court")](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Polish man who broke partner's jaw jailed at Derry Crown Court](https://www.derrynow.com/news/local-news/1639627/polish-man-who-broke-partner-s-jaw-jailed-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
