@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey-logo](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
+![SurveyMonkey 標誌](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__badge.png)
 
-* [Overzicht](https://www.surveymonkey.com/mp/legal/)
+* [概覽](https://www.surveymonkey.com/mp/legal/)
     
-* [Gebruiksvoorwaarden](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [使用條款](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Toepasselijke serviceovereenkomst](https://www.surveymonkey.com/mp/legal/gsa/)
+* [主要服務合約](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Servicegebonden voorwaarden](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [服務特定條款](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Basisprincipes van privacy](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [隱私權基本需知](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Privacymelding](https://www.surveymonkey.com/mp/legal/privacy/)
+* [隱私權聲明](https://www.surveymonkey.com/mp/legal/privacy/)
     
 * [Cookies](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Cookies die op enquêtepagina's worden gebruikt](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [調查問卷頁面的 Cookie 使用情況](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Beleid inzake aanvaardbaar gebruik](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [合理使用政策](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Beveiliging](https://www.surveymonkey.com/mp/legal/security/)
+* [安全性](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Algemeen](https://www.surveymonkey.com/mp/legal/general/)
+* [一般](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-Wist u dit?
+您知道嗎﹕
 
-63% van de mensen houdt rekening met de geschiedenis van het bedrijf ten aanzien van privacy en beveiliging voordat ze producten of services van dat bedrijf gebruiken.
+63% 的人在使用一家公司的產品或服務之前，會將該公司的隱私和安全紀錄列入考量。
 
-![Statistieken zijbalk juridische informatie](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
+![法律中心側邊欄統計資料](https://prod.smassets.net/assets/website/2.285.1/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
