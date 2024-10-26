@@ -3,12 +3,10 @@
 * [Home](https://www.ihyperg.com/)
 * [ ]  News
     * [Tech](https://www.ihyperg.com/search/label/Tech%20News)
-    * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
     * [Apps](https://www.ihyperg.com/search/label/Apps%20News)
-    * [Space](https://www.ihyperg.com/search/label/Space%20News)
+    * [Gadgets](https://www.ihyperg.com/search/label/Gadgets%20News)
+    * [Artificial intelligence](https://www.ihyperg.com/search/label/AI%20News)
     * [Gaming](https://www.ihyperg.com/search/label/Games%20News)
-    * [AI & Machine Learning](https://www.ihyperg.com/search/label/AI%20News)
-    * [Crypto](https://www.skyversed.com/search/label/Crypto%20News)
 * [ ]  Photo Editor Pages
     * [Filters & Overlays Guide](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
     * [Adjust & HSL Guide](https://www.ihyperg.com/p/how-to-use-adjust-and-hsl-tools-for-pro.html)
