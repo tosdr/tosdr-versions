@@ -1,10 +1,159 @@
 [![Kapwing Logo](https://cdn-useast1.kapwing.com/static/9XE-logo-small.webp)](https://www.kapwing.com/)[KAPWING](https://www.kapwing.com/)
 
 * [Tools](https://www.kapwing.com/tools)
+    
+    * [Video Editor](https://www.kapwing.com/video-editor)
+        
+        Edit video clips, combine tracks together, and add effects all in one place
+        
+    * [Subtitler](https://www.kapwing.com/subtitles/add-subtitles)
+        
+        Add captions and subtitles to videos in the browser
+        
+    * [Speaker Focus](https://www.kapwing.com/ai/auto-speaker-focus)
+        
+        Auto-resize videos to focus on the speakers
+        
+    * [Audio Editor](https://www.kapwing.com/tools/audio-editor)
+        
+        Record, edit, and clean audio for podcasts and videos
+        
+    * [Text to Speech](https://www.kapwing.com/tools/text-to-speech)
+        
+        Turn text into realistic voiceovers in just a few clicks
+        
+    * [Repurpose Studio](https://www.kapwing.com/ai/clip-maker)
+        
+        Turn a video into social-ready clips
+        
+    * [Resize Video](https://www.kapwing.com/tools/resize)
+        
+        Change the size and dimensions of a video
+        
+    * [Trim with Transcript](https://www.kapwing.com/ai/text-based-video-editor)
+        
+        Edit videos by editing text
+        
+    * [Dubbing](https://www.kapwing.com/ai/dubbing)
+        
+        Translate dialogue into 30+ languages
+        
+    * [Transcribe Video](https://www.kapwing.com/tools/transcribe)
+        
+        Turn videos into text automatically
+        
+    * [View All](https://www.kapwing.com/tools)
+        
+        Discover all of Kapwing's tools in one place
+        
+    
 * [AI](https://www.kapwing.com/ai)
+    
+    * [Kapwing AI](https://www.kapwing.com/ai/overview)
+        
+        Discover all of Kapwing's AI-powered tools
+        
+    * [Script Generator](https://www.kapwing.com/ai/video-script-generator)
+        
+        Turn ideas into scripts in a few clicks
+        
+    * [Translate Video](https://www.kapwing.com/tools/translate)
+        
+        Make content accessible with translated audio and subtitles
+        
+    * [B-Roll Generator](https://www.kapwing.com/ai/b-roll-generator)
+        
+        Generate relevant, high-quality B-Roll automatically
+        
+    * [Clean Audio](https://www.kapwing.com/tools/remove-background/noise)
+        
+        Enhance audio quality and remove background noise
+        
+    * [AI Video Editor](https://www.kapwing.com/ai)
+        
+        Create videos with Kapwing's cutting-edge AI tools
+        
+    * [Subtitle Generator](https://www.kapwing.com/subtitles)
+        
+        Create instant video subtitles with AI
+        
+    * [Article to Video](https://www.kapwing.com/ai/article-to-video)
+        
+        Turn any article into a video in a few clicks
+        
+    * [Video Generator](https://www.kapwing.com/ai-video-generator)
+        
+        Create a video about anything with AI
+        
+    * [Smart Cut](https://www.kapwing.com/tools/smart-cut)
+        
+        Automatically remove silences from your video
+        
+    * [View All](https://www.kapwing.com/ai/overview)
+        
+        Discover all of Kapwing's smart tools
+        
+    
 * [Solutions](https://www.kapwing.com/teams)
+    
+    * [For Marketing Teams](https://www.kapwing.com/teams/marketing)
+        
+        Grow your brand with modern editing tools that speed up content creation
+        
+    * [For Training Teams](https://www.kapwing.com/teams/training)
+        
+        Create and edit screen recordings, tutorials, and instructional videos
+        
+    * [For Schools](https://www.kapwing.com/edu)
+        
+        Bring learning to life with digital lessons and multimedia assignments
+        
+    * [Make Social Media Videos](https://www.kapwing.com/video-editor/social-media)
+        
+        Create engaging content that's tailored for every social platform
+        
+    * [Make Video Ads](https://www.kapwing.com/tools/make/video-ad)
+        
+        Create professional, scroll-stopping video ads that generate leads
+        
+    * [Translate Videos](https://www.kapwing.com/tools/translate)
+        
+        Reach a wider audience by localizing videos, audio, and subtitles
+        
+    
 * [Learn](https://www.kapwing.com/resources)
+    
+    * [Resources](https://www.kapwing.com/resources)
+        
+        Articles and guides to help you create more
+        
+    * [Help Center](https://www.kapwing.com/help)
+        
+        Get answers to common questions about Kapwing
+        
+    * [Company Blog](https://www.kapwing.com/blog)
+        
+        Follow along for stories from our startup journey
+        
+    * [About Us](https://www.kapwing.com/about)
+        
+        Find out more about our company and product
+        
+    * [Contact Us](https://www.kapwing.com/contact-us)
+        
+        Learn how to get in touch with our team
+        
+    * [Video Tutorials](https://www.youtube.com/channel/UCR5GrKMeaZJxPKVMdEgKIKA?sub_confirmation=1)
+        
+        Get step-by-step guidance on how to use our tools
+        
+    * [Careers](https://www.kapwing.com/careers)
+        
+        Learn more about working at Kapwing
+        
+    
 * [Pricing](https://www.kapwing.com/pricing)
+    
 
 [Request a Demo](https://www.kapwing.com/demo)
 
