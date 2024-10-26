@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 25, 2024**
+**October 26, 2024**
 
 * * *
 
@@ -261,15 +261,15 @@ this week
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
-
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
   
 
