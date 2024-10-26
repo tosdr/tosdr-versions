@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=86282326)  
-All Trucking Solutions
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=147035203)  
+Tiny Cuddles Photography
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=140166194)  
-Qothiphango Mining
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=92463985)  
+AFS Electrical
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=27040527)  
-Cooper Power South Africa (Pty) LTD
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=106844746)  
+UniTech Solutions Pty Ltd
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=204493986)  
-Entidee Enterprise PTY (ltd)
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=40981962)  
+TechnoDezi PTY(LTD)
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=65780577)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=194575615)  
+Redlum Group (Pty) Ltd
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=122404240)  
-MONSTER SECURITY GUARDING
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=36461659)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=27356005)  
-Norton Medical & Consult - Namibia
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=196367348)  
+Meyer Towing & Recovery
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=209720822)  
-MSPCloud (Pty) Ltd
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=9673065)  
+OXYAIDER (PTY) LTD
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=94425675)  
-#DiGi3 Marketing & Design
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=208879655)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=211561608)  
-RADIO TYGERBERG 104FM NPC
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=24543313)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=85657992)  
-Moremi Kitchens Rustenburg
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=80359680)  
+Turnkey Innovations
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=37275216)  
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=182419432)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=167949769)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=190999434)  
 SAUL ATHOL ACRES RENTAL
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=165748097)  
-Waterfinatics Swim School
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=41949074)  
-Immediate Health (pty)ltd
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=7616ef0912b68d4ac3f7a6a26c6258aea277cea4262464ff30d6107df8e7030b&c=24136638)  
-Frameless Fanatix (Pty) Ltd.
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=b530e03d61503d7fc8c4cbf95d053687e319b47775e0aa82056f7dcac4e1ce17&c=18136546)  
+ELLIE'S CLEANING CHICKS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
