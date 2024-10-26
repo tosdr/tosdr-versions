@@ -200,5 +200,3 @@ Copyright © 2024 [CodeSteps](https://codesteps.com/ "CodeSteps"). Powered by [Z
 [Scroll to top](#)
 
 [Go to mobile version](https://codesteps.com/terms-of-use/?amp)
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)
