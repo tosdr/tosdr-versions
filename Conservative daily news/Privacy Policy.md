@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [How John Kerry’s Recent Attack On The 1A Also Targets The 2A](https://www.thegunpage.com/how-john-kerrys-recent-attack-on-the-1a-also-targets-the-2a/10611469)
+* [Gun Review – The Savage Rascal](https://www.thegunpage.com/gun-review-the-savage-rascal/10611467)
+* [Silencer Saturday #352: Are Silencers In Common Use Now?](https://www.thegunpage.com/silencer-saturday-352-are-silencers-in-common-use-now/10611468)
 * [All About The 2024 Winchester Experience Event](https://www.thegunpage.com/all-about-the-2024-winchester-experience-event/10611465)
 * ["The Sower of Death" – the History of Yugoslavian M84 Machinegun](https://www.thegunpage.com/the-sower-of-death-the-history-of-yugoslavian-m84-machinegun/10611458)
 * [POTD: Putting The XM7 To The Test At Fort Campbell](https://www.thegunpage.com/potd-putting-the-xm7-to-the-test-at-fort-campbell/10611459)
@@ -188,9 +191,6 @@ Recent Posts
 * [C.G. Haenel Announces the Jaeger NXT Adjustable and Tracker Straight-Pull](https://www.thegunpage.com/c-g-haenel-announces-the-jaeger-nxt-adjustable-and-tracker-straight-pull/10611453)
 * [TFB Review: Meprolight MPO-DF Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-df-open-emitter-pistol-sight/10611455)
 * [Federal Judge Issues Permanent Injunction Against NY Public Housing Gun Ban](https://www.thegunpage.com/federal-judge-issues-permanent-injunction-against-ny-public-housing-gun-ban/10611450)
-* [James Reeves Designed These Shoes: The Stache by 5.11](https://www.thegunpage.com/james-reeves-designed-these-shoes-the-stache-by-5-11/10611456)
-* [Ohio Woman Fatally Shoots Man In The Groin Upon Request](https://www.thegunpage.com/ohio-woman-fatally-shoots-man-in-the-groin-upon-request/10611445)
-* [11th Circuit Considering Florida’s Under-21 Long Gun Purchase Ban This Week](https://www.thegunpage.com/11th-circuit-considering-floridas-under-21-long-gun-purchase-ban-this-week/10611441)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
