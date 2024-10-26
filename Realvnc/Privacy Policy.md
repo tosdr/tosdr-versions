@@ -47,9 +47,7 @@ Menu
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
         * [Enterprise](https://www.realvnc.com/en/connect/plan/enterprise/)
-    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
@@ -70,9 +68,7 @@ Menu
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
         * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
-    * [On-Demand Webinar:What's New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
+    * [On-Demand Webinar:What's New in RealVNC Connect 7? ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
 * [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/)
@@ -134,9 +130,7 @@ Menu
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
         * [Enterprise](https://www.realvnc.com/en/connect/plan/enterprise/)
-    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
@@ -157,9 +151,7 @@ Menu
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
         * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
-    * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
+    * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
 * [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/ "English")
@@ -195,9 +187,7 @@ Menu
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
         * [Enterprise](https://www.realvnc.com/en/connect/plan/enterprise/)
-    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+    * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
@@ -218,9 +208,7 @@ Menu
         * [Case Studies](https://www.realvnc.com/en/connect/customers/)
         * [eBooks](https://www.realvnc.com/en/connect/ebooks/)
         * [Webinars](https://www.realvnc.com/en/connect/webinars/)
-    * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
-        
-        ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
+    * [On-Demand Webinar:What’s New in RealVNC Connect 7? ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
 * [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
 * [English](https://www.realvnc.com/en/legal/ "English")
@@ -573,8 +561,6 @@ This privacy policy was last updated on **5 February 2024**.
 
 [Subscribe](https://www.realvnc.com/en/newsletter/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
 ![](https://www.realvnc.com/wp-content/uploads/2022/08/realvnc-logo-white.svg)
 
 Secure remote access trusted by professionals
@@ -637,30 +623,22 @@ Secure remote access trusted by professionals
 * [Service status](https://realvnc.statuspage.io/)
 * [Contact us](https://www.realvnc.com/en/contact-us/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20280%2080'%3E%3C/svg%3E)
-
-![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-G2-Stars.png)](https://www.g2.com/products/vnc-connect/reviews "G2 Crowd")
+[![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-G2-Stars.png)](https://www.g2.com/products/vnc-connect/reviews "G2 Crowd")
 
 4.7 stars, 400+ reviews  
 Top 50 IT Management Products 2020
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20280%2080'%3E%3C/svg%3E)
-
-![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Google-Play-Store-Stars.png)](https://play.google.com/store/apps/developer?id=RealVNC+Limited "Google Play")
+[![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Google-Play-Store-Stars.png)](https://play.google.com/store/apps/developer?id=RealVNC+Limited "Google Play")
 
 4.6 stars, 55,000 reviews  
 Google Play Store 5M+ downloads
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20280%2080'%3E%3C/svg%3E)
-
-![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Apple-Store-Stars.png)](https://apps.apple.com/gb/developer/realvnc/id352019552 "Apple App Store")
+[![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Apple-Store-Stars.png)](https://apps.apple.com/gb/developer/realvnc/id352019552 "Apple App Store")
 
 4.8 stars, 11,700 reviews  
 Apple App Store 5M+ downloads
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20280%2080'%3E%3C/svg%3E)
-
-![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Capterra-Stars.png)](https://www.capterra.co.uk/software/173752/vnc-connect "Capterra")
+[![](https://www.realvnc.com/wp-content/uploads/2022/08/Real-VNC-Capterra-Stars.png)](https://www.capterra.co.uk/software/173752/vnc-connect "Capterra")
 
 4.5 stars, 100+ reviews  
 Best Software Reviews Platform
