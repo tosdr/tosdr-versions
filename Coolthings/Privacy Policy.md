@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-blackout-curtains-to-keep-out-sunlight-car-lights-and-more/)
+    
+    [The Best Blackout Curtains to Keep Out Sunlight, Car Lights, and More](https://www.coolthings.com/the-best-blackout-curtains-to-keep-out-sunlight-car-lights-and-more/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-workbenches-for-your-home-diy-projects/)
     
     [The Best Workbenches for Your Home DIY Projects](https://www.coolthings.com/the-best-workbenches-for-your-home-diy-projects/)
@@ -104,11 +109,6 @@
     
     [Aeropress Premium Dresses the Portable Coffee Maker in Finer Materials](https://www.coolthings.com/aeropress-premium-portable-coffee-maker-finer-materials-borosilicate-glass-steel-aluminum/)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
-    
-    [The Best Dehumidifiers to Maintain Optimal Humidity Levels Around the House](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
