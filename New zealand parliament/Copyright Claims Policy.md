@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/have-your-say/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/journals-of-the-house/weekly-journals-archive/document/00HOH201005041/journals-of-the-house-for-the-week-beginning-tuesday-4/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/get-involved/have-your-say/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/journals-of-the-house/weekly-journals-archive/document/00HOH201005041/journals-of-the-house-for-the-week-beginning-tuesday-4/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
