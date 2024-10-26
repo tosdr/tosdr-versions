@@ -20,16 +20,16 @@ Saturday, October 26 2024
 
 Latest
 
-* [Vendor Spotlight: Domotz](https://digitpatrox.com/vendor-spotlight-domotz/)
-* [How the ‘Fediverse’ Works (and Why It Might Be the Future of Social Media)](https://digitpatrox.com/how-the-fediverse-works-and-why-it-might-be-the-future-of-social-media/)
-* [How to watch NHK Plus in the USA with a VPN](https://digitpatrox.com/how-to-watch-nhk-plus-in-the-usa-with-a-vpn/)
-* [Watch Out for These Popular Tea Drinks](https://digitpatrox.com/watch-out-for-these-popular-tea-drinks/)
-* [Here’s How You Should Approach It](https://digitpatrox.com/heres-how-you-should-approach-it/)
-* [US Election Will Have a Big Impact On Tech](https://digitpatrox.com/us-election-will-have-a-big-impact-on-tech/)
-* [New Balance FuelCell SC Trainer v3 review: My verdict after 70 miles](https://digitpatrox.com/new-balance-fuelcell-sc-trainer-v3-review-my-verdict-after-70-miles/)
-* [Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://digitpatrox.com/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
-* [Best cheap Apple Watch deals October 2024](https://digitpatrox.com/best-cheap-apple-watch-deals-october-2024/)
-* [Today’s Wordle Answer and Hints (October 26, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-26-2024/)
+* [New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+* [Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
+* [Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
+* [Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
+* [Best Robotic Mops of 2024](https://digitpatrox.com/best-robotic-mops-of-2024/)
+* [How Outlook’s Scheduling Assistant Helps Me Effortlessly Organize Meetings](https://digitpatrox.com/how-outlooks-scheduling-assistant-helps-me-effortlessly-organize-meetings/)
+* [3 Items Every Fax Header Must Have](https://digitpatrox.com/3-items-every-fax-header-must-have/)
+* [How to watch West Ham vs Man Utd live stream EPL 2024/25](https://digitpatrox.com/how-to-watch-west-ham-vs-man-utd-live-stream-epl-2024-25/)
+* [New Windows Driver Signature bypass allows kernel rootkit installs](https://digitpatrox.com/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+* [Video game preservationists have lost a legal fight to study games remotely](https://digitpatrox.com/video-game-preservationists-have-lost-a-legal-fight-to-study-games-remotely/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Domotz-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-domotz/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/24/cisco-ddos-brute-force.jpg)](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
     
-    [Vendor Spotlight: Domotz](https://digitpatrox.com/vendor-spotlight-domotz/)
+    [New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
     
-    15 mins ago
+    3 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JB2H1HMYV3V9KBA0QCVCNMM9/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-the-fediverse-works-and-why-it-might-be-the-future-of-social-media/)
+* [![](https://cdn.vox-cdn.com/thumbor/7BVrc74bSe43E0-1r81Y1WZc-3U=/0x0:4867x3245/1200x628/filters:focal(2984x1436:2985x1437)/cdn.vox-cdn.com/uploads/chorus_asset/file/25700186/2180343514.jpg)](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
     
-    [How the ‘Fediverse’ Works (and Why It Might Be the Future of Social Media)](https://digitpatrox.com/how-the-fediverse-works-and-why-it-might-be-the-future-of-social-media/)
+    [Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
     
-    1 hour ago
+    21 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-watch-NHK-Plus-in-the-USA.jpg)](https://digitpatrox.com/how-to-watch-nhk-plus-in-the-usa-with-a-vpn/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
     
-    [How to watch NHK Plus in the USA with a VPN](https://digitpatrox.com/how-to-watch-nhk-plus-in-the-usa-with-a-vpn/)
+    [Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
     
-    2 hours ago
+    36 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728507586/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-Watch-Out-for-These-Popular-Tea-Drinks-Nov-Dec24-1024)](https://digitpatrox.com/watch-out-for-these-popular-tea-drinks/)
+* [![](https://lifehacker.com/imagery/articles/01HNJW7RA7KH13X8AZ419B5D99/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
     
-    [Watch Out for These Popular Tea Drinks](https://digitpatrox.com/watch-out-for-these-popular-tea-drinks/)
+    [Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/split-screen-with-windows-11-on-the-left-and-linux-on-the-right-with-tux.jpg)](https://digitpatrox.com/heres-how-you-should-approach-it/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1681492163/prod/content/dam/CRO-Images-2023/04April/Home/CR-Home-Inline-Best-Robotic-Mops-0423)](https://digitpatrox.com/best-robotic-mops-of-2024/)
     
-    [Here’s How You Should Approach It](https://digitpatrox.com/heres-how-you-should-approach-it/)
+    [Best Robotic Mops of 2024](https://digitpatrox.com/best-robotic-mops-of-2024/)
     
-    2 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [3 mins ago
     
-    ### Vendor Spotlight: Domotz](https://digitpatrox.com/vendor-spotlight-domotz/)
-* [1 hour ago
+    ### New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+* [21 mins ago
     
-    ### How the ‘Fediverse’ Works (and Why It Might Be the Future of Social Media)](https://digitpatrox.com/how-the-fediverse-works-and-why-it-might-be-the-future-of-social-media/)
-* [2 hours ago
+    ### Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
+* [36 mins ago
     
-    ### How to watch NHK Plus in the USA with a VPN](https://digitpatrox.com/how-to-watch-nhk-plus-in-the-usa-with-a-vpn/)
+    ### Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
 
 Most Popular Topics
 
-* [September 11, 2024
-    
-    ### Hunters ransomware gang says it hacked ICBC London, stole 5M+ files](https://digitpatrox.com/hunters-ransomware-gang-says-it-hacked-icbc-london-stole-5m-files/)
 * [2 weeks ago
     
-    ### Skibidi Toilet Battle Codes (October 2024)](https://digitpatrox.com/skibidi-toilet-battle-codes-october-2024/)
-* [August 26, 2024
+    ### Three secrets to success for the MSSP](https://digitpatrox.com/three-secrets-to-success-for-the-mssp/)
+* [4 weeks ago
     
-    ### Patelco CU notifies 726K people of data breach that compromised SSNs, disrupted bank services](https://digitpatrox.com/patelco-cu-notifies-726k-people-of-data-breach-that-compromised-ssns-disrupted-bank-services/)
+    ### HP’s new remote support service can even resurrect unbootable PCs – Computerworld](https://digitpatrox.com/hps-new-remote-support-service-can-even-resurrect-unbootable-pcs-computerworld/)
+* [5 days ago
+    
+    ### Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://digitpatrox.com/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### New Balance FuelCell SC Trainer v3 review: My verdict after 70 miles](https://digitpatrox.com/new-balance-fuelcell-sc-trainer-v3-review-my-verdict-after-70-miles/)
 * [4 hours ago
     
-    ### Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://digitpatrox.com/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
-* [4 hours ago
+    ### 3 Items Every Fax Header Must Have](https://digitpatrox.com/3-items-every-fax-header-must-have/)
+* [5 hours ago
     
-    ### Best cheap Apple Watch deals October 2024](https://digitpatrox.com/best-cheap-apple-watch-deals-october-2024/)
+    ### How to watch West Ham vs Man Utd live stream EPL 2024/25](https://digitpatrox.com/how-to-watch-west-ham-vs-man-utd-live-stream-epl-2024-25/)
+* [5 hours ago
+    
+    ### New Windows Driver Signature bypass allows kernel rootkit installs](https://digitpatrox.com/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 
 Most Viewed Topics
 
