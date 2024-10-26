@@ -139,24 +139,23 @@ Save settings
 
 ### Featured Articles
 
+[![Deal With a Friend Who Has Changed](https://www.wikihow.com/images/thumb/d/d8/Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg/-crop-126-120-126px-Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg)
+
+How to  
+Deal With a Friend Who Has Changed](https://www.wikihow.com/Deal-With-a-Friend-Who-Has-Changed)
+
+[![Tell if Someone Is Lying when Online Dating](https://www.wikihow.com/images/thumb/4/44/Tell-if-Someone-Is-Lying-when-Online-Dating-Step-13.jpg/-crop-126-120-126px-Tell-if-Someone-Is-Lying-when-Online-Dating-Step-13.jpg)
+
+How to  
+Tell if Someone Is Lying when Online Dating](https://www.wikihow.com/Tell-if-Someone-Is-Lying-when-Online-Dating)
+
+[![Carve a Pumpkin](https://www.wikihow.com/images/thumb/3/3b/Carve-a-Pumpkin-Step-13-Version-5.jpg/-crop-126-120-126px-Carve-a-Pumpkin-Step-13-Version-5.jpg)
+
+The Best Way to Carve a Pumpkin for Halloween](https://www.wikihow.com/Carve-a-Pumpkin)
+
 [![Live a Healthy Lifestyle](https://www.wikihow.com/images/thumb/5/5b/Live-a-Healthy-Lifestyle-Step-1-Version-3.jpg/-crop-126-120-126px-Live-a-Healthy-Lifestyle-Step-1-Version-3.jpg)
 
 17 Pro Tips to Start Living a Healthier Lifestyle](https://www.wikihow.com/Live-a-Healthy-Lifestyle)
-
-[![Get your Boyfriend to Fall in Love with You](https://www.wikihow.com/images/thumb/0/07/Get-your-Boyfriend-to-Fall-in-Love-with-You-Step-13.jpg/-crop-126-120-126px-Get-your-Boyfriend-to-Fall-in-Love-with-You-Step-13.jpg)
-
-How to  
-Get your Boyfriend to Fall in Love with You](https://www.wikihow.com/Get-your-Boyfriend-to-Fall-in-Love-with-You)
-
-[![Tell Your Dog No](https://www.wikihow.com/images/thumb/8/82/Tell-Your-Dog-No-Step-12-Version-2.jpg/-crop-126-120-126px-Tell-Your-Dog-No-Step-12-Version-2.jpg)
-
-How to  
-Tell Your Dog No](https://www.wikihow.com/Tell-Your-Dog-No)
-
-[![Fall Asleep Fast](https://www.wikihow.com/images/thumb/2/29/Fall-Asleep-Fast-Step-30.jpg/-crop-126-120-126px-Fall-Asleep-Fast-Step-30.jpg)
-
-How to  
-Fall Asleep Faster & Sleep Better at Night](https://www.wikihow.com/Fall-Asleep-Fast)
 
   
 
@@ -199,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-137
+135
