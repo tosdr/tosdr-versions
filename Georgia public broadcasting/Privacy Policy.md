@@ -275,6 +275,20 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+WATCH LIVE | Gainesville at Roswell - Kickoff At 7:30 P.M.
+----------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/25/gainesville-at-roswell)
+
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
+
+Web Game Of The Week: Manchester at Mt. Zion - Kickoff at 7:30 P.M.
+-------------------------------------------------------------------
+
+[WATCH!](https://www.gpb.org/sports/football/match/2024/10/25/manchester-at-mt-zion-carroll)
+
 Messages
 --------
 
