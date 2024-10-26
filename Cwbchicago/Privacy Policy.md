@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/alert-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
+
+Lower West Side
+
+### [Violent robbery crew has attacked victims and kidnapped one, police warn](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
+
+[October 20, 2024 6:13 PM](https://cwbchicago.com/2024/10)
+
+Armed men have physically attacked and robbed at least three victims this month on the Near West Side, going so far as to kidnap one of the victims and forcing them to withdraw money from an ATM, Chicago police say.[](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Davell-Dixon-Matthew-and-Shayna-Sergerson-326x245.jpg)](https://cwbchicago.com/2024/10/couple-robbed-man-dragged-him-with-car-at-nw-side-gas-station-officials-say.html "Couple robbed man, dragged him with car at NW Side gas station, officials say")
+
+Jefferson Park
+
+### [Couple robbed man, dragged him with car at NW Side gas station, officials say](https://cwbchicago.com/2024/10/couple-robbed-man-dragged-him-with-car-at-nw-side-gas-station-officials-say.html "Couple robbed man, dragged him with car at NW Side gas station, officials say")
+
+[October 20, 2024 5:01 PM](https://cwbchicago.com/2024/10)
+
+Two people are jailed after prosecutors accused them of robbing and dragging a man with their car at a Northwest Side gas station earlier this month.[](https://cwbchicago.com/2024/10/couple-robbed-man-dragged-him-with-car-at-nw-side-gas-station-officials-say.html "Couple robbed man, dragged him with car at NW Side gas station, officials say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Jesus-Pena-Juan-Salgado-326x245.jpg)](https://cwbchicago.com/2024/10/man-charged-with-murdering-high-school-soccer-captain-a-senseless-loss-of-talent-skill-and-leadership.html "Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’")
 
 Little Village
@@ -252,26 +272,6 @@ Little Village
 [October 20, 2024 3:44 PM](https://cwbchicago.com/2024/10)
 
 Prosecutors have charged a man with fatally shooting a 17-year-old high school soccer team captain as the victim drove home from practice with two friends this summer.[](https://cwbchicago.com/2024/10/man-charged-with-murdering-high-school-soccer-captain-a-senseless-loss-of-talent-skill-and-leadership.html "Man charged with murdering high school soccer captain; ‘a senseless loss of talent, skill, and leadership’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
-
-New City
-
-### [Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
-
-[October 20, 2024 10:48 AM](https://cwbchicago.com/2024/10)
-
-An off-duty Blue Island police officer is in custody after he allegedly shot at an off-duty Chicago police officer’s car during a road rage incident Saturday evening, according to internal CPD communications provided to CWBChicago.[](https://cwbchicago.com/2024/10/off-duty-suburban-cop-shot-at-off-duty-chicago-cop-during-road-rage-incident-cpd-report-says.html "Off-duty suburban cop shot at off-duty Chicago cop during road rage incident, CPD report says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edgar-Barron-ccso-326x245.jpg)](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
-
-Back of the Yards
-
-### [7 years after allegedly shooting two Chicago cops, man is charged](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
-
-[October 20, 2024 8:21 AM](https://cwbchicago.com/2024/10)
-
-More than seven years after two Chicago police officers were shot while working in Back of the Yards, a second man was charged with the crime on Saturday.[](https://cwbchicago.com/2024/10/7-years-after-allegedly-shooting-two-chicago-cops-man-is-charged.html "7 years after allegedly shooting two Chicago cops, man is charged")
 
 Search
 
