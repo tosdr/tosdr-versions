@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-1727caf8f12fee1f2d15817c3af87427
+eb14722272ba8f0572904f1fdc5cd483
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm round taupe pearls](https://www.sojourner.biz/images/cache/pearls/PE0013.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-round-taupe-pearls.html "8 mm round taupe pearls")
+[![Hand-made yellow glass beads](https://www.sojourner.biz/images/cache/glass/VB0022.200.jpg)](https://www.sojourner.biz/beads/glass/hand-made-yellow-glass-beads.html "Hand-made yellow glass beads")
 
-#### [8 mm round taupe pearls](https://www.sojourner.biz/beads/pearls/8-mm-round-taupe-pearls.html "8 mm round taupe pearls")
+#### [Hand-made yellow glass beads](https://www.sojourner.biz/beads/glass/hand-made-yellow-glass-beads.html "Hand-made yellow glass beads")
 
-$24.00
+$4.00
 
 ### Best Sellers
 
