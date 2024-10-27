@@ -20,10 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
-    
-    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
-    
     [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
     
     ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
@@ -55,6 +51,10 @@
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,10 +105,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
-    
-    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
-    
     [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
     
     ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
@@ -140,6 +136,10 @@ View All Result
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
+    
+    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
+    
+    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
