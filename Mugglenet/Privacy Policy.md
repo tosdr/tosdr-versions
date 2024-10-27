@@ -358,15 +358,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
+In early drafts, the Malfoy surname was variously Smart, Spinks, and Spungen.
 
 ### Potter History
 
-November 7, 2010 – The official Harry Potter website announces that Alexandre Desplat will return to compose the music for Harry Potter and the Deathly Hallows – Part 2.
+June 10, 2013 – Sony unveils Wonderbook: Book of Potions at the Electronic Entertainment Expo in Los Angeles.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“I can, you know, do math and stuff.”
 
 [](#)
 
