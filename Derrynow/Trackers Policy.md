@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-26 Oct 2024
+27 Oct 2024
 
 * [Home
     
@@ -300,15 +300,6 @@ Patrick McEleney is hurt by Derry City's title failure
 [Patrick McEleney - 'There's only so many opportunities the players can get'](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
-
-Brandon Kavanagh celebrates what proved to be the winning goal. Pic by Tyler Miller, Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City title hopes end with defeat at St. Patrick's Athletic](https://www.derrynow.com/news/derry-sport/1640210/derry-city-title-hopes-end-with-defeat-at-st-patrick-s-athletic.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ")](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
 
 New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin
@@ -327,15 +318,6 @@ Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured rec
 [Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival")](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
-
-One of the Mellow Deeds choir in full flow on Friday morning. (Photo: Jim McCafferty Photography)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[‘Mellow DEEDS’ choir serve up a musical feast at Derry Choir Festival](https://www.derrynow.com/news/local-news/1639972/mellow-deeds-choir-serve-up-a-musical-feast-at-derry-choir-festival.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Visit the home of Halloween as Derry gets set to awaken!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit the home of Halloween as Derry gets set to awaken!")](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -343,18 +325,25 @@ One of the Mellow Deeds choir in full flow on Friday morning. (Photo: Jim McCaff
 [Visit the home of Halloween as Derry gets set to awaken!](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[!['Taking the Next Step' programme launched for rural Derry youth](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Taking the Next Step' programme launched for rural Derry youth")](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Taking the Next Step' programme launched for rural Derry youth](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two pensioners killed in road crash in Co Antrim](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two pensioners killed in road crash in Co Antrim")](https://www.derrynow.com/news/northern-ireland/1640354/two-pensioners-killed-in-road-crash-in-co-antrim.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Two pensioners killed in road crash in Co Antrim](https://www.derrynow.com/news/northern-ireland/1640354/two-pensioners-killed-in-road-crash-in-co-antrim.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
-
-[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 
@@ -362,6 +351,13 @@ Multimedia
 
 [PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Changing Attitudes to Ageing event in Derry's Central Library")](https://www.derrynow.com/story-telling/pictures---videos/1639875/in-pictures-changing-attitudes-to-ageing-event-in-derry-s-central-library.html)
 
