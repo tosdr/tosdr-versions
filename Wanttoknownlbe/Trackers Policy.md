@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/op-weg-naar-de-cyborg/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/nederland-als-spiritueel-brandpunt/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
