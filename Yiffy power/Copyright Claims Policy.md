@@ -75,7 +75,7 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 960 1
+0 974 1
 
 October 8, 2024
 
@@ -83,23 +83,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 114 1
+0 129 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/dracostar-and-pup-mythology-created-by-supersonicsoup/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-themercart/)
 
-[dracostar and pup (mythology) created by supersonicsoup](https://yiff-party.com/yiff/dracostar-and-pup-mythology-created-by-supersonicsoup/)
+[nintendo and etc created by themercart](https://yiff-party.com/yiff/nintendo-and-etc-created-by-themercart/)
 
-0 304 0
+0 61 0
 
 September 27, 2024
 
-[](https://yiff-party.com/yiff/fan-character-my-little-pony-and-etc-created-by-imadeus/)
+[](https://yiff-party.com/yiff/octavia-and-stolas-helluva-boss-created-by-atrolux/)
 
-[fan character (my little pony and etc) created by imadeus](https://yiff-party.com/yiff/fan-character-my-little-pony-and-etc-created-by-imadeus/)
+[octavia and stolas (helluva boss) created by atrolux](https://yiff-party.com/yiff/octavia-and-stolas-helluva-boss-created-by-atrolux/)
 
-0 1 0
+0 2 0
 
 October 27, 2024
 
