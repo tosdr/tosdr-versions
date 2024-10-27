@@ -303,7 +303,7 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Amendment 17: B.5 Living With a Star Science: Several Small Updates
 
-article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
+article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
 
 ### Highlights
 
@@ -325,7 +325,7 @@ article 2 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/
 
 ### TSE Campaign For Your Consideration
 
-article 2 days ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)
+article 3 days ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)
 
 ### Featured
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
-article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 2 days ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -401,7 +401,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 3 days ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 4 days ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)[![2024 NASA Power to Explore Contest Winners](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 6 min read
 
@@ -413,7 +413,7 @@ article 5 days ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Station Science Top News: Oct. 18, 2024
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
 
 ### Featured
 
@@ -451,7 +451,7 @@ article 5 days ago](https://science.nasa.gov/missions/lisa/nasa-reveals-prototyp
 
 ### After 60 Years, Nuclear Power for Spaceflight is Still Tried and True
 
-article 3 days ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)
+article 4 days ago](https://science.nasa.gov/technology/rps/after-60-years-nuclear-power-for-spaceflight-is-still-tried-and-true/)
 
 ### Highlights
 
@@ -461,7 +461,7 @@ article 3 days ago](https://science.nasa.gov/technology/rps/after-60-years-nucle
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 1 day ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 2 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
