@@ -479,7 +479,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     
     * [Featured Shops & Deals](https://www.rakuten.ca/deals "Featured Shops & Deals at Rakuten.ca")
@@ -494,7 +494,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/spooky-savings "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
