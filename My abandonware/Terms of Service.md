@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Meitantei Conan: Majutsushi no Chōsenjō!](https://www.myabandonware.com/game/meitantei-conan-majutsushi-no-chosenjo-t1k)
-* [Makaimura for WonderSwan](https://www.myabandonware.com/game/makaimura-for-wonderswan-t1j)
-* [Magical Drop for WonderSwan](https://www.myabandonware.com/game/magical-drop-for-wonderswan-t1i)
-* [Wuz↑b? Produce: Street Dancer](https://www.myabandonware.com/game/wuz-b-produce-street-dancer-t1g)
-* [Wonder Stadium](https://www.myabandonware.com/game/wonder-stadium-t1f)
+* [Tane o Maku Tori](https://www.myabandonware.com/game/tane-o-maku-tori-t1z)
+* [Super Robot Taisen: Compact](https://www.myabandonware.com/game/super-robot-taisen-compact-t1y)
+* [Super Robot Taisen Compact 2 Dai-3-bu Ginga Kessen Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen-t1x)
+* [Super Robot Taisen Compact 2 Dai-2-bu Uchū Gekishin Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-2-bu-uchu-gekishin-hen-t1w)
+* [Super Robot Taisen Compact 2 Dai-1-bu Chijō Gekidō Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-1-bu-chijo-gekido-hen-t1v)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
