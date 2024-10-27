@@ -1,6 +1,6 @@
 top of page
 
-[![Balze.png](https://static.wixstatic.com/media/0a8e45_edc38cd8568e42fdbbdccf6be594c964~mv2.png/v1/crop/x_23,y_0,w_561,h_314/fill/w_100,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Balze.png)](https://www.blazeapp.net/)
+[![Screenshot 2024-01-13 at 6_edited_edited](https://static.wixstatic.com/media/0a8e45_60ff7ca3bff3423584c62b64435f6fb5~mv2.jpg/v1/crop/x_0,y_0,w_460,h_260/fill/w_100,h_56,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_edited_edited.jpg)](https://www.blazeapp.net/)
 
 * [Feed](https://www.blazeapp.net/feed)
 * [App](https://www.blazeapp.net/mobile-app)
@@ -9,8 +9,6 @@ top of page
 * [AI](https://www.blazeapp.net/ai)
 
 Log In
-
-NOTICE: Our Terms of Service has recently been updated. View Terms [here.](https://www.blazeapp.net/terms-of-service)
 
 Terms of Service
 ================
@@ -145,7 +143,7 @@ Last Updated: October 19, 2024.
 
 [![Screenshot 2024-01-13 at 6.43_edited.jpg](https://static.wixstatic.com/media/0a8e45_1a959fe5f9fc43c3b4e3687396e3f72d~mv2.jpg/v1/fill/w_128,h_68,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_43_edited.jpg)](https://www.blazeapp.net/)
 
-![Balze.png](https://static.wixstatic.com/media/0a8e45_edc38cd8568e42fdbbdccf6be594c964~mv2.png/v1/fill/w_127,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Balze.png)
+![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_116,h_62,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
 
 The Flame of Social Media. Powered by WIX.
 
