@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cliff Yablonski versus The Horrible People](https://www.somethingawful.com/cliff-yablonski/cliff-yablonski-horrible/1/)
-* [Naga's Den](https://www.somethingawful.com/awful-links/awful-link-2826/)
-* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
-* [Tupac Shakur's Commonplace Book](https://www.somethingawful.com/news/tupac-lovecraft-commonplace/1/)
-* [Check Out My Cyber Monday Haul](https://www.somethingawful.com/news/cyber-monday-deals/)
+* [The Mottos of Shaggy Butte](https://www.somethingawful.com/news/shaggy-butte-mottos/1/)
+* [Parade of Robots](https://www.somethingawful.com/photoshop-phriday/parade-of-robots/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [October 29, 2007](https://www.somethingawful.com/forum-fridays/ff10-29-07/1/)
+* [Civil War Era Chicanery](https://www.somethingawful.com/photoshop-phriday/civil-war-era/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Chipmunks VS Dormice](http://forums.somethingawful.com/showthread.php?threadid=4073678 "Chipmunks VS Dormice")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [how do you refer to yourself in your own brain](http://forums.somethingawful.com/showthread.php?threadid=4073704 "how do you refer to yourself in your own brain")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [types of mermaids](http://forums.somethingawful.com/showthread.php?threadid=4073687 "types of mermaids")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Are you ready for NoFap November 2024?](http://forums.somethingawful.com/showthread.php?threadid=4073633 "Are you ready for NoFap November 2024?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [What was the first video game you remember scaring you?](http://forums.somethingawful.com/showthread.php?threadid=4073686 "What was the first video game you remember scaring you?")
 * ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [Hiccups don't exist](http://forums.somethingawful.com/showthread.php?threadid=4073701 "Hiccups don't exist")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Chipmunks VS Dormice](http://forums.somethingawful.com/showthread.php?threadid=4073678 "Chipmunks VS Dormice")
 
 ### Random Articles
 
-* [Dadapop Magazine](https://www.somethingawful.com/awful-links/awful-link-524/)
-* [Hamsters City](https://www.somethingawful.com/awful-links/awful-link-3239/)
-* [Million Dollar Extreme!](https://www.somethingawful.com/awfulvision/million-dollar-extreme/1/)
-* [Advanced Umbrella Etiquette](https://www.somethingawful.com/news/umbrella-tips/)
-* [The Sloth: Nature's Lion](https://www.somethingawful.com/news/sloth-best-animal/)
+* [Gwon Teach de Bieber ta Sing, M. Usher](https://www.somethingawful.com/news/cajun-justin-bieber/1/)
+* [The Official Mama's Boyz Comic Strip Web Site](https://www.somethingawful.com/awful-links/awful-link-1532/)
+* [Octodog's Frankfurter Converter](https://www.somethingawful.com/awful-links/awful-link-3080/)
+* [The High Cost Of Playing](https://www.somethingawful.com/news/high-cost-playing/)
+* [The Final Battle in the War on Men's Rights](https://www.somethingawful.com/news/mens-right-war/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
