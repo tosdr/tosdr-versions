@@ -688,4 +688,4 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
                                                  
 
-https://www.arkoselabs.com/sms-toll-fraud-warranty/
+https://tvn.pl/
