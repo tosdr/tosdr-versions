@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6fd26213c5b3c4e43eb739b0efb29faa
+91819ce2291e632bc2e3943226fab0f7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Red wine bracelet clasp](https://www.sojourner.biz/images/cache/SKU0459-2front.200.jpg)](https://www.sojourner.biz/clasps/bracelet-clasps/red-wine-bracelet-clasp.html "Red wine bracelet clasp")
+[![Square jet Swarovski clasp](https://www.sojourner.biz/images/cache/SKU0347-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
 
-#### [Red wine bracelet clasp](https://www.sojourner.biz/clasps/bracelet-clasps/red-wine-bracelet-clasp.html "Red wine bracelet clasp")
+#### [Square jet Swarovski clasp](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
 
-$26.00
+$30.00
 
 ### Best Sellers
 
