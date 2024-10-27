@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
+* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
     
-* [Backup the Favorites folder](https://www.backup4all.com/backup-the-favorites-folder-kb.html)  
+* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
     
-* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
+* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to backup your data with SwiftStack](https://www.backup4all.com/how-to-backup-your-data-with-swiftstack-kb.html)  
     
-* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
 
 Choose language:
