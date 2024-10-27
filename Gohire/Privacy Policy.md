@@ -252,7 +252,7 @@ Get In Touch
 
 [](https://www.linkedin.com/company/gohire.io/)[](https://www.youtube.com/@GoHire_/featured)[](https://twitter.com/GoHireHQ)[](https://www.facebook.com/gohirehq)[](https://www.instagram.com/gohireats/)
 
-[Built by SmartPandas.xyz](https://smartpandas.xyz/)
+[Built by smartpandas.com](https://smartpandas.com/)
 
 Free HR Tools
 
