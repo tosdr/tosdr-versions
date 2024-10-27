@@ -284,8 +284,6 @@ This form needs Javascript to display, which your browser doesn't support. [Sign
 
 [Page load link](#)
 
-![Graphic image announcing partnership with Seattle Sounders as the new Youth Sports Sponsor](https://www.arenasports.net/wp-content/uploads/2024/09/SFC-partnership-announcement-website-pop-up-360x400-1.jpg "SFC-partnership-announcement-website pop-up-360×400")
-
               
 
 [Go to Top](#)
