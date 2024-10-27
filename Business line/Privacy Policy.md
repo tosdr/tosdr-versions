@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   80,065.16
+##### SENSEX   79,402.29
 
- -16.82
+ -662.87
 
-##### NIFTY   24,399.40
+##### NIFTY   24,180.80
 
- -36.10
+ -218.60
 
-##### CRUDEOIL   5,910.00
+##### CRUDEOIL   6,040.00
 
- -66.00
++ 129.00
 
-##### GOLD   78,340.00
+##### GOLD   78,577.00
 
-+ 13.00
++ 45.00
 
-##### SILVER   96,995.00
+##### SILVER   97,269.00
 
- -37.00
++ 237.00
 
-##### SENSEX   80,065.16
+##### SENSEX   79,402.29
 
- -16.82
+ -662.87
 
-##### NIFTY   24,399.40
+##### NIFTY   24,180.80
 
- -36.10
+ -218.60
 
-##### NIFTY   24,399.40
+##### NIFTY   24,180.80
 
- -36.10
+ -218.60
 
-##### CRUDEOIL   5,910.00
+##### CRUDEOIL   6,040.00
 
- -66.00
++ 129.00
 
-##### CRUDEOIL   5,910.00
+##### CRUDEOIL   6,040.00
 
- -66.00
++ 129.00
 
-##### GOLD   78,340.00
+##### GOLD   78,577.00
 
-+ 13.00
++ 45.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
