@@ -303,9 +303,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
+"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
 
-**Student, France**
+**Adult student, USA**
 
 ### Curriculum...
 
