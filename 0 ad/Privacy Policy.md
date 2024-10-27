@@ -1,7 +1,7 @@
 Please enable JavaScript to view this page properly.
 
 * [**Main**](http://play0ad.com/)
-* [Development](http://trac.wildfiregames.com/)
+* [Development](http://gitea.wildfiregames.com/)
 * [Forums](http://www.wildfiregames.com/forum/index.php?act=idx)
 * [IRC Channel](http://webchat.quakenet.org/?channels=0ad)
 
