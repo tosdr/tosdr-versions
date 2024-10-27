@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Cameron Underwood Face Transplant ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-cameron-underwood-face-transplant/)
-
-Medicine
-
-26 Oct 2024
-
-[35 Facts About Cameron Underwood Face Transplant](https://facts.net/fitness-and-wellbeing/medicine/35-facts-about-cameron-underwood-face-transplant/)
-
-[![50 Facts About Fallopian Tube Cancer ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2281%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-fallopian-tube-cancer/)
+[![40 Facts About Pentosuria ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-pentosuria/)
 
 Health Science
 
-26 Oct 2024
+27 Oct 2024
 
-[50 Facts About Fallopian Tube Cancer](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-fallopian-tube-cancer/)
+[40 Facts About Pentosuria](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-pentosuria/)
+
+[![35 Facts About Cat Names Study ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
+
+Animals
+
+27 Oct 2024
+
+[35 Facts About Cat Names Study](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
