@@ -137,65 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+[![Jtsing](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1303203-1706598651.png)](https://lyricstranslate.com/en/translator/jtsing "Jtsing")
 
 New song
 
-[Ofra Haza - My Ethiopian Boy](https://lyricstranslate.com/en/ofra-haza-my-ethiopian-boy-lyrics)
+[Việt Lee - Thương Một Người Mất Cả Tương Lai](https://lyricstranslate.com/en/viet-lee-thuong-mot-nguoi-mat-ca-t-lyrics)
 
-English
+Vietnamese
 
-[![LT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1-1706215881.png)](https://lyricstranslate.com/en/translator/lt "LT")
-
-New comment
-
-A quick "Add to Collection" button has been added...  [more](https://lyricstranslate.com/en/comment/1171838#comment-1171838)
-
-[![Carlo0699](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/carlo0699 "Carlo0699")
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
 
 New translation
 
-[Taylor Swift - August](https://lyricstranslate.com/en/taylor-swift-august-filipinotagalog)
+[Adão Ventura - Cantiga](https://lyricstranslate.com/en/adao-ventura-cantiga-german)
 
-English → Filipino/Tagalog
+Portuguese → German
 
-[![Blank Blankness](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1570749-1682551120.png)](https://lyricstranslate.com/en/translator/blank-blankness "Blank Blankness")
-
-New translation
-
-[SuperMarioLogan/SML (OST) - Lonely Summer](https://lyricstranslate.com/en/supermariologansml-lonely-summer-esperanto)
-
-English → Esperanto
-
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
-
-New transcription request
-
-[Ofra Haza - Amore](https://lyricstranslate.com/en/ofra-haza-amore)
-
-English
-
-[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
-
-New comment
-
-\[@Thomas222\] could you write the hebrew lyrics for...  [more](https://lyricstranslate.com/en/comment/1171837#comment-1171837)
-
-[![Carlo0699](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/carlo0699 "Carlo0699")
+[![Parelmoer](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1483002-1611507450.jpg)](https://lyricstranslate.com/en/translator/parelmoer "Parelmoer")
 
 New translation
 
-[Taylor Swift - Gold Rush](https://lyricstranslate.com/en/taylor-swift-gold-rush-filipinotagalog)
+[Zsuzsa A. Túri - Angyal](https://lyricstranslate.com/en/zsuzsa-turi-angyal-dutch)
 
-English → Filipino/Tagalog
+Hungarian → Dutch
 
-[![Zombusic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1621513-1718989711.jpg)](https://lyricstranslate.com/en/translator/zombusic "Zombusic")
+[![kejora.senja](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1232098-1689550181.jpg)](https://lyricstranslate.com/en/translator/kejorasenja "kejora.senja")
 
-New transcription request
+New song
 
-[The Advocates - Just Jesus And Me](https://lyricstranslate.com/en/advocates-just-jesus-and-me)
+[Ekin Uzunlar - Üç Günlük Dünya](https://lyricstranslate.com/en/ekin-uzunlar-uc-gunluk-dunya-lyrics)
 
-English
+Turkish
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New translation
+
+[Japanese Children's Songs - あいうえお (A I U E O)](https://lyricstranslate.com/en/japanese-childrens-i-u-e-o-transliteration)
+
+Japanese → Transliteration
+
+[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
+
+New song
+
+[Jason Heerah - Zot Inn Pare?](https://lyricstranslate.com/en/jason-heerah-zot-inn-pare-lyrics)
+
+Mauritian Créole
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New song
+
+[Japanese Children's Songs - あいうえお](https://lyricstranslate.com/en/japanese-childrens-songs-i-u-e-o-lyrics)
+
+Japanese
+
+[![INCONNU_](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1613095-1725643314.jpg)](https://lyricstranslate.com/en/translator/inconnu-0 "INCONNU_")
+
+New song
+
+[Syudou - ブルートライブ](https://lyricstranslate.com/en/syudou-buru-toraibu-lyrics)
+
+Japanese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
