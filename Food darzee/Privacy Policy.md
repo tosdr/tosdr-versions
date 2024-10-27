@@ -2,9 +2,9 @@
 
 menu
 
-[Food Darzee](https://fooddarzee.com/)[Coached Darzee](https://coacheddarzee.com/)[Baked Darzee](https://www.bakeddarzee.com/)[Pricing](https://fooddarzee.com/pricing)[FAQ](https://fooddarzee.com/faq)[Blog](https://fooddarzee.com/blog)[About us](https://fooddarzee.com/about)
+[Food Darzee](https://fooddarzee.com/)[Pricing](https://fooddarzee.com/pricing)[FAQ](https://fooddarzee.com/faq)[Blog](https://fooddarzee.com/blog)[About us](https://fooddarzee.com/about)
 
-[Menu ×](#)[Food Darzee](https://fooddarzee.com/)[Corporate Meal Inquiries](https://fooddarzee.com/marketing/b2b) [Trainer Tie-ups](https://fooddarzee.com/marketing/trainer) [Nutritionist Tie-ups](https://fooddarzee.com/marketing/nutritionist)[Coached Darzee](https://coacheddarzee.com/)[Baked Darzee](https://www.bakeddarzee.com/)[Pricing](https://fooddarzee.com/pricing)[FAQ](https://fooddarzee.com/faq)[Blog](https://fooddarzee.com/blog)[About us](https://fooddarzee.com/about)
+[Menu ×](#)[Food Darzee](https://fooddarzee.com/)[Corporate Meal Inquiries](https://fooddarzee.com/marketing/b2b) [Trainer Tie-ups](https://fooddarzee.com/marketing/trainer) [Nutritionist Tie-ups](https://fooddarzee.com/marketing/nutritionist)[Pricing](https://fooddarzee.com/pricing)[FAQ](https://fooddarzee.com/faq)[Blog](https://fooddarzee.com/blog)[About us](https://fooddarzee.com/about)
 
 Privacy Policy
 ==============
