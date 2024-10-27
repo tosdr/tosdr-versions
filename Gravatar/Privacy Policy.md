@@ -433,7 +433,7 @@ That’s it! Thanks for reading.
     
     *  [![](https://secure.gravatar.com/blavatar/9fbedcd4e26870fff807f789281aecac367fdf8212a9f08297d1510c2b4b0335?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) Automattic](https://automattic.com/)
     
-    Join 10,398 other subscribers
+    Join 10,400 other subscribers
     
         
     
