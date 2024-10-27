@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zx1FbQoAAVEAAABc@Js)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zx2bCAoAAVEAAABcDUU)
 
 Es noticia
 
@@ -9,7 +9,7 @@ Es noticia
 * [Israel ataca Irán](https://www.elmundo.es/internacional/2024/10/26/671c9530a75cca8941abc4b6-directo.html)
 * [Julia Otero](https://www.elmundo.es/yodona/actualidad/2024/10/25/6719007bfc6c8352018b457b.html)
 * [Adriana desaparecida Ordes](https://www.elmundo.es/espana/2024/10/26/671cf715e9cf4a6d268b45a7.html)
-* [Topuria Holloway](https://www.elmundo.es/como/2024/10/25/671b8e5b21efa0f1178b456d.html)
+* [Topuria Holloway](https://www.elmundo.es/deportes/mas-deporte/2024/10/26/671d2223fdddffd51e8b4590.html)
 * [Max Holloway](https://www.elmundo.es/como/2024/10/25/671b5a9ffc6c839e278b4584.html)
 * [Premios Princesa de Asturias](https://www.elmundo.es/cultura/2024/10/25/671bc15a21efa052238b457b.html)
 * [Vestido Letizia](https://www.elmundo.es/yodona/moda/reina-letizia/2024/10/25/671bc502fdddff16668b4574.html)
