@@ -24,7 +24,7 @@ Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-New
+Latest
 
 It’s your hearing. Let’s make the most of it.
 ---------------------------------------------
@@ -147,7 +147,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* New
+* Latest
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
