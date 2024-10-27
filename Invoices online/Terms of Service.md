@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=59725327)  
-Entidee Enterprise PTY (ltd)
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=58034506)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=153270831)  
-NIMAWELL
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=6197890)  
+All Trucking Solutions
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=101938727)  
-Roamfree Boerdery (PTY) LTD
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=129579852)  
+Fox Alarms & Security CC
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=197307205)  
-Baby Toddles Infant Care
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=95997942)  
+AquariumSmiths
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=72188560)  
-Redlum Group (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=105739949)  
+Nilbet T/A Waterman
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=176275719)  
-Multi CNC Solutions CC
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=119052192)  
+TurboFibre
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=104472313)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=111078448)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=149586179)  
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=58172766)  
+Hydroworld T/A Milliqua
+
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=106543145)  
 Myfinance-Online
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=180368650)  
-Website Café (PTY) LTD
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=159179300)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=15698466)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=43825869)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=196979435)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=190266047)  
+Peter Salvage Pty Ltd
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=152321681)  
-Camp 4 Africa (Pty) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=35677264)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=196456531)  
-Kaylas Creations
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=86937677)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=206264021)  
-Tagline Brands
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=114983746)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=15871111)  
+Moving Made Easy (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
