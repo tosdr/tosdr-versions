@@ -75,7 +75,7 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 985 1
+0 1k 1
 
 October 8, 2024
 
@@ -83,23 +83,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 142 1
+0 157 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/stormbreak-created-by-manika-nika/)
+[](https://yiff-party.com/yiff/merilyn-directed-by-femboytwink-director/)
 
-[stormbreak created by manika nika](https://yiff-party.com/yiff/stormbreak-created-by-manika-nika/)
+[merilyn directed by femboytwink (director)](https://yiff-party.com/yiff/merilyn-directed-by-femboytwink-director/)
 
-0 94 0
+0 132 0
 
 September 27, 2024
 
-[](https://yiff-party.com/yiff/butler-and-sybil-pseudoregalia-created-by-loppifi/)
+[](https://yiff-party.com/yiff/created-by-mochi-lover/)
 
-[butler and sybil (pseudoregalia) created by loppifi](https://yiff-party.com/yiff/butler-and-sybil-pseudoregalia-created-by-loppifi/)
+[created by mochi lover](https://yiff-party.com/yiff/created-by-mochi-lover/)
 
-0 1 0
+0 2 0
 
 October 27, 2024
 
