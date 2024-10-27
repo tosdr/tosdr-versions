@@ -75,6 +75,14 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
+* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
+    
+    ### Halloween Deals Near You!
+    
+    Your favorite Halloween classics at spooky good prices are just a click away.
+    
+    [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
+    
 * [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
     ### Wicked Exclusive Collector's Pin Pack
@@ -82,14 +90,6 @@ Offers
     Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
-    
-* [Save 25% off on all Andrea Bocelli products image link ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b5147840-82af-11ef-a07e-5b03d6159fe4--homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer) 
-    
-    ### Save 25% off on all Andrea Bocelli products
-    
-    Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
-    
-    [BUY TICKETS](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer)
     
 
 New & Coming soon
