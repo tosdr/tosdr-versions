@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Being satisfied by the proxy that has now expired, I've already set up a new one !
+We love the service. What do we have to do to get it back.
 
-J.M. ten Broek
+Philip Keevil
