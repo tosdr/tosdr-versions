@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![Kurant](/fileadmin/_processed_/8/7/csm_Banner_hoch_390x615_93118de063.png)](http://www.kurant.net/)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
