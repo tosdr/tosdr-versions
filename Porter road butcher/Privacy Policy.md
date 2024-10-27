@@ -89,7 +89,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Dry Aged
     
-    On Sale for $34 Regular price ~$43~ ~ $27/LB
+    $43 ~ $34/LB
     
     You can prepare this by cooking
     
