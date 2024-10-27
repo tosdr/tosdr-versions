@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/1-3-amarikaanse-militairen-geen-covid-vaccin/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/op-weg-naar-de-cyborg/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### BEWIJS: grote schade zeeleven door windmolens…!!
+
+[https://groene-rekenkamer.nl/1795/windenergie-nederland-de-d…](https://www.wanttoknow.nl/wetenschap/klimaat/bewijs-grote-schade-zeeleven-door-windmolens/comment-page-1/#comment-626345)
 
 ![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is tijd..??
 
 [Thanks inhetmeer, whantoknow is een pracht site, niet te ver…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626314)
-
-![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
-
-##### **inhetmeer** reacts on:
-
-##### Steun genomineerden voor de VVJ-Assange-prijzen!
-
-[Guido…..zet jezelf op de lijst.…](https://www.wanttoknow.nl/overige/steun-genomineerden-voor-de-vvj-assange-prijzen/comment-page-1/#comment-626313)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
