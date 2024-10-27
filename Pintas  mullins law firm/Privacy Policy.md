@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
 
-[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
+[![How long will a mormon church sex abuse case take to settle?](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/ "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")
 
-[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
+[#### How Long Will a Mormon Church Sex Abuse Case Take to Settle?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/)
 
-[![What is talcum powder used for?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-talc-powder-used-for-scaled.jpg "What Is Talcum Powder Used For?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/ "What Is Talcum Powder Used For?")
+[![Can peritoneal mesothelioma spread to the lungs?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-peritoneal-mesothelioma-spread-to-the-lungs-scaled.jpg "Can Peritoneal Mesothelioma Spread to the Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs "Can Peritoneal Mesothelioma Spread to the Lungs?")
 
-[#### What Is Talcum Powder Used For?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/)
+[#### Can Peritoneal Mesothelioma Spread to the Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
