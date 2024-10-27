@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
     * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Russian strikes on Kyiv and central Ukraine kill 2 teenagers and injure dozens](https://apnews.com/article/russia-ukraine-war-kyiv-attack-drone-4325c6b695c010cb2556e48f2efa275c)
-    * [Georgia votes in an election that could take it toward the EU or into Russia's orbit](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
+    * [Georgia's opposition disputes result of crucial vote which could decide the country's role in Europe](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
+    * [US Navy apologizes for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Altogether fitting and proper? Trump repeatedly compares himself to Abraham Lincoln](https://apnews.com/article/lincoln-trump-compares-better-e7c1cbdb9cf263060771c941e99f0e0b)
-    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
+    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
+    * [Trump again denigrates Detroit while appealing for votes in a suburb of Michigan's largest city](https://apnews.com/article/trump-harris-presidential-election-detroit-michigan-ee1dbcb59eaddd8b006ce57aad77c37e)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
-    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
-    * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
+    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
+    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
+    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Shohei Ohtani injures left arm sliding into second during World Series Game 2, severity uncertain](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
     * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Freddie Freeman's World Series grand slam sparks a joyous family moment in a difficult year](https://apnews.com/article/world-series-freddie-freeman-183b452a84d0d3c18832c960a388b062)
-    * [Reddick's plan to give Davis an increased role has led to 2-0 start for Lakers](https://apnews.com/article/lakers-reddick-davis-6c55a6c31d035cc1ee90410af710c691)
+    * [Will Howard throws for 3 touchdowns, but No. 4 Ohio State is sloppy in 21-17 win over Nebraska](https://apnews.com/article/nebraska-ohio-state-score-398d803e34e24c109fb6e7e141baeed2)
     
     Newsletters
     
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
-    * [Phil Lesh, founding member of Grateful Dead and influential bassist, dies at 84](https://apnews.com/article/phil-lesh-dies-grateful-dead-491f2ca2727f4b16be0cca033a7b1b6f)
-    * [Leonardo DiCaprio endorses Kamala Harris for president](https://apnews.com/article/leonardo-dicaprio-endorses-kamala-harris-election-2024-40bf7286e7219dfd59957bf28d34f578)
+    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Judge blocks further sweeps of homeless camp in New Orleans ahead of Taylor Swift concerts](https://apnews.com/article/new-orleans-homeless-encampment-taylor-swift-judge-6d8694581ba4fb52930168035c59ce6e)
     
 * [Business](https://apnews.com/business)
     
@@ -146,12 +146,12 @@ Menu
     
     TOP STORIES
     
+    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
     * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/misinformation-fact-check-2024-election-voting-2c3931aab2ff2e8caa9d3737d8f1cc81)
     * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
-    * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
     * [Criminals may be leveraging climate change as record acreage burns in Brazil's Amazon](https://apnews.com/article/brazil-amazon-weakened-forest-wildfire-deforestation-climate-change-0a79180b8c8e433785dbeb73852f265b)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
     
 * [Health](https://apnews.com/health)
     
@@ -269,15 +269,15 @@ Menu
     
     TOP STORIES
     
+    * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
-    * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Catholic church reform process expected to disappoint hopes of more equity for women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
+    * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
     * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Israel lanza ataques de madrugada contra infraestructura militar en Irán](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
+    * [Primer ataque abierto de Israel contra Irán omite instalaciones petroleras y nucleares](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
     * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Trump deja a simpatizantes esperando por horas en el frío para grabar el podcast de Joe Rogan](https://apnews.com/article/trump-michigan-joe-rogan-podcast-22881af72dbc1532193b355733624346)
-    * [Yamandú Orsi, el heredero político de Mujica que apuesta por una izquierda renovada en Uruguay](https://apnews.com/article/uruguay-elecciones-perfil-yamandu-orsi-izquierda-renovada-frente-amplio-23b9e8e23c31776633d57b21bb4361ca)
-    * [Veterinario y guía presidencial, Álvaro Delgado tiene el reto de sostener al oficialismo en Uruguay](https://apnews.com/article/uruguay-elecciones-alvaro-delgado-partido-nacional-mantener-oficialismo-3c407af153b07328bef0ed15d6ff67a7)
-    * [La "nueva política" de Uruguay lleva el rostro de Andrés Ojeda, el candidato que quiere enamorar](https://apnews.com/article/elecciones-uruguay-candidato-andres-ojeda-nueva-politica-partido-colorado-8b43b5253133df9960d7ccd192973a89)
+    * [Trump denigra a Detroit mientras busca votos en un suburbio de la mayor ciudad de Michigan](https://apnews.com/article/eeuu-trump-elecciones-detroit-michigan-1606b862e5905f6392e6ba38c2973bd2)
+    * ["Tómense nuestras vidas en serio", implora Michelle Obama al instar a votar por Harris en Michigan](https://apnews.com/article/kamala-harris-obama-michigan-4ae5a6b5e3321a272d0502e8c8deaf42)
+    * [Presidente de Bolivia cambia cúpula militar en medio de fuertes protestas en carreteras](https://apnews.com/article/bolivia-evo-morales-arce-bloqueos-protestas-4c3d1008a60322bab10d722caadf5f8e)
+    * [Dan de alta a astronauta de NASA que permaneció hospitalizado brevemente tras regresar del espacio](https://apnews.com/article/nasa-estacion-espacial-astronauta-spacex-starliner-boeing-2cd5d3f55b7f8edafe6211f64cbb81ab)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
     * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Russian strikes on Kyiv and central Ukraine kill 2 teenagers and injure dozens](https://apnews.com/article/russia-ukraine-war-kyiv-attack-drone-4325c6b695c010cb2556e48f2efa275c)
-    * [Georgia votes in an election that could take it toward the EU or into Russia's orbit](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
+    * [Georgia's opposition disputes result of crucial vote which could decide the country's role in Europe](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -480,7 +480,7 @@ Submit Search
     
     * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
     * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [US Navy will apologize for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
+    * [US Navy apologizes for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Altogether fitting and proper? Trump repeatedly compares himself to Abraham Lincoln](https://apnews.com/article/lincoln-trump-compares-better-e7c1cbdb9cf263060771c941e99f0e0b)
-    * [Progressives warn Harris must change her closing message as the election looms](https://apnews.com/article/harris-trump-progressives-bernie-sanders-closing-message-9b37850eec2c8181213fbe4980dcd79e)
-    * [Harris and Beyoncé ignite a Houston rally with a double-barreled argument against Trump](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2)
+    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
+    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
+    * [Trump again denigrates Detroit while appealing for votes in a suburb of Michigan's largest city](https://apnews.com/article/trump-harris-presidential-election-detroit-michigan-ee1dbcb59eaddd8b006ce57aad77c37e)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
-    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
-    * [Trump leaves Michigan rallygoers waiting in the cold for hours to tape Joe Rogan podcast](https://apnews.com/article/trump-joe-rogan-austin-immigration-texas-election-7ed6b971a86c69ed4344205ab2db668b)
+    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
+    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
+    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Shohei Ohtani injures left arm sliding into second during World Series Game 2, severity uncertain](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
     * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Freddie Freeman's World Series grand slam sparks a joyous family moment in a difficult year](https://apnews.com/article/world-series-freddie-freeman-183b452a84d0d3c18832c960a388b062)
-    * [Reddick's plan to give Davis an increased role has led to 2-0 start for Lakers](https://apnews.com/article/lakers-reddick-davis-6c55a6c31d035cc1ee90410af710c691)
+    * [Will Howard throws for 3 touchdowns, but No. 4 Ohio State is sloppy in 21-17 win over Nebraska](https://apnews.com/article/nebraska-ohio-state-score-398d803e34e24c109fb6e7e141baeed2)
     
     Newsletters
     
@@ -592,8 +592,8 @@ Submit Search
     TOP STORIES
     
     * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
-    * [Phil Lesh, founding member of Grateful Dead and influential bassist, dies at 84](https://apnews.com/article/phil-lesh-dies-grateful-dead-491f2ca2727f4b16be0cca033a7b1b6f)
-    * [Leonardo DiCaprio endorses Kamala Harris for president](https://apnews.com/article/leonardo-dicaprio-endorses-kamala-harris-election-2024-40bf7286e7219dfd59957bf28d34f578)
+    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Judge blocks further sweeps of homeless camp in New Orleans ahead of Taylor Swift concerts](https://apnews.com/article/new-orleans-homeless-encampment-taylor-swift-judge-6d8694581ba4fb52930168035c59ce6e)
     
 * [Business](https://apnews.com/business)
     
@@ -634,12 +634,12 @@ Submit Search
     
     TOP STORIES
     
+    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
     * [FACT FOCUS: A look at false and misleading claims surrounding the 2024 election](https://apnews.com/article/misinformation-fact-check-2024-election-voting-2c3931aab2ff2e8caa9d3737d8f1cc81)
     * [Election officials are fighting a tsunami of voting conspiracy theories](https://apnews.com/article/election-2024-conspiracy-theories-misinformation-trump-musk-0e5a84b1d9e6cd63cd8ca22ee9900387)
     * [FACT FOCUS: Inactive voters on Michigan's rolls are misrepresented in suggestions of fraud](https://apnews.com/article/michigan-voter-rolls-fraud-fact-check-misinformation-3075e2cb1f7d69c27a5181a7e4ea7251)
     * [FACT FOCUS: A look at the false information around Hurricanes Helene and Milton](https://apnews.com/article/election-hurricanes-false-info-helene-milton-a4c2df2463b69c1f2e3eb6846e3b37ae)
     * [FACT FOCUS: Online posts make unfounded claims about a helicopter delivering aid in North Carolina](https://apnews.com/article/fact-check-helicopter-north-carolina-helene-d44fb04825337e8a7ca69e9f616621f7)
-    * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -731,9 +731,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
     * [Criminals may be leveraging climate change as record acreage burns in Brazil's Amazon](https://apnews.com/article/brazil-amazon-weakened-forest-wildfire-deforestation-climate-change-0a79180b8c8e433785dbeb73852f265b)
-    * [World on pace for significantly more warming without immediate climate action, report warns](https://apnews.com/article/climate-change-chaos-warming-15-pollution-carbon-832773cebb14b4ea8c8930580537e567)
     
 * [Health](https://apnews.com/health)
     
@@ -777,15 +777,15 @@ Submit Search
     
     TOP STORIES
     
+    * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
     * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
-    * [After 20 years at the top of chess, Magnus Carlsen is making his next move](https://apnews.com/article/norway-magnus-carlsen-chess-96fbc25e2fd974dd35168799bdc480e0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Catholic church reform process expected to disappoint hopes of more equity for women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
+    * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
     * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel lanza ataques de madrugada contra infraestructura militar en Irán](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
+    * [Primer ataque abierto de Israel contra Irán omite instalaciones petroleras y nucleares](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
     * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Trump deja a simpatizantes esperando por horas en el frío para grabar el podcast de Joe Rogan](https://apnews.com/article/trump-michigan-joe-rogan-podcast-22881af72dbc1532193b355733624346)
-    * [Yamandú Orsi, el heredero político de Mujica que apuesta por una izquierda renovada en Uruguay](https://apnews.com/article/uruguay-elecciones-perfil-yamandu-orsi-izquierda-renovada-frente-amplio-23b9e8e23c31776633d57b21bb4361ca)
-    * [Veterinario y guía presidencial, Álvaro Delgado tiene el reto de sostener al oficialismo en Uruguay](https://apnews.com/article/uruguay-elecciones-alvaro-delgado-partido-nacional-mantener-oficialismo-3c407af153b07328bef0ed15d6ff67a7)
-    * [La "nueva política" de Uruguay lleva el rostro de Andrés Ojeda, el candidato que quiere enamorar](https://apnews.com/article/elecciones-uruguay-candidato-andres-ojeda-nueva-politica-partido-colorado-8b43b5253133df9960d7ccd192973a89)
+    * [Trump denigra a Detroit mientras busca votos en un suburbio de la mayor ciudad de Michigan](https://apnews.com/article/eeuu-trump-elecciones-detroit-michigan-1606b862e5905f6392e6ba38c2973bd2)
+    * ["Tómense nuestras vidas en serio", implora Michelle Obama al instar a votar por Harris en Michigan](https://apnews.com/article/kamala-harris-obama-michigan-4ae5a6b5e3321a272d0502e8c8deaf42)
+    * [Presidente de Bolivia cambia cúpula militar en medio de fuertes protestas en carreteras](https://apnews.com/article/bolivia-evo-morales-arce-bloqueos-protestas-4c3d1008a60322bab10d722caadf5f8e)
+    * [Dan de alta a astronauta de NASA que permaneció hospitalizado brevemente tras regresar del espacio](https://apnews.com/article/nasa-estacion-espacial-astronauta-spacex-starliner-boeing-2cd5d3f55b7f8edafe6211f64cbb81ab)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
