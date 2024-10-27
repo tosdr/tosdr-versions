@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Israeli strikes on Gaza kill 22, officials say, while truck ramming near Tel Aviv hurts dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
+    * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
     * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
-    * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Georgia's opposition disputes result of crucial vote which could decide the country's role in Europe](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
-    * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [US Navy apologizes for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
+    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
+    * [New Haven rejected plans for a Black college in 1831. Generations later, it's considering an apology](https://apnews.com/article/new-haven-black-college-apology-04ac07a6777dda818b012a921c4f0c54)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
-    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
-    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Harris and Walz to campaign across battleground states this week](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
+    * [Trump veers away from swing states for his Madison Square Garden moment](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani injures left arm sliding into second during World Series Game 2, severity uncertain](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
-    * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Will Howard throws for 3 touchdowns, but No. 4 Ohio State is sloppy in 21-17 win over Nebraska](https://apnews.com/article/nebraska-ohio-state-score-398d803e34e24c109fb6e7e141baeed2)
+    * [Shohei Ohtani partially dislocates left shoulder during World Series Game 2](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
+    * [Yamamoto shuts down Yankees, Freeman homers again as Dodgers win 4-2 for 2-0 World Series lead](https://apnews.com/article/world-series-yankees-dodgers-game-2-score-yamamoto-d672c41e864884be79f2629a749363a6)
+    * [Aaron Judge is flailing in his first World Series, and the Yankees are sinking along with him](https://apnews.com/article/world-series-aaron-judge-yankees-b64404c927e380bea578cb4dd0bf95ec)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
     * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
     * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
-    * [Judge blocks further sweeps of homeless camp in New Orleans ahead of Taylor Swift concerts](https://apnews.com/article/new-orleans-homeless-encampment-taylor-swift-judge-6d8694581ba4fb52930168035c59ce6e)
     
 * [Business](https://apnews.com/business)
     
@@ -128,7 +128,7 @@ Menu
     
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
-    * [Stock market today: Wall Street closes mostly lower and ends a 6-week winning streak](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
+    * [Missouri sports betting ballot measure highlights national debate about tax rates](https://apnews.com/article/sports-betting-taxes-missouri-colorado-cd01cdc284d3be17227dab7d0b8b8606)
     
 * [Science](https://apnews.com/science)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
-    * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
-    * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
     * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
-    * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Primer ataque abierto de Israel contra Irán omite instalaciones petroleras y nucleares](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
-    * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Trump denigra a Detroit mientras busca votos en un suburbio de la mayor ciudad de Michigan](https://apnews.com/article/eeuu-trump-elecciones-detroit-michigan-1606b862e5905f6392e6ba38c2973bd2)
-    * ["Tómense nuestras vidas en serio", implora Michelle Obama al instar a votar por Harris en Michigan](https://apnews.com/article/kamala-harris-obama-michigan-4ae5a6b5e3321a272d0502e8c8deaf42)
-    * [Presidente de Bolivia cambia cúpula militar en medio de fuertes protestas en carreteras](https://apnews.com/article/bolivia-evo-morales-arce-bloqueos-protestas-4c3d1008a60322bab10d722caadf5f8e)
-    * [Dan de alta a astronauta de NASA que permaneció hospitalizado brevemente tras regresar del espacio](https://apnews.com/article/nasa-estacion-espacial-astronauta-spacex-starliner-boeing-2cd5d3f55b7f8edafe6211f64cbb81ab)
+    * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
+    * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
+    * [Harris y Walz recorren el país para visitar los siete estados más disputados](https://apnews.com/article/trump-harris-eeuu-elecciones-4bf9c1e960517079a44577769b05650f)
+    * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
+    * [Elon Musk dice que verdadera amenaza a democracia son los que acusan a Trump de ponerla en peligro](https://apnews.com/article/eeuu-elecciones-musk-trump-harris-7056104d2ab8a3cf1646b4c2807c5d80)
+    * [Oposición prooccidental de Georgia disputa resultados de las elecciones](https://apnews.com/article/georgia-elecciones-sueno-georgiano-df757a8c8a46e47fe0f778a9331d281a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Israeli strikes on Gaza kill 22, officials say, while truck ramming near Tel Aviv hurts dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
+    * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
     * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
-    * [Israel's first open attack on Iran targets missile sites and apparently spares oil and nuclear ones](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-26-2024-9c9f366c71c508e6dd0ee74cff8400d2)
-    * [Georgia's opposition disputes result of crucial vote which could decide the country's role in Europe](https://apnews.com/article/georgia-elections-european-union-russia-06103525947fe3a1d372539a74cb573f)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Migrant families separated under Trump still feel the fallout and they fear his return to office](https://apnews.com/article/election-family-separation-trump-immigration-zero-tolerance-ef77a181712149bb5edbd8dae4df4604)
-    * [Biden visits Indian Country and apologizes for the 'sin' of a 150-year boarding school policy](https://apnews.com/article/biden-indian-country-harris-arizona-election-0ac697174d60f8481924a09cbc0c6d51)
-    * [US Navy apologizes for the 1882 obliteration of a Tlingit village in Alaska](https://apnews.com/article/navy-1882-tlingit-village-alaska-bombing-apology-b7da179eb05bd30afa373f9fc093305e)
+    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
+    * [New Haven rejected plans for a Black college in 1831. Generations later, it's considering an apology](https://apnews.com/article/new-haven-black-college-apology-04ac07a6777dda818b012a921c4f0c54)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02)
-    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
-    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Harris and Walz to campaign across battleground states this week](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
+    * [Trump veers away from swing states for his Madison Square Garden moment](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani injures left arm sliding into second during World Series Game 2, severity uncertain](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
-    * [Freeman hits 1st walk-off slam in World Series history as Dodgers top Yankees 6-3 in classic opener](https://apnews.com/article/world-series-dodgers-yankees-freeman-game-1-4975fa3d364e1f2510f0a45eddd2c6ce)
-    * [Will Howard throws for 3 touchdowns, but No. 4 Ohio State is sloppy in 21-17 win over Nebraska](https://apnews.com/article/nebraska-ohio-state-score-398d803e34e24c109fb6e7e141baeed2)
+    * [Shohei Ohtani partially dislocates left shoulder during World Series Game 2](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
+    * [Yamamoto shuts down Yankees, Freeman homers again as Dodgers win 4-2 for 2-0 World Series lead](https://apnews.com/article/world-series-yankees-dodgers-game-2-score-yamamoto-d672c41e864884be79f2629a749363a6)
+    * [Aaron Judge is flailing in his first World Series, and the Yankees are sinking along with him](https://apnews.com/article/world-series-aaron-judge-yankees-b64404c927e380bea578cb4dd0bf95ec)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
     * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
     * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
-    * [Judge blocks further sweeps of homeless camp in New Orleans ahead of Taylor Swift concerts](https://apnews.com/article/new-orleans-homeless-encampment-taylor-swift-judge-6d8694581ba4fb52930168035c59ce6e)
     
 * [Business](https://apnews.com/business)
     
@@ -610,7 +610,7 @@ Submit Search
     
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
-    * [Stock market today: Wall Street closes mostly lower and ends a 6-week winning streak](https://apnews.com/article/stocks-markets-rates-japan-a41eeb280a3fa7cc5aaa042023f560ef)
+    * [Missouri sports betting ballot measure highlights national debate about tax rates](https://apnews.com/article/sports-betting-taxes-missouri-colorado-cd01cdc284d3be17227dab7d0b8b8606)
     
 * [Science](https://apnews.com/science)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
     * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
-    * [AP sources: Chinese hackers targeted phones of Trump, Vance, people associated with Harris campaign](https://apnews.com/article/china-fbi-trump-vance-hack-cellphones-d085787db764d46922a944b50e239e4a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
     * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
-    * [Khatia Buniatishvili is a classical music superstar. Her new album honors Mozart — in her own way](https://apnews.com/article/khatia-buniatishvili-classical-music-3c4742588586a9159dddb9c2254d5004)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
     * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
     * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
-    * [Two historic Philadelphia churches offer lessons for an America divided today and in its infancy](https://apnews.com/article/philadelphia-american-history-churches-election-2024-polarization-730ab0c32150e397bddd8eeca71f01de)
     
     Newsletters
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Primer ataque abierto de Israel contra Irán omite instalaciones petroleras y nucleares](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-d1b9bc5bb4942ed2f6680b054658ba23)
-    * [Pacientes con cáncer y enfermedades crónicas en riesgo por cortes de luz en Ecuador](https://apnews.com/article/ecuador-racionamientos-electricidad-pacientes-salud-b821fa22dd0dc5caed100b8cdc3342e2)
-    * [Trump denigra a Detroit mientras busca votos en un suburbio de la mayor ciudad de Michigan](https://apnews.com/article/eeuu-trump-elecciones-detroit-michigan-1606b862e5905f6392e6ba38c2973bd2)
-    * ["Tómense nuestras vidas en serio", implora Michelle Obama al instar a votar por Harris en Michigan](https://apnews.com/article/kamala-harris-obama-michigan-4ae5a6b5e3321a272d0502e8c8deaf42)
-    * [Presidente de Bolivia cambia cúpula militar en medio de fuertes protestas en carreteras](https://apnews.com/article/bolivia-evo-morales-arce-bloqueos-protestas-4c3d1008a60322bab10d722caadf5f8e)
-    * [Dan de alta a astronauta de NASA que permaneció hospitalizado brevemente tras regresar del espacio](https://apnews.com/article/nasa-estacion-espacial-astronauta-spacex-starliner-boeing-2cd5d3f55b7f8edafe6211f64cbb81ab)
+    * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
+    * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
+    * [Harris y Walz recorren el país para visitar los siete estados más disputados](https://apnews.com/article/trump-harris-eeuu-elecciones-4bf9c1e960517079a44577769b05650f)
+    * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
+    * [Elon Musk dice que verdadera amenaza a democracia son los que acusan a Trump de ponerla en peligro](https://apnews.com/article/eeuu-elecciones-musk-trump-harris-7056104d2ab8a3cf1646b4c2807c5d80)
+    * [Oposición prooccidental de Georgia disputa resultados de las elecciones](https://apnews.com/article/georgia-elecciones-sueno-georgiano-df757a8c8a46e47fe0f778a9331d281a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
