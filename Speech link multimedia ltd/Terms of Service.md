@@ -115,9 +115,9 @@ Speech & Language Link
 We help schools to support children with speech, language and communication needs (SLCN). We do this by providing evidence based interventions, standardised screening assessments and training in the use of these tools. Everything we offer is designed by our speech and language therapy team and backed up by our specialist help desk.  
 We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
 
-**![](/wp-content/uploads/2024/10/DLDday-1-768x284-1.png)Read about the results of our DLD survey and how Developmental Language Disorder can be supported in your classroom**
+**![](/wp-content/uploads/2024/04/Teddy-with-help-sign-3.jpg)We are conducting research to enhance our school entry language screener. If your school would like to help you can get Infant Language Link free for a whole year!**
 
-[Find out more about DLD](https://speechandlanguage.info/resources/how-dld-aware-are-you/)
+[Find out how to take part](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/)
 
 [](https://speechandlanguage.info/whole-school-approach/)
 
