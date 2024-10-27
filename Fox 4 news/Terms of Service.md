@@ -394,6 +394,14 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
+[![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
+
+DOWNLOAD THE FOX LOCAL APP
+
+[How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
+
+[The FOX LOCAL app is your source for live FOX 4 news, top stories, Dallas-Fort Worth weather updates, and more local and national coverage, plus 24/7 streaming coverage from across the nation. Here’s how to download.](https://www.fox4news.com/news/how-to-download-fox-local)
+
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
