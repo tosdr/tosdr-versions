@@ -124,7 +124,11 @@ Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,15 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_mario-marroquim-crb-foto-reproducao_ce156442b0.png)
-
-Em entrevista
-
-Em entrevista
-
-Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada
-
-Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada](https://www.tnh1.com.br/noticia/nid/presidente-do-crb-lista-nomes-e-revela-motivos-para-queda-de-producao-do-time-na-temporada/ "Presidente do CRB lista nomes e revela motivos para queda de produção do time na temporada")[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
+[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
 
 projeções
 
@@ -214,33 +210,7 @@ projeções
 
 Série B: veja as chances de acesso e risco de queda após 33ª rodada
 
-Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/a/csm_csm_campanha_contra_importunacao_sexual_-_coletivos_-_sinturb__2__2010350731_6d9b9bebee.jpeg)
-
-Importunação sexual
-
-Importunação sexual
-
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió
-
-Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió](https://www.tnh1.com.br/noticia/nid/passageiro-de-onibus-e-levado-a-delegacia-apos-ser-denunciado-por-assistir-a-video-porno-em-maceio/ "Passageiro de ônibus é levado à delegacia após ser denunciado por assistir a vídeo pornô, em Maceió")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
-
-Violência
-
-Violência
-
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
-
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")
-
-[![Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/0/csm_ex-astro_mirim_divulgacao_a2e23f9bec.jpg)
-
-lembra dele?
-
-lembra dele?
-
-Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado
-
-Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado](https://www.tnh1.com.br/noticia/nid/ex-astro-mirim-surge-irreconhecivel-em-retrato-policial-apos-ser-preso-por-dirigir-embriagado/ "Ex-astro mirim surge irreconhecível em retrato policial após ser preso por dirigir embriagado")[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
+Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
 
 TRAGÉDIA
 
@@ -248,23 +218,57 @@ TRAGÉDIA
 
 Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
 
-batida com caminhão
+Violência
 
-batida com caminhão
+Violência
 
-Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
 
-Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")[![Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_liam_payne_divulgacao_6b0d286335.jpg)
+Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
 
-caiu de 13 metros
+foram monitorados
 
-caiu de 13 metros
+foram monitorados
 
-Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
 
-Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha](https://www.tnh1.com.br/noticia/nid/liam-payne-desmaiou-em-saguao-de-hotel-momentos-antes-de-queda-fatal-revela-testemunha/ "Liam Payne desmaiou em saguão de hotel momentos antes de queda fatal, revela testemunha")
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")
+
+[![Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/f/csm_lily_allen_reproducao_redes_sociais_5db6772dea.jpg)
+
+fãs reagiram
+
+fãs reagiram
+
+Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas
+
+Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://www.tnh1.com.br/noticia/nid/cantora-internacional-revela-ganhar-mais-dinheiro-vendendo-fotos-dos-pes-do-que-com-musicas/ "Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas")[![Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_especie_vagalume_Cortesia_do_professor_Chenyang_Cai_a_CNN_b755bf94d5.jpg)
+
+veja quais
+
+veja quais
+
+Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros
+
+Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://www.tnh1.com.br/noticia/nid/descoberta-de-fossil-revela-especies-desconhecidas-que-viveram-com-dinossauros/ "Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros")[![Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/f/csm_bola-de-ouro_divulgacao_49bc64441f.jpg)
+
+nomes de peso
+
+nomes de peso
+
+Relembre lendas do futebol que nunca venceram a Bola de Ouro
+
+Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://www.tnh1.com.br/noticia/nid/relembre-lendas-do-futebol-que-nunca-venceram-a-bola-de-ouro/ "Relembre lendas do futebol que nunca venceram a Bola de Ouro")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
+
+entenda a polêmica
+
+entenda a polêmica
+
+Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’
+
+Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://www.tnh1.com.br/noticia/nid/andressa-urach-esbraveja-contra-religiosos-nao-sou-chocadeira/ "Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
