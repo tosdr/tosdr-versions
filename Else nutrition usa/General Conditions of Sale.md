@@ -49,6 +49,7 @@ Free Shipping on orders of $59 and up! All Baby Super Cereals 50% OFF!
     * [Mealtime Tips](https://elsenutrition.com/a/resources/mealtime-tips)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
     
+    * [Blog](https://elsenutrition.com/a/resources/)
     * [Video Hub](https://elsenutrition.com/pages/video)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
@@ -222,6 +223,7 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * [Blog](https://elsenutrition.com/a/resources/)
     * Top Picks
         
         * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
@@ -320,6 +322,7 @@ Menu
 * [Take the Quiz](https://else-nutrition.myshopify.com/tools/perfect-product-finder/best-product-for-you)
 * Learn
     
+    * [Blog](https://elsenutrition.com/a/resources/)
     * Top Picks
         
         * [Best Baby Cereals](https://elsenutrition.com/a/resources/nutrition/best-baby-cereals-with-no-heavy-metals)
