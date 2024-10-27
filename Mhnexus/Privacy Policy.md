@@ -5,21 +5,21 @@ mh-nexus.de
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=5c1f82b37369fa0079d336413a1881ce "Advanced search") 
+ Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=e97c3bc0ce4c204e0d71820225f6dd40 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=5c1f82b37369fa0079d336413a1881ce)
-    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=5c1f82b37369fa0079d336413a1881ce)
+    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=e97c3bc0ce4c204e0d71820225f6dd40)
+    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=e97c3bc0ce4c204e0d71820225f6dd40)
     
-    * [Search](https://forum.mh-nexus.de/search.php?sid=5c1f82b37369fa0079d336413a1881ce)
+    * [Search](https://forum.mh-nexus.de/search.php?sid=e97c3bc0ce4c204e0d71820225f6dd40)
     
-* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=5c1f82b37369fa0079d336413a1881ce "Frequently Asked Questions")
-* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=5c1f82b37369fa0079d336413a1881ce "Login")
-* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=5c1f82b37369fa0079d336413a1881ce)
+* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=e97c3bc0ce4c204e0d71820225f6dd40 "Frequently Asked Questions")
+* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e97c3bc0ce4c204e0d71820225f6dd40 "Login")
+* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=e97c3bc0ce4c204e0d71820225f6dd40)
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=5c1f82b37369fa0079d336413a1881ce)
-* [Search](https://forum.mh-nexus.de/search.php?sid=5c1f82b37369fa0079d336413a1881ce "View the advanced search options")
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=e97c3bc0ce4c204e0d71820225f6dd40)
+* [Search](https://forum.mh-nexus.de/search.php?sid=e97c3bc0ce4c204e0d71820225f6dd40 "View the advanced search options")
 
 mh-nexus.de - Privacy policy
 ----------------------------
@@ -34,13 +34,13 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “mh-nexus.de”, so please guard it carefully and under no circumstance will anyone affiliated with “mh-nexus.de”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=5c1f82b37369fa0079d336413a1881ce)
-* All times are UTC+02:00
-* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=5c1f82b37369fa0079d336413a1881ce)
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=e97c3bc0ce4c204e0d71820225f6dd40)
+* All times are UTC+01:00
+* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=e97c3bc0ce4c204e0d71820225f6dd40)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=5c1f82b37369fa0079d336413a1881ce "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=5c1f82b37369fa0079d336413a1881ce "Terms")
+[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=e97c3bc0ce4c204e0d71820225f6dd40 "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=e97c3bc0ce4c204e0d71820225f6dd40 "Terms")
 
 [](#)
 
