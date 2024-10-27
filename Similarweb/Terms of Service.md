@@ -46,15 +46,15 @@ Rankings
 
 [Data-as-a-Service![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241027.master.d791e79/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
 
 Power your business with digital insights at scaleLearn more](https://www.similarweb.com/corp/daas/)[Advisory Services![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241027.master.d791e79/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
 
 Get data driven answers to your business’s most strategic questionsRead more](https://www.similarweb.com/corp/advisory-services/)[Data Licensing![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
+![](https://static-us-east-1.similarcdn.com/build/20241027.master.d791e79/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
 
 Data LicensingLearn More](https://www.similarweb.com/corp/oem-data/)
 
@@ -76,7 +76,7 @@ Customers
 
 [Discover the brands shaping ecommerce![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
+![](https://static-us-east-1.similarcdn.com/build/20241027.master.d791e79/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
 
 From athleisure to quiet luxury, discover which brands are shaping 2024 and the consumer trends and strategies driving their success.Download now](https://www.similarweb.com/corp/research/market-research/state-of-ecommerce/)
 
@@ -102,7 +102,7 @@ Company
 
 [Discover the brands shaping ecommerce![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20241020.master.1e5cce8/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
+![](https://static-us-east-1.similarcdn.com/build/20241027.master.d791e79/dist/scripts/lite-app/assets/95181e97e9d49be0bb1d.png)
 
 From athleisure to quiet luxury, discover which brands are shaping 2024 and the consumer trends and strategies driving their success.Download now](https://www.similarweb.com/corp/research/market-research/state-of-ecommerce/)
 
@@ -381,11 +381,11 @@ Our OfficesSee all Similarweb offices
     
     [Open map](https://maps.app.goo.gl/XzsKwHsnhdeoShGU9)
     
-* Paris, France
+* Zürich, Switzerland
     
-    [33 rue Lafayette, 75009 Paris](https://goo.gl/maps/eywGe8yBUpG2)
+    [Rötelstrasse 848057 Zürich, Switzerland](https://maps.app.goo.gl/fnvQbADi5c4B7hUFA)
     
-    [Open map](https://goo.gl/maps/eywGe8yBUpG2)
+    [Open map](https://maps.app.goo.gl/fnvQbADi5c4B7hUFA)
     
 * Munich, Germany
     
