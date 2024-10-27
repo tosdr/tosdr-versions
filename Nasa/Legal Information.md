@@ -76,7 +76,7 @@ article2 days ago](https://science.nasa.gov/science-research/biological-physical
 
 ### Hubble Sees a Celestial Cannonball
 
-article1 day ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article2 days ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Red Rocks with Green Spots at ‘Serpentine Rapids’
 
-article 20 hours ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+article 1 day ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
 ### Hubble Sees a Celestial Cannonball
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission](https://images-assets.nasa.gov/image/iss067e170237/iss067e170237~large.jpg)
 
 5 min read
 
@@ -335,7 +335,7 @@ article 2 days ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-20
 
 ### Hubble Sees a Celestial Cannonball
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/)[![NASA Reveals Prototype Telescope for Gravitational Wave Observatory](https://science.nasa.gov/wp-content/uploads/2024/10/gsfc-20240520-lisa-000535.jpg)
 
 2 min read
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
-article 24 hours ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -461,7 +461,7 @@ article 3 days ago](https://science.nasa.gov/technology/rps/after-60-years-nucle
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 22 hours ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)[![A man wearing clear glasses is standing to the left of the image wearing a gray shirt and tan pants. His right arm is touching a cart holding technical instruments including two solar panels sticking out from each side. There are several other people surrounding him.](https://images-assets.nasa.gov/image/AFRC2023-0170-07/AFRC2023-0170-07~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
