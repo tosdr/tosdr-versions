@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Don't fight forces, use them”
+“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
 
-[R. Buckminster Fuller](http://en.wikipedia.org/wiki/Buckminster_Fuller)
+[Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
