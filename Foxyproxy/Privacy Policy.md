@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you so much. It’s so rare to have such good customer support.
+Being satisfied by the proxy that has now expired, I've already set up a new one !
 
-Mandy Moores
+J.M. ten Broek
