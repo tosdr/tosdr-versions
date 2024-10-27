@@ -782,4 +782,4 @@ Unlock your PC's gaming potential. And yours too.
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
