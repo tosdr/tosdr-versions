@@ -20,16 +20,16 @@ Sunday, October 27 2024
 
 Latest
 
-* [CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
-* [NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
-* [Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
-* [Google is reportedly developing a ‘computer-using agent’ AI system](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
-* [How to Prepare Your Yard for the First Frost](https://digitpatrox.com/how-to-prepare-your-yard-for-the-first-frost/)
-* [You Could Be Treating Your Cuts the Wrong Way](https://digitpatrox.com/you-could-be-treating-your-cuts-the-wrong-way/)
-* [iMovie Is Still the Perfect Video Editor for Almost Everyone](https://digitpatrox.com/imovie-is-still-the-perfect-video-editor-for-almost-everyone/)
-* [Enter the World of Ethical Hacking with Confidence](https://digitpatrox.com/enter-the-world-of-ethical-hacking-with-confidence/)
-* [Watch Crystal Palace vs Tottenham live stream EPL 2024/25](https://digitpatrox.com/watch-crystal-palace-vs-tottenham-live-stream-epl-2024-25/)
+* [Most and Least Reliable Coffee Makers](https://digitpatrox.com/most-and-least-reliable-coffee-makers/)
+* [How to Enable Hibernation on Windows 11](https://digitpatrox.com/how-to-enable-hibernation-on-windows-11/)
+* [Is Novo a Trusted Bank?](https://digitpatrox.com/is-novo-a-trusted-bank/)
+* [Bose SoundLink Home Review | Tom’s Guide](https://digitpatrox.com/bose-soundlink-home-review-toms-guide/)
+* [Insurance admin Landmark says data breach impacts 800,000 people](https://digitpatrox.com/insurance-admin-landmark-says-data-breach-impacts-800000-people/)
+* [Lyft fined $2.1 million for misleading ads about how much drivers could make](https://digitpatrox.com/lyft-fined-2-1-million-for-misleading-ads-about-how-much-drivers-could-make/)
+* [NYT Connections Today: Hints and Answers for October 27, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-27-2024/)
+* [Ring’s Original Floodlight Camera Is 40% Off](https://digitpatrox.com/rings-original-floodlight-camera-is-40-off/)
+* [Best Gas Cooktops of 2024](https://digitpatrox.com/best-gas-cooktops-of-2024/)
+* [I Tried Instagram on the Meta Quest 3S; It’s More Fun than I Expected](https://digitpatrox.com/i-tried-instagram-on-the-meta-quest-3s-its-more-fun-than-i-expected/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241025-alphabet-anthropic-cma-probe.jpg)](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1694111925/prod/content/dam/CRO-Images-2023/09September/Appliances/CR-Appliances-InlineHero-Most-and-Least-Reliable-Coffee-Makers-0923)](https://digitpatrox.com/most-and-least-reliable-coffee-makers/)
     
-    [CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
+    [Most and Least Reliable Coffee Makers](https://digitpatrox.com/most-and-least-reliable-coffee-makers/)
     
-    24 mins ago
+    18 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/windows-11-3.jpg)](https://digitpatrox.com/how-to-enable-hibernation-on-windows-11/)
     
-    [NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
+    [How to Enable Hibernation on Windows 11](https://digitpatrox.com/how-to-enable-hibernation-on-windows-11/)
     
-    40 mins ago
+    21 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/23/pwn2own-ireland.jpeg)](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241025-novo-business-checking-review.jpg)](https://digitpatrox.com/is-novo-a-trusted-bank/)
     
-    [Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
-    
-    1 hour ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/UGvk4qajE_FgNUhysIGb1SkCVLs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg)](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
-    
-    [Google is reportedly developing a ‘computer-using agent’ AI system](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
+    [Is Novo a Trusted Bank?](https://digitpatrox.com/is-novo-a-trusted-bank/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
+* [![](https://cdn.mos.cms.futurecdn.net/4BGynte9q9xNhEn48iq5fA-1200-80.jpg)](https://digitpatrox.com/bose-soundlink-home-review-toms-guide/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for October 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
+    [Bose SoundLink Home Review | Tom’s Guide](https://digitpatrox.com/bose-soundlink-home-review-toms-guide/)
+    
+    2 hours ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2021/02/03/data-breach-header.jpg)](https://digitpatrox.com/insurance-admin-landmark-says-data-breach-impacts-800000-people/)
+    
+    [Insurance admin Landmark says data breach impacts 800,000 people](https://digitpatrox.com/insurance-admin-landmark-says-data-breach-impacts-800000-people/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [24 mins ago
+* [18 mins ago
     
-    ### CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
-* [40 mins ago
+    ### Most and Least Reliable Coffee Makers](https://digitpatrox.com/most-and-least-reliable-coffee-makers/)
+* [21 mins ago
     
-    ### NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
+    ### How to Enable Hibernation on Windows 11](https://digitpatrox.com/how-to-enable-hibernation-on-windows-11/)
 * [1 hour ago
     
-    ### Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
+    ### Is Novo a Trusted Bank?](https://digitpatrox.com/is-novo-a-trusted-bank/)
 
 Most Popular Topics
 
+* [2 weeks ago
+    
+    ### AI image generator shoot-out: I tested ChatGPT vs Gemini vs Meta AI to crown a winner](https://digitpatrox.com/ai-image-generator-shoot-out-i-tested-chatgpt-vs-gemini-vs-meta-ai-to-crown-a-winner/)
+* [4 days ago
+    
+    ### Watch RB Leipzig vs Liverpool live stream CL 2024](https://digitpatrox.com/watch-rb-leipzig-vs-liverpool-live-stream-cl-2024/)
 * [September 14, 2024
     
-    ### Baby Safety Tips ER Doctors Want You to Know](https://digitpatrox.com/baby-safety-tips-er-doctors-want-you-to-know/)
-* [September 23, 2024
-    
-    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
-* [September 18, 2024
-    
-    ### How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
+    ### All iPadOS 18 Supported Devices: Is Your iPad Compatible with iPadOS 18 Update?](https://digitpatrox.com/all-ipados-18-supported-devices-is-your-ipad-compatible-with-ipados-18-update/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### You Could Be Treating Your Cuts the Wrong Way](https://digitpatrox.com/you-could-be-treating-your-cuts-the-wrong-way/)
-* [4 hours ago
-    
-    ### iMovie Is Still the Perfect Video Editor for Almost Everyone](https://digitpatrox.com/imovie-is-still-the-perfect-video-editor-for-almost-everyone/)
+    ### NYT Connections Today: Hints and Answers for October 27, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-27-2024/)
 * [5 hours ago
     
-    ### Enter the World of Ethical Hacking with Confidence](https://digitpatrox.com/enter-the-world-of-ethical-hacking-with-confidence/)
+    ### Ring’s Original Floodlight Camera Is 40% Off](https://digitpatrox.com/rings-original-floodlight-camera-is-40-off/)
+* [5 hours ago
+    
+    ### Best Gas Cooktops of 2024](https://digitpatrox.com/best-gas-cooktops-of-2024/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
