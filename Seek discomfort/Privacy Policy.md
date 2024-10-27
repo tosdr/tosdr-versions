@@ -127,4 +127,20 @@ CUSTOMER
 
 [Created by Alce Rocks](https://alce.rocks/)
 
+Your cart
+
+Close
+
+Spend **$85.00** more for **free shipping**!
+
+Your order is eligible for free shipping!
+
+[Checkout](https://www.seekdiscomfort.com/checkout)
+
+Close
+
+Your cart is empty
+
+[Start shopping](https://www.seekdiscomfort.com/collections/all)
+
 [](#)
