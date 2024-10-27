@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/foodwatch-ttip-gebaseerd-op-leugens-en-manipulatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/het-lichtlichaam/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
