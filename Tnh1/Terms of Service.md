@@ -124,11 +124,7 @@ Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_CRB_x_Mirassol_-_Serie_B_Brasileiro_2024_-_foto_Francisco_Cedrim_CRB_0fd2bab027.jpg)
-
-projeções
-
-projeções
-
-Série B: veja as chances de acesso e risco de queda após 33ª rodada
-
-Série B: veja as chances de acesso e risco de queda após 33ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-33a-rodada/ "Série B: veja as chances de acesso e risco de queda após 33ª rodada")[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
+[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
 
 TRAGÉDIA
 
@@ -218,15 +206,15 @@ TRAGÉDIA
 
 Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_d875288ee8.jpeg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_hugh-jackman-sutton-foster-reproducao_064a1c7767.jpg)
 
-Violência
+Novo amor?
 
-Violência
+Novo amor?
 
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba
+Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman
 
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
+Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://www.tnh1.com.br/noticia/nid/atriz-termina-casamento-de-10-anos-e-aumenta-rumores-de-romance-com-hugh-jackman/ "Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
 
 foram monitorados
 
@@ -234,9 +222,17 @@ foram monitorados
 
 Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
 
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
 
-[![Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/f/csm_lily_allen_reproducao_redes_sociais_5db6772dea.jpg)
+no jacintinho
+
+no jacintinho
+
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
+
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")
+
+[![Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_lily_allen_reproducao_redes_sociais_5db6772dea.jpg)
 
 fãs reagiram
 
@@ -244,7 +240,7 @@ fãs reagiram
 
 Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas
 
-Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://www.tnh1.com.br/noticia/nid/cantora-internacional-revela-ganhar-mais-dinheiro-vendendo-fotos-dos-pes-do-que-com-musicas/ "Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas")[![Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_especie_vagalume_Cortesia_do_professor_Chenyang_Cai_a_CNN_b755bf94d5.jpg)
+Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://www.tnh1.com.br/noticia/nid/cantora-internacional-revela-ganhar-mais-dinheiro-vendendo-fotos-dos-pes-do-que-com-musicas/ "Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas")[![Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_especie_vagalume_Cortesia_do_professor_Chenyang_Cai_a_CNN_b755bf94d5.jpg)
 
 veja quais
 
@@ -252,7 +248,7 @@ veja quais
 
 Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros
 
-Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://www.tnh1.com.br/noticia/nid/descoberta-de-fossil-revela-especies-desconhecidas-que-viveram-com-dinossauros/ "Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros")[![Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/f/csm_bola-de-ouro_divulgacao_49bc64441f.jpg)
+Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://www.tnh1.com.br/noticia/nid/descoberta-de-fossil-revela-especies-desconhecidas-que-viveram-com-dinossauros/ "Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros")[![Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_bola-de-ouro_divulgacao_49bc64441f.jpg)
 
 nomes de peso
 
@@ -260,7 +256,7 @@ nomes de peso
 
 Relembre lendas do futebol que nunca venceram a Bola de Ouro
 
-Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://www.tnh1.com.br/noticia/nid/relembre-lendas-do-futebol-que-nunca-venceram-a-bola-de-ouro/ "Relembre lendas do futebol que nunca venceram a Bola de Ouro")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
+Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://www.tnh1.com.br/noticia/nid/relembre-lendas-do-futebol-que-nunca-venceram-a-bola-de-ouro/ "Relembre lendas do futebol que nunca venceram a Bola de Ouro")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
 
 entenda a polêmica
 
