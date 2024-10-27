@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Shaun Gartshore
+Hugo van Sittert
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=29985279)  
-MONSTER SECURITY SERVICES
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=30399409)  
+Fox Alarms & Security
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=38297003)  
-AMS Ambu Medical Supplies
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=118696230)  
+Dr V Naik Consult
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=188273552)  
-APTV Telecoms CC
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=16891164)  
-ARCHITEK PTY LTD
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=116444981)  
-Network Grey (Pty) Ltd
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=135607088)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=97884826)  
-Peter Salvage Pty Ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=69378274)  
-Iurus Inc
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=65550662)  
-Desygn
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=84215089)  
-Myfinance-Online
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=144575358)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=28639625)  
-Echo Recording Studio cc
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=32930817)  
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=198620646)  
 Norton Medical & Consult - Namibia
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=190815718)  
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=192943062)  
+Waterfinatics Swim School
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=52017698)  
+Kainos (Pty) Ltd
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=84074154)  
+AMS Ambu Medical Supplies
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=170070139)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=3551706)  
+TechnoDezi PTY(LTD)
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=43761823)  
+Blue Bulls Rugby Coaches Association
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=96661889)  
 NEW BEGINNINGS DESIGNS
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=43143288c5c8d3de32ab66c82c621e465ddef1b91895e00d76be939f062ae181&c=40811475)  
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=36021824)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=62678337)  
 Qothiphango Mining
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=29533508)  
+Import Maaw
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=93512415)  
+Tagline Brands
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=69633225)  
+Van Der Merwe Olieverspreiders
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
