@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/aarden-met-je-voeten-op-de-grond/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nos-zwijgt-50-franse-steden-vol-in-protest/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
