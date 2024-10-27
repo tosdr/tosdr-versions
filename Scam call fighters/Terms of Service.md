@@ -17,12 +17,12 @@ Saoke TV - Link trực tiếp bóng đá sao ke không QC, full HD
 #### Link trực tiếp xem  
 bóng đá 1
 
-[xem ngay](https://colatv.net/)
+[xem ngay](https://colatv.app/)
 
 #### Link trực tiếp xem  
 bóng đá 2
 
-[xem ngay](https://colatv.net/)
+[xem ngay](https://colatv.app/)
 
 #### Giới thiệu
 
