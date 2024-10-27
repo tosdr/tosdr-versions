@@ -95,7 +95,59 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation.LIVE Podcast
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/things-we-ought-do)
+
+[Things We Ought to Do](https://www.icr.org/article/things-we-ought-do/)
+
+“Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/making-life-count)
+
+[Making Life Count](https://www.icr.org/article/making-life-count/)
+
+“Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.” (Ecclesiastes 1:2) Solomon wrote Ecclesiastes through...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/remarkable-psalms)
+
+[The Remarkable Psalms](https://www.icr.org/article/remarkable-psalms/)
+
+“And we declare unto you glad tidings, how that the promise which was made unto the fathers, God hath fulfilled the same unto us their children,...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+
+The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
+
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
