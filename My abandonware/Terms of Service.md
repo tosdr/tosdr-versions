@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [AAARGH!](https://www.myabandonware.com/game/aaargh-ed)
 * [Area 51](https://www.myabandonware.com/game/area-51-c5g)
 * [APB](https://www.myabandonware.com/game/apb-l8)
 * [720º](https://www.myabandonware.com/game/720o-6a2)
 * [Wonder Stadium '99](https://www.myabandonware.com/game/wonder-stadium-99-t1e)
-* [Uzumaki: Noroi Simulation](https://www.myabandonware.com/game/uzumaki-noroi-simulation-t1d)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
