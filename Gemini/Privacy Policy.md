@@ -18,7 +18,7 @@ You need to enable Javascript to view this site properly.
 
 [Sign up](https://exchange.gemini.com/register)
 
-[![Gemini Logo](/_next/image?url=%2Fstatic%2Fimages%2Flogo-no-text.png&w=48&q=75)](https://www.gemini.com/)
+[![Gemini Logo](/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F1b77ce3a269a43e985e77f3d65f715ba%252F9275faa834e1496387418caaef31e7be&w=256&q=75)](https://www.gemini.com/)
 
 [Sign up](https://exchange.gemini.com/register)![Open](/static/images/dark-theme/hamburger.svg)
 
@@ -76,6 +76,8 @@ Institutions
 * [Institutional Investors](https://www.gemini.com/institutions/institutional-investors)
     
 * [Fintechs and Banks](https://www.gemini.com/institutions/fintechs-banks)
+    
+* [Bitcoin Miners](https://www.gemini.com/institutions/bitcoin-miners)
     
 
 Resources
@@ -263,6 +265,7 @@ Arrow
 * [Professional Traders](https://www.gemini.com/institutions/professional-traders)
 * [Institutional Investors](https://www.gemini.com/institutions/institutional-investors)
 * [Fintechs and Banks](https://www.gemini.com/institutions/fintechs-banks)
+* [Bitcoin Miners](https://www.gemini.com/institutions/bitcoin-miners)
 
 #### Resources
 
@@ -271,6 +274,7 @@ Arrow
 * Resources
     
 * [Prices](https://www.gemini.com/prices)
+* [Price Converter](https://www.gemini.com/converter/btc/usd)
 * [Gemini Blog](https://www.gemini.com/blog)
 * [Trust Center](https://www.gemini.com/trust-center)
 * [About](https://www.gemini.com/about)
@@ -300,8 +304,7 @@ Arrow
 * Company
     
 * [Careers](https://www.gemini.com/careers)
-* [Careers in India](https://www.gemini.com/careers-india)
-* [Students](https://www.gemini.com/internships)
+* [Students](https://www.gemini.com/early-careers)
 * [Support Center](https://support.gemini.com/)
 * [Contact Us](https://support.gemini.com/hc/requests/new)
 * [System Status](https://status.gemini.com/)
@@ -312,12 +315,21 @@ Arrow
 * [Derivatives Legal Agreements](https://www.gemini.com/artemis/legal)
 * [Privacy Policy](https://www.gemini.com/legal/privacy-policy)
 * [User Agreement and State Disclosures](https://www.gemini.com/legal/user-agreement#section-state-license-and-regulatory-disclosures)
+* [Digital Assets Disclosures](https://www.gemini.com/legal/supported-digital-assets-and-waiver-of-conflicts)
 * Do Not Share My Personal Information
     
 
 [](https://x.com/gemini)[Icon/Instagram](https://www.instagram.com/gemini/)[Icon/LinkedIn](https://www.linkedin.com/company/geminitrust/)[Icon/Youtube](https://www.youtube.com/channel/UC74DnUPOegIgamWDcDO3_PQ)[Icon/Reddit](https://www.reddit.com/r/Gemini/)[Icon/Threads](https://www.threads.net/@gemini)
 
 [![Download on iOS](/downloadBadges/apple-app-store.svg)](https://itunes.apple.com/us/app/gemini-buy-sell-crypto/id1408914447)[![Download on Android](/downloadBadges/google-play.svg)](https://play.google.com/store/apps/details?id=com.gemini.android.app)
+
+NMLS #1518126
+
+© Copyright 2024 Gemini Space Station, LLC or its affiliates.
+
+This site is protected by reCAPTCHA and the [Google Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+
+[Site Policy](https://www.gemini.com/legal/cryptopedia-site-policy)[Legal Notice](https://www.gemini.com/legal-notice)
 
 ![Globe icon](/_next/image?url=%2Ficons%2Fglobe-icon.png&w=48&q=75)English![Caret arrow icon](/_next/image?url=%2Ficons%2Farrow-icon.png&w=32&q=75)
 
@@ -331,16 +343,6 @@ Italiano
 
 Português (Brasil)
 
-Türkçe
-
 Français
-
-© Copyright 2024 Gemini Space Station, LLC or its affiliates.
-
-NMLS #1518126
-
-[Legal Notice](https://www.gemini.com/legal-notice)
-
-This site is protected by reCAPTCHA and the [Google Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
 ![Facebook PageView](https://www.facebook.com/tr?id=330632917740535&ev=PageView&noscript=1)
