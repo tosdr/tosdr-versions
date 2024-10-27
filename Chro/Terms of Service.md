@@ -39,7 +39,7 @@ The special rates cannot be extended.
 
 All individuals must adhere to the Safe Management Measures (SMMs) as per Singapore Government regulations at the time of event planning. All attendees must be fully vaccinated to attend the in-person event.
 
-### 2023 GST RATE CHANGE
+### 2024 GST RATE CHANGE
 
 With effect from 1 Jan 2024, the GST rate will be increased to 9%.
 
