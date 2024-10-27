@@ -1,8 +1,8 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zx2bCAoAAVEAAABcDUU)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zx3uIwoAAVEAAABcufg)
 
 Es noticia
 
-* [Íñigo Errejón](https://www.elmundo.es/espana/2024/10/26/671c81e6a75cca8941ab46a3-directo.html?222)
+* [Íñigo Errejón](https://www.elmundo.es/espana/2024/10/27/671ddb13a75cca8941b4ceb5-directo.html)
 * [Más Madrid](https://www.elmundo.es/madrid/2024/10/25/671b7cf4e4d4d8266f8b4582.html)
 * [Elisa Mouliaá](https://www.elmundo.es/espana/2024/10/26/671a7aadfc6c83f1068b45b3.html)
 * [Real Madrid - Barcelona](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/r-madrid-barcelona/2024/10/26/01_0101_20241026_186_178-directo.html)
