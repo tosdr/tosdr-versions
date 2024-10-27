@@ -157,10 +157,10 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 
 * [Artificial Intelligence (84)](https://www.iplocation.net/blog/category/artificial-intelligence)
 * [Automotive (21)](https://www.iplocation.net/blog/category/automotive)
-* [Business (191)](https://www.iplocation.net/blog/category/business)
+* [Business (192)](https://www.iplocation.net/blog/category/business)
 * [Ecommerce (73)](https://www.iplocation.net/blog/category/ecommerce)
 * [Intellectual Property (11)](https://www.iplocation.net/blog/category/intellectual-property)
-* [Productivity (18)](https://www.iplocation.net/blog/category/productivity)
+* [Productivity (19)](https://www.iplocation.net/blog/category/productivity)
 * [Cloud Services (84)](https://www.iplocation.net/blog/category/cloud-services)
 * [Computing (58)](https://www.iplocation.net/blog/category/computing)
 * [Crypto & Blockchain (35)](https://www.iplocation.net/blog/category/blockchain)
