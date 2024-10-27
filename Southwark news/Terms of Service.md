@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
+    
+    ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
+    
+    [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
+    
+    ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
+    
+    [![Image credit:  Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Belair-Park-0624-Biodiversity-231024-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/)
+    
+    ### [Southwark Council announces £500,000 biodiversity fund](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/) 
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
     
     ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
@@ -43,18 +55,6 @@
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
     ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Alessandro-Georgiou-headshot-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/officials-organising-londons-new-years-eve-fireworks-rejected-claims-that-annual-event-can-become-a-borderline-deathtrap/)
-    
-    ### [Officials organising London’s New Year’s Eve Fireworks rejected claims that annual event can become a “borderline deathtrap”](https://southwarknews.co.uk/area/south-bank/officials-organising-londons-new-years-eve-fireworks-rejected-claims-that-annual-event-can-become-a-borderline-deathtrap/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/RED_BOROUGH_MKT_BUILDINGS_JUL_07_2023_7_NEALS-YARD-1024x768-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/boroughs-neals-yard-dairy-stung-by-fraudsters-for-300k-of-cheddar/)
-    
-    ### [Borough’s Neal’s Yard Dairy stung by fraudsters for £300k of cheddar](https://southwarknews.co.uk/area/borough/boroughs-neals-yard-dairy-stung-by-fraudsters-for-300k-of-cheddar/)
-    
-    [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-    
-    ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
+    
+    ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
+    
+    [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
+    
+    ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
+    
+    [![Image credit:  Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Belair-Park-0624-Biodiversity-231024-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/)
+    
+    ### [Southwark Council announces £500,000 biodiversity fund](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/) 
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
     
     ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
@@ -128,18 +140,6 @@ View All Result
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
     ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Alessandro-Georgiou-headshot-360x180.jpg)](https://southwarknews.co.uk/area/south-bank/officials-organising-londons-new-years-eve-fireworks-rejected-claims-that-annual-event-can-become-a-borderline-deathtrap/)
-    
-    ### [Officials organising London’s New Year’s Eve Fireworks rejected claims that annual event can become a “borderline deathtrap”](https://southwarknews.co.uk/area/south-bank/officials-organising-londons-new-years-eve-fireworks-rejected-claims-that-annual-event-can-become-a-borderline-deathtrap/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/RED_BOROUGH_MKT_BUILDINGS_JUL_07_2023_7_NEALS-YARD-1024x768-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/boroughs-neals-yard-dairy-stung-by-fraudsters-for-300k-of-cheddar/)
-    
-    ### [Borough’s Neal’s Yard Dairy stung by fraudsters for £300k of cheddar](https://southwarknews.co.uk/area/borough/boroughs-neals-yard-dairy-stung-by-fraudsters-for-300k-of-cheddar/)
-    
-    [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-    
-    ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -223,6 +223,12 @@ Terms of Use
 
 [21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
+[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
 [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
@@ -234,12 +240,6 @@ Terms of Use
 ### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
 
 [21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
-
-[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
 
 ### Featured Articles
 
