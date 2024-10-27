@@ -402,6 +402,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Oak Cliff shooting leaves one in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/tz6797-dpd-shooting-crouch-road_00.00.06.16.jpg?ve=1&tl=1)
+
+ ![Oak Cliff shooting leaves one in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/tz6797-dpd-shooting-crouch-road_00.00.06.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-cliff-shooting-leaves-one-critical-condition)
+
+### [Oak Cliff shooting leaves one in critical condition](https://www.fox4news.com/news/oak-cliff-shooting-leaves-one-critical-condition)
+
+ [![Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/david-villines.jpg?ve=1&tl=1)
+
+ ![Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/david-villines.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-firefighter-arrested-north-texas-online-solicitation-minor)
+
+### [Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://www.fox4news.com/news/oklahoma-firefighter-arrested-north-texas-online-solicitation-minor)
+
  [![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180556779.jpg?ve=1&tl=1)
 
  ![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180556779.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/hoover-throws-3-tds-tcu-rallies-from-17-point-deficit-beat-texas-tech-35-34)
@@ -419,18 +431,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/cruz-allred-another.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
 
 ### [Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
-
- [![Irving shooting: 1 dead, manhunt for suspects comes up empty](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/irving-police-department-generic-irving-PD.png?ve=1&tl=1)
-
- ![Irving shooting: 1 dead, manhunt for suspects comes up empty](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/irving-police-department-generic-irving-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-shooting-1-dead-manhunt-suspects-comes-up-empty)
-
-### [Irving shooting: 1 dead, manhunt for suspects comes up empty](https://www.fox4news.com/news/irving-shooting-1-dead-manhunt-suspects-comes-up-empty)
-
- [![Dallas shooting: 1 killed in Old East Dallas, no arrest made](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.01.11.14.jpg?ve=1&tl=1)
-
- ![Dallas shooting: 1 killed in Old East Dallas, no arrest made](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.01.11.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-dilido-road-old-east-dallas)
-
-### [1 killed in Old East Dallas shooting, no arrest made](https://www.fox4news.com/news/dallas-shooting-dilido-road-old-east-dallas)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
