@@ -2,14 +2,14 @@ Sunday, October 27 2024
 
 Breaking News
 
+* [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
+* [Kamala Does Not Understand A Wall Or Security](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
 * [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
 * [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
 * [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
 * [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
 * [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
 * [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
-* [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
-* [Dems Trying To Change Voting Rules In State They Can’t Win Under Current System](https://www.conservativedailynews.com/2024/10/dems-trying-to-change-voting-rules-in-state-they-cant-win-under-current-system/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,21 +115,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
+    
+    [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
+    
+    October 26, 2024
+    
 * [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
     
     [DOJ Sends Musk’s PAC Warning Over $1 Million Voter Lottery](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
     
     October 24, 2024
     
-* [![Kamala Harris hiding basement](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-bk-basment-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
-    
-    [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/)
-    
-    October 22, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
+    
+    [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
+    
+    October 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/not-flying/)
+    
+    [Not Flying](https://www.conservativedailynews.com/2024/10/not-flying/)
+    
+    October 27, 2024
+    
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/)
+    
+    [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/)
+    
+    October 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/biden-harris-jan-6-220x150.jpg)](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/)
+    
+    [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/)  
+    
+    October 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5694-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
+    
+    [Kamala Does Not Understand A Wall Or Security](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
+    
+    October 27, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/04-kicked-out-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/walz-across-the-people/)
+    
+    [Walz Across the people](https://www.conservativedailynews.com/2024/10/walz-across-the-people/)
+    
+    October 27, 2024
+    
 * [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
     
     [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
@@ -142,45 +178,11 @@ Recent Posts
     
     October 26, 2024
     
-* [![Democrats Trump is Hitler Card](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/their-last-card/)
-    
-    [Their Last Card](https://www.conservativedailynews.com/2024/10/their-last-card/)
-    
-    October 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Donald-Trump-success-pic-220x150.png)](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
-    
-    [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
-    
-    October 26, 2024
-    
-* [![Iran Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
-    
-    [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
-    
-    October 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
-    
-    [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
-    
-    October 25, 2024
-    
-* [![Kamala Harris catastrophic damage](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg092824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
-    
-    [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
-    
-    October 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
-    
-    [Appeals Court Rules In Favor Of New York Law Restricting Guns In ‘Sensitive Areas’ After Supreme Court Ruling](https://www.conservativedailynews.com/2024/10/appeals-court-rules-in-favor-of-new-york-law-restricting-guns-in-sensitive-areas-after-supreme-court-ruling/)
-    
-    October 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Scopes We Love: Athlon Argos BTR Gen2 6-24×50mm Review](https://www.thegunpage.com/scopes-we-love-athlon-argos-btr-gen2-6-24x50mm-review/10611482)
+* [Is 380 Good for Self-Defense? Everything You Need to Know](https://www.thegunpage.com/is-380-good-for-self-defense-everything-you-need-to-know/10611479)
 * [New: Cole Pro Grand Luxe Beretta A400](https://www.thegunpage.com/new-cole-pro-grand-luxe-beretta-a400/10611477)
 * [How John Kerry’s Recent Attack On The 1A Also Targets The 2A](https://www.thegunpage.com/how-john-kerrys-recent-attack-on-the-1a-also-targets-the-2a/10611469)
 * [Gun Review – The Savage Rascal](https://www.thegunpage.com/gun-review-the-savage-rascal/10611467)
@@ -189,8 +191,6 @@ Recent Posts
 * ["The Sower of Death" – the History of Yugoslavian M84 Machinegun](https://www.thegunpage.com/the-sower-of-death-the-history-of-yugoslavian-m84-machinegun/10611458)
 * [POTD: Putting The XM7 To The Test At Fort Campbell](https://www.thegunpage.com/potd-putting-the-xm7-to-the-test-at-fort-campbell/10611459)
 * [TFB Podcast Roundup 152: The October 25th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-152-the-october-25th-roundup/10611460)
-* [C.G. Haenel Announces the Jaeger NXT Adjustable and Tracker Straight-Pull](https://www.thegunpage.com/c-g-haenel-announces-the-jaeger-nxt-adjustable-and-tracker-straight-pull/10611453)
-* [TFB Review: Meprolight MPO-DF Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-df-open-emitter-pistol-sight/10611455)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
+* Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
+* Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
+* charles wilkins on [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/#comment-782900)
 * charles wilkins on [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/#comment-782887)
 * Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
 * Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 * Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
 * [Concerned](http://cdn/) on [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/#comment-782833)
-* charles wilkins on [Wash Outs](https://www.conservativedailynews.com/2024/10/wash-outs/#comment-782825)
-* KayCee on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782805)
-* Stanley Warner on [Dems, Corporate Media Rushed To Cite FBI Data Showing Crime Decrease — Experts Say The Numbers Are Flawed](https://www.conservativedailynews.com/2024/10/dems-corporate-media-rushed-to-cite-fbi-data-showing-crime-decrease-experts-say-the-numbers-are-flawed/#comment-782801)
-* charles wilkins on [Harris-Walz Campaign Is Imploding Right Before Our Very Eyes](https://www.conservativedailynews.com/2024/10/harris-walz-campaign-is-imploding-right-before-our-very-eyes/#comment-782799)
 
 [Close](#)
 
