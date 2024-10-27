@@ -156,13 +156,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/rem-beauty-x-wicked-ozdust-eyeshadow-palette-pimprod2047555?sku=2630051)
         
-        IT Brushes For ULTA x Wicked
+        r.e.m. beauty
         
-        New & exclusive! Blush & Foundation Brush Duo
+        New & exclusive! OZDUST Eyeshadow Palette
         
-        [Shop now](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
+        [Shop now](https://www.ulta.com/p/rem-beauty-x-wicked-ozdust-eyeshadow-palette-pimprod2047555?sku=2630051)
         
     * Skin Care
         
@@ -396,13 +396,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
         
-        DONNA'S RECIPE
+        Hair Goals
         
-        New! Whipped Vanilla Cream Curl Defining Mousse
+        Get holiday-ready hair
         
-        [Shop now](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
+        [Shop now](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
         
     * Fragrance
         
@@ -458,9 +458,9 @@ Free standard shipping on any $35 purchase
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/fragrance-perfume-crush)
         
-        Fragrance Crush | Valentino
+        Fragrance Crush | Ariana Grande
         
-        Valentino Born in Roma Fragrances
+        Cloud Eau de Parfum
         
         [Shop now](https://www.ulta.com/discover/fragrance-perfume-crush)
         
@@ -648,13 +648,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/positively-green-dual-ion-flat-iron-pimprod2047847?sku=2629967)
         
-        ghd
+        Conair
         
-        Duet Blow Dry 2-In-1 Hair Dryer Brush
+        New & exclusive! Positively Green Dual Ion Flat Iron
         
-        [Shop now](https://www.ulta.com/p/duet-blow-dry-2-in-1-hair-dryer-brush-pimprod2045852?sku=2625285)
+        [Shop now](https://www.ulta.com/p/positively-green-dual-ion-flat-iron-pimprod2047847?sku=2629967)
         
     
     Browse By
