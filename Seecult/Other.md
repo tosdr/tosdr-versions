@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f13.jpg?itok=brDGKM4W)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-new-york-city-night/njujork-nocu.jpg?itok=xKMgy-PZ)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-new-york-city-3)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![digitalizacija, ubsm](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/univerzitetska-biblioteka-svetozar-markovic/ubsm-digi35.jpg?itok=A7kqUYJA "digitalizacija, ubsm")](http://seecult.org/galerija/foto-galerija/digitalizacija/univerzitetska-biblioteka-svetozar-markovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/9-fnf-plakat.jpg?itok=BB8CvGC4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
