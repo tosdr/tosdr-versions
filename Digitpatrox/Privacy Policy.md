@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, October 26 2024
+Sunday, October 27 2024
 
 Latest
 
-* [New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
-* [Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
-* [Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
-* [Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
-* [Best Robotic Mops of 2024](https://digitpatrox.com/best-robotic-mops-of-2024/)
-* [How Outlook’s Scheduling Assistant Helps Me Effortlessly Organize Meetings](https://digitpatrox.com/how-outlooks-scheduling-assistant-helps-me-effortlessly-organize-meetings/)
-* [3 Items Every Fax Header Must Have](https://digitpatrox.com/3-items-every-fax-header-must-have/)
-* [How to watch West Ham vs Man Utd live stream EPL 2024/25](https://digitpatrox.com/how-to-watch-west-ham-vs-man-utd-live-stream-epl-2024-25/)
-* [New Windows Driver Signature bypass allows kernel rootkit installs](https://digitpatrox.com/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
-* [Video game preservationists have lost a legal fight to study games remotely](https://digitpatrox.com/video-game-preservationists-have-lost-a-legal-fight-to-study-games-remotely/)
+* [CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
+* [NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
+* [Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
+* [Google is reportedly developing a ‘computer-using agent’ AI system](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
+* [How to Prepare Your Yard for the First Frost](https://digitpatrox.com/how-to-prepare-your-yard-for-the-first-frost/)
+* [You Could Be Treating Your Cuts the Wrong Way](https://digitpatrox.com/you-could-be-treating-your-cuts-the-wrong-way/)
+* [iMovie Is Still the Perfect Video Editor for Almost Everyone](https://digitpatrox.com/imovie-is-still-the-perfect-video-editor-for-almost-everyone/)
+* [Enter the World of Ethical Hacking with Confidence](https://digitpatrox.com/enter-the-world-of-ethical-hacking-with-confidence/)
+* [Watch Crystal Palace vs Tottenham live stream EPL 2024/25](https://digitpatrox.com/watch-crystal-palace-vs-tottenham-live-stream-epl-2024-25/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/24/cisco-ddos-brute-force.jpg)](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241025-alphabet-anthropic-cma-probe.jpg)](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
     
-    [New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+    [CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
     
-    3 mins ago
+    24 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/7BVrc74bSe43E0-1r81Y1WZc-3U=/0x0:4867x3245/1200x628/filters:focal(2984x1436:2985x1437)/cdn.vox-cdn.com/uploads/chorus_asset/file/25700186/2180343514.jpg)](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
     
-    [Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
+    [NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
     
-    21 mins ago
+    40 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/23/pwn2own-ireland.jpeg)](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
     
-    [Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
+    [Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
     
-    36 mins ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01HNJW7RA7KH13X8AZ419B5D99/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
+* [![](https://cdn.vox-cdn.com/thumbor/UGvk4qajE_FgNUhysIGb1SkCVLs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25263501/STK_414_AI_A.jpg)](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
     
-    [Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
+    [Google is reportedly developing a ‘computer-using agent’ AI system](https://digitpatrox.com/google-is-reportedly-developing-a-computer-using-agent-ai-system/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1681492163/prod/content/dam/CRO-Images-2023/04April/Home/CR-Home-Inline-Best-Robotic-Mops-0423)](https://digitpatrox.com/best-robotic-mops-of-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
     
-    [Best Robotic Mops of 2024](https://digitpatrox.com/best-robotic-mops-of-2024/)
+    [NYT Strands Today: Hints, Answers & Spangram for October 27](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-27/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [24 mins ago
     
-    ### New Cisco ASA and FTD features block VPN brute-force password attacks](https://digitpatrox.com/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
-* [21 mins ago
+    ### CMA Investigates Alphabet-Anthropic Deal Over Competition Risks](https://digitpatrox.com/cma-investigates-alphabet-anthropic-deal-over-competition-risks/)
+* [40 mins ago
     
-    ### Tim Walz and AOC are going to play Madden together on Twitch](https://digitpatrox.com/tim-walz-and-aoc-are-going-to-play-madden-together-on-twitch/)
-* [36 mins ago
+    ### NYT Strands today — hints, spangram and answers for game #238 (Sunday, October 27 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-238-sunday-october-27-2024/)
+* [1 hour ago
     
-    ### Today’s Wordle Answer and Hints (October 27, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-27-2024/)
+    ### Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://digitpatrox.com/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [September 14, 2024
     
-    ### Three secrets to success for the MSSP](https://digitpatrox.com/three-secrets-to-success-for-the-mssp/)
-* [4 weeks ago
+    ### Baby Safety Tips ER Doctors Want You to Know](https://digitpatrox.com/baby-safety-tips-er-doctors-want-you-to-know/)
+* [September 23, 2024
     
-    ### HP’s new remote support service can even resurrect unbootable PCs – Computerworld](https://digitpatrox.com/hps-new-remote-support-service-can-even-resurrect-unbootable-pcs-computerworld/)
-* [5 days ago
+    ### Safest New Cars of 2024, According to the IIHS](https://digitpatrox.com/safest-new-cars-of-2024-according-to-the-iihs/)
+* [September 18, 2024
     
-    ### Microsoft blocks Windows 11 24H2 on two ASUS models due to crashes](https://digitpatrox.com/microsoft-blocks-windows-11-24h2-on-two-asus-models-due-to-crashes/)
+    ### How do you value your expertise when selling to experts?](https://digitpatrox.com/how-do-you-value-your-expertise-when-selling-to-experts/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### 3 Items Every Fax Header Must Have](https://digitpatrox.com/3-items-every-fax-header-must-have/)
+    ### You Could Be Treating Your Cuts the Wrong Way](https://digitpatrox.com/you-could-be-treating-your-cuts-the-wrong-way/)
+* [4 hours ago
+    
+    ### iMovie Is Still the Perfect Video Editor for Almost Everyone](https://digitpatrox.com/imovie-is-still-the-perfect-video-editor-for-almost-everyone/)
 * [5 hours ago
     
-    ### How to watch West Ham vs Man Utd live stream EPL 2024/25](https://digitpatrox.com/how-to-watch-west-ham-vs-man-utd-live-stream-epl-2024-25/)
-* [5 hours ago
-    
-    ### New Windows Driver Signature bypass allows kernel rootkit installs](https://digitpatrox.com/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+    ### Enter the World of Ethical Hacking with Confidence](https://digitpatrox.com/enter-the-world-of-ethical-hacking-with-confidence/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
