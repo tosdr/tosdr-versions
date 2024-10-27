@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the help - Quick support as always!
+Thanks, Im very satisfied with your services! Server is very fast, so I was able to use it for Darts World Championships, that were aired on the BBC-website.
 
-Gareth Wynn
+Rahied Ishaak
