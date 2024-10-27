@@ -184,7 +184,7 @@ This page was last edited on 22 October 2024, at 12:27. Content is available und
 
 Sponsors
 
-[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_heinlein.png)](https://en.opensuse.org/Sponsors)
+[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_ip-exchange2.png)](https://en.opensuse.org/Sponsors)
 
 ##### Log in
 
