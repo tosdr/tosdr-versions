@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
+    
+    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
+    
     [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
     
     ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
@@ -51,10 +55,6 @@
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
-    
-    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
-    
-    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
+    
+    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
+    
     [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
     
     ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
@@ -136,10 +140,6 @@ View All Result
     [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
     ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
-    
-    [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
-    
-    ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -345,23 +345,11 @@ Website
 
 ### Popular Articles
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tube-Girl-crop-e1729173959189-120x86.jpg)](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-
-### [TikTok star Sabrina Bahsoon, known as ‘Tube Girl’, has received a warning from Transport for London](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-
-[18th October 2024](https://southwarknews.co.uk/area/london/tiktok-star-sabrina-bahsoon-known-as-tube-girl-has-received-a-warning-by-transport-for-london/)
-
 [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
 
 ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
 
 [25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[![Forza Wine Photo by Caitlin Isola](https://southwarknews.co.uk/wp-content/uploads/2024/10/Forza-Wine-230817-105-Credit-Caitlin-Isola-750x500-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-### [Staff at popular South London restaurant chain named UK’s happiest](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
-
-[19th October 2024](https://southwarknews.co.uk/area/camberwell/staff-at-popular-south-london-restaurant-chain-named-uks-happiest/)
 
 [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
@@ -380,6 +368,18 @@ Website
 ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+
+[![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-120x86.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+[21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+
+[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
 
 ### Featured Articles
 
