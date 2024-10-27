@@ -94,8 +94,8 @@ Top downloads
 * [Silent Hill 2: Restless Dreams](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd)
 * [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [Need for Speed: Most Wanted](https://www.myabandonware.com/game/need-for-speed-most-wanted-i4m)
-* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [Need for Speed: Underground 2](https://www.myabandonware.com/game/need-for-speed-underground-2-ega)
+* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
 * [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [AAARGH!](https://www.myabandonware.com/game/aaargh-ed)
-* [Area 51](https://www.myabandonware.com/game/area-51-c5g)
-* [APB](https://www.myabandonware.com/game/apb-l8)
-* [720º](https://www.myabandonware.com/game/720o-6a2)
-* [Wonder Stadium '99](https://www.myabandonware.com/game/wonder-stadium-99-t1e)
+* [Meitantei Conan: Majutsushi no Chōsenjō!](https://www.myabandonware.com/game/meitantei-conan-majutsushi-no-chosenjo-t1k)
+* [Makaimura for WonderSwan](https://www.myabandonware.com/game/makaimura-for-wonderswan-t1j)
+* [Magical Drop for WonderSwan](https://www.myabandonware.com/game/magical-drop-for-wonderswan-t1i)
+* [Wuz↑b? Produce: Street Dancer](https://www.myabandonware.com/game/wuz-b-produce-street-dancer-t1g)
+* [Wonder Stadium](https://www.myabandonware.com/game/wonder-stadium-t1f)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Sprint 2](https://www.myabandonware.com/game/sprint-2-scl)
-* [Open Season: The Expansion Pack for Cabela's Big Game Hunter II](https://www.myabandonware.com/game/open-season-the-expansion-pack-for-cabela-s-big-game-hunter-ii-n2y)
-* [The Gold Collection](https://www.myabandonware.com/game/the-gold-collection-q0i)
+* [Quiz Show](https://www.myabandonware.com/game/quiz-show-so3)
+* [Fighter Duel Pro 2](https://www.myabandonware.com/game/fighter-duel-pro-2-hk2)
+* [Sonic & Garfield Pack](https://www.myabandonware.com/game/sonic-garfield-pack-eyf)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
