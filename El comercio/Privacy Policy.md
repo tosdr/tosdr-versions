@@ -31,25 +31,545 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Juicio ganado y el juicio perdido…
-==================================
+Deportivo Quito avanza a octavos tras una dramática tanda de penales
+====================================================================
 
-La ministra se defendió, en su conjunto, muy bien, de manera ordenada, específica  y firme.
--------------------------------------------------------------------------------------------
+Deportivo Quito superó al Cantera Orense en el estadio Gonzalo Pozo Ripalda. Exceso de sufrimiento pero los chullas avanzan
+---------------------------------------------------------------------------------------------------------------------------
 
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/DeportivoQuito.jpg)
 
-**I.- La votación:** A la final, el correísmo  no pudo alzarse con la cabeza – como señal de **triunfo** con sabor a venganza –  de  la **Ministra** del **Interior**  M. **Palencia**, toda vez que no logró conseguir los 92 votos,  contando solo con 77 a favor de la **censura**, **votos compuestos** por RC5 y PSC, dándose 40 votos  en contra de la **censura** y 16 abstenciones principalmente atribuibles a  Construye, los mismos que fueron los decisivos, y que, según el **interpelante** L. Berrezueta (RC5) y de G. Celi, presidente de SUMA, tienda que auspicia la **candidatura** de J. Topic, serían probablemente suerte de un **acuerdo** a cambio de la **aprobación** por parte del TCE de la lista de **asambleístas** de **Construye**.
+**Deportivo Quito** hizo sufrir más de la cuenta a sus fieles seguidores, pero finalmente logró clasificarse a los octavos de final del **Nacional de Ascenso** en el fútbol ecuatoriano.
 
-**II.- Un atormentado correísmo que va de mal en peor**: Lo cierto es que, esta nueva derrota del devaluado correísmo, se suma a una larga lista de **fracasos** y golpes, tales como, los fallidos juicios a la Fiscal y a la Canciller; un **binomio presidencial** débil y no puntero por primera vez; la **declaración** como no elegibles para ingresar a **Estados Unidos** de sus **cabecillas** y por ende – como ya lo hemos anotado –   el **derrumbamiento** de la teoría del Lawfare; el encarcelamiento de Glas y el **debilitamiento** del apoyo al  “asalto” a la **embajada mexicana**  y del asilo (tema que por cierto, siendo una de las iniciales causales principales del **juicio político** en contra de **Palencia**, fue al final del día  hábilmente no utilizado por el correísmo, toda vez que dadas las circunstancias, esas iniciales armas resultaban a la fecha contraproducente políticamente); el **espaldarazo** a las forzadas “**elecciones**” del 28 de julio al dictador Maduro; los pronunciamientos inconsistentes de su **candidata** L. González en cuanto, entre otros,  a fuentes de **energía** limpias ajenas a las **fuentes hídricas**, y un largo etc.; todo lo cual, cabe indicarse, no les **resta apoyo** del **voto** duro del que disponen, pero sí les alejaría del **voto dubitativo**. 
+El equipo de los **dos corazones** necesitó una emocionante definición por penales para avanzar, después de que el encuentro terminara 0-0 y tras un empate 1-1 en la ida.
 
-La interpelante, P. Cabezas, había expresado poco tiempo atrás que, si  el **juicio político** no resultaba favorable a sus intereses, ella se iría a su casa. ¿Será que cumple su palabra?, al decir de las **cuestionables prácticas** utilizadas en el **juicio**, lo más probable es que, consistente con aquello, no la cumpla.
+La tanda de **penales** estuvo llena de tensión, con errores y disparos al palo que mantuvieron a todos al borde del asiento.
 
-**III.- Una defensa implacable:** La ministra se defendió, en su conjunto, muy bien, de **manera ordenada**, específica  y firme, no dando posibilidades de réplica a los interpelantes, los mismos que fueron **apaleados** por la **contundencia** de los **argumentos** de la ministra, la misma que salió bien librada de la **censura**, quien merecía salir inmune – pese a tener mucho **trabajo** aún por realizar en el campo de la seguridad – entre otros motivos, independientemente del interesado apoyo o no de **Construye**, por la **solidez** argumentativa frente a la **debilidad intelectual** de sus **interpelantes**.
+Sin embargo, la fortuna sonrió a los azulgrana en el **Estadio Gonzalo Pozo Ripalda** de la capital ecuatoriana. “Sin sufrir no vale”, dicen los hinchas del Quito, y este 27 de octubre de 2024, el equipo padeció más de lo esperado antes de celebrar su pase a la siguiente ronda.
 
-Cabe indicarse que, el día del **juicio**, no se dio paso a la reconsideración de la **votación**, la cual aún estaría latente, pese a que en la **práctica** y como van las cosas, siendo no imposible, es poco probable que reviva el intento de **censura** en su contra vía reconsideración de la **votación**, caso en el cual, Construye tendría la última palabra… 
+### Más noticias:
 
-**Conclusión:** Para el **oficialismo**, apagado por las **circunstancias atmosféricas** y por sus consecuencias en las **encuestas**, lo dado es una luz de **alegría** alzándose con la copa de la **victoria** al no darse  la censura en contra de su más **representativa  ministra**, entre otros motivos, por su cercanía con Noboa; y, por otro lado,  quien Perdió el Juicio, fue sin duda el desorientado correísmo, no solamente por sus **resultados prácticos** en el **campo político**, sino por el peculiar **carácter** y conducta de su **líder**.
+* [Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana](https://www.elcomercio.com/deportes/futbol/deportivo-quito-cantera-orense-ascenso-2.html "Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana")
+* [Deportivo Quito rescata su complejo de Carcelén](https://www.elcomercio.com/deportes/deportivo-quito-complejo-carcelen-remodelaciones.html "Deportivo Quito rescata su complejo de Carcelén")
+* [Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-nuevamente-estadio-lleno-torneo-ascenso.html "Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso")
+
+Deportivo Quito y los penales
+-----------------------------
+
+Los penales no pudieron ser más dramáticos para **Deportivo Quito**, que se encontraba abajo en el marcador a falta de los últimos lanzamientos.
+
+Sin embargo, el arquero **Darío Lajones** se convirtió en el héroe del encuentro al atajar los dos penales finales, asegurando así la clasificación de su equipo.
+
+Los chullas siguen vivos en la lucha y demuestran una vez más su resiliencia en el Nacional de Ascenso. Los dos corazones de cada hincha -el de sufrir y el de vivir- no faltaron en esta emocionante jornada para el elenco de la Plaza del Teatro.
+
+Deportivo Quito
+---------------
+
+Los chullas, cinco veces campeones de Ecuador, buscan regresar a la Serie B de la Liga Pro, después de haber perdido su lugar en la Serie A en 2015 y haber enfrentado incluso el fútbol aficionado.
+
+Desde 2019, han mantenido su presencia en la **Segunda Categoría**, y ahora se ilusionan una vez para alcanzar su objetivo.
+
+El partido de ida, disputado el 20 de octubre en el Estadio Euclides Palacios de Machala, terminó en un emocionante empate 1-1.
+
+**Luis Celi** anotó para los capitalinos, mientras que Walter Rodríguez igualó para los orenses. La llave se mantiene abierta, lo que agrega una dosis extra de emoción al encuentro de vuelta.
+
+Deportivo Quito y sus hinchas
+-----------------------------
+
+La pasión por **Deportivo Quito** es palpable, y la afición está lista para llenar el estadio. Se pusieron a la venta 12 mil entradas, y en solo tres horas, la localidad de preferencias se agotó.
+
+Imágenes y videos en redes sociales muestran largas filas en los puntos de venta, reflejando el fervor de los hinchas por ver a su equipo avanzar en el torneo.
+
+El vencedor de esta serie se clasificará a los octavos de final, donde se medirá con Toreros FC que eliminó al Santa Elena Sumpa.
+
+Con el apoyo incondicional de sus aficionados, Deportivo Quito está listo para luchar por un nuevo capítulo en su rica historia futbolística.
+
+Selección de Ecuador femenina reta España en el Mundial Sub 17
+==============================================================
+
+La Selección de Ecuador femenina llega al partido contra España con una mezcla de emoción y determinación.
+----------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador femenina busca las semifinales del Mundial Sub 17.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccionecuadorfemenina.jpg)
+
+La **Selección de Ecuador femenin**a se prepara para un emocionante desafío este domingo 27 de octubre del 2024, enfrentando a España en los cuartos de final de la **Copa Mundial Sub 17** Femenina de la FIFA, que se celebra en Santo Domingo, República Dominicana.
+
+El partido se disputará en el Estadio Olímpico Félix Sánchez a las 14:30 (hora de Ecuador).
+
+### Más noticias:
+
+* [Una ecuatoriana entre las estrellas del Mundial Femenino sub-17](https://www.elcomercio.com/deportes/futbol/caprice-chichiolo-mundial-ecuador-femenino.html "Una ecuatoriana entre las estrellas del Mundial Femenino sub-17")
+* [La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-republica-dominicana-mundial-femenino-sub-17.html "La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17")
+* [Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17](https://www.elcomercio.com/deportes/futbol/ecuador-prepara-espana-cuartos-mundial-sub17.html "Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17")
+
+Bajo la dirección de **Eduardo Moscoso,** la Selección de Ecuador femenina ha destacado en la fase de grupos con un impresionante desempeño, logrando dos victorias y anotando seis goles.
+
+Este hito ya es histórico para el fútbol femenino ecuatoriano, ya que es la primera vez que el equipo alcanza esta instancia en un Mundial.
+
+Las jugadoras clave han sido la capitana **Fiorella Pico**, la goleadora Jaslym Valverde y la talentosa Doménica Arboleda, quienes han sido fundamentales para el éxito del equipo.
+
+Además, Caprice Chiuchiolo, la única jugadora en el plantel que milita en el fútbol estadounidense, ha brillado con luz propia, anotando dos goles en la contundente victoria por 4-0 sobre Nueva Zelanda.
+
+Selección de Ecuador femenina
+-----------------------------
+
+El equipo ecuatoriano llega al partido con una mezcla de emoción y determinación. “Estamos felices de estar entre las ocho mejores del mundo”, declaró Moscoso, mientras que Chiuchiolo expresó la ambición del equipo de seguir haciendo historia y el honor que siente al representar a Ecuador.
+
+Por su parte, España, la vigente campeona del torneo y uno de los equipos más exitosos, también ha llegado con un desempeño destacado, ganando todos sus partidos en la fase de grupos.
+
+Ecuador busca convertirse en el primer equipo de Conmebol en vencer a un rival europeo en esta etapa del torneo.
+
+Tormentas y fuertes lluvias amenazan a Ecuador
+==============================================
+
+Las tormentas y fuertes lluvias se presentarán durante cuatro días en Ecuador, según la advertencia del Inamhi.
+---------------------------------------------------------------------------------------------------------------
+
+![Las tormentas y fuertes lluvias se presentarán durante cuatro días en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-tormentas.jpg)
+
+El **Instituto Nacional de Meteorología e Hidrología (Inamhi)** emitió una nueva advertencia meteorológica sobre la amenaza de **tormentas y fuertes lluvias en Ecuador**.
+
+En la información del Inamhi se indica que estas condiciones climáticas se presentarán en la **Sierra, Amazonía y el norte de la Costa ecuatoriana.**
+
+### Más noticias 
+
+* [Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi](https://www.elcomercio.com/actualidad/ecuador/tarde-noche-lluvias-importante-region-ecuador-segun-inamhi.html "Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi ")
+* [Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?](https://www.elcomercio.com/actualidad/ecuador/temperatura-aumenta-ecuador-que-pasa-con-lluvias.html "Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?")
+* [Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?](https://www.elcomercio.com/actualidad/ecuador/cuenca-lluvias-rios.html "Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?")
+
+Estos fenómenos climáticos complejos intensificarán el mal tiempo en Ecuador, según el Inamhi. La entidad explica que el **ingreso de masas de aire húmedo desde la Amazonía y el sur del continente** **incrementarán las lluvias y tormentas eléctricas.**
+
+Addemás, la entidad explica que en esta nueva condición climática también inciden la **onda tropical Madden Julian** y el **calentamiento diurno**. Adicionalmente, las dinámicas de convergencia y divergencia de vientos también contribuirán al desarrollo de estos fenómenos meteorológicos.
+
+¿Cuándo Ecuador tendrá tormentas y fuertes lluvias?
+---------------------------------------------------
+
+De acuerdo con el **Inamhi,** la advertencia de las tormentas y las fuertes lluvias estará vigente desde el **domingo 27 hasta el miércoles 30 de octubre.** 
+
+Por ello, se pronostican l**luvias de diversa intensidad, tormentas eléctricas y ráfagas de viento**, que afectarán principalmente a las regiones **Amazónica, Sierra y el norte del Litoral.** 
+
+### Las condiciones más críticas se esperan el domingo 27 y lunes 28 de octubre.
+
+**Amazonía, Sierra y Litoral bajo amenaza**
+
+El mal tiempo se concentrará en la:
+
+* **Amazonía:** Especial afectación en Sucumbíos, Orellana, Napo y Pastaza.
+* **Litoral:** Esmeraldas y Santo Domingo de los Tsáchilas tendrán los mayores niveles de riesgo.
+* **Sierra:** Provincias como Carchi, Imbabura, Pichincha, Cotopaxi y Tungurahua estarán bajo amenaza alta, con posibilidad de granizo en ciertas zonas.
+
+Según las previsiones, las **lluvias intensas, granizo y ráfagas de viento** impactarán la Amazonía, Sierra y Litoral.
+
+Los impactos y riesgos para la población por las lluvias
+--------------------------------------------------------
+
+**Las autoridades advierten sobre**:
+
+**Inundaciones** en viviendas, comercios y carreteras.
+
+**Deslizamientos** de tierra y niebla densa que afectarán las vías.
+
+**Desbordamientos** de ríos en áreas vulnerables como Sucumbíos, Orellana y Pastaza.
+
+**Riesgos eléctricos:** Se recomienda no refugiarse bajo árboles ni manipular herramientas metálicas durante las tormentas.
+
+> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) 55 | Entre el 27 y el 30 de octubre; se prevé precipitaciones de variable intensidad con tormentas en la región Amazónica, zonas de estribación de cordillera oriental y norte-interior del Litoral 🌦️🌧️⛈️  
+> Mayor Información 👇 [pic.twitter.com/X4NBKXckGy](https://t.co/X4NBKXckGy)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 26, 2024](https://twitter.com/inamhi_ec/status/1850326241884156240?ref_src=twsrc%5Etfw)
+
+Recomendaciones para la seguridad de las personas por las lluvias
+-----------------------------------------------------------------
+
+La **Secretaría de Gestión de Riesgos** ha emitido las siguientes recomendaciones:
+
+* **Evacuar** de inmediato si las autoridades lo indican
+* **Estar atento** a los boletines oficiales y seguir las instrucciones de los servicios de emergencia.
+* **Tomar precauciones** ante posibles cortes de energía y afectaciones en carreteras por acumulación de agua y deslizamientos.
+
+Este fenómeno es una clara advertencia para la población ecuatoriana, que deberá mantenerse alerta ante posibles emergencias durante estos días.
+
+Los organismos de control y emergencia estarán monitoreando la situación para tomar acciones inmediatas y proteger la seguridad de los ciudadanos, se informó en el boletín de la **alerta meteorológica del Inamhi**[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
+
+Asamblea Nacional inició segundo debate de Ley Energética
+=========================================================
+
+Se trata del segundo y definitivo debate sobre la propuesta de reforma energética.
+----------------------------------------------------------------------------------
+
+![Sesión del Pleno de la Asamblea Nacional. Foto: Asamblea Nacional](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo199.jpg)
+
+El Pleno de la **Asamblea Nacional** comenzó este 27 de octubre de 2024 el segundo y definitivo debate sobre la propuesta de reforma de la Ley Energética presentada por el presidente **Daniel Noboa**.
+
+### **Más noticias:**
+
+* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html")
+* [Viviana Veloz se refirió a la reconsideración de votos en el juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link")
+* [Daniel Noboa emitió otro veto total en menos de una semana](https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link")
+
+Asamblea Nacional inició segundo debate de Ley Energética
+---------------------------------------------------------
+
+Denominada ‘Ley Orgánica para impulsar la iniciativa privada en la generación eléctrica’, el proyecto busca facilitar el desarrollo e implementación de proyectos de generación eléctrica a partir de diversas fuentes de energía renovable y tecnologías de transición.
+
+La normativa establece que las empresas dedicadas a la generación térmica deberán presentar planes de transición hacia tecnologías que reduzcan el impacto ambiental.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) | La presidenta de la Asamblea Nacional, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), solicita al secretario General, [@AlejandroMunozH](https://twitter.com/AlejandroMunozH?ref_src=twsrc%5Etfw) dar lectura en su parte resolutiva del segundo punto del orden del día de la sesión N° 975:  
+> ✅ Conocer y resolver respecto del Informe para Segundo Debate… [pic.twitter.com/DEY2TmEAXT](https://t.co/DEY2TmEAXT)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850547596088987844?ref_src=twsrc%5Etfw)
+
+Entre las estrategias propuestas se incluye el uso de gas natural como alternativa a combustibles fósiles más contaminantes.
+
+Además, se fomentará el desarrollo de proyectos **híbridos** que combinen generación térmica con energías renovables, promoviendo una transición más sostenible.
+
+Frente a eso, el asambleísta **Camilo Salinas** destacó, en el segundo debate, que la energía es vital y se requiere de inversión para potenciar la producción y potenciar los proyectos de energía eólica y térmica. Indicó que su bancada apoyará esta normativa.
+
+Con el nuevo proyecto se busca eficiencia energética
+----------------------------------------------------
+
+El proyecto también permite que las empresas importen gas natural para autoconsumo en sus procesos productivos, así como para la generación de energía eléctrica. Esto busca sustituir el uso de otros hidrocarburos en actividades productivas en el país.
+
+Las iniciativas que actualmente están en trámite, con un límite de 10 megavatios, podrán solicitar una revisión de sus permisos para adaptarse a los nuevos límites de potencia establecidos por la ley.
+
+Asimismo, los proyectos en operación que cumplan con esta condición podrán solicitar un ajuste en su capacidad.
+
+Sobre eso, el asambleísta Jorge Acaiturri señaló que: “Al pueblo no le importa quien hace la obra o mejora el servicio, si lo hace el mercado o el Estado; si no que le importa acceder al servicio y vivir bien”.
+
+Añadió: “Esta Ley no será un ‘no más apagones’, sino que será una verdadera herramienta para un marco jurídico que garantice la inversión del sector privada”.
+
+La ley también establece que los gobiernos autónomos descentralizados implementen sistemas de gestión de residuos que incluyan el procesamiento de basura para generar energía.
+
+En paralelo, las empresas distribuidoras de electricidad deberán reemplazar las luminarias públicas existentes por modelos de tecnología LED y solares, mejorando así la eficiencia energética.
+
+Finalmente, la banca pública y privada podrá ofrecer créditos a tasas preferenciales para individuos y empresas del sector privado que deseen implementar sistemas de generación de energía renovable para autoconsumo. Estos sistemas permitirán a los beneficiarios comercializar cualquier excedente de energía generada, contribuyendo a una mayor sostenibilidad en el país.
+
+La alegría de Flamengo tras el primer gol de Gonzalo Plata
+==========================================================
+
+Gonzalo Plata compartió su emoción en las redes sociales. El ecuatoriano anotó con Flamengo e ilusiona a los hinchas.
+---------------------------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata festeja un gol con la camiseta del Flamengo del fútbol brasileño.](https://www.elcomercio.com/wp-content/uploads/2024/10/gonzaloplata.jpg)
+
+**Gonzalo Plata**, el talentoso atacante ecuatoriano, se convirtió en héroe de la jornada al anotar su primer gol con el **Flamengo** en un partido crucial.
+
+Flamengo ganó 4-2 al Juventude, el 26 de octubre del 2024. El cotejo marcó el debut goleador del tricolor que se expresó emotivamente en las redes sociales.
+
+### Más noticias:
+
+* [Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo](https://www.elcomercio.com/deportes/futbol/filipe-luis-gonzalo-plata-flamengo.html "Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo")
+* [Deportivo Quito recibe a Cantera Orense en el Nacional de Ascenso](https://www.elcomercio.com/deportes/deportivo-quito-cantera-orense-resultado-clasificado.html "Deportivo Quito recibe a Cantera Orense en el Nacional de Ascenso")
+* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
+
+Tras el encuentro, Gonzalo Plata expresó su felicidad: “Esperaba con ansias este día. Estoy feliz por aportar con un gol en esta importante victoria para seguir en la pelea”, dijo el ecuatoriano de 23 años.
+
+Además, no dudó en manifestar su deseo de seguir luchando con el equipo: “¡Vamos x más Mengão!”.
+
+El gol de Gonzalo Plata
+-----------------------
+
+El gol llegó de manera espectacular. Gerson, en una brillante jugada, encaró la defensa rival y, al ingresar al área, asistió a Plata.
+
+El ecuatoriano controló el balón con su pie izquierdo y, sin pensarlo dos veces, disparó con la misma pierna, enviando el balón al fondo de la red al 90 +5. Fue el 4-2.
+
+Esta anotación representa un hito significativo en la carrera de Plata, quien espera consolidarse tanto en el Flamengo como en la Selección de Ecuador.
+
+Desde su llegada al club brasileño en agosto de 2024, las expectativas han sido altas. El joven de 23 años, que firmó un contrato hasta 2029, busca dejar huella en uno de los clubes más prestigiosos de Sudamérica.
+
+Sin embargo, su camino no ha estado exento de dificultades. Tras un incidente en Nueva York durante una gira de la selección, Plata fue excluido de las convocatorias, aunque el nuevo entrenador, Sebastián Beccacece, ya lo tiene en el radar.
+
+A pesar de las críticas, incluido un comentario del histórico **Gerson,** que cuestionó su rendimiento tras la eliminación de Flamengo en la Copa Libertadores, los aficionados siguen confiando en que Plata aportará su habilidad y energía al equipo en los desafíos venideros.
+
+La espera por ver más de su talento en acción ha comenzado, y los seguidores del Mengão están ansiosos por lo que vendrá.
+
+> 🤳🗣️Plata: “Hoy hice mi primer gol aquí, estoy muy contento y espero hacer muchos más.” ❤️🖤 [pic.twitter.com/nUe3ey9Gaq](https://t.co/nUe3ey9Gaq)
+> 
+> — Flamengo (@Flamengo\_es) [October 26, 2024](https://twitter.com/Flamengo_es/status/1850293492570063079?ref_src=twsrc%5Etfw)
+
+80 millones de adultos tienen ludopatía o una relación problemática con el juego
+================================================================================
+
+Un análisis constató que un 15,8% de los adultos y un 26,4% de adolescentes que juegan en casinos podrían padecer ludopatía.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Imagen sobre juegos de azar.](https://www.elcomercio.com/wp-content/uploads/2024/10/juegos-azar-pexels.jpg)
+
+Unos **80 millones de adultos** en todo el mundo tienen [ludopatía](https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html "https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html") o una **relación problemática** con los juegos de azar, indicó un informe publicado este jueves por ‘The Lancet public health’, que pidió a los Gobiernos abordarlo internacionalmente como un **asunto de salud pública.**
+
+### Más noticias
+
+* [Los juegos de azar, entre la clandestinidad y la ludopatía](https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html "https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html")
+* [Expertos concuerdan en que cobro de impuestos a juegos de apuesta en línea es válido](https://www.elcomercio.com/actualidad/negocios/ludopatia-cobro-impuestos-juegos-apuestas.html "https://www.elcomercio.com/actualidad/negocios/ludopatia-cobro-impuestos-juegos-apuestas.html")
+
+El estudio fue elaborado por una **comisión de expertos** coordinada por la revista en base a investigaciones y datos disponibles. Halló que, en total, **448,7 millones de adultos** están en situación de riesgo, es decir, experimentan al menos un síntoma y más o menos **consecuencias adversas resultantes** del hábito o adicción.
+
+Los autores subrayaron la necesidad de **restringir las actividades de las aplicaciones** y plataformas digitales de juego, que se están expandiendo rápidamente incluso en países donde éste está prohibido.
+
+Ludopatía o trastorno del juego
+-------------------------------
+
+El análisis de la comisión constató que un **15,8% de los adultos** y un 26,4% de los adolescentes que juegan en casinos o tragaperras en línea podrían padecer **ludopatía o trastorno del juego**. Esto incluye a un 8,9% de los adultos y un 16,3% de los adolescentes que hacen apuestas digitales de carácter deportivo.
+
+Los comisionados, especialistas en varias disciplinas, señalaron que el juego se asocia a “**pérdidas financieras** y riesgo de ruina” y a “**problemas de salud física** y mental, ruptura de relaciones y de la familia, un **mayor riesgo de suicidio** y de violencia doméstica, al aumento de los delitos contra la propiedad y las personas y a la pérdida de empleo”.
+
+Plataformas digitales y videojuegos
+-----------------------------------
+
+Estimaron que, debido a la **proliferación de las plataformas digitales** y los videojuegos -cuya “arquitectura” los promueve-, los juegos de azar están al alcance en más del 80% de los países del mundo.
+
+Los académicos apuntaron que “su expansión aumenta con especial rapidez en los de **ingresos bajos** y medios, que a menudo tienen una **infraestructura regulatoria débil** para hacer frente a esta industria global y su impacto”.
+
+Niños y adolescentes expuestos a publicidad
+-------------------------------------------
+
+El efecto de los juegos de azar es mayor en grupos especialmente vulnerables, entre ellos los socialmente desfavorecidos. Es el caso de “los **niños y adolescentes que se ven expuestos de forma rutinaria** a la publicidad de productos de juego”, adujeron los autores.
+
+Los comisionados pidieron a las autoridades que establezcan una regulación eficaz en todos los países, al margen de si jugar es o no permitido por ley.
+
+En su opinión, esto debería incluir una reducción de la disponibilidad de estos productos y de la exposición de la población a ellos, “mediante **prohibiciones o restricciones** en el acceso, la promoción, el marketing y el patrocinio”.
+
+Los expertos también recomendaron que los Estados ofrezcan apoyo y tratamiento asequible a los afectados de trastornos del juego y pongan en marcha campañas de concienciación social.
+
+Charles Livingstone, de la Universidad de Monash en Australia, indicó que “los australianos son los que más gastan en **juegos de azar per cápita en el mundo**, con unos **1 555 dólares australianos** por adulto al año”, y aseguró que hay voluntad en el país para tratarlo como un problema de salud pública.
+
+Heather Wardle, de la Universidad de Glasgow en el Reino Unido, advirtió por su parte del desafío que plantea la naturaleza cambiante del juego.
+
+“Cualquier persona con un teléfono móvil tiene ahora acceso a lo que básicamente es un casino de bolsillo, las 24 horas del día. Los **sofisticados marketing** y tecnología hacen que sea más fácil empezar a jugar y más difícil dejar de hacerlo”, afirmó.
+
+Kristiana Siste, de Universitas Indonesia, instó a tomar medidas para proteger a los menores de edad.
+
+“Sabemos que la **exposición temprana aumenta el riesgo** de desarrollar trastornos más adelante en la vida, y los niños y adolescentes son particularmente vulnerables al **atractivo del dinero fácil** y a los diseños parecidos a los videojuegos de los juegos de azar en línea”, agregó. 
+
+Ángela Aguilar causa polémica con el lanzamiento de su muñeca
+=============================================================
+
+La cantante mexicana Ángela Aguilar presentó su muñeca en su cuenta de Instagram.
+---------------------------------------------------------------------------------
+
+![Ángela Aguilar presentó su muñeca por e Día de los Muertos. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo198.jpg)
+
+La cantante de música regional mexicana, **[Ángela Aguilar](https://www.angelaaguilaroficial.com/ "https://www.angelaaguilaroficial.com/")**, desató controversia tras el lanzamiento de su muñeca ‘La Llorona’. La presentó para conmemorar el Día de Muertos.
+
+La hija del reconocido cantante **Pepe Aguilar** busca honrar las tradiciones mexicanas con este nuevo producto, inspirado en su famosa interpretación de la icónica canción.
+
+### **Más noticias:**
+
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html")
+* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html "https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html")
+
+**Ángela Aguilar presentó su muñeca en redes sociales**
+-------------------------------------------------------
+
+En su cuenta de **Instagram**, **Ángela Aguilar c**ompartió un video donde presenta su muñeca. “Angelitxs! Me emociona mucho poder presentarles la nueva edición de mi muñeca ‘La Llorona’ para celebrar y honrar junto a ustedes la tradición del Día de Muertos”.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBfEXyKOQjG/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Ángela Aguilar (@angela\_aguilar\_)](https://www.instagram.com/reel/DBfEXyKOQjG/?utm_source=ig_embed&utm_campaign=loading)
+
+**¿Cómo es la muñeca?**
+-----------------------
+
+La **muñeca**, que se asemeja al vestuario que Ángela Aguilar usó en el video musical de ‘La Llorona’, destaca por su elegante diseño.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C_8pQTFOkbg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Ángela Aguilar (@angela\_aguilar\_)](https://www.instagram.com/reel/C_8pQTFOkbg/?utm_source=ig_embed&utm_campaign=loading)
+
+El atuendo incluye un vestido negro con bordados dorados, flores, un velo de encaje, un tocado y largos pendientes dorados, lo que refleja la riqueza cultural de México.
+
+**¿Cuánto cuesta el juguete?**
+------------------------------
+
+El precio de la muñeca es de 55 dólares, equivalentes a 1 089 pesos mexicanos. Además, la preventa incluye un CD sorpresa como obsequio, según detalla su página web.
+
+Esta muñeca forma parte de la colección ‘Mexicano hasta los huesos”Ç’, que incluye varios productos relacionados con la cultura mexicana, como un libro.
+
+**Polémica por el lanzamiento de su muñeca**
+--------------------------------------------
+
+Los usuarios de redes sociales cuestionaron el ‘orgullo mexicano’ de Ángela Aguilar, recordando sus comentarios sobre su nacionalidad en el pasado.
+
+Chelsea de Moisés Caicedo brilla y derrota al Newcastle
+=======================================================
+
+Moisés Caicedo fue otra vez figura en el Chelsea que recibió al Newcastle en un tremendo partido en la Premier League
+---------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo, jugador ecuatoriano del Chelsea festeja con sus compañeros en el juego ante Newcastle.](https://www.elcomercio.com/wp-content/uploads/2024/10/caicedochelsea.jpg)
+
+El Chelsea de **Moisés Caicedo** se enfrentó al **Newcastle** en Stamford Bridge este domingo 27 de octubre de 2024. En un emocionante y reñido partido, los ‘blues’ ganaron 2-1.
+
+El ecuatoriano fue otra vez una de las figuras de su equipo, que sumó 17 puntos en 9 cotejos y se mantiene en la zona alta de la clasificación de la **Premier League.**
+
+### Más noticias:
+
+* [Moisés Caicedo, el nuevo héroe de los hinchas ecuatorianos](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-nuevo-heroe-de-los-hinchas-ecuatorianos.html "Moisés Caicedo, el nuevo héroe de los hinchas ecuatorianos")
+* [¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?](https://www.elcomercio.com/deportes/moises-caicedo-conference-league-chelsea-panathinaikos.html "¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?")
+* [Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-liverpool-asistencia-capitan.html "Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool")
+
+**Nicolás Jackson** abrió el marcador a los 18 minutos con un espectacular gol, tras una jugada rápida que dejó a los aficionados felices.
+
+El empate del Newcastle lo marcó el sueco Alexander Isak a los 32′.
+
+El 2-1 llegó en el inicio del segundo tiempo gracias a un superlativo **Cole Palmer** que marcó con un fuerte remate de izquierda a los 47′.
+
+La jugada del primer gol del **Chelsea** comenzó cuando **Cole Palmer** envió un pase largo desde su propia área, habilitando a Pedro Neto por la banda izquierda.
+
+Neto, con gran velocidad, centró el balón para que Jackson, con gran precisión, firmara su sexto gol de la temporada.
+
+Esta acción dejó claro el potencial del Chelsea, que mostró un juego contundente y bien organizado. Eso sí, al final padecieron porque el Newcastle presionó hasta el final por lograr el empate que a la postre no llegó.
+
+Moisés Caicedo
+--------------
+
+**Moisés Caicedo** se destacó nuevamente en el mediocampo, siendo un pilar fundamental en el esquema táctico del entrenador **Enzo Maresca.**
+
+Su capacidad para recuperar balones y distribuir el juego ha sido clave para el rendimiento del equipo.
+
+Es más, a los 36 realizó un tremendo remate desde fuera del área que pasó muy cerca de travesaño.
+
+El ecuatoriano se mostró activo y comprometido, creando espacios y aportando a la construcción del juego ofensivo.
+
+El **Newcastle** también tuvo sus oportunidades, pero Chelsea mantuvo la presión y el control del balón.
+
+Con el apoyo de sus aficionados, el equipo local consolidó la victoria que es crucial en su carrera por los primeros puestos de la Premier League.
+
+> El XI del Chelsea para hoy. 🗞️👇[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHENEW](https://twitter.com/hashtag/CHENEW?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zHjojaUH03](https://t.co/zHjojaUH03)
+> 
+> — Chelsea FC en español (@ChelseaFC\_Sp) [October 27, 2024](https://twitter.com/ChelseaFC_Sp/status/1850519347745177993?ref_src=twsrc%5Etfw)
+
+Evo Morales denunció ataque armado en su contra
+===============================================
+
+Evo Morales culpó al Gobierno de Luis Arce, afirmando que "hoy se ha cumplido" un plan para intentar matarlo.
+-------------------------------------------------------------------------------------------------------------
+
+![Evo Morales denunció ataque armado. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo197.jpg)
+
+El expresidente de Bolivia, **Evo Morales**, denunció este 27 de octubre de 2024 que el vehículo que lo trasladaba hacia su programa de radio fue atacado por desconocidos.
+
+### **Más noticias:**
+
+* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html")
+* [Kamala Harris anunciará un plan para que los latinos alcancen el ‘sueño americano’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html")
+* [Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris](https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html")
+
+**Evo Morales denunció ataque armado en su contra**
+---------------------------------------------------
+
+Evo Morales afirmó que dispararon al menos 14 veces, hiriendo a su chofer. El incidente ocurrió en el trayecto entre Villa Tunari y Lauca ÑÑ, en el Trópico de **Cochabamba**.
+
+Morales, líder del Movimiento al Socialismo (MAS), relató a la radio Kawsachun Coca que notó la presencia de dos o tres camionetas que seguían su vehículo.
+
+Ante la situación, su chofer tomó un desvío, pero la persecución continuó.
+
+“Ahí me di cuenta que era un operativo”, mencionó el exmandatario, quien se mostró agradecido por haber salido ileso del ataque.
+
+El suceso fue registrado en un video de cuatro minutos, donde se escucha a los ocupantes del coche instando a **Morales** a agacharse.
+
+Durante el ataque, el exgobernante intentaba alertar sobre lo que estaba ocurriendo. La grabación muestra el momento en que se percatan de que el chofer sangra de la cabeza y toca la bocina para avanzar en medio del tráfico.
+
+Tras el ataque, Morales culpó al Gobierno de **Luis Arce**, afirmando que “hoy se ha cumplido” un plan para intentar matarlo.
+
+Este ataque se produce en un contexto de tensiones políticas en **Bolivia**. Sucede a dos semanas del bloqueo indefinido de caminos por parte de seguidores de Morales. Ellos exigen el retiro de procesos judiciales en su contra.
+
+Además, los manifestantes piden soluciones al aumento de precios de alimentos, la falta de dólares y la irregular provisión de combustibles.
+
+La Cancillería boliviana calificó estas protestas como un intento de interrumpir el orden democrático, mientras el presidente Arce relevó al alto mando militar para preservar la estabilidad del país.
+
+Trágico siniestro vehicular en Quito
+====================================
+
+Un nuevo siniestro vehicular se registró en la avenida Simón Bolívar.
+---------------------------------------------------------------------
+
+![Miembros del Cuerpo de Bomberos de Quito durante labores de rescate. Foto: Cuerpo de Bomberos](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo196.jpg)
+
+La madrugada de este 27 de octubre de 2024, a las 00:11, el **Cuerpo de Bomberos de Quito** recibió una alerta sobre un **siniestro vehicular** en la avenida Simón Bolívar, sector Puente de Gualo.
+
+Al lugar del accidente se movilizaron 13 efectivos, junto con una unidad de rescate y una ambulancia.
+
+### **Más noticias:**
+
+* [Quito tiene opciones para reducir los siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html")
+* [Trabajos cerca del túnel Guayasamín afectan la movilidad, conozca las alternativas](https://www.elcomercio.com/actualidad/quito/trabajos-tunel-guayasamin-afectan-movilidad-alternativas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/trabajos-tunel-guayasamin-afectan-movilidad-alternativas.html?source=Internal&ref=Single+Content+Link")
+* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html?source=Internal&ref=Single+Content+Link")
+
+**Trágico siniestro vehicular en Quito**
+----------------------------------------
+
+Miembros del Cuerpo de Bomberos de Quito constataron que un vehículo impactó contra el muro de contención del puente y cayó aproximadamente 100 metros en la quebrada, sufriendo daños totales.
+
+En el lugar, se atendió a una mujer con múltiples **policontusiones**. Tras recibir atención médica, fue estabilizada y transportada a una casa de salud para exámenes especializados.
+
+**Siniestro vehicular deja un muerto**
+--------------------------------------
+
+Lamentablemente, el conductor del vehículo, un hombre, fue encontrado atrapado y sin signos vitales. Los bomberos realizaron maniobras de rescate para extraer el cuerpo.
+
+Luego, fue empaquetado y llevado a la parte alta del puente para ser entregado a personal de medicina legal.
+
+Para asegurar el desarrollo de las labores de rescate, el **Cuerpo de Bomberos de Quito** coordinó con la Agencia Metropolitana de Tránsito (AMT) el cierre de la vía.
+
+Además, se solicitó la asistencia de una grúa y se contactó al Servicio de Investigación de Accidentes de Tránsito (SIAT) para determinar las causas del siniestro.
+
+**Más siniestros este 27 de octubre de 2024**
+---------------------------------------------
+
+En la madrugada, en la avenida Simón Bolivar, sector UIDE en sentido de sur a norte, se constató un vehículo tipo furgoneta impactada contra poste de alumbrado público.
+
+Personal paramédico de Bomberos Quito asistió a dos ocupantes y brindó seguridad en el sitio hasta retirar al vehículo accidentado.
+
+A las 01:30, en la vía a Nono sector del Club de Abogados, se encontró un furgón tipo encunetado sobre un costado de la vía. Los bomberos atendieron y estabilizaron a un hombre de aproximadamente 21 años,.
+
+A las 05:30, en las calles Huirachuros y Orquídeas, sector Tumbaco, se verificó la pérdida de pista de vehículo pequeño.
+
+Cabecilla de Los Tiguerones fue capturado con fuerte armamento
+==============================================================
+
+A esta persona se le atribuye la responsabilidad de dirigir y organizar actividades delictivas.
+-----------------------------------------------------------------------------------------------
+
+![En poder del aprehendido se encontraron municiones de varios calibres. Foto: Ejército Ecuatoriano](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo195.jpg)
+
+Cabecilla de Los Tiguerones fue capturado con fuerte armamento. El **Ejército Ecuatoriano** ejecutó un operativo gracias a información de inteligencia militar.
+
+El Grupo Especial de Comandos Nro. 9 realizó un patrullaje móvil en el redondel de **Codesa**, donde detectó un vehículo Chevrolet negro que transitaba por el área.
+
+Ante la presencia de las fuerzas armadas, el ocupante del automóvil intentó escapar por la vía Carlos Concha, pero fue aprehendido.
+
+### **Más noticias:**
+
+* [Policía capturó a mujer que estaría vinculada a Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html")
+* [Líder de Los Tiguerones tenía una vida de lujos en España](https://www.elcomercio.com/actualidad/seguridad/lider-tiguerones-vida-lujos-espana.html "https://www.elcomercio.com/actualidad/seguridad/lider-tiguerones-vida-lujos-espana.html")
+* [Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html")
+
+**Cabecilla de Los Tiguerones fue capturado con fuerte armamento**
+------------------------------------------------------------------
+
+El detenido, identificado como Carlos A., es un presunto integrante del grupo delictivo organizado (GDO) conocido como **[Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html")**. La captura ocurrió en Esmeraldas.
+
+A esta persona se le atribuye la responsabilidad de dirigir y organizar actividades delictivas, incluyendo sicariato, secuestros y extorsiones en **Esmeraldas**.
+
+Carlos A. es tío paterno de William A. (alias ‘Comandante Willy’) y Alex A. (alias ‘El Ronco’). Ellos recientemente fueron detenidos en **España** y son considerados cabecillas de este grupo criminal.
+
+**Cabecilla de Los Tiguerones tenía un fusil**
+----------------------------------------------
+
+En poder del hombre capturado se encontraron:
+
+* Un fusil marca Remington
+* Municiones de varios calibres
+* Tacos de pentolita cilíndrica de 450 gr
+* Aprox. 30 m de cordón detonante
+* Aprox. 30 m de mecha lenta
+* Iniciadores ordinarios  
+    (cápsula detonante)
+* Una radio de comunicaciones
+
+El aprehendido, junto al armamento, las municiones y los explosivos fueron entregados a las autoridades competentes para los procedimientos legales pertinentes.
 
 Cartas a Quito / 27 de octubre de 2024
 ======================================
@@ -88,6 +608,26 @@ Es fundamental recordar que la educación no se limita a las aulas. La curiosida
 En conclusión, la familia es nuestra primera escuela, donde se sientan las bases del aprendizaje y el desarrollo personal. Valoremos este papel fundamental e invirtamos tiempo y esfuerzo en crear un entorno familiar que fomente el crecimiento, el amor por el conocimiento y la curiosidad por el mundo que nos rodea. ¡La educación comienza en casa! 
 
 Roberto Camana-Fiallos 
+
+Juicio ganado y el juicio perdido…
+==================================
+
+La ministra se defendió, en su conjunto, muy bien, de manera ordenada, específica  y firme.
+-------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+**I.- La votación:** A la final, el correísmo  no pudo alzarse con la cabeza – como señal de **triunfo** con sabor a venganza –  de  la **Ministra** del **Interior**  M. **Palencia**, toda vez que no logró conseguir los 92 votos,  contando solo con 77 a favor de la **censura**, **votos compuestos** por RC5 y PSC, dándose 40 votos  en contra de la **censura** y 16 abstenciones principalmente atribuibles a  Construye, los mismos que fueron los decisivos, y que, según el **interpelante** L. Berrezueta (RC5) y de G. Celi, presidente de SUMA, tienda que auspicia la **candidatura** de J. Topic, serían probablemente suerte de un **acuerdo** a cambio de la **aprobación** por parte del TCE de la lista de **asambleístas** de **Construye**.
+
+**II.- Un atormentado correísmo que va de mal en peor**: Lo cierto es que, esta nueva derrota del devaluado correísmo, se suma a una larga lista de **fracasos** y golpes, tales como, los fallidos juicios a la Fiscal y a la Canciller; un **binomio presidencial** débil y no puntero por primera vez; la **declaración** como no elegibles para ingresar a **Estados Unidos** de sus **cabecillas** y por ende – como ya lo hemos anotado –   el **derrumbamiento** de la teoría del Lawfare; el encarcelamiento de Glas y el **debilitamiento** del apoyo al  “asalto” a la **embajada mexicana**  y del asilo (tema que por cierto, siendo una de las iniciales causales principales del **juicio político** en contra de **Palencia**, fue al final del día  hábilmente no utilizado por el correísmo, toda vez que dadas las circunstancias, esas iniciales armas resultaban a la fecha contraproducente políticamente); el **espaldarazo** a las forzadas “**elecciones**” del 28 de julio al dictador Maduro; los pronunciamientos inconsistentes de su **candidata** L. González en cuanto, entre otros,  a fuentes de **energía** limpias ajenas a las **fuentes hídricas**, y un largo etc.; todo lo cual, cabe indicarse, no les **resta apoyo** del **voto** duro del que disponen, pero sí les alejaría del **voto dubitativo**. 
+
+La interpelante, P. Cabezas, había expresado poco tiempo atrás que, si  el **juicio político** no resultaba favorable a sus intereses, ella se iría a su casa. ¿Será que cumple su palabra?, al decir de las **cuestionables prácticas** utilizadas en el **juicio**, lo más probable es que, consistente con aquello, no la cumpla.
+
+**III.- Una defensa implacable:** La ministra se defendió, en su conjunto, muy bien, de **manera ordenada**, específica  y firme, no dando posibilidades de réplica a los interpelantes, los mismos que fueron **apaleados** por la **contundencia** de los **argumentos** de la ministra, la misma que salió bien librada de la **censura**, quien merecía salir inmune – pese a tener mucho **trabajo** aún por realizar en el campo de la seguridad – entre otros motivos, independientemente del interesado apoyo o no de **Construye**, por la **solidez** argumentativa frente a la **debilidad intelectual** de sus **interpelantes**.
+
+Cabe indicarse que, el día del **juicio**, no se dio paso a la reconsideración de la **votación**, la cual aún estaría latente, pese a que en la **práctica** y como van las cosas, siendo no imposible, es poco probable que reviva el intento de **censura** en su contra vía reconsideración de la **votación**, caso en el cual, Construye tendría la última palabra… 
+
+**Conclusión:** Para el **oficialismo**, apagado por las **circunstancias atmosféricas** y por sus consecuencias en las **encuestas**, lo dado es una luz de **alegría** alzándose con la copa de la **victoria** al no darse  la censura en contra de su más **representativa  ministra**, entre otros motivos, por su cercanía con Noboa; y, por otro lado,  quien Perdió el Juicio, fue sin duda el desorientado correísmo, no solamente por sus **resultados prácticos** en el **campo político**, sino por el peculiar **carácter** y conducta de su **líder**.
 
 Turismo al desapego
 ===================
@@ -422,706 +962,3 @@ Días soleados en la Sierra andina 
 El **Inamhi** reporta que para este fin de semana del 26 al 27 de octubre de 2024 se prevé la presencia de **mucho sol y radiación ultravioleta muy alta[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")**
 
 Es decir, se esperan **días calurosos en la región Interandina, así como en la Costa.** Se espera que ingresen masas de aire húmedo de la Amazonía, que suelen producir lluvias en **Ecuador.**
-
-Cortes de luz en Guayaquil para este domingo 27 de octubre
-==========================================================
-
-La Corporación Nacional de Electricidad (CNEL) detalló el cronograma de cortes de luz que tendrá la capital de Guayas este domingo.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Guayaquil tendrá cortes de luz de 14 horas este domingo](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guay-domingo-27-octubre.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló el cronograma de **cortes de luz** que tendrá **Guayaquil** este domingo **27 de octubre** de 2024.
-
-### Más noticias
-
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-* [Cortes de luz en Quito para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-domingo-27-de-octubre.html "Cortes de luz en Quito para este domingo 27 de octubre")
-* [Cortes de luz en Cuenca para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-domingo-27-de-octubre.html "Cortes de luz en Cuenca para este domingo 27 de octubre")
-
-Cortes de luz en Guayaquil para este domingo 27 de octubre
-----------------------------------------------------------
-
-La capital de Guayas mantendrá **apagones programados** de 14 horas, distribuidos en **tres franjas horarias**.
-
-La suspensión del servicio eléctrico será de cinco horas en la **madrugada-mañana**, de cuatro horas en la **tarde** y de otras cinco horas en la **noche**.
-
-Las **zonas residenciales** de Guayaquil tienen **horarios** de cortes de luz distribuidos en **37 sectores**.
-
-Mientras que el **sector industrial**, ubicado en Naturisa y Songa, tendrá apagones de 12 horas, de 04:00 a 16:00.
-
-Apagones se extendieron a 14 horas
-----------------------------------
-
-La ministra encartada de Energía y Minas, **Inés Manzano**, informó la noche del jueves 24 de octubre, que los cortes de luz se extenderían de ocho a 14 horas en los próximos tres días.
-
-Luego, el domingo, las autoridades **analizarán la situación** para decidir si este horario se mantiene, se extiende o se reduce.
-
-El anunció llegó luego de que una semana atrás, el Gobierno afirmara que los apagones en Ecuador se reducirían de forma paulatina a **seis y cuatro horas** semanalmente.
-
-La suspensión del servicio eléctrico corresponde a la **crisis hídrica** que enfrenta el país, generada en gran parte, a la **falta de lluvias** en las zonas en las que se ubican las centrales hidroeléctricas.
-
-Manzano prometió que, pese a la grave situación que atraviesa Ecuador, para diciembre los **racionamientos** se reducirán lo máximo posible o serán nulos.
-
-> A la ciudadanía: [pic.twitter.com/jZh6sevgIU](https://t.co/jZh6sevgIU)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 25, 2024](https://twitter.com/RecNaturalesEC/status/1849668776922333255?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Quito para este domingo 27 de octubre
-======================================================
-
-La Empresa Eléctrica Quito (EEQ) detalló los 10 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Quito tendrá cortes de luz de 14 horas este domingo](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-domingo-27-octubree.jpg)
-
-La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este domingo 27 de octubre de 2024.
-
-### Más noticias
-
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-* [Cortes de luz en Cuenca para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-domingo-27-de-octubre.html "Cortes de luz en Cuenca para este domingo 27 de octubre")
-* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
-
-La capital mantendrá **apagones programados** de 14 horas, distribuidos en **dos franjas horarias**.
-
-La suspensión del servicio eléctrico será de siete horas en la **mañana-tarde** y de siete horas en la **tarde-noche**.
-
-Cortes de luz en Quito para este domingo 27 de octubre
-------------------------------------------------------
-
-Las **zonas residenciales** de Quito tienen **siete horarios** de cortes de luz:
-
-### De 07:00 a 14:00 y 17:00 a 24:00
-
-* Miraflores
-* Río Coca
-* Conocoto
-* Tumbaco
-* Cumbayá
-
-### De 04:00 a 11:00 y 15:00 a 22:00
-
-* Luluncoto
-* Chilibulo
-* La Floresta
-* Cristianía
-* Eplicachima
-
-### De 06:00 a 13:00 y 17:00 a 24:00
-
-* La Carolina
-* Nueva Cumbayá
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-### De 07:00 a 14:00 y 17:00 a 24:00
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-### De 00:00 a 07:00 y 14:00 a 21:00
-
-* Barrionuevo
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* El Quinche
-
-### De 00:00 a 07:00 y 13:00 a 20:00
-
-* Olímpico
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Pomasqui
-* Eugenio Espejo
-
-### De 07:00 a 14:00 y 15:00 a 24:00
-
-* Luluncoto
-* San Roque
-* Río Coca
-* Cotocollao
-* Conocoto
-* Alangasí
-* Santa Rosa
-* Inga Bajo
-
-Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**.
-
-Este es el **cronograma completo** por barrios para este domingo 27 de octubre.
-
-Apagones se extendieron a 14 horas
-----------------------------------
-
-La ministra encartada de Energía y Minas, **Inés Manzano**, informó la noche del jueves 24 de octubre, que los cortes de luz se extenderían de ocho a 14 horas en los próximos tres días.
-
-Luego, el domingo, las autoridades **analizarán la situación** para decidir si este horario se mantiene, se extiende o se reduce.
-
-El anunció llegó luego de que una semana atrás, el Gobierno afirmara que los apagones en Ecuador se reducirían de forma paulatina a **seis y cuatro horas** semanalmente.
-
-La suspensión del servicio eléctrico corresponde a la **crisis hídrica** que enfrenta el país, generada en gran parte, a la **falta de lluvias** en las zonas en las que se ubican las centrales hidroeléctricas.
-
-Manzano prometió que, pese a la grave situación que atraviesa Ecuador, para diciembre los **racionamientos** se reducirán lo máximo posible o serán nulos.
-
-> A la ciudadanía: [pic.twitter.com/jZh6sevgIU](https://t.co/jZh6sevgIU)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 25, 2024](https://twitter.com/RecNaturalesEC/status/1849668776922333255?ref_src=twsrc%5Etfw)
-
-Liga de Quito está en shock por ‘errores arbitrales’
-====================================================
-
-El DT de Liga se quejó de las decisiones arbitrales y del VAR. Al final, con el empate, Liga de Quito perdió el liderato.
--------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito no supo ganar al Mushuc Runa y perdió el liderato de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-4.jpg)
-
-**Liga de Quito** recibió a **Mushuc Runa** en un encuentro que se tornó **polémico** debido a las decisiones del **árbitro** y del **VAR**, que desataron la indignación de los jugadores, técnicos e hinchas de LDU.
-
-Al final, la ‘U’ no pudo hacerse fuerte en casa, se dejó empatar de **Mushuc Runa** en los descuentos y con eso perdió el **liderato** de la Liga Pro a falta de solo cuatro fechas.
-
-### Más noticias:
-
-* [Liga de Quito no puede con Mushuc Runa y pierde el liderato](https://www.elcomercio.com/deportes/liga-quito-lider-mushuc-runa-var-idv.html "Liga de Quito no puede con Mushuc Runa y pierde el liderato")
-* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
-* [Independiente del Valle ganó y lidera la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-tabla-cuenca-ligapro.html "Independiente del Valle ganó y lidera la Liga Pro")
-
-Pablo Sánchez criticó al arbitraje
-----------------------------------
-
-El gol del empate de **Mushuc Runa**, que llegó en los descuentos (90 + 2), generó un torrente de críticas desde la tienda universitaria.
-
-El director técnico de Liga, **Pablo ‘Vitamina’ Sánchez**, expresó su frustración, señalando que hubo múltiples **errores arbitrales** que perjudicaron a su equipo.
-
-“Hay alguien que no quiere que Liga juegue la final. No puede ser que nos piten mal todos los partidos”, expresó Sánchez, quien mostró preocupación por las decisiones que, a su juicio, podrían estar afectando la trayectoria del club.
-
-“Somos el único equipo que no tiene un penal a favor”, agregó con firmeza.
-
-Eso sí, el DT de la ‘U’ se quejó de las actuaciones arbitrales pero fue poco autocrítico sobre el accionar de su equipo que no supo sentenciar el cotejo y al que igualaron al 90 +2 en el estadio Rodrigo Paz Delgado.
-
-Los albos reclaman como una acción peligrosa, que no les pitaron a su favor, en la jugada previa al gol del empate.
-
-Con todo, el DT y el capitán **Ezequiel Piovi** prometieron que lucharán hasta el final por ganar la etapa, a falta de cuatro fechas, para llegar a la final por el título.
-
-LDU y la controversia
----------------------
-
-La controversia se intensificó cuando **Sánchez** pidió que se liberaran los audios del VAR, sugiriendo que la transparencia podría esclarecer la situación.
-
-“Que liberen los audios del **VAR,** no tengan miedo”, instó, subrayando la necesidad de justicia en el deporte.
-
-A pesar de la decepción, el DT también dedicó el partido a Marco Angulo, un jugador del equipo que se encuentra hospitalizado tras un grave accidente de tránsito.
-
-“Queremos ganar y se lo queremos dedicar a Marco Angulo”, afirmó.
-
-Liga de Quito perdió el liderato
---------------------------------
-
-Con el empate 1-1, Liga de Quito no solo dejó escapar la victoria, sino que también perdió el liderato de la Liga Pro a falta de cuatro jornadas.
-
-Desde el lado de **Mushuc Runa**, el DT Ever Hugo Almeida se sintió merecedor del empate, generando más discusiones sobre el resultado final.
-
-**Liga** está segunda con 23 puntos. Ese mismo puntaje, pero con mejor gol diferencia es para el líder **Independiente del Valle.**
-
-Los partidos de Liga
---------------------
-
-**Liga de Quito** depende de sí misma a falta de cuatro partidos. La ‘U’ deberá visitar a **Emelec** y luego recibir a **IDV**, en un cotejo clave por ganar la etapa.
-
-Más adelante visitará a la **U. Católica** y cerrará en casa contra **Deportivo Cuenca.**
-
-Si LDU gana la etapa se medirá ante el IDV por el título de campeón en el 2024. Si Independiente gana se coronará campeón de manera directa.
-
-> De infartoooooo!!!! 🤯[@ClubMushucRuna1](https://twitter.com/ClubMushucRuna1?ref_src=twsrc%5Etfw) igualó 1-1 ante [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) con gol de Mathías Acuña y enciende la etapa. 🔥[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LEUVxJ7bdB](https://t.co/LEUVxJ7bdB)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [October 26, 2024](https://twitter.com/zapping_ecu/status/1850306056808771981?ref_src=twsrc%5Etfw)
-
-  
-  
-
-Conciertos cancelados de Luis Miguel generan controversia entre sus fanáticos
-=============================================================================
-
-Luis Miguel canceló varias presentaciones en México por problemas de salud, sin embargo, algunos seguidores no creen esta justificación.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Luis Miguel durante uno de sus conciertos en la gira Tour 2024](https://www.elcomercio.com/wp-content/uploads/2024/10/luis-miguel-concierto-cancelacion.jpg)
-
-Los **fanáticos** de **Luis Miguel** están preocupados debido a que el **cantante mexicano** canceló **seis conciertos** que tenía agendados en **México**, de su actual gira ‘**Luis Miguel Tour 2024**‘.
-
-### Más noticias
-
-* [Carlos Vives, Shakira y más músicos colombianos lloran la muerte de Egidio Cuadrado](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musicos-colombia-deceso-edigio-cuadrado.html "Carlos Vives, Shakira y más músicos colombianos lloran la muerte de Egidio Cuadrado")
-* [Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris](https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html "Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris ")
-* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify")
-
-La noticia sorprendió a sus **seguidores** por las razones que dio su **grupo de trabajo**. A través de un **comunicado oficial**, se detalló que cinco de estos shows no se realizarán porque el ‘**Sol de México**‘ tiene **problemas de salud**.
-
-“Por **causas de fuerza mayor** y **recomendación médica** (…) los **conciertos** serán **reprogramados**“, fue el mensaje que compartió la cuenta oficial del tour en su **Instagram**.
-
-**Luis Miguel** se encuentra en la parte final de su **exitosa gira**. Desde enero de **2024**, el músico realizó **104 conciertos**, todos con ‘**sold out**‘, incluida su presentación en **Ecuador**.
-
-Conciertos de Luis Miguel cancelados
-------------------------------------
-
-El cantante, una de las voces más extraordinarias de **Latinoamérica**, canceló los siguientes shows:
-
-* 24 de octubre, Ciudad de México
-* 27 de octubre, Pachuca
-* 28 de octubre, Ciudad de México
-* 29 de octubre, Querétaro
-* 31 de octubre, Irapuato
-
-El **miércoles 23 de octubre**, el artista de **54 años** iba a cantar en la **Ciudad de México**, sin embargo, también fue cancelado a última hora por “**fallas técnicas**“.
-
-Al **puertorriqueño** nacionalizado **mexicano** le restan por cumplir **18 fechas** en **México**, hasta el **1 de diciembre**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-19.png)
-
-Cancelaciones generan controversia entre sus fans
--------------------------------------------------
-
-Los fanáticos del intérprete de **icónicas canciones**, como **Incondicional**, **Ahora te puedes marchar** o **Culpable o no**, esperaban con ansias disfrutar de sus presentaciones en varias ciudades de **México**.
-
-Sin embargo, quienes iban a asistir a **CDMX**, **Pachuca**, **Querétaro** e **Irapuato** deberán esperar el anuncio de las **nuevas fechas**.
-
-A través de **redes sociales**, sus seguidores se mostraron preocupados por la salud del ‘**Sol**‘, pese a que no se conocen más detalles de su estado.
-
-Su comunidad se unió para desearle los mejores deseos en su **recuperación**, pero no todos.
-
-Posible fiesta privada de ‘Checo Pérez’
----------------------------------------
-
-Un creciente rumor de que las **cancelaciones** de los conciertos se hicieron para que **Luis Miguel** pueda encontrarse con el piloto de **Fórmula 1**, el mexicano **Sergio ‘Checo’ Pérez**, mantiene molesta a una parte de su comunidad.
-
-Si bien se confirmó que una imagen que circula en redes sociales de **Luis Miguel** y **Pérez** juntos corresponde a un **encuentro** que tuvieron en **2023**; fue la periodista, **Ana María Alvarado**, del programa **Sale El Sol**, quien aseguró que el cantante recibió una invitación por parte del piloto de **Red Bull** para asistir a una **fiesta privada**, por lo que le dio preferencia a dicho evento y optó por **cancelar** su concierto.
-
-> Sergio checo Pérez y Luis Miguel se reencuentran 😎🙌 [pic.twitter.com/Hpw2kGqSIf](https://t.co/Hpw2kGqSIf)
-> 
-> — Gabriel Rodríguez #MexicoGP🇲🇽 (@Gabriel67023240) [June 10, 2023](https://twitter.com/Gabriel67023240/status/1667356246167396353?ref_src=twsrc%5Etfw)
-
-Luis Miguel en Ecuador
-----------------------
-
-Luis Miguel incluyó a Ecuador en su gira ‘Luis Miguel Tour 2024’. El artista llenó el Estadio Olímpico Atahualpa de Quito, el **21 de febrero de 2024**.
-
-Antes tuvo un concierto fallido en Guayaquil. El **13 de marzo de 2019**, Luis Miguel tenía show en el **Estadio Modelo Alberto Spencer** de esta ciudad, Ecuador. Sin embargo, el evento fue cancelado debido a las intensas lluvias que afectaron la infraestructura y los equipos de sonido.
-
-Liga de Quito no puede con Mushuc Runa y pierde el liderato
-===========================================================
-
-Liga de Quito empató con Mushuc Runa y ahora está segundo en la clasificación. El líder es Independiente del Valle. ¿Qué pasó?
-------------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito recibió a Mushuc Runa en Casa Blanca el 26 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-4-4.jpg)
-
-El 26 de octubre de 2024, **Liga de Quito** recibió a **Mushuc Runa** en el estadio **Rodrigo Paz Delgado.**
-
-Este encuentro, correspondiente a la undécima fecha de la **Liga Pro,** se convirtió en un cotejo clave y finalizó con **polémicas** por las decisiones del **VAR.**
-
-**LDU** no logró aguantar el resultado y la visita empató en los descuentos. Con el empate 1-1, Liga perdió el liderato de la Liga Pro a falta de cuatro jornadas.
-
-### Más noticias:
-
-* [Josep Alcácer, ex DT de LDU, expresa su apoyo a Quito ante los incendios](https://www.elcomercio.com/deportes/futbol/josep-alcacer-ex-dt-de-ldu-expresa-su-apoyo-quito-ante-los-incendios.html "Josep Alcácer, ex DT de LDU, expresa su apoyo a Quito ante los incendios")
-* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
-* [Independiente del Valle ganó y lidera la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-tabla-cuenca-ligapro.html "Independiente del Valle ganó y lidera la Liga Pro")
-
-El primer gol del partido fue un tanto en contra de Marco Montaño a los 26 minutos. Con eso, la ‘U’ ganaba 1-0 al ‘Ponchito’.
-
-Sin embargo, en los descuentos, Mathías Acuña logró el empate a los 90 +2. Un gol con polémica, pero que fue validado por el árbitro y el sistema VAR.
-
-La acción de este tanto fue revisada por el VAR. En LDU se sienten perjudicados por aquello, pues reclaman que era una jugada peligrosa, en contra de Ricardo Adé.  
-  
-El técnico Pablo Sánchez se quejó de las decisiones arbitrales. “Hay alguien que no quiere que Liga juegue la final. No puede ser que nos piten mal todos los partidos”, dijo Pablo ‘Vitamina’ Sánchez al final del juego.
-
-En redes sociales, muchos hinchas de LDU se sienten perjudicados por las decisiones arbitrales ante Mushuc Runa.
-
-Al final, con el empate, LDU se quedó con 23 puntos. Los mismos que tiene Independiente del Valle que ahora es líder por gol diferencia.
-
-Liga de Quito perdió el liderato
---------------------------------
-
-**Liga de Quito,** liderado por el técnico argentino **Pablo ‘Vitamina’ Sánchez**, arriesgó su posición en la tabla, y perdió el liderato a falta de cuatro cotejos para el final de la etapa.
-
-Leonel Quiñónez se fue expulsado en LDU a los 75, pero solo cinco minutos después **Mushuc Runa** se quedó también con un jugador menos por la expulsión de **Stiven Tapiero**.
-
-En cambio, **Mushuc Runa**, dirigido por el uruguayo-paraguayo **Ever Hugo Almeida**, buscaba acercarse a los primeros lugares y sumó 18 puntos.
-
-El camino de Liga de Quito
---------------------------
-
-LDU está segundo en la clasificación. Esto, a falta de cuatro partidos. En la disputa por ganar la etapa está también IDV que marcha primero con los mismos 23 puntos y un mejor gol diferencia. Un gol es la diferencia entre albos y rayados.
-
-**Liga de Quito** ya no depende de sí misma a falta de cuatro partidos. La ‘U’ deberá visitar a Emelec y luego recibir a IDV, en un cotejo clave por ganar la etapa.
-
-Más adelante visitará a la U. Católica y cerrará en casa contra Deportivo Cuenca.
-
-Si LDU gana la etapa se medirá ante el IDV por el título de campeón en el 2024. Si Independiente gana se coronará campeón de manera directa.
-
-> De infartoooooo!!!! 🤯[@ClubMushucRuna1](https://twitter.com/ClubMushucRuna1?ref_src=twsrc%5Etfw) igualó 1-1 ante [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) con gol de Mathías Acuña y enciende la etapa. 🔥[#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LEUVxJ7bdB](https://t.co/LEUVxJ7bdB)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [October 26, 2024](https://twitter.com/zapping_ecu/status/1850306056808771981?ref_src=twsrc%5Etfw)
-
-Cambio de horarios
-------------------
-
-El cambio de horarios de la fecha se debe a la crisis energética que enfrenta Ecuador, lo que ha llevado a la Liga Pro a ajustar sus compromisos.
-
-La ministra de energía, Inés Manzano, anunció que los cortes de luz se extenderían, lo que obligó a los organizadores a reprogramar los partidos para que no se inicien más allá de las 17:15.
-
-Emelec perdió y Aucas solo logró el empate
-
-Wilman Terán fue acusado en un tercer juicio, conozca de qué se trata
-=====================================================================
-
-Wilman Terán está involucrado en el caso Pantalla, junto a otros tres procesados, según la Fiscalía General.
-------------------------------------------------------------------------------------------------------------
-
-![El juez Julio Arrieta instaló audiencia del caso, en el cual está acusado Wilman Terán.](https://www.elcomercio.com/wp-content/uploads/2024/10/pantalla-juez.jpg)
-
-El juez Julio Arrieta instaló la **audiencia contra Wilman Terán**, expresidente del **Consejo de la Judicatura**, y otros acusados en el **caso Pantalla.** 
-
-La audiencia se instaló, vía telemática, este **sábado 26 de octubre de 2024 en la Sala Penal de la Corte Nacional de Justicia.**
-
-### Más noticias
-
-* [Ocho allanamientos en Quito por supuesto tráfico de influencias en caso Pantalla](https://www.elcomercio.com/actualidad/seguridad/allanamientos-quito-trafico-influencias-caso-pantalla.html "https://www.elcomercio.com/actualidad/seguridad/allanamientos-quito-trafico-influencias-caso-pantalla.html")
-* [Caso Pantalla, prisión preventiva para dos sospechosos por tráfico de influencias](https://www.elcomercio.com/actualidad/seguridad/caso-pantalla-prision-preventiva-dos-dospechosos-trafico-influencias.html "https://www.elcomercio.com/actualidad/seguridad/caso-pantalla-prision-preventiva-dos-dospechosos-trafico-influencias.html")
-* [Caso Pantalla, ¿qué se investiga?](https://www.elcomercio.com/actualidad/caso-pantalla-investigaciones-fiscalia-policia.html "https://www.elcomercio.com/actualidad/caso-pantalla-investigaciones-fiscalia-policia.html")
-
-Arrieta escuchó las intervenciones de los abogados y de la **fiscal General, Diana Salazar.** 
-
-Durante la tarde de este sábado, el juez reinstaló la sesión de la audiencia, para tomar algunas decisiones.
-
-Según la información del caso, el Juez se pronunció sobre las medidas cautelares solicitadas por **Fiscalía** contra los cuatro procesados en el juicio.
-
-En el **caso Pantalla** se investiga el presunto tráfico de influencias, relacionado con el proceso de selección de siete jueces nacionales para la **Corte Nacional de Justicia.**
-
-Ese **proceso comenzó en 2023** y **la Fiscalía** hizo operativos para determinar las irregularidades.
-
-La decisión del juez Arrieta en el caso Pantalla
-------------------------------------------------
-
-El Juez ordenó la **prisión preventiva** contra **Wilman Terán y Anabel T.** Debido a que **Anabel T.** está huida, el juez dictaminó que se oficiará a la **Interpol** para la localización y captura de la procesada. 
-
-Mientras que, para **Juan Carlos E. y David G.** se dictaron medidas alternativas a la prisión, se indica en la información de la **Fiscalía.** 
-
-Adicionalmente, se dictaron otras medidas cautelares contra los vinculados. El Juez ordenó la retención de cuentas por 4 600 dólares y la prohibición de enajenar bienes por 30 000 dólares para cada uno.
-
-¿Cuáles son las investigaciones del caso Pantalla?
---------------------------------------------------
-
-La Fiscalía tiene indicios sobre posibles irregularidades en el **Consejo de la Judicatura**, responsable de la convocatoria de jueces en ese momento, bajo la dirección de **Wilman Terán**.
-
-Terán, quien ahora enfrenta cargos en el caso Metástasis, mantuvo el concurso a pesar de las críticas recibidas[.](https://es.wikipedia.org/wiki/Fiscal%C3%ADa_General_del_Estado_(Ecuador) "https://es.wikipedia.org/wiki/Fiscal%C3%ADa_General_del_Estado_(Ecuador)")
-
-Organizaciones como el **Colegio de Abogados de Pichincha** y la **Federación Nacional de Abogados** recurrieron a acciones legales para detener el proceso de selección. 
-
-La detención de Terán llevó al Consejo de la Judicatura a declarar la invalidez total del proceso de selección de jueces, respaldado por un informe técnico que evidenciaba múltiples irregularidades.
-
-En este contexto, este 2024 se lanzó un nuevo concurso para jueces, con la participación activa de más de 260 abogados.
-
-Quito registró dos incendios forestales este sábado 26 de octubre
-=================================================================
-
-Los incendios forestales se registraron en el noroccidente de Quito.
---------------------------------------------------------------------
-
-![La columna de humo de los incendios se visualizó desde varios puntos de la ciudad](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-quito-sabado-octubre.jpg)
-
-Dos **incendios forestales** se registraron la tarde de este sábado 26 de octubre de 2024, en el noroccidente de Quito.
-
-### Más noticias
-
-* [Nuevo caso de crueldad animal en Quito](https://www.elcomercio.com/narices-frias/crueldad-animal-quito-cachorros-abandonados.html "Nuevo caso de crueldad animal en Quito")
-* [Centro Histórico: un lugar de las disputas y de la memoria de Quito](https://www.elcomercio.com/actualidad/centro-historico-disputas-memoria-quito.html "Centro Histórico: un lugar de las disputas y de la memoria de Quito")
-* [Asalto armado se registró en el norte de Quito este viernes 25 de octubre](https://www.elcomercio.com/actualidad/seguridad/asalto-armado-norte-quito-viernes-25-de-octubre-gaspar-de-villarroel.html "Asalto armado se registró en el norte de Quito este viernes 25 de octubre")
-
-Desde varios puntos de la ciudad se visualizó el **humo** que salía de las faltas del **Pichincha**.
-
-El Cuerpo de Bomberos de Quito confirmó que los siniestros tuvieron lugar en el sector **El Armero**, en Miraflores, y en **San Vicent**e, a la altura de la Universidad Tecnológica Equinoccial (UTE).
-
-Tras recibir la alerta, el ECU 911 coordinó el traslado de los ‘casacas rojas al lugar’.
-
-A las 16:30, la entidad confirmó que **ambas emergencias** fueron sofocadas.
-
-El incendio en Miraflores se produjo por **quema de desechos**, confirmaron los Bomberos.
-
-Otro incendio forestal se registró este viernes
------------------------------------------------
-
-Una de las alertas tuvo lugar en **El Armero**, mismo sector donde el viernes 25 de octubre ocurrió otro incendio forestal.
-
-En este primer siniestro el fuego consumió **500 m² de vegetación seca**.
-
-Fue necesaria la presencia de **12 efectivos**, vehículos contraincendios y tanqueros para controlar las llamas.
-
-Finalmente, pasadas las **15:00**, los Bomberos realizaron trabajos de enfriamiento, cavado y raspado en el lugar.
-
-> 🔥🍂 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo controló una quema en las faldas del Pichincha, sector de El Armero.  
->   
-> 💧 Al momento realizamos labores de enfriamiento.  
->   
-> 🧑‍🚒 No quemes basura o hierba seca, puedes provocar un incendio.  
->   
-> 📞 En caso de emergencia llama al 9-1-1.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/sje9h8yPRf](https://t.co/sje9h8yPRf)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 25, 2024](https://twitter.com/BomberosQuito/status/1849909086843961405?ref_src=twsrc%5Etfw)
-
-Altas temperaturas en Quito
----------------------------
-
-La **falta de lluvias** y las **altas temperaturas q**ue se registran en Quito incrementan la posibilidad de que existan incendios forestales en la ciudad.
-
-El Instituto Nacional de Meteorología (**Inamhi**) alertó que, para este fin de semana, entre el sábado 26 y domingo 27 de octubre, el clima podría alcanzar los 28 °C.
-
-Además de Pichincha, las provincias más afectadas serán Guayas, El Oro, Manabí y Los Ríos, en el **Litoral**, como también algunas ciudades de la Amazonía.
-
-En la región Interandina, el riesgo de las altas temperaturas también será mayor en **Loja, Azuay e Imbabura**.
-
-Durante la noche, se esperan temperaturas mínimas de hasta **11 grados centígrados**.  
-
-Perú Mucho Gusto 2024: sabores, cultura y turismo en Lima
-=========================================================
-
-Perú Mucho Gusto celebrará su edición 2024 en Lima. Este evento destaca la riqueza gastronómica y cultural peruana.
--------------------------------------------------------------------------------------------------------------------
-
-![La feria Perú Mucho Gusto 2024 quiere recibir a los viajantes ecuatorianos.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5-3.jpg)
-
-La feria gastronómica **Perú Mucho Gusto 2024** se celebrará en Lima del 31 de octubre al 3 de noviembre. Este evento contará con la participación de **145 expositores** y ofrecerá una experiencia culinaria completa para los asistentes[.](https://es.wikipedia.org/wiki/Per%C3%BA "https://es.wikipedia.org/wiki/Per%C3%BA")
-
-### Más noticias
-
-* [El oso Paddington obtiene un pasaporte británico para su viaje a Perú](https://www.elcomercio.com/tendencias/cine/paddington-pasaporte-cine-pelicula.html "El oso Paddington obtiene un pasaporte británico para su viaje a Perú ")
-* [303 figuras halladas en el desierto de Perú son más antiguas que las Líneas de Nazca](https://www.elcomercio.com/tendencias/ciencia/lineas-nazca-inteligencia-artificial.html "303 figuras halladas en el desierto de Perú son más antiguas que las Líneas de Nazca")
-
-Feria Perú Mucho Gusto 2024
----------------------------
-
-Lima, la capital peruana, se prepara para recibir una de las ferias gastronómicas más destacadas de la región: **Perú Mucho Gusto 2024.** En su vigésima sexta edición, este evento reunirá en la **Explanada de la Costa Verde** a 145 expositores que ofrecerán lo mejor de la cocina peruana y productos tradicionales.
-
-Bajo el lema **“Sabores con historia”,** la feria busca atraer a **visitantes internacionales**, incluidos **ecuatorianos** que deseen aprovechar el feriado de noviembre para disfrutar de la cultura y la gastronomía peruana.
-
-Oferta gastronómica
--------------------
-
-Durante cuatro días, los asistentes podrán degustar una amplia **oferta gastronómica** que representa a las **25 regiones de Perú.** Platos icónicos como el ceviche y la pachamanca se combinarán con propuestas innovadoras, reflejando la **diversidad culinaria** que caracteriza al país.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-6-4-1024x683.jpg)
-
-La oferta gastronómica peruana es amplia y verdaderamente exquisita. Foto: Cortesía: Promperú.
-
-Además, en la sección de bebidas, los visitantes encontrarán opciones como el tradicional **pisco sour,** cervezas artesanales y refrescos a base de frutas locales, que son un símbolo de la **identidad peruana.** La feria también ofrecerá una sección de postres y helados artesanales, pensados para quienes deseen descubrir las opciones **dulces** de la cocina peruana.
-
-Actividades culturales
-----------------------
-
-Más allá de la gastronomía, **Perú Mucho Gusto** contará con actividades culturales y de entretenimiento. **PROMPERÚ**, entidad organizadora del evento, ha programado clases de **cocina en vivo**, espectáculos musicales y danzas tradicionales, así como una variedad de a**ctividades pensadas para todos los asistentes.**
-
-El evento incluirá también la participación de **productores y artesanos locales,** quienes exhibirán productos hechos a mano e insumos únicos. Los visitantes tendrán así la oportunidad de adquirir piezas de artesanía y productos locales que representan la riqueza cultural de diversas regiones del país.
-
-Ecuatorianos son bienvenidos
-----------------------------
-
-Ricardo Baraybar, subdirector de Promoción del Turismo Receptivo de **PROMPERÚ**, invita a los ecuatorianos a asistir: “La feria es de acceso gratuito, y quienes puedan aprovechar el feriado tendrán una magnífica oportunidad para descubrir la rica cultura peruana y su gastronomía”.
-
-La iniciativa también busca posicionar a Perú como un destino **turístico excepcional en Sudamérica,** brindando información sobre sus destinos y maravillas naturales, como Machu Picchu, la Amazonía y la Cordillera de los Andes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-4-1024x683.jpg)
-
-La feria también tiene un espacio para las actividades culturales. Foto: Cortesía Promperú.
-
-Perú Mucho Gusto no solo celebra la cocina del país, sino que se compromete con la **sostenibilidad**. En esta edición, la feria será un evento **carbono neutro,** lo que implica la implementación de estaciones de reciclaje, utensilios biodegradables y puntos para la recolección de **residuos orgánicos y materiales reciclables.**
-
-Este enfoque sostenible refuerza el compromiso de Perú con el medio ambiente y busca sensibilizar a los asistentes sobre la importancia de prácticas responsables.
-
-¿Cómo llegar desde Ecuador?
----------------------------
-
-Para lo**s visitantes ecuatorianos** interesados en asistir, llegar a Lima es sencillo. Las aerolíneas ofrecen vuelos directos desde **Quito y Guayaquil,** y, gracias a los acuerdos de libre tránsito entre ambos países, **solo se necesita la cédula de identidad** para ingresar a Perú.
-
-El vuelo tiene una duración aproximada de **dos horas hasta el Aeropuerto Internacional Jorge Chávez**, que conecta convenientemente con el centro de Lima.
-
-FC Barcelona noquea al Real Madrid en el clásico
-================================================
-
-Real Madrid se desparramó ante FC Barcelona en el clásico de España. Lewandowski y Lamine Yamal fueron figuras.
----------------------------------------------------------------------------------------------------------------
-
-![Robert Lewandowski celebra uno de los goles del FC Barcelona ante Real Madrid en el clásico, el 26 de octubre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-3-4.jpg)
-
-En solo dos minutos, el sistema del **Real Madrid** se desmoronó cuando **Robert Lewandowski** anotó dos goles este 26 de octubre del 2024 en el esperado clásico ante FC **Barcelona.**
-
-El FC Barcelona goleó en su visita al Santiago Bernabéu durante el clásico.
-
-### Más noticias:
-
-* [¿A qué hora se juega el clásico entre Real Madrid y el FC Barcelona?](https://www.elcomercio.com/deportes/futbol/a-que-hora-juega-clasico-real-madrid-fcbarcelona.html "¿A qué hora se juega el clásico entre Real Madrid y el FC Barcelona?")
-* [Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo](https://www.elcomercio.com/deportes/futbol/real-madrid-barcelona-devuelven-la-magia-al-clasico-post-messi-y-ronaldo.html "Real Madrid y FC Barcelona devuelven la magia al clásico post-Messi y Ronaldo")
-* [Real Madrid logró otra épica remontada en la Champions League](https://www.elcomercio.com/deportes/futbol/real-madrid-logro-otra-epica-remontada-champions-league-vinicius.html "Real Madrid logró otra épica remontada en la Champions League")
-
-Goleada de FC Barcelona al Real Madrid
---------------------------------------
-
-Un doblete del polaco Robert Lewandowski, en los minutos 54 y 56, un tanto del español Lamine Yamal en el 77 y otro del brasileño Raphinha en el 84 sellaron la goleada (0-3) del FC Barcelona en el clásico frente al Real Madrid que se disputó en el estadio Santiago Bernabéu.
-
-El conjunto blanco solo se acercó al gol con los tantos anulados por fuera de juego al francés Kylian Mbappé en los minutos 30 y 66.
-
-Con su victoria, el Barça aumenta su ventaja en el liderato de LaLiga EA Sports hasta los seis puntos de diferencia respecto al Real Madrid.
-
-Real Madrid vs. FC Barcelona
-----------------------------
-
-**Hansi Flick** no cambió su arriesgado plan de jugar con la línea defensiva muy adelantada para visitar el Santiago Bernabéu.
-
-Es su filosofía y la mantendrá hasta el final; no en vano, le dio una Liga de Campeones y un sextete cuando dirigió al Bayern de Múnich. Y el Real Madrid cayó en ‘la trampa’ del técnico germano, con hasta 11 fueras de juego, en un arte que no supo dominar a su favor hasta caer goleado en el Clásico.
-
-De ellos, ocho fueron en la primera mitad, y seis del galo Kylian Mbappé, incluido el de su gol anulado en el minuto 30. Con ocho, el Real Madrid igualó su mayor cifra de fueras de juego en 45 minutos de un partido de Liga desde hace 11 años.
-
-Una primera parte en la que, si se atiende a las estadísticas principales de posesión y remates, pareció que el FC Barcelona dominó el encuentro, ya que el primer disparo a puerta del Real Madrid llegó en el minuto 60 de partido.
-
-Y es que, el conjunto blanco vivió en el alambre y cayó en el plan de Flick, precipitándose con el balón buscando continuamente a sus futbolistas al espacio. Futbolistas que reúnen las características perfectas para hacer daño ante un rival como el azulgrana, pero VinÍcius, Bellingham y, sobre todo, Mbappé, no tuvieron la paciencia y certeza necesaria para jugar en el filo del fuera de juego y que les saliera cara.
-
-Esa que sí tuvo el **FC Barcelona,** en botas de Robert Lewandowski con la inestimable ayuda de Ferland Mendy. El galo se quedó clavado cuando el **Real Madrid** adelantaba su presión y el polaco pudo plantarse solo delante de Andriy Lunin para hacer el 0-1 en el minuto 54 que cambió el encuentro.
-
-Ni en defensa ni en ataque pudo acertar el Real Madrid. Más aún cuando en el minuto 66 Mbappé vio como otro gol suyo era anulado por otro fuera de juego, el séptimo que firmaba en el partido.
-
-En total, 11 fueras de juego del **Real Madrid** ante un Barça que es el equipo de Europa que más veces provoca que sus rivales estén en posición ilegal: 5,9 por encuentro. Y el Real Madrid igualó el récord esta temporada, las 11 veces que cayó el **Alavés** en fuera de juego ante los azulgranas.
-
-Además, el Real Madrid se quedó en fuera de juego también mentalmente. Alejado de la resiliencia que demostró el martes, también en el Santiago Bernabéu, contra el Borussia Dortmund para darle la vuelta al partido (del 0-2 al descanso al 5-2 final). Este sábado se notó que no era ‘su Champions’.
-
-Los de Ancelotti encajaron dos goles en dos minutos, mismo lapso en el que, diez minutos más tarde, Lewandowski perdonó un 0-3 que acabaría llegando en el 77 ante un Real Madrid abatido, con una mandíbula blanda a la hora de encajar goles que no le caracteriza.
-
-Es más, con 0-4, perdido sobre el césped, acabó pidiendo la hora para no encajar cinco goles. “La manita” que pedían los aficionados azulgrana en la grada de un Santiago Bernabéu que vio a su equipo perder un clásico 0-4 por segunda vez en dos temporadas.
-
-Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro
-===============================================================
-
-Católica superó a Emelec y uno de los goles fue especialmente emotivo para Luis Moreno que lo dedicó a su madre recién fallecida
---------------------------------------------------------------------------------------------------------------------------------
-
-![Universidad Católica derrotó a Emelec por la fecha 11 de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-2-4.jpg)
-
-**Emelec** continúa su caída en el torneo ecuatoriano de fútbol tras perder 2-0 en su visita a Universidad Católica el 26 de octubre de 2024, en el estadio Olímpico Atahualpa.
-
-Esta derrota, correspondiente a la undécima fecha de la Liga Pro, deja al ‘Bombillo’ en el penúltimo lugar de la tabla de posiciones, con solo siete puntos en 11 partidos.
-
-### Más noticias:
-
-* [José Pileggi se plantea renunciar a la presidencia de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-se-plantea-renunciar-a-la-presidencia-de-emelec.html "José Pileggi se plantea renunciar a la presidencia de Emelec")
-* [Barcelona SC vence a Emelec y se adueña del Clásico del Astillero](https://www.elcomercio.com/deportes/barcelona-emelec-clasico-astillero-fecha-10.html "Barcelona SC vence a Emelec y se adueña del Clásico del Astillero")
-* [Universidad Católica ganó y sacudió la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/universidad-catolica-tabla-posiciones-ligapro.html "Universidad Católica ganó y sacudió la tabla de posiciones")
-
-Un gol emotivo de Luis Moreno
------------------------------
-
-Los goles de José Fajardo, que anotó a los 78 minutos, y **Luis Moreno**, quien convirtió un penal a los 88 minutos, sellaron la victoria para Católica.
-
-Este último momento fue especialmente emotivo, ya que Moreno, de solo 19 años, dedicó su gol a su madre fallecida recientemente.
-
-La escena conmovedora del jugador llorando y siendo abrazado por sus compañeros reflejó la solidaridad del equipo en un momento tan difícil.
-
-Triunfo de Católica ante Emelec
--------------------------------
-
-Con este triunfo, Universidad Católica asciende al tercer puesto de la tabla con 20 puntos, presionando a los líderes Liga de Quito (22 puntos) e Independiente del Valle (23 puntos). Mientras tanto, Emelec sigue atrapado en una crisis que parece no tener fin.
-
-Emelec en caída
----------------
-
-La situación del ‘Bombillo’ es crítica. José Pileggi, presidente del club desde 2023, ha enfrentado desafíos significativos, incluyendo deudas millonarias y la imposibilidad de fichar nuevos jugadores.
-
-A pesar de los esfuerzos por renovar el equipo, como la contratación de Christian Noboa, los resultados no han mejorado. Noboa, aún sin debutar por lesión, simboliza las dificultades del club, que también enfrenta demandas de exjugadores por deudas impagas.
-
-**Emelec** se prepara ahora para un crucial enfrentamiento como local ante Liga de Quito, mientras que Católica visitará a Técnico Universitario en Ambato.
-
-A medida que se aproxima el final de la temporada, las perspectivas para Emelec son sombrías, con el riesgo de quedar fuera de competiciones internacionales en 2025.
-
-La presión sobre Pileggi aumenta, y su posible renuncia podría ser solo una de las múltiples crisis que enfrenta el club.
-
-En casa o en la calle siga estos tips de seguridad por los cortes de luz
-========================================================================
-
-La seguridad es una de las aristas a tomar en cuenta durante los cortes de luz en Ecuador.
-------------------------------------------------------------------------------------------
-
-![El uso de focos recargables o linternas es una medida en los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/luz-seguridad.jpg)
-
-Los **cortes de luz** en Ecuador subieron a hasta 14 horas diarias. Con los **apagones**, las dinámicas cambian en las casas, calles, transporte y más. La seguridad es un eje clave durante la crisis energética.
-
-La **Policía Nacional** da algunas recomendaciones para prevenir hechos delictivos durante las jornadas sin energía eléctrica.
-
-### Más noticias
-
-* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
-* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
-* [Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz](https://www.elcomercio.com/actualidad/negocios/profesionales-de-ecuador-hacen-propuestas-para-enfrentar-los-cortes-de-luz.html "Profesionales de Ecuador hacen propuestas para enfrentar los cortes de luz")
-
-Cortes de luz y la seguridad
-----------------------------
-
-La variación de los horarios de **cortes de luz** o la falta de cumplimiento de estos desemboca en situaciones como tener que caminar por **calles oscuras**. A su vez, sacar los vehículos de los parqueaderos con portones eléctricos en la madrugada, antes de los racionamientos.
-
-En el segundo caso, es menester salir acompañado o alertar a algún vecino o, incluso, a la **Policía**.
-
-Esas y otras circunstancias relacionadas con la seguridad enfrentan los ecuatorianos. Hay algunos pasos que resultan útiles.
-
-En las **Unidades de Policía Comunitaria (UPC)** se puede solicitar el denominado botón de pánico, a través del teléfono celular. En cualquier caso se puede portar una linterna.
-
-> A la ciudadanía: [pic.twitter.com/2RJQQxilqM](https://t.co/2RJQQxilqM)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 25, 2024](https://twitter.com/Presidencia_Ec/status/1849921198920224786?ref_src=twsrc%5Etfw)
-
-Recomendaciones en casa
------------------------
-
-* Es importante verificar el estado de las **cerraduras**.
-* En lo posible, es mejor mantener cerradas las **puertas** y ventanas.
-* De salir de casa, como a un viaje, el encargo de domicilio a la **UPC** más cercana es una opción. Este es un servicio gratuito.
-* Tener cuidado con a quién se abre la puerta o se le permite el ingreso, es importante el uso de una mirilla para verificar la identidad de quien toque la puerta.
-* La comunicación con los **vecinos** es vital, así como con los policías de la **UPC**.
-* No publicar en redes sociales las actividades que se realiza o si está o no en casa.
-
-> ¡Tu ayuda puede hacer la diferencia!🧏🏻‍♀️ℹ️  
->   
-> ☎️Llama de manera anónima al 1800-DELITO (335486) y colabora con información sobre [#LosMásBuscados](https://twitter.com/hashtag/LosM%C3%A1sBuscados?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Tu identidad estará protegida, y tu aporte puede ayudar a mantener nuestras comunidades seguras.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)… [pic.twitter.com/EmWLUqr400](https://t.co/EmWLUqr400)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 22, 2024](https://twitter.com/PoliciaEcuador/status/1848821898551152673?ref_src=twsrc%5Etfw)
-
-Medidas en las calles
----------------------
-
-* Mantenerse alerta al caminar en la calle y evitar las **distracciones**.
-* En lo posible, se debe evitar el uso del teléfono móvil.
-* Cuando circule en la noche es mejor hacerlo por áreas transitadas.
-* No mostrar **teléfonos**, joyas o dinero.
-* Es necesario variar las **rutas y horarios**, para evitar algún tipo de robo planificado.
-* De sentir que alguien le persigue, se debe buscar un lugar seguro: una **UPC** cercana, una tienda o un sitio con vigilancia.
-* A la hora de evidenciar a alguien actuar de manera sospechosa, no hay que dudar en alertar a la Policía. Actuar rápidamente puede proteger la integridad de una persona.
-
-Durante la circulación
-----------------------
-
-• Estacionar el **vehículo** en lugares seguros, iluminados y, en lo posible, vigilados y concurridos.  
-• Cerrar bien el automotor, así la ausencia sea por unos minutos.  
-• Evitar dejar objetos de valor a la vista y guarda las pertenencias en el maletero o debajo de los asientos.  
-• Al llegar a **intersecciones** en las vías, más aún durante la congestión, es importante mantener las ventas cerradas y estar alerta.
-
-Cuidados en el transporte
--------------------------
-
-• No dormir en el **transporte público** y mantener los bolsos o mochilas al frente, así como asegurarse de que estén cerrados.  
-• No aceptar ayuda de **desconocidos**.
