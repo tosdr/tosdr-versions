@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. c
+1. English
     
-2. javascript
+2. web development
     
-3. graphic design
+3. French
     
 
 Popular subjects
 ----------------
 
-1. [Marketing
+1. [Web Development
     
-    7,854 courses](https://www.classcentral.com/subject/marketing)
-2. [Web Development
+    13,307 courses](https://www.classcentral.com/subject/web-development)
+2. [Cybersecurity
     
-    13,306 courses](https://www.classcentral.com/subject/web-development)
-3. [Artificial Intelligence
+    16,145 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Digital Marketing
     
-    12,418 courses](https://www.classcentral.com/subject/ai)
+    6,000 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [AP® Microeconomics
+1. [Critical Perspectives on Management
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/edx-ap-microeconomics-8630)
-2. [Comprendere la filosofia
+    IE Business School](https://www.classcentral.com/course/criticalmanagement-714)
+2. [Introduction to Computer Science and Programming Using Python
     
-    University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
-3. [Mountains 101
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/computer-science-massachusetts-institute-of-techn-1341)
+3. [Sustainable Tourism: Society & Environmental Aspects
     
-    University of Alberta](https://www.classcentral.com/course/mountains-101-7455)
+    Wageningen University](https://www.classcentral.com/course/sustainability-wageningen-university-research-sus-10356)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
