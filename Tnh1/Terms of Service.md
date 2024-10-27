@@ -206,15 +206,7 @@ TRAGÉDIA
 
 Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_hugh-jackman-sutton-foster-reproducao_064a1c7767.jpg)
-
-Novo amor?
-
-Novo amor?
-
-Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman
-
-Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman](https://www.tnh1.com.br/noticia/nid/atriz-termina-casamento-de-10-anos-e-aumenta-rumores-de-romance-com-hugh-jackman/ "Atriz termina casamento de 10 anos e aumenta rumores de romance com Hugh Jackman")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
 
 foram monitorados
 
@@ -222,7 +214,7 @@ foram monitorados
 
 Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
 
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
 
 no jacintinho
 
@@ -230,7 +222,15 @@ no jacintinho
 
 Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
+
+batida com caminhão
+
+batida com caminhão
+
+Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE
+
+Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")
 
 [![Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_lily_allen_reproducao_redes_sociais_5db6772dea.jpg)
 
