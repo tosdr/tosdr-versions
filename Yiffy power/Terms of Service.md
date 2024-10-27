@@ -105,21 +105,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 157 1
+0 164 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/merilyn-directed-by-femboytwink-director/)
+[](https://yiff-party.com/yiff/chase-and-jinu-created-by-mawmain/)
 
-[merilyn directed by femboytwink (director)](https://yiff-party.com/yiff/merilyn-directed-by-femboytwink-director/)
+[chase and jinu created by mawmain](https://yiff-party.com/yiff/chase-and-jinu-created-by-mawmain/)
 
-0 132 0
+0 121 0
 
-September 27, 2024
+September 28, 2024
 
-[](https://yiff-party.com/yiff/created-by-mochi-lover/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-latchk3y/)
 
-[created by mochi lover](https://yiff-party.com/yiff/created-by-mochi-lover/)
+[nintendo and etc created by latchk3y](https://yiff-party.com/yiff/nintendo-and-etc-created-by-latchk3y/)
 
 0 2 0
 
