@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
+“ That brain of mine is something more than merely mortal; as time will show”
 
-[Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+[Ada Lovelace](https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/)
 
 [](https://www.adafruit.com/about)
 
