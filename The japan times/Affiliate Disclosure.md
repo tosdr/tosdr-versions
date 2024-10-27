@@ -211,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[O](https://www.japantimes.co.jp/about-us/link-policy/O "O")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![O](O)](https://www.japantimes.co.jp/about-us/link-policy/O "O")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,19 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP-Komeito bloc set to lose majority in Lower House election](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "LDP-Komeito bloc set to lose majority in Lower House election")
+[LDP-Komeito bloc loses majority in Lower House election](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "LDP-Komeito bloc loses majority in Lower House election")
 
-13 mins ago
+37 mins ago
 
 [Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
-4 hours ago
+10 hours ago
 
 [Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’](https://www.japantimes.co.jp/news/2024/10/27/world/politics/michelle-obama-appeal-men/ "Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’")
 
-7 hours ago
-
 [Taiwan says China holds 'combat' patrol after latest U.S. arms sales](https://www.japantimes.co.jp/news/2024/10/27/asia-pacific/taiwan-china-combat-patrol/ "Taiwan says China holds 'combat' patrol after latest U.S. arms sales")
 
-7 hours ago
-
 [What to know about the Chinese hackers who targeted the 2024 campaigns](https://www.japantimes.co.jp/news/2024/10/27/world/politics/chinese-hackers-2024-us-election/ "What to know about the Chinese hackers who targeted the 2024 campaigns")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
