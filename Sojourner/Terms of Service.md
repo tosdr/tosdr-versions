@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-050bf881ad0b35ee2fe2e0adae7d0060
+a92f4d3d3f83f76cab919c904d7e741b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Sand-drip candlesticks](https://sojourner.biz/images/cache/tabletop/TT0067variations_Pair_of_candlesticks_s504467695753958418_p878_i1_w4658.200.webp)](https://sojourner.biz/sand-drip-candlesticks.html "Sand-drip candlesticks")
+[![12 mm faceted amethyst glass rondelles](https://sojourner.biz/images/cache/glass/GL0240.200.jpg)](https://sojourner.biz/beads/glass/12-mm-faceted-amethyst-glass-rondelles.html "12 mm faceted amethyst glass rondelles")
 
-#### [Sand-drip candlesticks](https://sojourner.biz/sand-drip-candlesticks.html "Sand-drip candlesticks")
+#### [12 mm faceted amethyst glass rondelles](https://sojourner.biz/beads/glass/12-mm-faceted-amethyst-glass-rondelles.html "12 mm faceted amethyst glass rondelles")
 
-$42.00
+$5.00
 
 ### Best Sellers
 
