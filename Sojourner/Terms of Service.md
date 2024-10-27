@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a92f4d3d3f83f76cab919c904d7e741b
+19de473c9e8c23f704b1b8e8eb4f979e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm faceted amethyst glass rondelles](https://sojourner.biz/images/cache/glass/GL0240.200.jpg)](https://sojourner.biz/beads/glass/12-mm-faceted-amethyst-glass-rondelles.html "12 mm faceted amethyst glass rondelles")
+[![10 mm round sky-blue beads](https://sojourner.biz/images/cache/stone/STN042.200.jpg)](https://sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-sky-blue-beads.html "10 mm round sky-blue beads")
 
-#### [12 mm faceted amethyst glass rondelles](https://sojourner.biz/beads/glass/12-mm-faceted-amethyst-glass-rondelles.html "12 mm faceted amethyst glass rondelles")
+#### [10 mm round sky-blue beads](https://sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-sky-blue-beads.html "10 mm round sky-blue beads")
 
-$5.00
+$16.00
 
 ### Best Sellers
 
