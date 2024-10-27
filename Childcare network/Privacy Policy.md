@@ -8,7 +8,7 @@ Search
 
 [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network "careers")
 
-[![Childcare Network](data:image/gif;nitro-empty-id=MzEzOjIyNw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://childcarenetwork.com/)
+[![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-cropped.svg)](https://childcarenetwork.com/)
 
 * [About Us](https://childcarenetwork.com/about/)
     * [Mission](https://childcarenetwork.com/about/mission/)
@@ -171,7 +171,7 @@ Child Development Schools, Inc. reserves the right to revise, amend, or modify t
   
 Revised and Effective as of 09/07/2023.
 
-![Childcare Network](data:image/gif;nitro-empty-id=NTk4OjIyMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
+![Childcare Network](https://childcarenetwork.com/wp-content/uploads/2023/08/Childcare-Network_Vertical_White_RGB-1.svg)
 
 * [Acquisitions](https://childcarenetwork.com/acquisitions/)
 * [Careers](https://careers.childdevelopmentschools.com/creative/childcare-network)
@@ -186,7 +186,7 @@ Please enable JavaScript in your browser to complete this form.
 
 Email \*
 
-Subscribe![Loading](data:image/svg+xml;nitro-empty-id=NjA3OjE5NzE=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSI1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+Subscribe![Loading](https://childcarenetwork.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg)
 
 Connect With Us
 
