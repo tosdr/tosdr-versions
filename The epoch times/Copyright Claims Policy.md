@@ -10,49 +10,49 @@
 
 [Help Center](https://service.theepochtimes.com/web/) [subscribe](https://subscribe.theepochtimes.com/p/?page=subhome) [newsletter](https://www.theepochtimes.com/newsletter) [Newsstands](https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper) [Epoch Shop](https://epochshop.com/) [Gift](https://subscribe.theepochtimes.com/gift)
 
-* [TOP NEWS](https://www.theepochtimes.com/top-news)
-* [SPECIAL SERIES](https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
+* [TOP NEWS](https://api-dev.theepochtimes.com/top-news)
+* [SPECIAL SERIES](https://api-dev.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
 * [SPECIAL COVERAGE](https://www.theepochtimes.com/c-shen-yun)
 * [LATEST ARTICLES](https://www.theepochtimes.com/latest)
 
 * [US](https://www.theepochtimes.com/us-news)
-    * [US News](https://www.theepochtimes.com/us/us-news)
-    * [US Features](https://www.theepochtimes.com/us/us-features)
-    * [US Politics](https://www.theepochtimes.com/us/us-politics)
-    * [US Crime News](https://www.theepochtimes.com/us/crime-us)
-    * [New York News](https://www.theepochtimes.com/us/nyc)
-    * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
-    * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Opinion](https://www.theepochtimes.com/opinion)
-    * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
-    * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
+    * [US News](https://api-dev.theepochtimes.com/us/us-news)
+    * [US Features](https://api-dev.theepochtimes.com/us/us-features)
+    * [US Politics](https://api-dev.theepochtimes.com/us/us-politics)
+    * [US Crime News](https://api-dev.theepochtimes.com/us/crime-us)
+    * [New York News](https://api-dev.theepochtimes.com/us/nyc)
+    * [San Francisco](https://api-dev.theepochtimes.com/us/nor-cal-san-francisco)
+    * [Los Angeles](https://api-dev.theepochtimes.com/us/so-cal-los-angeles)
+* [Opinion](https://api-dev.theepochtimes.com/opinion)
+    * [Thinking About China](https://api-dev.theepochtimes.com/opinion/thinking-about-china)
+    * [Viewpoints](https://api-dev.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
     * [The Reader’s Turn](https://www.theepochtimes.com/readers-turn)
 
 * [China News](https://www.theepochtimes.com/china-news)
-    * [US-China Relations](https://www.theepochtimes.com/china/china-us-news)
-    * [Chinese Regime](https://www.theepochtimes.com/china/regime)
-    * [Business & Economy](https://www.theepochtimes.com/china/business-economy)
-    * [Chinese Culture](https://www.theepochtimes.com/culture)
-    * [China Human Rights](https://www.theepochtimes.com/china/human-rights)
-    * [Social Issues](https://www.theepochtimes.com/china/society)
-    * [Organ Harvesting in China](https://www.theepochtimes.com/china/organ-harvesting-in-china)
-* [World News](https://www.theepochtimes.com/world)
-    * [Africa News](https://www.theepochtimes.com/world/africa)
-    * [Americas](https://www.theepochtimes.com/world/americas)
-    * [Asia & Pacific](https://www.theepochtimes.com/world/asia-pacific)
-    * [Canada](https://www.theepochtimes.com/world/canada)
-    * [Europe](https://www.theepochtimes.com/world/europe)
-    * [UK News](https://www.theepochtimes.com/world/uk)
-    * [Australia News](https://www.theepochtimes.com/world/australia)
-    * [International](https://www.theepochtimes.com/world/international)
-    * [Middle East](https://www.theepochtimes.com/world/middle-east)
-* [Business & Markets](https://www.theepochtimes.com/business/markets)
-    * [Companies](https://www.theepochtimes.com/business/companies)
-    * [Economy](https://www.theepochtimes.com/business/economies)
+    * [US-China Relations](https://api-dev.theepochtimes.com/china/china-us-news)
+    * [Chinese Regime](https://api-dev.theepochtimes.com/china/regime)
+    * [Business & Economy](https://api-dev.theepochtimes.com/china/business-economy)
+    * [Chinese Culture](https://api-dev.theepochtimes.com/culture)
+    * [China Human Rights](https://api-dev.theepochtimes.com/china/human-rights)
+    * [Social Issues](https://api-dev.theepochtimes.com/china/society)
+    * [Organ Harvesting in China](https://api-dev.theepochtimes.com/china/organ-harvesting-in-china)
+* [World News](https://api-dev.theepochtimes.com/world)
+    * [Africa News](https://api-dev.theepochtimes.com/world/africa)
+    * [Americas](https://api-dev.theepochtimes.com/world/americas)
+    * [Asia & Pacific](https://api-dev.theepochtimes.com/world/asia-pacific)
+    * [Canada](https://api-dev.theepochtimes.com/world/canada)
+    * [Europe](https://api-dev.theepochtimes.com/world/europe)
+    * [UK News](https://api-dev.theepochtimes.com/world/uk)
+    * [Australia News](https://api-dev.theepochtimes.com/world/australia)
+    * [International](https://api-dev.theepochtimes.com/world/international)
+    * [Middle East](https://api-dev.theepochtimes.com/world/middle-east)
+* [Business & Markets](https://api-dev.theepochtimes.com/business/markets)
+    * [Companies](https://api-dev.theepochtimes.com/business/companies)
+    * [Economy](https://api-dev.theepochtimes.com/business/economies)
     * [Markets](https://markets.theepochtimes.com/)
-    * [Real Estate](https://www.theepochtimes.com/real-estate)
-    * [Gold and Commodities](https://www.theepochtimes.com/business/gold-commodities)
+    * [Real Estate](https://api-dev.theepochtimes.com/real-estate)
+    * [Gold and Commodities](https://api-dev.theepochtimes.com/business/gold-commodities)
 
 * [ARTS & CULTURE](https://www.theepochtimes.com/bright/arts-culture)
     * [Fine Arts & Craftsmanship](https://www.theepochtimes.com/bright/fine-arts)
@@ -158,83 +158,83 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Returns to New York for Massive Rally at ‘World’s Most Famous Arena’](https://www.theepochtimes.com/us/trump-returns-to-new-york-for-massive-rally-at-worlds-most-famous-arena-5748603)
+* [NYC Mayor Says Trump Not a Fascist, Urges Politicians to ‘Dial Down the Temperature’](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
     
-    NEW By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Trump Returns to New York for Massive Rally at ‘World’s Most Famous Arena’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NYC Mayor Says Trump Not a Fascist, Urges Politicians to ‘Dial Down the Temperature’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Returns to New York for Massive Rally at ‘World’s Most Famous Arena’](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748686-GettyImages-2181325963-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returns-to-new-york-for-massive-rally-at-worlds-most-famous-arena-5748603)
+    ![NYC Mayor Says Trump Not a Fascist, Urges Politicians to ‘Dial Down the Temperature’](https://img.theepochtimes.com/assets/uploads/2024/07/29/id5695369-Eric-Adams-AP24209782201702-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
+* [New Home Sales Spike to Highest Level in 16 Months: US Census](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705069-House-for-sale_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
+* [Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748803-Trump-Rogan-AP24300550325733-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
+* [US Issues Multi-State Health Alert Over Illegally Imported Meat](https://www.theepochtimes.com/us/us-issues-multi-state-health-alert-over-illegally-imported-meat-5748668)
+    
+    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![US Issues Multi-State Health Alert Over Illegally Imported Meat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Issues Multi-State Health Alert Over Illegally Imported Meat](https://img.theepochtimes.com/assets/uploads/2024/07/08/id5682059-GettyImages-75592083-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-issues-multi-state-health-alert-over-illegally-imported-meat-5748668)
+* [Jury: Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://www.theepochtimes.com/us/jury-workers-fired-for-refusing-covid-19-vaccine-to-get-more-than-1-million-each-5747903)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Jury: Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Jury: Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551750-GettyImages-1363703062-205x123.jpg.webp)](https://www.theepochtimes.com/us/jury-workers-fired-for-refusing-covid-19-vaccine-to-get-more-than-1-million-each-5747903)
+* [Trump Supporters Gather in New York City for Madison Square Garden Rally](https://www.theepochtimes.com/us/trump-returns-to-new-york-for-massive-rally-at-worlds-most-famous-arena-5748603)
+    
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Supporters Gather in New York City for Madison Square Garden Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Supporters Gather in New York City for Madison Square Garden Rally](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748732-DSC01864-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-returns-to-new-york-for-massive-rally-at-worlds-most-famous-arena-5748603)
 * [Millions of Chinese Apply for Limited Supply of Government Jobs](https://www.theepochtimes.com/china/millions-of-chinese-apply-for-limited-supply-of-government-jobs-5748627)
     
-    1hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
+    7hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
     
     [![Millions of Chinese Apply for Limited Supply of Government Jobs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Millions of Chinese Apply for Limited Supply of Government Jobs](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746386-GettyImages-2179345736-205x123.jpg.webp)](https://www.theepochtimes.com/china/millions-of-chinese-apply-for-limited-supply-of-government-jobs-5748627)
+    ![Millions of Chinese Apply for Limited Supply of Government Jobs](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748742-GettyImages-2179345736KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/millions-of-chinese-apply-for-limited-supply-of-government-jobs-5748627)
 * [Russia’s Landmark BRICS Summit and the Specter of De-Dollarization](https://www.theepochtimes.com/business/russias-landmark-brics-summit-and-the-specter-of-de-dollarization-5748380)
     
-    2hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    8hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Russia’s Landmark BRICS Summit and the Specter of De-Dollarization](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Russia’s Landmark BRICS Summit and the Specter of De-Dollarization](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748696-BRICS-Summit-GettyImages-2179802282-205x123.jpg.webp)](https://www.theepochtimes.com/business/russias-landmark-brics-summit-and-the-specter-of-de-dollarization-5748380)
 * [Americans Are More Dependent Than Ever on Government Handouts, New Report States](https://www.theepochtimes.com/business/americans-are-more-dependent-than-ever-on-government-handouts-new-report-states-5748148)
     
-    2hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    8hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![Americans Are More Dependent Than Ever on Government Handouts, New Report States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Americans Are More Dependent Than Ever on Government Handouts, New Report States](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748669-GettyImages-846583030-205x123.jpg.webp)](https://www.theepochtimes.com/business/americans-are-more-dependent-than-ever-on-government-handouts-new-report-states-5748148)
+    ![Americans Are More Dependent Than Ever on Government Handouts, New Report States](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748739-GettyImages-846583030KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/americans-are-more-dependent-than-ever-on-government-handouts-new-report-states-5748148)
 * [Aortic Stenosis: Common Heart Valve Problem With 7 Main Symptoms](https://www.theepochtimes.com/health/aortic-stenosis-symptoms-causes-treatments-and-natural-approaches-5745167)
     
-    6hr By [Allison DeMajistre](https://www.theepochtimes.com/author/allison-demajistre)
+    12hr By [Allison DeMajistre](https://www.theepochtimes.com/author/allison-demajistre)
     
     [![Aortic Stenosis: Common Heart Valve Problem With 7 Main Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Aortic Stenosis: Common Heart Valve Problem With 7 Main Symptoms](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747382-Aortic-Stenosis_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/aortic-stenosis-symptoms-causes-treatments-and-natural-approaches-5745167)
-* [Harris, Trump Reach Out to Different Demographics as Michigan Early Voting Begins](https://www.theepochtimes.com/us/harris-trump-reach-out-to-different-demographics-as-michigan-early-voting-begins-5746442)
-    
-    7hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Harris, Trump Reach Out to Different Demographics as Michigan Early Voting Begins](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris, Trump Reach Out to Different Demographics as Michigan Early Voting Begins](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-reach-out-to-different-demographics-as-michigan-early-voting-begins-5746442)
-* [Supreme Court Passes on Second Amendment Challenge to Federal Gun Law](https://www.theepochtimes.com/us/supreme-court-passes-on-second-amendment-challenge-to-federal-gun-law-5748158)
-    
-    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Passes on Second Amendment Challenge to Federal Gun Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Passes on Second Amendment Challenge to Federal Gun Law](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746872-10232024-DSC06716-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-passes-on-second-amendment-challenge-to-federal-gun-law-5748158)
-* [Tesla’s Bullish Earnings Fail to Lift Stocks as Bond Yields Rise](https://www.theepochtimes.com/business/teslas-bullish-earnings-fail-to-lift-stocks-as-bond-yields-rise-5748433)
-    
-    7hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Tesla’s Bullish Earnings Fail to Lift Stocks as Bond Yields Rise](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tesla’s Bullish Earnings Fail to Lift Stocks as Bond Yields Rise](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748645-GettyImages-2180258009.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/teslas-bullish-earnings-fail-to-lift-stocks-as-bond-yields-rise-5748433)
-* [On Rogan Podcast, Trump Floats Replacing Income Tax With Sweeping Tariffs](https://www.theepochtimes.com/us/on-rogan-podcast-trump-floats-replacing-income-tax-with-sweeping-tariffs-5748604)
-    
-    12hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![On Rogan Podcast, Trump Floats Replacing Income Tax With Sweeping Tariffs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![On Rogan Podcast, Trump Floats Replacing Income Tax With Sweeping Tariffs](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740640-Trump_Rogan-rogan-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/on-rogan-podcast-trump-floats-replacing-income-tax-with-sweeping-tariffs-5748604)
-* [Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://www.theepochtimes.com/us/judge-denies-request-to-grant-nearly-1900-south-carolina-voter-registrations-to-17-year-olds-5748479)
-    
-    15hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748534-South_Carolina_Voting_24299557243875-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-request-to-grant-nearly-1900-south-carolina-voter-registrations-to-17-year-olds-5748479)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
 [Help Center](https://help.theepochtimes.com/hc/en-us) [subscribe](https://subscribe.theepochtimes.com/p/?page=digitalsub) [newsletter](https://www.theepochtimes.com/newsletter) [Newsstands](https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper) [Epoch Shop](https://epochshop.com/) [Gift](https://subscribe.theepochtimes.com/gift)
 
-* [TOP NEWS](https://www.theepochtimes.com/top-news)
-* [SPECIAL SERIES](https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
+* [TOP NEWS](https://api-dev.theepochtimes.com/top-news)
+* [SPECIAL SERIES](https://api-dev.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
 * [SPECIAL COVERAGE](https://www.theepochtimes.com/c-shen-yun)
 * [LATEST ARTICLES](https://www.theepochtimes.com/latest)
 
@@ -284,43 +284,43 @@ DOWNLOAD OUR APP
 [![iOS](https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-AppleStoreBadge.png)](https://subscribe.theepochtimes.com/p/?page=mobile) [![Android](https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-GooglePlayBadge.png)](https://subscribe.theepochtimes.com/p/?page=mobile)
 
 * [US](https://www.theepochtimes.com/us-news)
-    * [US News](https://www.theepochtimes.com/us/us-news)
-    * [US Features](https://www.theepochtimes.com/us/us-features)
-    * [US Politics](https://www.theepochtimes.com/us/us-politics)
-    * [US Crime News](https://www.theepochtimes.com/us/crime-us)
-    * [New York News](https://www.theepochtimes.com/us/nyc)
-    * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
-    * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Opinion](https://www.theepochtimes.com/opinion)
-    * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
-    * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
+    * [US News](https://api-dev.theepochtimes.com/us/us-news)
+    * [US Features](https://api-dev.theepochtimes.com/us/us-features)
+    * [US Politics](https://api-dev.theepochtimes.com/us/us-politics)
+    * [US Crime News](https://api-dev.theepochtimes.com/us/crime-us)
+    * [New York News](https://api-dev.theepochtimes.com/us/nyc)
+    * [San Francisco](https://api-dev.theepochtimes.com/us/nor-cal-san-francisco)
+    * [Los Angeles](https://api-dev.theepochtimes.com/us/so-cal-los-angeles)
+* [Opinion](https://api-dev.theepochtimes.com/opinion)
+    * [Thinking About China](https://api-dev.theepochtimes.com/opinion/thinking-about-china)
+    * [Viewpoints](https://api-dev.theepochtimes.com/opinion/viewpoints)
     * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
     * [The Reader’s Turn](https://www.theepochtimes.com/readers-turn)
 
 * [China News](https://www.theepochtimes.com/china-news)
-    * [US-China Relations](https://www.theepochtimes.com/china/china-us-news)
-    * [Chinese Regime](https://www.theepochtimes.com/china/regime)
-    * [Business & Economy](https://www.theepochtimes.com/china/business-economy)
-    * [Chinese Culture](https://www.theepochtimes.com/culture)
-    * [China Human Rights](https://www.theepochtimes.com/china/human-rights)
-    * [Social Issues](https://www.theepochtimes.com/china/society)
-    * [Organ Harvesting in China](https://www.theepochtimes.com/china/organ-harvesting-in-china)
-* [World News](https://www.theepochtimes.com/world)
-    * [Africa News](https://www.theepochtimes.com/world/africa)
-    * [Americas](https://www.theepochtimes.com/world/americas)
-    * [Asia & Pacific](https://www.theepochtimes.com/world/asia-pacific)
-    * [Canada](https://www.theepochtimes.com/world/canada)
-    * [Europe](https://www.theepochtimes.com/world/europe)
-    * [UK News](https://www.theepochtimes.com/world/uk)
-    * [Australia News](https://www.theepochtimes.com/world/australia)
-    * [International](https://www.theepochtimes.com/world/international)
-    * [Middle East](https://www.theepochtimes.com/world/middle-east)
-* [Business & Markets](https://www.theepochtimes.com/business/markets)
-    * [Companies](https://www.theepochtimes.com/business/companies)
-    * [Economy](https://www.theepochtimes.com/business/economies)
+    * [US-China Relations](https://api-dev.theepochtimes.com/china/china-us-news)
+    * [Chinese Regime](https://api-dev.theepochtimes.com/china/regime)
+    * [Business & Economy](https://api-dev.theepochtimes.com/china/business-economy)
+    * [Chinese Culture](https://api-dev.theepochtimes.com/culture)
+    * [China Human Rights](https://api-dev.theepochtimes.com/china/human-rights)
+    * [Social Issues](https://api-dev.theepochtimes.com/china/society)
+    * [Organ Harvesting in China](https://api-dev.theepochtimes.com/china/organ-harvesting-in-china)
+* [World News](https://api-dev.theepochtimes.com/world)
+    * [Africa News](https://api-dev.theepochtimes.com/world/africa)
+    * [Americas](https://api-dev.theepochtimes.com/world/americas)
+    * [Asia & Pacific](https://api-dev.theepochtimes.com/world/asia-pacific)
+    * [Canada](https://api-dev.theepochtimes.com/world/canada)
+    * [Europe](https://api-dev.theepochtimes.com/world/europe)
+    * [UK News](https://api-dev.theepochtimes.com/world/uk)
+    * [Australia News](https://api-dev.theepochtimes.com/world/australia)
+    * [International](https://api-dev.theepochtimes.com/world/international)
+    * [Middle East](https://api-dev.theepochtimes.com/world/middle-east)
+* [Business & Markets](https://api-dev.theepochtimes.com/business/markets)
+    * [Companies](https://api-dev.theepochtimes.com/business/companies)
+    * [Economy](https://api-dev.theepochtimes.com/business/economies)
     * [Markets](https://markets.theepochtimes.com/)
-    * [Real Estate](https://www.theepochtimes.com/real-estate)
-    * [Gold and Commodities](https://www.theepochtimes.com/business/gold-commodities)
+    * [Real Estate](https://api-dev.theepochtimes.com/real-estate)
+    * [Gold and Commodities](https://api-dev.theepochtimes.com/business/gold-commodities)
 
 * [ARTS & CULTURE](https://www.theepochtimes.com/bright/arts-culture)
     * [Fine Arts & Craftsmanship](https://www.theepochtimes.com/bright/fine-arts)
