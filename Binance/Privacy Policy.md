@@ -399,6 +399,7 @@ Please read the [FAQ](https://www.binance.com/en/support/faq/how-to-delete-my-bi
 * [Browse Crypto Price Predictions](https://www.binance.com/en/price-prediction)
 * [Bitcoin Price Prediction](https://www.binance.com/en/price-prediction/bitcoin)
 * [Ethereum Price Prediction](https://www.binance.com/en/price-prediction/ethereum)
+* [Ethereum Upgrade (Pectra)](https://www.binance.com/en/ethereum-upgrade)
 * [Buy Bitcoin](https://www.binance.com/en/how-to-buy/bitcoin)
 * [Buy BNB](https://www.binance.com/en/how-to-buy/bnb)
 * [Buy XRP](https://www.binance.com/en/how-to-buy/xrp)
