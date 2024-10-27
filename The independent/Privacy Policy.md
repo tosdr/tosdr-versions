@@ -610,7 +610,7 @@ We may make changes to this policy at any time, and where necessary we will info
     * [Independent Turkish](https://www.indyturk.com/)
     * [Independent Persian](https://www.independentpersian.com/)
     * [Independent Urdu](https://www.independenturdu.com/)
-    * [Evening Standard](https://www.standard.co.uk/)
+    * [The Standard](https://www.standard.co.uk/)
 * [Extras](https://www.independent.co.uk/)
     * [Advisor](https://www.independent.co.uk/advisor)
     * [Puzzles](https://puzzles.independent.co.uk/)
