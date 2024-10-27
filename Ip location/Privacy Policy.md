@@ -121,7 +121,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Cloud Services (84)](https://www.iplocation.net/blog/category/cloud-services)
 * [Computing (58)](https://www.iplocation.net/blog/category/computing)
 * [Crypto & Blockchain (35)](https://www.iplocation.net/blog/category/blockchain)
-* [Cybersecurity (256)](https://www.iplocation.net/blog/category/cybersecurity)
+* [Cybersecurity (257)](https://www.iplocation.net/blog/category/cybersecurity)
 * [Distributed Denial of Service (10)](https://www.iplocation.net/blog/category/ddos)
 * [Password (21)](https://www.iplocation.net/blog/category/password)
 * [Safety (24)](https://www.iplocation.net/blog/category/safety)
