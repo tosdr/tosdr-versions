@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Apollo 14 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/18-facts-about-apollo-14/)
+[![40 Facts About Taylor Farms ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/food/40-facts-about-taylor-farms/)
 
-Tech & Sciences
+Food
 
-25 Oct 2024
+26 Oct 2024
 
-[18 Facts About Apollo 14](https://facts.net/tech-and-sciences/18-facts-about-apollo-14/)
+[40 Facts About Taylor Farms](https://facts.net/lifestyle/food/40-facts-about-taylor-farms/)
 
-[![40 Facts About Embolic Stroke Of Undetermined Source ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-embolic-stroke-of-undetermined-source/)
+[![30 Facts About Kleinite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2298%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-kleinite/)
 
-Health Science
+Earth Sciences
 
-25 Oct 2024
+26 Oct 2024
 
-[40 Facts About Embolic Stroke Of Undetermined Source](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-embolic-stroke-of-undetermined-source/)
+[30 Facts About Kleinite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-kleinite/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
