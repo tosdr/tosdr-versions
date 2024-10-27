@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://www.theepochtimes.com/us/judge-denies-request-to-grant-nearly-1900-south-carolina-voter-registrations-to-17-year-olds-5748479)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Denies Request to Grant Nearly 1,900 South Carolina Voter Registrations to 17-Year-Olds](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748534-South_Carolina_Voting_24299557243875-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-request-to-grant-nearly-1900-south-carolina-voter-registrations-to-17-year-olds-5748479)
+* [US Greenlights $2 Billion Arms Deal With Taiwan, Featuring Advanced Missile Defense](https://www.theepochtimes.com/world/us-greenlights-2-billion-arms-deal-with-taiwan-featuring-advanced-missile-defense-5748426)
+    
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![US Greenlights $2 Billion Arms Deal With Taiwan, Featuring Advanced Missile Defense](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Greenlights $2 Billion Arms Deal With Taiwan, Featuring Advanced Missile Defense](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748473-US_Taiwan_24300410562315-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-greenlights-2-billion-arms-deal-with-taiwan-featuring-advanced-missile-defense-5748426)
 * [Video of Pennsylvania Ballots Being Destroyed Is Russian Disinformation, US Intel Agencies Say](https://www.theepochtimes.com/us/video-of-pennsylvania-ballots-being-destroyed-is-russian-disinformation-us-intel-agencies-say-5748429)
     
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    8hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Video of Pennsylvania Ballots Being Destroyed Is Russian Disinformation, US Intel Agencies Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Video of Pennsylvania Ballots Being Destroyed Is Russian Disinformation, US Intel Agencies Say](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/video-of-pennsylvania-ballots-being-destroyed-is-russian-disinformation-us-intel-agencies-say-5748429)
 * [Federal Agency Warns Companies Against Unchecked Surveillance of Employees](https://www.theepochtimes.com/us/federal-agency-warns-companies-against-unchecked-surveillance-of-employees-5748455)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Federal Agency Warns Companies Against Unchecked Surveillance of Employees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Agency Warns Companies Against Unchecked Surveillance of Employees](https://img.theepochtimes.com/assets/uploads/2023/11/01/id5521366-10312023-DSC03028-CFPB-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-agency-warns-companies-against-unchecked-surveillance-of-employees-5748455)
 * [China, Russia Aim to Use BRICS to Challenge Global Financial System—Experts Say It Won’t Work](https://www.theepochtimes.com/china/china-russia-aim-to-use-brics-to-challenge-global-financial-system-experts-say-it-wont-work-5748390)
     
-    3hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
+    9hr By [Alex Wu](https://www.theepochtimes.com/author/alex-wu)
     
     [![China, Russia Aim to Use BRICS to Challenge Global Financial System—Experts Say It Won’t Work](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China, Russia Aim to Use BRICS to Challenge Global Financial System—Experts Say It Won’t Work](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746723-GettyImages-2179622304-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-russia-aim-to-use-brics-to-challenge-global-financial-system-experts-say-it-wont-work-5748390)
 * [Pennsylvania County Reviews 2,500 Voter Registration Forms for Fraud](https://www.theepochtimes.com/us/pennsylvania-county-reviews-2500-voter-registration-forms-for-fraud-5748363)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Pennsylvania County Reviews 2,500 Voter Registration Forms for Fraud](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pennsylvania County Reviews 2,500 Voter Registration Forms for Fraud](https://img.theepochtimes.com/assets/uploads/2024/07/02/id5678521-04232024-DSC05782-MAIL-IN-BALLOTKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-county-reviews-2500-voter-registration-forms-for-fraud-5748363)
 * [California Congressional Candidates Debate in Race for Pivotal House Seat](https://www.theepochtimes.com/us/california-congressional-candidates-debate-in-race-for-pivotal-house-seat-5748297)
     
-    5hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    11hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![California Congressional Candidates Debate in Race for Pivotal House Seat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![California Congressional Candidates Debate in Race for Pivotal House Seat](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720754-09092024-DSC00149-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-congressional-candidates-debate-in-race-for-pivotal-house-seat-5748297)
 * [Illegal Immigration, Inflation Are Top Issues for Borderland Voters](https://www.theepochtimes.com/article/illegal-immigration-inflation-are-top-issues-for-borderland-voters-5746370)
     
-    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    12hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
     [![Illegal Immigration, Inflation Are Top Issues for Borderland Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Illegal Immigration, Inflation Are Top Issues for Borderland Voters](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747504-Border-Voters-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/illegal-immigration-inflation-are-top-issues-for-borderland-voters-5746370)
 * [IRS Urges Taxpayers to Activate Identity-Theft Protection Measure](https://www.theepochtimes.com/business/irs-urges-taxpayers-to-activate-identity-theft-protection-measure-5748340)
     
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![IRS Urges Taxpayers to Activate Identity-Theft Protection Measure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![IRS Urges Taxpayers to Activate Identity-Theft Protection Measure](https://img.theepochtimes.com/assets/uploads/2024/01/05/id5559418-01042024-DSC06070-IRS-205x123.jpg.webp)](https://www.theepochtimes.com/business/irs-urges-taxpayers-to-activate-identity-theft-protection-measure-5748340)
 * [Georgia Court Declines Fast-Track Appeal Over Election Certification Mandate](https://www.theepochtimes.com/us/georgia-court-declines-fast-track-appeal-over-election-certification-mandate-5748241)
     
-    7hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    13hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Georgia Court Declines Fast-Track Appeal Over Election Certification Mandate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Georgia Court Declines Fast-Track Appeal Over Election Certification Mandate](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747422-GettyImages-2153452790-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-court-declines-fast-track-appeal-over-election-certification-mandate-5748241)
-* [Are These Oxalate-Rich Superfoods Making You Sick?](https://www.theepochtimes.com/health/are-these-oxalate-rich-superfoods-making-you-sick-5715269)
-    
-    9hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough)
-    
-    [![Are These Oxalate-Rich Superfoods Making You Sick?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Are These Oxalate-Rich Superfoods Making You Sick?](https://img.theepochtimes.com/assets/uploads/2024/10/22/id5745802-Oxalate-Rich-Superfoods-205x123.jpg.webp)](https://www.theepochtimes.com/health/are-these-oxalate-rich-superfoods-making-you-sick-5715269)
-* [Key Moments From Trump’s Candid Conversation With Joe Rogan](https://www.theepochtimes.com/us/key-moments-from-trumps-candid-conversation-with-joe-rogan-5748290)
-    
-    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Key Moments From Trump’s Candid Conversation With Joe Rogan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Key Moments From Trump’s Candid Conversation With Joe Rogan](https://img.theepochtimes.com/assets/uploads/2024/10/26/id5748397-Trump-Rogan--205x123.jpg.webp)](https://www.theepochtimes.com/us/key-moments-from-trumps-candid-conversation-with-joe-rogan-5748290)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
