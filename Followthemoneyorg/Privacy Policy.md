@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Independent-Spending-Scorecard-2014.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
-
-Independent Spending Scorecard, 2014
+[![Total Fundraising by Candidates for State Offices, 2000–2016](/assets/Images/teasers/small/state-candidates.JPG)](https://www.followthemoney.org/research/institute-reports/2016-candidate-elections-overview)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
