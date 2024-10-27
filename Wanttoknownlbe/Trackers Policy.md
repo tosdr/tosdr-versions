@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/natuurlijke-covid-immuniteit-duurt-levenslang/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/het-geraffineerde-vaccinatie-spel-van-de-pharmaceutische-industrie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
