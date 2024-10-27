@@ -30,14 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b390401c-71f7-4459-9b68-e96a331ae387/20241026T022725/b390401c-71f7-4459-9b68-e96a331ae387_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b390401c-71f7-4459-9b68-e96a331ae387/20241026T022725/b390401c-71f7-4459-9b68-e96a331ae387_360x203.jpg)](https://www.wqad.com/article/news/politics/candidates-cross-party-lines-local-and-national-elections/526-e94e4d03-2673-4a7b-bd44-805435a12e7f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
         
-        #### [Candidates cross party lines: what it means for local and national elections](https://www.wqad.com/article/news/politics/candidates-cross-party-lines-local-and-national-elections/526-e94e4d03-2673-4a7b-bd44-805435a12e7f)
+        #### [Rock Island Alderman Kevin Maynard to resign](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000) [![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/da2d36f0-38f7-4c79-9be1-edc23c58eea1/20241025T202231/da2d36f0-38f7-4c79-9be1-edc23c58eea1_360x203.jpg)](https://www.wqad.com/article/news/health/air-ems-filling-gaps-rural-ambulance-services-iowa/526-15481e66-83c3-4ac1-a7c5-844ee6c28dd5)
+        #### [Kevin Maynard to resign as Rock Island Third Ward alderman](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
         
-        #### [Air EMS filling in the gaps for rural ambulance services](https://www.wqad.com/article/news/health/air-ems-filling-gaps-rural-ambulance-services-iowa/526-15481e66-83c3-4ac1-a7c5-844ee6c28dd5)
+        #### [Elementary school students in Milan enjoy 'Fine Arts Day'](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c) [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
         
+        #### [Thomas Jefferson Elementary School students learn about the arts during 'Fine Arts Day'](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c) [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
+        
+        #### ['Fine Arts Day' brings music and more to Milan elementary students](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,9 +60,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/607a35e5-13c6-4a09-8d2a-4593edb47977/20241026T225313/607a35e5-13c6-4a09-8d2a-4593edb47977_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/607a35e5-13c6-4a09-8d2a-4593edb47977/20241026T225313/607a35e5-13c6-4a09-8d2a-4593edb47977_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Another pleasant fall-day ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Big warm up and wind ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
@@ -86,9 +90,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+54°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
