@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (19) September 2024  (30) August 
 
 ### October 2024
 
-#### Sat, Oct 26
-
-Nick Shirm's birthday (Zacharias Smith)
-
-Recurs yearly
-
-Zacharias Smith
-
 #### Sun, Oct 27
 
 Brontis Jodorowsky's birthday
@@ -348,6 +340,32 @@ Recurs yearly
 
 Nymphadora Tonks
 
+#### Sat, Nov 2
+
+Hagrid returns from recruiting giants
+
+Recurs yearly
+
+1995
+
+Harry, Fred, and George are banned from Quidditch
+
+Recurs yearly
+
+1995
+
+Peter Mullan's birthday
+
+Recurs yearly
+
+Yaxley
+
+Ron snogs Lavender
+
+Recurs yearly
+
+1996
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -358,15 +376,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In early drafts, the Malfoy surname was variously Smart, Spinks, and Spungen.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-June 10, 2013 – Sony unveils Wonderbook: Book of Potions at the Electronic Entertainment Expo in Los Angeles.
+August 26, 2013 – MuggleCast records its last regularly scheduled episode.
 
 ### Potter Quote
 
-“I can, you know, do math and stuff.”
+“This little beauty’s taught us more than all the teachers in this school.”
 
 [](#)
 
