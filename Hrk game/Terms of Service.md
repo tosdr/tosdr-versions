@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/product/unknown-9-awakening-europe)
+[](https://www.hrkgame.com/en/games/products/?search=Call+of+Duty%3A+Black+Ops+6)
 
 Terms of Service
 ----------------
