@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2041'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/mso-cache-80x41.png)](https://thebackroomtech.com/2007/10/02/howto-move-the-microsoft-office-msocache-directory-to-a-different-drive/ "Howto: Move the Microsoft Office MSOCache Directory to a Different Drive")[Howto: Move the Microsoft Office MSOCache Directory to a Different Drive](https://thebackroomtech.com/2007/10/02/howto-move-the-microsoft-office-msocache-directory-to-a-different-drive/ "Howto: Move the Microsoft Office MSOCache Directory to a Different Drive")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2047%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/notepad-found-80x48.png)](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")[HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard](https://thebackroomtech.com/2007/09/14/howto-use-clipexe-to-redirect-command-line-output-to-the-windows-clipboard/ "HowTo: Use clip.exe to Redirect Command Line Output to the Windows Clipboard")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/smtpdeliverysettingssmall-47x52.jpg.optimal.jpg)](https://thebackroomtech.com/2008/03/28/troubleshooting-exchange-error-447-delivery-delay-and-failures/ "Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures")[Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures](https://thebackroomtech.com/2008/03/28/troubleshooting-exchange-error-447-delivery-delay-and-failures/ "Troubleshooting Exchange Error 4.4.7 Delivery Delay and Failures")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/coding-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")[VMware Script – Remove Resource Reservations](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/coding-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2018/05/30/windows-azure-script-create-a-new-vm-from-an-existing-vhd/ "Windows Azure Script – Create a New VM from an Existing VHD")[Windows Azure Script – Create a New VM from an Existing VHD](https://thebackroomtech.com/2018/05/30/windows-azure-script-create-a-new-vm-from-an-existing-vhd/ "Windows Azure Script – Create a New VM from an Existing VHD")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2036'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/setspn-command-line-80x42.png)](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")[Explanation of Service Principal Names in Active Directory](https://thebackroomtech.com/2018/08/21/explanation-of-service-principal-names-in-active-directory/ "Explanation of Service Principal Names in Active Directory")
+    ![](https://s11921.pcdn.co/wp-content/uploads/azure-scale-sets-80x36.png)](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")[How to Use Azure VM Scale Sets](https://thebackroomtech.com/2018/10/08/how-to-use-azure-vm-scale-sets/ "How to Use Azure VM Scale Sets")
 
 #### Our Publishing Family
 
