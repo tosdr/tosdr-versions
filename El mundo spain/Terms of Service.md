@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zx3uIwoAAVAAAABbE5A)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zx5D0AoAAVAAAABbDHU)
 
 Es noticia
 
@@ -6,7 +6,7 @@ Es noticia
 * [Más Madrid](https://www.elmundo.es/madrid/2024/10/25/671b7cf4e4d4d8266f8b4582.html)
 * [Elisa Mouliaá](https://www.elmundo.es/espana/2024/10/26/671a7aadfc6c83f1068b45b3.html)
 * [Real Madrid - Barcelona](https://www.elmundo.es/deportes/futbol/laliga-ea-sports/r-madrid-barcelona/2024/10/26/01_0101_20241026_186_178-directo.html)
-* [Israel ataca Irán](https://www.elmundo.es/internacional/2024/10/26/671c9530a75cca8941abc4b6-directo.html)
+* [Insultos racistas a Yamal](https://www.elmundo.es/deportes/futbol/primera-division/2024/10/27/671e0ba1e85ece07668b456e.html)
 * [Julia Otero](https://www.elmundo.es/yodona/actualidad/2024/10/25/6719007bfc6c8352018b457b.html)
 * [Adriana desaparecida Ordes](https://www.elmundo.es/espana/2024/10/26/671cf715e9cf4a6d268b45a7.html)
 * [Topuria Holloway](https://www.elmundo.es/deportes/mas-deporte/2024/10/26/671d2223fdddffd51e8b4590.html)
