@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Paradise Lost 3: Purgatory](/wp-content/thumbnails/6719-100x70.jpg?x53432)
+* [![The Trouble With Evan](/wp-content/thumbnails/8807-100x70.jpg?x53432)
     
-    Paradise Lost 3: Purgatory
+    The Trouble With Evan
     
-    Paradise Lost 3: Purgatory is a 2011 documentary film and sequel to the films Paradise Lost: The Child Murders at Robin Hood Hills and Paradise Lost 2: Revelations. The three films chronicle the arres](https://documentaryheaven.com/paradise-lost-3-purgatory/ "Paradise Lost 3: Purgatory")
-* [![Networked Society ‘On the Brink’](/wp-content/thumbnails/6257-100x70.jpg?x53432)
+    This Fifth Estate documentary was filmed in 1994 and is about a troubled 11 year old called Evan and his family. His parents agreed to have video cameras installed in their home for a 3 month period w](https://documentaryheaven.com/trouble-with-evan/ "The Trouble With Evan")
+* [![Albert Einstein: How I See the World](/wp-content/thumbnails/4513-100x70.jpg?x53432)
     
-    Networked Society ‘On the Brink’
+    Albert Einstein: How I See the World
     
-    In On The Brink we discuss the past, present and future of connectivity with a mix of people including David Rowan, chief editor of Wired UK; Caterina Fake, founder of Flickr; and Eric Wahlforss, the](https://documentaryheaven.com/networked-society-on-the-brink/ "Networked Society ‘On the Brink’")
-* [![Live Forever – The Rise and Fall of Britpop](/wp-content/thumbnails/5948-100x70.jpg?x53432)
+    A video retrospective on the life of the famous patent clerk-turned-physicist. Rare photos and news footage, together with excerpts from his personal diaries, bring to life not only the man, but the w](https://documentaryheaven.com/albert-einstein-how-i-see-the-world/ "Albert Einstein: How I See the World")
+* [![Curiosity: World’s Dirtiest Man](/wp-content/thumbnails/6585-100x70.png?x53432)
     
-    Live Forever – The Rise and Fall of Britpop
+    Curiosity: World’s Dirtiest Man
     
-    Live Forever: The Rise and Fall of Brit Pop is a 2003 documentary film written and directed by John Dower. The documentary is a study of popular culture in the United Kingdom during the mid to late 19](https://documentaryheaven.com/live-forever-the-rise-and-fall-of-britpop/ "Live Forever – The Rise and Fall of Britpop")
-* [![Underwater Hockey: A Documentary](/wp-content/thumbnails/5769-100x70.jpg?x53432)
+    We shower, we bathe, we apply perfumes and deodorants. We’re cleaner and healthier than at any other point in human history.So it may be surprising to learn there are 10 times more things living o](https://documentaryheaven.com/curiosity-worlds-dirtiest-man/ "Curiosity: World’s Dirtiest Man")
+* [![Life In Solitary](/wp-content/thumbnails/10109-100x70.jpeg?x53432)
     
-    Underwater Hockey: A Documentary
+    Life In Solitary
     
-    Yes, this is a real sport! Play it at a pool near you! Many people haven't heard of this fun and exciting game, but that means nothing to these few players who have fallen in love with the game](https://documentaryheaven.com/underwater-hockey-a-documentary/ "Underwater Hockey: A Documentary")
-* [![Naqoyqatsi](/wp-content/thumbnails/2964-100x70.gif?x53432)
+    In America 80,000 prisoners are locked up in solitary confinement, they spend months, sometimes years alone and separated from general population. This BBC film goes inside the punishment wing of a ma](https://documentaryheaven.com/life-in-solitary/ "Life In Solitary")
+* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
     
-    Naqoyqatsi
+    Dreamville Presents: REVENGE
     
-    Whether your intellect is completely engaged or passively detached, any viewing of Naqoyqatsi is likely to provoke a fascinating response. You can view it as a magnificent, visually stimulating music](https://documentaryheaven.com/naqoyqatsi/ "Naqoyqatsi")
+    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
