@@ -376,15 +376,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
 
 ### Potter History
 
-June 2, 1999 – Harry Potter and the Chamber of Secrets is published in the United States.
+June 23, 2006 – Harry Potter and the Half-Blood Prince is released in paperback in the United Kingdom.
 
 ### Potter Quote
 
-“It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare.”
+“You’re dead, Potter.”
 
 [](#)
 
