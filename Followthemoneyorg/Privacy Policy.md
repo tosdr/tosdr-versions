@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![DualAdvantage](/assets/logos/DuelAdvantage.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2007-2008-state-elections)
+[![1%=51%](/assets/logos/151-2000-12.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
 
-Check out the power of a dual advantage.
+Just 1% of donors gave 51% of the total.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
