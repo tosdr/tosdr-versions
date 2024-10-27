@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/7f430604-18d3-49e7-ab5f-46db7ed13cc2/20241026T010636/7f430604-18d3-49e7-ab5f-46db7ed13cc2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7f430604-18d3-49e7-ab5f-46db7ed13cc2/20241026T010636/7f430604-18d3-49e7-ab5f-46db7ed13cc2_360x203.jpg)](https://www.king5.com/article/money/economy/everetts-maritime-institute-graduates-first-class/281-4ba266cd-4652-4466-9f39-00e215c10d12)
+        
+        #### [Everett's new Maritime Institute graduates first class](https://www.king5.com/article/money/economy/everetts-maritime-institute-graduates-first-class/281-4ba266cd-4652-4466-9f39-00e215c10d12)
+        
     *  [![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_360x203.jpg)](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
         
         #### [Seattle-based Native Youth Rise Above nonprofit to have first-time charity team at NYC Marathon](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
-        
-        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 57°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
