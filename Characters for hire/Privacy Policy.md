@@ -69,7 +69,7 @@ Privacy Policy
 
 ### **Privacy Policy**
 
-**Revised: March 6, 2024**
+**Revised: October 23, 2024**
 
 Your information privacy is important to us. We provide this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use the website on which this policy is posted (“**_Site_**”) and related services offered through the Site (“**_Services_**”). This Privacy Policy applies to all users of the Site and Services.
 
@@ -143,7 +143,9 @@ We cooperate with government and law enforcement officials and private parties t
 
 5. **Privacy Notice Specific to Mobile Messaging**
 
-We will only use information you provide when opting into mobile messaging (the “Program”) to transmit your mobile messages and respond to you, if necessary. **WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY FOR SUCH THIRD PARTY’S MARKETING PURPOSES OR OTHERWISE FOR SUCH THIRD PARTY’S OWN BENEFIT**. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. This Section is strictly limited to the Program and has no effect on other provisions of this Privacy Policy that may govern the relationship between you and us in other contexts. To view our complete Mobile Messaging Terms and Conditions, please see the Terms of Use on our Site.
+We will only use information you provide when opting into mobile messaging (the “Program”) to transmit your mobile messages and respond to you, if necessary. **Phone numbers collected with SMS consent, will not be sold, rented, or shared with third parties or affiliates for marketing purposes under any circumstances.**
+
+**WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY FOR SUCH THIRD PARTY’S MARKETING PURPOSES OR OTHERWISE FOR SUCH THIRD PARTY’S OWN BENEFIT**. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. This Section is strictly limited to the Program and has no effect on other provisions of this Privacy Policy that may govern the relationship between you and us in other contexts. To view our complete Mobile Messaging Terms and Conditions, please see the Terms of Use on our Site.
 
 6. **Cookies**
 
