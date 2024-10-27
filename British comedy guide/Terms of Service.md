@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/only_when_i_laugh.jpg "Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television")](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/) Features
+
+[Comedy Rewind: I'm H-A-P-P-Y: Only When I Laugh](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/)
+
 [![Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece](https://cdn.comedy.co.uk/images/library/misc/300x200/g/ghost_huns.jpg "Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece")](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/) Live
 
 [Ghost Huns are set for their live Halloween show](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/the_two_ronnies.jpg "The Two Ronnies. Image shows from L to R: Ronnie Corbett, Ronnie Barker. Copyright: BBC")](https://www.comedy.co.uk/quiz/329/) Quiz
 
 [British Comedy Quiz #329](https://www.comedy.co.uk/quiz/329/)
-
-[![Mr Sleepybum. Jody Kamali. Credit: Igor Emerich](https://cdn.comedy.co.uk/images/library/misc/300x200/m/mr_sleepybum.jpg "Mr Sleepybum. Jody Kamali. Credit: Igor Emerich")](https://www.comedy.co.uk/live/random8/jody-kamali/) Live
-
-[Random 8: Jody Kamali](https://www.comedy.co.uk/live/random8/jody-kamali/)
 
 #### Subscribe to our newsletters
 
