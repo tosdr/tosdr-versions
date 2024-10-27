@@ -403,21 +403,21 @@ Upgrade your smart devices. Take your experience to the next level with the best
 
 ### Top Rated Products
 
+*  [![](https://xcellme.com/wp-content/uploads/2022/08/Soul9Pro-Wht-4-300x300.jpg) SOUL 9 PRO True Wireless Earbuds High Bass Rich Sound White](https://www.xcellme.com/product/soul-9-pro-true-wireless-earbuds-high-bass-rich-sound-white/)
+    
+    Rated **5.00** out of 5
+    
+    99.00 AED
+*  [![](https://xcellme.com/wp-content/uploads/2022/09/Soul10-Blk-1-300x300.jpg) SOUL 10 PRO True Wireless Earbuds - Black](https://www.xcellme.com/product/soul-10-pro-true-wireless-earbuds-black/)
+    
+    Rated **5.00** out of 5
+    
+    79.00 AED
 *  [![](https://xcellme.com/wp-content/uploads/2023/05/1-3-300x300.jpg) SOUL 12 PRO True Wireless Earbuds - Black](https://www.xcellme.com/product/soul-12-pro-true-wireless-earbuds-black/)
     
     Rated **5.00** out of 5
     
     ~99.00 AED~ 79.00 AED
-*  [![](https://xcellme.com/wp-content/uploads/2024/02/Elite-4-Silver-steel1-300x300.jpg) Elite 4 Smart Watch Stainless Steel](https://www.xcellme.com/product/elite4-smartwatch-stainless-steel/)
-    
-    Rated **5.00** out of 5
-    
-    ~229.00 AED~ 199.00 AED
-*  [![](https://xcellme.com/wp-content/uploads/2022/11/XL-SOUL-10-WHI-1-300x300.jpg) SOUL 10 Clear Sound, Rich Bass - White](https://www.xcellme.com/product/soul-10-clear-sound-rich-bass-white/)
-    
-    Rated **5.00** out of 5
-    
-    ~69.00 AED~ 49.00 AED
 
 USEFUL LINKS
 ------------
