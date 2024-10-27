@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+    
+    ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
     
     ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
@@ -51,10 +55,6 @@
     [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
     
     ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-    
-    [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
-    
-    ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+    
+    ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
     
     ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
@@ -136,10 +140,6 @@ View All Result
     [![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
     
     ### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-    
-    [![A poppy wreath. Image: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Poppy-wreath-231024-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
-    
-    ### [Southwark Remembrance and Armistice Day services announced](https://southwarknews.co.uk/area/bermondsey/southwark-remembrance-and-armistice-day-services-announced/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+
+### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+
+[27th October 2024](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-120x86.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
 
 ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
@@ -272,12 +278,6 @@ Terms of Use
 ### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
 
 [23rd October 2024](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-
-[![Chris Kaba](https://southwarknews.co.uk/wp-content/uploads/2024/10/126683549_59766014-1a38-4f42-b9e2-f425c8a9aaa6-e1729677252502-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-
-### [Chris Kaba: Peckham MP says ‘trust in the police remains a serious issue’ after not guilty verdict](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
-
-[23rd October 2024](https://southwarknews.co.uk/area/peckham/chris-kaba-peckham-mp-says-trust-in-the-police-remains-a-serious-issue-after-not-guilty-verdict/)
 
 ### USEFUL PAGES
 
