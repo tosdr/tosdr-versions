@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-YOU are brilliant.
+Fast customer support. Once again you have surpassed yourselves with the speed of your reply.
 
-Wolfgang Kannenberg
+Mike Daily
