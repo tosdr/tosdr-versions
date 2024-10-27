@@ -126,7 +126,7 @@ To expedite resolution and control the cost of any dispute, controversy, or clai
 
 ### Binding Arbitration
 
-Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity, or termination, shall be referred to and finally resolved by the American Arbitration Association (“AAA”) in accordance with the AAA rules, except as modified by this “Dispute Resolution” section. (The AAA Rules are available at www.adr.org/arb\_med or by calling the AAA at 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this Section.
+Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity, or termination, shall be referred to and finally resolved by the American Arbitration Association (“AAA”) in accordance with the AAA rules, except as modified by this “Dispute Resolution” section. (The AAA Rules are available at [www.adr.org/arb\_med](http://www.adr.org/arb_med) or by calling the AAA at 1-800-778-7879.) The Federal Arbitration Act will govern the interpretation and enforcement of this Section.
 
 ### Restrictions
 
