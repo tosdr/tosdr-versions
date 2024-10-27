@@ -642,17 +642,17 @@ Anne Garnett Calgary 11/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
+Very polite. Very efficient.
 
-Tiffany Wyatt Calgary 11/10/2024
+Art Rae Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very polite. Very efficient.
+Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
 
-Art Rae Calgary 11/10/2024
+Tiffany Wyatt Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -682,17 +682,17 @@ Trevor W Calgary 10/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kyla and Ray were very prompt and professional and had my junk hauled away in no time! Even my 5x5 soaker tub 👌🏼
+The two men did Justice to the company's reputation and offered Sterling service. 😂 Thanks guys see you again probably.
 
-Spencer Rigby Calgary 09/10/2024
+sarah curran Calgary 09/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The two men did Justice to the company's reputation and offered Sterling service. 😂 Thanks guys see you again probably.
+Kyla and Ray were very prompt and professional and had my junk hauled away in no time! Even my 5x5 soaker tub 👌🏼
 
-sarah curran Calgary 09/10/2024
+Spencer Rigby Calgary 09/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,17 +866,17 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
+Steven and Brandon did an amazing job! 100/10 would recommend them anytime! Definitely call them for any junk needs!
 
-Alexis D. Cincinnati 19/10/2024
+cydney ryals Naples 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Brandon did an amazing job! 100/10 would recommend them anytime! Definitely call them for any junk needs!
+Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
 
-cydney ryals Naples 19/10/2024
+Alexis D. Cincinnati 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -914,9 +914,17 @@ Amy Seaman Naples 19/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were great, quick and courteous. Would use them again the next time I've got junk! See you in hell, old exercise machine!
+Shawn and Patrick showed up on time and very professional.
 
-Luke Herr Columbus 18/10/2024
+Antonio Cecin Naples 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steeve and gio did an amazing job
+
+Duke Downey Naples 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -938,17 +946,17 @@ Corey Huhta Madison 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Polite and friendly service. Easy to book the appointment. They were in and out in no time.
+Steeve and gio did an amazing job
 
-Tyler Parker Cincinnati 18/10/2024
+juliaslp Naples 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Shawn and Patrick showed up on time and very professional.
+Polite and friendly service. Easy to book the appointment. They were in and out in no time.
 
-Antonio Cecin Naples 18/10/2024
+Tyler Parker Cincinnati 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -970,25 +978,9 @@ Mary Wisconsin 18/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steeve and gio did an amazing job
-
-Duke Downey Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Chris and Brayan awesome and fast to work with!
 
 Brandon Wisconsin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steeve and gio did an amazing job
-
-juliaslp Naples 18/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1005,6 +997,14 @@ Julie Tower Austin 18/10/2024
 Crew was on time and did a great job
 
 Terry Klein Austin 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Excellent and polite, friendly service from Foug & Ignacio
+
+Moira Ross LA Metro 18/10/2024
 
 ### 
 
