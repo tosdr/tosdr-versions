@@ -1,7 +1,7 @@
 be\_ixf;ym\_202410 d\_26; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=2024-10-29+Webinar+-+2025+Partner+Program+Preview+-+Send+Invites&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=55d010e6b73f410883c0e645ce74cb4b&elqaid=2000&elqat=1&elqCampaignId=1824&elqak=8AF5073E6AC8FD82140AA565209C7690FABDA1F9373523D7397DE06F4DCAAF6CAD0D
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
