@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Subway Scramble](https://www.myabandonware.com/game/subway-scramble-skj)
+* [Myulk: kampen om det öppna landskapet](https://www.myabandonware.com/game/myulk-kampen-om-det-oeppna-landskapet-ski)
+* [Scrabble](https://www.myabandonware.com/game/scrabble-skh)
 * [Tane o Maku Tori](https://www.myabandonware.com/game/tane-o-maku-tori-t1z)
 * [Super Robot Taisen: Compact](https://www.myabandonware.com/game/super-robot-taisen-compact-t1y)
-* [Super Robot Taisen Compact 2 Dai-3-bu Ginga Kessen Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-3-bu-ginga-kessen-hen-t1x)
-* [Super Robot Taisen Compact 2 Dai-2-bu Uchū Gekishin Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-2-bu-uchu-gekishin-hen-t1w)
-* [Super Robot Taisen Compact 2 Dai-1-bu Chijō Gekidō Hen](https://www.myabandonware.com/game/super-robot-taisen-compact-2-dai-1-bu-chijo-gekido-hen-t1v)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
