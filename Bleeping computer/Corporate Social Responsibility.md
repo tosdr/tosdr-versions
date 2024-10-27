@@ -36,6 +36,9 @@
         
         QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
     
+    * [![Get hands on cybersecurity training with this course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get hands on cybersecurity training with this course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-with-this-course-bundle/)
     * [![New Cisco ASA and FTD features block VPN brute-force password attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
@@ -45,9 +48,6 @@
     * [![Want to work in cybersecurity? Check out this $56 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Want to work in cybersecurity? Check out this $56 course bundle deal](https://www.bleepingcomputer.com/offer/deals/want-to-work-in-cybersecurity-check-out-this-56-course-bundle-deal/)
-    * [![Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
