@@ -1,6 +1,6 @@
  [Skip to content](#main)
 
-[![Brian Role` - International Magician Malta](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cHM6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTkyMCIgaGVpZ2h0PSIxMDgwIiB2aWV3Qm94PSIwIDAgMTkyMCAxMDgwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjY2ZkNGRiIi8+PC9zdmc+)](https://brianrole.com/)
+Menu
 
 * [Home](https://brianrole.com/)
     * [Latest News & Updates](https://brianrole.com/news)
