@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Long Hot SummerKeith Urban<br><br>6:54pm |
-| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>6:50pm |
-| Where It EndsBailey Zimmerman<br><br>6:47pm |
-| I Never LieZach Top<br><br>6:44pm |
-| One Number AwayLuke Combs<br><br>6:36pm |
+| I Love This BarToby Keith<br><br>4:51am |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>4:49am |
+| Hung Up On YouBryce Leatherwood<br><br>4:45am |
+| Last NightMorgan Wallen<br><br>4:42am |
+| Fall Of SummerScotty Mccreery<br><br>4:39am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
