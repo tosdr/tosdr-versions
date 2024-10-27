@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
     
-* [How to back up data files from OneDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-onedrive-using-backup4all-kb.html)  
+* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
     
-* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
+* [Backup to CD](https://www.backup4all.com/backup-to-cd-kb.html)  
     
-* [How to install Backup4all Monitor](https://www.backup4all.com/how-to-install-backup4all-monitor-kb.html)  
+* [How to configure backups to run sequentially](https://www.backup4all.com/how-to-configure-backups-to-run-sequentially-kb.html)  
     
-* [How to restore to Hitachi](https://www.backup4all.com/how-to-restore-to-hitachi-kb.html)  
+* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
     
 
 Choose language:
