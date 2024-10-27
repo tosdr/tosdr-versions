@@ -12,7 +12,7 @@ AkzeptierenAblehnen
 
     
 
-[Entdecke Parkside: Akkus, Werkzeuge, Zubehör und vieles mehr!](https://www.lidl.de/c/parkside/s10028969)
+[Auf die Piste, fertig, los! - Mode & Zubehör für deine Ski-Saison](https://www.lidl.de/c/skimode-fuer-die-ganze-familie/a10015238)
 
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
@@ -58,7 +58,7 @@ Um die Website korrekt anzuzeigen, verwende bitte einen der folgenden Browser:
 Main Navigation[Zurück](#)
 
 1. [Onlineshop](https://www.lidl.de/)
-2. [Filial-Angebote](https://www.lidl.de/c/halloween-21-10/a10056934?tabCode=Current_Sales_Week)
+2. [Filial-Angebote](https://www.lidl.de/c/xxl-ab-28-10/a10057279?tabCode=Current_Sales_Week)
 3. [Lidl Plus](https://www.lidl.de/c/lidl-plus/s10007388)
 4. [Sale](https://www.lidl.de/q/query/supersale)
 5. [Themenwelten](https://www.lidl.de/c/themenwelten/s10007142)
@@ -85,7 +85,7 @@ Main Navigation[Zurück](#)
 12. [Tierbedarf](https://www.lidl.de/h/tierbedarf/h10006711)
 13. [Guthabenkarten & Gutscheine](https://www.lidl.de/h/guthaben-gutscheinkarten/h10005877)
 
-1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/halloween-21-10/a10056934?tabCode=Current_Sales_Week)
+1. [Filial-AngeboteÖffnen](https://www.lidl.de/c/xxl-ab-28-10/a10057279?tabCode=Current_Sales_Week)
 2. [Unsere Prospekte](https://www.lidl.de/c/online-prospekte/s10005610)
 3. [Frische-Angebote](https://www.lidl.de/c/billiger-frische/a10007140)
 4. [Vegane Welt](https://www.lidl.de/c/vegan/s10007709)
@@ -2941,7 +2941,6 @@ Werde jetzt Lidl Insider & sichere dir dein Willkommensgeschenk⁷!
 * [![Download Lidl Playstore](/static/assets/b3c6c459-6da4-4dd7-87bd-2b979c8ab561.png)](https://app.adjust.com/8cub0z?campaign=website&adgroup=footerbadges&fallback=https://play.google.com/store/apps/details?id=de.sec.mobile "Download Lidl Playstore")
 
 * [![Offizieller Premium-Partner des DHB](/static/assets/c2c0806f-87d2-49fe-a638-1ff839af83a3.png)](https://www.lidl.de/c/lebensmittelpartner-des-dhb/s10007398 "Lidl ist Offizieller Premium-Partner des DHB")
-* [![Bester Online-Shop | Händler des Jahres](/static/assets/hdj-2024-OS_footer-1206564.png)](https://www.lidl.de/c/awards/s10007372#10036522 "Bester Online-Shop | Händler des Jahres")
 * [![Retail Award in der Kategorie 'Discount' für Lidl!](/static/assets/retail-award2024_footer-1205960.png)](https://www.lidl.de/c/retail-award/s10005219 "Lidl bekommt den Retail Award in der Kategorie 'Discount'!")
 * [![EHI Retail Institute zertifiziert](/static/assets/ffbd4eee-8d85-4f9f-9905-fc4f6241fbc2.png)](https://www.lidl.de/c/ehi-zertifikat/s10005401 "Lidl ist EHI Retail Institute zertifiziert!")
 * [![Lidl produziert nach Richtlinien der Öko-Verordnung!](/static/assets/d6fc779a-23fe-4316-8da2-df4b062adbb7.png)](https://unternehmen.lidl.de/verantwortung/gut-fuer-dich "Lidl produziert nach Richtlinien der Öko-Verordnung!")
