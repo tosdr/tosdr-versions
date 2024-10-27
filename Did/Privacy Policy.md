@@ -1,4 +1,4 @@
-[Now Available! Translate Videos Anywhere in the D-ID Mobile App. >>](https://did.onelink.me/5jO0/ifc0qd31)
+[Enter the](https://creators.d-id.com/?utm_source=website&utm_medium=banner)  [AI Dreams Creator Competition](https://creators.d-id.com/) for your chance to win $10,000! >>
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2053'%3E%3C/svg%3E)
 
