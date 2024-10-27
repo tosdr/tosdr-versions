@@ -379,7 +379,7 @@ Hidden category:
 * [Page information](https://www.semantic-mediawiki.org/w/index.php?title=semantic-mediawiki.org:Privacy_policy&action=info "More information about this page")
 * [Browse properties](https://www.semantic-mediawiki.org/wiki/Special:Browse/:semantic-2Dmediawiki.org:Privacy-5Fpolicy)
 
-* This page was last edited on 24 May 2018, at 22:28.
+* This page was last edited on 24 May 2018, at 21:28.
 * Content is available under ["Attribution 3.0 Germany" (CC BY 3.0 DE)](https://www.semantic-mediawiki.org/wiki/semantic-mediawiki.org:Copyrights "semantic-mediawiki.org:Copyrights") unless otherwise noted.
 
 * [Privacy policy](https://www.semantic-mediawiki.org/wiki/semantic-mediawiki.org:Privacy_policy "semantic-mediawiki.org:Privacy policy")
