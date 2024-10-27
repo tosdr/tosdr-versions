@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![UnitedHealth says data of 100 million stolen in Change Healthcare breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![New Windows Driver Signature bypass allows kernel rootkit installs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
-    * [![Apple creates Private Cloud Compute VM to let researchers find bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
+    * [![New Cisco ASA and FTD features block VPN brute-force password attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Apple creates Private Cloud Compute VM to let researchers find bugs](https://www.bleepingcomputer.com/news/apple/apple-creates-private-cloud-compute-vm-to-let-researchers-find-bugs/)
-    * [![Cisco fixes VPN DoS flaw discovered in password spray attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
+    * [![Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cisco fixes VPN DoS flaw discovered in password spray attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/)
-    * [![QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
+    * [![Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
+        Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
     
+    * [![Fog ransomware targets SonicWall VPNs to breach corporate networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fog ransomware targets SonicWall VPNs to breach corporate networks](https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
     * [![Get hands on cybersecurity training with this course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get hands on cybersecurity training with this course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-with-this-course-bundle/)
@@ -45,9 +48,6 @@
     * [![New Windows Driver Signature bypass allows kernel rootkit installs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
-    * [![Want to work in cybersecurity? Check out this $56 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Want to work in cybersecurity? Check out this $56 course bundle deal](https://www.bleepingcomputer.com/offer/deals/want-to-work-in-cybersecurity-check-out-this-56-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![UnitedHealth Group UGH](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
-* [![Microsoft Teams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
+    UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/)
+* [![Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
 
 ##### Follow us:
 
