@@ -138,11 +138,11 @@ MSX Music player
 Latest reactions
 
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Tiny Xevious port!!](https://www.msx.org/forum/msx-talk/software/tiny-xevious-port "Tiny Xevious port!!")
+* [YM2413 issues](https://www.msx.org/forum/msx-talk/hardware/ym2413-issues?page=1 "YM2413 issues")
+* [Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou)](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-501p-no-video-from-s-viteorgb-power-indicator-is-green-sound-fro "Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou) ")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=70 "WonderTANG! Who wants to juice up your MSX?")
+* [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
+* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [Tiny Xevious port!!](https://www.msx.org/forum/msx-talk/software/tiny-xevious-port "Tiny Xevious port!!")
 * [looking for an OPL4 moonsound or compatible and slot expander. europe](https://www.msx.org/forum/msx-talk/general-discussion/looking-for-an-opl4-moonsound-or-compatible-and-slot-expander-euro "looking for an OPL4 moonsound or compatible and slot expander. europe  ")
 * [Hi i'm looking for an Scart to HMDI converter with RGB suport.](https://www.msx.org/forum/msx-talk/graphics-and-music/hi-im-looking-for-an-scart-to-hmdi-confurter-with-rgb-suport?page=1 "Hi i'm looking for an Scart to HMDI converter with RGB suport.")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
 * [PANASONIC FS-A1 MSX2 SCHEMATICS](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-msx2-schematics "PANASONIC FS-A1 MSX2 SCHEMATICS")
-* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Using a Stereo Effects Processor with MSX](https://www.msx.org/forum/msx-talk/hardware/using-a-stereo-effects-processor-with-msx "Using a Stereo Effects Processor with MSX")
 * [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
-* [File-Hunter.com downtime](https://www.msx.org/forum/msx-talk/off-topic/file-huntercom-downtime?page=1 "File-Hunter.com downtime")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
-* [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
