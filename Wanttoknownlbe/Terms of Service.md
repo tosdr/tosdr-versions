@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/t-doel-van-de-monomane-vaccinatiedruk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-bizarre-handel-en-wandel-van-big-pharma/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
