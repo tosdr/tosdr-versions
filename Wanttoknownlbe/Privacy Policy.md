@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/mh17-maleisie-gaat-rusland-opzoeken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
