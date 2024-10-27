@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 27, 2024](https://www.japantimes.co.jp/archive/2024/10/27/ "archive page")
+[October 28, 2024](https://www.japantimes.co.jp/archive/2024/10/28/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
-
-  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
-
 [Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
-[In tight Japan election, candidates make last-ditch appeals](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
+[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430197.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
+  [![Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430170.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday")](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
 [Take a Halloween stroll through Tokyo’s dark history](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
 
   [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
+
+[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
 Editors' Picks
 --------------
@@ -164,25 +164,17 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
 [Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[In tight Japan election, candidates make last-ditch appeals](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
+[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
-By [Tomohiro Osaki](https://www.japantimes.co.jp/author/203/tomohiro-osaki/ "Tomohiro Osaki")  
+By [Ryotaro Nakamaru](https://www.japantimes.co.jp/author/971/ryotaro-nakamaru/ "Ryotaro Nakamaru") and [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan")  
 
-  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430197.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
+  [![Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430170.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday")](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
@@ -191,6 +183,14 @@ By [Tomohiro Osaki](https://www.japantimes.co.jp/author/203/tomohiro-osaki/ "Tom
 By [Mark Schreiber](https://www.japantimes.co.jp/author/231/mark-schreiber/ "Mark Schreiber")  
 
   [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
 
 Podcast
 -------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[LDP-Komeito bloc set to lose majority in Lower House election](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "LDP-Komeito bloc set to lose majority in Lower House election")
+
+13 mins ago
+
+[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
+
+4 hours ago
+
+[Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’](https://www.japantimes.co.jp/news/2024/10/27/world/politics/michelle-obama-appeal-men/ "Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’")
+
+7 hours ago
+
 [Taiwan says China holds 'combat' patrol after latest U.S. arms sales](https://www.japantimes.co.jp/news/2024/10/27/asia-pacific/taiwan-china-combat-patrol/ "Taiwan says China holds 'combat' patrol after latest U.S. arms sales")
 
-1 hours ago
+7 hours ago
 
-[Live updates: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "Live updates: Japan's Lower House election 2024")
+[What to know about the Chinese hackers who targeted the 2024 campaigns](https://www.japantimes.co.jp/news/2024/10/27/world/politics/chinese-hackers-2024-us-election/ "What to know about the Chinese hackers who targeted the 2024 campaigns")
 
-3 hours ago
-
-[Onagawa No. 2 nuclear reactor set for restart amid mixed local reception](https://www.japantimes.co.jp/news/2024/10/27/japan/society/onagawa-reactor-restart/ "Onagawa No. 2 nuclear reactor set for restart amid mixed local reception")
-
-4 hours ago
-
-[Japan party heads travel 84,000 km to campaign for general election](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/political-parties-heads-traveling-distance/ "Japan party heads travel 84,000 km to campaign for general election")
-
-4 hours ago
-
-[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
-
-4 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
