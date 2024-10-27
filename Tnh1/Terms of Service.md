@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/9/csm_rui_palmeira_psd_0fbeebc50e.jpeg)
+   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
+
+Domingo de lazer
+
+Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")   [![Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/0/csm_manifestacao_julgamento_caso_joao_de_assis_-_foto_assessoria__2__702f4317e4.jpeg)
+
+Crime em 2022
+
+Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://www.tnh1.com.br/noticia/nid/auditores-fiscais-fazem-ato-e-pedem-pela-condenacao-dos-acusados-de-matar-joao-de-assis-em-maceio/ "Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió")   [![Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/9/csm_rui_palmeira_psd_0fbeebc50e.jpeg)
 
 EX-PREFEITO DE MACEIÓ
 
-Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
+Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
 
 Maceió
 
-Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
+Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
 
 no jacintinho
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
 
 crime ambiental
 
-Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")   [![Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
-
-Tabuleiro do Martins
-
-Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida](https://www.tnh1.com.br/noticia/nid/mulher-tem-casa-invadida-por-ex-tenta-fugir-com-filhos-mas-e-alcancada-e-agredida/ "Mulher tem casa invadida por ex, tenta fugir com filhos, mas é alcançada e agredida")   [![Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
-
-Em Maceió
-
-Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente](https://www.tnh1.com.br/noticia/nid/homem-e-preso-por-esfaquear-companheira-que-fez-pedido-falso-de-ajuda-no-whatsapp-para-filho-deficiente/ "Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsApp para filho deficiente")
+Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Homem é preso por esfaquear companheira que fez pedido falso de ajuda no WhatsA
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
+   [![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_4afefb5f70.jpeg)
+
+Oportunidade
+
+Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+
+parabéns!
+
+Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-27-de-outubro-de-2024/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024")   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
 
 balneabilidade
 
-Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
+Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
 
 Alagoas
 
-É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
+É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
 
 Alagoas
 
-Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
+Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
 
 Delimitar locais
 
-Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")   [![Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/3/csm_csm_Prisao_Suspeito_Veneno_Coxinha_7760702a24-01_9764a6f7cb.jpeg)
-
-EM SÃO BRÁS
-
-Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada](https://www.tnh1.com.br/noticia/nid/justica-nega-pedido-de-liberdade-a-suspeito-de-matar-professora-com-coxinha-envenenada/ "Justiça nega pedido de liberdade a suspeito de matar professora com coxinha envenenada")   [![Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/6/csm_Exame_Mamas_Shopping_f8c7e440f0.jpeg)
-
-Alagoas
-
-Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www.tnh1.com.br/noticia/nid/shopping-de-maceio-oferece-exames-de-mama-gratuitos-para-mulheres/ "Shopping de Maceió oferece exames de mama gratuitos para mulheres")
+Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Shopping de Maceió oferece exames de mama gratuitos para mulheres](https://www
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_pm-flagra-crimes-de-trafico-de-drogas-e-violencia-domestica-no-sertao_1a2416cdcd.jpg)
+   [![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_33623cea7a.jpeg)
+
+Em Arapiraca
+
+Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://www.tnh1.com.br/noticia/nid/mulher-recebe-visita-de-pms-apos-denuncia-e-e-presa-por-trafico-de-drogas/ "Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas")   [![PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_apreensao_macos_de_cigarro_foto_pm_665a91e20e.jpeg)
+
+Dois presos
+
+PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL](https://www.tnh1.com.br/noticia/nid/pm-apreende-armas-de-fogo-e-155-macos-de-cigarro-sem-notas-fiscais-no-interior-de-al/ "PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL")   [![Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_4a540e1b45.jpg)
+
+Ficou ferido
+
+Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://www.tnh1.com.br/noticia/nid/traficante-trapalhao-e-preso-com-drogas-ao-pular-muro-e-cair-sobre-telhas-de-casa-no-jacintinho/ "Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho")   [![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_77844fdcf1.jpg)
+
+Cidade Universitária
+
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")   [![Homem é encontrado morto com 10 tiros nas costas, em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_IML_Maceio_-_foto_Policia_Cientifica_2_ea1ef0bfc3.jpeg)
+
+Em mata
+
+Homem é encontrado morto com 10 tiros nas costas, em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-10-tiros-nas-costas-em-rio-largo/ "Homem é encontrado morto com 10 tiros nas costas, em Rio Largo")   [![Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_pm-flagra-crimes-de-trafico-de-drogas-e-violencia-domestica-no-sertao_1a2416cdcd.jpg)
 
 DELMIRO GOUVEIA
 
-Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://www.tnh1.com.br/noticia/nid/jovem-tenta-fugir-da-pm-em-terreno-baldio-mas-e-preso-com-drogas-e-r300-em-especie/ "Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie")   [![Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/c/csm_Casal_suspeito_de_furtar_joalheria_no_Centro_e_preso__homem_foi_espancado_por_populares_-_foto_Reproducao_0a434c35b5.jpeg)
-
-Polícia
-
-Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares](https://www.tnh1.com.br/noticia/nid/casal-suspeito-de-furtar-joalheria-no-centro-e-preso-homem-foi-espancado-por-populares/ "Casal suspeito de furtar joalheria no Centro é preso; homem foi espancado por populares")   [![Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/0/csm_csm_18DO-REAL-DEODORENSE_6570eef071_5b44800e32.png)
-
-Polícia
-
-Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel](https://www.tnh1.com.br/noticia/nid/disputa-por-paredao-de-som-termina-com-uso-de-spray-de-pimenta-e-prisao-na-barra-de-sao-miguel/ "Disputa por paredão de som termina com uso de spray de pimenta e prisão na Barra de São Miguel")   [![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_7578f1a6e7.jpg)
-
-foram monitorados
-
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")   [![Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/8/csm_csm_homem-morto-tiros-IFAL-cortesia_7645e32b96_c8477d1355.jpeg)
-
-região metropolitana
-
-Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado](https://www.tnh1.com.br/noticia/nid/homem-morto-dentro-de-carro-em-satuba-ja-tinha-sido-alvo-de-outro-atentado/ "Homem morto dentro de carro em Satuba já tinha sido alvo de outro atentado")   [![Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_homem-morto-tiros-IFAL-cortesia_7ab8ef42ee.jpeg)
-
-Violência
-
-Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba](https://www.tnh1.com.br/noticia/nid/homem-e-executado-a-tiros-dentro-de-veiculo-em-frente-ao-ifal-de-satuba/ "Homem é executado a tiros dentro de veículo em frente ao IFAL de Satuba")
+Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://www.tnh1.com.br/noticia/nid/jovem-tenta-fugir-da-pm-em-terreno-baldio-mas-e-preso-com-drogas-e-r300-em-especie/ "Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ TRAGÉDIA
 
 Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
-
-foram monitorados
-
-foram monitorados
-
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
-
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
 
 no jacintinho
 
@@ -222,7 +214,15 @@ no jacintinho
 
 Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
 
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
+Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
+
+foram monitorados
+
+foram monitorados
+
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
+
+Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
 
 batida com caminhão
 
@@ -232,39 +232,39 @@ Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no inter
 
 Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")
 
-[![Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_lily_allen_reproducao_redes_sociais_5db6772dea.jpg)
+[![Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_hemoal-garante-atendimento-integral-a-706-portadores-de-doenca-falciforme-em-alagoas_c291b45183.jpg)
 
-fãs reagiram
+Referência
 
-fãs reagiram
+Referência
 
-Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas
+Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas
 
-Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas](https://www.tnh1.com.br/noticia/nid/cantora-internacional-revela-ganhar-mais-dinheiro-vendendo-fotos-dos-pes-do-que-com-musicas/ "Cantora internacional revela ganhar mais dinheiro vendendo fotos dos pés do que com músicas")[![Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_especie_vagalume_Cortesia_do_professor_Chenyang_Cai_a_CNN_b755bf94d5.jpg)
+Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas](https://www.tnh1.com.br/noticia/nid/hemoal-garante-atendimento-integral-a-706-portadores-de-doenca-falciforme-em-alagoas/ "Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas")[![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_3870d594c3.jpeg)
 
-veja quais
+Oportunidade
 
-veja quais
+Oportunidade
 
-Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros
+Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior
 
-Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros](https://www.tnh1.com.br/noticia/nid/descoberta-de-fossil-revela-especies-desconhecidas-que-viveram-com-dinossauros/ "Descoberta de fóssil revela espécies desconhecidas que viveram com dinossauros")[![Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/f/csm_bola-de-ouro_divulgacao_49bc64441f.jpg)
+Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")[![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_f90326ff13.jpg)
 
-nomes de peso
+Domingo de lazer
 
-nomes de peso
+Domingo de lazer
 
-Relembre lendas do futebol que nunca venceram a Bola de Ouro
+Três mulheres são resgatadas após afogamento na Praia do Francês
 
-Relembre lendas do futebol que nunca venceram a Bola de Ouro](https://www.tnh1.com.br/noticia/nid/relembre-lendas-do-futebol-que-nunca-venceram-a-bola-de-ouro/ "Relembre lendas do futebol que nunca venceram a Bola de Ouro")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
+Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")[![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_e51c10fb31.jpeg)
 
-entenda a polêmica
+Em Arapiraca
 
-entenda a polêmica
+Em Arapiraca
 
-Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’
+Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas
 
-Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://www.tnh1.com.br/noticia/nid/andressa-urach-esbraveja-contra-religiosos-nao-sou-chocadeira/ "Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’")
+Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://www.tnh1.com.br/noticia/nid/mulher-recebe-visita-de-pms-apos-denuncia-e-e-presa-por-trafico-de-drogas/ "Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
