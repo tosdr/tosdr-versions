@@ -578,10 +578,9 @@ Shop Now
 Else World
 
 * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
-* [Blog](https://elsenutrition.com/blogs/news)
+* [Blog](https://elsenutrition.com/a/resources/)
 * [Recipes](https://elsenutrition.com/blogs/else-recipes)
 * [Our Story](https://elsenutrition.com/pages/our-story)
-* [Resources](https://elsenutrition.com/a/resources/)
 * [Clean Label](https://elsenutrition.com/pages/clean-label)
 * [For HCP](https://hcp.elsenutrition.com/)
 * [Investors](https://investors.elsenutrition.com/)
