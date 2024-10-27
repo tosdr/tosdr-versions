@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/stijging-corona-gevallen-hoezo-manipulatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/foodwatch-ttip-gebaseerd-op-leugens-en-manipulatie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
