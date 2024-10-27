@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
-* [MLB World Series](https://www.japantimes.co.jp/tag/mlb/ "MLB World Series")
+* [MLB World Series](https://www.japantimes.co.jp/about-us/link-policy/tag/world-series/ "MLB World Series")
 * [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
-[Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+[In tight Japan election, candidates make last-ditch appeals](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
 
-  [![Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430209.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ")](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430197.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
 
-['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+[Take a Halloween stroll through Tokyo’s dark history](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
 
-  [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+  [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
 
 Editors' Picks
 --------------
@@ -176,19 +176,21 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
-
-  [![Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430209.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ")](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+[In tight Japan election, candidates make last-ditch appeals](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
 
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+By [Tomohiro Osaki](https://www.japantimes.co.jp/author/203/tomohiro-osaki/ "Tomohiro Osaki")  
 
-  [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
+  [![Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430197.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who serves concurrently as leader of the ruling Liberal Democratic Party, makes a speech at a campaign event for the Lower House election, in Kashiwa, Chiba Prefecture, on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-election-final-day-campaigning/ "In tight Japan election, candidates make last-ditch appeals")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Take a Halloween stroll through Tokyo’s dark history](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
+
+By [Mark Schreiber](https://www.japantimes.co.jp/author/231/mark-schreiber/ "Mark Schreiber")  
+
+  [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[The Obamas stump for Harris, key allies in final days of campaign](https://www.japantimes.co.jp/news/2024/10/27/world/politics/obamas-stump-for-harris/ "The Obamas stump for Harris, key allies in final days of campaign")
+[Taiwan says China holds 'combat' patrol after latest U.S. arms sales](https://www.japantimes.co.jp/news/2024/10/27/asia-pacific/taiwan-china-combat-patrol/ "Taiwan says China holds 'combat' patrol after latest U.S. arms sales")
 
 1 hours ago
 
-[Commonwealth agrees 'time has come' for talks on legacy of slavery](https://www.japantimes.co.jp/news/2024/10/27/world/society/commonwealth-slavery-talks/ "Commonwealth agrees 'time has come' for talks on legacy of slavery")
+[Live updates: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "Live updates: Japan's Lower House election 2024")
 
 3 hours ago
 
-[China tightens its hold on minerals needed to make computer chips](https://www.japantimes.co.jp/business/2024/10/27/tech/china-rare-earths-grip/ "China tightens its hold on minerals needed to make computer chips")
+[Onagawa No. 2 nuclear reactor set for restart amid mixed local reception](https://www.japantimes.co.jp/news/2024/10/27/japan/society/onagawa-reactor-restart/ "Onagawa No. 2 nuclear reactor set for restart amid mixed local reception")
 
-3 hours ago
+4 hours ago
 
-[Is Kamala Harris’ race or gender affecting her support? ‘It’s very complicated.’](https://www.japantimes.co.jp/news/2024/10/27/world/politics/harris-race-gender-support/ "Is Kamala Harris’ race or gender affecting her support? ‘It’s very complicated.’")
+[Japan party heads travel 84,000 km to campaign for general election](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/political-parties-heads-traveling-distance/ "Japan party heads travel 84,000 km to campaign for general election")
 
-3 hours ago
+4 hours ago
 
-[Israel’s limited attack on Iran may help spur regional deal](https://www.japantimes.co.jp/news/2024/10/27/world/israel-limited-attack-iran-deal/ "Israel’s limited attack on Iran may help spur regional deal")
+[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
-3 hours ago
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
