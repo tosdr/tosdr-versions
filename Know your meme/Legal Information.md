@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![You vs. The Guy She Says Not to Worry About](https://i.kym-cdn.com/featured_items/icons/wide/000/026/364/You_vs_Guy_She_Told_You_Not_To_Worry_About_meme_banner.jpg "Happy Anniversary To 'You Vs. The Guy She Told You Not To Worry About'")
+* [![CJ Is Ready to Serve a Second Can of Whoop-Ass in GTA:SA Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/383/e51.jpg "The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago")
     
-    Happy Anniversary To 'You Vs. The Guy She Told You Not To Worry About'](https://knowyourmeme.com/memes/you-vs-the-guy-she-told-you-not-to-worry-about)
+    The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago](https://knowyourmeme.com/memes/ah-shit-here-we-go-again)
     
-* [![Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format](https://i.kym-cdn.com/featured_items/icons/wide/000/026/363/cover2.jpg "Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format")
+* [!['Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles](https://i.kym-cdn.com/featured_items/icons/wide/000/026/382/illustya-challenge-thumbnail.jpg "'Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles")
     
-    Chinese Restaurants Throughout The Entirety Of Spacetime Won't Let You Finish Your Sentence In This Meme Format](https://knowyourmeme.com/memes/chinese-restaurant-never-let-you-finish-your-sentence)
+    'Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles](https://knowyourmeme.com/memes/irasutoya-challenge)
     
-* [![Layers of Irony](https://i.kym-cdn.com/featured_items/icons/wide/000/026/362/succcccccccccccccc.png "How Many Years Of 'Succ' Has It Been? Like 9 Or 10, My Dude")
+* [![Vegeta Reading refers to a piece of Dragon Ball fan art showing the character Vegeta reading a book in a library. Vegeta is wearing a suit and glasses, leaning against a bookshelf while looking at the viewer. The artwork was created by internet user WhirlyDoodle in 2023. Vegeta Reading became the subject of an image macro series which notably spread on TikTok in 2024. Captions about being studious or smart were paired with the image in photo slideshows and slow fade-in memes. The image was often used with the Blackbeard Writing meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/381/vegeta-reading-meme.jpg "Did You Know That Vegeta Is Studious? He's Studying You Right Now")
     
-    How Many Years Of 'Succ' Has It Been? Like 9 Or 10, My Dude](https://knowyourmeme.com/memes/layers-of-irony)
+    Did You Know That Vegeta Is Studious? He's Studying You Right Now](https://knowyourmeme.com/memes/vegeta-reading)
     
-* [![Official logo of the Shiba Inu (SHIB) meme coin](https://i.kym-cdn.com/featured_items/icons/wide/000/026/361/Shiba_Inu_Coin_cover.jpg "Everything You Need To Know About The Shiba Inu (SHIB) Meme Coin ")
+* [![Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies](https://i.kym-cdn.com/featured_items/icons/wide/000/026/380/ef121bcb6d2e1a40516e5fad029291f0.jpg "Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies")
     
-    Everything You Need To Know About The Shiba Inu (SHIB) Meme Coin](https://knowyourmeme.com/memes/subcultures/shiba-inu-shib-meme-coin)
+    Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies](https://knowyourmeme.com/memes/occupation-slave)
     
-* [![Blood-Curdling Stalker Scream From _HL2_ Beta Has Been Traumatizing Meme Enjoyers Since 2022](https://i.kym-cdn.com/featured_items/icons/wide/000/026/360/cover1.jpg "Blood-Curdling Stalker Scream From _HL2_ Beta Has Been Traumatizing Meme Enjoyers Since 2022")
+* [![Boo Inspired Outfit refers to memes and jokes about TikToker @maytheforcebewithrj, in particular, a video where he wears all white and poses with his tongue out for an outfit inspired by Boo from Super Mario. The meme is sometimes paired with the phrase "Men's fashion is boring, explain this then."](https://i.kym-cdn.com/featured_items/icons/wide/000/026/379/boo_inspired.jpg "This TikToker's 'Boo Inspired Outfit' May Be The Final Boss Of Men's Fashion")
     
-    Blood-Curdling Stalker Scream From \_HL2\_ Beta Has Been Traumatizing Meme Enjoyers Since 2022](https://knowyourmeme.com/memes/half-life-2-stalker-scream)
+    This TikToker's 'Boo Inspired Outfit' May Be The Final Boss Of Men's Fashion](https://knowyourmeme.com/memes/boo-inspired-outfit)
     
 
 ##### Also Trending:
 
-[Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave")
+[The Emperor's New Groove](https://knowyourmeme.com/memes/subcultures/the-emperors-new-groove "The Emperor's New Groove") [The Poison For Kuzco](https://knowyourmeme.com/memes/the-poison-the-poison-for-kuzco-the-poison-chosen-specially-to-kill-kuzco-kuzcos-poison "The Poison For Kuzco") [DumbDumbJeez Dine and Dash Controversy](https://knowyourmeme.com/memes/events/kick-streamer-dumbdumbjeez-dine-and-dash-controversy "DumbDumbJeez Dine and Dash Controversy") [Vegeta Reading](https://knowyourmeme.com/memes/vegeta-reading "Vegeta Reading") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Posted It Again Award / Soyjak Award](https://knowyourmeme.com/memes/posted-it-again-award-soyjak-award "Posted It Again Award / Soyjak Award")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
