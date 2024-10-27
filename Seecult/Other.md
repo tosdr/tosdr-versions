@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-new-york-city-night/njujork-nocu.jpg?itok=xKMgy-PZ)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-new-york-city-3)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/arse-balkan/vampiri-balkan.gif?itok=ke7L-LHr)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/arse-balkan)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/9-fnf-plakat.jpg?itok=BB8CvGC4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/berlinale.jpg?itok=F3uX_WmU)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -447,15 +447,15 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
 * [Nova stalna postavka Galerije Matice srpske](http://seecult.org/vest/nova-stalna-postavka-galerije-matice-srpske)
-* [Akademska knjiga najbolji izdavač](http://seecult.org/vest/akademska-knjiga-najbolji-izdavac)
+* [Novinarima Akademska knjiga najbolji izdavač](http://seecult.org/vest/novinarima-akademska-knjiga-najbolji-izdavac)
 * [Svetska premijera – pijanisti koji govore](http://seecult.org/vest/svetska-premijera-pijanisti-koji-govore)
 * [Obračun s pripadnošću i nasleđem](http://seecult.org/vest/obracun-s-pripadnoscu-i-nasledem)
 * [Marija Ručara u MSUB-u i MPU](http://seecult.org/vest/marija-rucara-u-msub-u-i-mpu)
 * [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
+* [Kreativni centar najbolji izdavač na 67. Sajmu knjiga](http://seecult.org/vest/kreativni-centar-najbolji-izdavac-na-67-sajmu-knjiga)
 * [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
 * [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
 * [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
-* [Slijepčevićev kanski pobednik na otvaranju 20. Slobodne zone](http://seecult.org/vest/slijepcevicev-kanski-pobednik-na-otvaranju-20-slobodne-zone)
 
 * [Konkursi](#tab1_1)
 
