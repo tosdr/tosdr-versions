@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a high risk for infection in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-is-there-a-high-risk-for-infection-in-nursing-homes-scaled.jpg "Is There a High Risk For Infection in Nursing Homes?")](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/ "Is There a High Risk For Infection in Nursing Homes?")
+[![Can you survive pleural mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-you-survive-pleural-mesothelioma.jpg "Can You Survive Pleural Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/ "Can You Survive Pleural Mesothelioma?")
 
-[#### Is There a High Risk For Infection in Nursing Homes?](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/)
+[#### Can You Survive Pleural Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/)
 
-[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
+[![Alternative lung cancer treatments](https://www.pintas.com/wp-content/uploads/2020/11/alternative-lung-cancer-treatments.jpg "Alternative Lung Cancer Treatments")](https://www.pintas.com/lung-cancer/alternative-lung-cancer-treatments/ "Alternative Lung Cancer Treatments")
 
-[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
+[#### Alternative Lung Cancer Treatments](https://www.pintas.com/lung-cancer/alternative-lung-cancer-treatments/)
 
-[![What is utah hb90 law?](https://www.pintas.com/wp-content/uploads/2023/04/general-photo-300x200.jpg "What Is Utah HB90 Law?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/ "What Is Utah HB90 Law?")
+[![Can a patient be kicked out of a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-patient-be-kicked-out-of-a-nursing-home.jpg "Can a Patient Be Kicked Out of a Nursing Home?")](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/ "Can a Patient Be Kicked Out of a Nursing Home?")
 
-[#### What Is Utah HB90 Law?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/)
+[#### Can a Patient Be Kicked Out of a Nursing Home?](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
