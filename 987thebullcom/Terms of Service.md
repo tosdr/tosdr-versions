@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| She Got The Best Of MeLuke Combs<br><br>11:07am |
-| Buy DirtJordan Davis Ft Luke Bryan<br><br>11:04am |
-| Wind Up Missing YouTucker Wetmore<br><br>11:01am |
-| Boys 'Round HereBlake Shelton Ft Pistol Annies And F<br><br>10:58am |
-| Whiskey On YouNate Smith<br><br>10:55am |
+| Broken HalosChris Stapleton<br><br>5:38pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>5:35pm |
+| God'S CountryBlake Shelton<br><br>5:32pm |
+| Am I OkMegan Moroney<br><br>5:28pm |
+| You ProofMorgan Wallen<br><br>5:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
