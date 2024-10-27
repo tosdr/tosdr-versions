@@ -68,7 +68,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-96 reviews (96)
+97 reviews (97)
 
 $72.00
 
@@ -104,7 +104,7 @@ CHOOSE Color
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-762 reviews (762)
+763 reviews (763)
 
 $12.00 $26.00
 
@@ -158,7 +158,7 @@ ADD TO TOTE
 
 ### [Creamy Long Last Liner](https://www.100percentpure.com/products/creamy-long-last-liner)
 
-2024 reviews (2024)
+2025 reviews (2025)
 
 $27.00 $27.00
 
@@ -332,7 +332,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1568 reviews (1568)
+1569 reviews (1569)
 
 $30.00 $30.00
 
@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1130 reviews (1130)
+1131 reviews (1131)
 
 $45.00
 
@@ -456,7 +456,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5290 reviews (5290)
+5291 reviews (5291)
 
 $28.00 $28.00
 
@@ -542,7 +542,7 @@ ADD TO TOTE
 
 ### [Lysine + Herbs Lip Balm](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
 
-658 reviews (658)
+659 reviews (659)
 
 $8.00
 
