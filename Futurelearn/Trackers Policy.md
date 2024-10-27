@@ -8,7 +8,7 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 Dismiss
 
-**Hurry, only 5 days left to get a whole year of Unlimited learning for ~$349.99~ $244.99.** Offer ends on 31 October 2024 at 23:59 (UTC). [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
+**Hurry, only 4 days left to get a whole year of Unlimited learning for ~$349.99~ $244.99.** Offer ends on 31 October 2024 at 23:59 (UTC). [T&Cs apply](https://www.futurelearn.com/info/unlimited-sale-24-terms)
 
 [Find out more](https://www.futurelearn.com/unlimited)
 
