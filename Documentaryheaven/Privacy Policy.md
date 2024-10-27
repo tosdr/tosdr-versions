@@ -118,49 +118,49 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
-    The Beginning and the End of the Universe
+    Why The Industrial Revolution Happened Here
     
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    Louis Theroux: Drinking To Oblivion
+    The Beginning and the End of the Universe
     
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![His Name Was Arthur Leigh Allen](/wp-content/thumbnails/13703-100x70.jpg?x53432)
+* [![Winter Viruses and How to Beat Them](/wp-content/thumbnails/7091-100x70.jpeg?x53432)
     
-    His Name Was Arthur Leigh Allen
+    Winter Viruses and How to Beat Them
     
-    Originally released in 2007 His Name Was Arthur Leigh Allen is a documentary which was included in the Special Edition DVD of Zodiac the feature film. Through a number of interviews with the original](https://documentaryheaven.com/name-arthur-leigh-allen/ "His Name Was Arthur Leigh Allen")
-* [![Katherine Mary Knight](/wp-content/thumbnails/13173-100x70.jpg?x53432)
+    Every winter, millions of us come down with colds, flu and stomach problems caused by viruses like Norovirus - the highly contagious vomiting bug which has swept the country this year. It has closed h](https://documentaryheaven.com/winter-viruses-and-how-to-beat-them/ "Winter Viruses and How to Beat Them")
+* [![The Jigsaw Murder](/wp-content/thumbnails/8584-100x70.jpg?x53432)
     
-    Katherine Mary Knight
+    The Jigsaw Murder
     
-    Some crimes can be so undeniably gruesome that they defy logic and have people asking questions forever more, in Aberdeen, NSW, Austrailia, the case of Katherine Mary Knight did just that.Katherin](https://documentaryheaven.com/katherine-mary-knight/ "Katherine Mary Knight")
-* [![The Secret Life of Your Bodyclock](/wp-content/thumbnails/205-100x70.png?x53432)
+    From the British series, Real Crime by ITV, this documentary sets out to tell the story of how police pieced together evidence to solve the mystery of the Jigsaw Murder.In March of 2009, a murder](https://documentaryheaven.com/jigsaw-murder/ "The Jigsaw Murder")
+* [![Asia’s Illegal Animal Trade](/wp-content/thumbnails/6926-100x70.jpg?x53432)
     
-    The Secret Life of Your Bodyclock
+    Asia’s Illegal Animal Trade
     
-    If you’re reading this any time after lunch and you’re not dead, well done. You have, in the words of Professor Russell Foster, a chronobiologist, “survived the most dangerous part of the day”. Chrono](https://documentaryheaven.com/the-secret-life-of-your-bodyclock/ "The Secret Life of Your Bodyclock")
-* [![What Really Happened in Wuhan](/wp-content/thumbnails/16591-100x70.jpg?x53432)
+    Day by day, hour by hour, our planet’s rarest creatures are being hunted, trapped and slaughtered to feed a global black market in wildlife products.For years, Patrick Brown has traveled across As](https://documentaryheaven.com/asias-illegal-animal-trade/ "Asia’s Illegal Animal Trade")
+* [![Meet The Mormons](/wp-content/thumbnails/12069-100x70.jpg?x53432)
     
-    What Really Happened in Wuhan
+    Meet The Mormons
     
-    In this Sky News Australia special investigation, we delve into the origins of COVID-19 in an attempt to reveal what it was that really happened in Wuhan at the start of the global pandemic. We hear](https://documentaryheaven.com/what-really-happened-in-wuhan/ "What Really Happened in Wuhan")
-* [![A Brilliant Madness](/wp-content/thumbnails/6576-100x70.jpg?x53432)
+    In this film we meet several British Mormons, young missionaries who's job it is to convert us to their particular brand of Christianity. Run from Salt Lake City in Utah the Mormon religion is an](https://documentaryheaven.com/meet-mormons/ "Meet The Mormons")
+* [![ISIS: The World’s Richest Terror Army](/wp-content/thumbnails/9923-100x70.jpg?x53432)
     
-    A Brilliant Madness
+    ISIS: The World’s Richest Terror Army
     
-    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness.At the age of 30, John Forbes Nash, a stunningly original and famously eccentric MIT ma](https://documentaryheaven.com/a-brilliant-madness/ "A Brilliant Madness")
+    A small army of fanatical Jihadists sieged 15,000 sq. miles of territory and shocked the world with it's violence and brutality. The so called Islamic State is a terror organisation, the likes of whic](https://documentaryheaven.com/isis-worlds-richest-terror-army/ "ISIS: The World’s Richest Terror Army")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
