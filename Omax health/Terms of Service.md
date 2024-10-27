@@ -1,6 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          Terms & Conditions – Omax Health - Omax Health                         
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      Terms & Conditions – Omax Health - Omax Health                   
 
-              
+     
+
+                
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3403 reviews](https://omaxhealth.com/pages/reviews)
+[3404 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3082)
+(3083)
 
 5%
 
@@ -325,7 +327,19 @@ Go to product page
 
 (53)
 
-2199
+2200
+
+K
+
+[Omax® CircuMax Sport Socks 3 Pack](https://omaxhealth.com/products/omax-circumax-sport-socks-3-pack#judgeme_product_reviews)
+
+Katie H.
+
+**The best socks I have ever owned.**
+
+Not to be dramatic but I would die for these socks.
+
+They are warm without making my feet sweaty, soft, supportive, and they hold up incredibly well. They are honestly the only socks I have that I enjoy wearing. The fact that they are just sort of a side product on a supplement website is baffling to me.
 
 M
 
@@ -346,15 +360,5 @@ J.E.
 **Freaking unbelievable**
 
 I’ve had leg muscle pain (burning) since childhood. Only remedy was Ibuprofen but I don’t like taking meds so I’d suffer through the pain most of the time unless it was unbearable. This extra strength roll on takes the pain away!!! I’m so happy with this!!!!
-
-J
-
-[Omax® CircuMax Sport Socks 3 Pack](https://omaxhealth.com/products/omax-circumax-sport-socks-3-pack#judgeme_product_reviews)
-
-J.S.
-
-**BEST SOCKS EVER!!**
-
-I work construction and these are the most comfortable and longest lasting socks I have ever tried. So glad I discovered them.
 
 Load More
