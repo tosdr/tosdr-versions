@@ -153,9 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [looking for an OPL4 moonsound or compatible and slot expander. europe](https://www.msx.org/forum/msx-talk/general-discussion/looking-for-an-opl4-moonsound-or-compatible-and-slot-expander-euro "looking for an OPL4 moonsound or compatible and slot expander. europe  ")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=70 "WonderTANG! Who wants to juice up your MSX?")
 * [PANASONIC FS-A1 MSX2 SCHEMATICS](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-msx2-schematics "PANASONIC FS-A1 MSX2 SCHEMATICS")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=70 "WonderTANG! Who wants to juice up your MSX?")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Using a Stereo Effects Processor with MSX](https://www.msx.org/forum/msx-talk/hardware/using-a-stereo-effects-processor-with-msx "Using a Stereo Effects Processor with MSX")
 * [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Compilations](https://www.msx.org/forum/msx-talk/general-discussion/compilations?page=1 "Compilations")
 * [Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen](https://www.msx.org/forum/msx-talk/software/looking-for-audio-from-shiro-to-kuro-no-densetsu-hyakki-hen "Looking for audio from Shiro to Kuro no Densetsu: Hyakki-hen")
 * [@djh1697 --> MSX/Naim](https://www.msx.org/forum/msx-talk/off-topic/djh1697-msxnaim "@djh1697  --> MSX/Naim")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
