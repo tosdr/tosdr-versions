@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/edith-schippers-van-complot-tot-dictatoriale-trekjes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/aarden-met-je-voeten-op-de-grond/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
