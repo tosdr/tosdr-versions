@@ -247,7 +247,7 @@ Back
 
 ### Red Rocks with Green Spots at ‘Serpentine Rapids’
 
-article 1 day ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+article 2 days ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
@@ -319,7 +319,7 @@ article 2 days ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-y
 
 ### Sinister Solar System
 
-article 2 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/)[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
+article 3 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/)[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
 
 5 min read
 
@@ -385,7 +385,7 @@ article 1 week ago](https://www.nasa.gov/aeronautics/new-class-e-air-traffic-man
 
 ### NASA Pilots Add Perspective to Research
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
 
 3 min read
 
@@ -467,7 +467,7 @@ article 2 days ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-u
 
 ### Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/)[![A man in military uniform and woman in NASA polo shirt stand in front of a NASA F/A-18 hornet aircraft.](https://www.nasa.gov/wp-content/uploads/2024/10/yomara-cruz-diaz-and-son.jpg?w=1024)
 
 2 min read
 
