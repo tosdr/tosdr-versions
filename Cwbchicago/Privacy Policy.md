@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Latavion-Johnson-326x245.jpg)](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+[![](https://cwbchicago.com/wp-content/uploads/2022/05/Joseph-Guardia-viaduct-Walking-man-326x245.jpg)](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
 
-Englewood
+River North
 
-### [Feds charge man who allegedly displayed, fired machine gun on social media](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+### [47 years for killing ‘Walking Man’ by fire](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
 
-[October 23, 2024 3:44 PM](https://cwbchicago.com/2024/10)
+[October 24, 2024 4:37 PM](https://cwbchicago.com/2024/10)
 
-A 22-year-old Chicago man faces federal gun charges after he allegedly displayed illegal machine gun parts and fired a machine gun on social media posts. The case involves so-called “Glock switches” or “sear switches,” aftermarket devices that can convert some firearms into automatic weapons.[](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+A judge on Thursday sentenced a man to 47 years in prison for setting a well-known homeless man on fire in River North, leading to the victim’s death weeks later.[](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/04/Morse-Derrick-Robie-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-at-morse-cta-station-robbed-and-intimidated-countless-train-passengers-over-the-years-and-even-stole-a-dead-mans-wallet.html "Man murdered at Morse CTA station robbed and intimidated countless train passengers over the years, and even stole a dead man’s wallet")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hamlin-Park-041A-326x245.jpg)](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
 
-CTA
+Citywide
 
-### [Man murdered at Morse CTA station robbed and intimidated countless train passengers over the years, and even stole a dead man’s wallet](https://cwbchicago.com/2024/10/man-murdered-at-morse-cta-station-robbed-and-intimidated-countless-train-passengers-over-the-years-and-even-stole-a-dead-mans-wallet.html "Man murdered at Morse CTA station robbed and intimidated countless train passengers over the years, and even stole a dead man’s wallet")
+### [Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
 
-[October 23, 2024 9:54 AM](https://cwbchicago.com/2024/10)
+[October 24, 2024 12:52 PM](https://cwbchicago.com/2024/10)
 
-When your job is to write about Chicago crime, it takes a lot for a story to remain with you for years. Something new and horrible is always coming along to wipe out most of those old memories. But there are exceptions—a handful of stories that stick with you year after year.[](https://cwbchicago.com/2024/10/man-murdered-at-morse-cta-station-robbed-and-intimidated-countless-train-passengers-over-the-years-and-even-stole-a-dead-mans-wallet.html "Man murdered at Morse CTA station robbed and intimidated countless train passengers over the years, and even stole a dead man’s wallet")
+CHICAGO — Police have released two images taken from video footage that show a gunman and getaway car involved in a shooting earlier this month at Hamlin Park. CWBChicago has secured the entire video, which we’re sharing in this report. The gunmen shot a 15-year-old boy near the park’s basketball courts around 2:19 p.m. on October[](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/04/Morse-Red-Line-326x245.jpg)](https://cwbchicago.com/2024/10/long-time-cta-menace-is-murdered-at-morse-red-line-station.html "Long-time CTA menace is murdered at Morse Red Line station")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/1600-howard-326x245.jpg)](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
 
-CTA
+Rogers Park
 
-### [Long-time CTA menace is murdered at Morse Red Line station](https://cwbchicago.com/2024/10/long-time-cta-menace-is-murdered-at-morse-red-line-station.html "Long-time CTA menace is murdered at Morse Red Line station")
+### [1 dead, 2 injured in afternoon shooting near Howard CTA station](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
 
-[October 21, 2024 4:18 AM](https://cwbchicago.com/2024/10)
+[October 23, 2024 5:41 PM](https://cwbchicago.com/2024/10)
 
-A man with a long history of criminal activity on the CTA’s train lines was shot and killed Sunday evening at the Morse Red Line station, according to a law enforcement source.[](https://cwbchicago.com/2024/10/long-time-cta-menace-is-murdered-at-morse-red-line-station.html "Long-time CTA menace is murdered at Morse Red Line station")
+One man is dead and two others injured following a shooting near the Howard CTA station in Rogers Park on Wednesday afternoon, according to Chicago police. The shooting occurred on a block that has been the scene of several shootouts and shootings this year.[](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
 
 Search
 
