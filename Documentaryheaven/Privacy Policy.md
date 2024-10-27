@@ -118,49 +118,49 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![The Next Great Extinction Event](/wp-content/thumbnails/16676-100x70.jpg?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    The Next Great Extinction Event
+    The Beginning and the End of the Universe
     
-    Extinct, the very word is chilling it means that a species no longer survives in this world. Already there have been five great extinction events in the history of our planet. What if the next specie...](https://documentaryheaven.com/next-great-extinction-event/ "The Next Great Extinction Event")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![The Town Travellers Took Over](/wp-content/thumbnails/13834-100x70.jpg?x53432)
+* [![Paradise Lost 3: Purgatory](/wp-content/thumbnails/6719-100x70.jpg?x53432)
     
-    The Town Travellers Took Over
+    Paradise Lost 3: Purgatory
     
-    Rathkeale in County Limerick, Ireland, may seem like any other sleepy rural village though it is anything but. Irelands traveling community seem to have chosen the town as their spiritual home, their](https://documentaryheaven.com/town-travellers-took-over/ "The Town Travellers Took Over")
-* [![Saturn: Lord of The Rings](/wp-content/thumbnails/68-100x70.png?x53432)
+    Paradise Lost 3: Purgatory is a 2011 documentary film and sequel to the films Paradise Lost: The Child Murders at Robin Hood Hills and Paradise Lost 2: Revelations. The three films chronicle the arres](https://documentaryheaven.com/paradise-lost-3-purgatory/ "Paradise Lost 3: Purgatory")
+* [![Networked Society ‘On the Brink’](/wp-content/thumbnails/6257-100x70.jpg?x53432)
     
-    Saturn: Lord of The Rings
+    Networked Society ‘On the Brink’
     
-    With its famous rings, Saturn is the most distant planet clearly visible to the naked eye. But how did the rings get there and when were they formed? To study the planet in detail, scientists needed t](https://documentaryheaven.com/saturn-lord-of-the-rings/ "Saturn: Lord of The Rings")
-* [![Cyberbullies: A Killer Network](/wp-content/thumbnails/10622-100x70.jpg?x53432)
+    In On The Brink we discuss the past, present and future of connectivity with a mix of people including David Rowan, chief editor of Wired UK; Caterina Fake, founder of Flickr; and Eric Wahlforss, the](https://documentaryheaven.com/networked-society-on-the-brink/ "Networked Society ‘On the Brink’")
+* [![Live Forever – The Rise and Fall of Britpop](/wp-content/thumbnails/5948-100x70.jpg?x53432)
     
-    Cyberbullies: A Killer Network
+    Live Forever – The Rise and Fall of Britpop
     
-    These days there are more smart devices in the world than there are people to use them, ranging from smartphones, tablets and computers, we all have one if not more than one, possibly even a few forgo](https://documentaryheaven.com/cyberbullies-killer-network/ "Cyberbullies: A Killer Network")
-* [![Chairman Mao Declassified](/wp-content/thumbnails/6553-100x70.png?x53432)
+    Live Forever: The Rise and Fall of Brit Pop is a 2003 documentary film written and directed by John Dower. The documentary is a study of popular culture in the United Kingdom during the mid to late 19](https://documentaryheaven.com/live-forever-the-rise-and-fall-of-britpop/ "Live Forever – The Rise and Fall of Britpop")
+* [![Underwater Hockey: A Documentary](/wp-content/thumbnails/5769-100x70.jpg?x53432)
     
-    Chairman Mao Declassified
+    Underwater Hockey: A Documentary
     
-    One of the most formidable leaders that the world has ever seen, Mao was undeniably a brilliant political and economic mind, despite his role as a progenitor of 20th Century Communism and a homicidal](https://documentaryheaven.com/chairman-mao-declassified/ "Chairman Mao Declassified")
-* [![Battle of the X-Planes](/wp-content/thumbnails/2684-100x70.jpg?x53432)
+    Yes, this is a real sport! Play it at a pool near you! Many people haven't heard of this fun and exciting game, but that means nothing to these few players who have fallen in love with the game](https://documentaryheaven.com/underwater-hockey-a-documentary/ "Underwater Hockey: A Documentary")
+* [![Naqoyqatsi](/wp-content/thumbnails/2964-100x70.gif?x53432)
     
-    Battle of the X-Planes
+    Naqoyqatsi
     
-    Inside the high-tech, high-stakes competition to create America’s newest fighter plane. NOVA goes behind the doors of the world’s two largest aerospace companies to record classified meetings, climbs](https://documentaryheaven.com/battle-of-the-x-planes/ "Battle of the X-Planes")
+    Whether your intellect is completely engaged or passively detached, any viewing of Naqoyqatsi is likely to provoke a fascinating response. You can view it as a magnificent, visually stimulating music](https://documentaryheaven.com/naqoyqatsi/ "Naqoyqatsi")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
