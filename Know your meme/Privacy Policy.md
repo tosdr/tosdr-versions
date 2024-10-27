@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus")
+[Naima Troutt](https://knowyourmeme.com/memes/people/naima-troutt-hairsoup "Naima Troutt") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Half-Life 2 Stalker Scream](https://knowyourmeme.com/memes/half-life-2-stalker-scream "Half-Life 2 Stalker Scream") [Homelander vs. Sportacus](https://knowyourmeme.com/memes/homelander-vs-sportacus "Homelander vs. Sportacus")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
