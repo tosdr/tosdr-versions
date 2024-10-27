@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (12,457)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (12,457 posts)")
-* [Islamic Discussion Thread ٥: Free Taj… (11,839)](https://forum.nationstates.net/viewtopic.php?t=462608&f=20&view=unread#unread ""Islamic Discussion Thread ٥: Free Tajweed, Absolutely Halaal" (11,839 posts)")
-* [Agree or Disagree III (11,711)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (11,711 posts)")
-* [Would you Live in AN'S (3,825)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (3,825 posts)")
-* [The Problem about \[Radical\] Islam (es… (118)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (118 posts)")
+* [American Politics: Remember, Remember… (4,202)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (4,202 posts)")
+* [F7 does Payday 2! (295)](https://forum.nationstates.net/viewtopic.php?t=557580&f=25&view=unread#unread ""F7 does Payday 2!" (295 posts)")
+* [I HAVE ANNIHILATORS OF CHAN ISLAND (14)](https://forum.nationstates.net/viewtopic.php?t=557587&f=42&view=unread#unread ""I HAVE ANNIHILATORS OF CHAN ISLAND" (14 posts)")
+* [Man III (134)](https://forum.nationstates.net/viewtopic.php?t=556968&f=25&view=unread#unread ""Man III" (134 posts)")
+* [The Civil Disaster in TKS (INVITE ONL… (16)](https://forum.nationstates.net/viewtopic.php?t=557392&f=5&view=unread#unread ""The Civil Disaster in TKS (INVITE ONLY) IC THREAD" (16 posts)")
 
 Advertisement
 
