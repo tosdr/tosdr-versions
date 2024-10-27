@@ -18,7 +18,29 @@ Loading...
 
 Loading...
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
+
+Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
+
+   [![John Dee Performing an Experiment before Elizabeth I](https://img.atlasobscura.com/sO0W457JMI6a0XrGwH2wbbC4Y5m1vIrbkmgGMqQqKc8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZjk1/ZTdlZS03NTFkLTQ2/MDYtOTJkNi1kNGI3/OWJkMTQ0YjYyZmM1/YjA1MTU3YzE5Zjdh/M2NfSm9obiBEZWUg/UGVyZm9ybWluZyBh/biBFeHBlcmltZW50/IGJlZm9yZSBFbGl6/YWJldGggSSBIZW5y/eSBHaWxsYXJkIEds/aW5kb25pICgxODUy/LTE5MTMpLCBQdWJs/aWMgRG9tYWluIHZp/YSBXaWtpbWVkaWEg/Q29tbW9ucy5qcGc.jpg)
+
+Poems from the Deep: An Introduction to Scrying With Eliza Swann](https://www.atlasobscura.com/experiences/intro-to-scrying-online-course)
+
+   [![](https://img.atlasobscura.com/ZjsOHnkkEFvBd7N21h6ekpTRB_ovOqotTpnIOKsnpQg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yODY1/OTMzMy02NDNkLTQ4/ODItYTQwZS00ZTIy/OTg1OWFmZTExNDgz/MjQ1M2IzYzBhM2Zl/NjhfUGljdHVyZWQt/IFJhY2hlbCBJLiBC/ZXJtYW4gYXMgQWxp/Y2UgaW4gVEhFTiBT/SEUgRkVMTCBieSBU/aGlyZCBSYWlsIFBy/b2plY3RzLCBDby1B/cnRpc3RpYyBEaXJl/Y3RvcnMgWmFjaCBN/b3JyaXMsIFRvbSBQ/ZWFyc29uLCBhbmQg/SmVubmluZSBXaWxs/ZXR0ICBQaG90byBi/eSBEYXJpYWwgU25l/ZWQuanBlZw.jpg)
+
+Designing Immersive Gatherings With Zach Morris of Third Rail Projects](https://www.atlasobscura.com/experiences/immersive-gatherings-course)
+
+   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
+
+Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
+
+   [![](https://img.atlasobscura.com/y9x6Tvc0fCC7F24WyLB5oKxbvXB-JOGRaLMLhNgBIRU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hZmZl/N2M4Yi0yMTkwLTQw/MDgtOGIwYy01YjJh/ZjM1MzA3ZTc0Y2Zk/YzE4NmNiNjA0NzYw/ZDhfRDkzNTExQzQt/MTI4Ni00Mjc0LUI5/NkQtOUNGNDAzMERC/NUMyLmpwZw.jpg)
+
+Nature’s Palette: Foraging Natural Pigments With Hayley Dayis & Alexander Fals](https://www.atlasobscura.com/experiences/foraged-pigments-course)
 
 Loading...
 
