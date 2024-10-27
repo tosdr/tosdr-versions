@@ -182,7 +182,7 @@ If you have any questions or concerns about our Privacy Policy or its implementa
 
 #### Was this article helpful?
 
-[7499](#) [2197](#)
+[7499](#) [2198](#)
 
 #### Related Questions:
 
