@@ -26,27 +26,25 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-harryo-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/it-changed-everything-for-me-rap-label-founder-reveals-why-hes-backing-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-fetpa-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fetterman-marvels-at-trumps-astonishing-appeal-in-key-battleground-state-taylor-swift-kind-of-swag/)
 
-[‘It changed everything for me’: Rap label founder reveals why he’s backing Trump](https://americanwirenews.com/it-changed-everything-for-me-rap-label-founder-reveals-why-hes-backing-trump/)
+[Fetterman marvels at Trump’s ‘astonishing’ appeal in key battleground state: ‘Taylor Swift kind of swag’](https://americanwirenews.com/fetterman-marvels-at-trumps-astonishing-appeal-in-key-battleground-state-taylor-swift-kind-of-swag/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-rally-event-1200x630.jpg)](https://americanwirenews.com/trump-mocks-cnn-anchor-allison-cooper-and-sends-leftists-spiraling/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-adams-1-1200x630.jpg)](https://americanwirenews.com/i-dont-think-its-fitting-mayor-adams-bucks-kamala-harris-rejects-trump-is-a-fascist-line-of-attack/)
 
-[Trump mocks CNN anchor ‘Allison Cooper’ and sends leftists spiraling](https://americanwirenews.com/trump-mocks-cnn-anchor-allison-cooper-and-sends-leftists-spiraling/)
+[‘I don’t think it’s fitting’: Mayor Adams bucks Kamala Harris, rejects ‘Trump is a fascist’ line of attack](https://americanwirenews.com/i-dont-think-its-fitting-mayor-adams-bucks-kamala-harris-rejects-trump-is-a-fascist-line-of-attack/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-shooting-banks-1200x630.jpg)](https://americanwirenews.com/rapper-arrested-for-murder-for-hire-plot-days-after-being-awarded-keys-to-chicago/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-burkhardt-1200x630.jpg)](https://americanwirenews.com/college-football-player-flashes-trump-2024-t-shirt-under-jersey-after-trick-play-touchdown/)
 
-Images via U.S. Dept. of Justice/Broward County Sheriff's Office
+[College football player flashes ‘Trump 2024’ T-shirt under jersey after trick play touchdown](https://americanwirenews.com/college-football-player-flashes-trump-2024-t-shirt-under-jersey-after-trick-play-touchdown/)
 
-[Rapper arrested for murder for hire plot days after being awarded keys to Chicago](https://americanwirenews.com/rapper-arrested-for-murder-for-hire-plot-days-after-being-awarded-keys-to-chicago/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-welkrjdv-1200-x-628-1200x630.jpg)](https://americanwirenews.com/nbcs-welker-no-match-for-jd-vance-as-enemy-from-within-attack-angle-shut-down-with-a-smile/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-watters-harris-1-1200x630.jpg)](https://americanwirenews.com/jesse-watters-says-its-all-over-but-the-crying-kamala-has-reached-her-full-potential/)
+[NBC’s Welker no match for JD Vance as ‘enemy from within’ attack angle shut down with a smile](https://americanwirenews.com/nbcs-welker-no-match-for-jd-vance-as-enemy-from-within-attack-angle-shut-down-with-a-smile/)
 
-[Jesse Watters says it’s all over but the crying: ‘Kamala has reached her full potential’](https://americanwirenews.com/jesse-watters-says-its-all-over-but-the-crying-kamala-has-reached-her-full-potential/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-1200x630.jpg)](https://americanwirenews.com/rogan-reveals-thoughts-on-3-hour-trump-interview-seen-by-millions-this-is-whats-crazy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rapaport-1200x630.jpg)](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
-
-[‘Stop with the Hitler s\*\*t!’ Rapaport takes flamethrower to the left’s most desperate narrative](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
+[Rogan reveals thoughts on 3-hour Trump interview seen by millions: ‘This is what’s crazy…’](https://americanwirenews.com/rogan-reveals-thoughts-on-3-hour-trump-interview-seen-by-millions-this-is-whats-crazy/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-houston-1200x630.jpg)](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
 
@@ -60,9 +58,9 @@ Images via U.S. Dept. of Justice/Broward County Sheriff's Office
 
 [‘Morning Joe’ suggests Trump supporters can get out of America](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mooch1-1200-x-628-1200x630.jpg)
 
-### ‘Screw you!’ Ugly scene on ‘The View’ when Joy Behar blows her stack as Kamala circles the drain](https://americanwirenews.com/screw-you-ugly-scene-on-the-view-when-joy-behar-blows-her-stack-as-kamala-circles-the-drain/)
+### Michelle Obama suggests in familiar rant it’s racist and sexist to not vote for Kamala](https://americanwirenews.com/michelle-obama-suggests-in-familiar-rant-its-racist-and-sexist-to-not-vote-for-kamala/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,10 @@ Images via U.S. Dept. of Justice/Broward County Sheriff's Office
 ### [‘War is expanding’: Arab leaders in Michigan break with Democrats to endorse Trump](https://americanwirenews.com/war-is-expanding-arab-leaders-in-michigan-break-with-democrats-to-endorse-trump/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-kamalaliz-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
+
+[Trump slams Kamala Harris surrogate Liz Cheney as a ‘Muslim hating warmonger’](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voter-registration-220x180.jpg)](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
 
@@ -173,10 +175,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Bannon-220x180.jpg)](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
 
 [Steve Bannon’s timely release from prison could help Trump win](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-vance-oreilly-220x180.jpg)](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
-
-[Bill O’Reilly tells Cuomo he ‘let Vance off’ during NewsNation town hall](https://americanwirenews.com/bill-oreilly-tells-cuomo-he-let-vance-off-during-newsnation-town-hall/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
