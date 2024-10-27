@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
@@ -149,23 +150,22 @@ Latest reactions
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
 * [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
-* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 
 Latest forum posts
 
-* [YM2413 issues](https://www.msx.org/forum/msx-talk/hardware/ym2413-issues?page=1 "YM2413 issues")
-* [Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou)](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-501p-no-video-from-s-viteorgb-power-indicator-is-green-sound-fro "Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou) ")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=70 "WonderTANG! Who wants to juice up your MSX?")
 * [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
+* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
+* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
+* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=6 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou)](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-501p-no-video-from-s-viteorgb-power-indicator-is-green-sound-fro "Sony MSX HB-501P No Video from S-Viteo/RGB (Power indicator is green & sound from TV stereo is working thou) ")
+* [YM2413 issues](https://www.msx.org/forum/msx-talk/hardware/ym2413-issues?page=1 "YM2413 issues")
+* [Attack! Mosquiton](https://www.msx.org/forum/msx-talk/software/attack-mosquiton "Attack! Mosquiton")
+* [looking for MSX1 homebrews](https://www.msx.org/forum/msx-talk/software/looking-for-msx1-homebrews "looking for MSX1 homebrews")
 * [Tiny Xevious port!!](https://www.msx.org/forum/msx-talk/software/tiny-xevious-port "Tiny Xevious port!!")
 * [looking for an OPL4 moonsound or compatible and slot expander. europe](https://www.msx.org/forum/msx-talk/general-discussion/looking-for-an-opl4-moonsound-or-compatible-and-slot-expander-euro "looking for an OPL4 moonsound or compatible and slot expander. europe  ")
-* [Hi i'm looking for an Scart to HMDI converter with RGB suport.](https://www.msx.org/forum/msx-talk/graphics-and-music/hi-im-looking-for-an-scart-to-hmdi-confurter-with-rgb-suport?page=1 "Hi i'm looking for an Scart to HMDI converter with RGB suport.")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
-* [PANASONIC FS-A1 MSX2 SCHEMATICS](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-msx2-schematics "PANASONIC FS-A1 MSX2 SCHEMATICS")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [Using a Stereo Effects Processor with MSX](https://www.msx.org/forum/msx-talk/hardware/using-a-stereo-effects-processor-with-msx "Using a Stereo Effects Processor with MSX")
-* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
