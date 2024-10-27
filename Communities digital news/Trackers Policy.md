@@ -46,13 +46,13 @@ Search for:
 
 [Rogan reveals thoughts on 3-hour Trump interview seen by millions: ‘This is what’s crazy…’](https://americanwirenews.com/rogan-reveals-thoughts-on-3-hour-trump-interview-seen-by-millions-this-is-whats-crazy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-houston-1200x630.jpg)](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-kamalaliz-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
 
-[Here are some of the ‘lowlights’ from Kamala’s dumpster fire Houston rally](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
+[Trump slams Kamala Harris surrogate Liz Cheney as a ‘Muslim hating warmonger’](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-6-1200x630.jpg)](https://americanwirenews.com/trump-tells-rogan-the-enemy-within-is-a-bigger-problem-than-kim-jong-un/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-1-1200x630.png)](https://americanwirenews.com/trump-war-room-highlights-kamalas-fatal-flaw-she-simply-cannot-function-without-one/)
 
-[Trump tells Rogan the ‘enemy within’ is ‘a bigger problem’ than Kim Jong Un](https://americanwirenews.com/trump-tells-rogan-the-enemy-within-is-a-bigger-problem-than-kim-jong-un/)
+[Trump War Room highlights Kamala’s fatal flaw: ‘She simply cannot function without one’](https://americanwirenews.com/trump-war-room-highlights-kamalas-fatal-flaw-she-simply-cannot-function-without-one/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-morningjoe-1200x630.jpg)](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
 
@@ -78,9 +78,37 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-kamalaliz-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-220x180.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
 
-[Trump slams Kamala Harris surrogate Liz Cheney as a ‘Muslim hating warmonger’](https://americanwirenews.com/trump-slams-kamala-harris-surrogate-liz-cheney-as-a-muslim-hating-warmonger/)
+[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-madisonsquaregarden-trump-220x180.jpg)](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
+
+[MAGA faithful camp outside MSG ahead of Trump rally, say it’s ‘worth the wait’](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-penn-state-220x180.png)](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
+
+[Penn State national champion wrestling team joins Trump on stage at rally in Happy Valley](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nytfetterman-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-blows-up-dems-border-defense-educates-ny-times-journo-on-what-truck-nuts-are/)
+
+[Fetterman blows up Dems’ border defense, educates NY Times journo on what ‘truck nuts’ are](https://americanwirenews.com/fetterman-blows-up-dems-border-defense-educates-ny-times-journo-on-what-truck-nuts-are/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-billkam-1200-x-628-220x180.jpg)](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
+
+[Bill Maher calls for Kamala to take out ‘extremist’ in her own coalition](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tapper-220x180.jpg)](https://americanwirenews.com/tapper-has-epic-meltdown-after-jd-vance-says-ex-aides-turned-on-trump-because-he-wants-peace/)
+
+[Tapper has EPIC meltdown after JD Vance says ex-aides turned on Trump because he wants peace](https://americanwirenews.com/tapper-has-epic-meltdown-after-jd-vance-says-ex-aides-turned-on-trump-because-he-wants-peace/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ryan-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/shawn-ryan-says-rogan-trump-interview-signifies-the-end-of-legacy-media/)
+
+[Shawn Ryan says Rogan-Trump interview ‘signifies the end of legacy media’](https://americanwirenews.com/shawn-ryan-says-rogan-trump-interview-signifies-the-end-of-legacy-media/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gabbard-220x180.jpg)](https://americanwirenews.com/tulsi-dems-freaked-out-that-trumps-privately-funded-transition-team-already-getting-to-work/)
+
+[Tulsi: Dems ‘FREAKED OUT’ that Trump’s ‘privately-funded Transition Team already getting to work’](https://americanwirenews.com/tulsi-dems-freaked-out-that-trumps-privately-funded-transition-team-already-getting-to-work/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-voter-registration-220x180.jpg)](https://americanwirenews.com/thousands-of-potentially-fraudulent-voter-registration-applications-uncovered-stopped-in-pennsylvania/)
 
@@ -145,36 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/mugshot-lcdc-1-220x180.jpg)](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
 
 [Bearded perp makes it into mugshot Hall of Shame after threatening to bomb beauty store](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-convenince-store-220x180.jpg)](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
-
-[Black Chicagoans shock convenience store worker with responses on election: ‘Make America Great Again!’](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-lv-220x180.png)](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
-
-[‘Man of the people!’ Trump met with raucous applause when he stops by Cuban Kitchen](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-1-220x180.jpg)](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
-
-[Fmr. Obama official STUNS Fox hosts and viewers with ‘mind blowing’ take on Kamala’s border stance](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
-
-[New survey shows whopping percent of Americans want voter ID, proof of citizenship to vote](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mel-gibson--220x180.png)](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
-
-[Mel Gibson is down for Trump, says Kamala has ‘the IQ of a fence post’](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-poop-220x180.png)](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
-
-[Poop statue placed outside Capitol to mark J6 doesn’t give intended impression: ‘Time for Pelosi to get FLUSHED’](https://americanwirenews.com/poop-statue-placed-outside-capitol-to-mark-j6-doesnt-give-intended-impression-time-for-pelosi-to-get-flushed/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/02/SG-Bannon-220x180.jpg)](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
-
-[Steve Bannon’s timely release from prison could help Trump win](https://americanwirenews.com/steve-bannons-timely-release-from-prison-could-help-trump-win/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
