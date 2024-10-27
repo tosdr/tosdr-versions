@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
 * [Arid Regions: Capturing Water Vapor from Air](https://www.sciencedaily.com/releases/2024/10/241025122821.htm)
@@ -217,7 +218,6 @@ this hour
 * [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 * [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
-* [PFAS: US Drinking Water Contamination](https://www.sciencedaily.com/releases/2024/10/241024173710.htm)
 
 Trending Topics
 ---------------
@@ -232,7 +232,7 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
