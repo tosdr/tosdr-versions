@@ -68,7 +68,7 @@ Subject \*
 
 Your Message \*
 
-Website
+Message
 
 SEND MESSAGE
 
