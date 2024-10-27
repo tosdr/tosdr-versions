@@ -237,8 +237,6 @@
     
     * [Contact Us](https://silverbullion.com.sg/ContactUs)
 
-× Customer service support from 23 October for weekdays will be available until 2am.
-
 POLICY STATEMENT
 ================
 
@@ -377,4 +375,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.265599153593927)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.387955596385503)
