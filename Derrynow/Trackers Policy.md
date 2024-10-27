@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 26 2024](https://www.derrynow.com/news/deaths/1639809/derry-death-notices-saturday-october-26-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Two men arrested following road-traffic collision in Eglington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested following road-traffic collision in Eglington")](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
 
 PSNI
@@ -282,15 +275,6 @@ PSNI
 [Woman dies in hospital following Co Tyrone road crash](https://www.derrynow.com/news/northern-ireland/1640370/woman-dies-in-hospital-following-co-tyrone-road-crash.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
-
-Ruaidhri Higgins watched his team's title chances end at Inchicore. Pic by Tyler Miller/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins left 'devastated' by Derry City title failure](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
 
 Patrick McEleney is hurt by Derry City's title failure
@@ -299,6 +283,15 @@ Patrick McEleney is hurt by Derry City's title failure
 
 [Patrick McEleney - 'There's only so many opportunities the players can get'](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
+
+Ruaidhri Higgins watched his team's title chances end at Inchicore. Pic by Tyler Miller/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins left 'devastated' by Derry City title failure](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ")](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
 
@@ -331,6 +324,13 @@ Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured rec
 
 ['Taking the Next Step' programme launched for rural Derry youth](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Elderly brothers die in Co Antrim road crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elderly brothers die in Co Antrim road crash")](https://www.derrynow.com/news/northern-ireland/1640689/elderly-brothers-die-in-co-antrim-road-crash.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Elderly brothers die in Co Antrim road crash](https://www.derrynow.com/news/northern-ireland/1640689/elderly-brothers-die-in-co-antrim-road-crash.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two pensioners killed in road crash in Co Antrim](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two pensioners killed in road crash in Co Antrim")](https://www.derrynow.com/news/northern-ireland/1640354/two-pensioners-killed-in-road-crash-in-co-antrim.html)
 
@@ -519,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 27 2024](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two men arrested following road-traffic collision in Eglington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested following road-traffic collision in Eglington")](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
 
 PSNI
@@ -528,7 +535,7 @@ PSNI
 [Two men arrested following road-traffic collision in Eglinton](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Taking the Next Step' programme launched for rural Derry youth](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Taking the Next Step' programme launched for rural Derry youth")](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
+[!['Taking the Next Step' programme launched for rural Derry youth](https://www.derrynow.com/resizer/165/93/true/2024_10_24/RAPIDNextStep161024final1-1729778382882.jpg--.jpg?1729778383708 "'Taking the Next Step' programme launched for rural Derry youth")](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -559,15 +566,6 @@ New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin
 
 [New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](https://www.derrynow.com/resizer/165/93/true/2024_10_25/23-10-24_St._Joseph_s_Spooker_04-1729850620007.jpg--.jpg?1729850621742 "‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize")](https://www.derrynow.com/news/local-news/1639407/ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
-
-Brodie McMenamin receiving his prize from Ms. Mrs. Doherty On right is the scary clown Kayden Williamson-Traynor. (Photo: Jim McCafferty Photography)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](https://www.derrynow.com/news/local-news/1639407/ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
