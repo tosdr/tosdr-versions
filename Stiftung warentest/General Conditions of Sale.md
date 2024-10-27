@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Gut essen mit der Stiftung Warentest: Klassischer Stollen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Klassischer-Stollen-5937562-0/ "Gut essen mit der Stiftung Warentest - Klassischer Stollen")
-* [Sprach­assistenten im Test: So gut sind Alexa, Siri und Google](https://www.test.de/Sprachassistenten-im-Test-6020768-0/ "Sprachassistenten im Test - So gut sind Alexa, Siri und Google")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Augen­brauen­stifte im Test: Sieben für schöne Augen­brauen](https://www.test.de/Augenbrauenstifte-im-Test-Acht-fuer-schoene-Augenbrauen-5933385-0/ "Augenbrauenstifte im Test - Sieben für schöne Augenbrauen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
 
 Service Stiftung Warentest
 
