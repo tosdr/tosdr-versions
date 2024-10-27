@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We love the service. What do we have to do to get it back.
+Everything works beautifully. In fact it had worked perfectly for so long that I had completely forgotten how to set up a VPN.
 
-Philip Keevil
+Tim Coutts
