@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-[20% off advent calendars with code: DAY2](https://www.notonthehighstreet.com/christmas/christmas-decorations/advent-calendars-countdowns)
+[Get 20% off gifts for him with code DAY3](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-him)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
