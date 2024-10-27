@@ -224,7 +224,7 @@ Please copy/paste the following text to properly cite this HowStuffWorks.com art
 Copy
 
 "Visitor Agreement" 16 May 2007.  
-HowStuffWorks.com. <https://www.howstuffworks.com/terms-and-conditions.htm> 25 October 2024
+HowStuffWorks.com. <https://www.howstuffworks.com/terms-and-conditions.htm> 26 October 2024
 
 Close
 
