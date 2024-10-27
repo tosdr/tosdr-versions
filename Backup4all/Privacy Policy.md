@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
     
-* [How to backup your data to Google Cloud Stora ...](https://www.backup4all.com/how-to-backup-your-data-to-google-cloud-storage-kb.html)  
+* [Backup to CD](https://www.backup4all.com/backup-to-cd-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
     
-* [How to restore a backup from OneDrive](https://www.backup4all.com/how-to-restore-a-backup-from-onedrive-kb.html)  
+* [How to restore a backup to Azure](https://www.backup4all.com/how-to-restore-a-backup-to-azure-kb.html)  
     
-* [How to back up data files from Amazon S3 usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-amazon-s3-using-backup4all-kb.html)  
+* [How to install and use backup plugins](https://www.backup4all.com/how-to-download-install-and-use-backup-plugins-kb.html)  
     
 
 Choose language:
