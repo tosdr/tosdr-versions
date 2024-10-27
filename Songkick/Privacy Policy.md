@@ -14,7 +14,7 @@
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F26%2F2024&filters%5BminDate%5D=10%2F26%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=11%2F02%2F2024&filters%5BminDate%5D=10%2F26%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=11%2F26%2F2024&filters%5BminDate%5D=10%2F26%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=10%2F27%2F2024&filters%5BminDate%5D=10%2F27%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=11%2F03%2F2024&filters%5BminDate%5D=10%2F27%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/4690-us-jersey-city?filters%5BmaxDate%5D=11%2F27%2F2024&filters%5BminDate%5D=10%2F27%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
