@@ -1,15 +1,15 @@
 [](https://www.pelando.com.br/)
 
-[Cupons](https://www.pelando.com.br/cupons-de-descontos "Cupons")[Comparador](https://www.pelando.com.br/comparador)
+[Cupons](https://www.pelando.com.br/cupons-de-descontos "Cupons")
 
-* Comunidades
+* Categorias
     
 
-[* Tech Lover](https://www.pelando.com.br/tech-lover)[* Mundo Gamer](https://www.pelando.com.br/mundo-gamer)[* Tudo grátis](https://www.pelando.com.br/tudo-gratis)[* Para meu lar](https://www.pelando.com.br/para-meu-lar)[* Achadinhos importados](https://www.pelando.com.br/achadinhos-importados)[* Esporte e vida](https://www.pelando.com.br/esporte-e-vida)[* Para elas](https://www.pelando.com.br/para-elas)[* Para eles](https://www.pelando.com.br/para-eles)[* Cultura](https://www.pelando.com.br/cultura)[* Para minha família](https://www.pelando.com.br/para-minha-familia)[* É meme ou promo?](https://www.pelando.com.br/e-meme-ou-promo)
+Categorias mais buscadas
 
 ![Imagem do usuário ](/assets/pt-br/logoBannerLogin.webp)
 
-Login/Cadastro[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)[Blog](https://www.pelando.com.br/blog)[Black Friday 2024](https://www.pelando.com.br/black-friday)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
+Login/Cadastro[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
 
 [Central de Ajuda](https://ajuda.pelando.com.br/)[Termos de serviço](https://www.pelando.com.br/sobre/termos-de-uso)[Código de Conduta](https://www.pelando.com.br/sobre/codigo-de-conduta)[Privacidade](https://www.pelando.com.br/sobre/politica-de-privacidade)
 
@@ -68,10 +68,6 @@ Av. Getúlio Vargas, 1492 - Funcionários, Belo Horizonte - MG - CEP 30112-021
 
 [Postar](https://www.pelando.com.br/postar)
 
-[Comparador](https://www.pelando.com.br/comparador)
-
 [Alertas](https://www.pelando.com.br/meus-alertas)
 
 **Crie um alerta** para o produto que você procura!
-
-Comunidades
