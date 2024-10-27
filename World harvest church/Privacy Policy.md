@@ -147,6 +147,8 @@ Copyright © 2024 World Harvest Church All rights reserved.
 
 [![Close](/assets/site/images/takeover_close.png)](javascript:fncTakeoverClose(); "Return to WHC.LIFE")
 
+[![WATCH NOW!](/assets/takeover/rodparsley.tv/resource/images/RPtv_Takeover_Graphics.png)](https://whc.life/t?id=168509)
+
 [No, thanks.  Return to what I was doing.](javascript:fncTakeoverClose();)
 
 ![](https://www.facebook.com/tr?id=1554464518169402&ev=PageView&noscript=1)
