@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/het-geraffineerde-vaccinatie-spel-van-de-pharmaceutische-industrie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/1-3-amarikaanse-militairen-geen-covid-vaccin/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
