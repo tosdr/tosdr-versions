@@ -117,57 +117,58 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=81076713)  
-VerdanTech Pty Ltd
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=113785104)  
+OXYAIDER (PTY) LTD
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=139789482)  
-LEO DEVELOPMENT GROUP
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=61761529)  
+Three Moons Emporium
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=59515734)  
-Meyer Towing & Recovery
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=20872611)  
+Cooper Logistics (Pty) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=133809400)  
-SMART GUY PCS (PTY) LTD
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=46771323)  
+IYD
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=69144377)  
-Printo
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=20489745)  
+National Elite Security Services (PTY) LTD
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=166954291)  
-All Trucking Solutions
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=131613155)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=9503261)  
-Alliance Energy
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=76884506)  
+Glass and Allied Industries
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=188779734)  
-FlipDesign - Renovation Contracting Firm
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=110859055)  
+Tracknetics
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=187076927)  
-Know Informatics
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=194592166)  
+UniTech Solutions Pty Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=56808881)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=14241655)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=110599884)  
-SAUL ATHOL ACRES RENTAL
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=109053410)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=212729095)  
-Brilliant Roof Products
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=44822152)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=110454267)  
-Sonic Electrical Services PTY Ltd
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=22395347)  
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=166496354)  
-Henry's Home Renovations
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=50162219)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=164953838)  
-SR Travel Services
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=156995858)  
+MONSTER SECURITY SERVICES
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
