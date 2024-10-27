@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/local/teen-arrested-stabbing-man-multiple-times-capitol-hill/281-b2b637fa-1afc-4e10-9f0f-b3ecd0c809d6)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-votacin-en-otros-idiomas-la-huelga-de-boeing-y-da-de-los-muertos/281-866966a5-51f8-4195-b65a-2901237b8885)
         
-        #### [Girl, 17, arrested for stabbing man multiple times in Seattle](https://www.king5.com/article/news/local/teen-arrested-stabbing-man-multiple-times-capitol-hill/281-b2b637fa-1afc-4e10-9f0f-b3ecd0c809d6)
+        #### [Cinco Cosas: Votación en otros idiomas, la huelga de Boeing, y Día de los Muertos](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-votacin-en-otros-idiomas-la-huelga-de-boeing-y-da-de-los-muertos/281-866966a5-51f8-4195-b65a-2901237b8885)
         
-    *  [![](https://media.king5.com/assets/KING/images/3a83228d-842d-4292-a5a0-ace94767fa28/20241027T051022/3a83228d-842d-4292-a5a0-ace94767fa28_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3a83228d-842d-4292-a5a0-ace94767fa28/20241027T051022/3a83228d-842d-4292-a5a0-ace94767fa28_360x203.jpg)](https://www.king5.com/article/news/local/horror-fall-city-killings-likely-impacting-investigators-former-sheriff/281-2741f125-dee3-408a-ad72-98d0c5c8a6f3)
+    *  [![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_360x203.jpg)](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
         
-        #### [Some detectives on Fall City killings case have seen this horror before](https://www.king5.com/article/news/local/horror-fall-city-killings-likely-impacting-investigators-former-sheriff/281-2741f125-dee3-408a-ad72-98d0c5c8a6f3)
+        #### [Landslide closes northbound I-5 in Bellingham](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/807dc19d-7201-47d7-86d0-0e96dacf2dda/20241027T052423/807dc19d-7201-47d7-86d0-0e96dacf2dda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/807dc19d-7201-47d7-86d0-0e96dacf2dda/20241027T052423/807dc19d-7201-47d7-86d0-0e96dacf2dda_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/66c94970-a219-4fee-b51a-38bd09d6ca72/20241027T142816/66c94970-a219-4fee-b51a-38bd09d6ca72_16x9.jpg) ![](https://media.king5.com/assets/KING/images/66c94970-a219-4fee-b51a-38bd09d6ca72/20241027T142816/66c94970-a219-4fee-b51a-38bd09d6ca72_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+    *  [![](https://media.king5.com/assets/KING/images/75f229c3-c03d-480a-96ea-7ee4f6ad67cf/20241010T192625/75f229c3-c03d-480a-96ea-7ee4f6ad67cf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/75f229c3-c03d-480a-96ea-7ee4f6ad67cf/20241010T192625/75f229c3-c03d-480a-96ea-7ee4f6ad67cf_360x203.jpg)](https://www.king5.com/article/news/local/seattle-area-hospitals-help-national-iv-shortage-hurricane-helene/281-2485922e-3fa7-443a-b275-33effbe2f4f5)
         
-        #### [Steady and heavy rain for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+        #### [How Seattle-area hospitals are handling the national IV shortage caused by Hurricane Helene](https://www.king5.com/article/news/local/seattle-area-hospitals-help-national-iv-shortage-hurricane-helene/281-2485922e-3fa7-443a-b275-33effbe2f4f5)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+56°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
