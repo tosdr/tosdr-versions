@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-91819ce2291e632bc2e3943226fab0f7
+5278310457e0289dea859f04adccd4a4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Square jet Swarovski clasp](https://www.sojourner.biz/images/cache/SKU0347-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
+[![Leaf hook clasp](https://www.sojourner.biz/images/cache/SKU0033front.200.jpg)](https://www.sojourner.biz/clasps/hooks/leaf-hook-clasp.html "Leaf hook clasp")
 
-#### [Square jet Swarovski clasp](https://www.sojourner.biz/clasps/swarovski/square-jet-swarovski-clasp.html "Square jet Swarovski clasp")
+#### [Leaf hook clasp](https://www.sojourner.biz/clasps/hooks/leaf-hook-clasp.html "Leaf hook clasp")
 
-$30.00
+$21.00
 
 ### Best Sellers
 
