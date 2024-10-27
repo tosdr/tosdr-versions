@@ -1,6 +1,6 @@
 None
 
-Gaming 3-Day SaleEnds Sunday. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
+Gaming 3-Day SaleEnds today. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
 
 [Skip to content](#headerskip "Skip to content")
 
