@@ -44,9 +44,10 @@ Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજ
 * [Help Center](https://faq.whatsapp.com/)
 * [Blog](https://blog.whatsapp.com/)
 * [For Business](https://business.whatsapp.com/)
-* [Apps](https://whatsapp.com/download)
+* [WhatsApp Web](https://web.whatsapp.com/)
+* [Download](https://whatsapp.com/download)
 
-[Log in](https://web.whatsapp.com/)[Download](https://www.whatsapp.com/download)
+[Download](https://www.whatsapp.com/download)
 
 [](https://www.whatsapp.com/download)
 
@@ -269,7 +270,7 @@ Who we are[About us](https://www.whatsapp.com/about)[Careers](https://www.whatsa
 
 Use WhatsApp[Android](https://www.whatsapp.com/android)[iPhone](https://www.whatsapp.com/download)[Mac/PC](https://www.whatsapp.com/download)[WhatsApp Web](https://web.whatsapp.com/)
 
-Need help?[Contact Us](https://www.whatsapp.com/contact)[Help Center](https://faq.whatsapp.com/)[Apps](https://www.whatsapp.com/download)[Security Advisories](https://www.whatsapp.com/security/advisories)
+Need help?[Contact Us](https://www.whatsapp.com/contact)[Help Center](https://faq.whatsapp.com/)[Download](https://www.whatsapp.com/download)[Security Advisories](https://www.whatsapp.com/security/advisories)
 
 [Download](https://www.whatsapp.com/download)
 
