@@ -320,16 +320,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Sophia Forrest and Zara Zoe at their wedding.
-](https://static.ffx.io/images/$zoom_1.0347%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_449/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fb7aaa85cf4e6900ffc15afa47b4ddd6c3531a05)](https://www.afr.com/life-and-luxury/fashion-and-style/the-ai-fashion-designer-sophia-forrest-chose-for-her-wedding-20240917-p5kb5z)
+[![Ladakhi women herding dzos and dzomos in Zanskar, Ladakh India](https://static.ffx.io/images/$zoom_0.1886%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/919242ae43832a3b96fcf14265cbaf822aa8c5a5)](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
 
-### [The AI fashion designer Sophia Forrest chose for her wedding](https://www.afr.com/life-and-luxury/fashion-and-style/the-ai-fashion-designer-sophia-forrest-chose-for-her-wedding-20240917-p5kb5z)
+### [What makes this Himalayan valley so alluring is its inaccessibility](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
 
-* Lauren Sams
+* 54 mins ago
+* Nina Karnikowski
 
-* ### [Michelle Payne can finally enjoy the weekend before Melbourne Cup](https://www.afr.com/life-and-luxury/fashion-and-style/michelle-payne-can-finally-enjoy-the-weekend-before-melbourne-cup-20241015-p5kidy)
+* ### [Luxuries you can justify on so many levels](https://www.afr.com/life-and-luxury/fashion-and-style/luxuries-you-can-justify-on-so-many-levels-20241022-p5kk84)
     
-* ### [Bentley puts forward its new face of luxury with a V8 hybrid](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/bentley-puts-forward-its-new-face-of-luxury-with-a-v8-hybrid-20241010-p5khbx)
+* ### [I vowed not to buy new clothes all year. Here’s how it’s going](https://www.afr.com/life-and-luxury/fashion-and-style/i-vowed-not-to-buy-new-clothes-all-year-here-s-how-it-s-going-20241008-p5kgmp)
     
 
 [Rich List](https://www.afr.com/rich-list)
