@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Biggest Movie of the Year](https://www.somethingawful.com/photoshop-phriday/biggest-movie-year/1/)
-* [GI Army Funnies](https://www.somethingawful.com/news/army-funnies-debut/1/)
-* [GI Army Funnies: The Final Battle](https://www.somethingawful.com/news/gi-army-final/1/)
-* [Hearts of Spandex: An Internet Writer's Apocalypse (Part 2 of 2)](https://www.somethingawful.com/news/hearts-spandex-an-2/)
-* [The Justice Legion Inbox](https://www.somethingawful.com/news/justice-legion-inbox/1/)
+* [Cliff Yablonski versus The Horrible People](https://www.somethingawful.com/cliff-yablonski/cliff-yablonski-horrible/1/)
+* [Naga's Den](https://www.somethingawful.com/awful-links/awful-link-2826/)
+* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
+* [Tupac Shakur's Commonplace Book](https://www.somethingawful.com/news/tupac-lovecraft-commonplace/1/)
+* [Check Out My Cyber Monday Haul](https://www.somethingawful.com/news/cyber-monday-deals/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [What was the first video game you remember scaring you?](http://forums.somethingawful.com/showthread.php?threadid=4073686 "What was the first video game you remember scaring you?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Are you ready for NoFap November 2024?](http://forums.somethingawful.com/showthread.php?threadid=4073633 "Are you ready for NoFap November 2024?")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Chipmunks VS Dormice](http://forums.somethingawful.com/showthread.php?threadid=4073678 "Chipmunks VS Dormice")
-* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [MS PAINT THREAD: Draw Garfield From Memory](http://forums.somethingawful.com/showthread.php?threadid=4073629 "MS PAINT THREAD: Draw Garfield From Memory")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-suck.gif) [Fellas with dicks, do you pee through the hole on your underwear?](http://forums.somethingawful.com/showthread.php?threadid=4073628 "Fellas with dicks, do you pee through the hole on your underwear?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [types of mermaids](http://forums.somethingawful.com/showthread.php?threadid=4073687 "types of mermaids")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Are you ready for NoFap November 2024?](http://forums.somethingawful.com/showthread.php?threadid=4073633 "Are you ready for NoFap November 2024?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [What was the first video game you remember scaring you?](http://forums.somethingawful.com/showthread.php?threadid=4073686 "What was the first video game you remember scaring you?")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [Hiccups don't exist](http://forums.somethingawful.com/showthread.php?threadid=4073701 "Hiccups don't exist")
 
 ### Random Articles
 
-* [Recalled Foods III](https://www.somethingawful.com/photoshop-phriday/recalled-foods-iii/1/)
-* [BEST HYDROPONICS](https://www.somethingawful.com/awful-links/awful-link-653/)
-* [Scientology Fan Fiction](https://www.somethingawful.com/feature-articles/scientology-fan-fiction/1/)
-* [Video Game High School](https://www.somethingawful.com/movie-reviews/video-game-hs/1/)
-* [You're Not the Boss of Me!](https://www.somethingawful.com/news/youre-not-boss/)
+* [Dadapop Magazine](https://www.somethingawful.com/awful-links/awful-link-524/)
+* [Hamsters City](https://www.somethingawful.com/awful-links/awful-link-3239/)
+* [Million Dollar Extreme!](https://www.somethingawful.com/awfulvision/million-dollar-extreme/1/)
+* [Advanced Umbrella Etiquette](https://www.somethingawful.com/news/umbrella-tips/)
+* [The Sloth: Nature's Lion](https://www.somethingawful.com/news/sloth-best-animal/)
 
 [Random!](https://www.somethingawful.com/random/)
 
