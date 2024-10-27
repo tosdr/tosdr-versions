@@ -126,18 +126,6 @@ AllLive NowToday
     
     Elite Group D
     
-* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Stumps")
-    
-    Elite Group B
-    
-* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - Stumps")
-    
-    Elite Group D
-    
-* [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Stumps")
-    
-    Elite Group C
-    
 * [Meghalaya vs Maharashtra](https://www.cricbuzz.com/live-cricket-scores/97446/mgly-vs-mah-elite-group-a-ranji-trophy "Meghalaya v Maharashtra, Elite Group A - Stumps")
     
     Elite Group A
@@ -174,17 +162,29 @@ AllLive NowToday
     
     Elite Group B
     
+* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Stumps")
+    
+    Elite Group B
+    
+* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - Stumps")
+    
+    Elite Group D
+    
+* [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Stumps")
+    
+    Elite Group C
+    
 * Ranji Trophy Plate
     
-    [Mizoram vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98141/miz-vs-mnp-plate-ranji-trophy-plate "Mizoram v Manipur, Plate - Stumps")
+    [Sikkim vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98123/skm-vs-arnp-plate-ranji-trophy-plate "Sikkim v Arunachal Pradesh, Plate - Stumps")
+    
+    Plate
+    
+* [Mizoram vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98141/miz-vs-mnp-plate-ranji-trophy-plate "Mizoram v Manipur, Plate - Stumps")
     
     Plate
     
 * [Goa vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98132/goa-vs-ngl-plate-ranji-trophy-plate "Goa v Nagaland, Plate - Stumps")
-    
-    Plate
-    
-* [Sikkim vs Arunachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98123/skm-vs-arnp-plate-ranji-trophy-plate "Sikkim v Arunachal Pradesh, Plate - Stumps")
     
     Plate
     
@@ -613,37 +613,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Evin Lewis ton earns consolation win for WI](https://www.cricbuzz.com/cricket-news/132227/evin-lewis-ton-earns-consolation-win-for-wi "Evin Lewis ton earns consolation win for WI ")
 
-35m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132226/we-wanted-to-fire-a-shot-first-up-and-i-certainly-think-weve-done-that-in-both-games "'We wanted to fire a shot first up and I certainly think we've done that in both games'")
 
 ['We wanted to fire a shot first up and I certainly think we've done that in both games'](https://www.cricbuzz.com/cricket-news/132226/we-wanted-to-fire-a-shot-first-up-and-i-certainly-think-weve-done-that-in-both-games "'We wanted to fire a shot first up and I certainly think we've done that in both games'")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132225/india-left-to-ponder-over-shattered-home-invincibility "India left to ponder over shattered home invincibility")
 
 [India left to ponder over shattered home invincibility](https://www.cricbuzz.com/cricket-news/132225/india-left-to-ponder-over-shattered-home-invincibility "India left to ponder over shattered home invincibility")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132224/need-to-find-ways-of-scoring-runs-to-put-bowlers-under-pressure-rohit-sharma "Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma")
 
 [Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma](https://www.cricbuzz.com/cricket-news/132224/need-to-find-ways-of-scoring-runs-to-put-bowlers-under-pressure-rohit-sharma "Need to find ways of scoring runs to put bowlers under pressure: Rohit Sharma")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132223/csk-look-ahead-as-dhoni-clears-the-air-over-ipl-participation "CSK look ahead as Dhoni clears the air over IPL participation")
 
 [CSK look ahead as Dhoni clears the air over IPL participation](https://www.cricbuzz.com/cricket-news/132223/csk-look-ahead-as-dhoni-clears-the-air-over-ipl-participation "CSK look ahead as Dhoni clears the air over IPL participation")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132222/wtc-scenarios-india-cede-sure-footing-to-resurgent-new-zealand "WTC scenarios: India cede sure footing; Resurgent NZ make their way up")
 
 [WTC scenarios: India cede sure footing; Resurgent NZ make their way up](https://www.cricbuzz.com/cricket-news/132222/wtc-scenarios-india-cede-sure-footing-to-resurgent-new-zealand "WTC scenarios: India cede sure footing; Resurgent NZ make their way up")
 
-5h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
