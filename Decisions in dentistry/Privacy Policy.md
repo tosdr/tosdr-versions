@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Maurice Moore, a San Diego-based dental hygienist ![Maurice Moore, a San Diego-based dental hygienist on TikTok who goes by the moniker “mr.suiterdh” shared three hacks to help clinicians ease their way through common patient scenarios. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBl3LqHsypZ/) 
+
 [EARN 2 CEUs: Optimize Workflow Efficiency by Integ ![EARN 2 CEUs: Optimize Workflow Efficiency by Integrating Dental Imaging Technologies⁠
 The integration of CAD/CAM technology in implant dentistry has enhanced the accuracy of implant placement and the efficiency of restorative procedures.⁠
 By Liliana Aranguren, DDS, MDSc ⁠
@@ -222,13 +229,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBY_MQgtGWI/) 
-
-[A recent Cochrane review shows that water fluorida ![A recent Cochrane review shows that water fluoridation’s benefits in preventing tooth decay have lessened since fluoride toothpaste became widely available. While it may still reduce decay slightly in children’s teeth, the review raises questions about whether it remains a cost-effective public health strategy today. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBWaZfMt9EV/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
