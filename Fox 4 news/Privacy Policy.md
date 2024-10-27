@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Oak Cliff shooting leaves one in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/tz6797-dpd-shooting-crouch-road_00.00.06.16.jpg?ve=1&tl=1)
+ [![NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/elon-musk-spacex.jpg?ve=1&tl=1)
 
- ![Oak Cliff shooting leaves one in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/tz6797-dpd-shooting-crouch-road_00.00.06.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-cliff-shooting-leaves-one-critical-condition)
+ ![NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/elon-musk-spacex.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elon-musk-putin-contact-nasa-chief-investigation)
 
-### [Oak Cliff shooting leaves one in critical condition](https://www.fox4news.com/news/oak-cliff-shooting-leaves-one-critical-condition)
+### [NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://www.fox4news.com/news/elon-musk-putin-contact-nasa-chief-investigation)
 
- [![Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/david-villines.jpg?ve=1&tl=1)
+ [![Volcanic ash from Mexican volcano spotted over Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179650248.jpg?ve=1&tl=1)
 
- ![Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/david-villines.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-firefighter-arrested-north-texas-online-solicitation-minor)
+ ![Volcanic ash from Mexican volcano spotted over Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179650248.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/volcanic-ash-from-mexican-volcano-spotted-over-florida)
 
-### [Oklahoma firefighter arrested in North Texas for online solicitation of a minor](https://www.fox4news.com/news/oklahoma-firefighter-arrested-north-texas-online-solicitation-minor)
+### [Volcanic ash from Mexican volcano spotted over Florida](https://www.fox4news.com/news/volcanic-ash-from-mexican-volcano-spotted-over-florida)
 
- [![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180556779.jpg?ve=1&tl=1)
+ [![Silver Alert issued for 86-year-old last seen Oct. 24](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/screenshot-2024-10-27-125435.png?ve=1&tl=1)
 
- ![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180556779.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/hoover-throws-3-tds-tcu-rallies-from-17-point-deficit-beat-texas-tech-35-34)
+ ![Silver Alert issued for 86-year-old last seen Oct. 24](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-27-125435.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/silver-alert-issued-86-year-old-last-seen-oct-24)
 
-### [Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://www.fox4news.com/sports/hoover-throws-3-tds-tcu-rallies-from-17-point-deficit-beat-texas-tech-35-34)
+### [Silver Alert issued for 86-year-old last seen Oct. 24](https://www.fox4news.com/news/silver-alert-issued-86-year-old-last-seen-oct-24)
 
- [![Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180549379.jpg?ve=1&tl=1)
+ [![When do we 'fall back'? How to prepare for the time change](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1239221000-scaled.jpg?ve=1&tl=1)
 
- ![Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180549379.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/quinn-ewers-throws-3-tds-no-5-texas-beats-no-25-vanderbilt-27-24-culture-win)
+ ![When do we 'fall back'? How to prepare for the time change](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1239221000-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-do-we-fall-back-time-change-2024)
 
-### [Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://www.fox4news.com/news/quinn-ewers-throws-3-tds-no-5-texas-beats-no-25-vanderbilt-27-24-culture-win)
+### [When do we 'fall back'? How to prepare for the time change](https://www.fox4news.com/news/when-do-we-fall-back-time-change-2024)
 
- [![Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/cruz-allred-another.jpg?ve=1&tl=1)
+ [![2 killed in Pleasant Grove crash Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/n-masters-fatal-crash-102724.png?ve=1&tl=1)
 
- ![Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/cruz-allred-another.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
+ ![2 killed in Pleasant Grove crash Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/n-masters-fatal-crash-102724.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-pleasant-grove-crash-sunday-morning)
 
-### [Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
+### [2 killed in Pleasant Grove crash Sunday morning](https://www.fox4news.com/news/2-killed-pleasant-grove-crash-sunday-morning)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
