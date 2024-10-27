@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Remember, Remember… (4,293)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (4,293 posts)")
-* [F7 Tries to Simulate War (22)](https://forum.nationstates.net/viewtopic.php?t=557589&f=25&view=unread#unread ""F7 Tries to Simulate War" (22 posts)")
-* [Transformers: Electric Trepidation (10,281)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""Transformers: Electric Trepidation" (10,281 posts)")
-* [What triggers you about the AN? (9,818)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (9,818 posts)")
-* [The Seal and Logo Request Thread (8,618)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,618 posts)")
+* [How cute is AN's national animal? (146)](https://forum.nationstates.net/viewtopic.php?t=556564&f=25&view=unread#unread ""How cute is AN's national animal?" (146 posts)")
+* [Payday F7 (IC) (110)](https://forum.nationstates.net/viewtopic.php?t=557608&f=25&view=unread#unread ""Payday F7 (IC)" (110 posts)")
+* [Based on the flag, what language(s) d… (11,840)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,840 posts)")
+* [Ukrainian War VII: Everything has a p… (7,934)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,934 posts)")
+* [How evil is AN based on its flag? III (9,353)](https://forum.nationstates.net/viewtopic.php?t=515034&f=25&view=unread#unread ""How evil is AN based on its flag? III" (9,353 posts)")
 
 Advertisement
 
