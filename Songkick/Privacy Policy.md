@@ -32,11 +32,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![DESTIN CONRAD Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) DESTIN CONRAD](https://www.songkick.com/artists/10354889-destin-conrad)
+        *  [![Geordie Greep Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Geordie Greep](https://www.songkick.com/artists/10341381-geordie-greep)
         *  [![Seori Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Seori](https://www.songkick.com/artists/10353264-seori)
         *  [![Mckyyy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mckyyy](https://www.songkick.com/artists/10352973-mckyyy)
-        *  [![アトラスサウンドチーム Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) アトラスサウンドチーム](https://www.songkick.com/artists/10352290-atorasusaundotimu)
-        *  [![Matt Champion Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Matt Champion](https://www.songkick.com/artists/10351953-matt-champion)
-        *  [![Gigi Perez Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Gigi Perez](https://www.songkick.com/artists/10289661-gigi-perez)
+        *  [![KATSEYE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) KATSEYE](https://www.songkick.com/artists/10350173-katseye)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
