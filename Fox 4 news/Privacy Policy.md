@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/seth-altman.jpg?ve=1&tl=1)
+ [![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180556779.jpg?ve=1&tl=1)
 
- ![Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/seth-altman.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-alert-arrest-sam-altman-fort-worth)
+ ![Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180556779.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/hoover-throws-3-tds-tcu-rallies-from-17-point-deficit-beat-texas-tech-35-34)
 
-### [Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://www.fox4news.com/news/blue-alert-arrest-sam-altman-fort-worth)
+### [Hoover throws 3 TDs as TCU rallies from 17-point deficit to beat Texas Tech 35-34](https://www.fox4news.com/sports/hoover-throws-3-tds-tcu-rallies-from-17-point-deficit-beat-texas-tech-35-34)
 
- [![Bedford house fire sends 2 to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-cb-bedford-wade-dr-house-fire-full-raw_kdfw_00.02.20.38.jpg?ve=1&tl=1)
+ [![Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2180549379.jpg?ve=1&tl=1)
 
- ![Bedford house fire sends 2 to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-cb-bedford-wade-dr-house-fire-full-raw_kdfw_00.02.20.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bedford-house-fire-wade-drive)
+ ![Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180549379.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/quinn-ewers-throws-3-tds-no-5-texas-beats-no-25-vanderbilt-27-24-culture-win)
 
-### [Bedford house fire sends 2 to hospital](https://www.fox4news.com/news/bedford-house-fire-wade-drive)
+### [Quinn Ewers throws for 3 TDs as No. 5 Texas beats No. 25 Vanderbilt 27-24 in ‘culture’ win](https://www.fox4news.com/news/quinn-ewers-throws-3-tds-no-5-texas-beats-no-25-vanderbilt-27-24-culture-win)
 
- [![Dallas County extends early voting hours](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/GettyImages-1438195072.jpg?ve=1&tl=1)
+ [![Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/cruz-allred-another.jpg?ve=1&tl=1)
 
- ![Dallas County extends early voting hours](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/592/333/GettyImages-1438195072.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/dallas-county-early-voting-hours-extended)
+ ![Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/cruz-allred-another.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
 
-### [Dallas County extends early voting hours](https://www.fox4news.com/election/dallas-county-early-voting-hours-extended)
+### [Democratic PAC spending $5 million on Allred ads in race against Ted Cruz](https://www.fox4news.com/election/colin-allred-ted-cruz-ads-pac)
 
- [![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/GettyImages-1863760125.jpg?ve=1&tl=1)
+ [![Irving shooting: 1 dead, manhunt for suspects comes up empty](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/irving-police-department-generic-irving-PD.png?ve=1&tl=1)
 
- ![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/GettyImages-1863760125.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-dalvin-cook-active-roster)
+ ![Irving shooting: 1 dead, manhunt for suspects comes up empty](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/irving-police-department-generic-irving-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-shooting-1-dead-manhunt-suspects-comes-up-empty)
 
-### [Dallas Cowboys running back Dalvin Cook elevated to active roster](https://www.fox4news.com/sports/dallas-cowboys-dalvin-cook-active-roster)
+### [Irving shooting: 1 dead, manhunt for suspects comes up empty](https://www.fox4news.com/news/irving-shooting-1-dead-manhunt-suspects-comes-up-empty)
 
- [![Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-146700920.jpg?ve=1&tl=1)
+ [![Dallas shooting: 1 killed in Old East Dallas, no arrest made](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.01.11.14.jpg?ve=1&tl=1)
 
- ![Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-146700920.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/famous-alaska-volcano-sees-seismic-unrest-after-more-than-30-year-slumber)
+ ![Dallas shooting: 1 killed in Old East Dallas, no arrest made](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-sh-dpd-shooting-dilido-rd_kdfwe2ff_186_mp4_00.01.11.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-dilido-road-old-east-dallas)
 
-### [Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://www.fox4news.com/news/famous-alaska-volcano-sees-seismic-unrest-after-more-than-30-year-slumber)
+### [1 killed in Old East Dallas shooting, no arrest made](https://www.fox4news.com/news/dallas-shooting-dilido-road-old-east-dallas)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
