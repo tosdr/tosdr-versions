@@ -66,7 +66,6 @@ The store will not work correctly in the case when cookies are disabled.
     * [DUO](https://www.womanizer.com/eu/duo)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
-    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
     * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
@@ -74,6 +73,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
+    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
