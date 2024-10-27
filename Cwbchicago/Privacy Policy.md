@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Latavion-Johnson-326x245.jpg)](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+
+Englewood
+
+### [Feds charge man who allegedly displayed, fired machine gun on social media](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+
+[October 23, 2024 3:44 PM](https://cwbchicago.com/2024/10)
+
+A 22-year-old Chicago man faces federal gun charges after he allegedly displayed illegal machine gun parts and fired a machine gun on social media posts. The case involves so-called “Glock switches” or “sear switches,” aftermarket devices that can convert some firearms into automatic weapons.[](https://cwbchicago.com/2024/10/feds-charge-man-who-allegedly-displayed-fired-machine-gun-on-social-media.html "Feds charge man who allegedly displayed, fired machine gun on social media")
+
 [![](https://cwbchicago.com/wp-content/uploads/2022/04/Morse-Derrick-Robie-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-at-morse-cta-station-robbed-and-intimidated-countless-train-passengers-over-the-years-and-even-stole-a-dead-mans-wallet.html "Man murdered at Morse CTA station robbed and intimidated countless train passengers over the years, and even stole a dead man’s wallet")
 
 CTA
@@ -262,16 +272,6 @@ CTA
 [October 21, 2024 4:18 AM](https://cwbchicago.com/2024/10)
 
 A man with a long history of criminal activity on the CTA’s train lines was shot and killed Sunday evening at the Morse Red Line station, according to a law enforcement source.[](https://cwbchicago.com/2024/10/long-time-cta-menace-is-murdered-at-morse-red-line-station.html "Long-time CTA menace is murdered at Morse Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/alert-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
-
-Lower West Side
-
-### [Violent robbery crew has attacked victims and kidnapped one, police warn](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
-
-[October 20, 2024 6:13 PM](https://cwbchicago.com/2024/10)
-
-Armed men have physically attacked and robbed at least three victims this month on the Near West Side, going so far as to kidnap one of the victims and forcing them to withdraw money from an ATM, Chicago police say.[](https://cwbchicago.com/2024/10/violent-robbery-crew-has-attacked-victims-and-kidnapped-one-police-warn.html "Violent robbery crew has attacked victims and kidnapped one, police warn")
 
 Search
 
