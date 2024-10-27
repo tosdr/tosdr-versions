@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+*  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-    =============================================================================================================
+    [Vivienne Jolie's Stunning Transformation](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+    =================================================================================================================
     
-    If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
+    Youngest child to Angelina Jolie and Brad Pitt, Vivienne Marcheline Jolie is now paving her way in the world, and she is uniquely herself.
     
-    By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
-* *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1729581051.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
+* *  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        
+        ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+        
+        If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+        
+    *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1729581051.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
-    *  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-        
-        It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
-        
 
 More Stories
 ------------
 
+*  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    
+    Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    
+*  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Angelina Jolie Is Gorgeous Without Makeup](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+    
+    It's normal to be curious about whether it's the makeup doing all the work or something else. In Angelina Jolie's case, it's something else.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
+    
 *  [![Miley Cyrus](https://www.women.com/img/gallery/miley-cyrus-is-childless-by-choice-her-heartbreaking-reason-makes-so-much-sense/intro-1729705548.jpg)](https://www.women.com/1695748/miley-cyrus-childless-by-choice-heartbreaking-reason-makes-sense/)
     
     [Politics](https://www.women.com/category/politics/)
@@ -381,30 +405,6 @@ More Stories
     Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
     
     By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
-*  [![Suri Cruise posing](https://www.women.com/img/gallery/suri-cruises-style-has-totally-transformed-over-the-years/intro-1727979833.jpg)](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Suri Cruise's Style Has Totally Transformed Over The Years](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-    
-    Suri Cruise, one of the most photographed celebrity tots in the world, started life in dresses and bows, but her style has totally transformed since the 2000s.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1679713/suri-cruise-style-transformed-over-years/)
-    
-*  [![A woman in a skirt and jacket](https://www.women.com/img/gallery/wrong-jacket-theory-is-the-perfect-way-to-upgrade-your-fall-winter-outfits/intro-1728582522.jpg)](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Wrong Jacket Theory Is The Perfect Way To Upgrade Your Fall & Winter Outfits](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
-    
-    Wrong jacket theory, like wrong shoe theory, embraces unexpected combinations. Easily add interest to your fall and winter outfits by mixing up your outerwear.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1685340/wrong-jacket-theory-upgrade-fall-winter-outfits/)
     
 
 Back
