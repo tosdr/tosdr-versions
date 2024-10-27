@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ The key to the future of the world is finding the optimistic stories and letting them be known”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[Pete Seeger](http://en.wikipedia.org/wiki/Pete_Seeger)
 
 [](https://www.adafruit.com/about)
 
