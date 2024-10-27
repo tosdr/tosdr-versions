@@ -22,8 +22,8 @@ We will process your personal information in accordance with applicable law, inc
 
 It is advised that you review this Policy regularly, as it may be amended from time to time as set out below (see Changes to this Policy).
 
-**Information collection**
---------------------------
+Information collection
+----------------------
 
 We collect information about you directly from you, from third parties, and automatically through your use of our Service. We may combine the information that we collect about you from these various sources.
 
