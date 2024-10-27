@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)16°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,16 +54,19 @@
 
 Thèmes du moment
 
-* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [Ski](https://www.watson.ch/fr/ski/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Alcool](https://www.watson.ch/fr/alcool/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Immobilier](https://www.watson.ch/fr/immobilier/)
-* [Votation](https://www.watson.ch/fr/votation/)
-* [jeunesse](https://www.watson.ch/fr/jeunesse/)
+* [Interview](https://www.watson.ch/fr/interview/)
 * [Halloween](https://www.watson.ch/fr/halloween/)
-* [Confédération](https://www.watson.ch/fr/confederation/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [Marathon](https://www.watson.ch/fr/marathon/)
+* [Course à pied](https://www.watson.ch/fr/course-a-pied/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [Alpes](https://www.watson.ch/fr/alpes/)
+* [Randonnée](https://www.watson.ch/fr/randonnee/)
+* [Espagne](https://www.watson.ch/fr/espagne/)
+* [Montagne](https://www.watson.ch/fr/montagne/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Logement](https://www.watson.ch/fr/logement/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
@@ -71,9 +74,6 @@ Thèmes du moment
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Parti socialiste](https://www.watson.ch/fr/parti-socialiste/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
