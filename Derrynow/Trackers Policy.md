@@ -268,55 +268,21 @@ PSNI
 [Two men arrested following road-traffic collision in Eglinton](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman dies in hospital following Co Tyrone road crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman dies in hospital following Co Tyrone road crash")](https://www.derrynow.com/news/northern-ireland/1640370/woman-dies-in-hospital-following-co-tyrone-road-crash.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Woman dies in hospital following Co Tyrone road crash](https://www.derrynow.com/news/northern-ireland/1640370/woman-dies-in-hospital-following-co-tyrone-road-crash.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, October 27 2024](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
+[![Craigbane defeat Killeeshil to make Ulster quarter-finals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane defeat Killeeshil to make Ulster quarter-finals")](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
 
-Patrick McEleney is hurt by Derry City's title failure
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Patrick McEleney - 'There's only so many opportunities the players can get'](https://www.derrynow.com/news/derry-sport/1640383/patrick-mceleney-there-s-only-so-many-opportunities-the-players-can-get.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
-
-Ruaidhri Higgins watched his team's title chances end at Inchicore. Pic by Tyler Miller/ Sportsfile
+Action from Craigbane's win over Killeeshil. Pic by Tom Heaney, nwpresspics
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Ruaidhri Higgins left 'devastated' by Derry City title failure](https://www.derrynow.com/news/derry-sport/1640379/ruaidhri-higgins-left-devastated-by-derry-city-title-failure.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ")](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
-
-New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'")](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
-
-Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured receiving his award from Danielle McNally, DCSDC on Tuesday at the Guildhall, Derry. (Photos: Jim McCafferty Photography)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Visit the home of Halloween as Derry gets set to awaken!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit the home of Halloween as Derry gets set to awaken!")](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Visit the home of Halloween as Derry gets set to awaken!](https://www.derrynow.com/news/local-news/1636500/visit-the-home-of-halloween-as-derry-gets-set-to-awaken.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Craigbane defeat Killeeshil to make Ulster quarter-finals](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [!['Taking the Next Step' programme launched for rural Derry youth](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Taking the Next Step' programme launched for rural Derry youth")](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
 
@@ -325,6 +291,13 @@ Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured rec
 ['Taking the Next Step' programme launched for rural Derry youth](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry celebrates success at Ulster in Bloom awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry celebrates success at Ulster in Bloom awards")](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Elderly brothers die in Co Antrim road crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elderly brothers die in Co Antrim road crash")](https://www.derrynow.com/news/northern-ireland/1640689/elderly-brothers-die-in-co-antrim-road-crash.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -332,12 +305,35 @@ Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured rec
 [Elderly brothers die in Co Antrim road crash](https://www.derrynow.com/news/northern-ireland/1640689/elderly-brothers-die-in-co-antrim-road-crash.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![MacD on Music: 'Fever Dream' with Cora Harkin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: 'Fever Dream' with Cora Harkin")](https://www.derrynow.com/news/what-s-on/1639370/macd-on-music-fever-dream-with-cora-harkin.html)
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: 'Fever Dream' with Cora Harkin](https://www.derrynow.com/news/what-s-on/1639370/macd-on-music-fever-dream-with-cora-harkin.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Slaughtneil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Slaughtneil")](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
+
+Slaughtneil celebrate their win with their fans. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Slaughtneil blow Banagher away to win 12th successive Senior Hurling title](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two pensioners killed in road crash in Co Antrim](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two pensioners killed in road crash in Co Antrim")](https://www.derrynow.com/news/northern-ireland/1640354/two-pensioners-killed-in-road-crash-in-co-antrim.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Two pensioners killed in road crash in Co Antrim](https://www.derrynow.com/news/northern-ireland/1640354/two-pensioners-killed-in-road-crash-in-co-antrim.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman left with potentially life-changing injuries in hit-and-run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman left with potentially life-changing injuries in hit-and-run")](https://www.derrynow.com/news/northern-ireland/1640844/woman-left-with-potentially-life-changing-injuries-in-hit-and-run.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Woman left with potentially life-changing injuries in hit-and-run](https://www.derrynow.com/news/northern-ireland/1640844/woman-left-with-potentially-life-changing-injuries-in-hit-and-run.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,14 +515,39 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
+[![Craigbane defeat Killeeshil to make Ulster quarter-finals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane defeat Killeeshil to make Ulster quarter-finals")](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
+
+Action from Craigbane's win over Killeeshil. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Craigbane defeat Killeeshil to make Ulster quarter-finals](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Slaughtneil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Slaughtneil")](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
+
+Slaughtneil celebrate their win with their fans. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Slaughtneil blow Banagher away to win 12th successive Senior Hurling title](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/resizer/165/93/true/2024_10_25/Derry_City_and_Strabane_ulster_in_bloom-1729863629018.jpg--.jpg?1729863629962 "Derry celebrates success at Ulster in Bloom awards")](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, October 27 2024](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two men arrested following road-traffic collision in Eglington](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested following road-traffic collision in Eglington")](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
+[![Two men arrested following road-traffic collision in Eglington](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Two men arrested following road-traffic collision in Eglington")](https://www.derrynow.com/news/local-news/1640506/two-men-arrested-following-road-traffic-collision-in-eglington.html)
 
 PSNI
 
@@ -541,31 +562,6 @@ PSNI
 
 ['Taking the Next Step' programme launched for rural Derry youth](https://www.derrynow.com/news/local-news/1638842/taking-the-next-step-programme-launched-for-rural-derry-youth.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: 'Fever Dream' with Cora Harkin](https://www.derrynow.com/resizer/165/93/true/2024_10_25/WhatsApp_Image_2024-10-24_at_13.21.16_3cdca698-1729849585449_1729849605.jpg--.jpg?1729849605347 "MacD on Music: 'Fever Dream' with Cora Harkin")](https://www.derrynow.com/news/what-s-on/1639370/macd-on-music-fever-dream-with-cora-harkin.html)
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: 'Fever Dream' with Cora Harkin](https://www.derrynow.com/news/what-s-on/1639370/macd-on-music-fever-dream-with-cora-harkin.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](https://www.derrynow.com/resizer/165/93/true/2024_10_25/22-10-24_DCSDC_Succeed_ult._pitch_01-1729866610413_1729866849.jpg--.jpg?1729866849328 "Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'")](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
-
-Overall Winner, Derry Strabane Heat, Jared Wilson, Cricket Jobs Ltd pictured receiving his award from Danielle McNally, DCSDC on Tuesday at the Guildhall, Derry. (Photos: Jim McCafferty Photography)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry entrepreneur Jared Wilson bowls over judges at 'The Ultimate Pitch'](https://www.derrynow.com/news/local-news/1639793/derryentrepreneur-jared-wilson-bowls-over-judges-at-the-ultimate-pitch.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ](https://www.derrynow.com/resizer/165/93/true/2024_10_23/MixCollage-23-Oct-2024-10-25-AM-1815-1729675498685.jpg--.jpg?1729675498730 "New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin ")](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
-
-New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[New bilingual café opens in Derry's cultural centre Cultúrlann Uí Chanáin](https://www.derrynow.com/news/local-news/1637427/new-bilingual-cafe-opens-in-derry-s-cultural-centre-culturlann-ui-chanain.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
