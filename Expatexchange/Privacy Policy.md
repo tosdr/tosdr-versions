@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr1.jpg)](https://www.expatexchange.com/partnerdirect/182/64893-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![Allianz Care](https://www.expatexchange.com/banner/allianz_expat_health_insurance_ldr4.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=72833-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-1.jpg)](https://www.expatexchange.com/partnerdirect/182/64893-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![Allianz Care](https://www.expatexchange.com/banner/allianz_mpu.gif)](https://www.kqzyfj.com/click-1462468-13892475?sid=72833-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![William Russell](https://www.expatexchange.com/images/photo_taker_200.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/86394-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[GeoBlue](https://www.expatexchange.com/partnerdirect/76/86394-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Get a quote for international health insurance from our partner, William Russell.  
-[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/86394-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![William Russell](https://www.expatexchange.com/images/photo_taker_200.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-MOBILE-cbar-vrs-A-hicontent-Global-62)[William Russell](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/86394-MOBILE-cbar-vrs-B-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/86394-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Get a quote for international health insurance from our partner, William Russell.  
-[Get Quote](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=95209-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/86394-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
