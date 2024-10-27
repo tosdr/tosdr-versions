@@ -118,16 +118,16 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
-    
-    Diary of a Porn Virgin
-    
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+    
+    Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Trouble With Evan](/wp-content/thumbnails/8807-100x70.jpg?x53432)
+* [![His Name Was Arthur Leigh Allen](/wp-content/thumbnails/13703-100x70.jpg?x53432)
     
-    The Trouble With Evan
+    His Name Was Arthur Leigh Allen
     
-    This Fifth Estate documentary was filmed in 1994 and is about a troubled 11 year old called Evan and his family. His parents agreed to have video cameras installed in their home for a 3 month period w](https://documentaryheaven.com/trouble-with-evan/ "The Trouble With Evan")
-* [![Albert Einstein: How I See the World](/wp-content/thumbnails/4513-100x70.jpg?x53432)
+    Originally released in 2007 His Name Was Arthur Leigh Allen is a documentary which was included in the Special Edition DVD of Zodiac the feature film. Through a number of interviews with the original](https://documentaryheaven.com/name-arthur-leigh-allen/ "His Name Was Arthur Leigh Allen")
+* [![Katherine Mary Knight](/wp-content/thumbnails/13173-100x70.jpg?x53432)
     
-    Albert Einstein: How I See the World
+    Katherine Mary Knight
     
-    A video retrospective on the life of the famous patent clerk-turned-physicist. Rare photos and news footage, together with excerpts from his personal diaries, bring to life not only the man, but the w](https://documentaryheaven.com/albert-einstein-how-i-see-the-world/ "Albert Einstein: How I See the World")
-* [![Curiosity: World’s Dirtiest Man](/wp-content/thumbnails/6585-100x70.png?x53432)
+    Some crimes can be so undeniably gruesome that they defy logic and have people asking questions forever more, in Aberdeen, NSW, Austrailia, the case of Katherine Mary Knight did just that.Katherin](https://documentaryheaven.com/katherine-mary-knight/ "Katherine Mary Knight")
+* [![The Secret Life of Your Bodyclock](/wp-content/thumbnails/205-100x70.png?x53432)
     
-    Curiosity: World’s Dirtiest Man
+    The Secret Life of Your Bodyclock
     
-    We shower, we bathe, we apply perfumes and deodorants. We’re cleaner and healthier than at any other point in human history.So it may be surprising to learn there are 10 times more things living o](https://documentaryheaven.com/curiosity-worlds-dirtiest-man/ "Curiosity: World’s Dirtiest Man")
-* [![Life In Solitary](/wp-content/thumbnails/10109-100x70.jpeg?x53432)
+    If you’re reading this any time after lunch and you’re not dead, well done. You have, in the words of Professor Russell Foster, a chronobiologist, “survived the most dangerous part of the day”. Chrono](https://documentaryheaven.com/the-secret-life-of-your-bodyclock/ "The Secret Life of Your Bodyclock")
+* [![What Really Happened in Wuhan](/wp-content/thumbnails/16591-100x70.jpg?x53432)
     
-    Life In Solitary
+    What Really Happened in Wuhan
     
-    In America 80,000 prisoners are locked up in solitary confinement, they spend months, sometimes years alone and separated from general population. This BBC film goes inside the punishment wing of a ma](https://documentaryheaven.com/life-in-solitary/ "Life In Solitary")
-* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
+    In this Sky News Australia special investigation, we delve into the origins of COVID-19 in an attempt to reveal what it was that really happened in Wuhan at the start of the global pandemic. We hear](https://documentaryheaven.com/what-really-happened-in-wuhan/ "What Really Happened in Wuhan")
+* [![A Brilliant Madness](/wp-content/thumbnails/6576-100x70.jpg?x53432)
     
-    Dreamville Presents: REVENGE
+    A Brilliant Madness
     
-    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
+    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness.At the age of 30, John Forbes Nash, a stunningly original and famously eccentric MIT ma](https://documentaryheaven.com/a-brilliant-madness/ "A Brilliant Madness")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
