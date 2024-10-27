@@ -391,24 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Feel More Attractive](https://www.wikihow.com/images/thumb/9/91/Enjoy-College-Step-7.jpg/-crop-126-120-126px-Enjoy-College-Step-7.jpg)
+
+How to  
+Feel More Attractive](https://www.wikihow.com/Feel-More-Attractive)
+
+[![Develop Personality](https://www.wikihow.com/images/thumb/3/33/Develop-Personality-Step-17.jpg/-crop-126-120-126px-Develop-Personality-Step-17.jpg)
+
+How to  
+Develop Personality](https://www.wikihow.com/Develop-Personality)
+
+[![Soulmate Name Quiz](https://www.wikihow.com/images/thumb/a/ad/Soulmate_name_quiz.png/-crop-126-120-126px-Soulmate_name_quiz.png)
+
+What's My Soulmate's Name Quiz](https://www.wikihow.com/Relationships/Soulmate-Name-Quiz)
+
 [![Be Okay](https://www.wikihow.com/images/thumb/8/8c/LR22-Mr-and-Mrs-Bloom-Chat.png/-crop-126-120-126px-LR22-Mr-and-Mrs-Bloom-Chat.png)
 
 How to  
 Be Okay](https://www.wikihow.com/Be-Okay)
-
-[![Scary Games to Play with Friends](https://www.wikihow.com/images/thumb/7/7a/Scary-Games-to-Play-with-Friends-Step-38.jpg/-crop-126-120-126px-Scary-Games-to-Play-with-Friends-Step-38.jpg)
-
-The 38 Best Horror Games to Play with Your Friends](https://www.wikihow.com/Scary-Games-to-Play-with-Friends)
-
-[![Write a Scary Story](https://www.wikihow.com/images/thumb/c/c5/Write-a-Scary-Story-Step-27-Version-2.jpg/-crop-126-120-126px-Write-a-Scary-Story-Step-27-Version-2.jpg)
-
-How to  
-Write a Scary Story](https://www.wikihow.com/Write-a-Scary-Story)
-
-[![Deal With a Friend Who Has Changed](https://www.wikihow.com/images/thumb/d/d8/Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg/-crop-126-120-126px-Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg)
-
-How to  
-Deal With a Friend Who Has Changed](https://www.wikihow.com/Deal-With-a-Friend-Who-Has-Changed)
 
   
 
@@ -451,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-181
+210
