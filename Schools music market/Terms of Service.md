@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-jazz-music/)
+ [](https://schoolsmusicmarket.com/product/music-spelling-find-the-missing-letter/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/musical-instruments-look-tick-worksheet/)
+ [](https://schoolsmusicmarket.com/product/world-music-day-assembly-pack/)
 
 ###### Browse By Year/Grade
 
