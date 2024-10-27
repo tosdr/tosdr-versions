@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ad2a17e8c0350556c2aa1c87a9dcf438
+050bf881ad0b35ee2fe2e0adae7d0060
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm purple stripe heart beads](https://sojourner.biz/images/cache/glass/HRT019.200.jpg)](https://sojourner.biz/beads/glass/8-mm-purple-stripe-heart-beads.html "8 mm purple stripe heart beads")
+[![Sand-drip candlesticks](https://sojourner.biz/images/cache/tabletop/TT0067variations_Pair_of_candlesticks_s504467695753958418_p878_i1_w4658.200.webp)](https://sojourner.biz/sand-drip-candlesticks.html "Sand-drip candlesticks")
 
-#### [8 mm purple stripe heart beads](https://sojourner.biz/beads/glass/8-mm-purple-stripe-heart-beads.html "8 mm purple stripe heart beads")
+#### [Sand-drip candlesticks](https://sojourner.biz/sand-drip-candlesticks.html "Sand-drip candlesticks")
 
-$3.00
+$42.00
 
 ### Best Sellers
 
