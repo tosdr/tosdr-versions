@@ -46,7 +46,7 @@ Check In
 
 Check Out
 
-3 nights selected
+4 nights selected
 
 October 2024
 
