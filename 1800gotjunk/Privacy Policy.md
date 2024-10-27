@@ -642,17 +642,17 @@ Anne Garnett Calgary 11/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very polite. Very efficient.
+Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
 
-Art Rae Calgary 11/10/2024
+Tiffany Wyatt Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
+Very polite. Very efficient.
 
-Tiffany Wyatt Calgary 11/10/2024
+Art Rae Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -682,17 +682,17 @@ Trevor W Calgary 10/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The two men did Justice to the company's reputation and offered Sterling service. 😂 Thanks guys see you again probably.
+Kyla and Ray were very prompt and professional and had my junk hauled away in no time! Even my 5x5 soaker tub 👌🏼
 
-sarah curran Calgary 09/10/2024
+Spencer Rigby Calgary 09/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kyla and Ray were very prompt and professional and had my junk hauled away in no time! Even my 5x5 soaker tub 👌🏼
+The two men did Justice to the company's reputation and offered Sterling service. 😂 Thanks guys see you again probably.
 
-Spencer Rigby Calgary 09/10/2024
+sarah curran Calgary 09/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,22 +866,6 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Chaz and Kegan were great at cleaning out our garage. Definitely recommend this company.
-
-Kyle Southern Naples 19/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
-
-Amy Seaman Naples 19/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
 
 Alexis D. Cincinnati 19/10/2024
@@ -914,33 +898,17 @@ Joyce May Austin 19/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Couldn’t have been easier! Bobby and Zach were great.
+Chaz and Kegan were great at cleaning out our garage. Definitely recommend this company.
 
-Julie Tower Austin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Excellent and polite, friendly service from Foug & Ignacio
-
-Moira Ross LA Metro 18/10/2024
+Kyle Southern Naples 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Crew was on time and did a great job
+Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
 
-Terry Klein Austin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-thank you AJ and TC
-
-Eric Bennett Austin 18/10/2024
+Amy Seaman Naples 19/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1005,6 +973,38 @@ Mary Wisconsin 18/10/2024
 Steeve and gio did an amazing job
 
 Duke Downey Naples 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Chris and Brayan awesome and fast to work with!
+
+Brandon Wisconsin 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Steeve and gio did an amazing job
+
+juliaslp Naples 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Couldn’t have been easier! Bobby and Zach were great.
+
+Julie Tower Austin 18/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Crew was on time and did a great job
+
+Terry Klein Austin 18/10/2024
 
 ### 
 
