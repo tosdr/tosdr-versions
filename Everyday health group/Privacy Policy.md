@@ -94,7 +94,7 @@ Find the best doctors for you that are near you.
 
 [Cardiologist](https://www.everydayhealth.care/specialists/cardiologist/)[Dermatologist](https://www.everydayhealth.care/specialists/dermatologist/)[Gastroenterologist](https://www.everydayhealth.care/specialists/gastroenterologist/)[OB/GYN](https://www.everydayhealth.care/specialists/obstetrician-gynecologist-obgyn/)
 
-[Orthopedic Surgeon](https://www.everydayhealth.care/specialists/orthopedic-surgeon/)[Pediatrician](https://www.everydayhealth.care/specialists/pediatrician/)[Primary Care](https://www.everydayhealth.care/specialists/general-practice-doctor-general-practitioner/)
+[Orthopedic Surgeon](https://www.everydayhealth.care/specialists/orthopedic-surgeon/)[Pediatrician](https://www.everydayhealth.care/specialists/pediatrician/)[Primary Care](https://www.everydayhealth.care/specialists/primary-care-specialist-general-practitioner/)
 
 [Quizzes & Calculators](https://www.everydayhealth.com/quizzes-calculators/)
 
