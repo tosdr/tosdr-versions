@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=30399409)  
-Fox Alarms & Security
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=81076713)  
+VerdanTech Pty Ltd
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=118696230)  
-Dr V Naik Consult
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=139789482)  
+LEO DEVELOPMENT GROUP
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=198620646)  
-Norton Medical & Consult - Namibia
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=59515734)  
+Meyer Towing & Recovery
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=192943062)  
-Waterfinatics Swim School
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=133809400)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=52017698)  
-Kainos (Pty) Ltd
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=69144377)  
+Printo
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=84074154)  
-AMS Ambu Medical Supplies
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=166954291)  
+All Trucking Solutions
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=170070139)  
-MONSTER CONNECT (PTY) LTD
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=9503261)  
+Alliance Energy
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=3551706)  
-TechnoDezi PTY(LTD)
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=188779734)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=43761823)  
-Blue Bulls Rugby Coaches Association
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=187076927)  
+Know Informatics
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=96661889)  
-NEW BEGINNINGS DESIGNS
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=56808881)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=36021824)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=110599884)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=62678337)  
-Qothiphango Mining
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=212729095)  
+Brilliant Roof Products
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=29533508)  
-Import Maaw
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=110454267)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=93512415)  
-Tagline Brands
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=166496354)  
+Henry's Home Renovations
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=add553beed7c6bce635de37edb278ce1ee08915bc5aae82606166cfc82666649&c=69633225)  
-Van Der Merwe Olieverspreiders
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=31adceba417531c4aab13ba3eb1d2c44d39a85619dc5b48cd43b4e3754af8ffa&c=164953838)  
+SR Travel Services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
