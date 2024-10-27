@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,8 @@
 
 Сейчас читают
 
+* [Салат со свёклой, тыквой, солёными огурцами и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174486)
+* [Куриное суфле с рисом](https://www.russianfood.com/recipes/recipe.php?rid=170718)
 * [Плов с курицей, айвой и черносливом](https://www.russianfood.com/recipes/recipe.php?rid=172232)
 
 |     |
@@ -379,7 +381,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174428#comments) | 24.10.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174428#comments) | 24.10.24 |     |
 
 |     |
 | --- |
@@ -452,8 +454,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) |
-| [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) |
+| [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(86)
+(163)
