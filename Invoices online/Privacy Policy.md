@@ -117,58 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Terri Winfield
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=113785104)  
-OXYAIDER (PTY) LTD
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=211207394)  
+Firstweb Hosting & Design
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=61761529)  
-Three Moons Emporium
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=12770820)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=20872611)  
-Cooper Logistics (Pty) Ltd
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=158312275)  
+Westside Car Audio CC
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=46771323)  
-IYD
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=60438293)  
+OrgChart Hosting Pty Ltd
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=20489745)  
-National Elite Security Services (PTY) LTD
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=142115232)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=131613155)  
-Forgotten Goods (Pty) Ltd
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=31159263)  
+NIMAWELL
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=76884506)  
-Glass and Allied Industries
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=74972942)  
+Imhoff Equestrian Centre
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=110859055)  
-Tracknetics
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=158880956)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=194592166)  
-UniTech Solutions Pty Ltd
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=176881987)  
+Desygn
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=14241655)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=103934350)  
+Turnkey Innovations
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=109053410)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=153559096)  
+MR Compressors& Industrial Supplies
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=44822152)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=172519341)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=22395347)  
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=62594721)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=50162219)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=182940695)  
+Creative Characters
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=7ce46ddad4063dae6782c47fd4226ae1586766a69f1c5b72a121c87fddc041c4&c=156995858)  
-MONSTER SECURITY SERVICES
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=84769261)  
+WIP Digital Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
