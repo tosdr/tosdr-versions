@@ -165,59 +165,173 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Evidence from the Earth Sciences
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/things-we-ought-do)
+[![](/i/Main%20Stage%20-%201400x1050/Coronavirus_Climate_Urgent_1400x1050.jpg)](https://www.icr.org/article/coronavirus-makes-climate-action-more-urgent)
 
-[Things We Ought to Do](https://www.icr.org/article/things-we-ought-do/)
+[Coronavirus Makes Climate Action More Urgent?](https://www.icr.org/article/coronavirus-makes-climate-action-more-urgent/)
 
-“Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of...
+Early this week, the websites Phys.org and TheConversation.com published an editorial by John Hewson, former federal leader of the Australian Liberal Party,...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/making-life-count)
+[![](/i/wide/antarctica_rising_wide.jpg)](https://www.icr.org/article/antarctica-rising-uplift-rate-suppresses)
 
-[Making Life Count](https://www.icr.org/article/making-life-count/)
+[Antarctica Rising: Uplift Rate Suppresses Conventional .,.](https://www.icr.org/article/antarctica-rising-uplift-rate-suppresses/)
 
-“Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.” (Ecclesiastes 1:2) Solomon wrote Ecclesiastes through...
+Land is not supposed to rise this fast. Generations of geologists have been trained to think in terms of slow and steady processes to explain Earth...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/remarkable-psalms)
+[![](/i/Main%20Stage%20-%201400x1050/Great_American_Outdoors_Act_1400x1050.jpg)](https://www.icr.org/article/great-american-outdoors-act-signed-law-president)
 
-[The Remarkable Psalms](https://www.icr.org/article/remarkable-psalms/)
+[Great American Outdoors Act, Signed into Law by President](https://www.icr.org/article/great-american-outdoors-act-signed-law-president/)
 
-“And we declare unto you glad tidings, how that the promise which was made unto the fathers, God hath fulfilled the same unto us their children,...
+In a bipartisan legislative achievement to promote better stewardship of American public lands, U.S. Senators and Representatives finalized their bill...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Earth Sciences Resources
+
+[![](/i/Main%20Stage%20-%201400x1050/Canyon_Greenland_1400x1050.jpg)](https://www.icr.org/article/grand-canyon-of-greenland-formed-by-genesis-flood)
+
+[’Grand Canyon’ of Greenland Formed by Genes.,.](https://www.icr.org/article/grand-canyon-of-greenland-formed-by-genesis-flood/)
+
+A massive canyon rivalling Grand Canyon has been discovered beneath the ice on Greenland, and uniformitarian scientists are explaining it as a consequence...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Earthquake_Jolts_Idaho_1400x1050.jpg)](https://www.icr.org/article/earthquake-jolts-idaho)
+
+[Earthquake Jolts Idaho](https://www.icr.org/article/earthquake-jolts-idaho/)
+
+March went out with a jolt in central Idaho. March 31 saw a magnitude 6.5 earthquake strike about 45 miles west of the town of Challis at about 6:52 pm...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Plates_Wobble_1400x1050.jpg)](https://www.icr.org/article/plates-wobble-before-big-quakes)
+
+[Plates Wobble Before Big Quakes](https://www.icr.org/article/plates-wobble-before-big-quakes/)
+
+A new study published in Nature has found that tectonic plates may change directions rapidly, or “wobble,” several months before a massive...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More Human Stewardship
+
+[![](/i/Main%20Stage%20-%201400x1050/Lawn_Care_1400x1050.jpg)](https://www.icr.org/article/lawn-care-is-essential-grasses-glorify-god)
+
+[Lawn Care Is Essential: Grasses Glorify God](https://www.icr.org/article/lawn-care-is-essential-grasses-glorify-god/)
+
+As America reacts to the coronavirus pandemic, some societal enterprises have been categorized as “essential” while others have been categorized...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/Main%20Stage%20-%201400x1050/Gospel_Covid_1400x1050.jpg)](https://www.icr.org/article/the-gospel-and-covid-19)
+
+[The Gospel and COVID-19](https://www.icr.org/article/the-gospel-and-covid-19/)
+
+It is obvious that life in America, and most parts of the world, has drastically changed in the last few months due to the novel coronavirus. Whether we...
+
+BY: [IVANA SEMIDEY](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=235)
+
+[![](/i/Main%20Stage%20-%201400x1050/Estonia_Blues_1400x1050.jpg)](https://www.icr.org/article/estonia-greens-singing-the-blues)
+
+[Estonia’s Greens Singing the Blues](https://www.icr.org/article/estonia-greens-singing-the-blues/)
+
+Estonia’s peaceful outbreak from the former Soviet Union is famously known as the “Singing Revolution”1—but its Green...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Commerce
+
+[![](/i/Main%20Stage%20-%201400x1050/Crisis_Renewed_Purpose_1400x1050.jpg)](https://www.icr.org/article/adjusting-to-crisis-with-renewed-purpose)
+
+[Adjusting to Crisis with Renewed Purpose](https://www.icr.org/article/adjusting-to-crisis-with-renewed-purpose/)
+
+As the global economy struggles with the effects of the coronavirus, businesses have been forced to change their business models out of necessity. On...
+
+BY: [TREY BOWLING](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=237)
+
+[![](/i/Main%20Stage%20-%201400x1050/Whale_Ship_1400x1050.jpg)](https://www.icr.org/article/whale-ship-collisions-in-chesapeake-bay)
+
+[Whale and Ship Collisions in Chesapeake Bay](https://www.icr.org/article/whale-ship-collisions-in-chesapeake-bay/)
+
+A recent study, published in Frontiers in Marine Science, reports on the recurring problem of humpback whales colliding with large estuary-trafficking...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/Main%20Stage%20-%201400x1050/Grandmothers_Eat_Fish_1400x1050.jpg)](https://www.icr.org/article/grandmothers-eat-fish-to-protect-your-brains)
+
+[Grandmothers, Eat Fish to Protect Your Brains!](https://www.icr.org/article/grandmothers-eat-fish-to-protect-your-brains/)
+
+This month the American Academy of Neurology published a medical science study showing that senior women can fight air pollution hazards, including brain...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/saltysweat_1400x1050.jpg)](https://www.icr.org/article/salty-sweat-desert-plant)
+
+[Salty Sweat in a Desert Plant](https://www.icr.org/article/salty-sweat-desert-plant/)
+
+Although plants aren’t alive in the biblical sense,1 they are most certainly complex in their physiology and anatomy.2,3...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/butterfliesremember_1400x1050.jpg)](https://www.icr.org/article/butterflies-remember)
+
+[Butterflies Can Remember](https://www.icr.org/article/butterflies-remember/)
+
+Gone are the days when many people (biologists included) saw insects as simple creatures that did little more than reproduce, eat, and grow—with...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
+
+[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
+
+Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59496549/file.jpg)
 
-$
+Carved in Stone DVD](https://store.icr.org/carved-in-stone-dvd.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+$21.99
 
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11930827/file.jpg)
 
-$16.99
+Pack: Big Plans for Henry](https://store.icr.org/pack-big-plans-for-henry.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
+$15.99
 
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
+$21.98
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9058527/file.jpg)
+
+Big Plans for Henry](https://store.icr.org/big-plans-for-henry.html)
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8267153/file.jpg)
+
+The Truth of the Genesis Flood - Download](https://store.icr.org/the-truth-of-the-genesis-flood-download.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56200791/file.jpg)
+
+Carved in Stone eBook](https://store.icr.org/carved-in-stone-ebook.html)
 
 $19.99
 
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
-
-$16.99
+$39.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
