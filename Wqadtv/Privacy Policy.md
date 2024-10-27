@@ -30,18 +30,14 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fb13da88-f741-4b70-a011-bf2b6c4489cd/20241027T194245/fb13da88-f741-4b70-a011-bf2b6c4489cd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fb13da88-f741-4b70-a011-bf2b6c4489cd/20241027T194245/fb13da88-f741-4b70-a011-bf2b6c4489cd_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
+        
+        #### [Sterling police asking for the public's help in locating missing teen](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
         
-        #### [Rock Island Alderman Kevin Maynard to resign](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000) [![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
-        
         #### [Kevin Maynard to resign as Rock Island Third Ward alderman](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
         
-        #### [Elementary school students in Milan enjoy 'Fine Arts Day'](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c) [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
-        
-        #### [Thomas Jefferson Elementary School students learn about the arts during 'Fine Arts Day'](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c) [![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c9ef70c2-e058-485d-bc4e-ef369091400f/20241025T231442/c9ef70c2-e058-485d-bc4e-ef369091400f_360x203.jpg)](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
-        
-        #### ['Fine Arts Day' brings music and more to Milan elementary students](https://www.wqad.com/article/news/local/milan-elementary-fine-arts-day/526-10a4f540-2fc5-478a-9070-89a979e9318c)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -62,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Big warm up and wind ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Warm and windy days to start the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
         
@@ -90,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-54°
+59°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
