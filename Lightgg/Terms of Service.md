@@ -65,7 +65,7 @@ _Destiny 2 & all related media © Bungie_
 
 [Terms](https://www.light.gg/terms/) / [Privacy](https://www.light.gg/privacy/)
 
-© 2024 - light.gg v2.2.9064.24415 (Node: MARS)
+© 2024 - light.gg v2.2.9064.24415 (Node: SATURN)
 
 **Follow us:**
 
