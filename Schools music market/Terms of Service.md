@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/note-value-scavenger-hunt/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-jazz-music/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/rhythm-syllables-minamilist-boho-series-display-poster/)
+ [](https://schoolsmusicmarket.com/product/musical-instruments-look-tick-worksheet/)
 
 ###### Browse By Year/Grade
 
