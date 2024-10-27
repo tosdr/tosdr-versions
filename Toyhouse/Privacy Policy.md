@@ -69,7 +69,7 @@ Toyhouse may revise these terms of use for its web site at any time without noti
 * We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 * You may request your account to be closed and data to be expunged from our server at any time by [filing a ticket via the HelpDesk](https://toyhou.se/~tickets/create).
 
-3557 Users Online 3:02 pm © cyancrows 2017
+3117 Users Online 9:05 pm © cyancrows 2017
 
 [About](https://toyhou.se/~about) [FAQ](https://toyhou.se/~faq/general) [Rules](https://toyhou.se/~rules) [TOS](https://toyhou.se/~tos)
 
