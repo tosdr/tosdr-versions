@@ -14,39 +14,88 @@ Force Open Search
 
 Open main menu
 
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Egypt - Abu Simbel](https://img.atlasobscura.com/zmL_8N1QLi_bg4azbHqED4RVtZOZrf_l2Nzm9hkOaV8/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9lOWVl/Mjg5Yy1jY2I4LTRm/ZjgtOTgxYy1kNmM3/ZWNhNTI0N2YyYjg3/MWUxYWQwYWZmYTk5/MDdfRWd5cHQgMSAt/IEFidSBTaW1iZWwu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/egypt)
+
+Egypt • 11 days, 10 nights
+
+[Treasures of Egypt: Hidden Tombs, Ancient Pyramids & Old Cairo](https://www.atlasobscura.com/adventures/trips/egypt)
+
+from
+
+   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+Iceland • 8 days, 7 nights
+
+[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
+Loading...
+
 Loading...
 
 Loading...
 
-Upcoming Courses
+Latest Places to Eat & Drink
 
-[View All Courses »](https://www.atlasobscura.com/online-courses)
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
 
-   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
+   [![](https://img.atlasobscura.com/jaDz2TbGvVoE1mN7zXoqJ5nmmwFfhZ5bztztb3ItHq0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNTdh/NDUwNy01NmRiLTQx/YzgtOWU0Mi02M2Zj/MmFlMzIxNzJjMDQz/NDBjYWQ5ZmJmYzlk/YThfYm95YXJkZWUy/LmpwZw.jpg)
 
-Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
+Chef Boyardee Statue](https://www.atlasobscura.com/places/chef-boyardee-statue)
 
-   [![John Dee Performing an Experiment before Elizabeth I](https://img.atlasobscura.com/sO0W457JMI6a0XrGwH2wbbC4Y5m1vIrbkmgGMqQqKc8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZjk1/ZTdlZS03NTFkLTQ2/MDYtOTJkNi1kNGI3/OWJkMTQ0YjYyZmM1/YjA1MTU3YzE5Zjdh/M2NfSm9obiBEZWUg/UGVyZm9ybWluZyBh/biBFeHBlcmltZW50/IGJlZm9yZSBFbGl6/YWJldGggSSBIZW5y/eSBHaWxsYXJkIEds/aW5kb25pICgxODUy/LTE5MTMpLCBQdWJs/aWMgRG9tYWluIHZp/YSBXaWtpbWVkaWEg/Q29tbW9ucy5qcGc.jpg)
+   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
 
-Poems from the Deep: An Introduction to Scrying With Eliza Swann](https://www.atlasobscura.com/experiences/intro-to-scrying-online-course)
+Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
 
-   [![](https://img.atlasobscura.com/ZjsOHnkkEFvBd7N21h6ekpTRB_ovOqotTpnIOKsnpQg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yODY1/OTMzMy02NDNkLTQ4/ODItYTQwZS00ZTIy/OTg1OWFmZTExNDgz/MjQ1M2IzYzBhM2Zl/NjhfUGljdHVyZWQt/IFJhY2hlbCBJLiBC/ZXJtYW4gYXMgQWxp/Y2UgaW4gVEhFTiBT/SEUgRkVMTCBieSBU/aGlyZCBSYWlsIFBy/b2plY3RzLCBDby1B/cnRpc3RpYyBEaXJl/Y3RvcnMgWmFjaCBN/b3JyaXMsIFRvbSBQ/ZWFyc29uLCBhbmQg/SmVubmluZSBXaWxs/ZXR0ICBQaG90byBi/eSBEYXJpYWwgU25l/ZWQuanBlZw.jpg)
+   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
 
-Designing Immersive Gatherings With Zach Morris of Third Rail Projects](https://www.atlasobscura.com/experiences/immersive-gatherings-course)
+Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
 
-   [![](https://img.atlasobscura.com/h4igLegodufwLGE-1D3Up_c34h5XU0p1JiqZj924kmQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81Y2Rh/OTJmZS05OGU3LTRl/YmItYmNhMS01OGE4/YWQxNGNmYWU5YzQ3/N2Y1NmZjNjAyMjFl/YTZfc3RlcGhhbi13/aWR1YS0zWUFJdkJO/bFpNNC11bnNwbGFz/aC5qcGc.jpg)
+   [![With fat chunks of crab meat swimming in a lush coconut milk curry, it's no wonder this dish is so popular.](https://img.atlasobscura.com/l8puxatAy37DyemvB5yemqnL0De5nEIeo6ztO19a5C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZTA2/M2Y2MS1hYzUzLTRi/ZDYtYjIzMC04Y2U0/ODk0MjE5NjAyYmFk/MDVmNDE2MjgwNTNj/NzZfMjAyMSBDcmFi/IEN1cnJ5IFNlcnZl/ZCBvdmVyIFRoaW4g/UmljZSBOb29kbGVz/IFBodWtldCBUaGFp/bGFuZC03NzQ4Lmpw/Zw.jpg)
 
-Cosmic Life: Astrobiology & the Search for Extraterrestrial Life With Dr. Graham Lau](https://www.atlasobscura.com/experiences/astrobiology-course)
+Raya](https://www.atlasobscura.com/places/raya)
 
-   [![](https://img.atlasobscura.com/y9x6Tvc0fCC7F24WyLB5oKxbvXB-JOGRaLMLhNgBIRU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hZmZl/N2M4Yi0yMTkwLTQw/MDgtOGIwYy01YjJh/ZjM1MzA3ZTc0Y2Zk/YzE4NmNiNjA0NzYw/ZDhfRDkzNTExQzQt/MTI4Ni00Mjc0LUI5/NkQtOUNGNDAzMERC/NUMyLmpwZw.jpg)
+   [![Meet boba tea's ancestral cousin.](https://img.atlasobscura.com/CwjPub0FbmraLphLV-Is6aMl2Zw2H7rlTjMxM0pvDMs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZDZi/NGEzNDNhNWFiNzZh/ZGRfMjAyMCBSZWFs/IFNhZ28gUGVhcmxz/IERyZXNzZWQgd2l0/aCBDb2NvbnV0IE1p/bGsgS2h1YW4gS2hh/bnVuIFBoYXR0aGFs/dW5nIFRoYWlsYW5k/LTU2MjcuanBn.jpg)
 
-Nature’s Palette: Foraging Natural Pigments With Hayley Dayis & Alexander Fals](https://www.atlasobscura.com/experiences/foraged-pigments-course)
+Kanomwaan Pakee](https://www.atlasobscura.com/places/kanomwaan-pakee)
 
-Loading...
+Recent Stories
 
-Loading...
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
 
-Loading...
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![From post offices and grocery stores to margarita bars and town halls, ghosts can turn up in the most ordinary places.](https://img.atlasobscura.com/MongqvI2_lMcSIyOtRZBcVvc14yGiIHHnvO_ScSS7iI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lNGJjMmZjZGY4/ZTM2N2IzMzdfR2V0/dHlJbWFnZXMtNTQ1/OTk2OTI2LmpwZw.jpg)
+
+7 Stories of Ghosts in Weird Places](https://www.atlasobscura.com/articles/ghosts-in-weird-places)
+
+   [![With chattering squirrels, chirping birds, and often lush vegetation, cemeteries are full of life—including multiple lichen species.](https://img.atlasobscura.com/hJkMAmQ01X6d6uroklEhsMnERR4VuX55pWKwHyYN1Sk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wOTE0YzllMDdh/ZDViZWMwMjNfQ29w/eSBvZiBJTUdfNTgx/NS5qcGc.jpg)
+
+A Cemetery's Immortal Residents and the Scientist Who Studies Them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
+
+   [![An award-winning bronze sculpture featured in the Beaufort County Library depicts a Gullah woman carrying a sweetgrass basket full of vegetables.](https://img.atlasobscura.com/ksXBvnpRdomzN87CyovbStaXjffQo-5KQZCcrOdtUXE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80M2NlMWYxMjAy/MzU3YzVmNDRfaW1h/Z2U0LmpwZw.jpg)
+
+The Unique Gullah Geechee History of South Carolina](https://www.atlasobscura.com/articles/the-unique-gullah-geechee-history-of-south-carolina)
+
+   [![In Mexico, today's teyollohcuani is a terrifying, shape-shifting, vampire-like witch, but the figure has deep precolonial roots and a complex evolution.](https://img.atlasobscura.com/F0Nvsd3gGk7aeRar_BOemCEF5TR-y2maGpxRp2iE_uQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lYmQ1YmQ1Y2Rm/ZGJkNGZiNjdfdGxh/eW9fc3ByZWFkX2hp/LmpwZw.jpg)
+
+Mexico's Vampire Witch Has a Twisted Origin Story](https://www.atlasobscura.com/articles/teyollohcuani-mexican-vampire-witch)
 
 No search results found for  
 “”
