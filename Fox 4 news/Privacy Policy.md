@@ -402,6 +402,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/seth-altman.jpg?ve=1&tl=1)
+
+ ![Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/seth-altman.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/blue-alert-arrest-sam-altman-fort-worth)
+
+### [Fort Worth security guard called police after recognizing fugitive from Blue Alert](https://www.fox4news.com/news/blue-alert-arrest-sam-altman-fort-worth)
+
+ [![Bedford house fire sends 2 to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102624-cb-bedford-wade-dr-house-fire-full-raw_kdfw_00.02.20.38.jpg?ve=1&tl=1)
+
+ ![Bedford house fire sends 2 to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102624-cb-bedford-wade-dr-house-fire-full-raw_kdfw_00.02.20.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bedford-house-fire-wade-drive)
+
+### [Bedford house fire sends 2 to hospital](https://www.fox4news.com/news/bedford-house-fire-wade-drive)
+
+ [![Dallas County extends early voting hours](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/GettyImages-1438195072.jpg?ve=1&tl=1)
+
+ ![Dallas County extends early voting hours](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/11/32/18/592/333/GettyImages-1438195072.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/dallas-county-early-voting-hours-extended)
+
+### [Dallas County extends early voting hours](https://www.fox4news.com/election/dallas-county-early-voting-hours-extended)
+
  [![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/GettyImages-1863760125.jpg?ve=1&tl=1)
 
  ![Dallas Cowboys running back Dalvin Cook elevated to active roster](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/08/32/18/592/333/GettyImages-1863760125.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-dalvin-cook-active-roster)
@@ -414,23 +432,13 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Famous Alaska volcano sees seismic unrest after more than 30-year slumber](https://www.fox4news.com/news/famous-alaska-volcano-sees-seismic-unrest-after-more-than-30-year-slumber)
 
- [![Menendez brothers lead prison reform with Norway-inspired project](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-539886710.jpg?ve=1&tl=1)
+[![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
- ![Menendez brothers lead prison reform with Norway-inspired project](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-539886710.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-prison-reform)
+DOWNLOAD THE FOX LOCAL APP
 
-### [Menendez brothers lead prison reform with Norway-inspired project](https://www.fox4news.com/news/menendez-brothers-prison-reform)
+[How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://www.fox4news.com/news/how-to-download-fox-local)
 
- [![NASA astronaut released from hospital after 'medical issue' during splashdown](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2180065323-scaled.jpg?ve=1&tl=1)
-
- ![NASA astronaut released from hospital after 'medical issue' during splashdown](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2180065323-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-astronaut-space-x-dragon-hospital-update)
-
-### [NASA astronaut released from hospital after 'medical issue' during splashdown](https://www.fox4news.com/news/nasa-astronaut-space-x-dragon-hospital-update)
-
- [![Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-956699758.jpg?ve=1&tl=1)
-
- ![Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-956699758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/san-antonio-texas-man-punches-election-worker-remove-trump-hat)
-
-### [Texas man punched an election worker who told him to remove Trump hat at voting site, police say](https://www.fox4news.com/news/san-antonio-texas-man-punches-election-worker-remove-trump-hat)
+[The FOX LOCAL app is your source for live FOX 4 news, top stories, Dallas-Fort Worth weather updates, and more local and national coverage, plus 24/7 streaming coverage from across the nation. Here’s how to download.](https://www.fox4news.com/news/how-to-download-fox-local)
 
 ###### [News](https://www.fox4news.com/news)
 
