@@ -389,13 +389,13 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [The Report](https://www.classcentral.com/report/)
 
-[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcalifornia-community-colleges-fall-2024%2Fcollection-california-community-college-online-courses%2F?auto=format&ixlib=php-4.1.0&s=9b5fc403d58ab554e2b91b1744715829)](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
+[![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-economics%2Fcoursera-economics-2%2F?auto=format&ixlib=php-4.1.0&s=f592f4d813d7d21812c1988e633edeee)](https://www.classcentral.com/report/cousera-layoffs-2024/)
 
-#### [3000+ Online Courses from California Community Colleges (Fall 2024)](https://www.classcentral.com/report/california-community-colleges-fall-2024/)
+#### [Coursera Announces Layoffs, Stock Plunges Despite $100M Milestone](https://www.classcentral.com/report/cousera-layoffs-2024/)
 
-Class Central experiments with cataloging online courses from California Community Colleges, offering diverse, affordable, and credit-worthy learning opportunities.
+Two years after its first major layoff round, Coursera announces another, impacting 10% of its workforce.
 
-[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Sep 19, 2024
+[Dhawal Shah](https://www.classcentral.com/report/author/dhawal/) Oct 25, 2024
 
 ##### Latest
 
@@ -416,23 +416,23 @@ Most common
 
 1. digital marketing
     
-2. psychology
+2. law
     
-3. computer science
+3. harvard
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Marketing
     
-    12,373 courses](https://www.classcentral.com/subject/ai)
-2. [Marketing
+    7,854 courses](https://www.classcentral.com/subject/marketing)
+2. [Web Development
     
-    7,811 courses](https://www.classcentral.com/subject/marketing)
-3. [Cybersecurity
+    13,306 courses](https://www.classcentral.com/subject/web-development)
+3. [Artificial Intelligence
     
-    16,090 courses](https://www.classcentral.com/subject/cybersecurity)
+    12,418 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
@@ -443,9 +443,9 @@ Popular courses
 2. [Comprendere la filosofia
     
     University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
-3. [Extreme Geological Events
+3. [Mountains 101
     
-    Cardiff University](https://www.classcentral.com/course/extreme-geological-events-13558)
+    University of Alberta](https://www.classcentral.com/course/mountains-101-7455)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
