@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
+[Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+
+  [![Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430209.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ")](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
-
-[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
-
-  [![Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430069.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.")](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
 Editors' Picks
 --------------
@@ -176,6 +176,12 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
 
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
+[Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+
+  [![Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/26/430209.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Los Angeles Dodgers first baseman Freddie Freeman celebrates after hitting a grand slam home run in the 10th inning against the New York Yankees during game one of the 2024 MLB World Series at Dodger Stadium in Los Angeles on Friday. ")](https://www.japantimes.co.jp/sports/2024/10/26/baseball/mlb/dodgers-yankees-world-series-game-one/ "Dodgers' deja vu: Freddie Freeman mimics Kirk Gibson's homer heroics in Game 1 win")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 ['Dark lists' shed light on how Japan's robbers narrow down targets](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
@@ -183,14 +189,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
   [![A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429845.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A police officer stands guard on Oct. 16 near a home in Yokohama where an elderly man was found dead in a robbery-murder case.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/dark-list-robberies/ "'Dark lists' shed light on how Japan's robbers narrow down targets")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430069.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Investors already rattled by economic and monetary policy uncertainty are carefully watching Sunday's election.")](https://www.japantimes.co.jp/business/2024/10/25/economy/majority-loss-stocks/ "Tokyo stocks could 'plunge' if ruling coalition loses majority in Sunday vote")
 
 Podcast
 -------
@@ -253,15 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[The man who shaped China’s strongman rule has a new job: winning Taiwan](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/politics/china-wang-huning/ "The man who shaped China’s strongman rule has a new job: winning Taiwan")
+[The Obamas stump for Harris, key allies in final days of campaign](https://www.japantimes.co.jp/news/2024/10/27/world/politics/obamas-stump-for-harris/ "The Obamas stump for Harris, key allies in final days of campaign")
 
-[NATO invites Japan, three others to ambassador-level meeting on North Korea](https://www.japantimes.co.jp/news/2024/10/26/japan/politics/japan-nato-north-korea-russia/ "NATO invites Japan, three others to ambassador-level meeting on North Korea")
+1 hours ago
 
-[As U.S. election looms, Biden aides struggle with Middle East wars](https://www.japantimes.co.jp/news/2024/10/26/world/politics/us-middle-east-wars-election/ "As U.S. election looms, Biden aides struggle with Middle East wars")
+[Commonwealth agrees 'time has come' for talks on legacy of slavery](https://www.japantimes.co.jp/news/2024/10/27/world/society/commonwealth-slavery-talks/ "Commonwealth agrees 'time has come' for talks on legacy of slavery")
 
-[In Guatemala, families mourn the migrants who never reached the U.S.](https://www.japantimes.co.jp/news/2024/10/26/world/society/guatemala-family-mourn-us-crossing/ "In Guatemala, families mourn the migrants who never reached the U.S.")
+3 hours ago
 
-[U.S. missile agency scales back Guam defense plans](https://www.japantimes.co.jp/news/2024/10/26/asia-pacific/us-missile-agency-guam-defense/ "U.S. missile agency scales back Guam defense plans")
+[China tightens its hold on minerals needed to make computer chips](https://www.japantimes.co.jp/business/2024/10/27/tech/china-rare-earths-grip/ "China tightens its hold on minerals needed to make computer chips")
+
+3 hours ago
+
+[Is Kamala Harris’ race or gender affecting her support? ‘It’s very complicated.’](https://www.japantimes.co.jp/news/2024/10/27/world/politics/harris-race-gender-support/ "Is Kamala Harris’ race or gender affecting her support? ‘It’s very complicated.’")
+
+3 hours ago
+
+[Israel’s limited attack on Iran may help spur regional deal](https://www.japantimes.co.jp/news/2024/10/27/world/israel-limited-attack-iran-deal/ "Israel’s limited attack on Iran may help spur regional deal")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
