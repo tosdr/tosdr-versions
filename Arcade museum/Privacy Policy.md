@@ -49,6 +49,7 @@ International Arcade Museum® — Killer List of Videogames®
     * [PDF: Coin Slot](https://elibrary.arcade-museum.com/Coin-Slot)
     * [PDF: La Revue de L'Automatique](https://elibrary.arcade-museum.com/La-Revue-de-L-Automatique)
     * [PDF: Marketplace](https://elibrary.arcade-museum.com/Marketplace)
+    * [PDF: Mechanical Memories Magazine](https://elibrary.arcade-museum.com/Mechanical-Memories-Magazine)
     * [PDF: Music Trade Review](https://elibrary.arcade-museum.com/Music-Trade-Review)
     * [PDF: Presto](https://elibrary.arcade-museum.com/Presto)
     * [PDF: Tips and Topics (Jennings)](https://elibrary.arcade-museum.com/Tips-and-Topics)
