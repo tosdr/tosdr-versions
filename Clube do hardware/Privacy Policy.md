@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![ArthurBonitex](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ab%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255035-arthurbonitex/ "Ir ao perfil de ArthurBonitex")
+    * [![kaua.stxx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252991.thumb.jpeg.54cbfc05eb30e4ad05d60e2034c60d4b.jpeg)](https://www.clubedohardware.com.br/profile/1252991-kauastxx/ "Ir ao perfil de kaua.stxx")
         
         0
         
-        [Gravação de tela 1080p com imagem borrada ou pixelada](https://www.clubedohardware.com.br/forums/topic/1700701-grava%C3%A7%C3%A3o-de-tela-1080p-com-imagem-borrada-ou-pixelada/?do=getNewComment "Gravação de tela 1080p com imagem borrada ou pixelada")
+        [qual a melhor fonte dessas duas?](https://www.clubedohardware.com.br/forums/topic/1700715-qual-a-melhor-fonte-dessas-duas/?do=getNewComment "qual a melhor fonte dessas duas?")
         
-        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
-        Por [ArthurBonitex](https://www.clubedohardware.com.br/profile/1255035-arthurbonitex/ "Ir ao perfil de ArthurBonitex")  
-        19 minutos atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [kaua.stxx](https://www.clubedohardware.com.br/profile/1252991-kauastxx/ "Ir ao perfil de kaua.stxx")  
+        18 minutos atrás
         
-    * [![Guilherme82_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46e62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/977200-guilherme82_/ "Ir ao perfil de Guilherme82_")
-        
-        0
-        
-        [Módulo B Buster bb-3000gl entrando em proteção](https://www.clubedohardware.com.br/forums/topic/1700700-m%C3%B3dulo-b-buster-bb-3000gl-entrando-em-prote%C3%A7%C3%A3o/?do=getNewComment "Módulo B Buster bb-3000gl entrando em proteção")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Guilherme82\_](https://www.clubedohardware.com.br/profile/977200-guilherme82_/ "Ir ao perfil de Guilherme82_")  
-        20 minutos atrás
-        
-    * [![Silvazx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254269.thumb.jpeg.5d11fa5ea8363d2c600937d37adb14d5.jpeg)](https://www.clubedohardware.com.br/profile/1254269-silvazx/ "Ir ao perfil de Silvazx")
+    * [![Haridade_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251966.thumb.jpeg.f1b57898c3a5cec426fb41311295fb74.jpeg)](https://www.clubedohardware.com.br/profile/1251966-haridade_/ "Ir ao perfil de Haridade_")
         
         0
         
-        [Qual Desses Processadores é melhor Para Jogos com uma Rx 7600?](https://www.clubedohardware.com.br/forums/topic/1700699-qual-desses-processadores-%C3%A9-melhor-para-jogos-com-uma-rx-7600/?do=getNewComment "Qual Desses Processadores é melhor Para Jogos com uma Rx 7600?")
+        [Pc Congelando do nada](https://www.clubedohardware.com.br/forums/topic/1700714-pc-congelando-do-nada/?do=getNewComment "Pc Congelando do nada")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Silvazx](https://www.clubedohardware.com.br/profile/1254269-silvazx/ "Ir ao perfil de Silvazx")  
-        30 minutos atrás
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [Haridade\_](https://www.clubedohardware.com.br/profile/1251966-haridade_/ "Ir ao perfil de Haridade_")  
+        31 minutos atrás
         
-    * [![felippefgd](https://www.clubedohardware.com.br/uploads/members/monthly_2018_06/5b2c951316297_FGDLogo12.thumb.jpg.8edf8ea00118c938f18dba6ba9b19088.jpg)](https://www.clubedohardware.com.br/profile/479529-felippefgd/ "Ir ao perfil de felippefgd")
+    * [![Mj14](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255101.thumb.jpeg.f08dc2c0fd5c57a94a6d562d31a1e906.jpeg)](https://www.clubedohardware.com.br/profile/1255101-mj14/ "Ir ao perfil de Mj14")
         
         0
         
-        [HD externo e extensão na tv LG](https://www.clubedohardware.com.br/forums/topic/1700698-hd-externo-e-extens%C3%A3o-na-tv-lg/?do=getNewComment "HD externo e extensão na tv LG")
+        [Celular não entra no modo recovery enquanto está em loop infinito.](https://www.clubedohardware.com.br/forums/topic/1700713-celular-n%C3%A3o-entra-no-modo-recovery-enquanto-est%C3%A1-em-loop-infinito/?do=getNewComment "Celular não entra no modo recovery enquanto está em loop infinito.")
         
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [felippefgd](https://www.clubedohardware.com.br/profile/479529-felippefgd/ "Ir ao perfil de felippefgd")  
-        36 minutos atrás
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [Mj14](https://www.clubedohardware.com.br/profile/1255101-mj14/ "Ir ao perfil de Mj14")  
+        35 minutos atrás
         
-    * [![iso](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252166.thumb.jpeg.51f26fce9958b2d8a0af2d08b5dc621a.jpeg)](https://www.clubedohardware.com.br/profile/1252166-iso/ "Ir ao perfil de iso")
+    * [![Antony.sa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255099.thumb.png.571e8141bb5514f0ac9a3d294b77f202.png)](https://www.clubedohardware.com.br/profile/1255099-antonysa/ "Ir ao perfil de Antony.sa")
         
-        2
+        0
         
-        [Devo pegar o Montech Air 1000?](https://www.clubedohardware.com.br/forums/topic/1700697-devo-pegar-o-montech-air-1000/?do=getNewComment "Devo pegar o Montech Air 1000?")
+        [Jumper em Teclado de Notebook](https://www.clubedohardware.com.br/forums/topic/1700712-jumper-em-teclado-de-notebook/?do=getNewComment "Jumper em Teclado de Notebook")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [iso](https://www.clubedohardware.com.br/profile/1252166-iso/ "Ir ao perfil de iso")  
-        55 minutos atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Antony.sa](https://www.clubedohardware.com.br/profile/1255099-antonysa/ "Ir ao perfil de Antony.sa")  
+        51 minutos atrás
         
-    * [![Wesley comin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242517.thumb.png.f391d5ac2ae72173e22697bc6374b9a9.png)](https://www.clubedohardware.com.br/profile/1242517-wesley-comin/ "Ir ao perfil de Wesley comin")
+    * [![Henriley Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254930.thumb.jpeg.7e1107e89258d17a91d07d0f72f2addc.jpeg)](https://www.clubedohardware.com.br/profile/1254930-henriley-nascimento/ "Ir ao perfil de Henriley Nascimento")
         
-        2
+        0
         
-        [O que posso melhorar no LGA 775? Core Quad Q9500 - 8GB - Radeon RX 550](https://www.clubedohardware.com.br/forums/topic/1700696-o-que-posso-melhorar-no-lga-775-core-quad-q9500-8gb-radeon-rx-550/?do=getNewComment "O que posso melhorar no LGA 775? Core Quad Q9500 - 8GB - Radeon RX 550")
+        [Au entrar a memória do All in on modelo C4500A da positivo](https://www.clubedohardware.com.br/forums/topic/1700711-au-entrar-a-mem%C3%B3ria-do-all-in-on-modelo-c4500a-da-positivo/?do=getNewComment "Au entrar a memória do All in on modelo C4500A da positivo")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Wesley comin](https://www.clubedohardware.com.br/profile/1242517-wesley-comin/ "Ir ao perfil de Wesley comin")  
-        1 hora atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Henriley Nascimento](https://www.clubedohardware.com.br/profile/1254930-henriley-nascimento/ "Ir ao perfil de Henriley Nascimento")  
+        52 minutos atrás
         
-    * [![guilherme ramalho 1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/d33baf905ca57e7b4723e17f29fb9c9e.thumb.jpg.cf026effce407fce2981feb8885252b6.jpg)](https://www.clubedohardware.com.br/profile/1198452-guilherme-ramalho-1/ "Ir ao perfil de guilherme ramalho 1")
+    * [![crisxsilvabr](https://www.clubedohardware.com.br/uploads/members/monthly_2023_09/imported-photo-1228614.thumb.png.91d8ea350b2bd809f4ca76347443d2fd.png)](https://www.clubedohardware.com.br/profile/1228614-crisxsilvabr/ "Ir ao perfil de crisxsilvabr")
+        
+        0
+        
+        [LED amarelo ao reiniciar o windows](https://www.clubedohardware.com.br/forums/topic/1700710-led-amarelo-ao-reiniciar-o-windows/?do=getNewComment "LED amarelo ao reiniciar o windows")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [crisxsilvabr](https://www.clubedohardware.com.br/profile/1228614-crisxsilvabr/ "Ir ao perfil de crisxsilvabr")  
+        2 horas atrás
+        
+    * [![jean_st](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1114911.thumb.png.fe823b3bbce7fa3c150af86185cfa14a.png)](https://www.clubedohardware.com.br/profile/1114911-jean_st/ "Ir ao perfil de jean_st")
+        
+        0
+        
+        [BIOS da placa-mãe DA320MXV V2 TPM](https://www.clubedohardware.com.br/forums/topic/1700709-bios-da-placa-m%C3%A3e-da320mxv-v2-tpm/?do=getNewComment "BIOS da placa-mãe DA320MXV V2 TPM")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [jean\_st](https://www.clubedohardware.com.br/profile/1114911-jean_st/ "Ir ao perfil de jean_st")  
+        2 horas atrás
+        
+    * [![Arthur MP](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251441.thumb.png.01c6167d879d192f754d88e03b038606.png)](https://www.clubedohardware.com.br/profile/1251441-arthur-mp/ "Ir ao perfil de Arthur MP")
+        
+        0
+        
+        [16GB de RAM mas apenas 5GB Disponível](https://www.clubedohardware.com.br/forums/topic/1700708-16gb-de-ram-mas-apenas-5gb-dispon%C3%ADvel/?do=getNewComment "16GB de RAM mas apenas 5GB Disponível")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Arthur MP](https://www.clubedohardware.com.br/profile/1251441-arthur-mp/ "Ir ao perfil de Arthur MP")  
+        2 horas atrás
+        
+    * [![Luan Evangelista](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/09_08_2021_16_00_27.thumb.jpg.10d325d0107fb776af61b58a69054cb7.jpg)](https://www.clubedohardware.com.br/profile/1022997-luan-evangelista/ "Ir ao perfil de Luan Evangelista")
+        
+        0
+        
+        [SSD M2 não aparece mais na BIOS após queda de energia](https://www.clubedohardware.com.br/forums/topic/1700707-ssd-m2-n%C3%A3o-aparece-mais-na-bios-ap%C3%B3s-queda-de-energia/?do=getNewComment "SSD M2 não aparece mais na BIOS após queda de energia")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [Luan Evangelista](https://www.clubedohardware.com.br/profile/1022997-luan-evangelista/ "Ir ao perfil de Luan Evangelista")  
+        2 horas atrás
+        
+    * [![Dc United](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255093.thumb.jpeg.721eb3371bc2903732f4f484f959f377.jpeg)](https://www.clubedohardware.com.br/profile/1255093-dc-united/ "Ir ao perfil de Dc United")
         
         1
         
-        [Vale mais a pena pegar um PS5 ou colocar uma GeForce RTX 4060 TI?](https://www.clubedohardware.com.br/forums/topic/1700695-vale-mais-a-pena-pegar-um-ps5-ou-colocar-uma-geforce-rtx-4060-ti/?do=getNewComment "Vale mais a pena pegar um PS5 ou colocar uma GeForce RTX 4060 TI?")
+        [B450M Gaming Gigabyte com Ryzen 3 3200g e vídeo integrado não deu imagem](https://www.clubedohardware.com.br/forums/topic/1700706-b450m-gaming-gigabyte-com-ryzen-3-3200g-e-v%C3%ADdeo-integrado-n%C3%A3o-deu-imagem/?do=getNewComment "B450M Gaming Gigabyte com Ryzen 3 3200g e vídeo integrado não deu imagem")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [guilherme ramalho 1](https://www.clubedohardware.com.br/profile/1198452-guilherme-ramalho-1/ "Ir ao perfil de guilherme ramalho 1")  
-        1 hora atrás
-        
-    * [![gpombotky](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254786.thumb.png.c85c47e2c9670ceb837c8fffb9d296ba.png)](https://www.clubedohardware.com.br/profile/1254786-gpombotky/ "Ir ao perfil de gpombotky")
-        
-        1
-        
-        [resolução muda ao selecionar nova taxa de atualização de quadros](https://www.clubedohardware.com.br/forums/topic/1700694-resolu%C3%A7%C3%A3o-muda-ao-selecionar-nova-taxa-de-atualiza%C3%A7%C3%A3o-de-quadros/?do=getNewComment "resolução muda ao selecionar nova taxa de atualização de quadros")
-        
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [gpombotky](https://www.clubedohardware.com.br/profile/1254786-gpombotky/ "Ir ao perfil de gpombotky")  
-        2 horas atrás
-        
-    * [![MarcolaCoelho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245437.thumb.jpeg.cb44a8b6a569ff7ed9080fdd65aae4c7.jpeg)](https://www.clubedohardware.com.br/profile/1245437-marcolacoelho/ "Ir ao perfil de MarcolaCoelho")
-        
-        6
-        
-        [Upgrade de PC com Biostar A320MH e Athlon 3000G. Trocar por uma B550M e 5600GT?](https://www.clubedohardware.com.br/forums/topic/1700693-upgrade-de-pc-com-biostar-a320mh-e-athlon-3000g-trocar-por-uma-b550m-e-5600gt/?do=getNewComment "Upgrade de PC com Biostar A320MH e Athlon 3000G. Trocar por uma B550M e 5600GT?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [MarcolaCoelho](https://www.clubedohardware.com.br/profile/1245437-marcolacoelho/ "Ir ao perfil de MarcolaCoelho")  
-        2 horas atrás
-        
-    * [![Luan Santos654](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252867.thumb.jpeg.b0483c0461b073314c65fbe9ffe8c585.jpeg)](https://www.clubedohardware.com.br/profile/1252867-luan-santos654/ "Ir ao perfil de Luan Santos654")
-        
-        1
-        
-        [PC reiniciando em jogo específico](https://www.clubedohardware.com.br/forums/topic/1700687-pc-reiniciando-em-jogo-espec%C3%ADfico/?do=getNewComment "PC reiniciando em jogo específico")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [Luan Santos654](https://www.clubedohardware.com.br/profile/1252867-luan-santos654/ "Ir ao perfil de Luan Santos654")  
-        2 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Dc United](https://www.clubedohardware.com.br/profile/1255093-dc-united/ "Ir ao perfil de Dc United")  
+        3 horas atrás
         
     
 
