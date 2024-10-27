@@ -29,13 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1717903318.png.pagespeed.ic.D0QllTPRc1.png)
+[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
 
-KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!") [HappySMP](https://minecraft-server.net/details/CrystalisPrison/ "HappySMP")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1729783073.png.pagespeed.ic.D7i0NAUJb4.png)
+Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
 
-HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1727110924.png.pagespeed.ic.csO5XeMY1u.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy") [BuildixMC](https://minecraft-server.net/details/Buildix/ "BuildixMC")
+ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1728912090.png.pagespeed.ic.UcJ73NYFvJ.png)
+
+HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -121,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06396 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06677 - Created by [Debaucus](https://debauc.us/)
