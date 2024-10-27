@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/50SCPP_EVI_00DBHOH_BILL12118_1_A361785/anna-lisa-janet-white/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/50SCPP_EVI_00DBHOH_BILL12118_1_A361785/anna-lisa-janet-white/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
