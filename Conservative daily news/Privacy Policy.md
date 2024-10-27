@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [New: Cole Pro Grand Luxe Beretta A400](https://www.thegunpage.com/new-cole-pro-grand-luxe-beretta-a400/10611477)
 * [How John Kerry’s Recent Attack On The 1A Also Targets The 2A](https://www.thegunpage.com/how-john-kerrys-recent-attack-on-the-1a-also-targets-the-2a/10611469)
 * [Gun Review – The Savage Rascal](https://www.thegunpage.com/gun-review-the-savage-rascal/10611467)
 * [Silencer Saturday #352: Are Silencers In Common Use Now?](https://www.thegunpage.com/silencer-saturday-352-are-silencers-in-common-use-now/10611468)
@@ -190,7 +191,6 @@ Recent Posts
 * [TFB Podcast Roundup 152: The October 25th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-152-the-october-25th-roundup/10611460)
 * [C.G. Haenel Announces the Jaeger NXT Adjustable and Tracker Straight-Pull](https://www.thegunpage.com/c-g-haenel-announces-the-jaeger-nxt-adjustable-and-tracker-straight-pull/10611453)
 * [TFB Review: Meprolight MPO-DF Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-df-open-emitter-pistol-sight/10611455)
-* [Federal Judge Issues Permanent Injunction Against NY Public Housing Gun Ban](https://www.thegunpage.com/federal-judge-issues-permanent-injunction-against-ny-public-housing-gun-ban/10611450)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
