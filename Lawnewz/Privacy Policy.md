@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Jennifer Gledhill, Matthew Johnson](https://am23.mediaite.com/lc/cnt/uploads/2024/10/gledhill-432x243.jpg)](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
+1. [![Jack Smith, on the left; Donald Trump, on the right.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/Smith-Trump-SI-432x243.jpg)](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
     
-    ### [In wild twist, parents accused of helping alleged killer daughter buy new mattress from Amazon after her national guardsman husband learned of affair and was shot in his sleep](https://lawandcrime.com/crime/parents-charged-with-obstruction-after-woman-is-accused-of-murdering-national-guardsman-husband-as-he-slept-authorities-say/)
+    ### ['Nothing further': Jack Smith says his office has satisfied all of Trump's 'unfounded' discovery 'demands' in Jan. 6 case — except for those that rely on a trial date being set](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
     
-2. [![Top inset: David Paul Daniel's booking photo (Catawba County Sheriff's Office). Bottom inset: Daniel at the U.S. Capitol building on Jan. 6, 2021. (U.S. Attorney). Background: A screenshot shows Daniel inside the U.S. Capitol building on Jan. 6, 2021, authorities said. (U.S. Attorney).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/daniel-432x243.jpg)](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
+2. [![Jasmine Collum](https://am21.mediaite.com/lc/cnt/uploads/2024/10/teacher-432x243.jpg)](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
     
-    ### [Jan. 6 riot suspect facing charges of child pornography possession, sexual exploitation of a minor](https://lawandcrime.com/crime/jan-6-riot-suspect-facing-charges-of-child-pornography-possession-sexual-exploitation-of-a-minor/)
+    ### [Day care teacher allegedly caught on video at work treating 3-month-old boy like 'rag doll' and 'aggressively' shaking baby bouncer until he went 'limp'](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
     
-3. [![Mike Lindell](https://am23.mediaite.com/lc/cnt/uploads/2023/04/Mike-Lindell-432x243.jpg)](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+3. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
-    ### [Smartmatic is tired of MyPillow CEO Mike Lindell stalling on sanctions owed over 'frivolous' election lawsuit](https://lawandcrime.com/high-profile/smartmatic-is-tired-of-mypillow-ceo-mike-lindell-stalling-on-sanctions-owed-over-frivolous-election-lawsuit/)
+    ### ['Last breath inside a suitcase': Florida woman zipped her boyfriend in a suitcase and killed him in game of 'hide and seek'](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
-4. [![Inset: Angel Schonabaum (Vanderburgh County Jail). Background: The Evansville, Indiana, home where an infant suffered 50 rat bites (WEHT).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/rats-432x243.jpg)](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
+4. [![Popular post image](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24068516225017-432x243.jpg)](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
     
-    ### [Mother of baby found with over 50 rat bites and ‘very near to death' just got no prison time](https://lawandcrime.com/crime/mother-of-baby-found-with-over-50-rat-bites-and-very-near-to-death-just-got-no-prison-time/)
+    ### ['Federal law requires voters to take timely steps to vote': Trump-appointed panel on Fifth Circuit Court of Appeals rules that ballots must be received by Election Day](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
     
-5. [![File Photo by: zz/ESBP/STAR MAX/IPx 2017 5/1/17 Sean P. Diddy Combs at the 2017 Costume Institute Benefit Gala celebrating the opening of the exhibition ](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Sean-Combs-432x243.jpg)](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
+5. [![Main: Rebekah Massie speaking at Surprise, Arizona city council meeting just before her arrest (Surprise City Council). Inset: Massie being arrested over her public comments (Surprise Police Dept.).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/asdfafd-432x243.jpg)](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
     
-    ### ['The Court's intervention is critical': Diddy and the feds are fighting over just how far a gag order should go to crack down on 'leaks' in RICO and sex trafficking case](https://lawandcrime.com/high-profile/the-courts-intervention-is-critical-diddy-and-the-feds-are-fighting-over-just-how-far-a-gag-order-should-go-to-crack-down-on-leaks-in-rico-and-sex-trafficking-case/)
+    ### ['Objectively outrageous': Judge tosses criminal case against mom arrested for criticizing city official at public meeting](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
     
 
 [](http://eepurl.com/c89Jdb)
