@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![21energy – ASICs, Heater & mehr!](/fileadmin/_processed_/a/3/csm_Frame_21_fb754bb5fd.png)](https://ref.blocktrainer.de/21energy/ws/anbieter)
+[![Kurant](/fileadmin/_processed_/8/7/csm_Banner_hoch_390x615_93118de063.png)](http://www.kurant.net/)
 
 **Privatsphäre-Einstellungen**
 
