@@ -7,7 +7,7 @@ Sign inAppearance
 Privacy Policy
 ==============
 
-_Last updated on **August 11, 2024**._
+_Last updated on **October 27, 2024**._
 
 Your privacy is critically important to us, and we have a few fundamental principles we abide by:
 
@@ -18,7 +18,7 @@ Our services are compliant with the [General Data Protection Regulation (GDPR)](
 
 * * *
 
-This Privacy Policy shall apply to the applications by **WebCatalog, Inc.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog, Inc. in general (the "**Website**"; App, and Website together the "**Services**").
+This Privacy Policy shall apply to the applications under the brands of WebCatalog, Singlebox, Switchbar, and Translatium by **WebCatalog, Inc.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog, Inc. in general (the "**Website**"; App, and Website together the "**Services**").
 
 1\. General
 -----------
