@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=58034506)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=154601026)  
+Baby Toddles Infant Care
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=6197890)  
-All Trucking Solutions
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=37857316)  
+Vplay Letsheng Mall
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=129579852)  
-Fox Alarms & Security CC
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=35790487)  
+Turnkey Innovations
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=95997942)  
-AquariumSmiths
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=182744110)  
+Three Moons Emporium
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=105739949)  
-Nilbet T/A Waterman
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=25798217)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=119052192)  
-TurboFibre
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=139383957)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=111078448)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=197518074)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=58172766)  
-Hydroworld T/A Milliqua
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=89457531)  
+Dr V Naik Consult
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=106543145)  
-Myfinance-Online
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=142402876)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=159179300)  
-Abandoned Vehicle and Truck Solutions
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=134513266)  
+Prosper Park
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=43825869)  
-Sonic Electrical Services PTY Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=88210750)  
+Repairs In Motion
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=190266047)  
-Peter Salvage Pty Ltd
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=59900542)  
+FX ACCOUNTING
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=35677264)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=214108842)  
+Tantra Sound and Lightz
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=86937677)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=144146152)  
+Salvage Genie
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=1f214d3867138b763a4c49f03ea2fe963de77bb3e54b17c9576e6d837c2499b8&c=15871111)  
-Moving Made Easy (PTY) Ltd
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=e9453c0b0f0bd14fef6d8795932752438462426b6799e4747794d6fbd6686610&c=83921423)  
+LEO DEVELOPMENT GROUP
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
