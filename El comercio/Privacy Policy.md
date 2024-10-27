@@ -31,6 +31,262 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Juicio ganado y el juicio perdido…
+==================================
+
+La ministra se defendió, en su conjunto, muy bien, de manera ordenada, específica  y firme.
+-------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+**I.- La votación:** A la final, el correísmo  no pudo alzarse con la cabeza – como señal de **triunfo** con sabor a venganza –  de  la **Ministra** del **Interior**  M. **Palencia**, toda vez que no logró conseguir los 92 votos,  contando solo con 77 a favor de la **censura**, **votos compuestos** por RC5 y PSC, dándose 40 votos  en contra de la **censura** y 16 abstenciones principalmente atribuibles a  Construye, los mismos que fueron los decisivos, y que, según el **interpelante** L. Berrezueta (RC5) y de G. Celi, presidente de SUMA, tienda que auspicia la **candidatura** de J. Topic, serían probablemente suerte de un **acuerdo** a cambio de la **aprobación** por parte del TCE de la lista de **asambleístas** de **Construye**.
+
+**II.- Un atormentado correísmo que va de mal en peor**: Lo cierto es que, esta nueva derrota del devaluado correísmo, se suma a una larga lista de **fracasos** y golpes, tales como, los fallidos juicios a la Fiscal y a la Canciller; un **binomio presidencial** débil y no puntero por primera vez; la **declaración** como no elegibles para ingresar a **Estados Unidos** de sus **cabecillas** y por ende – como ya lo hemos anotado –   el **derrumbamiento** de la teoría del Lawfare; el encarcelamiento de Glas y el **debilitamiento** del apoyo al  “asalto” a la **embajada mexicana**  y del asilo (tema que por cierto, siendo una de las iniciales causales principales del **juicio político** en contra de **Palencia**, fue al final del día  hábilmente no utilizado por el correísmo, toda vez que dadas las circunstancias, esas iniciales armas resultaban a la fecha contraproducente políticamente); el **espaldarazo** a las forzadas “**elecciones**” del 28 de julio al dictador Maduro; los pronunciamientos inconsistentes de su **candidata** L. González en cuanto, entre otros,  a fuentes de **energía** limpias ajenas a las **fuentes hídricas**, y un largo etc.; todo lo cual, cabe indicarse, no les **resta apoyo** del **voto** duro del que disponen, pero sí les alejaría del **voto dubitativo**. 
+
+La interpelante, P. Cabezas, había expresado poco tiempo atrás que, si  el **juicio político** no resultaba favorable a sus intereses, ella se iría a su casa. ¿Será que cumple su palabra?, al decir de las **cuestionables prácticas** utilizadas en el **juicio**, lo más probable es que, consistente con aquello, no la cumpla.
+
+**III.- Una defensa implacable:** La ministra se defendió, en su conjunto, muy bien, de **manera ordenada**, específica  y firme, no dando posibilidades de réplica a los interpelantes, los mismos que fueron **apaleados** por la **contundencia** de los **argumentos** de la ministra, la misma que salió bien librada de la **censura**, quien merecía salir inmune – pese a tener mucho **trabajo** aún por realizar en el campo de la seguridad – entre otros motivos, independientemente del interesado apoyo o no de **Construye**, por la **solidez** argumentativa frente a la **debilidad intelectual** de sus **interpelantes**.
+
+Cabe indicarse que, el día del **juicio**, no se dio paso a la reconsideración de la **votación**, la cual aún estaría latente, pese a que en la **práctica** y como van las cosas, siendo no imposible, es poco probable que reviva el intento de **censura** en su contra vía reconsideración de la **votación**, caso en el cual, Construye tendría la última palabra… 
+
+**Conclusión:** Para el **oficialismo**, apagado por las **circunstancias atmosféricas** y por sus consecuencias en las **encuestas**, lo dado es una luz de **alegría** alzándose con la copa de la **victoria** al no darse  la censura en contra de su más **representativa  ministra**, entre otros motivos, por su cercanía con Noboa; y, por otro lado,  quien Perdió el Juicio, fue sin duda el desorientado correísmo, no solamente por sus **resultados prácticos** en el **campo político**, sino por el peculiar **carácter** y conducta de su **líder**.
+
+Cartas a Quito / 27 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este domingo 27 de octubre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Pedido de auxilio 
+------------------
+
+En medio de tanta oscuridad y desazón por la que, los ecuatorianos,  estamos atravesando brilla, al fin,  un pequeño destello de esperanza y es que, según nos enteramos, países serios y confiables en lo que respecta a la justicia,  como lo es EE. UU. de Norteamérica, están interviniendo y tomando cartas en el asunto, al sentenciar a Carlos Pólit  y retirar las visas a los exmandatarios acusados de corrupción y malos manejos durante sus respectivas gestiones de gobierno. 
+
+Noticias como estas no dejan de ser un excelente augurio, al tiempo que abren un rayito de esperanza para que comience a brillar la justicia y se sancione a los culpables de esta catástrofe que, desde hace mucho tiempo, nos tiene agobiados y, actualmente,  sumidos en estas tinieblas físicas y mentales. 
+
+Dicen que la esperanza nunca muere. Ojalá  permanezca latente en nuestros corazones que, por nuestra condición de creyentes y a pesar de todos los entramados de la política,  nunca perdemos la fe. 
+
+Fabiola Carrera Alemán 
+
+La familia es la primera escuela 
+---------------------------------
+
+La familia es el primer entorno educativo en la vida de un niño. Desde el momento en que nacemos, comenzamos a aprender de nuestros padres, hermanos y otros familiares. Cada interacción se convierte en una lección que nos acompaña a lo largo de nuestra vida, moldeando nuestro carácter y valores. 
+
+Los padres son nuestros primeros maestros. Nos enseñan a hablar, a caminar y a relacionarnos con el mundo. A través de su ejemplo, aprendemos sobre la importancia de la empatía, el respeto y la responsabilidad. Estas lecciones son fundamentales para nuestro desarrollo personal y social. 
+
+La educación en el hogar no se limita a lo académico. Las familias transmiten tradiciones, creencias y valores culturales que nos conectan con nuestras raíces. Estas enseñanzas nos ayudan a construir nuestra identidad y a entender nuestro lugar en la sociedad. La diversidad familiar enriquece este proceso, aportando diferentes perspectivas y experiencias. 
+
+Además, la familia es un espacio seguro donde podemos experimentar y crecer. Aquí aprendemos a enfrentar desafíos y resolver conflictos. La capacidad de manejar situaciones difíciles se desarrolla en el hogar, donde podemos cometer errores sin miedo al juicio. Este aprendizaje es esencial para nuestra vida adulta. 
+
+El apoyo emocional que recibimos en casa también es crucial para nuestro desarrollo. Un ambiente familiar amoroso fomenta la autoestima y la resiliencia. Cuando nos sentimos valorados y comprendidos, estamos más dispuestos a explorar nuevas ideas y a enfrentar el mundo con confianza. 
+
+Es fundamental recordar que la educación no se limita a las aulas. La curiosidad natural de los niños florece en casa, donde pueden hacer preguntas y explorar libremente. Los padres pueden estimular esta curiosidad al involucrarse activamente en el aprendizaje de sus hijos, creando un ambiente propicio para el descubrimiento. 
+
+En conclusión, la familia es nuestra primera escuela, donde se sientan las bases del aprendizaje y el desarrollo personal. Valoremos este papel fundamental e invirtamos tiempo y esfuerzo en crear un entorno familiar que fomente el crecimiento, el amor por el conocimiento y la curiosidad por el mundo que nos rodea. ¡La educación comienza en casa! 
+
+Roberto Camana-Fiallos 
+
+Turismo al desapego
+===================
+
+La vida es una sucesión de intervalos buenos y malos y cuando nos quieren vender solo instantes luminosos.
+----------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Si gana Luisa, a los pocos días Rafael retornará al **Ecuador**, consciente que ningún **juez** emitirá una orden de captura, ningún **policía** intentará detenerlo y los generales mirarán para otro lado. Semanas antes de la **posesión**, recorrerá los **medios** anunciando las **medidas** que él implementará y que ella ejecutará. Proyectará un dejavu de su **inolvidable gobierno**, donde él será la voz mandante y todos los demás deberemos **obedecer** sin pensar ni razonar.
+
+El **apego** es una forma de **resistencia**. Resistimos al **cambio** y nos **aferramos** a las cosas que creemos que nos van a ser **felices**, pero todo es impermanente y aferrarse a algo que necesariamente cambiará nos crea **sufrimiento**. En la raíz de este apego está la **ilusión** del yo. Desde **edades tempranas** nos identificamos con **nuestras ideas**, nuestras **creencias**, nuestros discursos, pero ese yo es una ilusión; porque nuestros **pensamientos** cambian, nuestras **ideas** cambian, no somos hoy las mismas **personas** que fuimos hace 5 años ni las que seremos en 5 años más.
+
+La principal causa del **sufrimiento humano** es ansiar retener a nuestro lado todo lo que en un momento nos hizo **felices**, pero es como apretar un **puñado de arena**, mientras más **fuerza** se aplica, más se escapa esa codiciada realidad. Y el sufrimiento es **exponencial** cuando creemos que nuestras ideas son más importantes que las de los demás.
+
+Revivir los **gloriosos momentos** de Rafael en el poder, es la quimera de miles de personas, que se enriquecieron con el **poder absoluto** arriba y **obediencia** infinita abajo. Dan respiración boca a boca a un **zombi político**, difunden videos de inauguraciones, de lo felices que fueron las masas fieles y que él fue el mejor presidente de la historia sin fin.
+
+Sin embargo, la vida ni se repite ni se detiene. Todo **evoluciona**. Rafael no es el sonreído joven que destrozaba conceptos **capitalistas** y resucitaba los **manuales** de izquierda. Ambas corrientes han mutado y él es un **rancio vengativo**.
+
+El Ecuador de las manos limpias no tenía miles de **influencers** que hoy **direccionan** la opinión de millones de personas. En el Ecuador de hoy los **carteles** financian campañas. El narco está **inmerso** en la sociedad. Somos **desconfiados**. Doblegar a los medios no es suficiente y **ejércitos** de muchachos expertos en redes sociales, no nos pueden domesticar.
+
+Inimaginable el **sufrimiento** diario de alguien que se droga con sus **recuerdos** y promete una oxidada realidad en blanco y negro. La vida es una **sucesión** de intervalos buenos y malos y cuando nos quieren vender solo instantes luminosos, sabemos que nos están mintiendo.
+
+Ecuador reporta un promedio diario de 14 nuevos casos de VIH
+============================================================
+
+En Ecuador, 48 782 personas viven con VIH y de estas 88% reciben tratamiento antirretroviral. Aún persiste el estigma.
+----------------------------------------------------------------------------------------------------------------------
+
+![Álex, de 33 años, está consciente de hacerse pruebas de VIH periódicos y usar métodos de prevención del VIH.](https://www.elcomercio.com/wp-content/uploads/2024/10/Alex-Rivera.jpg)
+
+Ecuador enfrenta un desafío significativo en la lucha contra el VIH. A diario hay un promedio de 14 nuevos casos, lo que suma más de cinco mil nuevos casos anuales en 2022 y 2023. Este aumento en la incidencia es comparable al repunte observado entre 2009 y 2011.
+
+Más noticias
+------------
+
+* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
+* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
+* [7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador](https://www.elcomercio.com/tendencias/salud/7-barreras-para-acceder-a-la-atencion-de-infecciones-de-transmision-sexual-en-ecuador.html "7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador")
+
+Al desglosar estos nuevos casos por sexo, se observa que la mayoría corresponde a hombres, con una relación de siete hombres por cada tres mujeres.
+
+La población más afectada está en plena etapa productiva: 62% de los casos se concentran en personas de 25 a 49 años. Otro 21% es jóvenes de 20 a 24 años.
+
+En estas edades hay una tendencia hacia la falta de uso consistente de preservativos y una baja percepción del riesgo. Esto se agrava por el consumo de drogas y otros comportamientos de riesgo.
+
+![chart visualization](https://public.flourish.studio/visualisation/19984477/thumbnail)
+
+Además, un 10% de casos notificados corresponde a mayores de 50 años. Ellos a menudo enfrentan la estigmatización y la falta de información precisa sobre el VIH. Esto dificulta que participen en estrategias de prevención y busquen diagnósticos oportunos.
+
+La transmisión del VIH se produce principalmente a través de relaciones sexuales sin protección, exposición a sangre infectada. También de madre a hijo durante el embarazo o la lactancia.
+
+Cabe mencionar que la coinfección con otros virus, como el de la hepatitis B, herpes humano 8 y hepatitis C es común en estos casos.
+
+ La prevalencia del VIH es alta en redes sexuales cerradas
+----------------------------------------------------------
+
+Dentro del contexto de la epidemia, el 27,9% de los casos notificados por el Ministerio de Salud Pública (MSP) pertenece a grupos clave para VIH.
+
+En estas poblaciones preocupan los hombres que tienen sexo con hombres (HSH), los cuales representan el 82%, seguidos por mujeres trans femeninas (MTF) con 9%. Siguen en la estadística las personas que ejercen el trabajo sexual, privados de libertad y usuarios de drogas.
+
+Entre las prácticas de riesgo que facilitan la transmisión, el MSP destaca el sexo anal sin protección; la exposición a múltiples parejas sexuales. Además, la dificultad para negociar el uso del preservativo.
+
+En Ecuador, la mayoría de personas de grupos clave están en redes sexuales relativamente cerradas. Ahí la prevalencia del VIH es alta, lo que aumenta la posibilidad de nuevas infecciones entre sus integrantes.
+
+88% de personas que viven con VIH reciben antirretrovirales
+-----------------------------------------------------------
+
+![chart visualization](https://public.flourish.studio/visualisation/19981383/thumbnail)
+
+Hasta el 2023 existen 48 782 personas que viven con VIH hasta el 2023, según el Ministerio de Salud Pública (MSP). De esta cantidad, el 95% (46 427) conoce su estatus serológico. Las personas positivas a VIH y conocen cuál es su estado serológico deberían empezar a recibir Tratamiento Antirretrovírico (TARV) para estar saludables.
+
+Pero, la adhesión a los tratamientos en el país aún no llega al 90%, que es el objetivo trazado. Las estadísticas oficiales muestran que de las personas que viven con VIH, el 88% recibe la medicación antirretroviral. Y, de estos el 72% ha llegado a suprimir la carga viral, incluso, llega a ser indetectable. De esta forma se logra, además, prevenir la transmisión del virus. Esta supresión viral se logra, según los médicos, entre tres a seis meses, después de iniciado el TARV. 
+
+Pese a lo desafiante que puede ser la reducción de esta epidemia, cada vez hay más jóvenes decididos a tomar medidas activas para protegerse del VIH. Uno de ellos es Mauricio (nombre protegido), de 26 años, quien conoció la PrEP a través de un amigo. Este método está diseñado para prevenir la transmisión del VIH en personas que no están infectadas, pero que enfrentan un alto riesgo.
+
+El estigma, enemigo de los métodos de prevención
+------------------------------------------------
+
+![Mauricio (nombre protegido) recibe la PrEP en el Centro de Salud No. 1 del Centro Histórico de Quito, para evitar la transmisión del VIH. ](https://www.elcomercio.com/wp-content/uploads/2024/10/Centro-de-Salud-Inclusivo.jpg)
+
+Mauricio (nombre protegido) recibe la PrEP en el Centro de Salud No. 1 del Centro Histórico de Quito.
+
+Pese a lo desafiante que puede ser la reducción de esta epidemia, cada vez hay más jóvenes decididos a tomar medidas activas para protegerse del VIH. Uno de ellos es Mauricio (nombre protegido), de 26 años, quien conoció la PrEP a través de un amigo. Este método está diseñado para prevenir la transmisión del VIH en personas que no están infectadas, pero que enfrentan un alto riesgo.
+
+Un día decidió ir el Centro de Salud No. 1 en el Centro Histórico de Quito, donde un promotor lo ayudó a sentirse en confianza. El alivio fue mayor cuando la prueba resultó negativa. Lleva siete meses en tratamiento sin experimentar efectos secundarios. Destaca la importancia de la PrEP y otras formas de prevención, como el uso de preservativos.
+
+“Hablar de este tipo de prevención sigue siendo un tabú; temo que la gente piense que tomo PrEP por alguna razón negativa. Pero es un verdadero avance en la salud; me protege y me permite sentirme más seguro al tener intimidad. No tengo una pareja estable, y en mi país, Venezuela, no hay acceso a estos tratamientos”. Dos de sus amigos también son beneficiarios de esta opción gratuita.
+
+> En los primeros ocho meses de este 2024, 1 577 personas de grupos clave han recibido PrEP, a escala nacional. Otros 2 500 recibieron atención por ser víctimas de violencia sexual y por relaciones sexuales de riesgo. A estos últimos se les entrega PEP, que es un medicamento para casos de emergencia.
+
+Pruebas tardías y mitos persisten entre grupos de riesgo al VIH
+---------------------------------------------------------------
+
+Álex Rivera, de 33 años, también es negativo a VIH, y se realiza pruebas periódicas mientras utiliza PrEP. Además, anima a otros miembros de la comunidad LGBTQ, a través de sus cuentas en X e Instagram, a que adopten este método. “Normalmente hay un gran estigma y muchas personas no se hacen pruebas. He acompañado a personas al centro de salud que ya tienen secuelas físicas tras ocho o diez años sin presentar síntomas. Pero tienen miedo, supongo que por experiencias personales.
+
+Hay casos en los que ya no pueden ocultarlo y otros saben que son positivos, pero no están en tratamiento y no lo dicen. Se les menciona la PrEP, pero piensan que les hará más daño o que afectará su hígado. Tienen ese estigma y prefieren que nadie lo sepa para no ser juzgados. No se dan cuenta de que se están poniendo en riesgo, tanto a sí mismos como a los demás”.
+
+Las fases del VIH
+-----------------
+
+La infección por VIH se desarrolla en tres fases. La etapa inicial suele aparecer entre 2 y 4 semanas después de la exposición al virus. Algunos experimentan síntomas similares a los de la gripe, como fiebre, dolor de cabeza y erupciones cutáneas. El VIH se reproduce rápidamente, atacando y destruyendo las células CD4 del sistema inmunitario.
+
+En la fase crónica, el VIH continúa multiplicándose, pero a niveles más bajos, y mucho no presentan síntomas. Sin tratamiento antirretroviral, la infección puede progresar a sida en un plazo de 10 años o más. Hay algunos que experimentan una evolución más rápida. Quienes reciben tratamiento permanecen en esta fase por décadas.
+
+El sida es la etapa final. El virus ha destruido el sistema inmunitario y el cuerpo no puede luchar contra infecciones oportunistas o cáncer. Las muertes relacionadas al sida desde el 2018 al 2023 suman 4 011, un promedio de 669 al año. La tasa de mortalidad relacionada al sida el año pasado fue de 3,4 por cada 100 mil habitantes, lo que corresponde a 609 muertes.
+
+El poder de los machos
+======================
+
+Estos casos evidencian cómo el poder fascina, aterroriza o inmoviliza a la sociedad para garantizar su revitalización y permanencia.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Aunque no es una **novedad**, en las últimas semanas se han acumulado los **casos** que ponen de manifiesto la forma en que los **hombres con poder** –los ‘operadores de **dominación**’ como los llama Michel Foucault– fabrican **relaciones de sometimiento**, no solo hacia las mujeres sino también hacia otros hombres que no encajan en su **patrón**.
+
+Los casos con mayor atención han sido los relacionados con famosos: el rapero [Puff Daddy](https://www.bbc.com/mundo/articles/cjd5lnmxn2yo), preso por tráfico sexual y **reclutamiento** para la **prostitución**, y el **empresario** de la moda, [Michael Jeffries](https://www.nytimes.com/es/2024/10/22/espanol/negocios/michael-jeffries-abercrombie-trafico-sexual.html), acusado de forzar a **decenas de hombres** a realizar actos sexuales cuando fue director de ‘Abercrombie & Fitch’.
+
+Sin constituir delitos penales de la **magnitud** de los mencionados, se encuentran otros más cercanos, como el que sacó a la luz [Margarita Rosa de Francisco](https://www.tiktok.com/@margaritavasola/video/7425979652923067678?_r=1&_t=8qnC33Iw5Y6) (la Gaviota de Café con aroma de mujer) sobre las **intervenciones quirúrgicas** que infantilizan el cuerpo femenino para complacer a esos hombres con poder suficiente para el acceso y la **promoción** de ese tipo de **prácticas**.
+
+En el Ecuador, mientras tanto, la [Presidencia de la República](https://www.youtube.com/shorts/EQ_Bu8abhF8) usa, sin sonrojarse, la **canción** ‘Mami soy tu vaquero’, de explícito **contenido sexual**, al tiempo que afirma ‘7 veces se sonrojaron las mujeres por la gestión del presidente’, en una campaña que supuestamente las **apoya**; entretanto, los **aficionados** del Barcelona Sporting Club exhiben una [violenta bandera](https://www.ole.com.ar/ecuador/liga-pro/historico-emelec-explot-tifo-bandera-barcelona-clasico-astillero-marcos-mondaini_0_KimiutiIJL.html) para ‘**humillar**’ a sus oponentes, representándolos como una mujer con sus nalgas al aire, cargada por un **troglodita**.
+
+Estos casos evidencian cómo el **poder** fascina, **aterroriza** o **inmoviliza** a la sociedad para garantizar su **revitalización y permanencia**: domina los cuerpos, en un tipo de opresión que no está situada, sino que funciona como una **cadena**, donde si bien no siempre queda claro quién ejerce el **poder**, sí es patente quién no lo tiene. Pero no todo está perdido, pues según Foucault, desde el momento en que el **poder** se fija en el cuerpo, **emerge** también la **reivindicación** del cuerpo en contra del **poder**.
+
+Barrios de Quito se organizan contra la inseguridad por cortes de luz
+=====================================================================
+
+Los expertos aseguran que los barrios deben organizarse para enfrentar, junto a la Policía Nacional, la inseguridad por los cortes de luz.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Cotocollao se organizó para enfrentar a la inseguridad antes del inicio de los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/Seguridad-barrios-Quito.jpg)
+
+Los **cortes de luz** cambiaron las dinámicas en los **barrios de Quito**. Mientras algunos ya estaban organizados contra la **inseguridad**, otros apenas empiezan a tomar medidas[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
+
+Más noticias
+------------
+
+* [Así será la atención en los bancos por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/asi-sera-atencion-bancaria-por-cortes-de-luz.html "Así será la atención en los bancos por los cortes de luz")
+* [¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?](https://www.elcomercio.com/actualidad/negocios/por-que-subieron-cortes-luz-ocho-14-horas-ecuador.html "¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?")
+* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
+
+**Cristian Rivera**, experto en riesgos, conversó con **EL COMERCIO** sobre la necesidad de que los barrios de **Quito** se organicen para garantizar la seguridad durante estos cortes.
+
+Barrios de Quito toman medidas ante cortes de luz e inseguridad
+---------------------------------------------------------------
+
+En el norte de **Quito**, por ejemplo, los moradores de **Cotocollao** ya se habían organizado antes de los **cortes** para enfrentar la **delincuencia** junto a la **Policía Nacional.**
+
+En contraste, en **Las Tolas**, también en el norte, los residentes no han tomado acciones similares. Hace una semana, desconocidos rompieron la ventana de una casa en este barrio; los vecinos salieron en ese momento a ver qué ocurría.
+
+**Francisco** **Caiza**, dueño de la vivienda, decidió patrullar las noches armado con un palo y un silbato. Al principio lo acompañaba un vecino, **Hugo** **Saavedra**, pero con el tiempo dejaron de hacer las rondas nocturnas.
+
+**Caiza**, en su lugar, optó por instalar un foco con **sensor de movimiento** recargable, lo que le brinda cierta tranquilidad.
+
+Por otro lado, en **Cotocollao**, los moradores están organizados para enfrentar la **inseguridad**.
+
+**Francisco** **Toazo**, líder de uno de los comités del barrio, explicó a **EL** **COMERCIO** que el comité de seguridad identificó 10 zonas seguras donde se reúnen los vecinos para recibir **capacitaciones** de la **Policía Nacional** y la **Secretaría de Seguridad** sobre cómo manejar situaciones de riesgo. Estas actividades dependen de la entidad que brinde el taller.
+
+El 18 de octubre, alrededor de 500 personas participaron en una actividad de **cine comunitario** en el parque de **Cotocollao**, organizada en conjunto por la **Secretaría de Seguridad**, la **Policía Nacional**, comités de seguridad, la **AMT** y un centro de salud.
+
+Este evento fue un **plan piloto** para mejorar la **seguridad** y el sentido de comunidad.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Policia-inseguridad-Cotocollao-1024x683.jpg)
+
+Los moradores de Cotocollao trabajan junto a la Policía Nacional para enfrentar la inseguridad. Foto: Cortesía.
+
+Solanda pide que no cambien con frecuencia a los comandantes
+------------------------------------------------------------
+
+ En el sector de **Solanda**, al sur de **Quito**, los moradores decidieron organizarse para mantener la seguridad en esta emblemática zona de la capital, que alberga aproximadamente 130 000 familias.
+
+El dirigente barrial quien, por motivos de seguridad, prefirió mantener su identidad en reserva.
+
+Él explicó que en **Solanda**, los habitantes se comprometieron a mantenerse alertas y a colaborar si algún vecino requiere ayuda.
+
+Expresó su preocupación por los **asaltos** y **robos** a locales comerciales y viviendas, los cuales se agravan cuando falta la luz, ya que sin electricidad las alarmas no funcionan, “lo que incrementa el riesgo”.
+
+El viernes 25 de octubre, él acudió a la Unidad de Policía Comunitaria (**UPC**) de **Solanda** —una de las 275 unidades distribuidas en los 258 subcircuitos de Quito—, pero no encontró a nadie que lo atendiera.
+
+Más tarde, se reunió con un funcionario de la **Secretaría de Seguridad** de Quito en la Administración Zonal Eloy Alfaro, donde coordinaron la realización de una **feria de seguridad** y emprendimientos en el **Parque Ecológico de Solanda.**
+
+Comentó que **Solanda** es un área extensa y el número de agentes policiales es **insuficiente**.
+
+Por este motivo, solicitaron al alcalde de Quito, Pabel Muñoz, que incrementara el número de efectivos en la zona.
+
+Además, pidieron que no cambien con tanta frecuencia a los **comandantes de la UPC,** ya que, según él, “hacemos planes de **seguridad** y máximo están dos o tres meses; luego los cambian y todo el trabajo vuelve a cero”.
+
+Recomendaciones para mantener la seguridad en los barrios de Quito
+------------------------------------------------------------------
+
+**Cristian Rivera** enfatiza la importancia de organizar **comités barriales** y planificar acciones basadas en los **cortes de luz** anunciados por el gobierno de **Daniel Noboa**. **Cristopher** **Velasco**, también experto en riesgos, respalda esta sugerencia.
+
+**Rivera** advierte sobre evitar rutas nocturnas, ya que la oscuridad puede favorecer los incidentes de violencia en sectores con alto índice de inseguridad. Velasco añade que el cuidado de los barrios se complica con los cortes prolongados de hasta 14 horas.
+
+Ambos expertos sugieren que los barrios gestionen la compra de focos con paneles solares o recargables para iluminar las áreas más vulnerables.
+
+Además, **Rivera** recomienda mantener los celulares cargados, disponer de una linterna frontal para tener las manos libres en emergencias y contar con una radio a pilas para mantenerse informado. También sugiere establecer un código de silbatos coordinado con los vecinos para alertar sobre cualquier emergencia.
+
 Cortes de luz en Cuenca para este domingo 27 de octubre
 =======================================================
 
@@ -379,7 +635,7 @@ Desde el lado de **Mushuc Runa**, el DT Ever Hugo Almeida se sintió merecedor d
 Los partidos de Liga
 --------------------
 
-**Liga de Quito** ya no depende de sí misma a falta de cuatro partidos. La ‘U’ deberá visitar a **Emelec** y luego recibir a **IDV**, en un cotejo clave por ganar la etapa.
+**Liga de Quito** depende de sí misma a falta de cuatro partidos. La ‘U’ deberá visitar a **Emelec** y luego recibir a **IDV**, en un cotejo clave por ganar la etapa.
 
 Más adelante visitará a la **U. Católica** y cerrará en casa contra **Deportivo Cuenca.**
 
@@ -869,345 +1125,3 @@ Cuidados en el transporte
 
 • No dormir en el **transporte público** y mantener los bolsos o mochilas al frente, así como asegurarse de que estén cerrados.  
 • No aceptar ayuda de **desconocidos**.
-
-Los siete estados clave en las elecciones de EE.UU.
-===================================================
-
-En Estados Unidos los swing states serán claves en las elecciones el próximo martes 5 de noviembre de 2024.
------------------------------------------------------------------------------------------------------------
-
-![Kamala Harris en un mitin en Georgia, antes de las elecciones del 5 de noviembre en Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala.jpg)
-
-**Los swing states** o **“estados bisagra”** son aquellos que **no tienen un historial consistente de votar** por un solo partido en las elecciones presidenciales de Estados Unidos. En la elección de 2024, estos estados **juegan un papel crucial**, ya que su voto puede inclinar la balanza hacia cualquiera de los **dos principales candidatos**.
-
-### Más noticias
-
-* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
-* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
-* [Republicanos anti Trump arrancan un tour por estados clave de EE.UU.](https://www.elcomercio.com/actualidad/mundo/republicanos-anti-trump-arrancan-tour-estados-clave-ee-uu.html "Republicanos anti Trump arrancan un tour por estados clave de EE.UU.")
-
-Estos estados son el foco de **campañas intensas** y reciben una gran cantidad de visitas de los candidatos durante la contienda.
-
-En las elecciones de 2024, siete estados se consideran clave para definir el resultado. Entre ellos están **Arizona, Georgia, Michigan, Wisconsin, Nevada, Pensilvania y Carolina del Norte**.
-
-> Swing States poll by [@RedfieldWilton](https://twitter.com/RedfieldWilton?ref_src=twsrc%5Etfw)  
->   
-> Wisconsin – 🔵 Harris 49-47%  
-> Pennsylvania – 🔵 Harris 48-47%  
-> Michigan – 🟡 Tie 47-47%  
-> Arizona – 🔴 Trump 48-46%  
-> North Carolina – 🔴 Trump 48-47%  
-> Georgia – 🔴 Trump 48-47%  
-> Nevada – 🔴 Trump 47-46%  
-> ——  
-> #110 (1.8/3.0) | N=7,362 | 10/20-22… [pic.twitter.com/qRextNZkzd](https://t.co/qRextNZkzd)
-> 
-> — InteractivePolls (@IAPolls2022) [October 25, 2024](https://twitter.com/IAPolls2022/status/1849844660492968215?ref_src=twsrc%5Etfw)
-
-Cada uno tiene características **demográficas y políticas** que los hacen impredecibles. Por ejemplo, estados como **Pensilvania y Michigan** son conocidos por su población trabajadora del **cinturón industrial**, mientras que **Nevada y Arizona** tienen una creciente diversidad étnica que influye en el voto​.​
-
-Los desafíos de la movilización de votantes
--------------------------------------------
-
-En estos estados, la movilización de votantes es esencial. Los candidatos han implementado estrategias específicas para **atraer a diversos grupos**.
-
-Por ejemplo, la campaña de **Kamala Harris** trabajó para fortalecer el apoyo en áreas urbanas clave de **Michigan**, mientras que **Donald Trump** se enfocó en consolidar su base en **Carolina del Norte**, apelando a votantes de **zonas rurales y suburbanas**.
-
-La participación es otro **factor decisivo en los estados bisagra**. Las campañas se esfuerzan por movilizar a votantes jóvenes y de comunidades minoritarias, quienes a menudo tienen niveles de **participación fluctuantes**.
-
-La dinámica en estos estados puede cambiar rápidamente dependiendo de qué **grupo demográfico** decida salir a votar en mayor cantidad el **día de las elecciones**​.
-
-> The 2024 Presidential Election is now just 10 days away.  
->   
-> Meanwhile, Michigan is panning out to be the most important race in the country.  
->   
-> Currently, Donald Trump has taken the lead in ALL swing states aside from Michigan.  
->   
-> According to [@Kalshi](https://twitter.com/Kalshi?ref_src=twsrc%5Etfw)'s prediction markets, the odds in… [pic.twitter.com/ZuPB6Bm8mi](https://t.co/ZuPB6Bm8mi)
-> 
-> — The Kobeissi Letter (@KobeissiLetter) [October 25, 2024](https://twitter.com/KobeissiLetter/status/1849847022980833561?ref_src=twsrc%5Etfw)
-
-Tendencias históricas y factores clave
---------------------------------------
-
-En elecciones recientes, algunos de estos **estados cambiaron de partido en comparación con elecciones anteriores**, destacando la volatilidad del voto en estas regiones.
-
-Por ejemplo, estados como **Georgia y Arizona** votaron por el **Partido Demócrata en 2020**, a pesar de haber sido tradicionalmente republicanos en **elecciones anteriores**. Esto indica que las campañas en 2024 deben adaptarse y ser flexibles para captar nuevos votantes en estos **estados cambiantes**​.
-
-La **economía local y temas específicos como el empleo**, la atención médica y la inmigración juegan un papel importante en la decisión de los votantes en estos estados. Las campañas se ajustan para resaltar políticas que aborden estas preocupaciones, y es común ver debates intensos sobre estos temas durante los últimos días de la campaña​.
-
-Estos estados bisagra seguirán siendo el **centro de atención** hasta el cierre de las urnas el día de la elección, y los resultados en **ellos podrían definir el próximo presidente de Estados Unidos**.
-
-La importancia de cada estado bisagra en 2024
----------------------------------------------
-
-### Arizona
-
-Arizona fue un e**stado tradicionalmente republicano** hasta que Biden lo ganó en 2020. Su creciente diversidad étnica y el **rápido crecimiento poblacional** han hecho que ambos partidos consideren el estado como esencial para asegurar el triunfo.
-
-Los candidatos buscan captar el voto latino, que representa una porción significativa del electorado.
-
-### Georgia
-
-**Georgia fue clave en 2020 cuando Biden** rompió una racha republicana de décadas. La organización del voto y la participación de **comunidades afroamericanas** fueron cruciales.
-
-La c**ompetencia sigue siendo intensa,** y ambos partidos ven el estado como fundamental para llegar a los 270 votos electorales.
-
-### Michigan
-
-Parte del **cinturón industrial**, Michigan fue ganado por Trump en 2016, pero volvió a los demócratas en 2020. La **economía y temas laborales** son relevantes aquí.
-
-> Early voting in swing states [pic.twitter.com/dnZAdg5PuX](https://t.co/dnZAdg5PuX)
-> 
-> — Special Situations 🌐 Research Newsletter (Jay) (@SpecialSitsNews) [October 25, 2024](https://twitter.com/SpecialSitsNews/status/1849819652710338725?ref_src=twsrc%5Etfw)
-
-Las campañas están enfocadas en atraer a **votantes de clase trabajadora**, un grupo que puede decidir el resultado.
-
-### Wisconsin
-
- En 2016, **Wisconsin** sorprendió al inclinarse hacia Trump, pero volvió a apoyar a los demócratas en 2020.
-
-Es un estado donde las campañas deben ganar el apoyo tanto en áreas rurales como urbanas. La competencia es cerrada y cada voto cuenta.
-
-### Nevada
-
-Nevada tiene una gran **población de trabajadores sindicalizados** y votantes latinos, lo que lo hace un estado competitivo.
-
-La economía y políticas de inmigración suelen ser los temas predominantes en las campañas. Los resultados aquí pueden marcar la **diferencia para alcanzar la mayoría electoral**.
-
-### Pensilvania
-
-Es uno de los **estados más disputados** y puede definir el resultado electoral.
-
-> Latest Swing State Odds (% chance of winning)  
->   
-> 🟥 Arizona • Trump 70-30%  
-> 🟥 Georgia • Trump 70-30%  
-> 🟥 Pennsylvania • Trump 60-40%  
-> 🟥 Wisconsin • Trump 57-43%  
-> 🟥 Michigan • Trump 56-44%  
-> 🟥 Nevada • Trump 55-45% [pic.twitter.com/e6mpxeXe5H](https://t.co/e6mpxeXe5H)
-> 
-> — Polymarket (@Polymarket) [October 21, 2024](https://twitter.com/Polymarket/status/1848447132543685076?ref_src=twsrc%5Etfw)
-
-Con sus 19 votos electorales, Pensilvania ha sido un punto de enfoque para ambas campañas, que buscan captar el apoyo de los suburbios de Filadelfia y áreas industriales. Los temas económicos son claves.
-
-### Carolina del Norte
-
-Este estado tiene **16 votos electorales** y fue republicano en 2020, pero las encuestas muestran una carrera cerrada.
-
-Las campañas están invirtiendo recursos significativos para atraer a **votantes jóvenes, afroamericanos y suburbanos**, ya que podría inclinarse para cualquiera de los partidos en esta elección.
-
-Piero Hincapié se destaca en Bayer Leverkusen ante Werder Bremen
-================================================================
-
-El Bayer 04 Leverkusen, de Piero Hincapié, se llevó un empate de visita. El ecuatoriano recibió una amarilla.
--------------------------------------------------------------------------------------------------------------
-
-![El ecuatoriano Piero Hincapié del Bayer Leverkusen.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-25.jpg)
-
-El **Bayer Leverkusen**, con el ecuatoriano **Piero Hincapié** como titular, se enfrentó al **Werder Bremen** en un emocionante partido de la Bundesliga el 26 de octubre de 2024.
-
-El encuentro, disputado en el Weserstadion, culminó en un empate 2-2.
-
-Hincapié tuvo una actuación destacada, mostrando firmeza en defensa y contribuyendo al ataque, aunque recibió una cartulina amarilla por un gesto inapropiado cerca del final de juego.  
-
-### Más noticias:
-
-* [Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-brest.html "Bayer Leverkusen de Piero Hincapié empata en Champions con el Brest")
-* [El Brighton de Pervis Estupiñán se dejó empatar ante Wolves](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-empatar-wolves-premier.html "El Brighton de Pervis Estupiñán se dejó empatar ante Wolves")
-* [Deportivo Quito rescata su complejo de Carcelén](https://www.elcomercio.com/deportes/deportivo-quito-complejo-carcelen-remodelaciones.html "Deportivo Quito rescata su complejo de Carcelén")
-
-**Hincapié** tomó el balón y lo elevó al aire para evitar que uno de sus rivales pudiera reanudar el juego de inmediato. Eso no fue bien visto por el árbitro que le mostró la amarilla, cerca del final del partido.
-
-El marcador se abrió a favor de **Leverkusen** gracias a un gol de Victor Boniface a los 30 minutos.
-
-Sin embargo, el Bremen respondió con un tanto de Marvin Ducksch a los 74’. La alegría de los locales duró poco, ya que el 2-1 llegó para Leverkusen con un autogol de Felix Agu a los 77’.
-
-A pesar de que parecía que Leverkusen se llevaría la victoria, Bremen luchó con pundonor y logró igualar el marcador a los 90 minutos con un gol de **Romano Schmid.**
-
-Ambos equipos dividieron honores en un gran partido.
-
-Con este empate, el **Bayer 04 Leverkusen** se mantiene en la tercera posición de la tabla, acumulando 15 puntos.
-
-**Hincapié**, de 22 años, sigue destacándose en la defensa, lo que ha llamado la atención de varios clubes importantes en Europa.
-
-Piero Hincapié
---------------
-
-Hincapié ha sido clave en la histórica campaña del Bayer Leverkusen, que culminó con la consecución de la Bundesliga y la Copa de Alemania en la temporada 2023/24.
-
-Sin embargo, rumores sobre su futuro han comenzado a circular, sugiriendo que el esmeraldeño podría estar considerando su salida del club. La razón principal de su posible traspaso es el deseo de contar con más minutos de juego, algo que varios equipos europeos están dispuestos a ofrecer.
-
-Clubes de renombre, como **Bayern Múnich,** Liverpool, Tottenham Hotspur y Atlético de Madrid, están interesados en el joven defensor. Además, se ha sumado el Manchester United, que busca replicar el éxito que tuvo con el ecuatoriano Antonio Valencia.
-
-Mientras **Hincapié** se destaca en la defensa del Bayer Leverkusen, la presión por su futuro crece, y la afición espera que su actuación en el campo pueda sellar un traspaso exitoso a un club de alto perfil. El equipo continúa con su búsqueda de la victoria en este crucial encuentro, que podría definir el rumbo de la temporada.
-
-Hijos de ‘Diddy’ Combs salen del anominato para defender a su padre
-===================================================================
-
-'Diddy' Combs tiene siete hijos. Los seis mayores se pronunciaron en redes sociales.
-------------------------------------------------------------------------------------
-
-![El rapero 'Diddy' Combs está detenido en una prisión federal de Nueva York. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo194.jpg)
-
-Seis hijos del rapero y productor **Sean ‘Diddy’ Combs** salieron en defensa de su padre. El polémico artista se encuentra ahora mismo detenido sin derecho a fianza en una prisión federal de Nueva York.
-
-### **Más noticias:**
-
-* [¿Quién es Diddy?](https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html "https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html")
-* [‘Diddy’ suma una nueva denuncia escalofriante](https://www.elcomercio.com/tendencias/entretenimiento/diddy-suma-una-nueva-denuncia-escalofriante.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-suma-una-nueva-denuncia-escalofriante.html")
-* [La obsesión de Diddy por los príncipes William y Harry](https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html "https://www.elcomercio.com/tendencias/la-obsesion-de-diddy-por-los-principes-william-y-harry.html")
-
-**¿Qué pasó con ‘Diddy’ Combs?**
---------------------------------
-
-El cantante y productor Sean ‘Diddy’ Combs enfrenta serias acusaciones de crimen organizado. También,de **tráfico sexual** y trata de personas, así como múltiples cargos por agresiones sexuales contra mujeres.
-
-**Hijos de ‘Diddy’ Combs salen del anominato para defender a su padre**
------------------------------------------------------------------------
-
-En una publicación conjunta en **Instagram**, Quincy Brown, hijo adoptivo de Combs, y sus hermanos Justin Dior, Christian ‘King’, Chance, D’Lila y Jessie manifestaron su apoyo incondicional.
-
-Aseguran que el último mes ha sido devastador para la familia y que muchos han juzgado a su padre y a ellos mismos basándose en rumores y “narrativas falsas” que han proliferado en las redes sociales.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBbIxQHPOjn/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Quincy (@quincy)](https://www.instagram.com/p/DBbIxQHPOjn/?utm_source=ig_embed&utm_campaign=loading)
-
-Los hermanos declararon: “Nos aferramos a la verdad, sabiendo que prevalecerá y que nada destruirá la fuerza de nuestra familia”.
-
-Resaltaron la importancia de permanecer unidos en este difícil momento, enfatizando que apoyarán a su padre en cada paso del proceso judicial.
-
-**‘Diddy’ suma más de una centena de demandas**
------------------------------------------------
-
-Diddy, conocido por su influyente carrera en la música y los negocios, ha visto su imagen pública comprometida por estas acusaciones. Además de sus seis hijos mayores, el rapero es padre de una niña de dos años. Las acusaciones en su contra han generado un gran revuelo mediático, lo que ha llevado a sus hijos a expresar su descontento con la forma en que se han manejado los hechos en la opinión pública.
-
-La situación sigue en desarrollo y la familia continúa enfrentando la adversidad con la esperanza de que se haga justicia. El futuro de Combs y el impacto de estas acusaciones en su carrera y vida personal se mantienen como temas de interés en los medios.
-
-La construcción de parques industriales en México crece un 20 %
-===============================================================
-
-En México hay ahora 460 parques industriales y están construyéndose 93 nuevos.
-------------------------------------------------------------------------------
-
-![El presidente de la Asociación Mexicana de Parques Industriales Privados (AMPIP), Jorge Ávalos, habla durante la Reunión Anual de Industriales de CONCAMIN, en las instalaciones de Cintermex, este lunes en la ciudad de Monterrey (México).](https://www.elcomercio.com/wp-content/uploads/2024/10/parques-mexico-efe.jpg)
-
-La construcción de parques industriales en [México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html") creció un 20 % en el último año con una inversión mayor a 4 000 millones de dólares por el **‘nearshoring’** o reubicación de empresas. Lo reveló este lunes Jorge Ávalos, presidente de la **Asociación Mexicana de Parques Industriales Privados** (AMPIP).
-
-### Más noticias
-
-* [México tendrá la primeras elecciones judiciales en junio de 2025](https://www.elcomercio.com/actualidad/mundo/mexico-tendra-primeras-elecciones-judiciales-junio-2025.html "México tendrá la primeras elecciones judiciales en junio de 2025")
-* [La frontera de México resiente las restricciones migratorias de EE.UU.](https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html")
-* [Claudia Sheinbaum prevé anuncios de nuevas inversiones de EE.UU.](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-preve-anuncios-nuevas-inversiones-ee-uu-reunion-empresarios.html")
-
-En México hay ahora **460 parques industriales** y están construyéndose 93 nuevos, detalló el líder empresarial en el panel **‘Fortalezas y retos de la economía mexicana de cara al nearshoring’**. Se realizó Reunión Anual de Industriales que se celebró en **Nuevo León**, estado de la frontera norte del país.
-
-“Hoy estamos construyendo **93 parques industriales este año**. Representa el 20 % de la capacidad total de parques que teníamos hasta hace 1 año. Nunca en mis 25 años de estar en la asociación vi este dinamismo”, aseguró Ávalos en el evento de la Confederación de Cámaras Industriales de México.
-
-Agregó que la inversión que se realizará **superará los 4 000 millones de dólares**. Ya rebasan los 3 000 millones del año anterior.
-
-Fondos de inversión de Estados Unidos
--------------------------------------
-
-Expuso que hay más de **80 fondos de inversión de Estados Unidos** que están inyectado capital en los parques industriales porque “son mucho más optimistas los inversionistas extranjeros”.
-
-“Lo que estamos viendo en Nuevo León, Volvo acaba de anunciar una planta que tiene casi 20 hectáreas techadas, eso es por decir (un ejemplo), una sola”, indicó.
-
-También citó que DHL está haciendo un centro o ‘hub’ de logística en el **Aeropuerto Internacional Felipe Ángeles** (AIFA) de la capital mexicana de más de 200 000 m².
-
-En el evento, Salvador Portillo, presidente de la **Cámara Nacional de Manufacturas Eléctricas y** presidente de la comisión de **‘nearshoring’** de Concamin, destacó la importancia de garantizar la electricidad al argumentar que esta actividad es transversal a todas las actividades económicas en la nación.
-
-“**Sin electricidad no hay un futuro eléctrico** y, si ustedes observan, está concentrado básicamente en dos rubros: el primer rubro del **consumo eléctrico** es prácticamente del sector industrial, consume el 60 %, y el sector residencial consume el 24 %”, precisó.
-
-Rubo de transporte
-------------------
-
-Actualmente dijo que el **rubro del transport**e consume 0.5 %, pero advirtió de que la **electromovilidad** y la necesidad de una infraestructura de carga va a potenciar este consumo.
-
-También expuso que “**cualquier actividad industrial** que propicie el ‘nearshoring’ va a requerir electricidad y va a requerir electricidad en un monto importante”.
-
-“Algo muy importante para incentivar el **‘nearshoring’** es que la energía sea de **fuentes renovables**, cada día es más exigente que el componente de la energía que consumen las empresas que exportan hacia Estados Unidos tenga un cierto **componente de energía renovable**“, compartió. 
-
-Ben Affleck está listo para salir, pero tendría una condición para la ‘afortunada’
-==================================================================================
-
-Medios internacionales aseguran que Ben Affleck luce más radiante tras separarse de Jennifer Lopez.
----------------------------------------------------------------------------------------------------
-
-![Ben Affleck cumplió 52 años el pasado 15 de agosto. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo193.jpg)
-
-**Jennifer Lopez y Ben Affleck**, que alguna vez fueron la pareja más célebre de **Hollywood**, pusieron fin a su relación una vez más, después de haber reavivado su romance en 2021.
-
-La ruptura causó desilusión entre sus seguidores. Ahora, ambos se centran en sus **carreras** y vidas personales.
-
-### **Más noticias:**
-
-* [Jennifer Lopez con nuevo romance, dicen medios internacionales](https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html "https://www.elcomercio.com/afull/jennifer-lopez-ben-affleck.html")
-* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html")
-* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html "https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html")
-
-**Ben Affleck está listo para salir, pero tiene una condición para la ‘afortunada’**
-------------------------------------------------------------------------------------
-
-Ben Affleck expresó recientemente que se siente “listo para volver a salir”, sin preocuparse por la controversia que rodea su separación de Lopez.
-
-El actor, conocido por su papel en ‘Batman’, ha captado la atención mediática por su renovada energía tras la ruptura, y mencionó que tiene “una condición” para la mujer con la que desee relacionarse.
-
-> [View this post on Instagram](https://www.instagram.com/p/ConCjgsuexu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Ben Affleck (@benaffleckreturn)](https://www.instagram.com/p/ConCjgsuexu/?utm_source=ig_embed&utm_campaign=loading)
-
-Una fuente cercana a Affleck, de 52 años, indicó, según International The News,: “Ben no ha abandonado la idea de las relaciones y se siente preparado para seguir adelante”.
-
-El informante agregó que el actor mantendrá sus futuras citas de manera casual, sin compromisos serios hasta que se complete su divorcio de la famosa cantante.
-
-Además, se conoció que **Affleck** está interesado en salir solo con personas que sean sobrias o que estén en recuperación.
-
-Después de atravesar momentos difíciles en los últimos años, el actor deja claro que su salud y bienestar son su prioridad. “No va a poner en riesgo su sobriedad”, subrayó la fuente.
-
-Los fanáticos están ansiosos por saber quién será la próxima persona que llamará la atención del actor Ben Affleck, de 52 años.
-
-El Brighton de Pervis Estupiñán se dejó empatar ante Wolves
-===========================================================
-
-Brighton ganaba cómodo hasta el minuto 88 del partido, pero entonces llegó una remontada en contra del equipo de Estupiñán
---------------------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán del Brighton de la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pervis.jpg)
-
-El **Brighton,** con el ecuatoriano **Pervis Estupiñán** en la titularidad, dejó escapar dos puntos valiosos en la **Premier League** tras empatar 2-2 contra el Wolverhampton Wanderers (Wolves) este 26 de octubre de 2024.
-
-Cuando el partido se acercaba a su final, el equipo local parecía encaminado hacia una victoria, liderando 2-1. Sin embargo, el drama se desató en el tiempo de descuento.
-
-### Más noticias:
-
-* [Pervis Estupiñán y el Brighton sorprenden en la Premier League](https://www.elcomercio.com/deportes/previs-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton sorprenden en la Premier League")
-* [Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-clave-remontada-brighton-ante-tottenham.html "Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham")
-* [¿Cuándo juega el Chelsea ante Brighton?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-brighton-moises-caicedo.html "¿Cuándo juega el Chelsea ante Brighton?")
-
-Los hinchas del Brighton celebraban el buen desempeño de su equipo, que había anotado dos goles:
-
-Danny Welbeck abrió el marcador a los 45 minutos, seguido por Evan Ferguson, quien amplió la ventaja a los 85. Con un resultado aparentemente seguro, el equipo se relajó, permitiendo que los Wolves reaccionaran en los minutos finales.
-
-La remontada de los visitantes comenzó cuando **Rayan Aït-Nouri** descontó a los 88 minutos, poniendo en alerta al Brighton.
-
-En el tercer minuto de descuento, **Matheus Cunha** sorprendió a la defensa local, anotando el gol del empate y desatando la frustración en el estadio.
-
-El encuentro culminó 2-2, y el Brighton dejó escapar la oportunidad de sumar tres puntos importantes en casa.
-
-Brighton de Pervis Estupiñán
-----------------------------
-
-Con este empate, el Brighton se queda con 16 puntos, ocupando la quinta posición de la tabla, a siete puntos del líder, el Manchester City.
-
-Los Wolves, por su parte, suman su primera unidad tras nueve partidos, saliendo de la última posición en la clasificación.
-
-**Pervis Estupiñán**, pieza clave en el equipo y habitual titular de la Selección de Ecuador, se llevó una tarjeta amarilla en el minuto 74.
-
-A pesar de su esfuerzo en el campo, el equipo no pudo consolidar la ventaja, lo que dejó un sabor amargo en el **Brighton Stadium.**
-
-Las estadísticas del partido favorecieron al Brighton, que mantuvo un 52% de posesión y realizó 19 remates frente a los 14 de los Wolves.
-
-Sin embargo, la falta de concentración en los momentos decisivos les costó dos puntos cruciales en su lucha por escalar en la Premier League.
