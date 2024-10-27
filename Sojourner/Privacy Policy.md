@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5278310457e0289dea859f04adccd4a4
+d0c1c6e85b4c80567da758c6887568c3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Leaf hook clasp](https://www.sojourner.biz/images/cache/SKU0033front.200.jpg)](https://www.sojourner.biz/clasps/hooks/leaf-hook-clasp.html "Leaf hook clasp")
+[![Amethyst stone chips](https://www.sojourner.biz/images/cache/amethyst_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/amethyst-stone-chips.html "Amethyst stone chips")
 
-#### [Leaf hook clasp](https://www.sojourner.biz/clasps/hooks/leaf-hook-clasp.html "Leaf hook clasp")
+#### [Amethyst stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/amethyst-stone-chips.html "Amethyst stone chips")
 
-$21.00
+$4.00
 
 ### Best Sellers
 
