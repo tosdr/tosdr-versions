@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7f430604-18d3-49e7-ab5f-46db7ed13cc2/20241026T010636/7f430604-18d3-49e7-ab5f-46db7ed13cc2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7f430604-18d3-49e7-ab5f-46db7ed13cc2/20241026T010636/7f430604-18d3-49e7-ab5f-46db7ed13cc2_360x203.jpg)](https://www.king5.com/article/money/economy/everetts-maritime-institute-graduates-first-class/281-4ba266cd-4652-4466-9f39-00e215c10d12)
+    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/local/teen-arrested-stabbing-man-multiple-times-capitol-hill/281-b2b637fa-1afc-4e10-9f0f-b3ecd0c809d6)
         
-        #### [Everett's new Maritime Institute graduates first class](https://www.king5.com/article/money/economy/everetts-maritime-institute-graduates-first-class/281-4ba266cd-4652-4466-9f39-00e215c10d12)
+        #### [Girl, 17, arrested for stabbing man multiple times in Seattle](https://www.king5.com/article/news/local/teen-arrested-stabbing-man-multiple-times-capitol-hill/281-b2b637fa-1afc-4e10-9f0f-b3ecd0c809d6)
         
-    *  [![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a15235c1-58e1-4c6b-b928-fca4b439eebb/20241026T155408/a15235c1-58e1-4c6b-b928-fca4b439eebb_360x203.jpg)](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
+    *  [![](https://media.king5.com/assets/KING/images/3a83228d-842d-4292-a5a0-ace94767fa28/20241027T051022/3a83228d-842d-4292-a5a0-ace94767fa28_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3a83228d-842d-4292-a5a0-ace94767fa28/20241027T051022/3a83228d-842d-4292-a5a0-ace94767fa28_360x203.jpg)](https://www.king5.com/article/news/local/horror-fall-city-killings-likely-impacting-investigators-former-sheriff/281-2741f125-dee3-408a-ad72-98d0c5c8a6f3)
         
-        #### [Seattle-based Native Youth Rise Above nonprofit to have first-time charity team at NYC Marathon](https://www.king5.com/article/news/local/seattle-native-youth-rise-above-nonprofit-first-time-charity-team-nyc-marathon/281-8c6459ce-af16-485c-ac1c-347cf7c979f6)
+        #### [Some detectives on Fall City killings case have seen this horror before](https://www.king5.com/article/news/local/horror-fall-city-killings-likely-impacting-investigators-former-sheriff/281-2741f125-dee3-408a-ad72-98d0c5c8a6f3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c4964845-fa21-42e6-9304-04189a098d33/20241026T150523/c4964845-fa21-42e6-9304-04189a098d33_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4964845-fa21-42e6-9304-04189a098d33/20241026T150523/c4964845-fa21-42e6-9304-04189a098d33_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/807dc19d-7201-47d7-86d0-0e96dacf2dda/20241027T052423/807dc19d-7201-47d7-86d0-0e96dacf2dda_16x9.jpg) ![](https://media.king5.com/assets/KING/images/807dc19d-7201-47d7-86d0-0e96dacf2dda/20241027T052423/807dc19d-7201-47d7-86d0-0e96dacf2dda_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     *  [![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac2cc97a-6628-4005-a047-4b6d439506b4/ac2cc97a-6628-4005-a047-4b6d439506b4_360x203.jpg)](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
-        #### [Wind Advisory, heavy rain on tap for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
+        #### [Steady and heavy rain for western Washington this weekend](https://www.king5.com/article/weather/wind-advisory-heavy-rain-western-washington-weekend/281-e83223d4-cde4-4994-be64-5c8f75e8528c)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 57°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
