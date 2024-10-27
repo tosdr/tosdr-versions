@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,8 +148,6 @@
 
 Сейчас читают
 
-* [Салат со свёклой, тыквой, солёными огурцами и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174486)
-* [Куриное суфле с рисом](https://www.russianfood.com/recipes/recipe.php?rid=170718)
 * [Плов с курицей, айвой и черносливом](https://www.russianfood.com/recipes/recipe.php?rid=172232)
 
 |     |
@@ -172,6 +170,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Готовим тарелки к новинкам. КОТЛЕТЫ по-необычному (19)](https://www.russianfood.com/reading/?post_id=22784) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/574/sm_573923.jpg)](https://www.russianfood.com/reading/?post_id=22784)
+
+Куриные фрикадельки, запечённые с гречкой в томатно-сметанном соусе. Картофельные котлеты с овощами. Котлеты из кролика. Рыбные котлеты с овсяными хлопьями.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22784)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22784#comments) | 27.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Сладко и ново. Лучшие СЛАДОСТИ №24-43](https://www.russianfood.com/reading/?post_id=22783) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/744/sm_743130.jpg)](https://www.russianfood.com/reading/?post_id=22783)
+
+Галета с грушей. Шоколадно-молочное желе с миндалём. Шарлотка с яблоками и клюквой. Шоколадный кекс с тыквой. Тыквенные блонди. Клюквенный мармелад. Груши с орехами, шоколадом и клюквой, в слоёном тесте.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22783)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22783#comments) | 27.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Простые морковные кушанья. Лучшие рецепты из МОРКОВИ (26)](https://www.russianfood.com/reading/?post_id=22782) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/682/sm_681230.jpg)](https://www.russianfood.com/reading/?post_id=22782)
+
+Морковные котлеты с пшеном. Салат с печенью, морковью и грибами. Рагу с индейкой, фасолью и морковью. Морковно-апельсиновый суп-пюре. Морковно-ореховый пирог-перевёртыш.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22782)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22782#comments) | 27.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -341,48 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22769#comments) | 24.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Грибной суп с кукурузной полентой](https://www.russianfood.com/recipes/recipe.php?rid=174240) |     |
-
-[![Фото к рецепту: Грибной суп с кукурузной полентой](//img1.russianfood.com/dycontent/images_upl/743/sm_742828.jpg "Фото к рецепту: Грибной суп с кукурузной полентой")](https://www.russianfood.com/recipes/recipe.php?rid=174240)
-
-Простейший суп из шампиньонов, лука, моркови и мелкой кукурузной крупы - поленты, с пряностями и свежей зеленью. Лёгкий суп с приятным вкусом и замечательным ароматом варится исключительно быстро.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174240)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174240#comments) | 24.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Овощной суп с чечевицей и кускусом](https://www.russianfood.com/recipes/recipe.php?rid=174569) |     |
-
-[![Фото к рецепту: Овощной суп с чечевицей и кускусом](//img1.russianfood.com/dycontent/images_upl/745/sm_744567.jpg "Фото к рецепту: Овощной суп с чечевицей и кускусом")](https://www.russianfood.com/recipes/recipe.php?rid=174569)
-
-Суп без мяса и без картофеля, но за счёт чечевицы и кускуса получается сытным. Овощи, в том числе сладким перец и стебли сельдерея, обжариваются, к ним добавляется чечевица, а затем всё заливается в кастрюле водой. Кускус добавляется в самом конце приготовления. Свежий базилик дополняют аромат супа.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174569)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174569#comments) | 24.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Томатный суп с фаршем и баклажанами](https://www.russianfood.com/recipes/recipe.php?rid=174428) |     |
-
-[![Фото к рецепту: Томатный суп с фаршем и баклажанами](//img1.russianfood.com/dycontent/images_upl/743/sm_742801.jpg "Фото к рецепту: Томатный суп с фаршем и баклажанами")](https://www.russianfood.com/recipes/recipe.php?rid=174428)
-
-Мясной фарш обжаривается в кастрюле с луком, сладким перцем и удачно подобранными пряностями. Затем добавляются картофель и баклажаны, которые прекрасно подходят для супа. Основной вкус определяют помидоры и томатный соус.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174428)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174428#comments) | 24.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -454,8 +452,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) |
-| [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/721/alt1_720773.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [![](//img1.russianfood.com/dycontent/images_upl/741/alt1_740689.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741337.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174351) |
+| [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Сладкий песочный тарт с пряной бататно-сливочной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=173492) | [Капустные котлеты с грибами](https://www.russianfood.com/recipes/recipe.php?rid=174358) | [Филе индейки, тушенное с тыквой в томатно-сметанном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174351) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(163)
+(111)
