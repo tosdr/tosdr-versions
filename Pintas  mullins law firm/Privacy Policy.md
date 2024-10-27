@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
+[![Is there a high risk for infection in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-is-there-a-high-risk-for-infection-in-nursing-homes-scaled.jpg "Is There a High Risk For Infection in Nursing Homes?")](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/ "Is There a High Risk For Infection in Nursing Homes?")
 
-[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
+[#### Is There a High Risk For Infection in Nursing Homes?](https://www.pintas.com/faq/is-there-a-high-risk-for-infection-in-nursing-homes/)
 
-[![How long will a mormon church sex abuse case take to settle?](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/ "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### How Long Will a Mormon Church Sex Abuse Case Take to Settle?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![Can peritoneal mesothelioma spread to the lungs?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-peritoneal-mesothelioma-spread-to-the-lungs-scaled.jpg "Can Peritoneal Mesothelioma Spread to the Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs "Can Peritoneal Mesothelioma Spread to the Lungs?")
+[![What is utah hb90 law?](https://www.pintas.com/wp-content/uploads/2023/04/general-photo-300x200.jpg "What Is Utah HB90 Law?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/ "What Is Utah HB90 Law?")
 
-[#### Can Peritoneal Mesothelioma Spread to the Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/can-peritoneal-mesothelioma-spread-to-lungs)
+[#### What Is Utah HB90 Law?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-utah-hb90-law/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
