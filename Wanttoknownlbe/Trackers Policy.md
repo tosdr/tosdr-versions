@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/dit-is-het/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mh17-boek-de-doofpotdeal/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
