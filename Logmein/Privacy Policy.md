@@ -19,9 +19,6 @@
         * [Phone System
             
             Cloud-based business phone system + softphone](https://www.logmein.com/connect/business-phone-system)
-        * [Customer Engagement
-            
-            Phone system, softphone + new digital channels](https://www.logmein.com/connect/customer-engagement-software)
         * [CX
             
             Phone system, softphone, digital channels, advanced reporting + attendant console](https://www.logmein.com/connect/customer-experience-platform)
