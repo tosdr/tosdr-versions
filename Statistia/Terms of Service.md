@@ -315,10 +315,6 @@
     * [First steps and help center](https://www.statista.com/getting-started/welcome-to-statista)
     * [Live webinars & recordings](https://www.statista.com/webinar)
     
-    Tools
-    
-    * [Business Plan Export](https://www.statista.com/business-plan-export)
-    
     Services
     
     [](https://statistaplus.com/en)
