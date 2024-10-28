@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![How can a nursing home abuse or neglect lawyer help my family?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family-scaled.jpg "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/ "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/)
 
-[![Evidence for neglect in memory care cases](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care-300x200.jpg "Evidence for Neglect in Memory Care Cases")](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/ "Evidence for Neglect in Memory Care Cases")
+[![Suing for talcum powder ovarian cancer death](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-sue-for-a-loved-one-that-died-of-ovarian-cancer-from-talcum-powder-use.jpg "Suing for Talcum Powder Ovarian Cancer Death")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/ "Suing for Talcum Powder Ovarian Cancer Death")
 
-[#### Evidence for Neglect in Memory Care Cases](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/)
+[#### Suing for Talcum Powder Ovarian Cancer Death](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/)
 
-[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
+[![Is small cell lung cancer caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-small-cell-lung-cancer-caused-by-asbestos.jpg "Is Small Cell Lung Cancer Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos "Is Small Cell Lung Cancer Caused By Asbestos?")
 
-[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
+[#### Is Small Cell Lung Cancer Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
