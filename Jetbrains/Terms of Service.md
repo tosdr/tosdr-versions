@@ -1,9 +1,9 @@
 [Sales Support](https://www.jetbrains.com/support/sales/)
 
-**Website Terms of Use**
-========================
+Website Terms of Use
+====================
 
-**Version 2.2, last updated: March 21, 2023**
+Version 2.4, last updated: October 28, 2023
 
 PLEASE READ THE TERMS OF USE CAREFULLY BEFORE USING THIS WEBSITE. BY ACCESSING AND USING THE SITE IN ANY WAY, INCLUDING BROWSING THE SITE, USING ANY INFORMATION, CONTENT, OR SERVICES, DOWNLOADING ANY SOFTWARE OR FILES, OR PLACING ORDERS FOR PRODUCTS, YOU ARE ENTERING INTO A LEGAL AGREEMENT WITH JETBRAINS AND HEREBY AGREE TO ABIDE BY THESE TERMS.
 
@@ -15,8 +15,8 @@ Via the Website, JetBrains makes a number of resources available to you, includi
 
 JetBrains reserves the right, at its sole discretion, to change, add, or remove any part of these Terms of Use at any time without prior notice to you. We may, at our discretion, choose to notify those subscribed to our newsletters and RSS feeds of such changes. However, it is up to you to check these Terms of Use for changes. Continuing to use the Site after the changes to the Terms of Use have been posted will constitute your acceptance of those changes.
 
-**Visitor Conduct**
--------------------
+Visitor Conduct
+---------------
 
 In using the Website, including all software, services, and resources available through it, you agree that:
 
@@ -34,15 +34,15 @@ f) You will not remotely harvest or otherwise collect information about others, 
 
 g) If you choose to post a comment, your username, city, and any other information that you choose to post will be visible to the public. JetBrains is neither responsible nor liable for the privacy of any information that you choose to post to its websites, including in its blogs, or for the accuracy of any information contained in those postings. Any information that you disclose publicly becomes public information. JetBrains cannot prevent such information from being used in a manner that may violate these terms, the law, or your personal privacy. This personal data will be stored and processed until the deletion, in each instance, of posted information.
 
-**International Access**
-------------------------
+International Access
+--------------------
 
 The Website can be accessed from most countries around the world. Website content may contain references to JetBrains products, services, documents, promotions, or other resources that are not available in your country. These references do not imply that JetBrains intends to make such resources available in your country.
 
 The Website is hosted and offered from three different regions: EU, US, and China, whereas the content is served from the region nearest to you. JetBrains makes no claim or representation that the Website or any resources available through it are appropriate to or made available for locations outside the European Union. If the Website or any of the resources it makes available are illegal in your locality, DO NOT USE THE WEBSITE. In the event of a conflict between these Terms of Use and a mandatory provision of an applicable law, the mandatory provision shall prevail.
 
-**Use of Website Content**
---------------------------
+Use of Website Content
+----------------------
 
 Unless specifically indicated elsewhere on the Website, you may view, download, and print Website content subject to the following conditions:
 
@@ -58,8 +58,8 @@ e) You may not distribute, sell, lease, rent, or relicense Website content to ot
 
 f) JetBrains reserves the exclusive right to revoke authorization to view, download, print, or otherwise use Website content at any time, and you shall discontinue such use immediately upon notice from JetBrains.
 
-**Uploading Content**
----------------------
+Uploading Content
+-----------------
 
 As part of the Website’s functionality and within JetBrains products or services, JetBrains may provide you with the option to upload data to the Website for further use by JetBrains, including in the provision of support to you for JetBrains products and services.
 
@@ -73,22 +73,22 @@ c) Upload any files which could cause harm to JetBrains or the Website, customer
 
 d) Post comments, post in forums, participate in community discussions, or use the Website other than in accordance with our [Acceptable Use Policy](https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use/).
 
-**Use of Software**
--------------------
+Use of Software
+---------------
 
 The software and accompanying documentation that is available for download from the Website is the copyrighted and/or patented work of JetBrains and/or its suppliers. Use of the software is governed by the terms of the subscription or other respective agreement included with such downloaded or cloud software. You will not be able to install or access any software that is accompanied by or subject to a subscription or other respective agreement unless you agree to the terms of the subscription or other respective agreement.
 
 If no subscription agreement accompanies the software, and no other license governs the use of the software, then use of the software will be governed by these Terms of Use. You agree that you will not decompile, reverse-engineer, or otherwise attempt to discover the source code of the software available on the Website, unless a license or applicable law specifically authorizes you to do so.
 
-**Intellectual Property Rights and Licenses**
----------------------------------------------
+Intellectual Property Rights and Licenses
+-----------------------------------------
 
 Website content, including software and related documentation, as well as the structure of the Website, is protected by copyright, trademark, patent, and/or other intellectual property laws. Unauthorized use of Website content may violate such laws and these Terms of Use.
 
 Except as expressly stated in this document, JetBrains and its suppliers do not grant any express or implied rights to use Website content. You agree not to copy, republish, embed, download, transmit, modify, rent, lease, loan, sell, assign, distribute, license, sublicense, reverse engineer, or create derivative works based on the Website, and/or its content (including downloaded software or other products), except as expressly authorized in these Terms of Use. Also, you agree (a) not to use any data mining, robots, or similar data harvesting and extraction methods in connection with the Website, and (b) not to impose an unreasonable load on our infrastructure, using an unreasonable amount of JetBrains resources, or using JetBrains-related automated systems in an unreasonable way. This includes mining cryptocurrency and other automated processes relating to cryptocurrencies.
 
-**Use of Trademarks**
----------------------
+Use of Trademarks
+-----------------
 
 The names, trademarks, logos, icons, websites, screenshots, and other distinctive features ("Marks") displayed on the Site are the property of JetBrains or third parties (for example, the third-party Marks listed [here](https://www.jetbrains.com/legal/trademarks/)). You may not use the Marks without the prior written consent of JetBrains or (as applicable) the third-party owner of the Marks.
 
@@ -104,8 +104,8 @@ d) You must comply with the further requirements specified in the JetBrains [Bra
 
 JetBrains reserves the right to determine what constitutes improper or inappropriate use of JetBrains Marks and Logos, and you agree to correct improper or inappropriate use of JetBrains Marks and Logos, or to cease use of the same, upon notification from JetBrains.
 
-**Limitation of Liability, Disclaimer**
----------------------------------------
+Limitation of Liability, Disclaimer
+-----------------------------------
 
 a) THE SITE AND ASSOCIATED FUNCTIONALITIES ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES. USE OF THE JETBRAINS SITE IS AT YOUR OWN RISK, AND JETBRAINS MAKES NO WARRANTY AS TO ITS USE OR PERFORMANCE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, JETBRAINS, AS WELL AS ITS SUPPLIERS AND RESELLERS, DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE JETBRAINS SITE AND THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES.
 
@@ -113,8 +113,8 @@ b) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL JETBRAINS
 
 c) OUR TOTAL LIABILITY IN ANY MATTER ARISING OUT OF OR IN RELATION TO THESE TERMS IS LIMITED TO FIVE (5) US DOLLARS. THIS LIMITATION WILL APPLY EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF LIABILITY EXCEEDING SUCH AMOUNT AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
-**Personal Data**
------------------
+Personal Data
+-------------
 
 In connection with your use of the Website, JetBrains and its associated companies may process your personal data for the following purposes:
 
@@ -140,19 +140,19 @@ You may also withdraw your consent to the processing of your personal data at an
 
 More detailed information about personal data processing for the aforementioned purposes, and about your rights, can be found in the remainder of these Terms of Use and in the [Privacy Notice](https://www.jetbrains.com/legal/docs/privacy/privacy/).
 
-**IP address and user environment data**
-----------------------------------------
+IP address and user environment data
+------------------------------------
 
 Web logs that may be generated during your use of the Website may include information about IP addresses used to access website services, the browser, operating environment, Uniform Resource Locators (URLs) used to access website services, and/or other information. No personal data is kept in web logs for more than 30 days.
 
-**Cookies and Other Tracking Technologies**
--------------------------------------------
+Cookies and Other Tracking Technologies
+---------------------------------------
 
 When you use our Site, we and our third-party service providers read and store small files of letters and numbers called ‘cookies’ on your browser or on the hard drive of your computer for various purposes further described below. We also use certain other, similar technologies (e.g. local or URL storage) for the same purposes, but we will refer to cookies and all such related technologies as “Cookies” for the sake of simplicity. See below for more information about these technologies.
 
 Unless you have adjusted your browser’s settings so that it will refuse Cookies, our Site will issue (i) strictly necessary Cookies as soon as you visit our Site and (ii) non-necessary Cookies (Statistics, Personalization, and Marketing Cookies) as soon as you give us your consent while visiting our Site (see below for more information).
 
-**What Cookies we use and for what purposes**
+What Cookies we use and for what purposes
 
 The Cookies we use on our Site are categorized as follows:
 
@@ -206,19 +206,19 @@ a) Link to social networks, such as Facebook, that may subsequently use informat
 
 b) Provide third parties with information on your visit so that they can present you with advertisements or other offers that may be of interest to you.
 
-#### **YOUR CONSENT / WITHDRAWING CONSENT**
+#### YOUR CONSENT / WITHDRAWING CONSENT
 
 You acknowledge that the Site will use Cookies strictly necessary for the functionality of the Site (including security, network management, and accessibility) without your consent.
 
 If you provide us with your consent, the Site will use Cookies for any other purposes in accordance with your preferences, including Statistics, Marketing, and Personalization. You can withdraw your consent at any time by visiting [www.jetbrains.com/opt-out/](https://www.jetbrains.com/opt-out/) or by adjusting the settings on the Cookie banner.
 
-**For how long we store the Cookies and related personal data**
+For how long we store the Cookies and related personal data
 
 Cookies can be stored on the user’s device for various amounts of time. Some Cookies are activated only for a session, meaning they are activated when a user opens the browser window and deleted when they close the browser window. Other, so-called ‘persistent’ Cookies remain stored on the user’s device for an extended period of time.
 
 In any event, any Cookies and personal data collected using Cookies will be stored and processed for no longer than 2 years.
 
-#### **Processing of personal data through Cookies**
+#### Processing of personal data through Cookies
 
 Some (but not all) Cookies make you identifiable, in which case operations with data obtained from the usage of such Cookies qualifies as the processing of personal data. To the extent this is the case, we may process the personal data because:
 
@@ -230,13 +230,13 @@ The purposes of such processing correspond to the purposes of various types of C
 
 You can withdraw your consent at any time by visiting [www.jetbrains.com/opt-out/](https://www.jetbrains.com/opt-out/) or by adjusting the settings on the Cookie banner.
 
-#### **How to delete and block our Cookies**
+#### How to delete and block our Cookies
 
 You can block Cookies by activating the setting in your browser that allows you to refuse some or all Cookies. However, if you use your browser settings to block all Cookies (including Cookies that are strictly necessary for the Site to work), you may not be able to access all or parts of our Site.
 
 For further information about deleting or blocking Cookies, please visit: [https://www.aboutcookies.org/how-to-delete-cookies/](https://www.aboutcookies.org/how-to-delete-cookies).
 
-#### **More about the Cookies we use**
+#### More about the Cookies we use
 
 _Cookies._ There are two types of cookies:
 
@@ -258,10 +258,75 @@ Users in the United States may opt out of many third-party ad networks. For exam
 
 Opting out of one or more of the companies listed on the DAA [Consumer Choice Page](https://www.aboutads.info/choices/) or the NAI [Consumer Opt-Out Page](https://www.networkadvertising.org/choices/) will opt you out from those companies’ delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our Site or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., context-based ads). Also, note that if your browsers are configured to reject Cookies when you opt out on the DAA or NAI websites, your opt-out may not be effective. Additional information is available on the DAA's website at [www.aboutads.info](https://www.aboutads.info/) and on the NAI's website at [www.networkadvertising.org](https://www.networkadvertising.org/).
 
-#### **DO NOT TRACK**
+#### DO NOT TRACK
 
 Currently, our systems do not recognize browser "do-not-track" requests. You may, however, disable certain tracking by disabling cookies in your browser, but if you do so, we cannot guarantee the correct behavior of the services we provide to you.
 
-#### **LINKS**
+#### LINKS
 
 At times, JetBrains websites and/or JetBrains software products may contain links to other external (non-JetBrains) sites. JetBrains is not responsible for the privacy practices or content of such linked websites.
+
+General Provisions
+------------------
+
+### THESE TERMS OF USE AND THEIR PARTIES
+
+These Terms of Use together with the order accepted by Us form the entire agreement and replace any previous agreement between You and Us in relation to its subject matter. By accepting these Terms of Use, You agree to use JetBrains Website in accordance with the JetBrains Cloud-Based Product Acceptable Use Policy, available at [https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html.](https://www.jetbrains.com/legal/docs/terms/teamware-acceptable-use.html) Except as expressly mentioned, these Terms of Use do not apply or give rights to anyone else (‘no third-party beneficiaries’).
+
+### GOVERNING LAW AND DISPUTES
+
+These Terms of Use are governed by the laws of the Czech Republic, without reference to conflict of laws principles, and specifically excluding the United Nations Convention on Contracts for the International Sale of Goods. The Parties to these Terms of Use undertake to use the best commercial efforts to amicably settle any disputes arising hereunder (“Dispute”).
+
+Should the Parties to these Terms of Use fail to settle a Dispute amicably, the Dispute will be excluded from the jurisdiction of general courts and all such Disputes will be finally decided by the Arbitration Court attached to the Czech Chamber of Commerce and the Agricultural Chamber of the Czech Republic by three (3) arbitrators in accordance with the Rules of that Arbitration Court, and the language of the proceedings will be English.
+
+### FORCE MAJEURE
+
+We will not be responsible (‘liable’) for any delay or failure to perform any obligation under these Terms of Use where the delay or failure results from any cause beyond Our reasonable control. This includes any ‘acts of God’, labor disputes or other industrial disturbances, systemic electrical, telecommunications, or other utility failures, public health emergencies, earthquakes, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.
+
+### SEVERABILITY
+
+If a court finds that any part of, or word in, these Terms of Use is not enforceable, that part or word will not affect the enforceability of the rest of these Terms of Use.
+
+### INTERPRETATION
+
+Any heading, title, or paragraph summary is only for convenience and does not affect the interpretation of these Terms of Use. Any instance of an inclusive word, such as ‘including’, is not comprehensive and refers to other items in that category. References to time or periods of time are determined based on Central European Time.
+
+### WAIVER
+
+Any waiver of Our rights under these Terms of Use must be in writing and signed by Us.
+
+### CHANGES TO TERMS AND POLICIES
+
+These Terms of Use can be updated from time to time, to reflect changes in the JetBrains Website and how it is offered to You. If this happens, We will update these Terms of Use on the JetBrains Website. Any updated Terms of Use will start (‘come into effect’) on the date specified in the updated Terms of Use.
+
+### RELATIONSHIP
+
+Your relationship with JetBrains is that of independent parties. These Terms of Use do not create a partnership, franchise, joint venture, agency, fiduciary, employment, or any other type of relationship.
+
+### CONTRACT REVIEW
+
+By agreeing to these Terms of Use, You are confirming to Us that:
+
+i) You have had sufficient opportunity to read, review, and consider these Terms of Use;
+
+ii) You understand the content of each paragraph of these Terms of Use; and
+
+iii) You have had sufficient opportunity to seek independent professional legal advice.
+
+This means that, to the extent permitted by applicable law, any statutory provisions relating to so-called ‘form’ or ‘adhesion’ contracts do not apply to these Terms of Use.
+
+### RESERVATION OF RIGHTS
+
+We reserve the right to alter these Terms of Use at any time.
+
+**CHILDREN AND MINORS**
+
+If You are younger than 13 years old, You cannot agree to these Terms of Use or use the JetBrains Website. By agreeing to these Terms of Use You are confirming that:
+
+i) You have the legal capacity to enter into these Terms of Use, or, if You are between the age of 13 and 18, You have valid consent from a parent or legal guardian to do so; and
+
+ii) You understand the JetBrains Privacy Notice, available at [https://www.jetbrains.com/legal/docs/privacy/privacy.html](https://www.jetbrains.com/legal/docs/privacy/privacy.html).
+
+IF YOU DO NOT UNDERSTAND THIS SECTION, DO NOT UNDERSTAND THE JETBRAINS PRIVACY NOTICE, OR DO NOT KNOW WHETHER YOU HAVE THE LEGAL CAPACITY TO ACCEPT THESE TERMS OF USE, PLEASE ASK YOUR PARENT OR LEGAL GUARDIAN FOR HELP.
+
+If You have any questions about these Terms of Use, please contact Us at [legal@jetbrains.com](mailto:legal@jetbrains.com).
