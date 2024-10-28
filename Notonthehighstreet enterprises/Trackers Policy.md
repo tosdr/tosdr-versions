@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-[Get 20% off gifts for him with code DAY3](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-him)
+[Get 20% off gifts for her with code DAY4](https://www.notonthehighstreet.com/gifts/shop-by-recipient/for-her)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
