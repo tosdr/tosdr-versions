@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
@@ -59,6 +60,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
+    
+    ### Set sail with the Moana 2 Ticket 2 Adventure
+    
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
+    
+    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
+    
+* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
+    
+    ### Get $5 off on Moana
+    
+    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
+    
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
     ### Seize the We Are Venom Bundle
@@ -67,14 +84,6 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
-    
-    ### Popular Poster Pack
-    
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
-    
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
-    
 * [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
     
     ### Halloween Deals Near You!
@@ -82,14 +91,6 @@ Offers
     Your favorite Halloween classics at spooky good prices are just a click away.
     
     [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
-    
-* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
-    
-    ### Wicked Exclusive Collector's Pin Pack
-    
-    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
-    
-    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
 
 New & Coming soon
@@ -187,6 +188,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
+
+### SPECIAL OFFER
+
+Close
+
+![Set sail with Moana's Ticket 2 Adventure](https://images.fandango.com/cms/assets/3c800e70-9340-11ef-a07e-5b03d6159fe4--fan-mobilewebmu-moana2gwp-194x223.png)
+
+#### Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
+
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Moana 2’ between 7:00am PT on 10/28/24 and 11:59pm PT on 11/10/24. Purchaser will receive a post purchase email containing one Fandango at Home Promotional Code (“Code”) that is good for $5 off the purchase (and not the rental) of Moana in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 11/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes, shipping and handling additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. If cost of purchase or rental is more than maximum value of the Code, then user must pay the difference. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [BUY TICKETS](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_GlobalNav)
 
 ### SPECIAL OFFER
 
