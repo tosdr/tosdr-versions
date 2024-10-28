@@ -560,7 +560,46 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     
     Place of processing: United States – [Privacy Policy](https://www.taboola.com/privacy-policy) – [Opt Out](https://www.taboola.com/policies/privacy-policy).
     
-    Storage duration: up to 2 years
+    Storage duration:
+    
+    * \*:session-data: indefinite
+    * COu: 1 month
+    * \_\_tbwt: indefinite
+    * \_data: 1 day
+    * \_tb\_sess\_r: 30 minutes
+    * \_tb\_t\_ppg: 30 minutes
+    * abLdr: 3 hours
+    * abMbl: 3 hours
+    * br: 30 minutes
+    * cnx\_roi: 1 month
+    * eng\_mt.crossSessionsData.SessionsHistory: indefinite
+    * eng\_mt.numOfTimesMetricsSent: indefinite
+    * eng\_mt.scrollDepth: indefinite
+    * eng\_mt.sessionDepth: indefinite
+    * eng\_mt.sessionStartTime: indefinite
+    * eng\_mt.timeOnSite: indefinite
+    * eng\_mt.ver: indefinite
+    * redirect\_data: 1 month
+    * rng: 1 day
+    * roi\_cookie: 1 month
+    * sessionid: 1 day
+    * t\_gid: 1 year
+    * taboola global:last-external-referrer: indefinite
+    * taboola global:local-storage-keys: indefinite
+    * taboola global:lspb: indefinite
+    * taboola global:tblci: indefinite
+    * taboola global:user-id: indefinite
+    * taboola\_fp\_td\_user\_id: 1 year
+    * taboola\_select: 1 year
+    * taboola\_session\_id: duration of the session
+    * tb\_click\_param: 50 seconds
+    * tbl-exm-apperance: indefinite
+    * tbl-exm-history: indefinite
+    * tbl-session-referrer: indefinite
+    * tbl\_rtus\_id: indefinite
+    * trc\_cache: indefinite
+    * trc\_cache\_by\_placement: indefinite
+    * trc\_cookie\_storage: 1 year
     
 * ### Jetpack (Jetpack Digital LLC)
     
