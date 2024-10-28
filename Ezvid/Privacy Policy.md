@@ -1,7 +1,6 @@
-[![ezvid wiki logo small](//res.cloudinary.com/ezvid-inc/image/upload/f_auto,q_auto,h_100,e_sharpen,e_colorize,co_black/ezvid_wiki_logo_light_t14g85)](https://wiki.ezvid.com/)
+[![ezvid wiki logo small](https://d7y9tqwfp7l4x.cloudfront.net/static/ezvid_wiki_logo_light_t14g85.webp)](https://wiki.ezvid.com/)
 
 * [TEXTBOOKS](https://wiki.ezvid.com/categories/books-textbooks)
-* [PROFILES](https://wiki.ezvid.com/m)
 * [WIKIS](https://wiki.ezvid.com/wikis)
 * [ABOUT](https://wiki.ezvid.com/about_us)
 
