@@ -2,14 +2,14 @@ Monday, October 28 2024
 
 Breaking News
 
+* [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
+* [Medal of Honor Monday: Army Staff Sgt. Lucian Adams](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
 * [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
 * [President Joe Biden’s Schedule for Monday, October 28, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-28-2024/)
 * [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
 * [Kamala Does Not Understand A Wall Or Security](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
 * [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
 * [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
-* [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
-* [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Kamalanomics](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv102824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/same-ole-same-ole/)
+    
+    [Same ‘Ole Same ‘Ole](https://www.conservativedailynews.com/2024/10/same-ole-same-ole/)
+    
+    October 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5696-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
+    
+    [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
+    
+    October 28, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/241023-O-D0439-083A-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
+    
+    [Medal of Honor Monday: Army Staff Sgt. Lucian Adams](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
+    
+    October 28, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
     
     [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
@@ -160,37 +178,19 @@ Recent Posts
     
     October 28, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
-    
-    [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
-    
-    October 27, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/not-flying/)
-    
-    [Not Flying](https://www.conservativedailynews.com/2024/10/not-flying/)
-    
-    October 27, 2024
-    
-* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/)
-    
-    [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/)
-    
-    October 27, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Giffords, Anti-Gunners Change Their Messaging to Match Changing Crime Stats](https://www.thegunpage.com/giffords-anti-gunners-change-their-messaging-to-match-changing-crime-stats/10611502)
+* [2nd Circuit Court Rules For New York In “Sensitive Places” Carry Ban Lawsuit](https://www.thegunpage.com/2nd-circuit-court-rules-for-new-york-in-sensitive-places-carry-ban-lawsuit/10611500)
+* [JMac Customs Unveils Its AKM Railed Dust Cover Assembly EMBARGO- 10/25](https://www.thegunpage.com/jmac-customs-unveils-its-akm-railed-dust-cover-assembly-embargo-10-25/10611498)
+* [Gun Made Launches The Largest Online Search Engine For Guns and Ammunition](https://www.thegunpage.com/gun-made-launches-the-largest-online-search-engine-for-guns-and-ammunition/10611496)
+* [New: Magpul DAKA GRID Organizers For Pelican, Plano Gun Cases](https://www.thegunpage.com/new-magpul-daka-grid-organizers-for-pelican-plano-gun-cases/10611504)
+* [TFB Weekly Web Deals 111: Deals for October 28th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-111-deals-for-october-28th-2024/10611499)
+* [2024 A Girl & A Gun Fall Festival: ‘Laughter, Smiles, Waves And Welcoming Attitudes’](https://www.thegunpage.com/2024-a-girl-a-gun-fall-festival-laughter-smiles-waves-and-welcoming-attitudes/10611501)
 * [FPC Pushes Forward In Post Office Gun Ban Challenge](https://www.thegunpage.com/fpc-pushes-forward-in-post-office-gun-ban-challenge/10611493)
+* [Short Krags: The Philippine Connection](https://www.thegunpage.com/short-krags-the-philippine-connection/10611495)
 * [Scopes We Love: Athlon Argos BTR Gen2 6-24×50mm Review](https://www.thegunpage.com/scopes-we-love-athlon-argos-btr-gen2-6-24x50mm-review/10611482)
-* [Is 380 Good for Self-Defense? Everything You Need to Know](https://www.thegunpage.com/is-380-good-for-self-defense-everything-you-need-to-know/10611479)
-* [New: Cole Pro Grand Luxe Beretta A400](https://www.thegunpage.com/new-cole-pro-grand-luxe-beretta-a400/10611477)
-* [How John Kerry’s Recent Attack On The 1A Also Targets The 2A](https://www.thegunpage.com/how-john-kerrys-recent-attack-on-the-1a-also-targets-the-2a/10611469)
-* [Gun Review – The Savage Rascal](https://www.thegunpage.com/gun-review-the-savage-rascal/10611467)
-* [Silencer Saturday #352: Are Silencers In Common Use Now?](https://www.thegunpage.com/silencer-saturday-352-are-silencers-in-common-use-now/10611468)
-* [All About The 2024 Winchester Experience Event](https://www.thegunpage.com/all-about-the-2024-winchester-experience-event/10611465)
-* ["The Sower of Death" – the History of Yugoslavian M84 Machinegun](https://www.thegunpage.com/the-sower-of-death-the-history-of-yugoslavian-m84-machinegun/10611458)
-* [POTD: Putting The XM7 To The Test At Fort Campbell](https://www.thegunpage.com/potd-putting-the-xm7-to-the-test-at-fort-campbell/10611459)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
 * Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
 * TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
@@ -240,7 +241,6 @@ Recent Comments
 * charles wilkins on [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/#comment-782900)
 * charles wilkins on [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/#comment-782887)
 * Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
-* Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 
 [Close](#)
 
