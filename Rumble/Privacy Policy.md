@@ -202,115 +202,111 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Badlands Media
-
-12.8K](https://rumble.com/v5kanyx-defected-ep.-92.html "Badlands Media")
-
-[Akademiks
-
-4.97K](https://rumble.com/v5kd54l-quando-rondo-forgives-lil-durk-for-mrdering-his-cousin-durk-being-named-for.html "Akademiks")
-
 [NEWSMAX
 
-1.86K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+1.17K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-218](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+160](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
-130](https://rumble.com/v5jq5nh-live-general-tire-team-series-patriot-cup-day-4.html "Major League Fishing")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
-
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
-
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
+65](https://rumble.com/v5jq5nh-live-general-tire-team-series-patriot-cup-day-4.html "Major League Fishing")
 
 [THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
 
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
 
-[New York Post](https://rumble.com/c/NYPost "New York Post")
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
 
-[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
-
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[GOP](https://rumble.com/c/GOP "GOP")
-
-[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
 
 [My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
 
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
 [Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
-
-[Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
 
 [TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
 
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
 
-[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
 
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+
+[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
 
 ### Theme
 
