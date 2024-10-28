@@ -48,11 +48,11 @@ Analytics
 
 Demonstrate the power of your security programs with real-time insights](https://safebase.io/products/analytics)
 
-Featured Resource
+download ROI Calculator
 
-[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/65d52700bc85e4d870361c77_Trust%20Center%20Strategy%20Guide_1600x900.png)
+[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/6708292e83745f78d268bbec_Trust%20Center%20Strategy%20Guide%20(2).png)
 
-How to Build Your Trust Center Strategy](https://safebase.io/resources/guide-trust-center-strategy)
+Unlock time and cost savings by automating security questionnaire reviews with SafeBase](https://safebase.io/resources/roi-calculator)
 
 Solutions
 
