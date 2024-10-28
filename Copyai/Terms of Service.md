@@ -1,6 +1,6 @@
 Future Proofed: **How AI Is Transforming GTM Strategy**
 
-[Get the book](http://copy.ai/book)
+[Get the book](https://www.copy.ai/book)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
