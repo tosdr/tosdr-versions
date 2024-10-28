@@ -1,161 +1,159 @@
 [![zeabur](/docs/_next/static/media/logo_b.5eb843fb.svg)![zeabur](/docs/_next/static/media/logo_w.1fc649c9.svg)](https://docs.zeabur.com/docs)
 
-[GitHubGitHub (opens in a new tab)](https://github.com/zeabur)
+[GitHubGitHub](https://github.com/zeabur)
 
-* [Introduction](https://docs.zeabur.com/docs)
-* [Get Started](https://docs.zeabur.com/docs/get-started)
+* [Introduction](https://docs.zeabur.com/docs/en-US)
+* [Get Started](https://docs.zeabur.com/docs/en-US/get-started)
 * Deploy
     
-    * [Create Project](https://docs.zeabur.com/docs/deploy/create-project)
-    * Domain Binding
-    * [Root Directory](https://docs.zeabur.com/docs/deploy/root-directory)
-    * [Watch Paths](https://docs.zeabur.com/docs/deploy/watch-paths)
-    * [Deploy with Dockerfile](https://docs.zeabur.com/docs/deploy/dockerfile)
-    * [Deploy Button](https://docs.zeabur.com/docs/deploy/deploy-button)
-    * [Backup Service](https://docs.zeabur.com/docs/deploy/backup)
-    * [Custom Prebuilt](https://docs.zeabur.com/docs/deploy/customize-prebuilt)
-    * [Integrating with GitHub](https://docs.zeabur.com/docs/deploy/github)
-    * Private Networking
-    * [Special Variables](https://docs.zeabur.com/docs/deploy/special-variables)
-    * [Deploy in CLI](https://docs.zeabur.com/docs/deploy/deploy-in-cli)
-    * [Config Editing](https://docs.zeabur.com/docs/deploy/config-edit)
-    * [Environment Variables](https://docs.zeabur.com/docs/deploy/variables)
-    * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
-    * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
-    * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
-    * [Update Image Reference](https://docs.zeabur.com/docs/deploy/update-image-reference)
+    * [Create Project](https://docs.zeabur.com/docs/en-US/deploy/create-project)
+    * [Root Directory](https://docs.zeabur.com/docs/en-US/deploy/root-directory)
+    * [Watch Paths](https://docs.zeabur.com/docs/en-US/deploy/watch-paths)
+    * [Deploy with Dockerfile](https://docs.zeabur.com/docs/en-US/deploy/dockerfile)
+    * [Deploy Button](https://docs.zeabur.com/docs/en-US/deploy/deploy-button)
+    * [Backup Service](https://docs.zeabur.com/docs/en-US/deploy/backup)
+    * [Custom Prebuilt](https://docs.zeabur.com/docs/en-US/deploy/customize-prebuilt)
+    * [Integrating with GitHub](https://docs.zeabur.com/docs/en-US/deploy/github)
+    * [Special Variables](https://docs.zeabur.com/docs/en-US/deploy/special-variables)
+    * [Deploy in CLI](https://docs.zeabur.com/docs/en-US/deploy/deploy-in-cli)
+    * [Config Editing](https://docs.zeabur.com/docs/en-US/deploy/config-edit)
+    * [Environment Variables](https://docs.zeabur.com/docs/en-US/deploy/variables)
+    * [Pull Request Preview](https://docs.zeabur.com/docs/en-US/deploy/preview)
+    * [Execute Commands](https://docs.zeabur.com/docs/en-US/deploy/command-execution)
+    * [Enable Serverless](https://docs.zeabur.com/docs/en-US/deploy/serverless)
+    * [Update Image Reference](https://docs.zeabur.com/docs/en-US/deploy/update-image-reference)
     
 * Template
     
-    * [Create Template](https://docs.zeabur.com/docs/template/create-template)
-    * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
-    * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
+    * [Create Template](https://docs.zeabur.com/docs/en-US/template/create-template)
+    * [Creating Templates from YAML](https://docs.zeabur.com/docs/en-US/template/template-in-code)
+    * [Fork Code from Template Services](https://docs.zeabur.com/docs/en-US/template/fork-git-repo-from-template)
     
 * Networking
     
-    * [Public Networking](https://docs.zeabur.com/docs/networking/public)
-    * [Private Networking](https://docs.zeabur.com/docs/networking/private)
+    * [Public Networking](https://docs.zeabur.com/docs/en-US/networking/public)
+    * [Private Networking](https://docs.zeabur.com/docs/en-US/networking/private)
     
 * Guides
     
-    * [Node.js](https://docs.zeabur.com/docs/guides/nodejs)
+    * [Node.js](https://docs.zeabur.com/docs/en-US/guides/nodejs)
         
-        * [Astro](https://docs.zeabur.com/docs/guides/nodejs/astro)
-        * [Deploy Qwik Project](https://docs.zeabur.com/docs/guides/nodejs/qwik)
-        * [Express](https://docs.zeabur.com/docs/guides/nodejs/express)
-        * [NestJS](https://docs.zeabur.com/docs/guides/nodejs/nestjs)
-        * [Next.js](https://docs.zeabur.com/docs/guides/nodejs/nextjs)
-        * [Nue](https://docs.zeabur.com/docs/guides/nodejs/nue)
-        * [Nuxt](https://docs.zeabur.com/docs/guides/nodejs/nuxt)
-        * [Remix](https://docs.zeabur.com/docs/guides/nodejs/remix)
-        * [Svelte Kit](https://docs.zeabur.com/docs/guides/nodejs/svelte-kit)
-        * [Umi](https://docs.zeabur.com/docs/guides/nodejs/umi)
-        * [Vite](https://docs.zeabur.com/docs/guides/nodejs/vite)
-        * [Waku](https://docs.zeabur.com/docs/guides/nodejs/waku)
+        * [Astro](https://docs.zeabur.com/docs/en-US/guides/nodejs/astro)
+        * [Express](https://docs.zeabur.com/docs/en-US/guides/nodejs/express)
+        * [NestJS](https://docs.zeabur.com/docs/en-US/guides/nodejs/nestjs)
+        * [Next.js](https://docs.zeabur.com/docs/en-US/guides/nodejs/nextjs)
+        * [Nue](https://docs.zeabur.com/docs/en-US/guides/nodejs/nue)
+        * [Nuxt](https://docs.zeabur.com/docs/en-US/guides/nodejs/nuxt)
+        * [Deploy Qwik Project](https://docs.zeabur.com/docs/en-US/guides/nodejs/qwik)
+        * [Remix](https://docs.zeabur.com/docs/en-US/guides/nodejs/remix)
+        * [Svelte Kit](https://docs.zeabur.com/docs/en-US/guides/nodejs/svelte-kit)
+        * [Umi](https://docs.zeabur.com/docs/en-US/guides/nodejs/umi)
+        * [Vite](https://docs.zeabur.com/docs/en-US/guides/nodejs/vite)
+        * [Waku](https://docs.zeabur.com/docs/en-US/guides/nodejs/waku)
         
-    * [Bun](https://docs.zeabur.com/docs/guides/bun)
+    * [Bun](https://docs.zeabur.com/docs/en-US/guides/bun)
         
-        * [ElysiaJS](https://docs.zeabur.com/docs/guides/bun/elysiajs)
-        * [Hono](https://docs.zeabur.com/docs/guides/bun/hono)
+        * [ElysiaJS](https://docs.zeabur.com/docs/en-US/guides/bun/elysiajs)
+        * [Hono](https://docs.zeabur.com/docs/en-US/guides/bun/hono)
         
-    * [Java](https://docs.zeabur.com/docs/guides/java)
+    * [Java](https://docs.zeabur.com/docs/en-US/guides/java)
         
-        * [Spring Boot](https://docs.zeabur.com/docs/guides/java/spring-boot)
+        * [Spring Boot](https://docs.zeabur.com/docs/en-US/guides/java/spring-boot)
         
-    * [PHP](https://docs.zeabur.com/docs/guides/php)
+    * [PHP](https://docs.zeabur.com/docs/en-US/guides/php)
         
-        * [Laravel](https://docs.zeabur.com/docs/guides/php/laravel)
+        * [Laravel](https://docs.zeabur.com/docs/en-US/guides/php/laravel)
         
-    * [Python](https://docs.zeabur.com/docs/guides/python)
+    * [Python](https://docs.zeabur.com/docs/en-US/guides/python)
         
-        * [Django](https://docs.zeabur.com/docs/guides/python/django)
-        * [Flask](https://docs.zeabur.com/docs/guides/python/flask)
-        * [Reflex](https://docs.zeabur.com/docs/guides/python/reflex)
+        * [Django](https://docs.zeabur.com/docs/en-US/guides/python/django)
+        * [Flask](https://docs.zeabur.com/docs/en-US/guides/python/flask)
+        * [Reflex](https://docs.zeabur.com/docs/en-US/guides/python/reflex)
         
-    * [Go](https://docs.zeabur.com/docs/guides/go)
+    * [Go](https://docs.zeabur.com/docs/en-US/guides/go)
     * Deno
         
-        * [Fresh](https://docs.zeabur.com/docs/guides/deno/fresh)
-        * [TypeScript](https://docs.zeabur.com/docs/guides/deno/typescript)
+        * [Fresh](https://docs.zeabur.com/docs/en-US/guides/deno/fresh)
+        * [TypeScript](https://docs.zeabur.com/docs/en-US/guides/deno/typescript)
         
-    * [Rust](https://docs.zeabur.com/docs/guides/rust)
+    * [Rust](https://docs.zeabur.com/docs/en-US/guides/rust)
     * Swift
         
-        * [Vapor](https://docs.zeabur.com/docs/guides/swift/vapor)
+        * [Vapor](https://docs.zeabur.com/docs/en-US/guides/swift/vapor)
         
     * Dart
         
-        * [Flutter](https://docs.zeabur.com/docs/guides/dart/flutter)
+        * [Flutter](https://docs.zeabur.com/docs/en-US/guides/dart/flutter)
         
     * Static
         
-        * [Hugo](https://docs.zeabur.com/docs/guides/static/hugo)
-        * [MkDocs](https://docs.zeabur.com/docs/guides/static/mkdocs)
+        * [Hugo](https://docs.zeabur.com/docs/en-US/guides/static/hugo)
+        * [MkDocs](https://docs.zeabur.com/docs/en-US/guides/static/mkdocs)
         
-    * [.NET](https://docs.zeabur.com/docs/guides/dotnet)
+    * [.NET](https://docs.zeabur.com/docs/en-US/guides/dotnet)
     
 * Project Manage
     
-    * [Service Usage](https://docs.zeabur.com/docs/manage/metric)
-    * [Invite Member](https://docs.zeabur.com/docs/manage/invite)
-    * [Project Budget](https://docs.zeabur.com/docs/manage/budget)
+    * [Service Usage](https://docs.zeabur.com/docs/en-US/manage/metric)
+    * [Invite Member](https://docs.zeabur.com/docs/en-US/manage/invite)
+    * [Project Budget](https://docs.zeabur.com/docs/en-US/manage/budget)
     
 * Service Marketplace
     
-    * [Deploy Dragonfly Service](https://docs.zeabur.com/docs/marketplace/dragonfly)
-    * [Deploy Flowise](https://docs.zeabur.com/docs/marketplace/flowise)
-    * [Deploy Focalboard](https://docs.zeabur.com/docs/marketplace/focalboard)
-    * [Deploy Ghost](https://docs.zeabur.com/docs/marketplace/ghost)
-    * [Deploy Halo](https://docs.zeabur.com/docs/marketplace/halo)
-    * [Deploy Likit](https://docs.zeabur.com/docs/marketplace/likit)
-    * [Deploy Linkwarden](https://docs.zeabur.com/docs/marketplace/linkwarden)
-    * [Deploy Logto](https://docs.zeabur.com/docs/marketplace/logto)
-    * [Deploy Memos](https://docs.zeabur.com/docs/marketplace/memos)
-    * [Deploy MongoDB](https://docs.zeabur.com/docs/marketplace/mongodb)
-    * [Deploy MySQL](https://docs.zeabur.com/docs/marketplace/mysql)
-    * [Deploy n8n](https://docs.zeabur.com/docs/marketplace/n8n)
-    * [Deploy PostgreSQL](https://docs.zeabur.com/docs/marketplace/postgresql)
-    * [Deploy RabbitMQ](https://docs.zeabur.com/docs/marketplace/rabbitmq)
-    * [Deploy Redis](https://docs.zeabur.com/docs/marketplace/redis)
-    * [Deploy RSSHub](https://docs.zeabur.com/docs/marketplace/rsshub)
-    * [Deploy Tiny Tiny RSS](https://docs.zeabur.com/docs/marketplace/ttrss)
-    * [Deploy Umami](https://docs.zeabur.com/docs/marketplace/umami)
-    * [Deploy Uptime Kuma](https://docs.zeabur.com/docs/marketplace/uptime-kuma)
-    * [Deploy WeWe RSS](https://docs.zeabur.com/docs/marketplace/wewe-rss)
-    * [Deploy WordPress](https://docs.zeabur.com/docs/marketplace/wordpress)
+    * [Deploy Dragonfly Service](https://docs.zeabur.com/docs/en-US/marketplace/dragonfly)
+    * [Deploy Flowise](https://docs.zeabur.com/docs/en-US/marketplace/flowise)
+    * [Deploy Focalboard](https://docs.zeabur.com/docs/en-US/marketplace/focalboard)
+    * [Deploy Ghost](https://docs.zeabur.com/docs/en-US/marketplace/ghost)
+    * [Deploy Halo](https://docs.zeabur.com/docs/en-US/marketplace/halo)
+    * [Deploy Likit](https://docs.zeabur.com/docs/en-US/marketplace/likit)
+    * [Deploy Linkwarden](https://docs.zeabur.com/docs/en-US/marketplace/linkwarden)
+    * [Deploy Logto](https://docs.zeabur.com/docs/en-US/marketplace/logto)
+    * [Deploy Memos](https://docs.zeabur.com/docs/en-US/marketplace/memos)
+    * [Deploy MongoDB](https://docs.zeabur.com/docs/en-US/marketplace/mongodb)
+    * [Deploy MySQL](https://docs.zeabur.com/docs/en-US/marketplace/mysql)
+    * [Deploy n8n](https://docs.zeabur.com/docs/en-US/marketplace/n8n)
+    * [Deploy PostgreSQL](https://docs.zeabur.com/docs/en-US/marketplace/postgresql)
+    * [Deploy RabbitMQ](https://docs.zeabur.com/docs/en-US/marketplace/rabbitmq)
+    * [Deploy Redis](https://docs.zeabur.com/docs/en-US/marketplace/redis)
+    * [Deploy RSSHub](https://docs.zeabur.com/docs/en-US/marketplace/rsshub)
+    * [Deploy Tiny Tiny RSS](https://docs.zeabur.com/docs/en-US/marketplace/ttrss)
+    * [Deploy Umami](https://docs.zeabur.com/docs/en-US/marketplace/umami)
+    * [Deploy Uptime Kuma](https://docs.zeabur.com/docs/en-US/marketplace/uptime-kuma)
+    * [Deploy WeWe RSS](https://docs.zeabur.com/docs/en-US/marketplace/wewe-rss)
+    * [Deploy WordPress](https://docs.zeabur.com/docs/en-US/marketplace/wordpress)
     
 * Legal and Policies
     
-    * [Fair use Guidelines](https://docs.zeabur.com/docs/legal/fair-use-guideline)
-    * [Privacy Policy](https://docs.zeabur.com/docs/legal/privacy)
-    * [Terms of Service](https://docs.zeabur.com/docs/legal/terms)
+    * [Fair use Guidelines](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline)
+    * [Privacy Policy](https://docs.zeabur.com/docs/en-US/legal/privacy)
+    * [Terms of Service](https://docs.zeabur.com/docs/en-US/legal/terms)
     
 * Payments and Billing
     
-    * [Pricing](https://docs.zeabur.com/docs/billing/pricing)
-    * [Plans](https://docs.zeabur.com/docs/billing/plans)
-    * [Subscription](https://docs.zeabur.com/docs/billing/subscription)
-    * [Referral](https://docs.zeabur.com/docs/billing/referral)
-    * [Sponsor](https://docs.zeabur.com/docs/billing/sponsor)
+    * [Pricing](https://docs.zeabur.com/docs/en-US/billing/pricing)
+    * [Plans](https://docs.zeabur.com/docs/en-US/billing/plans)
+    * [Subscription](https://docs.zeabur.com/docs/en-US/billing/subscription)
+    * [Referral](https://docs.zeabur.com/docs/en-US/billing/referral)
+    * [Sponsor](https://docs.zeabur.com/docs/en-US/billing/sponsor)
     
 * Community
     
-    * [Verify](https://docs.zeabur.com/docs/community/verify)
-    * [Get Help](https://docs.zeabur.com/docs/community/help)
+    * [Verify](https://docs.zeabur.com/docs/en-US/community/verify)
+    * [Get Help](https://docs.zeabur.com/docs/en-US/community/help)
     
 * Advanced
     
-    * [Builds](https://docs.zeabur.com/docs/advanced/builds)
-    * [Serverless output format](https://docs.zeabur.com/docs/advanced/serverless-output-format)
+    * [Builds](https://docs.zeabur.com/docs/en-US/advanced/builds)
+    * [Serverless output format](https://docs.zeabur.com/docs/en-US/advanced/serverless-output-format)
     
 * Developer
     
-    * [Use API Key](https://docs.zeabur.com/docs/developer/use-api-key)
-    * [Public API](https://docs.zeabur.com/docs/developer/public-api)
+    * [Use API Key](https://docs.zeabur.com/docs/en-US/developer/use-api-key)
+    * [Public API](https://docs.zeabur.com/docs/en-US/developer/public-api)
     
-* [Dedicated Server](https://docs.zeabur.com/docs/dedicated-server)
+* [Dedicated Server](https://docs.zeabur.com/docs/en-US/dedicated-server)
     
-    * [Register Dedicated Server](https://docs.zeabur.com/docs/dedicated-server/register)
+    * [Register Dedicated Server](https://docs.zeabur.com/docs/en-US/dedicated-server/register)
     
 
 English
@@ -186,15 +184,13 @@ On This Page
 * [Twitter](#twitter)
 * [Payments](#payments)
 * [Links to Other Sites](#links-to-other-sites)
-* [Children's Privacy](#childrens-privacy)
+* [Children’s Privacy](#childrens-privacy)
 * [Changes to This Privacy Policy](#changes-to-this-privacy-policy)
 * [Contact Us](#contact-us)
 
-[Question? Give us feedback → (opens in a new tab)](https://github.com/zeabur/zeabur/issues/new?title=Feedback%20for%20%E2%80%9CPrivacy%20Policy%E2%80%9D&labels=feedback)[Edit this page](https://github.com/zeabur/zeabur/tree/main/docs/pages/legal/privacy.en-US.mdx)
+[Question? Give us feedback →](https://github.com/zeabur/zeabur/issues/new?title=Feedback%20for%20%E2%80%9CPrivacy%20Policy%E2%80%9D&labels=feedback)[Edit this page](https://github.com/zeabur/zeabur/tree/main/docs/pages/en-US/legal/privacy.mdx)Scroll to top
 
-Legal and Policies
-
-Privacy Policy
+[Legal and Policies](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline "Legal and Policies")Privacy Policy
 
 Privacy Policy
 ==============
@@ -202,20 +198,20 @@ Privacy Policy
 Introduction[](#introduction)
 -----------------------------
 
-Welcome to Zeabur Corporation("us", "we", or "our") operates [https://zeabur.com (opens in a new tab)](https://zeabur.com/) (hereinafter referred to as "Service").
+Welcome to Zeabur Corporation(“us”, “we”, or “our”) operates [https://zeabur.com](https://zeabur.com/) (hereinafter referred to as “Service”).
 
-Our Privacy Policy governs your visit to [https://zeabur.com (opens in a new tab)](https://zeabur.com/), and explains how we collect, safeguard and disclose information that results from your use of our Service. We use your data to provide and improve Service.
+Our Privacy Policy governs your visit to [https://zeabur.com](https://zeabur.com/), and explains how we collect, safeguard and disclose information that results from your use of our Service. We use your data to provide and improve Service.
 
 By using Service, you agree to the collection and use of information in accordance with this policy.
 
 Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
-Our Terms and Conditions ("Terms") govern all use of our Service and together with the Privacy Policy constitutes your agreement with us ("agreement").
+Our Terms and Conditions (“Terms”) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (“agreement”).
 
 Definitions[](#definitions)
 ---------------------------
 
-**SERVICE** means the [https://zeabur.com (opens in a new tab)](https://zeabur.com/) website operated by Zeabur Corporation.
+**SERVICE** means the [https://zeabur.com](https://zeabur.com/) website operated by Zeabur Corporation.
 
 **PERSONAL DATA** means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
@@ -241,7 +237,7 @@ Types of Data Collected[](#types-of-data-collected)
 
 #### Personal Data[](#personal-data)
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
 * Email address
 * First name and last name
@@ -251,9 +247,9 @@ We may use your Personal Data to contact you with newsletters, marketing or prom
 
 #### Usage Data[](#usage-data)
 
-We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through a mobile device ("Usage Data").
+We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through a mobile device (“Usage Data”).
 
-This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 When you access Service with a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
 
@@ -329,7 +325,7 @@ The security of your data is important to us but remember that no method of tran
 GDPR[](#gdpr)
 -------------
 
-If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. – See more at [https://eur-lex.europa.eu/eli/reg/2016/679/oj (opens in a new tab)](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+If you are a resident of the European Union (EU) and European Economic Area (EEA), you have certain data protection rights, covered by GDPR. – See more at [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
@@ -355,7 +351,7 @@ Please note that we may ask you to verify your identity before responding to suc
 Service Providers[](#service-providers)
 ---------------------------------------
 
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -388,19 +384,19 @@ Zeabur Corporation uses remarketing services to advertise on third party website
 
 Google Ads (AdWords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads (opens in a new tab)](http://www.google.com/settings/ads)
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](http://www.google.com/settings/ads)
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on – [https://tools.google.com/dlpage/gaoptout (opens in a new tab)](https://tools.google.com/dlpage/gaoptout) – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en (opens in a new tab)](https://policies.google.com/privacy?hl=en)
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 #### Twitter[](#twitter)
 
 Twitter remarketing service is provided by Twitter Inc.
 
-You can opt-out from Twitter's interest-based ads by following their instructions: [https://support.twitter.com/articles/20170405 (opens in a new tab)](https://support.twitter.com/articles/20170405)
+You can opt-out from Twitter’s interest-based ads by following their instructions: [https://support.twitter.com/articles/20170405](https://support.twitter.com/articles/20170405)
 
-You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: [https://twitter.com/privacy (opens in a new tab)](https://twitter.com/privacy)
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: [https://twitter.com/privacy](https://twitter.com/privacy)
 
 Payments[](#payments)
 ---------------------
@@ -409,19 +405,19 @@ We may provide paid products and/or services within Service. In that case, we us
 
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
 
-The payment processor we work with is [Stripe (opens in a new tab)](https://www.stripe.com/). You can view their Privacy Policy here: [https://stripe.com/privacy (opens in a new tab)](https://stripe.com/privacy)
+The payment processor we work with is [Stripe](https://www.stripe.com/). You can view their Privacy Policy here: [https://stripe.com/privacy](https://stripe.com/privacy)
 
 Links to Other Sites[](#links-to-other-sites)
 ---------------------------------------------
 
-Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Children's Privacy[](#childrens-privacy)
+Children’s Privacy[](#childrens-privacy)
 ----------------------------------------
 
-Our Services are not intended for use by children under the age of 13 ("Children").
+Our Services are not intended for use by children under the age of 13 (“Children”).
 
 We do not knowingly collect personally identifiable information from Children under 13. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
@@ -430,7 +426,7 @@ Changes to This Privacy Policy[](#changes-to-this-privacy-policy)
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update "effective date" at the top of this Privacy Policy.
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update “effective date” at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -441,12 +437,6 @@ If you have any questions about this Privacy Policy, please contact us:
 
 By email: [support@zeabur.com](mailto:support@zeabur.com).
 
-[Fair use Guidelines](https://docs.zeabur.com/docs/legal/fair-use-guideline "Fair use Guidelines")[Terms of Service](https://docs.zeabur.com/docs/legal/terms "Terms of Service")
-
-English
-
-Light
-
-* * *
+[Fair use Guidelines](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline "Fair use Guidelines")[Terms of Service](https://docs.zeabur.com/docs/en-US/legal/terms "Terms of Service")
 
 2024 © [Zeabur Pte. Ltd.](https://zeabur.com/).
