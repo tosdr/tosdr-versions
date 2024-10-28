@@ -4,7 +4,7 @@
 * [Games](https://an1.com/games/)
     
     * [All Games](https://an1.com/games/)
-    * [Action (719)](https://an1.com/games/action/)
+    * [Action (720)](https://an1.com/games/action/)
     * [Cards (35)](https://an1.com/games/cards/)
     * [Arcade (516)](https://an1.com/games/arcade/)
     * [RPG (4)](https://an1.com/games/rpg/)
@@ -27,7 +27,7 @@
     * [All Programs](https://an1.com/programmy/)
     * [Business & Finance (11)](https://an1.com/programmy/business-amp-finance/)
     * [Health and Sport (15)](https://an1.com/programmy/health-and-sport/)
-    * [Internet (15)](https://an1.com/programmy/internet/)
+    * [Internet (16)](https://an1.com/programmy/internet/)
     * [Social (13)](https://an1.com/programmy/social/)
     * [Music and Video (31)](https://an1.com/programmy/music-and-video/)
     * [Personalization (36)](https://an1.com/programmy/personalization/)
