@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![beau temps](https://www.watson.ch/fr/_watsui/static/img/weather/w-1.svg)14°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [France](https://www.watson.ch/fr/france/)
-* [La Chaux-de-Fonds](https://www.watson.ch/fr/la-chaux-de-fonds/)
-* [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
-* [Armée](https://www.watson.ch/fr/armee/)
-* [avion](https://www.watson.ch/fr/avion/)
-* [Migros](https://www.watson.ch/fr/migros/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Football](https://www.watson.ch/fr/football/)
+* [La Chaux-de-Fonds](https://www.watson.ch/fr/la-chaux-de-fonds/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
+* [Migros](https://www.watson.ch/fr/migros/)
+* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
+* [Armée](https://www.watson.ch/fr/armee/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
+* [avion](https://www.watson.ch/fr/avion/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Valais](https://www.watson.ch/fr/valais/)
 * [commerce](https://www.watson.ch/fr/commerce/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
 * [People](https://www.watson.ch/fr/people/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Police](https://www.watson.ch/fr/police/)
 * [élections](https://www.watson.ch/fr/elections/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
-* [Politique](https://www.watson.ch/fr/politique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Ski](https://www.watson.ch/fr/ski/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
