@@ -223,9 +223,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action to Stop Lyft from Deceiving Drivers with Misleading Earnings Claims](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-stop-lyft-deceiving-drivers-misleading-earnings-claims)
+    ### [FTC Takes Action to Stop Online Business Opportunity Scam That Has Cost Consumers Millions](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-stop-online-business-opportunity-scam-has-cost-consumers-millions)
     
-    October 25, 2024
+    October 28, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
