@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/7/csm_acidente_jacintinho_-_foto_reproducao_02b3736b44.jpg)
+   [![Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_Sistemna_Pratagy_BRK_-_foto_Ascom_BRK_1ee1e250de.jpg)
+
+Sistema Pratagy
+
+Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://www.tnh1.com.br/noticia/nid/obra-da-brk-deve-afetar-abastecimento-em-20-bairros-de-maceio-nesta-terca-feira/ "Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira")   [![Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_acidente_jacintinho_-_foto_reproducao_02b3736b44.jpg)
 
 Acidente
 
-Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-exato-em-que-carro-atinge-seis-veiculos-e-derruba-mesas-no-jacintinho/ "Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho")   [![Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_carro-acidente-poste-poco_b8a2947508.jpg)
+Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-exato-em-que-carro-atinge-seis-veiculos-e-derruba-mesas-no-jacintinho/ "Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho")   [![Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_carro-acidente-poste-poco_b8a2947508.jpg)
 
 manhã de segunda
 
-Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")   [![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_6e0eb74ba6.jpg)
+Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")   [![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_6e0eb74ba6.jpg)
 
 sinais de embriaguez
 
-Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
+Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
 
 Domingo de lazer
 
-Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")   [![Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/0/csm_manifestacao_julgamento_caso_joao_de_assis_-_foto_assessoria__2__702f4317e4.jpeg)
+Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")   [![Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/0/csm_manifestacao_julgamento_caso_joao_de_assis_-_foto_assessoria__2__702f4317e4.jpeg)
 
 Crime em 2022
 
-Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://www.tnh1.com.br/noticia/nid/auditores-fiscais-fazem-ato-e-pedem-pela-condenacao-dos-acusados-de-matar-joao-de-assis-em-maceio/ "Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió")   [![Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/9/csm_rui_palmeira_psd_0fbeebc50e.jpeg)
-
-EX-PREFEITO DE MACEIÓ
-
-Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")
+Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://www.tnh1.com.br/noticia/nid/auditores-fiscais-fazem-ato-e-pedem-pela-condenacao-dos-acusados-de-matar-joao-de-assis-em-maceio/ "Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Conte
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_4afefb5f70.jpeg)
+   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
+
+Meteorologia
+
+Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")   [![Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_odilon_gomes_2d68708a31.jpeg)
+
+Alagoas
+
+Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://www.tnh1.com.br/noticia/nid/jovem-alagoano-vai-receber-premio-e-representar-o-brasil-em-evento-da-onu-na-europa/ "Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa")   [![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_4afefb5f70.jpeg)
 
 Oportunidade
 
-Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 parabéns!
 
-Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-27-de-outubro-de-2024/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024")   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
+Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-27-de-outubro-de-2024/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024")   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
 
 balneabilidade
 
-Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
+Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
 
 Alagoas
 
-É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")   [![Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/6/csm_detento__seris_d4c3cbbda2.jpg)
-
-Alagoas
-
-Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30](https://www.tnh1.com.br/noticia/nid/mais-de-15-mil-pessoas-privadas-de-liberdade-farao-prova-do-encceja-nos-dias-29-e-30/ "Mais de 1,5 mil pessoas privadas de liberdade farão prova do Encceja nos dias 29 e 30")   [![Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Acidente_moto_aquatica_Maragogi_-_foto_Reproducao_e187c8afc7.jpg)
-
-Delimitar locais
-
-Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi](https://www.tnh1.com.br/noticia/nid/apos-atropelamento-por-moto-aquatica-mpf-cobra-organizacao-nas-praias-de-maragogi/ "Após atropelamento por moto aquática, MPF cobra organização nas praias de Maragogi")
+É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,7 +82,19 @@ Após atropelamento por moto aquática, MPF cobra organização nas praias de Ma
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
+   [![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_6a42903227.jpg)
+
+cinco pessoas
+
+Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")   [![Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Com_uso_de_drone__policia_prende_foragido_de_Pernambuco_no_Centro_de_Maceio_-_foto_Reproducao_PCAL_a2058b33ae.jpg)
+
+54 anos
+
+Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://www.tnh1.com.br/noticia/nid/com-uso-de-drone-policia-prende-foragido-de-pernambuco-no-centro-de-maceio-assista/ "Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista")   [![Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/e/csm_Policia_Militar_algema_82745f32e3.jpeg)
+
+Polícia
+
+Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://www.tnh1.com.br/noticia/nid/homem-da-entrada-em-hospital-apos-ser-baleado-e-termina-preso-em-cajueiro/ "Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro")   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
 
 Autoria desconhecida
 
@@ -94,19 +106,7 @@ Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha d
 
 imóvel abandonado
 
-Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/drogas-avaliadas-em-r-95-mil-sao-apreendidas-em-residencia-em-arapiraca-suspeito-fugiu/ "Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu")   [![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_33623cea7a.jpeg)
-
-Em Arapiraca
-
-Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://www.tnh1.com.br/noticia/nid/mulher-recebe-visita-de-pms-apos-denuncia-e-e-presa-por-trafico-de-drogas/ "Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas")   [![PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_apreensao_macos_de_cigarro_foto_pm_665a91e20e.jpeg)
-
-Dois presos
-
-PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL](https://www.tnh1.com.br/noticia/nid/pm-apreende-armas-de-fogo-e-155-macos-de-cigarro-sem-notas-fiscais-no-interior-de-al/ "PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior de AL")   [![Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_4a540e1b45.jpg)
-
-Ficou ferido
-
-Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://www.tnh1.com.br/noticia/nid/traficante-trapalhao-e-preso-com-drogas-ao-pular-muro-e-cair-sobre-telhas-de-casa-no-jacintinho/ "Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho")
+Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/drogas-avaliadas-em-r-95-mil-sao-apreendidas-em-residencia-em-arapiraca-suspeito-fugiu/ "Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -124,7 +124,11 @@ Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,23 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
-
-data comemorativa
-
-data comemorativa
-
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
-
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
-
-Cidade Universitária
-
-Cidade Universitária
-
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou
-
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
+[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
 
 Mercado de Trabalho
 
@@ -222,41 +210,15 @@ Mercado de Trabalho
 
 Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
 
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_db8e9abdfa.jpg)
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_camila-com-os-filhos-gravidez-gemeos-destaque-01_e91df0f954.jpg)
 
-sinais de embriaguez
+EM SC
 
-sinais de embriaguez
+EM SC
 
-Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir
+Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas
 
-Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")
-
-[![Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_carreta_transito_320921088e.png)
-
-travou o trânsito
-
-travou o trânsito
-
-Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto
-
-Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto](https://www.tnh1.com.br/noticia/nid/video-carreta-quebra-atravessada-na-rua-e-cria-congestionamento-sentido-aeroporto/ "Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto")[![Ex-ator mirim foi morto por engano em Trancoso, diz delegado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/2/csm_ex-ator_morto_5b302c5303.png)
-
-na bahia
-
-na bahia
-
-Ex-ator mirim foi morto por engano em Trancoso, diz delegado
-
-Ex-ator mirim foi morto por engano em Trancoso, diz delegado](https://www.tnh1.com.br/noticia/nid/ex-ator-mirim-foi-morto-por-engano-em-trancoso-diz-delegado/ "Ex-ator mirim foi morto por engano em Trancoso, diz delegado ")[![Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_hospital_foto_reproducao_8b59f5d344.jpg)
-
-Em Minas Gerais
-
-Em Minas Gerais
-
-Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza
-
-Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza](https://www.tnh1.com.br/noticia/nid/mulher-e-esfaqueada-por-colega-de-trabalho-apos-discussao-sobre-limpeza/ "Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
+Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
 
 Sem migué?
 
@@ -264,7 +226,49 @@ Sem migué?
 
 Atestados médicos ganham novidades em novembro; veja o que muda
 
-Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")
+Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
+
+data comemorativa
+
+data comemorativa
+
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
+
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")
+
+[![Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_Vini_Jr._Rodri_b1e1bc2e4f.jpg)
+
+Futebol Internacional
+
+Futebol Internacional
+
+Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo
+
+Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo](https://www.tnh1.com.br/noticia/nid/bola-de-ouro-frustra-vinicius-junior-e-rodri-e-eleito-melhor-jogador-do-mundo/ "Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo")[![Gisele Bündchen está grávida do terceiro filho, diz site](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_gisele-gravida-professor-luta-reproducao-redes-sociais_c1b7cd5936.png)
+
+44 anos
+
+44 anos
+
+Gisele Bündchen está grávida do terceiro filho, diz site
+
+Gisele Bündchen está grávida do terceiro filho, diz site](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-esta-gravida-do-terceiro-filho-diz-site/ "Gisele Bündchen está grávida do terceiro filho, diz site")[![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_6c29016bb7.png)
+
+Meteorologia
+
+Meteorologia
+
+Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)
+
+Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")[![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_37121539c7.jpg)
+
+cinco pessoas
+
+cinco pessoas
+
+Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió
+
+Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
