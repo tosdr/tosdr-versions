@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Woman sues JetBlue for serving her ice cream that was too cold](https://www.fark.com/goto/13443002) ( [dailymail.co.uk](https://www.fark.com/goto/13443002) ) » [(2 comments)](https://www.fark.com/comments/13443002/Woman-sues-JetBlue-for-serving-her-ice-cream-that-was-too-cold) |
-| [Discussion](https://www.fark.com/discussion/) | [9\. Your TotalFark subscription](https://www.fark.com/goto/13443012) ( [smallbusinessbonfire.com](https://www.fark.com/goto/13443012) ) » [(4 comments)](https://www.fark.com/comments/13443012/-9-Your-TotalFark-subscription) |
-| [Sports](https://www.fark.com/sports/) | [Giving up a Hail Mary touchdown is embarrassing. Giving up a Hail Mary touchdown because you're taunting the other team's fans is peak Bears](https://www.fark.com/goto/13443066) ( [barstoolsports.com](https://www.fark.com/goto/13443066) ) » [(13 comments)](https://www.fark.com/comments/13443066/Giving-up-a-Hail-Mary-touchdown-is-embarrassing-Giving-up-a-Hail-Mary-touchdown-because-youre-taunting-other-teams-fans-is-peak-Bears) |
-| [Business](https://www.fark.com/business/) | [So the WAPO thing was a Quid Pro No](https://www.fark.com/goto/13442864) ( [theguardian.com](https://www.fark.com/goto/13442864) ) » [(20 comments)](https://www.fark.com/comments/13442864/So-WAPO-thing-was-a-Quid-Pro-No) |
-| [STEM](https://www.fark.com/stem/) | [If suffering from stressful situations, try subdividing your personality, dealing with parts instead everything all at once](https://www.fark.com/goto/13442804) ( [npr.org](https://www.fark.com/goto/13442804) ) » [(23 comments)](https://www.fark.com/comments/13442804/If-suffering-from-stressful-situations-try-subdividing-your-personality-dealing-with-parts-instead-everything-all-at-once) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Don't tell anyone, but there maaaay be some kind of a Deadpool/Wolverine Christmas special happening in the next month or so](https://www.fark.com/goto/13443068) ( [cosmicbook.news](https://www.fark.com/goto/13443068) ) » [(5 comments)](https://www.fark.com/comments/13443068/Dont-tell-anyone-but-there-maaaay-be-some-kind-of-a-DeadpoolWolverine-Christmas-special-happening-in-next-month-so) |
-| [Fandom](https://www.fark.com/fandom/) | [Worf talks about the time he ran security for Apollo Creed](https://www.fark.com/goto/13442374) ( [slashfilm.com](https://www.fark.com/goto/13442374) ) » [(25 comments)](https://www.fark.com/comments/13442374/Worf-talks-about-time-he-ran-security-for-Apollo-Creed) |
-| [D'awww](https://www.fark.com/dawww/) | [Rescued cat gets his first bed. He can probably add some of these onions someone is cutting up to the biscuits he's making](https://www.fark.com/goto/13442902) ( [youtube.com](https://www.fark.com/goto/13442902) ) » [(2 comments)](https://www.fark.com/comments/13442902/Rescued-cat-gets-his-first-bed-He-can-probably-add-some-of-these-onions-someone-is-cutting-up-to-biscuits-hes-making) |
-| [Food](https://www.fark.com/food/) | [Want to know what's the best whisky pairing to go with that sad cup of noodles?](https://www.fark.com/goto/13442920) ( [tastingtable.com](https://www.fark.com/goto/13442920) ) » [(1 comment)](https://www.fark.com/comments/13442920/Want-to-know-whats-best-whisky-pairing-to-go-with-that-sad-cup-of-noodles) |
-| [Politics](https://www.fark.com/politics/) | [Trump doesn't think Obama is a good speaker, and he's also a terrible woofer too](https://www.fark.com/goto/13442896) ( [yahoo.com](https://www.fark.com/goto/13442896) ) » [(10 comments)](https://www.fark.com/comments/13442896/Trump-doesnt-think-Obama-is-a-good-speaker-hes-also-a-terrible-woofer-too) |
+| [Main](https://www.fark.com/) | [Photoshop this basketball player](https://www.fark.com/goto/13436032) ( [usatoday.com](https://www.fark.com/goto/13436032) ) » [(8 comments)](https://www.fark.com/comments/13436032/Photoshop-this-basketball-player) |
+| [Discussion](https://www.fark.com/discussion/) | [It's your Fark Monday Movie/TV Rewind, a thread to discuss what you've been watching. For those who prefer the long form of movies, LGT what Wikipedia claims is the first miniseries on American television. Subby's read the book](https://www.fark.com/goto/13443062) ( [imdb.com](https://www.fark.com/goto/13443062) ) » [(4 comments)](https://www.fark.com/comments/13443062/Its-your-Fark-Monday-MovieTV-Rewind-a-thread-to-discuss-what-youve-been-watching-For-those-who-prefer-long-form-of-movies-LGT-what-Wikipedia-claims-is-first-miniseries-on-American-television-Subbys-read-book) |
+| [Sports](https://www.fark.com/sports/) | [There's another woman in the Taylor Swift/Travis Kelce relationship, and her name is Donna Kelce. It's time we talk about her](https://www.fark.com/goto/13443244) ( [slate.com](https://www.fark.com/goto/13443244) ) » [(5 comments)](https://www.fark.com/comments/13443244/Theres-another-woman-in-Taylor-SwiftTravis-Kelce-relationship-her-name-is-Donna-Kelce-Its-time-we-talk-about-her) |
+| [Business](https://www.fark.com/business/) | [Boeing bought back $43 billion in stock over the last 10 years. Now they have no money and are begging Wall Street for $19 billion back](https://www.fark.com/goto/13443288) ( [businessinsider.com](https://www.fark.com/goto/13443288) ) » [(5 comments)](https://www.fark.com/comments/13443288/Boeing-bought-back-$43-billion-in-stock-over-last-10-years-Now-they-have-no-money-are-begging-Wall-Street-for-$19-billion-back) |
+| [STEM](https://www.fark.com/stem/) | ["But for most human cultures, kissing is just as strange as sticking a finger up someone else's nose." So don't feel \*that\* bad for not being picked](https://www.fark.com/goto/13443224) ( [phys.org](https://www.fark.com/goto/13443224) ) » [(2 comments)](https://www.fark.com/comments/13443224/But-for-most-human-cultures-kissing-is-just-as-strange-as-sticking-a-finger-up-someone-elses-nose-So-dont-feel-that-bad-for-not-being-picked) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Yes. And we should make it retroactive](https://www.fark.com/goto/13443280) ( [bbc.com](https://www.fark.com/goto/13443280) ) » [(4 comments)](https://www.fark.com/comments/13443280/Yes-And-we-should-make-it-retroactive) |
+| [Fandom](https://www.fark.com/fandom/) | [Good news, everybody. Bethesda is totally gonna get things right next time when they release Starfield 2](https://www.fark.com/goto/13443298) ( [gamesradar.com](https://www.fark.com/goto/13443298) ) » [(3 comments)](https://www.fark.com/comments/13443298/Good-news-everybody-Bethesda-is-totally-gonna-get-things-right-next-time-when-they-release-Starfield-2) |
+| [D'awww](https://www.fark.com/dawww/) | [Ever wonder what could possibly live in the hills around Los Angeles? The article doesn't show enough. Click the link for the artist's website after you read it](https://www.fark.com/goto/13442978) ( [mymodernmet.com](https://www.fark.com/goto/13442978) ) » [(5 comments)](https://www.fark.com/comments/13442978/Ever-wonder-what-could-possibly-live-in-hills-around-Los-Angeles-The-article-doesnt-show-enough-Click-link-for-artists-website-after-you-read-it) |
+| [Food](https://www.fark.com/food/) | [You're freezing butter wrong](https://www.fark.com/goto/13443246) ( [thetakeout.com](https://www.fark.com/goto/13443246) ) » [(10 comments)](https://www.fark.com/comments/13443246/Youre-freezing-butter-wrong) |
+| [Politics](https://www.fark.com/politics/) | [You idiots who keep complaining that you "don't know what Kamala really stands for" are starting to make Michelle Obama angry. Don't make Michelle Obama angry. You wouldn't like her when she's angry](https://www.fark.com/goto/13443264) ( [npr.org](https://www.fark.com/goto/13443264) ) » [(22 comments)](https://www.fark.com/comments/13443264/You-idiots-who-keep-complaining-that-you-dont-know-what-Kamala-really-stands-for-are-starting-to-make-Michelle-Obama-angry-Dont-make-Michelle-Obama-angry-You-wouldnt-like-her-when-shes-angry) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 28 2024 03:42:22  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 28 2024 09:43:47  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
