@@ -234,7 +234,7 @@ Privacy
 ![](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/62b4db319778cd42aebf1c1c_2022-banner-line-gradient.png)
 
 ClassLink is committed to ensuring data privacy  
-Updated September 2024  
+Updated October 2024  
 
 ClassLink is committed to ensuring that your information is secure and your privacy is protected. The information below outlines our privacy and security policies. Additional information is contained in our software license and service level agreements. In order to prevent unauthorized access or disclosure, we have put in place physical, electronic and managerial procedures to safeguard and secure the information we store. Learn more about our [security protocols](https://www.classlink.com/company/security).  
 
@@ -448,6 +448,15 @@ United States – Family Educational Rights and Privacy Act ([FERPA](https://stu
 The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education. FERPA sets forth protocols for ensuring privacy and security of personally identifiable information of students. ClassLink adheres to the data protection protocols set forth in FERPA.  
 
 ClassLink is [iKeepSafe Certified](https://ikeepsafe.org/certification/ferpa/): _The iKeepSafe FERPA Certification demonstrates compliance with the federal mandates as well as iKeepSafe’s rigorous guidelines through the published Product Profile._
+
+![StateRAMP Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/671fa65dc6ecb6e49d66a169_stateramp-badge.png)
+
+StateRAMP
+---------
+
+ClassLink is a member of [StateRAMP](https://stateramp.org/), which represents the shared interests of state and local governments, third-party assessment organizations, and service providers with IaaS, SaaS, and PaaS solutions. ClassLink and StateRAMP believe in the values of transparency, standardization, and community. As a [StateRAMP member](https://stateramp.org/product-list/), we are committed to making the digital landscape a safer, more secure place.  
+
+StateRAMP is based on NIST Special Publication 800-53 Rev. 4 and is modeled after FedRAMP. It implements a "complete once, use many" approach to save time and reduce costs for service providers and governments. It also relies on FedRAMP Authorized Third-Party Assessment Organizations (3PAOs) for assessments.
 
 ![CSPC Badge](https://cdn.prod.website-files.com/5d6db64572061db9c481aaeb/5d6db64572061d879a81ac58_iKS_CSPC2.png)
 
