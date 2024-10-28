@@ -174,11 +174,10 @@ Web Services
 * E   [digital@gov.je](mailto:digital@gov.je)
 
 Digital Services  
-Jubilee Wharf  
-24 The Esplanade  
+Union Street  
 St Helier  
 Jersey  
-JE2 3QA
+JE2 3RF
 
 [Connect to SignVideo](https://www.gov.je/pages/signvideo.aspx)
 
