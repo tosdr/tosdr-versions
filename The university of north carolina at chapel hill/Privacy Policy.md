@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/ClemensHero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/NursingDean-250x141.jpg)
     
-    Provost invested at American Academy of Sciences and Letters](https://www.unc.edu/posts/2024/10/25/provost-invested-at-american-academy-of-sciences-and-letters/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/Robotics_HERO-250x141.jpg)
+    Rebecca Hill named nursing’s senior associate dean for academic affairs](https://www.unc.edu/posts/2024/10/28/rebecca-hill-named-nursings-senior-associate-dean-for-academic-affairs/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/CCCS-250x141.jpg)
     
-    Robotics work heralds ‘discovery factories’](https://www.unc.edu/posts/2024/10/25/robotics-work-heralds-discovery-factories/)
+    Carolina Cares, Carolina Shares celebrates 40 years of generosity](https://www.unc.edu/posts/2024/10/28/carolina-cares-carolina-shares-celebrates-40-years-of-generosity/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=4a2ce13eb6&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=14e71113b7&text=%prefix%%text%%suffix%&post_id=237895&type=%type%)
 
 ### Share on Mastodon
 
