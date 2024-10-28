@@ -151,21 +151,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![A field of pink muhly grass outside Cheomseongdae Observatory.](https://img.atlasobscura.com/9gxLZbyEolZwKb22NxE0c281EVL0xWNGcGX5XSkmbzw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80OTU2/ZTE5MS1iMDk3LTRk/NjktOTZkZC0zMGU1/MDljNzYzODdlMGEy/OWIwYWRkMzA4OTQ3/M2FfMkE0NTVBTi5q/cGc.jpg)
+   [![Nankoweap Granary](https://img.atlasobscura.com/IlvWAjsOZ0WU74H1ldmHIca-jiGn3kVH3jCOILq_oOw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82MjI0/YzA2Mi1jM2NmLTRh/MGYtYmIzYi1mMTlh/MzM1YmI1ODVlOGNm/N2U2YTc5MzI2YjQw/NTVfSU1HXzM4NDcu/anBlZw.jpg)
 
-Pink Muhly Grass](https://www.atlasobscura.com/places/pink-muhly-grass-gyeongju)
+Nankoweap Granaries](https://www.atlasobscura.com/places/nankoweap-granaries)
 
-   [![Rock formations in Kokkala Gorge.](https://img.atlasobscura.com/qXxfLTFSFyloj9nVa1vUCWfuDvqTcXhXYhP1_KRYkfs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOWU0/Yzg0NC02NWUzLTQ3/NTYtOWY1Zi0wZDg3/MDkwMTIzODBkMWU5/YjgwOWM3ZTIwZDQ4/Y2Nfc2h1dHRlcnN0/b2NrXzIwNjcyMjM4/MDIuanBn.jpg)
+   [![](https://img.atlasobscura.com/1pl0JPrAHO-RIeuzJh_n5ANQv_9TV20fWqKMbiMO0ho/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hYzg1/ZjBlMy1mNDIwLTRi/YjItOGY4Ni05YmRl/NTE0YzU0MmZjMzE2/MGRjNjg0MzQwODMz/NjZfSU1HXzAzNzAu/anBlZw.jpg)
 
-Kokkala Gorge](https://www.atlasobscura.com/places/kokkala-gorge)
+St. Olave's Priory](https://www.atlasobscura.com/places/st-olaves-priory)
 
-   [![Pentidattilo was named for the hand-shaped rock on which it sits.](https://img.atlasobscura.com/pulIamtkAC6pu742MhwJi_T-vlz-Jsacjna0v70HtxY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZmE0/MTFkNC05ZTcxLTQw/MDMtOWRiNC05YmY4/OTFjMzA3NWYzOGFk/ZTdlNWZkZDY5OTg2/MjBfRFNDXzM4NDEu/SlBH.jpg)
+   [![](https://img.atlasobscura.com/4ImZiqFDBIKQjjHfqrZl_zZlPdTeu2ICurHBXIcBXys/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iY2I3/OTQ1ZS1jOTlkLTQ2/ZjYtOGY3Zi0wNmI5/MDgyMzU2Njg4Yzcy/ZjQ0ZDIyMjA2NGZm/NzlfVHVtdWxpX09t/YWxfR2Vlcl9ub3Jk/LmpwZw.jpg)
 
-Pentidattilo](https://www.atlasobscura.com/places/pentidattilo-italy)
+Les Cinq Tombes (The Five Graves)](https://www.atlasobscura.com/places/les-cinq-tombes-the-five-graves)
 
-   [![The menhir is particularly impressive at night.](https://img.atlasobscura.com/H1faLFPhHgR2eYKWEEs0xx4_Yc8UPm_3SHxf4RvZjgM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82ZmNl/NjVhMi0yN2RiLTRk/OGUtYWU4Ny02MmRm/YTBhMTA3MWFiOTVh/N2U3ODgwNWExYjhi/MWZfR29sbGVuc3Rl/aW5fYmVpX05hY2h0/XzIwMTguanBn.jpg)
+   [![Behold an ancient forest at this unique museum.](https://img.atlasobscura.com/uVzBM_Bn5Fs1439U_UkEFV0KfVX-fSUoxpqh37Z9w10/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81NmUz/NGUyMi04NTYyLTQz/MWEtODg5My0zZmU0/OTFlZjAwYWVjY2Nj/NTc2OGNiMzJlM2Uy/MWZfRFNDXzA1Mzgu/anBlZw.jpg)
 
-Gollenstein](https://www.atlasobscura.com/places/gollenstein)
+Tomizawa Site (Underground Forest Museum)](https://www.atlasobscura.com/places/tomizawa-site-underground-forest-museum)
 
 Latest Places to Eat & Drink
 
@@ -199,6 +199,10 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![Elevated horror movies such as 2018's Hereditary use the jump scare in unexpected ways, bringing the worn movie trope, ah, back from the dead.](https://img.atlasobscura.com/fK5X4LpdeUws3dQ1x5dffLOBnoYCfCwPyys38zjja_Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iZmM0MTBjYThj/ZmQyN2U1OTZfSGVy/ZWRpdGFyeSBhMjQg/anVtcCBzY2FyZSBz/Y3JlYW1pbmcuanBn.jpg)
+
+The Startling History of the Jump Scare](https://www.atlasobscura.com/articles/jump-scare-history)
+
    [![](https://img.atlasobscura.com/F74d8rANqpeQhXNyDTJ5ihGwr2fT5xSHaOjiZASXtig/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83ZTY2YWVmY2Vh/ZTExNDM4NTlfV2lk/ZV9Bd2FrZV9jcm9w/LmpwZw.jpg)
 
 How a Newspaper Revolution Led to the 'Wide Awakes'—and the Civil War](https://www.atlasobscura.com/articles/newspaper-revolution-wide-awakes-movement)
@@ -210,10 +214,6 @@ How a Newspaper Revolution Led to the 'Wide Awakes'—and the Civil War](https:/
    [![With chattering squirrels, chirping birds, and often lush vegetation, cemeteries are full of life—including multiple lichen species.](https://img.atlasobscura.com/hJkMAmQ01X6d6uroklEhsMnERR4VuX55pWKwHyYN1Sk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wOTE0YzllMDdh/ZDViZWMwMjNfQ29w/eSBvZiBJTUdfNTgx/NS5qcGc.jpg)
 
 A Cemetery's Immortal Residents and the Scientist Who Studies Them](https://www.atlasobscura.com/articles/immortal-lichen-growing-in-cemeteries)
-
-   [![Legacy Gullah dishes are served to this day throughout South Carolina at restaurants like Gullah Grub on St. Helena Island.](https://img.atlasobscura.com/_gSHs8t8sFEmUPfGCG8Z6sEzVvNM8ieqIiEmzjPat-w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80M2NlMWYxMjAy/MzU3YzVmNDRfaW1h/Z2UzLmpwZw.jpg)
-
-The Unique Gullah Geechee History of South Carolina](https://www.atlasobscura.com/articles/the-unique-gullah-geechee-history-of-south-carolina)
 
 No search results found for  
 “”
