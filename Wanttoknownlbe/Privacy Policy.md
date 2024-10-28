@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/de-ik-wou-dat-het-waar-was-wasmasjien-is-echt-waar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/sheldrake-wetenschap-gijzelt-mensheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
