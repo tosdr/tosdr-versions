@@ -864,7 +864,7 @@ Questions about the Terms of Service should be sent to us at [\[email protecte
     * Delicate Moving
         * [Art Moving](https://www.roadwaymoving.com/art-moving/)
         * [Piano Moving](https://www.roadwaymoving.com/piano-moving/)
-        * [Pool Moving](https://www.roadwaymoving.com/pool-moving/)
+        * [Pool Table Moving](https://www.roadwaymoving.com/pool-moving/)
     * Storage Services
         * [Short term storage](https://www.roadwaymoving.com/short-term-storage/)
         * [Long term storage](https://www.roadwaymoving.com/storage/long-term-storage/)
