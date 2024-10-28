@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![13th Birthday Party Ideas to Celebrate Your Teen! | Turning 13 is a huge milestone—your child is officially a teenager! While kid birthday parties may be a thing of the past, this is a birthday worth celebrating. If you're looking for things to do for your daughter or son to make this an extra special birthday, we've got you covered. From specific theme ideas, to sleepovers, to unique and fun games and activities, we're sharing ideas for boys, girls, and co-ed birthday party ideas for teens!](https://www.merakilane.com/wp-content/uploads/2024/10/2-3.png)](https://www.merakilane.com/30-13th-birthday-party-ideas-to-celebrate-your-teen/)
+    
+    ### [30 13th Birthday Party Ideas to Celebrate Your Teen!](https://www.merakilane.com/30-13th-birthday-party-ideas-to-celebrate-your-teen/)
+    
     [![How to Make a Candle Bouquet | 22 Tips & Tutorials | Tulips, sunflowers, daisies, peonies, and roses, oh my! If you're looking to craft a DIY centerpiece for a special occasion or a gift, a homemade candle bouquet offers a unique combination of soft candlelight and artistic floral arrangement. This project is perfect for DIYer who enjoy mixing textures, colors, and scents to create something special and they are surprisingly easy to make! Click for tips and hacks, plus step-by-step tutorials.](https://www.merakilane.com/wp-content/uploads/2024/10/6-3.png)](https://www.merakilane.com/how-to-make-a-candle-bouquet-22-tips-tutorials/)
     
     ### [How to Make a Candle Bouquet: 21 Tips & Tutorials](https://www.merakilane.com/how-to-make-a-candle-bouquet-22-tips-tutorials/)
@@ -124,10 +128,6 @@ Main Menu
     [![9 Meaningful Celebration of Life Ideas | A celebration of life is more casual and less structured than a traditional funeral or memorial service. It can take place at any location, and can be as simple or formal as you'd like. Planning a celebration of life offers a way to honor a loved one's memory in a special way, with many unique party ideas to consider -- a small gathering at the beach, a fun day enjoying an activity, a meal at their favorite restaurant, etc. Click for our best ideas.](https://www.merakilane.com/wp-content/uploads/2024/10/1-2.png)](https://www.merakilane.com/9-meaningful-celebration-of-life-ideas/)
     
     ### [9 Meaningful Celebration of Life Ideas](https://www.merakilane.com/9-meaningful-celebration-of-life-ideas/)
-    
-    [![11 Unique Christmas Tree Toppers to Make with Your Kids | Christmas tree toppers have historically held religious significance, signifying peace and goodwill during the holiday season. The star represents the Star of Bethlehem and angels symbolize the angels that announced the birth of Jesus to shepherds. The significance of tree toppers remains, but many are opting for less traditional ideas, including DIY options made by their kids. Click for our fav DIY ideas to make with your children!](https://www.merakilane.com/wp-content/uploads/2024/10/2-2.png)](https://www.merakilane.com/11-unique-christmas-tree-toppers-to-make-with-your-kids/)
-    
-    ### [11 Unique Christmas Tree Toppers to Make with Your Kids](https://www.merakilane.com/11-unique-christmas-tree-toppers-to-make-with-your-kids/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
