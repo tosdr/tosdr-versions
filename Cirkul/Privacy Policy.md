@@ -39,6 +39,7 @@
         * [Inflow Energy](https://drinkcirkul.com/collections/inflow-energy)
         * [Flyte](https://drinkcirkul.com/collections/flyte)
         * [Squeeze Lemonade](https://drinkcirkul.com/collections/squeeze)
+        * [Accel](https://drinkcirkul.com/collections/accel)
         * [Fission](https://drinkcirkul.com/collections/fission)
         * [Frosted Refreshers](https://drinkcirkul.com/collections/frosted-refreshers)
         * [Frosted Iced Coffee](https://drinkcirkul.com/collections/frosted)
