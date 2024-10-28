@@ -1,5 +1,7 @@
 [Skip to content](#main)
 
+[Grab Black Friday deal here](https://surfshark.com/pricing)
+
 [](https://surfshark.com/ "Surfshark")
 
 Products
