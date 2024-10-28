@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
+[![Contested Races by State, 2014](/assets/Images/teasers/small/Contested-Races.png)](https://www.followthemoney.org/research/blog/no-contest-36-percent-of-2014-state-legislative-races-offer-no-choice-blog/)
 
-Energy Giving in Colorado, 2013-14.
+36% of races were uncontested in 2014.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
