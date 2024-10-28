@@ -70,7 +70,7 @@
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
     
-* [Integrations](#)
+* [Integrations](https://dataforseo.com/integrations)
     
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
@@ -177,7 +177,7 @@
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
     
-* [Integrations](#)
+* [Integrations](https://dataforseo.com/integrations)
     
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
@@ -283,8 +283,7 @@
         * [Business Listings Database](https://dataforseo.com/databases/business-listings-database)
         * [Domains’ Whois & HTML Databases](https://dataforseo.com/databases/whois-database)
         * [Domains’ Backlink Stats Database](https://dataforseo.com/databases/backlink-database)
-* #### Integrations
-    
+* [Integrations](https://dataforseo.com/integrations)
     * [Google Sheets Connector](https://dataforseo.com/google-sheets-connector)
     * [Make Integration](https://dataforseo.com/make-integration)
     * [Postman Integration](https://dataforseo.com/postman-integrations)
