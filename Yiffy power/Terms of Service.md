@@ -1,3 +1,5 @@
+🎃 HALLOWEEN DEAL : 15% OFF for your first month with the code "KINKTOBER"
+
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
@@ -105,21 +107,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 177 1
+0 195 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/juno/)
+[](https://yiff-party.com/yiff/eon-created-by-glebyshka78/)
 
-[juno](https://yiff-party.com/yiff/juno/)
+[eon created by glebyshka78](https://yiff-party.com/yiff/eon-created-by-glebyshka78/)
 
-0 163 0
+0 171 0
 
 September 28, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/octavia-directed-by-corsetlover69/)
+[](https://yiff-party.com/yiff-ai-premium/suki-lane-directed-by-corsetlover69-3/)
 
-[octavia directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/octavia-directed-by-corsetlover69/)
+[suki lane directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/suki-lane-directed-by-corsetlover69-3/)
 
 0 1 0
 
