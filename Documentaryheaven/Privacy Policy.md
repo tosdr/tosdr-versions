@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Battlefield Detectives: Stalingrad](/wp-content/thumbnails/3954-100x70.jpg?x53432)
+* [![Joy Division](/wp-content/thumbnails/6365-100x70.jpg?x53432)
     
-    Battlefield Detectives: Stalingrad
+    Joy Division
     
-    The Battle of Stalingrad was a major battle of World War II in which Nazi Germany and its allies fought the Soviet Union for control of the city of Stalingrad (now Volgograd) in southwestern Russia. I](https://documentaryheaven.com/battlefield-detectives-stalingrad/ "Battlefield Detectives: Stalingrad")
-* [![Keith Moon: Final 24: His Final Hours](/wp-content/thumbnails/6668-100x70.png?x53432)
+    Great documentary on the revolutionary British punk group Joy Division, and about lead singer Ian Curtis, whom committed suicide before the peak of their popularity. Joy Division later went](https://documentaryheaven.com/joy-division/ "Joy Division")
+* [![Lock ‘N Load](/wp-content/thumbnails/3711-100x70.jpg?x53432)
     
-    Keith Moon: Final 24: His Final Hours
+    Lock ‘N Load
     
-    Final 24 documents the final moments of this rock star’s life. This compelling documentary series unlocks the hidden secrets, psychological flaws and events that result in the tragic deaths of famed n](https://documentaryheaven.com/keith-moon-final-24-his-final-hours/ "Keith Moon: Final 24: His Final Hours")
-* [![That’s Impossible](/wp-content/thumbnails/6437-100x70.jpg?x53432)
+    Lock N’ Load with R. Lee Ermey is a militainment television program on The History Channel that discusses the development of military weaponry throughout the centuries. It is hosted by R. Lee Ermey.](https://documentaryheaven.com/lock-n-load/ "Lock ‘N Load")
+* [![The Killing Fields: Enemies of the People](/wp-content/thumbnails/6734-100x70.jpg?x53432)
     
-    That’s Impossible
+    The Killing Fields: Enemies of the People
     
-    A series examining seemingly impossible stories and inventions from history, and the technology that could turn science fiction into reality. Each episode has a to do list, which means that if this te](https://documentaryheaven.com/thats-impossible/ "That’s Impossible")
-* [![Sniper: Inside The Crosshairs](/wp-content/thumbnails/3497-100x70.jpg?x53432)
+    One of the most harrowing and compelling personal documentaries of our time, ENEMIES OF THE PEOPLE exposes for the first time the truth about the Killing Fields and the Khmer Rouge who were behind Cam](https://documentaryheaven.com/the-killing-fields-enemies-of-the-people/ "The Killing Fields: Enemies of the People")
+* [![Where In The World is Osama Bin Laden?](/wp-content/thumbnails/22-100x70.png?x53432)
     
-    Sniper: Inside The Crosshairs
+    Where In The World is Osama Bin Laden?
     
-    The deadliest weapon on the battlefield is neither bullet nor gun; it's the lone sniper. Journey inside the science and psychology behind the greatest shots in military history, through the scope of t](https://documentaryheaven.com/sniper-inside-the-crosshairs/ "Sniper: Inside The Crosshairs")
-* [![Chairman Mao Declassified](/wp-content/thumbnails/6553-100x70.png?x53432)
+    Spurlock searches for Osama bin Laden by visiting countries associated with the Al-Qaeda leader (Morocco, Saudi Arabia, Afganistan, and Pakistan), as well as others affected by Al-Qaeda (Greece, Egypt](https://documentaryheaven.com/where-in-the-world-is-osama-bin-laden/ "Where In The World is Osama Bin Laden?")
+* [![The Life of Buddha](/wp-content/thumbnails/2296-100x70.jpg?x53432)
     
-    Chairman Mao Declassified
+    The Life of Buddha
     
-    One of the most formidable leaders that the world has ever seen, Mao was undeniably a brilliant political and economic mind, despite his role as a progenitor of 20th Century Communism and a homicidal](https://documentaryheaven.com/chairman-mao-declassified/ "Chairman Mao Declassified")
+    The Buddha. The history of Buddhism is the story of one man’s spiritual journey to Enlightenment, and of the teachings and ways of living that developed from it. Siddhartha Gautama – The Buddha. By fi](https://documentaryheaven.com/the-life-of-buddha/ "The Life of Buddha")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
