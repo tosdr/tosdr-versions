@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Goons](https://www.somethingawful.com/comedy-goldmine/ms-paint-goons/1/)
-* [Dimensions and Stephen Hawking vs. The World](https://www.somethingawful.com/weekend-web/dimensions-stephen-hawking/1/)
-* [SA Forum Goons vs. The Ultimate Flirting Championship Part 2](https://www.somethingawful.com/comedy-goldmine/flirting-championship-2/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Fruits and Nuts](https://www.somethingawful.com/icq-pranks/icq-transcript-fruits/1/)
+* [The Great American Reach Around - The Deep South & Scandinavia](https://www.somethingawful.com/news/gara-week-eight/1/)
+* [Abstract Pixel Art! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/abstract-pixel-art/1/)
+* [Emergency Exit](https://www.somethingawful.com/photoshop-phriday/emergency-exit/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Norman Rockwell Paintings](https://www.somethingawful.com/photoshop-phriday/norman-rockwell-paintings/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I submit Gravity Falls](http://forums.somethingawful.com/showthread.php?threadid=4073722 "I submit Gravity Falls")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [how do you refer to yourself in your own brain](http://forums.somethingawful.com/showthread.php?threadid=4073704 "how do you refer to yourself in your own brain")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [90 Eggs!](http://forums.somethingawful.com/showthread.php?threadid=4073799 "90 Eggs!")
 
 ### Random Articles
 
-* [Film Reviews By Channing Tatum and Jonah Hill](https://www.somethingawful.com/news/sony-channing-tatum/1/)
-* [Female Mask Homepage](https://www.somethingawful.com/awful-links/awful-link-2222/)
-* [FBI to American Public: Anthrax Only Sent to 'Important People.'](https://www.somethingawful.com/feature-articles/fbi-american-public/)
-* [Puppy Time!](https://www.somethingawful.com/flash-tub/puppy-time-cartoon/)
-* [Magazine Mayhem 2 (Part Two)](https://www.somethingawful.com/photoshop-phriday/magazine-mayhem-part-2/1/)
+* [Creating Your Own Internet Comic Strip](https://www.somethingawful.com/guides/guide-creating-your/1/)
+* [Platform Hero episode 7](https://www.somethingawful.com/flash-tub/platform-hero-episode-6/)
+* [Exodus-Furry Rebellion](https://www.somethingawful.com/awful-links/awful-link-2692/)
+* [Anna S. Fiction (Thanks, Linda!)](https://www.somethingawful.com/awful-links/annasfiction-erotica/)
+* [July 2, 2013](https://www.somethingawful.com/twitter-tuesday/tt07-02-13/)
 
 [Random!](https://www.somethingawful.com/random/)
 
