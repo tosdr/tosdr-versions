@@ -223,7 +223,7 @@ Company
 
 Recent Posts
 
-[The Diverse Voices of Korea: An Exploration of South Korean Dialects](https://ai.glossika.com/blog/the-diverse-voices-of-korea-an-exploration-of-south-korean-dialects "blog") [Polyglot Interviews: Insights into Language Learning](https://ai.glossika.com/blog/polyglot-conversations-insights-for-language-learning "blog") [One, two, punch: How a “bad” language learner became a polyglot](https://ai.glossika.com/blog/sebastiao-gomes-story "blog") [Read More →](https://ai.glossika.com/blog "blog")
+[Italian Basics: What You Need to Know About Verbs](https://ai.glossika.com/blog/italian-basics-of-verbs "blog") [The Diverse Voices of Korea: An Exploration of South Korean Dialects](https://ai.glossika.com/blog/the-diverse-voices-of-korea-an-exploration-of-south-korean-dialects "blog") [Polyglot Interviews: Insights into Language Learning](https://ai.glossika.com/blog/polyglot-conversations-insights-for-language-learning "blog") [Read More →](https://ai.glossika.com/blog "blog")
 
 Get the latest news and updates!
 
