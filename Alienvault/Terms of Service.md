@@ -1,7 +1,7 @@
 be\_ixf;ym\_202410 d\_27; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
-* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website?utm\_medium=Email&utm\_source=2024-10-23+Webinar+-+Fortifying+Your+Inbox:+Advanced+Email+Security-Check+Point+-+Send+Invites&utm\_content=&elqTrackId=168ba11a66b74d30817a7d07ea6fbba7&elq=b36b74bcb5dc46ec93f76157abfd4b55&elqaid=2013&elqat=1&elqCampaignId=1713&elqak=8AF54287C73D53460BE180A50A07740CA006E849C16F5B24AC95D6331D91C8869B54
 * https://cybersecurity.att.com/terms/website
 
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
