@@ -1,7 +1,7 @@
 Home Services Privacy Policy
 ============================
 
-### (Last Updated March 28, 2024)
+### (Last Updated October 24, 2024)
 
 [California Notice at Collection](#california_notice_at_collection)
 
@@ -9,122 +9,276 @@ Introduction
 
 Thank you for visiting our sites Americanresidentialhomes.com, Bestwindowdeals.com, Eriebasementexperts.com, Eriemetalroof.pro, Getametalroof.com, Geterieroofing.com, Houserepairqotes.com, Leafprotect.com, Mybasementexpert.com, Protectmygutter.com, Roofsavingspro.com or Windowrefurb.com (the "Websites").
 
-We respect your privacy. This Privacy Policy, which also includes, if you are a California resident, the CA Privacy Policy (as defined below) and the California Notice at Collection (this “Privacy Policy”) governs the Websites we and our businesses operate. This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit any of our Websites and our practices for collecting, using, maintaining, protecting, selling, and disclosing that information.
+Converge Direct, LLC (“Converge,” “we,” “our,” or “us”) respects your privacy. This Privacy Policy governs the Websites we and our businesses operate. This Privacy Policy describes the types of information we may collect from you or that you may provide when you visit any of our Websites and our practices for collecting, using, maintaining, protecting, selling, and disclosing that information.
 
-This Privacy Policy applies to information we collect on our (i) Websites, (ii) in email, text, and other electronic messages between you and this Website; and (iii) when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Privacy Policy.
+This Privacy Policy applies to information we collect on our (i) Websites, (ii) in email, text, and other electronic communications; and (iii) when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Privacy Policy.
 
-This Privacy Policy does not apply to information collected by: (i) us offline or through any other means, including on any other website operated by us or any third party; or (ii) any third party, including through any application or content (including advertising) that may link to or be accessible from or through the Website.
+We may collect, store, and use information that is linked or reasonably linkable to you and that identifies your past, present, or future health status or mental health status, as may be applicable (“Consumer Health Data”). This Privacy Policy provides information about how we collect Consumer Health Data, how we use it, what sources it is derived from, to whom we disclose it. In addition, if you are a resident of Connecticut, Nevada, or Washington, we provide further information about Consumer Health Data collected about you, as well as the rights you may have related to this data, in our [Consumer Health Data Notice](#).
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this Privacy Policy and the Terms of Use.
+This Privacy Policy does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or through the Website. We recommend reviewing the privacy practices of those third parties before connecting accessing third party websites and sharing any personal data.
 
-This Privacy Policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. We also recommend reviewing our [Terms of Use](#terms_of_use), which govern your use of the Services. This Privacy Policy may change from time to time (see [Changes to Our Privacy Policy](#changes_to_our_privacy_policy)), so please check periodically for updates.
+
+Linkable Table of Contents
+
+It is important that you read and understand the entire Privacy Policy before using our Websites. This Privacy Policy is provided in a layered format. You can jump to a specific section by clicking on the section below.
+
+|     |     |
+| --- | --- |
+| [Children Under the Age of 16](#children_under_the_age_of_16) | Our Websites are not intended for use by children under the age of 16. |
+| [Information We Collect and How We Collect It](#information_we_collect_and_how_we_collect_it) | We collect information that may be used to uniquely identify you in various ways and from various sources, in accordance with applicable law. |
+| [How We Use Your Information](#how_we_use_your_information) | We may collect personal information for various purposes, in accordance with applicable law. |
+| [Disclosure of Your Information](#disclosure_of_your_information) | We may disclose your personal information to certain third parties, such as our service providers and advertising partners. |
+| [Summary of Our Data Practices](#summary_of_our_data_practices) | We summarize our data practices in a user-friendly table. |
+| [Cookies and Other Tracking Technologies](#cookies_and_other_tracking_technologies) | We collect information about your use of the Websites through cookies and other tracking technologies. |
+| [Data Security and Retention](#data_security_and_retention) | We will retain your personal data only for as long as is necessary for the purposes set out in this Privacy Policy, and use reasonable and appropriate technical and organizational measures to protect your personal data. |
+| [What Choices Do You Have?](#what_choices_do_you_have) | We explain what choices you have with respect to marketing communications. |
+| [Your State Privacy Rights](#your_state_privacy_rights) | We explain how you may exercise your privacy rights. |
+| [California Privacy Notice](#california_privacy_notice) | We provide additional disclosures and rights to California residents. |
+| [Nevada Privacy Notice](#nevada_privacy_notice) | We provide additional disclosures and rights to Nevada residents. |
+| [Privacy Notice For Residents of Other States](#privacy_notice_for_residents_of_other_states) | We provide additional disclosures and rights to Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents. |
+| [Links to Other Websites](#links_to_other_websites) | This Privacy Policy does not apply to third party websites services. |
+| [Using Our Services Outside of the United States](#using_our_services_outside_of_the_united_states) | If you are located outside of the United States and choose to provide information to us, we transfer the data to the United States and process it there. |
+| [Changes to Our Privacy Policy](#changes_to_our_privacy_policy) | Changes to this Privacy Policy will become effective on the date they are posted. |
+| [Contact Us](#contact_us) | You may contact us for comments or questions in various ways. |
 
 Children Under the Age of 16
 
-Our Website is not intended for children under 16 years of age. No one under age 16 may provide any information to or on the Website. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 with or without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com)
-
-California residents under 16 years of age have additional rights regarding the collection and sale of their personal information. To learn more about state specific privacy rights of California residents, please visit the [CA Privacy Policy](#ca_privacy_policy).
-
-What Choices Do You Have?
-
-If you no longer wish to receive marketing communications from us, you can let us know by contacting us [here](https://homeservicescompliance.com/infoform.html?rpgn=&rpurl=) or by mail at the address provided below in “Contact Us”. The electronic marketing communications we send will also contain an opt-out mechanism pursuant to legal requirements. Please note that it may take up to 10 calendar days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request. Please also contact us to update or correct your information if it changes or if you believe that any information that we have collected about you is inaccurate.
-
-Please note that the Websites are compliant with the Telephone Consumer Protection Act. When you click on a submit button or other similar buttons that transmits the information you enter on one of our web forms on the Websites, you expressly agree that you are electronically signing an agreement under New York law with the terms of the opt-ins and disclaimers on the relevant Website page. Please pay careful attention to these terms when submitting your information. You are also agreeing to this Privacy Policy and the Terms of Use. Depending on the scope of the consent, you may be contacted by us, our affiliates, subsidiaries, partners, clients or other businesses and groups regarding the goods or services described on the Website. You may be contacted by email, computer, mail, residential or wireless telephone call, fax, text, or other means of electronic written communication with advertisements, messages, or telemarketing including through the use of automatic telephone dialing systems or an artificial or prerecorded voice using the information you provided on this Website even if you have previously or in the future register any of the foregoing information on the National Do Not Call Registry or similar list. Any phone calls made to or by you may be recorded. You are not required to enter into the agreement as a condition to buying any goods or services. You may revoke your consent at any time by following the directions set forth in the paragraph above.
+Our Websites are not intended for children under 16 years of age. No one under age 16 may provide any information to or on the Websites. We do not knowingly collect personal information (as defined below) from children under 16. If you are under 16, do not use or provide any information on the Websites or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 with or without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com).
 
 Information We Collect and How We Collect It
 
-The information we collect on or through our Website may include:
+Personal information is any information that identifies, relates to, describes, or is capable of being associated with, or could reasonably be linked, directly or indirectly, with an identifiable individual. Categories of personal information we may collect will vary depending on how you interact with our Websites. Some information you may voluntarily provide and some information we may automatically collect when you visit and interact with our Websites. Personal information does not include publicly available information; lawfully obtained, truthful information that is a matter of public concern; information that has been de-identified, or aggregate consumer information. “Publicly available information” includes information that is made available from federal, state, or local government records; information that a business has a reasonable basis to believe is lawfully available to the general public, either through widely distributed media, or by the individual; and information that is made available by a person to whom the individual has disclosed the information if the individual has not restricted the information to a specific audience.
 
-* Information that you provide on our Website. This includes information provided at the time of registering to use our Website, posting material, completing forms on our Website, or requesting goods or services from our clients. We may also ask you for information or when you report a problem with our Website.
+Information We Collect From You The personal information we collect on or through our Websites may include:
+
+* Information that you provide on our Websites. This includes information provided at the time of registering to use our Website, posting material, completing forms on our Website, or requesting goods or services from our clients. We may also ask you for information or when you report a problem with our Website.
 * Records and copies of your correspondence (including email addresses), if you contact us.
 * Your responses to surveys that we might ask you to complete for research purposes.
-* Details of transactions you carry out through our Website and of the fulfillment of your inquiries.
-* Your search queries on the Website.
-* Your location based on information you provide when completing a form on our Website or based on the IP address of the computer or device you are using.
+* Details of transactions you carry out through our Websites and of the fulfillment of your inquiries.
+* Your search queries on the Websites.
 
-We collect personal information directly from you when you provide it to us when visiting, registering, using or completing forms on our Website or our advertisements across different digital mediums, automatically as you navigate through the Website and from our third-party business partners. We also collect records and copies of your correspondence. You should also be aware that this website may use session replay technology (such as TrustedForm) to monitor your interactions with the website. For more information about session replay or TrustedForm, please review the TrustedForm Privacy Notice at [https://activeprospect.com/trustedform-privacy-notice/](https://activeprospect.com/trustedform-privacy-notice/). We primarily use this service to record a video of your mouse and keyboard movements on your monitor to confirm your consent to the collection and use of personal information described in this Policy.
+We collect personal information directly from you when you provide it to us when visiting, registering, using or completing forms on our Websites or our advertisements across different digital mediums, automatically as you navigate through the Websites and from our third-party business partners. We also collect records and copies of your correspondence.
 
-**How We Use Your Information**
+Information We Automatically Collect We may also automatically record certain information from your system including your IP address, a unique device or User ID, version of software installed, system type, the content and pages that you access on the site and the dates and times that you visit site. We use this information for analytical purposes and to help us improve our site and our business in general. We may provide this information to affiliates and/or third parties to assist us in improving these functions. We may use other digital tracking on the Website to ensure that we provide you with a better digital consumer journey and experience as well as to ensure we have digital proof of our compliance of certain laws. For more information, see [Cookies and Other Tracking Technologies](#cookies_and_other_tracking_technologies).
+
+Information We Collect From Third Parties We may also collect information from third parties such as:
+
+* Third party marketing partners, including joint marketing/co-branding partners and marketing, advertising, and analytics companies.
+* Our analytics and advertising partners and providers, including online advertising networks and analytics providers.
+* Other companies that provide personal information to supplement what we already know about you, including data aggregators.
+
+Aggregated, De-identified, and Anonymous Information Note that we may create aggregated, de-identified, or anonymous information from data by removing certain data components (such as your name, email address, or linkable tracking identifier) that makes the data identifiable, or through aggregation, obfuscation or other means. Subject to applicable law, our use and disclosure of such aggregated, de-identified, or anonymized information is not personal data or subject to this Privacy Policy.
+
+How We Use Your Information
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
-* To present our Website and its contents to you.
-* To provide you with information, products, or services that you request from us or our customers and vendors.
-* To fulfill any other purpose for which you provide it.
+* To fulfill the reason you provided the information. For example, if you share your name and contact information to request a price quote or ask a question about our or our client's products or services, we will use that personal information to respond to your inquiry.
+* To provide, support, personalize, and develop our Website.
+* To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+* To sell and transfer to our clients and other advertisers who may contact you to provide you with the goods or services described on the Website (our “Advertisers”) as well as data brokers (collectively, our “Clients”)
+* To personalize your Website experience and to deliver our Client’s content and the product and service offerings relevant to your interests, including targeted offers and ads through our Website, third-party sites, and via telephone, email or text message (with your consent, where required by law).
+* To help maintain the safety, security, and integrity of our Website and our client’s products and services, databases and other technology assets, and business.
+* For testing, research, analysis, and product development, including to develop and improve our Website, and our and our customer’s products, and services.
+* To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+* To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
 * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
 * To notify you about changes to our Website or any products or services we offer or provide though it.
 * In any other way we may describe when you provide the information.
 * For any other purpose with your consent.
 
-We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please do not submit you information on the forms on our Websites.
+We may also use your information to contact you about our own and third-parties’ goods and services that may be of interest to you. If you do not want us to use your information in this way, please do not submit your information on the forms on our Websites.
 
-We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. If you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
-**Disclosure of Your Information**
-
-We may disclose aggregated information about our users, and information that does not identify an individual without restriction.
+Disclosure of Your Information
 
 We may disclose personal information that we collect or you provide as described in this Privacy Policy:
 
 * To our subsidiaries and affiliates.
+* To our Clients who may contact you to provide you with the goods or services described on the Websites.
 * To contractors, service providers, and other third parties we use to support our business.
 * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by company about our Website users is among the assets transferred.
 * To third parties to market their products or services to you if you have not opted out of these disclosures.
-* To fulfill the purpose for which you provide it. For example, if you give us an email address to use the "email a friend" feature of our Website, we will transmit the contents of that email and your email address to the recipients.
+* To fulfill the purpose for which you provide it.
 * For any other purpose disclosed by us when you provide the information.
 * With your consent.
 
 We may also disclose your personal information:
 
 * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-* To enforce or apply our [Terms of Use](#terms_of_use) and other agreements, including for billing and collection purposes.
+* To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.
 * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of company, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection.
 
-**Information Collected Automatically**
+We may disclose aggregated information about our users, and information that does not identify an individual without restriction. Disclosure of such aggregated information is not subject to this Privacy Policy.
+
+Summary of Our Data Practices
+
+The chart below is designed to help connect the dots of how and why we may use different types of personal information.
+
+| Category of Personal Information | Processing Purpose(s) | Categories of Third Party Recipients (excluding our affiliates, service providers, and processors) |
+| --- | --- | --- |
+| **Identifiers** - For example, a real name, alias, postal address, telephone number, unique personal identifier, online identifier, Internet Protocol address, email address, or other similar identifiers. | * Identify and contact you as lead for our clients’ products and services<br>* Provide customer service<br>* Perform identity and age verification as required under applicable law<br>* Provide and maintain the Websites<br>* Facilitate interactive features<br>* Internal analytics<br>* Market our products and services<br>* Market the products and services of others<br>* Internal business purposes, including general business administration<br>* Audit, compliance, legal, policy, procedure, and regulatory obligations<br>* Customer claims and fraud investigation and prevention<br>* Systems and data security<br>* Protecting the safety of our employees and others<br>* Targeted advertising<br>* Any other purpose consistent with your consent and expressed preferences. | * Third party advertising platforms and analytics providers<br>* Our Clients |
+| **Protected classification characteristics under state or federal law** - For example, medical condition, physical or mental disability, or military and veteran status. | * Identify and contact you as lead for our clients’ products and services | * Third party advertising platforms and analytics providers<br>* Our Clients |
+| **Internet or other similar network activity** - For example, browsing history, search history, information on a consumer's interaction with a website, application, or advertisement. | * Same purposes as noted for “Identifiers” | * Third party advertising platforms and analytics providers<br>* Our Clients |
+| **Geolocation data** - For example, physical location or movements. Please note that we do not collect precise geolocation. | * Internal business purposes, including general business administration<br>* Customer claims and fraud investigation and prevention<br>* Systems and data security<br>* Protect the safety of our employees and others<br>* Internal analytics<br>* Targeted advertising | N/A |
+| **Electronic information** – For example, including original text when you interact with us. | * Same purposes as noted for “Identifiers” | * Third party advertising platforms and analytics providers<br>* Our Clients |
+| **Commercial information** – For example, products or services purchased, purchase histories, and information about your interests and preferences. | * Same purposes as noted for “Identifiers” | * Third party advertising platforms and analytics providers<br>* Our Clients |
+| **Inferences drawn from other personal information** - For example, profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * Same purposes as noted for “Identifiers” | * Third party advertising platforms and analytics providers<br>* Our Clients |
+
+Cookies and Other Tracking Technologies
 
 We and our third party providers may use cookies (when you interact with our Website or our advertisements) and other technologies such as log files, tracking pixels, web beacons, software developer kits, analytic tools and services to collect information (including personal information) automatically from you. Such information includes (but is not limited to) your internet protocol address, location information, the type of the web browser and operating system you use, browsing activities, usage information, and any other information that your web browsing software or internet service provider automatically provides to us. Please see the entirety of this Privacy Policy for all information that is collected.
 
-A cookie is a small piece of data stored by your web browser on your computer or mobile device. We use cookies to collect information from you regarding your usage of our Website in order to remember user preferences and settings, personalize your experience with the Website, and for security purposes. You may opt-out of the automatic collection of some information by referring to your web browser’s or mobile device’s options or settings menu. However, doing so may disable many of the portions, features, or functionality of the Website. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or visit [http://allaboutcookies.org](http://allaboutcookies.org/) for more information.
+A cookie is a small piece of data stored by your web browser on your computer or mobile device. We use cookies to collect information from you regarding your usage of our Website in order to remember user preferences and settings, personalize your experience with the Website, and for security purposes. You should also be aware that this website may use session replay technology (such as TrustedForm) to monitor your interactions with the website. For more information about session replay or TrustedForm, please review the TrustedForm Privacy Notice at [https://activeprospect.com/trustedform-privacy-notice/](https://activeprospect.com/trustedform-privacy-notice/). We primarily use this service to record a video of your mouse and keyboard movements on your monitor to confirm your consent to the collection and use of personal information described in this Policy.
 
-**Third-Party Use of Cookies and Other Tracking Technologies**
+_Examples of Cookies we use:_
 
-Some content or applications, including advertisements, on the Website may be served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+* **Strictly Necessary.** We may use cookies that we consider are strictly necessary to allow you to use and access our Websites, including cookies required to prevent fraudulent activity, or improve security.
+* **Performance Related.** We may use cookies that are useful in order to assess the performance of our Websites, including as part of our analytic practices or otherwise to improve the content, products or services offered through our Websites.
+* **Functionality Related.** We may use cookies that are required to offer you enhanced functionality when accessing our website, including identifying you when you sign in to our Websites or keeping track of your specified preferences, including in terms of the presentation of content on our Websites.
+* **Targeting Related.** We may use cookies to deliver content, including ads, relevant to your interests on our Websites and third party sites based on how you interact with advertisements or content.
 
-We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see [What Choices Do You Have?](#what_choices_do_you_have).
+You may opt-out of the automatic collection of some information by referring to your web browser’s or mobile device’s options or settings menu. However, doing so may disable many of the portions, features, or functionality of the Website. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or visit [http://allaboutcookies.org](http://allaboutcookies.org/) for more information.
 
-Your State Privacy Rights
+We may use third party analytics tools, such as Google Analytics and other services from time to time, in order to better understand your use of our Services and how we can improve them. These tools collect information sent by your browser or mobile device, including the pages you visit and other usage information. For more information regarding how Google collects, uses, and shares your information please [visit http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To prevent data from being used by Google Analytics, you can download the opt-out browser add-on at:  [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en).
 
-Certain U.S. States such as California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, New Jersey, Oregon, Tennessee, Texas, Utah, and Virginia, provide (now or in the future) their state residents with certain privacy rights such as rights to:
-
-* Confirm whether we process their personal information.
-* Access and delete certain personal information.
-* Correct inaccuracies in their personal information, taking into account the information's nature processing purpose (excluding Iowa and Utah).
-* Data portability.
-* Opt-out of personal data processing for targeted advertising and sales.
-    * targeted advertising (excluding Iowa);
-    * sales; or
-    * profiling in furtherance of decisions that produce legal or similarly significant effects (excluding Iowa and Utah).
-* Either limit (opt-out of) or require consent to process sensitive personal data.
-
-The exact scope of these rights may vary by State. To exercise any of these rights or appeal a decision regarding a consumer rights request email [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com).
-
-Nevada provides its residents with a limited right to opt-out of certain personal information sales. Residents who wish to exercise this sale opt-out rights may submit a request to this designated address [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com).
-
-To learn more about California residents' privacy rights, visit the [CA Privacy Policy](#ca_privacy_policy).
-
-How We Respond to Do Not Track Signals
+Please note that some content or applications, including advertisements, on the Website may be served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see [What Choices Do You Have?](#what_choices_do_you_have).
 
 We do not support "Do Not Track" browser settings and therefore the Website does not change its practices in response to a "Do Not Track" signal in the HTTP header from a browser or mobile application.
 
-Opting Out of Marketing Messages
+Security and Retention of Personal Information
 
-Should you no longer wish to receive newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at the address listed at the end of this Privacy Policy or  [this link](https://homeservicescompliance.com/infoform.html?rpgn=&rpurl=). You may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request.
+We maintain our systems in accordance with commercially reasonable industry standards to preserve the integrity and security of your personally identifiable information under our control. No security system is impenetrable. We cannot, however, guarantee, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Moreover, we are not responsible for the security of information you transmit to us over networks that we do not control, including the Internet and wireless networks. Please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+We will retain your personal information for as long as necessary for the purposes outlined in this Privacy Policy. This information will be used and retained to the extent necessary to comply with any legal obligations or policies, to resolve disputes, and/or enforce legal agreements. Personal information also be retained for internal analytic purposes. This information is retained for a shorter period of time, unless it used to enhance security features or improve the functionality of our Websites. Our determination of precise retention periods will be based on (i) the length of time we have an ongoing relationship with you; (ii) whether there is a legal obligation to which we are subject; and (iii) whether retention is advisable in light of our legal position, including regard to applicable statutes of limitations, litigation or regulatory investigations.
+
+What Choices Do You Have?
+
+Should you no longer wish to receive newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at the address listed at the end of this Privacy Policy or  this link. You may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request.
 
 Please note that we can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
-Security of Personal Information
+If you no longer wish to receive marketing communications from us (including our newsletter and other promotional communications), you can let us know by contacting us  [here](https://homeservicescompliance.com/infoform.html?rpgn=&rpurl=) or by mail at the address provided below in [Contact Us](#contact_us). The electronic marketing communications we send will also contain an opt-out mechanism pursuant to legal requirements. Please note that it may take up to 10 business days to remove your contact information from our marketing communications lists, so you may receive correspondence from us for a short time after you make your request. Please also contact us to update or correct your information if it changes or if you believe that any information that we have collected about you is inaccurate. As a reminder, we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their communications.
 
-We maintain our systems in accordance with commercially reasonable industry standards to preserve the integrity and security of your personally identifiable information under our control. No security system is impenetrable. We cannot, however, guarantee, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Moreover, we are not responsible for the security of information you transmit to us over networks that we do not control, including the Internet and wireless networks. Please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Please note that the Websites are compliant with the Telephone Consumer Protection Act. When you click on a submit button or other similar buttons that transmits the information you enter on one of our web forms on the Websites, you expressly agree that you are electronically signing an agreement with us under New York law with the terms of the consents, opt-ins and disclaimers on the relevant Website page. Please pay careful attention to these terms when submitting your information. **By submitting your information (which may include personal or sensitive information or data), you are consenting to the processing, collection, sale, or transfer of any personal or sensitive information or data you provide by visiting this Website or completing any webforms on this Website.** You are also agreeing to this Privacy Policy and the Terms of Use. Depending on the scope of the consent, you may be contacted by us, our affiliates, subsidiaries, partners, clients or other businesses and groups regarding the goods or services described on the Website. You may be contacted by email, computer, mail, residential or wireless telephone call, fax, text, or other means of electronic written communication with advertisements, messages, or telemarketing including through the use of automatic telephone dialing systems or an artificial or prerecorded voice using the information you provided on this Website even if you have previously or in the future register any of the foregoing information on the National Do Not Call Registry or similar list. Any phone calls made to or by you may be recorded. You are not required to enter into the agreement as a condition to buying any goods or services. You may revoke your consent at any time by following the directions set forth in the paragraph above.
+
+Your State Privacy Rights
+
+Certain U.S. states provide now, or will in the future provide, their state residents with certain privacy rights with respect to their personal information or personal data, as defined under applicable law. These rights are subject to the specific laws of that jurisdiction and that certain other rights might apply. Please review our [California Privacy Notice](#california_privacy_notice); [Nevada Privacy Notice](#nevada_privacy_notice); and [Privacy Notice For Residents of Other States](#privacy_notice_for_residents_of_other_states) for more information on rights and terms specific to your location or place of residence. As noted above, if you are a resident of Connecticut, Nevada, or Washington, we provide further information about Consumer Health Data collected about you, as well as the rights you may have related to this data, in our [Consumer Health Data Notice](#consumer_health_data_notice).
+
+If any of the jurisdictional notices below apply to you, please use the following information to exercise your rights. Please note that any request you submit to us is subject to an identification and residency verification process as permitted under applicable law, as well as certain other procedural requirements that may be noted in the sections below. Additionally, all requests are subject to certain exceptions under applicable law, which may vary. If you are a visually-impaired customer, a customer who has another disability or a customer who seeks support in other language, you may access your privacy rights by emailing us at [info@convergemarketing.com](mailto:info@convergemarketing.com).
+
+Please send your request(s) using one of the following methods:
+
+* Webform: [Here](https://homeservicescompliance.com/infoform.html?rpgn=&rpurl=)
+* Email: [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com)
+* Mail: 25 W. 39th St., 6th Floor, New York, NY 10018
+
+We do not charge a fee to process or respond to your verifiable consumer request unless its excessive, repetitive, manifestly unfounded, or in accordance with applicable law. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+Depending on applicable law, you may be limited in how many verifiable or authenticated consumer request you make within a twelve (12) month period. If we have collected information on your minor child, you may exercise the above rights on behalf of your minor child. Additionally, in some jurisdictions, you may designate an authorized agent to submit a request on your behalf, and if so, we may require proof of the agent’s authorization by you and/or verification of the agent’s own identity.
+
+Except where otherwise noted, we will respond to your request within forty-five (45) days after receipt and we reserve the right to extend the response time by an additional forty-five (45) days when reasonably necessary and provided consumer notification of the extension is made within the first forty-five (45) days.
+
+California Privacy Notice
+
+This California Privacy Notice supplements the information contained in the rest of our Privacy Policy and is intended to comply with the California Consumer Privacy Act of 2018 (“CCPA”). Any capitalized term used and not otherwise defined below has the meaning assigned to it in our Privacy Policy. For the purposes of this California Privacy Notice, except where a different definition is noted, “personal information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California resident or household. Personal information does not include publicly available information, information that has been de-identified or aggregated, or other information subject to certain federal and state regulation.
+
+If you are a visually-impaired customer, a customer who has another disability or a customer who seeks support in another language, you may access this California Privacy Notice by emailing us at [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com)
+
+_**Personal information we collect.**_ We collect information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or device (“personal information”). In particular, we have collected the following categories of personal information from consumers within the last twelve (12) months:
+
+* Identifiers
+* Characteristics of protected classifications
+* Internet or other electronic network activity information
+* Geolocation data
+* Audio, electronic, visual, or similar information
+* Commercial information
+* Inferences
+
+The only sensitive personal information we collect is any medical or mental health diagnosis information you may provide when you complete the web form fills on this Website. We collect this information for a legitimate business purpose, namely, so that we or our client may determine whether you meet the criteria advertised on this Website.
+
+_**Use of personal information.**_ We may use or disclose the personal information we collect for one or more of the following purposes:
+
+* To fulfill or meet the reason you provided the information. For example, if you share your name and contact information to request a price quote or ask a question about our or our client's products or services, we will use that personal information to respond to your inquiry.
+* To provide, personalize, and develop our Website.
+* To provide you with support and to respond to your inquiries, including to investigate and address your concerns and monitor and improve our responses.
+* To personalize your Website experience and to deliver our client’s content and the product and service offerings relevant to your interests, including targeted offers and ads through our Website, third-party sites, and via telephone, email or text message (with your consent, where required by law).
+* To help maintain the safety, security, and integrity of our Website and our client’s products and services, databases and other technology assets, and business.
+* For testing, research, analysis, and product development, including to develop and improve our Website, and our and our customer’s products, and services.
+* To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+* To evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
+* To sale and transfer to our clients who may contact you to provide you with the goods or services described on the Website.
+* To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+* To notify you about changes to our Website or any products or services we offer or provide though it.
+* To market our products and services.
+* To market the products and services of others.
+* To provide targeted advertising.
+* In any other way we may describe when you provide the information.
+* For any other purpose with your consent.
+
+_**Disclosure of personal information.**_ We limit our disclosure of the categories of personal information above to our service providers for one or more business purposes. “Business purposes” means the reasonably necessary and proportionate use of personal information for our operational purposes, other purposes described in this Privacy Policy, for the operational purposes of our service providers and contractors, as well as other purposes compatible with the context in which the personal information was collected.
+
+We may “sell” and/or “share” personal information with our Clients or with third party advertising networks and platforms for purposes of providing targeted behavioral advertising on those platforms.
+
+In the last 12 months (from the last updated date listed at the top of this Privacy Policy), we have “sold” or “shared” the following categories of personal information:
+
+* Identifiers
+* Internet or other electronic network activity information
+* Electronic information
+* Commercial information
+
+_**Retention of personal information.**_ We will retain your personal information for as long as necessary for the purposes outlined in this Privacy Policy. This information will be used and retained to the extent necessary to comply with any legal obligations or policies, to resolve disputes, and/or enforce legal agreements. Personal information also be retained for internal analytic purposes. This information is retained for a shorter period of time, unless it used to enhance security features or improve the functionality of our Websites. Our determination of precise retention periods will be based on (i) the length of time we have an ongoing relationship with you; (ii) whether there is a legal obligation to which we are subject; and (iii) whether retention is advisable in light of our legal position, including regard to applicable statutes of limitations, litigation or regulatory investigations.
+
+_**Your privacy rights.**_ The CCPA provides California residents with specific rights regarding their personal information. If you are a California resident, you may have the following rights under applicable California law:
+
+* **Right to know and access.** You have the right to know what personal information we collect, use, disclose, and sell and/or share, as those terms are defined under applicable law. You may ask us to provide you a portable copy of this information up to two times in a rolling twelve-month period.
+* **Right to delete and erase.** You have the right to request under certain circumstances that we, as well as our service providers and contractors, delete the personal information that we collect about you.
+* **Right to correct inaccurate personal information.** You have the right to request the correction of inaccurate personal information.
+* **Right to non-discrimination.** You have the right not to receive discriminatory treatment for the exercise of the privacy rights described above.
+* **Right to opt out of sale and/or sharing.** You have the right to opt-out of the sale and/or sharing of your personal information by a business.
+* **Right to limit use and disclosure.** You have the right to limit the use or disclosure of your sensitive personal information to only the uses necessary for us to provide goods or services to you. We will not use or disclose your sensitive personal information after you have exercised your right unless you subsequently provide consent for the use of your sensitive personal information for additional purposes.
+* **Sharing with third parties for their own direct marketing purposes.** We do not disclose this personal information to third parties for their own purposes without your consent. If you wish to request information regarding such practices under California’s “Shine the Light” Law, please [Contact Us](#contact_us). You must include your full name, email address, and postal address in your email or mail request so that we can verify your California residence and respond.
+
+_**How to exercise your rights.**_ You may exercise any of the rights described in this section by following the instructions in [Your State Privacy Rights](#your_state_privacy_rights).
+
+_**Notice of right to opt-out of sale/sharing.**_ California residents may opt out of the “sale” or “sharing” of their personal information. As noted above, we may “sell” and/or “share” personal information with our Clients or with third party advertising networks and platforms for purposes of providing targeted behavioral advertising on those platforms. You may opt-out by following the instructions in [Your State Privacy Rights](#your_state_privacy_rights). We do not knowingly sell or share the personal information of minors under 16 years of age without legally-required affirmative authorization. If you are a parent or guardian and you believe that your child has provided us with information without your consent, please review [Children Under the Age of 16](#children_under_the_age_of_16) and contact us by email at [info@convergemarketing.com](mailto:info@convergemarketing.com). You can also opt out of such sale or sharing by clicking the [Your Privacy Choices](#your_privacy_choices) link at the bottom of our website and selecting your preferences.
+
+Nevada Privacy Notice
+
+We may “sell” personal data as that term is defined under Nevada law. Nevada residents have the right to request to opt out of any future sale of their personal data under Nevada SB 220. If you are a Nevada resident and would like to make such a request, please follow the instructions in [Your State Privacy Rights](#your_state_privacy_rights). You must include your full name, email address, and postal address in your email or mail request so that we can verify your Nevada residence and respond. In the event we sell your personal data after the receipt of your request, we will make reasonable efforts to comply with such request.
+
+Privacy Notice For Residents of Other States
+
+This section applies to any Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents about whom we collect personal data (defined below) from any source, including through the use of the Websites or by communicating with us electronically, in paper correspondence, or in person. The provisions contained within this section, in addition to the disclosures throughout the rest of this Privacy Policy, are intended to provide notices in compliance with the Colorado Privacy Act (“CPA”), the Connecticut Data Privacy Act (“CTDPA”), the Montana Consumer Data Privacy Act (“MCDPA”), the Oregon Consumer Data Privacy Act (“OCDPA”), the Texas Data Privacy and Security Act (“TDPSA”) the Utah Consumer Privacy Act (“UCPA”), and the Virginia Consumer Data Protection Act (“VCDPA”). This section does not apply to certain personal data that is collected from an individual in a business-to-business or employment context.
+
+For purposes of this section, “personal data” means any information that is linked or reasonably linkable to an identified or identifiable natural person. Personal data does not include de-identified data or publicly available information.
+
+_**Our personal data practices.**_ The CPA, CTDPA, MCDPA, OCDPA, TDPSA, UCPA, and VCDPA provide rights to residents of Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia, respectively, to receive certain disclosures and access regarding collection, use, sale, and sharing of personal data. More detail about what kinds of personal data we may collect or have collected, how we collect it, why we collect it, and who we may disclose it to is found in [Information We Collect and How We Collect It](#information_we_collect_and_how_we_collect_it), [How We Use Your Information](#how_we_use_your_information), and [Disclosure of Your Information](#disclosure_of_your_information).
+
+We may “sell” and/or “share” personal data with our Clients or with third party advertising networks and platforms for purposes of providing targeted behavioral advertising on those platforms.
+
+_**Your privacy rights.**_ If you are a Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia resident, you have the following rights under applicable law in relation to your personal data, subject to certain exceptions:
+
+* **Right to know and access.** You have the right to know what personal data we collect, use, disclose, and/or sell or share as those terms are defined under applicable law. You may ask us to provide you a portable copy of this information up to two times in a rolling twelve-month period. Oregon residents also have a right to know the specific third parties to which we have disclosed personal data.
+* **Right to delete and erase.** You have the right to request under certain circumstances that we, as well as our service providers and contractors, delete the personal data that we collect about you.
+* **Right to correct inaccurate personal data.** You have the right to request the correction of inaccurate personal data.
+* **Right to non-discrimination.** You have the right not to receive discriminatory treatment for the exercise of the privacy rights described above.
+* **Right to opt out.** You have the right to opt-out of targeted advertising, our sale of your personal data, and profiling decisions that could produce legal or similarly significant effects concerning the consumer.
+* **Rights concerning sensitive personal data.** If you are a Connecticut, Colorado, Montana, Oregon, Texas, or Virginia resident, we cannot process your sensitive data or your sensitive data inferences, or use your personal data for certain purposes without your affirmative consent. If you are a Utah resident, you have the right to opt out of having your sensitive personal data processed.
+
+_**How to exercise your rights.**_ You may exercise any of the rights described in this section by following the instructions in [Your State Privacy Rights](#your_state_privacy_rights).
+
+_**How to appeal decisions about your rights.**_ Colorado, Connecticut, Oregon, Montana, Texas, and Virginia residents can appeal our decisions concerning privacy rights requests, as follows:
+
+* **Colorado residents.** If you are a Colorado resident and want to appeal our decision with regard to a request that you have made, please [Contact Us](#contact_us). Within forty-give (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Colorado’s Office of the Attorney General by phone at (720) 508-6000 or by submitting a form [here](https://coag.gov/file-complaint/).
+* **Connecticut residents.** If you are a Connecticut resident and want to appeal our decision with regard to a request that you have made, please [Contact Us](#contact_us). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Connecticut’s Office of the Attorney General by phone at (860) 808-5420 or by submitting a form [here](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page).
+* **Montana residents.** If you are a Montana resident and want to appeal our decision with regard to a request that you have made, please [Contact Us](#contact_us). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Montana’s Office of the Attorney General by phone at (406) 444-4500 or by submitting a form [here](https://dojmt.gov/consumer/consumer-complaints/).
+* **Oregon residents.** If you are an Oregon resident and want to appeal our decision with regard to a request that you have made, please [Contact Us](#contact_us). Within forty-give (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Oregon’s Office of the Attorney General by phone at (877) 877-9392 or by submitting a form [here](https://justice.oregon.gov/consumercomplaints/OnlineComplaints/OnlineComplaintForm/en).
+* **Texas residents.** If you are a Texas resident and want to appeal our decision with regard to a request that you have made, please [Contact Us](#contact_us). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Texas’ Office of the Attorney General by phone at (800) 621-0508 or by submitting a form [here](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint).
+* **Virginia residents.** If you are a Virginia resident and want to appeal our decision with regard to a request that you have previously made, please [Contact Us](#contact_us) or notify the Office of the Attorney General of Virginia online [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint). Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Virginia’s Office of the Attorney General by phone at (804) 786-2071, written correspondence to 202 North 9th Street, Richmond, Virginia 23219, or online [here](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
 Links to Other Websites
 
@@ -132,32 +286,31 @@ Our Websites may include links or references to other websites or services. Thes
 
 Using Our Services Outside of the United States
 
-If you are using the Services from outside of the United States of America, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located, and our central database is operated. The data protection and other laws of the United States might not be as comprehensive as those in your country. By using any portion of the Services, you understand and consent to the transfer of your personal information to our facilities in the United States and those third parties with whom we share it as described in this Privacy Policy.
-
-Online Analytics
-
-We may use third party analytics tools, such as Google Analytics and other services from time to time, in order to better understand your use of our Services and how we can improve them. These tools collect information sent by your browser or mobile device, including the pages you visit and other usage information. For more information regarding how Google collects, uses, and shares your information please visit [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
-
-To prevent data from being used by Google Analytics, you can download the opt-out browser add-on at:  [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en).
+Our Services are not intended for use outside of the United States of America. If you are using the Services from outside of the United States of America, please be aware that your personal information may be transferred to, stored or processed in the United States, where our servers are located, and our central database is operated. The data protection and other laws of the United States might not be as comprehensive as those in your country. By using any portion of the Services, you understand and consent to the transfer of your personal information to our facilities in the United States and those third parties with whom we share it as described in this Privacy Policy.
 
 Changes to Our Privacy Policy
 
-This Privacy Policy may be updated periodically, and we encourage visitors to frequently check this page for any changes. You can tell when this policy was last updated by looking at the "Last Updated" date located at the top of this policy. In the event of substantive changes in the way we collect, process, use or share personal information, we may provide additional notice by adding a statement to our homepage or sending you a notification via email with a link to our revised policy.
+This Privacy Policy may be updated periodically, and we encourage visitors to frequently check this page for any changes. You can tell when this policy was last updated by looking at the "Last Updated" date located at the top of this policy. In the event of substantive changes in the way we collect, process, use or share personal information, we may provide additional notice by adding a statement to our homepage and/or sending you a notification via email with a link to our revised policy.
 
 Your further use of our website after the date our Privacy Policy was last updated will be subject to the revised policy.
 
-Questions?
+Contact Us
 
-If you have questions regarding our Privacy Policy or your privacy rights as described above, please contact us at:
+If you have any questions or comments about this Privacy Policy, the ways in which we collect and use your information described in the Privacy Policy, your choices and rights regarding such use, or wish to exercise your rights under applicable law, please do not hesitate to contact us at:
 
-[](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com)
+|     |     |
+| --- | --- |
+| **By Telephone (Toll Free)** | **646-292-5232** |
+| **Online** | [Submit Your Details Here](https://homeservicescompliance.com/infoform.html?rpgn=&rpurl=) |
+| **Email** | [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com) |
+| **By Mail** | **Converge Direct LLC  <br>25 W. 39th St., 6th Floor,  <br>New York, NY 10018** |
 
-Converge Direct, LLC | 25 W. 39th St., 6th Floor, New York, NY 10018
+If you are a visually-impaired customer, a customer who has another disability or a customer who seeks support in another language, you may access this Privacy Policy by contacting us at [](mailto:info@convergemarketing.com)[info@convergemarketing.com](mailto:info@convergemarketing.com) or 646-292-5232.
 
 California Privacy Policy for California Residents
 ==================================================
 
-### (Last Updated April 11, 2024)
+### (Last Updated May 8, 2024)
 
 [California Notice at Collection](#california_notice_at_collection)
 
@@ -215,14 +368,14 @@ In the preceding twelve (12) months, we have collected and disclosed personal in
 | **E: Biometric information** **\-** For example, genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data. | No. | None. | None. |
 | **F: Internet or other similar network activity -** For example, browsing history, search history, information on a consumer's interaction with a website, application, or advertisement. | Yes.  We only collect information relating to your interaction with our website.  We do not typically collect any of the other information in this category. | Yes, we may provide the information to our parent or its subsidiaries in connection with the monitoring of the Website’s performance. | None. |
 | **G: Geolocation data -** For example, physical location or movements. | Yes.  We collect your IP address which is stored with your record and we receive your geographic id from our analytics partner, which provides fairly imprecise information of where you may be when you visit the site. | Yes, we may provide the information to our parent or its subsidiaries in connection with the monitoring of the Website’s performance. | None. |
-| **H: Sensory data** **\-** For example, audio, electronic, visual, thermal, olfactory, or similar information. | Yes. This Website may use session replay technology (such as TrustedForm) to monitor your interactions with the Website.\* | We may provide our parent or its subsidiaries, if any, in connection with confirming your consent to the collection and sale of personal information and agreeing to be contacted by us or our client in accordance with the TCPA and other laws. | Sold to our clients to confirm receipt of consents. |
+| **H: Sensory data** **\-** For example, audio, electronic, visual, thermal, olfactory, or similar information. | Yes. This Website may use session replay technology (such as TrustedForm\*) to monitor your interactions with the Website.\* | We may provide our parent or its subsidiaries, if any, in connection with confirming your consent to the collection and sale of personal information and agreeing to be contacted by us or our client in accordance with the TCPA and other laws. | Sold to our clients to confirm receipt of consents. |
 | **I: Professional or employment-related information -** For example, current or past job history or performance evaluations. | No. | None. | None. |
 | **J: Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)) -** For example, education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records. | No. | None. | None. |
 | **K: Inferences drawn from other personal information -** For example, profile reflecting a person's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | No. | None. | None. |
 
 \*For more information about session replay or TrustedForm, please review the TrustedForm Privacy Notice at [https://activeprospect.com/trustedform-privacy-notice](https://activeprospect.com/trustedform-privacy-notice). We primarily use this service to record a video of your mouse and keyboard movements on your monitor to confirm your consent to the collection and sale of personal information described in this Policy.
 
-We do not collect any sensitive personal information (as defined in the CCPA).
+We do not collect any Sensitive Personal Information. “Sensitive Personal Information” means social security, driver's license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin; religious or philosophical beliefs; union membership; mail, email, or text message content, unless we are the intended recipient of the communication; or genetic data.
 
 Reselling Personal Information
 
@@ -232,7 +385,7 @@ The CCPA prohibits a third party from reselling personal information unless you 
 
 Deidentified Patient Information
 
-We do not sell or disclose deidentified patient information exempt from the CCPA to third parties. However, if you provide information to us directly about any diagnosis you may have received, we may share this with third parties.
+We do not sell or disclose deidentified patient information exempt from the CCPA to third parties.
 
 Your Rights and Choices
 
@@ -242,7 +395,7 @@ The CCPA provides consumers (California residents) with specific rights regardin
 | --- | --- |
 | Right to Know and Data Portability | You have the right to request that we disclose certain information to you about our collection and use of your personal information over the past 12 months (the "right to know"). Once we receive your request and confirm your identity (see Exercising Your Rights to Know or Delete), we will disclose to you:  <br><br>* The categories of personal information we collected about you.<br>* The categories of sources for the personal information we collected about you.<br>* Our business or commercial purpose for collecting or selling that personal information.<br>* The categories of third parties with whom we share that personal information. <br>* If we sold or disclosed your personal information for a business purpose, two separate lists disclosing:<br><br>* sales, identifying the personal information categories that each category of recipient purchased; and <br>* disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.<br><br>* The specific pieces of personal information we collected about you (also called a data portability request).<br><br>We do not provide a right to know or data portability disclosure for B2B personal information |
 | Right to Delete | You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions (the "right to delete"). Once we receive your request and confirm your identity (see Exercising Your Rights to Know or Delete), we will review your request to see if an exception allowing us to retain the information applies. We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:<br><br>* Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, or otherwise perform our contract with you.<br>* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.<br>* Debug products to identify and repair errors that impair existing intended functionality.<br>* Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.<br>* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).<br>* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.<br>* Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.<br>* Comply with a legal obligation.<br>* Make other internal and lawful uses of that information that are compatible with the context in which you provided it.<br><br>We will delete or deidentify personal information not subject to one of these exceptions from our records and will direct our service providers to take similar action.   <br>   <br>We do not provide these deletion rights for B2B personal information. |
-| Rights to Limit Use or Disclosure of Sensitive Personal Information | Under the CCPA, subject to certain exceptions, you can limit how we use and disclose Sensitive Personal Information. However, we do not collect any Sensitive Personal Information consumers.   <br>   <br>“Sensitive Personal Information” means social security, driver's license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin; religious or philosophical beliefs; union membership; mail, email, or text message content, unless we are the intended recipient of the communication; or genetic data. |
+| Rights to Limit Use or Disclosure of Sensitive Personal Information | Under the CCPA, subject to certain exceptions, you can limit how we use and disclose Sensitive Personal Information. However, we do not collect any Sensitive Personal Information from consumers.   <br>   <br>“Sensitive Personal Information” means social security, driver's license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin; religious or philosophical beliefs; union membership; mail, email, or text message content, unless we are the intended recipient of the communication; or genetic data. |
 
 Exercising Your Rights to Know or Delete
 
@@ -323,7 +476,7 @@ If you need to access this CA Privacy Policy in an alternative format due to hav
 California Notice at Collection
 ===============================
 
-### (Last Updated March 29, 2024)
+### (Last Updated May 8, 2024)
 
 We are collecting your personal information to support our business operations, including for the business purposes listed in the chart below. We do not collect sensitive personal information.
 
@@ -349,7 +502,7 @@ We may collect the Personal Information categories listed in the tables below. T
 
 \*For more information about session replay or TrustedForm, please review the TrustedForm Privacy Notice at [https://activeprospect.com/trustedform-privacy-notice](https://activeprospect.com/trustedform-privacy-notice). We primarily use this service to record a video of your mouse and keyboard movements on your monitor to confirm your consent to the collection and sale of personal information described in this Policy.
 
-Sensitive personal information is a subtype of personal information consisting of specific information categories. We do not collect information that falls within the sensitive personal information categories. Even if we did the CCPA does not treat this information as sensitive because we do not collect or use it to infer characteristics about a person.
+We do not collect any Sensitive Personal Information. “Sensitive Personal Information” means social security, driver's license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin; religious or philosophical beliefs; union membership; mail, email, or text message content, unless we are the intended recipient of the communication; or genetic data.
 
 If you have any questions about this Notice or need to access it in an alternative format due to having a disability, please contact us as provided below.
 
@@ -362,19 +515,19 @@ If you have any questions about this Notice or need to access it in an alternati
 Terms Of Use
 ============
 
-### (Last Updated March 28, 2024)
+### (Last Updated October 23, 2024)
 
 Background
 
-Americanresidentialhomes.com, Bestwindowdeals.com, Eriebasementexperts.com, Eriemetalroof.pro, Getametalroof.com, Geterieroofing.com, Houserepairqotes.com, Leafprotect.com, Mybasementexpert.com, Protectmygutter.com, Roofsavingspro.com or Windowrefurb.com ("Website") and the services, offers or products that we offer (the "Services") are offered to you, on a conditional basis that you accept the Services without modification, of the following terms, conditions, and notices contained in this agreement (the "Terms of Use"). Your use of this Website or submission of service requests via telephone or otherwise, constitutes your agreement to all such terms, conditions, and notices in effect at such time. These Terms of Use apply to any Services or properties such as websites or applications owned and operated by us and on which a link to these Terms of Use appears. If you have any questions regarding these Terms of Use, you may contact us Americanresidentialhomes.com,  Bestwindowdeals.com, Eriemetalroof.pro, Getametalroof.com, Geterieroofing.com, Leafprotect.com, Eriebasementexperts.com, Houserepairquotes.com, Mybasementexpert.com, Protectmygutter.com or Windowrefurb.com at the Website addresses above, as applicable, using the Contact Details provided. We may amend these Terms of Use at any time by posting a revised version of these Terms of Use.
+Americanresidentialhomes.com, Bestwindowdeals.com, Eriebasementexperts.com, Eriemetalroof.pro, Getametalroof.com, Geterieroofing.com, Houserepairqotes.com, Leafprotect.com, Mybasementexpert.com, Protectmygutter.com, Roofsavingspro.com or Windowrefurb.com (collectively, this "Website") and the services, offers or products that we offer (the "Services") are offered to you, on a conditional basis that you accept the Services without modification, of the following terms, conditions, and notices contained in this agreement (the "Terms of Use"). Your use of this Website or submission of service requests via telephone or otherwise, constitutes your agreement to all such terms, conditions, and notices in effect at such time. These Terms of Use apply to any Services or properties such as websites or applications owned and operated by us and on which a link to these Terms of Use appears. If you have any questions regarding these Terms of Use, you may contact us at the Website addresses above, as applicable, using the Contact Details provided. We may amend these Terms of Use at any time by posting a revised version of these Terms of Use.
 
 This Website is offered and available to users who are 16 years of age or older, and reside in the United States or any of its territories or possessions. By using this Website, you represent and warrant that you are of legal age to form a binding contract with the Company and meet all of the foregoing eligibility requirements. If you do not meet all of these requirements, you must not access or use the Website.
 
-**IMPORTANT: PLEASE REVIEW THESE TERMS OF USE CAREFULLY. IN PARTICULAR, PLEASE REVIEW THE MUTUAL ARBITRATION PROVISION BELOW.**
+IMPORTANT: PLEASE REVIEW THESE TERMS OF USE CAREFULLY. IN PARTICULAR, PLEASE REVIEW THE MUTUAL ARBITRATION PROVISION BELOW.
 
 What We Do
 
-Our Websites provide you with Services from our partners, affiliates and clients ("Service Providers"). We are not responsible for the offers, products and services that are provided by our Service Providers nor are we responsible, directly or indirectly, for your eligibility for any offers, products and services. Please pay careful attention to the terms of any such offers, products and services on our Website as well as the Terms of Use provided by the Service Providers themselves.
+Our Website provides you with Services from our partners, affiliates and clients ("Service Providers"). We are not responsible for the offers, products and services that are provided by our Service Providers nor are we responsible, directly or indirectly, for your eligibility for any offers, products and services. Please pay careful attention to the terms of any such offers, products and services on our Website as well as the Terms of Use provided by the Service Providers themselves.
 
 The Services that we provide you on our Website may only be available for certain periods of time, certain geographical locations and other qualifications from time to time. We and our Service Providers reserve the sole and absolute right to change the terms of any Services and at any time.
 
@@ -386,8 +539,7 @@ Your Use Of Our Services And Prohibited Uses
 
 You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:
 
-In any way that violates any applicable federal, state, local, or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries).
-
+* In any way that violates any applicable federal, state, local, or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries).
 * For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information, or otherwise.
 * To transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any "junk mail," "chain letter," "spam," or any other similar solicitation.
 * To impersonate or attempt to impersonate the Company, a Company employee, another user, or any other person or entity (including, without limitation, by using email addresses associated with any of the foregoing).
@@ -418,21 +570,21 @@ Information You Provide To Us
 
 Please see our [Privacy Policy](#privacy_policy) above.
 
-When you access this Website, We, may activate one or more cookies, tracking pixels, SDKs (and other similar technologies) to your computer or device on our Website. We use these tracking technologies to identify prior users and track usage of the site to enhance the service we provide you. You can modify your browser's settings at any time to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please refer to the following URL for information on cookies [http://allaboutcookies.org.](http://www.allaboutcookies.org/)
+When you access this Website, we, may activate one or more cookies, tracking pixels, SDKs (and other similar technologies) to your computer or device on our Website. We use these tracking technologies to identify prior users and track usage of the site to enhance the service we provide you. You can modify your browser's settings at any time to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please refer to the following URL for information on cookies [http://allaboutcookies.org.](http://www.allaboutcookies.org/)
 
-We may also automatically record certain information from your system including your IP address, a unique device or User ID, version of software installed, system type, the content and pages that you access on the site and the dates and times that you visit site. We use this information for analytical purposes and to help us improve our site and our business in general. We may provide this information to affiliates and/or third parties to assist us in improving these functions. We may use other digital tracking on the Website to ensure that we provide you with a better digital consumer journey and experience as well as to ensure We have digital proof of our compliance of certain laws.
+We may also automatically record certain information from your system including your IP address, a unique device or User ID, version of software installed, system type, the content and pages that you access on the site and the dates and times that you visit site. We use this information for analytical purposes and to help us improve our site and our business in general. We may provide this information to affiliates and/or third parties to assist us in improving these functions. We may use other digital tracking on the Website to ensure that we provide you with a better digital consumer journey and experience as well as to ensure we have digital proof of our compliance of certain laws.
 
 Personally Identifiable Information
 
 Please refer to our [Privacy Policy](#privacy_policy) above to understand how we collect your personal information and how we may use it. For example, your personal information, that is voluntarily provided by you under the Terms of Use, maybe used for administrative purposes; for authentication purposes; to properly operate, maintain and provide you with the features and functionality of the site; to present you with promotions, advertisements and opportunities which may be of interest to you via a variety of marketing mediums, such as, but not limited to, direct mail, email, phone, text, or Text SMS; to enable our Service Providers and to assist us in operating, maintaining and providing our Services to you via a variety of marketing channels and mediums, to enable us to carry out our obligations; to notify you about changes to the Policies, site or service; to investigate and help prevent potentially unlawful activities that threaten the integrity of the Website or us, our technology; to investigate allegations of fraud or violations of our Policies (including Privacy Policy); to enforce or apply our rights under the Privacy Policy; to protect the rights, property, or safety of any of our clients or others; to improve the quality and design of the site and to create new features, functionality, and services by storing, tracking, and analyzing your preferences and trends; and/for marketing and business purposes generally.
 
-Information submitted to the Website in some instances may be shared or sold unless consent is authorized by you.
+Information submitted to the Website in some instances may be shared or sold unless consent is not authorized by you.
 
 We reserve the right to disclose your personally identifiable information, as required, to comply with the law, applicable regulations, governmental and quasi-governmental requests, judicial proceedings, court orders or subpoenas, to enforce our legal notices or other agreements, or to protect our rights, property or safety or the rights, or to protect the property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.), and to ensure the security of our network and services. Information obtained is utilized solely to improve and enhance the quality of our Websites, advertisements and related mediums.
 
 Fraud Notice
 
-**TO KNOWINGLY INPUT FALSE INFORMATION, INCLUDING BUT NOT LIMITED TO NAME, PHONE NUMBER, ADDRESS OR E-MAIL ADDRESS IS A VERY SERIOUS AND FRAUDULENT MATTER THAT COULD RESULT IN SIGNIFICANT COSTS AND DAMAGES INCLUDING INVASION OF PRIVACY RIGHTS, TO US AND THE SERVICE PROVIDERS, AND TO CONSUMERS, AS WELL AS THE LOSS OF TIME, EFFORT AND EXPENSE RESPONDING TO AND PURSUING SUCH FALSE INFORMATION AND REQUEST, AND FURTHER, COULD RESULT IN REGULATORY FINES AND PENALTIES. ACCORDINGLY, IF YOU KNOWINGLY INPUT FALSE INFORMATION IN A SERVICE REQUEST, INCLUDING BUT NOT LIMITED TO SOME ONE ELSE'S NAME, E-MAIL ADDRESS, PHYSICAL ADDRESS OR PHONE NUMBER OR A RANDOM OR MADE UP NAME, ADDRESS, E-MAIL OR PHONE NUMBER YOU AGREE TO FULLY INDEMNIFY AND BE LIABLE TO US AND EACH SERVICE PROVIDER FOR ANY LOSSES OR EXPENSES ASSOCUATED WITH YOUR ACTIONS WHICH COULD BE THE ACTUAL DAMAGES, DIRECT, PUNITIVE AND CONSEQUENTIAL, AND ANY REGULATORY OR JUDICIAL FINES OR PENALTIES THAT MAY ARISE FROM SUCH INTENTIONAL, MISLEADING, HARMFUL AND FRAUDULENT ACTIVITY, PLUS REASONABLE LEGAL FEES, COST AND EXPENSES RELATING THERETO, WHICH EVER IS GREATER.**
+**TO KNOWINGLY INPUT FALSE INFORMATION, INCLUDING BUT NOT LIMITED TO NAME, PHONE NUMBER, ADDRESS OR E-MAIL ADDRESS IS A VERY SERIOUS AND FRAUDULENT MATTER THAT COULD RESULT IN SIGNIFICANT COSTS AND DAMAGES INCLUDING INVASION OF PRIVACY RIGHTS, TO US AND THE SERVICE PROVIDERS, AND TO CONSUMERS, AS WELL AS THE LOSS OF TIME, EFFORT AND EXPENSE RESPONDING TO AND PURSUING SUCH FALSE INFORMATION AND REQUEST, AND FURTHER, COULD RESULT IN REGULATORY FINES AND PENALTIES. ACCORDINGLY, IF YOU KNOWINGLY INPUT FALSE INFORMATION IN A SERVICE REQUEST, INCLUDING BUT NOT LIMITED TO SOME ONE ELSE'S NAME, E-MAIL ADDRESS, PHYSICAL ADDRESS OR PHONE NUMBER OR A RANDOM OR MADE UP NAME, ADDRESS, E-MAIL OR PHONE NUMBER YOU AGREE TO FULLY INDEMNIFY AND BE LIABLE TO US AND EACH SERVICE PROVIDER FOR ANY LOSSES OR EXPENSES ASSOCIATED WITH YOUR ACTIONS WHICH COULD BE THE ACTUAL DAMAGES, DIRECT, PUNITIVE AND CONSEQUENTIAL, AND ANY REGULATORY OR JUDICIAL FINES OR PENALTIES THAT MAY ARISE FROM SUCH INTENTIONAL, MISLEADING, HARMFUL AND FRAUDULENT ACTIVITY, PLUS REASONABLE LEGAL FEES, COST AND EXPENSES RELATING THERETO, WHICH EVER IS GREATER.**
 
 Call Recording
 
@@ -467,8 +619,7 @@ You must not:
 * Modify copies of any materials from this site.
 * Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
 * Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
-
-You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.
+* You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.
 
 If you print, copy, modify, download, or otherwise use or provide any other person with access to any part of the Website in breach of the Terms of Use, your right to use the Website will stop immediately and you must, at our option, return or destroy any copies of the materials you have made. No right, title, or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by the Company. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.
 
