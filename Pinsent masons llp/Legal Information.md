@@ -585,7 +585,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     We operate in France through our affiliated entity Pinsent Masons France LLP.
     
-    Pinsent Masons France LLP is a limited liability partnership registered in England and Wales (registered number: OC375540), authorised and regulated by the Solicitors Regulation Authority and registered with the Paris Bar pursuant to Directive 98/5/CE dated 16 February 1998, with its place of business at 21-23, rue Balzac 75008, Paris CEDEX 08. 
+    Pinsent Masons France LLP is a limited liability partnership registered in England and Wales (registered number: OC375540), authorised and regulated by the Solicitors Regulation Authority and registered with the Paris Bar pursuant to Directive 98/5/CE dated 16 February 1998, with its place of business at 35 Boulevard Des Capucines, 75002, Paris. 
     
     Our Paris office comprises lawyers (Avocat) who are regulated by the Ordre des [Avocats à la Cour de Paris](http://www.avocatparis.org/) (lawyers registered at the Paris Bar) and may also have a number of lawyers from other jurisdictions who are members of foreign Bars. Further information on our people and their professional qualifications can be found on this site - [People](https://www.pinsentmasons.com/people).
     
