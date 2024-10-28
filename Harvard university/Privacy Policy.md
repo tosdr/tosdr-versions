@@ -123,7 +123,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Forests
+    1. Voting
+        
+        In Focus
+        
+        **Voting** Harvard experts look at the state of voting in the 21st century, and how participation is shaped by education, technology, and other historical forces. [Elect to learn more](https://www.harvard.edu/in-focus/voting/)
+        
+        1. **What's on the ballot?**
+            1. [**How AI is affecting elections**](https://ash.harvard.edu/articles/ai-and-the-2024-elections/)
+            2. [**How polls become more accurate**](https://news.harvard.edu/gazette/story/2024/10/why-do-election-polls-seem-to-have-such-a-mixed-track-record/)
+        
+    2. Forests
         
         In Focus
         
@@ -133,7 +143,7 @@ Menu
             1. [**Urban forests can help cool cities**](https://www.gsd.harvard.edu/2023/10/the-forest-for-the-trees-and-the-birds-and-the-people-and-the-planet/)
             2. [**Forests can help offset carbon emissions**](https://news.harvard.edu/gazette/story/2022/11/new-report-shows-forests-have-big-role-to-play-in-climate-change-fight/)
         
-    2. Harvard in the World
+    3. Harvard in the World
         
         In Focus
         
@@ -142,16 +152,6 @@ Menu
         1. **What's inside**
             1. [**Journey to the Amazon**](https://news.harvard.edu/gazette/story/2024/10/journey-to-a-key-front-in-climate-change-fight/)
             2. [**Learn about Worldwide Week at Harvard**](https://worldwide.harvard.edu/worldwide-week-harvard-2024)
-        
-    3. Nobels at Harvard
-        
-        In Focus
-        
-        **Nobels at Harvard** Explore Harvard's history with the Nobel Prize and learn about winners past and present. [View the feature](https://www.harvard.edu/in-focus/nobels-at-harvard/)
-        
-        1. **What's inside**
-            1. [**Meet Professor Gary Ruvkun, a 2024 winner**](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
-            2. [**Meet Harvard's Nobel Laureates**](https://www.harvard.edu/about/history/nobel-laureates/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
@@ -213,7 +213,7 @@ Menu
         
         1. [**What happened when a meteorite the size of four Mount Everests hit Earth?**  Giant impact had silver lining for life, according to new study](https://news.harvard.edu/gazette/story/2024/10/what-happened-when-a-meteorite-the-size-of-four-mount-everests-hit-earth/)
         2. [**Does academic writing have to be boring?** English professor, journalist says first step to better prose is being aware that no one has to read you](https://news.harvard.edu/gazette/story/2024/10/how-to-improve-academic-writing/)
-        3. [**Are rich different from you and me? Would we be better off without them?** Safra Center for Ethics debate weighs extreme wealth, philanthropy, income inequality, and redistribution](https://news.harvard.edu/gazette/story/2024/10/are-rich-different-from-you-and-me-would-we-be-better-off-without-them/)
+        3. [**How to fight depression? Faster.** Hope flags when medications fail, isolating and endangering patients. Backed by a major grant, 2 Harvard scientists are focused on reducing the distance between diagnosis and recovery.](https://news.harvard.edu/gazette/story/2024/10/how-to-fight-depression-faster/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
