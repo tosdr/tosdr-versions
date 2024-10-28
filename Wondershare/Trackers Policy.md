@@ -183,9 +183,9 @@ Objection to cookies can result from the setting of the User’s browser, as pro
 
 * [](https://www.facebook.com/wondershare/)[](https://www.instagram.com/wondershare/)[](https://twitter.com/wondershare)[](https://www.youtube.com/user/Wondershare)[](https://www.wondershare.com/about/social-media.html)
 
-[Terms and Conditions](https://www.wondershare.com/company/terms_conditions.html) [Privacy](https://www.wondershare.com/privacy.html) [Cookies](https://www.wondershare.com/cookies-policy.html) [Terms of Use](https://www.wondershare.com/company/terms-of-use.html) [Refund Policy](https://www.wondershare.com/refund-policy.html) [Uninstall](https://www.wondershare.com/uninstall.html)
+[Terms and Conditions](https://www.wondershare.com/company/terms_conditions.html) [Privacy](https://www.wondershare.com/privacy.html) [Cookies](https://www.wondershare.com/cookies-policy.html) [License Agreement](https://www.wondershare.com/company/end-user-license-agreement.html) [Refund Policy](https://www.wondershare.com/refund-policy.html) [Uninstall](https://www.wondershare.com/uninstall.html)
 
-Copyright © Wondershare. All rights reserved.
+Copyright © Wondershare. All rights reserved. The order process, tax issue, and invoicing to end users are conducted by Wondershare Technology Group Co., Ltd.
 
 English
 
