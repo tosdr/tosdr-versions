@@ -36,6 +36,9 @@
         
         Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
     
+    * [![Train to be a Security Engineer in this low-cost course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Train to be a Security Engineer in this low-cost course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-to-be-a-security-engineer-in-this-low-cost-course-bundle-deal/)
     * [![Windows 11 24H2: The hardware and software blocking the new update](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
@@ -45,9 +48,6 @@
     * [![Get hands on cybersecurity training with this course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get hands on cybersecurity training with this course bundle](https://www.bleepingcomputer.com/offer/deals/get-hands-on-cybersecurity-training-with-this-course-bundle/)
-    * [![New Cisco ASA and FTD features block VPN brute-force password attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
 * [![Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
 * [![Microsoft Russia](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Amazon seizes domains used in rogue Remote Desktop campaign to steal data](https://www.bleepingcomputer.com/news/security/amazon-seizes-domains-used-in-rogue-remote-desktop-campaign-to-steal-data/)
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
 
 ##### Follow us:
 
