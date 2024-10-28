@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 28, 2024](https://www.japantimes.co.jp/archive/2024/10/28/ "archive page")
+[October 29, 2024](https://www.japantimes.co.jp/archive/2024/10/29/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,6 +131,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
+
+  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
+
+[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+
+  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+
 [As it happened: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
 
   [![A polling station at a local school in Tokyo on Sunday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430377.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A polling station at a local school in Tokyo on Sunday")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
@@ -143,16 +151,22 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
 
+Editors' Picks
+--------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
+
+By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-  [![Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430380.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
+[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
-Editors' Picks
---------------
+  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -175,22 +189,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
 
   [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
-By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430380.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
 Podcast
 -------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
+
+3 hours ago
+
+[Tree-cutting begins in Meiji Jingu Gaien redevelopment project](https://www.japantimes.co.jp/news/2024/10/28/japan/meiji-jingu-cut-start/ "Tree-cutting begins in Meiji Jingu Gaien redevelopment project")
+
+5 hours ago
+
 [Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
-58 mins ago
+7 hours ago
 
 [Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant](https://www.japantimes.co.jp/news/2024/10/28/japan/tepco-debris-removal-trial/ "Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant")
 
-1 hours ago
+7 hours ago
 
 [China's second-generation factory owners go digital to combat challenges](https://www.japantimes.co.jp/business/2024/10/28/tech/china-generation-factory-digital/ "China's second-generation factory owners go digital to combat challenges")
 
-1 hours ago
-
-[Trump headlines New York rally after vulgar, racist remarks from allies](https://www.japantimes.co.jp/news/2024/10/28/world/politics/trump-madison-square-racist-remarks/ "Trump headlines New York rally after vulgar, racist remarks from allies")
-
-2 hours ago
-
-[Yen takes a hit and Tokyo stocks jump as dovish opposition gains seats](https://www.japantimes.co.jp/business/2024/10/28/markets/election-markets-reaction/ "Yen takes a hit and Tokyo stocks jump as dovish opposition gains seats")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
