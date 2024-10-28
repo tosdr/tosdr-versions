@@ -2,7 +2,7 @@ This site has been retired. For up to date information, see [handbook.gnome.org]
 
 |     |     |
 | --- | --- |
-| ![](logo.png) | * Foundation/CodeOfConduct<br><br>  <br>  <br>\[[Home](https://wiki.gnome.org/Foundation/Home.html)\] \[[TitleIndex](https://wiki.gnome.org/Foundation/TitleIndex.html)\] \[[WordIndex](https://wiki.gnome.org/Foundation/WordIndex.html)\] |
+| ![](logo.png) | * Foundation/CodeOfConduct<br><br>  <br>  <br>\[[Home](https://wiki.gnome.org/Home.html)\] \[[TitleIndex](https://wiki.gnome.org/TitleIndex.html)\] \[[WordIndex](https://wiki.gnome.org/WordIndex.html)\] |
 
 * * *
 
