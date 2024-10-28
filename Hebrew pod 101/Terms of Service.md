@@ -1,9 +1,5 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://vkt979ywwg.execute-api.us-east-1.amazonaws.com/ProdStage)
 
-[![Get a 40% Off Forever Discount With The Monster Sale. Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/October/Monster/HP/homepage_web-banner-hebrew.png)](https://www.hebrewpod101.com/monster-lp?src=banner_hp)
-
-[![Get a 40% Off Forever Discount With The Monster Sale. Ends Soon!](https://cdn.innovativelanguage.com/sns/em/2024/October/Monster/HP/homepage_mob-banner.gif)](https://www.hebrewpod101.com/monster-lp?src=mbanner_hp)
-
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
 Sign In
