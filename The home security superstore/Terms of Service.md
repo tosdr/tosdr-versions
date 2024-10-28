@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off ALL Alarms | Use Code: ALARM15](https://www.thehomesecuritysuperstore.com/collections/alarms?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+ALL+Alarms)
+[15% Off Personal Safety Items | Use Code: PS15](https://www.thehomesecuritysuperstore.com/collections/personal-safety?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+Personal+Safety+Items)
 
-TODAY'S OFFER: :: | 15% Off ALL Alarms | Use Code: ALARM15
+TODAY'S OFFER: :: | 15% Off Personal Safety Items | Use Code: PS15
 
 TODAY'S OFFER: : :
 
- 15% Off ALL Alarms Use Code: ALARM15
+ 15% Off Personal Safety Items Use Code: PS15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
