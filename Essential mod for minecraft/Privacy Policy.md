@@ -345,7 +345,7 @@ Installer for Windows and macOS
 
 Product
 
-[Download](https://essential.gg/versions)[Wiki](https://essential.gg/wiki)[Support](https://essential.gg/discord)[Status](https://essential.statuspage.io/)[Changelog](https://essential.gg/changelog)[Licenses](https://essential.gg/licenses)
+[Download](https://essential.gg/versions)[Wiki](https://essential.gg/wiki)[Support](https://essential.gg/discord)[Status](https://status.essential.gg/)[Changelog](https://essential.gg/changelog)[Licenses](https://essential.gg/licenses)
 
 Community
 
