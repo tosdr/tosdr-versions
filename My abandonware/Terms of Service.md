@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Virtua Striker 2](https://www.myabandonware.com/game/virtua-striker-2-sl6)
+* [Xtom 3D](https://www.myabandonware.com/game/xtom-3d-g0a)
+* [FIFA Soccer 97](https://www.myabandonware.com/game/fifa-soccer-97-8by)
+* [The Official EDGE Computer Game](https://www.myabandonware.com/game/the-official-edge-computer-game-skx)
 * [SEGA Marine Fishing](https://www.myabandonware.com/game/sega-marine-fishing-snj)
-* [Fever: Sankyo Kōshiki Pachinko Simulation](https://www.myabandonware.com/game/fever-sankyo-koshiki-pachinko-simulation-t2i)
-* [Engacho! for WonderSwan](https://www.myabandonware.com/game/engacho-for-wonderswan-t2h)
-* [Dokodemo Hamster](https://www.myabandonware.com/game/dokodemo-hamster-t2g)
-* [Digital Monster Ver. WonderSwan](https://www.myabandonware.com/game/digital-monster-ver-wonderswan-t2f)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
