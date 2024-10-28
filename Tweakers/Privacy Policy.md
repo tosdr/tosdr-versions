@@ -56,7 +56,7 @@ Ga direct naar
 * [Inloggen](https://tweakers.net/my.tnet/login/?location=https://tweakers.net/info/algemene-voorwaarden/privacy/)
 * [Registreren](https://tweakers.net/my.tnet/register/)
 
-[](https://www.true.nl/?utm_source=tweakers&utm_medium=referral&utm_campaign=2023_H2_Awareness&utm_content=Awareness "Hosting door True")
+[](https://www.truefullstaq.com/?utm_medium=referral&utm_source=tweakers&utm_campaign=hostedby&utm_term=partner&utm_content=logo "Hosting door True")
 
 Tracker Actieve topics
 
