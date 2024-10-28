@@ -30,7 +30,7 @@ Understanding Fingerprint
 
 * [Introduction](https://dev.fingerprintjs.com/docs/introduction)
 * [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
-* [Identification accuracy and confidence](https://dev.fingerprintjs.com/docs/identification-accuracy-and-confidence)
+* [Identification, Accuracy, and Confidence Score](https://dev.fingerprintjs.com/docs/identification-accuracy-and-confidence)
 * [Privacy and compliance](https://dev.fingerprintjs.com/docs/privacy-and-compliance)
 * [Regions and data retention](https://dev.fingerprintjs.com/docs/regions)
 * [Browser and device support](https://dev.fingerprintjs.com/docs/browser-and-device-support)
@@ -44,6 +44,7 @@ Identify browsers
     * [Optimize JavaScript agent usage](https://dev.fingerprintjs.com/docs/optimize-javascript-agent)
     * [Usage with server-side rendering frameworks](https://dev.fingerprintjs.com/docs/usage-with-server-side-rendering-frameworks)
 * [Identify visitors](https://dev.fingerprintjs.com/docs/identify-visitors)
+* [JavaScript agent API reference](https://dev.fingerprint.com/reference/javascript-agent)
 * [Frontend libraries](https://dev.fingerprintjs.com/docs/frontend-libraries)
     * [Angular SDK](https://dev.fingerprintjs.com/docs/angular)
     * [Google Chrome Extension](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-and-chrome-extension)
@@ -92,14 +93,7 @@ Integrate with your server
 * [Server API](https://dev.fingerprint.com/reference/pro-server-api)
 * [Webhooks](https://dev.fingerprintjs.com/docs/webhooks)
 * [Sealed Client Results](https://dev.fingerprintjs.com/docs/sealed-client-results)
-* [Backend libraries](https://dev.fingerprintjs.com/docs/backend-libraries)
-    * [Go Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-go-sdk)
-    * [Java Server API SDK](https://dev.fingerprintjs.com/docs/java-server-api-sdk)
-    * [Node.js Server API SDK](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-server-api-nodejs-sdk)
-    * [OpenAPI for Server API and Webhooks](https://dev.fingerprintjs.com/docs/openapi-for-server-api-and-webhooks)
-    * [PHP Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-php-sdk)
-    * [Python Server API SDK](https://dev.fingerprintjs.com/docs/python-server-api-sdk)
-    * [.NET Server API SDK](https://dev.fingerprintjs.com/docs/fingerprint-pro-server-api-dotnet-sdk)
+* [Backend libraries](https://dev.fingerprint.com/reference/server-sdks)
 * [Zero Trust Mode](https://dev.fingerprintjs.com/docs/zero-trust-mode)
 * [Management API](https://dev.fingerprint.com/reference/management-api)
 * [Data integrations](https://dev.fingerprintjs.com/docs/fingerprintjs-pro-google-tag-manager)
@@ -119,11 +113,11 @@ Tips & Advanced Guides
 ----------------------
 
 * [Linking and tagging information](https://dev.fingerprintjs.com/docs/tagging-information)
-* [Visitor Footprint Timestamps](https://dev.fingerprintjs.com/docs/useful-timestamps)
-* [Identifying in-app browsers for iOS](https://dev.fingerprintjs.com/docs/identifying-in-app-browsers-for-ios)
-* [Identifying users in hybrid app frameworks](https://dev.fingerprintjs.com/docs/identifying-users-in-hybrid-app-frameworks)
 * [Multiple environments](https://dev.fingerprintjs.com/docs/multiple-environments)
 * [Identification using pseudonymized IP Address](https://dev.fingerprintjs.com/docs/identification-using-pseudonymized-ip-address)
+* [Identifying in-app browsers for iOS](https://dev.fingerprintjs.com/docs/identifying-in-app-browsers-for-ios)
+* [Identifying users in hybrid app frameworks](https://dev.fingerprintjs.com/docs/identifying-users-in-hybrid-app-frameworks)
+* [Visitor footprint timestamps](https://dev.fingerprintjs.com/docs/useful-timestamps)
 
 Platform Updates
 ----------------
