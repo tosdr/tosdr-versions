@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tikeo-Sweeting-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+
+Uptown
+
+### [Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+
+[October 25, 2024 7:08 AM](https://cwbchicago.com/2024/10)
+
+Nearly seven years after a gunman killed one victim and injured two others, including a 12-year-old boy at an Uptown Starbucks, a judge on Thursday sentenced the alleged shooter to more than 50 years in prison.[](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Leighton-326x245.jpg)](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
+
+Citywide
+
+### [Cashless bail has been an ‘abject failure’ suburban state’s attorney says](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
+
+[October 24, 2024 6:10 PM](https://cwbchicago.com/2024/10)
+
+A full year into the state’s end of cash bail, a suburban county state’s attorney says the law has been “an abject failure” for his county.[](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2022/05/Joseph-Guardia-viaduct-Walking-man-326x245.jpg)](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
 
 River North
@@ -252,26 +272,6 @@ River North
 [October 24, 2024 4:37 PM](https://cwbchicago.com/2024/10)
 
 A judge on Thursday sentenced a man to 47 years in prison for setting a well-known homeless man on fire in River North, leading to the victim’s death weeks later.[](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hamlin-Park-041A-326x245.jpg)](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
-
-Citywide
-
-### [Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
-
-[October 24, 2024 12:52 PM](https://cwbchicago.com/2024/10)
-
-CHICAGO — Police have released two images taken from video footage that show a gunman and getaway car involved in a shooting earlier this month at Hamlin Park. CWBChicago has secured the entire video, which we’re sharing in this report. The gunmen shot a 15-year-old boy near the park’s basketball courts around 2:19 p.m. on October[](https://cwbchicago.com/2024/10/cops-hunt-suv-gunmen-linked-to-hamlin-park-shooting-video.html "Cops hunt SUV, gunmen linked to Hamlin Park shooting (video)")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/1600-howard-326x245.jpg)](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
-
-Rogers Park
-
-### [1 dead, 2 injured in afternoon shooting near Howard CTA station](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
-
-[October 23, 2024 5:41 PM](https://cwbchicago.com/2024/10)
-
-One man is dead and two others injured following a shooting near the Howard CTA station in Rogers Park on Wednesday afternoon, according to Chicago police. The shooting occurred on a block that has been the scene of several shootouts and shootings this year.[](https://cwbchicago.com/2024/10/1-dead-2-injured-in-afternoon-shooting-near-howard-cta-station.html "1 dead, 2 injured in afternoon shooting near Howard CTA station")
 
 Search
 
