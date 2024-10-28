@@ -53,9 +53,9 @@ Menu
         Operations software. Free and premium plans](https://www.hubspot.com/products/operations)[#### Commerce Hub
         
         B2B commerce software. Free and premium plans](https://www.hubspot.com/products/commerce?hubs_content=www.hubspot.com&hubs_content-cta=nav-software-commerce)
-    * [### HubSpot AI
+    * [### Breeze
         
-        Powerful AI tools throughout the platform. Learn more](https://www.hubspot.com/products/artificial-intelligence)
+        HubSpot’s AI that powers the entire customer platform See all AI features](https://www.hubspot.com/products/artificial-intelligence)
         
         [### App Marketplace
         
