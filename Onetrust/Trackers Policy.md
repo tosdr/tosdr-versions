@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
+* [Mastering first-party data: The complete playbook for marketers](https://www.onetrust.com/resources/ultimate-guide-to-first-party-data-ebook/)
 * [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
-* [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
-* [Privacy beyond compliance: Driving business value through responsible data use](https://www.onetrust.com/resources/privacy-beyond-compliance-driving-business-value-through-responsible-data-use-webinar/)
 
 ### Platform
 
