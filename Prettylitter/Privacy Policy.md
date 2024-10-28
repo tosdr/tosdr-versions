@@ -131,7 +131,7 @@
         
         * [Cocoa](https://www.prettylitter.com/sustainability-plan/cocoa-for-generations)
         * [Palm Oil](https://www.prettylitter.com/about/policies-and-practices/palm-oil-policy)
-        * [Rice](https://www.prettylitter.com/news-and-stories/articles/sustainably-sourcing-rice-future)
+        * [Rice](https://www.prettylitter.com/news-and-stories/articles/sustainable-rice-farming-inge-jacobs)
         * [Fish](https://www.prettylitter.com/about/policies-and-practices/fish-sourcing)
         * [Dairy](https://www.prettylitter.com/sustainability-plan/dairy-sustainability "Dairy sustainability plan")
         * [Mint](https://www.prettylitter.com/news-and-stories/articles/fresh-mint-for-the-future-raw-mint)
