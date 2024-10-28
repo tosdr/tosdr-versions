@@ -48,7 +48,7 @@ Footer
     
     ![EDUCBA Facebook](https://cdn.educba.com/academy/wp-content/uploads/2022/06/facebook9.png "EDUCBA Facebook")](https://www.facebook.com/educba.official)[![EDUCBA Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA Twitter")
     
-    ![EDUCBA Twitter](https://cdn.educba.com/academy/wp-content/uploads/2023/11/twitter_social.png "EDUCBA Twitter")](https://twitter.com/EducbaBusiness)[![EDUCBA LinkedIN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA LinkedIN")
+    ![EDUCBA Twitter](https://cdn.educba.com/academy/wp-content/uploads/2023/11/twitter_social.png "EDUCBA Twitter")](https://x.com/EducbaBusiness)[![EDUCBA LinkedIN](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA LinkedIN")
     
     ![EDUCBA LinkedIN](https://cdn.educba.com/academy/wp-content/uploads/2022/06/linkedin9.png "EDUCBA LinkedIN")](https://in.linkedin.com/company/corporate-bridge-academy)[![EDUCBA Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E "EDUCBA Instagram")
     
