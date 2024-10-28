@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We have a hunger of the mind which asks for knowledge of all around us, and the more we gain, the more is our desire; the more we see, the more we are capable of seeing”
+“ There are no passengers on spaceship earth. We are all crew”
 
-[Maria Mitchell](http://en.wikipedia.org/wiki/Maria_Mitchell)
+[Marshall McLuhan](http://en.wikipedia.org/wiki/Marshall_McLuhan)
 
 [](https://www.adafruit.com/about)
 
