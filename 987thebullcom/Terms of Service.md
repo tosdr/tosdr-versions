@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Shouldve Been A CowboyToby Keith<br><br>5:37pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:34pm |
-| Darlin'Chase Matthew<br><br>5:31pm |
-| Try That In A Small TownJason Aldean<br><br>5:28pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:25pm |
+| I Go BackKenny Chesney<br><br>11:38pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:35pm |
+| Tough PeopleDrew Baldridge<br><br>11:31pm |
+| Need A FavorJelly Roll<br><br>11:28pm |
+| Backseat DriverKane Brown<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+News Talk • Eastern
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
