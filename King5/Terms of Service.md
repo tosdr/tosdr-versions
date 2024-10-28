@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/da8f665b-d956-477f-bdb9-3f0aae011c4c/20241027T203616/da8f665b-d956-477f-bdb9-3f0aae011c4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da8f665b-d956-477f-bdb9-3f0aae011c4c/20241027T203616/da8f665b-d956-477f-bdb9-3f0aae011c4c_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
-        
-        #### [I-5 reopens in Kent following 45 car pile-up](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_360x203.jpg)](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
+    *  [![](https://media.king5.com/assets/KING/images/3d791032-8054-4f90-8230-327f7933ba73/20241028T051530/3d791032-8054-4f90-8230-327f7933ba73_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3d791032-8054-4f90-8230-327f7933ba73/20241028T051530/3d791032-8054-4f90-8230-327f7933ba73_360x203.jpg)](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
         
         #### [Northbound I-5 reopens in Bellingham after landslide caused hours-long closure](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
+        
+    *  [![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_16x9.jpg) ![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
+        
+        #### [I-5 reopens in Kent after 45 car pile-up stalls traffic for hours](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/66c94970-a219-4fee-b51a-38bd09d6ca72/20241027T142816/66c94970-a219-4fee-b51a-38bd09d6ca72_16x9.jpg) ![](https://media.king5.com/assets/KING/images/66c94970-a219-4fee-b51a-38bd09d6ca72/20241027T142816/66c94970-a219-4fee-b51a-38bd09d6ca72_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/319e7add-230f-4974-87ab-5794c1468b6e/20241028T052052/319e7add-230f-4974-87ab-5794c1468b6e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/319e7add-230f-4974-87ab-5794c1468b6e/20241028T052052/319e7add-230f-4974-87ab-5794c1468b6e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
