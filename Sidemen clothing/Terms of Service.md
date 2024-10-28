@@ -477,7 +477,7 @@ Sign up to our newsletter for 10% off your next order!
 * [](https://facebook.com/SidemenClothing)
 * [](https://twitter.com/SidemenClothing)
 * [](https://www.instagram.com/sidemenclothing)
-* [](https://www.youtube.com/@Sidemen)
+* [](https://www.youtube.com/@SDMNClothing)
 * [](https://www.tiktok.com/@sidemenclothing)
 * [](https://open.spotify.com/artist/2Thx0Avafp3zxOHBdFirqk)
 
