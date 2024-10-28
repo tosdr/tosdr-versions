@@ -41,18 +41,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
     
-    [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
-    ===============================================================================================================================
+    [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    =========================================================================================================
     
-    Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
+    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
     
 * *  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
         
@@ -82,18 +82,6 @@
 More Stories
 ------------
 
-*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-    
-    ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
-    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
 *  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -165,6 +153,18 @@ More Stories
     Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
     
     By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
+    
+*  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    
+    ### [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    
+    Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
     
 *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
