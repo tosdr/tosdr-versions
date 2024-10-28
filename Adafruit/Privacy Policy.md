@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ What I cannot create, I do not understand”
+“ Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many”
 
-[Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
+[Clay Shirky](http://en.wikipedia.org/wiki/Clay_Shirky)
 
 [](https://www.adafruit.com/about)
 
