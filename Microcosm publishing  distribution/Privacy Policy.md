@@ -92,18 +92,21 @@ If you have any questions or would like to request access to your data or deleti
 
 Our website is secured via a Let’s Encrypt SSL certificate.
 
+ 
+
 #### Microcosm Publishing
 
-Open for pickups and deliveries only, Mon—Sat, 11am-3pm  
+**Open for pickups and deliveries only**  
+Mon—Sat, 11am-3pm  
 2752 N Williams Ave  [map](http://goo.gl/maps/SvXcq)  
 Portland, OR 97227  
   
-Want to contact us?  
+**Want to contact us?**  
 Please read [our FAQ](https://microcosmpublishing.com/faq) first  
 (360) 291-7226  
 [Privacy Policy](https://microcosmpublishing.com/privacy-policy)
 
-* Hang out with us on social media!
+* **Hang out with us on social media!**
 * [Instagram](https://www.instagram.com/microcosm_pub/)
 * [Tik Tok](https://www.tiktok.com/@microcosmpub)
 * [YouTube](https://www.youtube.com/microcosmpublishing)
@@ -116,15 +119,3 @@ Please read [our FAQ](https://microcosmpublishing.com/faq) first
 * [For the Press](https://microcosmpublishing.com/press)
 * [Links](https://microcosmpublishing.com/links)
 * [![Site by Clixel](/assets/img/site-by-clixel.png)](https://clixel.com/)
-
-* [Books](https://microcosmpublishing.com/catalog/books)
-* [Zines](https://microcosmpublishing.com/catalog/zines)
-* [Videos](https://microcosmpublishing.com/catalog/videos)
-* [Shirts](https://microcosmpublishing.com/catalog/tshirts)
-* [Patches](https://microcosmpublishing.com/catalog/patches)
-* [Stickers](https://microcosmpublishing.com/catalog/stickers)
-* [Buttons](https://microcosmpublishing.com/catalog/buttons)
-* [Posters](https://microcosmpublishing.com/catalog/posters)
-* [Dealz](https://microcosmpublishing.com/catalog/sale)
-* [Cards](https://microcosmpublishing.com/catalog/cards)
-* [Magnets](https://microcosmpublishing.com/catalog/magnets)
