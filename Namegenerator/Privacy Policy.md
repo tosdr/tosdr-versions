@@ -28,15 +28,15 @@ AI](https://namegenerator.com/people/username)[City Names
 
 AI](https://namegenerator.com/place/city)[God Names
 
-AI](https://namegenerator.com/fiction/god)[Last Names](https://namegenerator.com/people/last)[Brand Names
+AI](https://namegenerator.com/fiction/god)[Brand Names
 
-AI](https://namegenerator.com/business/brand)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
+AI](https://namegenerator.com/business/brand)[Last Names](https://namegenerator.com/people/last)[Generative Names](https://namegenerator.com/people/generative)[Company Names
+
+AI](https://namegenerator.com/business/company)[Demon Names
 
 AI](https://namegenerator.com/fiction/demon)[Clan Names
 
-AI](https://namegenerator.com/people/clan)[Company Names
-
-AI](https://namegenerator.com/business/company)
+AI](https://namegenerator.com/people/clan)
 
 Terms and Privacy Policy
 ========================
