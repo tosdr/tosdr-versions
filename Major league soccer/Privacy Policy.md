@@ -19,7 +19,7 @@
     * [MLS NEXT Pro](https://www.mlsnextpro.com/index)
 
 * [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
-* [Tickets](https://soc.cr/4dVNiff)
+* [Tickets](https://www.ticketmaster.com/mls?brand=mls&wt.mc_id=MLS_LEAGUE_TICKETS_MENU&utm_source=mlssoccer.com&utm_medium=client&utm_campaign=MLS_LEAGUE&utm_content=TICKETS_MENU)
 * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
 * [Español](https://es.mlssoccer.com/)
 * Sign in
@@ -43,7 +43,7 @@
     
 
 * [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
-* [Tickets](https://soc.cr/4dVNiff)
+* [Tickets](https://www.ticketmaster.com/mls?brand=mls&wt.mc_id=MLS_LEAGUE_TICKETS_MENU&utm_source=mlssoccer.com&utm_medium=client&utm_campaign=MLS_LEAGUE&utm_content=TICKETS_MENU)
 * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
 * [Español](https://es.mlssoccer.com/)
 
@@ -63,7 +63,7 @@
     * [MLS NEXT](https://www.mlssoccer.com/mlsnext/index)
     * [MLS NEXT Pro](https://www.mlsnextpro.com/index)
     * [MLS Season Pass](https://www.mlssoccer.com/season-pass/?utm_source=mlssoccer&utm_medium=nav&utm_campaign=mlssp)
-    * [Tickets](https://soc.cr/4dVNiff)
+    * [Tickets](https://www.ticketmaster.com/mls?brand=mls&wt.mc_id=MLS_LEAGUE_TICKETS_MENU&utm_source=mlssoccer.com&utm_medium=client&utm_campaign=MLS_LEAGUE&utm_content=TICKETS_MENU)
     * [Store](https://www.mlsstore.com/?_s=bm-MLScom-MLS_TopNav-32223)
     * [Español](https://es.mlssoccer.com/)
     
