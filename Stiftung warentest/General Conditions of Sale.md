@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
 
 Service Stiftung Warentest
 
