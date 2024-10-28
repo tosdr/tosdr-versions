@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The key to the future of the world is finding the optimistic stories and letting them be known”
+“ What I cannot create, I do not understand”
 
-[Pete Seeger](http://en.wikipedia.org/wiki/Pete_Seeger)
+[Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman)
 
 [](https://www.adafruit.com/about)
 
