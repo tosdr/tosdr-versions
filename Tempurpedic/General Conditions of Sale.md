@@ -7,7 +7,7 @@
 * Error Please enable Javascript
     
 
- ![Hamburger navigation icon](/static/d47837e9/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/d47837e9/img/nav/x.ec10ec9cbff0.svg)
+ ![Hamburger navigation icon](/static/9a48f543/img/nav/bars.5e7f19faf6f7.svg) ![Close icon](/static/9a48f543/img/nav/x.ec10ec9cbff0.svg)
 
 [Tempur-Pedic Tempur-Pedic Logo](https://www.tempurpedic.com/ "Tempur-Pedic")
 =============================================================================
@@ -22,7 +22,7 @@
     
 * [Offers](https://www.tempurpedic.com/offers/ "Offers")
 
-![Rich Navigation Toggle](/static/d47837e9/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
+![Rich Navigation Toggle](/static/9a48f543/tsicommon_cms/rich-navigation/x-close.7549ecc09af8.svg)
 
 Shop
 ----
@@ -282,7 +282,7 @@ Need assistance? We're here to help.
 
 We want to hear from you, whether you have a problem, comment, or question. or give us a call to speak with a sleep expert today.
 
-![](/static/d47837e9/img/icons/badge-sleep-expert.62984477a71f.png)
+![](/static/9a48f543/img/icons/badge-sleep-expert.62984477a71f.png)
 
 ### **Sleep Expert**
 
@@ -298,7 +298,7 @@ Saturday: 9am - 7pm EST
 
 Sunday: 9am - 7pm EST
 
-![](/static/d47837e9/img/icons/badge-headset.ef059a1ce05c.png)
+![](/static/9a48f543/img/icons/badge-headset.ef059a1ce05c.png)
 
 ### **Customer Support**
 
@@ -476,7 +476,7 @@ More Ways to Shop
 
 ​
 
-[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/d47837e9/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
+[![An Accessible360 badge sharing that we've partnered with an industry-leading ADA vendor who maintains our site is in good standing with accessibility.](/static/9a48f543/img/icons/badge-A360.1a8882546925.png)](https://allyant.com/)
 
 * © 2024 Tempur-Pedic North America, LLC. All Rights Reserved.
 * [Terms of Use](https://www.tempurpedic.com/customer-service/terms-of-use/ "Terms of Use")
@@ -527,19 +527,19 @@ Improve Your Shopping Experience
 You’re using an unsupported web browser.  
 A list of the most popular browsers can be found below. Just click on an icon to visit the download page.
 
-* [![Get Google Chrome](/static/d47837e9/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
+* [![Get Google Chrome](/static/9a48f543/tsicommon_cms/img/chrome_32x32.78250de97890.png "Get Google Chrome")
     
       
     Google Chrome](http://www.google.com/chrome "Get Google Chrome")
-* [![Get Mozilla Firefox](/static/d47837e9/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
+* [![Get Mozilla Firefox](/static/9a48f543/tsicommon_cms/img/firefox_32x32.f82f0993390a.png "Get Mozilla Firefox")
     
       
     Mozilla Firefox](http://www.firefox.com/ "Get Mozilla Firefox")
-* [![Get Apple Safari](/static/d47837e9/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
+* [![Get Apple Safari](/static/9a48f543/tsicommon_cms/img/safari_32x32.e3c4df1dc5de.png "Get Apple Safari")
     
       
     Apple Safari](http://www.apple.com/safari/download "Get Apple Safari")
-* [![Get Microsoft Edge](/static/d47837e9/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
+* [![Get Microsoft Edge](/static/9a48f543/tsicommon_cms/img/edge_32x32.7a279e6d7a74.png "Get Microsoft Edge")
     
       
     Microsoft Edge](https://www.microsoft.com/en-us/edge "Get Microsoft Edge")
