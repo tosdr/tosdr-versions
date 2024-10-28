@@ -120,7 +120,7 @@ Footer
 
 ###### Follow us!
 
-* [![EDUCBA Facebook](https://cdn.educba.com/academy/wp-content/uploads/2022/06/facebook9.png "EDUCBA Facebook")](https://www.facebook.com/educba.official)[![EDUCBA Twitter](https://cdn.educba.com/academy/wp-content/uploads/2023/11/twitter_social.png "EDUCBA Twitter")](https://twitter.com/EducbaBusiness)[![EDUCBA LinkedIN](https://cdn.educba.com/academy/wp-content/uploads/2022/06/linkedin9.png "EDUCBA LinkedIN")](https://in.linkedin.com/company/corporate-bridge-academy)[![EDUCBA Instagram](https://cdn.educba.com/academy/wp-content/uploads/2022/06/instagram9.png "EDUCBA Instagram")](https://www.instagram.com/educba.official/)
+* [![EDUCBA Facebook](https://cdn.educba.com/academy/wp-content/uploads/2022/06/facebook9.png "EDUCBA Facebook")](https://www.facebook.com/educba.official)[![EDUCBA Twitter](https://cdn.educba.com/academy/wp-content/uploads/2023/11/twitter_social.png "EDUCBA Twitter")](https://x.com/EducbaBusiness)[![EDUCBA LinkedIN](https://cdn.educba.com/academy/wp-content/uploads/2022/06/linkedin9.png "EDUCBA LinkedIN")](https://in.linkedin.com/company/corporate-bridge-academy)[![EDUCBA Instagram](https://cdn.educba.com/academy/wp-content/uploads/2022/06/instagram9.png "EDUCBA Instagram")](https://www.instagram.com/educba.official/)
 * [![EDUCBA Youtube](https://cdn.educba.com/academy/wp-content/uploads/2022/06/youtube9.png "EDUCBA Youtube")](https://www.youtube.com/channel/UC1_jSu02VOW1pusqb2NF49g)[![EDUCBA Coursera](https://cdn.educba.com/academy/wp-content/uploads/2023/12/coursera-icon.png "EDUCBA Coursera")](https://www.coursera.org/educba)[![EDUCBA Udemy](https://cdn.educba.com/academy/wp-content/uploads/2023/12/udemy-icon.png "EDUCBA Udemy")](https://www.udemy.com/user/premananda-suna/)
 
 ###### APPS
