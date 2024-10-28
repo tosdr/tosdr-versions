@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://www.theepochtimes.com/us/philadelphia-da-sues-to-block-elon-musks-1-million-voter-giveaway-5749139)
+    
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745387-GettyImages-2178881753-205x123.jpg.webp)](https://www.theepochtimes.com/us/philadelphia-da-sues-to-block-elon-musks-1-million-voter-giveaway-5749139)
+* [FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://www.theepochtimes.com/business/ftc-fines-lyft-more-than-2-million-for-misleading-drivers-on-payments-5749095)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://img.theepochtimes.com/assets/uploads/2023/05/13/id5262751-GettyImages-1265683478-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftc-fines-lyft-more-than-2-million-for-misleading-drivers-on-payments-5749095)
+* [Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/virginia-asks-us-supreme-court-to-allow-removal-of-noncitizens-from-voter-rolls-5749134)
+    
+    1hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746869-10232024-DSC06732-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-asks-us-supreme-court-to-allow-removal-of-noncitizens-from-voter-rolls-5749134)
+* [Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://www.theepochtimes.com/us/early-voting-in-swing-state-georgia-brings-in-half-of-2020-election-turnout-official-says-5749082)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742245-Record_Turnout_Georgia-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-in-swing-state-georgia-brings-in-half-of-2020-election-turnout-official-says-5749082)
+* [NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://www.theepochtimes.com/world/nato-confirms-north-korean-troops-deployed-to-kursk-russia-5749060)
+    
+    2hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749112-Mark-Rutte-205x123.jpg.webp)](https://www.theepochtimes.com/world/nato-confirms-north-korean-troops-deployed-to-kursk-russia-5749060)
+* [Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://www.theepochtimes.com/world/georgias-president-rejects-vote-result-urges-protests-after-ruling-party-wins-election-5749018)
+    
+    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749032-qYV1-205x123.jpg.webp)](https://www.theepochtimes.com/world/georgias-president-rejects-vote-result-urges-protests-after-ruling-party-wins-election-5749018)
 * [Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
     
-    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738647-GettyImages-2177552448-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
 * [Big Tech Earnings: What to Expect](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
     
-    NEW By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    7hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
     [![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748824-GettyImages-1230188826-205x123.jpg.webp)](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
 * [Michigan’s Early Voters Brave Long Lines, Break Records](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
     
-    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    12hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714699-Michigan-Flag_JF_08282024-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
+    ![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749066-Michigan-Flag_JF_08282024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
 * [5 Highlights From Trump’s Madison Square Garden Speech](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
     
-    7hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov)
+    13hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov)
     
     [![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748906-DSC02269A-trump-madison_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
-* [Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://www.theepochtimes.com/us/harris-tells-supporters-the-path-to-victory-runs-through-pennsylvania-5748836)
-    
-    7hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748873-Harris-Philadelphia-e1730075257839-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-tells-supporters-the-path-to-victory-runs-through-pennsylvania-5748836)
-* [More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://www.theepochtimes.com/us/more-republicans-than-democrats-have-voted-early-in-arizona-nevada-north-carolina-5748754)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747996-Kamala-Harris-Donald-Trump-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-republicans-than-democrats-have-voted-early-in-arizona-nevada-north-carolina-5748754)
-* [NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
-    
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748817-Eric-Adams-AP24209782201702KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
-* [New Home Sales Spike to Highest Level in 16 Months: US Census](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
-    
-    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705069-House-for-sale_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
-* [Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
-    
-    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748803-Trump-Rogan-AP24300550325733-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
-* [Howes Family Made Hockey History as Skating Teammates in 1970s](https://www.theepochtimes.com/sports/howes-family-made-hockey-history-as-skating-teammates-in-1970s-5748634)
-    
-    16hr By [Donald Laible](https://www.theepochtimes.com/author/donald-laible)
-    
-    [![Howes Family Made Hockey History as Skating Teammates in 1970s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Howes Family Made Hockey History as Skating Teammates in 1970s](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748800-GettyImages-132772565-LS-205x123.webp)](https://www.theepochtimes.com/sports/howes-family-made-hockey-history-as-skating-teammates-in-1970s-5748634)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
