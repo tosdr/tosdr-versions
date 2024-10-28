@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-votacin-en-otros-idiomas-la-huelga-de-boeing-y-da-de-los-muertos/281-866966a5-51f8-4195-b65a-2901237b8885)
+    *  [![](https://media.king5.com/assets/KING/images/da8f665b-d956-477f-bdb9-3f0aae011c4c/20241027T203616/da8f665b-d956-477f-bdb9-3f0aae011c4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da8f665b-d956-477f-bdb9-3f0aae011c4c/20241027T203616/da8f665b-d956-477f-bdb9-3f0aae011c4c_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
         
-        #### [Cinco Cosas: Votación en otros idiomas, la huelga de Boeing, y Día de los Muertos](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-votacin-en-otros-idiomas-la-huelga-de-boeing-y-da-de-los-muertos/281-866966a5-51f8-4195-b65a-2901237b8885)
+        #### [I-5 reopens in Kent following 45 car pile-up](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
         
     *  [![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a906d387-84fa-4aba-9876-6a4f8089dca0/20241027T180043/a906d387-84fa-4aba-9876-6a4f8089dca0_360x203.jpg)](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
         
-        #### [Landslide closes northbound I-5 in Bellingham](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
+        #### [Northbound I-5 reopens in Bellingham after landslide caused hours-long closure](https://www.king5.com/article/news/local/landslide-closes-northbound-i-5-in-bellingham/281-c2cfd0db-09b5-47e7-9964-67f023f78cba)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+51°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
