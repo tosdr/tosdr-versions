@@ -2,7 +2,7 @@ Get 93% off on FastestVPN **+** 2TB Internxt Encrypted Cloud Storage & PassHulk 
 
 [Get This Deal Now](https://fastestvpn.com/vpn-deals)
 
- [![FastestVPN](https://fastestvpn.com/themes/v2/images/logo.png "FastestVPN") ![FastestVPN](https://fastestvpn.com/themes/v2/images/logo.png "FastestVPN")](https://fastestvpn.com/)
+ [![FastestVPN](https://fastestvpn.com/themes/v2/images/logoLatest.png "FastestVPN") ![FastestVPN](https://fastestvpn.com/themes/v2/images/logoLatest.png "FastestVPN")](https://fastestvpn.com/)
 
 * [Features](https://fastestvpn.com/features "VPN Features")
 * [Pricing](https://fastestvpn.com/buy-vpn "VPN Pricing")
@@ -21,7 +21,7 @@ Get 93% off on FastestVPN **+** 2TB Internxt Encrypted Cloud Storage & PassHulk 
 * [features](https://fastestvpn.com/features "VPN Features")
 * [pricing](https://fastestvpn.com/buy-vpn "VPN Pricing")
 * [servers](https://fastestvpn.com/server-locations "VPN Servers")
-* [Download VPN](javascript: void(0) "VPN Apps")
+* [Download VPN](https://fastestvpn.com/download "VPN Apps")
     * [Windows VPN](https://fastestvpn.com/download/windows-vpn)
     * [iOS VPN](https://fastestvpn.com/download/ios-vpn)
     * [Android VPN](https://fastestvpn.com/download/android-vpn)
