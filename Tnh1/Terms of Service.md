@@ -124,7 +124,11 @@ Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em es
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
+
+Pessoas & Negócios
+
+Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,31 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/2/csm_aldo_neri_vitima_de_acidente_redes_sociais_6620f7744a.jpg)
-
-TRAGÉDIA
-
-TRAGÉDIA
-
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
-
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
-
-batida com caminhão
-
-batida com caminhão
-
-Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE
-
-Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
-
-Cidade Universitária
-
-Cidade Universitária
-
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou
-
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
+[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
 
 data comemorativa
 
@@ -230,9 +210,33 @@ data comemorativa
 
 Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
 
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
 
-[!['Gato mais obeso do mundo' morre em clínica de reabilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_gato_obeso_morre_56ec5f7ccf.jpg)
+Cidade Universitária
+
+Cidade Universitária
+
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou
+
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_f90326ff13.jpg)
+
+Domingo de lazer
+
+Domingo de lazer
+
+Três mulheres são resgatadas após afogamento na Praia do Francês
+
+Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
+
+entenda a polêmica
+
+entenda a polêmica
+
+Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’
+
+Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://www.tnh1.com.br/noticia/nid/andressa-urach-esbraveja-contra-religiosos-nao-sou-chocadeira/ "Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’")
+
+[!['Gato mais obeso do mundo' morre em clínica de reabilitação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_gato_obeso_morre_56ec5f7ccf.jpg)
 
 Farofa
 
@@ -240,7 +244,7 @@ Farofa
 
 'Gato mais obeso do mundo' morre em clínica de reabilitação
 
-'Gato mais obeso do mundo' morre em clínica de reabilitação](https://www.tnh1.com.br/noticia/nid/gato-mais-obeso-do-mundo-morre-em-clinica-de-reabilitacao/ "'Gato mais obeso do mundo' morre em clínica de reabilitação")[![Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_Concurso_-_foto_Agencia_Brasil_2e0ac82251.jpeg)
+'Gato mais obeso do mundo' morre em clínica de reabilitação](https://www.tnh1.com.br/noticia/nid/gato-mais-obeso-do-mundo-morre-em-clinica-de-reabilitacao/ "'Gato mais obeso do mundo' morre em clínica de reabilitação")[![Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_Concurso_-_foto_Agencia_Brasil_2e0ac82251.jpeg)
 
 Não tem barreira
 
@@ -248,7 +252,7 @@ Não tem barreira
 
 Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade
 
-Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://www.tnh1.com.br/noticia/nid/confira-10-dicas-para-estudar-e-passar-em-concurso-depois-dos-30-anos-de-idade/ "Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade")[![Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_renato_aragao_flor_cabeca_-_foto_reproducao_globo_d1b550431d.jpg)
+Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://www.tnh1.com.br/noticia/nid/confira-10-dicas-para-estudar-e-passar-em-concurso-depois-dos-30-anos-de-idade/ "Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade")[![Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/e/csm_renato_aragao_flor_cabeca_-_foto_reproducao_globo_d1b550431d.jpg)
 
 Durante apresentação
 
@@ -256,7 +260,7 @@ Durante apresentação
 
 Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV
 
-Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://www.tnh1.com.br/noticia/nid/video-cantora-internacional-acerta-rosto-de-renato-aragao-com-flor-em-programa-de-tv/ "Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV")[![Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_cap_x_cru_-_expulsao_rafa_silva_-_foto_rep_twitter_brasileirao_5e43998ae9.jpg)
+Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://www.tnh1.com.br/noticia/nid/video-cantora-internacional-acerta-rosto-de-renato-aragao-com-flor-em-programa-de-tv/ "Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV")[![Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/c/csm_cap_x_cru_-_expulsao_rafa_silva_-_foto_rep_twitter_brasileirao_5e43998ae9.jpg)
 
 assista ao lance
 
