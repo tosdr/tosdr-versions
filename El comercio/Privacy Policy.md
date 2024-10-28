@@ -31,653 +31,193 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Opositor Yamandú Orsi lidera conteo de votos en las elecciones de Uruguay
+La Nasa confirmó la teoría del fin del mundo que planteó Stephen Hawking 
 =========================================================================
 
-El opositor Orsi acumula el 43,94 % de los votos. Mientras que el candidato por el oficialismo suma un 26,77 %, en las elecciones de Uruguay
---------------------------------------------------------------------------------------------------------------------------------------------
+El investigador aseguró que el evento estaría relacionado con el desmesurado aumento en consumo de energía.
+-----------------------------------------------------------------------------------------------------------
 
-![Fotos de archivo de los candidatos más votados, durante actos de campaña.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-Uruguay.jpg)
+![Su libro ‘Breve historia del tiempo’ fue un best seller. Foto: Diario El Tiempo de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Stephen-Hawking-fin-del-mundo.jpg)
 
-El opositor **Yamandú Orsi** y el oficialista **Álvaro Delgado** se convirtieron en los dos candidatos más votados de **Uruguay en las elecciones de este domingo** 27 de octubre de 2024. Ambos lucharán por la Presidencia en una segunda vuelta que se llevará a cabo el 24 de noviembre.
-
-### Más noticias
-
-* [Médica personal de José Mujica habló de su](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud") [](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")[estado de salud](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")
-* [Elecciones en Uruguay: ¿giro la izquierda o continuidad?](https://www.elcomercio.com/actualidad/mundo/elecciones-uruguay-giro-izquierda-continuidad.html "Elecciones en Uruguay: ¿giro la izquierda o continuidad?")
-
-Las elecciones en Uruguay
--------------------------
-
-Con el 99,92 % de los votos ya escrutados por la **Corte Electoral** (CE) del país sudamericano, **Yamandú Orsi** obtuvo 1 057 515 de los 2 441 238 votos emitidos. Sin embargo, aún hay 34 564 observados (emitidos por quienes votan en un circuito diferente al que tienen asignado) que se abrirán en los próximos días.
-
-Por su parte, **Delgado logró 644 147** adhesiones en una jornada en la que la ciudadanía también debió expresarse sobre dos plebiscitos que buscaban reformar el régimen de seguridad social y autorizar los allanamientos nocturnos y que no alcanzaron los votos necesarios para hacerlo.
-
-A falta de que se cuenten los votos observados, **Orsi acumula el 43,94 %** de los votos emitidos. Mientras tanto, el candidato por el oficialismo suma un 26,77 %.
-
-No obstante, de cara a la segunda vuelta y al igual que como lo hizo **Luis Lacalle Pou** hace cinco años, Delgado apostará por un gobierno de coalición junto con tres fuerzas políticas. Las mismas que ya acompañan al actual y con una que se creó para estas elecciones y que ya le brindó su apoyo.
-
-La Cámara de Diputados
-----------------------
-
-Dentro de estas, el **Partido Colorado** obtuvo 385 685 votos (16,03 %), Cabildo Abierto 59 000 (2,45 %), el Partido Independiente 41 206 (1,71 %) y el nuevo Partido Constitucional Ambientalista 11 691 (0,49 %).  
-
-De acuerdo con esto, la**s fuerzas políticas de la coalición** acumulan por el momento 1 141 729 votos y superan al Frente Amplio por 84 214.
-
-Mientras tanto, el partido **Identidad Soberana** se convirtió en una de las grandes sorpresas de este domingo al conseguir 64 735 votos (2,69 %) y convertirse en el cuarto más votado en las elecciones presidenciales y parlamentarias. Esta cifra le permitiría estar presente en la **Cámara de Diputados** con dos representantes.
-
-Otro de los datos de la jornada electoral es que 64 807 personas (2,69 %) **votaron en blanco**. De estas, 33 682 no depositaron papeletas de ningún partido, pero sí se expresaron a favor de uno o de los dos plebiscitos.
-
-Asimismo, 57 791 ciudadanos (2,4 %) **optaron por anular su voto** en una jornada en que este era obligatorio y que contó con una participación cercana al 90 %.
-
-En cuanto a los dos plebiscitos por los que los votantes debían expresarse, **ambos quedaron lejos de superar el 50 % de los sufragios necesarios para ser efectivos.**
-
-El propuesto por la central sindical PIT-CNT para reformar e**l régimen de seguridad social** consiguió 934 115 votos (38,81 %) y el propuesto por legisladores de la [coalición de Gobierno](https://es.wikipedia.org/wiki/Uruguay "https://es.wikipedia.org/wiki/Uruguay") para autorizar los allanamientos nocturnos logró 947 042 (39,35 %).
-
-Vía Baños-Puyo se cierra por deslizamientos de tierra
-=====================================================
-
-Si debes circular por la zona, maneja con precaución. Ten en cuenta que Inamhi advirtió que las lluvias continuarán en la Amazonía y Sierra.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Maquinaria del MTOP trabaja en la vía para limpiar el material de los deslizamientos.](https://www.elcomercio.com/wp-content/uploads/2024/10/via-BanosPuyo.jpg)
-
-El **Ministerio de Obras Públicas** (MTOP) informó la noche del domingo 27 de octubre **el cierre de la vía Baños-Puyo**, sector Kilo.
+Son muchas las teorías que se han planteado a lo largo de los años sobre una posible **extinción masiva en el planeta Tierra o fin del mundo**. Sin embargo, una de las hipótesis con más fuerza es la realizada por **Stephen Hawking**, quien a lo largo de su vida fue famoso por sus **invaluables aportes a los conocimientos** que se tienen actualmente sobre física, astronomía, entre otros temas. 
 
 ### Más noticias
 
-* [Así funciona el Pico y placa en Quito este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-28-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 28 de octubre")
-* [Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-parcialmente-este-lunes-28-de-octubre.html "Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre")
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+* [Cinco años sin Stephen Hawking, 10 citas que nos dejó el científico](https://www.elcomercio.com/tendencias/ciencia/stephen-hawking-citas-famoso-cientifico.html "https://www.elcomercio.com/tendencias/ciencia/stephen-hawking-citas-famoso-cientifico.html")
+* [La insólita fiesta de Stephen Hawking para conocer viajeros del tiempo](https://www.elcomercio.com/tendencias/ciencia/stephen-hawking-fiesta-viajeros-tiempo.html "https://www.elcomercio.com/tendencias/ciencia/stephen-hawking-fiesta-viajeros-tiempo.html")
 
-Vía Baños-Puyo, cerrada
------------------------
+**Predicciones de Stephen Hawking** 
+------------------------------------
 
-El Ministerio de Transporte advirtió a los conductores sobre el cierre que se implementó en la vía que conecta Baños con Puyo, a la altura del sector Kilo, provincia de Pastaza.
+Antes de su fallecimiento en 2018, Hawking también realizó una serie de **predicciones sobre el futuro del planeta y de la humanidad**, algunas de las cuales han generado preocupación en la sociedad y los grupos de investigación. 
 
-Este cierre se produjo debido a deslizamientos de tierra que cayeron sobre la vía en esa zona a causa de las lluvias que se registraron durante la noche del domingo.
-
-El MTOp informó que desplegó su contingente humano, más maquinaria para realizar tareas de limpieza de la vía.
-
-Además, microempresas apoyan en la labor para poder habilitar la circulación en la vía lo más pronto posible.
-
-El servicio de emergencias ECU911 también informó que esta vía, conocida también como la carretera E30, se cerró por los deslizamientos de tierra en Río Negro.
-
-Por ello se coordinó la asistencia del Ministerio para habilitar la vía. También se coordinó la ayuda con la Policía Nacional para que pueda brindar [seguridad en la zona](https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador) "https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador)").
-
-**Ruta alterna**: vía Quito-Tena-Puyo
-
-Si debes circular por la zona, **maneja con precaució**n. Ten en cuenta que Inamhi advirtió que las lluvias continuarán en la Amazonía y Sierra.
-
-> [#Pastaza](https://twitter.com/hashtag/Pastaza?src=hash&ref_src=twsrc%5Etfw) | Cerrada la vía E30 Baños- Puyo, sector Kilo por varios deslizamientos.  
-> Coordinamos la movilización de personal y maquinaria de [#MTOP](https://twitter.com/hashtag/MTOP?src=hash&ref_src=twsrc%5Etfw) y microempresas para tareas de limpieza.  
->   
-> 🛣️Vía alterna Quito-Tena- Puyo. [pic.twitter.com/5zaVCUKogg](https://t.co/5zaVCUKogg)
-> 
-> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 28, 2024](https://twitter.com/ObrasPublicasEc/status/1850728819289632976?ref_src=twsrc%5Etfw)
-
-MTOP realizó mantenimiento en la vía Baños-Puyo
------------------------------------------------
-
-El **Ministerio de Transporte y Obras Públicas** (MTOP) informó a la ciudadanía que realiza trabajos de mantenimiento en la vía.
-
-Así, se realizó el **mantenimiento de cunetas**, derecho de vía y desbroce de maleza, en el sector de Alpayacu, en la vía Baños-Puyo.
-
-Estos trabajos en la vía también llamada E30 permite **evitar la acumulación de maleza** y taponamiento de las cunetas y alcantarillas.
-
-> [#Pastaza](https://twitter.com/hashtag/Pastaza?src=hash&ref_src=twsrc%5Etfw) | Realizamos el mantenimiento de cunetas, derecho de vía y desbroce de maleza en en el sector de Alpayacu en la vía E30 Puyo-Baños.  
->   
-> ✅Vía habilitada.  
-> 👷Personal de microempresa en la vía.  
-> ⚠️Circule con precaución. [pic.twitter.com/62GWEUIyWQ](https://t.co/62GWEUIyWQ)
-> 
-> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 25, 2024](https://twitter.com/ObrasPublicasEc/status/1849874426541527306?ref_src=twsrc%5Etfw)
-
-Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre
-===============================================================
-
-El Cuerpo de Bomberos atiende a cuatro personas afectadas en este siniestro, en la av. Simón Bolívar, a la altura de Lucha de los Pobres
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![El Cuerpo de Bomberos atendió a las personas heridas en el siniestro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Simon-.jpg)
-
-Este lunes 28 de octubre de 2024, **los organismos de socorro i**nformaron sobre un siniestro de tránsito que ocurrió en horas de la mañana en la **av. Simón Bolíva**r.
-
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-28-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 28 de octubre")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
-
-Choque en la av. Simón Bolívar
-------------------------------
-
-El Cuerpo de **Bomberos Quito** dio a conocer este lunes sobre la atención a una emergencia registrada en la Simón Bolívar, en el sector de Lucha de los Pobres.
-
-Según la institución, en este sitio se produjo **un siniestro de tránsito** que afectó a cuatro personas.
-
-En una foto compartida por Bomberos, se puede ver un árbol sobre la vía; además de dos vehículos ambulancia desplegadas al lugar para **asistir a los afectados.**
-
-Los paramédicos del Cuerpo de Bomberos **brindan atención prehospitalaria** de emergencia a las cuatro personas afectadas en el choque.
-
-Luego de brindarles **los primeros auxilios** evaluarán si las personas necesitan atención médica y se las derivará a casas de salud. En caso de que se encuentren estables serán dadas de alta en el sitio.
-
-La **Agencia Metropolitana de Tránsito** (AMT) informó que **se cerró el carril derecho** en sentido occidente-oriente a la circulación vehicular. Esto para precautelar la seguridad de las personas que atienden la emergencia y de las [personas afectada](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")s.
-
-Posteriormente,
-
-> 🔸[#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Simón Bolívar, sector Lucha de los Pobres.  
->   
-> 🚒 Nuestros paramédicos brindan atención prehospitalaria a cuatro personas afectadas.  
->   
-> ⚠️ La vía se encuentra parcialmente habilitada, si conduces por el sector hazlo con precaución.… [pic.twitter.com/uIaNQvF5PS](https://t.co/uIaNQvF5PS)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 28, 2024](https://twitter.com/BomberosQuito/status/1850874178712252529?ref_src=twsrc%5Etfw)
-
-Choque en el norte de Quito
----------------------------
-
-Un choque se registró la noche del domingo 27 de octubre en la **av. 6 de Diciembre y Portugal**, a una cuadra del Colegio Benalcázar.
-
-El servicio de emergencia ECU911 informó que **se coordinó la ayuda a esta emergencia c**on el Cuerpo de Bomberos de Quito.
-
-Los paramédicos atendieron en el lugar a **cinco personas** que presentaron policontusiones debido al impacto del vehículo.
-
-Personal de l**a AMT coordinó el flujo vehicular** mientras se solventó la emergencia.
-
-Así funciona el Pico y placa en Quito este lunes 28 de octubre
-==============================================================
-
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![La medida del Pico y placa se estableció para regular el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-quito-.jpg)
-
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
-
-### Más noticias
-
-* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
-* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
-* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
-
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
-
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
-
-Horarios del Pico y placa
--------------------------
-
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
-
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
-
-Multas por infringir la medida
-------------------------------
-
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
-
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
-
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-El deshielo del Carihuairazo es una parábola
-============================================
-
-La pérdida del glaciar del Carihuairazo es una llamada de atención que no podemos ignorar
------------------------------------------------------------------------------------------
-
-![El Carihuairazo es un volcán de Ecuador que está inactivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/carihuairazo-glaciar.jpg)
-
-La desaparición del glaciar del **Carihuairazo**, como ha documentado el investigador Bolívar Cáceres, representa una señal inequívoca de los **efectos devastadores del cambio climático en Ecuador**. Este fenómeno natural, acelerado por la actividad humana, ha borrado de nuestro paisaje una fuente vital de **agua**, de la cual dependían numerosas comunidades para su abastecimiento. Hoy, enfrentan una crisis de **seguridad hídrica** que amenaza su forma de vida y revela un vacío de preparación para las consecuencias de nuestra propia irresponsabilidad medioambiental[.](https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html "https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html")
-
-El **Carihuairazo**, ubicado a 10 kilómetros del **Chimborazo**, era un monumento al equilibrio natural que sostenía a las comunidades andinas aledañas, entre ellas **Cunucyacu**. Esta región y sus habitantes solían beneficiarse del glaciar que, hasta hace poco, ofrecía agua pura y constante. Sin embargo, el **calentamiento global** y el cambio en las precipitaciones precipitaron su extinción, como lo documentó este [Medio](https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html "https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html") el pasado jueves 24 de octubre de 2024, en la conmemoración del **Día Mundial del Cambio Climático.**
-
-> La pérdida del glaciar del Carihuairazo es una llamada de atención que no podemos ignorar. Las autoridades y la sociedad deben reconocer esta crisis como un reflejo de las políticas inadecuadas de manejo de recursos y protección ambiental. Lo del Carihuariazo es una tragedia, pero puede ser también una parábola de lo que sucederá en el futuro si no tomamos medidas urgentes.
-
-Según estudios, entre 1956 y 2015, el **Carihuairazo** perdió un 78,2% de su **glaciar**, y el 22% restante se desvaneció hasta su desaparición total en **2024**. Este ritmo alarmante subraya cómo nuestras acciones y omisiones, al no enfrentar de manera firme la crisis climática, han destruido el frágil balance de estos ecosistemas.
-
-Más allá de los números, el **colapso del glaciar** pone en jaque a cientos de personas cuya supervivencia depende del agua que este proveía. En **Cunucyacu**, por ejemplo, la falta de acceso a agua potable representa un **cambio dramático** en su seguridad hídrica.
-
-Esas comunidades rurales se encuentran ante una encrucijada: **adaptarse rápidamente a nuevas fuentes** de agua, muchas de las cuales son costosas e insuficientes, o enfrentar una creciente precariedad. Este **drama ecológico-social** es también un grito de advertencia para las ciudades que, en el mediano plazo, podrían enfrentar problemas similares si no se adoptan políticas de **adaptación** robustas y urgentes.
-
-La pérdida del glaciar del **Carihuairazo** es una llamada de atención que no podemos ignorar. Las autoridades y la sociedad deben reconocer esta crisis como un reflejo de las **políticas inadecuadas** de manejo de recursos y protección ambiental. Lo del **Carihuariazo** es una tragedia, pero puede ser también una **parábola** de lo que sucederá en el futuro si no tomamos **medidas urgentes**. El tiempo de las advertencias ya ha pasado; ahora, enfrentamos las **consecuencias**.
-
-Traición, fanatismo, ambición
-=============================
-
-Son pocos los políticos que, una vez que alcanzan el poder, se mantienen honestos y se afanan por servir a la colectividad.
----------------------------------------------------------------------------------------------------------------------------
-
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
-
-Son los habitantes los que, con su **conducta** y sus **cualidades** o **defectos**, prestigian o avergüenzan a un país. Los distintos **órganos** de **gobierno** se integran con **ciudadanos** escogidos en **procesos electorales**; los **electores** seleccionan a los que consideran los **candidatos** más idóneos y les eligen con la **esperanza** de recibir de ellos el **cumplimiento** de sus ofertas de **campaña**. Son pocos los **políticos** que, una vez que alcanzan el poder, se mantienen **honestos** y se afanan por servir a la **colectividad**, por desgracia, abundan aquellos que aprovechan los **mandatos** en **beneficio** partidista y personal, en una clara traición a la **motivación** que animó a los **sufragantes** a votar por ellos.
-
- Una **historia** de una década copada de **abusos** e **inmoralidades** se ha extendido como un magma obscuro y pestilente en los mandos medios de varias **instituciones**: ministerios, **juzgados**, fiscalías y sobre todo en la **legislatura**. Esta fuerza negativa, que se mantiene en **reposo** relativo, pues da **zarpazos** en unas **ocasiones** y ataca taimadamente en otras, con el fin de **desestabilizar** a todo gobierno que no se identifica con ella, para obligarle a que borre las **sentencias** que, por **corrupción**, han sido impuestas por el **sistema judicial** a los líderes y principales que fueron **autoridades** y **funcionarios**.
-
-Claras han sido las muestras del afán **conspirador** desesperado de los **asambleístas**, representantes de ese **grupo político**, que han fracasado en sus **malintencionados** intentos de desarmar la **justicia** y atacar a las **bases institucionales** del Estado, mediante **acciones** turbias y perjudiciales para el **ordenamiento** nacional, como han sido los **fallidos juicios** ya a la valiente y ejemplar Fiscal General, Dra. Diana Salazar, ya a la Canciller Sommerfeld y como cercana culminación el triste y criticable papel que cumplieron los mal preparados **interpelantes** de la **bancada** de **Alianza País**, en el **forzado juicio** instaurado a la culta, altiva y señorial dama Dra. Mónica Palencia, Ministra del Interior, que demostró, con mucha altura, que la **firmeza**, el **orden** y la **educación**, se imponen a la **politiquería**, a los gritos, a las **trampas** y a las **escenas histriónicas.**
-
-Esta última derrota del **correísmo** tuvo como pretexto inicial el afán de la **Embajada de México** de proteger al exvicepresidente Glas y de brindarle asilo político en México, pese a que estaba sentenciado aquí, en el país, por varias causas. El **gobierno nacional** actuó rápidamente para evitar ser engañado y volvió a apresar al condenado, en el interior de la **embajada**, ante la falta de colaboración de las **autoridades diplomáticas** mexicanas; de inmediato la bancada correista amenazó a la Sra. Ministra con enjuiciarla y sumaron otras **acusaciones**, muchas de ellas absurdas. Curiosamente, el pretexto inicial fue **desapercibido** en el **transcurso** del **juicio** y no se lo mencionó, pero quedó ratificado que los **asambleístas**, de esa bancada, no defienden la **soberanía ecuatoriana** y que, junto a su principal **líder prófugo**, defendieron a **México** en contra del Ecuador, en otro acto de **traición** a la **patria**.
-
-Obsesionados, como viven, trataron de destituir a la **Sra. Ministra**, no les importó burlarse de la **justicia** y durante el **trámite** del **proceso legal**, quisieron enfrentarla con un exfuncionario del **gobierno** de **Correa**, en forma similar a lo que intentaron hacer con la **Fiscal Salazar**; pero no lo consiguieron.
-
-Anhelan volver al **poder**, porque en el largo período anterior **financiaron** su **futuro económico** y hoy tratan de complementar su **enriquecimiento ilícito**.
-
-Apelamos a los **fanáticos** para que capten la **realidad** y no respalden más a la gente que en 10 años hizo mucho daño y lo sigue haciendo a través de sus **partidarios infiltrados** en oficinas e **instituciones** públicas.
-
-Defendamos la **honradez**, la ética y el **compromiso** total de enaltecer siempre a **nuestra patria** y frenemos a esos **políticos** que ofenden permanentemente a la **moral pública** y respaldan, sin ningún recato, a todo tipo de **delincuentes**, a los que incluso incluyen en sus **cuadros gubernamentales** y **legislativos**.
-
-Cortes de luz en Cuenca para este lunes 28 de octubre
-=====================================================
-
-Centrosur detalló los 17 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
-------------------------------------------------------------------------------------------------------------------
-
-![Cuenca tendrá cortes de luz de entre 12 a 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-cortes-luz.jpg)
-
-La Empresa Eléctrica **Centrosur** detalló el cronograma de **cortes de luz** que tendrá **Cuenca** este lunes **28 de octubre** de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
-* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
-
-Cortes de luz en Cuenca para este lunes 28 de octubre
------------------------------------------------------
-
-La capital de Azuay mantendrá **apagones programados** de entre **12 y 14 horas**, distribuidos en **dos y tres franjas horarias**.
-
-La suspensión del servicio eléctrico contempla **racionamientos** que cubren la madrugada, mañana, tarde y noche.
-
-Las **zonas residenciales** de Cuenca tendrán 14 distintos **horarios** de cortes de luz.
-
-Mientras que el **sector industrial** tendrá apagones de **seis** y **12 horas**, en horarios de 00:00 a 06:00 y de 00:00 a 05:00 y de 10:00 a 17:00.
-
-La entidad no explicó los criterios utilizados para la **sectorización** de los racionamientos.
-
-Te compartimos el cronograma completo de apagones por barrios, y los horarios para el resto de **Azuay**, **Cañar y Morona Santiago**.
-
-Daniel Noboa explicó razones de los cortes de luz
--------------------------------------------------
-
-Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
-
-“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
-
-Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
-
-“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
-
-“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
-
-Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
-
-“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
-
-En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios
-=============================================================================
-
-El presidente Daniel Noboa dispuso una reducción temporal del IVA al 8% en servicios turísticos durante el feriado de noviembre para reactivar el sector.
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![En Ecuador, las personas disfrutarán los días de descanso por el Día de los Difuntos e Independencia de Cuenca. Foto: Archivo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado.jpg)
-
-El presidente **Daniel Noboa** dispuso la reducción del impuesto al valor agregado (IVA) del 15% al 8% para lo**s servicios turísticos** durante los feriados por el **Día de los Difuntos e Independencia de Cuenca**, del viernes 1 al lunes 4 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Más noticias
-------------
-
-* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
-* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
-* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
-
-¿Qué establecimientos pueden reducir el IVA al 8%?
---------------------------------------------------
-
-Durante los días de asueto se reduce el IVA en la prestación de todos los **servicios definidos** como **actividades turísticas**. En el artículo 5 de la **Ley de Turismo** se detallan los establecimientos que se pueden aplicar la reducción, estos son:
-
-* Alojamiento
-* Alimentos, bebidas y entretenimiento
-* Agenciamiento turístico
-* **Transporte turístico**, incluido los pasajes de avión
-* Organizadores de eventos, congresos y convenciones, reuniones, conferencias, ferias y exhibiciones
-* Centros de convenciones, salas de recepciones y salas de banquetes
-* Guianza turística
-* Centros de turismo comunitario
-* Parques temáticos y atracciones estables
-* Balnearios, termas y centros de recreación turística
-
-Los prestadores de servicios turísticos están obligados a obtener el debido Registro de Turismo y Licencia Única Anual de Funcionamiento para cada una de las actividades turísticas que realicen.
-
-Contribuyentes autorizados a cobrar el IVA reducido
----------------------------------------------------
-
-El Servicio de Rentas Internas (SRI) señaló que los contribuyentes autorizados para aplicar la tarifa reducida son aquellos que consten en el **catastro nacional de establecimientos** **turísticos**.
-
-Además, deben contar con el registro publicado en el portal web del **Ministerio de Turismo**. Hasta este mes de octubre de 2024, hay **29 570 servidores** turísticos registrados.
-
-El objetivo de la **reducción del IVA** es impulsar la reactivación del sector turístico. Los días de descanso permitirán el desplazamiento de las personas a las diferentes regiones del Ecuador y ayudará en la dinamización de la economía del país, señaló el SRI.
-
-La administración tributaria también recordó que los establecimientos que presten servicios turísticos deberán emitir las respectivas **facturas** o **comprobantes de venta** aplicando la tarifa del 8%.
-
-Sanciones para los no registrados
----------------------------------
-
-En caso de que los contribuyentes apliquen la **tarifa reducida** sin cumplir con las condiciones para hacerlo, “deberán asumir, declarar, liquidar y pagar el valor del impuesto no percibido en la venta del bien o servicio, incluyendo intereses y multas en caso de que corresponda”, agregó.
-
-Si el contribuyente registra en los comprobantes de venta la **reducción de la tarifa** en una transacción que no cumple con los requisitos, puede ser sancionado por contravención con una multa de hasta 1 500 dólares.
-
-31 de octubre se suma al feriado
+**Advertencia sobre el futuro** 
 --------------------------------
 
-El presidente **Daniel Noboa**, dispuso que se sume al feriado por el **Día de los Difuntos e Independencia de Cuenca** el jueves 31 de octubre, sumando cinco días de asueto. Sin embargo, durante el día de descanso del jueves no habrá reducción de IVA.
+El físico de Reino Unido advirtió en el **documental ‘The Search for a New Earth’** que **la humanidad podría existir en este planeta hasta el año 2600**, pues entonces se convertirá en “una gigantesca bola de fuego”. 
 
-El SRI explicó que la Ley Orgánica de Desarrollo Económico y Sostenibilidad Fiscal tras la Pandemia COVID-19 faculta al Presidente de la República a reducir, mediante decreto ejecutivo, la tarifa del IVA al 8% en todos los servicios turísticos, hasta por un máximo de **doce días al año**, por esta razón no habrá reducción del impuesto el 31 de octubre del 2024.
+**Causas de la desaparición** 
+------------------------------
 
-Recaudación del IVA
--------------------
+Para Hawking, los motivos que le llevan a inclinarse por esa idea están en el **calentamiento global, el cambio climático y el efecto invernadero**, pues en su teoría los señaló como los **principales culpables de la desaparición de La Tierra**. 
 
-El impuesto al valor agregado es uno de los más importantes tributos de recaudación del Ecuador. De enero a septiembre de 2024, la recaudación de IVA llegó a 7 144 millones de dólares. Solo en septiembre, este impuesto llegó a 845 millones dólares.
+**Necesidad de exploración** 
+-----------------------------
 
-Te contamos la historia de Godzilla, el rey de los monstruos en el cine 
-========================================================================
+Es por lo anterior, que el científico recalcó la **necesidad de “ir con valentía a donde nadie ha ido antes”**, con el fin de **explorar estrellas de galaxias cercanas en busca de planetas habitables** que permitan que la **especie humana sobreviva la bomba de tiempo** que ella misma le puso a la Tierra. 
 
-Godzilla surge como símbolo de los miedos nucleares de Japón tras la Segunda Guerra Mundial.
---------------------------------------------------------------------------------------------
+**Riesgos para la humanidad** 
+------------------------------
 
-![Godzilla, símbolo del temor nuclear y héroe de la humanidad. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/godzilla-cine-historia.jpg)
+Según Hawking, **el calentamiento global, la superpoblación y el consumo excesivo de recursos naturales** son factores que podrían llevar a la humanidad al borde del colapso. 
 
-**Godzilla**, conocido en Japón como **Gojira**, es **uno de los monstruos más emblemáticos del cine**. **Su primera aparición** se produjo en 1954 con la película ‘Gojira’ (Japón bajo el terror del monstruo), creada por el **director Ishirō Honda y el productor Tomoyuki Tanaka**.  
+Para Hawking, **una posible solución podría estar en el proyecto ‘Starshot Breakthrough’,** que tiene el objetivo de llegar a la **galaxia Alpha Centauri**, en la que muchos investigadores creen que **puede haber un planeta habitable**. 
 
-### Más noticias
+**Visión del futuro** 
+----------------------
 
-* [Godzilla vs. Kong: dos titanes se enfrentan en la pantalla grande](https://www.elcomercio.com/tendencias/godzilla-kong-titanes-cine-entretenimiento.html "https://www.elcomercio.com/tendencias/godzilla-kong-titanes-cine-entretenimiento.html")
-* [Godzilla, el rey de monstruos regresa a la pantalla grande](https://www.elcomercio.com/tendencias/godzilla-rey-monstruos-pantalla-grande.html "https://www.elcomercio.com/tendencias/godzilla-rey-monstruos-pantalla-grande.html")
+Además, **Pete Worden**, director de ‘Starshot Breakthrough’, que también fue d**irector del centro Ames en la NASA**, expresó que “Tal vez, si todo va bien, un poco después de mediados de siglo, tengamos nuestra primera imagen de **otro planeta que pueda albergar vida** orbitando la estrella más cercana”. 
 
-Este personaje fue concebido como una **metáfora de los temores nucleares** que afectaron a Japón después de los **bombardeos atómicos de Hiroshima y Nagasaki**. Godzilla representa el **miedo colectivo hacia la energía nuclear** y sus devastadoras consecuencias, de acuerdo con la página [Cine Más Cómics](https://www.cinemascomics.com/godzilla-explicacion-a-su-origen/ "https://www.cinemascomics.com/godzilla-explicacion-a-su-origen/").  
-
-**El nombre original de Godzilla** 
------------------------------------
-
-El nombre **‘Gojira’** es una **combinación de las palabras japonesas para “gorila” y “ballena”**, lo que refleja su **imponente tamaño y fuerza**. La creación de Godzilla fue influenciada por la **devastación que sufrió Japón durante la Segunda Guerra Mundial**, especialmente por los efectos de la radiación, a decir de [Japonpedia](https://japonpedia.com/la-historia-de-godzilla/ "https://japonpedia.com/la-historia-de-godzilla/").  
-
-En su primera película, **Godzilla es presentado como una criatura prehistórica** que **despierta tras las pruebas nucleares en el Atolón Bikini**, lo que transforma a este antiguo ser marino en un colosal monstruo, según [La Casa de El](https://www.lacasadeel.net/2024/08/godzilla-y-sus-origenes.html "https://www.lacasadeel.net/2024/08/godzilla-y-sus-origenes.html").  
-
-**Evolución del personaje** 
+**Confirmación de la NASA** 
 ----------------------------
 
-A lo largo de las décadas, **Godzilla ha evolucionado en su representación**. En las primeras películas, es visto principalmente como un destructor, que **simboliza la arrogancia humana y el desdén por la naturaleza**. Sin embargo, con el tiempo, **su imagen cambió a la de un protector**. En muchas películas posteriores, Godzilla se enfrenta a otras criaturas gigantes y se convierte en **un héroe que defiende a la humanidad**, de acuerdo con la página [Cine Premiere](https://cinepremiere.com.mx/godzilla-historia-origen-peliculas.html "https://cinepremiere.com.mx/godzilla-historia-origen-peliculas.html").  
+Recientemente, **la NASA confirmó la teoría de Stephen Hawking**. Aunque no emitió una fecha específica, el organismo aeroespacial aseguró que si los seres humanos continúan en ese creciente ritmo de gasto de recursos energéticos, **aumentaría la aceleración del fin del planeta Tierra**. 
 
-La **era ‘Showa’** (1954-1975) marcó un período crucial para Godzilla. Durante estos años, **las películas reflejaron las tensiones políticas y sociales de Japón**. En este contexto, Godzilla simbolizaba tanto los peligros de la energía nuclear como una crítica a la intervención humana en la naturaleza, siguiendo con La Casa de El. 
-
-En la **era ‘Heisei’** (1984-1995), **Toho reinventó al monstruo**, al explorar sus orígenes con **narrativas más complejas** que incluían elementos de ciencia ficción y viajes en el tiempo, según Cadenaser. 
-
-**Impacto cultural** 
+**Medidas urgentes** 
 ---------------------
 
-**Godzilla no solo ha impactado el cine japonés**; también ha dejado una **huella indeleble en la cultura pop mundial**. A lo largo de su historia, **ha protagonizado más de 32 películas** producidas por Toho y **varias adaptaciones estadounidenses**. Su figura ha sido utilizada para explorar temas como el **miedo a lo desconocido y las consecuencias del avance tecnológico**. 
+**El organismo recomienda tomar medidas urgentes** para detener el aumento del cambio climático y aseguró que por medio de sus programas para cuidar el planeta tendrían gran importancia. 
 
-**Películas más famosas de Godzilla** 
---------------------------------------
+En los últimos años, ha creado un **nuevo programa que permite identificar amenazas potenciales para la Tierra**, como puede ser el impacto de un asteroide. Además, estudia de manera continua el **cambio climático** para mitigarlo y destinar recursos en la observación terrestre. 
 
-### **‘Godzilla’ (Ishiro Honda, 1954)**  
+**Esperanza para el futuro** 
+-----------------------------
 
-Una comunidad de pescadores en Japón sospecha que Godzilla es responsable de ataques a barcos, mientras las autoridades investigan su origen, ligado al uso de armas atómicas.   
+Asimismo, para Hawking, **el futuro de la humanidad no está completamente perdido**; y en sus teorías insiste en la c**apacidad de las personas para cambiar el destino de la Tierra**. Por su parte, la NASA y otras organizaciones científicas también coinciden en que los efectos más graves del **cambio climático** pueden mitigarse con acciones rápidas y efectivas. 
 
-### **‘King Kong vs Godzilla’ (Ishiro Honda, 1962)**  
-
-Godzilla, tras ser despertado, se enfrenta a King Kong, un monstruo que un empresario planea llevar a Japón como atracción. La película, la segunda de la franquicia, presenta su primer encuentro a todo color.  
-
-### **‘Godzilla’ (Gareth Edwards, 2014)**  
-
-Dirigido por Gareth Edwards, dio inicio al ‘MonsterVerse’, pero recibió críticas por la escasa presencia del monstruo, ya que se centra en la imprudencia humana frente a fuerzas de la naturaleza.   
-
-### **‘Shin Godzilla’ (Hideaki Anno y Shinji Higuchi, 2016)**  
-
-Se utiliza al monstruo para criticar la burocracia política en Japón, mientras Godzilla causa una devastación aterradora. Su ritmo y estética la convierten en una de las mejores entregas de la saga.  
-
-### **‘Godzilla y Kong: El nuevo imperio’ (Adam Wingard, 2024)**  
-
-En la última entrega de la franquicia, seguimos las aventuras de un grupo de criptólogos de una agencia que se enfrentan a varios monstruos, incluido Godzilla. Juntos, intentarán detener a estas antiguas criaturas. 
-
-Daniel Noboa explicó las razones de los cortes de luz a Ecuador
-===============================================================
-
-El presidente Daniel Noboa dio una entrevista a TC Televisión donde habló sobre la crisis energética que vive Ecuador.
-----------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa habló durante una hora sobre la realidad que vive Ecuador en materia energética, en seguridad y economía](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-entrevista-cortes-de-luz.jpg)
-
-El presidente **Daniel Noboa** dio una entrevista a TC Televisión, donde explicó las razones de los **cortes de luz** a los ecuatorianos.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
-* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
-
-El mandatario comenzó con su intervención, a las 20:30 de este domingo **27 de octubre de 2024**, hablando del **porqué de los apagones**.
-
-Cortes de luz en Ecuador
+**Acciones necesarias** 
 ------------------------
 
-Según Noboa, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+En lo anterior, el experto y las organizaciones incluyeron la **necesidad de la transición hacia energías renovables**, la reducción de emisiones de gases de efecto invernadero, y la implementación de políticas globales de **conservación de recursos**. No se trata de un asunto de ciencia ficción, sino de una realidad urgente. 
 
-“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo
+============================================================================
 
-Al ser cuestionado sobre si el **anuncio inicial** de reducir los apagones de forma paulatina en tres semanas fue una **medida populista**, el mandatario aseguró que “no lo fue”.
+El racismo en el fútbol no cesa, y esta vez se manifestó en uno de los partidos más importantes del año.
+--------------------------------------------------------------------------------------------------------
 
-“La proyección en ese momento era favorable, pero ahora el **escenario es distinto**“, dijo Noboa.
+![Vinícius Júnior respaldó a los jugadores del FC Barcelona que sufrieron racismo durante El Clásico de España.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-33.jpg)
 
-“Teníamos un escenario del **70 % de probabilidad** (…) no fue una medida populista, sino algo pensado con la **mayor planificación posible**“, añadió.
+El pasado sábado 26 de octubre, en una nueva edición de ‘El Clásico’ de España entre el **Real Madrid y el FC Barcelona**, algunos jugadores del equipo catalán fueron víctimas de **actos racistas**.
 
-Noboa afirmó que los **cronogramas de apagones** han sido diseñados con la **mayor empatía** hacia la ciudadanía.
+A pesar de la contundente victoria de los culés, quienes vencieron 4-0 en el Santiago Bernabéu, el encuentro estuvo marcado por estos lamentables incidentes.
 
-“Cuando un grupo de técnicos me dice que tenemos que hacer **cortes de 15 horas** para mejorar la situación, yo me peleo con ellos, siempre buscamos las mejores formas”, mencionó.
+### Más noticias:
 
-> Todas las medidas tomadas son pensadas en el beneficio de las personas, lamentablemente los escenarios nos han jugado en contra. No son medidas populistas ni medidas con engaños. [#NoboaEnTC](https://twitter.com/hashtag/NoboaEnTC?src=hash&ref_src=twsrc%5Etfw)[#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/qTU9UA3Xec](https://t.co/qTU9UA3Xec)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 28, 2024](https://twitter.com/Presidencia_Ec/status/1850735188323488047?ref_src=twsrc%5Etfw)
+* [Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-junior-entre-la-lucha-contra-el-racismo-y-el-balon-de-oro.html "Vinícius Jr. entre la lucha contra el racismo y el Balón de Oro")
+* [Ecuatoriano Luis Caicedo abandona partido por racismo en Bolivia](https://www.elcomercio.com/deportes/futbol/luis-caicedo-bolivia-racismo-sanciones.html "Ecuatoriano Luis Caicedo abandona partido por racismo en Bolivia")
+* [Aumenta el racismo contra futbolistas brasileños](https://www.elcomercio.com/deportes/futbol/aumenta-el-racismo-contra-futbolistas-brasilenos.html "Aumenta el racismo contra futbolistas brasileños")
 
-Situación actual del sistema energético
----------------------------------------
+**Vinícius** **Júnior**, una de las figuras del fútbol y reconocido por su lucha contra el racismo, no se quedó callado. A través de sus redes sociales, el brasileño mostró su apoyo a sus rivales y compañeros de profesión.
 
-El **consumo promedio de Ecuador** es de **4 800 a 4 900 megawatts (MW)**; en esta crisis se enfrenta un **déficit de 1 000 a 1 400 MW**, según Noboa.
+Vinícius Júnior respalda a jugadores del FC Barcelona
+-----------------------------------------------------
 
-“Nosotros, entre lo recuperado y las **nuevas adquisiciones de energía**, vamos a incluir más de **1 500 MW** para que no existan estos problemas en los próximos estiajes”, aseguró el Presidente.
+El Real Madrid emitió un comunicado el domingo 27 de octubre, informando que ha “abierto una investigación” para “localizar e identificar” a “unos pocos aficionados” que realizaron insultos racistas tras el gol de **Lamine Yama**l, con el objetivo de “adoptar las medidas disciplinarias y judiciales pertinentes”.
 
-De acuerdo con el jefe de Estado, **Mazar** tiene una **cota mínima de 1 098** que jamás se alcanzó; en la peor situación registrada, bajó a **2 107 en abril de 2024**, de los **2 110** recomendados por los expertos.
+Vinícius Júnior también se pronunció, respaldando a los jugadores del Barcelona que sufrieron estos insultos.
 
-Esta situación en ese momento se equilibró gracias a los **fuertes caudales** en la central y a las **fuertes lluvias en Coca Codo Sinclair**.
+“Lamentable lo que ha pasado en el Bernabéu con insultos racistas. **No hay espacio para estos criminales en nuestra sociedad.** Todo mi apoyo a Lamine, Ansu y Raphinha. Sé que Madrid y la policía harán lo necesario para identificar y castigar a los culpables”, escribió el brasileño en su cuenta de X.
 
-“Ahora tenemos **poco caudal en Coca Codo** y registramos **2 112 de cota en Mazar**; no digo que está bien, pero esas son las cifras reales”, puntualizó **Daniel Noboa**.
+El Real Madrid tomará acciones contra los responsables
+------------------------------------------------------
 
-¿Para cuándo se tiene previsto resolver la crisis energética?
--------------------------------------------------------------
+El club blanco condenó enérgicamente cualquier comportamiento que implique racismo, xenofobia o violencia en el deporte y lamentó profundamente los insultos proferidos por algunos aficionados en uno de los córners del estadio.
 
-Daniel Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+“El Real Madrid ha abierto una investigación a fin de localizar e identificar a los autores de estos insultos lamentables y deleznables, para poder adoptar las medidas disciplinarias y judiciales pertinentes”, señaló el club en su comunicado.
 
-“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+Esta decisión se produce después de que se viralizaran en redes sociales videos de la celebración del gol de **Lamine Yamal junto a Alejandro Balde**, donde se escuchan insultos racistas.
 
-“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+Mario Balotelli vuelve a las canchas con un tradicional de Italia
+=================================================================
 
-Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en diciembre, con todo lo que estamos trayendo en energía”, enfatizó.
+El Genoa anunció la contratación del delantero italiano Mario Balotelli a sus 34 años y este retorna hacia la Serie A.
+----------------------------------------------------------------------------------------------------------------------
 
-“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+![Mario Balotelli, jugador italiano, con la camiseta del Génova, su nuevo club.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-28T134813.856.jpg)
 
-Medidas para enfrentar la crisis energética
--------------------------------------------
+El **Genoa** oficializó este lunes el fichaje hasta junio de 2025 del italiano **Mario Balotelli**, agente libre desde el final de la temporada pasada.
 
-Según el mandatario, se invertirán **710 millones de dólares en adquisición y alquiler de energía adicional**, que funcionará de noviembre a marzo del próximo año.
+“Mario Balotelli es nuevo jugador del Genoa. El delantero italiano, nacido en Palermo el 12/09/1990, ha firmado contrato con su nuevo club. En su carrera, **Balotelli** ha ganado nueve títulos profesionales con sus clubes. En la selección absoluta fue máximo goleador y subcampeón de la Eurocopa de 2012, acumulando un total de **36 apariciones y 14 goles.** ¡Bienvenido a Genoa, Super Mario!”, comunicó el club.
 
-No obstante, **Daniel Noboa** aseguró que ya se han implementado varias acciones para enfrentar la actual crisis energética, como la **compra de una barcaza**, la **recuperación pública de MW** y los **acuerdos con la empresa privada**.
+### Más noticias:
 
-Son 434 MW en centrales térmicas que se han recuperado a lo largo de este año”, aseguró
+* [Rodri Hernández, el favorito para ganar el Balón de Oro](https://www.elcomercio.com/deportes/futbol/rodri-hernandez-el-favorito-para-ganar-el-balon-de-oro.html "Rodri Hernández, el favorito para ganar el Balón de Oro")
+* [¿Dónde ver la ceremonia del Balón de Oro?](https://www.elcomercio.com/deportes/futbol/donde-ver-la-ceremonia-del-balon-de-oro.html "¿Dónde ver la ceremonia del Balón de Oro?")
+* [Vinícius Júnior no ganará el Balón de Oro 2024](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-ganara-el-balon-de-oro-2024.html "Vinícius Júnior no ganará el Balón de Oro 2024")
 
-“Tenemos la **apertura para realizar macroproyectos**; estamos en **conversaciones permanentes** y proyectando acuerdos con **Francia y Perú**“, añadió Noboa.
+El jugador, que terminó contrato con el **Adana Demirspor** turco en junio, no juega desde el 12 de mayo, partido en el que además fue expulsado.
 
-Subsidio de planillas y condonación de deudas
----------------------------------------------
+Las urgencias de un Genoa que perdió al italiano **Mateo Retegui** en verano, fichado de urgencia por el Atalanta tras la lesión de su compatriota **Gianluca Scamacca**; y las recientes lesiones del brasileño Junior Messias, del luso Vitinha y del ghanés Caleb Ekuban, le han abierto la puerta a un regreso a la Serie A.
 
-Asimismo, dijo que se implementaron varias medidas considerando que los **cortes de luz afectaron a los más pobres y a la clase media**.
+Balotelli será dirigido por un excompañero
+------------------------------------------
 
-“No me parece justo que la gente pague completa la planilla cuando no reciben el **servicio total**, por eso estamos subsidiando un **consumo promedio de 180 KW** a cada familia durante **cuatro meses**“, señaló.
+Allí apareció **Balotelli**, de 34 años, como una de las opciones que, después de varias semanas de valoración, apunta a convertirse en el nuevo delantero de los que dirige **Alberto Gilardino**, con el que coincidió como compañero de la selección italiana en 2010.
 
-Además, refirió otras acciones aplicadas, entre ellas:
+Balotelli llegó a la ciudad de **Génova** el domingo por la noche y este lunes pasó reconocimiento médico, firmó su contrato y se entrenó en solitario. Este martes se unirá al resto del grupo[.](https://en.wikipedia.org/wiki/Mario_Balotelli "https://en.wikipedia.org/wiki/Mario_Balotelli")
 
-* Condonación de deudas a las juntas de agua
-* Financiamiento para la compra de generadores
-* Refinanciamiento de deudas con BanEcuador
-* Condonación de deudas con el desaparecido Banco de Fomento
+“**Tengo muchas ganas, estoy preparado y sinceramente no quiero hablar, solo quiero jugar**“, dijo a los medios antes de firmar el contrato.
 
-“En este momento tenemos que hacer todo lo posible para retomar la **normalidad** y reducir el impacto de este **periodo de crisis**, que ha sido una **desgracia para todos**“, enfatizó el Presidente.
+El delantero, que se ha estado entrenando todo este tiempo por su cuenta en **Brescia**, localidad cercana a **Milán** (norte), firmará contrato hasta final de temporada, hasta junio de 2025. Sin embargo, los medios italianos apuntan a que el club incluyó una cláusula en la que puede rescindir el contrato en enero de 2025 por bajo rendimiento.
 
-¿Tardía reacción ante la emergencia climática?
+**Balotelli** podría tener sus primeros minutos el próximo jueves, en el duelo de Serie A ante el Fiorentina en casa, en el Estadio Luigi Ferraris de Génova.
+
+Mario Balotelli vuelve a Italia con su fichaje
 ----------------------------------------------
 
-Noboa no cree que su Gobierno haya tenido una **reacción tardía** ante esta emergencia. Aseguró que desde que comenzó su mandato, “ha trabajado en **enfrentar el problema energético**“.
+El fichaje del atacante supondría su vuelta al ‘calcio’. **Balotelli** militó en el **Inter de Milán** entre 2007 y 2010, ganando el histórico triplete bajo las órdenes del luso José Mourinho; se marchó al **Manchester City** otras tres temporadas en las que ganó una Premier y una FA Cup; estuvo dos años en el Milan; otro en el **Liverpool**; y volvió al **Milan** en la 2015-16 para dejar el fútbol italiano de máximo nivel.
 
-“Hemos **cambiado funcionarios** cuando era necesario; la llegada de **Inés (Manzano)** reforzó este trabajo”, señaló.
+Desde ese momento, militó en el Niza, en el Marsella, en el Brescia, en el Monza (Serie B), en el Adana Demirspor y en el Sion.
 
-Ante la pregunta de si sus **decisiones están pensadas en las próximas elecciones**, dijo: “No me interesa si la actual situación afecta a mi popularidad; mi **carrera política** está enfocada en ayudar a la gente”, comentó.
+Cortes de luz en Quito para este feriado de Difuntos
+====================================================
 
-‘Recibí el país en una situación crítica’
------------------------------------------
+La Empresa Eléctrica Quito publicó dos horarios de cortes de luz: uno para el viernes y sábado 2 y otro para el domingo 3 de noviembre
+--------------------------------------------------------------------------------------------------------------------------------------
 
-Según el mandatario, recibió el país en una **situación crítica**, lo cual “complicó aplicar su **plan de Gobierno**“.
+![La Empresa Eléctrica Quito publicó dos cronogramas para el feriado en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-feriado-Quito.jpg)
 
-“No podíamos ni pagar **décimos terceros sueldos**; me dejaron todo vacío, logramos financiamiento, subimos las **reservas**, hemos **salvado la dolarización** y estabilizado la economía”, aseguró Noboa.
-
-“Ha sido complicado **balancear todo esto**, entre pagar las deudas anteriores y buscar la **inversión para nuevos proyectos**“, añadió.
-
-Cifras económicas
------------------
-
-En la parte final de su entrevista, el jefe de Estado se tomó unos minutos para explicar la **situación económica y de seguridad** que tiene el país.
-
-En lo primero, aseguró que **Ecuador tuvo un crecimiento del 0,9 % en ventas** en varios sectores; aunque no detalló cuáles, mencionó que fue el área de **productos no petroleros** la más beneficiada.
-
-Las **exportaciones también subieron**, según Noboa, un **13 %**; sin embargo, también mostró que el **consumo local cayó un 1 %**.
-
-“Debemos mejorar mucho; por como nos dejaron los otros Gobiernos, tocó **tomar medidas duras**. Me molesta subir el **IVA y los impuestos**, ese no era mi plan original, pero tuve que adaptarlo y tener un **año de sacrificio**“, aseguró.
-
-Inseguridad se redujo, según Noboa
-----------------------------------
-
-Por último, en materia de **seguridad**, el mandatario manifestó que los **crímenes en general se redujeron significativamente cada mes**.
-
-“Esto se debe al **trabajo conjunto** de todos: Ministerios, Fuerzas Armadas, Policía, todos”, comentó.
-
-Al preguntarle por qué en sectores como **Durán**, la criminalidad no se reduce, **Daniel Noboa** dijo que esto se debe a que el **crimen organizado se mueve constantemente**.
-
-“Hemos logrado reducir el crimen en un **40 % en sectores como Nueva Prosperina**, por ejemplo; pero **Durán está peor que el año pasado**. Ahora, si analizamos las cifras generales de **Guayas** vemos una reducción considerable”, afirmó.
-
-De acuerdo con el entrevistado, el **Gobierno ha logrado quitarle más de 3 000 millones de dólares a los grupos delincuenciales**.
-
-“Aunque suene absurdo, esto afecta a la economía también, pero preferimos eso a todo el **daño social** que provocan”, dijo.
-
-Cortes de luz en Guayaquil para este lunes 28 de octubre
-========================================================
-
-La Corporación Nacional de Electricidad (CNEL) detalló el cronograma de cortes de luz que tendrá la capital de Guayas este lunes.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Guayaquil tendrá cortes de luz de hasta 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-lunes-28-octubre.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló los horarios de **cortes de luz** que tendrá **Guayaquil** este **lunes 28 de octubre** de 2024.
+El **Ministerio de Energía y Minas** detalló el cronograma de **cortes de luz** que se aplicará en Ecuador durante el feriado que se iniciará el jueves 31 de octubre de 2024. El feriado contempla el 1 y 4 de noviembre; sin embargo, se conocen los horarios hasta el **domingo 3 de noviembre.**
 
 ### Más noticias
 
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
-* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+* [Al menos seis heridos deja el colapso de juego mecánico, en Daule](https://www.elcomercio.com/actualidad/ecuador/al-menos-seis-heridos-deja-colapso-juego-mecanico-daule.html "Al menos seis heridos deja el colapso de juego mecánico, en Daule")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
 
-De acuerdo con el cronograma de la entidad, la capital de **Guayas** tendrá apagones diferenciados de **cuatro** a **14 horas**.
+Feriado con cortes de luz
+-------------------------
 
-CNEL no detalló los criterios de **diferenciación** que utilizó para sectorizar estos horarios.
+Los horarios están organizados en bloques que contemplan **entre 10 y 14 horas diaria**s, según las características y necesidades de cada zona del país.
 
-Cortes de luz en Guayaquil para este lunes 28 de octubre.
----------------------------------------------------------
+La **Empresa Eléctrica Quito** (EEQ) publicó el cronograma de cortes de luz que tendrá la ciudad del **jueves 31 de octubre al domingo 3 de noviembre.** Estos estarán **programado**s en 12, 13 y 14 horas, distribuidos en dos franjas horarias.
 
-La suspensión del servicio eléctrico se realizará en **dos y tres franjas** horarias en la mayoría de barrios, mientras que en otros, los apagones serán cortos, pero de corrido.
+Cortes de luz en Quito del jueves 31 al sábado 2 de noviembre
+-------------------------------------------------------------
 
-Las **zonas residenciales** de Guayaquil tienen **horarios** de cortes de luz distribuidos en **74 sectores**.
+Existen dos horarios para Quito, **uno del viernes 1 hasta el sábado 2 de noviembre** y otro distinto para el domingo 3 de noviembre. Los horarios son diferenciados para zonas residenciales e industriales.
 
-Mientras que el **sector industrial** tendrá apagones de **cuatro horas**, de **07:00 a 11:00**.
+La **suspensión del servicio eléctrico será sectorizada**, con cortes que arrancan en la madrugada y se extienden hasta la tarde-noche.
 
-Te compartimos el **cronograma completo** para este lunes 28 de octubre.
-
-Daniel Noboa explicó razones de los cortes de luz
--------------------------------------------------
-
-Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
-
-“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
-
-Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
-
-“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
-
-“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
-
-Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
-
-“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
-
-Cortes de luz en Quito para este lunes 28 de octubre de 2024
-============================================================
-
-La Empresa Eléctrica Quito detalló los 10 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Quito tendrá cortes de luz de entre 12 a 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-lunes-28-octubre.jpg)
-
-La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este **lunes 28 de octubre** de 2024.
-
-### Más noticias
-
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
-
-La capital mantendrá **apagones programados** de 12, 13 y 14 horas, distribuidos en **dos franjas horarias**.
-
-La suspensión del servicio eléctrico será sectorizada, con cortes en la **mañana-tarde** y en la **tarde-noche**.
-
-La entidad no explicó los **criterios** utilizados para la diferenciación de las horas en los **racionamientos**.
-
-Cortes de luz en Quito para este lunes 28 de octubre
-----------------------------------------------------
-
-Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de luz:
-
-### De 07:00 a 15:00 y 18:00 a 24:00
+### De 05:00 a 13:00 y 18:00 a 24:00
 
 * Miraflores
 * Río Coca
 * Conocoto
 * Tumbaco
-* Cumbayá
 
-### De 06:00 a 11:00 y 15:00 a 23:00
+### De 05:00 a 12:00 y 17:00 a 24:00
 
 * Luluncoto
 * Chilibulo
@@ -685,7 +225,7 @@ Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de lu
 * Cristianía
 * Eplicachima
 
-### De 07:00 a 13:00 y 17:00 a 24:00
+### Entre 02:00 y 08:00 y de 15:00 a 23:00
 
 * La Carolina
 * Nueva Cumbayá
@@ -694,7 +234,72 @@ Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de lu
 * Pérez Guerrero
 * El Obraje (Machachi)
 
-### De 07:00 a 14:00 y 17:00 a 24:00
+### De 07:00 a 15:00 y de 18:00 a 24:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+### Entre 00:00 y 07:00 y de 12:00 a 18:00
+
+* Barrionuevo
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* El Quinche
+
+### De 00:00 a 05:00 y 13:00 a 21:00
+
+* Olímpico
+* El Bosque
+* Alangasí
+* San Rafael
+* Pomasqui
+* Eugenio Espejo
+
+### Desde 07:00 hasta 15:00 y 18:00 a 24:00
+
+* Luluncoto
+* Río Coca
+* Cotocollao
+* Conocoto
+* Santa Rosa
+* Inga Bajo
+
+Horarios de cortes de luz en Quito domingo 3 de noviembre
+---------------------------------------------------------
+
+Para el domingo 3 de noviembr**e, los horarios de cortes de luz en Quito** varían una o dos horas en la aplicación. La Empresa Eléctrica Quito recuerda a los usuarios que los **horarios pueden reducirse** dentro del período programado debido a la mejora de las **condiciones hidrológicas.**
+
+### De 07:00 a 13:00 y 18:00 a 24:00
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+
+### Entre 06:00 y 12:00 y de 18:00 a 24:00
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Eplicachima
+
+### De 07:00 a 13:00 y 18:00 a 24:00
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### Desde 08:00 hasta 14:00 y de 17:00 a 24:00
 
 * Chimbacalle
 * Belisario Quevedo
@@ -712,530 +317,901 @@ Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de lu
 * Sangolquí
 * El Quinche
 
-### De 00:00 a 07:00 y 13:00 a 18:00
+### Desde 00:00 hasta 07:00 y de 13:00 a 19:00
 
 * Olímpico
 * El Bosque
-* San Antonio
 * Alangasí
 * San Rafael
 * Pomasqui
 * Eugenio Espejo
 
-### De 08:00 a 15:00 y 18:00 a 24:00
+### De 09:00 a 17:00 y 20:00 a 24:00
 
 * Luluncoto
-* San Roque
 * Río Coca
 * Cotocollao
 * Conocoto
-* Alangasí
 * Santa Rosa
 * Inga Bajo
 
-Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**.
+Para revisar los sectores de cada barrio y los horarios de la zona industrial, revise los cronogramas [completos](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa") aquí:
 
-Este es el **cronograma completo** por barrios para este lunes 28 de octubre.
+  
 
-Daniel Noboa explicó razones de los cortes de luz
--------------------------------------------------
+Rodri Hernández, el favorito para ganar el Balón de Oro
+=======================================================
 
-Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+El mediocampista español se perfila como el principal candidato a llevarse el galardón individual más importante.
+-----------------------------------------------------------------------------------------------------------------
 
-“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+![Rodri, con la Selección de España, es el principal favorito a ganar el Balón de Oro.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-32.jpg)
 
-Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+Este lunes 28 de octubre se dará a conocer el n**uevo ganador del Balón de Oro**, y el principal favorito para alzarse con el galardón es **Rodri Hernández**, jugador de la Selección de España y del Manchester City de Inglaterra.
 
-“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+La noticia sobre el favoritismo de **Rodri** sorprendió a muchos, ya que hasta hace unas horas, Vinícius Júnior lideraba las preferencias en las casas de apuestas. Sin embargo, la situación cambió drásticamente cuando se filtró que tanto el Real Madrid como **Vinícius** no asistirían a la ceremonia, tras enterarse de que el brasileño no será el ganador y que Rodri se perfila como el candidato más fuerte.
 
-“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+### Más noticias:
 
-Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
+* [¿Dónde ver la ceremonia del Balón de Oro?](https://www.elcomercio.com/deportes/futbol/donde-ver-la-ceremonia-del-balon-de-oro.html "¿Dónde ver la ceremonia del Balón de Oro?")
+* [Vinícius Júnior no ganará el Balón de Oro 2024](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-ganara-el-balon-de-oro-2024.html "Vinícius Júnior no ganará el Balón de Oro 2024")
+* [¿A qué hora se inicia la ceremonia del Balón de Oro?](https://www.elcomercio.com/deportes/futbol/balon-oro-ceremonia-horario-inicia-futbol.html "¿A qué hora se inicia la ceremonia del Balón de Oro?")
 
-“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+Rodri brilló en Inglaterra y con España
+---------------------------------------
 
-Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre
-======================================================================================
+Rodri Hernández, conocido simplemente como **Rodri**, se desempeña como volante central en el **Manchester** **City** y en la Selección de España. En la temporada 2023/24, el español fue uno de los jugadores más regulares y clave, logrando títulos importantes con su club y su selección.
 
-El Ministerio de Energía y Minas anunció los horarios de los cortes de luz para Ecuador del lunes 28 de octubre al domingo 3 de noviembre de 2024.
---------------------------------------------------------------------------------------------------------------------------------------------------
+A nivel de clubes, Rodri ganó tres trofeos, i**ncluyendo la Premier League** y un **Mundial de Clubes**, donde también lo reconocieron como el mejor jugador del torneo. Con la selección, se convirtió en el líder de su equipo al conquistar la **Eurocopa**, donde además fue elegido como el mejor jugador del torneo.
 
-![El Gobierno anunció los horarios de cortes de luz del lunes 28 de octubre al domingo 3 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/con-velas.jpg)
+En cuanto a sus estadísticas, a pesar de jugar como volante central, **Rodri logró anotar 12 goles** y proporcionar 13 asistencias a lo largo de la temporada con su club y su selección.
 
-El **Ministerio de Energía y Minas** detalló el cronograma de **cortes de luz** que tendrá **Ecuador** desde este **lunes 28 de octubre hasta el domingo 3 de noviembre** de 2024.
+¿Dónde ver la ceremonia del Balón de Oro?
+-----------------------------------------
 
-El cronograma se hizo en coordinación con las Empresas de Distribución de Energía y el Operador Nacional de Electricidad (Cenace),
+La ceremonia oficial comenzará a las 20:45 (hora de París), es decir, a las 14:45 en **Ecuador**. A esa hora, dará inicio el evento y se entregarán los premios de forma progresiva, culminando con el anuncio del ganador del Balón de Oro.
 
-Los horarios de los **cortes de luz** contemplan el **feriado** del **Día de Difuntos y la independencia de Cuenca.**
+Sin embargo, la previa comenzará a las 11:30, donde se revelará el ranking de los candidatos, desde los últimos puestos hasta los tres finalistas. **La alfombra roja comenzará a las 12:50**, donde muchos de los futbolistas nominados en las categorías masculina y femenina, así como los candidatos a premios de juveniles, arqueros y entrenadores, desfilarán antes del inicio oficial.
+
+Podrás ver la ceremonia en los canales de ESPN a través de cualquier cableoperadora en el país y mediante su plataforma de streaming.
+
+Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular
+================================================================================
+
+La Comisión de Fiscalización realizará un proceso de fiscalización por problemas en las redes de telefonía móvil debido a los cortes de luz.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de una persona con un teléfono celular los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/cel.jpg)
+
+La **Comisión de Fiscalización de la Asamblea Nacional** decidió iniciar un proceso de fiscalización al Ministerio de Telecomunicaciones y Sociedad de la Información, así como a la Agencia de Regulación y Control de Telecomunicaciones.
+
+Esto debido a las **crecientes denuncias de ciudadanos** que reportan que, durante los cortes de luz, el servicio de telefonía se debilita e incluso **deja de funcionar**.
 
 ### Más noticias
 
-* [Cortes de luz en Quito para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-domingo-27-de-octubre.html "Cortes de luz en Quito para este domingo 27 de octubre")
-* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
-* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
 
-Por las condiciones climáticas, esta semana los horarios de **racionamientos** serán similares a los últimos días. Están organizados en bloques que contemplan entre **10 y 14 horas diarias**, según las características y necesidades de cada zona del país.
+El **boletín emitido el sábado 26 de octubre de 2024 por la Comisión de Fiscalización** subraya la urgencia de conocer qué acciones se están tomando para garantizar el acceso a los servicios de telecomunicaciones.
 
-La programación de los **cortes de luz** **en Ecuador** se ajusta de forma técnica, indica el Ministerio de Energía. Para ello, se prioriza la operación segura y la estabilidad del **Sistema Nacional Interconectado.**
+La presidenta de la Comisión, **Pamela Aguirre**, enfatizó la necesidad de **respuestas claras** por parte de las autoridades correspondientes, ante la **preocupación generalizada** de la población por la caída del servicio de telefonía durante los **cortes de luz**.
 
-Los cortes de luz serán de entre 10 y 14 horas diarias
-------------------------------------------------------
-
-La **ministra encartada de Energía y Minas, Inés Manzano**, informó la noche del jueves 24 de octubre, que los cortes de luz se extenderían de ocho a 14 horas entre el 25 y 27 de octubre de 2024[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
-
-> 📍¡IMPORTANTE!  
->   
-> Informamos sobre los racionamientos del servicio de energía eléctrica, a escala nacional, desde el 28 de octubre hasta el 03 de noviembre.  
->   
-> 🔸Conoce la programación en el siguiente enlace➡️ [https://t.co/hGHtswzuk4](https://t.co/hGHtswzuk4) [pic.twitter.com/2Vjs8DBOOB](https://t.co/2Vjs8DBOOB)
+> Frente a las crecientes denuncias de la ciudadanía que reportan un deficiente servicio telefónico durante los apagones, la Presidenta de la Comisión iniciará un proceso de fiscalización ⤵️ [pic.twitter.com/1IqMH85gmx](https://t.co/1IqMH85gmx)
 > 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 27, 2024](https://twitter.com/RecNaturalesEC/status/1850681483951751361?ref_src=twsrc%5Etfw)
+> — Fiscalización AN (@FiscalizacionAN) [October 26, 2024](https://twitter.com/FiscalizacionAN/status/1850199676064067740?ref_src=twsrc%5Etfw)
 
-Este **domingo 27 de octubre de 2024,** las autoridades mantienen el mismo esquema de los cortes de luz de hasta 14 diarias para esta semana. Es decir, la que va desde el lunes 28 de octubre hasta el domingo 3 de noviembre de 2024.
+En el comunicado, se señala que el país **no puede permanecer a oscuras e incomunicado**. Asimismo, expresan que el acceso a servicios de calidad es un derecho que todos los ciudadanos tienen, especialmente considerando que se **paga mensualmente por estos planes**.
 
-La suspensión del **servicio eléctrico** corresponde a la crisis hídrica que enfrenta el país, generada, en gran parte, a la falta de lluvias en las zonas de las centrales **hidroeléctricas**.
+Exigencia a las compañías telefónicas
+-------------------------------------
 
-Manzano prometió que, pese a la grave situación que atraviesa Ecuador, para diciembre los racionamientos se reducirán lo máximo posible.
+Además de la fiscalización a las entidades estatales, se exige que las **compañías telefónicas** tomen acciones inmediatas para garantizar la continuidad del servicio.
 
-¿Por qué se incrementaron las horas de los apagones?
-----------------------------------------------------
+En el boletín se menciona la necesidad de que las **compañías instalen generadores** en todas las repetidoras del país, como una **medida urgente** para evitar que la población quede incomunicada durante los apagones.
 
-La **ministra Inés Manzano** dijo. “Tomamos esta dura decisión, basados en la difícil situación climática. Toda Sudamérica enfrenta una sequía sin precedentes y Ecuador no es la excepción. Varios países tienen cortes de electricidad y todos hemos visto con asombro las imágenes de un seco río Amazonas”.
+La Comisión insta a las empresas de telecomunicaciones a cumplir con su responsabilidad. Esto con la finalidad de asegurar la calidad y la continuidad del servicio. Evitando que los ciudadanos no sufran más interrupciones que los dejen aislados en momentos de crisis.
 
-“El principal problema son los caudales deprimidos en límites históricos, como es el caso de Mazar y Coca Codo Sinclair”, aseguró la ministra Manzano, en su video de la noche del jueves 24 de octubre de 2024.
+¿Por qué se va la señal de los teléfonos cuando hay cortes de luz?
+------------------------------------------------------------------
 
-Complejo hidroeléctrico Paute
------------------------------
+La señal de datos móviles se pierde cuando se va la luz debido a problemas en la infraestructura de telecomunicaciones. Los **apagones**, que en algunas zonas del país duran **hasta 14 horas**, afectan el funcionamiento de las **antenas y estaciones base**, que dependen de la electricidad para operar. Sin energía, estos equipos no pueden mantener la conexión.
 
-A las 16:00 del viernes 25 de octubre de 2024, las tres hidroeléctricas **del Complejo Paut**e, en el Austro: **Mazar, Paute-Molina y Sopladora** estuvieron apagadas.
+**Israel Albornoz**, experto en **redes y telecomunicaciones**, explicó que la pérdida de energía puede afectar significativamente a las antenas de telecomunicaciones, ya que muchas dependen del **suministro eléctrico** para operar de manera óptima. En caso de un corte de luz, estos equipos pueden detenerse temporalmente hasta que se **restablezca la energía**, afectando así la continuidad del servicio.
 
-Según la ministra, el objetivo es cuidar el agua del embalse de Mazar, que alimenta estas tres centrales. El Complejo Paute es el más grande del país, las tres hidroeléctricas juntas tienen una capacidad instalada de 1 700 megavatios (MW) y en condiciones normales proporciona el 30% de la demanda de energía del país.
+Albornoz precisó que una de las razones para esta **dependencia es la presencia de amplificadores** en las antenas, los cuales **incrementan la señal recibida** para mejorar la calidad de transmisión. Estos amplificadores consumen energía para realizar su función, por lo que su funcionamiento se interrumpe sin un suministro estable.
 
-A las 16:00 del viernes, el caudal de Mazar, es decir, el agua que ingresa al embalse, fue de 12,03 metros cúbicos por segundo (m³/s). Una cantidad muy baja que no permite que el reservorio se recupere.
+Además, Albornoz detalló que las antenas están conectadas a otros equipos esenciales de procesamiento de señal, como **routers, switches y servidores,** que también **necesitan energía para operar**. Indicó que algunas antenas de alta **potencia requieren sistemas de enfriamiento** para prevenir el sobrecalentamiento, y estos sistemas, a su vez, dependen de la electricidad.
 
-Central Coca Codo Sinclair
---------------------------
+Adicionalmente, mencionó que algunas antenas cuentan co**n sistemas de control** que permiten ajustar la dirección, **ganancia y otros parámetros**, los cuales también requieren un suministro energético estable para funcionar correctamente.
 
-Los cortes de luz también se incrementaron por la falta de agua en el río Coca, que alimenta la central hidroeléctrica Coca Codo Sinclair.
+Hay nuevas disposiciones sobre las clases por cortes de luz este 28 de octubre
+==============================================================================
 
-Según el reporte de la Celec, el afluente registró un caudal de 20 m³/s, el jueves 24 de octubre. El caudal promedio de este río es de 287 m3/s.
+Cortes de luz generan nuevos cambios en las jornadas de clases.
+---------------------------------------------------------------
 
-Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11
-====================================================================
+![Las clases en las tres jornadas tienen disposiciones.](https://www.elcomercio.com/wp-content/uploads/2024/10/clases-seguridad.jpg)
 
-Barcelona SC goleó y acecha a los líderes de la Liga Pro. Así quedó la tabla de posiciones en el campeonato ecuatoriano
------------------------------------------------------------------------------------------------------------------------
+Los horarios de **clases** continúan variando debido a los **cortes de luz** en Ecuador. El **Ministerio de Educación** dio nuevas directrices[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
 
-![Janner Corozo anotó tres tantos en la goleada de Barcelona SC ante Delfín.](https://www.elcomercio.com/wp-content/uploads/2024/10/bsc-4.jpg)
+La entidad emitió un comunicado este lunes, 28 de octubre de 2024. Este incluyó las medidas para este martes y miércoles, antes del feriado en el país.
 
-**Barcelona SC** demostró su poderío el domingo 27 de octubre de 2024, al golear 4-0 a Delfín SC en el estadio Monumental de Guayaquil.
+### Más noticias
 
-**Janner Corozo** se destacó como la gran figura del encuentro, anotando tres de los cuatro goles de su equipo, mientras que Octavio Rivero completó la cuenta.
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+* [Cortes de luz en Cuenca para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-lunes-28-de-octubre.html "Cortes de luz en Cuenca para este lunes 28 de octubre")
+* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
+
+Cortes de luz y horarios de clases
+----------------------------------
+
+Desde el [Ministerio de Educación](https://educacion.gob.ec/) indicaron que las variaciones se dan debido a las últimas actualizaciones del **Operador Nacional de Electricidad (Cenace)**.
+
+Este lunes, 28 de octubre, desde el Gobierno se dispuso la reducción de las horas de cortes de luz por mejoras en **Coca Codo Sinclair**. No se especificó el número, solo que sería mientras las condiciones lo permitan.
+
+> \[COMUNICADO\] Informamos a la comunidad educativa sobre las actualizaciones en la jornada escolar para este martes 29 y miércoles 30 de octubre de 2024. [pic.twitter.com/hOKkIEgr6o](https://t.co/hOKkIEgr6o)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [October 28, 2024](https://twitter.com/Educacion_Ec/status/1850937663433716177?ref_src=twsrc%5Etfw)
+
+Los detalles de las jornadas
+----------------------------
+
+Las disposiciones son obligatorias para las **instituciones educativas** públicas. Los planteles particulares, fiscomisionales y municipales pueden adoptar las medidas o implementar sus propias disposiciones, siempre que se garantice la continuidad educativa.
+
+* **Jornada Matutina:** el ingreso y salida en horarios habituales
+* **Jornada Vespertina:** empieza a la hora establecida y finalizará a las 17:00
+* **Jornada Nocturna:** se desarrollará de manera no presencial. Los docentes implementarán recursos académicos y guías pedagógicas para asegurar la continuidad del aprendizaje de los estudiantes.
+
+Para la nocturna, el **Ministerio de Educación** especificó que la modalidad no presencial no es exclusivamente virtual.
+
+Las actividades incluyen labores guiadas, **fichas pedagógicas**, proyectos que los estudiantes deben desarrollar de manera autónoma.
+
+Las acciones complementarias
+----------------------------
+
+La Cartera de Estado indicó que para que los estudiantes refuercen los conocimientos aprendidos en el aula, después de la jornada educativa, los **docentes** promoverán actividades de corta duración.
+
+Se emplearán recursos disponibles en casa. La meta es impulsar espacios de **diálogo familiar**.
+
+La alternativa va dirigida a los niveles educativos de sostenimiento fiscal. Las instituciones **particulares, fiscomisionales y municipales** podrán adoptar estas medidas o establecer sus propias disposiciones, siempre garantizando la continuidad educativa.
+
+Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias
+====================================================================================
+
+El pasado 21 de octubre de 2024 se inició la audiencia del caso Metástasis en la Corte Nacional de Justicia.
+------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/10/met-au.jpg)
+
+El juicio contra **21 procesados por presunta participación en el delito de delincuencia organizada** ha presentado revelaciones importantes. El pasado 21 de octubre de 2024 se inició la audiencia en la **Corte Nacional de Justicia**.
+
+### Más noticias
+
+* [Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-varias-pruebas-audiencia-caso-metastasis.html "Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis")
+* [Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juicio-contra-21-procesados-inicia-corte-nacional-justicia.html "Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ")
+* [Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presenta-imagenes-como-pruebas-caso-metastasis.html "Fiscalía presentó imágenes de chats de Leandro Norero en el caso Metástasis")
+
+La **Fiscalía General del Estado**, liderada por **Wilson Toainga**, expusieron pruebas extraídas de dispositivos electrónicos de Leandro Norero a través de peritajes. Estas evidencias incluyen **mensajes, audios y videos** que muestran supuestas **coordinaciones ilegales** entre los implicados. A continuación, se detallan los puntos más relevantes de las audiencias.
+
+Inicio del juicio y exclusión de un procesado
+---------------------------------------------
+
+El juicio comenzó con los alegatos de apertura del fiscal Wilson Toainga. Se anunció que las pruebas demostrarán la responsabilidad de los **21 procesados en actividades ilícitas**. Estas evidencias incluyen **comunicaciones, documentos financieros y otros elementos obtenidos durante la investigación**.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general del Estado (s), Wilson Toainga, se reinstala la audiencia de juicio contra 21 procesados por [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) continuará con la práctica de su prueba. [pic.twitter.com/iEqaCJCYZw](https://t.co/iEqaCJCYZw)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 24, 2024](https://twitter.com/FiscaliaEcuador/status/1849476856430350646?ref_src=twsrc%5Etfw)
+
+El Tribunal informó que el proceso no continuará para Armando F., uno de los acusados. Esto se debe a que certificó que se encuentra como **candidato para una dignidad de elección popular**. Además, se rechazó la excusa del **juez Pablo Loaiza**.
+
+Imágenes y pruebas visuales
+---------------------------
+
+Durante la segunda jornada, la Fiscalía continuó con la pericia informática forense. Se presentaron **1 452 imágenes extraídas** de los teléfonos de Norero. Entre las pruebas había **capturas de chats, fotografías de transferencias bancarias, lingotes de oro, drogas y armas**.
+
+Hasta el final del día, se reprodujeron **591 imágenes** que forman parte del material presentado por la Fiscalía. Las pruebas buscan demostrar la magnitud de las **actividades ilícitas** que involucraban a los acusados.
+
+Presentación de audios y mensajes
+---------------------------------
+
+El tercer día se centró en el **testimonio del perito que realizó la pericia informática**. Se revelaron audios y mensajes sobre temas como **asesinatos, procesos judiciales, guerra** entre bandas y pagos por diligencias. Además, se presentaron conversaciones sobre armas y **habeas corpus**.
+
+La Fiscalía interrogó al perito al finalizar la presentación. El objetivo fue obtener más detalles sobre las comunicaciones encontradas en el **dispositivo de Norero**. Estos diálogos evidencian una presunta organización para realizar actividades ilícitas.
+
+Reproducción de audios y coordinación ilegal
+--------------------------------------------
+
+En esta audiencia se concluyó la reproducción de **252 archivos de audio**. Estos audios contenían conversaciones **sobre pagos a jueces**, compra de armas y procesos judiciales. También se mencionaron estrategias para justifica**r bienes materiales y económicos**.
+
+La Fiscalía interrogó nuevamente al perito sobre las **conversaciones extraídas**. Las pruebas indicaron que los implicados coordinaban gestiones para obtener **habeas corpus a favor de la familia de Norero**. Estas acciones pretendían **eludir la justicia y proteger a la red involucrada**.
+
+Chats grupales y diálogos clave
+-------------------------------
+
+Se presentaron diálogos entre Norero y otros miembros de su red. En los chats se discutían gestiones sobre manejo de dinero y armas. Además, se revelaron conversaciones grupales en las que se planificaban acciones judiciales y estrategias de defensa.
+
+Los implicados, identificados en los chats como **"Globalpax" y "Larry"**, discutían cómo protegerse de posibles confiscaciones. Las pruebas sugieren que existía una estructura organizada que operaba bajo las órdenes de Norero.
+
+#### Coordinación con jueces y funcionarios
+
+Se reveló un chat entre Norero y el usuario **"Larry"**. En la conversación, se mencionaba el respaldo de **jueces y policías para proteger bienes** en la vivienda de **Norero**. También se expusieron gestiones para influir en **decisiones judiciales a favor de los acusados**.
+
+Se presentaron además evidencias de coordinaciones con una **fiscal procesada**. Estas pruebas apuntan a una presunta manipulación en el sistema judicial para obtener **resultados favorables**. La Fiscalía continuará presentando más detalles en las **siguientes audiencias**.
+
+Joe Biden acudió a votar anticipadamente en Delaware
+====================================================
+
+Biden llegó al colegio electoral, ubicado en el municipio de New Castle, poco antes del mediodía.
+-------------------------------------------------------------------------------------------------
+
+![Joe Biden en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/joe-biden-eeuu-efe.jpg)
+
+El presidente de Estados Unidos, [Joe Biden](https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html "https://www.elcomercio.com/actualidad/mundo/joe-biden-firma-decreto-impulsar-trabajos-dignos.html"), acudió este lunes, 28 de octubre d3e 2024, a votar de **forma anticipada** para las elecciones a la **Casa Blanca** del próximo 5 de noviembre y lo hizo en un centro de **votación de Delaware**, el estado donde tiene su residencia.
+
+### Más noticias
+
+* [Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida](https://www.elcomercio.com/actualidad/mundo/biden-afirma-milton-podria-ser-peor-huracan-golpear-florida.html "Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida")
+* [Joe Biden comparece en la sala de prensa de la Casa Blanca por primera vez](https://www.elcomercio.com/actualidad/mundo/joe-biden-comparece-sala-prensa-casa-blanca-primera-vez.html "Joe Biden comparece en la sala de prensa de la Casa Blanca por primera vez")
+
+Biden llegó al **colegio electoral,** ubicado en el municipio de **New Castle**, poco antes del mediodía.
+
+El mandatario tenía un **centenar de personas por delante**, según el ‘pool’ de la Casa Blanca, por lo que tuvo que sumarse a la fila durante varios minutos antes de poder depositar su papeleta.
+
+Biden aprovechó la espera **para saludar y conversar** con los votantes que se le acercaban.
+
+La congresista demócrata Lisa Blunt Rochester, ahora candidata al Senado por Delaware, le acompañó al centro de votación.
+
+Previamente, Biden y Rochester desayunaron durante más de una hora en un **restaurante del estado.**
+
+Hasta el domingo, al **menos 41,9 millones de estadounidenses** votaron anticipadamente en las **elecciones a la Casa Blanca,** en las que compiten la vicepresidenta demócrata, Kamala Harris, y el expresidente republicano Donald Trump (2017-2021). 
+
+Jugadores de El Nacional exigen sueldo tras caer con Orense
+===========================================================
+
+Tras caer ante Orense, los jugadores de El Nacional volvieron a arremeter contra la dirigencia debido a sueldos impagos.
+------------------------------------------------------------------------------------------------------------------------
+
+![Elian Carabalí, delantero de El Nacional, se lamenta ante Orense en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/20241027134582-fbl-ligapro-ecuabet-nacional-orense-scaled.jpg)
+
+Pese a la derrota ante **Orense** en la Liga Pro y a que en el horizonte cuentan con las semifinales de la Copa Ecuador, los jugadores de **El Nacional** decidieron no comentar sobre lo futbolístico tras caer en Liga Pro. El equipo se reunió y, en rueda de prensa, exigieron sus sueldos y apuntaron contra la dirigencia.
+
+La **crisis económica** en el equipo de los puros criollos continúa y sus futbolistas reaccionaron. Antes del choque ante los orenses, la escuadra de las Fuerzas Armadas decidió paralizar sus entrenamientos y dar a conocer su situación.
 
 ### Más noticias:
 
 * [Orense derrota a El Nacional y se suma a la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-derrota-nacional-pelea-liga-pro.html "Orense derrota a El Nacional y se suma a la pelea por la Liga Pro")
-* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
-* [Kendry Páez regresó a la titularidad en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-regreso-a-la-titularidad-en-independiente-del-valle.html "Kendry Páez regresó a la titularidad en Independiente del Valle")
+* [El Nacional paraliza sus entrenamientos por falta de pagos](https://www.elcomercio.com/deportes/nacional-entrenamientos-paralizacion-pagos-deudas.html "El Nacional paraliza sus entrenamientos por falta de pagos")
+* [Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional](https://www.elcomercio.com/deportes/luis-chango-mushuc-runa-arbitraje-nacional.html "Luis Chango explota con arbitraje de Mushuc Runa vs. El Nacional")
 
-Con esta victoria, **Barcelona SC** suma 19 puntos y se ubica en el quinto lugar de la tabla de posiciones de la Liga Pro.
+En un video que reunió a todos los futbolistas en el **Complejo de El Sauce** se dijo que se adeudan “varios meses”. Asimismo, los jugadores negaron tener respuestas desde el ámbito dirigencial y pidieron por la intervención de la Liga Pro y la Federación Ecuatoriana de Fútbol (FEF).
 
-El equipo dirigido por Segundo Alejandro Castillo ha mostrado un rendimiento sólido, y ahora se pregunta si podrá competir por el primer lugar.
+Pese a que no cumplió con su última práctica, el equipo se presentó al choque ante la escuadra verde, frente a la que cayó por un marcador de 1-0 gracias a un tanto de Gabriel Achilier. Después del choque, encabezados por **David Cabezas y Jonathan Borja**, una vez que el DT Marcelo Zuleta les cedió la palabra, los jugadores se pronunciaron[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
 
-Barcelona SC y la tabla de posiciones
--------------------------------------
-
-Actualmente, **Independiente del Valle** lidera la tabla con 23 puntos, seguido de Liga de Quito, que también tiene 23, y Orense con 22 puntos.
-
-La lucha por la cima se intensifica, y Barcelona SC tiene la oportunidad de acercarse a los líderes en sus próximos encuentros contra Aucas, Cumbayá, Técnico Universitario y Mushuc Runa.
-
-Orense se metió en la pelea por la Liga Pro
+El malestar de los jugadores de El Nacional
 -------------------------------------------
 
-En otro duelo destacado de la jornada, Orense se impuso 1-0 a El Nacional en el Estadio Olímpico Atahualpa de Quito.
+Una vez que se dio la bienvenida a los futbolistas presentes en la rueda de prensa, Zuleta dio paso a sus dirigidos y se retiró. “**Bueno, muchachos, yo los dejo a los jugadores. Querían venir a hablar con ustedes. Mi parte ya hasta acá llegó. Se necesita otro jugador acá con un mensaje**“, manifestó el entrenador al dirigirse a los medios presentes.
 
-Robert Burbano anotó el único gol del partido a los 16 minutos, permitiendo que Orense se sume a la pelea por la Liga Pro. Con esta victoria, el equipo de El Oro alcanzó los 22 puntos y se posiciona tercero, justo detrás de [Liga de Quito.](https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito)
+Cabezas, capitán del equipo, fue quien ocupó el lugar del estratega y **Borja** tomó la palabra tras agradecerle al argentino. Este **pidió disculpas** y señaló que no hablarían nada del compromiso, sino de su realidad.
 
-La emoción en la Liga Pro se intensifica, ya que tres equipos buscan el título de la segunda etapa.
+“**La situación ha rebasado los límites, no se puede trabajar más así. Creo que es hora de que el presidente dé la cara.** Esperamos que el ente que rige este equipo: las Fuerzas Armadas, representantes principales del club, tengan la amabilidad de hablar con nosotros porque no hemos tenido respuesta del presidente. Es muy injusto”, señalaron.
 
-Orense se enfrenta a un calendario exigente, con partidos pendientes contra Delfín, Técnico Universitario, Cumbayá e **Independiente del Valle.** Por su parte, Independiente del Valle y Liga de Quito también tendrán que luchar para mantener sus posiciones.
+A su reclamo, los futbolistas agregaron que tienen un partido trascendental de **Copa Ecuador** y cuentan con un problema aún más grande. Cabezas sostuvo que no ven solución y tienen hogares que mantener. A su vez, agregó que esperan que se dé una reunión con el **Comando Conjunto de las Fuerzas Armadas**.
 
-Barcelona SC goleó y la recta final promete ser emocionante, y los aficionados esperan más sorpresas en esta intensa batalla por el campeonato.
+El Nacional espera regularizar los pagos
+----------------------------------------
 
-Tabla de posiciones
--------------------
+Con respecto a la realidad que enfrenta **El Nacional**, una fuente de la dirigencia señaló que se trabajan para regularizar los pagos a la plantilla. De igual manera, hasta este lunes 28 de octubre del 2024, el club debía realizar un pago de **78 000 dólares** a la Federación Ecuatoriana de Fútbol (FEF) para que no se produzca la resta de seis puntos.
 
-1. IDV 23 puntos
-2. LDU 23
-3. Orense 22
-4. U. Católica 20
-5. BSC 19
-6. Mushuc Runa 18
-7. El Nacional 15
-8. Delfín 15
-9. Macará 14
-10. Libertad 13
-11. T. Universitario 12
-12. Imbabura 10
-13. D. Cuenca 9
-14. Aucas 9
-15. Emelec 7
-16. Cumbayá 6
+Misión del FMI visita Ecuador, ¿cuál es el objetivo?
+====================================================
 
-Asamblea Nacional aprobó ley energética urgente tras segundo debate
-===================================================================
+El Fondo Monetario Internacional analizará los programas que aplica Ecuador con el financiamiento otorgado.
+-----------------------------------------------------------------------------------------------------------
 
-El Pleno de la Asamblea trató el segundo y definitivo debate sobre la propuesta de reforma energética y luego votó.
--------------------------------------------------------------------------------------------------------------------
+![El ministro de Economía y Finanzas, Juan Carlos Vega, asistió a las reuniones anuales del FMI y el Grupo del Banco Mundial entre el 21 y 25 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/FMI-28102024.jpg)
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/ley-urgente-energia-asamblea.jpg)
-
-El Pleno de la **Asamblea Nacional** aprobó este domingo 27 de octubre de 2024 la reforma de la **Ley Energética** presentada por el presidente **Daniel Noboa**.
-
-### Más noticias:
-
-* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html")
-* [Viviana Veloz se refirió a la reconsideración de votos en el juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link")
-* [Daniel Noboa emitió otro veto total en menos de una semana](https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link")
-
-Previamente, el Pleno llevo a cabo el **segundo y definitivo debate** sobre la propuesta.
-
-Proyecto de Ley Energética
---------------------------
-
-Denominada ‘Ley Orgánica para impulsar la iniciativa privada en la generación eléctrica’, el proyecto busca facilitar el desarrollo e implementación de proyectos de **generación eléctrica** a partir de diversas fuentes de energía renovable y tecnologías de transición.
-
-La normativa establece que las empresas dedicadas a la **generación térmica** deberán presentar planes de transición hacia tecnologías que reduzcan el impacto ambiental.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) | La presidenta de la Asamblea Nacional, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), solicita al secretario General, [@AlejandroMunozH](https://twitter.com/AlejandroMunozH?ref_src=twsrc%5Etfw) dar lectura en su parte resolutiva del segundo punto del orden del día de la sesión N° 975:  
-> ✅ Conocer y resolver respecto del Informe para Segundo Debate… [pic.twitter.com/DEY2TmEAXT](https://t.co/DEY2TmEAXT)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850547596088987844?ref_src=twsrc%5Etfw)
-
-Entre las estrategias propuestas se incluye el uso de **gas natural** como alternativa a combustibles fósiles más contaminantes.
-
-Además, se fomentará el desarrollo de **proyectos** **híbridos** que combinen generación térmica con energías renovables, promoviendo una transición más sostenible.
-
-Ley busca la eficiencia energética
-----------------------------------
-
-El proyecto también permite que las empresas **importen gas natural** para autoconsumo en sus procesos productivos, así como para la generación de energía eléctrica. Esto busca sustituir el uso de otros hidrocarburos en actividades productivas en el país.
-
-Las iniciativas que actualmente están en trámite, con un **límite de 10 megavatios**, podrán solicitar una revisión de sus permisos para adaptarse a los nuevos límites de potencia establecidos por la ley.
-
-Asimismo, los proyectos en operación que cumplan con esta condición podrán solicitar un **ajuste** en su capacidad.
-
-La ley también establece que los **Gobiernos Autónomos descentralizados** implementen sistemas de **gestión de residuos** que incluyan el procesamiento de basura para generar energía.
-
-En paralelo, las empresas distribuidoras de electricidad deberán reemplazar las luminarias públicas existentes por modelos de **tecnología LED y solares**, mejorando así la eficiencia energética.
-
-Finalmente, la banca pública y privada podrá ofrecer **créditos a tasas preferenciales** para individuos y empresas del sector privado que deseen implementar sistemas de generación de energía renovable para autoconsumo.
-
-Pleno debatió por segunda ocasión el proyecto
----------------------------------------------
-
-Previa a la votación, el **Pleno de la Asamblea** realizó el segundo debate de la ley. Estas son algunas de las voces que intervinieron durante la sesión de este domingo.
-
-El asambleísta **Jorge Acaiturri** (PSC) señaló que: “Al pueblo no le importa quien hace la obra o mejora el servicio, si lo hace el mercado o el Estado; si no que le importa acceder al servicio y vivir bien”.
-
-Añadió: “Esta Ley no será un ‘no más apagones’, sino que será una verdadera herramienta para un marco jurídico que garantice la **inversión del sector privado**“.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) "La sequía el cambio climático son una realidad que la vive Ecuador y el mundo. Como asambleísta por [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw) y como miembro de la [@BancadaADN](https://twitter.com/BancadaADN?ref_src=twsrc%5Etfw) estoy seguro de que nuestro Presidente va a tomar las mejores decisiones para cambiar la realidad nacional", enfatiza… [pic.twitter.com/Sfu99lu9a6](https://t.co/Sfu99lu9a6)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850580037864488983?ref_src=twsrc%5Etfw)
-
-Por su parte, **Camilo Salinas** (Construye) destacó que la “energía es **vital** y se requiere de inversión para potenciar la producción y potenciar los proyectos de energía eólica y térmica”.
-
-Mientras que **Viviana Veloz** (Revolución Ciudadana) consideró que “este proyecto **no es la solución** a la crisis energética” y criticó la “falta de fiscalización de las barcazas contratadas para suplir la generación eléctrica”.
-
-> La titular del Parlamento ecuatoriano, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), enfatiza en que duele ver cómo nuestro sistema educativo se deteriora por momentos y en el mundo hoy en la era de la tecnología, de la información y de la comunicación, nuestros colegios, algunos privados y los pocos… [pic.twitter.com/lREbql1kd8](https://t.co/lREbql1kd8)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850628007221927992?ref_src=twsrc%5Etfw)
-
-El legislador **Blasco Luna** (Revolución Ciudadana) calificó esta crisis como un “**feriado energético**” y coincidió en que la Ley no resolverá de manera inmediata los problemas actuales, sino que crea un **marco jurídico** para inversiones a largo plazo.
-
-El legislador **Pedro Velasco** (Avanza) subrayó en su intervención la importancia de la seguridad jurídica para atraer inversión extranjera, especialmente en las fronteras.
-
-Lucía Posso (Avanza) y Carmen Tiupul (Reto) expresaron su preocupación, destacando que, aunque esta ley se aprueba, no resolverá de inmediato la crisis energética.
-
-Votación unánime
-----------------
-
-Luego de mostrar sus posturas ante la ley energética, los asambleístas finalmente votaron.
-
-El proyecto económico para generación de energías fue aprobado de forma unánime, con **120 votos** a favor, cero abstenciones y **ningún voto negativo**.
-
-17 legisladores **no asistieron** al Pleno.
-
-> .[@ValenCenteno](https://twitter.com/ValenCenteno?ref_src=twsrc%5Etfw) mociona:  
-> ✔️ La aprobación del texto íntegro del PROYECTO DE LEY ORGÁNICA PARA IMPULSAR LA INICIATIVA PRIVADA EN LA GENERACIÓN DE ENERGÍAS CALIFICADA COMO URGENTE EN MATERIA ECONÓMICA.  
->   
-> Por unanimidad, 120 votos afirmativos, se aprueba la moción [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ZbCMcRBqSP](https://t.co/ZbCMcRBqSP)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850630134497149228?ref_src=twsrc%5Etfw)
-
-Orense derrota a El Nacional y se suma a la pelea por la Liga Pro
-=================================================================
-
-Orense ganó con gol de Robert Burbano y depende de sí mismo para quedarse con la etapa. Peleará por la cima ante IDV y Liga de Quito.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Robert Burbano anotó el gol de la victoria de Orense ante El Nacional en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/orense.jpg)
-
-**Orense** se impuso 1-0 a **El Nacional** y se mete de lleno en la pelea por la Liga Pro de Ecuador.
-
-El encuentro tuvo lugar en el Estadio Olímpico Atahualpa de Quito, este 27 de octubre del 2024, donde Robert Burbano anotó el único gol del partido a los 16 minutos.
-
-### Más noticias:
-
-* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
-* [Liga de Quito no puede con Mushuc Runa y pierde el liderato](https://www.elcomercio.com/deportes/liga-quito-lider-mushuc-runa-var-idv.html "Liga de Quito no puede con Mushuc Runa y pierde el liderato")
-* [Independiente del Valle ganó y lidera la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-tabla-cuenca-ligapro.html "Independiente del Valle ganó y lidera la Liga Pro")
-
-Con este triunfo ante los puros criollos en [crisis,](https://www.elcomercio.com/deportes/nacional-entrenamientos-paralizacion-pagos-deudas.html) **Orense Sporting Club** suma 22 puntos y se posiciona tercero en la tabla, justo detrás de **Liga de Quito**, que empató en un partido polémico y tiene 23 puntos.
-
-**Independiente del Valle** lidera con la misma cantidad de puntos (23).
-
-Orense y la lucha por la segunda etapa
---------------------------------------
-
-La lucha por la segunda etapa se calienta, ya que **Orense** aún debe enfrentar a Delfín, Técnico Universitario, Cumbayá e Independiente del Valle en sus próximos encuentros.
-
-El líder I**DV** también tiene un calendario exigente, enfrentando a El Nacional, Liga de Quito, Macará y luego a Orense.
-
-Por su parte, **Liga de Quito** se medirá contra Emelec, IDV, Católica y Deportivo Cuenca.
-
-La emoción aumenta en esta recta final, donde tres equipos destacan como los principales candidatos a ganar la etapa.
-
-Independiente del Valle, que ya se coronó ganador de la primera fase, busca mantener su posición, mientras que Liga de Quito enfrenta críticas tras perder el liderato por errores arbitrales en su último partido.
-
-El DT de Liga, **Pablo Sánchez**, se mostró frustrado y solicitó la liberación de los audios del VAR para esclarecer las decisiones que afectaron a su equipo.
-
-A falta de solo cuatro partidos, la competencia se intensifica y cada punto cuenta.
-
-Orense, con su reciente victoria, ha demostrado que está listo para luchar hasta el final y aprovechar cualquier oportunidad que se presente en su camino hacia el título.
-
-La Liga Pro promete más sorpresas en esta emocionante recta final.
-
-España eliminó a la Selección de Ecuador en el Mundial Sub 17
-=============================================================
-
-La Selección de Ecuador femenina llegó al partido con una mezcla de emoción y determinación, pero fue eliminada
----------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador femenina busca las semifinales del Mundial Sub 17.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccionecuadorfemenina.jpg)
-
-La **Selección de Ecuador femenina** perdió ante **España** en los cuartos de final de la **Copa Mundial Sub-17** Femenina en Santo Domingo, República Dominicana.
-
-El partido, disputado en el Estadio Olímpico Félix Sánchez **este 27 de octubre de 2024**, comenzó a las 14:30 (hora de Ecuador).
-
-España goleó 5-0 a Ecuador gracias al hat trick de **Pau Comendado**r, quien anotó en los minutos 35, 39 y 46.
-
-Los dos últimos goles, en los descuentos, fueron obra de la goleadora Celia Segura.
-
-### Más noticias:
-
-* [Una ecuatoriana entre las estrellas del Mundial Femenino sub-17](https://www.elcomercio.com/deportes/futbol/caprice-chichiolo-mundial-ecuador-femenino.html "Una ecuatoriana entre las estrellas del Mundial Femenino sub-17")
-* [La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-republica-dominicana-mundial-femenino-sub-17.html "La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17")
-* [Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17](https://www.elcomercio.com/deportes/futbol/ecuador-prepara-espana-cuartos-mundial-sub17.html "Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17")
-
-Bajo la dirección de **Eduardo Moscoso,** la Selección de Ecuador femenina ha destacado en la fase de grupos con un impresionante desempeño, logrando dos victorias y anotando seis goles.
-
-Este hito ya es histórico para el fútbol femenino ecuatoriano, ya que es la primera vez que el equipo alcanza esta instancia en un Mundial.
-
-Las jugadoras clave han sido la capitana **Fiorella Pico**, la goleadora Jaslym Valverde y la talentosa Doménica Arboleda, quienes han sido fundamentales para el éxito del equipo.
-
-Además, Caprice Chiuchiolo, la única jugadora en el plantel que milita en el fútbol estadounidense, ha brillado con luz propia, anotando dos goles en la contundente victoria por 4-0 sobre Nueva Zelanda.
-
-Selección de Ecuador femenina
------------------------------
-
-El equipo ecuatoriano llega al partido con una mezcla de emoción y determinación. “Estamos felices de estar entre las ocho mejores del mundo”, declaró Moscoso, mientras que Chiuchiolo expresó la ambición del equipo de seguir haciendo historia y el honor que siente al representar a Ecuador.
-
-Por su parte, España, la vigente campeona del torneo y uno de los equipos más exitosos, también ha llegado con un desempeño destacado, ganando todos sus partidos en la fase de grupos.
-
-Ecuador busca convertirse en el primer equipo de Conmebol en vencer a un rival europeo en esta etapa del torneo.
-
-¿Cómo funciona el sistema electoral de EE.UU.?
-==============================================
-
-Votar un día martes y los colegios electorales hacen que el sistema electoral de EE.UU. sea complejo y siempre requiera de una explicación.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Estados Unidos tiene un complejo sistema electoral, difícil de entender y que muchos consideran obsoletos.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-6.jpg)
-
-**Estados Unidos** es el país que inventó la **democracia** moderna o liberal. Sin embargo, su **sistema electoral**, que es el más antiguo, es también el más complicado del mundo. Y cada cuatro años siempre requiere de una **explicación** sobre **cómo funciona** porque el presidente electo no gana de manera inmediata por el voto universal, sino por los colegios electorales. El 5 de noviembre, los estadounidenses acudirán a las urnas para decidir entre la **demócrata Kamala Harris** y el **republicano Donald Trump**. Aquí trataremos de explicar cómo llega un candidato a ocupar la Casa Blanca.
+Una misión del **Fondo Monetario Internacional** (FMI) llegó a **Quito**, así lo informó el **Ministerio de Economía y Finanzas (MEF),** este lunes 28 de octubre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
-* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
-* [Estados Unidos entrega 39 millones de dólares a Ecuador ¿Cuál es el objetivo?](https://www.elcomercio.com/actualidad/politica/estados-unidos-entrega-39-millones-ecuador-usaid.html "Estados Unidos entrega 39 millones de dólares a Ecuador ¿Cuál es el objetivo?")
+* [FMI reconoce que la sequía impactará en el crecimiento y la fiscalidad de](https://www.elcomercio.com/actualidad/negocios/fmi-reconoce-sequia-impactara-crecimiento-fiscalidad-ecuador.html "FMI reconoce que la sequía impactará en el crecimiento y la fiscalidad de Ecuador") [](https://www.elcomercio.com/actualidad/negocios/fmi-reconoce-sequia-impactara-crecimiento-fiscalidad-ecuador.html "FMI reconoce que la sequía impactará en el crecimiento y la fiscalidad de Ecuador")[Ecuador](https://www.elcomercio.com/actualidad/negocios/fmi-reconoce-sequia-impactara-crecimiento-fiscalidad-ecuador.html "FMI reconoce que la sequía impactará en el crecimiento y la fiscalidad de Ecuador")
+* [Ministro de Economía se reúne con el FMI para concretar nuevo préstamo](https://www.elcomercio.com/actualidad/negocios/ministro-de-economia-se-reune-con-el-fmi-para-concretar-nuevo-prestamo.html "Ministro de Economía se reúne con el FMI para concretar nuevo préstamo")
+* [FMI reducirá el costo de sus créditos para los países más endeudados](https://www.elcomercio.com/actualidad/negocios/fmi-reducira-costo-creditos-paises-endeudados.html "FMI reducirá el costo de sus créditos para los países más endeudados")
 
-El sistema electoral en un día diferente
+El objetivo de la misión es reunirse con representantes del Ministerio de Economía y otras instituciones del Ecuador para evaluar las perspectivas y políticas económicas del país.
+
+La agenda de trabajo incluye un análisis de los avances en la implementación del programa económico. Estos se relacionan con el acuerdo de Servicio Ampliado del Fondo (SAF, conocido en inglés como EFF), que representa un apoyo financiero de **4 000 millones de dólares** en un período de 48 meses.
+
+Este acuerdo fue aprobado por el **Directorio Ejecutivo del FMI** el 31 de mayo de 2024, con el propósito de apoyar el programa económico de **Ecuador** en varias áreas estratégicas. Los primeros 1 000 millones de dólares se desembolsaron inmediatamente.
+
+El apoyo financiero del FMI para Ecuador
 ----------------------------------------
 
-El próximo **martes 5 de noviembre**, será el día de la **elección** para **Presidente**, **Vicepresidente**, la renovación de un tercio del **Senado** y la renovación total de la **Cámara de Representantes.** Aquí comienza el primer problema. **¿Por qué se vota en un día martes?**
+Uno de los objetivos principales del apoyo financiero es consolidar la situación fiscal del país. Además, de garantizar la protección social y la **estabilidad macroeconómica**. La meta final es lograr un crecimiento económico inclusivo y generar oportunidades de empleo para los ciudadanos ecuatorianos, señaló el MEF.
 
-Al ser **Estados Unidos** un **país federal**, cada **Estado** tiene sus propias leyes y también **su propio sistema electoral**. No tiene un ente rector de las elecciones a nivel nacional. Hasta **1845**, cada uno podía organizar sus **comicios en cualquier fecha**, siempre y cuando fueran **34 días antes del primer miércoles de diciembre.**
+Los **expertos del FMI** se centrarán en los avances que ha hecho **Ecuador** en la aplicación de reformas para fortalecer sus cuentas fiscales y asegurar que el gasto social llegue a las poblaciones más vulnerables. De esta evaluación dependerán los nuevos desembolsos del préstamo acordado con el organismo internacional.
 
-Esto traía un problema. Supongamos que el Estado de **Nueva York** votara el 7 de noviembre y **Nueva Jersey** el 18 de noviembre. Los **votantes** de este último iba a las urnas con conocimiento de lo que había pasado en Nueva York y podía influir en los resultados. Entonces, el **Congreso** nacional resolvió que se lo realizara en un martes de noviembre, pero no cualquier martes, sino **el primero después del primer lunes de noviembre.**
+El ministro de Economía y Finanzas, Juan Carlos Vega, estuvo en Estados Unidos hasta el 25 de octubre. El funcionario asistió a las reuniones anuales del FMI y el Grupo del Banco Mundial. El objetivo es concretar un nuevo préstamo.  
 
-La razón para hacerlo en martes se debía a que la mayoría de los ciudadanos habilitados para votar eran **campesinos**. No lo hicieron en **domingo**, como ocurre en el resto del mundo, porque debían ir a la **iglesia** y comerciar sus productos en los **mercados** dominicales. Y se escogió **noviembre** porque era un mes que no complicara el trabajo en sus granjas.
+Selección de Ecuador saca a la venta entradas para enfrentar a Bolivia
+======================================================================
 
-Actualmente, hay muchos cuestionamientos sobre el día. Ahora, muchos **votantes son urbanos** y no pueden acudir a las urnas a votar en martes, algo que cuestionan los demócratas, sobre todo. Sin embargo, se puede votar anticipadamente, por correo o internet, que no está bien vistos por algunos republicanos, sobre todo del expresidente y actual candidato Donald Trump.
+La 'Tri' espera un estadio lleno en su regreso a Guayaquil por las eliminatorias sudamericanas.
+-----------------------------------------------------------------------------------------------
 
-Los Colegios Electorales, lo más complejo del sistema
------------------------------------------------------
+![Piero Hincapié en el último partido de la Selección de Ecuador de local.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-31.jpg)
 
-El **sistema electoral de Estados Unidos** no elige presidente por la mayoría de los votos a nivel nacional. Si bien tiene un valor, es más en función de cómo constituyen los **Colegios Electorales**, en los que se define al ganador de las elecciones.
+La **Federación Ecuatoriana de Fútbol** (FEF) puso a la venta este lunes 28 de octubre los boletos para el partido de la **Selección de Ecuador** contra Bolivia, correspondiente a la undécima jornada de las eliminatorias al Mundial 2026.
 
-Los **Colegios Electorales** representan la decisión del voto mayoritario de cada Estado. Y se organizan según el número de pobladores de cada Estado.
-
-En total son **538 electores**. El estado que más votos del Colegio Electoral tiene es **California**: 54. Los que menos tienen son los estados más rurales, como las dos **Dakotas** o **Wyoming**, con **tres**, cada uno.
-
-Acá entonces entra la parte complicada y, para muchos, la obsoleta del sistema, que es mejor explicar mediante un resultado hipotético. Supongamos que **Kamala Harris** gana en California: todos los 54 votos del Colegio Electoral de California serán para ella, así obtuviera el 50,1% del voto o -exageremos- el 100%. Trump ganaría, por ejemplo, en Texas, por lo tanto, se llevará consigo los 40 de su colegio electoral. Solamente Maine y Nebraska tienen un sistema proporcional[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Estados_Unidos_de_2016 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Estados_Unidos_de_2016")
-
-Un sistema electoral que permita ganar sin tener la mayoría
------------------------------------------------------------
-
-Para llegar a la **Presidencia de Estados Unidos**, hay que alcanzar al menos **270 votos de los Colegios Electorales.** Y acá viene otra complejidad más: **se puede ganar sin tener la mayoría de votos.** Lo sabe bien **Trump**, que en el **2016** tuvo casi tres millones de votos menos que su rival, la demócrata **Hillary Clinton.** Sin embargo, **ganó en 30 estados,** mientras Clinton triunfó en 20, además del Distrito de Columbia.
-
-Los **republicanos** son mayoría en estados en donde predomina lo **rural**. Los **demócratas** tienen preeminencia en los que tienen una gran **concentración urbana**.
-
-Hay, sin embargo, los **estados pendulares** (swing state), que **no tienen un ganador claro de antemano**. A estos apuntan los mayores esfuerzos de la **campaña electoral**. Estos son Arizona, Georgia, Michigan, Nevada, Carolina del Norte, Pensilvania y Wisconsin. **En total, suman 96 colegios electorales**.
-
-En el 2020, fueron fundamentales para los demócratas, los triunfos en **Arizona (AZ), Pensilvania (PA), Wisconsin (WI), Michigan (MI), Georgia (GA) y Nevada (NV).**
-
-La siguiente imagen corresponde a las **elecciones del 2020** entre **Joe Biden** y **Donald Trump**, que buscaba, entonces, la reelección. Los **estados rojos** votaron por los republicanos y los azules, por los demócratas. Pero en este 2024, hasta el momento, las encuestas dan un empate técnico.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/mapa-de-estados-unidos.jpg)
-
-Deportivo Quito avanza a octavos tras una dramática tanda de penales
-====================================================================
-
-Deportivo Quito superó al Cantera Orense en el estadio Gonzalo Pozo Ripalda. Exceso de sufrimiento pero los chullas avanzan
----------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/DeportivoQuito.jpg)
-
-**Deportivo Quito** hizo sufrir más de la cuenta a sus fieles seguidores, pero finalmente logró clasificarse a los octavos de final del **Nacional de Ascenso** en el fútbol ecuatoriano.
-
-El equipo de los **dos corazones** necesitó una emocionante definición por penales para avanzar, después de que el encuentro terminara 0-0 y tras un empate 1-1 en la ida.
-
-La tanda de **penales** estuvo llena de tensión, con errores y disparos al palo que mantuvieron a todos al borde del asiento.
-
-Sin embargo, la fortuna sonrió a los azulgrana en el **Estadio Gonzalo Pozo Ripalda** de la capital ecuatoriana. “Sin sufrir no vale”, dicen los hinchas del Quito, y este 27 de octubre de 2024, el equipo padeció más de lo esperado antes de celebrar su pase a la siguiente ronda.
+En esta ocasión, la ‘Tri’ cambiará de sede y no jugará en su habitual localía, el Estadio Rodrigo Paz Delgado. Enfrentará a la ‘Verde’ en el **Estadio Monumental Isidro Romero Carbo** de Guayaquil, casa del Barcelona Sporting Club. El partido se disputará el jueves 14 de noviembre a las 19:00.
 
 ### Más noticias:
 
-* [Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana](https://www.elcomercio.com/deportes/futbol/deportivo-quito-cantera-orense-ascenso-2.html "Deportivo Quito vs. Cantera Orense, entre lo más atractivo del fin de semana")
-* [Deportivo Quito rescata su complejo de Carcelén](https://www.elcomercio.com/deportes/deportivo-quito-complejo-carcelen-remodelaciones.html "Deportivo Quito rescata su complejo de Carcelén")
-* [Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jugara-nuevamente-estadio-lleno-torneo-ascenso.html "Deportivo Quito jugará nuevamente con estadio lleno en el Torneo de Ascenso")
+* [España eliminó a la Selección de Ecuador en el Mundial Sub 17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-espana-mundial-partido-resultado.html "España eliminó a la Selección de Ecuador en el Mundial Sub 17")
+* [La Selección de Ecuador no mejora en el ranking FIFA](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-ranking-fifa-eliminatorias.html "La Selección de Ecuador no mejora en el ranking FIFA")
+* [La Selección de Ecuador Femenina sub-17 se cita con España](https://www.elcomercio.com/deportes/futbol/ecuador-espana-mundial-femenino-sub17.html "La Selección de Ecuador Femenina sub-17 se cita con España")
 
-Deportivo Quito y los penales
+Ecuador llega a este encuentro en la **quinta posición de la tabla de clasificación**, con 13 puntos en 10 fechas.
+
+¿Cuánto cuestan las entradas?
 -----------------------------
 
-Los penales no pudieron ser más dramáticos para **Deportivo Quito**, que se encontraba abajo en el marcador a falta de los últimos lanzamientos.
+Para este compromiso, la **FEF mantiene la reducción de precios en la localidad General**, estrategia que sirvió para atraer más público en el reciente partido contra Paraguay.
 
-Sin embargo, el arquero **Darío Lajones** se convirtió en el héroe del encuentro al atajar uno de los últimos penales, asegurando así la clasificación de su equipo.
+Los miembros del programa **_Fan FEF_** disfrutan de diferentes beneficios según su categoría:
 
-Los chullas siguen vivos en la lucha y demuestran una vez más su resiliencia en el Nacional de Ascenso. Los **dos corazones** de cada hincha -‘ese para sufrir y el otro para vivir’- no faltaron en esta emocionante jornada para el elenco de la **Plaza del Teatro**.
+* **Oro**: acceso al palco en los seis últimos partidos como local.
+* **Plata**: acceso a la tribuna.
+* **Bronce**: prioridad en la compra de boletos y un descuento de hasta el 25%.
 
-El próximo rival de la **‘Academia’** será **Toreros FC** que eliminó al Santa Elena Sumpa.
+Los miembros **Oro y Plata ya pueden adquirir sus entradas a través de la página web** de la FEF, mientras que la categoría Bronce podrá comprarlas desde el lunes 28 de octubre a las 11:00. Para el público general, los boletos restantes estarán disponibles desde el miércoles 30 a las 11:00.
 
-> Sólo esto 🙏🥹 [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) vida 💙❤️ [pic.twitter.com/zlGB4eoJgh](https://t.co/zlGB4eoJgh)
+El **límite máximo de compra es de ocho boletos por usuario.**
+
+> 🎫Venta de entradas | Ecuador vs. Bolivia  
+>   
+> 📍Guayaquil  
+>   
+> 📆Lunes 28/10 a partir de las 11h00: exclusivo para FanFEF Bronce  
+>   
+> 📆Martes 29/10 a partir de las 11h00: venta a todo el público y hasta agotar stock  
+>   
+> ⚽🏟Jueves 14/11 a las 19 horas  
+>   
+> Más información: [https://t.co/DDNAohhFbc](https://t.co/DDNAohhFbc) [pic.twitter.com/oa0grBTwBW](https://t.co/oa0grBTwBW)
 > 
-> — SD Quito Oficial (@SDQuito\_Oficial) [October 27, 2024](https://twitter.com/SDQuito_Oficial/status/1850612910328095158?ref_src=twsrc%5Etfw)
+> — FEF 🇪🇨 (@FEFecuador) [October 28, 2024](https://twitter.com/FEFecuador/status/1850724840627384613?ref_src=twsrc%5Etfw)
 
-Deportivo Quito
----------------
+Precios de las entradas
+-----------------------
 
-Los chullas, cinco veces campeones de Ecuador, buscan regresar a la Serie B de la Liga Pro, después de haber perdido su lugar en la Serie A en 2015 y haber enfrentado incluso el fútbol aficionado.
+**Generales**
 
-Desde 2019, han mantenido su presencia en la **Segunda Categoría**, y ahora se ilusionan una vez para alcanzar su objetivo.
+* Precio regular: USD 25 + IVA
+* Categoría Bronce: USD 19 + IVA
 
-El partido de ida, disputado el 20 de octubre en el Estadio Euclides Palacios de Machala, terminó en un emocionante empate 1-1.
+**Tribuna**
 
-**Luis Celi** anotó para los capitalinos, mientras que Walter Rodríguez igualó para los orenses. La llave se mantiene abierta, lo que agrega una dosis extra de emoción al encuentro de vuelta.
+* Precio regular: USD 60 + IVA
+* Categoría Bronce: USD 48 + IVA
 
-Deportivo Quito y sus hinchas
------------------------------
+**Palcos**
 
-La pasión por **Deportivo Quito** es palpable, y la afición está lista para llenar el estadio. Se pusieron a la venta 12 mil entradas, y en solo tres horas, la localidad de preferencias se agotó.
+**Bajo**
 
-Imágenes y videos en redes sociales muestran largas filas en los puntos de venta, reflejando el fervor de los hinchas por ver a su equipo avanzar en el torneo.
+* Precio regular: USD 70 + IVA
+* Categoría Bronce: USD 59 + IVA
 
-Con el apoyo incondicional de sus aficionados, Deportivo Quito está listo para luchar por un nuevo capítulo en su rica historia futbolística.
+**01, 05, 06 y 08**
 
-Tormentas y fuertes lluvias amenazan a Ecuador
-==============================================
+* Precio regular: USD 75 + IVA
+* Categoría Bronce: USD 67 + IVA
 
-Las tormentas y fuertes lluvias se presentarán durante cuatro días en Ecuador, según la advertencia del Inamhi.
----------------------------------------------------------------------------------------------------------------
+**02, 03, 04 y 07**
 
-![Las tormentas y fuertes lluvias se presentarán durante cuatro días en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-tormentas.jpg)
+* Precio regular: USD 110 + IVA
+* Categoría Bronce: USD 99 + IVA
 
-El **Instituto Nacional de Meteorología e Hidrología (Inamhi)** emitió una nueva advertencia meteorológica sobre la amenaza de **tormentas y fuertes lluvias en Ecuador**.
+Cortes de agua en Quito este lunes 28 de octubre
+================================================
 
-En la información del Inamhi se indica que estas condiciones climáticas se presentarán en la **Sierra, Amazonía y el norte de la Costa ecuatoriana.**
+La Epmaps recomendó a moradores de barrios altos que se abastezcan del líquido necesario para cubrir sus necesidades de higiene, alimentación y salud.
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Más noticias 
+![La Epmaps surte agua mediante tanqueros en los barrios afectados con cortes de agua.](https://www.elcomercio.com/wp-content/uploads/2024/10/agua-tanquero.jpg)
 
+La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
+
+### Más noticias
+
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+* [Al menos seis heridos deja el colapso de juego mecánico, en Daule](https://www.elcomercio.com/actualidad/ecuador/al-menos-seis-heridos-deja-colapso-juego-mecanico-daule.html "Al menos seis heridos deja el colapso de juego mecánico, en Daule")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+
+¿A qué se deben los cortes de agua?
+-----------------------------------
+
+La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló este lunes 28 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
+
+La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
+
+Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
+
+Además, recuerda a la ciudadanía que la **recuperación del servicio de agua potable** en las zonas altas toma más tiempo debido al llenado de tanques.
+
+Barrios afectados en Quito de 16:00 a 23:00
+-------------------------------------------
+
+* Parroquia Chillogallo
+* Parroquia La Ecuatoriana
+
+Zonas afectadas en Quito de 08:00 a 21:00
+-----------------------------------------
+
+* Parroquia Guamaní
+* Parroquia La Ecuatoriana
+
+Barrios con cortes de agua de 13:00 a 21:00
+-------------------------------------------
+
+* Parroquia Chillogallo
+* Parroquia La Ecuatoriana
+
+Sectores afectados de 20:00 a 23:59
+-----------------------------------
+
+* Parroquia Conocoto
+* Parroquia La Ferroviaria
+* Parroquia Puengasí
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+
+Zonas afectadas en Quito de 08:00 a 12:00
+-----------------------------------------
+
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+
+Barrios afectados en Quito de 11:00 a 20:00
+-------------------------------------------
+
+* Parroquia Chilibulo
+* Parroquia La Libertad
+
+Zonas afectadas en Quito de 16:00 a 22:00
+-----------------------------------------
+
+* Parroquia Chilibulo
+* Parroquia Conocoto
+* Parroquia La Argelia
+* Parroquia La Ferroviaria
+* Parroquia Quitumbe
+
+Barrios con cortes de agua de 10:00 a 14:00
+-------------------------------------------
+
+* Parroquia Chilibulo
+* Parroquia Conocoto
+* Parroquia La Argelia
+* Parroquia La Ferroviaria
+* Parroquia Quitumbe
+
+La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
+
+Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/")
+
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable, infórmate sobre los barrios y horarios👉 [https://t.co/dcehCa74co](https://t.co/dcehCa74co)  
+>   
+> Conoce si tu sector está afectado a través de:  
+>   
+> 📲Mensaje al… [pic.twitter.com/AqkW2IbR7i](https://t.co/AqkW2IbR7i)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 28, 2024](https://twitter.com/aguadequito/status/1850905984769646695?ref_src=twsrc%5Etfw)
+
+Ecuador preparará una licitación para el Oleoducto de Crudos Pesados
+====================================================================
+
+La Ley de Hidrocarburos no permite una extensión al contrato de operación que tenía la empresa privada OCP Ecuador.
+-------------------------------------------------------------------------------------------------------------------
+
+![El Ministerio de Energía señaló que la transferencia de acciones, bienes y operaciones del oleoducto al Estado se ejecutará el 30 de noviembre de 2024. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/ocp-ecuador.jpg)
+
+La operación del **Oleoducto de Crudos Pesados (OCP)** retorna al control del Estado **ecuatoriano**.
+
+El **Ministerio de Energía y Minas** informó la decisión de no extender el contrato de operación con **OCP Ecuador S.A.**
+
+Esta decisión se adoptó luego un proceso de revisión de las solicitudes presentadas por OCP Ecuador S.A. en busca de una **prórroga**.
+
+El Ministerio de Energía informó que en el análisis se determinó que el contrato y la **Ley de Hidrocarburos** no permiten extensión, sino la transferencia al Estado al concluir el plazo.
+
+### Más noticias
+
+* [Trabajadores del OCP exigen que Estado asuma la operación del Oleoducto](https://www.elcomercio.com/actualidad/negocios/trabajadores-del-ocp-exigen-que-estado-asuma-la-operacion-del-oleoducto.html "Trabajadores del OCP exigen que Estado asuma la operación del Oleoducto")
+* [El Instituto Geofísico reportó sobre la actividad del volcán El Reventador](https://www.elcomercio.com/actualidad/ecuador/ig-reporto-actividad-volcan-el-reventador.html "El Instituto Geofísico reportó sobre la actividad del volcán El Reventador")
+
+¿Cuándo ocurrirá el cambio en OCP?
+----------------------------------
+
+En un comunicado, el **Ministerio de Energía** señaló que la transferencia de acciones, bienes y operaciones del oleoducto al Estado se ejecutará el 30 de noviembre de 2024.
+
+Además, aseguró que garantizan la continuidad del servicio público de transporte de hidrocarburos sin costo adicional. “En este proceso, se respetarán los derechos laborales y contratos con terceros”.
+
+El Gobierno informará en las próximas semanas la **modalidad de administración** y el **proceso de licitación del OCP.**
+
+La importancia del OCP
+----------------------
+
+Este oleoducto transporta cerca del **40% del petróleo del Ecuador.** Desde su inauguración en 2003, ha movilizado más de 950 millones de barriles de crudo.
+
+Antes de la reversión, **OCP** había propuesto inversiones por hasta USD 200 millones para mejorar la infraestructura y abordar problemas como la erosión regresiva del **río Coca**, que amenaza con dañar el oleoducto.
+
+Municipio de Quito implementa medidas para enfrentar la crisis energética
+=========================================================================
+
+El alcalde Pabel Muñoz presentó un plan de emergencia, tras declarar a Quito en alerta naranja.
+-----------------------------------------------------------------------------------------------
+
+![El alcalde Pabel Muñoz en reunión con el gabinete de crisis de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/alcalde-quito-crisis-energetica.jpg)
+
+El Alcalde de Quito, **Pabel Muñoz**, se refirió a la **crisis energética** y a las **afectaciones** que ha generado en la vida de los **capitalinos**.
+
+### Más noticias
+
+* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
+* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+
+A través de un video difundido en sus **redes sociales**, el **burgomaestre** detalló una serie de **medidas** que se han tomado desde el **Municipio** para reducir los problemas que los **cortes de luz** provocan. Esto, tras declarar a la ciudad en **alerta naranja** debido a los apagones de hasta 14 horas que tiene la capital.
+
+Muñoz mostró su **preocupación** por lo que, a su consideración, Quito enfrenta: una serie de crisis, una **económica**, una **laboral** y “la que más afecta a los quiteños, la **energética**“.
+
+Pensando en **diciembre** y para “que la ciudadanía alivie sus complicaciones”, anunció algunas acciones el 25 de octubre de 2024 que se implementarán desde las **empresas municipales**.
+
+Crisis energética en Quito
+--------------------------
+
+El **Alcalde** envió dos **propuestas** a la **Asamblea Nacional** en medio de la **crisis energética**. Allí se tramita una nueva **ley** que incentiva la **participación privada** en la generación de luz. Pero Muñoz busca que no se permita el uso de **recursos de Quito** para la **ley energética**.
+
+Pabel Muñoz sostuvo que una de sus propuestas contiene la prohibición en la **constitución** de los **fideicomisos** con recursos de la ciudad.
+
+El uso que darían los fideicomisos a los **recursos municipales** complicaría dos sectores importantes para Quito: la **recolección de basura** y el **presupuesto para los bomberos**.
+
+Muñoz explicó que Quito genera por su cuenta **40 megavatios** de **energía**. Lo que pide es que se respeten en favor del **bombeo de agua**, el **Metro de Quito** y los sistemas **Ecovía** y **Trolebús**.
+
+### Cuatro plantas de energía para los mercados
+
+Entre las medidas que aplicará el Municipio para reducir el impacto de la **crisis energética** está la compra de **cuatro plantas generadoras** para los **mercados**: Mayorista, Las Cuadras, San Roque y Chiriyacu.
+
+Pabel Muñoz indicó que la problemática de los **cortes de luz** va más allá de los **racionamientos**, afectando también a la **economía capitalina**.
+
+Por ejemplo, “según las previsiones, hasta marzo de 2025 la **tasa de recolección de basura** podría tener una afectación de **6 y 8,5 millones de dólares** porque está anexada a la **planilla de energía eléctrica**; si se consume menos luz, la tasa también baja”, explicó el Alcalde.
+
+Desabastecimiento de agua potable en algunos sectores
+-----------------------------------------------------
+
+La **Empresa Metropolitana de Agua Potable y Saneamiento** (**Epmaps**) solicitó a la **Empresa Eléctrica Quito** (**EEQ**) que no realicen **cortes de luz** en los sectores que se abastecen de agua por **sistemas de bombeo**.
+
+El Alcalde explicó que tres de los cuatro sistemas de agua de la ciudad no tienen **desabastecimiento** del **líquido vital**, con excepción de **Pita – Puengasí**, donde la **falta de lluvias** considerables ha generado problemas.
+
+En los otros sistemas, **Pichincha – Atacazo**, **Papallacta** y **Mica – Quito Sur**, el servicio se ha visto afectado por los **racionamientos eléctricos**, en especial el primero.
+
+“En los **barrios** ubicados en **zonas altas**, como por ejemplo en el **noroccidente de Quito**, el agua llega a través de un **sistema de bombeo** que demora más en abastecer a estos lugares. Cuando se corta la luz, el abastecimiento se complica”, explicó Muñoz.
+
+“No hemos tenido **lluvias** en los últimos meses; si bien no hemos llegado a **restricciones extremas**, debemos tomar algunas decisiones juntos para evitarlas en un futuro”, puntualizó el **funcionario**.
+
+### ‘Duchas de cuatro minutos’
+
+Entre las acciones que realiza el Municipio para equilibrar la adecuada **distribución de agua potable** en la ciudad, están:
+
+* Pidió la colaboración de la **ciudadanía** para reducir el consumo de agua. “Tomemos **duchas** de cuatro o cinco minutos, no más, y evitemos lavar los **vehículos** en estos momentos”, recomendó Muñoz.
+* Solicitó abiertamente la **sinceridad del Gobierno** sobre los niveles de **abastecimiento de combustible** en el país. “El viernes tuvimos problemas en el transporte de agua desde el sistema **Beaterio**; esto no puede pasar”, dijo.
+* Se compraron **52 generadores de energía**, entre baja potencia y 600 kVA, que se utilizarán entre **noviembre** y **marzo de 2025**. La **inversión** alcanza los **2,2 millones de dólares**.
+* Se firmó un **contrato** para la compra de **cuatro tanqueros**, que se sumarán en diciembre a los seis ya existentes. La inversión es de **650 000 dólares**.
+
+“El **riesgo de desabastecimiento de agua** es del **7 %**, es decir, tenemos la tranquilidad de que el **93 % de Quito** no tendrá problemas, pero claro, esta situación puede cambiar”, detalló el burgomaestre.
+
+Clases en escuelas y colegios municipales
+-----------------------------------------
+
+Así mismo, el Municipio dispuso que las **escuelas** y **colegios municipales** trabajen con **formas alternativas de energía**, como **generadores eléctricos** y **paneles solares**. Esta transición será **paulatina**.
+
+Justamente, en el tema **educación**, el Alcalde aseguró que en esta crisis lo que menos se debe hacer es crear “más **estrés** a los **niños**, **jóvenes** y sus **familias**“; por ello, tomó la decisión, junto con la **Secretaría a cargo**, de **suspender las tareas escolares**.
+
+Muñoz hizo un llamado al **Gobierno** para que analice esta propuesta también desde el **Ministerio de Educación** para las **unidades educativas fiscales**.
+
+“La **tranquilidad de nuestros estudiantes** es lo que más nos importa; estamos preparando **campañas de prevención** y **psicológicas** también para la ciudadanía en general. Les recordamos que tenemos habilitados nuestros canales a través del **ECU 911** para dar ayuda psicológica”, comentó Muñoz.
+
+Empleo emergente, ferias y espacios de coworking
+------------------------------------------------
+
+De acuerdo con el Alcalde, una de las **prioridades** para este año es cuidar las **plazas de empleo** que el Municipio tiene. “Solo entre la **Epmaps** y la **Epmmop** tenemos **100 frentes de trabajo** con **10 000 empleos**. Ustedes se imaginan lo que sería que esas personas pierdan su sustento; tenemos que evitarlo”, dijo Muñoz.
+
+Por ello, aseguró que se invertirá en el **sector público** para aumentar las **plazas de trabajo** a través del **proyecto de empleo emergente** que estará listo para **diciembre**.
+
+“Este mes es importante por todo lo que conlleva; deseamos que la gente esté preocupada en otras cosas menos en **cobrar liquidaciones por despidos**“, añadió Muñoz.
+
+Para diciembre también se realizarán **cuatro mega ferias** y otros **17 espacios** en las **administraciones zonales** con el objetivo de que los **pequeños emprendedores** y **comerciantes** muestren sus productos y servicios.
+
+### ‘Coworking’ en lugares municipales
+
+Finalmente, debido a los problemas que tienen los quiteños para trabajar o estudiar de forma **telemática**, se implementarán **1 300 puestos de trabajo**.
+
+Según detalló el funcionario, estos **‘coworking’** estarán disponibles en las **infraestructuras de ConQuito**, el **Parque Bicentenario**, **bibliotecas**, **museos** y **seis escuelas rurales**.
+
+Sobre estas últimas, señaló: “Si tenemos clases solo en las mañanas, lo más lógico es que utilicemos estos espacios en la tarde para que la ciudadanía pueda ir a trabajar desde allí”.
+
+> Hemos definido una serie de acciones ante la crisis energética, conoce cuáles son: [pic.twitter.com/MQCNm1l8Rh](https://t.co/MQCNm1l8Rh)
+> 
+> — Pabel Muñoz L. (@pabelml) [October 26, 2024](https://twitter.com/pabelml/status/1850004773434519727?ref_src=twsrc%5Etfw)
+
+  
+
+Donald Trump y Puerto Rico mantienen una relación convulsa
+==========================================================
+
+Los habitantes de Puerto Rico, no pueden votar entre Donald Trump y la vicepresidenta y aspirante demócrata, Kamala Harris.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Donald-Trump-efe-agosto.jpg)
+
+Las **insultantes declaraciones** de un comediante estadounidense contra [Puerto Rico](https://www.elcomercio.com/afull/bad-bunny-musica-entrevista-puerto-rico.html "https://www.elcomercio.com/afull/bad-bunny-musica-entrevista-puerto-rico.html") durante un mitin del candidato republicano a la **Casa Blanca**, el expresidente (2017-2021) **Donald Trump,** pusieron de manifiesto la **controvertida relación** que el magnate mantiene con la isla caribeña.
+
+### Más noticias
+
+* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
+* [Kamala Harris es apoyada en Atlanta por Barack Obama, músicos y actores](https://www.elcomercio.com/actualidad/mundo/kamala-harris-apoyada-atlanta-obama-musicos-actores.html "Kamala Harris es apoyada en Atlanta por Barack Obama, músicos y actores")
+* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "Kamala Harris considera que Donald Trump ‘es un fascista’")
+
+Los habitantes de Puerto Rico, un **Estado Libre Asociado a Estados Unidos**, no pueden votar entre Trump y la vicepresidenta y aspirante demócrata, **Kamala Harris**, en las elecciones del próximo 5 de noviembre, pero sí participan en esos comicios los millones de puertorriqueños que viven en EE.UU.
+
+La unidad en la isla fue total después de que el comediante **Tony Hinchcliffe**, partidario de Trump, en un **mitin electoral** definiera a Puerto Rico como “una isla flotante de basura”.
+
+Los **líderes de todos los partidos políticos** y artistas de renombre repudiaron estas declaraciones, que traen el recuerdo de la visita de Trump a la isla tras el devastador huracán María de 2017, cuando en un acto tiró a los asistentes rollos de papel toalla.
+
+A este desprecio se sumó que los **fondos federales** para ayudar a la **reconstrucción de la isla** tras el huracán tardaron demasiado en llegar y, de hecho, **fueron desembolsados** principalmente durante la Administración de Joe Biden.
+
+Prejuicios y racismo
+--------------------
+
+“Comentarios como esos dejan al **descubierto los prejuicios** y el racismo que lamentablemente aún existen en nuestra Nación, y nos recuerdan l**a importancia de escoger líderes que rechacen** y luchen contra ese tipo de intolerancia”, aseguró el **gobernador de Puerto Rico**, Pedro Pierluisi, en su cuenta de la red social X.
+
+Pierluisi mostró su **apoyo a Harris**, como la mayoría de los **políticos y la población puertorriqueña**, con excepciones como la candidata a la gobernación del **Partido Nuevo Progresista (PNP), Jenniffer González,** quien se declara republicana.
+
+No obstante, en esta ocasión, **González dijo en un comunicado que las expresiones de Hinchcliffe** “son despreciables, desacertadas y asqueantes”.
+
+Mientras, el aspirante a la gobernación por la Alianza, Juan Dalmau, líder del Partido Independentista Puertorriqueño (PIP), denunció que Trump es “el mismo que **desprecia a los puertorriqueños**, el que nos tiró papel toalla como bolas de baloncesto, en el peor momento de nuestra historia luego del huracán María”.
+
+En cuanto a los cantantes, Ricky Martin publicó un video en las **redes sociales** sobre la intervención de Hinchcliffe y con la leyenda: “Esto es lo que piensan de nosotros”.
+
+“Despierta familia, basta ya de tanto odio”, agregó Martin, quien ha pedido el voto para Harris y se ha mostrado a favor de la Alianza que encabeza Dalmau de cara a las **elecciones en Puerto Rico** del próximo 5 de noviembre.
+
+Una votación simbólica en la isla entre Trump y Harris
+------------------------------------------------------
+
+Ante la polémica, la **campaña de Trump** se desmarcó de los comentarios hechos por el cómico en el **Madison Square Garden de Nueva York,** alegando la asesora Danielle Alvarez que “este chiste no refleja las opiniones del **presidente Trump** ni de la campaña”.
+
+Aunque los **puertorriqueños residentes** en la isla no pueden votar en las **elecciones estadounidenses**, el mismo 5 de noviembre se celebran **comicios generales** en la isla que incluyen una papeleta simbólica para demostrar las **preferencias de los electores** sobre este tema.
+
+Los puertorriqueños elegirán el 5 de noviembre gobernador, comisionado residente, representantes, senadores y alcaldes.
+
+Además, podrán dar su opinión sobre el **estatus político de la isla,** eligiendo entre estadidad, independencia y soberanía en libre asociación, y sobre el próximo presidente de EE.UU., aunque estas dos consultas no son vinculantes.
+
+Como **Estado Libre Asociado a EE.UU**., Puerto Rico tiene cierto grado de autonomía, con Gobierno y Constitución propios, **pero fronteras, defensa y relaciones exteriores** son responsabilidades que se reserva Washington.
+
+Ante la trascendencia que tiene también en la isla el resultado de las **elecciones estadounidenses**, el rapero René Pérez, **conocido artísticamente como Resident**e, hizo un llamado a derrotar en las urnas a Trump: “**A mis hermanos boricuas, no endosen a esta gente por favor”.**
+
+Lluvias se registran en varias zonas de Ecuador, ¿cuál es su impacto?
+=====================================================================
+
+Ecuador empezó la semana con lluvias en sitios como Cuenca.
+-----------------------------------------------------------
+
+![Imagen referencial de lluvias.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-2.jpg)
+
+Las lluvias volvieron a varios sitios de **Ecuador**, entre estos, la zona del **Austro**, este lunes, 28 de octubre de 2024. Este panorama incide en la generación de energía eléctrica.
+
+El **Instituto Nacional de Meteorología e Hidrología (Inamhi)** definió los detalles de las condiciones que se esperan para los próximos días.
+
+### Más noticias
+
+* [Tormentas y fuertes lluvias amenazan a Ecuador](https://www.elcomercio.com/actualidad/ecuador/tormentas-fuertes-lluvias-amenazan-ecuador.html "Tormentas y fuertes lluvias amenazan a Ecuador")
 * [Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi](https://www.elcomercio.com/actualidad/ecuador/tarde-noche-lluvias-importante-region-ecuador-segun-inamhi.html "Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi ")
-* [Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?](https://www.elcomercio.com/actualidad/ecuador/temperatura-aumenta-ecuador-que-pasa-con-lluvias.html "Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?")
-* [Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?](https://www.elcomercio.com/actualidad/ecuador/cuenca-lluvias-rios.html "Cuenca registró lluvias la tarde de este martes 22 de octubre ¿Cuál es la situación de sus ríos?")
+* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
 
-Estos fenómenos climáticos complejos intensificarán el mal tiempo en Ecuador, según el Inamhi. La entidad explica que el **ingreso de masas de aire húmedo desde la Amazonía y el sur del continente** **incrementarán las lluvias y tormentas eléctricas.**
+Lluvias en Ecuador
+------------------
 
-Addemás, la entidad explica que en esta nueva condición climática también inciden la **onda tropical Madden Julian** y el **calentamiento diurno**. Adicionalmente, las dinámicas de convergencia y divergencia de vientos también contribuirán al desarrollo de estos fenómenos meteorológicos.
+La alerta de tormentas y fuertes lluvias está vigente. Se trata de precipitaciones **de diversa intensidad, tormentas eléctricas y ráfagas de viento.** Estas repercuten, con mayor énfasis, en las regiones **Amazónica, Sierra y el norte del Litoral.**
 
-¿Cuándo Ecuador tendrá tormentas y fuertes lluvias?
----------------------------------------------------
+Entre los riesgos están: i**nundaciones** en viviendas, comercios y carreteras, así como deslizamientos, desbordamientos y riesgos eléctricos.
 
-De acuerdo con el **Inamhi,** la advertencia de las tormentas y las fuertes lluvias estará vigente desde el **domingo 27 hasta el miércoles 30 de octubre.** 
+**Guillermo Flores**, técnico del Inamhi, detalló que hasta las 11:30 de este 28 de octubre, se registraron lluvias de variada intensidad, entre moderadas y fuertes. Estas se dieron en la **Amazonía** y en la zona centro-sur, en la Sierra.
 
-Por ello, se pronostican l**luvias de diversa intensidad, tormentas eléctricas y ráfagas de viento**, que afectarán principalmente a las regiones **Amazónica, Sierra y el norte del Litoral.** 
+Lluvias y cortes de luz
+-----------------------
 
-### Las condiciones más críticas se esperan el domingo 27 y lunes 28 de octubre.
+En las zonas de las hidroeléctricas, en particular en **Coca Codo Sinclair** y Paute, hubo lluvias moderadas. Las precipitaciones se demorarán otras 12 horas en descargar e irán disminuyendo en los próximos días.
 
-**Amazonía, Sierra y Litoral bajo amenaza**
-
-El mal tiempo se concentrará en la:
-
-* **Amazonía:** Especial afectación en Sucumbíos, Orellana, Napo y Pastaza.
-* **Litoral:** Esmeraldas y Santo Domingo de los Tsáchilas tendrán los mayores niveles de riesgo.
-* **Sierra:** Provincias como Carchi, Imbabura, Pichincha, Cotopaxi y Tungurahua estarán bajo amenaza alta, con posibilidad de granizo en ciertas zonas.
-
-Según las previsiones, las **lluvias intensas, granizo y ráfagas de viento** impactarán la Amazonía, Sierra y Litoral.
-
-Los impactos y riesgos para la población por las lluvias
---------------------------------------------------------
-
-**Las autoridades advierten sobre**:
-
-**Inundaciones** en viviendas, comercios y carreteras.
-
-**Deslizamientos** de tierra y niebla densa que afectarán las vías.
-
-**Desbordamientos** de ríos en áreas vulnerables como Sucumbíos, Orellana y Pastaza.
-
-**Riesgos eléctricos:** Se recomienda no refugiarse bajo árboles ni manipular herramientas metálicas durante las tormentas.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) 55 | Entre el 27 y el 30 de octubre; se prevé precipitaciones de variable intensidad con tormentas en la región Amazónica, zonas de estribación de cordillera oriental y norte-interior del Litoral 🌦️🌧️⛈️  
-> Mayor Información 👇 [pic.twitter.com/X4NBKXckGy](https://t.co/X4NBKXckGy)
+> Monitoreo satelital 🛰️| Se confirman las lluvias de variada intensidad en Amazonía y Sierra de Ecuador  
+> En imágenes se observan las zonas de mayor intensidad de lluvias con tormenta (rojo – negro)  
+> Estas precipitaciones continuarán las siguientes horas.  
+> Previsto en Advertencia#55👇 [https://t.co/cqVr0CtV6y](https://t.co/cqVr0CtV6y) [pic.twitter.com/OhgTIbne9t](https://t.co/OhgTIbne9t)
 > 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 26, 2024](https://twitter.com/inamhi_ec/status/1850326241884156240?ref_src=twsrc%5Etfw)
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 28, 2024](https://twitter.com/inamhi_ec/status/1850863524718723453?ref_src=twsrc%5Etfw)
 
-Recomendaciones para la seguridad de las personas por las lluvias
------------------------------------------------------------------
+El especialista indicó que se espera que las precipitaciones contribuyan en la generación **eléctrica**, como ocurrió esta mañana en **Coca Codo Sinclair** y que permitió reducir las horas de los cortes de luz.
 
-La **Secretaría de Gestión de Riesgos** ha emitido las siguientes recomendaciones:
+Sin embargo, fue claro en que las lluvias de estos días no serán suficientes. Se necesitarán períodos prolongados.
 
-* **Evacuar** de inmediato si las autoridades lo indican
-* **Estar atento** a los boletines oficiales y seguir las instrucciones de los servicios de emergencia.
-* **Tomar precauciones** ante posibles cortes de energía y afectaciones en carreteras por acumulación de agua y deslizamientos.
+Para el fin de semana del feriado, en la zona centro-norte, como **Pichincha, Imbabura y Carchi**, se esperan lluvias.
 
-Este fenómeno es una clara advertencia para la población ecuatoriana, que deberá mantenerse alerta ante posibles emergencias durante estos días.
+En la Sierra y Amazonía
+-----------------------
 
-Los organismos de control y emergencia estarán monitoreando la situación para tomar acciones inmediatas y proteger la seguridad de los ciudadanos, se informó en el boletín de la **alerta meteorológica del Inamhi**[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
+Para la Sierra-centro, centro-sur y la **Amazonía**, este lunes, el pronóstico es un cielo nublado con lluvias y lloviznas.
+
+> [#PronósticoCuencaRíoPastazaMorona](https://twitter.com/hashtag/Pron%C3%B3sticoCuencaR%C3%ADoPastazaMorona?src=hash&ref_src=twsrc%5Etfw) para la Sierra Centro Amazonía Centro Sur del país para el lunes 28 de octubre de 2024. Cielo nublado con lluvias y lloviznas🌧☔️  
+> Indice de Radiación UV Bajo 😶‍🌫️.  
+> ⚠️Advertencia Nº 55 Activa [pic.twitter.com/Fok3Emn7sS](https://t.co/Fok3Emn7sS)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 28, 2024](https://twitter.com/inamhi_ec/status/1850913240047354118?ref_src=twsrc%5Etfw)
+
+En Loja
+-------
+
+El **Inamhi**, a su vez, informó que el pronóstico para la zona sur del país: El Oro, Cañar, Azuay, Loja y Zamora Chinchipe. Se esperan lloviznas en la mañana y tarde.
+
+> INAMHI // Pronóstico para la zona sur del país: [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw), [#Cañar](https://twitter.com/hashtag/Ca%C3%B1ar?src=hash&ref_src=twsrc%5Etfw), [#Azuay](https://twitter.com/hashtag/Azuay?src=hash&ref_src=twsrc%5Etfw), [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw), [#ZamoraChinchipe](https://twitter.com/hashtag/ZamoraChinchipe?src=hash&ref_src=twsrc%5Etfw), correspondiente al lunes 28 y la madrugada del martes 29 de octubre de 2024. [@Riesgos\_Ec](https://twitter.com/Riesgos_Ec?ref_src=twsrc%5Etfw) [@ECU911\_](https://twitter.com/ECU911_?ref_src=twsrc%5Etfw) [pic.twitter.com/G0NsB1CPSd](https://t.co/G0NsB1CPSd)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 28, 2024](https://twitter.com/inamhi_ec/status/1850929564634984860?ref_src=twsrc%5Etfw)
+
+Vías habilitadas y con problemas
+--------------------------------
+
+Las lluvias también llegaron con complicaciones en la movilidad. Ese fue el caso de la vía Baños-Puyo. El **Servicio Integrado ECU 911** dio el reporte del estado de las vías hasta las 11:15.
+
+* **Vía Coca-Tena-Y de Narupa:** habilitada
+* **San Luis-túneles de la Hidroeléctrica Coca Codo Sinclair:** habilitada
+* **Y de Narupa-Loreto:** habilitada
+* **Y de Narupa-Y de Baeza:** habilitada
+* **Y de Baeza-El Reventador:** parcialmente habilitada de 19:00 a 05:00, se restringe la circulación vehicular mayor a tres ejes en la vía Estatal E45
+* **Vía Ahuano-Chontapunta:** habilitada
+* **Vía Chontapunta-Coca:** habilitada
+* **Tena-Baeza:** parcialmente habilitada, con tránsito controlado en el sector de la Quebrada de Huscahuaico por deslizamiento
+* **Tena-Loreto:** habilitada
+* **Y de Narupa-Archidona:** habilitada
+* **Tena-Puyo:** habilitada
+* **Vía Puerto Napo-Ahuano:** habilitada
+* **Joya de los Sachas-Lago Agrio:** habilitada
+* **Coca-Joya de los Sachas:** habilitada variante provisional en el kilómetro 15, pasando el sector de Guayusa, debido a la pérdida de la vía por erosión en el río Coca.
+* **Coca-Loreto:** habilitada
+* **Coca-Dayuma:** habilitada
+
+Coca Codo Sinclair entregó el 54% de electricidad este 28 de octubre
+====================================================================
+
+El aumento de lluvias incrementó el caudal del río Coca y permitió reducir los cortes de luz programados en Ecuador para el lunes.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Coca Codo Sinclair es la central hidroeléctrica más grande del país, con 1 500 MW de potencia instalada.](https://www.elcomercio.com/wp-content/uploads/2024/10/Coca-codo-28012024.jpg)
+
+El caudal del río Coca, que alimenta la hidroeléctrica **Coca Codo Sinclair**, en el límite provincial de **Napo y Sucumbíos**, mejoró este 28 de octubre de 2024 y hubo más **electricidad.**
+
+El aumento de la producción de **electricidad** se debe a la presencia de **lluvias** intensas en la zona. Por esta razón, los **cortes de luz** se modificaron durante la mañana de este lunes[.](https://es.wikipedia.org/wiki/Coca_Codo_Sinclair "https://es.wikipedia.org/wiki/Coca_Codo_Sinclair")
+
+### Más noticias
+
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+
+La central hidroeléctrica informó que debido al incremento de volumen de agua en el río Coca, los cortes programados para este lunes se reducirán a escala nacional, “mientras el caudal del afluente lo permita”.
+
+“Conforme el caudal hacia la central hidroeléctrica evolucione, personal técnico del **Operador Nacional de Electricidad** (**Cenace)** evaluará la situación con el fin de informar oportunamente”.
+
+> 📍COMUNICADO | El Operador Nacional de Electricidad (CENACE) informa ⬇️ [pic.twitter.com/w3OzCVksIb](https://t.co/w3OzCVksIb)
+> 
+> — CENACE (@OperadorCenace) [October 28, 2024](https://twitter.com/OperadorCenace/status/1850894701705969992?ref_src=twsrc%5Etfw)
+
+Operación de Coca Codo Sinclair
+-------------------------------
+
+Para la semana del lunes 28 de octubre al domingo 3 de noviembre de 2024, se programaron cortes de luz de entre 10 a 14 horas diarias en todo el país. Sin embargo, este lunes se redujeron unas horas durante la mañana.
+
+Según el reporte en tiempo real del Cenace, la central **Coca Codo Sinclair** entregó un promedio de 681 megavatios (MW) entre las 00:00 y las 10:00 de este 28 de octubre de 2024. Esto es el doble de energía que estaba entregando la central la semana pasada.
+
+El reporte también señala que **Coca Codo** está entregando el 54% de la energía que el Ecuador que consume al momento.
+
+Coca Codo Sinclair es la hidroeléctrica más grande del país, con una capacidad instalada de 1 500 megavatios (MW).
+
+Esta central es de pasada, debido a que no tiene un **gran reservorio de agua**, y produce energía de acuerdo con el caudal del río Coca, que alimenta a esta hidroeléctrica.
+
+Según el Instituto Nacional de Meteorología e Hidrología **(Inamhi)**, las lluvias del 26 y 27 de octubre se concentraron en cuatro provincias. Estas son Sucumbíos, Orellana, Pastaza y Morona Santiago.
+
+Está previsto que las lluvias fuertes y tormentas eléctricas continúen hasta el miércoles 30 de octubre de 2024.  
+
+Al menos seis heridos deja el colapso de juego mecánico, en Daule
+=================================================================
+
+El parque de diversiones en La Aurora fue clausurado tras el colapso de un juego mecánico la noche del domingo 27 de octubre.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![La noche del domingo 27 de octubre de 2024, un incidente se registró en un parque de diversiones, en Daule.](https://www.elcomercio.com/wp-content/uploads/2024/10/Daule.jpg)
+
+La noche del domingo 27 de octubre, un **incidente se produjo en un juego mecánico** de un parque de diversiones en La Aurora, en Daule.
+
+### Más noticias
+
+* [Vía Baños-Puyo se cierra por deslizamientos de tierra](https://www.elcomercio.com/actualidad/ecuador/via-banos-puyo-se-cierra-por-deslizamientos-de-tierra.html "Vía Baños-Puyo se cierra por deslizamientos de tierra")
+* [Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-parcialmente-este-lunes-28-de-octubre.html "Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre")
+* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
+
+El incidente
+------------
+
+El servicio de **emergencias ECU911** recibió una llamada de emergencia a las 20:06 del domingo 27 de octubre de 2024 que reportaba un incidente en un parque de diversiones.
+
+Desde el ECU911 Samborondón s**e coordinó la atención a la emergencia** con unidades del Ministerio de Salud Pública, Cuerpo de Bomberos de Daule, Policía Nacional. Además, asistieron el Cuerpo de Bomberos Samborondón y Comisión de Tránsito del Ecuador.
+
+Según la información proporcionada por los organismos de rescate, **el número de heridos** registrados ascendió a seis personas.
+
+Las personas afectadas f**ueron trasladadas** a distintas casas de salud para que recibieran atención médica adecuada.
+
+Lo que se sabe
+--------------
+
+En redes sociales se difundieron **varias fotos y videos en el parque de diversiones** para denunciar el incidente en la noche del domingo.
+
+En uno de los juegos mecánicos que funciona **como un péndulo**, una de las estructuras que sostiene una especie de canasta colapsó.
+
+Según los testigos del hecho, **varias personas habrían caído de la estructura.** En total, 10 personas resultaron afectadas; sin embargo, seis de ellas necesitaron atención médica.
+
+La ciudadanía pidió a los entes de control **supervisar y controlar el funcionamiento de estos negocios.** Sobre todo, verificar que los juegos mecánicos funcionen de manera adecuada para precautelar la seguridad de los usuarios.
+
+Además, la gente mostró su **indignación** ante esta situación, pues los usuarios fueron a buscar un momento de distracción y salieron heridos.
+
+Este **parque de diversiones** se encuentra instalado junto a un centro comercial muy grande en la zona de La Aurora, en el cantón Daule.
+
+Tras el suceso, la **Comisaría de Daule** acudió al sitio y **clausuró el [parque de diversiones](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa").**
+
+¿Dónde ver la ceremonia del Balón de Oro?
+=========================================
+
+Este lunes 28 de octubre, desde París, Francia, conoceremos al nuevo ganador del Balón de Oro.
+----------------------------------------------------------------------------------------------
+
+![Luka Modric ganador del Balón de Oro en la edición de 2018.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-30.jpg)
+
+A partir de las 14:45, hora Ecuador, comenzará la ceremonia del **Balón de Oro 2024**, donde se premiará al mejor jugador de la temporada 2023/24 en el Théâtre du Châtelet de París, en la que será la 68.ª edición de este prestigioso premio organizado por _France Football_.
+
+A solo horas del evento, ya han surgido sorpresas. Se ha informado que el **Real Madrid** no asistirá a la gala, pues fuentes cercanas a **Vinícius Júnior**, principal favorito al premio, indicaron que el brasileño no será el ganador.
+
+### Más noticias:
+
+* [Vinícius Júnior no ganará el Balón de Oro 2024](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-ganara-el-balon-de-oro-2024.html "Vinícius Júnior no ganará el Balón de Oro 2024")
+* [¿A qué hora se inicia la ceremonia del Balón de Oro?](https://www.elcomercio.com/deportes/futbol/balon-oro-ceremonia-horario-inicia-futbol.html "¿A qué hora se inicia la ceremonia del Balón de Oro?")
+* [Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior](https://www.elcomercio.com/deportes/futbol/carlo-ancelotti-pide-el-balon-de-oro-para-vinicius-junior.html "Carlo Ancelotti pide el Balón de Oro para Vinícius Júnior")
+
+Tras este giro, el nuevo favorito para llevarse el galardón es **Rodri Hernández**, quien tuvo una excelente temporada con el Manchester City y la selección de España.
+
+¿Dónde ver la ceremonia del Balón de Oro?
+-----------------------------------------
+
+La ceremonia oficial comenzará a las 20:45 (hora de París), es decir, a las 14:45 en Ecuador. A esa hora, dará inicio el evento y progresivamente se entregarán los premios, culminando con el anuncio del ganador del **Balón de Oro.**
+
+Sin embargo, desde las 11:30 iniciará la previa, en la que se revelará el ranking de los candidatos desde los últimos puestos hasta los tres finalistas.
+
+La **alfombra roja comenzará a las 12:50**, donde muchos de los futbolistas nominados en categorías masculina y femenina, junto a los candidatos a premios de juveniles, arqueros y entrenadores, desfilarán antes del inicio oficial.
+
+**Podrás ver la ceremonia** en los canales de ESPN a través de cualquier cableoperadora en el país y mediante su plataforma de _streaming_.
+
+¿Cómo se elige al ganador del Balón de Oro?
+-------------------------------------------
+
+La selección del **Balón de Oro es un proceso detallado y riguroso**. Un jurado compuesto por periodistas de los 100 países mejor clasificados en el ranking FIFA es responsable de la votación. Cada periodista elige cinco candidatos, otorgando puntos de mayor a menor según su orden en la lista.
+
+Al finalizar el conteo, el jugador con la mayor cantidad de puntos es coronado como el ganador del Balón de Oro.
