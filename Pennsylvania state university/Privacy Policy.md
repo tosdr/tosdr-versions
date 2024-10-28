@@ -305,8 +305,10 @@ _Last updated: September 2019_
 
 [Nittany Lion Shield Penn State MarkPenn State Word Mark](https://www.psu.edu/)
 
-The Pennsylvania State University  
-201 Old Main  
+The Pennsylvania State University
+
+201 Old Main
+
 University Park, PA 16802
 
 * Phone: 
