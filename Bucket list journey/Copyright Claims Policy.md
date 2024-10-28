@@ -15,9 +15,7 @@
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Pinterest](https://www.pinterest.com/bucketlistjrny/)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='360'%20height='56'%20viewBox='0%200%20360%2056'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
 
 [](#)
 
@@ -70,9 +68,7 @@ Menu
 
 [](#)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='529'%20height='80'%20viewBox='0%200%20529%2080'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
 
 Menu
 
@@ -190,9 +186,7 @@ Name Email Website
 
 Δ
 
-[![Bucket List Boss Annette White](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='1200'%20viewBox='0%200%20900%201200'%3E%3C/svg%3E)
-
-![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
+[![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
 ### Hey! I'm Annette.
 
@@ -206,11 +200,7 @@ Are you ready to start facing your fear and living your bucket list?
 **JOIN US TO GET 2,000 BUCKET LIST IDEAS FREE**
 -----------------------------------------------
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
-
-![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
 
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
@@ -239,25 +229,9 @@ Jump right in and you will get your printable ideas by email:
   
   
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
 [If you’re heading to the #NorthernCalifornia t ![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
-(💫 SAVE for planning your trip to Northern #California💫)
-SEBASTOPOL, CALIFORNIA RESTAURANTS
-1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
-2️⃣ @khom_loi_sonoma 🌶️ Spicy Thai eats with local Sonoma ingredients. Don’t skip the drunken noodles, it was my favorite thing we ate! 
-3️⃣ @goldfinch.sebastopol 🍤 California bistro with seasonal dishes and ballpark fries you’ll crave forever. If you’re a seafood lover, do yourself a favor and order the halibut ceviche!
-4️⃣ @handline.sebastopol 🌮 Retro vibes with fish tacos and dreamy soft-serve ice cream. Best enjoyed on the patio! 
-5️⃣ @fernbar.sebastopol 🍹 Cocktails that wow, plus a fried chicken sandwich and mushroom umami bomb you’ll drool over for days. 
-6️⃣ @thefarmersxwife 🥪 Their tuna melt with chips *inside* will change your life—trust me.  Plus, the Farm Market Salad is loaded with fresh ingredients.
-7️⃣ @piala.winebar 🥟 Georgian comfort food, including cheesy khachapuri, perfect for a cozy meal. 
-8️⃣ @oyster_sebastopol🦪 Fresh oysters, Oyster Po’Boys, baked oysters and lots of other yummy fish. 
-@visitsonoma @visitcalifornia
-#Sebastopol #sebastopolCalifornia #california #sonomacounty #northerncalifornia #BucketListAdventures #travelbucketlist #bucketlist #sonomacountyfood](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
 (💫 SAVE for planning your trip to Northern #California💫)
 SEBASTOPOL, CALIFORNIA RESTAURANTS
 1️⃣ @ramengaijin 🍜 Ramen bowls, donburi, and crispy kara-age to die for! Sit at the counter to catch all the kitchen action. 
@@ -283,44 +257,13 @@ SEBASTOPOL, CALIFORNIA RESTAURANTS
 8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
 9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
 Thanks for tagging along to Point Reyes 😊 
-@pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🚗✨ Here’s my one-day bucket list itinerary for POINT REYES, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Have coffee & pastries @brickmaidenbreads ☕️ All their pastries look yummy, but I loved the ginger scone. We also grabbed a loaf of seeded levain for the road 😋 
-2️⃣ Make a quick stop at the Inverness shipwreck 🚢  The old S.S. Point Reyes may be weathered, but it’s got character! 
-3️⃣ Stop at the Cypress Tree Tunnel. This spot is Instagram gold! No driving allowed, but it’s totally worth the stop for that perfect photo under the leafy canopy. 
-4️⃣ Hike the stairs to the #pointreyeslighthouse —313 stairs down…and yep, 313 back up! Pro tip: check the weather (fog-free days are a win). If it’s closed, the Chimney Rock hike is a great alternative with epic views! 
-5️⃣ Explore downtown Point Reyes Station. Tiny town, BIG charm! Don’t miss Cowgirl Barn for cheeses and picnic goodies, Toby’s Feed Barn for everything from jewelry to chocolate, plus @westmarinwoolshed @captainokodesign and @Vita Collage for home goods. 
-6️⃣ Do a cheese tasting at @pointreyescheese 🧀 Sit-down tastings go until September, but you can always stop by their shop for samples. If cheese for lunch isn’t calling your name, head to @thefarmersxwife inside the Cowgirl Barn. Get the tuna melt with potato chips ON it—thank me later. 😉 
-7️⃣ Do a Mead Tasting at @heidrunmeadery 🍯 Pick a flight of four meads or just enjoy a glass. If you’re there on a Saturday, tours are available too! 
-8️⃣ Stop @little_wing_farm Veggie & Flower Stand 🌶️ It’s an honor-system farm stand with the prettiest flowers and freshest veggies. Cash only—so come prepared! (The shishitos are 💯.) 
-9️⃣ Eat dinner @cafereyes_94956 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area. We ordered the Miwok pizza and a fresh mozzarella salad—perfect end to a perfect day! 
-Thanks for tagging along to Point Reyes 😊 
 @pointreyesnps ##pointreyeslighthouse #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia  #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBJgZzqPxVw/) 
 
 [The average traveler has seen 3 of these European ![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
 Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
-Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
 #bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA_Owu-vy0S/) 
 
 [If you’re heading to the #NorthernCalifornia coa ![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
-⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
-Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
-1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
-2️⃣ Spud Point Crab Company - The clam chowder here has won awards for a reason (soooo good!). Oh, and the crab sandwich? It’s LOADED with 1/4 pound of crab. 🦞 Just be prepared to wait—there’s always a line, but it’s worth it! 
-3️⃣ @rockeroysterfellerslucaswharf - Southern comfort meets seafood heaven. Their oysters Rockefeller are mainly what people come for, but their clam chowder was one of my favs! And if you’re lucky, you might just spot some seals while you dine 🦭  
-4️⃣ The Birds Cafe - Part seafood joint, part coffee shop, and part gift shop (yes, adorable). Their calamari totally won me over, and their fish & chips is an absolute must-try! Casual but perfect for a bite with a view. 🎣 
-5️⃣ Gourmet Au Bay - Seafood and wine with a view? Yes, please! Their wood-fired smoke clam pizza and crab cakes are 🔥. This place has more than seafood, but trust me, the seafood is where it’s at. 🍷 
-6️⃣ Drakes Sonoma Coast - Farm-to-table goodness with serious coastal vibes. It’s at @lodgeatbodegabay (which was just voted #1 hotel in the WORLD by @condenast!) So yeah, this place is fancy by Bodega Bay standards, but the seafood lives up to it🍴 
-7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
-Which one do you want to try? 😋 Let me know in the comments! 👇
-@visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
 ⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
 Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
 1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
