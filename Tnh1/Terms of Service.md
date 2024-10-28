@@ -206,23 +206,7 @@ TRAGÉDIA
 
 Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro
 
-Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_205055b9c5.jpeg)
-
-no jacintinho
-
-no jacintinho
-
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió
-
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")[![Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/e/csm_Bandidos_roubam_carro_de_filhos_de_policial_militar_e_sao_presos_na_Jatiuca_-_foto_Reproducao_8194a5027a.jpg)
-
-foram monitorados
-
-foram monitorados
-
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista
-
-Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista](https://www.tnh1.com.br/noticia/nid/bandidos-roubam-carro-de-filhos-de-policial-militar-e-sao-presos-na-jatiuca-assista/ "Bandidos roubam carro de filhos de policial militar e são presos na Jatiúca; assista")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
+Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro](https://www.tnh1.com.br/noticia/nid/alagoano-que-morreu-em-grave-acidente-de-transito-foi-a-pernambuco-para-comprar-carro/ "Alagoano que morreu em grave acidente de trânsito foi a Pernambuco para comprar carro")[![Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/8/csm_acidente_alagoanos_pe_431efb229e.jpg)
 
 batida com caminhão
 
@@ -230,41 +214,57 @@ batida com caminhão
 
 Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE
 
-Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")
+Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE](https://www.tnh1.com.br/noticia/nid/video-dois-alagoanos-morrem-e-um-fica-ferido-em-acidente-de-transito-no-interior-de-pe/ "Vídeo: dois alagoanos morrem e um fica ferido em acidente de trânsito no interior de PE")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
 
-[![Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/4/csm_hemoal-garante-atendimento-integral-a-706-portadores-de-doenca-falciforme-em-alagoas_c291b45183.jpg)
+Cidade Universitária
 
-Referência
+Cidade Universitária
 
-Referência
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou
 
-Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
 
-Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas](https://www.tnh1.com.br/noticia/nid/hemoal-garante-atendimento-integral-a-706-portadores-de-doenca-falciforme-em-alagoas/ "Hemoal garante atendimento integral a 706 portadores de doença falciforme em Alagoas")[![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_3870d594c3.jpeg)
+data comemorativa
 
-Oportunidade
+data comemorativa
 
-Oportunidade
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
 
-Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")
 
-Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")[![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_f90326ff13.jpg)
+[!['Gato mais obeso do mundo' morre em clínica de reabilitação](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/c/csm_gato_obeso_morre_56ec5f7ccf.jpg)
 
-Domingo de lazer
+Farofa
 
-Domingo de lazer
+Farofa
 
-Três mulheres são resgatadas após afogamento na Praia do Francês
+'Gato mais obeso do mundo' morre em clínica de reabilitação
 
-Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")[![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_e51c10fb31.jpeg)
+'Gato mais obeso do mundo' morre em clínica de reabilitação](https://www.tnh1.com.br/noticia/nid/gato-mais-obeso-do-mundo-morre-em-clinica-de-reabilitacao/ "'Gato mais obeso do mundo' morre em clínica de reabilitação")[![Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_Concurso_-_foto_Agencia_Brasil_2e0ac82251.jpeg)
 
-Em Arapiraca
+Não tem barreira
 
-Em Arapiraca
+Não tem barreira
 
-Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas
+Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade
 
-Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://www.tnh1.com.br/noticia/nid/mulher-recebe-visita-de-pms-apos-denuncia-e-e-presa-por-trafico-de-drogas/ "Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas")
+Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://www.tnh1.com.br/noticia/nid/confira-10-dicas-para-estudar-e-passar-em-concurso-depois-dos-30-anos-de-idade/ "Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade")[![Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_renato_aragao_flor_cabeca_-_foto_reproducao_globo_d1b550431d.jpg)
+
+Durante apresentação
+
+Durante apresentação
+
+Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV
+
+Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://www.tnh1.com.br/noticia/nid/video-cantora-internacional-acerta-rosto-de-renato-aragao-com-flor-em-programa-de-tv/ "Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV")[![Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_cap_x_cru_-_expulsao_rafa_silva_-_foto_rep_twitter_brasileirao_5e43998ae9.jpg)
+
+assista ao lance
+
+assista ao lance
+
+Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo
+
+Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://www.tnh1.com.br/noticia/nid/veja-o-que-disse-ceo-do-cruzeiro-sobre-jogador-expulso-com-3-segundos-de-jogo/ "Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
