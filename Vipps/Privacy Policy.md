@@ -64,9 +64,9 @@ For å sende og motta penger til personer og bedrifter, både på nett og i app 
 
 * **Transaksjonsdata** (dato og klokkeslett, navn og telefonnummer til mottaker eller brukerstedsnavn, betalingskilde, mottakskonto, beløp, vare/tjeneste, tekst/meldinger)
 
-I tillegg vil mottaker se følgende informasjon:
+I tillegg vil motpart se følgende informasjon:
 
-* **Transaksjonsdata** (dato og klokkeslett, navn og telefonnummer til avsender, beløp, vare/tjeneste, tekst/meldinger)
+* **Transaksjonsdata** (dato og klokkeslett, navn, delvis maskert eller fult telefonnummer, beløp, vare/tjeneste, tekst/meldinger)
 
 ### Hva gir oss lov til dette?
 
@@ -342,6 +342,37 @@ For onboarding, administrasjon av kundeforhold, kommunikasjon og sikkerhet for V
 
 [Avtalen vi har mellom Vipps og ditt brukersted](https://www.vipps.no/vilkar/vilkar-bedrift/).
 
+### 1.14 Når du bruker Ønskeliste
+
+### **Hvorfor og hvordan behandler vi dine personopplysninger?**
+
+Når du oppretter en ønskeliste, behandler vi informasjonen du legger inn. Hvis du legger til en lenke, vil vi vise et bilde av innholdet, produktnavnet og lignende detaljer fra lenken for å gi deg en tydelig representasjon av ønskelisteelementet.
+
+* Ditt fornavn og profilbilde
+* Ønskelistedetaljer (listenavn, bilde og pris på ønske, beskrivelse av liste og ønske)
+
+**Husk**: Du kan dele ønskelisten din med hvilken som helst bruker, inkludert brukere i andre land. Vær obs på at brukere da kan dele lenken videre til andre. Brukere du har blokkert i appen kan ikke se dine ønskelister, selv med lenken. Vi fraråder brukere fra å legge inn sensitiv informasjon i ønskelisten.
+
+### **Hva gir oss lov til dette?**
+
+[Avtalen vi har med deg](https://www.vipps.no/vilkar/).
+
+**Anbefalinger og inspirasjonslister**
+--------------------------------------
+
+### **Hvorfor og hvordan behandler vi dine personopplysninger?**
+
+Ønskeliste er designet for å hjelpe deg med å finne innhold som passer dine interesser og behov. Vi gir derfor anbefalinger og inspirasjonslister i ønskelisteområdet. For det formålet segmenterer vi brukere basert på demografisk data, eller hvis du samtykker til det, kan vi profilere deg for å gi deg skreddersydde anbefalinger og tilbud. Se avsnitt 2.3 for å lære mer om hvordan enkel segmentering og personlig tilpasset markedsføring fungerer.
+
+**Husk:** Anbefalingene og inspirasjonslistene kan inkludere sponset innhold. Du kan lese våre vilkår for mer informasjon om sponsede lenker. Hvis du klikker på en sponset lenke og går videre til et tredjeparts-nettsted, kan det være ytterligere datainnsamling og sporing i forbindelse med ditt besøk og dine kjøp. Tredjeparts-datainnsamling og sporing vil, for enkelte nettsteder, bli utført av nettstedet du besøker og Adtractions affiliate-nettverk, i henhold til deres vilkår og betingelser som du kan [lese mer om her.](https://adtraction.com/about-us/privacy-policy)
+
+### **Hva gir oss lov til dette?**
+
+Enkel segmentering er basert på vår legitime interesse. 
+
+  
+Personlig tilpasset markedsføring er basert på ditt samtykke, og kan trekkes tilbake i appen -> Profil -> Personverninnstillinger.
+
 2\. Ellers i Vipps
 ------------------
 
@@ -417,54 +448,46 @@ Når du chatter med kundesenter på nettsiden eller i portalen vår, behandler V
 Hvorfor og hvordan behandler vi dine personopplysninger?
 --------------------------------------------------------
 
-### Enkelt tilpasset markedsføring i våre flater
+### Enkel segmentering
 
-Vipps gjennomfører enkel profilering for å tilpasse kommunikasjon til deg og for å sørge for å ekskludere sluttbrukere under 18 år fra våre markedsføringsaktiviteter. For dette, bruker vi følgende personopplysninger:
+Vi utfører enkel segmentering for å gi deg relevante anbefalinger og tilbud. For dette formålet behandler vi følgende data:
 
-* **Aldersgruppe** 
-* **Bosted**
-* **Aktivitetsnivå**
-
-**Hva gir oss lov til dette?**
-
-Vår berettiget interesse.
-
-### Avansert tilpasset markedsføring i våre flater
-
-Hvis du samtykker til det, tilpasser vi forslag og tilbud i appen slik at innholdet skal oppleves så relevant som mulig for deg. Vi baserer markedsføringsaktiviteter på gjennomført kundeanalyse og de opplysninger vi har om deg, og benytter profilering basert på: 
-
-* **Kontaktopplysninger**
-* **Hvilke tjenester du bruker hos oss**
-* **Bruksdata** (besøkte sider, tid og klikk i våre flater, søk, inn- og utlogginger)
-* **Bankkonto- og betalingskortopplysninger**
-* **Overordnet transaksjondata** (når og hvor du handler men ikke hva du kjøper og summen)
+* **Alder**
+* **Kjønn** (basert på ditt fødselsnummer)
+* **Geografisk område** (basert på postnummer)
+* **Bruk av våre produkter og tjenester** (f.eks. om du har visse produkter aktivert eller ikke, eller elementene du har lagt til i ønskelisten din)
 
 **Hva gir oss lov til dette?**
 
-Ditt samtykke.
+Vår berettiget interesse. Du har rett til å protestere mot dette, se avsnitt 3.6.
 
-### Markedsføring over e-post eller SMS
+### Personlig tilpasset markedsføring
 
-Hvis du samtykker til det, kan vi sende forslag og tilbud til deg over e-post eller SMS.
+Hvis du samtykker til det, vil vi tilpasse vår markedsføring på tvers av vår app og andre kanaler slik som e-post, SMS eller push-meldinger. Formålet er å gi deg de mest relevante og skreddersydde tilbudene, anbefalingene og rabattene fra oss og tredjeparter.
 
-* **Opplysninger om deg** (navn, telefonnummer, e-postadresse)
+  
+Personlig tilpasset markedsføring er basert på analyse av følgende informasjon om deg:
+
+* **Transaksjoner og kjøp** (alle transaksjoner inkludert kvitteringer og handlekurvdetaljer når tilgjengelig)
+* **Profildetaljer** (som ditt navn, adresse og kortene du har lagt til)
+* **Din bruk av våre produkter og tjenester** (som hvordan, når og hvor ofte du bruker dem)
+* **Din bruk av appen** (som besøkte sider i appen, appinnstillinger f.eks. språk osv.)
 
 **Hva gir oss lov til dette?**
 
 Ditt samtykke.
 
-### Markedsføringsaktiviteter utenfor våre flater
+### Markedsføring via e-post SMS eller push-meldinger
 
-Hvis du samtykker til det, ønsker vi å gi deg som kunde relevant forslag og tilbud utenfor våre flater, f.eks. på sosiale plattformer og nettsider. For å kunne få til dette må vi vite hvem du er når du bruker de aktuelle sosiale plattformer og nettsider. Det gjør vi ved å koble personopplysninger som du har gitt til oss, med informasjon du har gitt i den eksterne kanalen. Når koblingen er gjort, vil du kunne motta budskap og informasjon som vi antar er av interesse. I slike tilfeller overfører Vipps personopplysninger som er hashet til den enkelt tredjepart. Mer informasjon kan du finne på [Informasjonskapsler (vipps.no)](https://www.vipps.no/vilkar/informasjonskapsler/).
+Hvis du samtykker, kan vi sende deg forslag og tilbud via e-post, SMS eller push meldinger. For dette behandler vi:
 
-* **Opplysninger om deg** (navn, telefonnummer, e-postadresse)
-* **Bruksdata** (besøkte sider, tid og klikk i våre flater, søk, inn- og utlogginger)
+* **Kontaktinformasjon** (navn, telefonnummer og e-post)
 
 **Hva gir oss lov til dette?**
 
 Ditt samtykke.
 
-**Tips:** Du finner oversikt over dine samtykker på markedsføring i appen under Profil > Innstillinger. Du kan når som helst trekke tilbake dine samtykker på samme sted.
+**Husk:** Det er en oversikt over dine samtykker til markedsføringsaktiviteter i appen under Profil > Innstillinger. Du kan når som helst trekke tilbake dine samtykker. Vær obs på at det kan ta litt tid for oss å teknisk implementere tilbaketrekningen av samtykke avhengig av hyppigheten av systemoppdateringer.
 
 ### 2.4 For at vi skal teste og utvikle våre tjenester og lage statistikk
 
@@ -600,7 +623,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.20. Oppdatert 04.10.2024**
+**Versjon 1.21. Oppdatert 28.10.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
