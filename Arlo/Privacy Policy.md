@@ -1,4 +1,4 @@
-SITEWIDE SAVINGS: 15% off orders $250+ | 20% off orders $350+ | 25% off orders $450+
+Shop the [Halloween Sale](https://www.arlo.com/en-us/halloween-sale "Fall Sale") and get up to 50% off best-sellers!
 
 [](# "Menu")
 
@@ -49,7 +49,9 @@ Wireless Security Camera
 
 From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
 
-[![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit)
+[SALE
+
+![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit)
 
 Pro 5S 2K
 
@@ -93,7 +95,9 @@ $199.99](https://www.arlo.com/en-us/cameras/go/arlo-go-2-cameras.html)
 
 ### Doorbells
 
-[![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit)
+[SALE
+
+![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit)
 
 Video Doorbell 2K
 
@@ -123,7 +127,9 @@ Security Camera and Light
 
 From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
-[![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit)
+[SALE
+
+![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit)
 
 Wireless Floodlight
 
@@ -176,7 +182,9 @@ Wireless Security Camera
 
 From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
 
-[![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
+[SALE
+
+![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
 
 Pro 5S 2K
 
@@ -220,7 +228,9 @@ $199.99](https://www.arlo.com/en-us/cameras/go/arlo-go-2-cameras.html)
 
 [### Doorbells](https://www.arlo.com/en-us/doorbell "null")
 
-[![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
+[SALE
+
+![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
 
 Video Doorbell 2K
 
@@ -250,7 +260,9 @@ Security Camera and Light
 
 From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
-[![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
+[SALE
+
+![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
 
 Wireless Floodlight
 
@@ -320,7 +332,9 @@ Security Plans
             
             From $99.99](https://www.arlo.com/en-us/cameras/essential/arlo-essential-xl-v2.html)
             
-        * [![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
+        * [SALE
+            
+            ![Arlo Pro 5S 2K](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw82fec6bf/Products/HiRes%20Images/Pro%205/2023/Pro5_Pro4_White_Right.png?sw=840&sh=723&sm=fit "Arlo Pro 5S 2K")
             
             Pro 5S 2K
             
@@ -369,7 +383,9 @@ Security Plans
         
         ### Doorbells
         
-        * [![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
+        * [SALE
+            
+            ![Video Doorbell](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw9fe60f75/Products/HiRes%20Images/Essential%202/2023/arlo-doorbell-right.png?sw=840&sh=723&sm=fit "Video Doorbell")
             
             Video Doorbell 2K
             
@@ -404,7 +420,9 @@ Security Plans
             
             From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
             
-        * [![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
+        * [SALE
+            
+            ![Arlo Pro 3 Floodlight Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dwef65b31e/Products/HiRes%20Images/Pro%203%20Floodlight/2023/07%20-%20Pro%203%20Floodlight%20-%20Wireless%20Camera.png?sw=840&sh=723&sm=fit "Arlo Pro 3 Floodlight Camera")
             
             Wireless Floodlight
             
@@ -847,7 +865,7 @@ Copyright © 2024 Arlo. All rights reserved.
 
 * [Privacy Notice](https://www.arlo.com/en-us/privacy-policy.html "Privacy Notice")
 * [Terms & Conditions](https://www.arlo.com/en-us/terms-and-conditions.html "Terms & Conditions")
-* [Legal](https://www.arlo.com/en-us/gdpr.html "Legal")
+* [Legal](https://www.arlo.com/en-us/regulatory.html "Legal")
 * [Accessibility](https://www.arlo.com/en-us/commitment-accessibility.html "Accessibility")
 * [Your Privacy Choices](https://www.arlo.com/en-us/us-privacy-policy-form.html "Your Privacy Choices") ![cookie-settings](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dwde95dd55/privacy-center-icon.png "cookie-settings")
 * [Manage Cookie Settings](#)
