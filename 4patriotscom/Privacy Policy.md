@@ -152,19 +152,19 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Outdoor Filtration Cooler - 5-Gallon Water System
         
-        20 reviews](https://4patriots.com/products/patriot-pure-outdoor-filtration-cooler)
+        21 reviews](https://4patriots.com/products/patriot-pure-outdoor-filtration-cooler)
         
         [![ UWF-2407-PDP-LIFESTYLE-MINDY-COOKING-IAPMO-1400x1075](//shop.4patriots.com/cdn/shop/files/UWF-2407-PDP-ARRAY-NAN-F-IAPMO-1024x1024_360x.png?v=1722523076)
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        226 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        227 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//shop.4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        60 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        61 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
