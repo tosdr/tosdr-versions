@@ -37,7 +37,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: October 27, 2024 03:17 pm
+Updated: October 28, 2024 11:51 am
 
 * * *
 
@@ -567,6 +567,10 @@ The Service takes the rights to deduct from the payouts:
 * Any payments/transactions made by mistake.
 * Any pledges that were not deposited on the Service’s bank account for any reason.
 
+>  If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).  
+>   
+> If the disputes rate associated with your profile exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months. 
+
   
 If the payout to the content creator fails due to the reasons other than actions or inactions of the Service, we keep the rights to apply the following rules:
 
@@ -696,9 +700,7 @@ Content creators or integrators who use the SubscribeStar API to enable paid fun
 3. **Integration Flow Changes:** Any change affecting the initial integration flow must be submitted for a compliance check to SubscribeStar.
 4. **Responsibility of Platform Owners:** The owners of such websites or platforms are entirely and solely responsible for technical maintenance, ongoing development, customer support, and other activities directly related to the integration. Any failures to provide paid services or instances of platform downtime must be reported immediately to SubscribeStar via [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection).
 5. **Content Monitoring and Editing:** Content published on these integrated websites or platforms must be monitored and edited in accordance with the rules applied to content on SubscribeStar. 
-6. **Excessive Decline Rate:** If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).
-7. **Excessive Disputes Rate:** If the disputes rate exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months.
-8. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
+6. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
 
 * * *
 
@@ -852,7 +854,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: October 27, 2024 03:17 pm
+Updated: October 28, 2024 11:51 am
 
 * * *
 
@@ -1382,6 +1384,10 @@ The Service takes the rights to deduct from the payouts:
 * Any payments/transactions made by mistake.
 * Any pledges that were not deposited on the Service’s bank account for any reason.
 
+>  If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).  
+>   
+> If the disputes rate associated with your profile exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months. 
+
   
 If the payout to the content creator fails due to the reasons other than actions or inactions of the Service, we keep the rights to apply the following rules:
 
@@ -1511,9 +1517,7 @@ Content creators or integrators who use the SubscribeStar API to enable paid fun
 3. **Integration Flow Changes:** Any change affecting the initial integration flow must be submitted for a compliance check to SubscribeStar.
 4. **Responsibility of Platform Owners:** The owners of such websites or platforms are entirely and solely responsible for technical maintenance, ongoing development, customer support, and other activities directly related to the integration. Any failures to provide paid services or instances of platform downtime must be reported immediately to SubscribeStar via [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection).
 5. **Content Monitoring and Editing:** Content published on these integrated websites or platforms must be monitored and edited in accordance with the rules applied to content on SubscribeStar. 
-6. **Excessive Decline Rate:** If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).
-7. **Excessive Disputes Rate:** If the disputes rate exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months.
-8. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
+6. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
 
 * * *
 
@@ -1685,7 +1689,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: October 27, 2024 03:17 pm
+Updated: October 28, 2024 11:51 am
 
 * * *
 
@@ -2215,6 +2219,10 @@ The Service takes the rights to deduct from the payouts:
 * Any payments/transactions made by mistake.
 * Any pledges that were not deposited on the Service’s bank account for any reason.
 
+>  If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).  
+>   
+> If the disputes rate associated with your profile exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months. 
+
   
 If the payout to the content creator fails due to the reasons other than actions or inactions of the Service, we keep the rights to apply the following rules:
 
@@ -2344,9 +2352,7 @@ Content creators or integrators who use the SubscribeStar API to enable paid fun
 3. **Integration Flow Changes:** Any change affecting the initial integration flow must be submitted for a compliance check to SubscribeStar.
 4. **Responsibility of Platform Owners:** The owners of such websites or platforms are entirely and solely responsible for technical maintenance, ongoing development, customer support, and other activities directly related to the integration. Any failures to provide paid services or instances of platform downtime must be reported immediately to SubscribeStar via [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection).
 5. **Content Monitoring and Editing:** Content published on these integrated websites or platforms must be monitored and edited in accordance with the rules applied to content on SubscribeStar. 
-6. **Excessive Decline Rate:** If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).
-7. **Excessive Disputes Rate:** If the disputes rate exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months.
-8. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
+6. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
 
 * * *
 
@@ -2470,7 +2476,7 @@ Read more on Taxes here - https://www.subscribestar.com/taxes.
 SubscribeStar Terms of Service
 ==============================
 
-Updated: October 27, 2024 03:17 pm
+Updated: October 28, 2024 11:51 am
 
 * * *
 
@@ -3000,6 +3006,10 @@ The Service takes the rights to deduct from the payouts:
 * Any payments/transactions made by mistake.
 * Any pledges that were not deposited on the Service’s bank account for any reason.
 
+>  If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).  
+>   
+> If the disputes rate associated with your profile exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months. 
+
   
 If the payout to the content creator fails due to the reasons other than actions or inactions of the Service, we keep the rights to apply the following rules:
 
@@ -3129,9 +3139,7 @@ Content creators or integrators who use the SubscribeStar API to enable paid fun
 3. **Integration Flow Changes:** Any change affecting the initial integration flow must be submitted for a compliance check to SubscribeStar.
 4. **Responsibility of Platform Owners:** The owners of such websites or platforms are entirely and solely responsible for technical maintenance, ongoing development, customer support, and other activities directly related to the integration. Any failures to provide paid services or instances of platform downtime must be reported immediately to SubscribeStar via [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection).
 5. **Content Monitoring and Editing:** Content published on these integrated websites or platforms must be monitored and edited in accordance with the rules applied to content on SubscribeStar. 
-6. **Excessive Decline Rate:** If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).
-7. **Excessive Disputes Rate:** If the disputes rate exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months.
-8. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
+6. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
 
 * * *
 
@@ -3227,7 +3235,7 @@ Read more on Taxes here - https://www.subscribestar.com/taxes.
 SubscribeStar Terms of Service
 ==============================
 
-Updated: October 27, 2024 03:17 pm
+Updated: October 28, 2024 11:51 am
 
 * * *
 
@@ -3757,6 +3765,10 @@ The Service takes the rights to deduct from the payouts:
 * Any payments/transactions made by mistake.
 * Any pledges that were not deposited on the Service’s bank account for any reason.
 
+>  If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).  
+>   
+> If the disputes rate associated with your profile exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months. 
+
   
 If the payout to the content creator fails due to the reasons other than actions or inactions of the Service, we keep the rights to apply the following rules:
 
@@ -3886,9 +3898,7 @@ Content creators or integrators who use the SubscribeStar API to enable paid fun
 3. **Integration Flow Changes:** Any change affecting the initial integration flow must be submitted for a compliance check to SubscribeStar.
 4. **Responsibility of Platform Owners:** The owners of such websites or platforms are entirely and solely responsible for technical maintenance, ongoing development, customer support, and other activities directly related to the integration. Any failures to provide paid services or instances of platform downtime must be reported immediately to SubscribeStar via [\[email protected\]](https://www.subscribestar.com/cdn-cgi/l/email-protection).
 5. **Content Monitoring and Editing:** Content published on these integrated websites or platforms must be monitored and edited in accordance with the rules applied to content on SubscribeStar. 
-6. **Excessive Decline Rate:** If your account experiences an excessive payment decline rate, we reserve the right to recover compensation for any associated extra expenses. Typically, if the decline rate exceeds 12%, the associated transaction fees paid by SubscribeStar will be passed on to the platform integrator (profile owner).
-7. **Excessive Disputes Rate:** If the disputes rate exceeds 0.25%, we reserve the right to suspend the billing processing and hold the remaining balance up to 4 months.
-8. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
+6. **Rolling Reserve:** To minimize the risk of integration failures, service interruptions, or other potential issues, a 10% Rolling Reserve will be applied to your account. Funds reserved from transactions older than approximately three months will be released on an ongoing basis, provided your account remains in good standing (evaluating factors like service quality, availability, and low dispute rates). Regular audits will also be conducted to ensure that the reserved amount remains appropriate based on your processing activity.
 
 * * *
 
