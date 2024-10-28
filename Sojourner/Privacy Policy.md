@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7f4a02cb4963d469d9c5f8fce8b7ca8c
+550a238de4e2ea907cf7096033891cb0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![3 mm by 6 mm white pearls](https://www.sojourner.biz/images/cache/pearls/PE0191.200.jpg)](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
+[![15 mm by 10 mm German glass ovals](https://www.sojourner.biz/images/cache/glass/GL0318.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-german-glass-ovals.html "15 mm by 10 mm German glass ovals")
 
-#### [3 mm by 6 mm white pearls](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
+#### [15 mm by 10 mm German glass ovals](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-german-glass-ovals.html "15 mm by 10 mm German glass ovals")
 
-$12.00
+$4.00
 
 ### Best Sellers
 
