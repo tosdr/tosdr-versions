@@ -400,9 +400,9 @@ Newsletter
     
     ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-2019-Globee-Gold.png)
     
-* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtAQAAAAASYd83AAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBWQCAAE7AAEVTFJqAAAAAElFTkSuQmCC)
+* ![Great Place to Work Certified](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAABaAQAAAAAwPyNSAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNg+AAAAtAAAY5f+AcAAAAASUVORK5CYII=)
     
-    ![](https://reputation.com/wp-content/uploads/2021/01/reputation.com386logo-footerInc.5000_Honoree2019_Medallion.png)
+    ![Great Place to Work Certified](https://reputation.com/wp-content/uploads/2024/10/reputation-great-place-to-work-cert-2024-25.png)
     
 * ![Logo of the eHealthcare Leadership Awards, Winner 2019](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaAQAAAAAQ03yvAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIyCwQIABJIAASD4mxUAAAAASUVORK5CYII=)
     
