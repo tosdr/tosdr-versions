@@ -82,7 +82,7 @@ Follow Us
 Trending Topics:
 ----------------
 
-* [TheGrill 2024](https://www.thewrap.com/thegrill-2024-panels-videos/)
+* [Election Coverage](https://www.thewrap.com/category/2024-election/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
