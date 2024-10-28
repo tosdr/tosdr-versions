@@ -309,11 +309,9 @@ Glossary
 1. [Home](https://www.bose.com/home)
 2. Cookies Notice
 
-##### Notify me
+##### Notify me when available
 
-**We are sorry**
-
-The product you have selected is not available at the moment. Leave your email address and we will notify you as soon as it becomes available again.
+Enter your email address to receive an alert when this product is available.
 
 Please enter a valid email address.
 
