@@ -53,8 +53,6 @@ en LANGUAGE
 * [Svenska | Swedish](https://www.iasmembership.org/sv/about/privacy-notice.html)
     
 
-[IAS ANNIVERSARY](https://www.iasmembership.org/anniversary/)
-
 [![](/images/IAS-site-logo.svg)](https://www.iasmembership.org/)
 
 * [MAKE A DONATION](https://www.iasmembership.org/donation/)
