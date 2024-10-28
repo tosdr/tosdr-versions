@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. java
+1. hacking
     
-2. data science
+2. sql
     
-3. html
+3. French
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Computer Science
     
-    13,307 courses](https://www.classcentral.com/subject/web-development)
-2. [Cybersecurity
+    39,918 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
     
-    16,145 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Digital Marketing
+    12,571 courses](https://www.classcentral.com/subject/ai)
+3. [Cybersecurity
     
-    6,000 courses](https://www.classcentral.com/subject/digital-marketing)
+    16,160 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Critical Perspectives on Management
+1. [Organic Chemistry 1
     
-    IE Business School](https://www.classcentral.com/course/criticalmanagement-714)
-2. [Introduction to Computer Science and Programming Using Python
+    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
+2. [Terrorism and Counterterrorism: Comparing Theory and Practice
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/computer-science-massachusetts-institute-of-techn-1341)
-3. [Sustainable Tourism: Society & Environmental Aspects
+    Leiden University](https://www.classcentral.com/course/terrorism-701)
+3. [FinTech Foundations and Overview
     
-    Wageningen University](https://www.classcentral.com/course/sustainability-wageningen-university-research-sus-10356)
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fintech-11193)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
