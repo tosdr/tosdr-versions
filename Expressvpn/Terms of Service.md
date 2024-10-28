@@ -101,21 +101,21 @@ ExpressVPN may update these Terms from time to time without notice. Unless it is
 
 ExpressVPN is committed to your privacy and does not collect or log browsing history, traffic destination, data content, DNS queries, or user-linked IP addresses from Subscribers connected to our Services. During your registration, we may collect some personal information, such as your name, email address, and payment information. We only collect such information as is strictly necessary for the proper delivery of the Services.
 
-You can find detailed information related to data collection in the Privacy Policy. Please review the Privacy Policy in its entirety to get a clear understanding of how we handle your information, your rights, our rights, as well as our commitment to data protection.
+You can find detailed information related to data collection in the [Privacy Policy](https://www.expressvpn.com/privacy-policy) and the [Identity Defender Privacy Policy](https://www.expressvpn.com/privacy-policy-identity-defender). Please review each Privacy Policy in its entirety (if applicable to you) to get a clear understanding of how we handle your information, your rights, our rights, as well as our commitment to data protection.
 
 ### 4\. Subscriptions
 
 Our Services are available to you upon registering an account (the “**Account**”) on the Site or the Apps. A full list of subscription plans and pricing is available on the Site. ExpressVPN reserves the right to amend subscription fees or institute new fees at any time upon reasonable advance notice. Any changes to the pricing will not affect the Subscriber’s current subscription period and will become effective upon subscription renewal. Some subscription purchases and refunds are handled via third-party payment companies and app platforms (e.g., the Apple App Store). To find out more about these third parties and how they process your data, please refer to our Privacy Policy.
 
-When supported by your payment method, plans renew automatically by default at the completion of the billing term, until canceled. By default, the renewal term is for the same duration as the billing term for the original subscription. The subscription fee will be charged automatically to the payment method you last selected. If you would like to discontinue automatic renewal, visit My Account, select My Subscription, select Edit Subscription, and then follow the prompts to Turn Off Automatic Renewal; contact us by live chat at [www.expressvpn.com/support](http://www.expressvpn.com/support;); or email us at [support@expressvpn.com](https://cms.kape.com/p/). By default, auto-renewal is turned on when you use a payment method that supports auto-renewal (such as a credit card or PayPal), and turned off when you use a payment method that does not support auto-renewal (such as Bitcoin). When auto-renewal is off, you may continue to use the Services until the end of your current billing term, at which point your Services will be suspended until a manual renewal payment is made.
+When supported by your payment method, plans renew automatically by default at the completion of the billing term, until canceled. The subscription fee will be charged automatically to the payment method you last selected. If you would like to discontinue automatic renewal, visit My Account, select My Subscription, select Edit Subscription, and then follow the prompts to Turn Off Automatic Renewal; contact us by live chat at [www.expressvpn.com/support](https://www.expressvpn.com/support#open-chat;); or email us at [support@expressvpn.com](mailto:support@expressvpn.com). By default, auto-renewal is turned on when you use a payment method that supports auto-renewal (such as a credit card or PayPal), and turned off when you use a payment method that does not support auto-renewal (such as Bitcoin). When auto-renewal is off, you may continue to use the Services until the end of your current billing term, at which point your Services will be suspended until a manual renewal payment is made.
 
-Each paid subscription grants you one (1) license to use our VPN Service on up to eight (8) different devices at any given time. If you want to use the Services on more than eight (8) devices at a time, then you can either (i) use ExpressVPN on your router, (ii) purchase additional subscription plans, or (iii) purchase additional licenses through the “volume licensing” option. For more information on our “volume licensing” program, please contact Support at [support@expressvpn.com](https://cms.kape.com/p/).
+Each paid subscription grants you one (1) license to use our VPN Service on up to eight (8) different devices at any given time. If you want to use the Services on more than eight (8) devices at a time, then you can either (i) use ExpressVPN on your router, (ii) purchase additional subscription plans, or (iii) purchase additional licenses through the “volume licensing” option. For more information on our “volume licensing” program, please contact Support at [support@expressvpn.com](mailto:support@expressvpn.com).
 
-You understand that it is your responsibility to keep your Account information confidential and secure. You are solely responsible for all activity on your Account. If you ever discover or suspect that someone has accessed your Account without your authorization, or that any of your passwords have been compromised (i.e., Account password or ExpressVPN Keys primary password), you are advised to inform us immediately so that we can take appropriate action. Please refer to Section 5 for specific information about your ExpressVPN Keys password and recovery code.
+You understand that it is your responsibility to keep your Account information confidential and secure. You are solely responsible for all activity on your Account. If you ever discover or suspect that someone has accessed your Account without your authorization, or that any of your passwords have been compromised (i.e., Account password, Dedicated IP access code, or ExpressVPN Keys primary password), you are advised to inform us immediately so that we can take appropriate action. Please refer to Section 5 for specific information about your ExpressVPN Keys password and recovery code.
 
 ### 5\. ExpressVPN Keys and Dedicated IP
 
-_**ExpressVPN Keys**_
+#### ExpressVPN Keys
 
 By registering your Account and subscribing to the Services, you are automatically granted access to our proprietary in-built password manager (“**ExpressVPN Keys**”). You can use ExpressVPN Keys during any free trial period (if available to you), and regardless of the subscription plan you choose, if any.
 
@@ -125,7 +125,7 @@ You can continue to use ExpressVPN Keys even if you decide to stop using our VPN
 
 Each Account will be linked to a single ExpressVPN Keys, regardless of how many devices you choose to connect to our VPN Services.
 
-_**Dedicated IP (applicable to optional add-on service only)**_
+#### Dedicated IP (applicable to optional add-on service only)
 
 Dedicated IP is an optional add-on service that may be purchased at checkout.
 
@@ -144,17 +144,19 @@ If you lose your access code, you may be able to find it in the ExpressVPN app�
 
 In such cases, you will be notified through the ExpressVPN app and will be guided to contact our Support Team to reset the configuration and receive a new Dedicated IP address.
 
-### 6\. Refund Policy
+#### Identity Defender products
+
+Identity Defender products are optional add-on services that may be purchased at checkout only by U.S.-based users. The Identity Defender products are operating in iOS and Android alone. The Identity Defender products are offered in partnership with Array Plus Inc. By using these products, you acknowledge that the data you provide will be handled in accordance with the separate [Identity Defender Privacy Policy](https://www.expressvpn.com/privacy-policy-identity-defender). It is important to review this policy to understand how your information is collected, used, and protected. Your continued use of the Identity Defender products constitutes your acceptance of these terms.
+
+### 6\. Refund Policy (Excludes Apple App Store Purchases)
 
 You may cancel your Account for any reason within thirty (30) calendar days of your initial purchase and, upon request as described below, you will receive a full refund of the amount you paid (“**Money-Back Guarantee**”). The Money-Back Guarantee applies to new Subscribers only, and ExpressVPN reserves the right to deny a refund to a Subscriber who has previously received a refund per the policy. The Money-Back Guarantee does not apply to subscriptions purchased using redemption codes (e.g., gift cards).
 
-Refunds beyond the 30-day purchase window will be considered, at the sole discretion of ExpressVPN, if a Subscriber can demonstrate that the Services were not available or usable during the subscription period and that reasonable attempts were made to contact ExpressVPN to resolve the issue. In this case, ExpressVPN may provide the Subscriber with a pro-rata refund of Service fees paid during the period when the Service was not available or usable.
+Subscribers who signed up via an [in-app purchase](https://www.expressvpn.com/support/troubleshooting/ios-in-app-purchases/) through the Apple App Store (iTunes) do not have access to the ExpressVPN 30-Day Money-Back Guarantee. Instead, these Subscribers can request refunds through the Apple App Store, which are issued solely at the discretion of [Apple Support](https://support.apple.com/en-us/HT204084).
 
-Refunds are generally processed within seven (7) days, and are made to the original form of payment used for purchase. All refunds are sent in USD, and therefore the refund amount could differ from the amount originally paid in local currency or Bitcoin (e.g., due to foreign exchange and processing charges linked to your method of payment).
+Refunds are generally processed within seven (7) days, and are made to the original form of payment used for purchase. All refunds are sent in USD, and therefore the refund amount could differ from the amount originally paid in local currency or Bitcoin (e.g., due to foreign exchange rate changes, Bitcoin valuation changes, and/or processing charges linked to your method of payment).
 
-Any change to the original purchase, such as upgrading to an extended billing term or purchasing of additional licenses under the same Account, shall constitute a waiver of the Money-Back Guarantee option. To request a refund under the Money-Back Guarantee, contact us by live chat at [www.expressvpn.com/support](http://www.expressvpn.com/support;) or send an email with your request to [support@expressvpn.com](https://www.expressvpn.com/).
-
-Subscribers who signed up via an [in-app purchase](https://www.expressvpn.com/support/troubleshooting/ios-in-app-purchases/) through the Apple App Store (iTunes) do not have access to the ExpressVPN 30-Day Money-Back Guarantee. Instead, these Subscribers can request refunds through the Apple App Store, which are issued solely at the discretion of [Apple Support](https://support.apple.com/en-hk/HT204084).
+Any change to the original purchase, such as upgrading to an extended billing term or purchasing of additional licenses under the same Account, shall constitute a waiver of the Money-Back Guarantee option. To request a refund under the Money-Back Guarantee, contact us by live chat at [www.expressvpn.com/support](https://www.expressvpn.com/support#open-chat) or send an email with your request to [support@expressvpn.com](mailto:support@expressvpn.com).
 
 ### 7\. Acceptable Use Policy
 
@@ -199,11 +201,13 @@ ExpressVPN may from time to time provide access to or promotional offers for par
 
 ExpressVPN does not guarantee and is not responsible or liable for the behavior, features, or content of Partner Services or any transaction you may enter into with any provider of Partner Services, nor does ExpressVPN warrant the compatibility or continuing compatibility of the Services with Partner Services. Your use of Partner Services is entirely at your own risk and discretion. Accordingly, any issues arising out of or in connection with your use of Partner Services shall be resolved directly between you and the provider of the Partner Services.
 
-### 12\. Disclaimers
+### 12\. Disclaimers and Changes to Services
 
 We will strive to prevent interruptions to the Site or the Services. However, these are provided on an “as-is” and “as-available” basis, and we do not warrant, either expressly or by implication, the accuracy of any materials or information provided through the Site or the Services, or their suitability for any particular purpose. To the fullest extent permitted under the applicable laws, we expressly disclaim all warranties of any kind, whether express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, or non-infringement. We do not make any warranty that the Services will meet your requirements, or that they will be uninterrupted, timely, secure, or error-free, or that defects, if any, will be corrected. You acknowledge that you access the Site and/or the Services at your sole risk and discretion.
 
 VPN service coverage, speeds, server locations, and quality may vary. ExpressVPN will attempt to make the Services available at all times. However, the Services may be subject to unavailability for a variety of factors beyond our control, including but not limited to emergencies; third-party-service failures; transmission, equipment, or network problems or limitations, interference, or signal strength; and may be interrupted, refused, limited, or curtailed. We are not responsible for data, messages, or pages lost, not delivered, delayed, or misdirected because of interruptions or performance issues with the Services, communications services, or networks. We may impose usage or Service limits, suspend Services, terminate Accounts, or block certain kinds of usage at our sole discretion to protect ExpressVPN, Subscribers, or the Services. The accuracy and timeliness of data received are not guaranteed; delays or omissions may occur.
+
+We reserve the right to modify the Services, including by adding and removing features, as part of our ongoing commitment to update and improve the Services for all users. To the extent practicable, we will notify users in advance of any material changes to the Services.
 
 ExpressVPN reserves the right to investigate matters we consider to be violations of these Terms. We may, but are not obligated to, at our sole discretion and without notice, remove, block, filter, or restrict by any means any materials or information that we consider to be actual or potential violations of the restrictions set forth in these Terms, and any other activities that may subject ExpressVPN or our customers to liability. These rights include the right to terminate your Account or take any other legal measure provided by law. ExpressVPN disclaims any and all liability for any failure on our part to prevent such materials or information from being transmitted over the Services and/or into your computing device.
 
