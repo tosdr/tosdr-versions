@@ -32,7 +32,7 @@ Dive into unlimited everything CMP–no hidden fees, no limits, just freedom
 
 Sign up now
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/ketch-free-cookie-banner)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6697f8538fda39861386b5c0_arrow_right_blue.svg)](https://www.ketch.com/ketch-free-cookie-banner?utm_campaign=plg&utm_source=website&utm_medium=subnav)
 
 Solutions
 
