@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2181434067.jpg?ve=1&tl=1)
+
+ ![Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181434067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/brock-purdy-helps-49ers-bounce-back-30-24-victory-over-cowboys)
+
+### [Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://www.fox4news.com/sports/brock-purdy-helps-49ers-bounce-back-30-24-victory-over-cowboys)
+
+ [![One killed in Farmers Branch motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
+
+ ![One killed in Farmers Branch motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/farmers-branch-motorcycle-crash-luna-road)
+
+### [One killed in Farmers Branch motorcycle crash](https://www.fox4news.com/news/farmers-branch-motorcycle-crash-luna-road)
+
+ [![Family of 4, woman killed in wrong-way crash in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-fw-fatal-crash-nw-loop-8320-6a_00.00.08.40.jpg?ve=1&tl=1)
+
+ ![Family of 4, woman killed in wrong-way crash in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-fw-fatal-crash-nw-loop-8320-6a_00.00.08.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5-killed-wrong-way-crash-fort-worth)
+
+### [Family of 4, woman killed in wrong-way crash in Fort Worth](https://www.fox4news.com/news/5-killed-wrong-way-crash-fort-worth)
+
+ [![Fort Worth event looks to draw attention to dangers of fentanyl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102724-fentanyl-awareness-event-pkg-aj-jb_kdfwe4e1_00.01.29.38.jpg?ve=1&tl=1)
+
+ ![Fort Worth event looks to draw attention to dangers of fentanyl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102724-fentanyl-awareness-event-pkg-aj-jb_kdfwe4e1_00.01.29.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stomping-the-stigma-fort-worth)
+
+### [Fort Worth event looks to draw attention to dangers of fentanyl](https://www.fox4news.com/news/stomping-the-stigma-fort-worth)
+
  [![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2181412508.jpg?ve=1&tl=1)
 
  ![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181412508.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
 
 ### [Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
-
- [![McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-660695038.jpg?ve=1&tl=1)
-
- ![McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-660695038.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-quarter-pounder-returns-ecoli-outbreak)
-
-### [McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://www.fox4news.com/news/mcdonalds-quarter-pounder-returns-ecoli-outbreak)
-
- [![Trump hosts rally at MSG: Guest speakers, street closures, and more](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/trump-msg-rally-2.jpg?ve=1&tl=1)
-
- ![Trump hosts rally at MSG: Guest speakers, street closures, and more](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/592/333/trump-msg-rally-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-rally-msg-how-watch-street-closures-guests)
-
-### [Trump hosts rally at MSG: Guest speakers, street closures, and more](https://www.fox4news.com/news/trump-rally-msg-how-watch-street-closures-guests)
-
- [![Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/denton-drive-fire-kdfweme002_17_45_44_mpg_00.15.38.04.jpg?ve=1&tl=1)
-
- ![Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/denton-drive-fire-kdfweme002_17_45_44_mpg_00.15.38.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-smoke-tire-shop)
-
-### [Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://www.fox4news.com/news/dallas-smoke-tire-shop)
-
- [![Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-2159711478.jpg?ve=1&tl=1)
-
- ![Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-2159711478.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/giant-cheddar-cheese-theft-london-neals-yard-dairy)
-
-### [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://www.fox4news.com/news/giant-cheddar-cheese-theft-london-neals-yard-dairy)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
