@@ -16,9 +16,7 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -26,7 +24,7 @@ Previous
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/es500-hiw-poster.46b3f9b9.jpg)Play video
 
-Latest
+New
 
 It’s your hearing. Let’s make the most of it.
 ---------------------------------------------
@@ -85,7 +83,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3872 reviews)
+4.6 out of 5(3881 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -126,16 +124,13 @@ Your new hearing aids work right out of the box, whether you choose custom-progr
 
 With our **Premium Package**, our Audiology Team works with you remotely to improve your hearing.
 
-**Need more information?**  
-Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watch an explainer video, or to read the answers to the video's key questions.
-
 [Get started](https://www.listenlively.com/survey)
 
 #### Hearing aids for every budget & lifestyle
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3872 reviews)
+4.6 out of 5(3881 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -152,7 +147,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
 
-* Latest
+* New
     
     ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es500-home-bundle.3f699127.png)
     
@@ -275,7 +270,7 @@ Shop
 
 Why Jabra Enhance
 
-[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/how-it-works) [Customer reviews](https://www.listenlively.com/reviews)
+[Expert care & support](https://www.listenlively.com/hearing-care) [How it works](https://www.listenlively.com/#how_it_works) [Customer reviews](https://www.listenlively.com/reviews)
 
 Hearing resources
 
