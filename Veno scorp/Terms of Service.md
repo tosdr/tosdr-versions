@@ -2,20 +2,17 @@
 
      
 
- * Gaming Pcs
+ * All Gaming Pcs
     
-    * GAMING PCS
-        
-        * [All Gaming PCs](https://veno-scorp.co.uk/collections/all-gaming-pcs)
-        * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
-        * [Gaming Pc Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
-        * [White Gaming Pcs](https://veno-scorp.co.uk/collections/white-gaming-pcs)
-        * [Corsair Gaming PCs](https://veno-scorp.co.uk/collections/corsair-gaming-pcs)
-        * [Budget Gaming PCs](https://veno-scorp.co.uk/collections/budget-gaming-pc)
-        * [RTX Gaming PCs](https://veno-scorp.co.uk/collections/rtx-gaming-pcs)
-        * [PC by Game](https://veno-scorp.co.uk/pages/pc-by-game)
-        * [Build Your Dream PC](javascript:;)
-        
+    * [All Gaming PCs](https://veno-scorp.co.uk/collections/all-gaming-pcs)
+    * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
+    * [Gaming Pc Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
+    * [White Gaming Pcs](https://veno-scorp.co.uk/collections/white-gaming-pcs)
+    * [Corsair Gaming PCs](https://veno-scorp.co.uk/collections/corsair-gaming-pcs)
+    * [Budget Gaming PCs](https://veno-scorp.co.uk/collections/budget-gaming-pc)
+    * [RTX Gaming PCs](https://veno-scorp.co.uk/collections/rtx-gaming-pcs)
+    * [PC by Game](https://veno-scorp.co.uk/pages/pc-by-game)
+    * [Build Your Dream PC](#model)
     * SHOP BY BUDGET
         
         * [Gaming PCs Under £499](https://veno-scorp.co.uk/collections/gaming-pcs-under-499)
@@ -41,18 +38,17 @@
 
 [account](https://veno-scorp.co.uk/account/login)[basket](https://veno-scorp.co.uk/cart)
 
-* Gaming Pcs
+* All Gaming Pcs
     
-    * [GAMING PCS](#)
-        * [All Gaming PCs](https://veno-scorp.co.uk/collections/all-gaming-pcs)
-        * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
-        * [Gaming Pc Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
-        * [White Gaming Pcs](https://veno-scorp.co.uk/collections/white-gaming-pcs)
-        * [Corsair Gaming PCs](https://veno-scorp.co.uk/collections/corsair-gaming-pcs)
-        * [Budget Gaming PCs](https://veno-scorp.co.uk/collections/budget-gaming-pc)
-        * [RTX Gaming PCs](https://veno-scorp.co.uk/collections/rtx-gaming-pcs)
-        * [PC by Game](https://veno-scorp.co.uk/pages/pc-by-game)
-        * [Build Your Dream PC](javascript:;)
+    * [All Gaming PCs](https://veno-scorp.co.uk/collections/all-gaming-pcs)
+    * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
+    * [Gaming Pc Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
+    * [White Gaming Pcs](https://veno-scorp.co.uk/collections/white-gaming-pcs)
+    * [Corsair Gaming PCs](https://veno-scorp.co.uk/collections/corsair-gaming-pcs)
+    * [Budget Gaming PCs](https://veno-scorp.co.uk/collections/budget-gaming-pc)
+    * [RTX Gaming PCs](https://veno-scorp.co.uk/collections/rtx-gaming-pcs)
+    * [PC by Game](https://veno-scorp.co.uk/pages/pc-by-game)
+    * [Build Your Dream PC](#model)
     * [SHOP BY BUDGET](#)
         * [Gaming PCs Under £499](https://veno-scorp.co.uk/collections/gaming-pcs-under-499)
         * [Gaming PCs £500-£999](https://veno-scorp.co.uk/collections/gaming-pcs-500-to-999)
