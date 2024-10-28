@@ -59,11 +59,19 @@ When Fastly operates as a data controller (i.e., when we determine the manner, p
 
 **Data Privacy Framework Notice**
 
+Fastly complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Fastly has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  
+  
+Fastly has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  
+  
+If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
+
 If you are located in the EU, UK or Switzerland, you have the right to request access to the personal data that we hold about you and request that we correct, amend or delete your personal data if it is inaccurate or processed in violation of the Frameworks' principles. We will give you an opportunity to opt out where personal data we control about you is to be disclosed to an independent third party or used for a purpose that is materially different from those set out in this Privacy Policy. If you would like to exercise any of your rights, please contact us via the details provided below.
 
 In compliance with the Framework,  Fastly commits to resolve DPF principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the DPFs should first contact us by emailing abuse@fastly.com or via mail to: Fastly, Inc. 475 Brennan St #300, San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 45 days of receipt and verification of your identity.
 
 In addition Fastly commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to the EU DPA Panel, an alternative dispute resolution provider based in the European Union. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. The services of EU DPA Panel are provided at no cost to you.
+
+If your DFP complaint cannot be resolved through the above channels, you may invoke binding arbitration for residual claims not fully or partially resolved by other redress mechanisms. For more detailed information about binding arbitration, visit the Data Privacy Framework website, found [here](https://www.dataprivacyframework.gov/framework-article/G%E2%80%93Arbitration-Procedures).
 
 The Federal Trade Commission has jurisdiction over Fastly’s  compliance with the Frameworks.  We may be required to disclose personal information we receive under the Frameworks in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
