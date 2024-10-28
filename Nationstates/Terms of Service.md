@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [How cute is AN's national animal? (146)](https://forum.nationstates.net/viewtopic.php?t=556564&f=25&view=unread#unread ""How cute is AN's national animal?" (146 posts)")
-* [Payday F7 (IC) (110)](https://forum.nationstates.net/viewtopic.php?t=557608&f=25&view=unread#unread ""Payday F7 (IC)" (110 posts)")
-* [Based on the flag, what language(s) d… (11,840)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,840 posts)")
-* [Ukrainian War VII: Everything has a p… (7,934)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (7,934 posts)")
-* [How evil is AN based on its flag? III (9,353)](https://forum.nationstates.net/viewtopic.php?t=515034&f=25&view=unread#unread ""How evil is AN based on its flag? III" (9,353 posts)")
+* [Favourite baby animal? (26)](https://forum.nationstates.net/viewtopic.php?t=557567&f=20&view=unread#unread ""Favourite baby animal?" (26 posts)")
+* [Does Your Nation Support? (8,238)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,238 posts)")
+* [What is your relationship with AU? II (2,687)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,687 posts)")
+* [Favorite line from AN's Factbooks II (11,712)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (11,712 posts)")
+* [How Likely Is AN To Declare War On YN? (25)](https://forum.nationstates.net/viewtopic.php?t=557607&f=25&view=unread#unread ""How Likely Is AN To Declare War On YN?" (25 posts)")
 
 Advertisement
 
