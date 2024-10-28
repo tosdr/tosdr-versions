@@ -334,7 +334,7 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9233%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a7da95b4442cc2d0e83d81fdb073cb0d94dd85aa)](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+[![ ](https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/5957702c624c33209c1b6e63ac0e7bead973d20a)](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
 ### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
