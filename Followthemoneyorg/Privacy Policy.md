@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![WarrenBuffet](/assets/logos/WarrenBuffetGivingGraph.png)](https://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+[![Energy $$ in CO](/assets/Images/teasers/small/Energy-to-CO-2013-14.png)](http://www.followthemoney.org/research/blog/energy-dollars-in-denver/)
 
-Warren Buffet's preference for Republican candidates, 2005-2008.
+Energy Giving in Colorado, 2013-14.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
