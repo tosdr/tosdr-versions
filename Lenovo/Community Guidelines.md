@@ -480,25 +480,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -527,25 +532,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -574,25 +584,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -621,25 +636,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -668,25 +688,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -715,25 +740,30 @@ skip to main content
     
     Account
     
-    Sign in / Create AccountKeep track of your wishlist, orders, and My Lenovo rewards, all in one place        
+    ![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
+    
+    Sign in/Create Account
+    
+    Keep track of your wishlist, orders, and My Lenovo rewards, all in one place
     
     [![](https://p1-ofp.static.pub//fes/cms/2023/10/31/wspr7v2wvbcxcsebiav1ohcpwhdfz5941767.svg)
     
     My Account
     
-    Access your orders, subscriptions, saved carts, rewards balance, and profile](#)   [![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
+    Access your orders, subscriptions, saved carts, rewards balance, and profile](https://account.lenovo.com/us/en/account/home.html)[![](https://p3-ofp.static.pub//fes/cms/2023/10/31/ll4n7f29iznu4tdl8i4b43wfyitmo5763348.svg)
     
     Wishlist
     
-    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)   [![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
+    Create a wishlist of your favorite products](https://account.lenovo.com/us/en/account/wishlist/home)[![](https://p1-ofp.static.pub/fes/cms/2022/02/11/hsk128zkbplawpswj39kkilycso2qu518818.svg)
     
     Rewards
     
-    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)   [![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
+    Create an account to earn or view your rewards](https://account.lenovo.com/us/en/account/rewards/)[![](https://p3-ofp.static.pub/ShareResource/Icon-account-orders-24.svg)
     
     Orders
     
-    View & track your orders](https://account.lenovo.com/us/en/account/order/list)   [Product Registration
+    View & track your orders](https://account.lenovo.com/us/en/account/order/list)  
+    [Product Registration
     
     Register your product and/or update your warranty dates](https://support.lenovo.com/us/en/productregistration)
     
@@ -863,11 +893,11 @@ skip to main content
     * [Smart Office](https://www.lenovo.com/us/en/d/accessories/?sortBy=bestSelling&visibleDatas=1029%3AFor%2520Business) [Conference Cameras](https://www.lenovo.com/us/en/dc/accessories-and-software/webcams-and-video?visibleDatas=706%3ACameras%2CWebcam%2520Bundles%2CWebcams) [Presentation Remote Controllers](https://www.lenovo.com/us/en/dc/accessories-and-software/keyboards-and-mice?visibleDatas=706%3ARemote%2520Controllers) [Printers & Scanners](https://www.lenovo.com/us/en/dc/accessories-and-software/printers-and-scanners) [ThinkSmart Bar](https://www.lenovo.com/us/en/p/smart-devices/smart-office/thinksmart/thinksmart-bar/11sp1tssdbr) [Speakers](https://www.lenovo.com/us/en/dc/accessories-and-software/audio?visibleDatas=706%3ASpeakers) [ThinkReality Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) [Shop All ThinkSmart Office Devices](https://www.lenovo.com/us/en/c/smart-devices/smart-office/thinksmart/)
     * Smart Devices
         
-        [Smart Lighting](https://www.lenovo.com/us/en/d/accessories/philips-hue/) [VR headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets) [Smartwatches](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables?visibleDatas=706%3AWearable%20Accessories%2CWearables)
+        [Smart Lighting](https://www.lenovo.com/us/en/d/accessories/philips-hue/) [VR headsets](https://www.lenovo.com/us/en/dc/accessories-and-software/vr-headsets) [Smartwatches](https://www.lenovo.com/us/en/dc/accessories-and-software/wearables/wearables_wearables/)
     
 * [AI](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
     
-    * [Explore AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Lenovo Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Shop AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3ACopilot%252B%2520PC) [Lenovo AI Applications](https://www.lenovo.com/us/en/lenovo-ai-apps/)
+    * [Explore AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Lenovo Aura Edition](https://www.lenovo.com/us/en/lenovoauraedition/) [Lenovo AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [Business AI PCs](https://www.lenovo.com/us/en/business/ai-laptops/) [Shop AI PCs](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3ACopilot%252B%2520PC) [Lenovo AI Applications](https://www.lenovo.com/us/en/lenovo-ai-apps/)
     * AI PCs
         
         [Copilot+ PC](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC) [AI PC](https://www.lenovo.com/us/en/laptops/results/?visibleDatas=13084%3AAI%2520PC) [AI-Powered Gaming PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Powered%2520Gaming%2520PCs) [AI-Ready Workstations](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3AAI-Ready%2520Workstations) [View All AI PCs](https://www.lenovo.com/us/en/d/deals/laptops/?sortBy=Recommended&visibleDatas=13084%3ACopilot%252B%2520PC%2CAI%2520PC%2CAI-Powered%2520Gaming%2520PCs%2CAI-Ready%2520Workstations)
@@ -1175,6 +1205,6 @@ Please select a Country / Region
 
 Compare  ()
 
-removeAll _x_
+_x_
 
 Call
