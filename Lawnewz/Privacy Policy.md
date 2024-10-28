@@ -258,23 +258,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Jack Smith, on the left; Donald Trump, on the right.](https://lawandcrime.com/wp-content/uploads/2024/08/Smith-Trump-SI-432x243.jpg)](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
+1. [![Jack Smith, on the left; Donald Trump, on the right.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/Smith-Trump-SI-432x243.jpg)](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
     
     ### ['Nothing further': Jack Smith says his office has satisfied all of Trump's 'unfounded' discovery 'demands' in Jan. 6 case — except for those that rely on a trial date being set](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
     
-2. [![Jasmine Collum](https://lawandcrime.com/wp-content/uploads/2024/10/teacher-432x243.jpg)](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
+2. [![Jasmine Collum](https://am21.mediaite.com/lc/cnt/uploads/2024/10/teacher-432x243.jpg)](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
     
     ### [Day care teacher allegedly caught on video at work treating 3-month-old boy like 'rag doll' and 'aggressively' shaking baby bouncer until he went 'limp'](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
     
-3. [![Sarah Boone testimony](https://lawandcrime.com/wp-content/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
+3. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
     ### ['Last breath inside a suitcase': Florida woman zipped her boyfriend in a suitcase and killed him in game of 'hide and seek'](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
-4. [![Popular post image](https://lawandcrime.com/wp-content/uploads/2024/10/AP24068516225017-432x243.jpg)](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
+4. [![Popular post image](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24068516225017-432x243.jpg)](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
     
     ### ['Federal law requires voters to take timely steps to vote': Trump-appointed panel on Fifth Circuit Court of Appeals rules that ballots must be received by Election Day](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
     
-5. [![Main: Rebekah Massie speaking at Surprise, Arizona city council meeting just before her arrest (Surprise City Council). Inset: Massie being arrested over her public comments (Surprise Police Dept.).](https://lawandcrime.com/wp-content/uploads/2024/10/asdfafd-432x243.jpg)](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
+5. [![Main: Rebekah Massie speaking at Surprise, Arizona city council meeting just before her arrest (Surprise City Council). Inset: Massie being arrested over her public comments (Surprise Police Dept.).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/asdfafd-432x243.jpg)](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
     
     ### ['Objectively outrageous': Judge tosses criminal case against mom arrested for criticizing city official at public meeting](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
     
