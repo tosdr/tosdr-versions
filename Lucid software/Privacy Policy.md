@@ -127,6 +127,7 @@ Solutions
 * [Digital transformation](https://lucid.co/solutions/digital-transformation)
 * [Cloud migration](https://lucid.co/solutions/cloud-migration)
 * [New product development](https://lucid.co/solutions/product-development)
+* [Efficiency through AI](https://lucid.co/platform/ai)
 * [View more](https://lucid.co/solutions-hub)
 
 Resources
