@@ -28,6 +28,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240303)
 * Cricket
     
+* [Women's ODI
+    
+    29/10 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | NZL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250203)
 * [Women's BBL
     
     HOB won by 31 runs
@@ -38,6 +48,16 @@ FOX SCORES
     | SYDT | 110 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250104)
+* [Women's BBL
+    
+    29/10 18:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD6 | –   |
+    | ADE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250105)
 * NRL
     
 * [Women's PC
@@ -106,128 +126,28 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=594)
 * [MotoGP
     
-    Complete
+    1/11 13:45 AEST
     
     |     |
     | --- |
-    | Thailand GP |
+    | Malaysian GP |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=717)
+    Race Centre](https://www.foxsports.com.au/motorsport/moto-gp/race-centre?meetingid=713)
 * NFL
     
 * [NFL
     
-    Full Time
+    29/10 11:15 AEST
     
     |     |     |
     | --- | --- |
-    | SEA | 10  |
-    | BUF | 31  |
+    | PIT | –   |
+    | NYG | –   |
     
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250818)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LV  | 20  |
-    | KC  | 27  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250821)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAC | 26  |
-    | NO  | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250817)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 28  |
-    | CAR | 14  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250820)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WAS | 18  |
-    | CHI | 15  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250814)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SF  | 30  |
-    | DAL | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250822)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250823)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | IND | 114 |
-    | PHI | 118 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010070/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | POR | 125 |
-    | NO  | 103 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010074/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BKN | 115 |
-    | MIL | 102 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010072/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | OKC | 128 |
-    | ATL | 104 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011032/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GS  | 104 |
-    | LAC | 112 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010076/box-score)
 * [NBA
     
     29/10 10:00 AEST
@@ -342,12 +262,12 @@ FOX SCORES
     
 * [Women's Int
     
-    29/10 4:10 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | GERW | –   |
-    | AUSW | –   |
+    | GERW | 1   |
+    | AUSW | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240105)
 * Baseball
