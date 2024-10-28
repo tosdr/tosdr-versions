@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come check out what's behind the curtain.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this serene scene](https://www.fark.com/goto/13435844) ( [scontent-bos5-1.xx.fbcdn.net](https://www.fark.com/goto/13435844) ) » [(22 comments)](https://www.fark.com/comments/13435844/Photoshop-this-serene-scene) |
-| [Discussion](https://www.fark.com/discussion/) | [Now that the excess baggage has been unceremoniously dumped, it's time for Daryl and Carol to once again look for the fleeing Laurent. The villains have united for the penultimate episode of season 2. The Walking Dead: The Book of Carol 9PM ET on AMC](https://www.fark.com/goto/13442342) ( [cbr.com](https://www.fark.com/goto/13442342) ) » [(1 comment)](https://www.fark.com/comments/13442342/Now-that-excess-baggage-has-been-unceremoniously-dumped-its-time-for-Daryl-Carol-to-once-again-look-for-fleeing-Laurent-The-villains-have-united-for-penultimate-episode-of-season-2-The-Walking-Dead-The-Book-of-Carol-9PM-ET-on-AMC) |
-| [Sports](https://www.fark.com/sports/) | [Sunday Night Football is between the Dallas Cowboys and San Francisco 49ers. Will it be Dak Prescott winning this one for the Cowboys? Or will it be Brock Purdy and the 49ers? Kickoff for this one is at 8:20 PM ET on NBC. Will this one be a dandy?](https://www.fark.com/goto/13442254) ( [espn.com](https://www.fark.com/goto/13442254) ) » [(206 comments)](https://www.fark.com/comments/13442254/Sunday-Night-Football-is-between-Dallas-Cowboys-San-Francisco-49ers-Will-it-be-Dak-Prescott-winning-this-one-for-Cowboys-Or-will-it-be-Brock-Purdy-the-49ers-Kickoff-for-this-one-is-at-820-PM-ET-on-NBC-Will-this-one-be-a-dandy) |
-| [Business](https://www.fark.com/business/) | [Cybertruck owners are the most persecuted people on the planet](https://www.fark.com/goto/13442832) ( [torquenews.com](https://www.fark.com/goto/13442832) ) » [(70 comments)](https://www.fark.com/comments/13442832/Cybertruck-owners-are-most-persecuted-people-on-planet) |
-| [STEM](https://www.fark.com/stem/) | [If suffering from stressful situations, try subdividing your personality, dealing with parts instead everything all at once](https://www.fark.com/goto/13442804) ( [npr.org](https://www.fark.com/goto/13442804) ) » [(11 comments)](https://www.fark.com/comments/13442804/If-suffering-from-stressful-situations-try-subdividing-your-personality-dealing-with-parts-instead-everything-all-at-once) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Now that the excess baggage has been unceremoniously dumped, it's time for Daryl and Carol to once again look for the fleeing Laurent. The villains have united for the penultimate episode of season 2. The Walking Dead: The Book of Carol 9PM ET on AMC](https://www.fark.com/goto/13442342) ( [cbr.com](https://www.fark.com/goto/13442342) ) » [(1 comment)](https://www.fark.com/comments/13442342/Now-that-excess-baggage-has-been-unceremoniously-dumped-its-time-for-Daryl-Carol-to-once-again-look-for-fleeing-Laurent-The-villains-have-united-for-penultimate-episode-of-season-2-The-Walking-Dead-The-Book-of-Carol-9PM-ET-on-AMC) |
-| [Fandom](https://www.fark.com/fandom/) | [Worf talks about the time he ran security for Apollo Creed](https://www.fark.com/goto/13442374) ( [slashfilm.com](https://www.fark.com/goto/13442374) ) » [(17 comments)](https://www.fark.com/comments/13442374/Worf-talks-about-time-he-ran-security-for-Apollo-Creed) |
-| [D'awww](https://www.fark.com/dawww/) | [Abandoned kitten was actually an aggressive wildcat. Would not shelter again](https://www.fark.com/goto/13442652) ( [yahoo.com](https://www.fark.com/goto/13442652) ) » [(9 comments)](https://www.fark.com/comments/13442652/Abandoned-kitten-was-actually-an-aggressive-wildcat-Would-not-shelter-again) |
-| [Food](https://www.fark.com/food/) | [Apparently coffee isn't good for your health. But in reality, if we didn't drink it, your health would be much worse](https://www.fark.com/goto/13442678) ( [slate.com](https://www.fark.com/goto/13442678) ) » [(22 comments)](https://www.fark.com/comments/13442678/Apparently-coffee-isnt-good-for-your-health-But-in-reality-if-we-didnt-drink-it-your-health-would-be-much-worse) |
-| [Politics](https://www.fark.com/politics/) | [So, Joe Rogan turned down Kamala Harris to give Trump a spotlight? Who's surprised by that?](https://www.fark.com/goto/13442790) ( [dailyboulder.com](https://www.fark.com/goto/13442790) ) » [(86 comments)](https://www.fark.com/comments/13442790/So-Joe-Rogan-turned-down-Kamala-Harris-to-give-Trump-a-spotlight-Whos-surprised-by-that) |
+| [Main](https://www.fark.com/) | [Woman sues JetBlue for serving her ice cream that was too cold](https://www.fark.com/goto/13443002) ( [dailymail.co.uk](https://www.fark.com/goto/13443002) ) » [(2 comments)](https://www.fark.com/comments/13443002/Woman-sues-JetBlue-for-serving-her-ice-cream-that-was-too-cold) |
+| [Discussion](https://www.fark.com/discussion/) | [9\. Your TotalFark subscription](https://www.fark.com/goto/13443012) ( [smallbusinessbonfire.com](https://www.fark.com/goto/13443012) ) » [(4 comments)](https://www.fark.com/comments/13443012/-9-Your-TotalFark-subscription) |
+| [Sports](https://www.fark.com/sports/) | [Giving up a Hail Mary touchdown is embarrassing. Giving up a Hail Mary touchdown because you're taunting the other team's fans is peak Bears](https://www.fark.com/goto/13443066) ( [barstoolsports.com](https://www.fark.com/goto/13443066) ) » [(13 comments)](https://www.fark.com/comments/13443066/Giving-up-a-Hail-Mary-touchdown-is-embarrassing-Giving-up-a-Hail-Mary-touchdown-because-youre-taunting-other-teams-fans-is-peak-Bears) |
+| [Business](https://www.fark.com/business/) | [So the WAPO thing was a Quid Pro No](https://www.fark.com/goto/13442864) ( [theguardian.com](https://www.fark.com/goto/13442864) ) » [(20 comments)](https://www.fark.com/comments/13442864/So-WAPO-thing-was-a-Quid-Pro-No) |
+| [STEM](https://www.fark.com/stem/) | [If suffering from stressful situations, try subdividing your personality, dealing with parts instead everything all at once](https://www.fark.com/goto/13442804) ( [npr.org](https://www.fark.com/goto/13442804) ) » [(23 comments)](https://www.fark.com/comments/13442804/If-suffering-from-stressful-situations-try-subdividing-your-personality-dealing-with-parts-instead-everything-all-at-once) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Don't tell anyone, but there maaaay be some kind of a Deadpool/Wolverine Christmas special happening in the next month or so](https://www.fark.com/goto/13443068) ( [cosmicbook.news](https://www.fark.com/goto/13443068) ) » [(5 comments)](https://www.fark.com/comments/13443068/Dont-tell-anyone-but-there-maaaay-be-some-kind-of-a-DeadpoolWolverine-Christmas-special-happening-in-next-month-so) |
+| [Fandom](https://www.fark.com/fandom/) | [Worf talks about the time he ran security for Apollo Creed](https://www.fark.com/goto/13442374) ( [slashfilm.com](https://www.fark.com/goto/13442374) ) » [(25 comments)](https://www.fark.com/comments/13442374/Worf-talks-about-time-he-ran-security-for-Apollo-Creed) |
+| [D'awww](https://www.fark.com/dawww/) | [Rescued cat gets his first bed. He can probably add some of these onions someone is cutting up to the biscuits he's making](https://www.fark.com/goto/13442902) ( [youtube.com](https://www.fark.com/goto/13442902) ) » [(2 comments)](https://www.fark.com/comments/13442902/Rescued-cat-gets-his-first-bed-He-can-probably-add-some-of-these-onions-someone-is-cutting-up-to-biscuits-hes-making) |
+| [Food](https://www.fark.com/food/) | [Want to know what's the best whisky pairing to go with that sad cup of noodles?](https://www.fark.com/goto/13442920) ( [tastingtable.com](https://www.fark.com/goto/13442920) ) » [(1 comment)](https://www.fark.com/comments/13442920/Want-to-know-whats-best-whisky-pairing-to-go-with-that-sad-cup-of-noodles) |
+| [Politics](https://www.fark.com/politics/) | [Trump doesn't think Obama is a good speaker, and he's also a terrible woofer too](https://www.fark.com/goto/13442896) ( [yahoo.com](https://www.fark.com/goto/13442896) ) » [(10 comments)](https://www.fark.com/comments/13442896/Trump-doesnt-think-Obama-is-a-good-speaker-hes-also-a-terrible-woofer-too) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 27 2024 21:42:30  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 28 2024 03:42:22  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
