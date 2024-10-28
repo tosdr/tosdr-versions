@@ -28,49 +28,17 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240303)
 * Cricket
     
-* [Men's ODI
-    
-    USA won by 3 wkts
-    
-    |     |     |
-    | --- | --- |
-    | USA | 7 /291 |
-    | NEP | 286 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250202)
-* [Women's ODI
-    
-    NZL won by 76 runs
-    
-    |     |     |
-    | --- | --- |
-    | IND | 183 |
-    | NZL | 9 /259 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250202)
 * [Women's BBL
     
-    PER won by 13 runs
-    
     |     |     |
     | --- | --- |
-    | PER | 8 /122 |
-    | MELS | 109 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250103)
-* [Women's BBL
-    
-    28/10 18:10 AEST
-    
-    |     |     |
-    | --- | --- |
-    | HOB | –   |
-    | SYDT | –   |
+    | HOB | 2 /54 |
+    | SYDT |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250104)
 * NRL
     
-* Women's PC
+* [Women's PC
     
     2/11 15:35 AEST
     
@@ -79,7 +47,8 @@ FOX SCORES
     | SAM | –   |
     | FIJ | –   |
     
-* Women's PC
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240301)
+* [Women's PC
     
     3/11 13:55 AEST
     
@@ -88,7 +57,8 @@ FOX SCORES
     | PNG | –   |
     | NZL | –   |
     
-* Men's PC
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPAC20240302)
+* [Men's PC
     
     2/11 18:05 AEST
     
@@ -97,7 +67,8 @@ FOX SCORES
     | NZL | –   |
     | TON | –   |
     
-* Men's PC
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240301)
+* [Men's PC
     
     3/11 16:00 AEST
     
@@ -106,16 +77,7 @@ FOX SCORES
     | PNG | –   |
     | COK | –   |
     
-* [Men's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 34  |
-    | SAM | 18  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/test-matches/match-centre/RLI20240201)
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/PAC20240302)
 * AFL
     
 * [AFL Women's
@@ -294,12 +256,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250814)
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SF  | 6   |
-    | DAL | 10  |
+    | SF  | 30  |
+    | DAL | 24  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250822)
 * Basketball
@@ -314,16 +276,6 @@ FOX SCORES
     | PHI | 118 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010070/box-score)
-* [NBA
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | GS  | 54  |
-    | LAC | 59  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010076/box-score)
 * [NBA
     
     Full Time
@@ -354,38 +306,28 @@ FOX SCORES
     | ATL | 104 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011032/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | GS  | 104 |
+    | LAC | 112 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010076/box-score)
 * Football
     
-* [Premier League
+* [Women's Int
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CRY | 1   |
-    | TOT | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250908)
-* [Premier League
-    
-    Full Time
+    29/10 4:10 AEST
     
     |     |     |
     | --- | --- |
-    | CHE | 2   |
-    | NEW | 1   |
+    | GERW | –   |
+    | AUSW | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250903)
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WHU | 2   |
-    | MUN | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250907)
+    Match Centre](https://www.foxsports.com.au/football/womens-international/match-centre/W_INT20240105)
 * [Premier League
     
     Full Time
@@ -975,7 +917,6 @@ FOX SCORES
 
 [NRL](https://www.foxsports.com.au/video/league/nrl)
 
-* [NRL Match News Reports](https://www.foxsports.com.au/video/league/nrl/nrl-match-news-reports)
 * [Press Conferences](https://www.foxsports.com.au/video/league/nrl/press-conferences)
 
 [Matty Johns](https://www.foxsports.com.au/video/league/matty-johns)
@@ -986,6 +927,7 @@ FOX SCORES
 
 * [Highlights](https://www.foxsports.com.au/video/league/tests/highlights)
 * [Full Matches](https://www.foxsports.com.au/video/league/tests/full-matches)
+* [Press Conferences](https://www.foxsports.com.au/video/league/tests/press-conferences)
 
 [Basketball](https://www.foxsports.com.au/video/basketball)
 
@@ -1136,7 +1078,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
