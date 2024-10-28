@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,11 +53,11 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 221 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 222 files
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 59 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 7 files
 * [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 4 files
@@ -68,6 +68,54 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Dutch Cops Pwn The Redline And Meta Infostealers, Leak VIP Aliases](https://packetstormsecurity.com/news/view/36526/Dutch-Cops-Pwn-The-Redline-And-Meta-Infostealers-Leak-VIP-Aliases.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [netherlands](https://packetstormsecurity.com/news/tags/netherlands)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36526/) | [View](https://www.theregister.com/2024/10/28/dutch_cops_pwn_the_redline/)
+
+[Worker Surveillance Must Comply With Credit Reporting Rules](https://packetstormsecurity.com/news/view/36525/Worker-Surveillance-Must-Comply-With-Credit-Reporting-Rules.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36525/) | [View](https://www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/)
+
+[100 Million Impacted By Change Healthcare Attack](https://packetstormsecurity.com/news/view/36520/100-Million-Impacted-By-Change-Healthcare-Attack.html)
+
+Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:41 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36520/) | [View](https://www.securityweek.com/change-healthcare-ransomware-attack-impacts-100-million-people/)
+
+[AWS Cloud Development Kit Flaw Exposed Accounts To Full Takeover](https://packetstormsecurity.com/news/view/36519/AWS-Cloud-Development-Kit-Flaw-Exposed-Accounts-To-Full-Takeover.html)
+
+Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [amazon](https://packetstormsecurity.com/news/tags/amazon), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36519/) | [View](https://www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/)
+
+[Third-Party Vendors Drive 45% Of Breaches In Energy Sector](https://packetstormsecurity.com/news/view/36518/Third-Party-Vendors-Drive-45-Of-Breaches-In-Energy-Sector.html)
+
+Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36518/) | [View](https://www.scworld.com/news/third-party-vendors-drive-45-of-breaches-in-us-energy-sector)
+
+[White House Endorses Collaboration With Cybersecurity Researchers](https://packetstormsecurity.com/news/view/36517/White-House-Endorses-Collaboration-With-Cybersecurity-Researchers.html)
+
+Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:27 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36517/) | [View](https://www.scworld.com/news/white-house-endorses-collaboration-with-cybersecurity-researchers)
 
 [Cisco Patches Vulnerability Exploited In Large Scale Brute Force Campaign](https://packetstormsecurity.com/news/view/36516/Cisco-Patches-Vulnerability-Exploited-In-Large-Scale-Brute-Force-Campaign.html)
 
@@ -100,54 +148,6 @@ Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36513/) | [View](https://www.scworld.com/news/new-llm-jailbreak-method-with-65-success-rate-developed-by-researchers)
-
-[Location Tracking Of Phones Is Out Of Control. Here's How To Fight Back.](https://packetstormsecurity.com/news/view/36512/Location-Tracking-Of-Phones-Is-Out-Of-Control.-Heres-How-To-Fight-Back..html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36512/) | [View](https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/)
-
-[Ransomware's Ripple Effect Felt Across ERs As Patient Care Suffers](https://packetstormsecurity.com/news/view/36511/Ransomwares-Ripple-Effect-Felt-Across-ERs-As-Patient-Care-Suffers.html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:18 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36511/) | [View](https://www.theregister.com/2024/10/24/ransomware_ripple_effect_hospitals/)
-
-[FortiGate Admins Report Active Exploitation 0-Day. Vendor Isn't Talking.](https://packetstormsecurity.com/news/view/36510/FortiGate-Admins-Report-Active-Exploitation-0-Day.-Vendor-Isnt-Talking..html)
-
-Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:47 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36510/) | [View](https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/)
-
-[White Hat Hackers Earn $500,000 On First Day Of Pwn2Own Ireland 2024](https://packetstormsecurity.com/news/view/36509/White-Hat-Hackers-Earn-500-000-On-First-Day-Of-Pwn2Own-Ireland-2024.html)
-
-Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:44 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [ireland](https://packetstormsecurity.com/news/tags/ireland), [conference](https://packetstormsecurity.com/news/tags/conference)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36509/) | [View](https://www.securityweek.com/white-hat-hackers-earn-500000-on-first-day-of-pwn2own-ireland-2024/)
-
-[Russia Hit By DDoS During BRICS Summit](https://packetstormsecurity.com/news/view/36508/Russia-Hit-By-DDoS-During-BRICS-Summit.html)
-
-Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:32 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [russia](https://packetstormsecurity.com/news/tags/russia), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36508/) | [View](https://www.reuters.com/world/europe/russia-says-unprecedented-cyber-attack-hits-foreign-ministry-amid-brics-summit-2024-10-23/)
-
-[Avast Releases Free Decryptor For Mallox Ransomware](https://packetstormsecurity.com/news/view/36507/Avast-Releases-Free-Decryptor-For-Mallox-Ransomware.html)
-
-Posted [Oct 23, 2024](https://packetstormsecurity.com/news/date/2024-10-23/ "14:13:18 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36507/) | [View](https://www.securityweek.com/avast-releases-free-decryptor-for-mallox-ransomware/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1467445150&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1467445150.1730106397.1730106397.1730106397.1%3B%2B__utmz%3D32867617.1730106397.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1628362368&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1628362368.1730128543.1730128543.1730128543.1%3B%2B__utmz%3D32867617.1730128543.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
