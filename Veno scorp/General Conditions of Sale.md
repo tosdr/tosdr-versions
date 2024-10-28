@@ -17,7 +17,7 @@
         
         * [Gaming PCs Under £499](https://veno-scorp.co.uk/collections/gaming-pcs-under-499)
         * [Gaming PCs £500-£999](https://veno-scorp.co.uk/collections/gaming-pcs-500-to-999)
-        * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999)
+        * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999-new)
         * [Gaming PCs £2000+](https://veno-scorp.co.uk/collections/gaming-pcs-2000)
         
     
@@ -52,7 +52,7 @@
     * [SHOP BY BUDGET](#)
         * [Gaming PCs Under £499](https://veno-scorp.co.uk/collections/gaming-pcs-under-499)
         * [Gaming PCs £500-£999](https://veno-scorp.co.uk/collections/gaming-pcs-500-to-999)
-        * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999)
+        * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999-new)
         * [Gaming PCs £2000+](https://veno-scorp.co.uk/collections/gaming-pcs-2000)
     
 * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
