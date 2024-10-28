@@ -224,7 +224,3 @@ VPN Proxy Master is powered by Lemon Clove Pte. Limited (Singapore)
 Address: 18 Robinson Road, #15-01, Singapore 048547, Singapore
 
 © 2024 VPN PROXY MASTER. All rights reserved
-
-This website uses cookies. To learn more, visit our [Cookie Policy.](https://vpnproxymaster.com/cookie-policy)
-
-Ok,I got it
