@@ -519,7 +519,7 @@ Pricing
 * * *
 
 * [Product & Service Pricing](https://www.melissa.com/pricing/)
-* [Purchase Credits](https://www.melissa.com/pricing/purchase)
+* [Purchase Credits](https://www.melissa.com/pricing/#purchase-credits)
 
 [Support](https://www.melissa.com/company/product-support)
 
@@ -536,7 +536,7 @@ More
 * [Blogs](https://www.melissa.com/resources/communities)
 * [Videos](https://www.melissa.com/videos/)
 * [E-Commerce Calculator](https://www.melissa.com/calculators/ecommerce)
-* [Purchase Credits](https://www.melissa.com/pricing/purchase)
+* [Purchase Credits](https://www.melissa.com/pricing/#purchase-credits)
 * [Privacy Center](https://www.melissa.com/privacy)
 
 Explore Melissa
