@@ -41,7 +41,7 @@ International schoolsUK editionAustralia edition
         
     * Staff management & Finance
         
-        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.edukey.co.uk/en-gb/for-schools/staff-management)
+        * [Staff Management Subscription Recruitment, training and wellbeing solutions in one all-inclusive subscription](https://www.tes.com/en-gb/for-schools/magazine-subscription)
             
         * [Tes magazine School-wide magazine subscriptions](https://www.tes.com/for-schools/magazine-subscription)
             
@@ -94,7 +94,7 @@ TES Close
         
     * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
         
-        * [Staff Management Subscription](https://www.edukey.co.uk/en-gb/for-schools/staff-management)
+        * [Staff Management Subscription](https://www.tes.com/en-gb/for-schools/magazine-subscription)
             
         * [Tes magazine](https://www.tes.com/for-schools/magazine-subscription)
             
@@ -458,7 +458,7 @@ Back to top
         
     * [Work for Tes](https://www.tes.com/en-gb/corporate/work-for-tes)
         
-    * [Partnerships](https://www.tes.com/corporate/partnerships)
+    * [Partnerships](https://www.tes.com/en-gb/corporate/partnerships)
         
     * [Legal terms and policies](https://www.tes.com/en-gb/policies/overview)
         
@@ -518,7 +518,7 @@ Back to top
         
     * [For prospective teachers](https://www.tes.com/institute/courses/become-a-teacher)
         
-    * [For schools](https://www.tes.com/for-schools/training)
+    * [For schools](https://www.tes.com/en-gb/for-schools/training)
         
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
