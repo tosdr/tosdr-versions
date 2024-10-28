@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 27, 2024**
+**October 28, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Melting Arctic Ice and Global Ocean Circulation](https://www.sciencedaily.com/releases/2024/10/241027205850.htm)
 * [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
@@ -217,7 +218,6 @@ this hour
 * [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
 * [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
-* [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 
 Trending Topics
 ---------------
