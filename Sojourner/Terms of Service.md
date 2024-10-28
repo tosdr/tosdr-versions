@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-639fdd50a5f326eae555bdd9fd6b8629
+62b6c8b35b53e257ff6e37c3a170a73e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![5 mm by 8 mm zoisite faceted rondelles](https://sojourner.biz/images/cache/zoisite/ZE0002.200.jpg)](https://sojourner.biz/beads/stone-m-z/zoisite/5-mm-by-8-mm-zoisite-faceted-rondelles.html "5 mm by 8 mm zoisite faceted rondelles")
+[![16 mm light blue heart beads](https://sojourner.biz/images/cache/glass/HRT024.200.jpg)](https://sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
 
-#### [5 mm by 8 mm zoisite faceted rondelles](https://sojourner.biz/beads/stone-m-z/zoisite/5-mm-by-8-mm-zoisite-faceted-rondelles.html "5 mm by 8 mm zoisite faceted rondelles")
+#### [16 mm light blue heart beads](https://sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
 
-$25.00
+$6.00
 
 ### Best Sellers
 
