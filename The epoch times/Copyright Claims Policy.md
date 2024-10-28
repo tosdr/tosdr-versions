@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://www.theepochtimes.com/us/philadelphia-da-sues-to-block-elon-musks-1-million-voter-giveaway-5749139)
+* [US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
     
-    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Philadelphia DA Sues to Block Elon Musk’s $1 Million Voter Giveaway](https://img.theepochtimes.com/assets/uploads/2024/10/21/id5745387-GettyImages-2178881753-205x123.jpg.webp)](https://www.theepochtimes.com/us/philadelphia-da-sues-to-block-elon-musks-1-million-voter-giveaway-5749139)
-* [FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://www.theepochtimes.com/business/ftc-fines-lyft-more-than-2-million-for-misleading-drivers-on-payments-5749095)
+    ![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/uploads/2023/02/02/Semicon-China-205x123.jpg.webp)](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
+* [Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FTC Fines Lyft More Than $2 Million for Misleading Drivers on Payments](https://img.theepochtimes.com/assets/uploads/2023/05/13/id5262751-GettyImages-1265683478-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftc-fines-lyft-more-than-2-million-for-misleading-drivers-on-payments-5749095)
-* [Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/virginia-asks-us-supreme-court-to-allow-removal-of-noncitizens-from-voter-rolls-5749134)
+    ![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749323-Election_2024_Ballot_Box_Fires_24302618769266-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
+* [76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
     
-    1hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Virginia Asks US Supreme Court to Allow Its Removal of Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746869-10232024-DSC06732-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/virginia-asks-us-supreme-court-to-allow-removal-of-noncitizens-from-voter-rolls-5749134)
-* [Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://www.theepochtimes.com/us/early-voting-in-swing-state-georgia-brings-in-half-of-2020-election-turnout-official-says-5749082)
+    ![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589460-02172024-DSC01207-I-voted-205x123.jpg.webp)](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
+* [Polls Are Tight as New York House Races Near the Finish Line](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Early Voting in Swing State Georgia Brings in Half of 2020 Election Turnout, Official Says](https://img.theepochtimes.com/assets/uploads/2024/10/16/id5742245-Record_Turnout_Georgia-205x123.jpg.webp)](https://www.theepochtimes.com/us/early-voting-in-swing-state-georgia-brings-in-half-of-2020-election-turnout-official-says-5749082)
-* [NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://www.theepochtimes.com/world/nato-confirms-north-korean-troops-deployed-to-kursk-russia-5749060)
+    ![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747323-New-York-Senate-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
+* [Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
     
-    2hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![NATO Confirms North Korean Troops Deployed To Kursk, Russia](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749112-Mark-Rutte-205x123.jpg.webp)](https://www.theepochtimes.com/world/nato-confirms-north-korean-troops-deployed-to-kursk-russia-5749060)
-* [Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://www.theepochtimes.com/world/georgias-president-rejects-vote-result-urges-protests-after-ruling-party-wins-election-5749018)
+    ![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/uploads/2024/07/06/id5681368-2022-05-12T082426Z_1_LYNXNPEI4B0C8_RTROPTP_4_NATO-DEFENCE-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
+* [Harris Raised, Spent Far More Than Trump in First Half of October](https://www.theepochtimes.com/us/harris-raised-spent-far-more-than-trump-in-first-half-of-october-5749286)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Raised, Spent Far More Than Trump in First Half of October](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Georgia’s President Rejects Vote Result, Urges Protests After Ruling Party Wins Election](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749032-qYV1-205x123.jpg.webp)](https://www.theepochtimes.com/world/georgias-president-rejects-vote-result-urges-protests-after-ruling-party-wins-election-5749018)
-* [Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
+    ![Harris Raised, Spent Far More Than Trump in First Half of October](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747972-Trump-Harris-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-raised-spent-far-more-than-trump-in-first-half-of-october-5749286)
+* [McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://www.theepochtimes.com/us/mcdonalds-says-quarter-pounder-beef-patties-not-the-source-of-e-coli-contamination-5749276)
     
-    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738647-GettyImages-2177552448-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
-* [Big Tech Earnings: What to Expect](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
+    ![McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747683-MCDONALDS-CORP-ECOLI-CUSTOMERS-205x123.jpg.webp)](https://www.theepochtimes.com/us/mcdonalds-says-quarter-pounder-beef-patties-not-the-source-of-e-coli-contamination-5749276)
+* [Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://www.theepochtimes.com/us/biden-casts-his-ballot-in-delaware-this-is-sweet-5749187)
     
-    7hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748824-GettyImages-1230188826-205x123.jpg.webp)](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
-* [Michigan’s Early Voters Brave Long Lines, Break Records](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
+    ![Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749214-Biden-at-polling-station-in-Delaware-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-casts-his-ballot-in-delaware-this-is-sweet-5749187)
+* [Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://www.theepochtimes.com/us/trump-harris-enter-final-week-of-campaign-heres-the-swing-state-vote-breakdown-5749228)
     
-    12hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749066-Michigan-Flag_JF_08282024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
-* [5 Highlights From Trump’s Madison Square Garden Speech](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
+    ![Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-enter-final-week-of-campaign-heres-the-swing-state-vote-breakdown-5749228)
+* [Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://www.theepochtimes.com/world/egypt-proposes-2-day-gaza-cease-fire-aimed-at-jump-starting-broader-negotiations-5749108)
     
-    13hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov)
+    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748906-DSC02269A-trump-madison_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
+    ![Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749390-GettyImages-1737118702.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/egypt-proposes-2-day-gaza-cease-fire-aimed-at-jump-starting-broader-negotiations-5749108)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
