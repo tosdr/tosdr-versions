@@ -295,6 +295,8 @@ External
             
             [Explore](https://www.bakerhughes.com/surface-pressure-control)
             
+            * [Surface Pressure Control Services](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services)
+                
             * [Carbon capture and injection wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
                 
             * [Compact multibowl wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
@@ -1258,6 +1260,8 @@ Search
             
             [Explore](https://www.bakerhughes.com/surface-pressure-control)
             
+            * [Surface Pressure Control Services](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services)
+                
             * [Carbon capture and injection wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
                 
             * [Compact multibowl wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
