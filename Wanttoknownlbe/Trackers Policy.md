@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mh17-boek-de-doofpotdeal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-echte-virus-is-overwonnen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
