@@ -1,3 +1,5 @@
+[Review and sign transactions from a single secure screen with Ledger Flex™](https://shop.ledger.com/pages/ledger-flex)[Discover now](https://shop.ledger.com/pages/ledger-flex)
+
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
