@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/nederland-als-spiritueel-brandpunt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-wonder/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
