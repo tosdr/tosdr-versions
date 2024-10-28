@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=177219625)  
-LEO DEVELOPMENT GROUP
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=37304875)  
+Baby Toddles Infant Care
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=104627849)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=58146861)  
-Lizzy Pop PTY(Ltd)
-
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=174749392)  
-Imhoff Equestrian Centre
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=181102266)  
-Xpress Designs
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=183227856)  
-NIMAWELL
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=209405933)  
-Qothiphango Mining
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=129568791)  
-Little Nutty Professors
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=104947452)  
-Gemini-IT Group
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=183942808)  
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=69442180)  
 Itroniq (Pty) Ltd
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=74575201)  
-webb it services
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=163595868)  
+TIGERDSL
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=171507193)  
-Kaylas Creations
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=188329630)  
+NJR ICT Services (Pty) Ltd
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=128577508)  
-SMART GUY PCS (PTY) LTD
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=69646433)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=8935231)  
-WIP Digital Solutions
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=161955995)  
+Van Der Merwe Olieverspreiders
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2089a1fe996819ed348901ba101e459c3d80c1c6151a8fbd290ef7c94d2fb5e6&c=150915751)  
-One2b
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=186600178)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=192004604)  
+Sonic Electrical Services PTY Ltd
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=196124366)  
+Goju Ryu Karate Centre
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=112881642)  
+J.M. HUMAN RESOURCES
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=147999702)  
+MONSTER SECURITY GUARDING
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=36332901)  
+FJW Security Cc
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=180051087)  
+Dombieterfontein (PTY) LTD
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=175474337)  
+Depot Diesel (Pty) Ltd
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a30561728f00e82b8954da7cb4a81c1817cde6932717f15fc1381f09947ac9a9&c=84425115)  
+Vplay Letsheng Mall
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
