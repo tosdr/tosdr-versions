@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-62b6c8b35b53e257ff6e37c3a170a73e
+3eedd9208a6c97027d7b3737cf0b1857
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![16 mm light blue heart beads](https://sojourner.biz/images/cache/glass/HRT024.200.jpg)](https://sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
+[![New snow clasp](https://sojourner.biz/images/cache/SKU0368front.200.jpg)](https://sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
 
-#### [16 mm light blue heart beads](https://sojourner.biz/beads/glass/16-mm-light-blue-heart-beads.html "16 mm light blue heart beads")
+#### [New snow clasp](https://sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
 
-$6.00
+$13.00
 
 ### Best Sellers
 
