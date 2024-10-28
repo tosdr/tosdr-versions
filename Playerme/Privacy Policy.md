@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+    [](https://player.me/everything-you-need-to-know-about-slitterhead/)
     
-    ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
+    [](https://player.me/everything-you-need-to-know-about-slitterhead/)
     
-    ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](https://player.me/wp-content/uploads/2024/10/Slitterhead-Editions.png)
+
+[Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](https://player.me/everything-you-need-to-know-about-slitterhead/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 28, 2024/
+
+If you’re not a horror fan, you might want to shut your eyes for this one. True to its name,…
+
+[Read More](https://player.me/everything-you-need-to-know-about-slitterhead/)
+
+![Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses](https://player.me/wp-content/uploads/2024/10/Sonic-X-Shadow-Generations-Bosses-Guide.png)
+
+[Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses](https://player.me/sonic-x-shadow-generations-bosses-guide/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 28, 2024/
+
+With over three decades of Sonic games to reference, it leverages a vast history of memorable villains for its Sonic…
+
+[Read More](https://player.me/sonic-x-shadow-generations-bosses-guide/)
+
 ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/wp-content/uploads/2024/10/Rory-McIlroy-PGA-Tour_-A-Retrospective-Look-as-EA-Prepares-to-Shut-Down-Servers-on-January-16-2025.png)
 
 [Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
@@ -218,32 +244,6 @@ October 23, 2024/
 On October 22, 2024, Microsoft revealed its latest version of the Xbox Wireless Headset, now available for purchase at various…
 
 [Read More](https://player.me/microsofts-new-xbox-wireless-headset-improved-features/)
-
-![Sonic X Shadow Generations Release Time, Editions and Everything You Need to Know Before October 25](https://player.me/wp-content/uploads/2024/10/Sonic-X-Shadow-Generations-Release-Time-Editions-and-Everything-You-Need-to-Know-Before-October-25.png)
-
-[Sonic X Shadow Generations Release Time, Editions and Everything You Need to Know Before October 25](https://player.me/sonic-x-shadow-generations-release-time-and-editions/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 22, 2024/
-
-After nearly two years since the release of Sonic Frontiers in 2022, Sonic X Shadow Generations will mark the return…
-
-[Read More](https://player.me/sonic-x-shadow-generations-release-time-and-editions/)
-
-![Alan Wake 2 Anniversary Update Features New Accessibility Settings and QOL Changes](https://player.me/wp-content/uploads/2024/10/Alan-Wake-2-Anniversary-Update-Features-New-Accessibility-Settings-and-QOL-Changes.png)
-
-[Alan Wake 2 Anniversary Update Features New Accessibility Settings and QOL Changes](https://player.me/alan-wake-2-anniversary-update/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------
-
-October 22, 2024/
-
-As Alan Wake 2 nears its first anniversary, Remedy Entertainment has announced a massive update packed with community-requested features. Released…
-
-[Read More](https://player.me/alan-wake-2-anniversary-update/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](https://player.me/wp-content/uploads/2024/10/Slitterhead-Editions.png)
+
+[Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](https://player.me/everything-you-need-to-know-about-slitterhead/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 28, 2024/
+
+If you’re not a horror fan, you might want to shut your eyes for this one. True to its name,…
+
+[Read More](https://player.me/everything-you-need-to-know-about-slitterhead/)
+
+![Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses](https://player.me/wp-content/uploads/2024/10/Sonic-X-Shadow-Generations-Bosses-Guide.png)
+
+[Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses](https://player.me/sonic-x-shadow-generations-bosses-guide/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 28, 2024/
+
+With over three decades of Sonic games to reference, it leverages a vast history of memorable villains for its Sonic…
+
+[Read More](https://player.me/sonic-x-shadow-generations-bosses-guide/)
+
 ![Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/wp-content/uploads/2024/10/Rory-McIlroy-PGA-Tour_-A-Retrospective-Look-as-EA-Prepares-to-Shut-Down-Servers-on-January-16-2025.png)
 
 [Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
@@ -379,32 +405,6 @@ October 22, 2024/
 As Alan Wake 2 nears its first anniversary, Remedy Entertainment has announced a massive update packed with community-requested features. Released…
 
 [Read More](https://player.me/alan-wake-2-anniversary-update/)
-
-![No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know](https://player.me/wp-content/uploads/2024/10/No-More-Room-in-Hell-2-Release-Date-Early-Access-and-Everything-You-Need-to-Know.png)
-
-[No More Room in Hell 2 Release Date, Early Access and Everything You Need to Know](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/)
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 21, 2024/
-
-After No More Room in Hell 2’s first appearance at the Summer Game Fest 2024, Lever Games and Torn Banner…
-
-[Read More](https://player.me/everything-you-need-to-know-about-no-more-room-in-hell-2/)
-
-![Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement](https://player.me/wp-content/uploads/2024/10/Valley-Peaks-Nintendo-Switch-Release-Indefinity-Delayed-After-April-2024-Announcement.png)
-
-[Valley Peaks Nintendo Switch Release Indefinity Delayed After April 2024 Announcement](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 21, 2024/
-
-Valley Peaks is a first-person, cozy platformer developed by Tub Club and published by Those Awesome Guys, known for games…
-
-[Read More](https://player.me/valley-peaks-nintendo-switch-release-indefinity-delayed/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world 
 
 player.me
 
+[](https://player.me/everything-you-need-to-know-about-slitterhead/ "Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8")
+
+[Slitterhead Editions, Story, Gameplay and Everything You Need to Know Before November 8](https://player.me/everything-you-need-to-know-about-slitterhead/)
+
+October 28, 2024
+
+[](https://player.me/sonic-x-shadow-generations-bosses-guide/ "Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses")
+
+[Sonic X Shadow Generations Bosses Guide: Tips and Tricks on Beating the 11 Bosses](https://player.me/sonic-x-shadow-generations-bosses-guide/)
+
+October 28, 2024
+
 [](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/ "Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025")
 
 [Rory McIlroy PGA Tour: A Retrospective Look as EA Prepares to Shut Down Servers on January 16, 2025](https://player.me/ea-prepares-to-shut-down-rory-mcilroy-pga-tour-in-2025/)
@@ -853,22 +865,10 @@ October 23, 2024
 
 October 23, 2024
 
-[](https://player.me/sonic-x-shadow-generations-release-time-and-editions/ "Sonic X Shadow Generations Release Time, Editions and Everything You Need to Know Before October 25")
-
-[Sonic X Shadow Generations Release Time, Editions and Everything You Need to Know Before October 25](https://player.me/sonic-x-shadow-generations-release-time-and-editions/)
-
-October 22, 2024
-
-[](https://player.me/alan-wake-2-anniversary-update/ "Alan Wake 2 Anniversary Update Features New Accessibility Settings and QOL Changes")
-
-[Alan Wake 2 Anniversary Update Features New Accessibility Settings and QOL Changes](https://player.me/alan-wake-2-anniversary-update/)
-
-October 22, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 575,256 times, 19 visit(s) today
+Visited 575,323 times, 86 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
