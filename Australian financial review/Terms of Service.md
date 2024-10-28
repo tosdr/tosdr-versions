@@ -334,15 +334,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/5957702c624c33209c1b6e63ac0e7bead973d20a)](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+[![James Packer is sitting pretty off the back of booming tech stocks.](https://static.ffx.io/images/$zoom_0.3873%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cb7a0321d2914c7f1550a27e6a64ab050a71291b)](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
 
-### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+### [Packer in $120m payday as big bets on Nvidia, Meta pay off](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
 
-* Yolanda Redrup, Lauren Sams and Matthew Drummond
+* Primrose Riordan
 
-* ### [Australia’s richest people 40 and under break record](https://www.afr.com/young-rich/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
+* ### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
     
-* ### [Young Rich tells tale of Australia’s technology fortunes](https://www.afr.com/technology/young-rich-tells-tale-of-australia-s-technology-fortunes-20241023-p5kkjg)
+* ### [Australia’s richest people 40 and under break record](https://www.afr.com/young-rich/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
     
 
 [The Australian Financial Review](https://www.afr.com/)
