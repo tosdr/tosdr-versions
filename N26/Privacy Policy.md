@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.8., Date 09.10.2024)
+(Version 9.9., Date 28.10.2024)
 
 
 
@@ -696,23 +696,27 @@ policy of the operating system of your smartphone.
 
 
 
-10\. Data transmission in the framework of Google Pay and Apple Pay
+10. Data processing in the context of digital payment methods
 
-In order for you to be able to use the mobile financial services of Google and Apple, N26 needs to transmit
+When you make a payment with your N26 card by using a digital wallet (such as Apple Pay, Google Pay; or
 
-transaction data to our processor Mastercard MPTS, who will share the data with Alphabet Inc. (Google) or
+Samsung Pay and Garmin Pay via Mastercard Wallet Express) or an online checkout service (such as Mastercard
 
-Apple Inc., as separate controllers, when you use such services to perform a transaction. Such transfer is based
+Click to Pay), N26 needs to transmit transaction data to our processor Mastercard Europe S.A. (“Mastercard
 
-on the execution of the agreement between N26 and you, according to Art. 6 (1) b) GDPR.
+S.A.”), 198/A Chaussée de Tervuren, 1410 Waterloo, Belgium (“Mastercard”). Your transaction data is tokenized
 
+at Mastercard before it is transmitted to the provider of the chosen payment method as a separate data
 
+controller. Tokens are used to authorize and to perform transactions with the payment method provider and
 
-Tokens are used to authorize and to perform transactions with one of the mentioned service providers and
+these tokens ensure the confidentiality of your personal data. This way, your card details are not shared with
 
-these tokens permit you personal data to remain confidential. Your transaction data is tokenized at Mastercard
+the merchant, nor stored on your device.
 
-MPTS before it is transmitted to one of the mentioned service providers.
+Such transmission of data from N26 is based on the execution of the agreement between N26 and you,
+
+according to Art. 6 (1) b) GDPR.
 
 
 
@@ -733,8 +737,6 @@ applicable legal and regulatory framework to provide an interface for communicat
 service providers of your choice (Art. 6 (1) c) GDPR) and that it is necessary to perform our obligations under the
 
 N26 account contract (Art. 6 (1) b) GDPR).
-
-
 
 12\. Data processing in the framework of N26 Instant Savings
 
@@ -829,8 +831,6 @@ powered by Bitpanda GmbH, Stella-Klein-Löw-Weg 17, 1020 Vienna, Austria (“«B
 we process the following data points related to you, based on the execution of the agreement between N26
 
 and you, according to Art. 6 (1) b) GDPR:
-
-
 
 ● Data collected when you create N26 Crypto service account: your name, email address, mobile phone
 
@@ -1018,8 +1018,6 @@ the products and services under the contract between you and N26 or any pre-cont
 
 N26 or as requested by you, based on Art. 6 (1) b) GDPR.
 
-
-
 In addition, we process your data within the scope of our legitimate interest in answering your general
 
 questions about our services and products and to help you find information about our new services and
@@ -1027,6 +1025,8 @@ questions about our services and products and to help you find information about
 products related to the App, so you can use any of them if you are interested, Art. 6 (1) f) GDPR. For more
 
 information on the legitimate interest as a legal basis for processing data, please see section II. above.
+
+
 
 19. Data processing in the framework of transactional \& informational
 
@@ -1109,8 +1109,6 @@ share these datasets with third parties. This processing is based on N26’s leg
 Art. 6 (1) c) GDPR, or based on N26’s legitimate interest, under Art. 6 (1) f) GDPR. For more information on the
 
 legitimate interest as a legal basis for processing data, please see section II. above.
-
-
 
 The following example gives you an idea how we are using anonymised data sets under our legal obligations:
 
