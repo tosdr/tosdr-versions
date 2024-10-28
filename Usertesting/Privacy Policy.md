@@ -696,6 +696,6 @@ Please check that you’re not running an adblocker and if you are please whitel
 
 If you’re still having problems please [drop us an email](mailto:allreplies@usertesting.com?subject=&body=).
 
-By submitting the form, I agree to the [Privacy Policy](https://www.usertesting.com/node/45451) and [Terms of Use](https://www.usertesting.com/node/47401).
+By submitting the form, I agree to the [Privacy Policy](https://www.usertesting.com/privacy-center/privacy-policy) and [Terms of Use](https://www.usertesting.com/privacy-center/terms-of-use-enterprise-client).
 
 © UserTesting 2024
