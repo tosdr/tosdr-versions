@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Great American Reach Around - The Deep South & Scandinavia](https://www.somethingawful.com/news/gara-week-eight/1/)
-* [Abstract Pixel Art! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/abstract-pixel-art/1/)
-* [Emergency Exit](https://www.somethingawful.com/photoshop-phriday/emergency-exit/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Norman Rockwell Paintings](https://www.somethingawful.com/photoshop-phriday/norman-rockwell-paintings/1/)
+* [GameStop Employee Memo](https://www.somethingawful.com/video-game-article/gamestop-employee-letter/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [AD&D 2nd Edition Spelljammer: Space Lairs](https://www.somethingawful.com/dungeons-and-dragons/spelljammer-lairs-adventure/1/)
+* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
+* [Should You Buy Doom or Animal Crossing?](https://www.somethingawful.com/video-game-article/doom-animal-crossing/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I submit Gravity Falls](http://forums.somethingawful.com/showthread.php?threadid=4073722 "I submit Gravity Falls")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [90 Eggs!](http://forums.somethingawful.com/showthread.php?threadid=4073799 "90 Eggs!")
 
 ### Random Articles
 
-* [Creating Your Own Internet Comic Strip](https://www.somethingawful.com/guides/guide-creating-your/1/)
-* [Platform Hero episode 7](https://www.somethingawful.com/flash-tub/platform-hero-episode-6/)
-* [Exodus-Furry Rebellion](https://www.somethingawful.com/awful-links/awful-link-2692/)
-* [Anna S. Fiction (Thanks, Linda!)](https://www.somethingawful.com/awful-links/annasfiction-erotica/)
-* [July 2, 2013](https://www.somethingawful.com/twitter-tuesday/tt07-02-13/)
+* [INFORMATION WARFARE](https://www.somethingawful.com/awful-links/awful-link-526/)
+* [Room 101 vs. Anshe Chung](https://www.somethingawful.com/second-life-safari/room-101-vs/1/)
+* [Choosing the Right Exotic Shotgun Shell for Your 9/11 Party](https://www.somethingawful.com/news/exotic-shotgun-911/)
+* [Mama had a baby and its' head popped off!](https://www.somethingawful.com/daily-dirt/mama-had-baby/)
+* [Depressing Times](https://www.somethingawful.com/awful-links/depressing-times-cards/)
 
 [Random!](https://www.somethingawful.com/random/)
 
