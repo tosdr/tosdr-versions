@@ -205,6 +205,7 @@ Last updated: August 18, 2020
 ### Inside ReadTheory
 
 * [About Us](https://readtheory.org/about-us/)
+* [Press](https://readtheory.org/press/)
 * [Meet our Writers](https://readtheory.org/meet-our-writers/)
 * [Contact Us](https://readtheory.org/app/contact)
 
