@@ -165,7 +165,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     ![icon_close](/images/header/icon_close.svg)
     
-*  [![lang](/images/svg/lang/lang_earth.svg) EN](javascript: void(0);)
+* ![English](/images/svg/lang/lang_earth.svg)
     
     * [English](https://fliphtml5.com/dmca-policy.php)
     * [Deutsch](https://fliphtml5.com/de/dmca-policy.php)
@@ -338,7 +338,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
         
         Please feel free to leave us a message.](https://fliphtml5.com/contact-us/)
 * [Pricing](https://fliphtml5.com/fliphtml5-pricing.php)
-* ![English](/images/svg/lang/lang_earth.svg) English
+* ![English](/images/svg/lang/lang_earth.svg)
     
     * [English](https://fliphtml5.com/dmca-policy.php)
     * [Deutsch](https://fliphtml5.com/de/dmca-policy.php)
@@ -369,6 +369,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Bahasa Indonesia](https://fliphtml5.com/id/dmca-policy.php)
     * [Tiếng Việt](https://fliphtml5.com/vi/dmca-policy.php)
     * [简体中文](https://fliphtml5.com/zh_cn/dmca-policy.php)
+    
 
  DMCA Policy
 
