@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/tony-fauci-loog-onder-ede/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/de-ik-wou-dat-het-waar-was-wasmasjien-is-echt-waar/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
