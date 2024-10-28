@@ -55,11 +55,11 @@
     
     FREE ONLINE COURSE
     
-    #### Unlock Your School's Data with GA4
+    #### Managing Data in K-12 Education
     
-    Join us for this three-part series that will guide you through using Google Analytics 4 (GA4) to identify, track, and harness the data that matters most to your school.  
+    Join Finalsite and NSPRA for a special three-part webinar series focused on the essential role of data in modern school districts.  
       
-    [REGISTER TODAY](https://www.finalsite.com/fs/pages/8970)
+    [REGISTER TODAY](https://www.finalsite.com/fs/pages/9117)
     
     * [The Blog](https://www.finalsite.com/blog)
     * [eBooks & Guides](https://www.finalsite.com/resources)
@@ -157,11 +157,11 @@ Popular Search Terms
     
     FREE ONLINE COURSE
     
-    #### Unlock Your School's Data with GA4
+    #### Managing Data in K-12 Education
     
-    Join us for this three-part series that will guide you through using Google Analytics 4 (GA4) to identify, track, and harness the data that matters most to your school.  
+    Join Finalsite and NSPRA for a special three-part webinar series focused on the essential role of data in modern school districts.  
       
-    [REGISTER TODAY](https://www.finalsite.com/fs/pages/8970)
+    [REGISTER TODAY](https://www.finalsite.com/fs/pages/9117)
     
     * [The Blog](https://www.finalsite.com/blog)
     * [eBooks & Guides](https://www.finalsite.com/resources)
