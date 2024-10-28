@@ -426,11 +426,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/slike/uzbuna.jpg?itok=PGnJWLcF)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/aavk-g-200/greda.jpg?itok=zdnGNkEB)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/aavk-g-200)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka/kinoteka-digi7.jpg?itok=WiC1IVZE)](http://seecult.org/galerija/foto-galerija/digitalizacija/jugoslovenska-kinoteka)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin/dscf4372.jpg?itok=gG0RArky)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
