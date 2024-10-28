@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/elon-musk-spacex.jpg?ve=1&tl=1)
+ [![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2181412508.jpg?ve=1&tl=1)
 
- ![NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/elon-musk-spacex.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/elon-musk-putin-contact-nasa-chief-investigation)
+ ![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181412508.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
 
-### [NASA chief says claims that Elon Musk has been in regular contact with Putin should be investigated](https://www.fox4news.com/news/elon-musk-putin-contact-nasa-chief-investigation)
+### [Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
 
- [![Volcanic ash from Mexican volcano spotted over Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2179650248.jpg?ve=1&tl=1)
+ [![McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-660695038.jpg?ve=1&tl=1)
 
- ![Volcanic ash from Mexican volcano spotted over Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2179650248.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/volcanic-ash-from-mexican-volcano-spotted-over-florida)
+ ![McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-660695038.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-quarter-pounder-returns-ecoli-outbreak)
 
-### [Volcanic ash from Mexican volcano spotted over Florida](https://www.fox4news.com/news/volcanic-ash-from-mexican-volcano-spotted-over-florida)
+### [McDonald’s brings back Quarter Pounders after E. coli outbreak linked to onions](https://www.fox4news.com/news/mcdonalds-quarter-pounder-returns-ecoli-outbreak)
 
- [![Silver Alert issued for 86-year-old last seen Oct. 24](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/screenshot-2024-10-27-125435.png?ve=1&tl=1)
+ [![Trump hosts rally at MSG: Guest speakers, street closures, and more](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/trump-msg-rally-2.jpg?ve=1&tl=1)
 
- ![Silver Alert issued for 86-year-old last seen Oct. 24](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/10/32/18/592/333/screenshot-2024-10-27-125435.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/silver-alert-issued-86-year-old-last-seen-oct-24)
+ ![Trump hosts rally at MSG: Guest speakers, street closures, and more](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/10/32/18/592/333/trump-msg-rally-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-rally-msg-how-watch-street-closures-guests)
 
-### [Silver Alert issued for 86-year-old last seen Oct. 24](https://www.fox4news.com/news/silver-alert-issued-86-year-old-last-seen-oct-24)
+### [Trump hosts rally at MSG: Guest speakers, street closures, and more](https://www.fox4news.com/news/trump-rally-msg-how-watch-street-closures-guests)
 
- [![When do we 'fall back'? How to prepare for the time change](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1239221000-scaled.jpg?ve=1&tl=1)
+ [![Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/denton-drive-fire-kdfweme002_17_45_44_mpg_00.15.38.04.jpg?ve=1&tl=1)
 
- ![When do we 'fall back'? How to prepare for the time change](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1239221000-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/when-do-we-fall-back-time-change-2024)
+ ![Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/denton-drive-fire-kdfweme002_17_45_44_mpg_00.15.38.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-smoke-tire-shop)
 
-### [When do we 'fall back'? How to prepare for the time change](https://www.fox4news.com/news/when-do-we-fall-back-time-change-2024)
+### [Northwest Dallas tire shop fire sends large plumes of smoke into the air](https://www.fox4news.com/news/dallas-smoke-tire-shop)
 
- [![2 killed in Pleasant Grove crash Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/n-masters-fatal-crash-102724.png?ve=1&tl=1)
+ [![Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/gettyimages-2159711478.jpg?ve=1&tl=1)
 
- ![2 killed in Pleasant Grove crash Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/n-masters-fatal-crash-102724.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-killed-pleasant-grove-crash-sunday-morning)
+ ![Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/10/32/18/592/333/gettyimages-2159711478.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/giant-cheddar-cheese-theft-london-neals-yard-dairy)
 
-### [2 killed in Pleasant Grove crash Sunday morning](https://www.fox4news.com/news/2-killed-pleasant-grove-crash-sunday-morning)
+### [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://www.fox4news.com/news/giant-cheddar-cheese-theft-london-neals-yard-dairy)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
