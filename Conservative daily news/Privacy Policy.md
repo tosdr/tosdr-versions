@@ -1,7 +1,8 @@
-Sunday, October 27 2024
+Monday, October 28 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Monday, October 28, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-28-2024/)
 * [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
 * [Kamala Does Not Understand A Wall Or Security](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
 * [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
@@ -9,7 +10,6 @@ Breaking News
 * [Mark Halperin Says ‘Data Everywhere’ Shows ‘Things Have Moved In Trump’s Direction’](https://www.conservativedailynews.com/2024/10/mark-halperin-says-data-everywhere-shows-things-have-moved-in-trumps-direction/)
 * [Israel Launches Retaliatory Strikes Against Iran](https://www.conservativedailynews.com/2024/10/israel-launches-retaliatory-strikes-against-iran/)
 * [Trump Within Striking Distance Of Harris In State GOP Hasn’t Won Since New Millennium](https://www.conservativedailynews.com/2024/10/trump-within-striking-distance-of-harris-in-state-gop-hasnt-won-since-new-millennium/)
-* [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-28-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, October 28, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-28-2024/)
+    
+    October 28, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
     
     [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
@@ -169,12 +175,6 @@ Recent Posts
 * [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
     
     [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
-    
-    October 26, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Crazy-Kamala-220x150.webp)](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
-    
-    [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/)
     
     October 26, 2024
     
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
 * TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
 * Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
 * Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
@@ -240,7 +241,6 @@ Recent Comments
 * Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
 * Stanley Warner on [Biden Calls To ‘Lock’ Up Trump. Immediately Backtracks](https://www.conservativedailynews.com/2024/10/biden-calls-to-lock-up-trump-immediately-backtracks/#comment-782848)
 * Stanley Warner on [Are We Going To Have A Fair Election?](https://www.conservativedailynews.com/2024/10/are-we-going-to-have-a-fair-election/#comment-782834)
-* [Concerned](http://cdn/) on [America In The Age Of Stupidity: Things You Never See At A Kamala Harris Rally](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-things-you-never-see-at-a-kamala-harris-rally/#comment-782833)
 
 [Close](#)
 
