@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+
+New City
+
+### [Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+
+[October 25, 2024 8:10 AM](https://cwbchicago.com/2024/10)
+
+The investigation of an incident involving an off-duty suburban cop shooting at a car occupied by an off-duty Chicago cop has taken an interesting turn.[](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Tikeo-Sweeting-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
 
 Uptown
@@ -262,16 +272,6 @@ Citywide
 [October 24, 2024 6:10 PM](https://cwbchicago.com/2024/10)
 
 A full year into the state’s end of cash bail, a suburban county state’s attorney says the law has been “an abject failure” for his county.[](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2022/05/Joseph-Guardia-viaduct-Walking-man-326x245.jpg)](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
-
-River North
-
-### [47 years for killing ‘Walking Man’ by fire](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
-
-[October 24, 2024 4:37 PM](https://cwbchicago.com/2024/10)
-
-A judge on Thursday sentenced a man to 47 years in prison for setting a well-known homeless man on fire in River North, leading to the victim’s death weeks later.[](https://cwbchicago.com/2024/10/47-years-for-killing-walking-man-by-fire.html "47 years for killing ‘Walking Man’ by fire")
 
 Search
 
