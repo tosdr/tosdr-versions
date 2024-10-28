@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
+* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
 
 Service Stiftung Warentest
 
