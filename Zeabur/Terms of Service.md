@@ -1,161 +1,159 @@
 [![zeabur](/docs/_next/static/media/logo_b.5eb843fb.svg)![zeabur](/docs/_next/static/media/logo_w.1fc649c9.svg)](https://docs.zeabur.com/docs)
 
-[GitHubGitHub (opens in a new tab)](https://github.com/zeabur)
+[GitHubGitHub](https://github.com/zeabur)
 
-* [Introduction](https://docs.zeabur.com/docs)
-* [Get Started](https://docs.zeabur.com/docs/get-started)
+* [Introduction](https://docs.zeabur.com/docs/en-US)
+* [Get Started](https://docs.zeabur.com/docs/en-US/get-started)
 * Deploy
     
-    * [Create Project](https://docs.zeabur.com/docs/deploy/create-project)
-    * Domain Binding
-    * [Root Directory](https://docs.zeabur.com/docs/deploy/root-directory)
-    * [Watch Paths](https://docs.zeabur.com/docs/deploy/watch-paths)
-    * [Deploy with Dockerfile](https://docs.zeabur.com/docs/deploy/dockerfile)
-    * [Deploy Button](https://docs.zeabur.com/docs/deploy/deploy-button)
-    * [Backup Service](https://docs.zeabur.com/docs/deploy/backup)
-    * [Custom Prebuilt](https://docs.zeabur.com/docs/deploy/customize-prebuilt)
-    * [Integrating with GitHub](https://docs.zeabur.com/docs/deploy/github)
-    * Private Networking
-    * [Special Variables](https://docs.zeabur.com/docs/deploy/special-variables)
-    * [Deploy in CLI](https://docs.zeabur.com/docs/deploy/deploy-in-cli)
-    * [Config Editing](https://docs.zeabur.com/docs/deploy/config-edit)
-    * [Environment Variables](https://docs.zeabur.com/docs/deploy/variables)
-    * [Pull Request Preview](https://docs.zeabur.com/docs/deploy/preview)
-    * [Enable Serverless](https://docs.zeabur.com/docs/deploy/serverless)
-    * [Execute Commands](https://docs.zeabur.com/docs/deploy/command-execution)
-    * [Update Image Reference](https://docs.zeabur.com/docs/deploy/update-image-reference)
+    * [Create Project](https://docs.zeabur.com/docs/en-US/deploy/create-project)
+    * [Root Directory](https://docs.zeabur.com/docs/en-US/deploy/root-directory)
+    * [Watch Paths](https://docs.zeabur.com/docs/en-US/deploy/watch-paths)
+    * [Deploy with Dockerfile](https://docs.zeabur.com/docs/en-US/deploy/dockerfile)
+    * [Deploy Button](https://docs.zeabur.com/docs/en-US/deploy/deploy-button)
+    * [Backup Service](https://docs.zeabur.com/docs/en-US/deploy/backup)
+    * [Custom Prebuilt](https://docs.zeabur.com/docs/en-US/deploy/customize-prebuilt)
+    * [Integrating with GitHub](https://docs.zeabur.com/docs/en-US/deploy/github)
+    * [Special Variables](https://docs.zeabur.com/docs/en-US/deploy/special-variables)
+    * [Deploy in CLI](https://docs.zeabur.com/docs/en-US/deploy/deploy-in-cli)
+    * [Config Editing](https://docs.zeabur.com/docs/en-US/deploy/config-edit)
+    * [Environment Variables](https://docs.zeabur.com/docs/en-US/deploy/variables)
+    * [Pull Request Preview](https://docs.zeabur.com/docs/en-US/deploy/preview)
+    * [Execute Commands](https://docs.zeabur.com/docs/en-US/deploy/command-execution)
+    * [Enable Serverless](https://docs.zeabur.com/docs/en-US/deploy/serverless)
+    * [Update Image Reference](https://docs.zeabur.com/docs/en-US/deploy/update-image-reference)
     
 * Template
     
-    * [Create Template](https://docs.zeabur.com/docs/template/create-template)
-    * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
-    * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
+    * [Create Template](https://docs.zeabur.com/docs/en-US/template/create-template)
+    * [Creating Templates from YAML](https://docs.zeabur.com/docs/en-US/template/template-in-code)
+    * [Fork Code from Template Services](https://docs.zeabur.com/docs/en-US/template/fork-git-repo-from-template)
     
 * Networking
     
-    * [Public Networking](https://docs.zeabur.com/docs/networking/public)
-    * [Private Networking](https://docs.zeabur.com/docs/networking/private)
+    * [Public Networking](https://docs.zeabur.com/docs/en-US/networking/public)
+    * [Private Networking](https://docs.zeabur.com/docs/en-US/networking/private)
     
 * Guides
     
-    * [Node.js](https://docs.zeabur.com/docs/guides/nodejs)
+    * [Node.js](https://docs.zeabur.com/docs/en-US/guides/nodejs)
         
-        * [Astro](https://docs.zeabur.com/docs/guides/nodejs/astro)
-        * [Deploy Qwik Project](https://docs.zeabur.com/docs/guides/nodejs/qwik)
-        * [Express](https://docs.zeabur.com/docs/guides/nodejs/express)
-        * [NestJS](https://docs.zeabur.com/docs/guides/nodejs/nestjs)
-        * [Next.js](https://docs.zeabur.com/docs/guides/nodejs/nextjs)
-        * [Nue](https://docs.zeabur.com/docs/guides/nodejs/nue)
-        * [Nuxt](https://docs.zeabur.com/docs/guides/nodejs/nuxt)
-        * [Remix](https://docs.zeabur.com/docs/guides/nodejs/remix)
-        * [Svelte Kit](https://docs.zeabur.com/docs/guides/nodejs/svelte-kit)
-        * [Umi](https://docs.zeabur.com/docs/guides/nodejs/umi)
-        * [Vite](https://docs.zeabur.com/docs/guides/nodejs/vite)
-        * [Waku](https://docs.zeabur.com/docs/guides/nodejs/waku)
+        * [Astro](https://docs.zeabur.com/docs/en-US/guides/nodejs/astro)
+        * [Express](https://docs.zeabur.com/docs/en-US/guides/nodejs/express)
+        * [NestJS](https://docs.zeabur.com/docs/en-US/guides/nodejs/nestjs)
+        * [Next.js](https://docs.zeabur.com/docs/en-US/guides/nodejs/nextjs)
+        * [Nue](https://docs.zeabur.com/docs/en-US/guides/nodejs/nue)
+        * [Nuxt](https://docs.zeabur.com/docs/en-US/guides/nodejs/nuxt)
+        * [Deploy Qwik Project](https://docs.zeabur.com/docs/en-US/guides/nodejs/qwik)
+        * [Remix](https://docs.zeabur.com/docs/en-US/guides/nodejs/remix)
+        * [Svelte Kit](https://docs.zeabur.com/docs/en-US/guides/nodejs/svelte-kit)
+        * [Umi](https://docs.zeabur.com/docs/en-US/guides/nodejs/umi)
+        * [Vite](https://docs.zeabur.com/docs/en-US/guides/nodejs/vite)
+        * [Waku](https://docs.zeabur.com/docs/en-US/guides/nodejs/waku)
         
-    * [Bun](https://docs.zeabur.com/docs/guides/bun)
+    * [Bun](https://docs.zeabur.com/docs/en-US/guides/bun)
         
-        * [ElysiaJS](https://docs.zeabur.com/docs/guides/bun/elysiajs)
-        * [Hono](https://docs.zeabur.com/docs/guides/bun/hono)
+        * [ElysiaJS](https://docs.zeabur.com/docs/en-US/guides/bun/elysiajs)
+        * [Hono](https://docs.zeabur.com/docs/en-US/guides/bun/hono)
         
-    * [Java](https://docs.zeabur.com/docs/guides/java)
+    * [Java](https://docs.zeabur.com/docs/en-US/guides/java)
         
-        * [Spring Boot](https://docs.zeabur.com/docs/guides/java/spring-boot)
+        * [Spring Boot](https://docs.zeabur.com/docs/en-US/guides/java/spring-boot)
         
-    * [PHP](https://docs.zeabur.com/docs/guides/php)
+    * [PHP](https://docs.zeabur.com/docs/en-US/guides/php)
         
-        * [Laravel](https://docs.zeabur.com/docs/guides/php/laravel)
+        * [Laravel](https://docs.zeabur.com/docs/en-US/guides/php/laravel)
         
-    * [Python](https://docs.zeabur.com/docs/guides/python)
+    * [Python](https://docs.zeabur.com/docs/en-US/guides/python)
         
-        * [Django](https://docs.zeabur.com/docs/guides/python/django)
-        * [Flask](https://docs.zeabur.com/docs/guides/python/flask)
-        * [Reflex](https://docs.zeabur.com/docs/guides/python/reflex)
+        * [Django](https://docs.zeabur.com/docs/en-US/guides/python/django)
+        * [Flask](https://docs.zeabur.com/docs/en-US/guides/python/flask)
+        * [Reflex](https://docs.zeabur.com/docs/en-US/guides/python/reflex)
         
-    * [Go](https://docs.zeabur.com/docs/guides/go)
+    * [Go](https://docs.zeabur.com/docs/en-US/guides/go)
     * Deno
         
-        * [Fresh](https://docs.zeabur.com/docs/guides/deno/fresh)
-        * [TypeScript](https://docs.zeabur.com/docs/guides/deno/typescript)
+        * [Fresh](https://docs.zeabur.com/docs/en-US/guides/deno/fresh)
+        * [TypeScript](https://docs.zeabur.com/docs/en-US/guides/deno/typescript)
         
-    * [Rust](https://docs.zeabur.com/docs/guides/rust)
+    * [Rust](https://docs.zeabur.com/docs/en-US/guides/rust)
     * Swift
         
-        * [Vapor](https://docs.zeabur.com/docs/guides/swift/vapor)
+        * [Vapor](https://docs.zeabur.com/docs/en-US/guides/swift/vapor)
         
     * Dart
         
-        * [Flutter](https://docs.zeabur.com/docs/guides/dart/flutter)
+        * [Flutter](https://docs.zeabur.com/docs/en-US/guides/dart/flutter)
         
     * Static
         
-        * [Hugo](https://docs.zeabur.com/docs/guides/static/hugo)
-        * [MkDocs](https://docs.zeabur.com/docs/guides/static/mkdocs)
+        * [Hugo](https://docs.zeabur.com/docs/en-US/guides/static/hugo)
+        * [MkDocs](https://docs.zeabur.com/docs/en-US/guides/static/mkdocs)
         
-    * [.NET](https://docs.zeabur.com/docs/guides/dotnet)
+    * [.NET](https://docs.zeabur.com/docs/en-US/guides/dotnet)
     
 * Project Manage
     
-    * [Service Usage](https://docs.zeabur.com/docs/manage/metric)
-    * [Invite Member](https://docs.zeabur.com/docs/manage/invite)
-    * [Project Budget](https://docs.zeabur.com/docs/manage/budget)
+    * [Service Usage](https://docs.zeabur.com/docs/en-US/manage/metric)
+    * [Invite Member](https://docs.zeabur.com/docs/en-US/manage/invite)
+    * [Project Budget](https://docs.zeabur.com/docs/en-US/manage/budget)
     
 * Service Marketplace
     
-    * [Deploy Dragonfly Service](https://docs.zeabur.com/docs/marketplace/dragonfly)
-    * [Deploy Flowise](https://docs.zeabur.com/docs/marketplace/flowise)
-    * [Deploy Focalboard](https://docs.zeabur.com/docs/marketplace/focalboard)
-    * [Deploy Ghost](https://docs.zeabur.com/docs/marketplace/ghost)
-    * [Deploy Halo](https://docs.zeabur.com/docs/marketplace/halo)
-    * [Deploy Likit](https://docs.zeabur.com/docs/marketplace/likit)
-    * [Deploy Linkwarden](https://docs.zeabur.com/docs/marketplace/linkwarden)
-    * [Deploy Logto](https://docs.zeabur.com/docs/marketplace/logto)
-    * [Deploy Memos](https://docs.zeabur.com/docs/marketplace/memos)
-    * [Deploy MongoDB](https://docs.zeabur.com/docs/marketplace/mongodb)
-    * [Deploy MySQL](https://docs.zeabur.com/docs/marketplace/mysql)
-    * [Deploy n8n](https://docs.zeabur.com/docs/marketplace/n8n)
-    * [Deploy PostgreSQL](https://docs.zeabur.com/docs/marketplace/postgresql)
-    * [Deploy RabbitMQ](https://docs.zeabur.com/docs/marketplace/rabbitmq)
-    * [Deploy Redis](https://docs.zeabur.com/docs/marketplace/redis)
-    * [Deploy RSSHub](https://docs.zeabur.com/docs/marketplace/rsshub)
-    * [Deploy Tiny Tiny RSS](https://docs.zeabur.com/docs/marketplace/ttrss)
-    * [Deploy Umami](https://docs.zeabur.com/docs/marketplace/umami)
-    * [Deploy Uptime Kuma](https://docs.zeabur.com/docs/marketplace/uptime-kuma)
-    * [Deploy WeWe RSS](https://docs.zeabur.com/docs/marketplace/wewe-rss)
-    * [Deploy WordPress](https://docs.zeabur.com/docs/marketplace/wordpress)
+    * [Deploy Dragonfly Service](https://docs.zeabur.com/docs/en-US/marketplace/dragonfly)
+    * [Deploy Flowise](https://docs.zeabur.com/docs/en-US/marketplace/flowise)
+    * [Deploy Focalboard](https://docs.zeabur.com/docs/en-US/marketplace/focalboard)
+    * [Deploy Ghost](https://docs.zeabur.com/docs/en-US/marketplace/ghost)
+    * [Deploy Halo](https://docs.zeabur.com/docs/en-US/marketplace/halo)
+    * [Deploy Likit](https://docs.zeabur.com/docs/en-US/marketplace/likit)
+    * [Deploy Linkwarden](https://docs.zeabur.com/docs/en-US/marketplace/linkwarden)
+    * [Deploy Logto](https://docs.zeabur.com/docs/en-US/marketplace/logto)
+    * [Deploy Memos](https://docs.zeabur.com/docs/en-US/marketplace/memos)
+    * [Deploy MongoDB](https://docs.zeabur.com/docs/en-US/marketplace/mongodb)
+    * [Deploy MySQL](https://docs.zeabur.com/docs/en-US/marketplace/mysql)
+    * [Deploy n8n](https://docs.zeabur.com/docs/en-US/marketplace/n8n)
+    * [Deploy PostgreSQL](https://docs.zeabur.com/docs/en-US/marketplace/postgresql)
+    * [Deploy RabbitMQ](https://docs.zeabur.com/docs/en-US/marketplace/rabbitmq)
+    * [Deploy Redis](https://docs.zeabur.com/docs/en-US/marketplace/redis)
+    * [Deploy RSSHub](https://docs.zeabur.com/docs/en-US/marketplace/rsshub)
+    * [Deploy Tiny Tiny RSS](https://docs.zeabur.com/docs/en-US/marketplace/ttrss)
+    * [Deploy Umami](https://docs.zeabur.com/docs/en-US/marketplace/umami)
+    * [Deploy Uptime Kuma](https://docs.zeabur.com/docs/en-US/marketplace/uptime-kuma)
+    * [Deploy WeWe RSS](https://docs.zeabur.com/docs/en-US/marketplace/wewe-rss)
+    * [Deploy WordPress](https://docs.zeabur.com/docs/en-US/marketplace/wordpress)
     
 * Legal and Policies
     
-    * [Fair use Guidelines](https://docs.zeabur.com/docs/legal/fair-use-guideline)
-    * [Privacy Policy](https://docs.zeabur.com/docs/legal/privacy)
-    * [Terms of Service](https://docs.zeabur.com/docs/legal/terms)
+    * [Fair use Guidelines](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline)
+    * [Privacy Policy](https://docs.zeabur.com/docs/en-US/legal/privacy)
+    * [Terms of Service](https://docs.zeabur.com/docs/en-US/legal/terms)
     
 * Payments and Billing
     
-    * [Pricing](https://docs.zeabur.com/docs/billing/pricing)
-    * [Plans](https://docs.zeabur.com/docs/billing/plans)
-    * [Subscription](https://docs.zeabur.com/docs/billing/subscription)
-    * [Referral](https://docs.zeabur.com/docs/billing/referral)
-    * [Sponsor](https://docs.zeabur.com/docs/billing/sponsor)
+    * [Pricing](https://docs.zeabur.com/docs/en-US/billing/pricing)
+    * [Plans](https://docs.zeabur.com/docs/en-US/billing/plans)
+    * [Subscription](https://docs.zeabur.com/docs/en-US/billing/subscription)
+    * [Referral](https://docs.zeabur.com/docs/en-US/billing/referral)
+    * [Sponsor](https://docs.zeabur.com/docs/en-US/billing/sponsor)
     
 * Community
     
-    * [Verify](https://docs.zeabur.com/docs/community/verify)
-    * [Get Help](https://docs.zeabur.com/docs/community/help)
+    * [Verify](https://docs.zeabur.com/docs/en-US/community/verify)
+    * [Get Help](https://docs.zeabur.com/docs/en-US/community/help)
     
 * Advanced
     
-    * [Builds](https://docs.zeabur.com/docs/advanced/builds)
-    * [Serverless output format](https://docs.zeabur.com/docs/advanced/serverless-output-format)
+    * [Builds](https://docs.zeabur.com/docs/en-US/advanced/builds)
+    * [Serverless output format](https://docs.zeabur.com/docs/en-US/advanced/serverless-output-format)
     
 * Developer
     
-    * [Use API Key](https://docs.zeabur.com/docs/developer/use-api-key)
-    * [Public API](https://docs.zeabur.com/docs/developer/public-api)
+    * [Use API Key](https://docs.zeabur.com/docs/en-US/developer/use-api-key)
+    * [Public API](https://docs.zeabur.com/docs/en-US/developer/public-api)
     
-* [Dedicated Server](https://docs.zeabur.com/docs/dedicated-server)
+* [Dedicated Server](https://docs.zeabur.com/docs/en-US/dedicated-server)
     
-    * [Register Dedicated Server](https://docs.zeabur.com/docs/dedicated-server/register)
+    * [Register Dedicated Server](https://docs.zeabur.com/docs/en-US/dedicated-server/register)
     
 
 English
@@ -200,11 +198,9 @@ On This Page
 * [Transfer](#transfer)
 * [Other matters](#other-matters)
 
-[Question? Give us feedback → (opens in a new tab)](https://github.com/zeabur/zeabur/issues/new?title=Feedback%20for%20%E2%80%9CTerms%20of%20Service%E2%80%9D&labels=feedback)[Edit this page](https://github.com/zeabur/zeabur/tree/main/docs/pages/legal/terms.en-US.mdx)
+[Question? Give us feedback →](https://github.com/zeabur/zeabur/issues/new?title=Feedback%20for%20%E2%80%9CTerms%20of%20Service%E2%80%9D&labels=feedback)[Edit this page](https://github.com/zeabur/zeabur/tree/main/docs/pages/en-US/legal/terms.mdx)Scroll to top
 
-Legal and Policies
-
-Terms of Service
+[Legal and Policies](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline "Legal and Policies")Terms of Service
 
 Terms of Service
 ================
@@ -223,7 +219,7 @@ For your convenience, we have summarized the key points of our terms of service 
 5. you are legally responsible for the content and services you deploy and manage on our platform
 6. we will comply with copyright takedown requests
 7. we will try our best to notify you when our terms of service change
-8. the services and content provided by Zeabur are provided "as is" without any warranty
+8. the services and content provided by Zeabur are provided “as is” without any warranty
 
 If you use the Zeabur platform and its services, you agree to these terms.
 
@@ -232,9 +228,9 @@ If you need the full terms, please read the following content.
 1\. Basic Introduction[](#1-basic-introduction)
 -----------------------------------------------
 
-Thank you for choosing Zeabur as your partner. Please read the following content to understand the rules and restrictions you need to follow when using our website, products, services and applications (hereinafter referred to as "services").
+Thank you for choosing Zeabur as your partner. Please read the following content to understand the rules and restrictions you need to follow when using our website, products, services and applications (hereinafter referred to as “services”).
 
-The following user terms (hereinafter referred to as "terms") are a binding contract between you and Zeabur Technology Co., Ltd. (hereinafter referred to as "Zeabur", "we", "our company", "our platform" or "Zeabur Technology"). By using any service in any way, you agree to abide by all terms, and these terms will remain in effect during your use of the service. These terms include the terms in this document and the terms in the privacy policy. You may also be subject to other policies, rules and terms (hereinafter referred to as "additional terms") when you use or participate in certain services, which have been referenced in this document. You understand and agree that when you use or participate in any service, you agree to abide by these additional terms.
+The following user terms (hereinafter referred to as “terms”) are a binding contract between you and Zeabur Technology Co., Ltd. (hereinafter referred to as “Zeabur”, “we”, “our company”, “our platform” or “Zeabur Technology”). By using any service in any way, you agree to abide by all terms, and these terms will remain in effect during your use of the service. These terms include the terms in this document and the terms in the privacy policy. You may also be subject to other policies, rules and terms (hereinafter referred to as “additional terms”) when you use or participate in certain services, which have been referenced in this document. You understand and agree that when you use or participate in any service, you agree to abide by these additional terms.
 
 Please read these terms carefully. They cover important information about the services we provide to you, as well as the fees, taxes and fees we will charge you. These terms include information about future changes to these terms, automatic renewal, liability limitations, class action waivers, and arbitration to resolve disputes instead of resolving disputes in court. Please note that your use and access to our services will be subject to the following terms; if you do not agree to all of the following, you may not be able to use or access the service in any way.
 
@@ -254,18 +250,18 @@ Except for changes described here, no other amendments or modifications to these
 3\. Privacy Policy[](#3-privacy-policy)
 ---------------------------------------
 
-Zeabur places the privacy and data security of users first. Please click [here](https://docs.zeabur.com/docs/legal/privacy) to view the latest privacy policy.
+Zeabur places the privacy and data security of users first. Please click [here](https://docs.zeabur.com/docs/en-US/legal/privacy) to view the latest privacy policy.
 
 4\. Basic Requirements[](#4-basic-requirements)
 -----------------------------------------------
 
-You may need to register an account, choose a password and user name (Zeabur User ID), and provide us with some information or data, such as your contact information. You promise to provide accurate, complete and updated self-registration information to us. You cannot choose a user name that you do not have the right to use, or choose another person's user name in the name of another person. You cannot transfer your account to another person without our prior written permission.
+You may need to register an account, choose a password and user name (Zeabur User ID), and provide us with some information or data, such as your contact information. You promise to provide accurate, complete and updated self-registration information to us. You cannot choose a user name that you do not have the right to use, or choose another person’s user name in the name of another person. You cannot transfer your account to another person without our prior written permission.
 
 You must provide accurate, complete and up-to-date information when you register for an account, and you must keep this information up to date. You are responsible for all activities that occur under your account. You must not disclose your password to anyone else. You must notify us immediately if you become aware of any unauthorized use of your account or any other breach of security.
 
-In addition, you can access some parts or functions of the service by using the account credentials of other services (each of which is referred to as a "third-party account"), such as services provided by GitHub, GitLab or Google. By using the service through a third-party account, you allow us to access some information from such accounts for use by the service. You ultimately control how much information is visible to us and can execute such control by adjusting the privacy settings of the third-party account.
+In addition, you can access some parts or functions of the service by using the account credentials of other services (each of which is referred to as a “third-party account”), such as services provided by GitHub, GitLab or Google. By using the service through a third-party account, you allow us to access some information from such accounts for use by the service. You ultimately control how much information is visible to us and can execute such control by adjusting the privacy settings of the third-party account.
 
-You promise that you are a legal adult and can form a binding contract (or if you are not, you have obtained permission from your parents or guardians to use the service and have obtained your parents' or guardians' consent to these terms on your behalf). If you agree to these terms on behalf of an organization or entity, you promise and guarantee that you have the authority to agree to these terms on behalf of the organization or entity and to bind it in these terms (in which case, references to "you" and "your" in these terms refer to the organization or entity, except for this sentence).
+You promise that you are a legal adult and can form a binding contract (or if you are not, you have obtained permission from your parents or guardians to use the service and have obtained your parents’ or guardians’ consent to these terms on your behalf). If you agree to these terms on behalf of an organization or entity, you promise and guarantee that you have the authority to agree to these terms on behalf of the organization or entity and to bind it in these terms (in which case, references to “you” and “your” in these terms refer to the organization or entity, except for this sentence).
 
 You can only use the service for your own internal, personal, non-commercial purposes, not on behalf of or for the benefit of any third party, and can only use it in a manner that complies with all applicable laws. If the use of the service is prohibited by applicable law, you are not allowed to use the service. We cannot and will not be responsible for your use of the service in a manner that violates the law.
 
@@ -279,14 +275,14 @@ As part of the service, you may receive communications from us, including messag
 
 You promise that you will not provide or contribute anything in any of the following ways, including any content or user-submitted content (as defined below), to the service, or otherwise use or interact with the service:
 
-1. Infringe or violate any person's intellectual property rights or any other rights (including Zeabur);
+1. Infringe or violate any person’s intellectual property rights or any other rights (including Zeabur);
 2. Violate any law or regulation, including but not limited to any applicable export control laws, privacy laws or any other purpose reasonably intended by Zeabur;
 3. Dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene or otherwise objectionable;
 4. Endanger your Zeabur User ID, account or the security of any person (for example, allowing others to log in to the service as you);
-5. Attempt to obtain any other user's password, account or other security information in any way;
+5. Attempt to obtain any other user’s password, account or other security information in any way;
 6. Violate the security of any computer network, or crack any password or security encryption code;
-7. Run mailing lists, list servers, any form of autoresponder or "spam" on the service, or any process that runs or is activated when you are not logged in to the service, or otherwise interfere with the normal operation of the service (including placing unreasonable loads on the service's infrastructure);
-8. Use "crawlers" to "scrape" any page, data or any part of the service or content (by manual or automatic means);
+7. Run mailing lists, list servers, any form of autoresponder or “spam” on the service, or any process that runs or is activated when you are not logged in to the service, or otherwise interfere with the normal operation of the service (including placing unreasonable loads on the service’s infrastructure);
+8. Use “crawlers” to “scrape” any page, data or any part of the service or content (by manual or automatic means);
 9. Copy or store any significant part of the content;
 10. Reverse engineer, decompile or otherwise attempt to obtain the source code or underlying ideas or information related to the service.
 
@@ -295,7 +291,7 @@ Any such breach of these terms is grounds for termination of your use or access 
 7\. Rights[](#7-rights)
 -----------------------
 
-Content displayed, accessible or otherwise provided on the service, including but not limited to text, graphics, data, articles, photos, images, illustrations, user-submitted content (as defined below) and the like (collectively, "content"), is protected by copyright and/or other intellectual property laws. You agree to comply with all copyright notices, trademark rules, information and restrictions contained in any content accessed through the service and you will not use, copy, reproduce, modify, translate, publish, broadcast, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any content that you do not own (i) without the prior written consent of the owner of that content, or (ii) in a way that violates the rights of others (including Zeabur).
+Content displayed, accessible or otherwise provided on the service, including but not limited to text, graphics, data, articles, photos, images, illustrations, user-submitted content (as defined below) and the like (collectively, “content”), is protected by copyright and/or other intellectual property laws. You agree to comply with all copyright notices, trademark rules, information and restrictions contained in any content accessed through the service and you will not use, copy, reproduce, modify, translate, publish, broadcast, distribute, perform, upload, display, license, sell or otherwise exploit for any purpose any content that you do not own (i) without the prior written consent of the owner of that content, or (ii) in a way that violates the rights of others (including Zeabur).
 
 Unless otherwise specified, we grant to each user of the service a non-exclusive, non-transferable, non-sublicensable license to use (i.e. download and display locally) content solely for the purpose of using the service. You may not use, copy, modify, distribute or store any content for any purpose without our prior written permission. You understand that Zeabur owns the service. You will not modify, publish, transmit, participate in the transfer or sale, create derivative works from, or in any way exploit any of the service. The service may allow you to copy or download certain content, but remember that all the restrictions in this section still apply even if such features exist.
 
@@ -304,11 +300,11 @@ Unless otherwise specified, we grant to each user of the service a non-exclusive
 
 ### User Submitted Content[](#user-submitted-content)
 
-Any content you publish, upload, share, store, or otherwise provide through the service is "User Submitted Content". Some User Submitted Content may be viewable by other users. You are responsible for all User Submitted Content that you submit through the service. You represent that all User Submitted Content you submit is accurate, complete, up-to-date, and compliant with all applicable laws, rules, and regulations.
+Any content you publish, upload, share, store, or otherwise provide through the service is “User Submitted Content”. Some User Submitted Content may be viewable by other users. You are responsible for all User Submitted Content that you submit through the service. You represent that all User Submitted Content you submit is accurate, complete, up-to-date, and compliant with all applicable laws, rules, and regulations.
 
 You agree that you will not publish, upload, share, store, or otherwise provide any User Submitted Content through the service that:
 
-1. Infringes any third-party's copyright or other rights (such as trademark, privacy, etc.)
+1. Infringes any third-party’s copyright or other rights (such as trademark, privacy, etc.)
 2. Contains pornography or sexually explicit content
 3. Contains hate speech, defamation, or discriminatory content, or incites hatred against any individual or group
 4. Exploits minors
@@ -393,13 +389,13 @@ If you are using a free version of the service, we will notify you before we sta
 
 ### Billing[](#billing)
 
-Some of our services may now or in the future be charged for (the "Paid Services"). Please refer to our Paid Services page for a description of the current Paid Services. Please note that any payment terms displayed to you during the use or registration process for a Paid Service are deemed to be part of these terms.
+Some of our services may now or in the future be charged for (the “Paid Services”). Please refer to our Paid Services page for a description of the current Paid Services. Please note that any payment terms displayed to you during the use or registration process for a Paid Service are deemed to be part of these terms.
 
 ### Payment[](#payment)
 
-We use third-party payment service companies to charge you for using paid services through your account on the service (the "Billing Account") linked to your payment account. The payment processing of the third-party payment service company will be subject to terms, conditions and privacy policies other than these terms. Currently, we use Stripe as our third-party payment service company.
+We use third-party payment service companies to charge you for using paid services through your account on the service (the “Billing Account”) linked to your payment account. The payment processing of the third-party payment service company will be subject to terms, conditions and privacy policies other than these terms. Currently, we use Stripe as our third-party payment service company.
 
-You can access Stripe's service terms through [Stripe Service Terms (opens in a new tab)](https://stripe.com/legal/ssa) and its privacy policy through [Stripe Privacy Policy (opens in a new tab)](https://stripe.com/privacy). We are not responsible for any errors or other actions or omissions of the third-party payment company. By choosing to use a paid service, you agree to pay all fees to us through the third-party payment company in order to use such paid service at the then-current price, and authorize us to charge your selected payment provider (the "Payment Method") through the third-party payment company. You agree to pay using the selected payment method. We reserve the right to correct any errors or errors of the third-party payment company, even if the third-party payment company has requested or received payment.
+You can access Stripe’s service terms through [Stripe Service Terms](https://stripe.com/legal/ssa) and its privacy policy through [Stripe Privacy Policy](https://stripe.com/privacy). We are not responsible for any errors or other actions or omissions of the third-party payment company. By choosing to use a paid service, you agree to pay all fees to us through the third-party payment company in order to use such paid service at the then-current price, and authorize us to charge your selected payment provider (the “Payment Method”) through the third-party payment company. You agree to pay using the selected payment method. We reserve the right to correct any errors or errors of the third-party payment company, even if the third-party payment company has requested or received payment.
 
 ### Payment Method[](#payment-method)
 
@@ -445,7 +441,7 @@ By their very nature, provisions that should survive termination of these provis
 14\. Promotional Rewards[](#14-promotional-rewards)
 ---------------------------------------------------
 
-Sometimes, Zeabur may offer rewards or incentives for recommending other users to use the service. For details on current referral promotions, please refer to our referral page. A referring user (the "referring user") can refer a person or entity that is neither a current customer of Zeabur nor a registered user of the service (the "referred user"). Registered users are people or entities who already have a Zeabur account. There is no limit to the number of people a referring user can refer through such special promotions, nor is there a limit to the total rewards or incentives that a referring user can receive through such special promotions, unless otherwise specified.
+Sometimes, Zeabur may offer rewards or incentives for recommending other users to use the service. For details on current referral promotions, please refer to our referral page. A referring user (the “referring user”) can refer a person or entity that is neither a current customer of Zeabur nor a registered user of the service (the “referred user”). Registered users are people or entities who already have a Zeabur account. There is no limit to the number of people a referring user can refer through such special promotions, nor is there a limit to the total rewards or incentives that a referring user can receive through such special promotions, unless otherwise specified.
 
 The referring user will receive a reward or incentive for each referred user who completes the required actions described in the special promotion (for example, registering an account or purchasing). All referred users must be the first to receive the promotion and will ignore multiple recommendations for the same person or entity.
 
@@ -460,19 +456,19 @@ All special promotions are subject to any other terms, conditions and restrictio
 
 Zeabur and its licensors, suppliers, partners, parent companies, subsidiaries or affiliated entities, and each of their directors, officers, members, employees, advisors, contractors, representatives and agents, and each of their heirs and successors (collectively, Zeabur and partners) will not make any representation or warranty about the service, including but not limited to the content included in or accessed through the service, Zeabur and partners will not be responsible for the accuracy, copyright compliance, legality or morality of any content included in or accessed through the service or any claim, action, lawsuit, cost, fee, loss or liability related to your use of the service or any way in which you participate in the service.
 
-Zeabur and partners make no representations or warranties about the services or products offered through or in connection with the service. The services and content provided by Zeabur (and its licensors and suppliers) are provided "as is" without any warranty of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, non-infringement or the use of the service will not be interrupted or error-free.
+Zeabur and partners make no representations or warranties about the services or products offered through or in connection with the service. The services and content provided by Zeabur (and its licensors and suppliers) are provided “as is” without any warranty of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, non-infringement or the use of the service will not be interrupted or error-free.
 
 ### Limitation of Liability[](#limitation-of-liability)
 
-In no event will Zeabur or its partners be liable to you or any other person for any indirect, special, incidental, punitive or consequential damages, including but not limited to loss of profits, business interruption, data loss, loss of goodwill, work stoppage, accuracy of results, or computer failure or malfunction, even if Zeabur or its partners have been advised of the possibility of such damages. In no event will Zeabur or its partners' total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of one hundred U.S. dollars ($100) or the amount you have paid and/or payable to Zeabur for the services in question in the twelve (12) months prior to the action giving rise to such liability, whichever is greater. The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
+In no event will Zeabur or its partners be liable to you or any other person for any indirect, special, incidental, punitive or consequential damages, including but not limited to loss of profits, business interruption, data loss, loss of goodwill, work stoppage, accuracy of results, or computer failure or malfunction, even if Zeabur or its partners have been advised of the possibility of such damages. In no event will Zeabur or its partners’ total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of one hundred U.S. dollars ($100) or the amount you have paid and/or payable to Zeabur for the services in question in the twelve (12) months prior to the action giving rise to such liability, whichever is greater. The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
 
 ### Indemnification[](#indemnification)
 
-In the maximum extent permitted by applicable law, you agree to indemnify and hold Zeabur and its partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including reasonable attorneys' fees) arising out of or in any way connected with any claim arising from or related to (a) your use of the service (including any action taken by any third party using your account), and (b) your breach of these terms. In the event of such a claim, lawsuit or action ("claim"), we will try to provide notice of the claim to the contact information we have about your account (provided that failure to provide such notice will not relieve or reduce your indemnification obligations under these terms).
+In the maximum extent permitted by applicable law, you agree to indemnify and hold Zeabur and its partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including reasonable attorneys’ fees) arising out of or in any way connected with any claim arising from or related to (a) your use of the service (including any action taken by any third party using your account), and (b) your breach of these terms. In the event of such a claim, lawsuit or action (“claim”), we will try to provide notice of the claim to the contact information we have about your account (provided that failure to provide such notice will not relieve or reduce your indemnification obligations under these terms).
 
 ### Transfer[](#transfer)
 
-You may not assign, transfer or delegate these terms or your rights or obligations under these terms, or your service account, in any way (by operation of law or otherwise) without Zeabur's prior written consent. We may assign, transfer or delegate these terms and our rights and obligations without consent.
+You may not assign, transfer or delegate these terms or your rights or obligations under these terms, or your service account, in any way (by operation of law or otherwise) without Zeabur’s prior written consent. We may assign, transfer or delegate these terms and our rights and obligations without consent.
 
 ### Other matters[](#other-matters)
 
@@ -482,12 +478,6 @@ You and Zeabur agree that these terms are the complete and exclusive statement o
 
 Unless otherwise expressly provided, you and Zeabur agree that there are no third-party beneficiaries under these terms.
 
-[Privacy Policy](https://docs.zeabur.com/docs/legal/privacy "Privacy Policy")[Pricing](https://docs.zeabur.com/docs/billing/pricing "Pricing")
-
-English
-
-Light
-
-* * *
+[Privacy Policy](https://docs.zeabur.com/docs/en-US/legal/privacy "Privacy Policy")[Pricing](https://docs.zeabur.com/docs/en-US/billing/pricing "Pricing")
 
 2024 © [Zeabur Pte. Ltd.](https://zeabur.com/).
