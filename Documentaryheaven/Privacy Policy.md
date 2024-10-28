@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![I Helped My Daughter Die](/wp-content/thumbnails/7196-100x70.jpg?x53432)
+* [![Ross Kemp on Gangs: Moscow](/wp-content/thumbnails/443-100x70.png?x53432)
     
-    I Helped My Daughter Die
+    Ross Kemp on Gangs: Moscow
     
-    For a year Kay Gilderdale believed she could go to prison for the attempted murder of her own daughter, and then a court cleared her. The judge agreed that she was just a loving mom, trying to do the](https://documentaryheaven.com/i-helped-my-daughter-die/ "I Helped My Daughter Die")
-* [![Eceti Ranch](/wp-content/thumbnails/6340-100x70.jpg?x53432)
+    "Ross uncovers the extent to which the Nazi, or National Socialist, groups are gaining power in Russia: it would seem that at best the police turn a blind eye to racism, at worse actively endorse it.](https://documentaryheaven.com/ross-kemp-on-gangs-moscow/ "Ross Kemp on Gangs: Moscow")
+* [![How the White House was Won](/wp-content/thumbnails/6802-100x70.jpg?x53432)
     
-    Eceti Ranch
+    How the White House was Won
     
-    ECETI Ranch represents a microcosmic reality of a world-wide collective phenomenon.The owner of the ranch, James Gilliland, maintains to have experienced UFO related phenomena, including contact w](https://documentaryheaven.com/eceti-ranch/ "Eceti Ranch")
-* [![Pol Pot](/wp-content/thumbnails/9208-100x70.jpg?x53432)
+    It was a long and bitter race that lasted months and cost at least $2.5bn. This episode of Fault Lines takes viewers through a tour of the US 2012 presidential campaign, from the high and low moments,](https://documentaryheaven.com/how-the-white-house-was-won/ "How the White House was Won")
+* [![Louis Theroux on Michael Jackson](/wp-content/thumbnails/403-100x70.png?x53432)
     
-    Pol Pot
+    Louis Theroux on Michael Jackson
     
-    In the early 1970's a single minded revolutionary lay concealed in the Cambodian jungle. As American bombs exploded around him he remained obsessed with his secret plan to destroy his own culture in t](https://documentaryheaven.com/pol-pot/ "Pol Pot")
-* [![The Foreign Legion: Tougher Than The Rest](/wp-content/thumbnails/6262-100x70.jpg?x53432)
+    Louis Theroux travels to America for the chance to meet Michael Jackson, but getting hold of the man turns out to be a lot more difficult than he had anticipated. And then he discovered, Michael Jacks](https://documentaryheaven.com/louis-theroux-on-michael-jackson/ "Louis Theroux on Michael Jackson")
+* [![Every F*cking Day of My Life](/wp-content/thumbnails/4621-100x70.jpg?x53432)
     
-    The Foreign Legion: Tougher Than The Rest
+    Every F\*cking Day of My Life
     
-    A documentary looking into the French Foreign Legion, long known as one of the most mysterious and secretive fighting forces in the world.Men from all over the world have left their pasts behind to](https://documentaryheaven.com/the-foreign-legion-tougher-than-the-rest/ "The Foreign Legion: Tougher Than The Rest")
-* [![The History of the Devil](/wp-content/thumbnails/996-100x70.jpg?x53432)
+    Married at 16 years – with 18 years of violence following – left Wendy terrified. She summoned the courage to deal with her husband the only way she knew possible. Originally as One Minute to Nine, th](https://documentaryheaven.com/every-fcking-day-of-my-life/ "Every F*cking Day of My Life")
+* [![LA 92](/wp-content/thumbnails/16154-100x70.jpg?x53432)
     
-    The History of the Devil
+    LA 92
     
-    The notion of the devil does not originate in the Bible, as many may think - In the Old Testament, Satan is just another one of God's servants. It is in Iran that the religious teacher Zarathustra sim](https://documentaryheaven.com/the-history-of-the-devil/ "The History of the Devil")
+    LA 92 is a film that marks the twenty-fifth-anniversary of the 1992 Los Angeles riots, which were the result of four white police officers being acquitted of any crime after being caught on tape assa](https://documentaryheaven.com/la-92/ "LA 92")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
