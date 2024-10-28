@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
+* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
@@ -153,9 +153,9 @@ Latest reactions
 
 Latest forum posts
 
+* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
-* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 * [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
 * [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
