@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Pentosuria ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-pentosuria/)
+[![30 Facts About Leadhillite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
 
-Health Science
+Earth Sciences
 
-27 Oct 2024
+28 Oct 2024
 
-[40 Facts About Pentosuria](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-pentosuria/)
+[30 Facts About Leadhillite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
 
-[![35 Facts About Cat Names Study ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
+[![35 Facts About Nematodes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-nematodes/)
 
 Animals
 
-27 Oct 2024
+28 Oct 2024
 
-[35 Facts About Cat Names Study](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
+[35 Facts About Nematodes](https://facts.net/nature/animals/35-facts-about-nematodes/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
