@@ -398,7 +398,7 @@ ADD TO TOTE
 
 ### [Dark Spot Remover](https://www.100percentpure.com/products/dark-spot-remover)
 
-543 reviews (543)
+544 reviews (544)
 
 $52.00
 
