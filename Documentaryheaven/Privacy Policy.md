@@ -118,6 +118,11 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -128,39 +133,34 @@ Advertisement
     Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![Joy Division](/wp-content/thumbnails/6365-100x70.jpg?x53432)
+* [![I Helped My Daughter Die](/wp-content/thumbnails/7196-100x70.jpg?x53432)
     
-    Joy Division
+    I Helped My Daughter Die
     
-    Great documentary on the revolutionary British punk group Joy Division, and about lead singer Ian Curtis, whom committed suicide before the peak of their popularity. Joy Division later went](https://documentaryheaven.com/joy-division/ "Joy Division")
-* [![Lock ‘N Load](/wp-content/thumbnails/3711-100x70.jpg?x53432)
+    For a year Kay Gilderdale believed she could go to prison for the attempted murder of her own daughter, and then a court cleared her. The judge agreed that she was just a loving mom, trying to do the](https://documentaryheaven.com/i-helped-my-daughter-die/ "I Helped My Daughter Die")
+* [![Eceti Ranch](/wp-content/thumbnails/6340-100x70.jpg?x53432)
     
-    Lock ‘N Load
+    Eceti Ranch
     
-    Lock N’ Load with R. Lee Ermey is a militainment television program on The History Channel that discusses the development of military weaponry throughout the centuries. It is hosted by R. Lee Ermey.](https://documentaryheaven.com/lock-n-load/ "Lock ‘N Load")
-* [![The Killing Fields: Enemies of the People](/wp-content/thumbnails/6734-100x70.jpg?x53432)
+    ECETI Ranch represents a microcosmic reality of a world-wide collective phenomenon.The owner of the ranch, James Gilliland, maintains to have experienced UFO related phenomena, including contact w](https://documentaryheaven.com/eceti-ranch/ "Eceti Ranch")
+* [![Pol Pot](/wp-content/thumbnails/9208-100x70.jpg?x53432)
     
-    The Killing Fields: Enemies of the People
+    Pol Pot
     
-    One of the most harrowing and compelling personal documentaries of our time, ENEMIES OF THE PEOPLE exposes for the first time the truth about the Killing Fields and the Khmer Rouge who were behind Cam](https://documentaryheaven.com/the-killing-fields-enemies-of-the-people/ "The Killing Fields: Enemies of the People")
-* [![Where In The World is Osama Bin Laden?](/wp-content/thumbnails/22-100x70.png?x53432)
+    In the early 1970's a single minded revolutionary lay concealed in the Cambodian jungle. As American bombs exploded around him he remained obsessed with his secret plan to destroy his own culture in t](https://documentaryheaven.com/pol-pot/ "Pol Pot")
+* [![The Foreign Legion: Tougher Than The Rest](/wp-content/thumbnails/6262-100x70.jpg?x53432)
     
-    Where In The World is Osama Bin Laden?
+    The Foreign Legion: Tougher Than The Rest
     
-    Spurlock searches for Osama bin Laden by visiting countries associated with the Al-Qaeda leader (Morocco, Saudi Arabia, Afganistan, and Pakistan), as well as others affected by Al-Qaeda (Greece, Egypt](https://documentaryheaven.com/where-in-the-world-is-osama-bin-laden/ "Where In The World is Osama Bin Laden?")
-* [![The Life of Buddha](/wp-content/thumbnails/2296-100x70.jpg?x53432)
+    A documentary looking into the French Foreign Legion, long known as one of the most mysterious and secretive fighting forces in the world.Men from all over the world have left their pasts behind to](https://documentaryheaven.com/the-foreign-legion-tougher-than-the-rest/ "The Foreign Legion: Tougher Than The Rest")
+* [![The History of the Devil](/wp-content/thumbnails/996-100x70.jpg?x53432)
     
-    The Life of Buddha
+    The History of the Devil
     
-    The Buddha. The history of Buddhism is the story of one man’s spiritual journey to Enlightenment, and of the teachings and ways of living that developed from it. Siddhartha Gautama – The Buddha. By fi](https://documentaryheaven.com/the-life-of-buddha/ "The Life of Buddha")
+    The notion of the devil does not originate in the Bible, as many may think - In the Old Testament, Satan is just another one of God's servants. It is in Iran that the religious teacher Zarathustra sim](https://documentaryheaven.com/the-history-of-the-devil/ "The History of the Devil")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
