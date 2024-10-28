@@ -97,6 +97,14 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![Still image from Loomis' American National Anthem performance. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/385/Loomis'_National_Anthem_Cover.jpg "Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate")
+    
+    Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate](https://knowyourmeme.com/memes/events/loomis-national-anthem)
+    
+* [![Ruth Bader chair meme and Halloween costume video](https://i.kym-cdn.com/featured_items/icons/wide/000/026/384/9f4.jpg "'Ruth Bader Ginsburg Chair:' Cursed Image Of Late Supreme Court Justice of the United States Resurfaces Online After TikToker Posted A Halloween Costume Inspired By The Meme")
+    
+    'Ruth Bader Ginsburg Chair:' Cursed Image Of Late Supreme Court Justice of the United States Resurfaces Online After TikToker Posted A Halloween Costume Inspired By The Meme](https://knowyourmeme.com/memes/ruth-bader-ginsburg-chair)
+    
 * [![CJ Is Ready to Serve a Second Can of Whoop-Ass in GTA:SA Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/383/e51.jpg "The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago")
     
     The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago](https://knowyourmeme.com/memes/ah-shit-here-we-go-again)
@@ -109,18 +117,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     Did You Know That Vegeta Is Studious? He's Studying You Right Now](https://knowyourmeme.com/memes/vegeta-reading)
     
-* [![Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies](https://i.kym-cdn.com/featured_items/icons/wide/000/026/380/ef121bcb6d2e1a40516e5fad029291f0.jpg "Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies")
-    
-    Wikipedia Page For Roman Freedman Sporus Becomes Reaction Meme To Make Fun Of Wagies](https://knowyourmeme.com/memes/occupation-slave)
-    
-* [![Boo Inspired Outfit refers to memes and jokes about TikToker @maytheforcebewithrj, in particular, a video where he wears all white and poses with his tongue out for an outfit inspired by Boo from Super Mario. The meme is sometimes paired with the phrase "Men's fashion is boring, explain this then."](https://i.kym-cdn.com/featured_items/icons/wide/000/026/379/boo_inspired.jpg "This TikToker's 'Boo Inspired Outfit' May Be The Final Boss Of Men's Fashion")
-    
-    This TikToker's 'Boo Inspired Outfit' May Be The Final Boss Of Men's Fashion](https://knowyourmeme.com/memes/boo-inspired-outfit)
-    
 
 ##### Also Trending:
 
-[Walmart Walk-in Oven Controversy](https://knowyourmeme.com/memes/events/walmart-walk-in-oven-controversy "Walmart Walk-in Oven Controversy") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave")
+[Walmart Walk-In Oven Death](https://knowyourmeme.com/memes/events/halifax-walmart-walk-in-oven-death "Walmart Walk-In Oven Death") [BLU Scout Pants Fix](https://knowyourmeme.com/memes/events/blu-scout-pants-fix "BLU Scout Pants Fix") [Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Diddy Baby Oil Costume Controversy](https://knowyourmeme.com/memes/events/p-diddy-baby-oil-costume-controversy "Diddy Baby Oil Costume Controversy")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Hi! You must login or signup first!
 
 |     |     |
 | --- | --- |
