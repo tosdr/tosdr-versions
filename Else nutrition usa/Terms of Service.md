@@ -3,9 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-   
-
-Free Shipping on orders of $59 and up! All Baby Super Cereals 50% OFF!
+Free Shipping on orders of $59 and up! All Baby Super Cereals 50% OFF! ' + '' + ' ' + '' + '
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
@@ -198,7 +196,7 @@ Loading...
 
 [Log in](https://elsenutrition.com/account/login)
 
-[Translation missing: en.cart.name](https://elsenutrition.com/cart)
+[](https://elsenutrition.com/cart)
 
 [Translation missing: en.cart.name](https://elsenutrition.com/cart)
 
