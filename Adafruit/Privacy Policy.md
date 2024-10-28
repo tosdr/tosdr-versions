@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many”
+“ We have a hunger of the mind which asks for knowledge of all around us, and the more we gain, the more is our desire; the more we see, the more we are capable of seeing”
 
-[Clay Shirky](http://en.wikipedia.org/wiki/Clay_Shirky)
+[Maria Mitchell](http://en.wikipedia.org/wiki/Maria_Mitchell)
 
 [](https://www.adafruit.com/about)
 
