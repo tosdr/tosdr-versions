@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-360x180.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+    
+    ### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+    
     [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
     
     ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
@@ -27,10 +39,6 @@
     [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
     ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    [![Image credit:  Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Belair-Park-0624-Biodiversity-231024-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/)
-    
-    ### [Southwark Council announces £500,000 biodiversity fund](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/) 
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
     
@@ -47,14 +55,6 @@
     [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
     ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
-    
-    ### [Family of former Dulwich College teacher to fund new school places for local children](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
-    
-    ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-360x180.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+    
+    ### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+    
     [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
     
     ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
@@ -112,10 +124,6 @@ View All Result
     [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
     ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    [![Image credit:  Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Belair-Park-0624-Biodiversity-231024-360x180.jpg)](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/)
-    
-    ### [Southwark Council announces £500,000 biodiversity fund](https://southwarknews.co.uk/news/community/southwark-council-announces-500000-biodiversity-fund/) 
     
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
     
@@ -132,14 +140,6 @@ View All Result
     [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
     ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    [![Image received via press release](https://southwarknews.co.uk/wp-content/uploads/2024/10/Gerry-Thornton-and-Andy-Wilson-Bursaries_DSC04496-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
-    
-    ### [Family of former Dulwich College teacher to fund new school places for local children](https://southwarknews.co.uk/area/dulwich/family-of-former-dulwich-college-teacher-to-fund-new-school-places-for-local-children/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3264-copy-2-360x180.jpg)](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
-    
-    ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
 
 ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
@@ -412,12 +418,6 @@ Website
 ### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
 
 [24th October 2024](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
-
-[!['She said yes!' The couple, Ian Stoney and Laura McKinley. (photo: supplied by GTR)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image-2-rotated-e1729694879106-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-
-### [Man proposes to girlfriend on platform at Denmark Hill station](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
-
-[23rd October 2024](https://southwarknews.co.uk/area/camberwell/man-proposes-to-girlfriend-on-platform-at-denmark-hill-station/)
 
 ### USEFUL PAGES
 
