@@ -34,7 +34,7 @@ Direktlink:
 
 Der Bundesadler Die Flagge Die Bundesregierung
 
-![](https://www.bundesregierung.de/resource/crblob/2313178/dadaf5b60d33d8d65167804a6361a80f/fr-35-jahre-data.svg)
+[![](https://www.bundesregierung.de/resource/crblob/2313178/dadaf5b60d33d8d65167804a6361a80f/fr-35-jahre-data.svg)](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung/deutsche-einheit "Gehen Sie zu "Deutsche Einheit"")
 
 * [English](https://www.bundesregierung.de/breg-en/service/data-privacy-information)
 * [Français](https://www.bundesregierung.de/breg-fr/service/politique-de-confidentialit%C3%A9)
@@ -188,6 +188,7 @@ Folgen Sie uns
 [Zur Übersichtsseite](https://www.bundesregierung.de/breg-de/service "Zurück zur Übersichtsseite")
 
 * [Schwerpunkte der Bundesregierung](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung)  
+* [Deutsche Einheit](https://www.bundesregierung.de/breg-de/schwerpunkte-der-bundesregierung/deutsche-einheit)
 * [Regierungsmonitor](https://www.bundesregierung.de/breg-de/bundesregierung/regierungsmonitor)
 * [Bundeskanzler](https://www.bundeskanzler.de/bk-de "Externer Link: Internetseite des Bundeskanzlers (Öffnet neues Fenster)")
 * [Service](https://www.bundesregierung.de/breg-de/service)
