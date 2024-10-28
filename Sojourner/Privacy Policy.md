@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4489ea35b9d2406d4c5182e43214b038
+7f4a02cb4963d469d9c5f8fce8b7ca8c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm by 6 mm top-drilled vintage blue-green glass leaves](https://www.sojourner.biz/images/cache/glass/GL0199strand.200.jpg)](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-vintage-blue-green-glass-leaves.html "10 mm by 6 mm top-drilled vintage blue-green glass leaves")
+[![3 mm by 6 mm white pearls](https://www.sojourner.biz/images/cache/pearls/PE0191.200.jpg)](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
 
-#### [10 mm by 6 mm top-drilled vintage blue-green glass leaves](https://www.sojourner.biz/beads/glass/10-mm-by-6-mm-top-drilled-vintage-blue-green-glass-leaves.html "10 mm by 6 mm top-drilled vintage blue-green glass leaves")
+#### [3 mm by 6 mm white pearls](https://www.sojourner.biz/beads/pearls/3-mm-by-6-mm-white-pearls.html "3 mm by 6 mm white pearls")
 
-$4.00
+$12.00
 
 ### Best Sellers
 
