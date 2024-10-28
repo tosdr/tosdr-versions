@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [A.R.S.E.N.A.L Extended Power](https://www.myabandonware.com/game/a-r-s-e-n-a-l-extended-power-skq)
+* [Real-Time Racing](https://www.myabandonware.com/game/real-time-racing-sko)
 * [Subway Scramble](https://www.myabandonware.com/game/subway-scramble-skj)
 * [Myulk: kampen om det öppna landskapet](https://www.myabandonware.com/game/myulk-kampen-om-det-oeppna-landskapet-ski)
 * [Scrabble](https://www.myabandonware.com/game/scrabble-skh)
-* [Tane o Maku Tori](https://www.myabandonware.com/game/tane-o-maku-tori-t1z)
-* [Super Robot Taisen: Compact](https://www.myabandonware.com/game/super-robot-taisen-compact-t1y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
