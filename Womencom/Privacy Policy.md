@@ -66,7 +66,7 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
         
-    *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1729581051.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
+    *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -74,7 +74,7 @@
         
         ### [5 Sabrina Carpenter Outfits That Totally Missed The Mark](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
-        With how good Sabrina Carpenter is at looking glamorous, you'd think we're talking nonsense when we say she's had some outfit fails.
+        With how good Sabrina Carpenter is at looking glam, you'd think we're talking nonsense when we say she's had some outfit fails. Here were some we can't forget.
         
         By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
         
