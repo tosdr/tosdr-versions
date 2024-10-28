@@ -73,14 +73,14 @@ Customer Care Contacts
 
 ##### ABOUT US
 
-* [History and mission](https://www.sltrib.com/about-us/#our-history/)
-* [Our nonprofit model](https://www.sltrib.com/about-us/#nonprofit/)
+* [History and mission](https://www.sltrib.com/about-us/#our-history)
+* [Our nonprofit model](https://www.sltrib.com/about-us/#nonprofit)
 * [Board and advisers](https://www.sltrib.com/board-and-advisers/)
 * [Officers and staff](https://www.sltrib.com/staff/)
 * [Supporters](https://www.sltrib.com/supporters/)
 * [Donors and tax filing](https://www.sltrib.com/reports/)
 * [Privacy policy](https://www.sltrib.com/privacy-policy/)
-* [California privacy](https://www.sltrib.com/privacy-policy/#california/)
+* [California privacy](https://www.sltrib.com/privacy-policy/#california)
 * [Editorial policies and ethics](https://www.sltrib.com/policies-and-ethics/)
 
 ##### MORE
@@ -100,9 +100,9 @@ Customer Care Contacts
 
 [SUPPORT](https://www.sltrib.com/support)[WEEKLY PRINT EDITION](https://sltiservices.navigacloud.com/cmo_slt-c-cmdb-01/subscriber/web/startoffers.html)[EMAIL NEWSLETTERS](https://www.sltrib.com/newsletters)[PODCASTS](https://www.sltrib.com/podcasts)[NEWS TIPS](https://www.sltrib.com/tips)[DONATE](https://www.sltrib.com/donate)[COOKIE PREFERENCES](#)
 
-![twitter-logo](/pf/resources/img/t-1.png?d=502)
+![twitter-logo](/pf/resources/img/t-1.png?d=504)
 
-[![google-play-badge](/pf/resources/img/googleplay.png?d=502)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](/pf/resources/img/applestore.png?d=502)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
+[![google-play-badge](/pf/resources/img/googleplay.png?d=504)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](/pf/resources/img/applestore.png?d=504)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
 
   
 
@@ -110,8 +110,8 @@ Report a missed paper by emailing [subscribe@sltrib.com](mailto:subscribe@sltri
 
 For e-edition questions or comments, contact customer support [801-237-2900](tel:801-237-2900) or email [subscribe@sltrib.com](mailto:subscribe@sltrib.com)
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=502)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=504)](https://www.sltrib.com/)
 
 sltrib.com © 1996-2024 The Salt Lake Tribune. All rights reserved.
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=502)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=504)](https://www.sltrib.com/)
