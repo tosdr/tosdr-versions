@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### MAGA takes MSG
+#### Breaking News
 
-[MSNBC blasted for splicing Nazi rally clips into coverage of Trump's Madison Square Garden rally](https://nypost.com/2024/10/28/us-news/shameful-msnbc-blasted-for-splicing-nazi-rally-clips-into-coverage-of-trumps-msg-rally/)
+[Walz accused of pushing CCP official's daughter to brink of suicide during love affair](https://nypost.com/2024/10/28/us-news/tim-walz-accused-of-pushing-chinese-communist-party-officials-daughter-to-brink-of-suicide-during-1980s-affair/)
 
 Privacy Notice Highlights
 =========================
