@@ -1,8 +1,8 @@
-👀 Cyber Awareness Month savings! 80% off all plans!
+💀 Hello, I want to play a game! 80% off your next lifetime plan
 
-[Claim deal](https://internxt.com/pricing)
+[Make your choice](https://internxt.com/pricing)
 
-[👀 Cyber Awareness Month savings! 80% off all plans!](https://internxt.com/pricing)
+[💀 Hello, I want to play a game!80% off your next lifetime plan](https://internxt.com/pricing)
 
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
@@ -1273,20 +1273,18 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 ![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcyber-awareness%2Fcyber-awareness-2024%2Fsurveillance_left.webp&w=384&q=75)
+![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcampaigns%2Fhalloween%2Finternx_halloween_pricing.webp&w=384&q=75)
 
 Save 80%
 
-Secure your  
-world!
+Killer Halloween  
+deals!
 
-Choose plan
-
-![Surveillance right](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcyber-awareness%2Fcyber-awareness-2024%2Fsurveillance_right.webp&w=384&q=75)
+Claim deal
 
 Save 80%
 
-Secure your digital world!
+Boo! Come save with us...
 
 Choose plan
 
@@ -1294,17 +1292,17 @@ Choose plan
 
 \*Offer is for free accounts or new customers
 
-Save big on all Internxt plans
+Save on all lifetime plans
 
-Safe and secure cloud storage
+Private, encrypted cloud storage
 
-Open source and transparent
+Open-source and audited
 
 End-to-end encrypted transfers
 
 No unauthorized access
 
-Offer ends October 31
+Offer ends November 10
 
 Get 75% OFF all our Premium Plans
 ---------------------------------
