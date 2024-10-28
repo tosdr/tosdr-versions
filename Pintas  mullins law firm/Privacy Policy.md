@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How can a nursing home abuse or neglect lawyer help my family?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family-scaled.jpg "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/ "How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?")
+[![Can a ct scan detect cancer in a lung?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-ct-scan-detect-cancer-in-lung.jpg "Can a CT Scan Detect Cancer in a Lung?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/ "Can a CT Scan Detect Cancer in a Lung?")
 
-[#### How Can a Nursing Home Abuse or Neglect Lawyer Help My Family?](https://www.pintas.com/faq/how-can-a-nursing-home-abuse-or-neglect-lawyer-help-my-family/)
+[#### Can a CT Scan Detect Cancer in a Lung?](https://www.pintas.com/practice-areas/lung-cancer/can-a-ct-scan-detect-cancer-in-lungs/)
 
-[![Suing for talcum powder ovarian cancer death](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-sue-for-a-loved-one-that-died-of-ovarian-cancer-from-talcum-powder-use.jpg "Suing for Talcum Powder Ovarian Cancer Death")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/ "Suing for Talcum Powder Ovarian Cancer Death")
+[![What is elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elder-abuse-lawyer-scaled.jpg "What Is Elder Abuse?")](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/ "What Is Elder Abuse?")
 
-[#### Suing for Talcum Powder Ovarian Cancer Death](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/)
+[#### What Is Elder Abuse?](https://www.pintas.com/faq/what-is-elder-abuse-lawyer/)
 
-[![Is small cell lung cancer caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-small-cell-lung-cancer-caused-by-asbestos.jpg "Is Small Cell Lung Cancer Caused By Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos "Is Small Cell Lung Cancer Caused By Asbestos?")
+[![What is it like when state surveys a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-it-like-when-state-surveys-a-nursing-home-scaled.jpg "What Is It Like When State Surveys a Nursing Home?")](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/ "What Is It Like When State Surveys a Nursing Home?")
 
-[#### Is Small Cell Lung Cancer Caused By Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/is-small-cell-lung-cancer-caused-by-asbestos)
+[#### What Is It Like When State Surveys a Nursing Home?](https://www.pintas.com/faq/what-is-it-like-when-state-surveys-a-nursing-home/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
