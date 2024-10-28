@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zx6XLgoAAVEAAABc-hE)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zx7sJwoAAVAAAABbT6M)
 
 Es noticia
 
@@ -9,7 +9,7 @@ Es noticia
 * [Tania Sánchez Errejón](https://www.elmundo.es/espana/2024/10/27/671e2d22fdddff12ab8b456e.html)
 * [Insultos racistas a Yamal](https://www.elmundo.es/deportes/futbol/primera-division/2024/10/27/671e0ba1e85ece07668b456e.html)
 * [DANA](https://www.elmundo.es/espana/2024/10/27/671e65ff21efa0570c8b4582.html)
-* [Huelga autobuses Madrid](https://www.elmundo.es/madrid/2024/10/27/671e6d63e4d4d871588b457c.html)
+* [Huelga autobuses](https://www.elmundo.es/economia/2024/10/27/671eaa8e21efa04e0d8b4576.html)
 * [Elisa Mouliaá](https://www.elmundo.es/espana/2024/10/26/671a7aadfc6c83f1068b45b3.html)
 * [Julia Otero](https://www.elmundo.es/yodona/actualidad/2024/10/25/6719007bfc6c8352018b457b.html)
 * [Adriana desaparecida Ordes](https://www.elmundo.es/espana/2024/10/26/671cf715e9cf4a6d268b45a7.html)
