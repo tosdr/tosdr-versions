@@ -95,65 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Features
+More Back to Genesis
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/creation_kids_0724_butterflies.jpg)](https://www.icr.org/article/creation-kids-butterflies)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/people_fruitflies.jpg)](https://www.icr.org/article/are-people-and-fruit-flies-related)
 
-[Creation Kids: Butterflies](https://www.icr.org/article/creation-kids-butterflies/)
+[Are People and Fruit Flies Related?](https://www.icr.org/article/are-people-and-fruit-flies-related/)
 
-by Renée Dusseau and Susan Windsor\* You're never too young to be a creation scientist and explore our Creator's world. Kids, discover...
+There are around 152,000 named species of flies (the order Diptera) representing approximately 10% of all species on Earth. One genus in particular,...
 
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_good-stewards.jpg)](https://www.icr.org/article/kids-edition-2023-good-stewards)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[Kids Edition 2023: Good Stewards](https://www.icr.org/article/kids-edition-2023-good-stewards/)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/plan_replace_God.jpg)](https://www.icr.org/article/the-plan-to-replace-god/)
 
-Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
+[The Plan to Replace God](https://www.icr.org/article/the-plan-to-replace-god//)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/reinvent_wheel_1400x1050.jpg)](https://www.icr.org/article/why-reinvent-the-wheel)
+After reviewing the writings of some 18th- and 19th-century thinkers, I’m convinced that the popularity of ideas like “millions of years”...
 
-[Why Reinvent the Wheel?](https://www.icr.org/article/why-reinvent-the-wheel/)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-by Randy J. Guliuzza and Aaron T. Guliuzza\* Most of us know the phrase “Don’t reinvent the wheel.” It means that we hope to take the...
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowBatWings.jpg)](https://www.icr.org/article/how-bat-get-its-wings)
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+[How Did the Bat Get Its Wings?](https://www.icr.org/article/how-bat-get-its-wings/)
+
+Where did bats come from? Evolutionists presuppose that some kind of rodent received just the right mutations to over “a few million years”...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
 
-Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
+Adam or Apes](https://store.icr.org/adam-or-apes.html)
 
-$1.99
+$12.99
 
-$3.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216716/file.jpg)
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
-Six Days of Creation - eBook](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation-ebook.html)
+$7.99
 
-$1.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
 
-$2.99
+Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+$7.99
 
-Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+$9.99
 
-$2.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216766/file.jpg)
-
-Five Reasons to Believe in Recent Creation - eBook](https://store.icr.org/dr-henry-morris-iii-five-reasons-to-belie-10114423.html)
-
-$1.99
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
 $2.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
+$7.99
 
-Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-$13.99
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+
+$15.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
