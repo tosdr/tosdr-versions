@@ -17,7 +17,7 @@
     
     [Find out more](https://speechandlanguage.link/slcn-in-school/)
     
-    [* Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
+    [* Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Developmental Language Disorder (DLD)](https://speechandlanguage.link/slcn-in-school/developmental-language-disorder/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
     
 * [Our Packages](https://speechandlanguage.link/whole-school-approach/)
     
