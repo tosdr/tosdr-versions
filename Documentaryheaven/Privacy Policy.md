@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Winter Viruses and How to Beat Them](/wp-content/thumbnails/7091-100x70.jpeg?x53432)
+* [![Battlefield Detectives: Stalingrad](/wp-content/thumbnails/3954-100x70.jpg?x53432)
     
-    Winter Viruses and How to Beat Them
+    Battlefield Detectives: Stalingrad
     
-    Every winter, millions of us come down with colds, flu and stomach problems caused by viruses like Norovirus - the highly contagious vomiting bug which has swept the country this year. It has closed h](https://documentaryheaven.com/winter-viruses-and-how-to-beat-them/ "Winter Viruses and How to Beat Them")
-* [![The Jigsaw Murder](/wp-content/thumbnails/8584-100x70.jpg?x53432)
+    The Battle of Stalingrad was a major battle of World War II in which Nazi Germany and its allies fought the Soviet Union for control of the city of Stalingrad (now Volgograd) in southwestern Russia. I](https://documentaryheaven.com/battlefield-detectives-stalingrad/ "Battlefield Detectives: Stalingrad")
+* [![Keith Moon: Final 24: His Final Hours](/wp-content/thumbnails/6668-100x70.png?x53432)
     
-    The Jigsaw Murder
+    Keith Moon: Final 24: His Final Hours
     
-    From the British series, Real Crime by ITV, this documentary sets out to tell the story of how police pieced together evidence to solve the mystery of the Jigsaw Murder.In March of 2009, a murder](https://documentaryheaven.com/jigsaw-murder/ "The Jigsaw Murder")
-* [![Asia’s Illegal Animal Trade](/wp-content/thumbnails/6926-100x70.jpg?x53432)
+    Final 24 documents the final moments of this rock star’s life. This compelling documentary series unlocks the hidden secrets, psychological flaws and events that result in the tragic deaths of famed n](https://documentaryheaven.com/keith-moon-final-24-his-final-hours/ "Keith Moon: Final 24: His Final Hours")
+* [![That’s Impossible](/wp-content/thumbnails/6437-100x70.jpg?x53432)
     
-    Asia’s Illegal Animal Trade
+    That’s Impossible
     
-    Day by day, hour by hour, our planet’s rarest creatures are being hunted, trapped and slaughtered to feed a global black market in wildlife products.For years, Patrick Brown has traveled across As](https://documentaryheaven.com/asias-illegal-animal-trade/ "Asia’s Illegal Animal Trade")
-* [![Meet The Mormons](/wp-content/thumbnails/12069-100x70.jpg?x53432)
+    A series examining seemingly impossible stories and inventions from history, and the technology that could turn science fiction into reality. Each episode has a to do list, which means that if this te](https://documentaryheaven.com/thats-impossible/ "That’s Impossible")
+* [![Sniper: Inside The Crosshairs](/wp-content/thumbnails/3497-100x70.jpg?x53432)
     
-    Meet The Mormons
+    Sniper: Inside The Crosshairs
     
-    In this film we meet several British Mormons, young missionaries who's job it is to convert us to their particular brand of Christianity. Run from Salt Lake City in Utah the Mormon religion is an](https://documentaryheaven.com/meet-mormons/ "Meet The Mormons")
-* [![ISIS: The World’s Richest Terror Army](/wp-content/thumbnails/9923-100x70.jpg?x53432)
+    The deadliest weapon on the battlefield is neither bullet nor gun; it's the lone sniper. Journey inside the science and psychology behind the greatest shots in military history, through the scope of t](https://documentaryheaven.com/sniper-inside-the-crosshairs/ "Sniper: Inside The Crosshairs")
+* [![Chairman Mao Declassified](/wp-content/thumbnails/6553-100x70.png?x53432)
     
-    ISIS: The World’s Richest Terror Army
+    Chairman Mao Declassified
     
-    A small army of fanatical Jihadists sieged 15,000 sq. miles of territory and shocked the world with it's violence and brutality. The so called Islamic State is a terror organisation, the likes of whic](https://documentaryheaven.com/isis-worlds-richest-terror-army/ "ISIS: The World’s Richest Terror Army")
+    One of the most formidable leaders that the world has ever seen, Mao was undeniably a brilliant political and economic mind, despite his role as a progenitor of 20th Century Communism and a homicidal](https://documentaryheaven.com/chairman-mao-declassified/ "Chairman Mao Declassified")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
