@@ -230,43 +230,43 @@ Business size
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1730093745931)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1730102387728)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1730093745931)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1730102387728)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1730093745931)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1730102387728)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1730093745931)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1730102387728)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1730093745931)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1730102387728)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1730093745931)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1730102387728)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1730093745931)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1730102387728)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1730093745931)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1730102387728)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1730093745931)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1730102387728)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1730093745931)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1730102387728)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1730093745931)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1730102387728)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1730093745931)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1730102387728)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1730093745931)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1730102387728)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1730093745931)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1730102387728)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1730093745931)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1730102387728)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1730093745931)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1730102387728)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
