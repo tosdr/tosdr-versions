@@ -142,7 +142,7 @@ How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive 
 
 [Compliance
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+A Complete Overview of SaaS Compliance](https://www.ownbackup.com/blog/guide-saas-compliance)
 
 Company
 
@@ -370,7 +370,7 @@ How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive 
 
 [Compliance
 
-Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+A Complete Overview of SaaS Compliance](https://www.ownbackup.com/blog/guide-saas-compliance)
 
 Company
 
