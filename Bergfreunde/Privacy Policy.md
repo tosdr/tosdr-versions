@@ -300,6 +300,7 @@ Menü
         * [Fahrradsättel](https://www.bergfreunde.de/fahrradsaettel/ "Fahrradsättel anzeigen")
         * [Reifen & Schläuche](https://www.bergfreunde.de/reifen-schlaeuche/ "Reifen & Schläuche anzeigen")
         * [Fahrradbremsen](https://www.bergfreunde.de/fahrradbremsen/ "Fahrradbremsen anzeigen")
+        * [Antrieb](https://www.bergfreunde.de/antrieb/ "Antrieb anzeigen")
         * [» Alles anzeigen](https://www.bergfreunde.de/fahrradteile/ "Fahrradteile anzeigen")
     * [Werkzeug & Wartung](https://www.bergfreunde.de/werkzeug-wartung/ "Werkzeug & Wartung anzeigen")
         * [Fahrradpflege & -Reinigung](https://www.bergfreunde.de/fahrradpflege-reinigung/ "Fahrradpflege & -Reinigung anzeigen")
@@ -1140,9 +1141,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Julian - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-julian.png) Bergfreund Julian - Einkäufer
+![Bergfreund Ronny - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-ronny.png) Bergfreund Ronny - Geschäftsführung
 
-"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
+"In Sachen Klimaschutz gilt für uns: Die Zeit zu handeln ist jetzt!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1150,11 +1151,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43265 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43159 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.265 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.159 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
