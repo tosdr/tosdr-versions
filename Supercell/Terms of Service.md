@@ -315,4 +315,5 @@ Supercell shall not be liable for any delay or failure to perform resulting from
 
 ### Old versions of the page
 
+* [February 24, 2023](https://supercell.com/en/terms-of-service/en/2023-02-24/)
 * [August 12, 2022](https://supercell.com/en/terms-of-service/en/2022-08-12/)
