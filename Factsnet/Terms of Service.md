@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Cat Names Study ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
+[![30 Facts About Leadhillite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
+
+Earth Sciences
+
+28 Oct 2024
+
+[30 Facts About Leadhillite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
+
+[![35 Facts About Nematodes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-nematodes/)
 
 Animals
 
-27 Oct 2024
+28 Oct 2024
 
-[35 Facts About Cat Names Study](https://facts.net/nature/animals/35-facts-about-cat-names-study/)
-
-[![25 Facts About Arctic Tundra ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/geography/25-facts-about-arctic-tundra/)
-
-Geography
-
-27 Oct 2024
-
-[25 Facts About Arctic Tundra](https://facts.net/science/geography/25-facts-about-arctic-tundra/)
+[35 Facts About Nematodes](https://facts.net/nature/animals/35-facts-about-nematodes/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
