@@ -10,15 +10,15 @@ Please choose your local Vodafone website
 * [RD Congo](https://www.vodacom.cd/ "RD Congo")
 * [مصر](https://web.vodafone.com.eg/ar/home "مصر")
 * [Tanzania (EN)](https://www.vodacom.co.tz/ "Tanzania (EN)")
-* [ኢትዮጵያ](https://safaricom.et/ "ኢትዮጵያ")
+* [Ethiopia](https://safaricom.et/ "Ethiopia")
 * [Kenya](https://www.safaricom.co.ke/ "Kenya")
 * [Moçambique](https://vm.co.mz/ "Moçambique")
 * [Lesotho](https://www.vodacom.co.ls/ "Lesotho")
-* [Republiek van Suid-Afrika](https://www.vodacom.co.za/ "Republiek van Suid-Afrika")
+* [South Africa](https://www.vodacom.co.za/ "South Africa")
 
 #### Asia Pacific
 
-* [भारत](https://www.myvi.in/ "भारत")
+* [India](https://www.myvi.in/ "India")
 * [Türkiye](https://www.vodafone.com.tr/ "Türkiye")
 
 #### Europe
