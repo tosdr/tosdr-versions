@@ -25,7 +25,7 @@
 * Resources
     * [Content library](https://piwik.pro/resources/)
     * [Webinars](https://piwik.pro/webinars/)
-    * [Success stories](https://piwik.pro/resources/#type=success-stories)
+    * [Success stories](https://piwik.pro/resources/#success-stories)
     * [Video tutorials](https://piwik.pro/video-tutorials/)
     * [Help center](https://help.piwik.pro/)
     * [Community forum](https://community.piwik.pro/)
