@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5443.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -136,23 +136,23 @@ Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 Testé pour vous
 ---------------
 
-[![80x80_I24_Icons_013_Blog6.png](/medias/80x80-I24-Icons-013-Blog6.png?context=bWFzdGVyfGNtc3w2MjQ2fGltYWdlL3BuZ3xhRGN3TDJnek1TODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjMkxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjMkxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDE0NWRkMTU4YjZiMTEyNzczYTNkZjc3ZTMzN2I0Y2I4MzM2OWZiNWNlMmM4YTQwNDVmOWQzZDY1ZTdjMWFiNTg)
+[![80x80_I24_Icons_013_Blog20.png](/medias/80x80-I24-Icons-013-Blog20.png?context=bWFzdGVyfGNtc3wzOTY2fGltYWdlL3BuZ3xhR1kzTDJnNE5DODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU1DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qQXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8M2EwODY5ZWRhNDhmOWY2Zjg3NjU1ZWMyOTcwZTg4ZTliNjc2NGJkOGUyOGZlMzVjZTVjNzUzNmY2YjdmNzZmMw)
+
+SONY
+
+Xperia 10 VI](https://www.microspot.ch/fr/cms/blog/conseils/sony-xperia-10-vi)
+
+[![80x80_I24_Icons_013_Blog17.png](/medias/80x80-I24-Icons-013-Blog17.png?context=bWFzdGVyfGNtc3w1MjMyfGltYWdlL3BuZ3xhR0l3TDJnd1l5ODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE55NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UY3VjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8OTkzMjMxZGFlZWFjNjY4MzBjNjZkMmM5MTUxYWUwMjU4NmYwMGFkNjk0ZmY2ODhiZDdmNzdiYzFlMzc4Zjg1Zg)
+
+Sodastream
+
+Duo](https://www.microspot.ch/fr/cms/blog/conseils/sodastream-duo)
+
+[![80x80_I24_Icons_013_Blog7.png](/medias/80x80-I24-Icons-013-Blog7.png?context=bWFzdGVyfGNtc3w2MzQ3fGltYWdlL3BuZ3xhREpqTDJnMk1pODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjM0xuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjM0xuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDk2YmU0Y2YwOGFkODlhYWJlNDUyMjE5ZmQyMjcwYmE0NDZhMGVmZjIxNjM2ODhmNGE2ZmMzOWFhOGZmYmMwNzg)
 
 DELONGHI
 
-La Specialista Maestro Cold Brew](https://www.microspot.ch/fr/cms/blog/conseils/delonghi-la-specialista-maestro-cold-brew)
-
-[![80x80_iconteaser_jimmy.jpg](/medias/80x80-iconteaser-jimmy.jpg?context=bWFzdGVyfGNtc3wyNTg5fGltYWdlL2pwZWd8YURSaUwyZzNZUzg0TUhnNE1GOXBZMjl1ZEdWaGMyVnlYMnBwYlcxNUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5cFkyOXVkR1ZoYzJWeVgycHBiVzE1TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MDZhZmZhYTY1YTM4YjU2NWNjY2U4OGY1YTcwZWQwMTg4ZjdiNjcyNThiMDEwY2NhN2RiZGNlYmQ1MjY5NmJiZA)
-
-JIMMY
-
-Aspirateur à main anti-acariens BX7](https://www.microspot.ch/fr/cms/blog/conseils/jimmy-bx7)
-
-[![80x80_I24_Icons_013_Blog3.png](/medias/80x80-I24-Icons-013-Blog3.png?context=bWFzdGVyfGNtc3w2MzY0fGltYWdlL3BuZ3xhREEzTDJobU9TODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJSbk15NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5a1p6TXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MmFiMWUyZTQ1M2U3ZjA3ZWQ5MjlmMzA3MjQ4ZjU5OTVkNDI3YjU2ZTM0ZmUyMmY2M2IxNTU0YmNmOTAwNDBmOA)
-
-JBL
-
-Clip 5](https://www.microspot.ch/fr/cms/blog/conseils/jbl-by-harman-clip-5)
+Rivelia EXAM440.55.G](https://www.microspot.ch/fr/cms/blog/conseils/delonghi-rivelia)
 
 ![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Kenwood.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNDUxNjZ8aW1hZ2UvanBlZ3xhR1ZpTDJoaVl5ODVNVFY0TlRFMVgwa3lORjlUYjAxbFgwSnNiMmRmUzJWdWQyOXZaQzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgwdGxibmR2YjJRdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xmYzA3ZWVjMjRjNjViNGJjZmUyODgxZmIyYTE1Mjc1MWU3MjdjMGI2Nzg3NDhlZWU5Y2E4YTFiMTFiODRiNGJh&w=2360&q=75)
 
@@ -211,17 +211,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Garantie Plus
+[Retrait gratuit
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
