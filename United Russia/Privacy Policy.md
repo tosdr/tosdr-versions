@@ -305,7 +305,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007)
 
-Сегодня 12:46
+28.10.24
 
 [![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/PftT7j1myUbfvfzqql3L-small.png)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
 
