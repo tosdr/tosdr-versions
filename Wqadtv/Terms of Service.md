@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aebb8114-54b3-4975-b041-35b6e8bf069f/20240426T031620/aebb8114-54b3-4975-b041-35b6e8bf069f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aebb8114-54b3-4975-b041-35b6e8bf069f/20240426T031620/aebb8114-54b3-4975-b041-35b6e8bf069f_360x203.jpg)](https://www.wqad.com/article/news/local/free-rides-election-day-public-transportation-quad-cities/526-bcd948a3-b115-4d3a-bdd6-bd28ae47b383)
+        
+        #### [Heading to the polls on Nov. 5? Catch a free ride with Quad Cities' public transportation](https://www.wqad.com/article/news/local/free-rides-election-day-public-transportation-quad-cities/526-bcd948a3-b115-4d3a-bdd6-bd28ae47b383)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
         
         #### [East Moline's Shady Knoll Farm pumpkin patch celebrating 40 years](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
-        
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
-        
-        #### [Missing Sterling teen found safe](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
         
     
 * [Weather](https://www.wqad.com/weather)
