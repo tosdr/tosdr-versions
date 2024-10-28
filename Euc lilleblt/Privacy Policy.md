@@ -125,6 +125,8 @@ I det omfang, der behandles personoplysninger om dig, har du ifølge persondatal
 
 Du har mulighed for at klage over behandlingen af oplysninger og data vedrørende dig. Klage indgives til Datatilsynet, jf. persondatalovens § 58, stk. 1.
 
+Se vores brug af personoplysninger og sikker i forbindelse med tilmelding hos EUC Lillebælt ved at klikke på dette link: [Brug af personoplysninger og sikkerhed](https://www.eucl.dk/media/5skpwber/brug-af-personoplysninger-og-sikkerhed-elever.pdf "Brug af personoplysninger og sikkerhed - elever")
+
 [image/svg+xml](https://www.eucl.dk/ "Home")
 
 **EUC Lillebælt**
