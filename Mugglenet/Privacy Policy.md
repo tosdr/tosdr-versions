@@ -368,15 +368,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Welsh translation of “Gryffindor” is “Llereurol,” and the Hindi translation is “Garuddwaar.”
+The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
 
 ### Potter History
 
-February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
+December 20, 2004 – Harry Potter and the Half-Blood Prince is complete, with a release date being announced within 24 hours.
 
 ### Potter Quote
 
-“Potter, I will assist you to become an Auror if it is the last thing I do! If I have to coach you nightly I will make sure you achieve the required results!”
+“Queen, honey. Well, I’m just curious, when were you going to wake me up? After we’d had five kids?”
 
 [](#)
 
