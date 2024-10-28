@@ -309,7 +309,7 @@ Main navigation - Footer
 
 Support one of OTA’s many initiatives aimed at advancing orthopaedic trauma care including research grants, providing global resources, and awarding scholarship.
 
-[MAKE A DONATION](https://ota.org/donate "Donate")
+[MAKE A DONATION](https://ota.org/index.php/donate "Donate")
 
 [Back to Top](javascript:void(0);)
 
