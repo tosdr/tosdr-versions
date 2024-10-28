@@ -20,7 +20,7 @@ Cart](https://pianopronto.com/cart/)
 
 NEW](https://pianopronto.com/guitar/)[Viva Violin™](https://pianopronto.com/viva-violin/)[KiddyKeys®](https://pianopronto.com/kiddykeys/)[Theory Time®](https://pianopronto.com/theory-time/)[Games](https://pianopronto.com/games/)[Deals](https://pianopronto.com/deals/)[Blog](https://blog.pianopronto.com/)
 
-[15% Off All Digital Products
+[15% Off All Method Books
 
 View All Sales](https://pianopronto.com/resources/promo/)
 
