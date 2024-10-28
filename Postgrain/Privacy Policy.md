@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![novas tendências do consumidor - a imagem que ilustra o tema tem o fundo ao ar livre com uma mulher sorrindo e segurando um celular.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Novas-tendencias-do-consumidor-Otimize-seu-marketing-1-580x290.jpg)](https://postgrain.com/?post_type=post&p=12678)
+[![Marketing de Relacionamento - a imagem que ilustra o tema tem o fundo de uma loja, onde aparem uma vendedora atendendo uma cliente.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Marketing-de-Relacionamento-Como-construir-conexoes-duradouras-e-impulsionar-resultados-580x290.jpg)](https://postgrain.com/?post_type=post&p=12682)
 
-[Confira Insights do Índice de Tendências Globais de Consumo de 2024](https://postgrain.com/?post_type=post&p=12678)
+[Marketing de Relacionamento: Como construir conexões duradouras e impulsionar resultados?](https://postgrain.com/?post_type=post&p=12682)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12678)
+[Leia mais](https://postgrain.com/?post_type=post&p=12682)
 
 Ilustração de um dos personagens do Postgrain
 
