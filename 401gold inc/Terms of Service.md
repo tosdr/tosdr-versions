@@ -213,7 +213,7 @@ Hours of Operation
 |     |     |
 | --- | --- |
 | Mon - Fri | 10am – 6pm |
-| Sat | 10am – 5pm |
+| Sat | 10am – 4pm |
 | Sun | 12pm – 4pm |
 
 Toronto
