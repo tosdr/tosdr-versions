@@ -31,6 +31,486 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Guayaquil para este lunes 28 de octubre
+========================================================
+
+La Corporación Nacional de Electricidad (CNEL) detalló el cronograma de cortes de luz que tendrá la capital de Guayas este lunes.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Guayaquil tendrá cortes de luz de hasta 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-lunes-28-octubre.jpg)
+
+La Corporación Nacional de Electricidad (**CNEL**) detalló los horarios de **cortes de luz** que tendrá **Guayaquil** este **lunes 28 de octubre** de 2024.
+
+### Más noticias
+
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
+
+De acuerdo con el cronograma de la entidad, la capital de **Guayas** tendrá apagones diferenciados de **cuatro** a **14 horas**.
+
+CNEL no detalló los criterios de **diferenciación** que utilizó para sectorizar estos horarios.
+
+Cortes de luz en Guayaquil para este lunes 28 de octubre.
+---------------------------------------------------------
+
+La suspensión del servicio eléctrico se realizará en **dos y tres franjas** horarias en la mayoría de barrios, mientras que en otros, los apagones serán cortos, pero de corrido.
+
+Las **zonas residenciales** de Guayaquil tienen **horarios** de cortes de luz distribuidos en **74 sectores**.
+
+Mientras que el **sector industrial** tendrá apagones de **cuatro horas**, de **07:00 a 11:00**.
+
+Te compartimos el **cronograma completo** para este lunes 28 de octubre.
+
+Cortes de luz en Quito para este lunes 28 de octubre de 2024
+============================================================
+
+La Empresa Eléctrica Quito (EEQ) detalló los 10 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Quito tendrá cortes de luz de entre 12 a 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-lunes-28-octubre.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad este **lunes 28 de octubre** de 2024.
+
+### Más noticias
+
+* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
+
+La capital mantendrá **apagones programados** de 12, 13 y 14 horas, distribuidos en **dos franjas horarias**.
+
+La suspensión del servicio eléctrico será sectorizada, con cortes en la **mañana-tarde** y en la **tarde-noche**.
+
+La entidad no explicó los **criterios** utilizados para la diferenciación de las horas en los **racionamientos**.
+
+Cortes de luz en Quito para este lunes 28 de octubre
+----------------------------------------------------
+
+Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de luz:
+
+### De 07:00 a 15:00 y 18:00 a 24:00
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+* Cumbayá
+
+### De 06:00 a 11:00 y 15:00 a 23:00
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Eplicachima
+
+### De 07:00 a 13:00 y 17:00 a 24:00
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### De 07:00 a 14:00 y 17:00 a 24:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+### De 00:00 a 06:00 y 14:00 a 21:00
+
+* Barrionuevo
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* El Quinche
+
+### De 00:00 a 07:00 y 13:00 a 18:00
+
+* Olímpico
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Pomasqui
+* Eugenio Espejo
+
+### De 08:00 a 15:00 y 18:00 a 24:00
+
+* Luluncoto
+* San Roque
+* Río Coca
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**.
+
+Este es el **cronograma completo** por barrios para este lunes 28 de octubre.
+
+Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre
+======================================================================================
+
+El Ministerio de Energía y Minas anunció los horarios de los cortes de luz para Ecuador del lunes 28 de octubre al domingo 3 de noviembre de 2024.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Gobierno anunció los horarios de cortes de luz del lunes 28 de octubre al domingo 3 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/con-velas.jpg)
+
+El **Ministerio de Energía y Minas** detalló el cronograma de **cortes de luz** que tendrá **Ecuador** desde este **lunes 28 de octubre hasta el domingo 3 de noviembre** de 2024.
+
+El cronograma se hizo en coordinación con las Empresas de Distribución de Energía y el Operador Nacional de Electricidad (Cenace),
+
+Los horarios de los **cortes de luz** contemplan el **feriado** del **Día de Difuntos y la independencia de Cuenca.**
+
+### Más noticias
+
+* [Cortes de luz en Quito para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-domingo-27-de-octubre.html "Cortes de luz en Quito para este domingo 27 de octubre")
+* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
+* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
+
+Por las condiciones climáticas, esta semana los horarios de **racionamientos** serán similares a los últimos días. Están organizados en bloques que contemplan entre **10 y 14 horas diarias**, según las características y necesidades de cada zona del país.
+
+La programación de los **cortes de luz** **en Ecuador** se ajusta de forma técnica, indica el Ministerio de Energía. Para ello, se prioriza la operación segura y la estabilidad del **Sistema Nacional Interconectado.**
+
+Los cortes de luz serán de entre 10 y 14 horas diarias
+------------------------------------------------------
+
+La **ministra encartada de Energía y Minas, Inés Manzano**, informó la noche del jueves 24 de octubre, que los cortes de luz se extenderían de ocho a 14 horas entre el 25 y 27 de octubre de 2024[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
+
+> 📍¡IMPORTANTE!  
+>   
+> Informamos sobre los racionamientos del servicio de energía eléctrica, a escala nacional, desde el 28 de octubre hasta el 03 de noviembre.  
+>   
+> 🔸Conoce la programación en el siguiente enlace➡️ [https://t.co/hGHtswzuk4](https://t.co/hGHtswzuk4) [pic.twitter.com/2Vjs8DBOOB](https://t.co/2Vjs8DBOOB)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 27, 2024](https://twitter.com/RecNaturalesEC/status/1850681483951751361?ref_src=twsrc%5Etfw)
+
+Este **domingo 27 de octubre de 2024,** las autoridades mantienen el mismo esquema de los cortes de luz de hasta 14 diarias para esta semana. Es decir, la que va desde el lunes 28 de octubre hasta el domingo 3 de noviembre de 2024.
+
+La suspensión del **servicio eléctrico** corresponde a la crisis hídrica que enfrenta el país, generada, en gran parte, a la falta de lluvias en las zonas de las centrales **hidroeléctricas**.
+
+Manzano prometió que, pese a la grave situación que atraviesa Ecuador, para diciembre los racionamientos se reducirán lo máximo posible.
+
+¿Por qué se incrementaron las horas de los apagones?
+----------------------------------------------------
+
+La **ministra Inés Manzano** dijo. “Tomamos esta dura decisión, basados en la difícil situación climática. Toda Sudamérica enfrenta una sequía sin precedentes y Ecuador no es la excepción. Varios países tienen cortes de electricidad y todos hemos visto con asombro las imágenes de un seco río Amazonas”.
+
+“El principal problema son los caudales deprimidos en límites históricos, como es el caso de Mazar y Coca Codo Sinclair”, aseguró la ministra Manzano, en su video de la noche del jueves 24 de octubre de 2024.
+
+Complejo hidroeléctrico Paute
+-----------------------------
+
+A las 16:00 del viernes 25 de octubre de 2024, las tres hidroeléctricas **del Complejo Paut**e, en el Austro: **Mazar, Paute-Molina y Sopladora** estuvieron apagadas.
+
+Según la ministra, el objetivo es cuidar el agua del embalse de Mazar, que alimenta estas tres centrales. El Complejo Paute es el más grande del país, las tres hidroeléctricas juntas tienen una capacidad instalada de 1 700 megavatios (MW) y en condiciones normales proporciona el 30% de la demanda de energía del país.
+
+A las 16:00 del viernes, el caudal de Mazar, es decir, el agua que ingresa al embalse, fue de 12,03 metros cúbicos por segundo (m³/s). Una cantidad muy baja que no permite que el reservorio se recupere.
+
+Central Coca Codo Sinclair
+--------------------------
+
+Los cortes de luz también se incrementaron por la falta de agua en el río Coca, que alimenta la central hidroeléctrica Coca Codo Sinclair.
+
+Según el reporte de la Celec, el afluente registró un caudal de 20 m³/s, el jueves 24 de octubre. El caudal promedio de este río es de 287 m3/s.
+
+Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11
+====================================================================
+
+Barcelona SC goleó y acecha a los líderes de la Liga Pro. Así quedó la tabla de posiciones en el campeonato ecuatoriano
+-----------------------------------------------------------------------------------------------------------------------
+
+![Janner Corozo anotó tres tantos en la goleada de Barcelona SC ante Delfín.](https://www.elcomercio.com/wp-content/uploads/2024/10/bsc-4.jpg)
+
+**Barcelona SC** demostró su poderío el domingo 27 de octubre de 2024, al golear 4-0 a Delfín SC en el estadio Monumental de Guayaquil.
+
+**Janner Corozo** se destacó como la gran figura del encuentro, anotando tres de los cuatro goles de su equipo, mientras que Octavio Rivero completó la cuenta.
+
+### Más noticias:
+
+* [Orense derrota a El Nacional y se suma a la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-derrota-nacional-pelea-liga-pro.html "Orense derrota a El Nacional y se suma a la pelea por la Liga Pro")
+* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
+* [Kendry Páez regresó a la titularidad en Independiente del Valle](https://www.elcomercio.com/deportes/futbol/kendry-paez-regreso-a-la-titularidad-en-independiente-del-valle.html "Kendry Páez regresó a la titularidad en Independiente del Valle")
+
+Con esta victoria, **Barcelona SC** suma 19 puntos y se ubica en el quinto lugar de la tabla de posiciones de la Liga Pro.
+
+El equipo dirigido por Segundo Alejandro Castillo ha mostrado un rendimiento sólido, y ahora se pregunta si podrá competir por el primer lugar.
+
+Barcelona SC y la tabla de posiciones
+-------------------------------------
+
+Actualmente, **Independiente del Valle** lidera la tabla con 23 puntos, seguido de Liga de Quito, que también tiene 23, y Orense con 22 puntos.
+
+La lucha por la cima se intensifica, y Barcelona SC tiene la oportunidad de acercarse a los líderes en sus próximos encuentros contra Aucas, Cumbayá, Técnico Universitario y Mushuc Runa.
+
+Orense se metió en la pelea por la Liga Pro
+-------------------------------------------
+
+En otro duelo destacado de la jornada, Orense se impuso 1-0 a El Nacional en el Estadio Olímpico Atahualpa de Quito.
+
+Robert Burbano anotó el único gol del partido a los 16 minutos, permitiendo que Orense se sume a la pelea por la Liga Pro. Con esta victoria, el equipo de El Oro alcanzó los 22 puntos y se posiciona tercero, justo detrás de [Liga de Quito.](https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito)
+
+La emoción en la Liga Pro se intensifica, ya que tres equipos buscan el título de la segunda etapa.
+
+Orense se enfrenta a un calendario exigente, con partidos pendientes contra Delfín, Técnico Universitario, Cumbayá e **Independiente del Valle.** Por su parte, Independiente del Valle y Liga de Quito también tendrán que luchar para mantener sus posiciones.
+
+Barcelona SC goleó y la recta final promete ser emocionante, y los aficionados esperan más sorpresas en esta intensa batalla por el campeonato.
+
+Tabla de posiciones
+-------------------
+
+1. IDV 23 puntos
+2. LDU 23
+3. Orense 22
+4. U. Católica 20
+5. BSC 19
+6. Mushuc Runa 18
+7. El Nacional 15
+8. Delfín 15
+9. Macará 14
+10. Libertad 13
+11. T. Universitario 12
+12. Imbabura 10
+13. D. Cuenca 9
+14. Aucas 9
+15. Emelec 7
+16. Cumbayá 6
+
+Asamblea Nacional aprobó ley energética urgente tras segundo debate
+===================================================================
+
+El Pleno de la Asamblea trató el segundo y definitivo debate sobre la propuesta de reforma energética y luego votó.
+-------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ley-urgente-energia-asamblea.jpg)
+
+El Pleno de la **Asamblea Nacional** aprobó este domingo 27 de octubre de 2024 la reforma de la **Ley Energética** presentada por el presidente **Daniel Noboa**.
+
+### Más noticias:
+
+* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html")
+* [Viviana Veloz se refirió a la reconsideración de votos en el juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link")
+* [Daniel Noboa emitió otro veto total en menos de una semana](https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link")
+
+Previamente, el Pleno llevo a cabo el **segundo y definitivo debate** sobre la propuesta.
+
+Proyecto de Ley Energética
+--------------------------
+
+Denominada ‘Ley Orgánica para impulsar la iniciativa privada en la generación eléctrica’, el proyecto busca facilitar el desarrollo e implementación de proyectos de **generación eléctrica** a partir de diversas fuentes de energía renovable y tecnologías de transición.
+
+La normativa establece que las empresas dedicadas a la **generación térmica** deberán presentar planes de transición hacia tecnologías que reduzcan el impacto ambiental.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) | La presidenta de la Asamblea Nacional, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), solicita al secretario General, [@AlejandroMunozH](https://twitter.com/AlejandroMunozH?ref_src=twsrc%5Etfw) dar lectura en su parte resolutiva del segundo punto del orden del día de la sesión N° 975:  
+> ✅ Conocer y resolver respecto del Informe para Segundo Debate… [pic.twitter.com/DEY2TmEAXT](https://t.co/DEY2TmEAXT)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850547596088987844?ref_src=twsrc%5Etfw)
+
+Entre las estrategias propuestas se incluye el uso de **gas natural** como alternativa a combustibles fósiles más contaminantes.
+
+Además, se fomentará el desarrollo de **proyectos** **híbridos** que combinen generación térmica con energías renovables, promoviendo una transición más sostenible.
+
+Ley busca la eficiencia energética
+----------------------------------
+
+El proyecto también permite que las empresas **importen gas natural** para autoconsumo en sus procesos productivos, así como para la generación de energía eléctrica. Esto busca sustituir el uso de otros hidrocarburos en actividades productivas en el país.
+
+Las iniciativas que actualmente están en trámite, con un **límite de 10 megavatios**, podrán solicitar una revisión de sus permisos para adaptarse a los nuevos límites de potencia establecidos por la ley.
+
+Asimismo, los proyectos en operación que cumplan con esta condición podrán solicitar un **ajuste** en su capacidad.
+
+La ley también establece que los **Gobiernos Autónomos descentralizados** implementen sistemas de **gestión de residuos** que incluyan el procesamiento de basura para generar energía.
+
+En paralelo, las empresas distribuidoras de electricidad deberán reemplazar las luminarias públicas existentes por modelos de **tecnología LED y solares**, mejorando así la eficiencia energética.
+
+Finalmente, la banca pública y privada podrá ofrecer **créditos a tasas preferenciales** para individuos y empresas del sector privado que deseen implementar sistemas de generación de energía renovable para autoconsumo.
+
+Pleno debatió por segunda ocasión el proyecto
+---------------------------------------------
+
+Previa a la votación, el **Pleno de la Asamblea** realizó el segundo debate de la ley. Estas son algunas de las voces que intervinieron durante la sesión de este domingo.
+
+El asambleísta **Jorge Acaiturri** (PSC) señaló que: “Al pueblo no le importa quien hace la obra o mejora el servicio, si lo hace el mercado o el Estado; si no que le importa acceder al servicio y vivir bien”.
+
+Añadió: “Esta Ley no será un ‘no más apagones’, sino que será una verdadera herramienta para un marco jurídico que garantice la **inversión del sector privado**“.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) "La sequía el cambio climático son una realidad que la vive Ecuador y el mundo. Como asambleísta por [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw) y como miembro de la [@BancadaADN](https://twitter.com/BancadaADN?ref_src=twsrc%5Etfw) estoy seguro de que nuestro Presidente va a tomar las mejores decisiones para cambiar la realidad nacional", enfatiza… [pic.twitter.com/Sfu99lu9a6](https://t.co/Sfu99lu9a6)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850580037864488983?ref_src=twsrc%5Etfw)
+
+Por su parte, **Camilo Salinas** (Construye) destacó que la “energía es **vital** y se requiere de inversión para potenciar la producción y potenciar los proyectos de energía eólica y térmica”.
+
+Mientras que **Viviana Veloz** (Revolución Ciudadana) consideró que “este proyecto **no es la solución** a la crisis energética” y criticó la “falta de fiscalización de las barcazas contratadas para suplir la generación eléctrica”.
+
+> La titular del Parlamento ecuatoriano, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), enfatiza en que duele ver cómo nuestro sistema educativo se deteriora por momentos y en el mundo hoy en la era de la tecnología, de la información y de la comunicación, nuestros colegios, algunos privados y los pocos… [pic.twitter.com/lREbql1kd8](https://t.co/lREbql1kd8)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850628007221927992?ref_src=twsrc%5Etfw)
+
+El legislador **Blasco Luna** (Revolución Ciudadana) calificó esta crisis como un “**feriado energético**” y coincidió en que la Ley no resolverá de manera inmediata los problemas actuales, sino que crea un **marco jurídico** para inversiones a largo plazo.
+
+El legislador **Pedro Velasco** (Avanza) subrayó en su intervención la importancia de la seguridad jurídica para atraer inversión extranjera, especialmente en las fronteras.
+
+Lucía Posso (Avanza) y Carmen Tiupul (Reto) expresaron su preocupación, destacando que, aunque esta ley se aprueba, no resolverá de inmediato la crisis energética.
+
+Votación unánime
+----------------
+
+Luego de mostrar sus posturas ante la ley energética, los asambleístas finalmente votaron.
+
+El proyecto económico para generación de energías fue aprobado de forma unánime, con **120 votos** a favor, cero abstenciones y **ningún voto negativo**.
+
+17 legisladores **no asistieron** al Pleno.
+
+> .[@ValenCenteno](https://twitter.com/ValenCenteno?ref_src=twsrc%5Etfw) mociona:  
+> ✔️ La aprobación del texto íntegro del PROYECTO DE LEY ORGÁNICA PARA IMPULSAR LA INICIATIVA PRIVADA EN LA GENERACIÓN DE ENERGÍAS CALIFICADA COMO URGENTE EN MATERIA ECONÓMICA.  
+>   
+> Por unanimidad, 120 votos afirmativos, se aprueba la moción [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ZbCMcRBqSP](https://t.co/ZbCMcRBqSP)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850630134497149228?ref_src=twsrc%5Etfw)
+
+Orense derrota a El Nacional y se suma a la pelea por la Liga Pro
+=================================================================
+
+Orense ganó con gol de Robert Burbano y depende de sí mismo para quedarse con la etapa. Peleará por la cima ante IDV y Liga de Quito.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Robert Burbano anotó el gol de la victoria de Orense ante El Nacional en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/orense.jpg)
+
+**Orense** se impuso 1-0 a **El Nacional** y se mete de lleno en la pelea por la Liga Pro de Ecuador.
+
+El encuentro tuvo lugar en el Estadio Olímpico Atahualpa de Quito, este 27 de octubre del 2024, donde Robert Burbano anotó el único gol del partido a los 16 minutos.
+
+### Más noticias:
+
+* [Liga de Quito está en shock por ‘errores arbitrales’](https://www.elcomercio.com/deportes/liga-quito-errores-arbitrales-quejas-futbol-vitamina-sanchez.html "Liga de Quito está en shock por ‘errores arbitrales’")
+* [Liga de Quito no puede con Mushuc Runa y pierde el liderato](https://www.elcomercio.com/deportes/liga-quito-lider-mushuc-runa-var-idv.html "Liga de Quito no puede con Mushuc Runa y pierde el liderato")
+* [Independiente del Valle ganó y lidera la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-tabla-cuenca-ligapro.html "Independiente del Valle ganó y lidera la Liga Pro")
+
+Con este triunfo ante los puros criollos en [crisis,](https://www.elcomercio.com/deportes/nacional-entrenamientos-paralizacion-pagos-deudas.html) **Orense Sporting Club** suma 22 puntos y se posiciona tercero en la tabla, justo detrás de **Liga de Quito**, que empató en un partido polémico y tiene 23 puntos.
+
+**Independiente del Valle** lidera con la misma cantidad de puntos (23).
+
+Orense y la lucha por la segunda etapa
+--------------------------------------
+
+La lucha por la segunda etapa se calienta, ya que **Orense** aún debe enfrentar a Delfín, Técnico Universitario, Cumbayá e Independiente del Valle en sus próximos encuentros.
+
+El líder I**DV** también tiene un calendario exigente, enfrentando a El Nacional, Liga de Quito, Macará y luego a Orense.
+
+Por su parte, **Liga de Quito** se medirá contra Emelec, IDV, Católica y Deportivo Cuenca.
+
+La emoción aumenta en esta recta final, donde tres equipos destacan como los principales candidatos a ganar la etapa.
+
+Independiente del Valle, que ya se coronó ganador de la primera fase, busca mantener su posición, mientras que Liga de Quito enfrenta críticas tras perder el liderato por errores arbitrales en su último partido.
+
+El DT de Liga, **Pablo Sánchez**, se mostró frustrado y solicitó la liberación de los audios del VAR para esclarecer las decisiones que afectaron a su equipo.
+
+A falta de solo cuatro partidos, la competencia se intensifica y cada punto cuenta.
+
+Orense, con su reciente victoria, ha demostrado que está listo para luchar hasta el final y aprovechar cualquier oportunidad que se presente en su camino hacia el título.
+
+La Liga Pro promete más sorpresas en esta emocionante recta final.
+
+España eliminó a la Selección de Ecuador en el Mundial Sub 17
+=============================================================
+
+La Selección de Ecuador femenina llegó al partido con una mezcla de emoción y determinación, pero fue eliminada
+---------------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador femenina busca las semifinales del Mundial Sub 17.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccionecuadorfemenina.jpg)
+
+La **Selección de Ecuador femenina** perdió ante **España** en los cuartos de final de la **Copa Mundial Sub-17** Femenina en Santo Domingo, República Dominicana.
+
+El partido, disputado en el Estadio Olímpico Félix Sánchez **este 27 de octubre de 2024**, comenzó a las 14:30 (hora de Ecuador).
+
+España goleó 5-0 a Ecuador gracias al hat trick de **Pau Comendado**r, quien anotó en los minutos 35, 39 y 46.
+
+Los dos últimos goles, en los descuentos, fueron obra de la goleadora Celia Segura.
+
+### Más noticias:
+
+* [Una ecuatoriana entre las estrellas del Mundial Femenino sub-17](https://www.elcomercio.com/deportes/futbol/caprice-chichiolo-mundial-ecuador-femenino.html "Una ecuatoriana entre las estrellas del Mundial Femenino sub-17")
+* [La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-republica-dominicana-mundial-femenino-sub-17.html "La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17")
+* [Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17](https://www.elcomercio.com/deportes/futbol/ecuador-prepara-espana-cuartos-mundial-sub17.html "Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17")
+
+Bajo la dirección de **Eduardo Moscoso,** la Selección de Ecuador femenina ha destacado en la fase de grupos con un impresionante desempeño, logrando dos victorias y anotando seis goles.
+
+Este hito ya es histórico para el fútbol femenino ecuatoriano, ya que es la primera vez que el equipo alcanza esta instancia en un Mundial.
+
+Las jugadoras clave han sido la capitana **Fiorella Pico**, la goleadora Jaslym Valverde y la talentosa Doménica Arboleda, quienes han sido fundamentales para el éxito del equipo.
+
+Además, Caprice Chiuchiolo, la única jugadora en el plantel que milita en el fútbol estadounidense, ha brillado con luz propia, anotando dos goles en la contundente victoria por 4-0 sobre Nueva Zelanda.
+
+Selección de Ecuador femenina
+-----------------------------
+
+El equipo ecuatoriano llega al partido con una mezcla de emoción y determinación. “Estamos felices de estar entre las ocho mejores del mundo”, declaró Moscoso, mientras que Chiuchiolo expresó la ambición del equipo de seguir haciendo historia y el honor que siente al representar a Ecuador.
+
+Por su parte, España, la vigente campeona del torneo y uno de los equipos más exitosos, también ha llegado con un desempeño destacado, ganando todos sus partidos en la fase de grupos.
+
+Ecuador busca convertirse en el primer equipo de Conmebol en vencer a un rival europeo en esta etapa del torneo.
+
+¿Cómo funciona el sistema electoral de EE.UU.?
+==============================================
+
+Votar un día martes y los colegios electorales hacen que el sistema electoral de EE.UU. sea complejo y siempre requiera de una explicación.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Estados Unidos tiene un complejo sistema electoral, difícil de entender y que muchos consideran obsoletos.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-6.jpg)
+
+**Estados Unidos** es el país que inventó la **democracia** moderna o liberal. Sin embargo, su **sistema electoral**, que es el más antiguo, es también el más complicado del mundo. Y cada cuatro años siempre requiere de una **explicación** sobre **cómo funciona** porque el presidente electo no gana de manera inmediata por el voto universal, sino por los colegios electorales. El 5 de noviembre, los estadounidenses acudirán a las urnas para decidir entre la **demócrata Kamala Harris** y el **republicano Donald Trump**. Aquí trataremos de explicar cómo llega un candidato a ocupar la Casa Blanca.
+
+### Más noticias
+
+* [Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo](https://www.elcomercio.com/actualidad/mundo/elecciones-estados-unidos-perfilan-ajustadas-siglo.html "Las elecciones en Estados Unidos se perfilan como las más ajustadas del siglo")
+* [Donald Trump gana apoyo entre afros y latinos en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/donald-trump-gana-apoyo-afros-latinos-estados-unidos.html "Donald Trump gana apoyo entre afros y latinos en Estados Unidos")
+* [Estados Unidos entrega 39 millones de dólares a Ecuador ¿Cuál es el objetivo?](https://www.elcomercio.com/actualidad/politica/estados-unidos-entrega-39-millones-ecuador-usaid.html "Estados Unidos entrega 39 millones de dólares a Ecuador ¿Cuál es el objetivo?")
+
+El sistema electoral en un día diferente
+----------------------------------------
+
+El próximo **martes 5 de noviembre**, será el día de la **elección** para **Presidente**, **Vicepresidente**, la renovación de un tercio del **Senado** y la renovación total de la **Cámara de Representantes.** Aquí comienza el primer problema. **¿Por qué se vota en un día martes?**
+
+Al ser **Estados Unidos** un **país federal**, cada **Estado** tiene sus propias leyes y también **su propio sistema electoral**. No tiene un ente rector de las elecciones a nivel nacional. Hasta **1845**, cada uno podía organizar sus **comicios en cualquier fecha**, siempre y cuando fueran **34 días antes del primer miércoles de diciembre.**
+
+Esto traía un problema. Supongamos que el Estado de **Nueva York** votara el 7 de noviembre y **Nueva Jersey** el 18 de noviembre. Los **votantes** de este último iba a las urnas con conocimiento de lo que había pasado en Nueva York y podía influir en los resultados. Entonces, el **Congreso** nacional resolvió que se lo realizara en un martes de noviembre, pero no cualquier martes, sino **el primero después del primer lunes de noviembre.**
+
+La razón para hacerlo en martes se debía a que la mayoría de los ciudadanos habilitados para votar eran **campesinos**. No lo hicieron en **domingo**, como ocurre en el resto del mundo, porque debían ir a la **iglesia** y comerciar sus productos en los **mercados** dominicales. Y se escogió **noviembre** porque era un mes que no complicara el trabajo en sus granjas.
+
+Actualmente, hay muchos cuestionamientos sobre el día. Ahora, muchos **votantes son urbanos** y no pueden acudir a las urnas a votar en martes, algo que cuestionan los demócratas, sobre todo. Sin embargo, se puede votar anticipadamente, por correo o internet, que no está bien vistos por algunos republicanos, sobre todo del expresidente y actual candidato Donald Trump.
+
+Los Colegios Electorales, lo más complejo del sistema
+-----------------------------------------------------
+
+El **sistema electoral de Estados Unidos** no elige presidente por la mayoría de los votos a nivel nacional. Si bien tiene un valor, es más en función de cómo constituyen los **Colegios Electorales**, en los que se define al ganador de las elecciones.
+
+Los **Colegios Electorales** representan la decisión del voto mayoritario de cada Estado. Y se organizan según el número de pobladores de cada Estado.
+
+En total son **538 electores**. El estado que más votos del Colegio Electoral tiene es **California**: 54. Los que menos tienen son los estados más rurales, como las dos **Dakotas** o **Wyoming**, con **tres**, cada uno.
+
+Acá entonces entra la parte complicada y, para muchos, la obsoleta del sistema, que es mejor explicar mediante un resultado hipotético. Supongamos que **Kamala Harris** gana en California: todos los 54 votos del Colegio Electoral de California serán para ella, así obtuviera el 50,1% del voto o -exageremos- el 100%. Trump ganaría, por ejemplo, en Texas, por lo tanto, se llevará consigo los 40 de su colegio electoral. Solamente Maine y Nebraska tienen un sistema proporcional[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Estados_Unidos_de_2016 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Estados_Unidos_de_2016")
+
+Un sistema electoral que permita ganar sin tener la mayoría
+-----------------------------------------------------------
+
+Para llegar a la **Presidencia de Estados Unidos**, hay que alcanzar al menos **270 votos de los Colegios Electorales.** Y acá viene otra complejidad más: **se puede ganar sin tener la mayoría de votos.** Lo sabe bien **Trump**, que en el **2016** tuvo casi tres millones de votos menos que su rival, la demócrata **Hillary Clinton.** Sin embargo, **ganó en 30 estados,** mientras Clinton triunfó en 20, además del Distrito de Columbia.
+
+Los **republicanos** son mayoría en estados en donde predomina lo **rural**. Los **demócratas** tienen preeminencia en los que tienen una gran **concentración urbana**.
+
+Hay, sin embargo, los **estados pendulares** (swing state), que **no tienen un ganador claro de antemano**. A estos apuntan los mayores esfuerzos de la **campaña electoral**. Estos son Arizona, Georgia, Michigan, Nevada, Carolina del Norte, Pensilvania y Wisconsin. **En total, suman 96 colegios electorales**.
+
+En el 2020, fueron fundamentales para los demócratas, los triunfos en **Arizona (AZ), Pensilvania (PA), Wisconsin (WI), Michigan (MI), Georgia (GA) y Nevada (NV).**
+
+La siguiente imagen corresponde a las **elecciones del 2020** entre **Joe Biden** y **Donald Trump**, que buscaba, entonces, la reelección. Los **estados rojos** votaron por los republicanos y los azules, por los demócratas. Pero en este 2024, hasta el momento, las encuestas dan un empate técnico.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/mapa-de-estados-unidos.jpg)
+
 Deportivo Quito avanza a octavos tras una dramática tanda de penales
 ====================================================================
 
@@ -58,9 +538,15 @@ Deportivo Quito y los penales
 
 Los penales no pudieron ser más dramáticos para **Deportivo Quito**, que se encontraba abajo en el marcador a falta de los últimos lanzamientos.
 
-Sin embargo, el arquero **Darío Lajones** se convirtió en el héroe del encuentro al atajar los dos penales finales, asegurando así la clasificación de su equipo.
+Sin embargo, el arquero **Darío Lajones** se convirtió en el héroe del encuentro al atajar uno de los últimos penales, asegurando así la clasificación de su equipo.
 
-Los chullas siguen vivos en la lucha y demuestran una vez más su resiliencia en el Nacional de Ascenso. Los dos corazones de cada hincha -el de sufrir y el de vivir- no faltaron en esta emocionante jornada para el elenco de la Plaza del Teatro.
+Los chullas siguen vivos en la lucha y demuestran una vez más su resiliencia en el Nacional de Ascenso. Los **dos corazones** de cada hincha -‘ese para sufrir y el otro para vivir’- no faltaron en esta emocionante jornada para el elenco de la **Plaza del Teatro**.
+
+El próximo rival de la **‘Academia’** será **Toreros FC** que eliminó al Santa Elena Sumpa.
+
+> Sólo esto 🙏🥹 [#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) vida 💙❤️ [pic.twitter.com/zlGB4eoJgh](https://t.co/zlGB4eoJgh)
+> 
+> — SD Quito Oficial (@SDQuito\_Oficial) [October 27, 2024](https://twitter.com/SDQuito_Oficial/status/1850612910328095158?ref_src=twsrc%5Etfw)
 
 Deportivo Quito
 ---------------
@@ -80,44 +566,7 @@ La pasión por **Deportivo Quito** es palpable, y la afición está lista para l
 
 Imágenes y videos en redes sociales muestran largas filas en los puntos de venta, reflejando el fervor de los hinchas por ver a su equipo avanzar en el torneo.
 
-El vencedor de esta serie se clasificará a los octavos de final, donde se medirá con Toreros FC que eliminó al Santa Elena Sumpa.
-
 Con el apoyo incondicional de sus aficionados, Deportivo Quito está listo para luchar por un nuevo capítulo en su rica historia futbolística.
-
-Selección de Ecuador femenina reta España en el Mundial Sub 17
-==============================================================
-
-La Selección de Ecuador femenina llega al partido contra España con una mezcla de emoción y determinación.
-----------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador femenina busca las semifinales del Mundial Sub 17.](https://www.elcomercio.com/wp-content/uploads/2024/10/seleccionecuadorfemenina.jpg)
-
-La **Selección de Ecuador femenin**a se prepara para un emocionante desafío este domingo 27 de octubre del 2024, enfrentando a España en los cuartos de final de la **Copa Mundial Sub 17** Femenina de la FIFA, que se celebra en Santo Domingo, República Dominicana.
-
-El partido se disputará en el Estadio Olímpico Félix Sánchez a las 14:30 (hora de Ecuador).
-
-### Más noticias:
-
-* [Una ecuatoriana entre las estrellas del Mundial Femenino sub-17](https://www.elcomercio.com/deportes/futbol/caprice-chichiolo-mundial-ecuador-femenino.html "Una ecuatoriana entre las estrellas del Mundial Femenino sub-17")
-* [La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-republica-dominicana-mundial-femenino-sub-17.html "La Selección de Ecuador arranca con triunfo en el Mundial Femenino Sub-17")
-* [Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17](https://www.elcomercio.com/deportes/futbol/ecuador-prepara-espana-cuartos-mundial-sub17.html "Ecuador se prepara para el desafío de España en cuartos del Mundial Sub-17")
-
-Bajo la dirección de **Eduardo Moscoso,** la Selección de Ecuador femenina ha destacado en la fase de grupos con un impresionante desempeño, logrando dos victorias y anotando seis goles.
-
-Este hito ya es histórico para el fútbol femenino ecuatoriano, ya que es la primera vez que el equipo alcanza esta instancia en un Mundial.
-
-Las jugadoras clave han sido la capitana **Fiorella Pico**, la goleadora Jaslym Valverde y la talentosa Doménica Arboleda, quienes han sido fundamentales para el éxito del equipo.
-
-Además, Caprice Chiuchiolo, la única jugadora en el plantel que milita en el fútbol estadounidense, ha brillado con luz propia, anotando dos goles en la contundente victoria por 4-0 sobre Nueva Zelanda.
-
-Selección de Ecuador femenina
------------------------------
-
-El equipo ecuatoriano llega al partido con una mezcla de emoción y determinación. “Estamos felices de estar entre las ocho mejores del mundo”, declaró Moscoso, mientras que Chiuchiolo expresó la ambición del equipo de seguir haciendo historia y el honor que siente al representar a Ecuador.
-
-Por su parte, España, la vigente campeona del torneo y uno de los equipos más exitosos, también ha llegado con un desempeño destacado, ganando todos sus partidos en la fase de grupos.
-
-Ecuador busca convertirse en el primer equipo de Conmebol en vencer a un rival europeo en esta etapa del torneo.
 
 Tormentas y fuertes lluvias amenazan a Ecuador
 ==============================================
@@ -190,59 +639,6 @@ La **Secretaría de Gestión de Riesgos** ha emitido las siguientes recomendacio
 Este fenómeno es una clara advertencia para la población ecuatoriana, que deberá mantenerse alerta ante posibles emergencias durante estos días.
 
 Los organismos de control y emergencia estarán monitoreando la situación para tomar acciones inmediatas y proteger la seguridad de los ciudadanos, se informó en el boletín de la **alerta meteorológica del Inamhi**[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
-
-Asamblea Nacional inició segundo debate de Ley Energética
-=========================================================
-
-Se trata del segundo y definitivo debate sobre la propuesta de reforma energética.
-----------------------------------------------------------------------------------
-
-![Sesión del Pleno de la Asamblea Nacional. Foto: Asamblea Nacional](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo199.jpg)
-
-El Pleno de la **Asamblea Nacional** comenzó este 27 de octubre de 2024 el segundo y definitivo debate sobre la propuesta de reforma de la Ley Energética presentada por el presidente **Daniel Noboa**.
-
-### **Más noticias:**
-
-* [Comisión aprobó informe para segundo debate del proyecto urgente sobre energía](https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html "https://www.elcomercio.com/actualidad/politica/comision-aprobo-informe-para-segundo-debate-del-proyecto-urgente-sobre-energia.html")
-* [Viviana Veloz se refirió a la reconsideración de votos en el juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/viviana-veloz-se-refirio-reconsideracion-votos-juicio-politico.html?source=Internal&ref=Single+Content+Link")
-* [Daniel Noboa emitió otro veto total en menos de una semana](https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/politica/daniel-noboa-otro-veto-total-semana.html?source=Internal&ref=Single+Content+Link")
-
-Asamblea Nacional inició segundo debate de Ley Energética
----------------------------------------------------------
-
-Denominada ‘Ley Orgánica para impulsar la iniciativa privada en la generación eléctrica’, el proyecto busca facilitar el desarrollo e implementación de proyectos de generación eléctrica a partir de diversas fuentes de energía renovable y tecnologías de transición.
-
-La normativa establece que las empresas dedicadas a la generación térmica deberán presentar planes de transición hacia tecnologías que reduzcan el impacto ambiental.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) | La presidenta de la Asamblea Nacional, [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw), solicita al secretario General, [@AlejandroMunozH](https://twitter.com/AlejandroMunozH?ref_src=twsrc%5Etfw) dar lectura en su parte resolutiva del segundo punto del orden del día de la sesión N° 975:  
-> ✅ Conocer y resolver respecto del Informe para Segundo Debate… [pic.twitter.com/DEY2TmEAXT](https://t.co/DEY2TmEAXT)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 27, 2024](https://twitter.com/AsambleaEcuador/status/1850547596088987844?ref_src=twsrc%5Etfw)
-
-Entre las estrategias propuestas se incluye el uso de gas natural como alternativa a combustibles fósiles más contaminantes.
-
-Además, se fomentará el desarrollo de proyectos **híbridos** que combinen generación térmica con energías renovables, promoviendo una transición más sostenible.
-
-Frente a eso, el asambleísta **Camilo Salinas** destacó, en el segundo debate, que la energía es vital y se requiere de inversión para potenciar la producción y potenciar los proyectos de energía eólica y térmica. Indicó que su bancada apoyará esta normativa.
-
-Con el nuevo proyecto se busca eficiencia energética
-----------------------------------------------------
-
-El proyecto también permite que las empresas importen gas natural para autoconsumo en sus procesos productivos, así como para la generación de energía eléctrica. Esto busca sustituir el uso de otros hidrocarburos en actividades productivas en el país.
-
-Las iniciativas que actualmente están en trámite, con un límite de 10 megavatios, podrán solicitar una revisión de sus permisos para adaptarse a los nuevos límites de potencia establecidos por la ley.
-
-Asimismo, los proyectos en operación que cumplan con esta condición podrán solicitar un ajuste en su capacidad.
-
-Sobre eso, el asambleísta Jorge Acaiturri señaló que: “Al pueblo no le importa quien hace la obra o mejora el servicio, si lo hace el mercado o el Estado; si no que le importa acceder al servicio y vivir bien”.
-
-Añadió: “Esta Ley no será un ‘no más apagones’, sino que será una verdadera herramienta para un marco jurídico que garantice la inversión del sector privada”.
-
-La ley también establece que los gobiernos autónomos descentralizados implementen sistemas de gestión de residuos que incluyan el procesamiento de basura para generar energía.
-
-En paralelo, las empresas distribuidoras de electricidad deberán reemplazar las luminarias públicas existentes por modelos de tecnología LED y solares, mejorando así la eficiencia energética.
-
-Finalmente, la banca pública y privada podrá ofrecer créditos a tasas preferenciales para individuos y empresas del sector privado que deseen implementar sistemas de generación de energía renovable para autoconsumo. Estos sistemas permitirán a los beneficiarios comercializar cualquier excedente de energía generada, contribuyendo a una mayor sostenibilidad en el país.
 
 La alegría de Flamengo tras el primer gol de Gonzalo Plata
 ==========================================================
@@ -526,6 +922,52 @@ A las 01:30, en la vía a Nono sector del Club de Abogados, se encontró un furg
 
 A las 05:30, en las calles Huirachuros y Orquídeas, sector Tumbaco, se verificó la pérdida de pista de vehículo pequeño.
 
+Feriado del jueves 31 de octubre es obligatorio para el sector público y privado
+================================================================================
+
+El Ministerio de Trabajo anunció que la suspensión de la jornada laboral del jueves 31 de octubre es obligatoria para el sector público y privado.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La suspensión de la jornada laboral del 31 de octubre es obligatoria para el sector privado y público.](https://www.elcomercio.com/wp-content/uploads/2024/10/jornada-ok.jpg)
+
+El **feriado del 31 de octubre de 2024** será obligatorio para trabajadores públicos y privados en todo el país, en cumplimiento del **Decreto Ejecutivo 438**, emitido por el **presidente Daniel Noboa.**
+
+El gobierno ecuatoriano, a través del decreto del 25 de octubre de 2024, anunció la suspensión de la jornada laboral para todo el territorio nacional el próximo 31 de octubre.
+
+Esta medida tiene **carácter obligatorio y abarca tanto al sector público como al privado**, según el comunicado oficial del **Ministerio del Trabajo, difundido este 27 de octubre.**
+
+### Más noticias
+
+* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
+* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
+* [Cortes de luz en Cuenca para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-domingo-27-de-octubre.html "Cortes de luz en Cuenca para este domingo 27 de octubre")
+
+La **disposición señala que para el sector público se establecerá posteriormente un cronograma específico** para recuperar el día no laborado.
+
+En tanto, el **sector privado tendrá la facultad de organizar de forma discrecional cómo se realizará la recuperación de la jornada**, siempre que se garanticen los derechos laborales de los trabajadores y se mantenga la continuidad de las actividades consideradas esenciales, cuyo funcionamiento no puede ser interrumpido.
+
+Daniel Noboa extiende el feriado nacional de noviembre
+------------------------------------------------------
+
+“En atención al sector turístico, el Gobierno del Ecuador ha dispuesto la suspensión de la jornada laboral del jueves 31 de octubre”, señaló la Presidencia.
+
+Además, “para fortalecer la actividad económica“, en el marco del feriado nacional por el **Día de los** **Difuntos y la Independencia de Cuenca.**
+
+La modalidad de recuperación de la jornada suspendida en el sector público será anunciada oportunamente. El sector privado podrá decidir sobre el cronograma de recuperación del día laborable.
+
+El 31 de octubre antecede a cuatro días de feriados
+---------------------------------------------------
+
+La jornada laboral del 31 de octubre antecede a cuatro días de feriados.
+
+**El Día de los Difuntos** se conmemora el sábado 2 de noviembre, pero se traslada al viernes 1 de noviembre.
+
+**La Independencia de Cuenca** se recuerda el domingo 3 de noviembre, pero se traslada al lunes 4 de noviembre.
+
+Con esto, los días de los feriados de noviembre ascienden a cuatro: **viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre[.](https://es.wikipedia.org/wiki/Ecuador)**
+
+Con la suspensión de la jornada laboral para el sector público, los días de descanso se amplían a cinco en todo el territorio nacional.
+
 Cabecilla de Los Tiguerones fue capturado con fuerte armamento
 ==============================================================
 
@@ -609,26 +1051,6 @@ En conclusión, la familia es nuestra primera escuela, donde se sientan las base
 
 Roberto Camana-Fiallos 
 
-Juicio ganado y el juicio perdido…
-==================================
-
-La ministra se defendió, en su conjunto, muy bien, de manera ordenada, específica  y firme.
--------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-**I.- La votación:** A la final, el correísmo  no pudo alzarse con la cabeza – como señal de **triunfo** con sabor a venganza –  de  la **Ministra** del **Interior**  M. **Palencia**, toda vez que no logró conseguir los 92 votos,  contando solo con 77 a favor de la **censura**, **votos compuestos** por RC5 y PSC, dándose 40 votos  en contra de la **censura** y 16 abstenciones principalmente atribuibles a  Construye, los mismos que fueron los decisivos, y que, según el **interpelante** L. Berrezueta (RC5) y de G. Celi, presidente de SUMA, tienda que auspicia la **candidatura** de J. Topic, serían probablemente suerte de un **acuerdo** a cambio de la **aprobación** por parte del TCE de la lista de **asambleístas** de **Construye**.
-
-**II.- Un atormentado correísmo que va de mal en peor**: Lo cierto es que, esta nueva derrota del devaluado correísmo, se suma a una larga lista de **fracasos** y golpes, tales como, los fallidos juicios a la Fiscal y a la Canciller; un **binomio presidencial** débil y no puntero por primera vez; la **declaración** como no elegibles para ingresar a **Estados Unidos** de sus **cabecillas** y por ende – como ya lo hemos anotado –   el **derrumbamiento** de la teoría del Lawfare; el encarcelamiento de Glas y el **debilitamiento** del apoyo al  “asalto” a la **embajada mexicana**  y del asilo (tema que por cierto, siendo una de las iniciales causales principales del **juicio político** en contra de **Palencia**, fue al final del día  hábilmente no utilizado por el correísmo, toda vez que dadas las circunstancias, esas iniciales armas resultaban a la fecha contraproducente políticamente); el **espaldarazo** a las forzadas “**elecciones**” del 28 de julio al dictador Maduro; los pronunciamientos inconsistentes de su **candidata** L. González en cuanto, entre otros,  a fuentes de **energía** limpias ajenas a las **fuentes hídricas**, y un largo etc.; todo lo cual, cabe indicarse, no les **resta apoyo** del **voto** duro del que disponen, pero sí les alejaría del **voto dubitativo**. 
-
-La interpelante, P. Cabezas, había expresado poco tiempo atrás que, si  el **juicio político** no resultaba favorable a sus intereses, ella se iría a su casa. ¿Será que cumple su palabra?, al decir de las **cuestionables prácticas** utilizadas en el **juicio**, lo más probable es que, consistente con aquello, no la cumpla.
-
-**III.- Una defensa implacable:** La ministra se defendió, en su conjunto, muy bien, de **manera ordenada**, específica  y firme, no dando posibilidades de réplica a los interpelantes, los mismos que fueron **apaleados** por la **contundencia** de los **argumentos** de la ministra, la misma que salió bien librada de la **censura**, quien merecía salir inmune – pese a tener mucho **trabajo** aún por realizar en el campo de la seguridad – entre otros motivos, independientemente del interesado apoyo o no de **Construye**, por la **solidez** argumentativa frente a la **debilidad intelectual** de sus **interpelantes**.
-
-Cabe indicarse que, el día del **juicio**, no se dio paso a la reconsideración de la **votación**, la cual aún estaría latente, pese a que en la **práctica** y como van las cosas, siendo no imposible, es poco probable que reviva el intento de **censura** en su contra vía reconsideración de la **votación**, caso en el cual, Construye tendría la última palabra… 
-
-**Conclusión:** Para el **oficialismo**, apagado por las **circunstancias atmosféricas** y por sus consecuencias en las **encuestas**, lo dado es una luz de **alegría** alzándose con la copa de la **victoria** al no darse  la censura en contra de su más **representativa  ministra**, entre otros motivos, por su cercanía con Noboa; y, por otro lado,  quien Perdió el Juicio, fue sin duda el desorientado correísmo, no solamente por sus **resultados prácticos** en el **campo político**, sino por el peculiar **carácter** y conducta de su **líder**.
-
 Turismo al desapego
 ===================
 
@@ -650,315 +1072,3 @@ Sin embargo, la vida ni se repite ni se detiene. Todo **evoluciona**. Rafael no 
 El Ecuador de las manos limpias no tenía miles de **influencers** que hoy **direccionan** la opinión de millones de personas. En el Ecuador de hoy los **carteles** financian campañas. El narco está **inmerso** en la sociedad. Somos **desconfiados**. Doblegar a los medios no es suficiente y **ejércitos** de muchachos expertos en redes sociales, no nos pueden domesticar.
 
 Inimaginable el **sufrimiento** diario de alguien que se droga con sus **recuerdos** y promete una oxidada realidad en blanco y negro. La vida es una **sucesión** de intervalos buenos y malos y cuando nos quieren vender solo instantes luminosos, sabemos que nos están mintiendo.
-
-Ecuador reporta un promedio diario de 14 nuevos casos de VIH
-============================================================
-
-En Ecuador, 48 782 personas viven con VIH y de estas 88% reciben tratamiento antirretroviral. Aún persiste el estigma.
-----------------------------------------------------------------------------------------------------------------------
-
-![Álex, de 33 años, está consciente de hacerse pruebas de VIH periódicos y usar métodos de prevención del VIH.](https://www.elcomercio.com/wp-content/uploads/2024/10/Alex-Rivera.jpg)
-
-Ecuador enfrenta un desafío significativo en la lucha contra el VIH. A diario hay un promedio de 14 nuevos casos, lo que suma más de cinco mil nuevos casos anuales en 2022 y 2023. Este aumento en la incidencia es comparable al repunte observado entre 2009 y 2011.
-
-Más noticias
-------------
-
-* [Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?](https://www.elcomercio.com/tendencias/salud/repunte-de-infecciones-de-transmision-sexual-en-ecuador-por-que-hay-mas-casos-en-mujeres.html "Repunte de Infecciones de Transmisión Sexual en Ecuador ¿Por qué hay más casos en mujeres?")
-* [¿Cómo funciona un centro de salud inclusivo para Infecciones de Transmisión Sexual en Quito?](https://www.elcomercio.com/tendencias/salud/como-funciona-un-centro-de-salud-inclusivo-para-infecciones-de-transmision-sexual-en-quito.html "¿Cómo funciona un centro de salud inclusivo para  Infecciones de Transmisión Sexual en Quito?")
-* [7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador](https://www.elcomercio.com/tendencias/salud/7-barreras-para-acceder-a-la-atencion-de-infecciones-de-transmision-sexual-en-ecuador.html "7 barreras para acceder a la atención de Infecciones de Transmisión Sexual en Ecuador")
-
-Al desglosar estos nuevos casos por sexo, se observa que la mayoría corresponde a hombres, con una relación de siete hombres por cada tres mujeres.
-
-La población más afectada está en plena etapa productiva: 62% de los casos se concentran en personas de 25 a 49 años. Otro 21% es jóvenes de 20 a 24 años.
-
-En estas edades hay una tendencia hacia la falta de uso consistente de preservativos y una baja percepción del riesgo. Esto se agrava por el consumo de drogas y otros comportamientos de riesgo.
-
-![chart visualization](https://public.flourish.studio/visualisation/19984477/thumbnail)
-
-Además, un 10% de casos notificados corresponde a mayores de 50 años. Ellos a menudo enfrentan la estigmatización y la falta de información precisa sobre el VIH. Esto dificulta que participen en estrategias de prevención y busquen diagnósticos oportunos.
-
-La transmisión del VIH se produce principalmente a través de relaciones sexuales sin protección, exposición a sangre infectada. También de madre a hijo durante el embarazo o la lactancia.
-
-Cabe mencionar que la coinfección con otros virus, como el de la hepatitis B, herpes humano 8 y hepatitis C es común en estos casos.
-
- La prevalencia del VIH es alta en redes sexuales cerradas
-----------------------------------------------------------
-
-Dentro del contexto de la epidemia, el 27,9% de los casos notificados por el Ministerio de Salud Pública (MSP) pertenece a grupos clave para VIH.
-
-En estas poblaciones preocupan los hombres que tienen sexo con hombres (HSH), los cuales representan el 82%, seguidos por mujeres trans femeninas (MTF) con 9%. Siguen en la estadística las personas que ejercen el trabajo sexual, privados de libertad y usuarios de drogas.
-
-Entre las prácticas de riesgo que facilitan la transmisión, el MSP destaca el sexo anal sin protección; la exposición a múltiples parejas sexuales. Además, la dificultad para negociar el uso del preservativo.
-
-En Ecuador, la mayoría de personas de grupos clave están en redes sexuales relativamente cerradas. Ahí la prevalencia del VIH es alta, lo que aumenta la posibilidad de nuevas infecciones entre sus integrantes.
-
-88% de personas que viven con VIH reciben antirretrovirales
------------------------------------------------------------
-
-![chart visualization](https://public.flourish.studio/visualisation/19981383/thumbnail)
-
-Hasta el 2023 existen 48 782 personas que viven con VIH hasta el 2023, según el Ministerio de Salud Pública (MSP). De esta cantidad, el 95% (46 427) conoce su estatus serológico. Las personas positivas a VIH y conocen cuál es su estado serológico deberían empezar a recibir Tratamiento Antirretrovírico (TARV) para estar saludables.
-
-Pero, la adhesión a los tratamientos en el país aún no llega al 90%, que es el objetivo trazado. Las estadísticas oficiales muestran que de las personas que viven con VIH, el 88% recibe la medicación antirretroviral. Y, de estos el 72% ha llegado a suprimir la carga viral, incluso, llega a ser indetectable. De esta forma se logra, además, prevenir la transmisión del virus. Esta supresión viral se logra, según los médicos, entre tres a seis meses, después de iniciado el TARV. 
-
-Pese a lo desafiante que puede ser la reducción de esta epidemia, cada vez hay más jóvenes decididos a tomar medidas activas para protegerse del VIH. Uno de ellos es Mauricio (nombre protegido), de 26 años, quien conoció la PrEP a través de un amigo. Este método está diseñado para prevenir la transmisión del VIH en personas que no están infectadas, pero que enfrentan un alto riesgo.
-
-El estigma, enemigo de los métodos de prevención
-------------------------------------------------
-
-![Mauricio (nombre protegido) recibe la PrEP en el Centro de Salud No. 1 del Centro Histórico de Quito, para evitar la transmisión del VIH. ](https://www.elcomercio.com/wp-content/uploads/2024/10/Centro-de-Salud-Inclusivo.jpg)
-
-Mauricio (nombre protegido) recibe la PrEP en el Centro de Salud No. 1 del Centro Histórico de Quito.
-
-Pese a lo desafiante que puede ser la reducción de esta epidemia, cada vez hay más jóvenes decididos a tomar medidas activas para protegerse del VIH. Uno de ellos es Mauricio (nombre protegido), de 26 años, quien conoció la PrEP a través de un amigo. Este método está diseñado para prevenir la transmisión del VIH en personas que no están infectadas, pero que enfrentan un alto riesgo.
-
-Un día decidió ir el Centro de Salud No. 1 en el Centro Histórico de Quito, donde un promotor lo ayudó a sentirse en confianza. El alivio fue mayor cuando la prueba resultó negativa. Lleva siete meses en tratamiento sin experimentar efectos secundarios. Destaca la importancia de la PrEP y otras formas de prevención, como el uso de preservativos.
-
-“Hablar de este tipo de prevención sigue siendo un tabú; temo que la gente piense que tomo PrEP por alguna razón negativa. Pero es un verdadero avance en la salud; me protege y me permite sentirme más seguro al tener intimidad. No tengo una pareja estable, y en mi país, Venezuela, no hay acceso a estos tratamientos”. Dos de sus amigos también son beneficiarios de esta opción gratuita.
-
-> En los primeros ocho meses de este 2024, 1 577 personas de grupos clave han recibido PrEP, a escala nacional. Otros 2 500 recibieron atención por ser víctimas de violencia sexual y por relaciones sexuales de riesgo. A estos últimos se les entrega PEP, que es un medicamento para casos de emergencia.
-
-Pruebas tardías y mitos persisten entre grupos de riesgo al VIH
----------------------------------------------------------------
-
-Álex Rivera, de 33 años, también es negativo a VIH, y se realiza pruebas periódicas mientras utiliza PrEP. Además, anima a otros miembros de la comunidad LGBTQ, a través de sus cuentas en X e Instagram, a que adopten este método. “Normalmente hay un gran estigma y muchas personas no se hacen pruebas. He acompañado a personas al centro de salud que ya tienen secuelas físicas tras ocho o diez años sin presentar síntomas. Pero tienen miedo, supongo que por experiencias personales.
-
-Hay casos en los que ya no pueden ocultarlo y otros saben que son positivos, pero no están en tratamiento y no lo dicen. Se les menciona la PrEP, pero piensan que les hará más daño o que afectará su hígado. Tienen ese estigma y prefieren que nadie lo sepa para no ser juzgados. No se dan cuenta de que se están poniendo en riesgo, tanto a sí mismos como a los demás”.
-
-Las fases del VIH
------------------
-
-La infección por VIH se desarrolla en tres fases. La etapa inicial suele aparecer entre 2 y 4 semanas después de la exposición al virus. Algunos experimentan síntomas similares a los de la gripe, como fiebre, dolor de cabeza y erupciones cutáneas. El VIH se reproduce rápidamente, atacando y destruyendo las células CD4 del sistema inmunitario.
-
-En la fase crónica, el VIH continúa multiplicándose, pero a niveles más bajos, y mucho no presentan síntomas. Sin tratamiento antirretroviral, la infección puede progresar a sida en un plazo de 10 años o más. Hay algunos que experimentan una evolución más rápida. Quienes reciben tratamiento permanecen en esta fase por décadas.
-
-El sida es la etapa final. El virus ha destruido el sistema inmunitario y el cuerpo no puede luchar contra infecciones oportunistas o cáncer. Las muertes relacionadas al sida desde el 2018 al 2023 suman 4 011, un promedio de 669 al año. La tasa de mortalidad relacionada al sida el año pasado fue de 3,4 por cada 100 mil habitantes, lo que corresponde a 609 muertes.
-
-El poder de los machos
-======================
-
-Estos casos evidencian cómo el poder fascina, aterroriza o inmoviliza a la sociedad para garantizar su revitalización y permanencia.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-Aunque no es una **novedad**, en las últimas semanas se han acumulado los **casos** que ponen de manifiesto la forma en que los **hombres con poder** –los ‘operadores de **dominación**’ como los llama Michel Foucault– fabrican **relaciones de sometimiento**, no solo hacia las mujeres sino también hacia otros hombres que no encajan en su **patrón**.
-
-Los casos con mayor atención han sido los relacionados con famosos: el rapero [Puff Daddy](https://www.bbc.com/mundo/articles/cjd5lnmxn2yo), preso por tráfico sexual y **reclutamiento** para la **prostitución**, y el **empresario** de la moda, [Michael Jeffries](https://www.nytimes.com/es/2024/10/22/espanol/negocios/michael-jeffries-abercrombie-trafico-sexual.html), acusado de forzar a **decenas de hombres** a realizar actos sexuales cuando fue director de ‘Abercrombie & Fitch’.
-
-Sin constituir delitos penales de la **magnitud** de los mencionados, se encuentran otros más cercanos, como el que sacó a la luz [Margarita Rosa de Francisco](https://www.tiktok.com/@margaritavasola/video/7425979652923067678?_r=1&_t=8qnC33Iw5Y6) (la Gaviota de Café con aroma de mujer) sobre las **intervenciones quirúrgicas** que infantilizan el cuerpo femenino para complacer a esos hombres con poder suficiente para el acceso y la **promoción** de ese tipo de **prácticas**.
-
-En el Ecuador, mientras tanto, la [Presidencia de la República](https://www.youtube.com/shorts/EQ_Bu8abhF8) usa, sin sonrojarse, la **canción** ‘Mami soy tu vaquero’, de explícito **contenido sexual**, al tiempo que afirma ‘7 veces se sonrojaron las mujeres por la gestión del presidente’, en una campaña que supuestamente las **apoya**; entretanto, los **aficionados** del Barcelona Sporting Club exhiben una [violenta bandera](https://www.ole.com.ar/ecuador/liga-pro/historico-emelec-explot-tifo-bandera-barcelona-clasico-astillero-marcos-mondaini_0_KimiutiIJL.html) para ‘**humillar**’ a sus oponentes, representándolos como una mujer con sus nalgas al aire, cargada por un **troglodita**.
-
-Estos casos evidencian cómo el **poder** fascina, **aterroriza** o **inmoviliza** a la sociedad para garantizar su **revitalización y permanencia**: domina los cuerpos, en un tipo de opresión que no está situada, sino que funciona como una **cadena**, donde si bien no siempre queda claro quién ejerce el **poder**, sí es patente quién no lo tiene. Pero no todo está perdido, pues según Foucault, desde el momento en que el **poder** se fija en el cuerpo, **emerge** también la **reivindicación** del cuerpo en contra del **poder**.
-
-Barrios de Quito se organizan contra la inseguridad por cortes de luz
-=====================================================================
-
-Los expertos aseguran que los barrios deben organizarse para enfrentar, junto a la Policía Nacional, la inseguridad por los cortes de luz.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Cotocollao se organizó para enfrentar a la inseguridad antes del inicio de los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/Seguridad-barrios-Quito.jpg)
-
-Los **cortes de luz** cambiaron las dinámicas en los **barrios de Quito**. Mientras algunos ya estaban organizados contra la **inseguridad**, otros apenas empiezan a tomar medidas[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
-
-Más noticias
-------------
-
-* [Así será la atención en los bancos por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/asi-sera-atencion-bancaria-por-cortes-de-luz.html "Así será la atención en los bancos por los cortes de luz")
-* [¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?](https://www.elcomercio.com/actualidad/negocios/por-que-subieron-cortes-luz-ocho-14-horas-ecuador.html "¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?")
-* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
-
-**Cristian Rivera**, experto en riesgos, conversó con **EL COMERCIO** sobre la necesidad de que los barrios de **Quito** se organicen para garantizar la seguridad durante estos cortes.
-
-Barrios de Quito toman medidas ante cortes de luz e inseguridad
----------------------------------------------------------------
-
-En el norte de **Quito**, por ejemplo, los moradores de **Cotocollao** ya se habían organizado antes de los **cortes** para enfrentar la **delincuencia** junto a la **Policía Nacional.**
-
-En contraste, en **Las Tolas**, también en el norte, los residentes no han tomado acciones similares. Hace una semana, desconocidos rompieron la ventana de una casa en este barrio; los vecinos salieron en ese momento a ver qué ocurría.
-
-**Francisco** **Caiza**, dueño de la vivienda, decidió patrullar las noches armado con un palo y un silbato. Al principio lo acompañaba un vecino, **Hugo** **Saavedra**, pero con el tiempo dejaron de hacer las rondas nocturnas.
-
-**Caiza**, en su lugar, optó por instalar un foco con **sensor de movimiento** recargable, lo que le brinda cierta tranquilidad.
-
-Por otro lado, en **Cotocollao**, los moradores están organizados para enfrentar la **inseguridad**.
-
-**Francisco** **Toazo**, líder de uno de los comités del barrio, explicó a **EL** **COMERCIO** que el comité de seguridad identificó 10 zonas seguras donde se reúnen los vecinos para recibir **capacitaciones** de la **Policía Nacional** y la **Secretaría de Seguridad** sobre cómo manejar situaciones de riesgo. Estas actividades dependen de la entidad que brinde el taller.
-
-El 18 de octubre, alrededor de 500 personas participaron en una actividad de **cine comunitario** en el parque de **Cotocollao**, organizada en conjunto por la **Secretaría de Seguridad**, la **Policía Nacional**, comités de seguridad, la **AMT** y un centro de salud.
-
-Este evento fue un **plan piloto** para mejorar la **seguridad** y el sentido de comunidad.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Policia-inseguridad-Cotocollao-1024x683.jpg)
-
-Los moradores de Cotocollao trabajan junto a la Policía Nacional para enfrentar la inseguridad. Foto: Cortesía.
-
-Solanda pide que no cambien con frecuencia a los comandantes
-------------------------------------------------------------
-
- En el sector de **Solanda**, al sur de **Quito**, los moradores decidieron organizarse para mantener la seguridad en esta emblemática zona de la capital, que alberga aproximadamente 130 000 familias.
-
-El dirigente barrial quien, por motivos de seguridad, prefirió mantener su identidad en reserva.
-
-Él explicó que en **Solanda**, los habitantes se comprometieron a mantenerse alertas y a colaborar si algún vecino requiere ayuda.
-
-Expresó su preocupación por los **asaltos** y **robos** a locales comerciales y viviendas, los cuales se agravan cuando falta la luz, ya que sin electricidad las alarmas no funcionan, “lo que incrementa el riesgo”.
-
-El viernes 25 de octubre, él acudió a la Unidad de Policía Comunitaria (**UPC**) de **Solanda** —una de las 275 unidades distribuidas en los 258 subcircuitos de Quito—, pero no encontró a nadie que lo atendiera.
-
-Más tarde, se reunió con un funcionario de la **Secretaría de Seguridad** de Quito en la Administración Zonal Eloy Alfaro, donde coordinaron la realización de una **feria de seguridad** y emprendimientos en el **Parque Ecológico de Solanda.**
-
-Comentó que **Solanda** es un área extensa y el número de agentes policiales es **insuficiente**.
-
-Por este motivo, solicitaron al alcalde de Quito, Pabel Muñoz, que incrementara el número de efectivos en la zona.
-
-Además, pidieron que no cambien con tanta frecuencia a los **comandantes de la UPC,** ya que, según él, “hacemos planes de **seguridad** y máximo están dos o tres meses; luego los cambian y todo el trabajo vuelve a cero”.
-
-Recomendaciones para mantener la seguridad en los barrios de Quito
-------------------------------------------------------------------
-
-**Cristian Rivera** enfatiza la importancia de organizar **comités barriales** y planificar acciones basadas en los **cortes de luz** anunciados por el gobierno de **Daniel Noboa**. **Cristopher** **Velasco**, también experto en riesgos, respalda esta sugerencia.
-
-**Rivera** advierte sobre evitar rutas nocturnas, ya que la oscuridad puede favorecer los incidentes de violencia en sectores con alto índice de inseguridad. Velasco añade que el cuidado de los barrios se complica con los cortes prolongados de hasta 14 horas.
-
-Ambos expertos sugieren que los barrios gestionen la compra de focos con paneles solares o recargables para iluminar las áreas más vulnerables.
-
-Además, **Rivera** recomienda mantener los celulares cargados, disponer de una linterna frontal para tener las manos libres en emergencias y contar con una radio a pilas para mantenerse informado. También sugiere establecer un código de silbatos coordinado con los vecinos para alertar sobre cualquier emergencia.
-
-Cortes de luz en Cuenca para este domingo 27 de octubre
-=======================================================
-
-Centrosur detalló el cronograma de cortes de luz que tendrá la capital de Azuay este domingo.
----------------------------------------------------------------------------------------------
-
-![Cuenca tendrá cortes de luz de 14 horas este domingo](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-domingo-27-octubre.jpg)
-
-La Empresa Eléctrica **Centrosur** detalló el cronograma de **cortes de luz** que tendrá **Cuenca** este domingo **27 de octubre** de 2024.
-
-### Más noticias
-
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-* [Cortes de luz en Quito para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-domingo-27-de-octubre.html "Cortes de luz en Quito para este domingo 27 de octubre")
-* [Cortes de luz en Guayaquil para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-domingo-27-de-octubre.html "Cortes de luz en Guayaquil para este domingo 27 de octubre")
-
-Cortes de luz en Cuenca para este domingo 27 de octubre
--------------------------------------------------------
-
-La capital de Azuay mantendrá **apagones programados** de 14 horas, distribuidos en **dos y tres franjas horarias**.
-
-La suspensión del servicio eléctrico será en su mayoría de siete horas en la **madrugada-mañana** y de otras siete horas en la **tarde-noche**.
-
-Las **zonas residenciales** de Cuenca tienen 12 distintos **horarios** de cortes de luz.
-
-Mientras que el **sector industrial** tendrá apagones de **12 horas** en dos horarios: de 00:00 a 08:00 y de 22:00 a 00:00; y de 00:00 a 07:00 y de 12:00 a 19:00.
-
-Te compartimos el cronograma completo de apagones por barrios, y los horarios para el resto de **Azuay**, **Cañar y Morona Santiago**.
-
-Apagones se extendieron a 14 horas
-----------------------------------
-
-La ministra encartada de Energía y Minas, **Inés Manzano**, informó la noche del jueves 24 de octubre, que los cortes de luz se extenderían de ocho a 14 horas en los próximos tres días.
-
-Luego, el domingo, las autoridades **analizarán la situación** para decidir si este horario se mantiene, se extiende o se reduce.
-
-El anunció llegó luego de que una semana atrás, el Gobierno afirmara que los apagones en Ecuador se reducirían de forma paulatina a **seis y cuatro horas** semanalmente.
-
-La suspensión del servicio eléctrico corresponde a la **crisis hídrica** que enfrenta el país, generada en gran parte, a la **falta de lluvias** en las zonas en las que se ubican las centrales hidroeléctricas.
-
-Manzano prometió que, pese a la grave situación que atraviesa Ecuador, para diciembre los **racionamientos** se reducirán lo máximo posible o serán nulos.
-
-> A la ciudadanía: [pic.twitter.com/jZh6sevgIU](https://t.co/jZh6sevgIU)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 25, 2024](https://twitter.com/RecNaturalesEC/status/1849668776922333255?ref_src=twsrc%5Etfw)
-
-Animes y mangas de Akira Toriyama antes de ‘Dragon Ball’ 
-=========================================================
-
-Akira Toriyama es reconocido por crear la historia de ‘Dragon Ball’. Su muerte enlutó a cientos de fanáticos del anime.
------------------------------------------------------------------------------------------------------------------------
-
-![Akira Toriyama es recordado principalmente por Dragon Ball, pero también tiene otros trabajos destacados. Foto: @ dragonballsuper.](https://www.elcomercio.com/wp-content/uploads/2024/06/Dragon-Ball-Akira-Toriyama.jpg)
-
-La **muerte de Akira Toriyama** significó una gran pérdida para la **historia del anime**. El ‘mangaka’ es recordado por haber creado una de las mejores historias, **‘Dragon Ball’**.
-
-### Más noticias
-
-* [Dragon Ball Daima evoca a Dragon Ball GT](https://www.elcomercio.com/afull/dragonball-daima-dragonball-gt.html "https://www.elcomercio.com/afull/dragonball-daima-dragonball-gt.html")
-* [¿Por qué Gokú tiene ese peinado y otras curiosidades de Dragon Ball?](https://www.elcomercio.com/tendencias/goku-dragon-ball-curiosidades-akira-toriyama.html "https://www.elcomercio.com/tendencias/goku-dragon-ball-curiosidades-akira-toriyama.html")
-
-Sin embargo, muchos desconocen otros mangas y animes en los que trabajó Akira antes de su gran obra maestra. Estos proyectos también encantaron a sus fanáticos y muestran la **versatilidad y creatividad del autor**. Por este motivo, hemos creado una lista de otros mangas y animes en los que trabajó **Akira Toriyama** antes de ‘Dragon Ball’.
-
-### Mangas y animes de Akira Toriyama
-
-**‘Dr. Slump’ (1980):** En 1980, **Akira Toriyama** comenzó su ascenso a la fama con **‘Dr. Slump’**, un manga que narra las aventuras del científico **Sembei Norimaki** junto a su robot **Arale**. Tras su gran éxito, la historia dio un paso hacia la pantalla pequeña con 243 episodios que se emitieron entre 1981 y 1986.
-
-**‘Escape’ (1981):** Luego del éxito de ‘Dr. Slump’, **Akira ilustró ‘Escape’**, donde la protagonista parece ser **Arale en su versión adulta**. En esta historia, la protagonista pasa huyendo en un **mundo de ciencia ficción** inspirado en los cómics estadounidenses.
-
-**‘Pola y Roid’ (1981):** Este manga, lanzado el 6 de abril de 1981, **combina humor, ciencia ficción y acción.** Algunos personajes de **‘Dr. Slump’** forman parte de esta historia, demostrando la capacidad de Toriyama para crear universos interconectados.
-
-**‘Pink’ (1982):** En 1982, **Akira Toriyama** ilustró este breve manga que **narra la historia de una joven de cabello rosado** que roba agua en un territorio donde el líquido vital escasea. La historia es una mezcla de acción y aventura, y critica la explotación de recursos naturales.
-
-**‘Dragon Boy’ (1983)** Considerado el **prototipo de algunos personajes de ‘Dragon Ball’**, ‘Dragon Boy’ incluye elementos que luego formarían parte de su obra maestra, como las **esferas del dragón**. Este ‘one-shot’ consta de solo dos capítulos y fue lanzado en 1983.
-
-**‘Tongpoo no Daibouken’ (1983)** Publicado el 29 de noviembre de 1983, este manga es **otro ‘one-shot’ donde Akira Toriyama** experimentó con tecnología que luego se vería en ‘Dragon Ball’. Estos trabajos sirvieron como una base para el desarrollo de su obra más famosa.
-
-**‘Dragon Ball’ (1984)** Tras los lanzamientos de los dos ‘one-shots’ anteriores, en 1984 **Akira Toriyama ilustró ‘Dragon Ball’**, el manga que daría el salto a la televisión para convertirse en un fenómeno mundial. Con esta serie, **Akira nos regaló las aventuras de Son Goku** y sus amigos en su misión por defender la Tierra y el Universo Siete.
-
-Tarde y noche de lluvias en una importante región de Ecuador, según el Inamhi 
-==============================================================================
-
-El Inamhi informó que esta tarde y noche se presentarán tormentas eléctricas y fuertes lluvias en una región de Ecuador.
-------------------------------------------------------------------------------------------------------------------------
-
-![El Inamhi pronostica lluvias en una importante región de Ecuador. Se alertan tormentas eléctricas en cuatro provincias.](https://www.elcomercio.com/wp-content/uploads/2024/10/amazonia.jpg)
-
-El **Instituto Nacional de Meteorología e Hidrología(Inamhi)** emitió una alerta de lluvias para la tarde de este sábado 26 de octubre de 2024.
-
-Según el **Inamhi**, se desarrollan lluvias moderadas y fuertes acompañadas de tormenta en la Amazonía. Se prevé que continúen en las próximas horas.
-
-Más noticias
-------------
-
-* [Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi](https://www.elcomercio.com/actualidad/quito/este-viernes-25-de-octubre-dia-mas-caluroso-en-quito-segun-inamhi.html "Este viernes 25 de octubre será el día más caluroso en Quito, según Inamhi")
-* [Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?](https://www.elcomercio.com/actualidad/ecuador/temperatura-aumenta-ecuador-que-pasa-con-lluvias.html "Temperatura aumenta en Ecuador; ¿qué pasa con las lluvias?")
-* [¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?](https://www.elcomercio.com/actualidad/negocios/por-que-subieron-cortes-luz-ocho-14-horas-ecuador.html "¿Por qué subieron los cortes de luz de ocho a 14 horas en Ecuador?")
-
-Según la imagen satelital que muestra el **Inamhi**, esas precipitaciones se concentran en **Sucumbíos, Orellana, Pastaza y algo en Morona Santiago.**
-
-Estas lluvias no aparecen en la zona de la Amazonía norte, donde se encuentra la hidroeléctrica Coca Codo Sinclair. 
-
-Tampoco, se observan humedad y precipitaciones en la región Austral, donde se encuentra el complejo **hidroeléctrico Paute, que comprenden la represa Mazar y las centrales Mazar, Molino y Sopladora**.
-
-Debido a las condiciones climáticas impredecibles por el cambio climático, no sabe con certeza cuándo terminará la sequía en Ecuador.
-
-> [#MonitoreoSatelital](https://twitter.com/hashtag/MonitoreoSatelital?src=hash&ref_src=twsrc%5Etfw) 🛰️l Sábado, 26 de octubre (16h10). Se desarrollan lluvias moderadas y fuertes acompañadas de tormenta en la Amazonía. Se prevé que continúen en las próximas horas ⛈️🌧️  
->   
-> 🟠Tome Precauciones [pic.twitter.com/rWq87itAOx](https://t.co/rWq87itAOx)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 26, 2024](https://twitter.com/inamhi_ec/status/1850286039023186193?ref_src=twsrc%5Etfw)
-
-Las lluvias en Ecuador
-----------------------
-
-Ecuador experimenta una fuerte **sequía** desde julio, cuando hubo señales de estiaje de algunos caudales de los ríos más importantes del territorio nacional.
-
-Este fenómeno climático se siente desde 2023, pero se acentuó en este 2024, sobre todo desde julio de 2024.
-
-Debido a estas condiciones, el país experimenta los **cortes de luz**, porque no hay agua para generar electricidad.
-
-La **central Mazar** está fuera de operación, debido a la falta de abastecimiento de su embalse. 
-
-Si bien es cierto que llovió en **Cuenca**, esa cantidad de precipitaciones no fue suficiente para el funcionamiento de la **hidroeléctrica Mazar**, dijeron las autoridades. 
-
-Para contar con agua debe llover en toda la zona austral y además en los páramos, que son los que alimentan los caudales de los afluentes. 
-
-Por ahora, la provisión de energía se genera desde la central Coca Codo Sinclair, además de las termoeléctricas y la barcaza turca, que proporciona 100 megavatios.
-
-Días soleados en la Sierra andina 
-----------------------------------
-
-El **Inamhi** reporta que para este fin de semana del 26 al 27 de octubre de 2024 se prevé la presencia de **mucho sol y radiación ultravioleta muy alta[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")**
-
-Es decir, se esperan **días calurosos en la región Interandina, así como en la Costa.** Se espera que ingresen masas de aire húmedo de la Amazonía, que suelen producir lluvias en **Ecuador.**
