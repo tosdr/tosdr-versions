@@ -307,7 +307,13 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### Highlights
 
-[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
+[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+
+6 min read
+
+### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
+
+article 35 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
 
 2 min read
 
@@ -319,13 +325,7 @@ article 3 days ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-y
 
 ### Sinister Solar System
 
-article 4 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/)[![TSE Campaign For Your Consideration](https://science.nasa.gov/wp-content/uploads/2024/10/53639972892-94403640eb-k.jpg)
-
-5 min read
-
-### TSE Campaign For Your Consideration
-
-article 4 days ago](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/tse-campaign-for-your-consideration/)
+article 4 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### Highlights
 
-[![Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/Kite%20with%20Aeropod%20-%20Lisa%20Ogiemwonyi.png)
+[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+
+6 min read
+
+### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
+
+article 35 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
+
+3 min read
+
+### Autumn Leaves – Call for Volunteers
+
+article 3 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)[![Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/Kite%20with%20Aeropod%20-%20Lisa%20Ogiemwonyi.png)
 
 3 min read
 
 ### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
 
-article 3 days ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
-
-3 min read
-
-### High-Altitude ER-2 Flights Get Down-to-Earth Data
-
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/)[![Image of the tutorials section on the OSDR website.](https://www.nasa.gov/wp-content/uploads/2024/10/tutorials.jpg?w=1024)
-
-1 min read
-
-### New OSDR Tutorials
-
-article 3 days ago](https://www.nasa.gov/new-osdr-tutorials/)
+article 3 days ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)
 
 ### Highlights
 
