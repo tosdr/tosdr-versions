@@ -1,4 +1,4 @@
-8428458787465b83653c-875c-4f86-9e47-1bd1c90e7dc3:192d0c96d2719997
+84286373581459c58741-2d1d-4cdd-89d6-a440908aea73:192d211c43219997
 
 [Skip to main content](#mainContent)
 
@@ -12,7 +12,6 @@
 * [Brand Outlet](https://www.ebay.com/b/Brand-Outlet/bn_7115532402)
 * [Gift Cards](https://www.ebay.com/giftcards)
 * [Help & Contact](https://www.ebay.com/help/home)
-* [![Get the coupon](https://ir.ebaystatic.com/cr/v/c01/EB-20319_NA_092324_RM_Q4_US_CustomerMoments_HostingHome_SFC_Oct21_RW43_Doodle_150x30_FINAL.jpg)](https://www.ebay.com/e/daily-deals/24-rw43-holiday-home-main)
 
 * [Sell](https://www.ebay.com/sl/sell)
 * [Watchlist](https://www.ebay.com/mye/myebay/watchlist "Watchlist")[Expand Watch List](#gh-wl-click)
