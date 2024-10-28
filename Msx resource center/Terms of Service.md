@@ -141,6 +141,8 @@ MSX Music player
 Latest reactions
 
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
+* [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
+* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
@@ -148,13 +150,12 @@ Latest reactions
 * [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
-* [Black Onyx translation](https://www.msx.org/news/translations/en/black-onyx-translation "Black Onyx translation")
-* [OCMINFO for MSX++ compatibles](https://www.msx.org/news/en/ocminfo-for-msx-compatibles "OCMINFO for MSX++ compatibles")
 
 Latest forum posts
 
-* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
+* [Moonsound OPL4 HOW TO USE?](https://www.msx.org/forum/msx-talk/hardware/moonsound-opl4-how-to-use "Moonsound OPL4 HOW TO USE?")
 * [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
+* [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
 * [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
 * [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
@@ -165,7 +166,6 @@ Latest forum posts
 * [Attack! Mosquiton](https://www.msx.org/forum/msx-talk/software/attack-mosquiton "Attack! Mosquiton")
 * [looking for MSX1 homebrews](https://www.msx.org/forum/msx-talk/software/looking-for-msx1-homebrews "looking for MSX1 homebrews")
 * [Tiny Xevious port!!](https://www.msx.org/forum/msx-talk/software/tiny-xevious-port "Tiny Xevious port!!")
-* [looking for an OPL4 moonsound or compatible and slot expander. europe](https://www.msx.org/forum/msx-talk/general-discussion/looking-for-an-opl4-moonsound-or-compatible-and-slot-expander-euro "looking for an OPL4 moonsound or compatible and slot expander. europe  ")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
