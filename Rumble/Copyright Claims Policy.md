@@ -59,111 +59,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[NEWSMAX
+[The Dan Bongino Show
 
-1.17K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+159K](https://rumble.com/v5kg55h-the-mother-of-all-rallies-ep.-2359-10282024.html "The Dan Bongino Show")
+
+[Bannons War Room
+
+13.3K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+6.89K](https://rumble.com/v5kff6z-badlands-daily-monday-october-28-2024.html "Badlands Media")
+
+[Caleb Hammer
+
+374](https://rumble.com/v5kepf1-gold-digger-exploits-beta-husband-financial-audit.html "Caleb Hammer")
 
 [Lofi Girl
 
-160](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+282](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[Geeks + Gamers
+
+243](https://rumble.com/v5kgm0t-dragon-age-the-veilguard-disaster-venom-3-box-office.html "Geeks + Gamers")
+
+[barstoolsports
+
+226](https://rumble.com/v5kfxtn-kms-live-october-28-2024-ft.-blind-mike-and-lord-kevin.html "barstoolsports")
 
 [Major League Fishing
 
-65](https://rumble.com/v5jq5nh-live-general-tire-team-series-patriot-cup-day-4.html "Major League Fishing")
+208](https://rumble.com/v5jq68d-live-general-tire-team-series-patriot-cup-day-5.html "Major League Fishing")
 
-[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+[The Kirk Minihane Show
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+119](https://rumble.com/v5kfxtn-kms-live-october-28-2024-ft.-blind-mike-and-lord-kevin.html "The Kirk Minihane Show")
 
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+[Mostly Sports With Mark Titus and Brandon Walker
 
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+108](https://rumble.com/v5kdymb-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
 
 [Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
 
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
 
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
 
-[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
 
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
 
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
 
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
 
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
 
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
-
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
 [Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+
+[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+
+[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+
+[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
 
 [Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
 
 ### Theme
 
