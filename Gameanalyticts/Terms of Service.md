@@ -1,3 +1,7 @@
+🧠 \[NEW\] MarketIQ: Experience next-gen mobile market intelligence - 70% OFF for a limited time
+
+[Learn more](https://gameanalytics.com/marketiq/) [Get access](https://tool.gameanalytics.com/organization/0/settings/billing)
+
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
 * [Discover MarketIQ](https://gameanalytics.com/marketiq/)
