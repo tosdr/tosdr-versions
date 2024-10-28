@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Jack Smith, on the left; Donald Trump, on the right.](https://am23.mediaite.com/lc/cnt/uploads/2024/08/Smith-Trump-SI-432x243.jpg)](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
+1. [![Nicholas Wayne Hamlett (Monroe County Sheriff's Office in Tennessee).](https://lawandcrime.com/wp-content/uploads/2024/10/Nicholas-Wayne-Hamlett-432x243.png)](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
     
-    ### ['Nothing further': Jack Smith says his office has satisfied all of Trump's 'unfounded' discovery 'demands' in Jan. 6 case — except for those that rely on a trial date being set](https://lawandcrime.com/high-profile/nothing-further-jack-smith-says-his-office-has-satisfied-all-of-trumps-unfounded-discovery-demands-in-jan-6-case-except-for-those-that-rely-on-a-trial-date-being-set/)
+    ### [Murder suspect with stolen ID called 911 pretending to be hiker who fell off cliff running from a bear: Deputies](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
     
-2. [![Jasmine Collum](https://am21.mediaite.com/lc/cnt/uploads/2024/10/teacher-432x243.jpg)](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
+2. [![Left inset: Marlyn Medrano-Ortiz (Loudoun County Sheriff's Officee). Right inset: Mijal Conejero-Romera and Diego Alexander Woollett (Loudoun County Sheriff's Office). Background: Law enforcement investigate the murder (WUSA).](https://lawandcrime.com/wp-content/uploads/2024/10/Marlyn-Medrano-Ortiz-Mijal-Conejero-Romera-and-Diego-Alexander-Woollett-432x243.jpg)](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
     
-    ### [Day care teacher allegedly caught on video at work treating 3-month-old boy like 'rag doll' and 'aggressively' shaking baby bouncer until he went 'limp'](https://lawandcrime.com/crime/day-care-teacher-allegedly-caught-on-video-at-work-treating-3-month-old-boy-like-rag-doll-and-aggressively-shaking-baby-bouncer-until-he-went-limp/)
+    ### [MS-13 gang member charged with murdering 'happy' couple found dead in apartment complex's parking lot](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
     
-3. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
+3. [![Adrian Cosby as law enforcement restrains him during his sentencing on Oct. 25, 2024 (WTVJ). Inset: Andrea Camps Lacayo (TERRA Environmental Research Institute).](https://lawandcrime.com/wp-content/uploads/2024/10/Andrea-Camps-Lacayo-and-Adrian-Cosby-432x243.png)](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
+    
+    ### ['What the f--- you talking about, b----?': Convicted killer who shot teen over Yeezy sneakers lashes out at victim's father](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
+    
+4. [![Angela Barnes appears inset against an image of Carroll Middle School.](https://lawandcrime.com/wp-content/uploads/2024/10/Angela-Barnes-432x243.jpg)](https://lawandcrime.com/crime/middle-school-teacher-charged-with-sexual-assault-over-alleged-summer-relationship-with-underage-boy-who-was-a-former-student/)
+    
+    ### [Middle school teacher charged with sexual assault over alleged summer 'relationship' with 'underage boy who was a former student'](https://lawandcrime.com/crime/middle-school-teacher-charged-with-sexual-assault-over-alleged-summer-relationship-with-underage-boy-who-was-a-former-student/)
+    
+5. [![Sarah Boone testimony](https://lawandcrime.com/wp-content/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
     ### ['Last breath inside a suitcase': Florida woman zipped her boyfriend in a suitcase and killed him in game of 'hide and seek'](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
-    
-4. [![Popular post image](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24068516225017-432x243.jpg)](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
-    
-    ### ['Federal law requires voters to take timely steps to vote': Trump-appointed panel on Fifth Circuit Court of Appeals rules that ballots must be received by Election Day](https://lawandcrime.com/high-profile/federal-law-requires-voters-to-take-timely-steps-to-vote-trump-appointed-panel-on-fifth-circuit-court-of-appeals-rules-that-ballots-must-be-received-by-election-day/)
-    
-5. [![Main: Rebekah Massie speaking at Surprise, Arizona city council meeting just before her arrest (Surprise City Council). Inset: Massie being arrested over her public comments (Surprise Police Dept.).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/asdfafd-432x243.jpg)](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
-    
-    ### ['Objectively outrageous': Judge tosses criminal case against mom arrested for criticizing city official at public meeting](https://lawandcrime.com/high-profile/objectively-outrageous-judge-tosses-criminal-case-against-mom-arrested-for-criticizing-city-official-at-public-meeting/)
     
 
 [](http://eepurl.com/c89Jdb)
