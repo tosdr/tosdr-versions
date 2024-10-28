@@ -1,11 +1,5 @@
  [![TapChamps Logo](/img/tapchamps-logo.svg) ![TapChamps Logo](/img/tapchamps-dark-logo.svg)](https://www.tapchamps.com/)
 
-* [Support](https://support.tapchamps.com/hc/en-us)
-* [Contact](#contact)
-* [](https://www.facebook.com/tapchamps)
-* [](https://www.instagram.com/Tapchamps)
-* [](https://twitter.com/Tapchampsapp)
-
 Terms & Conditions
 ------------------
 
@@ -251,30 +245,10 @@ Last updated March 30th, 2020
 
 ![TapChamps Gift Paypal](/img/7FFbygBVJs-320.webp)
 
-![TapChamps Mascot](/img/LHyOKCaLr--440.webp)
+![TapChamps Mobile App](/img/vIYMUOjjiP-750.webp)
 
-![TapChamps Mobile App](/img/QG2BN8OT22-750.webp)
-
-[![TapChamps App play store button](/img/4EFd7xRWb7-400.webp)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
-
-Join TapChamps!  
-Easy — No SDK Required!
------------------------------------------
-
-Just send us your tracking link, desired CPI, KPIs and let us take care of the rest!
-
-![tapchamps.com](/img/gRzf8zDAK6-180.webp) ![tapchamps.com](/img/_fHXyizAif-180.webp)
-
-[](https://www.facebook.com/tapchamps)[](https://www.instagram.com/Tapchamps)[](https://twitter.com/Tapchampsapp)
-
-[![TapChamps App play store button](/img/4EFd7xRWb7-400.webp)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
+[![TapChamps Android App QR Code](/img/vM33POby4t-500.webp)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
 
 TapChamps © 2020 -
 
-[Terms & Conditions](https://www.tapchamps.com/terms) — [Privacy Policy](https://www.tapchamps.com/privacy) — [Support](https://support.tapchamps.com/hc/en-us)
-
-Business
-
-Support
-
-    Send
+[Advertise](https://www.tapchamps.com/advertise) — [Terms & Conditions](https://www.tapchamps.com/terms) — [Privacy Policy](https://www.tapchamps.com/privacy) — [Support](https://support.tapchamps.com/hc/en-us)
