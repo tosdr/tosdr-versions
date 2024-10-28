@@ -324,7 +324,6 @@ Advertise
 
 ### [What makes this Himalayan valley so alluring is its inaccessibility](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
 
-* 54 mins ago
 * Nina Karnikowski
 
 * ### [Luxuries you can justify on so many levels](https://www.afr.com/life-and-luxury/fashion-and-style/luxuries-you-can-justify-on-so-many-levels-20241022-p5kk84)
@@ -335,13 +334,13 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9233%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a7da95b4442cc2d0e83d81fdb073cb0d94dd85aa)](https://www.afr.com/wealth/people/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+[![ ](https://static.ffx.io/images/$zoom_0.9233%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a7da95b4442cc2d0e83d81fdb073cb0d94dd85aa)](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
-### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/wealth/people/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
 
 * Yolanda Redrup, Lauren Sams and Matthew Drummond
 
-* ### [Australia’s richest people 40 and under break record](https://www.afr.com/wealth/people/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
+* ### [Australia’s richest people 40 and under break record](https://www.afr.com/young-rich/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
     
 * ### [Young Rich tells tale of Australia’s technology fortunes](https://www.afr.com/technology/young-rich-tells-tale-of-australia-s-technology-fortunes-20241023-p5kkjg)
     
