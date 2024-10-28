@@ -140,69 +140,17 @@ At Lidl we ensure that customer satisfaction is at the heart of everything we do
 
 2\. Accessing our website
 
-### **Why do we use personal data?**
+2\. Contact details of the controller and the data protection officer
 
   
 
-Lidl collects information we learn about you from visiting our website and using our online services. Our website gathers statistical and other analytical information of all visitors to it. Your web browser automatically lets us know:
+Unless otherwise stated in the following clauses, Lidl Great Britain limited, 14 Kingston Road, Surbiton, KT5 9NU (“Lidl GB”) and Lidl Stiftung & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm ("Lidl Stiftung", and together with Lidl GB "we", "us") are joint controllers of the processing of your data on the website www.lidl.co.uk and in the Lidl app (the "Services").
 
   
 
-  
+The data protection officers of Lidl GB and Lidl Stiftung can be contacted at the above postal addresses or at customer.care@lidl.co.uk.
 
   
-
-• the website from which you come from when visiting us;
-
-  
-
-• your IP address;
-
-  
-
-• the date and time of access;
-
-  
-
-• the browser you are using and the operating system of your device and
-
-  
-
-• the name of your internet provider
-
-  
-
-  
-
-We use this information to ensure a stable connection, the efficient use of our website, and also to evaluate system security and stability. This is necessary and in our legitimate interest. If you have enabled geolocation services in your browser or other settings, our website may use this function to offer location specific services such as our store locator function. Your location data will only be used for this function.
-
-  
-
-  
-
-  
-
-### **Who can assess your personal data?**
-
-  
-
-We categorically exclude the dissemination of this data to third parties at an individual level. We may share anonymised data with our ad agencies.
-
-  
-
-  
-
-  
-
-### **How long do we store your personal data?**
-
-  
-
-The data is stored for the duration of using our website and automatically deleted thereafter. After your website session ends, the geo-location data for the purposes of store locations is stored until your browser settings are reset/forgotten.
-
-3\. Online Presence and Website Optimisation
-
-To find out more on what cookies or similar tracking technologies we use on our websites, [please click here.](https://www.lidl.co.uk/c/preview/preview-page/?previewDate=2023-12-07&previewTime=12%3A42&locale=en_GB&kameleoon=false&status=ACTIVE&previewPage=%2Fc%2Fs10029575)
 
 4\. Contacting Customer Care
 
@@ -1542,6 +1490,18 @@ The visitor book is kept for a period of 12 months and will be destroyed after t
   
 
 The processing of your data takes place for the purpose of safety and security and the legal basis is our legitimate interest in ensuring these.
+
+3\. Involvement of third parties as data processors
+
+  
+
+Unless otherwise stated, the recipients or categories of recipients named below act as data processors. They are carefully selected and contractually bound in accordance with Article 28 GDPR. This means that they may only process personal data on the basis of our instructions and not for purposes other than those stated.
+
+3\. Involvement of third parties as data processors
+
+  
+
+Unless otherwise stated, the recipients or categories of recipients named below act as data processors. They are carefully selected and contractually bound in accordance with Article 28 GDPR. This means that they may only process personal data on the basis of our instructions and not for purposes other than those stated.
 
 * [About us](https://www.lidl.co.uk/c/about-us/s10023097 "Lidl About us")
 * [Careers](https://careers.lidl.co.uk/?_ga=2.60600557.173043376.1685434175-1079122095.1682330432 "Careers")
