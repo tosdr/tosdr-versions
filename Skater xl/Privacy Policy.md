@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (51) \- 86% of the 51 user reviews in the last 30 days are positive.
+Very Positive (49) \- 85% of the 49 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,132) \- 86% of the 18,132 user reviews for this game are positive.    
+Very Positive (18,133) \- 86% of the 18,133 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,132) All Time
+Very Positive (86% of 18,133) All Time
 
 Recent Reviews:
 
-Very Positive (86% of 51) Recent
+Very Positive (85% of 49) Recent
 
 ![](https://store.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -453,7 +453,7 @@ System Requirements
 What Curators Say
 -----------------
 
-104 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -462,28 +462,28 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,132 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,133 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (51 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (49 reviews) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,273)  
- Positive (16,582)  
+ All (19,275)  
+ Positive (16,584)  
  Negative (2,691)
 
 Purchase Type
 
- All (19,273)  
- Steam Purchasers (18,132) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
- Other (1,141) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
+ All (19,275)  
+ Steam Purchasers (18,133) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ Other (1,142) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,273)  
- Your Languages (13,315) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All Languages (19,275)  
+ Your Languages (13,317) ![](https://store.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
 
