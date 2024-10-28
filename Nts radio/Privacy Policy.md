@@ -251,6 +251,14 @@ You can opt-out here: [Facebook](https://www.facebook.com/settings/?tab=privacy)
 **Access**: We use TikTok Pixel to set these cookies.  
 You can find out more about how TikTok uses personal data by clicking [here](https://www.tiktok.com/legal/page/global/cookie-policy/en).  
 
+### Hotjar
+
+**Duration**: One year
+
+**Purpose**: To collect information about user journeys to understand how people use our Platform, and improve them.
+
+**Access**: We use Hotjar to set these cookies. More info [here](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code).  
+
 Storage, transfers and disclosure
 ---------------------------------
 
