@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [beatmania for WonderSwan](https://www.myabandonware.com/game/beatmania-for-wonderswan-t24)
-* [Bakusō Dekotora Densetsu for WonderSwan](https://www.myabandonware.com/game/bakuso-dekotora-densetsu-for-wonderswan-t23)
-* [Armored Unit](https://www.myabandonware.com/game/armored-unit-t22)
-* [Anchorz Field](https://www.myabandonware.com/game/anchorz-field-t21)
-* [Tarepanda no Gunpey](https://www.myabandonware.com/game/tarepanda-no-gunpey-t20)
+* [SEGA Marine Fishing](https://www.myabandonware.com/game/sega-marine-fishing-snj)
+* [Fever: Sankyo Kōshiki Pachinko Simulation](https://www.myabandonware.com/game/fever-sankyo-koshiki-pachinko-simulation-t2i)
+* [Engacho! for WonderSwan](https://www.myabandonware.com/game/engacho-for-wonderswan-t2h)
+* [Dokodemo Hamster](https://www.myabandonware.com/game/dokodemo-hamster-t2g)
+* [Digital Monster Ver. WonderSwan](https://www.myabandonware.com/game/digital-monster-ver-wonderswan-t2f)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
