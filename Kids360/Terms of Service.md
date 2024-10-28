@@ -1,7 +1,7 @@
-![](https://mc.yandex.ru/watch/88768123)
+[![](https://static.tildacdn.one/tild3366-6136-4063-b862-626566303530/Kids_full_logo_2.png)](https://kids360.app/)
 
-**Terms of Use  
-‍**  
+**Terms of Use**  
+‍  
 Welcome to https://kids360.app, the company’s official social media site for the mobile app “Kids360” and “Kids360 kid's app” created by the ANKO SOLUTIONS LLC (here in after -“Company”, “We” or “Us”).  
 This agreement discloses the terms in accordance with which the client may use our online services, website and software (in aggregate - “Service).  
 Up on receiving access to the services or by using it the client here by agrees to the fact that he/she is fully aware, acknowledges and accepts all terms of the present Terms of Services Use agreement (here in after – “Agreement”).  
@@ -38,8 +38,8 @@ If it doesn't, use the linking code that will be in the parent application.
 ‍  
 Kids360 and Alli360 apps are available on Android (version 6.0 and above) and iOS (version 15.0 and above) operating systems.  
 ‍  
-**2\. Service regulations  
-‍**  
+**2\. Service regulations**  
+**‍**  
 The client is not allowed to:  
 (i) copy, publish or disclose any part of the Service in any media including but not limited to automated or non-automated “duplication”;  
 (ii) use any kind of automated system including apart from everything else “robots” and any of its kind in order to access the Service in a manner allowing to send multiple requests to the Company’s servers rather than an individual can send within the same timeframe using an ordinary web browser;  
@@ -61,8 +61,8 @@ Upon the creation of a profile you must provide the actual and detailed informat
   
 The Client has the right to manage his/her personal profile and the way how one interacts with the Service by changing the available settings.  
 ‍  
-**3\. Mobile software  
-‍**  
+**3\. Mobile software**  
+**‍**  
 Within frames of the Service the Company offers the mobile software and/or apps developed for the mobile devices use (hereinafter – “Mobile software”). In order to use a mobile software, the Client must have a mobile device compatible with the Mobile software.The Company does not guarantee that the Mobile software is fully compatible with the device the Client has. Hereby the Company grants the Client an unexceptional, non-transferrable, revocable license allowing the use of a compiled coded copy of Mobile software per one registered profile that belongs to or loaned exclusively by the Client for personal use only.  
   
 The Client is not allowed to:  
@@ -137,3 +137,5 @@ Contact details:
 Contact us at support@kids360.app with any questions regarding this Agreement.  
 ‍  
 The latest Agreement Terms of Service use was modified on January 31, 2024.
+
+![](https://mc.yandex.ru/watch/88768123)
