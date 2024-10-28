@@ -1,4 +1,4 @@
-[![Home](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/logo.png)](https://www.cam.ac.uk/ "Home") 
+[![Home](https://www.cam.ac.uk/sites/default/files/logo.png)](https://www.cam.ac.uk/ "Home") 
 
 * [Study at Cambridge](https://www.cam.ac.uk/study-at-cambridge)
 * [About the University](https://www.cam.ac.uk/about-the-university)
@@ -263,7 +263,7 @@ United Kingdom
 * [X](https://twitter.com/cambridge_uni)
 * [YouTube](https://www.youtube.com/cambridgeuniversity)
 
-[![Cambridge University](https://www.cam.ac.uk/sites/www.cam.ac.uk/files/logo.png)](https://www.cam.ac.uk/)
+[![Cambridge University](https://www.cam.ac.uk/sites/default/files/logo.png)](https://www.cam.ac.uk/)
 
 © 2024 University of Cambridge
 
