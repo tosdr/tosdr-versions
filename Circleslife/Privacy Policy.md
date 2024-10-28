@@ -6,13 +6,19 @@ Get Started
 
 [4G SIM-Only](https://pages.circles.life/sg/plans/)[5G SIM-Only](https://pages.circles.life/sg/5g/)[eSIMs](https://pages.circles.life/sg/esim/)[Borderless](https://pages.circles.life/sg/borderless-plan/)[Family Plan](https://pages.circles.life/sg/familyplan/)[Data Only Plans](https://pages.circles.life/sg/data-only-plan/)[Phone Combo Plans](https://pages.circles.life/sg/combo-plan-black/)[Special Number](https://pages.circles.life/sg/special-number/)[Golden Village](https://pages.circles.life/sg/golden-village/)
 
+4g
+
 20GB
 
 $10.80/mo
 
+4g
+
 150GB
 
 $13.50/mo
+
+4g
 
 100GB
 
@@ -22,17 +28,25 @@ Use data across 9 countries
 
 [View details](https://pages.circles.life/sg/plans/)
 
+5g
+
 250GB
 
 $16.20/mo
+
+5g
 
 500GB
 
 $19.80/mo
 
+5g
+
 1TB
 
 $30/mo
+
+5g
 
 100GB
 
@@ -42,17 +56,25 @@ Use data across 9 countries
 
 [View details](https://pages.circles.life/sg/5g/)
 
+4g
+
 20GB
 
 $10.80/mo
+
+4g
 
 150GB
 
 $13.50/mo
 
+5g
+
 250GB
 
 $16.20/mo
+
+5g
 
 100GB
 
@@ -62,11 +84,15 @@ Use data across 9 countries
 
 [More info](https://pages.circles.life/sg/esim/)
 
+5g
+
 100GB (4G)
 
 $30/mo
 
 Use data across 9 countries
+
+5g
 
 100GB (5G)
 
@@ -96,13 +122,19 @@ per line/mo
 
 $60.38 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=4&code=FAMILYSPECIAL2024&_gl=1*1qdvf0j*_ga*MjEwNTY2NjI3NC4xNjYwMjkwMDY5*_ga_EZBPYP3T0Y*MTY2NTY0MTQxNS4yMDYuMS4xNjY1NjQ1MTk3LjAuMC4w)[Get up to 6 SIMs](https://pages.circles.life/sg/familyplan/)
 
+4g
+
 50GB
 
 $8/mo
 
+4g
+
 100GB
 
 $12/mo
+
+4g
 
 260GB
 
@@ -136,13 +168,19 @@ eSIM
 
 From $45.79](https://pages.circles.life/sg/combo-plan-black/iphone_15/)[See all phones](https://pages.circles.life/sg/combo-plan-black/)
 
+4g
+
 150GB
 
 $13.50/mo
 
+5g
+
 250GB
 
 $16.20/mo
+
+5g
 
 100GB
 
@@ -150,13 +188,19 @@ $30/mo
 
 [More info](https://pages.circles.life/sg/special-number/)
 
+5g
+
 250GB
 
 $16.20/mo
 
+5g
+
 500GB
 
 $19.80/mo
+
+5g
 
 1TB
 
