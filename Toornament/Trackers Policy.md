@@ -2,25 +2,25 @@
 
 * [Products](#nowhere)
     
-    * [![](https://toornament.cdn.prismic.io/toornament/f25a71bd-7d8f-4ae1-be34-dda614593bd3_icone-pro-small.svg)
+    * [![](/img/prismic/f25a71bd-7d8f-4ae1-be34-dda614593bd3_icone-pro-small.svg)
         
         #### Tournament software
         
         Organize community and professional tournaments](https://www.toornament.com/en_GB/p/tournament-software)
     
-    * [![](https://toornament.cdn.prismic.io/toornament/e210ee8c-193d-4798-833f-74000b64514b_icone-builder-small.svg)
+    * [![](/img/prismic/e210ee8c-193d-4798-833f-74000b64514b_icone-builder-small.svg)
         
         #### Website builder
         
         Easily create and publish your tournament site](https://www.toornament.com/en_GB/p/tournament-website-builder)
     
-    * [![](https://toornament.cdn.prismic.io/toornament/d6ebd4aa-0a7a-4aad-a0b9-5e2167c6d1dd_icone-api-small.svg)
+    * [![](/img/prismic/d6ebd4aa-0a7a-4aad-a0b9-5e2167c6d1dd_icone-api-small.svg)
         
         #### API
         
         Develop your own tournament project](https://www.toornament.com/en_GB/p/tournament-api)
     
-    * [![](https://toornament.cdn.prismic.io/toornament/1f3b7bb4-b0a9-46f0-a0dd-d423834884c8_icone-platform-small.svg)
+    * [![](/img/prismic/1f3b7bb4-b0a9-46f0-a0dd-d423834884c8_icone-platform-small.svg)
         
         #### Platform
         
@@ -136,13 +136,13 @@ You can either manually configure the deposit of the cookies, or automatically b
 
 The purpose of these cookies is to ensure your good navigation on the Website, to access secure parts such as the organizer dashboard tool or participation in tournaments and to ensure the security of your Personal Data. These cookies are strictly necessary to provide the Services at the express request of the user.
 
-![](https://prismic-io.s3.amazonaws.com/toornament/fd46ba6e-db0d-4ef5-9cb2-0388c2bd9d87_tech-cookie.png)
+![](/img/prismic/fd46ba6e-db0d-4ef5-9cb2-0388c2bd9d87_tech-cookie.png)
 
 ### Audience measurements cookies
 
 As its name indicates, audience measurements cookies are used to measure audience, user traffic on the Website and to produce statistics in order to improve the Services.
 
-![](https://prismic-io.s3.amazonaws.com/toornament/53ae86d5-fa71-467c-ba93-a81f119862a8_audience-cookie.png)
+![](/img/prismic/53ae86d5-fa71-467c-ba93-a81f119862a8_audience-cookie.png)
 
 ### Social network and multimedia cookies
 
@@ -224,7 +224,7 @@ Contact
 
 For any question related to our Cookie Policy, you can contact us at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection) or by mail at Toornament - Privacy - 10 rue de penthièvre, 75008 Paris, France. For any questions related to the protection of personal data performed by Toornament, you can contact our Data Protection Officer at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection). In the event that you are not satisfied by a response, you can make a claim to the French CNIL.
 
-![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1729686833)
+![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1730131721)
 
 Manage your gaming competition  
 the way you want
