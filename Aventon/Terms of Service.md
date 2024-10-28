@@ -411,7 +411,7 @@ Open menu
         
         Abound
         
-        Cargo Ebike](https://www.aventon.com/products/abound-ebike)
+        Cargo Ebike](https://www.aventon.com/collections/ebikes?constraint=__abound)
     * [![](//www.aventon.com/cdn/shop/files/aventure-fat-tire-nav.jpg?v=1680657938&width=288)
         
         Aventure
