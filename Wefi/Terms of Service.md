@@ -119,7 +119,7 @@ General Terms and Conditions applicable to Use of a Website.
 
 [**Find Wifi Application Terms of Service**](https://www.wefi.com/wifi-terms-of-service)
 
-[**Terms of Use**](https://www.wefi.com/terms-of-use)
+[**Website Terms of Use**](https://www.wefi.com/terms-of-use)
 
 [](https://www.facebook.com/weficonnect)[](https://www.linkedin.com/company/wefi)[](https://twitter.com/wefi)
 
