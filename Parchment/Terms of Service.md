@@ -517,14 +517,16 @@ Order & Status
 * [Check Order Status](https://www.parchment.com/students/order-status/#existing-order)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
-### Parchment has detected your location as United States.
+### Parchment has detected your location is outside of the United States.
 
-To ensure you’re seeing the right products and services tailored to your region, please select your location from the options below. If you don’t see your country or region listed, choose the one closest to you.
+To ensure you’re seeing the right products and services tailored to your region, please select your location from the options below. If you don’t see your country listed, choose the one closest to you.
 
-[Visit Parchment United States](https://www.parchment.com/terms-of-use/)
+Select your desired region
 
-Or select your desired region
-
+* ![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
+    
+    [US](https://www.parchment.com/terms-of-use/)
+    
 * ![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
     
     [AU](https://www.parchment.com/en-au/)
