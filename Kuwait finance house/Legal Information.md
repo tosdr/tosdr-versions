@@ -189,7 +189,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2Faboutus%2FPrivacy-Notice.html%3Bjsessionid%3DAsu5LLNQoA5YVL1TBXBQU1Ed2ueMw1mZN5GrN0CqeijhprGKodmL!355889365 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2Faboutus%2FPrivacy-Notice.html "Listen to this page using ReadSpeaker")
     
 
 #### Privacy Notice
@@ -359,7 +359,7 @@ Kuwait Finance House (KFH) is considered a pioneer in the banking phenomenon kno
 * [Local Real Estate Reports](https://www.kfh.com/en/home/Investor-Relations/Real-estate-Reports.html)
 
 * [Investor Relations](https://www.kfh.com/en/home/Investor-Relations.html)
-* [Corporate Profile](https://www.kfh.com/dam/jcr:2de3f3bb-6d82-4661-8b31-0f96974fa8f3/Corporate%20Profile%20-%20H1%202024%20-%20English.pdf)
+* [Corporate Profile](https://www.kfh.com/dam/jcr:2de3f3bb-6d82-4661-8b31-0f96974fa8f3/Corporate%20Profile%20-%20Q3%202024%20-%20English.pdf)
 * [Customers Complaints](https://www.kfh.com/en/home/Personal/Complaints-and-Consumer-Protection-Unit.html)
 * [Information Security Guide](https://www.kfh.com/en/home/Personal/Information-Security-Guide.html)
 * [Careers](https://www.kfh.com/en/home/Personal/Tools-services/Career.html)
