@@ -103,7 +103,7 @@ Spiceworks owns, operates several interactive websites, mobile and connected app
 This policy covers information collected through Spiceworks and its affiliates listed as follows:
 
 1. [Aberdeen Strategy and ResearchOpens a new window](https://www.aberdeen.com/ "Opens a new window")
-2. [Spiceworks, Inc.](https://www.spiceworks.com/) and Spiceworks Cloud Help Desk (Mobile App) (Please see here for [FAQsOpens a new window](https://community.spiceworks.com/support/help-desk-cloud-edition/docs#faq "Opens a new window") )
+2. [Spiceworks, Inc.](https://www.spiceworks.com/) and Spiceworks Cloud Help Desk (Mobile App) (Please see here for [FAQs](https://community.spiceworks.com/support/help-desk-cloud-edition/docs#faq))
 3. [Spiceworks Ziff Davis (SWZD)Opens a new window](http://swzd.com/ "Opens a new window")
 4. [B2B IdeasOpens a new window](https://www.b2bideas.com/ "Opens a new window")
 5. [ITResearchOnlineOpens a new window](https://www.itresearchonline.com/ "Opens a new window")
@@ -114,7 +114,7 @@ This policy covers information collected through Spiceworks and its affiliates l
 
 Within Spiceworks, our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity, and security of the personal information of our customers, and want you to know how we protect your information submitted or collected through your use of our service.
 
-Our Tools and Apps include Cloud Helpdesk, Connectivity Dashboard, Inventory Online, and Vendor Contracts. For a complete list, please review [https://community.spiceworks.com/tools](https://community.spiceworks.com/tools "Opens a new window").
+Our Tools and Apps include Cloud Helpdesk, Connectivity Dashboard, Inventory Online, and Vendor Contracts. For a complete list, please review [https://community.spiceworks.com/tools](https://community.spiceworks.com/tools).
 
 In part, the purpose of this policy is to notify users of Spiceworks’ policies and practices with respect to their data. By using the services provided you have agreed to the [Terms of Use](https://www.spiceworks.com/terms/) (or ToU); and this policy is a part of the ToU.
 
@@ -145,7 +145,7 @@ We may Process the following categories of Personal Information about you.
 | **Categories of personal information collected (see below for more details)** | **Purpose of Processing** **\_\_\_\_\_\_\_\_\_** **_Legal Basis_** | **Retention Period** |
 | --- | --- | --- |
 | **Account Information (Personal Details):** your name; postal address; telephone and/or mobile number; email address; employer; username or log in details; password; your public social media handles or profile(s); This information is focused on your professional informtion. | To provide use of our services as agreed in the ToU. _\_\_\_\_\_\_\_\_\_\__ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
-| **App Data.** For more information about a particular App or Tool and the data it collects, please visit [here.Opens a new window](https://community.spiceworks.com/support/security-center/data-collection#cloud-help-desk "Opens a new window") Please note,we may collect information from third-party apps such as the SpiceWorld app hosted on the cVent platform**.** | Maintain and improve service standards \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
+| **App Data.** For more information about a particular App or Tool and the data it collects, please visit [here.](https://community.spiceworks.com/support/security-center/data-collection#cloud-help-desk) Please note,we may collect information from third-party apps such as the SpiceWorld app hosted on the cVent platform**.** | Maintain and improve service standards \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Audio, Video, and Other Electronic Data:** audio, electronic, visual, or similar information such as photographs, video submissions and call recordings. | Promote user expression through our services and to conduct contests and rewards. \_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Consent Records:** records of any consents you may have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent). | Comply with applicable laws and regulations and users’ choices. _\_\_\_\_\_\_\_\_\_\_\__ _Legal Requirement_ | For the life of the account and a reasonable and legally compliant time thereafter. |
 | **Customer Records:** electronic customer records containing personal information, such as name, signature, address, telephone number, or any financial information. | To maintain service standards and provide users with the ability to communicate efficiently and effectively with our company. \_\_\_\_\_\_\_\_\_\_\_\_ _Legitimate Interest_ | Customer records will be kept in accordance with applicable laws. |
@@ -172,7 +172,7 @@ We do not seek to collect or process other sensitive personal information, such 
 **5\. Direct Marketing**
 ------------------------
 
-We may use the contact details you provided us to reach out to you with information regarding services that may be of interest to you, for example, upcoming promotions. You may unsubscribe from the Spiceworks newsletter and email lists at any time by following the unsubscribe instructions included in every email we send or you can manage your email subscriptions at any time by editing your personal [profile](https://community.spiceworks.com/profile/subscriptions "Opens a new window"). We will not send you any emails from a list you unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of other Services you have requested or for additional emails you have signed up for.
+We may use the contact details you provided us to reach out to you with information regarding services that may be of interest to you, for example, upcoming promotions. You may unsubscribe from the Spiceworks newsletter and email lists at any time by following the unsubscribe instructions included in every email we send or you can manage your email subscriptions at any time by editing your personal [profile](https://community.spiceworks.com/profile/subscriptions). We will not send you any emails from a list you unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of other Services you have requested or for additional emails you have signed up for.
 
 **6\. Behavioral Advertising**
 ------------------------------
