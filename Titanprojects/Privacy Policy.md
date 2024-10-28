@@ -6,8 +6,8 @@
 * [Telegram](https://t.me/Ninja138ofc)
 * [Livechat](https://secure.livechatinc.com/licence/14162337/v2/open_chat.cgi)
 
-* [Daftar](https://cutt.ly/aesYNAds)
-* [Login](https://cutt.ly/aesYNAds)
+* [Daftar](https://cutt.ly/IeFglTHO)
+* [Login](https://cutt.ly/IeFglTHO)
 
 * [Beranda](https://titanprojects.co/)
 * [Slots](https://titanprojects.co/)
@@ -20,8 +20,8 @@
 
  [![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ0MCIgd2lkdGg9IjEwNjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![Ninja138](/assets/ninja138-kemenangan-terbaik-situs-slot-gacor-bet-400-gampang-maxwin.jpg "Ninja138")](https://titanprojects.co/)
 
-* [Daftar](https://cutt.ly/aesYNAds)
-* [Login](https://cutt.ly/aesYNAds)
+* [Daftar](https://cutt.ly/IeFglTHO)
+* [Login](https://cutt.ly/IeFglTHO)
 
 * [Beranda](#)
 * [Slots](#)
