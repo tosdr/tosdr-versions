@@ -272,7 +272,7 @@ Free standard shipping on any $35 purchase
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
             
-        * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
+        * [Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/beekman-1802-x-wicked-i-look-good-in-green-milky-mud-mask-pimprod2047900?sku=2629713)
@@ -1035,7 +1035,7 @@ Free standard shipping on any $35 purchase
             
         * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-        * [### Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
             
         * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
@@ -1124,6 +1124,8 @@ Free standard shipping on any $35 purchase
         
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
+    
+* [Early Black Friday Deals](https://www.ulta.com/promotion/black-friday)
     
 
 * [](https://www.ulta.com/bag)
