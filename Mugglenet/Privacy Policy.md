@@ -368,15 +368,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+The Welsh translation of “Gryffindor” is “Llereurol,” and the Hindi translation is “Garuddwaar.”
 
 ### Potter History
 
-December 4, 2008 – The Tales of Beedle the Bard is released in the United States and the United Kingdom. To the dismay of some Harry Potter fans, many bookstores did not hold midnight release parties as they did for other books in the Harry Potter series.
+February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
 
 ### Potter Quote
 
-“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
+“Potter, I will assist you to become an Auror if it is the last thing I do! If I have to coach you nightly I will make sure you achieve the required results!”
 
 [](#)
 
