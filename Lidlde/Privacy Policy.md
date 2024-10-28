@@ -1,10 +1,10 @@
 Informationen zur Verarbeitung Ihrer Daten!
 
-Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf[https://www.youtube.com](https://www.youtube.com/)gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA;[https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf[https://www.youtube.com](https://www.lidl.de/de/datenschutz/undefined)gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA;[https://www.google.de/intl/de/policies/privacy/](https://www.lidl.de/de/datenschutz/undefined).
 
   
 
-Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilen werden oder schon haben, können Sie in unseren Datenschutzbestimmungen unter dem Punkt[16\. Eingebundene Inhalte Dritter](https://www.lidl.de/c/datenschutz/s10007528#10016726), diese jederzeit widerrufen. Weitere Informationen zum Datenschutz, insbesondere zum Verantwortlichen und Ihren Datenschutzrechten, finden Sie ebenfalls in unseren Datenschutzbestimmungen.
+Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilen werden oder schon haben, können Sie in unseren Datenschutzbestimmungen unter dem Punkt[17\. Eingebundene Inhalte Dritter](https://www.lidl.de/c/datenschutz/s10007528?hidebanner=true#10016726), diese jederzeit widerrufen. Weitere Informationen zum Datenschutz, insbesondere zum Verantwortlichen und Ihren Datenschutzrechten, finden Sie ebenfalls in unseren Datenschutzbestimmungen.
 
 AkzeptierenAblehnen
 
@@ -20,22 +20,7 @@ AkzeptierenAblehnen
 4. [Filiale](https://www.lidl.de/store)
 5. 
 6. [](https://www.lidl.de/c/online-prospekte/s10005610)
-7. 1. [](https://www.lidl.de/mla/)
-    2. Herzlich willkommen in deinem Lidl-Konto.
-        
-        [Mein Konto](https://www.lidl.de/mla/)[Abmelden](https://www.lidl.de/user-api/logout?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
-        
-        Mit deinem Lidl- oder Lidl-Plus Konto anmelden!
-        
-        [Anmelden](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
-        
-        Noch kein Konto bei Lidl?[Ganz einfach dein Konto erstellen!](https://www.lidl.de/user-api/login?redirect=%2Fc%2Frechtliche-informationen%2Fs10007999)
-        
-        * [Meine Bestellungen](https://www.lidl.de/css/order-history)
-        * [Zugangsdaten](https://www.lidl.de/css/manage-account/access-data)
-        * [Meine Daten](https://www.lidl.de/css/manage-account/addresses)
-        * [Lidl Connect Kundenkonto](https://kundenkonto.lidl-connect.de/mein-lidl-connect.html)
-        
+7. [](https://www.lidl.de/mla/)
 8. 1. [](https://www.lidl.de/otc/cart)
     
 
@@ -1439,13 +1424,15 @@ Rechtsgrundlage für die Verarbeitung Ihrer Standortdaten ist Ihre Einwilligung 
 
 17\. Eingebundene Inhalte Dritter
 
-Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert und von diesen Diensten aus direkt abspielbar sind. Diese sind alle im „erweiterten Datenschutz-Modus" eingebunden, d.h., dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden die Daten übertragen. Auf die Datenverarbeitungen durch den Betreiber von YouTube haben wir keinen Einfluss.
+Wir haben YouTube-Videos in unser Online-Angebot eingebunden, die auf [https://www.youtube.com](https://www.youtube.com/) gespeichert sind und von unserer Website aus direkt abspielbar sind. Wenn Sie unsere Webseiten aufrufen, werden jedoch noch keine Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen und dieser erhält keine Informationen von Ihnen. Erst wenn Sie Ihre Einwilligung erteilen, werden Inhalte des Drittanbieters YouTube (Google LLC) nachgeladen. Hierdurch erhält YouTube (Google LLC) die Information, dass Sie unsere Seite aufgerufen haben sowie die in diesem Rahmen technisch erforderlichen Nutzungsdaten. Außerdem ist YouTube (Google LLC) dann in der Lage Trackingtechnologien zu implementieren. Wir haben auf die weitere Datenverarbeitung durch den Drittanbieter YouTube (Google LLC) keinen Einfluss. Die Datenverarbeitung erfolgt auf Grundlage Ihrer Einwilligung gem. Art. 6 Abs. 1 lit. a) DSGVO. Ihre Einwilligung ist freiwillig und umfasst, dass Inhalte des Drittanbieters nachgeladen werden und die beschriebenen Daten an YouTube (Google LLC) übertragen werden dürfen. Für Übermittlungen in die USA ist ein angemessenes Datenschutzniveau aufgrund der Zertifizierung des Anbieters unter dem Angemessenheitsbeschluss (EU-U.S. Data Privacy Framework) gewährleistet. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube (Google LLC) erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
 
   
 
-Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Adresse und Datenschutzhinweisen von YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; [https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/).
+Sofern Sie ihre Einwilligung zur sofortigen Abspielmöglichkeit von YouTube Videos erteilt haben, haben Sie nachfolgend die Möglichkeit, diese jederzeit zu widerrufen. Sobald sie den nachfolgenden Schalter deaktiviert haben, wird bei einem erneuten Aufruf einer unserer Seiten, die ein YouTube Video enthält, Ihre Zustimmung erneut abgefragt.
 
   
+
+ Zustimmung zum abspielen von YouTube-Videos
 
 18\. Welche Rechte haben Sie im Hinblick auf die Verarbeitung Ihrer Daten?
 
@@ -2858,8 +2845,8 @@ Bei Fragen zur Webseite oder zum Lidl Online-Shop oder zur Ausübung Ihrer Recht
 
 [![](/static/assets/2436_Lidl_Insider_VKF-1141660.jpg)
 
-Werde Lidl Insider
-------------------
+Werde Lidl-Fan
+--------------
 
 ... und sichere dir deinen Gutschein⁷!Jetzt zum Newsletter anmelden!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
@@ -2867,7 +2854,7 @@ Rechtliche Hinweise und Auflösung der Fußnoten
 
 Mehr anzeigen
 
-[Werde Lidl Insider!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
+[Werde Lidl-Fan!](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
 * [Sichere Bestellung](https://kundenservice.lidl.de/SelfServiceDE/s/article/Ist-der-Lidl-Onlineshop-EHI-zertifiziert?q=EHI "Sichere Online-Bestellung bei Lidl.de")
 * [Kostenlose Retoure](https://kundenservice.lidl.de/SelfServiceDE/s/article/Ist-die-R%C3%BCcksendung-f%C3%BCr-mich-kostenlos "Kostenlose Retouren für Lidl Online-Kunden!")
@@ -2903,9 +2890,9 @@ Lidl Connect![](/n/footer/icons/arrow-bottom.svg)
 
 ###### Newsletter
 
-Werde jetzt Lidl Insider & sichere dir dein Willkommensgeschenk⁷!
+Melde dich zum Lidl Newsletter an & sichere dir dein Willkommensgeschenk⁷!
 
-[Lidl Insider werden](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
+[Jetzt anmelden](https://www.lidl.de/c/newsletter-anmeldeseite/s10005754)
 
 ###### Zahlarten im Onlineshop
 
