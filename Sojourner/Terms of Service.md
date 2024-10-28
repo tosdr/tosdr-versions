@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-06862fd6729c169285a31246f30f79f9
+5cd2530e6f5de4796e79853ce3cbc3de
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Frosted crystal colored lozenges](https://sojourner.biz/images/cache/glass/GL0131.200.jpg)](https://sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
+[![Maroon flower clasp](https://sojourner.biz/images/cache/SKU0050variations.200.jpg)](https://sojourner.biz/clasps/glass/maroon-flower-clasp.html "Maroon flower clasp")
 
-#### [Frosted crystal colored lozenges](https://sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
+#### [Maroon flower clasp](https://sojourner.biz/clasps/glass/maroon-flower-clasp.html "Maroon flower clasp")
 
-$15.00
+$38.00
 
 ### Best Sellers
 
