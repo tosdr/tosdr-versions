@@ -163,9 +163,9 @@
     * Close
     
 
-1. [Home](https://www.confused.com/)
-2. [About us](https://www.confused.com/about-us)
-3. Cookie policy
+1. [Home](https://www.confused.com/) 
+2. [About us](https://www.confused.com/about-us) 
+3. Cookie policy   
 
 Our cookie policy
 =================
