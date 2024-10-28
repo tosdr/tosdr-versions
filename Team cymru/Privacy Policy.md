@@ -77,9 +77,9 @@ top of page
     * [Contact Us](https://www.team-cymru.com/contact-us)
     
 
-[REQUEST DEMO](https://www.team-cymru.com/request-a-demo)
+[TALK TO AN EXPERT](https://www.team-cymru.com/request-a-demo)
 
-[FREE TRIAL - THREAT HUNTING TOOL](https://www.team-cymru.com/ip-address-lookup-scout-insight)
+[TRY US FREE](https://www.team-cymru.com/ip-address-lookup-scout-insight)
 
 ![Protecting Your Digital World](https://static.wixstatic.com/media/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg/v1/fill/w_147,h_31,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg)
 
@@ -425,7 +425,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_62,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_77,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
