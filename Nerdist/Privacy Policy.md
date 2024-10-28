@@ -24,7 +24,7 @@ Search for:
 
  Search
 
-Close search Close Close search.
+Close search ![Close](https://nerdist.com/wp-content/themes/nerdist_2021/img/Close.svg) 
 
 * [](https://www.facebook.com/Nerdist/ "Facebook Nerdist")[](https://twitter.com/nerdist "Twitter Nerdist")[](https://www.instagram.com/nerdist/?hl=en "Instagram Nerdist")[](https://www.youtube.com/nerdist "Youtube Nerdist")[](https://www.tiktok.com/@nerdist "TikTok Nerdist")
 
@@ -32,8 +32,6 @@ Close search Close Close search.
 * [Newsletter](https://nerdist.com/newsletter/ "Newsletter")
 
 * [](https://www.facebook.com/geekandsundry/ "Facebook Geek and Sundry")[](https://twitter.com/geekandsundry "Twitter Geek and Sundry")[](https://www.instagram.com/geekandsundry/?hl=en "Instagram Geek and Sundry")[](https://www.youtube.com/geekandsundry "Youtube Geek and Sundry")
-
-Cool Ad. Here's Nerdist
 
 Privacy Policy
 ==============
@@ -237,7 +235,7 @@ If you have any questions or comments about this Privacy Policy or our Site, ple
 * Phone: +1 (844) 217-3923
 * Address: 2900 W. Alameda Avenue, Burbank, CA 91505 Attn: Legal Affairs
 
-[](https://nerdist.com/)
+[![Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/img/nerdist-white.svg)](https://nerdist.com/)
 
 * [About](https://nerdist.com/about)
 * [Privacy Policy](https://nerdist.com/privacy)
@@ -249,7 +247,7 @@ Be a part of the fellowship:
 
 find us on:
 
-[](http://facebook.com/nerdist "Facebook Nerdist")[](http://twitter.com/nerdist "Twitter Nerdist")[](https://www.instagram.com/nerdist/?hl=en "Instagram Nerdist")[](https://www.youtube.com/nerdist "Youtube Nerdist")[](https://www.tiktok.com/@nerdist "TikTok Nerdist")
+ [![Facebook Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-facebook.svg)](http://facebook.com/nerdist "Facebook Nerdist")[![Twitter Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-twitter.svg)](http://twitter.com/nerdist "Twitter Nerdist")[![Instagram Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-instagram.svg)](https://www.instagram.com/nerdist/?hl=en "Instagram Nerdist")[![Youtube Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-youtube.svg)](https://www.youtube.com/nerdist "Youtube Nerdist")[![TikTok Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-white-tiktok.svg)](https://www.tiktok.com/@nerdist "TikTok Nerdist")
 
 v2.08 – © Nerdist All Rights Reserved
 
@@ -263,31 +261,49 @@ Allow ads on Nerdist Continue without supporting Nerdist
 
 ### Choose your Ads blocker:
 
-* Adblock Plus
-* AdBlock
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock-plus.svg)
+    
+    Adblock Plus
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock.svg)
+    
+    AdBlock
 * ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblocker-ultimate-logo.png)
     
     AdBlocker Ultimate
 * ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock_unlimited_logo.png)
     
     AdBlock Unlimited
-* Ghostery Tracker and Ad Blocker
-* uBlock Origin
-* uBlock
-* Adguard Extension
-* Brave
-* Opera
-* Others
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ghostery-adblocker.svg)
+    
+    Ghostery Tracker and Ad Blocker
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ublock-origin.svg)
+    
+    uBlock Origin
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ublock.svg)
+    
+    uBlock
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adguard.svg)
+    
+    Adguard Extension
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/brave.svg)
+    
+    Brave
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/opera.svg)
+    
+    Opera
+* ![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock-other.svg)
+    
+    Others
 
 ### Turn off Adblock Plus
 
-1. Click the AdBlock Plus icon () in the extension bar.
+1. Click the AdBlock Plus icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock-plus.svg)) in the extension bar.
 2. Beneath “Block ads on”, click the large blue toggle next to “This website“.
 3. Refresh the page.
 
 ### Turn off Adblock
 
-1. Click the Adblock icon () in the extension bar.
+1. Click the Adblock icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adblock.svg)) in the extension bar.
 2. Click "Pause on this site".
 
 ### Turn off AdBlocker Ultimate
@@ -302,33 +318,33 @@ Allow ads on Nerdist Continue without supporting Nerdist
 
 ### Turn off Ghostery Tracker and Ad Blocker
 
-1. Click the AdBlock Unlimited icon () in the extension bar.
+1. Click the Ghostery Tracker and Ad Blocker icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ghostery-adblocker.svg)) in the extension bar.
 2. Trust this site" dropdown, choose "Always".
 
 ### Turn off uBlock Origin
 
-1. Click the uBlock Origin icon () in the extension bar.
+1. Click the uBlock Origin icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ublock-origin.svg)) in the extension bar.
 2. Click on the big, blue power button.
 3. Refresh the webpage.
 
 ### Turn off uBlock
 
-1. To the right of the address bar, click the uBlock icon ().
+1. To the right of the address bar, click the uBlock icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/ublock.svg)).
 2. Click the button “Allow ads on this site”.
 
 ### Turn off AdGuard extension
 
-1. Click on the green AdGuard icon () in the extension bar.
+1. Click on the green AdGuard icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/adguard.svg)) in the extension bar.
 2. Click the large green toggle to turn it off.
 
 ### Turn off Brave's ad blocker
 
-1. Click on the orange lion icon () in the extension bar.
+1. Click on the orange lion icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/brave.svg)) in the extension bar.
 2. Toggle Brave Shields form UP to DOWN.
 
 ### Turn off Opera's ad blocker
 
-1. To the right of the address bar, click the shield icon ().
+1. To the right of the address bar, click the shield icon (![](https://nerdist.com/wp-content/themes/nerdist_2021/img/opera.svg)).
 2. Turn off “Ad Blocker” and “Tracker Blocker”.
 
 ### Turn off the other ad blocker
@@ -341,15 +357,25 @@ Allow ads on Nerdist Continue without supporting Nerdist
 
 Close menu
 
-* [Read](https://nerdist.com/read/)
+* ![Read icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/read-icon.svg)
     
-* [Watch](https://nerdist.com/watch/)
+    [Read](https://nerdist.com/read/)
     
-* [Play](https://nerdist.com/play/)
+* ![Watch icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/watch-icon.svg)
     
-* [Listen](https://nerdist.com/listen/)
+    [Watch](https://nerdist.com/watch/)
+    
+* ![Play icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/play-icon.svg)
+    
+    [Play](https://nerdist.com/play/)
+    
+* ![Listen icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/listen-icon.svg)
+    
+    [Listen](https://nerdist.com/listen/)
     
 * [ ] 
+    
+    ![Topic icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/topic-icon.svg)
     
     [Topics](https://nerdist.com/topics/)
     
@@ -363,7 +389,9 @@ Close menu
         
     * [Comics](https://nerdist.com/topic/comics/)
         
-* [Shop](https://shop.legendary.com/pages/nerdist-gift-guide?utm_source=nerdist.com&utm_medium=referral&utm_campaign=nerdist-gift-guide&utm_content=nerdist-gift-guide)
+* ![Shop icon](https://nerdist.com/wp-content/themes/nerdist_2021/img/shop-icon.svg)
+    
+    [Shop](https://shop.legendary.com/pages/nerdist-gift-guide?utm_source=nerdist.com&utm_medium=referral&utm_campaign=nerdist-gift-guide&utm_content=nerdist-gift-guide)
     
 * [Newsletter](https://nerdist.com/newsletter/)
     
@@ -376,6 +404,8 @@ Close menu
 * [Privacy Policy](https://nerdist.com/privacy)
 * [Do Not Sell or Share My InformationOpens in new tab](https://privacyportal-cdn.onetrust.com/dsarwebform/34c5b273-7cb8-4ee8-8f8c-026eee65741b/f386161f-2608-47f0-a36e-7d446a6033c1.html)
 
-[](https://www.facebook.com/Nerdist/ "Facebok Nerdist")[](https://twitter.com/nerdist "Twitter Nerdist")[](https://instagram.com/nerdist "Instagram Nerdist")[](https://www.youtube.com/nerdist "Youtube Nerdist")[](https://www.tiktok.com/@nerdist "TikTok Nerdist")
+ [![Facebook Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-gradient-facebook.svg)](https://www.facebook.com/Nerdist/ "Facebok Nerdist")[![Twitter Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-gradient-twitter.svg)](https://twitter.com/nerdist "Twitter Nerdist")[![Instagram Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-gradient-instagram.svg)](https://instagram.com/nerdist "Instagram Nerdist")[![Youtube Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-gradient-youtube.svg)](https://www.youtube.com/nerdist "Youtube Nerdist")[![TikTok Nerdist](https://nerdist.com/wp-content/themes/nerdist_2021/public/images/social-gradient-tiktok.svg)](https://www.tiktok.com/@nerdist "TikTok Nerdist")
 
-[](https://geekandsundry.com/)
+[![Geek and Sundry Logo](https://nerdist.com/wp-content/themes/nerdist_2021/img/gns-logo.svg)
+
+![](https://nerdist.com/wp-content/themes/nerdist_2021/img/arrow-right.svg)](https://geekandsundry.com/)
