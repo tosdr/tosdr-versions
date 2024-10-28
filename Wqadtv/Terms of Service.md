@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aebb8114-54b3-4975-b041-35b6e8bf069f/20240426T031620/aebb8114-54b3-4975-b041-35b6e8bf069f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aebb8114-54b3-4975-b041-35b6e8bf069f/20240426T031620/aebb8114-54b3-4975-b041-35b6e8bf069f_360x203.jpg)](https://www.wqad.com/article/news/local/free-rides-election-day-public-transportation-quad-cities/526-bcd948a3-b115-4d3a-bdd6-bd28ae47b383)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-shooting-early-monday-morning/526-4c5b01bd-14b4-4e7c-878b-2a9abbc1ef67)
         
-        #### [Heading to the polls on Nov. 5? Catch a free ride with Quad Cities' public transportation](https://www.wqad.com/article/news/local/free-rides-election-day-public-transportation-quad-cities/526-bcd948a3-b115-4d3a-bdd6-bd28ae47b383)
+        #### [Police: Man injured in Rock Falls shooting](https://www.wqad.com/article/news/local/public-safety/rock-falls-shooting-early-monday-morning/526-4c5b01bd-14b4-4e7c-878b-2a9abbc1ef67)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
         
-        #### [East Moline's Shady Knoll Farm pumpkin patch celebrating 40 years](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
+        #### [Tickets now on sale to rock out with the Trans-Siberian Orchestra in Moline](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a) [![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
         
+        #### [Tickets now on sale to see the Trans-Siberian Orchestra in Moline this holiday season](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-62°
+68°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
