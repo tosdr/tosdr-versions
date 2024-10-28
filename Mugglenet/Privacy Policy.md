@@ -244,20 +244,6 @@ MuggleNet Archive Select Month October 2024  (20) September 2024  (30) August 
 
 ### October 2024
 
-#### Sun, Oct 27
-
-Brontis Jodorowsky's birthday
-
-Recurs yearly
-
-Nicolas Flamel
-
-John Cleese's birthday
-
-Recurs yearly
-
-Nearly Headless Nick
-
 #### Mon, Oct 28
 
 Devon Murray's birthday
@@ -366,6 +352,12 @@ Recurs yearly
 
 1996
 
+#### Sun, Nov 3
+
+Sirius Black's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -376,15 +368,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There were seven male white owls that played Hedwig.
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
+December 4, 2008 – The Tales of Beedle the Bard is released in the United States and the United Kingdom. To the dismay of some Harry Potter fans, many bookstores did not hold midnight release parties as they did for other books in the Harry Potter series.
 
 ### Potter Quote
 
-“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
+“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
 
 [](#)
 
