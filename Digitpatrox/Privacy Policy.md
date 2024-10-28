@@ -20,16 +20,16 @@ Monday, October 28 2024
 
 Latest
 
-* [6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
-* [Fog ransomware targets SonicWall VPNs to breach corporate networks](https://digitpatrox.com/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
-* [This is the Mac Mini’s big moment](https://digitpatrox.com/this-is-the-mac-minis-big-moment/)
-* [Android 16 to Bring This Much Needed Change to Quick Settings](https://digitpatrox.com/android-16-to-bring-this-much-needed-change-to-quick-settings/)
-* [Tailor Your iPhone’s Fitness Summary to Your Workouts](https://digitpatrox.com/tailor-your-iphones-fitness-summary-to-your-workouts/)
-* [Best Bottle Warmers of 2024](https://digitpatrox.com/best-bottle-warmers-of-2024/)
-* [How to Pick a Great Windows Laptop for Work](https://digitpatrox.com/how-to-pick-a-great-windows-laptop-for-work/)
-* [NYT Connections today hints and answers — Monday, October 28 (#505)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-october-28-505/)
-* [The hardware and software blocking the new update](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
-* [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://digitpatrox.com/hospitals-use-a-transcription-tool-powered-by-a-hallucination-prone-openai-model/)
+* [How to install Optional Features on Windows 11](https://digitpatrox.com/how-to-install-optional-features-on-windows-11/)
+* [Best Smartwatches of 2024, Tested by Our Experts](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
+* [How to Cut a Clip Out of a Video on an iPhone or iPad](https://digitpatrox.com/how-to-cut-a-clip-out-of-a-video-on-an-iphone-or-ipad/)
+* [Industry body hits out at CMA following launch of Google, Anthropic merger probe](https://digitpatrox.com/industry-body-hits-out-at-cma-following-launch-of-google-anthropic-merger-probe/)
+* [Early Black Friday Target deals are here — here’s 15 deals I’d get now on TVs, headphones, Lego and more](https://digitpatrox.com/early-black-friday-target-deals-are-here-heres-15-deals-id-get-now-on-tvs-headphones-lego-and-more/)
+* [All the news from Apple’s ‘week’ of Mac announcements](https://digitpatrox.com/all-the-news-from-apples-week-of-mac-announcements/)
+* [Pokemon GO November 2024 Events: A Complete Guide](https://digitpatrox.com/pokemon-go-november-2024-events-a-complete-guide/)
+* [How to Create Dark Mode App Icons for iPhone](https://digitpatrox.com/how-to-create-dark-mode-app-icons-for-iphone/)
+* [Get the Best Car-Loan Rate Despite a Low Credit Score](https://digitpatrox.com/get-the-best-car-loan-rate-despite-a-low-credit-score/)
+* [How to Create and Update a Table of Contents in Microsoft Word](https://digitpatrox.com/how-to-create-and-update-a-table-of-contents-in-microsoft-word/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/pArrfVLchJXtQ6odpp49CL-1200-80.jpg)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/01/windows-11-install-optional-features-home-mauro-huculak.webp)](https://digitpatrox.com/how-to-install-optional-features-on-windows-11/)
     
-    [6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
+    [How to install Optional Features on Windows 11](https://digitpatrox.com/how-to-install-optional-features-on-windows-11/)
     
-    18 mins ago
+    6 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2022/05/13/SonicWall.jpeg)](https://digitpatrox.com/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729087556/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Best-Smartwatches-2024-1024)](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
     
-    [Fog ransomware targets SonicWall VPNs to breach corporate networks](https://digitpatrox.com/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
+    [Best Smartwatches of 2024, Tested by Our Experts](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
     
-    45 mins ago
+    16 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/YMrUKUesyrBluK8fOS-dVaiA3G0=/0x0:2040x1360/1200x628/filters:focal(1152x731:1153x732)/cdn.vox-cdn.com/uploads/chorus_asset/file/22045883/cwelch_201114_4292_0005.0.jpg)](https://digitpatrox.com/this-is-the-mac-minis-big-moment/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/person-taking-a-picture-with-the-apple-iphone-16-pro-camera-control-button-in-landscape-1.jpg)](https://digitpatrox.com/how-to-cut-a-clip-out-of-a-video-on-an-iphone-or-ipad/)
     
-    [This is the Mac Mini’s big moment](https://digitpatrox.com/this-is-the-mac-minis-big-moment/)
+    [How to Cut a Clip Out of a Video on an iPhone or iPad](https://digitpatrox.com/how-to-cut-a-clip-out-of-a-video-on-an-iphone-or-ipad/)
+    
+    19 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/bYJsu2ZmRfq8zRUyRJXpBA-1200-80.jpg)](https://digitpatrox.com/industry-body-hits-out-at-cma-following-launch-of-google-anthropic-merger-probe/)
+    
+    [Industry body hits out at CMA following launch of Google, Anthropic merger probe](https://digitpatrox.com/industry-body-hits-out-at-cma-following-launch-of-google-anthropic-merger-probe/)
     
     1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Android-16-Resizable-Quick-Settings.jpg)](https://digitpatrox.com/android-16-to-bring-this-much-needed-change-to-quick-settings/)
+* [![](https://cdn.mos.cms.futurecdn.net/iKhRPjjhthVwHs7vX6EcJk-1200-80.jpg)](https://digitpatrox.com/early-black-friday-target-deals-are-here-heres-15-deals-id-get-now-on-tvs-headphones-lego-and-more/)
     
-    [Android 16 to Bring This Much Needed Change to Quick Settings](https://digitpatrox.com/android-16-to-bring-this-much-needed-change-to-quick-settings/)
+    [Early Black Friday Target deals are here — here’s 15 deals I’d get now on TVs, headphones, Lego and more](https://digitpatrox.com/early-black-friday-target-deals-are-here-heres-15-deals-id-get-now-on-tvs-headphones-lego-and-more/)
     
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JB1H3A9XCHVTC2XEFA3MSJ9J/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/tailor-your-iphones-fitness-summary-to-your-workouts/)
-    
-    [Tailor Your iPhone’s Fitness Summary to Your Workouts](https://digitpatrox.com/tailor-your-iphones-fitness-summary-to-your-workouts/)
-    
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 mins ago
+* [6 mins ago
     
-    ### 6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
-* [45 mins ago
+    ### How to install Optional Features on Windows 11](https://digitpatrox.com/how-to-install-optional-features-on-windows-11/)
+* [16 mins ago
     
-    ### Fog ransomware targets SonicWall VPNs to breach corporate networks](https://digitpatrox.com/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
-* [1 hour ago
+    ### Best Smartwatches of 2024, Tested by Our Experts](https://digitpatrox.com/best-smartwatches-of-2024-tested-by-our-experts/)
+* [19 mins ago
     
-    ### This is the Mac Mini’s big moment](https://digitpatrox.com/this-is-the-mac-minis-big-moment/)
+    ### How to Cut a Clip Out of a Video on an iPhone or iPad](https://digitpatrox.com/how-to-cut-a-clip-out-of-a-video-on-an-iphone-or-ipad/)
 
 Most Popular Topics
 
-* [September 5, 2024
-    
-    ### Qualcomm’s mixed reality project with Samsung and Google is… glasses](https://digitpatrox.com/qualcomms-mixed-reality-project-with-samsung-and-google-is-glasses/)
 * [5 days ago
     
-    ### AWS, Azure auth keys found in Android and iOS apps used by millions](https://digitpatrox.com/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
-* [September 5, 2024
+    ### AI dominates Gartner’s 2025 predictions](https://digitpatrox.com/ai-dominates-gartners-2025-predictions/)
+* [6 days ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 6](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-6/)
+    ### I’m a stomach sleeper, here’s why I’m super fussy about my pillows](https://digitpatrox.com/im-a-stomach-sleeper-heres-why-im-super-fussy-about-my-pillows/)
+* [2 weeks ago
+    
+    ### 10 Best Small Business Checking Accounts in 2024](https://digitpatrox.com/10-best-small-business-checking-accounts-in-2024/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### How to Pick a Great Windows Laptop for Work](https://digitpatrox.com/how-to-pick-a-great-windows-laptop-for-work/)
+    ### Pokemon GO November 2024 Events: A Complete Guide](https://digitpatrox.com/pokemon-go-november-2024-events-a-complete-guide/)
 * [5 hours ago
     
-    ### NYT Connections today hints and answers — Monday, October 28 (#505)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-october-28-505/)
-* [6 hours ago
+    ### How to Create Dark Mode App Icons for iPhone](https://digitpatrox.com/how-to-create-dark-mode-app-icons-for-iphone/)
+* [5 hours ago
     
-    ### The hardware and software blocking the new update](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
+    ### Get the Best Car-Loan Rate Despite a Low Credit Score](https://digitpatrox.com/get-the-best-car-loan-rate-despite-a-low-credit-score/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
