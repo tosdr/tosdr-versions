@@ -92,14 +92,12 @@ General
 * [Related changes](https://meta.miraheze.org/wiki/Special:RecentChangesLinked/Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://meta.miraheze.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=434227 "Permanent link to this revision of this page")
+* [Permanent link](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=437993 "Permanent link to this revision of this page")
 * [Page information](https://meta.miraheze.org/wiki/Terms_of_Use?action=info "More information about this page")
-* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Terms_of_Use&id=434227&wpFormIdentifier=titleform "Information on how to cite this page")
+* [Cite this page](https://meta.miraheze.org/wiki/Special:CiteThisPage?page=Terms_of_Use&id=437993&wpFormIdentifier=titleform "Information on how to cite this page")
 * [Get shortened URL](https://meta.miraheze.org/wiki/Special:UrlShortener?url=https%3A%2F%2Fmeta.miraheze.org%2Fwiki%2FTerms_of_Use)
 
 From Miraheze Meta, Miraheze's central coordination wiki
-
-This page contains [changes](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=432026&diff=434227) which are not marked for translation. Please make a request at [Meta:Administrators' noticeboard](https://meta.miraheze.org/wiki/Meta:Administrators%27_noticeboard "Meta:Administrators' noticeboard") or contact any [translator](https://meta.miraheze.org/wiki/Special:ListUsers/translator "Special:ListUsers/translator") or [administrator](https://meta.miraheze.org/wiki/Special:ListUsers/sysop "Special:ListUsers/sysop") via their user talk page to mark the updated page for translation.
 
 Other languages:
 
@@ -251,7 +249,7 @@ Any data submitted to the Miraheze website or a Wiki to be sent to users of the 
 
 ![](https://login.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://meta.miraheze.org/wiki/Terms\_of\_Use?oldid=434227](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=434227)"
+Retrieved from "[https://meta.miraheze.org/wiki/Terms\_of\_Use?oldid=437993](https://meta.miraheze.org/wiki/Terms_of_Use?oldid=437993)"
 
 [Categories](https://meta.miraheze.org/wiki/Special:Categories "Special:Categories"):
 
@@ -262,7 +260,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
 
-* This page was last edited 19:09, 12 October 2024 by Miraheze Meta user [NotAracham](https://meta.miraheze.org/wiki/User:NotAracham "User:NotAracham").
+* This page was last edited 00:13, 28 October 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
 * [Privacy policy](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy)
