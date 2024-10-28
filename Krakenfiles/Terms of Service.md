@@ -98,6 +98,7 @@ Other definitions used in the Terms and Conditions of Use:
 © 2021 KrakenFiles.com
 
 * [DMCA](https://krakenfiles.com/contact)
+* [Abuse](https://krakenfiles.com/contact)
 * [Terms](https://krakenfiles.com/terms)
 * [Privacy](https://krakenfiles.com/terms)
 * [Help](https://krakenfiles.com/faq)
