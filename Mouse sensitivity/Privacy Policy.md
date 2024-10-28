@@ -122,6 +122,11 @@ This site uses the CleanTalk Anti-Spam service to protect the site from spam. Th
         
     *  한국어
         
+* [Theme](#elNavTheme_menu)
+    *  Main Theme (Default)
+        
+    *  Main Theme beta
+        
 * [Privacy Policy](https://www.mouse-sensitivity.com/privacy/)
 * [Contact Us](https://www.mouse-sensitivity.com/msc/)
 * [Cookies](https://www.mouse-sensitivity.com/cookies/)
