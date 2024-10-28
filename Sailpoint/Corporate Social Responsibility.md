@@ -359,7 +359,6 @@ Company
 * [About Us](https://www.sailpoint.com/why-us/about-us)
 * [Trust Center](https://www.sailpoint.com/why-us/trust)
 * [Leadership Team](https://www.sailpoint.com/why-us/leadership)
-* [SailPoint in the news](https://www.sailpoint.com/news-room)
 * [Become a Partner](https://www.sailpoint.com/partners/become-partner)
 
 Quick Links
@@ -373,6 +372,12 @@ Careers
 
 * [Join the crew](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs)
 * [Why work at SailPoint](https://www.sailpoint.com/company/careers)
+
+Help & support
+
+* [Contact us](https://www.sailpoint.com/contact-us)
+* [Customer support](https://support.sailpoint.com/)
+* [Glossary](https://www.sailpoint.com/glossary)
 
 Stay Connected
 
