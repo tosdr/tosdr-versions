@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+Iceland • 8 days, 7 nights
+
+[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
+
+from
+
+   [![West Africa djembe](https://img.atlasobscura.com/7bKepEPqLJz5bMfvNetIHSXGyU6GJH_5ZmRGiBK8yvo/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83OGU0/YWIzZS0xNDM5LTRi/ZDctOWRlZC0zZTcw/YzhlNTYxNTJkMjA5/NzIzN2M3MWU1YTk2/NWJfV2VzdCBBZnJp/Y2EgNCAtIGFmcmlj/YW4gZHJ1bW1pbmcu/cG5n.png)](https://www.atlasobscura.com/adventures/trips/west-africa)
+
+Benin • 13 days, 12 nights
+
+[NEW - Rhythms & Rituals: West Africa's Spiritual Traditions](https://www.atlasobscura.com/adventures/trips/west-africa)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
