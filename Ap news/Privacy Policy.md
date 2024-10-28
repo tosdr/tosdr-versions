@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
-    * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
     * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
+    * [The trajectory of Ukraine's fight against Russia hangs on the outcome of the US election](https://apnews.com/article/election-ukraine-war-russia-harris-trump-b709d17bf1e81531853bd85fb8414ece)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [Harris stays quiet on student loans as cancellation loses its political luster](https://apnews.com/article/student-loans-forgiveness-election-harris-trump-686eb28c1c2e9bcf241312534c3e574a)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -53,7 +53,7 @@ Menu
     TOP STORIES
     
     * [Where Trump and Harris stand on key issues](https://apnews.com/article/trump-harris-issue-positions-worlds-apart-3f80a342c790da64e3de92a4f5760991)
-    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Trump's Madison Square Garden event features crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
     * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
     
     Newsletters
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
-    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
-    * [Harris tries out new ways of reaching voters, but she's running out of time](https://apnews.com/article/kamala-harris-democrats-election-2024-b735c4332d22ef46b2bc44a5e443507f)
+    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
+    * [In their own words: What it's like in a 'chaos' Congress and why these lawmakers keep coming back](https://apnews.com/article/congress-house-chaos-elections-democrats-republicans-divide-50e562326d5c1d8a43cc86381d5705f5)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Jayden Daniels' buzzer-beating Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
-    * [Winston throws 3 TD passes as Browns stun Jackson, Ravens 29-24 to end 5-game losing streak](https://apnews.com/article/browns-ravens-325f249c6528f9f451873f34e4dfad8f)
-    * [Mahomes passes for 262 yards and 2 TDs, Chiefs beat Raiders 27-20 to improve to 7-0](https://apnews.com/article/chiefs-raiders-score-ed7fd1cce1609b9e0ea4396f303269e2)
+    * [Jayden Daniels' Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
+    * [Shohei Ohtani set to play for Dodgers in Game 3 of World Series following shoulder injury](https://apnews.com/article/world-series-ohtani-dodgers-yankees-e9ad1f46a4a6f12b9aeb99c1dee08db6)
+    * [Slumping star Aaron Judge and Yankees hope to break out when World Series shifts to NY for Game 3](https://apnews.com/article/world-series-yankees-dodgers-judge-7eaf9190ffcc2dec7951ab9a5111e1df)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Latin superstar Bad Bunny backs Harris for president after comedian's racist jokes at Trump event](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
     * ['Venom: The Last Dance' misses projections as superhero films' grip on theaters loosens](https://apnews.com/article/venom-box-office-conclave-e1a5f65c08588512e4433a485f049601)
-    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Latin superstar Bad Bunny is supporting Harris for president](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
+    * [What to stream: Tyler, the Creator, 'The Substance,' Olivia Rodrigo concert film and 'The Diplomat'](https://apnews.com/article/stream-tv-movie-music-dd1ab008c0a38556435e3add04b2974f)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
-    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Stock market today: Asian shares rise and the yen dips after Japan's ruling party loses majority](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
+    * [The leaders of India and Spain launch India's first private military aircraft plant](https://apnews.com/article/india-spain-modi-pedro-sanchez-tata-airbus-c2fa7e510dcfd5d4c4249b56e333e593)
     
 * [Science](https://apnews.com/science)
     
@@ -247,7 +247,7 @@ Menu
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [What to stream: Tyler, the Creator, 'The Substance,' Olivia Rodrigo concert film and 'The Diplomat'](https://apnews.com/article/stream-tv-movie-music-dd1ab008c0a38556435e3add04b2974f)
     * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
     * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
-    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     
 * [Religion](https://apnews.com/religion)
     
@@ -296,9 +296,9 @@ Menu
     * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
     * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
     * [Fuerzas rusas frustran intento de otra incursión transfronteriza de Ucrania](https://apnews.com/article/rusia-ucrania-kiev-guerra-kursk-belgorod-dc8bfbf0911a1dda984710a50656a930)
-    * [Uruguay decide en elecciones si devuelve el poder a la izquierda o revalida al oficialismo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
-    * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
-    * [Más de 120 muertos en ataques paramilitares en centro-este de Sudán, denuncian ONU y grupo médico](https://apnews.com/article/paramilitar-sudan-onu-combatientes-3bf3dd731cdb8c4fc7a5355b5ff4637f)
+    * [Izquierdista Orsi y oficialista Delgado reconocen que van balotaje en Uruguay con más de 50% conteo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
+    * [Quiénes disputarán balotaje presidencial en Uruguay: el izquierdista Orsi y el oficialista Delgado](https://apnews.com/article/uruguay-elecciones-balotaje-candidato-izquierdista-orsi-oficialista-delgado-49272b62a66e64577e197201b1aea9cc)
+    * [Los líderes de India y España inauguran la primera planta privada de aviones militares en India](https://apnews.com/article/india-espana-sanchez-modi-airbus-e9ea8932245f15e2c7cc96dbeff33e72)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,8 +461,8 @@ Submit Search
     TOP STORIES
     
     * [Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
-    * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
     * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
+    * [The trajectory of Ukraine's fight against Russia hangs on the outcome of the US election](https://apnews.com/article/election-ukraine-war-russia-harris-trump-b709d17bf1e81531853bd85fb8414ece)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [Harris stays quiet on student loans as cancellation loses its political luster](https://apnews.com/article/student-loans-forgiveness-election-harris-trump-686eb28c1c2e9bcf241312534c3e574a)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -508,7 +508,7 @@ Submit Search
     TOP STORIES
     
     * [Where Trump and Harris stand on key issues](https://apnews.com/article/trump-harris-issue-positions-worlds-apart-3f80a342c790da64e3de92a4f5760991)
-    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Trump's Madison Square Garden event features crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
     * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
     
     Newsletters
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
-    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
-    * [Harris tries out new ways of reaching voters, but she's running out of time](https://apnews.com/article/kamala-harris-democrats-election-2024-b735c4332d22ef46b2bc44a5e443507f)
+    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
+    * [In their own words: What it's like in a 'chaos' Congress and why these lawmakers keep coming back](https://apnews.com/article/congress-house-chaos-elections-democrats-republicans-divide-50e562326d5c1d8a43cc86381d5705f5)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Jayden Daniels' buzzer-beating Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
-    * [Winston throws 3 TD passes as Browns stun Jackson, Ravens 29-24 to end 5-game losing streak](https://apnews.com/article/browns-ravens-325f249c6528f9f451873f34e4dfad8f)
-    * [Mahomes passes for 262 yards and 2 TDs, Chiefs beat Raiders 27-20 to improve to 7-0](https://apnews.com/article/chiefs-raiders-score-ed7fd1cce1609b9e0ea4396f303269e2)
+    * [Jayden Daniels' Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
+    * [Shohei Ohtani set to play for Dodgers in Game 3 of World Series following shoulder injury](https://apnews.com/article/world-series-ohtani-dodgers-yankees-e9ad1f46a4a6f12b9aeb99c1dee08db6)
+    * [Slumping star Aaron Judge and Yankees hope to break out when World Series shifts to NY for Game 3](https://apnews.com/article/world-series-yankees-dodgers-judge-7eaf9190ffcc2dec7951ab9a5111e1df)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Latin superstar Bad Bunny backs Harris for president after comedian's racist jokes at Trump event](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
     * ['Venom: The Last Dance' misses projections as superhero films' grip on theaters loosens](https://apnews.com/article/venom-box-office-conclave-e1a5f65c08588512e4433a485f049601)
-    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Latin superstar Bad Bunny is supporting Harris for president](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
+    * [What to stream: Tyler, the Creator, 'The Substance,' Olivia Rodrigo concert film and 'The Diplomat'](https://apnews.com/article/stream-tv-movie-music-dd1ab008c0a38556435e3add04b2974f)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
-    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Stock market today: Asian shares rise and the yen dips after Japan's ruling party loses majority](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
+    * [The leaders of India and Spain launch India's first private military aircraft plant](https://apnews.com/article/india-spain-modi-pedro-sanchez-tata-airbus-c2fa7e510dcfd5d4c4249b56e333e593)
     
 * [Science](https://apnews.com/science)
     
@@ -744,7 +744,7 @@ Submit Search
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -777,9 +777,9 @@ Submit Search
     
     TOP STORIES
     
+    * [What to stream: Tyler, the Creator, 'The Substance,' Olivia Rodrigo concert film and 'The Diplomat'](https://apnews.com/article/stream-tv-movie-music-dd1ab008c0a38556435e3add04b2974f)
     * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
     * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
-    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     
 * [Religion](https://apnews.com/religion)
     
@@ -804,9 +804,9 @@ Submit Search
     * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
     * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
     * [Fuerzas rusas frustran intento de otra incursión transfronteriza de Ucrania](https://apnews.com/article/rusia-ucrania-kiev-guerra-kursk-belgorod-dc8bfbf0911a1dda984710a50656a930)
-    * [Uruguay decide en elecciones si devuelve el poder a la izquierda o revalida al oficialismo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
-    * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
-    * [Más de 120 muertos en ataques paramilitares en centro-este de Sudán, denuncian ONU y grupo médico](https://apnews.com/article/paramilitar-sudan-onu-combatientes-3bf3dd731cdb8c4fc7a5355b5ff4637f)
+    * [Izquierdista Orsi y oficialista Delgado reconocen que van balotaje en Uruguay con más de 50% conteo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
+    * [Quiénes disputarán balotaje presidencial en Uruguay: el izquierdista Orsi y el oficialista Delgado](https://apnews.com/article/uruguay-elecciones-balotaje-candidato-izquierdista-orsi-oficialista-delgado-49272b62a66e64577e197201b1aea9cc)
+    * [Los líderes de India y España inauguran la primera planta privada de aviones militares en India](https://apnews.com/article/india-espana-sanchez-modi-airbus-e9ea8932245f15e2c7cc96dbeff33e72)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
