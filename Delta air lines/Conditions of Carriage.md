@@ -3,7 +3,7 @@ Contract of Carriage: International
 
 * * *
 
-Last Update: June 25, 2024.  [**Plain language version PDF**](https://www.delta.com/content/dam/delta-www/pdfs/dl-igr-master-25-jun-24.pdf)
+Last Update: October 28, 2024.  [**Plain language version PDF**](https://www.delta.com/content/dam/delta-www/pdfs/dl-igr-master-28oct24.pdf)
 
 |     |     |     |
 | --- | --- | --- |Contract Of Carriage: International
@@ -18,8 +18,9 @@ Last Update: June 25, 2024.  [**Plain language version PDF**](https://www.delt
 | [Rule 8 Acceptance of Children, Go to footer note](#accept) | [Rule 17 Baggage, Go to footer note](#bag) | [Rule 26 Governing Law Entire Agreement, Go to footer note](#glea) |
 | [Rule 9 Specially Trained Service Dogs, Go to footer note](#dogs) | [Rule 18 Liability of carriers; Codeshare Rules, Go to footer note](#liability) | [Rule 27 Geographic Provisions, Go to footer note](#geo) |
 
-**RULE 1**: **General Provisions  
-****A.  Contract of Carriage  
+**RULE 1**: **General Provisions**
+
+**A.  Contract of Carriage  
 **When you buy a ticket for travel on Delta, you enter into a contract with us, and you agree to be bound by its terms. The terms of your contract (the “Contract of Carriage”) are set forth in:
 
 * Your ticket;
@@ -42,7 +43,7 @@ Some provisions of these Conditions of Carriage apply only to residents or passe
 **  
 RULE 2:  SCHEDULES AND OPERATIONS  
   
-**Delta will exercise reasonable efforts to transport you and your baggage from your origin to your destination with reasonable dispatch, but published schedules, flight times, aircraft types, seat assignments, and similar details reflected in the ticket or Delta’s published schedules are not guaranteed and form no part of the Contract of Carriage. Delta may substitute alternate Carriers or aircraft, change its schedules, delay or cancel flights, change seat assignments, and alter or omit stopping places shown on the ticket as required by its operations in Delta’s sole discretion. Delta’s sole liability in the event of such changes is set forth in Rule 23.  Delta is not responsible or liable for making connections, failing to operate any flight according to schedule, changing the schedule or any flight, changing seat assignments or aircraft types, or revising the routings by which Delta carries the passenger from the ticketed origin to destination.  
+**Delta will exercise reasonable efforts to transport you and your baggage from your origin to your destination with reasonable dispatch, but published schedules, flight times, aircraft types, seat assignments, and similar details reflected in the ticket or Delta’s published schedules are not guaranteed and form no part of the Contract of Carriage.    Delta may substitute alternate Carriers or aircraft, change its schedules, delay or cancel flights, change seat assignments, and alter or omit stopping places shown on the ticket as required by its operations in Delta’s sole discretion. Delta’s sole liability in the event of such changes is set forth in Rule 23.  Delta is not responsible or liable for making connections, failing to operate any flight according to schedule, changing the schedule for any flight, changing seat assignments or aircraft types, or revising the routings by which Delta carries the passenger from the ticketed origin to destination.  
 **  
 RULE 3: DEFINITIONS  
   
@@ -153,7 +154,7 @@ Delta will not require a medical clearance for a Person with a Disability as a c
 
 E) Seating Restrictions and Assignments
 
-When a person identifies the nature of his or her disability, Delta will, to the extent possible, accommodate the passenger with a seat assignment that suits the passenger’s needs, including seating the passenger together with any Safety Assistant or Personal Attendant traveling with the passenger. Persons with a Disability will not be prohibited from occupying seats in designated emergency exit rows, except to the extent required by law.
+When a person with a disability needs a specific seat in order to accommodate their disability, Delta will, to the extent possible,  accommodate the passenger with a seat assignment that suits the passenger’s needs, including seating the passenger together with any Safety Assistant or Personal Attendant traveling with the passenger.  Persons with a Disability will not be prohibited from occupying seats in designated emergency exit rows, except to the extent required by law.  
 
 F) Acceptance of Aids
 
@@ -216,11 +217,11 @@ Where a Person with a Disability requests assistance in boarding or seating or i
 
 L) Communication and Confirmation of Information
 
-Delta will use reasonable efforts to ensure that announcements to passengers concerning stops, delays, schedule changes, connections, on-board services, and claiming baggage are communicated to any person with a disability in a manner sufficient for the person to understand the communication.
+Delta will use reasonable efforts to ensure that announcements to passengers concerning stops, delays, schedule changes, connections, on-board services, and claiming baggage are communicated to any Person with a Disability in a manner sufficient for the person to understand the communication.
 
 M) Inquire Periodically
 
-When passengers in wheelchairs that are not independently mobile are waiting to board an aircraft, Delta will inquire periodically about their needs and shall attend to those needs where the services required are usually provided by Delta.
+When passengers in wheelchairs that are not independently mobile are waiting to board an aircraft,  Delta will inquire periodically about their needs and shall attend to those needs where the services required are usually provided by Delta.
 
 **RULE 7: REFUSAL TO TRANSPORT**
 
@@ -331,7 +332,7 @@ Delta accepts for transportation, without charge, dogs trained: (1) to lead the 
 
 **RULE 11: PASSENGER MEDICAL OXYGEN  
 **  
-On flights operated by Delta or a Delta Connection carrier, only portable oxygen concentrators (POCs) approved by the FAA are accepted for inflight medical oxygen. A 48-hour notice is required. Please see  [Assistive Devices & Medication | Delta Air Lines](https://www.delta.com/us/en/accessible-travel-services/assistive-devices-medication) to obtain information regarding the required medical certificate from a licensed physician and medical screening prior to flight. Medical screening service is provided by Delta at no cost to the passenger. If the passenger makes any voluntary change to his/her itinerary after completion of the medical screening, re-screening may be required. Passengers using POCs on a Delta flight must be seated in a row other than an emergency exit or bulkhead.
+On flights operated by Delta or a Delta Connection carrier, only portable oxygen concentrators (POCs) approved by the FAA are accepted for inflight medical oxygen. A 48-hour notice is required. Please see [Assistive Devices & Medication | Delta Air Lines](https://www.delta.com/us/en/accessible-travel-services/assistive-devices-medication) to obtain information regarding the required medical certificate from a licensed physician and medical screening prior to flight. Medical screening service is provided by Delta at no cost to the passenger. If the passenger makes any voluntary change to his/her itinerary after completion of the medical screening, re-screening may be required. Passengers using POCs on a Delta flight must be seated in a row other than an emergency exit or bulkhead.
 
 **RULE 12: TICKETS**
 
@@ -401,7 +402,7 @@ Delta may cancel your reservation if the reservation does not include the requir
 
 C)   Failure To Appear
 
-If you fail to appear for any flight in your itinerary without giving Delta notice in advance of the departure of the flight, Delta may cancel your reservation for all remaining flights in your itinerary.
+If you fail to appear for any flight in your itinerary without giving Delta notice in advance of the departure of the flight, Delta may cancel your reservation for all remaining flights in your itinerary.  In the case of a nonrefundable ticket, except where required by law, there will be no remaining value to your ticket.
 
 D)   Airport Check-In Time Limits
 
@@ -480,13 +481,15 @@ Unless your ticket expressly includes meals, ground transportation, or other tra
   
 A.  Checked and Carry-On Baggage Policies and Restrictions  
   
-**Ticketed passengers may check baggage and carry baggage on board Delta aircraft, subject to this Rule. Delta’s baggage policies and baggage fees are available at www.delta.com/bags and are incorporated by reference as if set forth in the Contract of Carriage. These policies restrict the quantity, size, number and weight of baggage (both checked and unchecked), describe any applicable baggage embargoes, and govern the carriage of hazardous and dangerous goods and special items (such as sporting equipment, medical equipment and mobility aids, musical instruments, and fragile and perishable items).
+**Ticketed passengers may check baggage and carry baggage on board Delta aircraft, subject to this Rule.  Delta’s baggage policies and baggage fees are available at www.delta.com/bags and are incorporated by reference as if set forth in the Contract of Carriage.  These policies restrict the quantity, size, number and weight of baggage (both checked and unchecked), describe any applicable baggage embargoes, and govern the carriage of hazardous and dangerous goods and special items (such as sporting equipment, medical equipment and mobility aids, musical instruments, and fragile and perishable items).
 
 **B.  Baggage Liability**
 
 **1\. General Limitation of Liability for Loss of, Damage to, or Delay in Delivery of Baggage**
 
-Delta’s liability for loss, damage, or delay in the delivery of a passenger's checked baggage, carry-on baggage, or other personal property tendered to Delta in connection with air transportation on Delta shall be limited to proven damage or loss and shall be governed by [Rule 18, Go to footer note](#rule18) of these Conditions of Carriage (Liability of Carriers).
+a) Delta’s liability for loss, damage, or delay in the delivery of a passenger's checked baggage, carry-on baggage, or other personal property tendered to Delta in connection with air transportation on Delta shall be limited to proven damage or loss and shall be governed by Rule 18 of these Conditions of Carriage (Liability of Carriers).
+
+b) If checked baggage is not delivered within 15 hours of last flight segment’s arrival for international itineraries with a non-stop flight segment between the United States and a foreign point that is 12 hours or less in duration, and within 30 hours of the last flight segment’s arrival for international itineraries with a non-stop flight segment between the United States and a foreign point that is more than 12 hours in duration, consistent with the requirement of 14 CFR 260.5 (in each instance, except in the circumstances identified in 14 CFR 260.5(f) and (g)), Delta (to the extent Delta is the merchant of record for the baggage fee) will issue a refund for the checked baggage fee paid to transport the bag.
 
 **2\. Preexisting Damage/ Ordinary Wear and Tear**
 
@@ -559,7 +562,7 @@ e) The Carrier reserves all defenses and limitations available under the Warsaw 
 
 C) LIMITATION OF LIABILITY\- Except as the applicable Convention or other Applicable Law may otherwise require:
 
-1) Carrier is not liable for any death, injury, delay, loss, or other damage of whatsoever nature (hereinafter in these Conditions of Carriage collectively referred to as "damage") to passengers or unchecked baggage arising out of or in connection with carriage or other services performed by Carrier incidental thereto, unless such damage is caused by the negligence of  Carrier.  Assistance rendered to the passenger by Carrier's employees in loading, unloading, or transshipping baggage shall be considered as gratuitous service to the passenger. Carrier is not liable for damage to such unchecked baggage incurred during, or as a result of such service, irrespective of the negligence of Carrier's employees.  
+1) Carrier is not liable for any death, injury, delay, loss, or other damage of whatsoever nature (hereinafter in these Conditions of Carriage collectively referred to as "damage") to passengers or unchecked baggage arising out of or in connection with carriage or other services performed by Carrier incidental thereto, unless such damage is caused by the negligence of Carrier.  Assistance rendered to the passenger by Carrier's employees in loading, unloading, or transshipping baggage shall be considered as gratuitous service to the passenger.  Carrier is not liable for damage to such unchecked baggage incurred during, or as a result of such service, irrespective of the negligence of Carrier's employees.  
 2) Carrier is not liable for any damage directly and solely arising out of its compliance with any laws, government regulations, orders, or requirements or from failure of passenger to comply with same, or out of any cause beyond Carrier's control.  
 3) Carrier is not liable for damage to a passenger's baggage caused by property contained in the passenger's baggage. Any passenger whose property caused damage to another passenger's baggage or to the property of Carrier shall indemnify Carrier for all losses and expenses incurred by Carrier as a result thereof.  
 4) Delta assumes no liability for preexisting damage, including minor cuts, scratches, and broken zippers as a result of over packing, or for wear and tear resulting from ordinary handling of baggage.  
@@ -626,7 +629,7 @@ In the event of extended tarmac delays on flights operated by a Delta Codeshare 
 
 **6\. Additional Services Provided by Delta Codeshare Partners**
 
-Delta Codeshare Partners may, in their discretion, accept more, larger or heavier items of checked baggage, accept specialty baggage items, accept additional carry-on items, accept unaccompanied minors, accept animals in the cabin or as cargo, and permit later check-in times. The Delta Codeshare Partner may charge a fee for any additional discretionary services it provides.  Any additional services provided at the discretion of the Delta Codeshare Partner are not within Delta’s control, are subject to change at any time, and do not form any part of the Contract of Carriage between you and Delta.
+Delta Codeshare Partners may, in their discretion, accept more, larger or heavier items of checked baggage, accept specialty baggage items, accept additional carry-on items, accept unaccompanied minors, accept animals in the cabin or as cargo, and permit later check-in times.  The Delta Codeshare Partner may charge a fee for any additional discretionary services it provides.  Any additional services provided at the discretion of the Delta Codeshare Partner are not within Delta’s control, are subject to change at any time, and do not form any part of the Contract of Carriage between you and Delta.
 
 **RULE 19: ELECTRONIC SURVEILLANCE**
 
@@ -636,7 +639,7 @@ Passengers and their baggage are subject to inspection with an electronic detect
 
 **A. Delta’s Liability in the Event of Schedule Changes, Delays and Flight Cancellations**
 
-If there is a flight cancellation, diversion, or delay of greater than 120 minutes or that will cause a passenger to miss connections, Delta will (at passenger’s request) cancel the remaining ticket and refund the unused portion of the ticket and unused ancillary fees in the original form of payment in accordance with Rule 23.  If the passenger does not request cancellation and refund of the remaining portion of the ticket, Delta will transport the passenger to the destination on Delta’s next flight on which seats are available in the class of service originally purchased. At Delta’s sole discretion and if acceptable to the passenger, Delta may arrange for the passenger to travel on another Carrier or via ground transportation. If acceptable to the passenger, Delta may provide transportation in a lower class of service, in which case the passenger may be entitled to a partial refund. If space on the next available flight is available only in a higher class of service than purchased, Delta will transport the passenger on the flight, although Delta reserves the right to upgrade other passengers on the flight according to its upgrade priority policy to make space in the class of service originally purchased. Delta will not be liable under any circumstances for any special, incidental or consequential damages arising from the foregoing.
+If there is a flight cancellation, change in departure time to depart 360 minutes or more before the original scheduled departure time, change in arrival time to arrive 360 minutes or more after the original scheduled arrival time, change that will cause a passenger to miss connections, or in the event of a significantly delayed or changed flight pursuant to applicable law, Delta will, (i) at passenger’s request, (ii)  if Delta does not offer an alternative flight or voucher option, or (iii) if the passenger does not respond to the offer on an alternative flight or voucher option prior to the original scheduled departure time: cancel the remaining ticket and refund the unused portion of the ticket and unused ancillary fees (and including any paid checked bag fees) in the original form of payment in accordance with Rule 23. If the passenger does not request cancellation and refund of the remaining portion of the ticket, Delta will transport the passenger to the destination on Delta’s next flight on which seats are available in the class of service originally purchased. At Delta’s sole discretion and if acceptable to the passenger, Delta may arrange for the passenger to travel on another Carrier or via ground transportation. If acceptable to the passenger, Delta may provide transportation in a lower class of service, in which case the passenger may be entitled to a partial refund. If space on the next available flight is available only in a higher class of service than purchased, Delta will transport the passenger on the flight, although Delta reserves the right to upgrade other passengers on the flight according to its upgrade priority policy to make space in the class of service originally purchased.  Delta will not be liable under any circumstances for any special, incidental or consequential damages arising from the foregoing.
 
 **B. Delta’s Liability for Additional Amenities in the Event of Schedule Changes, Delays and Flight Cancellations**
 
@@ -672,7 +675,11 @@ Orlando, FL (MCO)/ Tampa, FL (TPA)/ Daytona Beach, FL (DAB)/ Melbourne, FL (MLB)
 
 (c) Additional Amenities
 
-Delta will provide such additional or alternative amenities as are necessary to maintain the safety and/or welfare of customers with special needs such as unaccompanied children and Persons with a Disability. Such amenities will be furnished consistent with special needs and/or circumstances.
+Delta will provide such additional or alternative amenities as are necessary to maintain the safety and/or welfare of customers with special needs such as unaccompanied children and Persons with a Disability.  Such amenities will be furnished consistent with special needs and/or circumstances.
+
+C. Extended Tarmac Delays – Codeshare Services
+
+In the event of extended tarmac delays on flights operated by a Delta codeshare partner, the contingency plan for lengthy tarmac delays of the operating Carrier will apply.
 
 **RULE 21: DENIED BOARDING COMPENSATION  
   
@@ -803,7 +810,7 @@ When the amount described in a) above is less than the amount described in b) ab
 
 For nonrefundable fares:  
 \- If the value of the new ticket is lower than the ticket being reissued, the difference in ticket price, less the change fee, will be provided to the passenger in the form of a non-refundable Delta travel voucher at the time of reissue.  
-\- If the value of the new ticket is equal to or higher than the ticket being reissued, the change fee and any difference in fare will be collected at the time of reissue.
+\- If the value of the new ticket is equal to or higher than the ticket being reissued,  the change fee and any difference in fare will be collected at the time of reissue.  
 
 For refundable fares:  
 \- If the value of the new ticket is lower than the ticket being reissued, any difference In fare will be refunded to the original form of payment at the time of reissue.  
@@ -812,37 +819,19 @@ For refundable fares:
 \-Flights must be rebooked and the ticket reissued at the time of the change.
 
 1\. Unused tickets  
-a. When making changes to the outbound portion of an unused ticket, Delta will cancel the itinerary and start over, issuing a new ticket using current fares subject to all applicable fare rules. If the unused fare is nonrefundable, the value of the original ticket, less the change fee, may be applied toward the purchase of the new ticket. If the unused fare is refundable, the value of the original ticket may be applied toward the purchase of a new ticket.  
-b. When making changes to the continuing/return portion of unused tickets, Delta will apply one of the following procedures resulting in the lowest fare:  
-i. Attempt to keep the fares as ticketed, using historical fares in effect on the date of the original ticket issue date and maintaining the original fares and origin/destination for all fare components. Delta will validate all fare rules at the time of reissue.  
-\-OR-  
-ii. Reprice the itinerary using historical fares in effect on the date of the original ticket issue date, validating all fare rules and booking code provisions at the time of reissue with no changes to the first fare component.  
-\-OR-  
-iii. Cancel the itinerary and start over, issuing a new ticket using current fares with all fare rules validated. If the unused fare is nonrefundable, the value of the original ticket less the change fee may be applied toward the purchase of a new ticket. For refundable fares, the value of the original ticket may be applied toward the purchase of a new ticket.
+ When making changes to an unused ticket, Delta will cancel the itinerary and start over, issuing a new ticket using current fares subject to all applicable fare rules.  If the unused fare is nonrefundable, the value of the original ticket, less the change fee, may be applied toward the purchase of the new ticket.  If the unused fare is refundable, the value of the original ticket may be applied toward the purchase of a new ticket.  
 
 2\. Partially Used Tickets  
-a. When making changes to partially used tickets, Delta will apply one of the following procedures resulting in the lowest fare:  
-i. Attempt to keep the fares as ticketed using historical fares in effect on the date of the original ticket issue date and maintaining the original fares and origin/destination for all fare components. No changes are permitted to fully flown fare components, and Delta will validate all fare rules at the time of reissue.  
+a. When making changes to partially used tickets, Delta will apply one of the following procedures resulting in the lowest fare :  
+        i. Reprice the itinerary, attempting to keep fares of the fully flown fare components and replacing the unflown fare components using current fares. No changes are permitted to the fare break points of the fully flown fare components. Delta will validate all fare rules at the time of reissue. The new ticket may be a lower or equal or higher price than the previous ticket.  
 \-OR-  
-ii. Reprice the itinerary using historical fares in effect on the date of the original ticket issue date, validating all fare rules and booking code provisions at the time of reissue with no changes to fully flown fare components. The new ticket may be a lower or equal or higher value than the previous ticket  
-\-OR-  
-iii. Reprice the itinerary, replacing the fares of the flown fare components with historical fares in an equal or the next available higher booking class. The value of the replacement fare component for the flown fare may be lower than, equal to, or higher than the value of the original ticketed fare component. Replace the unflown fare components using historical fares using lower, equal or the next available higher booking class. The unflown fare component may be in a lower, equal or next available higher booking class and/or value. No changes are permitted to the fare break points of the fully flown fare components and the historical fares are those in effect on the date of the original ticket issue date. Delta will validate all fare rules at the time of reissue. The new ticket may be a lower or equal or higher value than the previous ticket. The Carrier will use the following booking class hierarchy (displayed from highest to lowest) when replacing fares for flown fare components:  
-First Class – F   
-Delta One – J C D I Z  
-Delta Premium Select - P A G  
-Delta Comfort+ –W S  
-Main Cabin – Y B M H Q K L U T X V  
-Basic Economy - E  
-  
- -OR-
-
-iv. Issue a new ticket using current fares and validating all fare rules at the time of reissue. If the original fare is nonrefundable, the Carrier will apply the remaining value for the unflown segments of the partially used ticket, if any, less the change fee, toward the purchase of a new ticket. For refundable fares, Delta will apply the remaining value from the partially used ticket, if any, toward the purchase of a new ticket.
+         ii. Issue a new ticket using current fares and validating all fare rules at the time of reissue.  If the original fare is nonrefundable, the Carrier will apply the remaining value for the unflown segments of the partially used ticket, if any, less the change fee, toward the purchase of a new ticket.  For refundable fares, Delta will apply the remaining value from the partially used ticket, if any, toward the purchase of a new ticket.  
 
 **RULE 23: REFUNDS**
 
 **A. Involuntary Refunds**
 
-If a refund is required because of Delta's failure to operate on schedule or refusal to transport (except as a result of passenger’s failure to comply with the Contract of Carriage), the following refund will be made directly to you:
+If a refund is required due to a flight cancellation or significantly delayed or changed flight pursuant to Rule 19(A) or refusal to transport pursuant to Rule 7 (except as a result of passenger’s failure to comply with the Contract of Carriage), the following refund will be made directly to you:
 
 1) If no portion of the ticket has been used, the refund will be an amount equal to the fare paid.
 
@@ -856,7 +845,7 @@ b) Within A Fare Component - The refund will be an amount equal to the percentag
 
  **1. Nonrefundable Tickets**
 
-Most tickets issued by Delta are nonrefundable.  Delta will not refund any portion of a fare, fee or surcharge that is nonrefundable.  Delta will refund taxes, fees or charges collected upon nonrefundable tickets for international carriage only where required by law or where such taxes were collected in error and the passenger submits evidence of exemption from the tax, fee or charge to Delta in connection with a timely refund request.  No request for a refund of taxes, fees, or charges will be processed unless a request for the refund is received by Delta on the written or electronic forms provided by Delta within one year of the date of ticket issuance. A refund of taxes, fees, or charges will cancel any remaining credit or value on the applicable ticket.  If you cancel or change your nonrefundable ticket prior to departure, subject to the applicable fare rules and other provisions of the Contract of Carriage, the value of the unused portion of a nonrefundable ticket (including taxes and government-imposed fees or charges), less applicable charges by Delta, may be applied toward the purchase of future travel on Delta, or to upgrade or downgrade those tickets after purchase.. Delta may charge an administrative service charge for processing any permitted changes to nonrefundable tickets, which will be deducted from any credit toward the purchase of future travel on Delta, or collected at the time the change is processed, as applicable.
+Most tickets issued by Delta are nonrefundable.  Except where required by law or expressly set forth in the Contract of Carriage, Delta will not refund any portion of a fare, fee or surcharge that is nonrefundable.  Delta will refund taxes, fees or charges collected upon nonrefundable tickets for international carriage only where required by law or where such taxes were collected in error and the passenger submits evidence of exemption from the tax, fee or charge to Delta in connection with a timely refund request.  No request for a refund of taxes, fees, or charges will be processed unless a request for the refund is received by Delta on the written or electronic forms provided by Delta within one year of the date of ticket issuance. A refund of taxes, fees, or charges will cancel any remaining credit or value on the applicable ticket.  If you cancel or change your nonrefundable ticket prior to departure, subject to the applicable fare rules and other provisions of the Contract of Carriage, the value of the unused portion of a nonrefundable ticket (including taxes and government-imposed fees or charges), less applicable charges by Delta, may be applied toward the purchase of future travel on Delta, or to upgrade or downgrade those tickets after purchase.. Delta may charge an administrative service charge for processing any permitted changes to nonrefundable tickets, which will be deducted from any credit toward the purchase of future travel on Delta, or collected at the time the change is processed, as applicable.
 
 By cancelling or changing your nonrefundable ticket prior to departure, (i) you authorize and consent to Delta receiving any available credit or refund of taxes and government-imposed fees or charges collected by Delta on the unused portion of the ticket, and (ii) Delta may charge a  fee, which will be deducted from any value available toward the purchase of future travel on Delta, or collected at the time the change is processed, as applicable. Any value from a nonrefundable ticket available for the purchase of future travel must be used and all travel completed within one year from the date of issue of the original ticket.
 
@@ -884,13 +873,13 @@ Delta will issue refunds on eligible tickets as follows:
 
 1\. Tickets paid for by credit card will be refunded to the credit card account used to purchase the ticket, typically within seven business days of Delta's initial receipt of refund request.
 
-2\. Tickets paid for by cash, if cash is accepted by Delta, will be refunded by check issued to the person named as a passenger on the ticket, typically within 20 business days of Delta's receipt of initial refund request.
+2\. Tickets paid for by cash, if cash is accepted by Delta, will be refunded by check issued to the person named as a passenger on the ticket, typically within 20 days of Delta's receipt of initial refund request.
 
-3\. Tickets charged under a UATP (universal air travel plan) will be refunded to the subscriber against whose account the ticket was charged.
+3\. Tickets charged under a UATP (universal air travel plan) will be refunded to the subscriber against whose account the ticket was charged, typically within 20 days of Delta's receipt of initial refund request.
 
-4\. Tickets issued against governmental transportation requests shall be issued as required by applicable government regulation.
+4\. Tickets issued against governmental transportation requests shall be issued as required by applicable government regulation, typically within 20 days of Delta's receipt of initial refund request.
 
-5\. Tickets paid with any other form of payment will be issued back to the original form of payment.
+5\. Tickets paid with any other form of payment will be issued back to the original form of payment, typically within 20 days of Delta's receipt of initial refund request.
 
 6\. All refunds will be subject to government laws, rules, regulations, or orders of the country in which the ticket was originally purchased and of the country in which the refund is being made.
 
@@ -910,7 +899,7 @@ Delta will not issue a refund on any ticket which has been presented to governme
 **  
 Except as otherwise provided, all fares and charges are stated in dollars and cents of the lawful currency of the United States. Except as set forth in the Contract of Carriage, a passenger is liable for the entire ticket price and fees for an issued ticket, notwithstanding any dispute, chargeback or declined form of payment. Delta reserves the right to collect all such amounts at any time, including after transportation has been provided.
 
-**RULE 25: LIMITATION OF LIABILITY  
+**RULE 25: LIMITATION OF LIABILITY  
 **  
 INTERNATIONAL TRAVEL ON DELTA IS SUBJECT TO THE RULES RELATING TO LIMITATIONS OF LIABILITY AND ALL OTHER PROVISIONS OF THE WARSAW CONVENTION AND MONTREAL CONVENTION, AS AMENDED. FOR INFORMATION ON DELTA'S LIABILITY UNDER THE WARSAW CONVENTION AND MONTREAL CONVENTION, SEE [RULE 18, Go to footer note](#rule18) OF THESE CONDITIONS OF CARRIAGE.
 
