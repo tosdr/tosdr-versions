@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-550a238de4e2ea907cf7096033891cb0
+b3b467ca7812f7457bd0761a6de9b117
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![15 mm by 10 mm German glass ovals](https://www.sojourner.biz/images/cache/glass/GL0318.200.jpg)](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-german-glass-ovals.html "15 mm by 10 mm German glass ovals")
+[![Rectangular coral floral box clasp](https://www.sojourner.biz/images/cache/SKU0492front.200.jpg)](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-#### [15 mm by 10 mm German glass ovals](https://www.sojourner.biz/beads/glass/15-mm-by-10-mm-german-glass-ovals.html "15 mm by 10 mm German glass ovals")
+#### [Rectangular coral floral box clasp](https://www.sojourner.biz/clasps/glass/rectangular-coral-floral-box-clasp.html "Rectangular coral floral box clasp")
 
-$4.00
+$23.50
 
 ### Best Sellers
 
