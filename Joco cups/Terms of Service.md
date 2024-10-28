@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[The LUX Glass.. A vessel just right for the perfec ![The LUX Glass.. A vessel just right for the perfect pour. Designed with the intimate knowledge of skilled baristas and pressed borosilicate glass, the striking architecture of the Lux glass delivers sensory enlightenment to your daily ritual #6pack #borosilicate #glass #art](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBqC9M0SY95/) 
+
 [Providing Solutions since 2008 #plasticfree #activ ![Providing Solutions since 2008 #plasticfree #activeflask #desertsage](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBfQLn_y0Ve/) 
 
 [Never leave home without us #dog #flask #insulated ![Never leave home without us #dog #flask #insulated #adventure](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBKkQARSABc/) 
@@ -251,8 +253,6 @@ Join us and share the message of reuse
 [DESERT SAGE - Jocos first ever insulated vessel. P ![DESERT SAGE - Jocos first ever insulated vessel. Providing optimal drinking during any occasion, keeping your beverage at the temperature you like them, all wrapped up in the proven Joco DNA #coffee #tea #icelongblack #hotchocolate #cappuccino](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA2StWYyOxB/) 
 
 [Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAkX5rMynWo/) 
-
-[Take your Zen wherever you go.. its simple, make t ![Take your Zen wherever you go.. its simple, make the change today #yoga #life #luxuries #17ozactiveflask #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAUd_B7yP4G/) 
 
 Keep informed on new releases and subscriber exclusives
 
