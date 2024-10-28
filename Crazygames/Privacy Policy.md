@@ -113,7 +113,7 @@ English
 * [ไทย](https://th.crazygames.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7)
 * [한국어](https://www.crazygames.co.kr/%EC%9D%80%EB%91%94)
 
-[About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Advertising](https://advertising.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
+[About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
 [](https://www.tiktok.com/@crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
 
@@ -275,7 +275,7 @@ Yes. We may share your personal data with other companies. These companies help 
 
 By accepting our Privacy Policy and accepting these ID-providers in the CMP, you accept the sharing of these identifiers with these providers for advertising purposes.
 
-**Game developers**. Games on our Platform may be our own games or games offered by external game developers. CrazyGames may share specific personal data with such external game developers if that’s strictly required for the performance of our contractual obligations with the game developers. When sharing usage data with a game developer about his game, CrazyGames will always anonymize the data. In addition, if you share feedback with us about a game, we can also share this feedback with the developer of the game.
+**Game developers**. Games on our Platform may be our own games or games offered by external game developers. CrazyGames may share specific personal data with such external game developers if that’s strictly required for the performance of our contractual obligations with the game developers. We may also share any personal information required to facilitate in-game purchases, such as your email address. When sharing usage data with a game developer about his game, CrazyGames will always anonymize the data. In addition, if you share feedback with us about a game, we can also share this feedback with the developer of the game.
 
 **Payment providers**. If you make in-game purchases, the transaction is processed by an external payment provider and is subject to the external payment provider's privacy policy.
 
