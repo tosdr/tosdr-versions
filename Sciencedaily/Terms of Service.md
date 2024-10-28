@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 27, 2024**
+**October 28, 2024**
 
 * * *
 
@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Melting Arctic Ice and Global Ocean Circulation](https://www.sciencedaily.com/releases/2024/10/241027205850.htm)
 * [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
@@ -238,7 +239,6 @@ this hour
 * [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
 * [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
 * [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
-* [Grain-Sized Soft Robots for Drug Delivery](https://www.sciencedaily.com/releases/2024/10/241024131954.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Social Psychology](https://www.sciencedaily.com/news/mind_brain/social_psychology/)
+
+[Insomnia](https://www.sciencedaily.com/news/mind_brain/insomnia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
   
 
