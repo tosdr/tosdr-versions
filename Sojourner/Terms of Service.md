@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3eedd9208a6c97027d7b3737cf0b1857
+06862fd6729c169285a31246f30f79f9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![New snow clasp](https://sojourner.biz/images/cache/SKU0368front.200.jpg)](https://sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
+[![Frosted crystal colored lozenges](https://sojourner.biz/images/cache/glass/GL0131.200.jpg)](https://sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
 
-#### [New snow clasp](https://sojourner.biz/clasps/glass/new-snow-clasp.html "New snow clasp")
+#### [Frosted crystal colored lozenges](https://sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
 
-$13.00
+$15.00
 
 ### Best Sellers
 
