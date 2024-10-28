@@ -124,7 +124,7 @@ In addition to other information described in this policy, we may collect and sh
 
 [**Find Wifi Application Terms of Service**](https://www.wefi.com/wifi-terms-of-service)
 
-[**Terms of Use**](https://www.wefi.com/terms-of-use)
+[**Website Terms of Use**](https://www.wefi.com/terms-of-use)
 
 [](https://www.facebook.com/weficonnect)[](https://www.linkedin.com/company/wefi)[](https://twitter.com/wefi)
 
