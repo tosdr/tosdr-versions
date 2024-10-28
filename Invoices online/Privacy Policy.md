@@ -117,61 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=211207394)  
-Firstweb Hosting & Design
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=68982823)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=12770820)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=107907001)  
+West Coast Horse Trails
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=158312275)  
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=185936140)  
+Qothiphango Mining
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=186667071)  
+Konsortium Operations (PTY) LTD
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=121992071)  
+Immediate Health (pty)ltd
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=12394004)  
+MOSELA GROUP Pty(ltd)
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=172605389)  
+NEW BEGINNINGS DESIGNS
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=39850120)  
+TIGERDSL
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=141026211)  
+FX ACCOUNTING
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=176964275)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=179700180)  
 Westside Car Audio CC
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=60438293)  
-OrgChart Hosting Pty Ltd
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=85663716)  
+AMS Ambu Medical Supplies
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=142115232)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=31522567)  
+SafeTclip
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=31159263)  
-NIMAWELL
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=140471855)  
+One2b
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=74972942)  
-Imhoff Equestrian Centre
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=158880956)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=176881987)  
-Desygn
-
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=103934350)  
-Turnkey Innovations
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=153559096)  
-MR Compressors& Industrial Supplies
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=172519341)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=62594721)  
-CHARLIEX CONSTRUCTIONS
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=182940695)  
-Creative Characters
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=bc690ee2abcc10d760f9f45c7cf991381f3b3ef99abbebb81c885a116fcccd9a&c=84769261)  
-WIP Digital Solutions
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=23a854c1a44aab907d9e2c84842a3938c5d19bad61fa32346d1baa29123a2f30&c=146101970)  
+Goju-Ryu Pretoria East
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
