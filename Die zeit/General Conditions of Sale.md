@@ -77,11 +77,11 @@ Verlagsangebote
 
 Anzeigen
 
+* [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
 * [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
 * [Tipps für Kaffeegenuss](https://www.zeit.de/angebote/zeit-magazin/kaffeegenuss/index)
 * [Coaching: Urbanes Leben mit Hund](https://www.zeit.de/angebote/hundeexpertin/index)
 * [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
-* [Ausbildung und duales Studium mit Sinn](https://www.zeit.de/campus/angebote/lvr-ausbildung-und-duales-studium-mit-sinn/index)
 * [Podcast: Future Fusion](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-arbeitszeitmodelle-teilzeit-professur)
 * [Beliebteste Arbeitgeber 2024](https://www.zeit.de/angebote/most-wanted-employer-2024/index)
 * [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
