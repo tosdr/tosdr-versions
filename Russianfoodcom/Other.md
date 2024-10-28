@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -225,7 +225,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173385#comments) | 28.10.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173385#comments) | 28.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -239,7 +239,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174663#comments) | 28.10.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174663#comments) | 28.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -452,8 +452,8 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736334.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728221.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746187.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174663) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731861.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173798) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736172.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731647.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173838) |
-| [Постный манник на воде и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [Потпаи с мясом и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [Жареные пирожки с картошкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174663) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) | [Макароны с овощным соусом](https://www.russianfood.com/recipes/recipe.php?rid=173798) | [Мясные тефтели, запечённые с бататом](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [Рыба, запечённая с помидорами черри (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173838) |
+| [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731861.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173798) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728221.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736334.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736172.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746187.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174663) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731647.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741370.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174353) |
+| [Макароны с овощным соусом](https://www.russianfood.com/recipes/recipe.php?rid=173798) | [Потпаи с мясом и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [Постный манник на воде и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [Мясные тефтели, запечённые с бататом](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [Жареные пирожки с картошкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174663) | [Рыба, запечённая с помидорами черри (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [Брокколи с цветной капустой, запечённые со сметаной и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174353) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(259)
+(94)
