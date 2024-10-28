@@ -66,8 +66,6 @@ Rechercher sur Le Parisien
     
 * [Politique](https://www.leparisien.fr/politique/)
     
-    * [Résultats législatives 2024](https://www.leparisien.fr/resultats-elections/)
-    
 * [International](https://www.leparisien.fr/international/)
     
     * [Présidentielle américaine 2024](https://www.leparisien.fr/international/etats-unis/)
@@ -91,7 +89,7 @@ Rechercher sur Le Parisien
     * [Formule 1](https://www.leparisien.fr/sports/formule-1/)
     * [Hippisme](https://www.leparisien.fr/sports/hippisme/)
     * [MMA - Arts martiaux mixtes](https://www.leparisien.fr/sports/mma/)
-    * [JO Paris 2024](https://www.leparisien.fr/jo-paris-2024/)
+    * [Vendée Globe 2024](https://www.leparisien.fr/sports/voile/)
     
 * [Économie](https://www.leparisien.fr/economie/)
     
