@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2181434067.jpg?ve=1&tl=1)
+ [![Suspected house explosion kills 2 in northern Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-van-alstyne-house-explosion-4p_00.00.14.52.jpg?ve=1&tl=1)
 
- ![Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181434067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/brock-purdy-helps-49ers-bounce-back-30-24-victory-over-cowboys)
+ ![Suspected house explosion kills 2 in northern Collin County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-van-alstyne-house-explosion-4p_00.00.14.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspected-fatal-house-explosion-levels-home-northern-collin-county)
 
-### [Brock Purdy helps the 49ers bounce back with a 30-24 victory over the Cowboys](https://www.fox4news.com/sports/brock-purdy-helps-49ers-bounce-back-30-24-victory-over-cowboys)
+### [Suspected house explosion kills 2 in northern Collin County](https://www.fox4news.com/news/suspected-fatal-house-explosion-levels-home-northern-collin-county)
 
- [![One killed in Farmers Branch motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
+ [![North Texas sees increase in early voting during first week compared to 2020](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/early-voting.jpg?ve=1&tl=1)
 
- ![One killed in Farmers Branch motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/farmers-branch-motorcycle-crash-luna-road)
+ ![North Texas sees increase in early voting during first week compared to 2020](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/early-voting.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/north-texas-sees-increase-early-voting-during-first-week-compared-2020)
 
-### [One killed in Farmers Branch motorcycle crash](https://www.fox4news.com/news/farmers-branch-motorcycle-crash-luna-road)
+### [North Texas sees increase in early voting during first week compared to 2020](https://www.fox4news.com/election/north-texas-sees-increase-early-voting-during-first-week-compared-2020)
 
- [![Family of 4, woman killed in wrong-way crash in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-fw-fatal-crash-nw-loop-8320-6a_00.00.08.40.jpg?ve=1&tl=1)
+ [![CDC issues alert about 'walking pneumonia' in kids](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/child-gets-a-checkup.jpg?ve=1&tl=1)
 
- ![Family of 4, woman killed in wrong-way crash in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-fw-fatal-crash-nw-loop-8320-6a_00.00.08.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/5-killed-wrong-way-crash-fort-worth)
+ ![CDC issues alert about 'walking pneumonia' in kids](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/child-gets-a-checkup.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cdc-alert-walking-pneumonia-kids)
 
-### [Family of 4, woman killed in wrong-way crash in Fort Worth](https://www.fox4news.com/news/5-killed-wrong-way-crash-fort-worth)
+### [CDC issues alert about 'walking pneumonia' in kids](https://www.fox4news.com/news/cdc-alert-walking-pneumonia-kids)
 
- [![Fort Worth event looks to draw attention to dangers of fentanyl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102724-fentanyl-awareness-event-pkg-aj-jb_kdfwe4e1_00.01.29.38.jpg?ve=1&tl=1)
+ [![Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/10/32/18/lichtman-prediction.png?ve=1&tl=1)
 
- ![Fort Worth event looks to draw attention to dangers of fentanyl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102724-fentanyl-awareness-event-pkg-aj-jb_kdfwe4e1_00.01.29.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/stomping-the-stigma-fort-worth)
+ ![Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/10/32/18/592/333/lichtman-prediction.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-predictor-allan-lichtman-stands-call-harris-will-win-2024-election)
 
-### [Fort Worth event looks to draw attention to dangers of fentanyl](https://www.fox4news.com/news/stomping-the-stigma-fort-worth)
+### [Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://www.fox4news.com/news/presidential-predictor-allan-lichtman-stands-call-harris-will-win-2024-election)
 
- [![Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2181420973.jpg?ve=1&tl=1)
+ [![Who's winning the race for president? Latest poll numbers as final full week kicks off](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-4.jpg?ve=1&tl=1)
 
- ![Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181420973.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nyc-rally-closing-argument)
+ ![Who's winning the race for president? Latest poll numbers as final full week kicks off](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-race-president-latest-poll-numbers)
 
-### [Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://www.fox4news.com/news/trump-nyc-rally-closing-argument)
+### [Who's winning the race for president? Latest poll numbers as final full week kicks off](https://www.fox4news.com/news/whos-winning-race-president-latest-poll-numbers)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
