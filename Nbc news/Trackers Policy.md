@@ -64,7 +64,7 @@ Last Updated: September 18, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/200 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/93?brandA=Owned_Stations&intake=Telemundo_48_El_Paso/&os=wtmb5utkcxk5ref%3Dapp%3Fref%3Dapp&ref=app "Printer Friendly, PDF & Email")
 
 Cookie Notice
 =============
