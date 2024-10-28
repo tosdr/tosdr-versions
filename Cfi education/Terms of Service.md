@@ -45,16 +45,6 @@ Menu
             * [Commercial Credit Analyst](https://corporatefinanceinstitute.com/learning-paths/#lp4)
             * [Commercial Real Estate Lender](https://corporatefinanceinstitute.com/learning-paths/#lp5)
             
-        * [Global Markets – Sales and Trading](#)
-            * [Global Markets – Sales and Trading](#)
-            
-            * [Equity Sales-Trader](https://corporatefinanceinstitute.com/learning-paths/#lp8)
-            
-        * [Buy-Side Institutions](#)
-            * [Buy-Side Institutions](#)
-            
-            * [Equity Execution Trader](https://corporatefinanceinstitute.com/learning-paths/#lp13)
-            
         * [FP&A](#)
             * [FP&A](#)
             
