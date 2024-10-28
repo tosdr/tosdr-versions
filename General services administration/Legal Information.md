@@ -85,7 +85,7 @@ close mobile menu
     Featured Topics
     ---------------
     
-    * [Schedules and GSA Advantage](https://www.gsa.gov/acquisition/purchasing-programs/gsa-schedules "Governmentwide contracts for products and services at volume discount pricing.") Governmentwide contracts for products and services at volume discount pricing.
+    * [Multiple Award Schedule](https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule?topnav=buy-through-us "Governmentwide contracts for products and services at volume discount pricing.") Governmentwide contracts for products and services at volume discount pricing.
     * [Auctions](http://www.gsaauctions.gov/?source=gsa.gov-buy-through-us "Federal assets available via auction to the general public.") Federal assets available via auction to the general public.
     
 * Sell to government
@@ -199,7 +199,7 @@ close mobile menu
     -----------------------------
     
     * [Historic preservation tools and resources](https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools?topnav=real-estate-feature "Procedures for maintaining and repairing historic buildings.") Procedures for maintaining and repairing historic buildings.
-    * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-utilization-disposal?topnav=real-estate "Dispose or acquire excess federal real property including buildings or land.") Dispose or acquire excess federal real property including buildings or land.
+    * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/overview?topnav=real-estate "Dispose or acquire excess federal real property including buildings or land.") Dispose or acquire excess federal real property including buildings or land.
     
 * Policy and regulations
     
@@ -232,7 +232,7 @@ close mobile menu
     Featured Topics
     ---------------
     
-    * [Forms](https://www.gsa.gov/reference/forms "Search for a government form.") Search for a government form.
+    * [Forms](https://www.gsa.gov/forms?topnav=policy-regulations "Search for a government form.") Search for a government form.
     * [Per diem FAQs](https://www.gsa.gov/travel/plan-a-trip/per-diem-rates/faqs?topnav=policy-and-regulations "Frequently asked questions about per diem rates and related topics.") Frequently asked questions about per diem rates and related topics.
     
 * Small business
@@ -294,7 +294,7 @@ close mobile menu
     ---------------
     
     * [Per diem rates look-up](https://www.gsa.gov/travel?topnav=travel "Allowances for lodging, meal and incidental costs while on official government travel.") Allowances for lodging, meal and incidental costs while on official government travel.
-    * [Mileage reimbursement rates](https://www.gsa.gov/plan-book/transportation-airfare-pov-etc/privately-owned-vehicle-pov-mileage-reimbursement?topnav=travel "Reimbursement rates for the use of your own vehicle while on official government travel.") Reimbursement rates for the use of your own vehicle while on official government travel.
+    * [Mileage reimbursement rates](https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates-etc/privately-owned-vehicle-pov-mileage-reimbursement?topnav=travel "Reimbursement rates for the use of your own vehicle while on official government travel.") Reimbursement rates for the use of your own vehicle while on official government travel.
     
 * Technology
     
@@ -345,7 +345,7 @@ close mobile menu
     
     * [Challenge.gov](http://challenge.gov/?source=gsa.gov-technology "Government sponsored challenges and prize competitions.") Government sponsored challenges and prize competitions.
     * [Data.gov](http://data.gov/?source=gsa.gov-technology "Access U.S. government data.") Access U.S. government data.
-    * [Multiple award schedule IT category](https://www.gsa.gov/technology/technology-purchasing-programs/mas-information-technology?topnav=technology "Information technology products, services and solutions.") Information technology products, services and solutions.
+    * [Multiple award schedule IT category](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=technology "Information technology products, services and solutions.") Information technology products, services and solutions.
     
 * About us
     
@@ -417,7 +417,7 @@ close mobile menu
     Featured Topics
     ---------------
     
-    * [Blog](https://www.gsa.gov/blog "Read the latest GSA news, updates and analysis.") Read the latest GSA news, updates and analysis.
+    * [Blog](https://www.gsa.gov/blog?topnav=about-us "Read the latest GSA news, updates and analysis.") Read the latest GSA news, updates and analysis.
     * [Careers](https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa?topnav=about-us "Learn what we have to offer.") Learn what we have to offer.
     
 
@@ -1025,7 +1025,7 @@ Last updated: May 6, 2024
     * [Budget and Performance](https://www.gsa.gov/reference/reports/budget-performance?footer=gsa)
     * [Catalogs](https://www.gsa.gov/about-us/organization/federal-acquisition-service/customer-and-stakeholder-engagement/customer-marketing-library-service?footer=gsa)
     * [Orders & Directives](https://www.gsa.gov/directives-library?footer=gsa)
-    * [Forms](https://www.gsa.gov/reference/forms?footer=gsa)
+    * [Forms](https://www.gsa.gov/forms?footer=gsa)
     
 * [Website Information](https://www.gsa.gov/website-information?footer=gsa)
     
