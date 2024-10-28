@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a professional character with glasses seated at a desk, surrounded by financial documents, charts, and a laptop displaying information related to 'Hard Inquiry vs. Soft Inquiry: What’s the Difference?' The character has a friendly, thoughtful expression, set in a cozy office environment with bookshelves, plants, and office decor. The clean, minimal shading style provides a professional yet approachable atmosphere, highlighting the concept of credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/10/Hard-Inquiry-vs.-Soft-Inquiry-Whats-the-Difference-30x30.webp)](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+October 28, 2024
+
+#### [Hard Inquiry vs. Soft Inquiry: What’s the Difference?](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
+
+Hard Inquiry vs. Soft Inquiry: What’s the Difference? Understanding credit inquiries is essential when managing your credit health. Both hard and soft inquiries appear on your credit report, yet they differ in purpose and impact. Let's explore the key differences in a hard inquiry vs. soft inquiry, including when each type occurs and how they …
+
+[Read More](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
+
 [![Cartoon-style image of a person wearing glasses, sitting at a desk with a computer displaying an auto loan application. The character looks thoughtful, with a car and floating dollar signs in the background, representing the decision-making process of getting an online auto loan.](https://creditnerds.com/wp-content/uploads/2024/10/Online-auto-loan-30x30.webp)](https://creditnerds.com/should-you-get-an-online-auto-loan/)
 
 [Uncategorized](https://creditnerds.com/category/uncategorized/)
@@ -386,18 +398,6 @@ October 1, 2024
 Home Equity Loan vs. HELOC: What’s the Difference? Owning a home gives you the opportunity to access cash through your home’s equity. Two of the most popular ways to do this are through a home equity loan or a home equity line of credit (HELOC). But how do you decide which is best for your …
 
 [Read More](https://creditnerds.com/home-equity-loan-vs-heloc-whats-the-difference/)
-
-[![Cartoon-style image of a person wearing glasses, looking surprised while holding a mortgage statement with an upward arrow symbolizing an increase. The background includes a house and a rising bar graph, with dollar signs and documents floating around, representing financial stress and confusion over rising mortgage payments.](https://creditnerds.com/wp-content/uploads/2024/09/Why-did-my-insurance-go-up-30x30.webp)](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 27, 2024
-
-#### [Why Did My Mortgage Payment Increase?](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
-
-If you've noticed your mortgage payment suddenly increase, the reason could be tied to your escrow account. Many homeowners wonder why this happens, and in most cases, it’s due to changes in property taxes, insurance premiums, or escrow shortages. Understanding how escrow works can help you navigate these changes and manage your payments more effectively. …
-
-[Read More](https://creditnerds.com/why-did-my-mortgage-payment-increase/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
