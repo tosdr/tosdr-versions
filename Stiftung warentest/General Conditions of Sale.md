@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
-* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Gut essen mit der Stiftung Warentest: Tom-Kha-Gai-Frikassee](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Tom-Kha-Gai-Frikassee-6070656-0/ "Gut essen mit der Stiftung Warentest - Tom-Kha-Gai-Frikassee")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
 
 Service Stiftung Warentest
 
