@@ -349,25 +349,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[Hoggar® Night 25 mg Doxylamin Schlaftabletten 10St.](https://www.medikamente-per-klick.de/product?artnr=04402020&simpleContentAttachmentId=14183&wochenklick)  
+[PHYSIOGEL® DMT Creme - normale bis trockene Haut 75ml](https://www.medikamente-per-klick.de/product?artnr=04359092&simpleContentAttachmentId=14183&wochenklick)  
 **Sonderangebot**  
-[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/04402020_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=04402020&simpleContentAttachmentId=14183&wochenklick)
+[![Jetzt 10% extra sparen mit Gutschein Code: gaviscon10](/images/products/medikamenteperklick/mittel/04359092_m.jpg "Jetzt 10% extra sparen mit Gutschein Code: gaviscon10")](https://www.medikamente-per-klick.de/product?artnr=04359092&simpleContentAttachmentId=14183&wochenklick)
 
-VK1:
+UVP2:
 
-10,85 €\*
+13,90 €\*
 
 Ihr Preis:
 
-5,96 €\*
+10,23 €\*
 
 Sie sparen:
 
-4,89 € \-45%
+3,67 € \-26%
 
-2024-10-28 08:00:00
+2024-11-04 12:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=04402020&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=04359092&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -663,4 +663,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=jlajwfdjtomytnozqfedjucrqjspbltv&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=pjzbrrerlmhdktsxauitmoumcfevbnxm&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
