@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-CRO-Perspectives-Jon-MacDonald.jpg?tr=w-60,h-50)
+    
+    Reconnecting with Customers More Essential in the Age of AI](https://vwo.com/blog/reconnecting-with-customers/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/B-Testing-Statistics-for-Effective-Decision-Making-1.jpg?tr=w-60,h-50)
     
     Essential A/B Testing Statistics for Effective Decision-making](https://vwo.com/blog/ab-testing-statistics/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Key-usability-testing-statistics-to-revamp-your-design.jpg?tr=w-60,h-50)
     
     25 Usability Testing Statistics and User Experience Insights to Transform Your Design](https://vwo.com/blog/usability-testing-statistics/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
-    
-    Leveraging Session Recordings: A Game-Changer for Conversion Rate Optimization](https://vwo.com/blog/session-recordings-for-conversion-rate-optimization/)
     
     Featured Blogs
     
@@ -308,6 +308,10 @@
     
     Success Stories
     
+    [![Logo Plymouth Rock](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/10/Logo-Plymouth-Rock.png)
+    
+    Plymouth Rock Increased Conversions by Redesigning the Final Checkout Flow](https://vwo.com/success-stories/plymouth-rock/)
+    
     [![Logo](https://static.wingify.com/gcp//uploads/2024/03/image004.png)
     
     Performics Lowers Cost Per Conversion, Improves RoAS 1.5X for HDFC ERGO General Insurance with VWO](https://vwo.com/success-stories/performics-hdfc-ergo/)
@@ -343,10 +347,6 @@
     [![Orah 2](https://static.wingify.com/gcp//uploads/2023/09/Orah-2-1.png)
     
     Orah Increased Demo Requests by Testing Its Homepage for New Visitors](https://vwo.com/success-stories/orah/)
-    
-    [![Screenshot 2023 07 26 At 11 14 08 Am (1)](https://static.wingify.com/gcp//uploads/2023/07/Screenshot-2023-07-26-at-11.14.08-AM-1.png)
-    
-    CodaLift LLC Drives Revenue Growth By Testing Pricing Page CTAs](https://vwo.com/success-stories/codalift-llc/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
