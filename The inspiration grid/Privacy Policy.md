@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/architecture-refuge-de-barroude-feature.jpg)
+
+[](https://theinspirationgrid.com/refuge-de-barroude-a-stunning-safe-haven/)
+
+### Refuge de Barroude: A Stunning Safe Haven
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-xi-zhang-feature-cover.jpg)
+
+[](https://theinspirationgrid.com/ethereal-illustrations-by-xi-zhang/)
+
+### Ethereal Illustrations by Xi Zhang
+
 ![](https://inspgr.id/app/uploads/2024/10/photography-christin-dim-feature.jpg)
 
 [](https://theinspirationgrid.com/the-art-of-saree-making-photos-by-christin-dim/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/bold-colorful-illustrations-by-adriana-vala/)
 
 ### Bold & Colorful Illustrations by Adriana Vala
-
-![](https://inspgr.id/app/uploads/2024/10/art-jam-bottle-cap-feature.jpg)
-
-[](https://theinspirationgrid.com/bottle-cap-portraits-by-jeffrey-a-meszaros/)
-
-### Bottle Cap Portraits by Jeffrey A. Meszaros
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-andrea-devia-nuno-feature.jpg)
-
-[](https://theinspirationgrid.com/geometry-abstraction-beautiful-illustrations-by-andrea-devia-nuno/)
-
-### Geometry & Abstraction: Beautiful Illustrations by Andrea Devia-Nuño
 
 Awesome products for creatives
 ------------------------------
