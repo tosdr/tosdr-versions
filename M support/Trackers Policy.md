@@ -866,7 +866,7 @@ PHPSESSID
 Ελλάδα  
 Ιστότοπος: [https://msupport.com.gr](https://msupport.com.gr/)  
 Email: info@msupport.com.gr  
-Αριθμός τηλεφώνου: +302102486086
+Phone number: +302102486086
 
 Η παρούσα Πολιτική Cookies συγχρονίστηκε με το [cookiedatabase.org](https://cookiedatabase.org/) στις 25/10/2021.
 
