@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
+[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
 [Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
   [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-[Female employee at Tokyo girls bar stabbed to death](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
+[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
-  [![Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430326.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.")](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
-
-[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
-
-  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+  [![Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430380.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
 Editors' Picks
 --------------
@@ -168,6 +168,14 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
+
+  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
@@ -178,15 +186,11 @@ By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "K
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Female employee at Tokyo girls bar stabbed to death](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
+[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
-  [![Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430326.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.")](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
-
-  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+  [![Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430380.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba, who is also LDP president, dissolved the Lower House only eight days after assuming office on Oct. 1")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
 
 Podcast
 -------
@@ -207,9 +211,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Wall Street and tech royalty fly to Saudi event amid Mideast war](https://www.japantimes.co.jp/business/2024/10/28/tech/wall-street-tech-saudi-war/ "Wall Street and tech royalty fly to Saudi event amid Mideast war")
+[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
-32 mins ago
+58 mins ago
 
-[Former yakuza office repurposed to become elderly care facility](https://www.japantimes.co.jp/news/2024/10/28/japan/japan-yakuza-kudokai/ "Former yakuza office repurposed to become elderly care facility")
+[Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant](https://www.japantimes.co.jp/news/2024/10/28/japan/tepco-debris-removal-trial/ "Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant")
 
 1 hours ago
 
-[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
+[China's second-generation factory owners go digital to combat challenges](https://www.japantimes.co.jp/business/2024/10/28/tech/china-generation-factory-digital/ "China's second-generation factory owners go digital to combat challenges")
+
+1 hours ago
+
+[Trump headlines New York rally after vulgar, racist remarks from allies](https://www.japantimes.co.jp/news/2024/10/28/world/politics/trump-madison-square-racist-remarks/ "Trump headlines New York rally after vulgar, racist remarks from allies")
 
 2 hours ago
 
-[Egypt proposes two-day Gaza truce in hope of full cease-fire](https://www.japantimes.co.jp/news/2024/10/28/world/politics/egypt-gaza-truce-cease-fire/ "Egypt proposes two-day Gaza truce in hope of full cease-fire")
-
-2 hours ago
-
-[South Korean Christian groups protest against same-sex couples rights](https://www.japantimes.co.jp/news/2024/10/28/asia-pacific/society/south-korean-christian-same-sex/ "South Korean Christian groups protest against same-sex couples rights")
+[Yen takes a hit and Tokyo stocks jump as dovish opposition gains seats](https://www.japantimes.co.jp/business/2024/10/28/markets/election-markets-reaction/ "Yen takes a hit and Tokyo stocks jump as dovish opposition gains seats")
 
 2 hours ago
 
