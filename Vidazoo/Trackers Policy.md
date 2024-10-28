@@ -42,7 +42,7 @@ Cookies Policy
 
 [PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
 
-Last updated 11 months ago
+Last updated 12 months ago
 
 This cookies policy ("Policy") of Vidazoo Ltd. which is part of the Perion Network Ltd group ("Vidazoo", "us", "we" or "our") is designed to provide you with important information about our data collection practices using cookies that are involved with your access to or use of the Vidazoo website at: [www.vidazoo.com](https://www.vidazoo.com/) ("Site"), or the services we provide to advertisers and publishers, including any implementation of our services on advertisers and publishers sites ("Platform" and collectively the "Services"). This Policy is further intended to explain to you what cookies are, how and why we use cookies in course of the Services, the types of cookies we use, how third parties we may partner with may use cookies, your choices regarding cookies and further information about cookies.
 
