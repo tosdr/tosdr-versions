@@ -272,6 +272,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Skill of the Week: Use Chopsticks Like Mr. Miyagi](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
 
+[![An illustration of a bald man holding a pipe, demonstrating how to siphon fuel.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-siphon-fuel/)
+
+[Skill of the Week: Siphon Fuel](https://www.artofmanliness.com/skills/outdoor-survival/how-to-siphon-fuel/)
+
 [![An illustration of a tent at the perfect campsite.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-pick-the-perfect-campsite/)
 
 [Skill of the Week: Pick the Perfect Campsite](https://www.artofmanliness.com/skills/outdoor-survival/how-to-pick-the-perfect-campsite/)
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A family with two adults and two kids enjoys hiking on a forest trail. The child in the middle wears a blue backpack, while the adult on the right carries the other child.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
 
 [7 Ways to Help Your Kids Enjoy Hiking](https://www.artofmanliness.com/skills/outdoor-survival/7-ways-to-help-your-kids-enjoy-hiking/)
-
-[![Person standing with hands on hips, facing tall pine trees in a foggy forest, contemplating survival tips.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
-
-[What to Do If You Get Lost in the Wild](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
