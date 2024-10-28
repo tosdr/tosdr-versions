@@ -202,7 +202,7 @@ A solution that simplifies claims processing, attachments, and secure messaging 
 
 [![Facebook](https://vynedental.com/wp-content/uploads/2022/05/iconfb.png)](https://www.facebook.com/VyneDental) [![Linkedin](https://vynedental.com/wp-content/uploads/2022/05/icon_linkedin.png)](https://www.linkedin.com/company/vynedental/)
 
-![AICPA Logo](https://vynedental.com/wp-content/uploads/2022/01/AICPA-Logo.png)[![EHNAC ACCREDITED HNAP EHN](https://vynedental.com/wp-content/uploads/2022/10/EHNAC_A_HNAP-EHN.png)](https://www.ehnac.org/)[![logo rpractice](https://vynedental.com/wp-content/uploads/2023/11/RPractice-Logo-300x114.png)](http://rpractice.com/)
+![AICPA Logo](https://vynedental.com/wp-content/uploads/2022/01/AICPA-Logo.png)[![logo rpractice](https://vynedental.com/wp-content/uploads/2023/11/RPractice-Logo-300x114.png)](http://rpractice.com/)
 
 ### Important Links
 
