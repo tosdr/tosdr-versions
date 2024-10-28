@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+*  [![](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
     
-    [Vivienne Jolie's Stunning Transformation](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
-    =================================================================================================================
+    [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
+    ===============================================================================================================================
     
-    Youngest child to Angelina Jolie and Brad Pitt, Vivienne Marcheline Jolie is now paving her way in the world, and she is uniquely herself.
+    Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
     
-    By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+    By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
     
-* *  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+* *  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
+        
+        Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
+        
+    *  [![](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -66,33 +78,57 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
         
-    *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [5 Sabrina Carpenter Outfits That Totally Missed The Mark](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-        
-        With how good Sabrina Carpenter is at looking glam, you'd think we're talking nonsense when we say she's had some outfit fails. Here were some we can't forget.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
-        
 
 More Stories
 ------------
 
-*  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
+*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+*  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+*  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Vivienne Jolie's Stunning Transformation](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+    
+    Youngest child to Angelina Jolie and Brad Pitt, Vivienne Marcheline Jolie is now paving her way in the world, and she is uniquely herself.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
+    
+*  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    ### [5 Sabrina Carpenter Outfits That Totally Missed The Mark](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
-    Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
+    With how good Sabrina Carpenter is at looking glam, you'd think we're talking nonsense when we say she's had some outfit fails. Here were some we can't forget.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    By Emily Hutchinson [Read More](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
 *  [![Angelina Jolie](https://www.women.com/img/gallery/angelina-jolie-is-gorgeous-without-makeup/intro-1729782059.jpg)](https://www.women.com/1696564/angelina-jolie-gorgeous-without-makeup/)
     
@@ -129,18 +165,6 @@ More Stories
     Prince Harry and Meghan Markle's relationship has endured a lot of upheaval, but has it caused strain on their relationship?
     
     By Bernadette Roe [Read More](https://www.women.com/1695431/weird-things-meghan-markle-prince-harry-relationship-cant-ignore/)
-    
-*  [![Ariana Grande posing](https://www.women.com/img/gallery/5-times-ariana-grande-got-real-about-mental-health/intro-1729621331.jpg)](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-    
-    ### [5 Times Ariana Grande Got Real About Mental Health](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
-    
-    Ariana Grande has been very candid about her own mental health over the years, and is committed to showing her fans that they're not alone.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1694639/times-ariana-grande-got-real-mental-health/)
     
 *  [![taylor swift](https://www.women.com/img/gallery/taylor-swifts-worst-outfits-from-each-of-her-eras/intro-1729628422.jpg)](https://www.women.com/1694932/taylor-swift-worst-outfits-each-her-eras/)
     
@@ -381,30 +405,6 @@ More Stories
     Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
     
     By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
-    
-*  [![Woman reading drinking tea](https://www.women.com/img/gallery/the-best-christmas-rom-com-books-of-the-2020s-so-far/intro-1728423261.jpg)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The Best Christmas Rom-Com Books Of The 2020s (So Far)](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
-    
-    All types of books can feed the mind, but there's something truly indulgent about escaping into a wintry romance novel that feeds the soul.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1683462/best-christmas-rom-com-books-2020s/)
-    
-*  [![Ivanka Trump at an event](https://www.women.com/img/gallery/trends-ivanka-trump-has-nailed-with-her-polished-style/intro-1728585306.jpg)](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Trends Ivanka Trump Has Nailed With Her Polished Style](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
-    
-    Ivanka Trump has embraced some fun, flirty styles since leaving the White House. Her post-politics outfits nail recent trends like monochromatic looks.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1685397/trends-ivanka-trump-nailed-with-polished-style/)
     
 
 Back
