@@ -133,9 +133,8 @@ Primary Navigation
         * [Procurement Center Representative directory](https://www.sba.gov/federal-contracting/counseling-help/procurement-center-representative-directory)
         * [Commercial Market Representatives](https://www.sba.gov/federal-contracting/counseling-help/commercial-market-representatives)
     * [Contracting data](https://www.sba.gov/federal-contracting/contracting-data)
-        * [FY 2023](https://www.sba.gov/federal-contracting/contracting-data/fy-2023-disaggregated-data)
-        * [FY 2022](https://www.sba.gov/federal-contracting/contracting-data/fy-2022-disaggregated-data)
-        * [FY 2021](https://www.sba.gov/federal-contracting/contracting-data/fy-2021-disaggregated-data)
+        * [Small business procurement scorecard](https://www.sba.gov/federal-contracting/contracting-data/small-business-procurement-scorecard)
+        * [Disaggregated data](https://www.sba.gov/federal-contracting/contracting-data/disaggregated-data)
     
 * Learning Platform
     
