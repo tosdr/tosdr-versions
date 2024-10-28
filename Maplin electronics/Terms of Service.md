@@ -533,8 +533,18 @@ Browse
         * [Dehumidifiers & Air Purifiers](https://www.maplin.co.uk/collections/dehumidifiers)
         * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
         
+    * Security
+        
+        * [Security](https://www.maplin.co.uk/collections/security)
+        * [Tracking Tags](https://www.maplin.co.uk/collections/tracking-tags)
+        * [Security Cameras](https://www.maplin.co.uk/collections/security-cameras)
+        * [Floodlights](https://www.maplin.co.uk/collections/floodlights)
+        * [Doorbells](https://www.maplin.co.uk/collections/doorbells)
+        * [Dummy Security](https://www.maplin.co.uk/collections/dummy-security)
+        * [Metal Detectors](https://www.maplin.co.uk/collections/metal-detectors)
+        * [Alarms](https://www.maplin.co.uk/collections/alarms)
+        
     * [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
-    * [Security](https://www.maplin.co.uk/collections/security)
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/electricals-lighting)
@@ -1318,9 +1328,17 @@ Browse
     * [Dehumidifiers & Air Purifiers](https://www.maplin.co.uk/collections/dehumidifiers)
     * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
     
-    [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
-    
     [Security](https://www.maplin.co.uk/collections/security)
+    
+    * [Tracking Tags](https://www.maplin.co.uk/collections/tracking-tags)
+    * [Security Cameras](https://www.maplin.co.uk/collections/security-cameras)
+    * [Floodlights](https://www.maplin.co.uk/collections/floodlights)
+    * [Doorbells](https://www.maplin.co.uk/collections/doorbells)
+    * [Dummy Security](https://www.maplin.co.uk/collections/dummy-security)
+    * [Metal Detectors](https://www.maplin.co.uk/collections/metal-detectors)
+    * [Alarms](https://www.maplin.co.uk/collections/alarms)
+    
+    [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
     
     [Shop by Brand](https://www.maplin.co.uk/pages/electricals-lighting)
     
