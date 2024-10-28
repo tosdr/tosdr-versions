@@ -100,9 +100,9 @@
     * [Shop](https://shop.mpp.org/)
     * [Other Ways to Help](https://www.mpp.org/support/other-ways-to-give/)
 * [Take Action](https://www.mpp.org/takeaction/)
+    * [Election Central 2024](https://www.mpp.org/takeaction/election-central/)
     * [Spread the Word](https://www.mpp.org/takeaction/#spread)
     * [Register to Vote](https://www.mpp.org/takeaction/register-to-vote/)
-    * [Election Central 2024](https://www.mpp.org/takeaction/election-central/)
     * [Register](https://www.mpp.org/takeaction/register/)
 
 *  Search
@@ -156,9 +156,9 @@ Menu
     * [Shop](https://shop.mpp.org/)
     * [Other Ways to Help](https://www.mpp.org/support/other-ways-to-give/)
 * [Take Action](https://www.mpp.org/takeaction/)
+    * [Election Central 2024](https://www.mpp.org/takeaction/election-central/)
     * [Spread the Word](https://www.mpp.org/takeaction/#spread)
     * [Register to Vote](https://www.mpp.org/takeaction/register-to-vote/)
-    * [Election Central 2024](https://www.mpp.org/takeaction/election-central/)
     * [Register](https://www.mpp.org/takeaction/register/)
 
 * 
