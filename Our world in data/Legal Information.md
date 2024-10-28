@@ -161,11 +161,12 @@ Help us do this work by making a donation.
 
 * [Latest work](https://ourworldindata.org/latest)
 * [Data Catalog](https://ourworldindata.org/data)
-
-* [Twitter](https://twitter.com/OurWorldInData)
-* [Facebook](https://www.facebook.com/OurWorldinData)
+* [X](https://x.com/ourworldindata)
 * [Instagram](https://www.instagram.com/ourworldindata/)
 * [Threads](https://www.threads.net/@ourworldindata)
+* [Facebook](https://facebook.com/ourworldindata)
+* [LinkedIn](https://www.linkedin.com/company/ourworldindata)
+* [Bluesky](https://bsky.app/profile/ourworldindata.bsky.social)
 * [GitHub](https://github.com/owid)
 * [Research & Writing RSS Feed](https://ourworldindata.org/atom.xml)
 * [Daily Data Insights RSS Feed](https://ourworldindata.org/atom-data-insights.xml)
