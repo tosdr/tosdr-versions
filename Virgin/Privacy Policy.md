@@ -23,7 +23,7 @@ Accept
 
 See Cookie Policy
 
-**Last updated on: 18 December 2023**
+**Last updated on: 28 October 2024**
 
 Virgin Red Limited Privacy Policy
 ---------------------------------
@@ -44,7 +44,7 @@ So, what's this Privacy Policy all about? Well, it applies to:  
     
 * Virgin.com
     
-* Virgin ID
+* Virgin ID, Virgin group marketing and Virgin group data sharing
     
 
 These are all different services and they come with their own rules. You can find those rules by clicking the links above. 
@@ -63,7 +63,7 @@ The way we use your personal information can depend on the service(s) you’re u
     
 * **Section 5** \- Virgin.com
     
-* **Section 6** \- Virgin ID
+* **Section 6** \- Virgin ID, Virgin group marketing and Virgin group data sharing
     
 * **Section 7** - Cookies and Social Media Targeting
     
@@ -129,13 +129,13 @@ Contents
 
 5.3 What do we need your information for?
 
-**Section 6 - Virgin ID**
+**Section 6 - Virgin ID, Virgin group marketing and Virgin group data sharing**
 
-6.1 How do we collect your personal information for Virgin ID?
+6.1 How do we collect your personal information for Virgin ID or for Virgin group marketing and Virgin group data sharing?
 
-6.2 The information we collect on Virgin ID users
+6.2 The information we collect on users that engage with different Virgin entities
 
-6.3 Why we need and how we use your information as a Virgin ID user
+6.3 Why we need and how we use your information
 
 6.4 Examples of how and why we use your personal information
 
@@ -515,23 +515,23 @@ Here's how we use your personal information: 
 * as we feel necessary to prevent fishy business or illegal activity, or to protect our interests. 
     
 
-Section 6 - Virgin ID
----------------------
+Section 6 - Virgin ID, Virgin Group Marketing and Virgin Group Data Sharing
+---------------------------------------------------------------------------
 
-**6.1 How do we collect your personal information for Virgin ID?**
+**6.1 How do we collect your personal information for Virgin ID or for Virgin group marketing and Virgin data sharing?**
 
-When you interact with us or other companies that use Virgin ID (we call these Virgin Partners), we collect, receive, use, and keep information about you. The details we collect depend on how you use our services and we may get information either directly from you and/or from others. For example, when you:  
+When you interact with us or other companies that use Virgin ID (we call these Virgin Partners) or that collect your permission on our behalf to receive general Virgin marketing or share data with us, we will collect, receive, use, and keep information about you. The details we collect depend on how you use our services and we may get information either directly from you and/or from others. For example, when you:  
 
 * Are allocated a Virgin ID
     
 * Engage with other Virgin Partners
     
-* Register your marketing preferences with us; or
+* Register your marketing preferences with us or with another company acting on our behalf; or
     
 * Interact with us in any other way, whether that’s online or offline, including through our services and via cookies that collect information on your internet use. 
     
 
-We may also receive information on you from third parties including:
+We may also receive information on you from third parties (subject to having the relevant permission, where required) including:
 
 * From Virgin Partners you have engaged with;
     
@@ -544,13 +544,13 @@ We may also receive information on you from third parties including:
 * Information from government and law enforcement agencies.
     
 
-Virgin Partners may get information about how you’ve engaged with us and other Virgin Partners by using your Virgin ID to connect the information to you. These companies will act as separate "data controllers" when they use this personal data. If you want to find out more about how they use your personal data, take a look at their privacy policies or get in touch with them directly with any questions.
+Virgin Partners may also receive information about how you’ve engaged with us and other Virgin Partners by using your Virgin ID to connect the information to you. These companies will act as separate "data controllers" when they use this personal data. If you want to find out more about how they use your personal data, take a look at their privacy policies or get in touch with them directly with any questions.
 
-**6.2 The information that we collect on Virgin ID users**
+**6.2 The information that we collect on users that engage with different Virgin entities**
 
 Here are some examples of the categories and types of personal information we may hold about you: 
 
-* **Account information**. We collect your name, email address, telephone number, date of birth, postcode/zipcode, communication and content preferences and information about how you interact and engage with Virgin Partners. This may include your transaction history and your service preferences. You can check out more about Virgin ID in our  [Virgin ID and Web Terms of Use](https://www.virgin.com/terms-and-conditions).
+* **Account information**. We collect your name, email address, telephone number, date of birth, postcode/zipcode, communication and content preferences and information about how you interact and engage with Virgin Partners. This may include your transaction history and your service preferences. This may include allocating you a Virgin ID and if this is the case, you can check out more about Virgin ID in our  [Virgin ID and Web Terms of Use](https://www.virgin.com/terms-and-conditions).
     
 * **Transactional information.** We collect information on transactions that you carry out with Virgin Partners and that are assigned to your Virgin ID
     
@@ -559,18 +559,16 @@ Here are some examples of the categories and types of personal information we ma
 
 **6.3 Why we need and how we use your information as a Virgin ID user**
 
-Virgin ID is your touchpoint for all things Virgin. This includes:
-
-* giving you the ability to use a single set of log-in details to access or create memberships and/or accounts with Virgin Points – no more juggling passwords; 
+* When we create a Virgin ID we give you the ability to use a single set of log-in details to access or create memberships and/or accounts with Virgin Points – no more juggling passwords; 
     
-* personalising your experience with the Virgin Partners you interact with and sharing information about you to support this; 
+* We personalise your experience with the Virgin Partners you interact with and share information about you to support this; 
     
-* if you’ve given us the green light, sending you marketing information, and/or our newsletter about all things Virgin.
+* If you’ve given us the green light, we will also send you marketing information, and/or our newsletter about all things Virgin.
     
 
 **6.4 Examples of how and why we use your personal information**
 
-Here’s how we use your personal information when we operate Virgin ID: 
+Here’s how we use your personal information when you engage with different Virgin entities or Virgin ID:
 
 * **Managing your account**
     
@@ -602,9 +600,9 @@ Here’s how we use your personal information when we operate Virgin ID: 
     
     * We want to personalise, enhance and improve your Virgin experience and our communications with you to give you a more tailored experience both online and offline. To do this, we may use your personal information, like your browsing history with your Virgin ID, to learn more about you and help us understand your habits and preferences.  
         
-    * We may also put together what we know about you from different sources (including out Virgin Partners and our different services) and create a profile that can help us to understand your propensity to do something so we can tailor our services just for you.  
+    * We may also put together what we know about you from different sources (including out Virgin Partners and our different services) and create a profile that can help us to understand you better and so that we can tailor our services just for you.  
         
-    * If you’re not up for this, no worries – you can opt out of sharing your personal data for these purposes at any time by changing the setting in your account space 
+    * If you’re not up for this, no worries, just ask us not to and we won't do this. You can get in touch via [membersupport@virgin.com](mailto:membersupport@virgin.com) or by changing the setting in your account space (where applicable) 
         
 
 Section 7 - Cookies and Targeting (including via social media)
