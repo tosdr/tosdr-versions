@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Kobus Venter
+Henry Venter
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=65894670)  
-Import Maaw
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=192012705)  
+Kaylas Creations
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=137006319)  
-Baby Toddles Infant Care
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=8724735)  
+AMS Ambu Medical Supplies
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=70258673)  
-Myfinance-Online
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=100589589)  
+Hydroworld T/A Milliqua
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=122730581)  
-Repairs In Motion
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=2057239)  
+Vplay Letsheng Mall
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=197047997)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=132689925)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=100514779)  
-Depot Diesel (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=214138478)  
+Lion Software Develepment
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=81344365)  
-One2b
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=137848268)  
+FX ACCOUNTING
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=56342084)  
-Three Moons Emporium
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=174896536)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=162244619)  
-Henry's Home Renovations
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=184386029)  
+Bchange Online CC
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=161681204)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=116768383)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=1183933)  
-Abandoned Vehicle and Truck Solutions
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=74176479)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=31040771)  
-Cpower Projects t/a Pro Pure Water
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=189577583)  
+Iurus Inc
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=147328560)  
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=104155918)  
+Mountain Lion Properties
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=8199404)  
 Oukraal Merino's
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=28356445)  
-VerdanTech Pty Ltd
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=a2f5269dda04604637eecf61cd85e6b576a0d10dd864cac2c88b00c34d7365ec&c=76919317)  
-Imvubu General Trading
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=9e5f6c6bdb597a6546e1bf492a1a1685fb3bca416a807c163235782b10c5d305&c=54584929)  
+All Trucking Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
