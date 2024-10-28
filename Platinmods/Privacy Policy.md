@@ -152,25 +152,25 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1730085383) [Email](#_xfUid-1-1730085383) [Share](#_xfUid-1-1730085383) [Link](#_xfUid-1-1730085383)
+[WhatsApp](#_xfUid-1-1730106808) [Email](#_xfUid-1-1730106808) [Share](#_xfUid-1-1730106808) [Link](#_xfUid-1-1730106808)
 
 ### Forum statistics
 
 Threads
 
-67,027
+67,043
 
 Messages
 
-2,909,601
+2,910,443
 
 Members
 
-4,628,123
+4,629,126
 
 Latest member
 
-[ilixer2008](https://platinmods.com/members/ilixer2008.4957146/)
+[Requiem Heaven](https://platinmods.com/members/requiem-heaven.4958155/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
