@@ -186,6 +186,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-CRO-Perspectives-Jon-MacDonald.jpg?tr=w-60,h-50)
+    
+    Reconnecting with Customers More Essential in the Age of AI](https://vwo.com/blog/reconnecting-with-customers/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/B-Testing-Statistics-for-Effective-Decision-Making-1.jpg?tr=w-60,h-50)
     
     Essential A/B Testing Statistics for Effective Decision-making](https://vwo.com/blog/ab-testing-statistics/)
@@ -201,10 +205,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Key-usability-testing-statistics-to-revamp-your-design.jpg?tr=w-60,h-50)
     
     25 Usability Testing Statistics and User Experience Insights to Transform Your Design](https://vwo.com/blog/usability-testing-statistics/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/09/Feature-image-Leveraging-Session-Recordings_-A-Game-Changer-for-Conversion-Rate-Optimization-2-2.jpg?tr=w-60,h-50)
-    
-    Leveraging Session Recordings: A Game-Changer for Conversion Rate Optimization](https://vwo.com/blog/session-recordings-for-conversion-rate-optimization/)
     
     Featured Blogs
     
@@ -455,10 +455,7 @@
     * [VWO Login](https://app.vwo.com/)
     * [VWO Engage Login](https://pushcrew.com/admin/)
     
-* [Request Demo](https://vwo.com/demo/)
-    
-    [+1 415-349-3207](tel:+14153493207)
-    
+* [Request Demo](https://vwo.com/demo/) [+1 415-349-3207](tel:+14153493207)
 
 * Languages
 * EN
