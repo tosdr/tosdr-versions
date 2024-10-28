@@ -1,10 +1,10 @@
 [Healthcare and Senior Living](https://www.lifeline.com/business/)
 
-[855-681-5351](tel:855-681-5351)
+[855-651-6967](tel:855-651-6967)
 
 [](https://www.lifeline.com/?s=)
 
-[855-681-5351](tel:855-681-5351)
+[855-651-6967](tel:855-651-6967)
 
 [![Lifeline Logo](https://www.lifeline.com/wp-content/uploads/2024/02/LL50-horiz-3_LL50-horiz-3.png)](https://www.lifeline.com/)
 
@@ -339,7 +339,7 @@ All other feedback, comments, requests for technical support, and other communic
 
 ![](https://www.lifeline.com/wp-content/uploads/2024/02/LL50-horiz-3_LL50-horiz-3.png)
 
-#### Call us at: [855-681-5351](tel:855-681-5351)
+#### Call us at: [855-651-6967](tel:855-651-6967)
 
 [](https://www.facebook.com/LifelineMedicalAlertService)
 
