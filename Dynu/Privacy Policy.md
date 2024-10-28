@@ -240,26 +240,16 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+![Free for Open Source Projects](/content/images/content/strip/IDN.png)
 
   
-
-![Partner](/content/images/content/strip/wyatt.house.png)
-
   
 
-  
-![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+### DNS for IDNs is fully supported
 
+If you are looking for a DNS provider for an International Domain Name, you are welcome here.  
   
-
-  
-![Partner](/content/images/content/strip/Skyrim.co.png)
-
-  
-
-  
-![Partner](/content/images/content/strip/coreit.ro.png)
+[Get Started](https://www.dynu.com/ControlPanel/AddDDNS)
 
 ### News
 
