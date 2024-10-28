@@ -376,15 +376,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Harry Potter books were the first children’s books included on the New York Times Best Seller list since E.B. White’s Charlotte’s Web in 1952.
+There were seven male white owls that played Hedwig.
 
 ### Potter History
 
-June 23, 2006 – Harry Potter and the Half-Blood Prince is released in paperback in the United Kingdom.
+May 1, 2008 – For the first time in a decade, the weekly New York Times Best Seller List doesn’t hold a single Harry Potter book.
 
 ### Potter Quote
 
-“You’re dead, Potter.”
+“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
 
 [](#)
 
