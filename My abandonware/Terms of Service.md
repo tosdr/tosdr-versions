@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 31800 old games to download for free!
+More than 31900 old games to download for free!
 
  
 
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [A.R.S.E.N.A.L Extended Power](https://www.myabandonware.com/game/a-r-s-e-n-a-l-extended-power-skq)
-* [Real-Time Racing](https://www.myabandonware.com/game/real-time-racing-sko)
-* [Subway Scramble](https://www.myabandonware.com/game/subway-scramble-skj)
-* [Myulk: kampen om det öppna landskapet](https://www.myabandonware.com/game/myulk-kampen-om-det-oeppna-landskapet-ski)
-* [Scrabble](https://www.myabandonware.com/game/scrabble-skh)
+* [beatmania for WonderSwan](https://www.myabandonware.com/game/beatmania-for-wonderswan-t24)
+* [Bakusō Dekotora Densetsu for WonderSwan](https://www.myabandonware.com/game/bakuso-dekotora-densetsu-for-wonderswan-t23)
+* [Armored Unit](https://www.myabandonware.com/game/armored-unit-t22)
+* [Anchorz Field](https://www.myabandonware.com/game/anchorz-field-t21)
+* [Tarepanda no Gunpey](https://www.myabandonware.com/game/tarepanda-no-gunpey-t20)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Quiz Show](https://www.myabandonware.com/game/quiz-show-so3)
-* [Fighter Duel Pro 2](https://www.myabandonware.com/game/fighter-duel-pro-2-hk2)
-* [Sonic & Garfield Pack](https://www.myabandonware.com/game/sonic-garfield-pack-eyf)
+* [Graeme Souness Vector Soccer](https://www.myabandonware.com/game/graeme-souness-vector-soccer-70z)
+* [Colour Playhouse](https://www.myabandonware.com/game/colour-playhouse-o8d)
+* [Chō Aniki: Kyūkyoku Muteki Ginga Saikyō Otoko](https://www.myabandonware.com/game/cho-aniki-kyukyoku-muteki-ginga-saikyo-otoko-pck)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
