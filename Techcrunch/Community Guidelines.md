@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [LinkedIn Fined](https://techcrunch.com/2024/10/24/linkedin-fined-356-million-in-eu-for-tracking-ads-privacy-breaches/)
-* [Raspberry Pi](https://techcrunch.com/2024/10/24/raspberry-pi-releases-more-ai-focused-add-ons/)
-* [Perplexity Mac App](https://techcrunch.com/2024/10/24/perplexity-launches-a-native-mac-app/)
-* [General Catalyst](https://techcrunch.com/2024/10/24/general-catalyst-raises-8b-in-fresh-funds-to-back-startups-globally/)
-* [Women in AI](https://techcrunch.com/2024/10/20/women-in-ai-marissa-hummon-thinks-ai-will-help-make-the-power-grid-greener/)
+* [TechCrunch Disrupt 2024](https://techcrunch.com/storyline/techcrunch-disrupt-2024-follow-the-reveals-insights-and-more-in-our-live-blog/)
+* [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
+* [M4 iMac](https://techcrunch.com/2024/10/28/apple-unveils-m4-powered-imac/)
+* [Slice Merger](https://techcrunch.com/2024/10/27/india-fintech-slice-now-bank/)
+* [TechCrunch Disrupt 2024 Agenda](https://techcrunch.com/events/tc-disrupt-2024/agenda/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
