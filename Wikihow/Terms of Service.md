@@ -391,24 +391,25 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Cheer up Your Girlfriend](https://www.wikihow.com/images/thumb/c/c8/Cheer-up-Your-Girlfriend-Step-16.jpg/-crop-126-120-126px-Cheer-up-Your-Girlfriend-Step-16.jpg)
+
+How to  
+Cheer up Your Girlfriend](https://www.wikihow.com/Cheer-up-Your-Girlfriend)
+
+[![Flirt](https://www.wikihow.com/images/thumb/0/0b/Flirt-Step-20-Version-4.jpg/-crop-126-120-126px-Flirt-Step-20-Version-4.jpg)
+
+How to  
+Flirt](https://www.wikihow.com/Flirt)
+
+[![Tell Scary Stories](https://www.wikihow.com/images/thumb/0/07/Tell-Scary-Stories-Step-12.jpg/-crop-126-120-126px-Tell-Scary-Stories-Step-12.jpg)
+
+How to  
+Tell Scary Stories](https://www.wikihow.com/Tell-Scary-Stories)
+
 [![Feel More Attractive](https://www.wikihow.com/images/thumb/9/91/Enjoy-College-Step-7.jpg/-crop-126-120-126px-Enjoy-College-Step-7.jpg)
 
 How to  
 Feel More Attractive](https://www.wikihow.com/Feel-More-Attractive)
-
-[![Develop Personality](https://www.wikihow.com/images/thumb/3/33/Develop-Personality-Step-17.jpg/-crop-126-120-126px-Develop-Personality-Step-17.jpg)
-
-How to  
-Develop Personality](https://www.wikihow.com/Develop-Personality)
-
-[![Soulmate Name Quiz](https://www.wikihow.com/images/thumb/a/ad/Soulmate_name_quiz.png/-crop-126-120-126px-Soulmate_name_quiz.png)
-
-What's My Soulmate's Name Quiz](https://www.wikihow.com/Relationships/Soulmate-Name-Quiz)
-
-[![Be Okay](https://www.wikihow.com/images/thumb/8/8c/LR22-Mr-and-Mrs-Bloom-Chat.png/-crop-126-120-126px-LR22-Mr-and-Mrs-Bloom-Chat.png)
-
-How to  
-Be Okay](https://www.wikihow.com/Be-Okay)
 
   
 
@@ -451,4 +452,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-210
+205
