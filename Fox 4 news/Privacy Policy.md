@@ -426,11 +426,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Fort Worth event looks to draw attention to dangers of fentanyl](https://www.fox4news.com/news/stomping-the-stigma-fort-worth)
 
- [![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2181412508.jpg?ve=1&tl=1)
+ [![Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2181420973.jpg?ve=1&tl=1)
 
- ![Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181412508.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
+ ![Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181420973.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nyc-rally-closing-argument)
 
-### [Jerry Jones' children, grandchild involved in car accident before Cowboys-49ers game](https://www.fox4news.com/news/jerry-jones-children-grandchild-cowboys-49ers)
+### [Trump’s Madison Square Garden rally stirs outrage with offensive, racist rhetoric](https://www.fox4news.com/news/trump-nyc-rally-closing-argument)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
