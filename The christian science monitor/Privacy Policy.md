@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Peace
+
+### Israeli strikes inside Iran cross a threshold. How will Iran respond?](https://www.csmonitor.com/World/Middle-East/2024/1028/iran-israel-airstrike-deterrence-hezbollah-gaza "Israeli strikes inside Iran cross a threshold. How will Iran respond?")
+
+[Dignity
+
+### Trading up to higher skills](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1028/Trading-up-to-higher-skills "Trading up to higher skills")
+
 [Joy
 
 ### Yankee Dodger Dandy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1025/Yankee-Dodger-Dandy "Yankee Dodger Dandy")
-
-[Safety
-
-### Under deadly Israeli siege, north Gaza residents face terrifying ultimatum](https://www.csmonitor.com/World/Middle-East/2024/1025/israeli-siege-north-gaza-palestinians "Under deadly Israeli siege, north Gaza residents face terrifying ultimatum")
-
-[Freedom
-
-### Civil rights on the red carpet: Freedom Awards honor 3 icons](https://www.csmonitor.com/The-Culture/2024/1025/freedom-award-spike-lee-sherrilyn-ifill-xernona-clayton "Civil rights on the red carpet: Freedom Awards honor 3 icons")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Israel conducts airstrikes against Iranian military targets](https://www.csmonitor.com/World/Middle-East/2024/1026/Israel-missile-strikes-Tehran-Iran "Israel conducts airstrikes against Iranian military targets")
+[### Israeli strikes inside Iran cross a threshold. How will Iran respond?](https://www.csmonitor.com/World/Middle-East/2024/1028/iran-israel-airstrike-deterrence-hezbollah-gaza "Israeli strikes inside Iran cross a threshold. How will Iran respond?")
 
-[### Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.](https://www.csmonitor.com/USA/2024/1025/Biden-Native-American-apology-election-boarding-school "Over 18,000 children were abducted. Now, 100 years later, the U.S. is apologizing.")
+[### Japan’s new PM hoped snap elections would secure grip on power. They backfired.](https://www.csmonitor.com/World/Asia-Pacific/2024/1028/Japan-snap-election-results-LDP-Ishiba "Japan’s new PM hoped snap elections would secure grip on power. They backfired.")
 
-[### The Menendez brothers received life without parole. Should they walk free?](https://www.csmonitor.com/USA/2024/1025/Menendez-brothers-murder-case-resentencing-LA "The Menendez brothers received life without parole. Should they walk free?")
+[### The French love to hate ‘Emily in Paris.’ But they won’t let her leave.](https://www.csmonitor.com/World/Europe/2024/1028/emily-paris-rome-macron "The French love to hate ‘Emily in Paris.’ But they won’t let her leave.")
 
 * * *
 
