@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
 
-Lynn WuChief IP CounselByteDance
+John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
+Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
 
-> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
+> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
 
-Mercari
+Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
 
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+> NewLink has been committed to the deep integration of digitalization and the energy industry, and continues to explore the best technologies to improve energy utilization in order to better serve partners across the industry chain. Linux systems and open source technologies provide support for digitalization, and we appreciate OIN’s contribution to reducing the risk of open source software patents around the world.  We value the protection of intellectual property rights and also respect the in… [Read more](https://openinventionnetwork.com/testimonial/naas-technology-newlink/ "Complete testimonial by Mingyi Jin")
 
-Yugo KanazawaChief Digital OfficerLIXIL
+Mingyi JinVP & General Legal Counsel at NewLink
 
-> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
+> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
 
-Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
+Jane SilberCEOCanonical
 
-> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
+> Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
 
-Yang JiejingHead of Legal DepartmentUNISOC
+Jianxin DingHead of Global Intellectual PropertyHuawei
 
-> Companies building products using open source technologies must help protect open source communities from threats posed by abusers of low quality patents.We applaud the innovative approach taken by the OS Zone and call on other companies to support solutions that protect open source innovation from targeted threats.
+> By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
 
-MicrosoftJustin Colannino, Associate General Counsel for Open Source at Microsoft
+Donny ZhangVPInspur
 
-> Open Invention Network is a unique organization. For 15 years, it has protected the Linux and open source community from patent aggression, while fostering a community that understands that value of shared technological development. It has been an honor to have worked with the OIN team, and fellow OIN Board members, to plan and implement the strategic initiatives that have provided protection for open source.  
+> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
 
-Tim KowalskiChairman of the BoardOpen Invention Network
+Tetsuro FuseJVCKENWOODVice Operating Officer
 
-> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
+> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
 
-Chris DiBonaDirector of Open SourceGoogle
+Mick LimDirector, Foxconn IP Affairs Division
 
-> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+> Linux and open source are critical elements in today’s mobile, cloud and enterprise computing environments. By joining the Open Invention Network, we are helping ensure the ongoing development of open solutions that promote market growth in key lines of business.  
 
-UnionPayIntellectual Property ManagerUnionPay
+Guru PaiSenior Vice President & Chief Product OfficerVerizon
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
