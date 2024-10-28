@@ -55,7 +55,7 @@ Cart
     
      Got Problems? We Have Solutions!  
     
-    [Shop All](https://www.bulbhead.com/collections/shop-all) [Best Sellers](https://www.bulbhead.com/collections/best-sellers) [As Seen on TV](https://www.bulbhead.com/collections/airing-on-tv-now) [New Products](https://www.bulbhead.com/collections/new)
+    [Shop All](https://www.bulbhead.com/collections) [Best Sellers](https://www.bulbhead.com/collections/best-sellers) [As Seen on TV](https://www.bulbhead.com/collections/airing-on-tv-now) [New Products](https://www.bulbhead.com/collections/new) [Wholesale](https://www.faire.com/direct/bulbhead)
     
     [![](//www.bulbhead.com/cdn/shop/files/video-shopping.svg?v=7915995750783392032)
     
@@ -69,7 +69,7 @@ Cart
     
     ![](//www.bulbhead.com/cdn/shop/files/shop-all.svg?v=10880289648850896452)
     
-    Shop All](https://www.bulbhead.com/collections/shop-all)
+    Shop All](https://www.bulbhead.com/collections)
 * [![](//www.bulbhead.com/cdn/shop/files/bestsellers.jpg?v=17251307199041522952)
     
     Best Sellers](https://www.bulbhead.com/collections/best-sellers)
@@ -79,6 +79,9 @@ Cart
 * [![](//www.bulbhead.com/cdn/shop/files/newin.jpg?v=2031891574207029460)
     
     New Products](https://www.bulbhead.com/collections/new)
+* [![](//www.bulbhead.com/cdn/shop/files/wholesale.jpg?v=15541431740724163294)
+    
+    Wholesale](https://www.faire.com/direct/bulbhead)
 
 * [![](//www.bulbhead.com/cdn/shop/files/video-shopping.svg?v=7915995750783392032)
     
