@@ -3,7 +3,7 @@
 Meta Open Source - Terms of Use
 ===============================
 
-_Effective Date: December 1, 2020_
+_Effective December 1, 2020_
 
 These Terms of Use ("**Terms**") govern your use of this website hosted and provided by Meta Platforms, Inc. ("**Meta**", "**us**" or "**we**"), ("**Website**") and any services offered through the Website ("**Services**").
 
