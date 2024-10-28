@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![delivery driver hero](/siteassets/resources/images/-news-centre/thumbnail-images/post/delivery-driver-hero.png?width=1920&height=1085&quality=80)
+
+### Best and worst parcel firms for customer service satisfaction revealed
+
+28 October 2024](https://www.ofcom.org.uk/post/deliveries-and-charges/best-and-worst-parcel-firms-for-customer-service-satisfaction-revealed/)
+
 [![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
 
 ### Global regulators publish index of online safety powers
@@ -151,13 +157,7 @@
 
 18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-launches-investigation-into-whether-tismi-failed-to-prevent-misuse-of-its-phone-numbers-by-scammers/)
 
-[![Woman on the phone on the beach (Hero) (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/misc/woman-on-the-phone-on-the-beach-hero-1336--560px.png?width=1920&height=1085&quality=80)
-
-### How do you protect yourself from surprise mobile charges on holiday?
-
-18 October 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/How-do-you-protect-yourself-from-surprise-mobile-charges-on-holiday/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
