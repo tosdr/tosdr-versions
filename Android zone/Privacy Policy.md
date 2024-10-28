@@ -66,6 +66,9 @@ Registered users give their consent to the processing of personal data, under th
 * [Privacy Policy](https://android-zone.ws/privacy/)
 * [Contact Us](https://android-zone.ws/contact/)
 
+[Powered by Invision Community](https://www.invisioncommunity.com/ "Invision Community")  
+[Invision Community Support forums](https://nullforums.net/)
+
 [×](#)
 
 * [Existing user? Sign In](https://android-zone.ws/login/)
@@ -97,6 +100,6 @@ Important Information
 
 This website uses cookies. To learn more, visit our [Privacy Policy](https://android-zone.ws/privacy/).
 
-  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=b5b4b31170c0aa4ec1c2fbef77790a79)
+  [I accept](https://android-zone.ws/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9hbmRyb2lkLXpvbmUud3Mv&csrfKey=3b2bca991bb30ff2e1ad1f243736b8cb)
 
  Change theme
