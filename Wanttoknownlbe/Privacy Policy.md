@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/mh17-maleisie-gaat-rusland-opzoeken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/doet-monsanto-nu-zichzelf-de-strop-om/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
