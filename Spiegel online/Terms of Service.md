@@ -194,13 +194,13 @@ Gutscheine
 Alle Magazine des SPIEGEL
 
 *  [![Cover: DER SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2024.html "DER SPIEGEL")
-*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
-*  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
-*  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
-*  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
-*  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
-*  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
 *  [![Cover: S-Magazin](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 198' width='136' height='198' %3E%3C/svg%3E)S-Magazin](https://www.spiegel.de/spiegel/spsm/index-2023.html "S-Magazin")
+*  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
+*  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
+*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
+*  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
+*  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
+*  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
 *  [![Cover: SPIEGEL CHRONIK](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL CHRONIK](https://www.spiegel.de/spiegel/spjc/index-2023-1.html "SPIEGEL CHRONIK")
 
 SPIEGEL Gruppe
