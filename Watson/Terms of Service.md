@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Racisme](https://www.watson.ch/fr/racisme/)
-* [républicain](https://www.watson.ch/fr/republicain/)
-* [Promotion](https://www.watson.ch/fr/promotion/)
+* [France](https://www.watson.ch/fr/france/)
+* [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Vidéo](https://www.watson.ch/fr/video/)
+* [Migros](https://www.watson.ch/fr/migros/)
 * [Santé](https://www.watson.ch/fr/sante/)
+* [Tessin](https://www.watson.ch/fr/tessin/)
+* [Italie](https://www.watson.ch/fr/italie/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Tourisme](https://www.watson.ch/fr/tourisme/)
 * [Montagne](https://www.watson.ch/fr/montagne/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Logement](https://www.watson.ch/fr/logement/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Armée](https://www.watson.ch/fr/armee/)
+* [avion](https://www.watson.ch/fr/avion/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Alpes](https://www.watson.ch/fr/alpes/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
-* [Marathon](https://www.watson.ch/fr/marathon/)
-* [Course à pied](https://www.watson.ch/fr/course-a-pied/)
-* [Halloween](https://www.watson.ch/fr/halloween/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Halloween](https://www.watson.ch/fr/halloween/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Interview](https://www.watson.ch/fr/interview/)
 * [Ski](https://www.watson.ch/fr/ski/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
