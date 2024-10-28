@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Nicholas Wayne Hamlett (Monroe County Sheriff's Office in Tennessee).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Wayne-Hamlett-432x243.png)](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
+1. [![Main: Hailynn Volpatti (Clay County Justice Center). Inset: Nova Bryant (WRTV).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfa-432x243.jpg)](https://lawandcrime.com/crime/thats-parenting-101-foster-mom-left-special-needs-toddler-in-bathtub-alone-for-more-than-30-minutes-to-chat-on-phone-police-say/)
+    
+    ### ['That's parenting 101': Foster mom left special-needs toddler in bathtub alone for 'more than 30 minutes' to chat on phone, police say](https://lawandcrime.com/crime/thats-parenting-101-foster-mom-left-special-needs-toddler-in-bathtub-alone-for-more-than-30-minutes-to-chat-on-phone-police-say/) 
+    
+2. [![Trump seeks Jan. 6 delay based on Hurricane Milton](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-1-432x243.jpg)](https://lawandcrime.com/high-profile/a-significant-obstacle-trump-lawyers-blame-hardships-imposed-by-hurricane-milton-to-push-back-ongoing-challenge-of-jack-smiths-authority-in-jan-6-case/)
+    
+    ### ['A significant obstacle': Trump lawyers blame 'hardships imposed' by Hurricane Milton to push back ongoing challenge of Jack Smith's authority in Jan. 6 case](https://lawandcrime.com/high-profile/a-significant-obstacle-trump-lawyers-blame-hardships-imposed-by-hurricane-milton-to-push-back-ongoing-challenge-of-jack-smiths-authority-in-jan-6-case/)
+    
+3. [![Nicholas Wayne Hamlett (Monroe County Sheriff's Office in Tennessee).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Wayne-Hamlett-432x243.png)](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
     
     ### [Murder suspect with stolen ID called 911 pretending to be hiker who fell off cliff running from a bear: Deputies](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
     
-2. [![Left inset: Marlyn Medrano-Ortiz (Loudoun County Sheriff's Officee). Right inset: Mijal Conejero-Romera and Diego Alexander Woollett (Loudoun County Sheriff's Office). Background: Law enforcement investigate the murder (WUSA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marlyn-Medrano-Ortiz-Mijal-Conejero-Romera-and-Diego-Alexander-Woollett-432x243.jpg)](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
+4. [![Michael Wiseman appears inset against an image of Donald Trump and JD Vance](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Wiseman-Trump-Vance-432x243.jpg)](https://lawandcrime.com/high-profile/not-eligible-suspect-accused-of-posting-trump-jd-vance-should-be-murdered-and-people-need-to-be-better-shots-isnt-getting-a-deal-from-prosecutors-after-all/)
+    
+    ### ['Not eligible': Suspect accused of posting Trump, JD Vance 'should be murdered' and 'people need to be better shots' isn't getting a deal from prosecutors after all](https://lawandcrime.com/high-profile/not-eligible-suspect-accused-of-posting-trump-jd-vance-should-be-murdered-and-people-need-to-be-better-shots-isnt-getting-a-deal-from-prosecutors-after-all/)
+    
+5. [![Left inset: Marlyn Medrano-Ortiz (Loudoun County Sheriff's Officee). Right inset: Mijal Conejero-Romera and Diego Alexander Woollett (Loudoun County Sheriff's Office). Background: Law enforcement investigate the murder (WUSA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marlyn-Medrano-Ortiz-Mijal-Conejero-Romera-and-Diego-Alexander-Woollett-432x243.jpg)](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
     
     ### [MS-13 gang member charged with murdering 'happy' couple found dead in apartment complex's parking lot](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
-    
-3. [![Adrian Cosby as law enforcement restrains him during his sentencing on Oct. 25, 2024 (WTVJ). Inset: Andrea Camps Lacayo (TERRA Environmental Research Institute).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Andrea-Camps-Lacayo-and-Adrian-Cosby-432x243.png)](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
-    
-    ### ['What the f--- you talking about, b----?': Convicted killer who shot teen over Yeezy sneakers lashes out at victim's father](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
-    
-4. [![Angela Barnes appears inset against an image of Carroll Middle School.](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Angela-Barnes-432x243.jpg)](https://lawandcrime.com/crime/middle-school-teacher-charged-with-sexual-assault-over-alleged-summer-relationship-with-underage-boy-who-was-a-former-student/)
-    
-    ### [Middle school teacher charged with sexual assault over alleged summer 'relationship' with 'underage boy who was a former student'](https://lawandcrime.com/crime/middle-school-teacher-charged-with-sexual-assault-over-alleged-summer-relationship-with-underage-boy-who-was-a-former-student/)
-    
-5. [![Sarah Boone testimony](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Sarah-Boone-testimony-432x243.jpg)](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
-    
-    ### ['Last breath inside a suitcase': Florida woman zipped her boyfriend in a suitcase and killed him in game of 'hide and seek'](https://lawandcrime.com/crime/last-breath-inside-a-suitcase-florida-woman-zipped-her-boyfriend-in-a-suitcase-and-killed-him-in-game-of-hide-and-seek/)
     
 
 [](http://eepurl.com/c89Jdb)
