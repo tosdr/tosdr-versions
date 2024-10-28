@@ -31,6 +31,213 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Opositor Yamandú Orsi lidera conteo de votos en las elecciones de Uruguay
+=========================================================================
+
+El opositor Orsi acumula el 43,94 % de los votos. Mientras que el candidato por el oficialismo suma un 26,77 %, en las elecciones de Uruguay
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotos de archivo de los candidatos más votados, durante actos de campaña.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-Uruguay.jpg)
+
+El opositor **Yamandú Orsi** y el oficialista **Álvaro Delgado** se convirtieron en los dos candidatos más votados de **Uruguay en las elecciones de este domingo** 27 de octubre de 2024. Ambos lucharán por la Presidencia en una segunda vuelta que se llevará a cabo el 24 de noviembre.
+
+### Más noticias
+
+* [Médica personal de José Mujica habló de su](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud") [](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")[estado de salud](https://www.elcomercio.com/actualidad/mundo/medico-jose-mujica-salud.html "Médica personal de José Mujica habló de su estado de salud")
+* [Elecciones en Uruguay: ¿giro la izquierda o continuidad?](https://www.elcomercio.com/actualidad/mundo/elecciones-uruguay-giro-izquierda-continuidad.html "Elecciones en Uruguay: ¿giro la izquierda o continuidad?")
+
+Las elecciones en Uruguay
+-------------------------
+
+Con el 99,92 % de los votos ya escrutados por la **Corte Electoral** (CE) del país sudamericano, **Yamandú Orsi** obtuvo 1 057 515 de los 2 441 238 votos emitidos. Sin embargo, aún hay 34 564 observados (emitidos por quienes votan en un circuito diferente al que tienen asignado) que se abrirán en los próximos días.
+
+Por su parte, **Delgado logró 644 147** adhesiones en una jornada en la que la ciudadanía también debió expresarse sobre dos plebiscitos que buscaban reformar el régimen de seguridad social y autorizar los allanamientos nocturnos y que no alcanzaron los votos necesarios para hacerlo.
+
+A falta de que se cuenten los votos observados, **Orsi acumula el 43,94 %** de los votos emitidos. Mientras tanto, el candidato por el oficialismo suma un 26,77 %.
+
+No obstante, de cara a la segunda vuelta y al igual que como lo hizo **Luis Lacalle Pou** hace cinco años, Delgado apostará por un gobierno de coalición junto con tres fuerzas políticas. Las mismas que ya acompañan al actual y con una que se creó para estas elecciones y que ya le brindó su apoyo.
+
+La Cámara de Diputados
+----------------------
+
+Dentro de estas, el **Partido Colorado** obtuvo 385 685 votos (16,03 %), Cabildo Abierto 59 000 (2,45 %), el Partido Independiente 41 206 (1,71 %) y el nuevo Partido Constitucional Ambientalista 11 691 (0,49 %).  
+
+De acuerdo con esto, la**s fuerzas políticas de la coalición** acumulan por el momento 1 141 729 votos y superan al Frente Amplio por 84 214.
+
+Mientras tanto, el partido **Identidad Soberana** se convirtió en una de las grandes sorpresas de este domingo al conseguir 64 735 votos (2,69 %) y convertirse en el cuarto más votado en las elecciones presidenciales y parlamentarias. Esta cifra le permitiría estar presente en la **Cámara de Diputados** con dos representantes.
+
+Otro de los datos de la jornada electoral es que 64 807 personas (2,69 %) **votaron en blanco**. De estas, 33 682 no depositaron papeletas de ningún partido, pero sí se expresaron a favor de uno o de los dos plebiscitos.
+
+Asimismo, 57 791 ciudadanos (2,4 %) **optaron por anular su voto** en una jornada en que este era obligatorio y que contó con una participación cercana al 90 %.
+
+En cuanto a los dos plebiscitos por los que los votantes debían expresarse, **ambos quedaron lejos de superar el 50 % de los sufragios necesarios para ser efectivos.**
+
+El propuesto por la central sindical PIT-CNT para reformar e**l régimen de seguridad social** consiguió 934 115 votos (38,81 %) y el propuesto por legisladores de la [coalición de Gobierno](https://es.wikipedia.org/wiki/Uruguay "https://es.wikipedia.org/wiki/Uruguay") para autorizar los allanamientos nocturnos logró 947 042 (39,35 %).
+
+Vía Baños-Puyo se cierra por deslizamientos de tierra
+=====================================================
+
+Si debes circular por la zona, maneja con precaución. Ten en cuenta que Inamhi advirtió que las lluvias continuarán en la Amazonía y Sierra.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Maquinaria del MTOP trabaja en la vía para limpiar el material de los deslizamientos.](https://www.elcomercio.com/wp-content/uploads/2024/10/via-BanosPuyo.jpg)
+
+El **Ministerio de Obras Públicas** (MTOP) informó la noche del domingo 27 de octubre **el cierre de la vía Baños-Puyo**, sector Kilo.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-28-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 28 de octubre")
+* [Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-parcialmente-este-lunes-28-de-octubre.html "Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+
+Vía Baños-Puyo, cerrada
+-----------------------
+
+El Ministerio de Transporte advirtió a los conductores sobre el cierre que se implementó en la vía que conecta Baños con Puyo, a la altura del sector Kilo, provincia de Pastaza.
+
+Este cierre se produjo debido a deslizamientos de tierra que cayeron sobre la vía en esa zona a causa de las lluvias que se registraron durante la noche del domingo.
+
+El MTOp informó que desplegó su contingente humano, más maquinaria para realizar tareas de limpieza de la vía.
+
+Además, microempresas apoyan en la labor para poder habilitar la circulación en la vía lo más pronto posible.
+
+El servicio de emergencias ECU911 también informó que esta vía, conocida también como la carretera E30, se cerró por los deslizamientos de tierra en Río Negro.
+
+Por ello se coordinó la asistencia del Ministerio para habilitar la vía. También se coordinó la ayuda con la Policía Nacional para que pueda brindar [seguridad en la zona](https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador) "https://es.wikipedia.org/wiki/Ba%C3%B1os_(Ecuador)").
+
+**Ruta alterna**: vía Quito-Tena-Puyo
+
+Si debes circular por la zona, **maneja con precaució**n. Ten en cuenta que Inamhi advirtió que las lluvias continuarán en la Amazonía y Sierra.
+
+> [#Pastaza](https://twitter.com/hashtag/Pastaza?src=hash&ref_src=twsrc%5Etfw) | Cerrada la vía E30 Baños- Puyo, sector Kilo por varios deslizamientos.  
+> Coordinamos la movilización de personal y maquinaria de [#MTOP](https://twitter.com/hashtag/MTOP?src=hash&ref_src=twsrc%5Etfw) y microempresas para tareas de limpieza.  
+>   
+> 🛣️Vía alterna Quito-Tena- Puyo. [pic.twitter.com/5zaVCUKogg](https://t.co/5zaVCUKogg)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 28, 2024](https://twitter.com/ObrasPublicasEc/status/1850728819289632976?ref_src=twsrc%5Etfw)
+
+MTOP realizó mantenimiento en la vía Baños-Puyo
+-----------------------------------------------
+
+El **Ministerio de Transporte y Obras Públicas** (MTOP) informó a la ciudadanía que realiza trabajos de mantenimiento en la vía.
+
+Así, se realizó el **mantenimiento de cunetas**, derecho de vía y desbroce de maleza, en el sector de Alpayacu, en la vía Baños-Puyo.
+
+Estos trabajos en la vía también llamada E30 permite **evitar la acumulación de maleza** y taponamiento de las cunetas y alcantarillas.
+
+> [#Pastaza](https://twitter.com/hashtag/Pastaza?src=hash&ref_src=twsrc%5Etfw) | Realizamos el mantenimiento de cunetas, derecho de vía y desbroce de maleza en en el sector de Alpayacu en la vía E30 Puyo-Baños.  
+>   
+> ✅Vía habilitada.  
+> 👷Personal de microempresa en la vía.  
+> ⚠️Circule con precaución. [pic.twitter.com/62GWEUIyWQ](https://t.co/62GWEUIyWQ)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 25, 2024](https://twitter.com/ObrasPublicasEc/status/1849874426541527306?ref_src=twsrc%5Etfw)
+
+Av. Simón Bolívar cerrada parcialmente este lunes 28 de octubre
+===============================================================
+
+El Cuerpo de Bomberos atiende a cuatro personas afectadas en este siniestro, en la av. Simón Bolívar, a la altura de Lucha de los Pobres
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![El Cuerpo de Bomberos atendió a las personas heridas en el siniestro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Simon-.jpg)
+
+Este lunes 28 de octubre de 2024, **los organismos de socorro i**nformaron sobre un siniestro de tránsito que ocurrió en horas de la mañana en la **av. Simón Bolíva**r.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este lunes 28 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-28-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 28 de octubre")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+
+Choque en la av. Simón Bolívar
+------------------------------
+
+El Cuerpo de **Bomberos Quito** dio a conocer este lunes sobre la atención a una emergencia registrada en la Simón Bolívar, en el sector de Lucha de los Pobres.
+
+Según la institución, en este sitio se produjo **un siniestro de tránsito** que afectó a cuatro personas.
+
+En una foto compartida por Bomberos, se puede ver un árbol sobre la vía; además de dos vehículos ambulancia desplegadas al lugar para **asistir a los afectados.**
+
+Los paramédicos del Cuerpo de Bomberos **brindan atención prehospitalaria** de emergencia a las cuatro personas afectadas en el choque.
+
+Luego de brindarles **los primeros auxilios** evaluarán si las personas necesitan atención médica y se las derivará a casas de salud. En caso de que se encuentren estables serán dadas de alta en el sitio.
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó que **se cerró el carril derecho** en sentido occidente-oriente a la circulación vehicular. Esto para precautelar la seguridad de las personas que atienden la emergencia y de las [personas afectada](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")s.
+
+Posteriormente,
+
+> 🔸[#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Simón Bolívar, sector Lucha de los Pobres.  
+>   
+> 🚒 Nuestros paramédicos brindan atención prehospitalaria a cuatro personas afectadas.  
+>   
+> ⚠️ La vía se encuentra parcialmente habilitada, si conduces por el sector hazlo con precaución.… [pic.twitter.com/uIaNQvF5PS](https://t.co/uIaNQvF5PS)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 28, 2024](https://twitter.com/BomberosQuito/status/1850874178712252529?ref_src=twsrc%5Etfw)
+
+Choque en el norte de Quito
+---------------------------
+
+Un choque se registró la noche del domingo 27 de octubre en la **av. 6 de Diciembre y Portugal**, a una cuadra del Colegio Benalcázar.
+
+El servicio de emergencia ECU911 informó que **se coordinó la ayuda a esta emergencia c**on el Cuerpo de Bomberos de Quito.
+
+Los paramédicos atendieron en el lugar a **cinco personas** que presentaron policontusiones debido al impacto del vehículo.
+
+Personal de l**a AMT coordinó el flujo vehicular** mientras se solventó la emergencia.
+
+Así funciona el Pico y placa en Quito este lunes 28 de octubre
+==============================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La medida del Pico y placa se estableció para regular el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-quito-.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre](https://www.elcomercio.com/actualidad/quito/trafico-quito-se-complica-vias-cerradas-av-6-de-diciembre.html "Tráfico en Quito se complica con vías cerradas en la av. 6 de Diciembre")
+* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
+* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 El deshielo del Carihuairazo es una parábola
 ============================================
 
@@ -1032,199 +1239,3 @@ La **Secretaría de Gestión de Riesgos** ha emitido las siguientes recomendacio
 Este fenómeno es una clara advertencia para la población ecuatoriana, que deberá mantenerse alerta ante posibles emergencias durante estos días.
 
 Los organismos de control y emergencia estarán monitoreando la situación para tomar acciones inmediatas y proteger la seguridad de los ciudadanos, se informó en el boletín de la **alerta meteorológica del Inamhi**[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
-
-La alegría de Flamengo tras el primer gol de Gonzalo Plata
-==========================================================
-
-Gonzalo Plata compartió su emoción en las redes sociales. El ecuatoriano anotó con Flamengo e ilusiona a los hinchas.
----------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata festeja un gol con la camiseta del Flamengo del fútbol brasileño.](https://www.elcomercio.com/wp-content/uploads/2024/10/gonzaloplata.jpg)
-
-**Gonzalo Plata**, el talentoso atacante ecuatoriano, se convirtió en héroe de la jornada al anotar su primer gol con el **Flamengo** en un partido crucial.
-
-Flamengo ganó 4-2 al Juventude, el 26 de octubre del 2024. El cotejo marcó el debut goleador del tricolor que se expresó emotivamente en las redes sociales.
-
-### Más noticias:
-
-* [Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo](https://www.elcomercio.com/deportes/futbol/filipe-luis-gonzalo-plata-flamengo.html "Filipe Luis nuevo técnico de Gonzalo Plata en Flamengo")
-* [Deportivo Quito recibe a Cantera Orense en el Nacional de Ascenso](https://www.elcomercio.com/deportes/deportivo-quito-cantera-orense-resultado-clasificado.html "Deportivo Quito recibe a Cantera Orense en el Nacional de Ascenso")
-* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
-
-Tras el encuentro, Gonzalo Plata expresó su felicidad: “Esperaba con ansias este día. Estoy feliz por aportar con un gol en esta importante victoria para seguir en la pelea”, dijo el ecuatoriano de 23 años.
-
-Además, no dudó en manifestar su deseo de seguir luchando con el equipo: “¡Vamos x más Mengão!”.
-
-El gol de Gonzalo Plata
------------------------
-
-El gol llegó de manera espectacular. Gerson, en una brillante jugada, encaró la defensa rival y, al ingresar al área, asistió a Plata.
-
-El ecuatoriano controló el balón con su pie izquierdo y, sin pensarlo dos veces, disparó con la misma pierna, enviando el balón al fondo de la red al 90 +5. Fue el 4-2.
-
-Esta anotación representa un hito significativo en la carrera de Plata, quien espera consolidarse tanto en el Flamengo como en la Selección de Ecuador.
-
-Desde su llegada al club brasileño en agosto de 2024, las expectativas han sido altas. El joven de 23 años, que firmó un contrato hasta 2029, busca dejar huella en uno de los clubes más prestigiosos de Sudamérica.
-
-Sin embargo, su camino no ha estado exento de dificultades. Tras un incidente en Nueva York durante una gira de la selección, Plata fue excluido de las convocatorias, aunque el nuevo entrenador, Sebastián Beccacece, ya lo tiene en el radar.
-
-A pesar de las críticas, incluido un comentario del histórico **Gerson,** que cuestionó su rendimiento tras la eliminación de Flamengo en la Copa Libertadores, los aficionados siguen confiando en que Plata aportará su habilidad y energía al equipo en los desafíos venideros.
-
-La espera por ver más de su talento en acción ha comenzado, y los seguidores del Mengão están ansiosos por lo que vendrá.
-
-> 🤳🗣️Plata: “Hoy hice mi primer gol aquí, estoy muy contento y espero hacer muchos más.” ❤️🖤 [pic.twitter.com/nUe3ey9Gaq](https://t.co/nUe3ey9Gaq)
-> 
-> — Flamengo (@Flamengo\_es) [October 26, 2024](https://twitter.com/Flamengo_es/status/1850293492570063079?ref_src=twsrc%5Etfw)
-
-80 millones de adultos tienen ludopatía o una relación problemática con el juego
-================================================================================
-
-Un análisis constató que un 15,8% de los adultos y un 26,4% de adolescentes que juegan en casinos podrían padecer ludopatía.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Imagen sobre juegos de azar.](https://www.elcomercio.com/wp-content/uploads/2024/10/juegos-azar-pexels.jpg)
-
-Unos **80 millones de adultos** en todo el mundo tienen [ludopatía](https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html "https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html") o una **relación problemática** con los juegos de azar, indicó un informe publicado este jueves por ‘The Lancet public health’, que pidió a los Gobiernos abordarlo internacionalmente como un **asunto de salud pública.**
-
-### Más noticias
-
-* [Los juegos de azar, entre la clandestinidad y la ludopatía](https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html "https://www.elcomercio.com/actualidad/juegos-azar-clandestinidad-ludopatia-casinos.html")
-* [Expertos concuerdan en que cobro de impuestos a juegos de apuesta en línea es válido](https://www.elcomercio.com/actualidad/negocios/ludopatia-cobro-impuestos-juegos-apuestas.html "https://www.elcomercio.com/actualidad/negocios/ludopatia-cobro-impuestos-juegos-apuestas.html")
-
-El estudio fue elaborado por una **comisión de expertos** coordinada por la revista en base a investigaciones y datos disponibles. Halló que, en total, **448,7 millones de adultos** están en situación de riesgo, es decir, experimentan al menos un síntoma y más o menos **consecuencias adversas resultantes** del hábito o adicción.
-
-Los autores subrayaron la necesidad de **restringir las actividades de las aplicaciones** y plataformas digitales de juego, que se están expandiendo rápidamente incluso en países donde éste está prohibido.
-
-Ludopatía o trastorno del juego
--------------------------------
-
-El análisis de la comisión constató que un **15,8% de los adultos** y un 26,4% de los adolescentes que juegan en casinos o tragaperras en línea podrían padecer **ludopatía o trastorno del juego**. Esto incluye a un 8,9% de los adultos y un 16,3% de los adolescentes que hacen apuestas digitales de carácter deportivo.
-
-Los comisionados, especialistas en varias disciplinas, señalaron que el juego se asocia a “**pérdidas financieras** y riesgo de ruina” y a “**problemas de salud física** y mental, ruptura de relaciones y de la familia, un **mayor riesgo de suicidio** y de violencia doméstica, al aumento de los delitos contra la propiedad y las personas y a la pérdida de empleo”.
-
-Plataformas digitales y videojuegos
------------------------------------
-
-Estimaron que, debido a la **proliferación de las plataformas digitales** y los videojuegos -cuya “arquitectura” los promueve-, los juegos de azar están al alcance en más del 80% de los países del mundo.
-
-Los académicos apuntaron que “su expansión aumenta con especial rapidez en los de **ingresos bajos** y medios, que a menudo tienen una **infraestructura regulatoria débil** para hacer frente a esta industria global y su impacto”.
-
-Niños y adolescentes expuestos a publicidad
--------------------------------------------
-
-El efecto de los juegos de azar es mayor en grupos especialmente vulnerables, entre ellos los socialmente desfavorecidos. Es el caso de “los **niños y adolescentes que se ven expuestos de forma rutinaria** a la publicidad de productos de juego”, adujeron los autores.
-
-Los comisionados pidieron a las autoridades que establezcan una regulación eficaz en todos los países, al margen de si jugar es o no permitido por ley.
-
-En su opinión, esto debería incluir una reducción de la disponibilidad de estos productos y de la exposición de la población a ellos, “mediante **prohibiciones o restricciones** en el acceso, la promoción, el marketing y el patrocinio”.
-
-Los expertos también recomendaron que los Estados ofrezcan apoyo y tratamiento asequible a los afectados de trastornos del juego y pongan en marcha campañas de concienciación social.
-
-Charles Livingstone, de la Universidad de Monash en Australia, indicó que “los australianos son los que más gastan en **juegos de azar per cápita en el mundo**, con unos **1 555 dólares australianos** por adulto al año”, y aseguró que hay voluntad en el país para tratarlo como un problema de salud pública.
-
-Heather Wardle, de la Universidad de Glasgow en el Reino Unido, advirtió por su parte del desafío que plantea la naturaleza cambiante del juego.
-
-“Cualquier persona con un teléfono móvil tiene ahora acceso a lo que básicamente es un casino de bolsillo, las 24 horas del día. Los **sofisticados marketing** y tecnología hacen que sea más fácil empezar a jugar y más difícil dejar de hacerlo”, afirmó.
-
-Kristiana Siste, de Universitas Indonesia, instó a tomar medidas para proteger a los menores de edad.
-
-“Sabemos que la **exposición temprana aumenta el riesgo** de desarrollar trastornos más adelante en la vida, y los niños y adolescentes son particularmente vulnerables al **atractivo del dinero fácil** y a los diseños parecidos a los videojuegos de los juegos de azar en línea”, agregó. 
-
-Ángela Aguilar causa polémica con el lanzamiento de su muñeca
-=============================================================
-
-La cantante mexicana Ángela Aguilar presentó su muñeca en su cuenta de Instagram.
----------------------------------------------------------------------------------
-
-![Ángela Aguilar presentó su muñeca por e Día de los Muertos. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo198.jpg)
-
-La cantante de música regional mexicana, **[Ángela Aguilar](https://www.angelaaguilaroficial.com/ "https://www.angelaaguilaroficial.com/")**, desató controversia tras el lanzamiento de su muñeca ‘La Llorona’. La presentó para conmemorar el Día de Muertos.
-
-La hija del reconocido cantante **Pepe Aguilar** busca honrar las tradiciones mexicanas con este nuevo producto, inspirado en su famosa interpretación de la icónica canción.
-
-### **Más noticias:**
-
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
-* [¿Qué pasó con el perro de Liam Payne?](https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html "https://www.elcomercio.com/tendencias/trending/paso-perro-liam-payne.html")
-* [Policía allanó hotel donde se hospedó Liam Payne](https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html "https://www.elcomercio.com/tendencias/policia-allano-hotel-liam-payne.html")
-
-**Ángela Aguilar presentó su muñeca en redes sociales**
--------------------------------------------------------
-
-En su cuenta de **Instagram**, **Ángela Aguilar c**ompartió un video donde presenta su muñeca. “Angelitxs! Me emociona mucho poder presentarles la nueva edición de mi muñeca ‘La Llorona’ para celebrar y honrar junto a ustedes la tradición del Día de Muertos”.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBfEXyKOQjG/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Ángela Aguilar (@angela\_aguilar\_)](https://www.instagram.com/reel/DBfEXyKOQjG/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Cómo es la muñeca?**
------------------------
-
-La **muñeca**, que se asemeja al vestuario que Ángela Aguilar usó en el video musical de ‘La Llorona’, destaca por su elegante diseño.
-
-> [View this post on Instagram](https://www.instagram.com/reel/C_8pQTFOkbg/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Ángela Aguilar (@angela\_aguilar\_)](https://www.instagram.com/reel/C_8pQTFOkbg/?utm_source=ig_embed&utm_campaign=loading)
-
-El atuendo incluye un vestido negro con bordados dorados, flores, un velo de encaje, un tocado y largos pendientes dorados, lo que refleja la riqueza cultural de México.
-
-**¿Cuánto cuesta el juguete?**
-------------------------------
-
-El precio de la muñeca es de 55 dólares, equivalentes a 1 089 pesos mexicanos. Además, la preventa incluye un CD sorpresa como obsequio, según detalla su página web.
-
-Esta muñeca forma parte de la colección ‘Mexicano hasta los huesos”Ç’, que incluye varios productos relacionados con la cultura mexicana, como un libro.
-
-**Polémica por el lanzamiento de su muñeca**
---------------------------------------------
-
-Los usuarios de redes sociales cuestionaron el ‘orgullo mexicano’ de Ángela Aguilar, recordando sus comentarios sobre su nacionalidad en el pasado.
-
-Chelsea de Moisés Caicedo brilla y derrota al Newcastle
-=======================================================
-
-Moisés Caicedo fue otra vez figura en el Chelsea que recibió al Newcastle en un tremendo partido en la Premier League
----------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo, jugador ecuatoriano del Chelsea festeja con sus compañeros en el juego ante Newcastle.](https://www.elcomercio.com/wp-content/uploads/2024/10/caicedochelsea.jpg)
-
-El Chelsea de **Moisés Caicedo** se enfrentó al **Newcastle** en Stamford Bridge este domingo 27 de octubre de 2024. En un emocionante y reñido partido, los ‘blues’ ganaron 2-1.
-
-El ecuatoriano fue otra vez una de las figuras de su equipo, que sumó 17 puntos en 9 cotejos y se mantiene en la zona alta de la clasificación de la **Premier League.**
-
-### Más noticias:
-
-* [Moisés Caicedo, el nuevo héroe de los hinchas ecuatorianos](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-nuevo-heroe-de-los-hinchas-ecuatorianos.html "Moisés Caicedo, el nuevo héroe de los hinchas ecuatorianos")
-* [¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?](https://www.elcomercio.com/deportes/moises-caicedo-conference-league-chelsea-panathinaikos.html "¿Por qué Moisés Caicedo no juega con el Chelsea en Conference League?")
-* [Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-liverpool-asistencia-capitan.html "Moisés Caicedo capitanea al Chelsea y asiste ante el Liverpool")
-
-**Nicolás Jackson** abrió el marcador a los 18 minutos con un espectacular gol, tras una jugada rápida que dejó a los aficionados felices.
-
-El empate del Newcastle lo marcó el sueco Alexander Isak a los 32′.
-
-El 2-1 llegó en el inicio del segundo tiempo gracias a un superlativo **Cole Palmer** que marcó con un fuerte remate de izquierda a los 47′.
-
-La jugada del primer gol del **Chelsea** comenzó cuando **Cole Palmer** envió un pase largo desde su propia área, habilitando a Pedro Neto por la banda izquierda.
-
-Neto, con gran velocidad, centró el balón para que Jackson, con gran precisión, firmara su sexto gol de la temporada.
-
-Esta acción dejó claro el potencial del Chelsea, que mostró un juego contundente y bien organizado. Eso sí, al final padecieron porque el Newcastle presionó hasta el final por lograr el empate que a la postre no llegó.
-
-Moisés Caicedo
---------------
-
-**Moisés Caicedo** se destacó nuevamente en el mediocampo, siendo un pilar fundamental en el esquema táctico del entrenador **Enzo Maresca.**
-
-Su capacidad para recuperar balones y distribuir el juego ha sido clave para el rendimiento del equipo.
-
-Es más, a los 36 realizó un tremendo remate desde fuera del área que pasó muy cerca de travesaño.
-
-El ecuatoriano se mostró activo y comprometido, creando espacios y aportando a la construcción del juego ofensivo.
-
-El **Newcastle** también tuvo sus oportunidades, pero Chelsea mantuvo la presión y el control del balón.
-
-Con el apoyo de sus aficionados, el equipo local consolidó la victoria que es crucial en su carrera por los primeros puestos de la Premier League.
-
-> El XI del Chelsea para hoy. 🗞️👇[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHENEW](https://twitter.com/hashtag/CHENEW?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zHjojaUH03](https://t.co/zHjojaUH03)
-> 
-> — Chelsea FC en español (@ChelseaFC\_Sp) [October 27, 2024](https://twitter.com/ChelseaFC_Sp/status/1850519347745177993?ref_src=twsrc%5Etfw)
