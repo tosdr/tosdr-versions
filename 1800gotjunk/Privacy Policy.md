@@ -578,6 +578,46 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Amazing work! Hauled everything away safely and efficiently. Took less than 5min. Thank you for the help!
+
+Lucypiepen Calgary 26/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Professional and friendly. Even made an attempt at sweeping out my very dusty garage.
+
+Teri Silveira Calgary 26/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+super friendly & fast !
+
+Callie Murray Calgary 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service. They were fast and gave me a great deal would highly recommend their services.
+
+Harry Tys Calgary 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+I was very happy with the service that was provided. Was completed quickly. Very cheerful and friendly.
+
+Tillie Wiebe Calgary 21/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Very Friendly. Great service!
 
 Tara Flannery Calgary 18/10/2024
@@ -634,22 +674,6 @@ Calvin Bass Calgary 12/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The guys made it so easy. They were very agreeable to work with & we really appreciated how quickly they took everything.
-
-Anne Garnett Calgary 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very polite. Very efficient.
-
-Art Rae Calgary 11/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Alex and Malcolm were great. They were able to load everything and even made space for some extra items. Efficient and friendly!
 
 Tiffany Wyatt Calgary 11/10/2024
@@ -658,9 +682,25 @@ Tiffany Wyatt Calgary 11/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+The guys made it so easy. They were very agreeable to work with & we really appreciated how quickly they took everything.
+
+Anne Garnett Calgary 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great experience. Both gentleman were friendly & pleasant. They were quick and efficient, got my couch, chair & stool in a snap!
 
 Julie Eckert Calgary 11/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very polite. Very efficient.
+
+Art Rae Calgary 11/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -677,46 +717,6 @@ Justin Fry Calgary 10/10/2024
 Alex and his coworker were very fast, friendly and efficient. Excellent job!!
 
 Trevor W Calgary 10/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-The two men did Justice to the company's reputation and offered Sterling service. 😂 Thanks guys see you again probably.
-
-sarah curran Calgary 09/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kyla and Ray were very prompt and professional and had my junk hauled away in no time! Even my 5x5 soaker tub 👌🏼
-
-Spencer Rigby Calgary 09/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Friendly, efficient, careful service from Sterling and Gurinder. Very pleased!
-
-Craig Eagle Calgary 08/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Thanks to Mikhail and Conner. Great job!!
-
-Zilvitis L Calgary 08/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-John was great, informative, professional and very friendly!! He was very flexible with having to change time of pick up!
-
-Halbie Yasin Calgary 07/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,145 +866,145 @@ Bruno Souza Monteregie Metro 16/03/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Brandon did an amazing job! 100/10 would recommend them anytime! Definitely call them for any junk needs!
+Max and Keone were amazing. Took out a piano on short notice and made it look easy. Would recommend to anyone!
 
-cydney ryals Naples 19/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Greg and Antonio B. were awesome… they were able to complete the job in as little as 10 mins
-
-Alexis D. Cincinnati 19/10/2024
+Ian O Wisconsin 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Max and kiani were very professional and quick removing two couches for me. Highly recommend.
+KD and Connor were very professional and provided a very quick and efficient service! Will use their services again.
 
-Olivia Becker Wisconsin 19/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Luiz and AJ are the best!!!
-
-Joyce May Austin 19/10/2024
+Elric Miller Wisconsin 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Chaz and Kegan were great at cleaning out our garage. Definitely recommend this company.
+Ethan and Steven were the best team we could’ve asked for!! So kind and helpful and got the job done in record time!!! 6/5 stars for me!!
 
-Kyle Southern Naples 19/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steven and Brandon were amazing! They deserve a raise!!😂 Would highly recommend them!!!
-
-Amy Seaman Naples 19/10/2024
+Carmen Wyatt Madison 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Shawn and Patrick showed up on time and very professional.
+Isaiah and Aj were fantastic , they were prompt and tentative. Their attitude is awesome!
 
-Antonio Cecin Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Steeve and gio did an amazing job
-
-Duke Downey Naples 18/10/2024
+carl wolbert Austin 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent job. Wonderful customer service
+Zach and Bobby were fantastic. They were super nice and very thorough and went the extra mile. I would highly recommend them.
 
-Dana Gibson Cincinnati 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Seventeen and Tanner were awesome!
-
-Corey Huhta Madison 18/10/2024
+Chris Belew Austin 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steeve and gio did an amazing job
+Lucas Ben and Antonio did an amazing job for me and saved me hundreds of dollars!!!
 
-juliaslp Naples 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Polite and friendly service. Easy to book the appointment. They were in and out in no time.
-
-Tyler Parker Cincinnati 18/10/2024
+sloan doepke Cincinnati 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great service from James and Steven. Highly recommend them.
+Gabe and Paris were extremely courteous, efficient, and professional. I would definitely use them and 1- 800-got-junk again. .
 
-Michelle Madison 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-André and Sam were courteous, friendly and efficient! Thank you for another great take away!!
-
-Mary Wisconsin 18/10/2024
+Julia Cincinnati 25/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Chris and Brayan awesome and fast to work with!
+Deion and Zach were awesome quick and easy to work with!! Will always use these folks to get rid of stuff!!
 
-Brandon Wisconsin 18/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Couldn’t have been easier! Bobby and Zach were great.
-
-Julie Tower Austin 18/10/2024
+Philip Worob Austin 25/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Crew was on time and did a great job
+Gabe and Paris were very friendly and very efficient. They had our stuff loaded up in no time.
 
-Terry Klein Austin 18/10/2024
+Lisa Durbin Cincinnati 25/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent and polite, friendly service from Foug & Ignacio
+Andre and Brian were excellent and very helpful! Great experience!
 
-Moira Ross LA Metro 18/10/2024
+Jessica Wisconsin 25/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Andra & Brian were very professional & let me know when they would arrive. They were efficient and polite.
+
+Verne Cowles Wisconsin 25/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bobby and David did a real good job, quicker than expected!
+
+Fernando Ruiz Austin 25/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Chase and Joe were so efficient, helpful, and professional!! Highly recommend
+
+Paige Fallon Austin 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Thorough, professional and extremely helpful!
+
+Georgia F Cincinnati 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Paris and George made short work of my junk pile. Friendly service.
+
+David Granger Cincinnati 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+George and Paris really knocked it out. Both were friendly, courteous, and hardworking. 10/10
+
+Stuart Grove Cincinnati 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Got the job done with a good attitude. I appreciate that. 🙂
+
+Vanessa Hodge Cincinnati 24/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super service, quick response. Trent and Sebastian were great
+
+Johnny Morgan Wisconsin 24/10/2024
 
 ### 
 
