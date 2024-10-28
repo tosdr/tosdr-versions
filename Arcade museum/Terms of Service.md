@@ -43,6 +43,8 @@ International Arcade Museum® — Killer List of Videogames®
     * [Magazine PDFs](https://elibrary.arcade-museum.com/)
     * [PDF: Atari Coin Connection](https://elibrary.arcade-museum.com/Atari-Coin-Connection)
     * [PDF: Automatic Age](https://elibrary.arcade-museum.com/Automatic-Age)
+    * [PDF: Automatic World](https://elibrary.arcade-museum.com/automatic-world)
+    * [PDF: Automatico Español](https://elibrary.arcade-museum.com/Automatico-Espa%C3%B1ol)
     * [PDF: C.O.C.A. Times](https://elibrary.arcade-museum.com/COCA-Times)
     * [PDF: Coin Machine Journal](https://elibrary.arcade-museum.com/Coin-Machine-Journal)
     * [PDF: Coin Machine Review](https://elibrary.arcade-museum.com/Coin-Machine-Review)
