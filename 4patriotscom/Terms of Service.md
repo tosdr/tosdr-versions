@@ -1,6 +1,6 @@
-[🎃 \[Scary Good Deal\] Buy 1, Get 1 FREE 1-Week Food Kits
+[America Loves This Delicious 4-Week Survival Food Kit
 
-Shop Now >>](https://products.4patriots.com/food/1-week-bogo/packed-with-variety?afid=mkt&aff_sub=20241025_cam_4p_ecom_announce_1wk-bogo&utm_campaign=mkt_ecom_1wk-bogo_20241025&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid=%7B%7B)
+Shop Now >>](https://4patriots.com/products/4-week-survival-food-kit)
 
 [![Black company logo](//shop.4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//shop.4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
@@ -135,7 +135,7 @@ We Champion Freedom & Self-Reliance
         
         ###### HaloXT Tactical 9-in-1 Solar Flashlight
         
-        587 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        589 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
