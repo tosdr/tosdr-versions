@@ -31,6 +31,362 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El deshielo del Carihuairazo es una parábola
+============================================
+
+La pérdida del glaciar del Carihuairazo es una llamada de atención que no podemos ignorar
+-----------------------------------------------------------------------------------------
+
+![El Carihuairazo es un volcán de Ecuador que está inactivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/carihuairazo-glaciar.jpg)
+
+La desaparición del glaciar del **Carihuairazo**, como ha documentado el investigador Bolívar Cáceres, representa una señal inequívoca de los **efectos devastadores del cambio climático en Ecuador**. Este fenómeno natural, acelerado por la actividad humana, ha borrado de nuestro paisaje una fuente vital de **agua**, de la cual dependían numerosas comunidades para su abastecimiento. Hoy, enfrentan una crisis de **seguridad hídrica** que amenaza su forma de vida y revela un vacío de preparación para las consecuencias de nuestra propia irresponsabilidad medioambiental[.](https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html "https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html")
+
+El **Carihuairazo**, ubicado a 10 kilómetros del **Chimborazo**, era un monumento al equilibrio natural que sostenía a las comunidades andinas aledañas, entre ellas **Cunucyacu**. Esta región y sus habitantes solían beneficiarse del glaciar que, hasta hace poco, ofrecía agua pura y constante. Sin embargo, el **calentamiento global** y el cambio en las precipitaciones precipitaron su extinción, como lo documentó este [Medio](https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html "https://www.elcomercio.com/actualidad/ecuador/carihuairazo-perdio-glaciar-volvera-aparecer.html") el pasado jueves 24 de octubre de 2024, en la conmemoración del **Día Mundial del Cambio Climático.**
+
+> La pérdida del glaciar del Carihuairazo es una llamada de atención que no podemos ignorar. Las autoridades y la sociedad deben reconocer esta crisis como un reflejo de las políticas inadecuadas de manejo de recursos y protección ambiental. Lo del Carihuariazo es una tragedia, pero puede ser también una parábola de lo que sucederá en el futuro si no tomamos medidas urgentes.
+
+Según estudios, entre 1956 y 2015, el **Carihuairazo** perdió un 78,2% de su **glaciar**, y el 22% restante se desvaneció hasta su desaparición total en **2024**. Este ritmo alarmante subraya cómo nuestras acciones y omisiones, al no enfrentar de manera firme la crisis climática, han destruido el frágil balance de estos ecosistemas.
+
+Más allá de los números, el **colapso del glaciar** pone en jaque a cientos de personas cuya supervivencia depende del agua que este proveía. En **Cunucyacu**, por ejemplo, la falta de acceso a agua potable representa un **cambio dramático** en su seguridad hídrica.
+
+Esas comunidades rurales se encuentran ante una encrucijada: **adaptarse rápidamente a nuevas fuentes** de agua, muchas de las cuales son costosas e insuficientes, o enfrentar una creciente precariedad. Este **drama ecológico-social** es también un grito de advertencia para las ciudades que, en el mediano plazo, podrían enfrentar problemas similares si no se adoptan políticas de **adaptación** robustas y urgentes.
+
+La pérdida del glaciar del **Carihuairazo** es una llamada de atención que no podemos ignorar. Las autoridades y la sociedad deben reconocer esta crisis como un reflejo de las **políticas inadecuadas** de manejo de recursos y protección ambiental. Lo del **Carihuariazo** es una tragedia, pero puede ser también una **parábola** de lo que sucederá en el futuro si no tomamos **medidas urgentes**. El tiempo de las advertencias ya ha pasado; ahora, enfrentamos las **consecuencias**.
+
+Traición, fanatismo, ambición
+=============================
+
+Son pocos los políticos que, una vez que alcanzan el poder, se mantienen honestos y se afanan por servir a la colectividad.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Son los habitantes los que, con su **conducta** y sus **cualidades** o **defectos**, prestigian o avergüenzan a un país. Los distintos **órganos** de **gobierno** se integran con **ciudadanos** escogidos en **procesos electorales**; los **electores** seleccionan a los que consideran los **candidatos** más idóneos y les eligen con la **esperanza** de recibir de ellos el **cumplimiento** de sus ofertas de **campaña**. Son pocos los **políticos** que, una vez que alcanzan el poder, se mantienen **honestos** y se afanan por servir a la **colectividad**, por desgracia, abundan aquellos que aprovechan los **mandatos** en **beneficio** partidista y personal, en una clara traición a la **motivación** que animó a los **sufragantes** a votar por ellos.
+
+ Una **historia** de una década copada de **abusos** e **inmoralidades** se ha extendido como un magma obscuro y pestilente en los mandos medios de varias **instituciones**: ministerios, **juzgados**, fiscalías y sobre todo en la **legislatura**. Esta fuerza negativa, que se mantiene en **reposo** relativo, pues da **zarpazos** en unas **ocasiones** y ataca taimadamente en otras, con el fin de **desestabilizar** a todo gobierno que no se identifica con ella, para obligarle a que borre las **sentencias** que, por **corrupción**, han sido impuestas por el **sistema judicial** a los líderes y principales que fueron **autoridades** y **funcionarios**.
+
+Claras han sido las muestras del afán **conspirador** desesperado de los **asambleístas**, representantes de ese **grupo político**, que han fracasado en sus **malintencionados** intentos de desarmar la **justicia** y atacar a las **bases institucionales** del Estado, mediante **acciones** turbias y perjudiciales para el **ordenamiento** nacional, como han sido los **fallidos juicios** ya a la valiente y ejemplar Fiscal General, Dra. Diana Salazar, ya a la Canciller Sommerfeld y como cercana culminación el triste y criticable papel que cumplieron los mal preparados **interpelantes** de la **bancada** de **Alianza País**, en el **forzado juicio** instaurado a la culta, altiva y señorial dama Dra. Mónica Palencia, Ministra del Interior, que demostró, con mucha altura, que la **firmeza**, el **orden** y la **educación**, se imponen a la **politiquería**, a los gritos, a las **trampas** y a las **escenas histriónicas.**
+
+Esta última derrota del **correísmo** tuvo como pretexto inicial el afán de la **Embajada de México** de proteger al exvicepresidente Glas y de brindarle asilo político en México, pese a que estaba sentenciado aquí, en el país, por varias causas. El **gobierno nacional** actuó rápidamente para evitar ser engañado y volvió a apresar al condenado, en el interior de la **embajada**, ante la falta de colaboración de las **autoridades diplomáticas** mexicanas; de inmediato la bancada correista amenazó a la Sra. Ministra con enjuiciarla y sumaron otras **acusaciones**, muchas de ellas absurdas. Curiosamente, el pretexto inicial fue **desapercibido** en el **transcurso** del **juicio** y no se lo mencionó, pero quedó ratificado que los **asambleístas**, de esa bancada, no defienden la **soberanía ecuatoriana** y que, junto a su principal **líder prófugo**, defendieron a **México** en contra del Ecuador, en otro acto de **traición** a la **patria**.
+
+Obsesionados, como viven, trataron de destituir a la **Sra. Ministra**, no les importó burlarse de la **justicia** y durante el **trámite** del **proceso legal**, quisieron enfrentarla con un exfuncionario del **gobierno** de **Correa**, en forma similar a lo que intentaron hacer con la **Fiscal Salazar**; pero no lo consiguieron.
+
+Anhelan volver al **poder**, porque en el largo período anterior **financiaron** su **futuro económico** y hoy tratan de complementar su **enriquecimiento ilícito**.
+
+Apelamos a los **fanáticos** para que capten la **realidad** y no respalden más a la gente que en 10 años hizo mucho daño y lo sigue haciendo a través de sus **partidarios infiltrados** en oficinas e **instituciones** públicas.
+
+Defendamos la **honradez**, la ética y el **compromiso** total de enaltecer siempre a **nuestra patria** y frenemos a esos **políticos** que ofenden permanentemente a la **moral pública** y respaldan, sin ningún recato, a todo tipo de **delincuentes**, a los que incluso incluyen en sus **cuadros gubernamentales** y **legislativos**.
+
+Cortes de luz en Cuenca para este lunes 28 de octubre
+=====================================================
+
+Centrosur detalló los 17 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
+------------------------------------------------------------------------------------------------------------------
+
+![Cuenca tendrá cortes de luz de entre 12 a 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-cortes-luz.jpg)
+
+La Empresa Eléctrica **Centrosur** detalló el cronograma de **cortes de luz** que tendrá **Cuenca** este lunes **28 de octubre** de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
+* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+
+Cortes de luz en Cuenca para este lunes 28 de octubre
+-----------------------------------------------------
+
+La capital de Azuay mantendrá **apagones programados** de entre **12 y 14 horas**, distribuidos en **dos y tres franjas horarias**.
+
+La suspensión del servicio eléctrico contempla **racionamientos** que cubren la madrugada, mañana, tarde y noche.
+
+Las **zonas residenciales** de Cuenca tendrán 14 distintos **horarios** de cortes de luz.
+
+Mientras que el **sector industrial** tendrá apagones de **seis** y **12 horas**, en horarios de 00:00 a 06:00 y de 00:00 a 05:00 y de 10:00 a 17:00.
+
+La entidad no explicó los criterios utilizados para la **sectorización** de los racionamientos.
+
+Te compartimos el cronograma completo de apagones por barrios, y los horarios para el resto de **Azuay**, **Cañar y Morona Santiago**.
+
+Daniel Noboa explicó razones de los cortes de luz
+-------------------------------------------------
+
+Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+
+“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+
+Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+
+“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+
+“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+
+Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
+
+“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+
+En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios
+=============================================================================
+
+El presidente Daniel Noboa dispuso una reducción temporal del IVA al 8% en servicios turísticos durante el feriado de noviembre para reactivar el sector.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![En Ecuador, las personas disfrutarán los días de descanso por el Día de los Difuntos e Independencia de Cuenca. Foto: Archivo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado.jpg)
+
+El presidente **Daniel Noboa** dispuso la reducción del impuesto al valor agregado (IVA) del 15% al 8% para lo**s servicios turísticos** durante los feriados por el **Día de los Difuntos e Independencia de Cuenca**, del viernes 1 al lunes 4 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Más noticias
+------------
+
+* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
+* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
+* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
+
+¿Qué establecimientos pueden reducir el IVA al 8%?
+--------------------------------------------------
+
+Durante los días de asueto se reduce el IVA en la prestación de todos los **servicios definidos** como **actividades turísticas**. En el artículo 5 de la **Ley de Turismo** se detallan los establecimientos que se pueden aplicar la reducción, estos son:
+
+* Alojamiento
+* Alimentos, bebidas y entretenimiento
+* Agenciamiento turístico
+* **Transporte turístico**, incluido los pasajes de avión
+* Organizadores de eventos, congresos y convenciones, reuniones, conferencias, ferias y exhibiciones
+* Centros de convenciones, salas de recepciones y salas de banquetes
+* Guianza turística
+* Centros de turismo comunitario
+* Parques temáticos y atracciones estables
+* Balnearios, termas y centros de recreación turística
+
+Los prestadores de servicios turísticos están obligados a obtener el debido Registro de Turismo y Licencia Única Anual de Funcionamiento para cada una de las actividades turísticas que realicen.
+
+Contribuyentes autorizados a cobrar el IVA reducido
+---------------------------------------------------
+
+El Servicio de Rentas Internas (SRI) señaló que los contribuyentes autorizados para aplicar la tarifa reducida son aquellos que consten en el **catastro nacional de establecimientos** **turísticos**.
+
+Además, deben contar con el registro publicado en el portal web del **Ministerio de Turismo**. Hasta este mes de octubre de 2024, hay **29 570 servidores** turísticos registrados.
+
+El objetivo de la **reducción del IVA** es impulsar la reactivación del sector turístico. Los días de descanso permitirán el desplazamiento de las personas a las diferentes regiones del Ecuador y ayudará en la dinamización de la economía del país, señaló el SRI.
+
+La administración tributaria también recordó que los establecimientos que presten servicios turísticos deberán emitir las respectivas **facturas** o **comprobantes de venta** aplicando la tarifa del 8%.
+
+Sanciones para los no registrados
+---------------------------------
+
+En caso de que los contribuyentes apliquen la **tarifa reducida** sin cumplir con las condiciones para hacerlo, “deberán asumir, declarar, liquidar y pagar el valor del impuesto no percibido en la venta del bien o servicio, incluyendo intereses y multas en caso de que corresponda”, agregó.
+
+Si el contribuyente registra en los comprobantes de venta la **reducción de la tarifa** en una transacción que no cumple con los requisitos, puede ser sancionado por contravención con una multa de hasta 1 500 dólares.
+
+31 de octubre se suma al feriado
+--------------------------------
+
+El presidente **Daniel Noboa**, dispuso que se sume al feriado por el **Día de los Difuntos e Independencia de Cuenca** el jueves 31 de octubre, sumando cinco días de asueto. Sin embargo, durante el día de descanso del jueves no habrá reducción de IVA.
+
+El SRI explicó que la Ley Orgánica de Desarrollo Económico y Sostenibilidad Fiscal tras la Pandemia COVID-19 faculta al Presidente de la República a reducir, mediante decreto ejecutivo, la tarifa del IVA al 8% en todos los servicios turísticos, hasta por un máximo de **doce días al año**, por esta razón no habrá reducción del impuesto el 31 de octubre del 2024.
+
+Recaudación del IVA
+-------------------
+
+El impuesto al valor agregado es uno de los más importantes tributos de recaudación del Ecuador. De enero a septiembre de 2024, la recaudación de IVA llegó a 7 144 millones de dólares. Solo en septiembre, este impuesto llegó a 845 millones dólares.
+
+Te contamos la historia de Godzilla, el rey de los monstruos en el cine 
+========================================================================
+
+Godzilla surge como símbolo de los miedos nucleares de Japón tras la Segunda Guerra Mundial.
+--------------------------------------------------------------------------------------------
+
+![Godzilla, símbolo del temor nuclear y héroe de la humanidad. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/godzilla-cine-historia.jpg)
+
+**Godzilla**, conocido en Japón como **Gojira**, es **uno de los monstruos más emblemáticos del cine**. **Su primera aparición** se produjo en 1954 con la película ‘Gojira’ (Japón bajo el terror del monstruo), creada por el **director Ishirō Honda y el productor Tomoyuki Tanaka**.  
+
+### Más noticias
+
+* [Godzilla vs. Kong: dos titanes se enfrentan en la pantalla grande](https://www.elcomercio.com/tendencias/godzilla-kong-titanes-cine-entretenimiento.html "https://www.elcomercio.com/tendencias/godzilla-kong-titanes-cine-entretenimiento.html")
+* [Godzilla, el rey de monstruos regresa a la pantalla grande](https://www.elcomercio.com/tendencias/godzilla-rey-monstruos-pantalla-grande.html "https://www.elcomercio.com/tendencias/godzilla-rey-monstruos-pantalla-grande.html")
+
+Este personaje fue concebido como una **metáfora de los temores nucleares** que afectaron a Japón después de los **bombardeos atómicos de Hiroshima y Nagasaki**. Godzilla representa el **miedo colectivo hacia la energía nuclear** y sus devastadoras consecuencias, de acuerdo con la página [Cine Más Cómics](https://www.cinemascomics.com/godzilla-explicacion-a-su-origen/ "https://www.cinemascomics.com/godzilla-explicacion-a-su-origen/").  
+
+**El nombre original de Godzilla** 
+-----------------------------------
+
+El nombre **‘Gojira’** es una **combinación de las palabras japonesas para “gorila” y “ballena”**, lo que refleja su **imponente tamaño y fuerza**. La creación de Godzilla fue influenciada por la **devastación que sufrió Japón durante la Segunda Guerra Mundial**, especialmente por los efectos de la radiación, a decir de [Japonpedia](https://japonpedia.com/la-historia-de-godzilla/ "https://japonpedia.com/la-historia-de-godzilla/").  
+
+En su primera película, **Godzilla es presentado como una criatura prehistórica** que **despierta tras las pruebas nucleares en el Atolón Bikini**, lo que transforma a este antiguo ser marino en un colosal monstruo, según [La Casa de El](https://www.lacasadeel.net/2024/08/godzilla-y-sus-origenes.html "https://www.lacasadeel.net/2024/08/godzilla-y-sus-origenes.html").  
+
+**Evolución del personaje** 
+----------------------------
+
+A lo largo de las décadas, **Godzilla ha evolucionado en su representación**. En las primeras películas, es visto principalmente como un destructor, que **simboliza la arrogancia humana y el desdén por la naturaleza**. Sin embargo, con el tiempo, **su imagen cambió a la de un protector**. En muchas películas posteriores, Godzilla se enfrenta a otras criaturas gigantes y se convierte en **un héroe que defiende a la humanidad**, de acuerdo con la página [Cine Premiere](https://cinepremiere.com.mx/godzilla-historia-origen-peliculas.html "https://cinepremiere.com.mx/godzilla-historia-origen-peliculas.html").  
+
+La **era ‘Showa’** (1954-1975) marcó un período crucial para Godzilla. Durante estos años, **las películas reflejaron las tensiones políticas y sociales de Japón**. En este contexto, Godzilla simbolizaba tanto los peligros de la energía nuclear como una crítica a la intervención humana en la naturaleza, siguiendo con La Casa de El. 
+
+En la **era ‘Heisei’** (1984-1995), **Toho reinventó al monstruo**, al explorar sus orígenes con **narrativas más complejas** que incluían elementos de ciencia ficción y viajes en el tiempo, según Cadenaser. 
+
+**Impacto cultural** 
+---------------------
+
+**Godzilla no solo ha impactado el cine japonés**; también ha dejado una **huella indeleble en la cultura pop mundial**. A lo largo de su historia, **ha protagonizado más de 32 películas** producidas por Toho y **varias adaptaciones estadounidenses**. Su figura ha sido utilizada para explorar temas como el **miedo a lo desconocido y las consecuencias del avance tecnológico**. 
+
+**Películas más famosas de Godzilla** 
+--------------------------------------
+
+### **‘Godzilla’ (Ishiro Honda, 1954)**  
+
+Una comunidad de pescadores en Japón sospecha que Godzilla es responsable de ataques a barcos, mientras las autoridades investigan su origen, ligado al uso de armas atómicas.   
+
+### **‘King Kong vs Godzilla’ (Ishiro Honda, 1962)**  
+
+Godzilla, tras ser despertado, se enfrenta a King Kong, un monstruo que un empresario planea llevar a Japón como atracción. La película, la segunda de la franquicia, presenta su primer encuentro a todo color.  
+
+### **‘Godzilla’ (Gareth Edwards, 2014)**  
+
+Dirigido por Gareth Edwards, dio inicio al ‘MonsterVerse’, pero recibió críticas por la escasa presencia del monstruo, ya que se centra en la imprudencia humana frente a fuerzas de la naturaleza.   
+
+### **‘Shin Godzilla’ (Hideaki Anno y Shinji Higuchi, 2016)**  
+
+Se utiliza al monstruo para criticar la burocracia política en Japón, mientras Godzilla causa una devastación aterradora. Su ritmo y estética la convierten en una de las mejores entregas de la saga.  
+
+### **‘Godzilla y Kong: El nuevo imperio’ (Adam Wingard, 2024)**  
+
+En la última entrega de la franquicia, seguimos las aventuras de un grupo de criptólogos de una agencia que se enfrentan a varios monstruos, incluido Godzilla. Juntos, intentarán detener a estas antiguas criaturas. 
+
+Daniel Noboa explicó las razones de los cortes de luz a Ecuador
+===============================================================
+
+El presidente Daniel Noboa dio una entrevista a TC Televisión donde habló sobre la crisis energética que vive Ecuador.
+----------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa habló durante una hora sobre la realidad que vive Ecuador en materia energética, en seguridad y economía](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-entrevista-cortes-de-luz.jpg)
+
+El presidente **Daniel Noboa** dio una entrevista a TC Televisión, donde explicó las razones de los **cortes de luz** a los ecuatorianos.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
+* [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
+
+El mandatario comenzó con su intervención, a las 20:30 de este domingo **27 de octubre de 2024**, hablando del **porqué de los apagones**.
+
+Cortes de luz en Ecuador
+------------------------
+
+Según Noboa, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+
+“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+
+Al ser cuestionado sobre si el **anuncio inicial** de reducir los apagones de forma paulatina en tres semanas fue una **medida populista**, el mandatario aseguró que “no lo fue”.
+
+“La proyección en ese momento era favorable, pero ahora el **escenario es distinto**“, dijo Noboa.
+
+“Teníamos un escenario del **70 % de probabilidad** (…) no fue una medida populista, sino algo pensado con la **mayor planificación posible**“, añadió.
+
+Noboa afirmó que los **cronogramas de apagones** han sido diseñados con la **mayor empatía** hacia la ciudadanía.
+
+“Cuando un grupo de técnicos me dice que tenemos que hacer **cortes de 15 horas** para mejorar la situación, yo me peleo con ellos, siempre buscamos las mejores formas”, mencionó.
+
+> Todas las medidas tomadas son pensadas en el beneficio de las personas, lamentablemente los escenarios nos han jugado en contra. No son medidas populistas ni medidas con engaños. [#NoboaEnTC](https://twitter.com/hashtag/NoboaEnTC?src=hash&ref_src=twsrc%5Etfw)[#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/qTU9UA3Xec](https://t.co/qTU9UA3Xec)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 28, 2024](https://twitter.com/Presidencia_Ec/status/1850735188323488047?ref_src=twsrc%5Etfw)
+
+Situación actual del sistema energético
+---------------------------------------
+
+El **consumo promedio de Ecuador** es de **4 800 a 4 900 megawatts (MW)**; en esta crisis se enfrenta un **déficit de 1 000 a 1 400 MW**, según Noboa.
+
+“Nosotros, entre lo recuperado y las **nuevas adquisiciones de energía**, vamos a incluir más de **1 500 MW** para que no existan estos problemas en los próximos estiajes”, aseguró el Presidente.
+
+De acuerdo con el jefe de Estado, **Mazar** tiene una **cota mínima de 1 098** que jamás se alcanzó; en la peor situación registrada, bajó a **2 107 en abril de 2024**, de los **2 110** recomendados por los expertos.
+
+Esta situación en ese momento se equilibró gracias a los **fuertes caudales** en la central y a las **fuertes lluvias en Coca Codo Sinclair**.
+
+“Ahora tenemos **poco caudal en Coca Codo** y registramos **2 112 de cota en Mazar**; no digo que está bien, pero esas son las cifras reales”, puntualizó **Daniel Noboa**.
+
+¿Para cuándo se tiene previsto resolver la crisis energética?
+-------------------------------------------------------------
+
+Daniel Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+
+“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+
+“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+
+Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en diciembre, con todo lo que estamos trayendo en energía”, enfatizó.
+
+“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+
+Medidas para enfrentar la crisis energética
+-------------------------------------------
+
+Según el mandatario, se invertirán **710 millones de dólares en adquisición y alquiler de energía adicional**, que funcionará de noviembre a marzo del próximo año.
+
+No obstante, **Daniel Noboa** aseguró que ya se han implementado varias acciones para enfrentar la actual crisis energética, como la **compra de una barcaza**, la **recuperación pública de MW** y los **acuerdos con la empresa privada**.
+
+Son 434 MW en centrales térmicas que se han recuperado a lo largo de este año”, aseguró
+
+“Tenemos la **apertura para realizar macroproyectos**; estamos en **conversaciones permanentes** y proyectando acuerdos con **Francia y Perú**“, añadió Noboa.
+
+Subsidio de planillas y condonación de deudas
+---------------------------------------------
+
+Asimismo, dijo que se implementaron varias medidas considerando que los **cortes de luz afectaron a los más pobres y a la clase media**.
+
+“No me parece justo que la gente pague completa la planilla cuando no reciben el **servicio total**, por eso estamos subsidiando un **consumo promedio de 180 KW** a cada familia durante **cuatro meses**“, señaló.
+
+Además, refirió otras acciones aplicadas, entre ellas:
+
+* Condonación de deudas a las juntas de agua
+* Financiamiento para la compra de generadores
+* Refinanciamiento de deudas con BanEcuador
+* Condonación de deudas con el desaparecido Banco de Fomento
+
+“En este momento tenemos que hacer todo lo posible para retomar la **normalidad** y reducir el impacto de este **periodo de crisis**, que ha sido una **desgracia para todos**“, enfatizó el Presidente.
+
+¿Tardía reacción ante la emergencia climática?
+----------------------------------------------
+
+Noboa no cree que su Gobierno haya tenido una **reacción tardía** ante esta emergencia. Aseguró que desde que comenzó su mandato, “ha trabajado en **enfrentar el problema energético**“.
+
+“Hemos **cambiado funcionarios** cuando era necesario; la llegada de **Inés (Manzano)** reforzó este trabajo”, señaló.
+
+Ante la pregunta de si sus **decisiones están pensadas en las próximas elecciones**, dijo: “No me interesa si la actual situación afecta a mi popularidad; mi **carrera política** está enfocada en ayudar a la gente”, comentó.
+
+‘Recibí el país en una situación crítica’
+-----------------------------------------
+
+Según el mandatario, recibió el país en una **situación crítica**, lo cual “complicó aplicar su **plan de Gobierno**“.
+
+“No podíamos ni pagar **décimos terceros sueldos**; me dejaron todo vacío, logramos financiamiento, subimos las **reservas**, hemos **salvado la dolarización** y estabilizado la economía”, aseguró Noboa.
+
+“Ha sido complicado **balancear todo esto**, entre pagar las deudas anteriores y buscar la **inversión para nuevos proyectos**“, añadió.
+
+Cifras económicas
+-----------------
+
+En la parte final de su entrevista, el jefe de Estado se tomó unos minutos para explicar la **situación económica y de seguridad** que tiene el país.
+
+En lo primero, aseguró que **Ecuador tuvo un crecimiento del 0,9 % en ventas** en varios sectores; aunque no detalló cuáles, mencionó que fue el área de **productos no petroleros** la más beneficiada.
+
+Las **exportaciones también subieron**, según Noboa, un **13 %**; sin embargo, también mostró que el **consumo local cayó un 1 %**.
+
+“Debemos mejorar mucho; por como nos dejaron los otros Gobiernos, tocó **tomar medidas duras**. Me molesta subir el **IVA y los impuestos**, ese no era mi plan original, pero tuve que adaptarlo y tener un **año de sacrificio**“, aseguró.
+
+Inseguridad se redujo, según Noboa
+----------------------------------
+
+Por último, en materia de **seguridad**, el mandatario manifestó que los **crímenes en general se redujeron significativamente cada mes**.
+
+“Esto se debe al **trabajo conjunto** de todos: Ministerios, Fuerzas Armadas, Policía, todos”, comentó.
+
+Al preguntarle por qué en sectores como **Durán**, la criminalidad no se reduce, **Daniel Noboa** dijo que esto se debe a que el **crimen organizado se mueve constantemente**.
+
+“Hemos logrado reducir el crimen en un **40 % en sectores como Nueva Prosperina**, por ejemplo; pero **Durán está peor que el año pasado**. Ahora, si analizamos las cifras generales de **Guayas** vemos una reducción considerable”, afirmó.
+
+De acuerdo con el entrevistado, el **Gobierno ha logrado quitarle más de 3 000 millones de dólares a los grupos delincuenciales**.
+
+“Aunque suene absurdo, esto afecta a la economía también, pero preferimos eso a todo el **daño social** que provocan”, dijo.
+
 Cortes de luz en Guayaquil para este lunes 28 de octubre
 ========================================================
 
@@ -45,6 +401,7 @@ La Corporación Nacional de Electricidad (**CNEL**) detalló los horarios de **c
 
 * [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
 * [Cortes de luz en Quito para este lunes 28 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-lunes-28-de-octubre-de-2024.html "Cortes de luz en Quito para este lunes 28 de octubre de 2024")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
 
 De acuerdo con el cronograma de la entidad, la capital de **Guayas** tendrá apagones diferenciados de **cuatro** a **14 horas**.
 
@@ -61,11 +418,28 @@ Mientras que el **sector industrial** tendrá apagones de **cuatro horas**, de *
 
 Te compartimos el **cronograma completo** para este lunes 28 de octubre.
 
+Daniel Noboa explicó razones de los cortes de luz
+-------------------------------------------------
+
+Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+
+“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+
+Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+
+“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+
+“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+
+Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
+
+“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+
 Cortes de luz en Quito para este lunes 28 de octubre de 2024
 ============================================================
 
-La Empresa Eléctrica Quito (EEQ) detalló los 10 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
------------------------------------------------------------------------------------------------------------------------------------------
+La Empresa Eléctrica Quito detalló los 10 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ![Quito tendrá cortes de luz de entre 12 a 14 horas este lunes](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-lunes-28-octubre.jpg)
 
@@ -74,6 +448,8 @@ La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz*
 ### Más noticias
 
 * [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
+* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
+* [Cortes de luz en Guayaquil para este lunes 28 de octubre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-lunes-28-de-octubre.html "Cortes de luz en Guayaquil para este lunes 28 de octubre")
 
 La capital mantendrá **apagones programados** de 12, 13 y 14 horas, distribuidos en **dos franjas horarias**.
 
@@ -153,6 +529,23 @@ Las **zonas residenciales** de Quito tendrán **siete horarios** de cortes de lu
 Mientras que en las **zonas industriales**, los apagones se realizarán de acuerdo con **tres horarios**.
 
 Este es el **cronograma completo** por barrios para este lunes 28 de octubre.
+
+Daniel Noboa explicó razones de los cortes de luz
+-------------------------------------------------
+
+Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+
+“Había mantenimientos desde 2020 que no se realizaban (…) los Gobiernos de **Guillermo Lasso y Lenín Moreno** descuidaron este aspecto por **ideologías políticas**“, dijo **Daniel Noboa**.
+
+Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+
+“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+
+“Necesitamos por lo menos añadir otros **400 o 500 MW para 2026**“, añadió.
+
+Sin embargo, el Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
+
+“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
 
 Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre
 ======================================================================================
@@ -835,240 +1228,3 @@ Con el apoyo de sus aficionados, el equipo local consolidó la victoria que es c
 > El XI del Chelsea para hoy. 🗞️👇[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHENEW](https://twitter.com/hashtag/CHENEW?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zHjojaUH03](https://t.co/zHjojaUH03)
 > 
 > — Chelsea FC en español (@ChelseaFC\_Sp) [October 27, 2024](https://twitter.com/ChelseaFC_Sp/status/1850519347745177993?ref_src=twsrc%5Etfw)
-
-Evo Morales denunció ataque armado en su contra
-===============================================
-
-Evo Morales culpó al Gobierno de Luis Arce, afirmando que "hoy se ha cumplido" un plan para intentar matarlo.
--------------------------------------------------------------------------------------------------------------
-
-![Evo Morales denunció ataque armado. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo197.jpg)
-
-El expresidente de Bolivia, **Evo Morales**, denunció este 27 de octubre de 2024 que el vehículo que lo trasladaba hacia su programa de radio fue atacado por desconocidos.
-
-### **Más noticias:**
-
-* [Kamala Harris considera que Donald Trump ‘es un fascista’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-dice-cree-donald-trump-fascista.html")
-* [Kamala Harris anunciará un plan para que los latinos alcancen el ‘sueño americano’](https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-anunciara-plan-latinos-alcancen-sueno-americano.html")
-* [Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris](https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html")
-
-**Evo Morales denunció ataque armado en su contra**
----------------------------------------------------
-
-Evo Morales afirmó que dispararon al menos 14 veces, hiriendo a su chofer. El incidente ocurrió en el trayecto entre Villa Tunari y Lauca ÑÑ, en el Trópico de **Cochabamba**.
-
-Morales, líder del Movimiento al Socialismo (MAS), relató a la radio Kawsachun Coca que notó la presencia de dos o tres camionetas que seguían su vehículo.
-
-Ante la situación, su chofer tomó un desvío, pero la persecución continuó.
-
-“Ahí me di cuenta que era un operativo”, mencionó el exmandatario, quien se mostró agradecido por haber salido ileso del ataque.
-
-El suceso fue registrado en un video de cuatro minutos, donde se escucha a los ocupantes del coche instando a **Morales** a agacharse.
-
-Durante el ataque, el exgobernante intentaba alertar sobre lo que estaba ocurriendo. La grabación muestra el momento en que se percatan de que el chofer sangra de la cabeza y toca la bocina para avanzar en medio del tráfico.
-
-Tras el ataque, Morales culpó al Gobierno de **Luis Arce**, afirmando que “hoy se ha cumplido” un plan para intentar matarlo.
-
-Este ataque se produce en un contexto de tensiones políticas en **Bolivia**. Sucede a dos semanas del bloqueo indefinido de caminos por parte de seguidores de Morales. Ellos exigen el retiro de procesos judiciales en su contra.
-
-Además, los manifestantes piden soluciones al aumento de precios de alimentos, la falta de dólares y la irregular provisión de combustibles.
-
-La Cancillería boliviana calificó estas protestas como un intento de interrumpir el orden democrático, mientras el presidente Arce relevó al alto mando militar para preservar la estabilidad del país.
-
-Trágico siniestro vehicular en Quito
-====================================
-
-Un nuevo siniestro vehicular se registró en la avenida Simón Bolívar.
----------------------------------------------------------------------
-
-![Miembros del Cuerpo de Bomberos de Quito durante labores de rescate. Foto: Cuerpo de Bomberos](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo196.jpg)
-
-La madrugada de este 27 de octubre de 2024, a las 00:11, el **Cuerpo de Bomberos de Quito** recibió una alerta sobre un **siniestro vehicular** en la avenida Simón Bolívar, sector Puente de Gualo.
-
-Al lugar del accidente se movilizaron 13 efectivos, junto con una unidad de rescate y una ambulancia.
-
-### **Más noticias:**
-
-* [Quito tiene opciones para reducir los siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html")
-* [Trabajos cerca del túnel Guayasamín afectan la movilidad, conozca las alternativas](https://www.elcomercio.com/actualidad/quito/trabajos-tunel-guayasamin-afectan-movilidad-alternativas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/trabajos-tunel-guayasamin-afectan-movilidad-alternativas.html?source=Internal&ref=Single+Content+Link")
-* [Radiografía de la movilidad en Quito, un problema vigente](https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/quito/radiografia-movilidad-quito-problema-vigente.html?source=Internal&ref=Single+Content+Link")
-
-**Trágico siniestro vehicular en Quito**
-----------------------------------------
-
-Miembros del Cuerpo de Bomberos de Quito constataron que un vehículo impactó contra el muro de contención del puente y cayó aproximadamente 100 metros en la quebrada, sufriendo daños totales.
-
-En el lugar, se atendió a una mujer con múltiples **policontusiones**. Tras recibir atención médica, fue estabilizada y transportada a una casa de salud para exámenes especializados.
-
-**Siniestro vehicular deja un muerto**
---------------------------------------
-
-Lamentablemente, el conductor del vehículo, un hombre, fue encontrado atrapado y sin signos vitales. Los bomberos realizaron maniobras de rescate para extraer el cuerpo.
-
-Luego, fue empaquetado y llevado a la parte alta del puente para ser entregado a personal de medicina legal.
-
-Para asegurar el desarrollo de las labores de rescate, el **Cuerpo de Bomberos de Quito** coordinó con la Agencia Metropolitana de Tránsito (AMT) el cierre de la vía.
-
-Además, se solicitó la asistencia de una grúa y se contactó al Servicio de Investigación de Accidentes de Tránsito (SIAT) para determinar las causas del siniestro.
-
-**Más siniestros este 27 de octubre de 2024**
----------------------------------------------
-
-En la madrugada, en la avenida Simón Bolivar, sector UIDE en sentido de sur a norte, se constató un vehículo tipo furgoneta impactada contra poste de alumbrado público.
-
-Personal paramédico de Bomberos Quito asistió a dos ocupantes y brindó seguridad en el sitio hasta retirar al vehículo accidentado.
-
-A las 01:30, en la vía a Nono sector del Club de Abogados, se encontró un furgón tipo encunetado sobre un costado de la vía. Los bomberos atendieron y estabilizaron a un hombre de aproximadamente 21 años,.
-
-A las 05:30, en las calles Huirachuros y Orquídeas, sector Tumbaco, se verificó la pérdida de pista de vehículo pequeño.
-
-Feriado del jueves 31 de octubre es obligatorio para el sector público y privado
-================================================================================
-
-El Ministerio de Trabajo anunció que la suspensión de la jornada laboral del jueves 31 de octubre es obligatoria para el sector público y privado.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La suspensión de la jornada laboral del 31 de octubre es obligatoria para el sector privado y público.](https://www.elcomercio.com/wp-content/uploads/2024/10/jornada-ok.jpg)
-
-El **feriado del 31 de octubre de 2024** será obligatorio para trabajadores públicos y privados en todo el país, en cumplimiento del **Decreto Ejecutivo 438**, emitido por el **presidente Daniel Noboa.**
-
-El gobierno ecuatoriano, a través del decreto del 25 de octubre de 2024, anunció la suspensión de la jornada laboral para todo el territorio nacional el próximo 31 de octubre.
-
-Esta medida tiene **carácter obligatorio y abarca tanto al sector público como al privado**, según el comunicado oficial del **Ministerio del Trabajo, difundido este 27 de octubre.**
-
-### Más noticias
-
-* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
-* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
-* [Cortes de luz en Cuenca para este domingo 27 de octubre](https://www.elcomercio.com/actualidad/cuenca/cortes-de-luz-en-cuenca-para-este-domingo-27-de-octubre.html "Cortes de luz en Cuenca para este domingo 27 de octubre")
-
-La **disposición señala que para el sector público se establecerá posteriormente un cronograma específico** para recuperar el día no laborado.
-
-En tanto, el **sector privado tendrá la facultad de organizar de forma discrecional cómo se realizará la recuperación de la jornada**, siempre que se garanticen los derechos laborales de los trabajadores y se mantenga la continuidad de las actividades consideradas esenciales, cuyo funcionamiento no puede ser interrumpido.
-
-Daniel Noboa extiende el feriado nacional de noviembre
-------------------------------------------------------
-
-“En atención al sector turístico, el Gobierno del Ecuador ha dispuesto la suspensión de la jornada laboral del jueves 31 de octubre”, señaló la Presidencia.
-
-Además, “para fortalecer la actividad económica“, en el marco del feriado nacional por el **Día de los** **Difuntos y la Independencia de Cuenca.**
-
-La modalidad de recuperación de la jornada suspendida en el sector público será anunciada oportunamente. El sector privado podrá decidir sobre el cronograma de recuperación del día laborable.
-
-El 31 de octubre antecede a cuatro días de feriados
----------------------------------------------------
-
-La jornada laboral del 31 de octubre antecede a cuatro días de feriados.
-
-**El Día de los Difuntos** se conmemora el sábado 2 de noviembre, pero se traslada al viernes 1 de noviembre.
-
-**La Independencia de Cuenca** se recuerda el domingo 3 de noviembre, pero se traslada al lunes 4 de noviembre.
-
-Con esto, los días de los feriados de noviembre ascienden a cuatro: **viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre[.](https://es.wikipedia.org/wiki/Ecuador)**
-
-Con la suspensión de la jornada laboral para el sector público, los días de descanso se amplían a cinco en todo el territorio nacional.
-
-Cabecilla de Los Tiguerones fue capturado con fuerte armamento
-==============================================================
-
-A esta persona se le atribuye la responsabilidad de dirigir y organizar actividades delictivas.
------------------------------------------------------------------------------------------------
-
-![En poder del aprehendido se encontraron municiones de varios calibres. Foto: Ejército Ecuatoriano](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo195.jpg)
-
-Cabecilla de Los Tiguerones fue capturado con fuerte armamento. El **Ejército Ecuatoriano** ejecutó un operativo gracias a información de inteligencia militar.
-
-El Grupo Especial de Comandos Nro. 9 realizó un patrullaje móvil en el redondel de **Codesa**, donde detectó un vehículo Chevrolet negro que transitaba por el área.
-
-Ante la presencia de las fuerzas armadas, el ocupante del automóvil intentó escapar por la vía Carlos Concha, pero fue aprehendido.
-
-### **Más noticias:**
-
-* [Policía capturó a mujer que estaría vinculada a Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-capturo-mujer-vinculada-tiguerones.html")
-* [Líder de Los Tiguerones tenía una vida de lujos en España](https://www.elcomercio.com/actualidad/seguridad/lider-tiguerones-vida-lujos-espana.html "https://www.elcomercio.com/actualidad/seguridad/lider-tiguerones-vida-lujos-espana.html")
-* [Policía detuvo en España a ‘Comandante Willy’, líder de Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html")
-
-**Cabecilla de Los Tiguerones fue capturado con fuerte armamento**
-------------------------------------------------------------------
-
-El detenido, identificado como Carlos A., es un presunto integrante del grupo delictivo organizado (GDO) conocido como **[Los Tiguerones](https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html "https://www.elcomercio.com/actualidad/seguridad/policia-detuvo-en-espana-a-comandante-willy-lider-de-los-tiguerones.html")**. La captura ocurrió en Esmeraldas.
-
-A esta persona se le atribuye la responsabilidad de dirigir y organizar actividades delictivas, incluyendo sicariato, secuestros y extorsiones en **Esmeraldas**.
-
-Carlos A. es tío paterno de William A. (alias ‘Comandante Willy’) y Alex A. (alias ‘El Ronco’). Ellos recientemente fueron detenidos en **España** y son considerados cabecillas de este grupo criminal.
-
-**Cabecilla de Los Tiguerones tenía un fusil**
-----------------------------------------------
-
-En poder del hombre capturado se encontraron:
-
-* Un fusil marca Remington
-* Municiones de varios calibres
-* Tacos de pentolita cilíndrica de 450 gr
-* Aprox. 30 m de cordón detonante
-* Aprox. 30 m de mecha lenta
-* Iniciadores ordinarios  
-    (cápsula detonante)
-* Una radio de comunicaciones
-
-El aprehendido, junto al armamento, las municiones y los explosivos fueron entregados a las autoridades competentes para los procedimientos legales pertinentes.
-
-Cartas a Quito / 27 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este domingo 27 de octubre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Pedido de auxilio 
-------------------
-
-En medio de tanta oscuridad y desazón por la que, los ecuatorianos,  estamos atravesando brilla, al fin,  un pequeño destello de esperanza y es que, según nos enteramos, países serios y confiables en lo que respecta a la justicia,  como lo es EE. UU. de Norteamérica, están interviniendo y tomando cartas en el asunto, al sentenciar a Carlos Pólit  y retirar las visas a los exmandatarios acusados de corrupción y malos manejos durante sus respectivas gestiones de gobierno. 
-
-Noticias como estas no dejan de ser un excelente augurio, al tiempo que abren un rayito de esperanza para que comience a brillar la justicia y se sancione a los culpables de esta catástrofe que, desde hace mucho tiempo, nos tiene agobiados y, actualmente,  sumidos en estas tinieblas físicas y mentales. 
-
-Dicen que la esperanza nunca muere. Ojalá  permanezca latente en nuestros corazones que, por nuestra condición de creyentes y a pesar de todos los entramados de la política,  nunca perdemos la fe. 
-
-Fabiola Carrera Alemán 
-
-La familia es la primera escuela 
----------------------------------
-
-La familia es el primer entorno educativo en la vida de un niño. Desde el momento en que nacemos, comenzamos a aprender de nuestros padres, hermanos y otros familiares. Cada interacción se convierte en una lección que nos acompaña a lo largo de nuestra vida, moldeando nuestro carácter y valores. 
-
-Los padres son nuestros primeros maestros. Nos enseñan a hablar, a caminar y a relacionarnos con el mundo. A través de su ejemplo, aprendemos sobre la importancia de la empatía, el respeto y la responsabilidad. Estas lecciones son fundamentales para nuestro desarrollo personal y social. 
-
-La educación en el hogar no se limita a lo académico. Las familias transmiten tradiciones, creencias y valores culturales que nos conectan con nuestras raíces. Estas enseñanzas nos ayudan a construir nuestra identidad y a entender nuestro lugar en la sociedad. La diversidad familiar enriquece este proceso, aportando diferentes perspectivas y experiencias. 
-
-Además, la familia es un espacio seguro donde podemos experimentar y crecer. Aquí aprendemos a enfrentar desafíos y resolver conflictos. La capacidad de manejar situaciones difíciles se desarrolla en el hogar, donde podemos cometer errores sin miedo al juicio. Este aprendizaje es esencial para nuestra vida adulta. 
-
-El apoyo emocional que recibimos en casa también es crucial para nuestro desarrollo. Un ambiente familiar amoroso fomenta la autoestima y la resiliencia. Cuando nos sentimos valorados y comprendidos, estamos más dispuestos a explorar nuevas ideas y a enfrentar el mundo con confianza. 
-
-Es fundamental recordar que la educación no se limita a las aulas. La curiosidad natural de los niños florece en casa, donde pueden hacer preguntas y explorar libremente. Los padres pueden estimular esta curiosidad al involucrarse activamente en el aprendizaje de sus hijos, creando un ambiente propicio para el descubrimiento. 
-
-En conclusión, la familia es nuestra primera escuela, donde se sientan las bases del aprendizaje y el desarrollo personal. Valoremos este papel fundamental e invirtamos tiempo y esfuerzo en crear un entorno familiar que fomente el crecimiento, el amor por el conocimiento y la curiosidad por el mundo que nos rodea. ¡La educación comienza en casa! 
-
-Roberto Camana-Fiallos 
-
-Turismo al desapego
-===================
-
-La vida es una sucesión de intervalos buenos y malos y cuando nos quieren vender solo instantes luminosos.
-----------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Si gana Luisa, a los pocos días Rafael retornará al **Ecuador**, consciente que ningún **juez** emitirá una orden de captura, ningún **policía** intentará detenerlo y los generales mirarán para otro lado. Semanas antes de la **posesión**, recorrerá los **medios** anunciando las **medidas** que él implementará y que ella ejecutará. Proyectará un dejavu de su **inolvidable gobierno**, donde él será la voz mandante y todos los demás deberemos **obedecer** sin pensar ni razonar.
-
-El **apego** es una forma de **resistencia**. Resistimos al **cambio** y nos **aferramos** a las cosas que creemos que nos van a ser **felices**, pero todo es impermanente y aferrarse a algo que necesariamente cambiará nos crea **sufrimiento**. En la raíz de este apego está la **ilusión** del yo. Desde **edades tempranas** nos identificamos con **nuestras ideas**, nuestras **creencias**, nuestros discursos, pero ese yo es una ilusión; porque nuestros **pensamientos** cambian, nuestras **ideas** cambian, no somos hoy las mismas **personas** que fuimos hace 5 años ni las que seremos en 5 años más.
-
-La principal causa del **sufrimiento humano** es ansiar retener a nuestro lado todo lo que en un momento nos hizo **felices**, pero es como apretar un **puñado de arena**, mientras más **fuerza** se aplica, más se escapa esa codiciada realidad. Y el sufrimiento es **exponencial** cuando creemos que nuestras ideas son más importantes que las de los demás.
-
-Revivir los **gloriosos momentos** de Rafael en el poder, es la quimera de miles de personas, que se enriquecieron con el **poder absoluto** arriba y **obediencia** infinita abajo. Dan respiración boca a boca a un **zombi político**, difunden videos de inauguraciones, de lo felices que fueron las masas fieles y que él fue el mejor presidente de la historia sin fin.
-
-Sin embargo, la vida ni se repite ni se detiene. Todo **evoluciona**. Rafael no es el sonreído joven que destrozaba conceptos **capitalistas** y resucitaba los **manuales** de izquierda. Ambas corrientes han mutado y él es un **rancio vengativo**.
-
-El Ecuador de las manos limpias no tenía miles de **influencers** que hoy **direccionan** la opinión de millones de personas. En el Ecuador de hoy los **carteles** financian campañas. El narco está **inmerso** en la sociedad. Somos **desconfiados**. Doblegar a los medios no es suficiente y **ejércitos** de muchachos expertos en redes sociales, no nos pueden domesticar.
-
-Inimaginable el **sufrimiento** diario de alguien que se droga con sus **recuerdos** y promete una oxidada realidad en blanco y negro. La vida es una **sucesión** de intervalos buenos y malos y cuando nos quieren vender solo instantes luminosos, sabemos que nos están mintiendo.
