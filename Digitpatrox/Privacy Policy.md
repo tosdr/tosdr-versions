@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, October 27 2024
+Monday, October 28 2024
 
 Latest
 
+* [The hardware and software blocking the new update](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
+* [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://digitpatrox.com/hospitals-use-a-transcription-tool-powered-by-a-hallucination-prone-openai-model/)
+* [NYT Connections Today: Hints and Answers for October 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-28-2024/)
+* [TikTok’s Best and Worst ‘Winter Arc’ Rules to Build Better Habits Before January](https://digitpatrox.com/tiktoks-best-and-worst-winter-arc-rules-to-build-better-habits-before-january/)
+* [Best Slide-In Ranges of 2024](https://digitpatrox.com/best-slide-in-ranges-of-2024/)
+* [Is Your Xbox Series X or PS5 As Good as a Blu-Ray Player?](https://digitpatrox.com/is-your-xbox-series-x-or-ps5-as-good-as-a-blu-ray-player/)
+* [How to watch ‘QI’ season 22 online — stream ‘series V’ from anywhere](https://digitpatrox.com/how-to-watch-qi-season-22-online-stream-series-v-from-anywhere/)
+* [Instagram saves the best video quality for the most popular content](https://digitpatrox.com/instagram-saves-the-best-video-quality-for-the-most-popular-content/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-28/)
 * [How to Make Broccoli Rabe Actually Taste Good](https://digitpatrox.com/how-to-make-broccoli-rabe-actually-taste-good/)
-* [Windows 11 update KB5044377 and KB5044376 drop in Beta and Dev Channels](https://digitpatrox.com/windows-11-update-kb5044377-and-kb5044376-drop-in-beta-and-dev-channels/)
-* [Best Smokeless Fire Pits of 2024](https://digitpatrox.com/best-smokeless-fire-pits-of-2024/)
-* [How I Keep My Smart Home Hubs Neat and Tidy (And You Can Too)](https://digitpatrox.com/how-i-keep-my-smart-home-hubs-neat-and-tidy-and-you-can-too/)
-* [Apple’s rumored smart home display could get this retro iMac throwback](https://digitpatrox.com/apples-rumored-smart-home-display-could-get-this-retro-imac-throwback/)
-* [How to use the new Private Space feature in Android 15](https://digitpatrox.com/how-to-use-the-new-private-space-feature-in-android-15/)
-* [Apple’s first smart home display could pay homage to a classic iMac](https://digitpatrox.com/apples-first-smart-home-display-could-pay-homage-to-a-classic-imac/)
-* [Why do some VPNs like NordVPN always seem to be on sale?](https://digitpatrox.com/why-do-some-vpns-like-nordvpn-always-seem-to-be-on-sale/)
-* [My Favorite Amazon Deal of the Day: The 6th Generation iPad Mini](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-6th-generation-ipad-mini/)
-* [McDonald’s Quarter Pounders Linked to E. Coli Outbreak](https://digitpatrox.com/mcdonalds-quarter-pounders-linked-to-e-coli-outbreak/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JB29QD1Q55ZY6ZH599HJ0NVC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-make-broccoli-rabe-actually-taste-good/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/09/30/Windows-11-red.jpg)](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
     
-    [How to Make Broccoli Rabe Actually Taste Good](https://digitpatrox.com/how-to-make-broccoli-rabe-actually-taste-good/)
+    [The hardware and software blocking the new update](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
     
-    44 mins ago
+    22 seconds ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5044377-windows-11-hero-mauro-huculak.jpg)](https://digitpatrox.com/windows-11-update-kb5044377-and-kb5044376-drop-in-beta-and-dev-channels/)
+* [![](https://cdn.vox-cdn.com/thumbor/Jjaz1rr-cOLqS4qS9J4umCjkyqE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg)](https://digitpatrox.com/hospitals-use-a-transcription-tool-powered-by-a-hallucination-prone-openai-model/)
     
-    [Windows 11 update KB5044377 and KB5044376 drop in Beta and Dev Channels](https://digitpatrox.com/windows-11-update-kb5044377-and-kb5044376-drop-in-beta-and-dev-channels/)
+    [Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://digitpatrox.com/hospitals-use-a-transcription-tool-powered-by-a-hallucination-prone-openai-model/)
     
-    1 hour ago
+    18 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1681482647/prod/content/dam/CRO-Images-2023/04April/Home/CR-Home-InlineHero-Best-Smokeless-Fire-Pits-0423)](https://digitpatrox.com/best-smokeless-fire-pits-of-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/07/NYT-Connections-Today-Featured.jpg?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-28-2024/)
     
-    [Best Smokeless Fire Pits of 2024](https://digitpatrox.com/best-smokeless-fire-pits-of-2024/)
+    [NYT Connections Today: Hints and Answers for October 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-28-2024/)
     
-    1 hour ago
+    33 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-house-shaped-shelf-with-some-smart-home-hubs.jpg)](https://digitpatrox.com/how-i-keep-my-smart-home-hubs-neat-and-tidy-and-you-can-too/)
+* [![](https://lifehacker.com/imagery/articles/01JB2A9QXAMCVC64GX7NDZDKDH/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/tiktoks-best-and-worst-winter-arc-rules-to-build-better-habits-before-january/)
     
-    [How I Keep My Smart Home Hubs Neat and Tidy (And You Can Too)](https://digitpatrox.com/how-i-keep-my-smart-home-hubs-neat-and-tidy-and-you-can-too/)
+    [TikTok’s Best and Worst ‘Winter Arc’ Rules to Build Better Habits Before January](https://digitpatrox.com/tiktoks-best-and-worst-winter-arc-rules-to-build-better-habits-before-january/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/7HJPCuitZwJyeRBfvuPUAo-1200-80.jpg)](https://digitpatrox.com/apples-rumored-smart-home-display-could-get-this-retro-imac-throwback/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1670364103/prod/content/dam/CRO-Images-2022/Home/12December/CR-Home-InlineHero-Best-Slide-In-Ranges-2022-1222)](https://digitpatrox.com/best-slide-in-ranges-of-2024/)
     
-    [Apple’s rumored smart home display could get this retro iMac throwback](https://digitpatrox.com/apples-rumored-smart-home-display-could-get-this-retro-imac-throwback/)
+    [Best Slide-In Ranges of 2024](https://digitpatrox.com/best-slide-in-ranges-of-2024/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [44 mins ago
+* [22 seconds ago
     
-    ### How to Make Broccoli Rabe Actually Taste Good](https://digitpatrox.com/how-to-make-broccoli-rabe-actually-taste-good/)
-* [1 hour ago
+    ### The hardware and software blocking the new update](https://digitpatrox.com/the-hardware-and-software-blocking-the-new-update/)
+* [18 mins ago
     
-    ### Windows 11 update KB5044377 and KB5044376 drop in Beta and Dev Channels](https://digitpatrox.com/windows-11-update-kb5044377-and-kb5044376-drop-in-beta-and-dev-channels/)
-* [1 hour ago
+    ### Hospitals use a transcription tool powered by a hallucination-prone OpenAI model](https://digitpatrox.com/hospitals-use-a-transcription-tool-powered-by-a-hallucination-prone-openai-model/)
+* [33 mins ago
     
-    ### Best Smokeless Fire Pits of 2024](https://digitpatrox.com/best-smokeless-fire-pits-of-2024/)
+    ### NYT Connections Today: Hints and Answers for October 28, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-28-2024/)
 
 Most Popular Topics
 
+* [2 weeks ago
+    
+    ### How to View All User Accounts on Windows 11](https://digitpatrox.com/how-to-view-all-user-accounts-on-windows-11/)
+* [3 weeks ago
+    
+    ### 60 FPS Is No Longer Enough, so I’m Turning to Frame Generation](https://digitpatrox.com/60-fps-is-no-longer-enough-so-im-turning-to-frame-generation/)
 * [September 13, 2024
     
-    ### What North Korea’s infiltration into American IT says about hiring – Computerworld](https://digitpatrox.com/what-north-koreas-infiltration-into-american-it-says-about-hiring-computerworld/)
-* [September 7, 2024
-    
-    ### Microsoft PowerToys: Advanced Paste Tool Overview](https://digitpatrox.com/microsoft-powertoys-advanced-paste-tool-overview/)
-* [1 week ago
-    
-    ### The best Apple Watch to buy in 2024](https://digitpatrox.com/the-best-apple-watch-to-buy-in-2024/)
+    ### Emmy Awards 2024 Predictions: Beebom’s Picks for Who Deserves to Win](https://digitpatrox.com/emmy-awards-2024-predictions-beeboms-picks-for-who-deserves-to-win/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Apple’s first smart home display could pay homage to a classic iMac](https://digitpatrox.com/apples-first-smart-home-display-could-pay-homage-to-a-classic-imac/)
 * [5 hours ago
     
-    ### Why do some VPNs like NordVPN always seem to be on sale?](https://digitpatrox.com/why-do-some-vpns-like-nordvpn-always-seem-to-be-on-sale/)
+    ### How to watch ‘QI’ season 22 online — stream ‘series V’ from anywhere](https://digitpatrox.com/how-to-watch-qi-season-22-online-stream-series-v-from-anywhere/)
+* [5 hours ago
+    
+    ### Instagram saves the best video quality for the most popular content](https://digitpatrox.com/instagram-saves-the-best-video-quality-for-the-most-popular-content/)
 * [6 hours ago
     
-    ### My Favorite Amazon Deal of the Day: The 6th Generation iPad Mini](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-6th-generation-ipad-mini/)
+    ### NYT Strands Today: Hints, Answers & Spangram for October 28](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-28/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
