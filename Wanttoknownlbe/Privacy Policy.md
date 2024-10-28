@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/doet-monsanto-nu-zichzelf-de-strop-om/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/tony-fauci-loog-onder-ede/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### Gesponsord medicijn-research: bétere resultaten..???
+
+[In this explosive episode, we delve into the story of Briann…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626347)
+
+![medicatiebedrog](https://secure.gravatar.com/avatar/1a8054345e0d0e1459f32594aa35e902?s=50&d=identicon&r=g)
+
+##### **medicatiebedrog** reacts on:
+
+##### Ontgifting van grafeenoxide, spike-eiwitten en magnetisme..!
+
+[Kijk goed hoe deze Harari uit zijn ogen kijkt .!! En je weet…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/ontgifting-van-grafeenoxide-spike-eiwitten-en-magnetisme/comment-page-1/#comment-626346)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -437,22 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Micha Kat vrij en vertelt over gevangenisstraf..
 
 [Micha was en is een fenomeen. Zonder hem te willen verheerli…](https://www.wanttoknow.nl/overige/pedofilie-misbruik/micha-kat-vrij-en-vertelt-over-gevangenisstraf/comment-page-1/#comment-626316)
-
-![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
-
-##### **GuidoJ.** reacts on:
-
-##### Wat is tijd..??
-
-[Dankjewel goede mensen. Ervaring (15 jaar+), kennis en inzic…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626315)
-
-![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
-
-##### **Adriaan W** reacts on:
-
-##### Wat is tijd..??
-
-[Thanks inhetmeer, whantoknow is een pracht site, niet te ver…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626314)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
