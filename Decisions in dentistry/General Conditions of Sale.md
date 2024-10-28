@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[This case study explores the management and treatm ![This case study explores the management and treatment of peri-implantitis in a 40-year-old patient 5 years post-implant loading. Detailed surgical intervention, including osseous resective surgery and the replacement of an implant abutment and crown, highlights advancements in addressing peri-implant disease and underscores the need for personalized maintenance plans for long-term implant health. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBoVGEgsmhq/) 
+
 [Maurice Moore, a San Diego-based dental hygienist ![Maurice Moore, a San Diego-based dental hygienist on TikTok who goes by the moniker “mr.suiterdh” shared three hacks to help clinicians ease their way through common patient scenarios. Link in bio.⁠
 ⁠
 ⁠
@@ -174,17 +181,6 @@ By Liliana Aranguren, DDS, MDSc ⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBbdIdFtK3e/) 
-
-[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Brannon Moncrief of McLerran & Associates to delve into the complexities of DSO transactions. Whether you’re contemplating a practice sale or simply curious about the intricacies of these deals, this conversation covers essential topics such as the tricks DSOs might try to pull and the importance of having a sell-side advisor at the table when navigating a sale.⁠
-⁠
-Brannon and Art also discuss the current state of the private equity and DSO world, offering insights into what to expect when investing and transitioning in the dental space. Brannon shares how you can make the best decisions for your practice during exit — and avoid leaving millions on the table — by understanding your “why” and finding a buyer who aligns with your goals. ⁠
-⁠
-Listen via the link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBY_MQgtGWI/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
