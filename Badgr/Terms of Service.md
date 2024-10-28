@@ -647,11 +647,11 @@ Badgr Terms Of Service | Policy
 
 **CANVAS BADGES TERMS OF SERVICE**
 
-**_Last Updated:_** 10 February 2024
+**_Last Updated:_** 01 November 2024
 
 Instructure, Inc.’s (and its affiliate(s), collectively “**Instructure**”) Canvas Badges Terms of Service (“**Terms**”) cover and govern each individual user’s (referenced herein with “**you**”, “**your**”, or “**user(s)**”) use and access to the Canvas Badges service (“**Canvas Badges**”). 
 
-​​**BY USING OUR SERVICE, YOU ARE AGREEING TO USE CANVAS BADGES IN ACCORDANCE WITH THESE TERMS, AND TO REVIEW THE APPLICABLE CANVAS BADGES POLICIES. PLEASE REVIEW THE APPLICABLE PRIVACY POLICIES** [**HERE**](https://www.instructure.com/policies/privacy-badgr)**. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OR DISAGREE WITH THE PERSONALLY IDENTIFIABLE INFORMATION COLLECTION AND USE PRACTICES, YOU SHOULD AND MAY NOT ACCESS OR USE CANVAS BADGES. PLEASE ALSO NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE.**
+**BY USING OUR SERVICE, YOU ARE AGREEING TO USE CANVAS BADGES IN ACCORDANCE WITH THESE TERMS, AND THE** [**DPA**](https://www.instructure.com/policies/badgr-data-processing-addendum)**, AND TO REVIEW THE APPLICABLE CANVAS BADGES POLICIES. PLEASE REVIEW THE APPLICABLE PRIVACY POLICIES** [**HERE**](https://www.instructure.com/policies/privacy-badgr)**. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OR DISAGREE WITH THE INSTRUCTURE’S PRIVACY PRACTICES, YOU SHOULD AND MAY NOT ACCESS OR USE CANVAS BADGES. PLEASE ALSO NOTE THAT THESE TERMS ARE SUBJECT TO CHANGE.**
 
 **1\.** **The Canvas Badges Service.**
 --------------------------------------
