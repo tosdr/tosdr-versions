@@ -72,16 +72,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
-* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
-* ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
-* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
+* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
+* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
+* ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 
 Close
 
@@ -136,16 +136,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [Zionism is driving a growing divide in Jewish communities](https://therealnews.com/zionism-is-driving-a-growing-divide-in-jewish-communities)
-* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
-* ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
-* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
+* [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
+* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
+* ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [A fascist specter is haunting America](https://therealnews.com/a-fascist-specter-is-haunting-america)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* ['Strikes work!' Boeing union workers win tentative contract with 35% wage increase](https://therealnews.com/strikes-work-boeing-union-workers-win-tentative-contract-with-35-wage-increase)
 
 [Skip to content](#main)
 
