@@ -3,7 +3,7 @@
 Meta Open Source - Privacy Policy
 =================================
 
-_Effective Date: April 25, 2023_
+_Effective April 25, 2023_
 
 This Privacy Policy describes Meta Platforms, Inc. (**"Meta"**, **"we"**, **"us"** or **"our"**) practices for handling your information in connection with this website and our open source-related websites (**"Websites"**) and any content, related documentation, information and services (e.g. apps, tutorials, tools to support the developer workflow, access to resources, etc.) made available to you on this website (collectively, the **"Services"**). This Privacy Policy describes the personal information we process to support our Services.
 
