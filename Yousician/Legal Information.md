@@ -218,9 +218,9 @@ Users can adjust their browser settings to disable cookies or to delete cookies 
 
 If you are a California resident, please note that under the California Consumer Privacy Act of 2018, as may be amended from time to time, including by the California Privacy Rights Act of 2020 (collectively, the “California Privacy Laws”), you are entitled to receive specific information on how we process your personal information. You also have specific rights to your personal information, including the right to direct us to not sell or share your personal information. Please review our [Supplementary Privacy Notice for California Residents](https://yousician.com/ccpa-notice) to familiarize yourself with your rights under the California Privacy Laws.
 
-[![Download on the AppStore](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Download on the AppStore](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x75841)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x75841)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
 ![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x75841)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
@@ -228,7 +228,7 @@ If you are a California resident, please note that under the California Consumer
 
 * * *
 
-[![Yousician logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Yousician logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAAgAQAAAACNiF95AAAAAnRSTlMAAHaTzTgAAAAQSURBVCjPY2AYBaNgFOACAAMgAAHOjxDEAAAAAElFTkSuQmCC)
 
 ![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x75841)](https://yousician.com/)
 
