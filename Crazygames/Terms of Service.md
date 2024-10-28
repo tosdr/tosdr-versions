@@ -113,7 +113,7 @@ English
 * [ไทย](https://th.crazygames.com/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99)
 * [한국어](https://www.crazygames.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80)
 
-[About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Advertising](https://advertising.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
+[About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
 [](https://www.tiktok.com/@crazygames)[](https://www.linkedin.com/company/crazygames/)[](https://www.twitter.com/crazygamescom)[](https://www.youtube.com/@crazygamescom)[](https://play.google.com/store/apps/dev?id=8163162718412732005)[](https://apps.apple.com/us/developer/crazygames-com/id1145410933)
 
