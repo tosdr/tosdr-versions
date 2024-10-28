@@ -205,28 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Rough Drafts: The Hobbit](https://www.somethingawful.com/news/hobbit-chapter-one/)
-* [How to Win at Starcraft](https://www.somethingawful.com/guides/guide-how-win/1/)
-* [AnimeLab, Advent Children.forums, and Sanjaya Fan Club](https://www.somethingawful.com/weekend-web/anime-finalfantasy-sanjaya/1/)
-* [Magic the Gathering: Alpha (original set, 1993)](https://www.somethingawful.com/dungeons-and-dragons/magic-alpha-original/1/)
-* [That Insidious Beast: Delta Frame](https://www.somethingawful.com/news/insidious-delta-frame/1/)
+* [Educational Posters](https://www.somethingawful.com/photoshop-phriday/educational-posters/1/)
+* [Google Future - When Hillary Attacks](https://www.somethingawful.com/news/hillary-attack-obama/1/)
+* [What's That CSI Doing This Time?](https://www.somethingawful.com/comedy-goldmine/csi-mspaint/1/)
+* [SA Forum Goons vs. The Ultimate Flirting Championship Part 2](https://www.somethingawful.com/comedy-goldmine/flirting-championship-2/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [Hiccups don't exist](http://forums.somethingawful.com/showthread.php?threadid=4073701 "Hiccups don't exist")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Chipmunks VS Dormice](http://forums.somethingawful.com/showthread.php?threadid=4073678 "Chipmunks VS Dormice")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [What was the first video game you remember scaring you?](http://forums.somethingawful.com/showthread.php?threadid=4073686 "What was the first video game you remember scaring you?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [types of mermaids](http://forums.somethingawful.com/showthread.php?threadid=4073687 "types of mermaids")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I submit Gravity Falls](http://forums.somethingawful.com/showthread.php?threadid=4073722 "I submit Gravity Falls")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [how do you refer to yourself in your own brain](http://forums.somethingawful.com/showthread.php?threadid=4073704 "how do you refer to yourself in your own brain")
 
 ### Random Articles
 
-* [I Love That Movie! ME](https://www.somethingawful.com/news/movie-favorite-film/)
-* [Chapter Eight](https://www.somethingawful.com/feature-articles/chapter-eight/1/)
-* [Mega Men!](https://www.somethingawful.com/news/mega-men/)
-* [SA Codelords](https://www.somethingawful.com/news/sa-codelords/)
-* [Gentlemen's News Service Presents: The Amusement Park Criticism Colloquium](https://www.somethingawful.com/news/gentlemens-news-disneyland/1/)
+* [God's Plan](https://www.somethingawful.com/news/god-plan-heist/)
+* [Wacky Video Game Logic... In Real Life?!? What the](https://www.somethingawful.com/video-game-article/video-game-logic/)
+* [Jason Hun's PERSONAL HOMEPAGE :)](https://www.somethingawful.com/awful-links/awful-link-772/)
+* [Lowtax Still on Vacation](https://www.somethingawful.com/news/lowtax-still-on/)
+* [L'aventure le L'ocean L'fantasmo, Le](https://www.somethingawful.com/awful-movie-database/laventure-le-locean/)
 
 [Random!](https://www.somethingawful.com/random/)
 
