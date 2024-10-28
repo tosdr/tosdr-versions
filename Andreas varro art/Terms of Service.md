@@ -1,6 +1,6 @@
-[](https://www.andreasvarro.com/)
+[](https://www.andreasvarro.com/?r=0)
 
-[Home](https://www.andreasvarro.com/)
+[Home](https://www.andreasvarro.com/?r=0)
 
 Buy Art
 
@@ -22,7 +22,9 @@ More
 
 Log out
 
-[English](#)[Swedish](#)
+[English](https://www.andreasvarro.com/terms-conditions)
+
+[Swedish](https://www.andreasvarro.com/sv/villkor)
 
 Terms and Conditions
 ====================
@@ -267,37 +269,37 @@ Navigation
 
 [Shortcuts](https://www.andreasvarro.com/shortcuts)[Art Exhibition in Örebro](https://www.andreasvarro.com/art-exhibition-in-orebro)
 
-[Advertising photographer](https://www.andreasvarro.com/lp/reklamfotograf)
+[Advertising photographer](https://www.andreasvarro.com/lp/advertising-photographer)
 
-[Advertising Photographer Göteborg](https://www.andreasvarro.com/lp/reklamfotograf-goteborg)
+[Advertising Photographer Göteborg](https://www.andreasvarro.com/lp/advertising-photographer-goteborg)
 
-[Photographer Västerås](https://www.andreasvarro.com/lp/fotograf-vasteras)
+[Photographer Västerås](https://www.andreasvarro.com/lp/photographer-vasteras)
 
-[Photographer Karlstad](https://www.andreasvarro.com/lp/fotograf-karlstad)
+[Photographer Karlstad](https://www.andreasvarro.com/lp/photographer-karlstad)
 
-[Advertising Photographer Norrköping](https://www.andreasvarro.com/lp/reklamfotograf-norrkoping)
+[Advertising Photographer Norrköping](https://www.andreasvarro.com/lp/advertising-photographer-norrkoping)
 
-[Advertising Photographer Linköping](https://www.andreasvarro.com/lp/reklamfotograf-linkoping)
+[Advertising Photographer Linköping](https://www.andreasvarro.com/lp/advertising-photographer-linkoping)
 
-[Advertising Photographer Karlstad](https://www.andreasvarro.com/lp/reklamfotograf-karlstad)
+[Advertising Photographer Karlstad](https://www.andreasvarro.com/lp/advertising-photographer-karlstad)
 
-[Photographer Linköping](https://www.andreasvarro.com/lp/fotograf-linkoping)
+[Photographer Linköping](https://www.andreasvarro.com/lp/photographer-linkoping)
 
-[Photographer Norrköping](https://www.andreasvarro.com/lp/fotograf-norrkoping)
+[Photographer Norrköping](https://www.andreasvarro.com/lp/photographer-norrkoping)
 
-[Photographer Göteborg](https://www.andreasvarro.com/lp/fotograf-goteborg)
+[Photographer Göteborg](https://www.andreasvarro.com/lp/photographer-goteborg)
 
-[Advertising Photographer Uppsala](https://www.andreasvarro.com/lp/reklamfotograf-uppsala)
+[Advertising Photographer Uppsala](https://www.andreasvarro.com/lp/advertising-photographer-uppsala)
 
-[Advertising Photographer Västerås](https://www.andreasvarro.com/lp/reklamfotograf-vasteras)
+[Advertising Photographer Västerås](https://www.andreasvarro.com/lp/advertising-photographer-vasteras)
 
-[Photographer Uppsala](https://www.andreasvarro.com/lp/fotograf-uppsala)
+[Photographer Uppsala](https://www.andreasvarro.com/lp/photographer-uppsala)
 
-[Advertising Photographer Stockholm](https://www.andreasvarro.com/lp/reklamfotograf-stockholm)
+[Advertising Photographer Stockholm](https://www.andreasvarro.com/lp/advertising-photographer-stockholm)
 
-[Photographer Örebro](https://www.andreasvarro.com/lp/fotograf-orebro)
+[Photographer Örebro](https://www.andreasvarro.com/lp/photographer-orebro)
 
-[Photographer Stockholm](https://www.andreasvarro.com/lp/fotograf-stockholm)
+[Photographer Stockholm](https://www.andreasvarro.com/lp/photographer-stockholm)
 
 [Staged Photography](https://www.andreasvarro.com/l/staged-photography)
 
