@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/11/Amity3-768x576.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
+
+### [Amity Outpost struggles to rebuild trust After Frontier Day](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
+
+Federation News Service October 28, 2024
+
+BAROSSA NEBULA – With reconstruction efforts nearing completion, Ambassador Vataix and her blended crew of Diplomatic Corps staff and Starfleet officers face the difficult task
+
+[Read More »](https://www.starbase118.net/2024/amity-outpost-struggles-to-rebuild-trust-after-frontier-day/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
 
 ### [Home sweet home for crew of StarBase 118 Ops](https://www.starbase118.net/2024/home-sweet-home-for-crew-of-starbase-118-ops/)
@@ -377,18 +389,6 @@ Federation News Service October 24, 2024
 EARTH, SOL SYSTEM, ALPHA QUADRANT – As extensive repairs proceed on the USS Astraeus following the intense events of Frontier Day, the crew is making
 
 [Read More »](https://www.starbase118.net/2024/uss-astraeus-crew-embraces-shore-leave-as-repairs-continue/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
-
-### [USS Constitution – Second Officer sounds after attack by imposters](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
-
-Federation News Service October 23, 2024
-
-MARCHLANDS – Red alert sounds as imposters attempt to take over the USS Constitution The crew of the USS Constitution-B NCC 3012-B found themselves in
-
-[Read More »](https://www.starbase118.net/2024/uss-constitution-second-officer-sounds-after-attack-by-imposters/)
 
 Ready to get started?
 ---------------------
