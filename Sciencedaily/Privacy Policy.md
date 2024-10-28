@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
+* [Lab-Grown Pork Support Fromed by Sorghum Grain](https://www.sciencedaily.com/releases/2024/10/241028131649.htm)
+* [Seeing a Black Hole's Jet in a New Light](https://www.sciencedaily.com/releases/2024/10/241028131413.htm)
+* [Pythons Can Swallow Even Bigger Prey](https://www.sciencedaily.com/releases/2024/10/241028131408.htm)
 * [Melting Arctic Ice and Global Ocean Circulation](https://www.sciencedaily.com/releases/2024/10/241027205850.htm)
 * [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
 * [Arid Regions: Capturing Water Vapor from Air](https://www.sciencedaily.com/releases/2024/10/241025122821.htm)
 * [Saturn's Moon Titan Has Thick Insulating Crust](https://www.sciencedaily.com/releases/2024/10/241025122818.htm)
-* ['Well-Man' Thrown from Castle 800 Years Ago](https://www.sciencedaily.com/releases/2024/10/241025122355.htm)
-* [Dandelion-Shaped Supernova and Zombie Star](https://www.sciencedaily.com/releases/2024/10/241024130606.htm)
-* [Gut Bacteria Transfer Genes to Beat ...](https://www.sciencedaily.com/releases/2024/10/241024145236.htm)
-* [Tiny Electric Currents May Cut Skin Infections](https://www.sciencedaily.com/releases/2024/10/241024130749.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+
+[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,15 +240,15 @@ this week
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Climate](https://www.sciencedaily.com/news/earth_climate/climate/)
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
   
 
