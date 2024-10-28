@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Favourite baby animal? (26)](https://forum.nationstates.net/viewtopic.php?t=557567&f=20&view=unread#unread ""Favourite baby animal?" (26 posts)")
-* [Does Your Nation Support? (8,238)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,238 posts)")
-* [What is your relationship with AU? II (2,687)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,687 posts)")
-* [Favorite line from AN's Factbooks II (11,712)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (11,712 posts)")
-* [How Likely Is AN To Declare War On YN? (25)](https://forum.nationstates.net/viewtopic.php?t=557607&f=25&view=unread#unread ""How Likely Is AN To Declare War On YN?" (25 posts)")
+* [A new generation (IC|Closed|Attn. Ara… (198)](https://forum.nationstates.net/viewtopic.php?t=554018&f=5&view=unread#unread ""A new generation (IC|Closed|Attn. Arakhkhar)" (198 posts)")
+* [The 1 Year Insurgency (10)](https://forum.nationstates.net/viewtopic.php?t=557452&f=5&view=unread#unread ""The 1 Year Insurgency" (10 posts)")
+* [American Politics: Remember, Remember… (4,567)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (4,567 posts)")
+* [Internal and International Incidents… (4,545)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,545 posts)")
+* [Agree or Disagree III (11,754)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (11,754 posts)")
 
 Advertisement
 
