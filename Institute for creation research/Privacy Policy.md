@@ -95,64 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Back to Genesis
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/plan_replace_God.jpg)](https://www.icr.org/article/the-plan-to-replace-god/)
-
-[The Plan to Replace God](https://www.icr.org/article/the-plan-to-replace-god//)
-
-After reviewing the writings of some 18th- and 19th-century thinkers, I’m convinced that the popularity of ideas like “millions of years”...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/subtle_idolatry.jpg)](https://www.icr.org/article/subtle-idolatry-in-modern-science)
-
-[Subtle Idolatry in Modern Science](https://www.icr.org/article/subtle-idolatry-in-modern-science/)
-
-Engaging in worship seems unavoidable for humans—even the atheistic thinkers who dominate modern science. Reverence and adoration lie at the heart...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/symbiotic_lichen.jpg)](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity)
-
-[Symbiotic Lichens Showcase Our Creator's Ingenuity](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity/)
-
-Lichens resemble plants or fungi, with elaborate branches like ocean coral, tiny cup-like structures, or leaf-like fronds. They can be found growing...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
-
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
-
-Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
