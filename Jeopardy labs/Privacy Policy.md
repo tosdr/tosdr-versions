@@ -1,4 +1,4 @@
-[![JeopardyLabs](/static/1710817524/img/logo.png)](https://jeopardylabs.com/)
+[![JeopardyLabs](/static/1730074337/img/logo.png)](https://jeopardylabs.com/)
 
 * [Build](https://jeopardylabs.com/build/)
 * [Browse](https://jeopardylabs.com/browse/)
