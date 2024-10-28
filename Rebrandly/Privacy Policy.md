@@ -9,8 +9,8 @@ Offer: Secure your digital identity - [get a FREE .bio domain today!](https://rb
 
 * [My dashboard](https://app.rebrandly.com/)
 * [Login](https://app.rebrandly.com/login?opt=eyJwbGFuSWQiOiIxNmYwOGZiOTc0OWQ0MTdlYjE0MmEzMjZhMmQwNTI3YyJ9)
-* [Talk to Sales](https://rebrandly.com/book-a-demo)
-* [Get Started](https://app.rebrandly.com/sign-up)
+* [Talk to sales](https://rebrandly.com/book-a-demo)
+* [Get started](https://app.rebrandly.com/sign-up)
 
 [Terms of use](https://rebrandly.com/terms-conditions) [Privacy Policy](https://rebrandly.com/privacy-policy) [Cookie Policy](https://rebrandly.com/cookies) [Data Processing Addendum](https://rebrandly.com/data-processing) [Affiliate Agreement](https://rebrandly.com/affiliate-agreement) [User Research](https://rebrandly.com/user-research)
 
@@ -308,7 +308,7 @@ Company
 
 Products
 
-[Links](https://rebrandly.com/branded-links)[Analytics](https://rebrandly.com/analytics)[Rebrandly AI](https://rebrandly.com/rebrandly-ai)[API](https://rebrandly.com/api-solutions)[QR codes](https://rebrandly.com/qr-codes)[LinkGallery](https://rebrandly.com/linkgallery)
+[Links](https://rebrandly.com/branded-links)[Analytics](https://rebrandly.com/analytics)[Rebrandly AI](https://rebrandly.com/rebrandly-ai)[API](https://rebrandly.com/api-solutions)[QR codes](https://rebrandly.com/qr-codes)[Link Gallery](https://rebrandly.com/linkgallery)
 
 Resources
 
