@@ -55,7 +55,7 @@ Your personal data may be shared if it is made anonymous and aggregated, as in s
 
 We may include or offer certain third-party products or services on our websites and ChatInsight.AI. These third-party products or services have their own privacy policies and they are separate and independent from this policy. We, therefore, have no responsibility or liability for the content and activities related to these third-party products or services.
 
-To maintain transparent practices and ensure user’s information right, please visit [https://help.airdroid.com/hc/en-us/articles/360048758594](https://help.airdroid.com/hc/en-us/articles/360048758594) for a list of third-party products or services we use or offer.
+To maintain transparent practices and ensure user’s information right, please visit [https://biz-help.airdroid.com/support/solutions/articles/154000202458](https://biz-help.airdroid.com/en/support/solutions/articles/154000202458) for a list of third-party products or services we use or offer.
 
 6 Where your personal data will be stored
 -----------------------------------------
