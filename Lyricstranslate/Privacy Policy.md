@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
+[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
+
+New transcription request
+
+[Marta Knight - Resurrection](https://lyricstranslate.com/en/marta-knight-resurrection)
+
+English
+
+[![Tiki marie](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625829-1723091719.jpg)](https://lyricstranslate.com/en/translator/tiki-marie "Tiki marie")
+
+New transcription request
+
+[Lawst - War](https://lyricstranslate.com/en/lawst-war)
+
+English
+
+[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
+
+New song
+
+[Marta Knight - Creations](https://lyricstranslate.com/en/marta-knight-creations-lyrics)
+
+English
+
+[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
+
+New comment
+
+\[video:https://www.youtube.com/...  [more](https://lyricstranslate.com/en/comment/1172252#comment-1172252)
+
+[![FermionA](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1450046-1591078862.png)](https://lyricstranslate.com/en/translator/fermiona "FermionA")
+
+New translation
+
+[Slava KPSS - ХАРДБАСС ДЛЯ ЖИРИНОВСКОГО (KHARDBASS DLYA ZHIRINOVSKOGO)](https://lyricstranslate.com/en/slava-kpss-khardbass-dlya-zhirinovsk-korean)
+
+Russian → Korean
+
+[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+
+New translation
+
+[Synergia - את לא כאן (At Lo Kan)](https://lyricstranslate.com/en/synergia-lo-kan-transliteration)
+
+Hebrew → Transliteration
+
 [![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New translation
 
-[Gil Fields and the Fraternity Brothers - Gioconda](https://lyricstranslate.com/en/gil-fields-and-f-gioconda-english)
+[Fabrizio Ferretti - Oh oh baby...piangerò](https://lyricstranslate.com/en/fabrizio-ferretti-oh-oh-babypiangero-english)
 
 Italian → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Daniele Serra - Siberiana](https://lyricstranslate.com/en/daniele-serra-siberiana-spanish)
-
-Italian → Spanish
 
 [![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New song
 
-[Gil Fields and the Fraternity Brothers - Gioconda](https://lyricstranslate.com/en/gil-fields-and-frater-gioconda-lyrics)
+[Fabrizio Ferretti - Oh oh baby...piangerò](https://lyricstranslate.com/en/fabrizio-ferretti-oh-oh-babypiangero-lyrics)
 
 Italian
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Daniele Serra - Siberiana](https://lyricstranslate.com/en/daniele-serra-siberiana-english)
-
-Italian → English
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[Ir Sais - Disidi](https://lyricstranslate.com/en/ir-sais-disidi-lyrics)
-
-Papiamento
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
-
-New translation
-
-[Gil Fields and the Fraternity Brothers - Angelo credimi](https://lyricstranslate.com/en/gil-fields-and-f-angelo-credimi-english)
-
-Italian → English
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
-
-New song
-
-[Gil Fields and the Fraternity Brothers - Angelo credimi](https://lyricstranslate.com/en/gil-fields-and-frater-angelo-credimi-lyrics)
-
-Italian
-
-[![kejora.senja](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1232098-1689550181.jpg)](https://lyricstranslate.com/en/translator/kejorasenja "kejora.senja")
-
-New song
-
-[Seda Tripkolic - Ne Olur Gitme](https://lyricstranslate.com/en/seda-tripkolic-ne-olur-gitme-lyrics)
-
-Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
