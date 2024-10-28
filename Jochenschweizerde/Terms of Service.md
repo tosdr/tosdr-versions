@@ -226,6 +226,7 @@ Benutzerkonto
     * [Firmenveranstaltungen](https://b2b.jochen-schweizer.de/firmenevents/)
     
 * [Neuheiten](https://www.jochen-schweizer.de/neuheiten/l/n5smg)
+* [Weihnachten](https://www.jochen-schweizer.de/geschenke/weihnachtsgeschenke/l/8piw6)
 
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Nutzungsbedingungen
