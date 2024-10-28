@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| I Go BackKenny Chesney<br><br>11:38pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:35pm |
-| Tough PeopleDrew Baldridge<br><br>11:31pm |
-| Need A FavorJelly Roll<br><br>11:28pm |
-| Backseat DriverKane Brown<br><br>11:24pm |
+| Live Like You Were DyingTim Mcgraw<br><br>4:57am |
+| Save It For A Rainy DayKenny Chesney<br><br>4:54am |
+| Single AgainJosh Ross<br><br>4:51am |
+| Where It EndsBailey Zimmerman<br><br>4:48am |
+| Friday Night HeartbreakerJon Pardi<br><br>4:45am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Spanish • Western
 
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
