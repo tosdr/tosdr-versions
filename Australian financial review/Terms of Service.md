@@ -320,15 +320,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Ladakhi women herding dzos and dzomos in Zanskar, Ladakh India](https://static.ffx.io/images/$zoom_0.1886%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/919242ae43832a3b96fcf14265cbaf822aa8c5a5)](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
+[![ ](https://static.ffx.io/images/$zoom_0.4497%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_44%2C$y_428/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/64b0bcb1d981aa86728d6d655508a76e03e935a1)](https://www.afr.com/technology/cheap-at-half-the-price-these-security-cameras-shine-bright-20241024-p5kl28)
 
-### [What makes this Himalayan valley so alluring is its inaccessibility](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
+### [Cheap at half the price: these security cameras shine bright](https://www.afr.com/technology/cheap-at-half-the-price-these-security-cameras-shine-bright-20241024-p5kl28)
 
-* Nina Karnikowski
+* 55 mins ago
+* John Davidson
 
-* ### [Luxuries you can justify on so many levels](https://www.afr.com/life-and-luxury/fashion-and-style/luxuries-you-can-justify-on-so-many-levels-20241022-p5kk84)
+* ### [Two rock star chefs, one unique Sydney Opera House ‘performance’](https://www.afr.com/life-and-luxury/food-and-wine/two-rock-star-chefs-one-unique-sydney-opera-house-performance-20241022-p5kkeg)
     
-* ### [I vowed not to buy new clothes all year. Here’s how it’s going](https://www.afr.com/life-and-luxury/fashion-and-style/i-vowed-not-to-buy-new-clothes-all-year-here-s-how-it-s-going-20241008-p5kgmp)
+* ### [What makes this Himalayan valley so alluring is its inaccessibility](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
     
 
 [Rich List](https://www.afr.com/rich-list)
