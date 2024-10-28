@@ -22,17 +22,19 @@ Medium Terms of Service
 **Effective: September 1, 2020**
 --------------------------------
 
-[![Medium](https://miro.medium.com/v2/resize:fill:88:88/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:48:48/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
+[![Medium](https://miro.medium.com/v2/resize:fill:88:88/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page---byline--9db0094a1e0f--------------------------------)
 
-[Medium](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)
+[![Medium Policy](https://miro.medium.com/v2/resize:fill:48:48/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page---byline--9db0094a1e0f--------------------------------)
+
+[Medium](https://medium.com/@Medium?source=post_page---byline--9db0094a1e0f--------------------------------)
 
 ·
 
-[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F504c7870fdb6&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&user=Medium&userId=504c7870fdb6&source=post_page-504c7870fdb6----9db0094a1e0f---------------------post_header-----------)
+[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F504c7870fdb6&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&user=Medium&userId=504c7870fdb6&source=post_page-504c7870fdb6--byline--9db0094a1e0f---------------------post_header-----------)
 
 Published in
 
-[Medium Policy](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
+[Medium Policy](https://policy.medium.com/?source=post_page---byline--9db0094a1e0f--------------------------------)
 
 ·
 
@@ -42,11 +44,11 @@ Published in
 
 Sep 1, 2020
 
-[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fpolicy%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&user=Medium&userId=504c7870fdb6&source=-----9db0094a1e0f---------------------clap_footer-----------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fpolicy%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&user=Medium&userId=504c7870fdb6&source=---header_actions--9db0094a1e0f---------------------clap_footer-----------)
 
 \--
 
-[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=-----9db0094a1e0f---------------------bookmark_footer-----------)
+[](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=---header_actions--9db0094a1e0f---------------------bookmark_footer-----------)
 
 Listen
 
@@ -205,7 +207,9 @@ Medium’s failure to exercise or enforce any right or provision of these Terms 
 
 [](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9db0094a1e0f&operation=register&redirect=https%3A%2F%2Fpolicy.medium.com%2Fmedium-terms-of-service-9db0094a1e0f&source=--------------------------bookmark_footer-----------)
 
-[![Medium](https://miro.medium.com/v2/resize:fill:144:144/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)[![Medium Policy](https://miro.medium.com/v2/resize:fill:64:64/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
+[![Medium](https://miro.medium.com/v2/resize:fill:144:144/1*4eBYLmk70ln9psBY4_bL9A.jpeg)](https://medium.com/@Medium?source=post_page-----9db0094a1e0f--------------------------------)
+
+[![Medium Policy](https://miro.medium.com/v2/resize:fill:64:64/1*MZDzkz_hPaahhVwj5vvCoA.jpeg)](https://policy.medium.com/?source=post_page-----9db0094a1e0f--------------------------------)
 
 Follow
 
