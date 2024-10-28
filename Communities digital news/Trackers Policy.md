@@ -54,13 +54,13 @@ Search for:
 
 [Trump War Room highlights Kamala’s fatal flaw: ‘She simply cannot function without one’](https://americanwirenews.com/trump-war-room-highlights-kamalas-fatal-flaw-she-simply-cannot-function-without-one/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-morningjoe-1200x630.jpg)](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-billkam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
 
-[‘Morning Joe’ suggests Trump supporters can get out of America](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
+[Bill Maher calls for Kamala to take out ‘extremist’ in her own coalition](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mooch1-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tapper-1200x630.jpg)
 
-### Michelle Obama suggests in familiar rant it’s racist and sexist to not vote for Kamala](https://americanwirenews.com/michelle-obama-suggests-in-familiar-rant-its-racist-and-sexist-to-not-vote-for-kamala/)
+### Tapper has EPIC meltdown after JD Vance says ex-aides turned on Trump because he wants peace](https://americanwirenews.com/tapper-has-epic-meltdown-after-jd-vance-says-ex-aides-turned-on-trump-because-he-wants-peace/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,29 +78,9 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-220x180.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
-
-[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-madisonsquaregarden-trump-220x180.jpg)](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
-
-[MAGA faithful camp outside MSG ahead of Trump rally, say it’s ‘worth the wait’](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-penn-state-220x180.png)](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
-
-[Penn State national champion wrestling team joins Trump on stage at rally in Happy Valley](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nytfetterman-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-blows-up-dems-border-defense-educates-ny-times-journo-on-what-truck-nuts-are/)
 
 [Fetterman blows up Dems’ border defense, educates NY Times journo on what ‘truck nuts’ are](https://americanwirenews.com/fetterman-blows-up-dems-border-defense-educates-ny-times-journo-on-what-truck-nuts-are/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-billkam-1200-x-628-220x180.jpg)](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
-
-[Bill Maher calls for Kamala to take out ‘extremist’ in her own coalition](https://americanwirenews.com/bill-maher-calls-for-kamala-to-take-out-extremist-in-her-own-coalition/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tapper-220x180.jpg)](https://americanwirenews.com/tapper-has-epic-meltdown-after-jd-vance-says-ex-aides-turned-on-trump-because-he-wants-peace/)
-
-[Tapper has EPIC meltdown after JD Vance says ex-aides turned on Trump because he wants peace](https://americanwirenews.com/tapper-has-epic-meltdown-after-jd-vance-says-ex-aides-turned-on-trump-because-he-wants-peace/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ryan-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/shawn-ryan-says-rogan-trump-interview-signifies-the-end-of-legacy-media/)
 
@@ -173,6 +153,28 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/mugshot-lcdc-1-220x180.jpg)](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
 
 [Bearded perp makes it into mugshot Hall of Shame after threatening to bomb beauty store](https://americanwirenews.com/bearded-perp-makes-it-into-mugshot-hall-of-shame-after-threatening-to-bomb-beauty-store/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-convenince-store-220x180.jpg)](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
+
+[Black Chicagoans shock convenience store worker with responses on election: ‘Make America Great Again!’](https://americanwirenews.com/black-chicagoans-shock-convenience-store-worker-with-responses-on-election-make-america-great-again/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-lv-220x180.png)](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
+
+[‘Man of the people!’ Trump met with raucous applause when he stops by Cuban Kitchen](https://americanwirenews.com/man-of-the-people-trump-met-with-raucous-applause-when-he-stops-by-cuban-kitchen/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-1-220x180.jpg)](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
+
+[Fmr. Obama official STUNS Fox hosts and viewers with ‘mind blowing’ take on Kamala’s border stance](https://americanwirenews.com/fmr-obama-official-stuns-fox-hosts-and-viewers-with-mind-blowing-take-on-kamalas-border-stance/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-vote-220x180.jpg)](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+
+[New survey shows whopping percent of Americans want voter ID, proof of citizenship to vote](https://americanwirenews.com/new-survey-shows-whopping-percent-of-americans-want-voter-id-proof-of-citizenship-to-vote/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mel-gibson--220x180.png)](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
+
+[Mel Gibson is down for Trump, says Kamala has ‘the IQ of a fence post’](https://americanwirenews.com/mel-gibson-is-down-for-trump-says-kamala-has-the-iq-of-a-fence-post/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -260,9 +262,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-trump-1200x630.jpg)](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-1200x630.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
 
-[Behar flips her lid over alleged Trump Hitler praise: ‘If people still follow this fascist pig…’](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
+[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-220x180.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+
+[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-madisonsquaregarden-trump-220x180.jpg)](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
+
+[MAGA faithful camp outside MSG ahead of Trump rally, say it’s ‘worth the wait’](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-behar-trump-220x180.jpg)](https://americanwirenews.com/behar-flips-her-lid-over-alleged-trump-hitler-praise-if-people-still-follow-this-fascist-pig/)
 
@@ -275,14 +285,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-bitter-220x180.jpg)](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
 
 [Obama’s perplexed over how America ‘got so toxic and divided’ – X lends a hand](https://americanwirenews.com/obamas-perplexed-over-how-america-got-so-toxic-and-divided-x-lends-a-hand/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-walz-dumbdumber-220x180.jpg)](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
-[Meta Oversight Board frees Harris and Walz ‘Dumb and Dumber’ meme from Facebook jail](https://americanwirenews.com/meta-oversight-board-frees-harris-and-walz-dumb-and-dumber-meme-from-facebook-jail/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-davi-keaton-220x180.jpg)](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
-
-[‘Shame on him’: Actor Robert Davi has epic response to Michael Keaton anti-Trump rant](https://americanwirenews.com/shame-on-him-actor-robert-davi-has-epic-response-to-michael-keaton-anti-trump-rant/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -312,9 +314,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-khelif-gold-1200x630.jpg)](https://americanwirenews.com/female-athletes-lost-staggering-amount-of-medals-to-biological-males-study-finds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-penn-state-1200x630.png)](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
 
-[Female athletes lost staggering amount of medals to biological males, study finds](https://americanwirenews.com/female-athletes-lost-staggering-amount-of-medals-to-biological-males-study-finds/)
+[Penn State national champion wrestling team joins Trump on stage at rally in Happy Valley](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-penn-state-220x180.png)](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
+
+[Penn State national champion wrestling team joins Trump on stage at rally in Happy Valley](https://americanwirenews.com/penn-state-national-champion-wrestling-team-joins-trump-on-stage-at-rally-in-happy-valley/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-khelif-gold-220x180.jpg)](https://americanwirenews.com/female-athletes-lost-staggering-amount-of-medals-to-biological-males-study-finds/)
 
@@ -333,11 +339,5 @@ Getty Images](https://americanwirenews.com/sex-trafficking-minors-rapidly-becomi
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-reeve-220x180.jpg)](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
 
 [Losing coach of WNBA Finals blames referees: ‘This sh\*t was stolen from us!’](https://americanwirenews.com/losing-coach-of-wnba-finals-blames-referees-this-sht-was-stolen-from-us/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-golan-220x180.jpg)](https://americanwirenews.com/nova-festival-survivor-22-marks-her-birthday-by-committing-suicide-could-not-escape-oct-7-ptsd-nightmare/)
-
-[Nova festival survivor, 22, marks her birthday by committing suicide, could not escape Oct. 7 PTSD nightmare
-
-Image via Instagram](https://americanwirenews.com/nova-festival-survivor-22-marks-her-birthday-by-committing-suicide-could-not-escape-oct-7-ptsd-nightmare/)
 
 © 2024. All Rights Reserved. American Wire News
