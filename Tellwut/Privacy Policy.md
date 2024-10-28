@@ -245,7 +245,7 @@ This Policy is subject to applicable national privacy laws such as the Children'
 
 Please see our [Copyright Policy and Claims Page](https://www.tellwut.com/copyright_policy_and_claims) for information on DMCA registration and Take Down policy.
 
-© 2024 Paradigm. All rights reserved.
+© 2024 Paradigm Sample, LLC. All rights reserved.
 
 Member polls
 
@@ -356,9 +356,9 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 * [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **91,194**
+* Surveys: **91,201**
 
-* Voters: **2,926,597**
+* Voters: **2,927,084**
 
 * Light / Dark / Auto
 
