@@ -357,7 +357,7 @@ November 1st, 2018
 
 [Terms and Conditions](https://easy-feedback.com/terms-and-conditions/)
 
-  [![Blog](/wp-content/uploads/2020/02/blog.png)](https://easy-feedback.com/blog/)[![Facebook](/wp-content/uploads/2020/02/facebook.png)](https://www.facebook.com/easyfeedback)[![YouTube](https://easy-feedback.de/wp-content/uploads/2020/04/youtube.png)](https://www.youtube.com/user/easyfeedback)[![LinkedIn](https://easy-feedback.de/wp-content/uploads/2020/04/linkedin.png)](https://de.linkedin.com/company/easyfeedback)
+  [![Blog](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://easy-feedback.com/blog/)[![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/easyfeedback)[![YouTube](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/user/easyfeedback)[![LinkedIn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://de.linkedin.com/company/easyfeedback)
 
 ![Weltkarte weiß](https://easy-feedback.com/wp-content/uploads/2020/02/map_white.svg)
 
