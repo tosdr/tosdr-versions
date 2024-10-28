@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/5c8add3614eb36ffa4639ebe_full-mixed.svg)](http://www.qualified.com/)
+[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/5c8add3614eb36ffa4639ebe_full-mixed.svg)](https://www.qualified.com/)
 
 Product
 
@@ -485,7 +485,7 @@ EDUCATION
 
 Qualified University
 
-[Qualified University](https://www.qualified.com/university)[Courses & Certifications](http://qualified.mindtickle.com/)[Implementation Process](https://www.qualified.com/implementation)[Qualified Certification](https://www.qualified.com/what-is-conversational-marketing)
+[Qualified University](https://www.qualified.com/university)[Courses & Certifications](https://qualified.mindtickle.com/)[Implementation Process](https://www.qualified.com/implementation)[Qualified Certification](https://www.qualified.com/what-is-conversational-marketing)
 
 [![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/64cd0693f26bbf28db36c56d_x%20(1).svg)](https://twitter.com/tryqualified)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/616dfb6e8a78957b9c46b692_linkedin-icon.svg)](https://www.linkedin.com/company/qualified-com)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61b75eb615aea8eaa5df705f_youtube.svg)](https://www.youtube.com/channel/UC-iqN0z_M9kE2FWRIaTBIcQ)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61b75ecfb1ca998bd3515aa3_instagram.svg)](https://www.instagram.com/tryqualified/?hl=en)
 
