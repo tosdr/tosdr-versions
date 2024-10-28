@@ -252,7 +252,7 @@ No thanks, I want to stay on Vodafone.com
         * [Technology](https://www.vodafone.com/news/technology)
         * [Vodafone Foundation](https://www.vodafone.com/news/vodafone-foundation)
         
-    * [Press and media](https://www.vodafone.com/news/for-journalists)
+    * [Press and media](https://www.vodafone.com/news/press-and-media)
     * [Visual Assets](https://www.flickr.com/photos/vodafonegroup/collections)
     * [Campaigns & Events](https://www.vodafone.com/news/campaigns-events)
         
