@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/price/stories/pakao-iii.?itok=Do9s4TKV)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/price-stories)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/its-z1/14a-0090.jpg?itok=_UV-O6Sx)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/its-z1)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/iz-cuda-hristovih.jpg?itok=kM5GyNtw)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slobodna-kultura-amp-activism-day-belef-2807/queer-beograd-belef.jpg?itok=nmjtSkdf)](http://seecult.org/galerija/foto-galerija/foto-arhiva/slobodna-kultura-activism-day-belef-2807)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Mihalkov o slobodi, istini, novcu, ratu, starim i novim vrednostima...](http://seecult.org/vest/mihalkov-o-slobodi-istini-novcu-ratu-starim-i-novim-vrednostima)
 * [Zafranović na 18. KRAF-u](http://seecult.org/vest/zafranovic-na-18-kraf-u)
 * [Nova stalna postavka Galerije Matice srpske](http://seecult.org/vest/nova-stalna-postavka-galerije-matice-srpske)
 * [Novinarima Akademska knjiga najbolji izdavač](http://seecult.org/vest/novinarima-akademska-knjiga-najbolji-izdavac)
@@ -431,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
 * [Kreativni centar najbolji izdavač na 67. Sajmu knjiga](http://seecult.org/vest/kreativni-centar-najbolji-izdavac-na-67-sajmu-knjiga)
 * [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
-* [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
 
 * [Konkursi](#tab1_1)
 
