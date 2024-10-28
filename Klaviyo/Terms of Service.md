@@ -22,6 +22,12 @@
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
 
+[](https://community.klaviyo.com/events/supercharge-your-bfcm-with-ai-246)
+
+Supercharge Your BFCM with AI
+
+(Wed, 30 Oct, 4:00 pm)
+
 * [Home](https://community.klaviyo.com/)
 * Terms
 
