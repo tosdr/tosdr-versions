@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Educational Posters](https://www.somethingawful.com/photoshop-phriday/educational-posters/1/)
-* [Google Future - When Hillary Attacks](https://www.somethingawful.com/news/hillary-attack-obama/1/)
-* [What's That CSI Doing This Time?](https://www.somethingawful.com/comedy-goldmine/csi-mspaint/1/)
+* [Goons](https://www.somethingawful.com/comedy-goldmine/ms-paint-goons/1/)
+* [Dimensions and Stephen Hawking vs. The World](https://www.somethingawful.com/weekend-web/dimensions-stephen-hawking/1/)
 * [SA Forum Goons vs. The Ultimate Flirting Championship Part 2](https://www.somethingawful.com/comedy-goldmine/flirting-championship-2/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Fruits and Nuts](https://www.somethingawful.com/icq-pranks/icq-transcript-fruits/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [Hiccups don't exist](http://forums.somethingawful.com/showthread.php?threadid=4073701 "Hiccups don't exist")
 * ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I submit Gravity Falls](http://forums.somethingawful.com/showthread.php?threadid=4073722 "I submit Gravity Falls")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/weird.png) [how do you refer to yourself in your own brain](http://forums.somethingawful.com/showthread.php?threadid=4073704 "how do you refer to yourself in your own brain")
 
 ### Random Articles
 
-* [God's Plan](https://www.somethingawful.com/news/god-plan-heist/)
-* [Wacky Video Game Logic... In Real Life?!? What the](https://www.somethingawful.com/video-game-article/video-game-logic/)
-* [Jason Hun's PERSONAL HOMEPAGE :)](https://www.somethingawful.com/awful-links/awful-link-772/)
-* [Lowtax Still on Vacation](https://www.somethingawful.com/news/lowtax-still-on/)
-* [L'aventure le L'ocean L'fantasmo, Le](https://www.somethingawful.com/awful-movie-database/laventure-le-locean/)
+* [Film Reviews By Channing Tatum and Jonah Hill](https://www.somethingawful.com/news/sony-channing-tatum/1/)
+* [Female Mask Homepage](https://www.somethingawful.com/awful-links/awful-link-2222/)
+* [FBI to American Public: Anthrax Only Sent to 'Important People.'](https://www.somethingawful.com/feature-articles/fbi-american-public/)
+* [Puppy Time!](https://www.somethingawful.com/flash-tub/puppy-time-cartoon/)
+* [Magazine Mayhem 2 (Part Two)](https://www.somethingawful.com/photoshop-phriday/magazine-mayhem-part-2/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
