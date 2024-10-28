@@ -207,6 +207,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
 
+[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
+[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
+
 [![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
 
 ### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
@@ -219,23 +225,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
 
-[![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-120x86.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
-[26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-
 [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 ### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
-[![Jailed left to right: Duan Correa, Tyreke Smikle, Tyreece Quartey, Timothy Newton](https://southwarknews.co.uk/wp-content/uploads/2024/10/Jailed-left-to-right-Duan-Correa-Tyreke-Smikle-Tyreece-Quartey-Timothy-Newton-120x86.png)](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-### [Gang members who led GTA-style carnage in Peckham jailed for 102 years](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-[21st October 2024](https://southwarknews.co.uk/area/peckham/gang-members-who-led-gta-style-carnage-in-peckham-jailed-for-102-years/)
+[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
 ### Featured Articles
 
