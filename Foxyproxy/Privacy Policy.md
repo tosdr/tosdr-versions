@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Everything works beautifully. In fact it had worked perfectly for so long that I had completely forgotten how to set up a VPN.
+there was nothing wrong with FoxyProxy, and your customer service is excellent.
 
-Tim Coutts
+Eric Morrison
