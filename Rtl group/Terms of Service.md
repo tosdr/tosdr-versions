@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Medientage München 2024](/.galleries/images/Medientage-Muenchen-2024_16-9.png?__scale=undefined&description=)
+    
+    Medientage München 2024
+    
+    28.10.2024
+    
+    Trends, innovations and ongoing challenges facing the TV and media industry: RTL Group executives participated in panel discussions at one of Europe’s leading conferences, which focused on the role of media in an AI-driven world.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Medientage-Muenchen-2024/)
+    
 * [![slide-Four Blauer Panther Awards for UFA and RTL Deutschland](/.galleries/images/Blue-Panther_16-9.png?__scale=undefined&description=)
     
     Four Blauer Panther Awards for UFA and RTL Deutschland
@@ -346,14 +354,6 @@ Europe's leading entertainment brand
     17.10.2024
     
     Stunning visuals, user-centric features and clear navigation: RTL Deutschland is launching a new website and a completely redeveloped app for its leading current affairs magazine _Stern_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Digitalising-Stern/)
-    
-* [![slide-Fremantle launches <i>Master of the Game</i>](/.galleries/images/Master-of-the-Game_16-9.jpg?__scale=undefined&description=)
-    
-    Fremantle launches _Master of the Game_
-    
-    16.10.2024
-    
-    Fremantle partnered with TF1 in France to launch original psychological reality format _Master of the Game_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-launches-Master-of-the-Game/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
