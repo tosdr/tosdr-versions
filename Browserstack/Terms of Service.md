@@ -180,6 +180,18 @@ Explore
 
 [BrowserStack Code Quality →](https://www.browserstack.com/codequality?ref=header-app-testing "BrowserStack Code Quality")
 
+Solutions
+
+Use Cases
+
+[Web Testing](https://www.browserstack.com/web-testing-solutions "Web Testing")
+
+[App Testing](https://www.browserstack.com/app-testing-solutions "App Testing")
+
+[Scale Test Automation](https://www.browserstack.com/scale-automation-solutions "Scale Test Automation")
+
+[Real Device Testing](https://www.browserstack.com/real-device-cloud-page "Real Device Testing")
+
 Developers
 
 [Documentation](https://www.browserstack.com/docs "Documentation")
