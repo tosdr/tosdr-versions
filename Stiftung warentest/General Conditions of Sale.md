@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [Studie Grauer Kapitalmarkt: Anleger strukturell benach­teiligt](https://www.test.de/Studie-Grauer-Kapitalmarkt-Anleger-strukturell-benachteiligt-5948223-0/ "Studie Grauer Kapitalmarkt - Anleger strukturell benachteiligt")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
+* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Krypto-Währung: Aufsicht baut Bitcoin-Auto­maten ab](https://www.test.de/Krypto-Waehrung-Aufsicht-baut-Bitcoin-Automaten-ab-6150587-0/ "Krypto-Währung - Aufsicht baut Bitcoin-Automaten ab")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
 
 Service Stiftung Warentest
 
