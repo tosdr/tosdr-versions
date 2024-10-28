@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Anri van der Linde
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=105932973)  
-Three Moons Emporium
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=200343274)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=211462571)  
-Wiselink Broadband Pty Ltd
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=129693550)  
+Alliance Energy
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=43397011)  
-Lily Fern & Co
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=50924621)  
+McKaynine Mobility
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=3415985)  
-BD Maintenance
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=69729748)  
+FX ACCOUNTING
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=137793078)  
-Nogana Events and Decor
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=95396050)  
-ARCHITEK PTY LTD
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=184878133)  
-Mountain Lion Properties
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=49366922)  
-Druce Digital
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=51097598)  
-LEO DEVELOPMENT GROUP
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=171059054)  
-AMS Ambu Medical Supplies
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=106615537)  
-Fox Alarms & Security CC
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=138137855)  
-Goju Ryu Karate Centre
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=185031015)  
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=18164900)  
 Gemini-IT Group
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=199290371)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=154223561)  
+SafeTclip
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=131162664)  
-Abandoned Vehicle and Truck Solutions
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=183089777)  
+AMS Ambu Medical Supplies
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=43684559)  
+Bchange Online CC
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=164039910)  
+Qothiphango Mining
+
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=40328811)  
+MR Compressors& Industrial Supplies
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=76628194)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=146709954)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=175351336)  
+Redlum Group (Pty) Ltd
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=90735874)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=179646954)  
+SLOANE STAR MEAT MARKET
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
