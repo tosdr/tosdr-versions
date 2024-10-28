@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strikes on Gaza kill 22, officials say, while truck ramming near Tel Aviv hurts dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
+    * [Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
     * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
-    * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
+    * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
-    * [New Haven rejected plans for a Black college in 1831. Generations later, it's considering an apology](https://apnews.com/article/new-haven-black-college-apology-04ac07a6777dda818b012a921c4f0c54)
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
+    * [Harris stays quiet on student loans as cancellation loses its political luster](https://apnews.com/article/student-loans-forgiveness-election-harris-trump-686eb28c1c2e9bcf241312534c3e574a)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
-    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
-    * [Trump again denigrates Detroit while appealing for votes in a suburb of Michigan's largest city](https://apnews.com/article/trump-harris-presidential-election-detroit-michigan-ee1dbcb59eaddd8b006ce57aad77c37e)
+    * [Where Trump and Harris stand on key issues](https://apnews.com/article/trump-harris-issue-positions-worlds-apart-3f80a342c790da64e3de92a4f5760991)
+    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris and Walz to campaign across battleground states this week](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
-    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
-    * [Trump veers away from swing states for his Madison Square Garden moment](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
+    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris tries out new ways of reaching voters, but she's running out of time](https://apnews.com/article/kamala-harris-democrats-election-2024-b735c4332d22ef46b2bc44a5e443507f)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani partially dislocates left shoulder during World Series Game 2](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
-    * [Yamamoto shuts down Yankees, Freeman homers again as Dodgers win 4-2 for 2-0 World Series lead](https://apnews.com/article/world-series-yankees-dodgers-game-2-score-yamamoto-d672c41e864884be79f2629a749363a6)
-    * [Aaron Judge is flailing in his first World Series, and the Yankees are sinking along with him](https://apnews.com/article/world-series-aaron-judge-yankees-b64404c927e380bea578cb4dd0bf95ec)
+    * [Jayden Daniels' buzzer-beating Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
+    * [Winston throws 3 TD passes as Browns stun Jackson, Ravens 29-24 to end 5-game losing streak](https://apnews.com/article/browns-ravens-325f249c6528f9f451873f34e4dfad8f)
+    * [Mahomes passes for 262 yards and 2 TDs, Chiefs beat Raiders 27-20 to improve to 7-0](https://apnews.com/article/chiefs-raiders-score-ed7fd1cce1609b9e0ea4396f303269e2)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * ['Venom: The Last Dance' misses projections as superhero films' grip on theaters loosens](https://apnews.com/article/venom-box-office-conclave-e1a5f65c08588512e4433a485f049601)
     * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
-    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Latin superstar Bad Bunny is supporting Harris for president](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
-    * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
-    * [Missouri sports betting ballot measure highlights national debate about tax rates](https://apnews.com/article/sports-betting-taxes-missouri-colorado-cd01cdc284d3be17227dab7d0b8b8606)
     
 * [Science](https://apnews.com/science)
     
@@ -157,12 +157,12 @@ Menu
     
     TOP STORIES
     
+    * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
+    * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
+    * [Aaron Boone's watches tell time -- and who's pitching for the Yankees each day](https://apnews.com/article/world-series-manager-watches-boone-roberts-6b2cba03aece9d8cd780414de22a9a5f)
     * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
     * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
-    * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
-    * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
-    * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -173,7 +173,7 @@ Menu
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
+    * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
     * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
-    * [Criminals may be leveraging climate change as record acreage burns in Brazil's Amazon](https://apnews.com/article/brazil-amazon-weakened-forest-wildfire-deforestation-climate-change-0a79180b8c8e433785dbeb73852f265b)
     
 * [Health](https://apnews.com/health)
     
@@ -247,7 +247,7 @@ Menu
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
     * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
-    * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
-    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
+    * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
+    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
-    * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
+    * [Biden marks anniversary of Pittsburgh synagogue attack that killed 11](https://apnews.com/article/pittsburgh-synagogue-shooting-antisemitism-461dd999e70af7df135af5e84d25226f)
+    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [Swing-state priest teaches ancient techniques for surviving today's political turmoil](https://apnews.com/article/presidential-election-pennsylvania-episcopal-priest-better-citizens-01898315038576e82629848e2e990cde)
     
     Newsletters
     
@@ -295,10 +295,10 @@ Menu
     
     * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
     * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
-    * [Harris y Walz recorren el país para visitar los siete estados más disputados](https://apnews.com/article/trump-harris-eeuu-elecciones-4bf9c1e960517079a44577769b05650f)
+    * [Fuerzas rusas frustran intento de otra incursión transfronteriza de Ucrania](https://apnews.com/article/rusia-ucrania-kiev-guerra-kursk-belgorod-dc8bfbf0911a1dda984710a50656a930)
+    * [Uruguay decide en elecciones si devuelve el poder a la izquierda o revalida al oficialismo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
     * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
-    * [Elon Musk dice que verdadera amenaza a democracia son los que acusan a Trump de ponerla en peligro](https://apnews.com/article/eeuu-elecciones-musk-trump-harris-7056104d2ab8a3cf1646b4c2807c5d80)
-    * [Oposición prooccidental de Georgia disputa resultados de las elecciones](https://apnews.com/article/georgia-elecciones-sueno-georgiano-df757a8c8a46e47fe0f778a9331d281a)
+    * [Más de 120 muertos en ataques paramilitares en centro-este de Sudán, denuncian ONU y grupo médico](https://apnews.com/article/paramilitar-sudan-onu-combatientes-3bf3dd731cdb8c4fc7a5355b5ff4637f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strikes on Gaza kill 22, officials say, while truck ramming near Tel Aviv hurts dozens](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
+    * [Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2)
     * [Satellite images show damage from Israeli attack at 2 secretive Iranian military bases](https://apnews.com/article/iran-israel-attack-satellite-photos-gaza-lebanon-wars-0c6ee6a8544268612cb7d49727d8449d)
-    * [Japan's ruling party braces for a blow to its comfortable majority in the lower house in elections](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c)
+    * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
-    * [New Haven rejected plans for a Black college in 1831. Generations later, it's considering an apology](https://apnews.com/article/new-haven-black-college-apology-04ac07a6777dda818b012a921c4f0c54)
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
+    * [Harris stays quiet on student loans as cancellation loses its political luster](https://apnews.com/article/student-loans-forgiveness-election-harris-trump-686eb28c1c2e9bcf241312534c3e574a)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [An elections worker wanted to serve her country. A stew of conspiracy theories and vitriol awaited](https://apnews.com/article/nevada-election-2024-washoe-county-conspiracy-theories-7bf6666123b931e898f5ff409fb2bbce)
-    * [Foreign threats to the US election are on the rise, and officials are moving faster to expose them](https://apnews.com/article/trump-harris-russia-iran-china-disinformation-election-6f4cb99be3facb08c58cecd11b2c5d41)
-    * [Trump again denigrates Detroit while appealing for votes in a suburb of Michigan's largest city](https://apnews.com/article/trump-harris-presidential-election-detroit-michigan-ee1dbcb59eaddd8b006ce57aad77c37e)
+    * [Where Trump and Harris stand on key issues](https://apnews.com/article/trump-harris-issue-positions-worlds-apart-3f80a342c790da64e3de92a4f5760991)
+    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris and Walz to campaign across battleground states this week](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
-    * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
-    * [Trump veers away from swing states for his Madison Square Garden moment](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris rallies Philadelphia voters at church, barbershop, bookstore, restaurant and basketball court](https://apnews.com/article/kamala-harris-tim-walz-campaign-640ea532f6de541a5e03509bfe1471ef)
+    * [Trump's Madison Square Garden event turns into a rally with crude and racist insults](https://apnews.com/article/trump-madison-square-garden-new-york-election-fcfe75be7f8281fde7bffa3adb3bba5d)
+    * [Harris tries out new ways of reaching voters, but she's running out of time](https://apnews.com/article/kamala-harris-democrats-election-2024-b735c4332d22ef46b2bc44a5e443507f)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani partially dislocates left shoulder during World Series Game 2](https://apnews.com/article/world-series-dodgers-yankees-ohtani-332dfab365b16f5f8ae607fcb5147a01)
-    * [Yamamoto shuts down Yankees, Freeman homers again as Dodgers win 4-2 for 2-0 World Series lead](https://apnews.com/article/world-series-yankees-dodgers-game-2-score-yamamoto-d672c41e864884be79f2629a749363a6)
-    * [Aaron Judge is flailing in his first World Series, and the Yankees are sinking along with him](https://apnews.com/article/world-series-aaron-judge-yankees-b64404c927e380bea578cb4dd0bf95ec)
+    * [Jayden Daniels' buzzer-beating Hail Mary TD to Noah Brown gives Commanders 18-15 win over Bears](https://apnews.com/article/bears-commanders-score-71241e3b33c257c826683c473649256a)
+    * [Winston throws 3 TD passes as Browns stun Jackson, Ravens 29-24 to end 5-game losing streak](https://apnews.com/article/browns-ravens-325f249c6528f9f451873f34e4dfad8f)
+    * [Mahomes passes for 262 yards and 2 TDs, Chiefs beat Raiders 27-20 to improve to 7-0](https://apnews.com/article/chiefs-raiders-score-ed7fd1cce1609b9e0ea4396f303269e2)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * ['Venom: The Last Dance' misses projections as superhero films' grip on theaters loosens](https://apnews.com/article/venom-box-office-conclave-e1a5f65c08588512e4433a485f049601)
     * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Beyoncé endorses Kamala Harris in joyful speech at Houston rally: 'I'm here as a mother'](https://apnews.com/article/beyonce-kamala-harris-6b3f928bb7fd5a705f32ac3d04b89ed8)
-    * [Trump refers to CNN's Anderson Cooper by a woman's first name](https://apnews.com/article/trump-anderson-cooper-campaign-2867efc6bff01edbf493cb65582f0ed8)
+    * [Latin superstar Bad Bunny is supporting Harris for president](https://apnews.com/article/harris-bad-bunny-latino-vote-18ed2c1307264f2651ab4375d4b5070d)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
-    * [Russia's central bank raises interest rate to 21% to fight inflation boosted by military spending](https://apnews.com/article/russia-interest-rates-0fa1d7385be622fd98756a5b4e715262)
-    * [Missouri sports betting ballot measure highlights national debate about tax rates](https://apnews.com/article/sports-betting-taxes-missouri-colorado-cd01cdc284d3be17227dab7d0b8b8606)
     
 * [Science](https://apnews.com/science)
     
@@ -645,12 +645,12 @@ Submit Search
     
     TOP STORIES
     
+    * [Timothée Chalamet crashes his own look-alike contest after police shut down crowded event](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028)
+    * [British chef Jamie Oliver urges followers to help solve the 'grate cheese robbery'](https://apnews.com/article/great-cheese-theft-london-cheddar-jamie-oliver-fbaf6d697cd5c7e00de1c95d33837d52)
+    * [Aaron Boone's watches tell time -- and who's pitching for the Yankees each day](https://apnews.com/article/world-series-manager-watches-boone-roberts-6b2cba03aece9d8cd780414de22a9a5f)
     * [Artisan cheese seller in a pickle after thieves made off with massive cheddar haul](https://apnews.com/article/cheddar-cheese-theft-london-neals-yard-dairy-e482c4ea63305493797c75eb103221e7)
     * [It's almost Halloween. That means it's time for a bat beauty contest](https://apnews.com/article/bat-beauty-contest-bureau-of-land-management-6fb06024c8063903c73da3eaae2449a1)
     * [An abrupt goodbye to a guerrilla goldfish aquarium beneath a leaky Brooklyn fire hydrant](https://apnews.com/article/bedstuy-hydrant-aquarium-nyc-goldfish-brooklyn-0fdb7ada0716b9e9951c88311b8c5d7d)
-    * [A mutt known as 'Houdini' for his ability to elude capture is finally off the streets](https://apnews.com/article/dog-captured-scrim-new-orleans-houdini-7575c851f790d2e01622c4f7a440415c)
-    * [Can an elephant sue to leave a zoo? Colorado's top court must now decide](https://apnews.com/article/elephants-legal-personhood-colorado-zoo-b72faa585807d3695df2a4a8ec2caa8e)
-    * [Premature baby taken from Paris region hospital found in Amsterdam and his parents were detained](https://apnews.com/article/amsterdam-france-premature-newborn-abducted-bd47490ab1eafff1373626c973649dd1)
     
 * [Be Well](https://apnews.com/hub/be-well)
     
@@ -661,7 +661,7 @@ Submit Search
     * [What 'training to failure' means and how to incorporate it into your workout](https://apnews.com/article/weightlighting-train-to-failure-exercise-9f8781dac9ecdc9e75471ac546881d39)
     * [Feeling stressed about the election? Here's what some are doing and what they say you can do too](https://apnews.com/article/2024-election-stress-meditation-mindfulness-anxiety-91550c0aa2c80da60f9f7d8220bcd702)
     * [Tips for keeping your wedding from becoming a political battleground](https://apnews.com/article/wedding-guests-politics-etiquette-f965ee7505df83c141c78c96a0805908)
-    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
+    * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -731,9 +731,9 @@ Submit Search
     
     TOP STORIES
     
+    * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
     * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
     * [In Colombia, Amazon River's extreme drought falls hard on Indigenous communities](https://apnews.com/article/amazon-river-drought-indigenous-water-aid-colombia-a3a5cfacf4099c7372e52b30ab7e86d5)
-    * [Criminals may be leveraging climate change as record acreage burns in Brazil's Amazon](https://apnews.com/article/brazil-amazon-weakened-forest-wildfire-deforestation-climate-change-0a79180b8c8e433785dbeb73852f265b)
     
 * [Health](https://apnews.com/health)
     
@@ -744,7 +744,7 @@ Submit Search
     * [McDonald's says onions from California-based produce company linked to deadly E. coli outbreak](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-2bc3fc2d4198d9a5bad52c0028316165)
     * [Officials find no evidence bird flu is spreading between people after Missouri investigation](https://apnews.com/article/bird-flu-dairy-cows-chickens-missouri-57c3effbb8d0431321368d086fe1cba5)
     * [McDonald's and Boar's Head outbreaks may have you worried. Experts say the food supply is safe](https://apnews.com/article/mcdonalds-boars-head-ecoli-listeria-food-safety-1256564e2ec8baf6a96b27c7102e833e)
-    * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
+    * [Testing rules out beef patties as the source of E. coli outbreak, McDonald’s says](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
     
 * [Tech](https://apnews.com/technology)
     
@@ -757,9 +757,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4)
     * [Elon Musk says the real threat to democracy is the people who accuse Trump of endangering it](https://apnews.com/article/elon-musk-trump-jan-6-insurrection-ballots-a2288cae45f3caf9e7b9bc3c96c94b66)
     * [Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14)
-    * [An AI chatbot pushed a teen to kill himself, a lawsuit against its creator alleges](https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
-    * [They came to America looking for better lives — and better schools. The results were mixed](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
-    * [American Airlines tests boarding technology that audibly shames line cutters](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc)
-    * [Why cars might be the scariest thing this Halloween](https://apnews.com/article/halloween-safety-traffic-pedestrians-trick-or-treat-e0d0687736ae0facc455873ed963fb19)
+    * [How to prepare your body and mind for the end of daylight saving time](https://apnews.com/article/time-change-fall-back-spring-forward-sleep-251e55ce23d25a490783a996915dbc22)
+    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [They came for better lives and schools. Immigrants now see America's divisions hurting their kids](https://apnews.com/article/immigrant-students-school-aurora-colorado-2aee52bc80300f5507a903cda3e441da)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [A thriller about electing a pope draws crowds at the Rome Film Festival near the Vatican](https://apnews.com/article/conclave-vatican-rome-film-festival-e6a598a4991f50bddec76edf63165a5b)
-    * [Pope Francis' Catholic church reform process ends without giving more equity to women](https://apnews.com/article/vatican-reforms-women-equity-ordination-synod-francis-5cdd62a4d191b77ec71b30440c59e75e)
-    * [Native Americans laud Biden for historic apology over boarding schools. They want action to follow](https://apnews.com/article/indigenous-boarding-schools-biden-apology-reaction-666f5d55496a36bd0dc40a357714273e)
+    * [Biden marks anniversary of Pittsburgh synagogue attack that killed 11](https://apnews.com/article/pittsburgh-synagogue-shooting-antisemitism-461dd999e70af7df135af5e84d25226f)
+    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [Swing-state priest teaches ancient techniques for surviving today's political turmoil](https://apnews.com/article/presidential-election-pennsylvania-episcopal-priest-better-citizens-01898315038576e82629848e2e990cde)
     
     Newsletters
     
@@ -803,10 +803,10 @@ Submit Search
     
     * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
     * [Funcionarios palestinos dicen que ataques israelíes dejan 22 muertos en Gaza](https://apnews.com/article/israel-iran-libano-gaza-guerra-hamas-hezbollah-88d6069808ac702b5e81c644735ed4c3)
-    * [Harris y Walz recorren el país para visitar los siete estados más disputados](https://apnews.com/article/trump-harris-eeuu-elecciones-4bf9c1e960517079a44577769b05650f)
+    * [Fuerzas rusas frustran intento de otra incursión transfronteriza de Ucrania](https://apnews.com/article/rusia-ucrania-kiev-guerra-kursk-belgorod-dc8bfbf0911a1dda984710a50656a930)
+    * [Uruguay decide en elecciones si devuelve el poder a la izquierda o revalida al oficialismo](https://apnews.com/article/uruguay-elecciones-indecision-oficialismo-giro-izquierda-5047f8b370c392cc061de27143f31cff)
     * [Trump finalmente tendrá su momento en el Madison Square Garden](https://apnews.com/article/eeuu-elecciones-trump-madison-square-garden-f46a1d72e8d3f8515307d9d27fd2228f)
-    * [Elon Musk dice que verdadera amenaza a democracia son los que acusan a Trump de ponerla en peligro](https://apnews.com/article/eeuu-elecciones-musk-trump-harris-7056104d2ab8a3cf1646b4c2807c5d80)
-    * [Oposición prooccidental de Georgia disputa resultados de las elecciones](https://apnews.com/article/georgia-elecciones-sueno-georgiano-df757a8c8a46e47fe0f778a9331d281a)
+    * [Más de 120 muertos en ataques paramilitares en centro-este de Sudán, denuncian ONU y grupo médico](https://apnews.com/article/paramilitar-sudan-onu-combatientes-3bf3dd731cdb8c4fc7a5355b5ff4637f)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
