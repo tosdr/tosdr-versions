@@ -231,7 +231,7 @@ Suivez-nous sur :
 * [](http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&t=Mentions%20L%C3%A9gales)
 * [5](http://twitter.com/share?text=Mentions%20L%C3%A9gales&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&via=LDH_Fr)
 * [4](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&title=Mentions%20L%C3%A9gales)
-* 4
+* 5
     
 
 Share This
@@ -245,7 +245,7 @@ Share This
     4](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ldh-france.org%2Fmentions-legales%2F&title=Mentions%20L%C3%A9gales)
 * Like
     
-    4
+    5
     
 
 ###### Soutenez les combats de la LDH
