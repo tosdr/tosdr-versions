@@ -44,37 +44,37 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method by Pastebin Team 7D](https://pastebin.com/7fBi81Fj)
+* [⭐️ EARN $500 INSTANTLY S9](https://pastebin.com/V4QctyiD)
     
     JavaScript | 2 sec ago | 0.17 KB
     
-* [⭐ FREE giftcards method by Pastebin Team QH](https://pastebin.com/UtXqJfCZ)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/4unsurrH)
     
-    JavaScript | 2 sec ago | 0.17 KB
+    JavaScript | 2 sec ago | 0.09 KB
     
-* [⭐ FREE giftcards method](https://pastebin.com/1t1MsQ4Q)
+* [⭐ Binance Account hack WO](https://pastebin.com/GVGud3ax)
     
-    JavaScript | 3 sec ago | 0.05 KB
+    JavaScript | 3 sec ago | 0.17 KB
     
-* [BTC ACCOUNTS HACKED](https://pastebin.com/m2mgmuNC)
+* [⭐ FREE giftcards method](https://pastebin.com/6EjibqPp)
     
-    JavaScript | 3 sec ago | 0.09 KB
+    JavaScript | 4 sec ago | 0.05 KB
     
-* [⭐️ EARN $500 INSTANTLY S9](https://pastebin.com/YhV8BHaQ)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/KeiFbNrN)
     
     JavaScript | 4 sec ago | 0.17 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/QU9HUHpB)
+* [Chaturbate Accounts with Tokens](https://pastebin.com/cC0hzSTJ)
     
     JavaScript | 5 sec ago | 0.09 KB
     
-* [⭐ Binance Account hack WO](https://pastebin.com/rP7nqqsW)
+* [⭐ get any gift card for FREE by Pastebin Team...](https://pastebin.com/QE7h3uj5)
     
-    JavaScript | 5 sec ago | 0.17 KB
+    JavaScript | 6 sec ago | 0.17 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/CmYsDgqT)
+* [⭐ FREE giftcards method by Pastebin Team VF](https://pastebin.com/vHTNBhe8)
     
-    JavaScript | 6 sec ago | 0.09 KB
+    JavaScript | 6 sec ago | 0.17 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
