@@ -246,7 +246,7 @@ The Site reserves the right to deny payment for referrals if:
     For information about and to install Google Analytics Opt-out Browser Add-on, click here: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en)[](http://tools.google.com/dlpage/gaoptout?hl=en)For more information related to Google Analytics, click here: [https://support.google.com/analytics/answer/6004245?hl=en](https://support.google.com/analytics/answer/6004245?hl=en)
 12. Our Privacy Office can be reached by email at [support@tellwut.com](mailto:support@tellwut.com)
 
-© 2024 Paradigm. All rights reserved.
+© 2024 Paradigm Sample, LLC. All rights reserved.
 
 Member polls
 
@@ -357,9 +357,9 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 * [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **91,194**
+* Surveys: **91,201**
 
-* Voters: **2,926,597**
+* Voters: **2,927,084**
 
 * Light / Dark / Auto
 
