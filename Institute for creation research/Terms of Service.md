@@ -165,6 +165,66 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Features
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/creation_kids_0724_butterflies.jpg)](https://www.icr.org/article/creation-kids-butterflies)
+
+[Creation Kids: Butterflies](https://www.icr.org/article/creation-kids-butterflies/)
+
+by Renée Dusseau and Susan Windsor\* You're never too young to be a creation scientist and explore our Creator's world. Kids, discover...
+
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_good-stewards.jpg)](https://www.icr.org/article/kids-edition-2023-good-stewards)
+
+[Kids Edition 2023: Good Stewards](https://www.icr.org/article/kids-edition-2023-good-stewards/)
+
+Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/reinvent_wheel_1400x1050.jpg)](https://www.icr.org/article/why-reinvent-the-wheel)
+
+[Why Reinvent the Wheel?](https://www.icr.org/article/why-reinvent-the-wheel/)
+
+by Randy J. Guliuzza and Aaron T. Guliuzza\* Most of us know the phrase “Don’t reinvent the wheel.” It means that we hope to take the...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
+
+Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
+
+$1.99
+
+$3.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216716/file.jpg)
+
+Six Days of Creation - eBook](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation-ebook.html)
+
+$1.99
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
+
+Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216766/file.jpg)
+
+Five Reasons to Believe in Recent Creation - eBook](https://store.icr.org/dr-henry-morris-iii-five-reasons-to-belie-10114423.html)
+
+$1.99
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
+
+Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
+
+$13.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
