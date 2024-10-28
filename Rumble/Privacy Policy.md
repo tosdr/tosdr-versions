@@ -202,111 +202,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[NEWSMAX
+[The Dan Bongino Show
 
-1.17K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+159K](https://rumble.com/v5kg55h-the-mother-of-all-rallies-ep.-2359-10282024.html "The Dan Bongino Show")
+
+[Bannons War Room
+
+13.3K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+6.89K](https://rumble.com/v5kff6z-badlands-daily-monday-october-28-2024.html "Badlands Media")
+
+[Caleb Hammer
+
+374](https://rumble.com/v5kepf1-gold-digger-exploits-beta-husband-financial-audit.html "Caleb Hammer")
 
 [Lofi Girl
 
-160](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+282](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[Geeks + Gamers
+
+235](https://rumble.com/v5kgm0t-dragon-age-the-veilguard-disaster-venom-3-box-office.html "Geeks + Gamers")
+
+[barstoolsports
+
+226](https://rumble.com/v5kfxtn-kms-live-october-28-2024-ft.-blind-mike-and-lord-kevin.html "barstoolsports")
 
 [Major League Fishing
 
-65](https://rumble.com/v5jq5nh-live-general-tire-team-series-patriot-cup-day-4.html "Major League Fishing")
+208](https://rumble.com/v5jq68d-live-general-tire-team-series-patriot-cup-day-5.html "Major League Fishing")
 
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+[The Kirk Minihane Show
 
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+119](https://rumble.com/v5kfxtn-kms-live-october-28-2024-ft.-blind-mike-and-lord-kevin.html "The Kirk Minihane Show")
 
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
+[Mostly Sports With Mark Titus and Brandon Walker
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[GOP](https://rumble.com/c/GOP "GOP")
-
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
-
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
-
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+108](https://rumble.com/v5kdymb-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
 
 [The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
 
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
 
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
 
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
 
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
 
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
 
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
 
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
 
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+[Havoc](https://rumble.com/c/Havoc "Havoc")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
 
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
 
 [Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
 
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
-[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
 
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
 
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+
+[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
 
 [KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
 ### Theme
 
