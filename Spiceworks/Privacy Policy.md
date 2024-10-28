@@ -4,7 +4,7 @@
 
 * [News & Insights](#)
     
-    * [News & Insights Home](https://www.spiceworks.com/)
+    * [News & Insights Home](https://www.spiceworks.com/news-insights/)
     * [Artificial Intelligence](https://www.spiceworks.com/tech/artificial-intelligence/)
     * [Innovation](https://www.spiceworks.com/tech/innovation/)
     * [IT Careers & Skills](https://www.spiceworks.com/tech/it-careers-skills/)
