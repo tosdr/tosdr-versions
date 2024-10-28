@@ -253,23 +253,17 @@ Latest News
 
 [Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
 
-3 hours ago
+9 hours ago
 
 [Tree-cutting begins in Meiji Jingu Gaien redevelopment project](https://www.japantimes.co.jp/news/2024/10/28/japan/meiji-jingu-cut-start/ "Tree-cutting begins in Meiji Jingu Gaien redevelopment project")
 
-5 hours ago
+11 hours ago
 
 [Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
-7 hours ago
-
 [Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant](https://www.japantimes.co.jp/news/2024/10/28/japan/tepco-debris-removal-trial/ "Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant")
 
-7 hours ago
-
 [China's second-generation factory owners go digital to combat challenges](https://www.japantimes.co.jp/business/2024/10/28/tech/china-generation-factory-digital/ "China's second-generation factory owners go digital to combat challenges")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
