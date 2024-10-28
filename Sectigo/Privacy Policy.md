@@ -94,7 +94,7 @@ Purpose-built digital certificate management for small businesses
 
 CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
 
-[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [90-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
+[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [45-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
 
 Entrust customer?
 
@@ -203,7 +203,7 @@ Login
     * CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
         
     * [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations)
-    * [90-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
+    * [45-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
     
 * Partners
     
@@ -313,7 +313,7 @@ We’ve defined the following terms, which are used throughout this Privacy Poli
 * **“Baseline Requirements”** refers the most recent version of the CA/B Forum’s BASELINE REQUIREMENTS FOR THE ISSUANCE AND MANAGEMENT OF PUBLICLY-TRUSTED CERTIFICATES, accessible here: [https://cabforum.org/baseline-requirements-documents/](https://cabforum.org/baseline-requirements-documents/).
 * **“CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
 * **“Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo.
-* “**Cookies Policy**” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry%3A321889@4%3Aurl%7C%7C%7D).
+* “**Cookies Policy**” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/).
 * “**CPS**” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
 * **“eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
 * **“ETSI”** means the European Telecommunications and Standards Institute, an independent, not-for-profit, standardization organization for the information and communications technology industry.
