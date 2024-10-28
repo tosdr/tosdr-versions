@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service has been so good...I am surely cannot live without foxyproxy.
+Thank you for such a fast response. Have a lovey one.
 
-Chatchawan Sukonpongpao
+Jo Self
