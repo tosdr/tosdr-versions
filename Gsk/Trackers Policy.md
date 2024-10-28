@@ -215,7 +215,7 @@ Location
         * [Annual Governance Meeting](https://www.gsk.com/en-gb/investors/shareholder-information/annual-governance-meeting/)
         * [Corporate sponsored nominee service](https://www.gsk.com/en-gb/investors/shareholder-information/corporate-sponsored-nominee-service/)
         * [Our ADR programme](https://www.gsk.com/en-gb/investors/shareholder-information/adr-programme/)
-        * [Asset reunification - ProSearch](https://www.gsk.com/en-gb/investors/shareholder-information/asset-reunification-prosearch/)
+        * [Asset reunification - Georgeson](https://www.gsk.com/en-gb/investors/shareholder-information/asset-reunification-georgeson/)
         * [Share scam alert](https://www.gsk.com/en-gb/investors/shareholder-information/share-scam-alert/)
         * [Privacy notice for ordinary shareholders](https://www.gsk.com/en-gb/investors/shareholder-information/privacy-notice-for-ordinary-shareholders/)
         * [FAQs](https://www.gsk.com/en-gb/investors/shareholder-information/shareholder-faqs/)
