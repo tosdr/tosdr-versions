@@ -202,7 +202,7 @@ National Geographic activities, products and services should be designed, produc
 
 #### Product and Employee Safety
 
-Business collaborations involving National Geographic must comply with all applicable local laws and regulations for product and employee safety in the countries where they operate. Our U.S. business collaborations must comply with all regulations of the [Consumer Product Safety Commission](https://www.cpsc.gov/) (CPSC) and the [Occupational Safety and Health Act](https://www.osha.gov/laws-regs) (OSHA). The materials they use, including adhesives, pigments, inks, coatings, solvents, substrates, curing processes and packaging, must meet the standards for toxicity established by the CPSC or the lowest threshold established by any of the 50 states, whichever is stricter.
+Business collaborations involving National Geographic must comply with all applicable local laws and regulations for product and employee safety in the countries where they operate. Our U.S. business collaborations must comply with all regulations of the [Consumer Product Safety Commission](https://www.cpsc.gov/) (CPSC) and the [Occupational Safety and Health Act](https://www.osha.gov/laws-regs/oshact/completeoshact) (OSHA). The materials they use, including adhesives, pigments, inks, coatings, solvents, substrates, curing processes and packaging, must meet the standards for toxicity established by the CPSC or the lowest threshold established by any of the 50 states, whichever is stricter.
 
 All business deals should include mechanisms to:
 
@@ -236,7 +236,8 @@ National Geographic recognizes that responsible environmental stewardship is an 
 
 The National Geographic brand, logo or name should never be used as a sustainability certification or endorsement or used in such a way as to imply that it is a sustainability certification or endorsement of a product, service, activity or activation.
 
-1\. [https://www.un.org/en/academic-impact/sustainability](https://www.un.org/en/academic-impact/sustainability)[↩](#ref1 "Jump back to footnote 1 in the text.")  
+1\. [http://www.un-documents.net/our-common-future.pdf](http://www.un-documents.net/our-common-future.pdf)[↩](#ref1 "Jump back to footnote 1 in the text.")
+
 2\. “Conservation status requirements” encompasses any rules or guidelines of treatment, handling, filming, habitat preservation, etc that may be dictated by the species’ status (endangered, protected, declining – usually based on population level and success, known threats, probability of extinction) whether globally or locally set (e.g. national or regional species protections, CITES, IUCN, etc).[↩](#ref2 "Jump back to footnote 2 in the text.")
 
 **Photo credits:** Mac Stone
