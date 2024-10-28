@@ -308,6 +308,10 @@
     
     Success Stories
     
+    [![Logo Plymouth Rock](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/10/Logo-Plymouth-Rock.png)
+    
+    Plymouth Rock Increased Conversions by Redesigning the Final Checkout Flow](https://vwo.com/success-stories/plymouth-rock/)
+    
     [![Logo](https://static.wingify.com/gcp//uploads/2024/03/image004.png)
     
     Performics Lowers Cost Per Conversion, Improves RoAS 1.5X for HDFC ERGO General Insurance with VWO](https://vwo.com/success-stories/performics-hdfc-ergo/)
@@ -343,10 +347,6 @@
     [![Orah 2](https://static.wingify.com/gcp//uploads/2023/09/Orah-2-1.png)
     
     Orah Increased Demo Requests by Testing Its Homepage for New Visitors](https://vwo.com/success-stories/orah/)
-    
-    [![Screenshot 2023 07 26 At 11 14 08 Am (1)](https://static.wingify.com/gcp//uploads/2023/07/Screenshot-2023-07-26-at-11.14.08-AM-1.png)
-    
-    CodaLift LLC Drives Revenue Growth By Testing Pricing Page CTAs](https://vwo.com/success-stories/codalift-llc/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
