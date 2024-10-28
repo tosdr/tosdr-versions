@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=80423175)  
-OrgChart Hosting Pty Ltd
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=191055824)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=166354751)  
-OptaServ
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=31312188)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=26810295)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=157676697)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=113536194)  
-webb it services
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=95673710)  
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=105932973)  
 Three Moons Emporium
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=44203236)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=211462571)  
+Wiselink Broadband Pty Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=166985306)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=43397011)  
+Lily Fern & Co
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=183865044)  
-Meyer Towing & Recovery
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=27986640)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=129309202)  
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=3415985)  
 BD Maintenance
 
-![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=74775166)  
-Turnkey Innovations
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=137793078)  
+Nogana Events and Decor
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=2169ddbef5bbd4d38f95d74e33945ac5532c7696902a01b48f6e10423709ab78&c=143691352)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=95396050)  
+ARCHITEK PTY LTD
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=184878133)  
+Mountain Lion Properties
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=49366922)  
+Druce Digital
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=51097598)  
+LEO DEVELOPMENT GROUP
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=171059054)  
+AMS Ambu Medical Supplies
+
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=106615537)  
+Fox Alarms & Security CC
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=138137855)  
+Goju Ryu Karate Centre
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=185031015)  
+Gemini-IT Group
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=199290371)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=b3e9e3d301a723ab321c99130d177c0021d2d117266d91ccbd057ffd74530b9a&c=131162664)  
+Abandoned Vehicle and Truck Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
