@@ -9,7 +9,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-AXT1800 / Slate AX](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg) | ###### Travel Router<br><br>[GL-MT3000 / Beryl AX POPULAR](https://www.gl-inet.com/products/gl-mt3000/)  <br>[GL-AXT1800 / Slate AX](https://www.gl-inet.com/products/gl-axt1800/)  <br>[GL-A1300 / Slate Plus](https://www.gl-inet.com/products/gl-a1300/)  <br>[GL-MT1300 / Beryl](https://www.gl-inet.com/products/gl-mt1300/)  <br>[GL-SFT1200 / Opal](https://www.gl-inet.com/products/gl-sft1200/)  <br>[GL-E750V2 / Mudi V2](https://www.gl-inet.com/products/gl-e750/) |
+    | ![GL-AXT1800 / Slate AX](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt3000.jpg) | ###### Travel Router<br><br>[GL-BE3600 / Slate 7 UPCOMING](https://www.gl-inet.com/products/gl-be3600/)  <br>[GL-MT3000 / Beryl AX POPULAR](https://www.gl-inet.com/products/gl-mt3000/)  <br>[GL-AXT1800 / Slate AX](https://www.gl-inet.com/products/gl-axt1800/)  <br>[GL-A1300 / Slate Plus](https://www.gl-inet.com/products/gl-a1300/)  <br>[GL-MT1300 / Beryl](https://www.gl-inet.com/products/gl-mt1300/)  <br>[GL-SFT1200 / Opal](https://www.gl-inet.com/products/gl-sft1200/)  <br>[GL-E750V2 / Mudi V2](https://www.gl-inet.com/products/gl-e750/) |
     
     |     |     |
     | --- | --- |
