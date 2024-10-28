@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -170,6 +170,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусы разные, прекрасные. Лучшие САЛАТЫ №24-44](https://www.russianfood.com/reading/?post_id=22789) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/735/sm_734378.jpg)](https://www.russianfood.com/reading/?post_id=22789)
+
+Салат с маринованными огурцами, сыром и сухариками. Салат из помидоров, сельдерея и авокадо. Салат с морским коктейлем. Салат с жареными помидорами. Салат с кальмарами и крабовыми палочками. Салат с грейпфрутом и беконом. Винегрет с морковью по-корейски.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22789)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22789#comments) | 28.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -367,20 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22770#comments) | 24.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Изобилие вкусов и красок. Лучшие СУПЫ №24-43](https://www.russianfood.com/reading/?post_id=22769) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742692.jpg)](https://www.russianfood.com/reading/?post_id=22769)
-
-Тыквенный суп с луком-пореем. Грибной суп с кукурузной полентой. Овощной суп с чечевицей и кускусом. Томатный суп с фаршем и баклажанами. Суп с чечевицей, беконом и плавленым сыром. Суп-пюре из чечевицы и нута.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22769)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22769#comments) | 24.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -470,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(86)
+(328)
