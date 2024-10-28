@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/the-power-of-the-heart-prachtig/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/brice-taylors-thanks-for-the-memories-5/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
