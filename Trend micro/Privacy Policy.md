@@ -868,7 +868,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-7 Alerts
+5 Alerts
 
 Back
 
@@ -876,12 +876,6 @@ Unread
 
 All
 
-* [Trend Detects NVIDIA AI Toolkit Vulnerability](https://www.trendmicro.com/en_us/research/24/i/nvidia-ai-container-toolkit-vulnerability-fix.html)close
-    
-    [Learn more >](https://www.trendmicro.com/en_us/research/24/i/nvidia-ai-container-toolkit-vulnerability-fix.html)
-* [The Illusion of Choice: Uncovering Electoral Deceptions in the Age of AI](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/intercepting-impact-2024-trend-micro-cyber-risk-report)close
-    
-    [Read report >](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/intercepting-impact-2024-trend-micro-cyber-risk-report)
 * [Shaping the Future of Attack Surface Management](https://www.trendmicro.com/explore/forrester-wave-asm)close
     
     [See how >](https://www.trendmicro.com/explore/forrester-wave-asm)
