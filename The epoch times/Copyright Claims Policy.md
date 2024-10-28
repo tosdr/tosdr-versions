@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Japan Faces Uncertainty as Ruling Bloc Loses Majority for First Time Since 2009](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738647-GettyImages-2177552448-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/japan-faces-uncertainty-as-ruling-bloc-loses-majority-for-first-time-since-2009-post-5748882)
+* [Big Tech Earnings: What to Expect](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
+    
+    NEW By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    
+    [![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Big Tech Earnings: What to Expect](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748824-GettyImages-1230188826-205x123.jpg.webp)](https://www.theepochtimes.com/business/big-tech-earnings-what-to-expect-5748813)
 * [Michigan’s Early Voters Brave Long Lines, Break Records](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Michigan’s Early Voters Brave Long Lines, Break Records](https://img.theepochtimes.com/assets/uploads/2024/08/29/id5714699-Michigan-Flag_JF_08282024-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-early-voters-brave-long-lines-break-records-5748758)
 * [5 Highlights From Trump’s Madison Square Garden Speech](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
     
-    NEW By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov)
+    7hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov)
     
     [![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748900-DSC02269A-trump-madison-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
+    ![5 Highlights From Trump’s Madison Square Garden Speech](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748906-DSC02269A-trump-madison_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-highlights-from-trumps-madison-square-garden-speech-5748894)
 * [Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://www.theepochtimes.com/us/harris-tells-supporters-the-path-to-victory-runs-through-pennsylvania-5748836)
     
-    1hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    7hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Tells Supporters ‘The Path to Victory’ Runs Through Pennsylvania](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5748873-Harris-Philadelphia-e1730075257839-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-tells-supporters-the-path-to-victory-runs-through-pennsylvania-5748836)
 * [More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://www.theepochtimes.com/us/more-republicans-than-democrats-have-voted-early-in-arizona-nevada-north-carolina-5748754)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![More Republicans Than Democrats Have Voted Early in Arizona, Nevada, North Carolina](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747996-Kamala-Harris-Donald-Trump-2-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/more-republicans-than-democrats-have-voted-early-in-arizona-nevada-north-carolina-5748754)
 * [NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
     
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NYC Mayor Urges Democrat Politicians to ‘Dial Down the Temperature’ Ahead of Trump Rally](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748817-Eric-Adams-AP24209782201702KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-mayor-says-trump-not-a-fascist-urges-politicians-to-dial-down-the-temperature-5748776)
 * [New Home Sales Spike to Highest Level in 16 Months: US Census](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
     
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New Home Sales Spike to Highest Level in 16 Months: US Census](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705069-House-for-sale_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/new-home-sales-spike-to-highest-level-in-16-months-us-census-5748666)
 * [Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
     
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    15hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Joe Rogan’s Trump Episode Nets 28 Million Views on YouTube](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748803-Trump-Rogan-AP24300550325733-205x123.jpg.webp)](https://www.theepochtimes.com/us/joe-rogans-trump-episode-nets-28-million-views-on-youtube-5748724)
 * [Howes Family Made Hockey History as Skating Teammates in 1970s](https://www.theepochtimes.com/sports/howes-family-made-hockey-history-as-skating-teammates-in-1970s-5748634)
     
-    10hr By [Donald Laible](https://www.theepochtimes.com/author/donald-laible)
+    16hr By [Donald Laible](https://www.theepochtimes.com/author/donald-laible)
     
     [![Howes Family Made Hockey History as Skating Teammates in 1970s](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Howes Family Made Hockey History as Skating Teammates in 1970s](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748800-GettyImages-132772565-LS-205x123.webp)](https://www.theepochtimes.com/sports/howes-family-made-hockey-history-as-skating-teammates-in-1970s-5748634)
-* [US Issues Multi-State Health Alert Over Illegally Imported Meat](https://www.theepochtimes.com/us/us-issues-multi-state-health-alert-over-illegally-imported-meat-5748668)
-    
-    11hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Issues Multi-State Health Alert Over Illegally Imported Meat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Issues Multi-State Health Alert Over Illegally Imported Meat](https://img.theepochtimes.com/assets/uploads/2024/10/27/id5748816-GettyImages-75592083KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-issues-multi-state-health-alert-over-illegally-imported-meat-5748668)
-* [Jury: Bay Area Transit Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://www.theepochtimes.com/us/jury-workers-fired-for-refusing-covid-19-vaccine-to-get-more-than-1-million-each-5747903)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Jury: Bay Area Transit Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Jury: Bay Area Transit Workers Fired for Refusing COVID-19 Vaccine to Get More Than $1 Million Each](https://img.theepochtimes.com/assets/uploads/2023/12/22/id5551750-GettyImages-1363703062-205x123.jpg.webp)](https://www.theepochtimes.com/us/jury-workers-fired-for-refusing-covid-19-vaccine-to-get-more-than-1-million-each-5747903)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
