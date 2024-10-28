@@ -80,11 +80,13 @@ SUBSCRIBE
 * [News & Press](https://tepsa.eu/press/)
 * [Privacy Policy](https://tepsa.eu/privacy-policy/)
 * [Legal Notice](https://tepsa.eu/legal-notice/)
+* [Careers](https://tepsa.eu/careers/)
 
 * [Contact](https://tepsa.eu/contact/)
 * [News & Press](https://tepsa.eu/press/)
 * [Privacy Policy](https://tepsa.eu/privacy-policy/)
 * [Legal Notice](https://tepsa.eu/legal-notice/)
+* [Careers](https://tepsa.eu/careers/)
 
 Copyright 2024 Trans European Policy Studies Association. All rights reserved.
 
