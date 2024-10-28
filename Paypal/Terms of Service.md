@@ -12,7 +12,7 @@ About Your Account
 
 PAYPAL USER AGREEMENT
 
-Last updated on August 14, 2024
+Last updated on October 28, 2024
 
 About Your Account
 ------------------
@@ -344,17 +344,19 @@ Payment Method Used for My Transaction
 
 ### Selecting a preferred payment method
 
-You can choose any of the payment methods in your PayPal account as your preferred payment method. You can select a preferred payment method in your account preferences on [**www.paypal.com**](https://www.paypal.com/) or in the PayPal app. There may be times when your preferred payment method cannot be used, for example, if you select a credit card that is expired.
+You can choose any of the payment methods in your PayPal account as your preferred payment method. You can select a preferred payment method in your account preferences on [**www.paypal.com**](https://www.paypal.com/) or in the PayPal app, or when checking out with PayPal online. There may be times when your preferred payment method cannot be used, for example, if you select a credit card that is expired.
 
 You can set separate preferred payment methods for online transactions, in-store transactions, and each of your automatic payment agreements, as described below.
 
 If you have chosen a preferred payment method, it will be shown as the primary method of payment.
 
-If you have not chosen a preferred payment method, then you must choose the payment method to be used for the specific transaction.
+If you have not chosen a preferred payment method, you can always choose the payment method to be used for the specific transaction.
 
 The availability of certain payment methods may be limited based on that particular seller or the third-party website you are using to complete the transaction.
 
-If you have not selected a preferred payment method, or your preferred payment method is unavailable, we will show you available payment methods, including the payment method you used most often or most recently, at the time of transaction.
+If you have not chosen a preferred payment method for online transactions, when you choose a credit card (other than PayPal Credit), debit card, bank account, or balance with PayPal during a one-time online purchase, you are also providing your express consent to make that your preferred payment method for future one-time online purchases.
+
+If you have not selected a preferred payment method, or your preferred payment method is unavailable, we will show you your available payment methods. You can also see all of your available payment methods, or add a new one, and select a payment method during the transaction.
 
 ### Backup payment method
 
@@ -370,9 +372,9 @@ Some sellers allow you to store PayPal as the way you pay when making purchases 
 
 When you first set up an automatic payment agreement or store PayPal as a payment method with a seller, you may have the option to set up a preferred payment method for such agreement. You can review, set, or change a preferred payment method for an automatic payment agreement in your account settings on paypal.com or in the PayPal app.
 
-Your preferred payment method for an automatic payment agreement will be used for transactions with that seller. If you have available balance in a linked Balance Account, that balance may be used before your preferred payment method, depending on your applicable automatic payment agreement with the seller.
+Your preferred payment method for an automatic payment agreement will be used for transactions with that seller. If you have available balance with PayPal, that balance may be used before your preferred payment method, depending on your applicable automatic payment agreement with the seller.
 
-If you have not set a preferred payment method for an automatic payment agreement, or if your preferred payment method for an automatic payment agreement is unavailable (for example, due to fraud risk or because it is expired) you authorize PayPal to charge the backup payment method in the following order, if applicable: 1. Balance Account, PayPal Debit Card (which allows you to access your Balance Account) or balance in your business account (if we’ve been able to verify the required identifying information you provide to us); 2. Bank account (when PayPal pays the recipient before we receive the funds from your bank); 3. PayPal co-branded credit card; 4. Debit card; 5. Credit card; and 6. E-check (when PayPal waits to receive the funds from your bank before we pay the recipient). However, if a bank account is used as the payment method for a transaction and funding fails (for example, as a result of insufficient funds), PayPal may attempt another payment method as a backup notwithstanding the order specified above (typically a credit card, if applicable). To help minimize disruptions in your automatic payments, we may update your payment method information associated with such automatic payments; see [Link or Unlink a Payment Method](#linking-funding).
+If you have not set a preferred payment method for an automatic payment agreement, or if your preferred payment method for an automatic payment agreement is unavailable (for example, due to fraud risk or because it is expired) you authorize PayPal to charge the backup payment method in the following order, if applicable: 1. Balance Account or PayPal Debit Card (which allows you to access your Balance Account), or balance in your business account (if we’ve been able to verify the required identifying information you provide to us); 2. Bank account (when PayPal pays the recipient before we receive the funds from your bank); 3. PayPal co-branded credit card; 4. Debit card; 5. Credit card; and 6. E-check (when PayPal waits to receive the funds from your bank before we pay the recipient). However, if a bank account is used as the payment method for a transaction and funding fails (for example, as a result of insufficient funds), PayPal may attempt another payment method as a backup notwithstanding the order specified above (typically a credit card, if applicable). To help minimize disruptions in your automatic payments, we may update your payment method information associated with such automatic payments; see [Link or Unlink a Payment Method](#linking-funding).
 
 ### Bank account transfers
 
@@ -392,9 +394,9 @@ All Pay with Rewards redemptions are subject to the terms of your card agreement
 
 There may be a delay between checkout and processing of your payment. Only rewards available upon processing of your payment will be used. Because your reward balance and/or transaction balance may change, whenever you request to redeem rewards for a purchase you also authorize PayPal to charge up to the full payment amount to your associated card if that happens. For more information on redeeming rewards and how it works, please see [About Payment Methods](https://www.paypal.com/webapps/mpp/popup/about-payment-methods).
 
-### Debit card processing
+### Debit Card Transactions
 
-PayPal will process your debit or prepaid card funded transactions through either the ATM debit network or the Visa, MasterCard, or Discover network except for PayPal Debit Card transactions you make in PayPal checkout, which will be processed directly by PayPal by debiting your Balance Account. If we process your debit or prepaid card through an ATM debit network, we may provide you with the opportunity to switch to a Visa, MasterCard, or Discover network by changing your preferences for that debit or prepaid card through your PayPal account profile.
+PayPal may process debit card transactions through the ATM debit network or the Visa, MasterCard, or Discover network, except for PayPal Debit Card transactions you make in PayPal checkout, which will be processed directly by PayPal by debiting your Balance Account. If we process your debit card through an ATM debit network, we may provide you with the opportunity to switch to a Visa or MasterCard network. Choosing the Visa/Mastercard network may give you additional protection compared to the ATM debit networks. You should contact your debit card issuer to learn more about your rights and remedies if you pay with your debit card.
 
 Loyalty Cards
 -------------
@@ -446,10 +448,10 @@ The applicable [Commercial Entity Agreement(s)](https://www.paypal.com/legalhub
 
 ### Receiving donation payments
 
-If you use your PayPal account to accept donations, including using the [PayPal Fundraisers](https://www.paypal.com/legalhub/pp-fundraisers-tnc), the Donate Button, or PayPal Checkout for Donations, you must:
+If you use your PayPal account to accept donations, including using the Donate Button or PayPal Checkout for Donations, you must:
 
 * Pay any applicable fees for receiving the funds.
-* Not use PayPal Fundraisers, the Donate Button, PayPal Checkout for Donations, or any other donation services for the sale of goods and services. If you do so, PayPal may remove your PayPal account's ability to use those services or otherwise receive donations.
+* Not use the Donate Button, PayPal Checkout for Donations, or any other donation services for the sale of goods and services. If you do so, PayPal may remove your PayPal account's ability to use those services or otherwise receive donations.
 
 ### No surcharges
 
@@ -1142,9 +1144,7 @@ Restricted transactions as defined in Federal Reserve Regulation GG are prohibit
 
 ### Your use (as a seller) of personal data; Data protection laws
 
-If you (as a seller) receive personal data about another PayPal customer, you must keep such personal data confidential and only use it in connection with the PayPal services. You may not disclose or distribute any personal data about PayPal customers to a third party or use such personal data for marketing purposes unless you receive that customer’s express consent to do so. You may not send unsolicited emails to a PayPal customer or use the PayPal services to collect payments to send, or assist in sending, unsolicited emails to third parties.
-
-To the extent that you process any personal data about a PayPal customer pursuant to this agreement, you and PayPal will each be an independent data controller (and not joint controllers), meaning we will each separately determine the purposes and means of processing such personal data. We each agree to comply with the requirements of any applicable privacy and data protection laws, including any applicable regulations, directives, codes of practice, and regulatory requirements applicable to data controllers in connection with this agreement. We each also have and will follow our own independently-determined privacy statements, notices, policies, and procedures for any such personal data that we process in connection with this agreement.
+To the extent that you, in your capacity as a seller and/or using a business profile, process any personal data about a PayPal customer pursuant to this agreement, you and PayPal will each be an independent data controller (and not joint controllers), meaning we will each separately determine the purposes and means of processing such personal data. We each agree to comply with the requirements of any applicable privacy and data protection laws, including any applicable regulations, directives, codes of practice, and regulatory requirements applicable to data controllers in connection with this agreement. We each also have and will follow our own independently-determined privacy statements, notices, policies, and procedures for any such personal data that we process in connection with this agreement.
 
 In complying with the applicable data protection laws, we will each:
 
@@ -1152,7 +1152,7 @@ In complying with the applicable data protection laws, we will each:
 * maintain a record of all processing activities carried out under this agreement; and
 * not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done, which might lead to a breach by the other party of the applicable data protection laws.
 
-Any personal data you collect in connection with the PayPal services (and not otherwise generated, collected, or obtained by you through a customer’s separate relationship with you outside the use of the PayPal services) will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose unless you have obtained the prior express consent of the customer.
+Any personal data provided to you by PayPal in connection with the PayPal services, excluding personal data collected or obtained by your directly from the customer, will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose, including marketing purposes, unless you have obtained the prior consent of the customer. You represent, warrant, and covenant that you will provide and/or obtain all necessary disclosures and consents, as applicable, in connection with your data collection and sharing practices with PayPal. You may not disclose or distribute any customer personal data provided to you by PayPal to a third party, unless such third party is your service provider and acting on your behalf (as defined by applicable law).
 
 * [Help](https://www.paypal.com/us/cshelp/personal)
 * [Contact](https://www.paypal.com/us/smarthelp/contact-us)
