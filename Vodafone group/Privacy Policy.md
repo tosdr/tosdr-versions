@@ -331,11 +331,11 @@ Privacy and Cookie Policy
 
 Loading...
 
-* [Introduction](https://www.vodafone.com/cookie-policies#introduction)
-* [Privacy Statement](https://www.vodafone.com/cookie-policies#privacy-statement)
-* [Privacy policy](https://www.vodafone.com/cookie-policies#privacy-policy)
-* [Cookie policy](https://www.vodafone.com/cookie-policies#cookie-policy)
-* [Our strategy in action](https://www.vodafone.com/cookie-policies#our-strategy-in-action)
+* [Introduction](https://www.vodafone.com/cookie-policies?__nextDataReq=1#introduction)
+* [Privacy Statement](https://www.vodafone.com/cookie-policies?__nextDataReq=1#privacy-statement)
+* [Privacy policy](https://www.vodafone.com/cookie-policies?__nextDataReq=1#privacy-policy)
+* [Cookie policy](https://www.vodafone.com/cookie-policies?__nextDataReq=1#cookie-policy)
+* [Our strategy in action](https://www.vodafone.com/cookie-policies?__nextDataReq=1#our-strategy-in-action)
 
 ![Rectangle 663](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
