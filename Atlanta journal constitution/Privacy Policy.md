@@ -14,6 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-michelin-guide-part-deux/VYQVPL3O6BB5BOHP2T5MZS6IPI/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
