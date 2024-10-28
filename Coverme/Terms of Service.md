@@ -200,7 +200,7 @@ About Us
 
 [Privacy Policy](http://www.coverme.ws/men/privacy_policy.html)[Terms of Service](http://www.coverme.ws/men/terms.html)
 
-© 2022 CoverMe Communications Inc
+© 2024 CoverMe Communications Inc
 
 Get the redeem code  ![copy](/images_new/copy@1x.png)
 
