@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### MAGA takes MSG
-
-[MSNBC blasted for splicing Nazi rally clips into coverage of Trump's Madison Square Garden rally](https://nypost.com/2024/10/28/us-news/shameful-msnbc-blasted-for-splicing-nazi-rally-clips-into-coverage-of-trumps-msg-rally/)
-
 Terms Of Use
 ============
 
