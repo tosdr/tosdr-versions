@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Mon, Oct 28, 2024
+Tue, Oct 29, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
     * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
+    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-vs-bollywood-wives-shalini-passi-says-husband-sanjays-family-gatecrashed-a-wedding-to-meet-her-9101011.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
     * [Diwali 2024](https://www.news18.com/topics/diwali/)
-    * [Delhi Air Pollution](https://www.news18.com/india/delhis-aqi-slips-to-very-poor-aap-bjp-trade-charges-9101129.html)
-    * [Vijay](https://www.news18.com/politics/bjp-ideological-opponent-dmk-political-adversary-actor-turned-politician-vijay-at-tvk-rally-9101032.html)
-    * [Salman Khan](https://www.news18.com/movies/salman-khan-should-go-to-a-temple-apologise-to-lawrence-bishnoi-rakesh-tikait-says-amid-death-threats-9100754.html)
-    * [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
+    * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-receives-sebi-approval-opening-date-size-price-all-you-need-to-know-9102046.html)
+    * [Ajit Pawar](https://www.news18.com/elections/ajit-pawar-sharad-pawar-attack-emotional-outburst-maharashtra-polls-saheb-making-same-mistake-ncp-split-9102319.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
+* [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
 * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
+* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-vs-bollywood-wives-shalini-passi-says-husband-sanjays-family-gatecrashed-a-wedding-to-meet-her-9101011.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
 * [Diwali 2024](https://www.news18.com/topics/diwali/)
-* [Delhi Air Pollution](https://www.news18.com/india/delhis-aqi-slips-to-very-poor-aap-bjp-trade-charges-9101129.html)
-* [Vijay](https://www.news18.com/politics/bjp-ideological-opponent-dmk-political-adversary-actor-turned-politician-vijay-at-tvk-rally-9101032.html)
-* [Salman Khan](https://www.news18.com/movies/salman-khan-should-go-to-a-temple-apologise-to-lawrence-bishnoi-rakesh-tikait-says-amid-death-threats-9100754.html)
-* [Ind vs NZ](https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html)
+* [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-receives-sebi-approval-opening-date-size-price-all-you-need-to-know-9102046.html)
+* [Ajit Pawar](https://www.news18.com/elections/ajit-pawar-sharad-pawar-attack-emotional-outburst-maharashtra-polls-saheb-making-same-mistake-ncp-split-9102319.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -304,7 +304,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Oct 28, 2024
+Oct 29, 2024
 
 [View All](https://www.news18.com/short-news/)
 
