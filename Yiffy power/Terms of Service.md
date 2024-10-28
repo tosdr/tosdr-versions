@@ -107,23 +107,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 195 1
+0 205 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/eon-created-by-glebyshka78/)
+[](https://yiff-party.com/yiff/created-by-icacus/)
 
-[eon created by glebyshka78](https://yiff-party.com/yiff/eon-created-by-glebyshka78/)
+[created by icacus](https://yiff-party.com/yiff/created-by-icacus/)
 
-0 171 0
+0 104 0
 
 September 28, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/suki-lane-directed-by-corsetlover69-3/)
+[](https://yiff-party.com/yiff/shining-armor-and-twilight-sparkle-friendship-is-magic-and-etc-created-by-sunrise-hooves/)
 
-[suki lane directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/suki-lane-directed-by-corsetlover69-3/)
+[shining armor and twilight sparkle (friendship is magic and etc) created by sunrise hooves](https://yiff-party.com/yiff/shining-armor-and-twilight-sparkle-friendship-is-magic-and-etc-created-by-sunrise-hooves/)
 
-0 1 0
+0 2 0
 
 October 28, 2024
 
