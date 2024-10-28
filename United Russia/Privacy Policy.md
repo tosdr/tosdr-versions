@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://cdn.er.ru/media/news/October2024/QZx9cwW6MtObjbHrtWJt-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
+
+[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007)
+
+Сегодня 12:46
+
 [![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/PftT7j1myUbfvfzqql3L-small.png)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
 
 [«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
@@ -336,14 +344,6 @@
 [При поддержке «Единой России» на железнодорожном вокзале Томска открылся зал ожидания Центра содействия мобильности](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-tomska-otkrylsya-zal-ozhidaniya-centra-sodejstviya-mobilnosti)
 
 [#Томская область](https://er.ru/activity/news?tags%5B0%5D=1708) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Единаястранадоступнаясреда](https://er.ru/activity/news?tags%5B0%5D=1090066) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#вокзалы](https://er.ru/activity/news?tags%5B0%5D=4078)
-
-25.10.24
-
-[![По инициативе «Единой России» и рабочей группы по СВО бойцы спецоперации в отпуске смогут получить амбулаторную медпомощь в любой государственной поликлинике](https://cdn.er.ru/media/news/October2024/sqPsxJivQMsL6Gb6EOyZ-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-i-rabochej-gruppy-po-svo-bojcy-specoperacii-v-otpuske-smogut-poluchit-ambulatornuyu-medpomosh-v-lyuboj-gosudarstvennoj-poliklinike)
-
-[По инициативе «Единой России» и рабочей группы по СВО бойцы спецоперации в отпуске смогут получить амбулаторную медпомощь в любой государственной поликлинике](https://er.ru/activity/news/po-iniciative-edinoj-rossii-i-rabochej-gruppy-po-svo-bojcy-specoperacii-v-otpuske-smogut-poluchit-ambulatornuyu-medpomosh-v-lyuboj-gosudarstvennoj-poliklinike)
-
-[#рабочаягруппапоСВО](https://er.ru/activity/news?tags%5B0%5D=1095403) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#медицина](https://er.ru/activity/news?tags%5B0%5D=273) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#медобслуживание](https://er.ru/activity/news?tags%5B0%5D=21514)
 
 25.10.24
 
