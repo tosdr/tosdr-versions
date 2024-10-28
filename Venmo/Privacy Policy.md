@@ -416,6 +416,7 @@ Privacy Statement
 * Venmo Mastercard Privacy Policy
 * Cryptocurrency Terms & Conditions
 * [Open Source Attribution(opens in a new tab)](https://help.venmo.com/hc/en-us/articles/217042848 "Open Source Attribution")
+* User Agreement - Effective November 12, 2024
 
 U.S.
 
@@ -433,6 +434,7 @@ U.S.
 * Venmo Mastercard Privacy Policy
 * Cryptocurrency Terms & Conditions
 * [Open Source Attribution(opens in a new tab)](https://help.venmo.com/hc/en-us/articles/217042848 "Open Source Attribution")
+* User Agreement - Effective November 12, 2024
 
 Footer
 ------
