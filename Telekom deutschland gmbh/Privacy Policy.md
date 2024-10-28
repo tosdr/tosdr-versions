@@ -724,7 +724,7 @@
     Datenschutz
     ===========
     
-    Der Schutz Ihrer persönlichen Daten ist uns besonders wichtig. Informationen zum Datenschutz in der Telekom haben wir hier für Sie zusammengestellt. 
+    Der Schutz Ihrer persönlichen Daten ist uns besonders wichtig.Informationen zum Datenschutz in der Telekom haben wir hier für Sie zusammengestellt.
     
 
 [Datenschutz-  
