@@ -1,11 +1,11 @@
-[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
+[![Fair Go Casino](https://www.fairgoplus.com/images/logo.png)](https://www.fairgoplus.com/)
+
+[Sign Up](https://www.fairgoplus.com/signup) [Log In](https://www.fairgoplus.com/login)
 
 [](https://www.fairgoplus.com/au)
 
-Privacy Policy
-==============
-
-Fair Go Casino is committed to respecting and protecting your privacy. The following statement discloses the information gathered by Fair Go Casino.
+PRIVACY POLICY 
+===============
 
 ### **What info do we collect?**
 
@@ -33,23 +33,25 @@ Any winnings you bag or cashouts you claim are kept 100% confidential. So rather
 
 Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com/support "fair go support") for more info about our privacy policy.
 
-![Visa](/images/payments/visa-new.png)![MasterCard](/images/payments/mc-new.png)![Bitcoin](/images/payments/bitcoin-new.png)![Neosurf](/images/payments/ns-new.png)![Bank Transfer](/images/payments/bt-new.png)![CashToCode-Home Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/LandingPage/CashToCode_eVoucher/CashToCode-Home.png)![FG_home_eZeeWallet_108x23 Privacy Policy - Your Info is Secure with Us | Fair Go Casino - Fair Go Casino](/images/FG_home_eZeeWallet_108x23.png)  ![AvailableOn](/images/home/available_on.png) 
+![Fairgo Casino Logo](https://www.fairgoplus.com/images/logoLarge.png)
+
+![footer chip](/images/website2024/07_footericon1_45x45.webp)
 
 [Fair Go Lobby](https://www.fairgoplus.com/login "log in to fair go casino")
 
 [Create an account](https://www.fairgoplus.com/signup "sign up")
 
-[Promotions](https://www.fairgoplus.com/promotions "promotions")
+[Latest Promotions](https://www.fairgoplus.com/promotions "promotions")
 
 [Koala's Diary](https://www.fairgoplus.com/koaladiary "koala's diary")
 
-[Videos](https://www.fairgoplus.com/videos "Fair Go casino videos")
+[Fair Go Blog](https://www.fairgoplus.com/blog-articles "fair go blog")
 
-[Blog](https://www.fairgoplus.com/blog "fair go blog")
+[Casino Reviews](https://www.fairgoplus.com/reviews "reviews")
 
-[Reviews](https://www.fairgoplus.com/reviews "reviews")
+[Fair Go Casino Timeline](https://www.fairgoplus.com/timeline "timeline")
 
-[Fair Go History](https://www.fairgoplus.com/timeline "timeline")
+![footer gift](/images/website2024/07_footericon2_45x45.webp)
 
 [The Fair Draw Promo](https://www.fairgoplus.com/fair-draw "The Fair Draw Promo")
 
@@ -71,23 +73,29 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
+[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
+
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
-[Banking](https://www.fairgoplus.com/banking "banking")
+![footer ccard](/images/website2024/07_footericon3_45x45.webp)
+
+[Payments](https://www.fairgoplus.com/banking "banking")
+
+[Crypto currencies](https://www.fairgoplus.com/bitcoin "bitcoin")
 
 [Neosurf](https://www.fairgoplus.com/neosurf "neosurf")
 
-[Visa & Mastercard](https://www.fairgoplus.com/visa-mastercard "mastercard")
-
-[Bitcoin](https://www.fairgoplus.com/bitcoin "bitcoin")
-
-[CashtoCode](https://www.fairgoplus.com/cashtocode "bitcoin")
+[Credits cards](https://www.fairgoplus.com/visa-mastercard "mastercard")
 
 [eZeeWallet](https://www.fairgoplus.com/ezeewallet-payment "eZeeWallet")
 
-[FAQ](https://www.fairgoplus.com/faq "FAQ")
+[CashtoCode](https://www.fairgoplus.com/cashtocode "bitcoin")
 
-[Support](https://www.fairgoplus.com/support "support")
+[Verify your account](https://www.fairgoplus.com/account-verification "account-verification")
+
+![exclamation mark](/images/website2024/07_footericon4_45x45.webp)
+
+[FAQ](https://www.fairgoplus.com/faq "Frequently Asked Questions")
 
 [Terms and Conditions](https://www.fairgoplus.com/terms-conditions "terms and conditions")
 
@@ -95,21 +103,29 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Privacy Policy](https://www.fairgoplus.com/privacy-policy "privacy policy")
 
-[Fair Go info](https://fairgo.info/ "Fair Go info")
+[Contact us](https://www.fairgoplus.com/support "support")
 
-Copyright © 2024 FairGo. All rights reserved. You must be at least 18 years of age to play.
+![Border Image](https://www.fairgoplus.com/images/border.png)
 
-* [My Casino](https://www.fairgoplus.com/au)
-* [Promotions](https://www.fairgoplus.com/promotions)
-* [Koala's Diary](https://www.fairgoplus.com/koaladiary)
-* [Banking](https://www.fairgoplus.com/banking)
-* [Support](https://www.fairgoplus.com/support)
-* ![Live Help](/images/livehelp-icon.png)Live Help
-* More
-    * [Terms & Conditions](https://www.fairgoplus.com/terms-conditions)
-    * [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling)
-    * [FAQ](https://www.fairgoplus.com/faq)
-    * [Blog](https://www.fairgoplus.com/blog)
-    * [Support](https://www.fairgoplus.com/support)
-    * [Reviews](https://www.fairgoplus.com/reviews)
-    * [Fair Go Magazine](https://www.fairgoplus.com/fairgo-x)
+![visa](/images/website2024/07_paymentlogos_visa_141x55.webp) ![mastercard](/images/website2024/07_paymentlogos_mastercard_141x55.webp) ![neosurf](/images/website2024/07_paymentlogos_neosurf_141x55.webp) ![bitcoin](/images/website2024/07_paymentlogos_bitcoin_141x55.webp) ![ezeewallet](/images/website2024/07_paymentlogos_ezeewallet_141x55.webp) ![sslencrypted](/images/website2024/07_trustlogos_sslencrypted_141x55.webp)
+
+[![Go To Top Icon](/images/backToTop.png)](#header)
+
+* [![Lobby](/images/menu_lobby_icon.png)Lobby](https://cdk.fairgoplus.com/lobby?SkinId=1)
+* [![Promo](/images/menu_promtions_icon.png)Promo](https://www.fairgoplus.com/promotions)
+* ![More](/images/menu_icon.png)
+    
+    Up to $1,000
+    
+    **welcome bonus**
+    
+    [Sign up Now](https://www.fairgoplus.com/signup)
+    
+    * [![Koala&#039;s Diary](/images/iconBook.png)Koala's Diary](https://www.fairgoplus.com/koaladiary)
+    * [![Fair Go Magazine](/images/iconStar.png)Fair Go Magazine](https://www.fairgoplus.com/fairgo-x)
+    * [![Blog](/images/iconBlog.png)Blog](https://www.fairgoplus.com/blog-articles)
+    * [![Reviews](/images/iconLike.png)Reviews](https://www.fairgoplus.com/reviews)
+    * [![Support](/images/iconCall.png)Support](https://www.fairgoplus.com/support)
+    * [![Terms &amp;amp; Conditions](/images/iconOk.png)Terms & Conditions](https://www.fairgoplus.com/terms-conditions)
+* [![Banking](/images/menu_banking_icon.png)Banking](https://www.fairgoplus.com/banking)
+* [![Support](/images/menu_support_icon.png)Support](https://www.fairgoplus.com/support)
