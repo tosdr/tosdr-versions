@@ -1,11 +1,15 @@
-[Log In](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=login) [Sign Up](https://cdk.fairgoplus.com/Lobby.aspx?SkinId=1&show=signup)
+[![Fair Go Casino](https://www.fairgoplus.com/images/logo.png)](https://www.fairgoplus.com/)
+
+[Sign Up](https://www.fairgoplus.com/signup) [Log In](https://www.fairgoplus.com/login)
 
 [](https://www.fairgoplus.com/au)
 
-General Casino Terms
-====================
+TERMS & CONDITIONS 
+===================
 
-Please read these Terms and conditions carefully before using the Fair Go Casino web site.  
+### **GENERAL CASINO TERMS**
+
+Please read these Terms and conditions carefully before using the Fair Go Casino website.  
   
 1\. By playing at Fair Go Casino (the "Casino"), you represent and warrant that you fully understand and agree to comply with these Terms and Conditions.  
   
@@ -55,7 +59,7 @@ Please read these Terms and conditions carefully before using the Fair Go Casino
   
 13\. You are solely responsible for any applicable taxes on any prizes and/or winnings that you collect from the Company.
 
-14. Please note that it is required that you verify your identity with documentation. You are asked to submit the following documents:
+14. Please note that it is required that you verify your identity with documentation. You are asked to upload the following documents:
 
 * Valid Picture ID (such as Driver’s License or Passport) in colour
 * Recent Utility Bill (dated within the last 2 months – verifying your address)
@@ -67,9 +71,9 @@ Source of fund and source of wealth might be required at later stage. Also, play
 14.1 If your account was successfully funded by Credit Card(s) the following additional documents are required:
 
 * Back and front colourful copies of Credit Card(s)
-* Authorization letter and Identification documents of the card owner
+* Identification documents of the card owner
 
-14.2 The documents should be scanned and sent by email to This email address is being protected from spambots. You need JavaScript enabled to view it.. Please ensure all copies are clear and legible. If not received in this manner it can delay the verification process. See more information on account verification [here.](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form ")
+14.2 To submit your documents, please read and follow the steps on account verification page [here.](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form ")   Please ensure all copies are clear and elegible.. [](https://www.fairgoplus.com/account-verification "Credit Card Authorization Form ")
 
 15\. Payments will always be sent back to the payment method by which deposits were made, if possible. Fair Go Casino reserves the right to make the final decision through which method the customers receives their withdrawals. Withdrawals are only allowed to accounts controlled and owned by the gaming account holder.  
   
@@ -114,8 +118,7 @@ Source of fund and source of wealth might be required at later stage. Also, play
 
 35. To comply with Anti-money laundering Regulations, Player is not allowed to request for pay out without play through.
 
-Promotional Terms & Conditions
-------------------------------
+### **PROMOTIONAL TERMS**
 
 In the interests of fair gaming, there are limits on the maximum bet sizes you can place during the playthrough of any bonus including cashback offers. $10 is the maximum bet unless specifically stated otherwise. Betting above $10 during a bonus playthrough will result in any promotion winnings voided.
 
@@ -189,8 +192,7 @@ In the interests of fair gaming, there are limits on the maximum bet sizes you c
 
 35\. In order to qualify for the "Fair Draw" promotion, players must deposit a total of $500 between Friday and the following Thursday weekly.
 
-Tournament Terms
-----------------
+### **TOURNAMENT TERMS**
 
 By participating in slot tournaments, you hereby agree to the Terms and Conditions outlined here:
 
@@ -208,8 +210,7 @@ By participating in slot tournaments, you hereby agree to the Terms and Conditio
 
 7\. Tournament prizes are awarded as a real money balance with no wagering restrictions and can be immediately withdrawn by the player.
 
-Lobby Jackpots
---------------
+### **LOBBY JACKPOTS**
 
 1\. To participate in the casino Lobby Jackpot customers must login and manually opt-in. Players can also opt-out at any point from contributing the Lobby Jackpot.
 
@@ -221,21 +222,25 @@ Lobby Jackpots
 
 5\. Lobby jackpot prizes are awarded as a real money balance with no wagering restrictions, except when won while playing with a deposit bonus or cashback. In such cases, wagering requirements of the respective bonus apply. 
 
+![Fairgo Casino Logo](https://www.fairgoplus.com/images/logoLarge.png)
+
+![footer chip](/images/website2024/07_footericon1_45x45.webp)
+
 [Fair Go Lobby](https://www.fairgoplus.com/login "log in to fair go casino")
 
 [Create an account](https://www.fairgoplus.com/signup "sign up")
 
-[Promotions](https://www.fairgoplus.com/promotions "promotions")
+[Latest Promotions](https://www.fairgoplus.com/promotions "promotions")
 
 [Koala's Diary](https://www.fairgoplus.com/koaladiary "koala's diary")
 
-[Videos](https://www.fairgoplus.com/videos "Fair Go casino videos")
+[Fair Go Blog](https://www.fairgoplus.com/blog-articles "fair go blog")
 
-[Blog](https://www.fairgoplus.com/blog "fair go blog")
+[Casino Reviews](https://www.fairgoplus.com/reviews "reviews")
 
-[Reviews](https://www.fairgoplus.com/reviews "reviews")
+[Fair Go Casino Timeline](https://www.fairgoplus.com/timeline "timeline")
 
-[Fair Go History](https://www.fairgoplus.com/timeline "timeline")
+![footer gift](/images/website2024/07_footericon2_45x45.webp)
 
 [The Fair Draw Promo](https://www.fairgoplus.com/fair-draw "The Fair Draw Promo")
 
@@ -257,23 +262,29 @@ Lobby Jackpots
 
 [Real Cash Pokies](https://www.fairgoplus.com/the-difference-between-real-cash-pokies-and-free-games "The difference between real cash pokies and free games")
 
+[Fair Go Bonuses](https://www.bonusfairgo.com/ "Fair Go Bonuses")
+
 [Free Pokies](https://www.fairgoplus.com/10-free-pokies-at-fair-go-casino "What are Fair Go Free pokies?")
 
-[Banking](https://www.fairgoplus.com/banking "banking")
+![footer ccard](/images/website2024/07_footericon3_45x45.webp)
+
+[Payments](https://www.fairgoplus.com/banking "banking")
+
+[Crypto currencies](https://www.fairgoplus.com/bitcoin "bitcoin")
 
 [Neosurf](https://www.fairgoplus.com/neosurf "neosurf")
 
-[Visa & Mastercard](https://www.fairgoplus.com/visa-mastercard "mastercard")
-
-[Bitcoin](https://www.fairgoplus.com/bitcoin "bitcoin")
-
-[CashtoCode](https://www.fairgoplus.com/cashtocode "bitcoin")
+[Credits cards](https://www.fairgoplus.com/visa-mastercard "mastercard")
 
 [eZeeWallet](https://www.fairgoplus.com/ezeewallet-payment "eZeeWallet")
 
-[FAQ](https://www.fairgoplus.com/faq "FAQ")
+[CashtoCode](https://www.fairgoplus.com/cashtocode "bitcoin")
 
-[Support](https://www.fairgoplus.com/support "support")
+[Verify your account](https://www.fairgoplus.com/account-verification "account-verification")
+
+![exclamation mark](/images/website2024/07_footericon4_45x45.webp)
+
+[FAQ](https://www.fairgoplus.com/faq "Frequently Asked Questions")
 
 [Terms and Conditions](https://www.fairgoplus.com/terms-conditions "terms and conditions")
 
@@ -281,19 +292,29 @@ Lobby Jackpots
 
 [Privacy Policy](https://www.fairgoplus.com/privacy-policy "privacy policy")
 
-[Fair Go info](https://fairgo.info/ "Fair Go info")
+[Contact us](https://www.fairgoplus.com/support "support")
 
-* [My Casino](https://www.fairgoplus.com/au)
-* [Promotions](https://www.fairgoplus.com/promotions)
-* [Koala's Diary](https://www.fairgoplus.com/koaladiary)
-* [Banking](https://www.fairgoplus.com/banking)
-* [Support](https://www.fairgoplus.com/support)
-* ![Live Help](/images/livehelp-icon.png)Live Help
-* More
-    * [Terms & Conditions](https://www.fairgoplus.com/terms-conditions)
-    * [Responsible Gaming](https://www.fairgoplus.com/responsible-gambling)
-    * [FAQ](https://www.fairgoplus.com/faq)
-    * [Blog](https://www.fairgoplus.com/blog)
-    * [Support](https://www.fairgoplus.com/support)
-    * [Reviews](https://www.fairgoplus.com/reviews)
-    * [Fair Go Magazine](https://www.fairgoplus.com/fairgo-x)
+![Border Image](https://www.fairgoplus.com/images/border.png)
+
+![visa](/images/website2024/07_paymentlogos_visa_141x55.webp) ![mastercard](/images/website2024/07_paymentlogos_mastercard_141x55.webp) ![neosurf](/images/website2024/07_paymentlogos_neosurf_141x55.webp) ![bitcoin](/images/website2024/07_paymentlogos_bitcoin_141x55.webp) ![ezeewallet](/images/website2024/07_paymentlogos_ezeewallet_141x55.webp) ![sslencrypted](/images/website2024/07_trustlogos_sslencrypted_141x55.webp)
+
+[![Go To Top Icon](/images/backToTop.png)](#header)
+
+* [![Lobby](/images/menu_lobby_icon.png)Lobby](https://cdk.fairgoplus.com/lobby?SkinId=1)
+* [![Promo](/images/menu_promtions_icon.png)Promo](https://www.fairgoplus.com/promotions)
+* ![More](/images/menu_icon.png)
+    
+    Up to $1,000
+    
+    **welcome bonus**
+    
+    [Sign up Now](https://www.fairgoplus.com/signup)
+    
+    * [![Koala&#039;s Diary](/images/iconBook.png)Koala's Diary](https://www.fairgoplus.com/koaladiary)
+    * [![Fair Go Magazine](/images/iconStar.png)Fair Go Magazine](https://www.fairgoplus.com/fairgo-x)
+    * [![Blog](/images/iconBlog.png)Blog](https://www.fairgoplus.com/blog-articles)
+    * [![Reviews](/images/iconLike.png)Reviews](https://www.fairgoplus.com/reviews)
+    * [![Support](/images/iconCall.png)Support](https://www.fairgoplus.com/support)
+    * [![Terms &amp;amp; Conditions](/images/iconOk.png)Terms & Conditions](https://www.fairgoplus.com/terms-conditions)
+* [![Banking](/images/menu_banking_icon.png)Banking](https://www.fairgoplus.com/banking)
+* [![Support](/images/menu_support_icon.png)Support](https://www.fairgoplus.com/support)
