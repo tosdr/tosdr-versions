@@ -138,7 +138,7 @@ Features[Malware Blocking](https://docs.controld.com/docs/feature-malware-blocki
 
 Industries[Start-Ups](https://docs.controld.com/docs/industry-startups)[Small Businesses](https://docs.controld.com/docs/industry-smbs)[Public Wi-Fi](https://docs.controld.com/docs/industry-public-wifi)[Education](https://docs.controld.com/docs/industry-schools)[Hospitality](https://docs.controld.com/docs/industry-airbnb-hosts)[MSPs](https://docs.controld.com/docs/industry-msps)[Non-Profits](https://docs.controld.com/docs/industry-non-profits)
 
-Resources[Knowledge Base](https://docs.controld.com/docs/)[API Docs](https://docs.controld.com/reference)[Blog](https://blog.controld.com/)[Network](https://controld.com/network)[Changelog](https://docs.controld.com/changelog)[Status](https://controld.com/status)[Support](https://controld.com/contact)
+Resources[Knowledge Base](https://docs.controld.com/docs/)[API Docs](https://docs.controld.com/reference)[Blog](https://controld.com/blog)[Network](https://controld.com/network)[Changelog](https://docs.controld.com/changelog)[Status](https://controld.com/status)[Support](https://controld.com/contact)
 
 * * *
 
