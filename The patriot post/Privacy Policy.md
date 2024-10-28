@@ -1,10 +1,10 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111404-mid-day-digest-2024-10-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111449-mid-day-digest-2024-10-28?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,32 +108,32 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111404-mid-day-digest-2024-10-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111449-mid-day-digest-2024-10-28?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111410-just-in-time-2024-10-28)
+     [](https://patriotpost.us/memes/111434-question-answered-2024-10-28)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34416)
+     [](https://patriotpost.us/cartoons/34430)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Rich Lowry No, Trump Is Not a Fascist](https://patriotpost.us/opinion/111420-no-trump-is-not-a-fascist-2024-10-28)
+*      [Tony Perkins There Is No Morality Without the Truth of God](https://patriotpost.us/opinion/111418-there-is-no-morality-without-the-truth-of-god-2024-10-28)
+*      [Gary Bauer Hysterical Hillary](https://patriotpost.us/opinion/111416-hysterical-hillary-2024-10-28)
+*      [The Washington Stand Cuba’s Power Disaster Underscores Socialist Failures, Threat of Infiltration by U.S. Adversaries](https://patriotpost.us/opinion/111419-cubas-power-disaster-underscores-socialist-failures-threat-of-infiltration-by-us-adversaries-2024-10-28)
+*      [Guest Commentary Türkiye Threat](https://patriotpost.us/opinion/111421-turkiye-threat-2024-10-28)
+*      [The Babylon Bee Trump Accused of Inappropriately Touching the Hearts of Millions of Americans](https://patriotpost.us/opinion/111417-trump-accused-of-inappropriately-touching-the-hearts-of-millions-of-americans-2024-10-28)
 *      [Matthew Continetti It Takes Guts to Predict the 2024 Election](https://patriotpost.us/opinion/111405-it-takes-guts-to-predict-the-2024-election-2024-10-26)
 *      [Allen West Who, and What, Is Supreme in These United States?](https://patriotpost.us/opinion/111407-who-and-what-is-supreme-in-these-united-states-2024-10-26)
-*      [The Washington Stand The 10 Worst Moments of Kamala Harris’s CNN Town Hall](https://patriotpost.us/opinion/111408-the-10-worst-moments-of-kamala-harriss-cnn-town-hall-2024-10-26)
-*      [Josh Hammer Donald Trump, Class Traitor Par Excellence](https://patriotpost.us/opinion/111394-donald-trump-class-traitor-par-excellence-2024-10-25)
-*      [Michael Barone The Democratic Party’s Bad October](https://patriotpost.us/opinion/111393-the-democratic-partys-bad-october-2024-10-25)
-*      [David Harsanyi Kamala Is the Bigger Threat to the Constitutional Order](https://patriotpost.us/opinion/111392-kamala-is-the-bigger-threat-to-the-constitutional-order-2024-10-25)
-*      [Erick Erickson A Bold Miscalculation](https://patriotpost.us/opinion/111391-a-bold-miscalculation-2024-10-25)
-*      [Gary Bauer The Fascism Farce](https://patriotpost.us/opinion/111390-the-fascism-farce-2024-10-25)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
-“The first transactions of a nation, like those of an individual upon his first entrance into life make the deepest impression, and are to form the leading traits in its character.” —George Washington (1788)
+“The ultimate arbiter is the people of the Union.” —Thomas Jefferson (1823)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
