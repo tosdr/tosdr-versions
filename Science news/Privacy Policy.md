@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [A common kitchen tool could help koala conservation](https://www.sciencenews.org/article/common-kitchen-tool-koala-conservation)
+            
+            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")2 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The U.S. empire was built on bird dung](https://www.sciencenews.org/article/us-empire-built-bird-dung)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 25, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [The ‘Mekong ghost’ megafish has resurfaced after an extinction scare](https://www.sciencenews.org/article/mekong-ghost-megafish-rediscovered) 
-            
-            By [Stefan Lovgren](https://www.sciencenews.org/author/stefan-lovgren "Posts by Stefan Lovgren")October 24, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
