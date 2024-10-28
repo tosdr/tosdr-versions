@@ -275,6 +275,20 @@ The incident happened in the Lecky Road area of Derry.
 [Man arrested in connection with serious sexual assault in Derry](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball")](https://www.derrynow.com/story-telling/pictures---videos/1641287/in-pictures-night-of-glam-at-the-foyle-hospice-masquerade-ball.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball](https://www.derrynow.com/story-telling/pictures---videos/1641287/in-pictures-night-of-glam-at-the-foyle-hospice-masquerade-ball.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 28 2024](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [!['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest")](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
 
 The late Fr Liam Donnelly who passed away on Saturday.
@@ -293,57 +307,78 @@ Kathleen Krol, Willie Deery and John Moore in Bradford.
 [Springtown Camp: New beginnings and forever friends in Bradford](https://www.derrynow.com/news/local-news/1636473/springtown-camp-new-beginnings-and-forever-friends-in-bradford.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Craigbane defeat Killeeshil to make Ulster quarter-finals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane defeat Killeeshil to make Ulster quarter-finals")](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
-
-Action from Craigbane's win over Killeeshil. Pic by Tom Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Craigbane defeat Killeeshil to make Ulster quarter-finals](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry celebrates success at Ulster in Bloom awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry celebrates success at Ulster in Bloom awards")](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
+[![Man charged at Derry court with domestic assault and abuse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged at Derry court with domestic assault and abuse")](https://www.derrynow.com/news/local-news/1641366/man-charged-at-derry-court-with-domestic-assault-and-abuse.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man charged at Derry court with domestic assault and abuse](https://www.derrynow.com/news/local-news/1641366/man-charged-at-derry-court-with-domestic-assault-and-abuse.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Slaughtneil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Slaughtneil")](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
+[![Jeremy Fitch, Executive Director of Business Growth, Invest NI; Damian O’Callaghan, Group Managing Director, Heron Property Ltd; John Harkin, Chief Executive, Alchemy Technology Services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jeremy Fitch, Executive Director of Business Growth, Invest NI; Damian O’Callaghan, Group Managing Director, Heron Property Ltd; John Harkin, Chief Executive, Alchemy Technology Services")](https://www.derrynow.com/news/derry-news/1641265/alchemy-technology-services-announced-as-first-tenant-of-ebrington-plaza-in-derry-londonderry.html)
 
-Slaughtneil celebrate their win with their fans. Pic by Tom Heaney, nwpresspics
+Jeremy Fitch, Executive Director of Business Growth, Invest NI; Damian O’Callaghan, Group Managing Director, Heron Property Ltd; John Harkin, Chief Executive, Alchemy Technology Services
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Slaughtneil blow Banagher away to win 12th successive Senior Hurling title](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Alchemy Technology Services Announced As First Tenant of Ebrington Plaza in Derry](https://www.derrynow.com/news/derry-news/1641265/alchemy-technology-services-announced-as-first-tenant-of-ebrington-plaza-in-derry-londonderry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman left with potentially life-changing injuries in hit-and-run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman left with potentially life-changing injuries in hit-and-run")](https://www.derrynow.com/news/northern-ireland/1640844/woman-left-with-potentially-life-changing-injuries-in-hit-and-run.html)
+[![Man appears in Derry Court for number of drink driving offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in Derry Court for number of drink driving offences")](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Woman left with potentially life-changing injuries in hit-and-run](https://www.derrynow.com/news/northern-ireland/1640844/woman-left-with-potentially-life-changing-injuries-in-hit-and-run.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man appears in Derry Court on number of drink driving offences](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman subjected to ‘terrifying sexual assault’ in Londonderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman subjected to ‘terrifying sexual assault’ in Londonderry")](https://www.derrynow.com/news/northern-ireland/1641000/woman-subjected-to-terrifying-sexual-assault-in-londonderry.html)
+[![Elaine McLaughlin and Ross Parkhill (NWRC)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Elaine McLaughlin and Ross Parkhill (NWRC)")](https://www.derrynow.com/news/county-derry-post/1641282/limavady-man-to-receive-honorary-awards-at-nwrc-graduation.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Elaine McLaughlin and Ross Parkhill (NWRC)
 
-[Woman subjected to ‘terrifying sexual assault’ in Londonderry](https://www.derrynow.com/news/northern-ireland/1641000/woman-subjected-to-terrifying-sexual-assault-in-londonderry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Two murdered police officers recalled at dedication of memorial quilt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two murdered police officers recalled at dedication of memorial quilt")](https://www.derrynow.com/news/northern-ireland/1641052/two-murdered-police-officers-recalled-at-dedication-of-memorial-quilt.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Two murdered police officers recalled at dedication of memorial quilt](https://www.derrynow.com/news/northern-ireland/1641052/two-murdered-police-officers-recalled-at-dedication-of-memorial-quilt.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Limavady man to receive honorary awards at NWRC graduation](https://www.derrynow.com/news/county-derry-post/1641282/limavady-man-to-receive-honorary-awards-at-nwrc-graduation.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge")](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations")](https://www.derrynow.com/story-telling/pictures---videos/1641418/in-pictures-lisnagelvin-pupils-donate-to-north-west-migrants-forum-annual-harvest-celebrations.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations](https://www.derrynow.com/story-telling/pictures---videos/1641418/in-pictures-lisnagelvin-pupils-donate-to-north-west-migrants-forum-annual-harvest-celebrations.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Families enjoy Skeoge Community Fun Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Families enjoy Skeoge Community Fun Day")](https://www.derrynow.com/story-telling/pictures---videos/1641289/in-pictures-families-enjoy-skeoge-community-fun-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Families enjoy Skeoge Community Fun Day](https://www.derrynow.com/story-telling/pictures---videos/1641289/in-pictures-families-enjoy-skeoge-community-fun-day.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball")](https://www.derrynow.com/story-telling/pictures---videos/1641287/in-pictures-night-of-glam-at-the-foyle-hospice-masquerade-ball.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Night of glam at the Foyle Hospice Masquerade Ball](https://www.derrynow.com/story-telling/pictures---videos/1641287/in-pictures-night-of-glam-at-the-foyle-hospice-masquerade-ball.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Waterside Women's Centre mark 30 years of empowerment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Waterside Women's Centre mark 30 years of empowerment")](https://www.derrynow.com/story-telling/pictures---videos/1641290/in-pictures-waterside-women-s-centre-mark-30-years-of-empowerment.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Waterside Women's Centre mark 30 years of empowerment](https://www.derrynow.com/story-telling/pictures---videos/1641290/in-pictures-waterside-women-s-centre-mark-30-years-of-empowerment.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 
@@ -379,45 +414,6 @@ Multimedia
 
 [IN PICTURES: Derry pupils share ‘Ghostly Goings-On’ at St. Joseph’s Annual Spooker Prize](https://www.derrynow.com/story-telling/pictures---videos/1639389/in-pictures-derry-pupils-share-ghostly-goings-on-at-st-josephs-annual-spooker-prize.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry GAA Minors gala presentation night at the Elk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry GAA Minors gala presentation night at the Elk")](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry GAA Minors gala presentation night at the Elk](https://www.derrynow.com/story-telling/pictures---videos/1638612/in-pictures-derry-gaa-minors-gala-presentation-night-at-the-elk.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit")](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
-
-A sea of red and white as Hollybush Primary School welcomes Derry City players, Mark Connolly, Shane McEleney and Danny Mullen on Tuesday afternoon. (Photos: Jim McCafferty Photography)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Hollybush Primary School goes 'Red & White' for Derry City FC visit](https://www.derrynow.com/story-telling/pictures---videos/1638611/in-pictures-hollybush-primary-school-goes-red-white-for-derry-city-fc-visit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime in Derry's Metro Bar (2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime in Derry's Metro Bar (2008)")](https://www.derrynow.com/story-telling/pictures---videos/1637374/throwback-thursday-partytime-in-derry-s-metro-bar-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime in Derry's Metro Bar (2008)](https://www.derrynow.com/story-telling/pictures---videos/1637374/throwback-thursday-partytime-in-derry-s-metro-bar-2008.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary")](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
-
-Photos by Jim McCafferty.
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Federation of Ulster Local Studies celebrates 50th anniversary](https://www.derrynow.com/story-telling/pictures---videos/1637583/in-pictures-federation-of-ulster-local-studies-celebrates-50th-anniversary.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayor hosts reception for Gareth Vaughan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Gareth Vaughan")](https://www.derrynow.com/story-telling/derry-sport/1638104/in-pictures-mayor-hosts-reception-for-gareth-vaughan.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Mayor hosts reception for Gareth Vaughan](https://www.derrynow.com/story-telling/derry-sport/1638104/in-pictures-mayor-hosts-reception-for-gareth-vaughan.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,55 +515,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
+[![Optimism around the future of Derry's Ulster University Campus Magee](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Optimism around the future of Derry's Ulster University Campus Magee")](https://www.derrynow.com/news/derry-news/1641354/optimism-around-the-future-of-derry-s-ulster-university-campus-magee.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Ulster University, Magee
 
-[Derry Death Notices - Monday, October 28 2024](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Man arrested in connection with serious sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with serious sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
+[Optimism around the future of Derry's Ulster University Campus Magee](https://www.derrynow.com/news/derry-news/1641354/optimism-around-the-future-of-derry-s-ulster-university-campus-magee.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested in connection with serious sexual assault in Derry](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[!['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](https://www.derrynow.com/resizer/165/93/true/2024_10_27/464515037_1091717459627444_481657002822427672_n-1730063918859_1730064105.jpg--.jpg?1730064105121 "'Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest")](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
-
-The late Fr Liam Donnelly who passed away on Saturday.
+[![Man appears in Derry Court for number of drink driving offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in Derry Court for number of drink driving offences")](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man appears in Derry Court on number of drink driving offences](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman suffers serious injuries during terrifying sexual assault in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Woman suffers serious injuries during terrifying sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641023/woman-suffers-serious-injuries-during-terrifying-sexual-assault-in-derry.html)
+[![Derry Guildhall to host 'Reinstate the Winter Fuel Payment' rally](https://www.derrynow.com/resizer/165/93/true/2024_10_28/IMG-20241025-WA0001-1730112780916.jpg--.jpg?1730112782300 "Derry Guildhall to host 'Reinstate the Winter Fuel Payment' rally")](https://www.derrynow.com/news/derry-news/1641334/derry-guildhall-to-host-reinstate-the-winter-fuel-payment-rally.html)
 
-The incident happened in the Lecky Road area of Derry.
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Guildhall to host 'Reinstate the Winter Fuel Payment' rally](https://www.derrynow.com/news/derry-news/1641334/derry-guildhall-to-host-reinstate-the-winter-fuel-payment-rally.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Woman suffers serious injuries during terrifying sexual assault in Derry](https://www.derrynow.com/news/local-news/1641023/woman-suffers-serious-injuries-during-terrifying-sexual-assault-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Springtown Camp: New beginnings and forever friends in Bradford](https://www.derrynow.com/resizer/165/93/true/2024_10_22/Kathleen_Krol_Willie_Deery_Jphn_Moore-1729594881876.jpeg--.jpeg?1729594882251 "Springtown Camp: New beginnings and forever friends in Bradford")](https://www.derrynow.com/news/local-news/1636473/springtown-camp-new-beginnings-and-forever-friends-in-bradford.html)
-
-Kathleen Krol, Willie Deery and John Moore in Bradford.
+[![Report finds strong performance by hotel sector](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_28/1730118924473_0.jpg--.jpg?1730118924527 "Report finds strong performance by hotel sector")](https://www.derrynow.com/news/local-news/1641459/report-finds-strong-performance-by-local-hotel-sector.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Springtown Camp: New beginnings and forever friends in Bradford](https://www.derrynow.com/news/local-news/1636473/springtown-camp-new-beginnings-and-forever-friends-in-bradford.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Report finds strong performance by local hotel sector](https://www.derrynow.com/news/local-news/1641459/report-finds-strong-performance-by-local-hotel-sector.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Craigbane defeat Killeeshil to make Ulster quarter-finals](https://www.derrynow.com/resizer/165/93/true/2024_10_27/Junior_Football_Championship_Craigbane_v_Killeeshil_6-1730027220419.jpg--.jpg?1730027222046 "Craigbane defeat Killeeshil to make Ulster quarter-finals")](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
+[![Foyle MP Colum Eastwood welcomes confirmation of first tenant at Ebrington Plaza](https://www.derrynow.com/resizer/165/93/true/2017/08/11123222/000e1ee6-800.jpg--.jpg "Foyle MP Colum Eastwood welcomes confirmation of first tenant at Ebrington Plaza")](https://www.derrynow.com/news/jobs/1641349/foyle-mp-colum-eastwood-welcomes-confirmation-of-first-tenant-at-ebrington-plaza.html)
 
-Action from Craigbane's win over Killeeshil. Pic by Tom Heaney, nwpresspics
+Foyle MP, Colum Eastwood
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Jobs](https://www.derrynow.com/section/1347/jobs)
 
-[Craigbane defeat Killeeshil to make Ulster quarter-finals](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Foyle MP Colum Eastwood welcomes confirmation of first tenant at Ebrington Plaza](https://www.derrynow.com/news/jobs/1641349/foyle-mp-colum-eastwood-welcomes-confirmation-of-first-tenant-at-ebrington-plaza.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged at Derry court with domestic assault and abuse](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man charged at Derry court with domestic assault and abuse")](https://www.derrynow.com/news/local-news/1641366/man-charged-at-derry-court-with-domestic-assault-and-abuse.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged at Derry court with domestic assault and abuse](https://www.derrynow.com/news/local-news/1641366/man-charged-at-derry-court-with-domestic-assault-and-abuse.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
