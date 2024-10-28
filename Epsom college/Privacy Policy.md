@@ -1,12 +1,12 @@
 ![](https://www.facebook.com/tr?id=202909781929230&ev=PageView &noscript=1)                      Privacy Policy | Epsom College                              
 
-Applications Closing: Don't Miss Out
+Application Deadline: Thursday, 12 noon
 
-The deadline for applications is midday, 31 October.
+There are just a few days left to apply. Don’t miss out…
 
-[Click here to apply for Year 7 in September 2025](https://www.epsomcollege.org.uk/applying-to-epsom/)
+[Apply for Year 7 (September 2025)](https://www.epsomcollege.org.uk/applying-to-epsom/)
 
-[Or click here to apply for Year 9 in 2027](https://www.epsomcollege.org.uk/applying-to-epsom/)
+[Apply for Year 9 (September 2027)](https://www.epsomcollege.org.uk/applying-to-epsom/)
 
 [Close Notification](#)
 
@@ -153,7 +153,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1730101399) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1730101399) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1730101399) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1730101399)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1730123193) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1730123193) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1730123193) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1730123193)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
