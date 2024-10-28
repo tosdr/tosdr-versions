@@ -129,7 +129,7 @@ Platform Updates
 ----------------
 
 * [Changelog (JS Agent)](https://dev.fingerprint.com/changelog)
-* [Changelog (Android SDK)](https://github.com/fingerprintjs/fingerprintjs-pro-android/releases/)
+* [Changelog (Android SDK)](https://dev.fingerprintjs.com/docs/changelog-android-sdk)
 * [Changelog (iOS SDK)](https://dev.fingerprintjs.com/docs/changelog-ios-sdk)
 
 resources
