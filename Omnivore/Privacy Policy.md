@@ -58,6 +58,8 @@ Using Omnivore
 
 [Importing Data](https://omnivore.app/using/importing.html)
 
+[Exporting Data](https://omnivore.app/using/exporting.html)
+
 [Keyboard Commands](https://omnivore.app/using/keyboard.html)
 
 [Managing your Account](https://omnivore.app/using/managing-account.html)
