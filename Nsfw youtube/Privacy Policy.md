@@ -61,8 +61,6 @@ Please do not hesitate to contact us regarding any matter relating to this Priva
 
 * * *
 
-* * *
-
 1 click login bypass. No more typing! Drag "Bypass YT login" link to your bookmarks bar:
 
 ### [Bypass YT login!](javascript:(function(){  let nsfw_url = window.location.href ;let isyt = nsfw_url.indexOf("youtube.com");if (isyt != -1 && nsfw_url.indexOf("nsfwyoutube.com") == -1){ let final = nsfw_url.replace("youtube.com", "nsfwyoutube.com"); window.location = final; }   else {alert ("You have to be on youtube.com for this to work!");}   })();)
