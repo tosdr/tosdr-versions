@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [EXCLUSIVE IA INTERVIEW: One Nation's James Ashby's contentious abortion views](https://independentaustralia.net/article-display/exclusive-ia-interview-one-nations-james-ashbys-contentious-abortion-views,19102 "Permanent Link : EXCLUSIVE IA INTERVIEW: One Nation's James Ashby's contentious abortion views")
+* [‘Labor big spenders’ myth can finally be laid to rest](https://independentaustralia.net/article-display/labor-big-spenders-myth-can-finally-be-laid-to-rest,19110 "Permanent Link : ‘Labor big spenders’ myth can finally be laid to rest")
+* [Never a better time for PM Albanese to sever UK ties](https://independentaustralia.net/article-display/never-a-better-time-for-pm-albanese-to-sever-uk-ties,19111 "Permanent Link : Never a better time for PM Albanese to sever UK ties")
 * [POEM: Sonnet on a failure](https://independentaustralia.net/article-display/poem-sonnet-on-a-failure,19109 "Permanent Link : POEM: Sonnet on a failure")
 * [Unsubscribing: It's easy! Said no one... ever](https://independentaustralia.net/article-display/unsubscribing-its-easy-said-no-one-ever,19106 "Permanent Link : Unsubscribing: It's easy! Said no one... ever")
 * [John Williamson — The man among the gum trees](https://independentaustralia.net/article-display/john-williamson--the-man-among-the-gum-trees,19097 "Permanent Link : John Williamson —  The man among the gum trees")
 * [Get rid of running the gauntlet — bring back Democracy Sausages](https://independentaustralia.net/article-display/get-rid-of-running-the-gauntlet-bring-back-democracy-sausages,19108 "Permanent Link : Get rid of running the gauntlet — bring back Democracy Sausages")
 * [Why the LNP would be worse at governing Queensland than Labor](https://independentaustralia.net/article-display/why-the-lnp-would-be-worse-at-governing-queensland-than-labor,19107 "Permanent Link : Why the LNP would be worse at governing Queensland than Labor")
-* [Queensland's so called 'highway to hell' election beat-up](https://independentaustralia.net/article-display/queenslands-so-called-highway-to-hell-election-beat-up,19105 "Permanent Link : Queensland's so called 'highway to hell' election beat-up")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
