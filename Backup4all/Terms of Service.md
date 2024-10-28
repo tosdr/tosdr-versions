@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
+* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
     
-* [How to filter a backup?](https://www.backup4all.com/how-to-filter-a-backup-kb.html)  
+* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
     
-* [Backup to CD](https://www.backup4all.com/backup-to-cd-kb.html)  
+* [Backup strategy: run a full backup locally an ...](https://www.backup4all.com/backup-strategy-make-a-full-backup-locally-and-subsequent-incremental-backups-to-ftp-kb.html)  
     
-* [How to configure backups to run sequentially](https://www.backup4all.com/how-to-configure-backups-to-run-sequentially-kb.html)  
+* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
     
-* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
+* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
     
 
 Choose language:
