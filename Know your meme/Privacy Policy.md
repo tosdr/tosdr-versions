@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Walmart Walk-in Oven Controversy](https://knowyourmeme.com/memes/events/walmart-walk-in-oven-controversy "Walmart Walk-in Oven Controversy") [The Poison For Kuzco](https://knowyourmeme.com/memes/the-poison-the-poison-for-kuzco-the-poison-chosen-specially-to-kill-kuzco-kuzcos-poison "The Poison For Kuzco") [DumbDumbJeez Dine and Dash Controversy](https://knowyourmeme.com/memes/events/kick-streamer-dumbdumbjeez-dine-and-dash-controversy "DumbDumbJeez Dine and Dash Controversy") [The Emperor's New Groove](https://knowyourmeme.com/memes/subcultures/the-emperors-new-groove "The Emperor's New Groove") [Vegeta Reading](https://knowyourmeme.com/memes/vegeta-reading "Vegeta Reading")
+[Walmart Walk-in Oven Controversy](https://knowyourmeme.com/memes/events/walmart-walk-in-oven-controversy "Walmart Walk-in Oven Controversy") [The Poison For Kuzco](https://knowyourmeme.com/memes/the-poison-the-poison-for-kuzco-the-poison-chosen-specially-to-kill-kuzco-kuzcos-poison "The Poison For Kuzco")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
