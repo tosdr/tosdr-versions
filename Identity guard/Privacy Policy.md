@@ -36,7 +36,7 @@ Digital Parenthood
 
 Expert advice and community support for parents.
 
-[Learn more](https://www.identityguard.com/digital-parenthood "Explore community site")
+[Explore Community](https://www.identityguard.com/digital-parenthood "Explore community site")
 
 [How Aura Works](https://www.identityguard.com/aura101)
 
