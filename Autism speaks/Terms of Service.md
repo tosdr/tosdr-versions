@@ -305,7 +305,7 @@ This year’s WHO Mental Health Forum marked a historic moment, as it was the fi
 
 Dr. Andy Shih, chief science officer at Autism Speaks, will be participating in a session at the 2024 WHO Mental Health Forum, taking place in Geneva,
 
-![Photo of California state flag next to capitol dome](/sites/default/files/styles/content_list/public/California%20flag%20and%20dome_0.png.webp?itok=yxkg0TN4)
+![California state flag next to capitol dome](/sites/default/files/styles/content_list/public/California%20flag%20and%20dome_0.png.webp?itok=yxkg0TN4)
 
 10.3.24
 
