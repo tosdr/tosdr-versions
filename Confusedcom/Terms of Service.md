@@ -163,9 +163,9 @@
     * Close
     
 
-1. [Home](https://www.confused.com/)
-2. [Privacy & security](https://www.confused.com/privacy-and-security)
-3. Terms and conditions
+1. [Home](https://www.confused.com/) 
+2. [Privacy & security](https://www.confused.com/privacy-and-security) 
+3. Terms and conditions   
 
 Terms and conditions
 ====================
