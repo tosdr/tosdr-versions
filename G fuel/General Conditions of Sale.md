@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                          
+Shipping – G FUEL                                                                                                                                    
 
 [Skip to content](#MainContent)  
 
@@ -585,7 +585,7 @@ Rated 3.7 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-171 Reviews
+174 Reviews
 
 4.8
 
@@ -593,11 +593,11 @@ Rated 4.8 out of 5 stars
 
 20 Reviews
 
-4.8
+4.6
 
-Rated 4.8 out of 5 stars
+Rated 4.6 out of 5 stars
 
-4 Reviews
+5 Reviews
 
 5.0
 
