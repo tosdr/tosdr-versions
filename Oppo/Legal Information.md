@@ -774,7 +774,7 @@ Get Support From OPPO
 * [Privacy](https://www.oppo.com/uk/privacy/)
 * [Terms of Use](https://www.oppo.com/uk/terms/)
 * [Cookies](https://www.oppo.com/uk/cookies/)
-* [Legal & Compliance](https://www.oppo.com/en/legal/)
+* [Legal & Compliance](https://www.oppo.com/uk/legal/)
 * Copyright © 2004-2024 OPPO. All rights reserved.
 
 [Back to Top](javascript:;)
