@@ -64,7 +64,7 @@ Sollten Sie ein CHECK24 Kundenkonto haben, speichern wir folgende Kategorien von
 
 Sollten Sie Nutzer des CHECK24 Tippspiels sein und ggf. zusätzlich auch an Gewinnspielen teilnehmen, werden folgende Daten verarbeitet:
 
-* Stammdaten (Name, Anschrift
+* Stammdaten (Name, Anschrift)
 * Kontaktdaten (E-Mail-Anschrift, Handynummer)
 * ein frei von Ihnen zu wählender Teilnehmer-/Spielername
 * Avatar-Bild/Profilbild (falls eines seitens des Nutzers bereitgestellt bzw. verwendet wird)
