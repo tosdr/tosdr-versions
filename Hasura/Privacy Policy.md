@@ -18,7 +18,7 @@ Resources
 
 Connectors
 
-[PostgreSQL](https://hasura.io/graphql/database/postgresql)[MySQL](https://hasura.io/graphql/database/mysql)[Elasticsearch](https://hasura.io/graphql/database/elasticsearch)[SQL Server](https://hasura.io/graphql/database/sql-server)[MongoDB](https://hasura.io/graphql/database/mongodb)[Snowflake](https://hasura.io/graphql/database/snowflake)[Clickhouse](https://hasura.io/graphql/database/clickhouse)[More](https://hasura.io/graphql/database)
+[PostgreSQL](https://hasura.io/graphql/database/postgresql)[MySQL](https://hasura.io/graphql/database/mysql)[Elasticsearch](https://hasura.io/graphql/database/elasticsearch)[SQL Server](https://hasura.io/graphql/database/sql-server)[MongoDB](https://hasura.io/graphql/database/mongodb)[Snowflake](https://hasura.io/graphql/database/snowflake)[Clickhouse](https://hasura.io/graphql/database/clickhouse)[More](https://hasura.io/connectors)
 
 Developer
 
