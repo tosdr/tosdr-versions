@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57/20241028T153653/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57/20241028T153653/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57_360x203.jpg)](https://www.kagstv.com/article/news/local/oct-2024-burleson-county-home-fire/500-c4384406-3d14-4bb5-9e6c-fa3027945910)
+        
+        #### [Mobile home destroyed in late Sunday night fire in Caldwell](https://www.kagstv.com/article/news/local/oct-2024-burleson-county-home-fire/500-c4384406-3d14-4bb5-9e6c-fa3027945910)
+        
     *  [![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_16x9.jpg) ![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
         
         #### [14-year-old reported missing out of Bryan area found safe](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
-        
-    *  [![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084/20241006T132405/c52bf6dd-a4f2-4cf8-8a6d-b47dd3b72084_360x203.jpg)](https://www.kagstv.com/article/news/local/man-accused-of-shooting-texas-police-chief-prompting-blue-alert-arrested-fort-worth/501-abd91176-b9d7-48ad-9ff1-054046b8c096)
-        
-        #### [Man accused of shooting Texas police chief prompting Blue Alert arrested in Fort Worth](https://www.kagstv.com/article/news/local/man-accused-of-shooting-texas-police-chief-prompting-blue-alert-arrested-fort-worth/501-abd91176-b9d7-48ad-9ff1-054046b8c096)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-70°
+90°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
