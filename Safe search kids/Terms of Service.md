@@ -384,6 +384,9 @@ Share This Article
 
  
 
+* [Parental Controls](https://www.safesearchkids.com/best-parental-control-app/)
+* [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
 * [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
 * [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
@@ -395,10 +398,7 @@ Share This Article
 * [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
 * [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
 * [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
-* [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
-* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
 
 Safe and Secure Internet Browsing
 ---------------------------------
