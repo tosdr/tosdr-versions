@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, October 26, 2024**
+**Monday, October 28, 2024**
 
-**...High Pressure Continues to Promote Mostly Dry and Sunny Conditions Nearly Statewide...Isolated Showers To Move Onshore Along Treasure Coast, South Florida, and Keys; Expected to Remain Light and Brief...Locally Sensitive Wildfire Conditions Across Florida Panhandle Due to Dry Conditions Over Last Several Days and Relative Humidity Values Near Critical Thresholds...Breezy Winds With Gusts Near 10-20 MPH Across Central and South Florida...Moderate to High Risk For Rip Currents Along East Coast and Florida Panhandle...Red Tide Observed at Background to High Concentrations In 49 Samples Collected From Southwest Florida Over the Past Week...Moderate to Major Riverine Flooding Continues Along Withlacoochee and St. Johns Rivers; Additional Instances of Minor Flooding Across Northeast and West-Central Florida...No Tropical Cyclone Development Expected Over the Next 7 Days...**
+**...Weak Frontal Boundary to Bring Refreshing Conditions Across North Florida; Front to Dissipate Before Pushing Further South...Locally Sensitive Wildfire Conditions for Panhandle Due to Ongoing Dry Conditions...Isolated Showers to Develop and Push Onshore Along East Coast and I-95 Corridor Throughout the Day...Seasonable Temperatures Return for Much of North Florida...Breezy Winds Persist Across Peninsula Throughout Afternoon and Evening...Patchy Fog Possible Tonight or Early Tuesday Along Suwannee Valley...High Risk for Rip Currents Persist Along East Coast; Moderate Risk for Numerous Panhandle Beaches...Moderate to Major Riverine Flooding Along Withlacoochee; Minor to Moderate Flooding Along St. Johns...NHC Continues to Monitor Potential Disturbance Development Over Southwestern Caribbean Sea Over Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
