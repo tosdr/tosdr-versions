@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-27 Oct 2024
+28 Oct 2024
 
 * [Home
     
@@ -275,6 +275,22 @@ The incident happened in the Lecky Road area of Derry.
 [Derry Death Notices - Sunday, October 27 2024](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+[!['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest")](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
+
+The late Fr Liam Donnelly who passed away on Saturday.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in connection with serious sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with serious sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in connection with serious sexual assault in Derry](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Craigbane defeat Killeeshil to make Ulster quarter-finals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane defeat Killeeshil to make Ulster quarter-finals")](https://www.derrynow.com/news/derry-sport/1640847/craigbane-defeat-killeeshil-to-make-ulster-quarter-finals.html)
 
 Action from Craigbane's win over Killeeshil. Pic by Tom Heaney, nwpresspics
@@ -322,13 +338,6 @@ Slaughtneil celebrate their win with their fans. Pic by Tom Heaney, nwpresspics
 
 [Woman subjected to ‘terrifying sexual assault’ in Londonderry](https://www.derrynow.com/news/northern-ireland/1641000/woman-subjected-to-terrifying-sexual-assault-in-londonderry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two murdered police officers recalled at dedication of memorial quilt](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two murdered police officers recalled at dedication of memorial quilt")](https://www.derrynow.com/news/northern-ireland/1641052/two-murdered-police-officers-recalled-at-dedication-of-memorial-quilt.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Two murdered police officers recalled at dedication of memorial quilt](https://www.derrynow.com/news/northern-ireland/1641052/two-murdered-police-officers-recalled-at-dedication-of-memorial-quilt.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -510,7 +519,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Woman suffers serious injuries during terrifying sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman suffers serious injuries during terrifying sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641023/woman-suffers-serious-injuries-during-terrifying-sexual-assault-in-derry.html)
+[![Man arrested in connection with serious sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with serious sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested in connection with serious sexual assault in Derry](https://www.derrynow.com/news/local-news/1641162/man-arrested-in-connection-with-serious-sexual-assault-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest")](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
+
+The late Fr Liam Donnelly who passed away on Saturday.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+['Fr Liam was a gentleman and a certainly a man of the people' - tributes paid to late County Derry priest](https://www.derrynow.com/news/home/1641136/fr-liam-was-a-gentleman-and-a-certainly-a-man-of-the-people-tributes-paid-to-late-county-derry-priest.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman suffers serious injuries during terrifying sexual assault in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Woman suffers serious injuries during terrifying sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641023/woman-suffers-serious-injuries-during-terrifying-sexual-assault-in-derry.html)
 
 The incident happened in the Lecky Road area of Derry.
 
@@ -519,7 +544,7 @@ The incident happened in the Lecky Road area of Derry.
 [Woman suffers serious injuries during terrifying sexual assault in Derry](https://www.derrynow.com/news/local-news/1641023/woman-suffers-serious-injuries-during-terrifying-sexual-assault-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Springtown Camp: New beginnings and forever friends in Bradford](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Springtown Camp: New beginnings and forever friends in Bradford")](https://www.derrynow.com/news/local-news/1636473/springtown-camp-new-beginnings-and-forever-friends-in-bradford.html)
+[![Springtown Camp: New beginnings and forever friends in Bradford](https://www.derrynow.com/resizer/165/93/true/2024_10_22/Kathleen_Krol_Willie_Deery_Jphn_Moore-1729594881876.jpeg--.jpeg?1729594882251 "Springtown Camp: New beginnings and forever friends in Bradford")](https://www.derrynow.com/news/local-news/1636473/springtown-camp-new-beginnings-and-forever-friends-in-bradford.html)
 
 Kathleen Krol, Willie Deery and John Moore in Bradford.
 
@@ -545,20 +570,6 @@ Slaughtneil celebrate their win with their fans. Pic by Tom Heaney, nwpresspics
 
 [Slaughtneil blow Banagher away to win 12th successive Senior Hurling title](https://www.derrynow.com/news/derry-sport/1640842/slaughtneil-blow-banagher-away-to-win-12th-successive-senior-hurling-title.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/resizer/165/93/true/2024_10_25/Derry_City_and_Strabane_ulster_in_bloom-1729863629018.jpg--.jpg?1729863629962 "Derry celebrates success at Ulster in Bloom awards")](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry celebrates success at Ulster in Bloom awards](https://www.derrynow.com/news/local-news/1639713/derry-celebrates-success-at-ulster-in-bloom-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 27 2024](https://www.derrynow.com/news/deaths/1639811/derry-death-notices-sunday-october-27-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
