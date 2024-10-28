@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Shouldve Been A CowboyToby Keith<br><br>5:37pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>5:34pm |
-| Darlin'Chase Matthew<br><br>5:31pm |
-| Try That In A Small TownJason Aldean<br><br>5:28pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:25pm |
+| I Go BackKenny Chesney<br><br>11:38pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:35pm |
+| Tough PeopleDrew Baldridge<br><br>11:31pm |
+| Need A FavorJelly Roll<br><br>11:28pm |
+| Backseat DriverKane Brown<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
