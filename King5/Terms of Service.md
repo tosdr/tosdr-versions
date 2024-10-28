@@ -30,20 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9)
+    *  [![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
         
-        #### [Gas station clerk arrested after allegedly firing shots at customer's car](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9) [![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9)
+        #### [Bellingham breaks rainfall record](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
         
-        #### [Dispute over ice leads to shots fired near Seattle gas station](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9) [![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c89489fc-4b2f-436e-8431-51d28822f18d/20241028T141322/c89489fc-4b2f-436e-8431-51d28822f18d_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9)
+    *  [![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_16x9.jpg) ![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
         
-        #### [Seattle police: Gas station clerk shoots at car of customer who was 'not an active threat'](https://www.king5.com/article/news/crime/seattle-gas-station-clerk-arrested-shots-fired/281-bcf19620-4e51-4735-b0ee-c115139ac0b9)
-    *  [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
+        #### [I-5 reopens in Kent after 45 car pileup stalls traffic for hours](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
         
-        #### [Domestic violence survivor shares her story](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e) [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
-        
-        #### [Survivor has message for those dealing with domestic violence](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e) [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
-        
-        #### ['We deserve to feel safe': Woman who fled abuser after 7 years together shares hope for future](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
     
 * [Weather](https://www.king5.com/weather/)
     
@@ -62,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+        
+        #### [Bellingham breaks rainfall record](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+        
     *  [![](https://media.king5.com/assets/KING/images/f2941952-8794-4519-8168-258494085af9/20241028T115232/f2941952-8794-4519-8168-258494085af9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2941952-8794-4519-8168-258494085af9/20241028T115232/f2941952-8794-4519-8168-258494085af9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/75f229c3-c03d-480a-96ea-7ee4f6ad67cf/20241010T192625/75f229c3-c03d-480a-96ea-7ee4f6ad67cf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/75f229c3-c03d-480a-96ea-7ee4f6ad67cf/20241010T192625/75f229c3-c03d-480a-96ea-7ee4f6ad67cf_360x203.jpg)](https://www.king5.com/article/news/local/seattle-area-hospitals-help-national-iv-shortage-hurricane-helene/281-2485922e-3fa7-443a-b275-33effbe2f4f5)
-        
-        #### [How Seattle-area hospitals are handling the national IV shortage caused by Hurricane Helene](https://www.king5.com/article/news/local/seattle-area-hospitals-help-national-iv-shortage-hurricane-helene/281-2485922e-3fa7-443a-b275-33effbe2f4f5)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -100,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
