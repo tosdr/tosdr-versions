@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-leugen-regeert-de-grote-griep-propaganda-deel-2/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/the-power-of-the-heart-prachtig/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
