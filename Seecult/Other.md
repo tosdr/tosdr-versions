@@ -385,52 +385,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
-    [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
+    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
     
-    Muzej savremene umjetnosti Republike Srpske, Trg Srpskih Junaka 2, Banja Luka
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
     
-    **NEW ERA: UMJETNIČKI DISKURSI O DRUŠTVENIM I KLIMATSKIM PROMJENAMA** - grupna intermedijska izložba (5.9.-5.11.2024.)
+    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
     
-    **Igor Bošnjak**
+    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
     
-    **Isidora Branković**
+    autorka: dr Rajka Bošković
     
-    **Jovan Došenović**
-    
-    **Dejan Marković**
-    
-    **Marija Marković**
-    
-    **Danilo Milovanović DNLM**
-    
-    **Bojan Mrđenović**
-    
-    **Helena Tahir**
-    
-    **Nikola Tomić**
-    
-    **Adrien Ujhazi**
-    
-    **Umjetnička grupa diSTRUKTURA**
-    
-    **Umjetnička grupa PLATEAURESIDUE**
-    
-    Kustosi izložbe: Mladen Banjac (MSURS), Miha Colner (GBJ), dr Sanja Kojić Mladenov (MSUV)
-    
-    organizacija: Muzej savremene umjetnosti Republike Srpske, Muzej savremene umetnosti Vojvodine iz Novog Sada i Galerija Božidar Jakac - Muzej moderne i savremene umjetnosti iz Kostanjevice na Krki
-    
-    [http://msurs.net](http://msurs.net/)
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2005/2006/1-g.jpg?itok=0N2a0SY7)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20052006)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ras-todosijevic/price/stories/pakao-iii.?itok=Do9s4TKV)](http://seecult.org/galerija/galerija-umetnika/rasa-todosijevic/price-stories)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/disciplin-kitschme/koja12.jpg?itok=zGieCGOO)](http://seecult.org/galerija/foto-galerija/foto-arhiva/disciplin-kitschme)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/iz-cuda-hristovih.jpg?itok=kM5GyNtw)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -446,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Zafranović na 18. KRAF-u](http://seecult.org/vest/zafranovic-na-18-kraf-u)
 * [Nova stalna postavka Galerije Matice srpske](http://seecult.org/vest/nova-stalna-postavka-galerije-matice-srpske)
 * [Novinarima Akademska knjiga najbolji izdavač](http://seecult.org/vest/novinarima-akademska-knjiga-najbolji-izdavac)
 * [Svetska premijera – pijanisti koji govore](http://seecult.org/vest/svetska-premijera-pijanisti-koji-govore)
@@ -455,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Kreativni centar najbolji izdavač na 67. Sajmu knjiga](http://seecult.org/vest/kreativni-centar-najbolji-izdavac-na-67-sajmu-knjiga)
 * [FAF pre FAF-a](http://seecult.org/vest/faf-pre-faf)
 * [Gevin Brajers gost festivala Šare i šavovi](http://seecult.org/vest/gevin-brajers-gost-festivala-sare-i-savovi)
-* [Korugi nagrada Dimitrije Parlić](http://seecult.org/vest/korugi-nagrada-dimitrije-parlic)
 
 * [Konkursi](#tab1_1)
 
