@@ -41,7 +41,7 @@ Search for:
 Privacy Policy
 ==============
 
-At **Delaware North Companies, Inc.**, we take the privacy of your personal information seriously. This Privacy Policy outlines the ways we collect your personal information, how we use it, how and to whom we disclose it, and your rights in relation to the personal information that we process. In addition, it explains how we use that information and how you can opt out of certain uses of information we may collect. All references to “Company,” “we,” “us,” and “our” shall mean **Delaware North Companies, Inc.** If the practices described in this Privacy Policy are not acceptable to you, you should not provide Company with information about yourself. We may periodically update this Privacy Policy. The “Last Updated” date at the bottom of the page tells you when this Privacy Policy was last revised. We will notify you of material changes by posting notice on our website (“Website”) or other mobile or other web-based application (“Application”) (collectively, the “Website”) or through other means. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on our Website. Therefore, we encourage you to check the date of our Privacy Policy whenever you visit our Website for any updates or changes.
+At **Delaware North Companies, Inc.**, we take the privacy of your personal information seriously. This Privacy Policy outlines the ways we collect your personal information, how we use it, how and to whom we disclose it, and your rights in relation to the personal information that we process. In addition, it explains how we use that information and how you can opt out of certain uses of information we may collect. All references to “Company,” “we,” “us,” and “our” shall mean **Delaware North Companies, Inc.**. If the practices described in this Privacy Policy are not acceptable to you, you should not provide Company with information about yourself. We may periodically update this Privacy Policy. The “Last Updated” date at the bottom of the page tells you when this Privacy Policy was last revised. We will notify you of material changes by posting notice on our website (“Website”) or other mobile or other web-based application (“Application”) (collectively, the “Website”) or through other means. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on our Website. Therefore, we encourage you to check the date of our Privacy Policy whenever you visit our Website for any updates or changes.
 
 Collection of Your Personal Information
 ---------------------------------------
@@ -232,7 +232,7 @@ Or call us: 1-877-313-2605
 
 If you are a person in the United Kingdom, you may also send a letter to:
 
-Delaware North Companies (UK)  
+Delaware North Companies (UK) Limited  
 2nd Floor, Capital Court  
 30 Windsor Street  
 Uxbridge  
@@ -242,7 +242,7 @@ Attention: Head of Risk & Compliance
 
 If you are not satisfied with our response, and you are in the United Kingdom, you may have a right to lodge a complaint with your local supervisory authority.
 
-Effective Date: July 17, 2024
+Effective Date: Oct 28, 2024
 
 DMP. univJUN24
 
