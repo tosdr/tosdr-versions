@@ -10,6 +10,10 @@ COMING SOON: Cybersecurity. Join the waitlist for an exclusive IT & Cybersecurit
 
 [Sign up](https://explore.generalassemb.ly/it-cybersecurity-waitlist/)
 
+ALERT: We’re offering creatives and marketers next-gen skills for FREE, in partnership with Adobe. Do you qualify?
+
+[Apply Now](https://explore.generalassemb.ly/creative-skills-academy/)
+
 [Students](https://generalassemb.ly/)
 
 [Employers](https://generalassemb.ly/employers)
