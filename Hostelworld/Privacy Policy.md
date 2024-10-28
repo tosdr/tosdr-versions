@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12606 Hostels in 2621 cities.
+We have 12602 Hostels in 2620 cities.
 
 Where do you want to go?
 
@@ -1995,7 +1995,7 @@ nattaliarr
 
 BarcelonaHostels
 
-from US$17.45
+from US$16.89
 
 [](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
@@ -2019,7 +2019,7 @@ lauren\_dixon
 
 LisbonHostels
 
-from US$11.66
+from US$11.28
 
 [](https://www.hostelworld.com/st/hostels/europe/germany/berlin/ "Berlin Hostels")
 
@@ -2051,7 +2051,7 @@ Paris
 
 7.7
 
-From US$22.88](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
+From US$21.67](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
 
 **St Christopher's Barcelona**
 
@@ -2105,7 +2105,7 @@ From US$22.63](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-host
 
 Copenhagen
 
-9.2
+9.3
 
 From US$18.45](https://www.hostelworld.com/st/hostels/p/310761/next-house-copenhagen/ "Next House Copenhagen")
 
