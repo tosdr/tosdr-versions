@@ -163,9 +163,9 @@
     * Close
     
 
-1. [Home](https://www.confused.com/)
-2. [Privacy & security](https://www.confused.com/privacy-and-security)
-3. Privacy Notice
+1. [Home](https://www.confused.com/) 
+2. [Privacy & security](https://www.confused.com/privacy-and-security) 
+3. Privacy Notice   
 
 Privacy Notice
 ==============
