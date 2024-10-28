@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Walmart Walk-in Oven Controversy](https://knowyourmeme.com/memes/events/walmart-walk-in-oven-controversy "Walmart Walk-in Oven Controversy") [The Poison For Kuzco](https://knowyourmeme.com/memes/the-poison-the-poison-for-kuzco-the-poison-chosen-specially-to-kill-kuzco-kuzcos-poison "The Poison For Kuzco")
+[Walmart Walk-in Oven Controversy](https://knowyourmeme.com/memes/events/walmart-walk-in-oven-controversy "Walmart Walk-in Oven Controversy") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave")
 
 Terms of Service and Use
 ========================
