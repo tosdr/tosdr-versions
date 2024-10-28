@@ -455,10 +455,7 @@
     * [VWO Login](https://app.vwo.com/)
     * [VWO Engage Login](https://pushcrew.com/admin/)
     
-* [Request Demo](https://vwo.com/demo/)
-    
-    [+1 415-349-3207](tel:+14153493207)
-    
+* [Request Demo](https://vwo.com/demo/) [+1 415-349-3207](tel:+14153493207)
 
 * Languages
 * EN
