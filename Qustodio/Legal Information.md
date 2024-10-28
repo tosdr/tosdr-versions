@@ -1,4 +1,4 @@
-[**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**LAST CHANCE |** Get 15% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
@@ -15,7 +15,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[**PREMIUM SALE |** Get 15% off your Premium plan today – **BUY NOW**](https://www.qustodio.com/en/premium/)
+[**LAST CHANCE |** Get 15% off Premium today – **BUY NOW**](https://www.qustodio.com/en/premium/)
 
 [![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.17.0)](https://www.qustodio.com/en/)
 
@@ -193,3 +193,9 @@ Follow @qustodio
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/copyright-logo.png) © 2024 Qustodio is a registered trademark of Qustodio LLC. All rights reserved.
 
 ![](https://www.qustodio.com/wp-content/themes/Divi-child/assets/src/img/template-parts/footer/badges.png)
+
+### **Last chance! Get 15% off Premium**
+
+Empower your family with the highest level of digital protection. Use code DIGITAL15 for 15% off today.
+
+[Choose my plan](https://www.qustodio.com/en/?page_id=19) [Choose my plan](https://www.qustodio.com/en/?page_id=19) [Choose my plan](https://www.qustodio.com/en/?page_id=19)
