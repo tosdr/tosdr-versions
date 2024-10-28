@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
+   [![Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/7/csm_acidente_jacintinho_-_foto_reproducao_02b3736b44.jpg)
+
+Acidente
+
+Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-exato-em-que-carro-atinge-seis-veiculos-e-derruba-mesas-no-jacintinho/ "Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho")   [![Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_carro-acidente-poste-poco_b8a2947508.jpg)
+
+manhã de segunda
+
+Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")   [![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_6e0eb74ba6.jpg)
+
+sinais de embriaguez
+
+Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
 
 Domingo de lazer
 
@@ -30,19 +42,7 @@ Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar Joã
 
 EX-PREFEITO DE MACEIÓ
 
-Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")   [![Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/f/csm_Picape_pega_fogo_no_Feitosa_-_foto_Reproducao_da218140c0.jpg)
-
-Maceió
-
-Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa](https://www.tnh1.com.br/noticia/nid/picape-pega-fogo-e-tem-perda-total-na-avenida-afranio-lages-no-feitosa/ "Picape pega fogo e tem perda total na Avenida Afrânio Lages, no Feitosa")   [![Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/9/csm_fachada_nova_central_de_flagrantes_5c69269ab4.jpeg)
-
-no jacintinho
-
-Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió](https://www.tnh1.com.br/noticia/nid/farol-apagado-e-perseguicao-por-2km-mulher-e-presa-apos-quase-atropelar-ciclistas-em-maceio/ "Farol apagado e perseguição por 2km: mulher é presa após quase atropelar ciclistas em Maceió")   [![Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
-
-crime ambiental
-
-Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/crime-ambiental-biota-flagra-despejo-de-metralha-em-area-de-mangue-em-jacarecica/ "Crime ambiental: Biota flagra despejo de metralha em área de mangue em Jacarecica ")
+Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'](https://www.tnh1.com.br/noticia/nid/vereador-eleito-rui-palmeira-e-o-entrevistado-deste-domingo-do-programa-contextualizando/ "Vereador eleito, Rui Palmeira é o entrevistado deste domingo do programa 'Contextualizando'")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,7 +82,19 @@ Após atropelamento por moto aquática, MPF cobra organização nas praias de Ma
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_33623cea7a.jpeg)
+   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
+
+Autoria desconhecida
+
+Homem é atingido por oito tiros e morre no Vergel do Lago](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-oito-tiros-e-morre-no-vergel-do-lago/ "Homem é atingido por oito tiros e morre no Vergel do Lago")   [![Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_violencia_domestica_frepik_cbf9d361de.jpg)
+
+Paripueira
+
+Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-arremessar-copo-de-vidro-contra-a-esposa-e-deixar-a-filha-de-6-anos-ferida/ "Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida")   [![Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_apreensao_droga_arapiraca_dc149122fd.jpeg)
+
+imóvel abandonado
+
+Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/drogas-avaliadas-em-r-95-mil-sao-apreendidas-em-residencia-em-arapiraca-suspeito-fugiu/ "Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu")   [![Mulher recebe "visita" de PMs após denúncia e é presa por tráfico de drogas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/f/csm_apreensao_drogas_-_foto_cortesia_33623cea7a.jpeg)
 
 Em Arapiraca
 
@@ -94,19 +106,7 @@ PM apreende armas de fogo e 155 maços de cigarro sem notas fiscais no interior 
 
 Ficou ferido
 
-Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://www.tnh1.com.br/noticia/nid/traficante-trapalhao-e-preso-com-drogas-ao-pular-muro-e-cair-sobre-telhas-de-casa-no-jacintinho/ "Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho")   [![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_77844fdcf1.jpg)
-
-Cidade Universitária
-
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")   [![Homem é encontrado morto com 10 tiros nas costas, em Rio Largo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/0/csm_IML_Maceio_-_foto_Policia_Cientifica_2_ea1ef0bfc3.jpeg)
-
-Em mata
-
-Homem é encontrado morto com 10 tiros nas costas, em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-e-encontrado-morto-com-10-tiros-nas-costas-em-rio-largo/ "Homem é encontrado morto com 10 tiros nas costas, em Rio Largo")   [![Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_pm-flagra-crimes-de-trafico-de-drogas-e-violencia-domestica-no-sertao_1a2416cdcd.jpg)
-
-DELMIRO GOUVEIA
-
-Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie](https://www.tnh1.com.br/noticia/nid/jovem-tenta-fugir-da-pm-em-terreno-baldio-mas-e-preso-com-drogas-e-r300-em-especie/ "Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em espécie")
+Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho](https://www.tnh1.com.br/noticia/nid/traficante-trapalhao-e-preso-com-drogas-ao-pular-muro-e-cair-sobre-telhas-de-casa-no-jacintinho/ "Traficante "trapalhão" é preso com drogas ao pular muro e cair sobre telhas de casa, no Jacintinho")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -124,11 +124,7 @@ Jovem tenta fugir da PM em terreno baldio, mas é preso com drogas e R$300 em es
 
 Pessoas & Negócios
 
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
+Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,7 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
+[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
 
 data comemorativa
 
@@ -210,7 +206,7 @@ data comemorativa
 
 Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
 
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
+Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")[![Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/3/csm_mulher_e_presa_com_balinhas_maconha_-_foto_montagem_tnh1_75836c2275.jpg)
 
 Cidade Universitária
 
@@ -218,57 +214,57 @@ Cidade Universitária
 
 Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou
 
-Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_f90326ff13.jpg)
+Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou](https://www.tnh1.com.br/noticia/nid/mulher-e-presa-pela-segunda-vez-em-15-dias-com-200-balinhas-de-maconha-populacao-protestou/ "Mulher é presa pela segunda vez em 15 dias com 200 balinhas de maconha; população protestou")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
 
-Domingo de lazer
+Mercado de Trabalho
 
-Domingo de lazer
+Mercado de Trabalho
 
-Três mulheres são resgatadas após afogamento na Praia do Francês
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
 
-Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")[![Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/3/csm_andressa_urach_religiosos_reproducao_insta_c94786f9e3.jpg)
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_db8e9abdfa.jpg)
 
-entenda a polêmica
+sinais de embriaguez
 
-entenda a polêmica
+sinais de embriaguez
 
-Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’
+Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir
 
-Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’](https://www.tnh1.com.br/noticia/nid/andressa-urach-esbraveja-contra-religiosos-nao-sou-chocadeira/ "Andressa Urach esbraveja contra religiosos: ‘Não sou chocadeira’")
+Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")
 
-[!['Gato mais obeso do mundo' morre em clínica de reabilitação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/c/csm_gato_obeso_morre_56ec5f7ccf.jpg)
+[![Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/c/csm_carreta_transito_320921088e.png)
 
-Farofa
+travou o trânsito
 
-Farofa
+travou o trânsito
 
-'Gato mais obeso do mundo' morre em clínica de reabilitação
+Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto
 
-'Gato mais obeso do mundo' morre em clínica de reabilitação](https://www.tnh1.com.br/noticia/nid/gato-mais-obeso-do-mundo-morre-em-clinica-de-reabilitacao/ "'Gato mais obeso do mundo' morre em clínica de reabilitação")[![Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_Concurso_-_foto_Agencia_Brasil_2e0ac82251.jpeg)
+Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto](https://www.tnh1.com.br/noticia/nid/video-carreta-quebra-atravessada-na-rua-e-cria-congestionamento-sentido-aeroporto/ "Vídeo: carreta quebra atravessada na rua e cria congestionamento sentido aeroporto")[![Ex-ator mirim foi morto por engano em Trancoso, diz delegado ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/2/csm_ex-ator_morto_5b302c5303.png)
 
-Não tem barreira
+na bahia
 
-Não tem barreira
+na bahia
 
-Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade
+Ex-ator mirim foi morto por engano em Trancoso, diz delegado
 
-Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade](https://www.tnh1.com.br/noticia/nid/confira-10-dicas-para-estudar-e-passar-em-concurso-depois-dos-30-anos-de-idade/ "Confira 10 dicas para estudar e passar em concurso depois dos 30 anos de idade")[![Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/e/csm_renato_aragao_flor_cabeca_-_foto_reproducao_globo_d1b550431d.jpg)
+Ex-ator mirim foi morto por engano em Trancoso, diz delegado](https://www.tnh1.com.br/noticia/nid/ex-ator-mirim-foi-morto-por-engano-em-trancoso-diz-delegado/ "Ex-ator mirim foi morto por engano em Trancoso, diz delegado ")[![Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/2/csm_hospital_foto_reproducao_8b59f5d344.jpg)
 
-Durante apresentação
+Em Minas Gerais
 
-Durante apresentação
+Em Minas Gerais
 
-Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV
+Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza
 
-Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV](https://www.tnh1.com.br/noticia/nid/video-cantora-internacional-acerta-rosto-de-renato-aragao-com-flor-em-programa-de-tv/ "Vídeo: cantora internacional acerta rosto de Renato Aragão com flor em programa de TV")[![Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/c/csm_cap_x_cru_-_expulsao_rafa_silva_-_foto_rep_twitter_brasileirao_5e43998ae9.jpg)
+Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza](https://www.tnh1.com.br/noticia/nid/mulher-e-esfaqueada-por-colega-de-trabalho-apos-discussao-sobre-limpeza/ "Mulher é esfaqueada por colega de trabalho após discussão sobre limpeza")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
 
-assista ao lance
+Sem migué?
 
-assista ao lance
+Sem migué?
 
-Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo
+Atestados médicos ganham novidades em novembro; veja o que muda
 
-Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo](https://www.tnh1.com.br/noticia/nid/veja-o-que-disse-ceo-do-cruzeiro-sobre-jogador-expulso-com-3-segundos-de-jogo/ "Veja o que disse CEO do Cruzeiro sobre jogador expulso com 3 segundos de jogo")
+Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
