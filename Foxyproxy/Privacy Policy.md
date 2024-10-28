@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I had purchased 1 month of your service and it was excellent. It worked 100% of the time and would recommend this to anyone who needs one. The other proxy services were unreliable. There wasn't one site which detected the proxy, they all loaded great. Thanks, I will be sure to come back when I need this service again.
+Your service has been so good...I am surely cannot live without foxyproxy.
 
-Garrett Swindell
+Chatchawan Sukonpongpao
