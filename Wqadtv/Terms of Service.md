@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fb13da88-f741-4b70-a011-bf2b6c4489cd/20241027T194245/fb13da88-f741-4b70-a011-bf2b6c4489cd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fb13da88-f741-4b70-a011-bf2b6c4489cd/20241027T194245/fb13da88-f741-4b70-a011-bf2b6c4489cd_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/acdb8503-7567-4345-8b8b-05a2b5f19412/20241028T023259/acdb8503-7567-4345-8b8b-05a2b5f19412_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
         
-        #### [Sterling police asking for the public's help in locating missing teen](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
+        #### [East Moline's Shady Knoll Farm pumpkin patch celebrating 40 years](https://www.wqad.com/article/life/people/hard-work-determination/shady-knoll-farm-east-moline-40-years/526-30304aa1-16d0-4448-96f2-c8f193bf94be)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f448bded-f66b-4c95-9784-71888240bb6f/20241025T233209/f448bded-f66b-4c95-9784-71888240bb6f_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
         
-        #### [Kevin Maynard to resign as Rock Island Third Ward alderman](https://www.wqad.com/article/news/local/rock-island-alderman-kevin-maynard-resign/526-38d69217-3c75-4b2b-80e8-492fd9f2c000)
+        #### [Missing Sterling teen found safe](https://www.wqad.com/article/news/local/public-safety/missing-teenager-sterling-illinois-police-asking-publics-help/526-4a5d7c90-d66b-4bb4-a5b2-b0c00031fcbf)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/151d59b0-2bd6-4bca-98fa-5fe609dce1b2/20241027T130017/151d59b0-2bd6-4bca-98fa-5fe609dce1b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/143c546f-c079-43e7-9988-d6f139b1d799/20241027T232145/143c546f-c079-43e7-9988-d6f139b1d799_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/143c546f-c079-43e7-9988-d6f139b1d799/20241027T232145/143c546f-c079-43e7-9988-d6f139b1d799_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Warm and windy days to start the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-59°
+48°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
