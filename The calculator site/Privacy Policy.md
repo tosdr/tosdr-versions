@@ -25,15 +25,16 @@ Quick Search:
     * [How Long to Save](https://www.thecalculatorsite.com/finance/calculators/how-long-to-save)
     * [How Long Will Money Last](https://www.thecalculatorsite.com/finance/calculators/how-long-will-my-money-last)
     * [Interest Rate Calculator](https://www.thecalculatorsite.com/finance/calculators/interest-rate-calculator.php)
+    * [Investment Calculator](https://www.thecalculatorsite.com/finance/calculators/investment-calculator.php)
     * [IRR Calculator](https://www.thecalculatorsite.com/finance/calculators/irr-calculator.php)
     * [Loan Calculator](https://www.thecalculatorsite.com/finance/calculators/loancalculator.php)
     * [Loan Payoff Calculator](https://www.thecalculatorsite.com/finance/calculators/loan-payoff-calculator.php)
     * [Margin Calculator](https://www.thecalculatorsite.com/finance/calculators/margin-calculator.php)
     * [Million to Billion Converter](https://www.thecalculatorsite.com/finance/calculators/million-billion)
-    * [Money Counter](https://www.thecalculatorsite.com/finance/calculators/money-counter.php)
     
      
     
+    * [Money Counter](https://www.thecalculatorsite.com/finance/calculators/money-counter.php)
     * [Mortgage Calculator](https://www.thecalculatorsite.com/finance/calculators/mortgagecalculator.php)
     * [Mortgage Refinance](https://www.thecalculatorsite.com/finance/calculators/mortgage-refinance-calculator.php)
     * [Price Per Square Foot](https://www.thecalculatorsite.com/finance/calculators/price-per-sqft.php)
