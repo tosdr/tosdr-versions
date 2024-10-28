@@ -131,31 +131,37 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[As it happened: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
+
+  [![A polling station at a local school in Tokyo on Sunday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430377.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A polling station at a local school in Tokyo on Sunday")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
+
 [Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-[Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-  [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
+[Female employee at Tokyo girls bar stabbed to death](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
 
-  [![Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430170.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday")](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
+  [![Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430326.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.")](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
 
-[Take a Halloween stroll through Tokyo’s dark history](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
+[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
-  [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
-
-[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
-
-  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[As it happened: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
+
+  [![A polling station at a local school in Tokyo on Sunday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430377.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A polling station at a local school in Tokyo on Sunday")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
@@ -164,33 +170,23 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Over ¥300 million in taxes not collected from foreign tourists in 2022](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-  [![Passengers walk through the departure lobby of Haneda Airport in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429996.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers walk through the departure lobby of Haneda Airport in Tokyo.")](https://www.japantimes.co.jp/news/2024/10/25/japan/foreign-travelers-duty-free/ "Over ¥300 million in taxes not collected from foreign tourists in 2022")
+By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Izakaya chain buys Subway Japan in challenge to McDonald’s](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
-
-By [Ryotaro Nakamaru](https://www.japantimes.co.jp/author/971/ryotaro-nakamaru/ "Ryotaro Nakamaru") and [Eddy Duan](https://www.japantimes.co.jp/author/5028/eddy-duan/ "Eddy Duan")  
-
-  [![Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430170.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Watami CEO Miki Watanabe (right) during a news conference in Tokyo on Friday")](https://www.japantimes.co.jp/business/2024/10/25/companies/izakaya-chain-buys-subway/ "Izakaya chain buys Subway Japan in challenge to McDonald’s")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Take a Halloween stroll through Tokyo’s dark history](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
-
-By [Mark Schreiber](https://www.japantimes.co.jp/author/231/mark-schreiber/ "Mark Schreiber")  
-
-  [![Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/429957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Located in the Otemachi neighborhood, the 'skull mound' of Taira no Masakado is said to be the source of ills and misfortunes of any who would disturb the site.")](https://www.japantimes.co.jp/life/2024/10/26/travel/tokyo-halloween-museums/ "Take a Halloween stroll through Tokyo’s dark history")
+  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[18-year-old U.S. tourist arrested in Tokyo over arson](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+[Female employee at Tokyo girls bar stabbed to death](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+  [![Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430326.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers Sunday investigate a building in Tokyo's Minato Ward that houses bar where a female employee was stabbed.")](https://www.japantimes.co.jp/news/2024/10/27/japan/crime-legal/girls-bar-stabbing/ "Female employee at Tokyo girls bar stabbed to death")
 
-  [![An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/24/429837.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An 18-year-old American tourist arrested in Tokyo on suspicion of committing arson has denied the charge against him.")](https://www.japantimes.co.jp/news/2024/10/24/japan/crime-legal/american-tourist-tokyo-arson/ "18-year-old U.S. tourist arrested in Tokyo over arson")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+
+  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
 Podcast
 -------
@@ -211,9 +207,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[O](https://www.japantimes.co.jp/about-us/link-policy/O "O")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![O](O)](https://www.japantimes.co.jp/about-us/link-policy/O "O")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,19 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP-Komeito bloc loses majority in Lower House election](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "LDP-Komeito bloc loses majority in Lower House election")
+[Wall Street and tech royalty fly to Saudi event amid Mideast war](https://www.japantimes.co.jp/business/2024/10/28/tech/wall-street-tech-saudi-war/ "Wall Street and tech royalty fly to Saudi event amid Mideast war")
 
-37 mins ago
+32 mins ago
 
-[Why Ishiba’s strategy of a surprise battle backfired](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/ldp-election-short-term-strategy/ "Why Ishiba’s strategy of a surprise battle backfired")
+[Former yakuza office repurposed to become elderly care facility](https://www.japantimes.co.jp/news/2024/10/28/japan/japan-yakuza-kudokai/ "Former yakuza office repurposed to become elderly care facility")
 
-10 hours ago
+1 hours ago
 
-[Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’](https://www.japantimes.co.jp/news/2024/10/27/world/politics/michelle-obama-appeal-men/ "Michelle Obama makes a searing appeal to men: ‘Take our lives seriously’")
+[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
 
-[Taiwan says China holds 'combat' patrol after latest U.S. arms sales](https://www.japantimes.co.jp/news/2024/10/27/asia-pacific/taiwan-china-combat-patrol/ "Taiwan says China holds 'combat' patrol after latest U.S. arms sales")
+2 hours ago
 
-[What to know about the Chinese hackers who targeted the 2024 campaigns](https://www.japantimes.co.jp/news/2024/10/27/world/politics/chinese-hackers-2024-us-election/ "What to know about the Chinese hackers who targeted the 2024 campaigns")
+[Egypt proposes two-day Gaza truce in hope of full cease-fire](https://www.japantimes.co.jp/news/2024/10/28/world/politics/egypt-gaza-truce-cease-fire/ "Egypt proposes two-day Gaza truce in hope of full cease-fire")
+
+2 hours ago
+
+[South Korean Christian groups protest against same-sex couples rights](https://www.japantimes.co.jp/news/2024/10/28/asia-pacific/society/south-korean-christian-same-sex/ "South Korean Christian groups protest against same-sex couples rights")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
