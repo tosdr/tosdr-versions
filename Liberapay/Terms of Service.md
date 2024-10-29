@@ -8,7 +8,7 @@
     * [Esperanto](https://eo.liberapay.com/about/legal)
     * [Français](https://fr.liberapay.com/about/legal)
     * [Indonesia](https://id.liberapay.com/about/legal)
-    * [Italiano   (2% machine translated)](https://it.liberapay.com/about/legal)
+    * [Italiano](https://it.liberapay.com/about/legal)
     * [Magyar](https://hu.liberapay.com/about/legal)
     * [Melayu](https://ms.liberapay.com/about/legal)
     * [Nederlands](https://nl.liberapay.com/about/legal)
