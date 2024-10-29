@@ -6,7 +6,7 @@ Hlavní menu
 
 * [SEO](https://danielberanek.cz/seo/)Přepínač menu
     * [Local Business SEO](https://danielberanek.cz/seo/local-business-seo/)
-* [Copywriting](https://danielberanek.cz/copywriter-copywriting/)Přepínač menu
+* [Copywriter](https://danielberanek.cz/copywriter-copywriting/)Přepínač menu
     * [Technický copywriting](https://danielberanek.cz/copywriter-copywriting/technicky-copywriting/)
     * [Datový copywriting](https://danielberanek.cz/copywriter-copywriting/datovy-copywriting/)
 * [Strategie](https://danielberanek.cz/obsahove-strategie/)
