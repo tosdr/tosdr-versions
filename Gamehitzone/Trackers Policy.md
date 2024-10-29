@@ -1,5 +1,3 @@
-![](https://mc.yandex.ru/watch/51996539)
-
 Toggle navigation ☰
 
 [gamehitzone](http://www.gamehitzone.com/) [PC Games](http://www.gamehitzone.com/all-free-games/) [Online Games](http://www.gamehitzone.com/play-online/) [Software](http://www.gamehitzone.com/download-free-software/) [Giveaways](http://www.gamehitzone.com/game-giveaways/)
