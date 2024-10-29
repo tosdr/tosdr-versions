@@ -12,7 +12,13 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
 * [About](https://about.citiprogram.org/get-to-know-citi-program/)
 * [Job Board](https://about.citiprogram.org/employment-center/)
 
- [![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
+[![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
+
+![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)
+
+![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
+
+![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
 
 [](#none)
 
@@ -36,7 +42,9 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
     * [FAQs](https://about.citiprogram.org/faqs/)
     * [Contact](https://about.citiprogram.org/sales-help/)
 
-[![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
+[![search](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
 
 [My Courses](https://www.citiprogram.org/members/index.cfm?pageID=50) [My Cart](https://www.citiprogram.org/members/index.cfm?pageID=802)
 
@@ -54,7 +62,11 @@ Terms of Service
 
 Last updated: 15 December 2022
 
-![](https://about.citiprogram.org/wp-content/uploads/2016/11/research-building-e1480950268432.png)The Collaborative Institutional Training Initiative (CITI Program) provides educational materials to affiliates of its organizational subscribers, and to its individual subscribers, using websites and other forms of information exchange. The CITI Program is a division of Biomedical Research Alliance of New York (“BRANY”), a limited liability corporation based in Lake Success, NY, United States of America.
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20198'%3E%3C/svg%3E)
+
+![](https://about.citiprogram.org/wp-content/uploads/2016/11/research-building-e1480950268432.png)
+
+The Collaborative Institutional Training Initiative (CITI Program) provides educational materials to affiliates of its organizational subscribers, and to its individual subscribers, using websites and other forms of information exchange. The CITI Program is a division of Biomedical Research Alliance of New York (“BRANY”), a limited liability corporation based in Lake Success, NY, United States of America.
 
 ACCESS TO AND USE OF CITI PROGRAM WEBSITES AND THEIR CONTENTS, AND TO OTHER CITI PROGRAM MATERIALS, ARE SUBJECT TO THESE TERMS AND CONDITIONS, AS WELL AS TO OUR [PRIVACY AND COOKIE POLICY](https://about.citiprogram.org/privacy-policy/) AND [COPYRIGHT](https://about.citiprogram.org/copyright/). PLEASE READ THEM CAREFULLY.
 
