@@ -20,16 +20,16 @@ Tuesday, October 29 2024
 
 Latest
 
-* [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
-* [When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
-* [Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
-* [OpenAI set to release its next big AI model in December – Computerworld](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
-* [Leave Your Phone at Home When You Access Reproductive Care (Like an Abortion)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
-* [Weight Loss Drug Benefits and Risks](https://digitpatrox.com/weight-loss-drug-benefits-and-risks/)
-* [Is a 5G Laptop Better Than Just Using Phone Tethering?](https://digitpatrox.com/is-a-5g-laptop-better-than-just-using-phone-tethering/)
-* [Inside Lumi, one of the world’s greenest supercomputers](https://digitpatrox.com/inside-lumi-one-of-the-worlds-greenest-supercomputers/)
-* [7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
-* [OnePlus 13 will sport massive 6,000 mAh battery that blows away Galaxy S25 Ultra](https://digitpatrox.com/oneplus-13-will-sport-massive-6000-mah-battery-that-blows-away-galaxy-s25-ultra/)
+* [Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
+* [Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
+* [New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
+* [Free, France’s second largest ISP, confirms data breach after leak](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
+* [A vote for Donald Trump is a vote for school shootings and measles](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
+* [Mac Mini with M4 Pro and 64GB RAM Leaked Ahead of the Launch](https://digitpatrox.com/mac-mini-with-m4-pro-and-64gb-ram-leaked-ahead-of-the-launch/)
+* [Bypass blocks and access Anthropic](https://digitpatrox.com/bypass-blocks-and-access-anthropic/)
+* [What is chaos engineering and how can it benefit businesses?](https://digitpatrox.com/what-is-chaos-engineering-and-how-can-it-benefit-businesses/)
+* [The genAI emperor has no clothes – Computerworld](https://digitpatrox.com/the-genai-emperor-has-no-clothes-computerworld/)
+* [How Long Does It Take to Get Off the Apple Intelligence Waitlist?](https://digitpatrox.com/how-long-does-it-take-to-get-off-the-apple-intelligence-waitlist/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/HxO-3WrpxWN3bKEzFBMdmRp0Td0=/0x0:2040x1360/1200x628/filters:focal(921x470:922x471)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951504/VRG_Illo_STK173_L_Normand_JeffBezos_Neutral.jpg)](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
+* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
     
-    [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
+    [Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
     
-    13 mins ago
+    11 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Fortnite-chapter-5-season-4-official-image.jpg)](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241028-hostverge-wordpress-hosting-lifetime-subscription.jpg)](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
     
-    [When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
+    [Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
     
-    28 mins ago
+    14 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/9q3EjUxCcg3Qvjc6dxEHdX-1200-80.jpg)](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
+* [![](https://cdn.mos.cms.futurecdn.net/43MwToY8nZhtAN8uknp9aC-1200-80.jpg)](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
     
-    [Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
+    [New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
     
-    2 hours ago
+    30 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593066-0-94185100-1730132109-shutterstock_2453873041.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/28/free-headpic.jpg)](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
     
-    [OpenAI set to release its next big AI model in December – Computerworld](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
+    [Free, France’s second largest ISP, confirms data breach after leak](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
     
-    2 hours ago
+    57 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JB2PKBMRHBG116E7GPHAA5EA/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
+* [![](https://cdn.vox-cdn.com/thumbor/KZ3E54gftW7aU0QRRE9zoWGbv-o=/0x0:2040x1360/1200x628/filters:focal(953x573:954x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693283/247224_Election_Package__Mr.Nelson_design_Trump.jpg)](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
     
-    [Leave Your Phone at Home When You Access Reproductive Care (Like an Abortion)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
+    [A vote for Donald Trump is a vote for school shootings and measles](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
     
-    3 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [11 mins ago
     
-    ### Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
-* [28 mins ago
+    ### Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
+* [14 mins ago
     
-    ### When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
-* [2 hours ago
+    ### Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
+* [30 mins ago
     
-    ### Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
+    ### New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [4 weeks ago
     
-    ### FCC says all smartphones must be hearing aid compatible](https://digitpatrox.com/fcc-says-all-smartphones-must-be-hearing-aid-compatible/)
-* [August 13, 2024
+    ### Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
+* [5 days ago
     
-    ### Genshin Impact Natlan Leak Hints a Tragic Past for Muratans](https://digitpatrox.com/genshin-impact-natlan-leak-hints-a-tragic-past-for-muratans/)
-* [August 31, 2024
+    ### Vendor Spotlight: Cyscale](https://digitpatrox.com/vendor-spotlight-cyscale/)
+* [August 18, 2024
     
-    ### UK law firms are facing a torrent of cyber threats – here’s why](https://digitpatrox.com/uk-law-firms-are-facing-a-torrent-of-cyber-threats-heres-why/)
+    ### Get a Lifetime Subscription of FastestVPN for just $30](https://digitpatrox.com/get-a-lifetime-subscription-of-fastestvpn-for-just-30/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Bypass blocks and access Anthropic](https://digitpatrox.com/bypass-blocks-and-access-anthropic/)
 * [3 hours ago
     
-    ### Is a 5G Laptop Better Than Just Using Phone Tethering?](https://digitpatrox.com/is-a-5g-laptop-better-than-just-using-phone-tethering/)
-* [4 hours ago
+    ### What is chaos engineering and how can it benefit businesses?](https://digitpatrox.com/what-is-chaos-engineering-and-how-can-it-benefit-businesses/)
+* [3 hours ago
     
-    ### Inside Lumi, one of the world’s greenest supercomputers](https://digitpatrox.com/inside-lumi-one-of-the-worlds-greenest-supercomputers/)
-* [4 hours ago
-    
-    ### 7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
+    ### The genAI emperor has no clothes – Computerworld](https://digitpatrox.com/the-genai-emperor-has-no-clothes-computerworld/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 11, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
