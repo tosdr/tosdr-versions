@@ -158,7 +158,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        227 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        228 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//shop.4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
