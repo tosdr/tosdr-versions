@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-bizarre-matt-hancock-volksgezondheids-minister/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-nano-tech-opmars-in-de-medische-wereld/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
