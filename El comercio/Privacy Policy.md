@@ -31,6 +31,737 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cuenca tiene dos momentos para proyectar su economía y cultura
+==============================================================
+
+La Cumbre Iberoamericana de Presidentes permitirá la proyección de la ciudad en el exterior y el feriado su recuperación económica.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Cuenca conmemorará este domingo 3 de noviembre sus 204 años de independencia. Archivo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-28-17-15-36.jpg)
+
+**Cuenca** tendrá tres semanas muy importantes. El feriado por las **fiestas de independencia** aportará a su reactivación económica, no solo en el ámbito **turístico** sino también en el **comercial** y el **artesanal**.
+
+La ciudad espera una gran afluencia de turistas nacionales, principalmente, de la Costa. Son más de 230 eventos, entre culturales, musicales, sociales y artesanales, que fueron organizados para estos días.
+
+> En el 2023, este feriado generó más de 40,3 millones de dólares, que se distribuyeron en turismo, comercio y artesanías, principalmente.
+
+Si bien hay **cortes de luz**, los representantes de estas actividades económicas esperan un movimiento similar. Ellos armaron estrategias en su servicio para atender a los visitantes.
+
+El segundo momento que tiene **Cuenca** es la **Cumbre Iberoamericana**, que se cumplirá a mediados de noviembre. De forma paralela se cumplirá el **Encuentro Empresarial Iberoamericano**, que forma parte de la Cumbre.
+
+Para los empresarios de la región es un espacio que permitirá potenciar el crecimiento y desarrollo económico local y nacional.
+
+La llegada de delegaciones internacionales y empresarios generará un aumento en el turismo y el comercio.
+
+Se espera que la Cumbre cuente con la participación de **nueve jefes de Estado**, así como a una amplia gama de empresarios e inversores.
+
+Este espacio también es una oportunidad para resaltar la cultura y el patrimonio de Cuenca.
+
+Al ser una ciudad reconocida por su riqueza cultural e histórica, el evento permitirá mostrar al mundo las tradiciones, costumbres y atractivos turísticos que posee.
+
+Esta suerte de vitrina no solo beneficiará a la ciudad durante la Cumbre, sino que puede tener efectos duraderos al atraer más visitantes en el futuro.
+
+Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado
+======================================================================================
+
+Explora las encantadoras haciendas de Pichincha, un destino ideal para el turismo rural y ecológico en Ecuador.
+---------------------------------------------------------------------------------------------------------------
+
+![El paisaje es hermoso en Tambopaxi.](https://www.elcomercio.com/wp-content/uploads/2024/10/Las-haciendas-en-la-Sierra-de-Ecuador.jpg)
+
+En el corazón de las provincias de Pichincha y Cotopaxi, Ecuador, se encuentra un tesoro escondido: las haciendas que ofrecen una experiencia única de turismo rural. Este recorrido no solo permite disfrutar de la belleza natural, sino que también invita a sumergirse en la historia y las tradiciones del campo ecuatoriano. Desde la Hacienda **Las Cuevas hasta la Hacienda Sierra Alisos**, cada parada es un descubrimiento.
+
+### Más noticias:
+
+* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
+* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
+* [Aún quedan feriados en este 2024, ¿son recuperables?](https://www.elcomercio.com/actualidad/ecuador/aun-quedan-feriados-2024-ecuador-son-recuperables.html "Aún quedan feriados en este 2024, ¿son recuperables?")
+
+**La llegada a la Hacienda Las Cuevas**
+---------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Hacienda-Las-Cuevas-1024x734.jpg)
+
+El viaje se inicia por la vía a Papallacta. A solo 5 kilómetros, un desvío a la derecha nos lleva hacia Mulaluco y, finalmente, a la **Hacienda Las Cuevas**. La señalización es clara y los lugareños conocen bien el camino. Tras un trayecto de 15 minutos por una vía pedregosa y empinada, llegamos a este lugar mágico. Al arribar, nos recibe un hermoso lago rodeado de eucaliptos y una casa que parece fusionarse con la montaña. La historia de esta hacienda se remonta a los años 70, cuando **Álvaro Bustamante**, un ingeniero civil, decidió construir su hogar alejado del bullicio del mundo. Tras años de esfuerzo y desafíos, hoy es un hotel cinco estrellas que ofrece una experiencia única.
+
+**Actividades en Hacienda Las Cuevas**
+--------------------------------------
+
+La hacienda no solo es un lugar para descansar; también ofrece actividades como **elaboración de quesos**, paseos a caballo y ciclismo. Nos dirigimos al restaurante con vista al valle de Pifo para disfrutar de un delicioso desayuno con productos locales. Aprender a hacer queso fresco fue una experiencia gratificante que complementó la visita. Después del desayuno, exploramos los alrededores: caminatas por senderos naturales y una gruta dedicada al jacuzzi nos permitieron relajarnos y disfrutar del paisaje. La conexión con la naturaleza es palpable en cada rincón.
+
+**Hacia Hato Verde: Un encuentro con la tradición**
+---------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Hato-Verde-1024x734.jpg)
+
+El viaje continúa hacia **Hato Verde**, ubicado en Cotopaxi. A solo 100 kilómetros de Las Cuevas, este lugar destaca por su arquitectura colonial y su ambiente familiar. Al llegar, fuimos recibidos por **María del Rosario y César**, quienes comparten su pasión por la vida rural desde 2005. El almuerzo fue una delicia típica: fritada acompañada de papas y salsa de ají. Luego, exploramos los establos donde César cría caballos angloárabes y árabes. Esta experiencia nos permitió conectar con el campo y disfrutar de la tranquilidad que ofrece.
+
+**La riqueza cultural de San Agustín de Callo**
+-----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/San-Agustin-1024x734.jpg)
+
+A solo 20 minutos se encuentra **San Agustín de Callo**, una hacienda que también es sitio arqueológico. Su historia se remonta al siglo XV, cuando era utilizada como fortaleza inca. La mezcla de estilos incas y coloniales se refleja en su arquitectura única. Alimentar a las llamas fue uno de los momentos más memorables. La cena fue exquisita: ají de carne y pollo a la naranja en un entorno mágico con vistas al Cotopaxi. Las habitaciones son espaciosas y acogedoras, perfectas para descansar después de un día lleno de aventuras.
+
+**Desayuno en el Parque Nacional Cotopaxi**
+-------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/tambopaxi-1024x734.jpg)
+
+El siguiente día nos llevó al **Hotel Tambopaxi**, situado dentro del Parque Nacional Cotopaxi. Despertar con vistas al volcán es una experiencia inolvidable. El desayuno fue abundante y delicioso, preparándonos para una jornada llena de actividades al aire libre. Decidimos realizar un paseo a caballo por los alrededores del volcán. Vestidos adecuadamente para el clima frío, disfrutamos del silencio interrumpido solo por el sonido del viento y el galopar de los caballos.
+
+**Finca-Hotel Cotopaxipungo: Un refugio en el páramo**
+------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Cotopaxipungo-1024x734.jpg)
+
+A unos 20 kilómetros se encuentra la **Finca-Hotel Cotopaxipungo**, donde su arquitectura tradicional española se mezcla con el paisaje montano. La atención personalizada del personal hace que cada huésped se sienta especial. El almuerzo aquí fue otro deleite culinario: ají de queso seguido por cerdo al horno. Caminamos por senderos rodeados de aves locales antes de continuar nuestro recorrido hacia **El Rejo**.
+
+**Tradición viva en El Rejo**
+-----------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/El-Rejo-1024x734.jpg)
+
+En **El Rejo** nos recibieron con un canelazo mientras observábamos un rodeo nocturno que celebra la cultura andina. La cena consistió en cerdo asado acompañado por papitas en mantequilla; una experiencia gastronómica auténtica que culminó con pastel de chocolate.
+
+Las habitaciones son cálidas gracias a las chimeneas, ideales para descansar después de un día lleno de actividades.
+
+**Conexión profunda en Hacienda Sierra Alisos**
+-----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Alisos-1024x734.jpg)
+
+Finalmente, llegamos a **Hacienda Sierra Alisos**, donde Raúl y Paola nos ofrecieron una cálida bienvenida. Aquí, la conexión con la naturaleza se siente profundamente. Disfrutamos de un desayuno saludable antes de recorrer los senderos guiados por Raúl. La ceremonia ancestral que realizamos para conectarnos con la Pachamama fue una experiencia transformadora que nos permitió reconectar con nuestros sentidos y liberar el estrés acumulado.
+
+**Un legado cultural y natural**
+--------------------------------
+
+Este recorrido por las haciendas de Pichincha no solo fue una escapada turística; fue una inmersión en la cultura ecuatoriana y sus tradiciones rurales. Cada hacienda visitada ofreció algo único: desde gastronomía auténtica hasta experiencias enriquecedoras en contacto con la naturaleza. Sin duda, Pichincha se revela como un destino ideal para quienes buscan desconectarse del ritmo urbano y sumergirse en la paz del campo ecuatoriano. Las haciendas no son solo lugares para hospedarse; son historias vivas que invitan a ser exploradas y apreciadas por todos aquellos que desean descubrir lo mejor del turismo rural en Ecuador.
+
+* * *
+
+Escucha más sobre las haciendas en nuestro podcast DE PASEO
+-----------------------------------------------------------
+
+Feriado de difuntos, una celebración de orígenes ancestrales
+============================================================
+
+En cada una de sus regiones, los ecuatorianos recuerdan a sus difuntos con tradiciones que combinan elementos indígenas y religiosos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Personas acuden a los cementerios para adornar las tubas de sus familiares.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-difuntos.jpg)
+
+El feriado por el **Día de los Difuntos en Ecuador** es una fecha que refleja la **diversidad cultural y las raíces ancestrales del país**.
+
+En cada una de sus regiones, los ecuatorianos recuerdan a sus difuntos con tradiciones que **combinan elementos indígenas y religiosos**, honrando a quienes partieron del **mundo terrenal mediante rituales y prácticas** que varían de una localidad a otra.
+
+### Más noticias
+
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
+* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
+
+El 2 de noviembre, Ecuador conmemora e**l Día de los Difuntos**, una fecha profundamente enraizada en la **tradición indígena y mestiza del país**.
+
+Esta celebración es una combinación de prácticas ancestrales de los **pueblos indígenas y ritos cristianos** introducidos durante la **colonización española**.
+
+La tradición, compartida en varias regiones de **América Latina**. Adquirió un significado cultural único en Ecuador, donde es reconocida oficialmente como un **feriado nacional**.
+
+Rituales y prácticas tradicionales
+----------------------------------
+
+Durante el Día de los Difuntos, las familias ecuatorianas participan en **distintas prácticas** para recordar a sus seres queridos fallecidos. Entre las costumbres más destacadas están la **preparación y el consumo de la colada morada y las guaguas de pan**.
+
+La colada morada es una bebida espesa hecha de frutas, maíz negro, hierbas y especias, que simboliza la conexión entre el mundo de los **vivos y el de los muertos**. Las guaguas de pan, por su parte, son panes en forma de **figuras humanas** que representan a los difuntos y acompañan a la colada en un acto de remembranza.
+
+Visitas al cementerio y ofrendas
+--------------------------------
+
+El **Día de los Difuntos** es también una oportunidad para que las familias ecuatorianas visiten los cementerios, donde llevan flores y limpian las tumbas de sus familiares.
+
+Esta práctica, presente en **diversas regiones del país**, busca mantener viva la memoria de los ancestros y honrar su legado. En algunas **comunidades indígenas**, se realizan ofrendas y rituales específicos como parte de una **ceremonia comunal**, en la cual se reconoce la importancia de los **ancestros en la vida cotidiana**.
+
+> ⚠️💡 [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Horarios de cortes de luz en Quito para este feriado [https://t.co/2Qf6Nq9aeZ](https://t.co/2Qf6Nq9aeZ) [pic.twitter.com/AeMPrTYY4e](https://t.co/AeMPrTYY4e)
+> 
+> — El Comercio (@elcomerciocom) [October 28, 2024](https://twitter.com/elcomerciocom/status/1850996825211146378?ref_src=twsrc%5Etfw)
+
+Importancia cultural y significado social
+-----------------------------------------
+
+La celebración del Día de los Difuntos en Ecuador **refuerza la identidad cultural** y promueve la continuidad de tradiciones que han perdurado a través de los siglos. Al mantener estos rituales vivos, las **familias ecuatorianas recuerdan y honran a sus seres queridos fallecidos**.
+
+De esta forma expresan su conexión con las raíces ancestrales y preservando un **legado cultural** que distingue al país.
+
+El Día de los Difuntos es reconocido como un **feriado nacional en Ecuador**. Esto permite a las personas tomarse el tiempo para participar en las **actividades conmemorativas**.
+
+Esta medida refuerza el **valor de la tradición en el país**. Asimismo, sirve para brindar a los ecuatorianos un momento especial para **recordar y honrar a sus seres queridos**.
+
+¿Cómo se celebra en Ecuador?
+----------------------------
+
+En Ecuador, el **Día de los Difuntos** se conmemora con una mezcla de tradiciones ancestrales y **costumbres católicas**, que varían según la región. En la Sierra, los cementerios se llenan de familiares que **limpian y decoran las tumbas de sus seres queridos con flores y velas**.
+
+Por otro lado, en Tulcán, el Cementerio Municipal, reconocido por sus esculturas de ciprés, recibe a **miles de visitantes**. En Otavalo, las **comunidades indígenas** comparten alimentos y realizan rituales que reflejan la fusión de la cosmovisión andina con la **religión católica**.
+
+Asimismo, en Pujilí y Saquisilí, el 3 de noviembre se recoge la comida dejada como ofrenda y se reparte entre la comunidad.
+
+En la provincia de Pichincha, además de las visitas a los cementerios, las familias preparan **colada morada y guaguas de pan,** alimentos tradicionales que acompañan la **reunión familiar**.
+
+De igual forma, en Riobamba, el personaje del “Animero” recorre los cementerios recitando oraciones. En Cuenca y otras zonas del Azuay y Cañar, se comparten **comidas en las tumbas**, como muestra de la creencia de que los difuntos regresan cada año.
+
+Un candidato creíble y competente
+=================================
+
+El tamaño de la crisis es tan grande, que reclama políticos superiores para gobernar.
+-------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Quienes eligieron al joven Daniel Noboa improvisaron un jefe de Estado, que sabiendo que habría una **crisis hidrológica** no hizo nada por mantener, reparar y poner en operación a las **plantas termoeléctricas** existentes, ni conformó un **equipo técnico** competente, entregando la **solución** a **ministros encargados** e **improvisados**, afectando así a todos los **ecuatorianos**.
+
+El tamaño de la **crisis** es tan grande, que reclama **políticos** superiores para gobernar. Estamos en **recesión económica** y en estado de **inseguridad** irreversible. Si seguimos así, sin hacer nada importante, vamos a colapsar y a afectar más a **poblaciones** numerosas.
+
+El Presidente Noboa que fue elegido sorpresivamente, no ha estado preparado para **gobernar** un **país** en retroceso desde hace una década, sumido en una **violencia** inusitada que está sembrando el **terror** en ciertas **poblaciones** y causando **miedo** masivo en la **población**.
+
+Los otros **candidatos** no tienen las **calificaciones intelectuales** ni la experiencia indispensable para hacerse cargo de un país complejo. Hay una **candidata** del correismo que no da la talla para ser gobernante de nuestro país, pues solo persigue la **impunidad** de los ex dirigentes convictos,  por lo que el **pueblo** rechazaría un nuevo **fracaso** correísta. La mayoría son **aspirantes** que se saben perdedores por su condición de **improvisados** e **incompetentes** y porque no han podido crear un **partido** político serio, con principios viables para la **gestión pública**.
+
+Entonces es de desear que de entre los 16 aspirantes haya uno que siendo equidistante de los **extremismos políticos**, entienda que gobernar es difícil y sacrificado, debido a la **pobreza** y **descomposición política nacional**. Quien gobierne el próximo período debe saber cómo encausar al país a una etapa de **productividad total** y general, que sustente una **recuperación** auténtica basada en sus propios medios y no en el **endeudamiento,** que es un dogal que sojuzga nuestros anhelos.
+
+Este **candidato** debe tener experiencia en **gestión pública** y contar con un equipo de **trabajo** **competitivo** para **gobernar** y no solo disfrazarse de Rambo. Debe saber que tiene que abandonar el **populismo** irresponsable, porque gobernar no es perdonar las **deudas** al Estado, no recaudar lo que se debe ni regalar los **combustibles** o el costo de la **energía eléctrica**.
+
+Pasolini, pasión de vivir
+=========================
+
+Vida y obra de Pasolini se despliegan bajo el doble arco del dolor y la búsqueda.
+---------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+En _La divina mímesis_, 1976, libro de Pier Paolo Pasolini (Italia, 1922-1975), leo este epígrafe: “Doy a la imprenta hoy estas páginas como un ‘documento’, pero también para fastidiar a mis ‘enemigos’: en efecto, ofreciéndoles una razón más para despreciarme, les ofrezco una razón más para irse al Infierno”. En la portada, su inconfundible rostro atribulado y esquivo, rasgado por un brochazo que simula un rayo. Mímesis: **metamorfosis** de algunos fieles cuando sienten que se apoderan de ellos seres de otros tiempos; encarnación de espíritus, en general execrables. “Pasolini creía ser poseso de seres mitológicos”, dice Elsa Morante.
+
+Vida y obra de Pasolini se despliegan bajo el doble arco del dolor y la búsqueda, las dos tensionadas al extremo por la pasión, fundamento de su estructura humana. Múltiple y único, cineasta, novelista, **pensador**, dramaturgo, actor, periodista, político, fanático del fútbol… y sobre todo, poeta; su cine, que es la expresión más acabada de su aciaga existencia, es poesía; su **literatura**, su vida y su obra son poesía. El círculo dantesco de su vida exhala un halo de **poesía trágica**. Su supuesto asesino esperó más de 30 años para declarar que no fue él quien cometió el crimen, sino tres jóvenes al grito de consignas políticas.
+
+**“Dios, qué significa ese sudario silencioso/ que ondula sobre el horizonte”**
+-------------------------------------------------------------------------------
+
+No es difícil imaginar a **Pasolini** hundiendo sus raíces en el viento, desgarrando su carne atormentada y fundiéndose en escombros. **Contradictor** del **poder**, pasó del catolicismo al marxismo; excomulgado por Roma y expulsado del **Partido Comunista**, proclamó su homosexualidad en una **sociedad** atiborrada de prejuicios, nombrando el nombre de su amor y su deseo; siempre soñó caminar entre árboles y flores durante su vida y su muerte, pero este sueño fue el más irreal. Su vida, cine y escritura están poblados de desiertos, yermos que solo muestran **abyecciones**, **ignominias**, despojos.
+
+Fue en el malecón de Ostia donde lo mataron a palos. En un **circuito lleno** de desechos y basurales malolientes. Y en su vida, sus logros tuvieron siempre poderosos contradictores de izquierdas y derechas: “Todo el séquito que lo acompañaba, dice **Benjamín Prado**, vivía explotándolo o eran oscuros enemigos suyos”.
+
+_Accattone_, 1961, su ópera prima. Historia del tugurio humano de la ciudad. Raterillos, vagamundos, proxenetas y prostitutas desbordan el filme. Una **niebla repulsiva** circula por ambientes y personajes. ¿Puede hallarse una señal de salvación ante panorama tan desolador? Ateo confeso, accede en este y otros filmes a lo espiritual como medio redentor.
+
+_Mamma Roma_, 1962. Una prostituta jubilada es la protagonista. Exhausta, vencida y vacía, **encarnación** de Roma de la posguerra, vive asida a la precaria felicidad de su hijo recién recuperado. Su departamento le sirve de atalaya para mirar un **futuro promisorio** cubierto de fuegos fatuos. El **adolescente deambula** por la barriada aprendiendo, en simbiosis **siniestra**, las lecciones del amor y el vagabundeo, preludio de la muerte.
+
+La **materia** con que se **edifica** la filmografía de Pasolini es el **desierto**. Sobre él pululan zonas habitadas por la escoria de la ciudad. Aridez como circunstancia histórica y existencial de lo originario. Personajes funambulescos titubeando sobre la cuerda de la **memoria** perdida. El desierto de Pasolini: agreste, hostil, vacío.
+
+Pablo Corro ve raíces ontológicas en el desierto pasoliniano. Su sentido religioso, **evangélico, histórico y literario** a la vez, se muestra en _El Evangelio según San Mateo_. Pasolini rompe con su ateísmo militante, no obstante, recrea el suceso bíblico desde una lectura marxista. En 2015 el Observador Romano lo declaró el mejor filme sobre la historia de Jesucristo.
+
+Poeta de la palabra. Y palabra en el tiempo. **Poeta** contra el poder; del pasado no vivido, del amor, del erotismo y de la sexualidad; de la vida y de la muerte. Luego de filmes magistrales como su trilogía erótica, _Las mil y una_ _noches_, _El Decamerón_ y _Los cuentos de Canterbury_; después de _Teorema_ y _Edipo Rey,_ muestras de mórbido erotismo y cáustica diatriba contra el sistema, filma _Saló o los 120 días de Sodoma_, película que no pudo ver porque le sobrevino la **muerte**.
+
+_Los 120 días de Sodoma_ de Sade es una invectiva contra la **humanidad**, pero también una velada intención de remover sus **malsanas raíces** y disipar sus iniquidades. Pasolini usó como argamasa la obra de Sade, fundiéndola con su contumaz aversión contra el fascismo. ¿Una perversión o una película que debe constar en la más exigente **antología** de la historia del cine? Quienes la resistan tienen la respuesta.
+
+“Poco tiempo me queda: por culpa de la muerte/ que me viene al encuentro en mi marchita juventud./ Más por culpa también de nuestro mundo humano/ que le quita el pan a los hombres y a los poetas la paz”.
+
+El ADN de la lectura
+====================
+
+En las siguientes líneas, una aproximación al mundo de la lectura desde otra mirada: el cerebro, que cumplió 200 mil años…
+--------------------------------------------------------------------------------------------------------------------------
+
+![Las contribuciones de las neurociencias son trascendentes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-8-3.jpg)
+
+**La importancia de la lectura va mucho más allá de enseñar a leer.** El reduccionismo, a veces, ha matado la lectura y por extensión a la calidad de la educación. **Las contribuciones de las neurociencias son trascendentes.** Veamos por qué.
+
+Lectura crítica
+---------------
+
+Los educadores enseñamos a leer –y es un mérito relevante- bajo sistemas que aprendimos en los normales y en las universidades. Pero hoy, **en el siglo XXI, el tema de la lectura ha superado los modelos tradicionales centrados en la lectura mecánica**, orientados a adquirir una serie de automatismos que permiten a los estudiantes a interpretar signos gráficos, mediante una percepción visual y darles una identidad oral. Se insiste en la lectura comprensiva, que tiende a asociar las letras con los sonidos y las palabras con su significado, y lograr, en última instancia, **la lectura crítica.**
+
+Métodos de enseñanza de la lectura
+----------------------------------
+
+**Existen varios métodos de enseñanza de la lectura.** Los más conocidos son **el** **método fónico, el método global y el método constructivista.** El primero se fundamenta en el **principio alfabético,** que implica la asociación entre fonemas y grafemas, y de las vocales a las consonantes.
+
+El segundo **se centra en las palabras**, que deben ser memorizadas inicialmente, como base de la creación de los primeros enunciados, cuyos significados son aprendidos con la ayuda de dibujos, conocimientos previos y más. De esta manera, las palabras antes desconocidas sobran sentido. Por último, el método constructivista, creado por **Jean Piaget**, **sugiere la enseñanza de la lectura a partir de las hipótesis implícitas** que el niño desarrolla del aspecto fonológico.
+
+El debate entre estos modelos de enseñanza de la lectura no ha terminado. Pero existen evidencias empíricas que muestran la importancia de **la conciencia fonológica en el proceso de alfabetización**, y que es posible integrar los métodos fónico y global.
+
+Cerebro lector
+--------------
+
+Lo anterior sería imposible entender sin considerar la existencia de un cerebro lector, de acuerdo con la terminología de **Stanislas Dehaene**; es decir, de la arquitectura cerebral que hace posible las relaciones entre las neuronas que explican las neurociencias, que permiten, según **Max Weber**: saber pronunciar las palabras escritas; saber identificar las palabras y el significado de cada una de ellas; y, saber extraer y comprender el significado de un texto.
+
+El tema es complejo y fascinante. **Según algunos investigadores estamos todavía en la “madrugada” de la palabra escrita**, porque recién comienza a descifrarse en el ADN de la lectura y algunos campos específicos de la **neuroeducación**: el aprendizaje, la memoria, la atención, la dislexia, entre otros asuntos, donde la bioingeniería, la computación y la biología molecular se han unido para cambiar para siempre a la pedagogía y la medicina.
+
+**Las ciencias aplicadas a los aprendizajes están en “pañales”.** Pese a ello, en los últimos veinte años, la pedagogía y la psicología, con el apoyo de las neurociencias, han podido generar **mapas preliminares del cerebro**, en los cuales se identifican los **circuitos cerebrales de la lectura**, a través de neuroimágenes o imágenes cerebrales, que revelan las áreas que se activan cuando desciframos palabras escritas.
+
+La ciencia de la lectura
+------------------------
+
+**Stanislas Dehaene**, autor del libro **“El cerebro lector: últimas noticias de las neurociencias sobre la lectura, la enseñanza, el aprendizaje y la dislexia”**, considera que “una persona promedio sabe más sobre su auto, que sobre el funcionamiento de su cerebro”.
+
+Esta declaración es impactante y muy cierta. **La nueva ciencia de la lectura es desconocida en varias partes del mundo, y peor aplicada.** Las razones son obvias: **la mayoría de los modelos de enseñanza y aprendizaje –y en general de las ciencias- son lineales, mecanicistas-funcionalistas, que reducen los fenómenos a mecanismos limitados o reduccionistas**; por ejemplo, células, moléculas o modelos de conducta de los seres vivientes. Cuando el enfoque dinámico de los sistemas considera al mundo a partir de **vínculos e integración.**
+
+Todo es sistémico y sus estructuras específicas resultan de las relaciones entre las partes o subsistemas. En este contexto, **la lectura es un sistema complejo cuyo eje es el cerebro**, que es la **central de manejo**, que actúa también como **centro de la memoria**.
+
+**El ser humano tiene entre 12 y 15 mil millones, aproximadamente, de células nerviosas o neuronas.** Cada neurona, a su vez, puede construir millones de conexiones, que se forman al usarse el cerebro. Así, cuando son más estimuladas, se construyen más conexiones y más capacidades del ser humano para pensar. **Porque la lectura es pensamiento en acción.**
+
+Las neurociencias
+-----------------
+
+En esa línea de pensamiento, un punto en discusión –todavía intocado en el Ecuador- es **la necesaria conexión de la escuela con las ciencias** \-tratado en otro ensayo de esta serie-, como núcleo central de la educación inicial y continua de los docentes y específicamente de los sistemas neuro lingüísticos asociados a la lectura, que es el tema que motiva este ensayo.
+
+**En el Ecuador existen pocos estudios sobre las neurociencias y sus relaciones con los procesos de aprendizaje de los estudiantes.**  Las escuelas –salvo excepciones- actúan sobre sistemas formales, anclados a modelos tradicionales, donde la gestión del currículo –lo administrativo- supera a las teorías pedagógicas, así como a los fundamentos curriculares, que deberían formar parte de la actualización de los docentes, y a los estándares de aprendizaje de los estudiantes, sobre la base de sistemas de evaluación y calidad sustentados en parámetros científicos.
+
+Psicología, cerebro y educación
+-------------------------------
+
+**Tracey Tokuhama-Espinosa ha identificado las interconexiones entre la psicología, el cerebro y la educación** como ejes de sus investigaciones y publicaciones, que contrastan con los intentos de innovación desde el aparato escolar dirigido por el Ministerio de Educación, en el que prevalecen las estadísticas en financiamiento y cobertura, mientras que la calidad de la educación todavía es una deuda pendiente.
+
+**Y cuando nos referimos a la escuela nos encontramos ante un vacío no solo legal sino conceptual y pedagógico.** La escuela responde a una cultura organizacional, que privilegia la cantidad de “materia”, en nombre de un currículo rígido, y donde los sistemas de evaluación compulsivos fomentan la incertidumbre, unidos a la **falta de programas de investigación asociados a la educación, la pedagogía y la didáctica**, para la toma de decisiones.
+
+Las neurociencias y la programación neurolingüística no pasan de ser espacios que se estudian en cursos especiales, sin mayor incidencia en las políticas públicas. **Y el ADN de la lectura está en veremos.**
+
+**El Ecuador necesita una verdadera transformación**, con la participación activa de todas las universidades, los centros de investigación, la sociedad civil y el sector oficial. **La ciencia de la lectura debe irrigar la escuela** ydebe expandirse a todo el cuerpo social, donde **la mediación lectora, las bibliotecas, la lectura silenciosa y por placer mejore la cultura nacional.** 
+
+Los madrugadores forzados
+=========================
+
+Los cortes de luz en Quito obligan a la gente a modificar su rutina diaria, afectando su descanso y tareas básicas.
+-------------------------------------------------------------------------------------------------------------------
+
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
+
+Siempre he admirado a los **deportistas** que se levantan a las 04:00 de la mañana para **entrenar**. En ciudades como **Quito**, a esa hora, por lo general hace frío y se requiere de mucha **decisión** y **disciplina** para **levantarse** y vestirse, ya sea para correr, caminar, nadar… o dedicarse a la **actividad física** que apasione.
+
+Desde hace unos días, a ese grupo se ha unido otro, pero a la fuerza. Me refiero a aquellos que tienen **luz** hasta las 6:00 o 7:00 de la mañana, porque les dotaron del **servicio** a **media noche,** y vuelven a brindárselo por otras tres horas a partir de las 14:00 o 15:00.  
+
+Muchos dirán que a todos les afecta, pero considero que a quienes a **semana seguida** le someten a ese **régimen** ya empieza a notárseles. Me explico. Si usted tiene un compañero de trabajo que a las 9:00 o 10:00 de la mañana está cansado, **cabeceando** o con los ojos rojos, es porque seguramente está de pie desde las 04:00. O, simplemente se fue a dormir a las 02:00. Sea cual sea la hora, comparten las mismas razones: en la **madrugada** recién se puede **lavar la ropa, secarla, cocinar algo, asearse.** Hay casas o departamentos en el Distrito Metropolitano de Quito –lo pongo con su nombre completo para incluir a los **valles y parroquias**\-, desde hace ya bastantes años, que todo funciona con base en la **electricidad** y eso significa que **sin** **luz** no se puede **lavar, cocinar, bañarse, escuchar música, leer**… seguir con la rutina que se tenía hasta hace unos días. Y, en algunos casos, tampoco se tiene **agua**, porque no hay generadores para que funcionen las bombas.
+
+Ni bien hay **luz** corren a **cargar** los **teléfonos**, las **tabletas** o las computadoras personales. Si no  han lavado ropa, vuelan a la **lavadora**. Si la ropa no se ha secado, se aprovecha a poner lo que falta en la secadora. Si se debe planchar una falda, una camisa o un pantalón que en unas horas se usará, enseguida se conecta la plancha. En el intermedio **se bañan, se afectan, se maquillan, se peinan**. Y si se requiere **secadora de cabello**, no hay más tiempo que a esa hora.
+
+También hay que preparar algo para **desayunar** más tarde o forzarse a comer entre las 06:00 y las 07:00. La verdad no hay bolsillo que alcance para pagar dos o tres comidas diarias fuera de la casa. Es que con ese horario se va al **trabajo** sin luz y se regresa y todo sigue sin funcionar.
+
+Con la luz natural de las 17:00 o 18:00 apenas se puede leer un poco. Quienes no van a un **centro comercial** o algún sitio con generador hasta agotarse para llegar a sus **casas y dormirse** enseguida, permiten que los niños estén más tiempo en los **parques de los conjuntos o urbanizaciones cerradas**. También hay alguno que otro padre que los acompaña. Personas de la tercera edad optan por caminar y los amantes de las mascotas pasean más tiempo a sus animales. Algunas parejas también salen a las puertas de las **casas y conversan.** Muchos coinciden en que ahora **compran máximo semanalmente** la comida, para que no se les dañe. Otros, en cambio, prefieren **comprar a diario**, para no volver a conectar las **refrigeradoras** hasta que todo pase, aunque saben que eso puede tomar muchísimo más tiempo… 
+
+Cartas a Quito / 29 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este martes 29 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Penosa realidad de algunos profesionales
+----------------------------------------
+
+En los momentos actuales, estando a las puertas de una elección presidencial, es inevitable que nos veamos en la necesidad de escuchar y leer cada barbaridad.
+
+Deberíamos, de haber políticos de altura intelectual suficiente, escuchar y leer propuestas de solución a los problemas que vivimos. En lugar de eso, nos vemos en la penosa necesidad de presenciar ataques irracionales, carentes de lógica elemental. Lo más penoso es que muchos de ellos provienen de “profesionales”, inclusive de algunos que han seguido doctorados o maestrías, y que se jactan de ello colocando en su identificación sus títulos y dónde los obtuvieron.
+
+Veo las expresiones de un señor Víctor Hugo Erazo, o, de un señor Fausto Herrera, y, no se diga de un señor Mauro Andino Espinoza, sin quedarse atrás doña Alondra Santiago, cuyo contenido es exclusivamente denostar contra las actuaciones del actual gobierno sin realizar una sola propuesta que resuelva alguno de los problemas.
+
+Si supieran que el hacer propuestas de solución los ubicaría en un nivel más aceptable políticamente, pero me temo que eso sería imposible de entender para ellos, acostumbrados a la pelea, a la discusión, creyendo que esa es el arma de política que más réditos da. Obviamente, están siguiendo el ejemplo de algún líder, que como una salida a algún complejo enraizado, utiliza la única arma que conoce: la confrontación.
+
+Su sensibilidad social y política no ha alcanzado el nivel de la racionalidad, se quedó en la primitiva era de las cavernas, donde la agresividad primaria era un arma de supervivencia.
+
+Es muy penoso, pues entiendo que algunos de los mencionados son profesionales, con postgrados y masterados a cuestas: ¿de qué les ha servido la universidad?
+
+Un profesional como tal debe separar sus afinidades políticas o profesionales, para hacer del conocimiento la herramienta imparcial y racional. Esto es lo que se aprende en las universidades que privilegian el conocimiento, lo que obviamente desemboca en propuestas racionales. Cuando dejamos prevalecer en nuestro pensamiento, dogmatismo o afinidades personales o ideológicas por sobre el razonamiento y el conocimiento, dejamos de ser profesionales.
+
+José M. Jalil Haas
+
+Policía abatió a un delincuente armado en Guayaquil
+===================================================
+
+En otro hecho, un uniformado fue atacado por cuatro hombres armados en Santo Domingo de los Tsáchilas.
+------------------------------------------------------------------------------------------------------
+
+![El delincuente fue abatido cuando amenazaba a un ciudadano con un revólver](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-delincuente-abatido-guayaquil.jpg)
+
+La **Policía Nacional** abatió a un delincuente que amedrentaba a un ciudadano con un **arma de fuego**.
+
+El hecho se registró alrededor de las 14:00 de este lunes 28 de octubre de 2024, en el sector de La Florida, en **Guayaquil**.
+
+### Más noticias
+
+* [La CorteIDH condena a Ecuador por tortura y muerte de un detenido por la Policía en 1992](https://www.elcomercio.com/actualidad/mundo/corteidh-condena-ecuador-tortura-muerte-detenido-policia-1992.html "La CorteIDH condena a Ecuador por tortura y muerte de un detenido por la Policía en 1992")
+* [Ataques armados en Manta dejan cinco fallecidos](https://www.elcomercio.com/actualidad/seguridad/ataques-armados-en-manta-dejan-cinco-fallecidos.html "Ataques armados en Manta dejan cinco fallecidos")
+* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
+
+Un efectivo de la Policía se trasladaba a su puesto de trabajo cuando se percató que el desconocido **apuntaba con un revólver** a una persona.
+
+Con el afán de proteger a la víctima, el uniformado sacó su **arma de dotación** y advirtió al hombre que bajara el revólver.
+
+Al **no obedecer la orden**, y ante la grave amenaza a la vida del ciudadano, el policía **neutralizó** al individuo en uso legítimo de la fuerza.
+
+Tras el hecho, el uniformado llamó de inmediato a una **ambulancia**. Cuando llegaron los paramédicos, revisaron al delincuente y comprobaron que **murió**.
+
+En el sitio se recuperó el arma con la que el sujeto amenazaba a la víctima; el revólver ser utilizado como **indicio** en las investigaciones del caso.
+
+> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw) ||  
+>   
+> ABATIMOS A UN ANTISOCIAL EN [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> En el sector La Florida, [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw), un servidor policial visualizó a un sujeto amedrentando a dos ciudadanos con un objeto de similares características a un arma de fuego, por lo que mediante [#UsoLegítimoDeLaFuerza](https://twitter.com/hashtag/UsoLeg%C3%ADtimoDeLaFuerza?src=hash&ref_src=twsrc%5Etfw) y para precautelar… [pic.twitter.com/8bF6RX1ZOb](https://t.co/8bF6RX1ZOb)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 28, 2024](https://twitter.com/PoliciaEcuador/status/1851045505456861611?ref_src=twsrc%5Etfw)
+
+Policía sufrió ataque armado en Santo Domingo de los Tsáchilas
+--------------------------------------------------------------
+
+Un policía se movilizaba en una calle de **Santo Domingo**, cuando fue interceptado por cuatro desconocidos que iban a bordo de dos motocicletas.
+
+Los individuos sacaron **armas** y realizaron **varios disparos** contra la humanidad del uniformado.
+
+En su intento por defenderse, el gendarme hizo uso de su arma de dotación y r**epelió el ataque**, dejando herido a uno de los hombres.
+
+Los demás atacantes huyeron del lugar, mientras que el sospechoso afectado fue trasladado inmediatamente a una **casa de salud** cercana con custodia policial.
+
+> HERIDO PRESUNTO DELINCUENTE EN [#USOLEGÍTIMODELAFUERZA](https://twitter.com/hashtag/USOLEG%C3%8DTIMODELAFUERZA?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Un servidor policial fue interceptado por 4 sujetos a bordo de 2 motocicletas en [#SDTsáchilas](https://twitter.com/hashtag/SDTs%C3%A1chilas?src=hash&ref_src=twsrc%5Etfw), quienes realizaron varios disparos contra la humanidad del uniformado, mismo que hace uso de su arma entregada en dotación y… [pic.twitter.com/S0UdMn7PRO](https://t.co/S0UdMn7PRO)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 29, 2024](https://twitter.com/PoliciaEcuador/status/1851083467099951381?ref_src=twsrc%5Etfw)
+
+Tres lugares en donde probar una buena colada morada en Quito durante el feriado
+================================================================================
+
+La colada morada es uno de los platos favoritos durante el feriado de difuntos. Es parte de la tradición y la religiosidad popular del país.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las madres del monasterio de las Agustinas de la Encarnación elaboran colada morada desde hace muchos años, pero solamente son 12 en los que la venden al público.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5-4.jpg)
+
+Hay algo interesante de la **gastronomía quiteña**: las familias no se reúnen a comer un plato especial por fechas cívicas, como puede ocurrir en México, Santiago de Chile o Buenos Aires. No se lo hace por el 10 de agosto o el 24 de mayo. Más bien, los encuentros son por razones **religiosas**: la **fanesca** en **Semana Santa** o, como en estos días de **finados**, por la **colada morada**. **EL COMERCIO** visitó tres lugares en donde se puede probar una buena **colada morada** en el feriado que se acerca: el **monasterio de las monjas agustinas y los mercados de Santa Clara e Iñaquito.**
+
+### Más noticias
+
+* [Quito tendrá espacios gratuitos de ‘coworking’](https://www.elcomercio.com/actualidad/quito/quito-tendra-espacios-gratuitos-coworking.html "Quito tendrá espacios gratuitos de ‘coworking’")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+
+Colada morada y guaguas en el monasterio de las agustinas
+---------------------------------------------------------
+
+Si estas son fechas católicas -cargadas de **sincretismo**, por cierto-, es muy buena idea ir al **monasterio de las monjas agustinas**, en la calle Benalcázar y Carchi, en el centro de **Quito**. En este lugar, usted encontrará una **colada morada** cuya receta se aprendió de generación en generación en el **convento**. Porque hay, además, una verdad ineludible: **las monjas siempre han sido grandes cocineras.** Y lo confirmará con la colada morada y las guaguas de pan que allí preparan.
+
+Es una colada que tiene dos virtudes, según la madre Ana Lucía del Espíritu Santo, priora del **Monasterio de las Agustinas de la Encarnación:** el **amor** y la **oración**. Mientras algunas preparan la colada, con las hermanas rezan el **rosario**. Es parte de la mística: el trabajo es también una forma de oración.
+
+“Es una tradición muy antigua, no solo del monasterio, sino quiteña. Siempre se la ha hecho para las hermanas, para los padres”, nos cuenta la madre Ana Lucía. Sin embargo, **hace 12 años** comenzaron a vender para aquellos de la vida civil que quieran probar.
+
+Los ingredientes son los mismos que se usan en casi toda colada morada: el ishpingo, el mortiño, frutilla, piña, babaco, el maíz y la maicena. Lo que no usan es azúcar, sino panela. Tiene una textura espesa y en este caso, la acidez perfecta, pues uno de los riesgos es, precisamente, el exceso de ácido.
+
+Sin embargo, les costó en un principio porque son **monjas de clausura** y era algo complejo relacionarse con el mundo exterior. De hecho, aceptaron la entrevista, pero aún les resulta difícil mostrarse ante las cámaras. Además, nos recibieron en el pequeño museo que tienen con ollas antiguas y una máquina con la que hacían anteriormente las hostias para las misas, casi a oscuras por los **cortes de luz.**
+
+Por la fuerza del tiempo, esta relación ha cambiado. “Y nos ha ido muy bien”, dice. Ahora, incluso, tienen un lugar donde pueden ir a tomar la colada morada o pedir para llevar, si quieren. **Lo importante es que tienen que avisarles, con anticipación, al teléfono 099-302-8809.**
+
+Del monasterio a los mercados
+-----------------------------
+
+Si algo sabemos es que en los mercados se come bien, sobre todo la comida típica: el hornado, la fritada, por ejemplo. Pero no es menos cierto que hay que ir a probar la colada morada. Y es que es algo tan importante que hasta se realizan concursos internos.
+
+La ganadora participará en el **concurso** de la ciudad, el **viernes 1 de noviembre, en la Plaza Foch**, en el barrio **La Mariscal**. Serán 25 representantes que buscarán tener el título de la mejor colada morada del 2024. Para ello, hablamos con las ganadoras en los mercados de **Santa Clara** y de **Iñaquito**.
+
+Cecilia Salinas, en Santa Clara, sabe lo que es ganar
+-----------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-6-5-1024x683.jpg)
+
+En el renovado mercado de Santa Clara, **Cecilia Salinas** nos recibe con el cariño propio de las caseras. Está combatiendo un cáncer de mama, pero ella confía en Dios. Además, ya fue la **ganadora** del concurso de la ciudad en el **2022**.
+
+También su colada morada es fruto de la tradición. Aprendió de su madre y también destaca que el **amor** es el **ingrediente** más importante y sobre todo con buenos productos que compra a sus compañeras del mercado de **Santa Clara**. “Es como decía mi mamá: aunque cueste más, las cosas hay que hacerlas bien para que la gente regrese”.
+
+Es una colada morada para regresar por ella. Una **textura increíble** y su **aroma** se destaca apenas nos acercamos a su puesto. Usa los mismos ingredientes, pero no le gusta con panela, sino con azúcar, aunque ella no lo pueda tomar. **“No es una colada morada, sino un arrope de frutas”**, dice riéndose a carcajadas. Lo que no ofrece son las **guaguas de pan**.
+
+Adriana Huaraca, el amor y un secreto, en Iñaquito
+--------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-5-1024x683.jpg)
+
+En el mercado de Iñaquito, **Adriana Guaraca** sigue la tradición de su **hermana**, que ganaba año tras año el concurso interno. No participó en este 2024, pero sí Adriana. Este es el segundo año en que prepara la colada morada y ya es la **triunfadora**. Algo que no es fácil de conseguir y más aún en un lugar en el que toda comida es muy buena. Eso quiere decir que es una receta probada.
+
+¿En qué consiste esta receta? Adriana también dice que es **amor**, pero “el secreto especial es la **guayaba** para cortar la **acidez** del **mortiño**, la **naranjilla**. Así, las personas que tienen gastritis no se enferman y pueden comer tranquilos”, dice.
+
+Ella sí prepara las **guaguas de pan** y también ofrece **quesadillas**, por si acaso a alguien quiera algo diferente. Pero se ríe cuando dice que tiene “guaguas machos y guaguas hembras”. Es por el color de la decoración: rosado, para las mujeres, y azul, para los hombres.
+
+Es tan famosa su **colada morada,** que los **pedidos** para llevar llegan por **cientos**. Y es verdad: hay algo especial en la **textura** \-seguramente por la guayaba, que hace que sea una de las serias competidoras, y eso que solo lleva dos años preparando la colada morada[.](https://es.wikipedia.org/wiki/Colada_morada "https://es.wikipedia.org/wiki/Colada_morada")
+
+  
+
+La CIDH visitó a Jorge Glas en La Roca
+======================================
+
+El objetivo de la CIDH, con la visita a Jorge Glas, es constatar el estado en el que se encuentra el exvicepresidente.
+----------------------------------------------------------------------------------------------------------------------
+
+![La CIDH visitó a Jorge Glas en La Roca.](https://www.elcomercio.com/wp-content/uploads/2022/11/Jorge_Glas.jpg)
+
+La **Comisión Interamericana de Derechos Humanos (CIDH)** visitó al exvicepresidente **Jorge Gla**s en la cárcel de máxima seguridad, **La Roca**, la tarde de este lunes 28 de octubre de 2024.
+
+Jorge Glas, **sentenciado y procesado** en varios casos, permanece en La Roca desde el 6 de abril, un día después de ser capturado, durante una incursión policial en la **Embajada de México en Quito**.
+
+### Más noticias:
+
+* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
+* [Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos](https://www.elcomercio.com/actualidad/politica/rafael-correa-jorge-glas-con-prohibicion-de-ingreso-eeuu-corrupcion.html "Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos")
+
+La visita de la CIDH a Jorge Glas en La Roca
+--------------------------------------------
+
+Una delegación de la **Comisión Interamericana de Derechos Humanos (CIDH)** llegó este lunes hasta La Roca, la cárcel de máxima seguridad de Ecuador, para realizar una visita a Jorge Glas.
+
+La visita al exvicepresidente y líder del correísmo se produce a pedido de la **defensa** del exvicepresidente y del “Comité Internacional para la Libertad de Jorge Glas”.
+
+Estos dos frentes solicitan a la CIDH que amplíe las **medidas cautelares** que ya dictó en 2019 a favor de Glas.
+
+La defensa de Glas busca su **excarcelación**, el reconocimiento del Estado como asilado político y que se le otorgue un salvoconducto para entregarlo a México.
+
+El ingreso de la delegación de la **CIDH** se dio pasadas las 13:30, de este lunes 28 de octubre.
+
+Un convoy de **diez vehículos** escoltados por policías llegaron hasta el centro carcelario ubicado en la ciudad portuaria de Guayaquil e ingresaron por la puerta principal.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/cidh-visita-jorge-glas-1024x683.jpg)
+
+Vehículos de la delegación de la CIDH ingresando a La Roca. Foto: API.
+
+En los exteriores de la cárcel, varios **policías** resguardaban la entrada.
+
+Esto, mientras **simpatizantes** del exvicepresidente pedían su libertad, frente a La Roca.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/cidh-visita-jorge-glas-1-1024x683.jpg)
+
+Simpatizantes del exvicepresidente afuera de La Roca. Foto: API.
+
+Glas fue sentenciado y es procesado
+-----------------------------------
+
+Glas fue la mano derecha del expresidente Rafael Correa, fue su **Vicepresidente** y también **Ministro de Sectores Estratégicos**.
+
+Pese a los procesos legales por los que se le ha sentenciado y procesado, el movimiento del **correísmo** Revolución Ciudadana, sostiene que es un perseguido político.
+
+En el momento de su detención en la **Embajada de México en Quito**, Glas tenía pendiente terminar de cumplir una pena de **ocho años** de cárcel por dos condenas por **corrupción** dictadas en 2017 y 2020.
+
+De esos ocho años, ya había purgado alrededor de **cinco años,** cuando salió en libertad, a finales de 2022, por orden de un juez que fue condenado por prevaricato.
+
+La orden judicial de detención contra Glas fue emitida en el marco de un tercer proceso penal en su contra por **presunto peculado**.
+
+Esto, en el caso **Reconstrucción de Manabí,** por el terremoto ocurrido en 2016.
+
+México y Ecuador se han contrademandado ante la **Corte Internacional de Justicia (CIJ)** por los hechos ocurridos el 5 de abril.
+
+Los dos países se acusan de haber transgredido **convenios y normas internacionales.**
+
+Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante
+============================================================================
+
+El médico recibió medidas cautelares mientras se investiga su presunta responsabilidad en el abuso sexual.
+----------------------------------------------------------------------------------------------------------
+
+![El galeno trabajaba en el dispensario médico de un colegio de Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/10/medico-abuso-sexual-cuenca.jpg)
+
+Un **médico** que trabajaba en el dispensario de un colegio de **Cuenca** fue llamado a juicio para investigar su responsabilidad en un **presunto abuso sexual** contra un estudiante.
+
+### Más noticias
+
+* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
+* [Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-pruebas-presentadas-fiscalia-primera-semana-audiencias.html "Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias")
+* [Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular](https://www.elcomercio.com/actualidad/ecuador/comision-asamblea-fiscalizacion-fallas-telefonia-celular-claro-movistar.html "Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular")
+
+Según dio a conocer Fiscalía, la mañana del 30 de marzo de 2022, un **adolescente de 15 años** tuvo un sangrado en la nariz por lo que su profesora le envió al **centro médico** de la unidad educativa para que lo atendieran.
+
+Al llegar, el galeno **Juan Carlos H.** lo recibió y le pidió que se acostará en la camilla. Al momento de revisarlo, según contó el menor de edad, **el médico le habría tocado sus partes íntimas**.
+
+El adolescente salió del lugar y de inmediato le contó los hechos a la profesora, quien notificó a las autoridades de la institución.
+
+Desde allí se remitió a Fiscalía el **informe** de situaciones de violencia, con el cual se inició la investigación del caso.
+
+Médico recibió medidas cautelares
+---------------------------------
+
+Durante la audiencia de evaluación de juicio, Fiscalía presentó como pruebas los **testimonios** del menor de edad, de su madre, de la profesora y de la psicóloga del colegio que evaluó a la presunta víctima.
+
+Además, se presentaron los informes de las **pericias** de entorno social y psicológica, así como el reporte emitido por la institución educativa, entre otros documentos.
+
+Tras analizar las pruebas, el Juez del caso **ratificó las medidas cautelares** para Juan Carlos H., que incluyen la presentación periódica y prohibición de salida del país.
+
+También confirmó **medidas de protección** a favor del adolescente.
+
+Por el delito de abuso sexual, el acusado podría enfrentar una pena de **tres a cinco años** de cárcel.
+
+Cortes de luz en Cuenca para este martes 29 de octubre
+======================================================
+
+Centrosur detalló los 17 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
+------------------------------------------------------------------------------------------------------------------
+
+![Cuenca tendrá cortes de hasta 14 horas este martes 29 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-cortes-luz-29-octubre.jpg)
+
+La Empresa Eléctrica **Centrosur** detalló el cronograma de **cortes de luz** que tendrá **Cuenca** este **martes 29 de octubre** de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Quito este martes 29 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-29-octubre.html "Cortes de luz en Quito este martes 29 de octubre")
+* [Cortes de luz en Guayaquil este martes 29 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-martes-29-octubre.html "Cortes de luz en Guayaquil este martes 29 de octubre")
+* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
+
+Cortes de luz en Cuenca para este martes 29 de octubre
+------------------------------------------------------
+
+La capital de Azuay mantendrá **apagones programados** de entre **10 y 14 horas**, distribuidos en **dos y tres franjas horarias**.
+
+La suspensión del servicio eléctrico contempla **racionamientos** que cubren la madrugada, mañana, tarde y noche.
+
+Las **zonas residenciales** de Cuenca tendrán 14 distintos **horarios** de cortes de luz.
+
+Mientras que el **sector industrial** tendrá apagones de **siete** y **12 horas**, en horarios de 00:00 a 07:00 y de 00:00 a 05:00 y de 10:00 a 17:00.
+
+La entidad no explicó los criterios utilizados para la **duración diferenciada** de los racionamientos.
+
+Te compartimos el cronograma completo de apagones por barrios, y los horarios para el resto de **Azuay**, **Cañar y Morona Santiago**.
+
+Gobierno prevé finalizar con los cortes de luz en diciembre
+-----------------------------------------------------------
+
+Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+
+Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+
+“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
+
+El Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
+
+“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
+
+Los 46 ganadores del Balón de Oro desde su creación en 1956
+===========================================================
+
+Rodri se convirtió en el jugador número 46 en ganar el Balón de Oro, y en el segundo español en lograrlo.
+---------------------------------------------------------------------------------------------------------
+
+![Rodri con el Balón de Oro que ganó en la premiación de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/oro_palmares_1.jpg)
+
+46 son los futbolistas que han ganado el Balón de Oro desde 1956**, año en el que Gabriel Hanot**, director de la revista France Football, creó el premio que con el pasar del tiempo ha cobrado relevancia global.
+
+En un principio el Balón de Oro **estaba destinado a jugadores de nacionalidad** europeo que jugaran en Europa.
+
+### Más noticias:
+
+* [Daniel Pintado busca el premio al atleta del año en el mundo](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-candidato-atleta-masculino-ano-world-athletics.html "Daniel Pintado busca el premio al atleta del año en el mundo")
+* [Jugadores de El Nacional exigen sueldo tras caer con Orense](https://www.elcomercio.com/deportes/futbol/sueldos-deudas-nacional-orense-liga-pro.html "Jugadores de El Nacional exigen sueldo tras caer con Orense")
+* [Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-jr-respalda-a-jugadores-del-barcelona-tras-ser-victimas-de-racismo.html "Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo")
+
+En 1995 se hace una **primera modificación a esa regla** y se incluyó a los futbolistas no europeos que jugarán en cualquier liga de Europa.
+
+Desde 2007 se eliminaron **todas las restricciones y cualquier jugador** del mundo puedo competir por el premio.
+
+El argentino Lionel Messi es el más ganador con ocho. Le siguen Cristiano Ronaldo (5), Michel Platini (3), Johan Cruyff (3), **Franz Beckenbauer (2), Ronaldo Nazário (2), Alfredo Di Stéfano (**2), Kevin Keegan (2) y Karl-Heinz Rummenigge.
+
+Rodri se convirtió en el **segundo hombre nacido en España que gana el Balón de Oro**, 64 años después de que Luis Suárez se impusiera en 1960, mientras que Aitana Bonmatí completó un doblete histórico para el fútbol español.
+
+Alfredo Di Stéfano, nacido en Argentina, **pero nacionalizado español, lo ganó en dos ocasiones**, en la segunda edición del galardón, en 1957, y en la cuarta, dos años más tarde, cuando el premio estaba reservado a futbolistas europeos.
+
+Rodri es, además, el **primer jugador del Machester City que se hace con el premio**, después de que sus compañeros Kevin de Bruyne, en 2022, y Erling Haland el pasado año, subieran al podio, como tercero y segundo respectivamente.
+
+Palmarés del Balón de Oro
+-------------------------
+
+No te pierdas - El Confesionario
+--------------------------------
+
+Tres ríos desbordados en Ecuador este lunes 28 de octubre ¿Cuáles son los daños?
+================================================================================
+
+La Secretaría Nacional de Gestión de Riesgos reportó tres ríos desbordados y cinco con tendencia a subir de nivel, en Ecuador.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Tres ríos desbordados en Ecuador, según el reporte de la Secretaría Nacional de Gestión de Riesgos.](https://www.elcomercio.com/wp-content/uploads/2024/10/rios-desbordados-ecuador.jpg)
+
+Tres **ríos** están desbordados en **Ecuador** este lunes 28 de octubre de 2024.
+
+La **Secretaría Nacional de Gestión de Riesgos** reporto también que cinco ríos tienen tendencia a **subir de nivel.**
+
+### Más noticias:
+
+* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
+* [Embalse de Mazar está cerca del nivel mínimo de operación](https://www.elcomercio.com/actualidad/negocios/el-embalse-de-mazar-se-acerca-nuevamente-a-su-nivel-mas-critico.html "Embalse de Mazar está cerca del nivel mínimo de operación")
+
+Los ríos desbordados en Ecuador y los daños causados
+----------------------------------------------------
+
+**Tres** ríos están desbordados en Ecuador y **cinco** con tendencia a subir de nivel, según el reporte de la Secretaría Nacional de Gestión de Riesgos, con **corte a las 19:00**.
+
+Estos desbordamientos han causado algunos **daños**.
+
+El primer desbordamiento es del **río Anzu**, en el sector San Gabriel, en la parroquia Puerto Napo, cantón Tena, provincia del **Napo**.
+
+La Secretaría de Riesgos informó que, debido a las precipitaciones de hoy, durante la **madrugada y la mañana** se produjo el incremento de este río.
+
+“Causando el desbordamiento en el margen derecho en las **comunidades San Gabriel y El Inglés**“, indicó la institución.
+
+A las 19:00, no había **lluvias** en la zona.
+
+El segundo desbordamiento es del **río Macuma**, en el sector puente sobre el río, paso Pimpints Chankuap, parroquia y cantón Taisha, en **Morona Santiago**.
+
+La Secretaría señaló que la presencia de **precipitaciones** inició la noche del domingo 27 de octubre y se extendió hasta hoy.
+
+Por esta razón, se produjo el incremento de caudal del río Macuma, lo que ocasionó el **colapso estructural** del puente.
+
+Finalmente, el tercer desbordamiento es en el **río Upano**, en la parroquia Macas, del cantón Morona, de **Morona Santiago**.
+
+La Secretaría informó que se mantiene el río desbordado y la **vía de primer orden está cerrada**.
+
+Los cinco ríos con tendencia a subir de nivel están en las provincias de **Sucumbíos y Orellana**.
+
+Cuatro están en Sucumbíos: **Aguarico**, en el sector de Las Chozas; **Putumayo y San Miguel** en el sector del malecón; y **Lumbaqui**.
+
+Uno en Orellana: **Coca**, en el puente sobre el río, en el catón Joya De Los Sachas.
+
+> [#MoronaSantiago](https://twitter.com/hashtag/MoronaSantiago?src=hash&ref_src=twsrc%5Etfw) | Cerrada la vía Macas-Puyo, en el ingreso al puente sobre el río Upano, por aumento de caudal e inundación de la variante provisional.  
+>   
+> ⚠️Vía alterna: Sucúa-Seipa-Sevilla. [pic.twitter.com/8rj06cclKC](https://t.co/8rj06cclKC)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 28, 2024](https://twitter.com/ObrasPublicasEc/status/1850946005837173085?ref_src=twsrc%5Etfw)
+
+Aitana Bonmatí y un doblete el Balón de Oro Femenino
+====================================================
+
+Aitana Bonmatí, futbolista española del FC Barcelona, se llevó por segundo año consecutivo el Balón de Oro Femenino.
+--------------------------------------------------------------------------------------------------------------------
+
+![Aitana Bonmatí, ganadora del Balón de Oro Femenino 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/d9db21f83b13f46067b274aa345a88e0dd76f900.jpg)
+
+La española **Aitana Bonmatí** logró este lunes 28 de octubre su segundo **Balón de Oro** consecutivo tras el que recibió hace un año, y que premia su contribución a la temporada dominadora del FC Barcelona en el fútbol femenino.
+
+“**Estoy muy agradecida**“, afirmó la centrocampista, de 26 años, al recoger el trofeo, y recalcó que, como ella dice siempre, “nos lo hemos merecido todas”[.](https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD "https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD")
+
+### Más noticias:
+
+* [La Selección de Ecuador ‘estuvo presente’ en el Balón de Oro](https://www.elcomercio.com/deportes/seleccion-ecuador-balon-oro-emiliano-martinez.html "La Selección de Ecuador ‘estuvo presente’ en el Balón de Oro")
+* [Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-companeros-arropan-balon-oro.html "Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro")
+* [Vinícius Júnior y el Balón de Oro que no fue](https://www.elcomercio.com/deportes/futbol/vinivius-junior-balon-oro-rodri.html "Vinícius Júnior y el Balón de Oro que no fue")
+
+“Juego un deporte colectivo y estoy rodeado de **jugadoras maravillosas**, tanto en mi equipo como en la selección española”, añadió.
+
+También manifestó su agradecimiento al **FC Barcelona** y “a todos los que me han ayudado a ser mejor jugadora”, además de que recordó algunos de los momentos clave de la pasada temporada, como la última Liga de Campeones lograda en **Bilbao** en mayo pasado.
+
+Aitana Bonmatí y su segundo Balón de Oro
+----------------------------------------
+
+Explicó que el primer Balón de Oro no le dio más confianza: **“Es una cuestión de experiencia, no de trofeos**“.
+
+Aitana Bonmatí repite con este nuevo galardón consecutivo el doblete que su compañera del Barcelona **Alexia Putellas** consiguió en 2021 y 2022.
+
+Por ello, consideró “único” que las jugadoras de su club hayan logrado **cuatro balones de oro** consecutivos.
+
+Además, dos compañeras de equipo, la noruega **Caroline Graham Hansen** y la española **Salma Paralluelo**, quedaron en segundo y tercer lugar para completar un podio azulgrana.
+
+Un Balón de Oro con figuras
+---------------------------
+
+La galardonada, que recogió el premio de la actriz estadounidese **Natalie Portman**, que ha creado un club de fútbol femenino en Los Angeles.
+
+La jugadora logró la pasada temporada con su equipo la **Liga de Campeones**, así como los títulos de liga, copa y supercopa a nivel nacional. Fue nombrada mejor jugadora de Liga de Campeones y de la liga española
+
 La Serie B conocerá al nuevo descendido en la fecha final
 =========================================================
 
@@ -230,753 +961,3 @@ El video más viral hasta ahora fue compartido por el parapentista estadounidens
 Otro parapentista, Alex Lang, también capturó imágenes de lo que se cree es el mismo perro, describiéndolo como “el rey de la pirámide”.
 
 Estos avistamientos no solo entretienen, sino que también han despertado un renovado interés por la historia y la cultura de Egipto.
-
-Cortes de luz en Guayaquil este martes 29 de octubre
-====================================================
-
-Los horarios de los cortes de luz en Guayaquil para este martes 29 de octubre se mantienen hasta el miércoles.
---------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil son hasta en tres franjas horarias el martes 29 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-guayaquil-martes-29-octubre.jpg)
-
-Los **cortes de luz** en **Guyaquil** para este **martes 29 de octubre** se mantienen con una duración de hasta 14 horas.
-
-**CNEL** definió una programación con los mismos horarios de lunes hasta el miércoles de esta semana.
-
-### Más noticias:
-
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-
-Cortes de luz en Guayaquil este martes 29 de octubre
-----------------------------------------------------
-
-El Gobierno anunció este domingo que los cortes de luz de **hasta 14 horas** se mantienen en Guayaquil y el resto del país.
-
-Aunque este lunes, Cenace comunicó que una mejoría en **Coca Codo Sinclair** permitía reducir los horarios de los cortes de luz, esto no ocurrió en varios sectores de la capital.
-
-Este martes, el presidente Daniel Noboa, acompañado de Inés Manzano, ministra de Energía encargada, viajará a **Colombia**.
-
-Si bien la agenda oficial es una **cumbre ambiental,** el objetivo de las autoridades ecuatorianas también es buscar acercamientos con sus pares colombianos para que el vecino **país venda**, nuevamente, energía a Ecuador.
-
-Esta es una de las gestiones del Gobierno de Noboa para disminuir los efectos de la **crisis energética** en el país.
-
-El Gobierno ya no pudo cumplir con el ofrecimiento de una **disminución paulatina** de las horas en los cortes de luz hasta el 10 de noviembre, por las graves condiciones hidrológicas.
-
-La dependencia de las lluvias, el bajo caudal en los ríos y las bajas cotas en las **hidroeléctricas** hizo dar marcha atrás al Presidente.
-
-Ahora, la promesa es que, con las medidas que se están tomando, para **diciembre**, existan cortes de luz de pocas horas o que ya no existan cortes de luz.
-
-Mientras tanto, los cortes de luz en Guayaquil están fijados en **tres franjas horarias**.
-
-Al ser tan prolongados, la disposición del **Ministerio de Educación** respecto a las clases fue que la jornada nocturna se mantenga en modalidad virtual.
-
-A continuación, los **cortes de luz** en Guayaquil para este martes 29 de octubre:
-
-¿Cuándo será el Black Friday?
-=============================
-
-El Black Friday es un día destinado a las compras, donde los consumidores aprovechan ofertas y descuentos.
-----------------------------------------------------------------------------------------------------------
-
-![El Black Friday comenzó en las tiendas de Estados Unidos, pero se popularizó en todo el mundo en la última década](https://www.elcomercio.com/wp-content/uploads/2024/10/black-friday.jpg)
-
-El **Black Friday** es un día destinado a las **compras**, que ha ganado su popularidad a nivel mundial por los grandes **descuentos** que se obtienen en esta fecha.
-
-### Más noticias
-
-* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
-* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
-* [Aún quedan feriados en este 2024, ¿son recuperables?](https://www.elcomercio.com/actualidad/ecuador/aun-quedan-feriados-2024-ecuador-son-recuperables.html "Aún quedan feriados en este 2024, ¿son recuperables?")
-
-La **celebración** nació en Estados Unidos como una oportunidad para que los comercios incrementen sus ventas, a la vez que los consumidores se benefician previo a la temporada de **Navidad**.
-
-Historia del Black Friday
--------------------------
-
-El **Black Friday** tiene sus orígenes en Filadelfia, en el estado de **Pensilvania**, en la década de 1960.
-
-Originalmente, los policías usaron esta frase para describir el intenso tránsito peatonal y vehicular que ocurría después del **Día de Acción de Gracias**.
-
-Con el tiempo, el significado cambió y empezó a asociarse con las grandes **promociones** y descuentos que ofrecían las tiendas.
-
-Para la década de 1980, el Black Friday ya era conocido por ser el día en el que los comercios pasaban de números rojos a números negros, haciendo referencia a un cambio contable de pérdidas a **ganancias**.
-
-Desde entonces, el evento ha crecido hasta convertirse en una de las fechas comerciales más esperadas del año.
-
-En esta fecha, millones de consumidores buscan aprovechar las mejores ofertas en **tecnología, moda y productos para el hogar**.
-
-¿Cuándo se celebra el Black Friday?
------------------------------------
-
-El **Viernes Negro** se celebra luego del Día de Acción de Gracias. Esta festividad, de gran importancia para Estados Unidos, se conmemora cada cuarto jueves de noviembre.
-
-Las familias aprovechan esta ocasión para **reunirse y compartir** una comida especial que tradicionalmente incluye pavo, puré de papas, salsa de arándanos y pastel de calabaza.
-
-Este año, el Día de Acción de Gracias coincide con el jueves 28 de noviembre, por lo que el Black Friday se realizará el **viernes 29 de noviembre**.
-
-En la actualidad, muchos comercios comienzan sus ofertas días antes, creando lo que se conoce como la semana del Black Friday o ‘**Cyber Week**‘, que culmina con el ‘**Cyber Monday**‘, un día dedicado a las **compras en línea**.
-
-Estas prácticas no han sido ajenas a las **tiendas de Ecuador**, las cuales han adoptado estas fechas como oportunidades de incrementar sus ventas.
-
-Cuatro latinos están en el TOP 10 de cantantes más escuchados del mundo
-=======================================================================
-
-Cuatro cantantes latinos están en la lista de los más escuchados a nivel mundial.
----------------------------------------------------------------------------------
-
-![Taylor Swift lidera el Top 10 de artistas más escuchadas en el mundo. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo203.jpg)
-
-Cuatro latinos están en el TOP 10 de cantantes más escuchados del mundo.
-
-Los artistas más escuchados del **mundo** son objeto de atención en la industria musical, especialmente en plataformas de streaming como **Spotify**.
-
-Según el informe de **Goldman Sachs Global Investment Research** (2024), [**Taylor Swift**](https://www.taylorswift.com/ "https://www.taylorswift.com/") lidera la lista con **29,1 mil millones** de reproducciones. ¿Quién está en segundo lugar? ¿Quiénes son los latinos más escuchados?
-
-### **Más noticias:**
-
-* [Madonna y su última lección de rebeldía](https://www.elcomercio.com/tendencias/entretenimiento/madonna-leccion-rebeldia-concierto-reina-pop.html "https://www.elcomercio.com/tendencias/entretenimiento/madonna-leccion-rebeldia-concierto-reina-pop.html")
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [La novia de Liam Payne reapareció en redes sociales con una conmovedora revelación](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-one-direction-novia-redes-sociales.html")
-
-**Cuatro latinos están en el TOP 10 de cantantes más escuchados**
------------------------------------------------------------------
-
-La **cantante estadounidense** Taylor Swift registra un año destacado, alcanzando más de **103,6 millones** de oyentes **mensuales**. Esas cifras la convierten en la artista femenina más popular en la plataforma.
-
-> [View this post on Instagram](https://www.instagram.com/reel/C57BKuWO8CA/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Taylor Swift (@taylorswift)](https://www.instagram.com/reel/C57BKuWO8CA/?utm_source=ig_embed&utm_campaign=loading)
-
-En segundo lugar se encuentra **Bad Bunny**, con **16,4 mil millones** de reproducciones. El reguetonero puertorriqueño capturó la atención global con su estilo único y mantiene una fuerte presencia en las listas de popularidad.
-
-> [View this post on Instagram](https://www.instagram.com/p/C228L9SJZrw/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Benito (@badbunnypr)](https://www.instagram.com/p/C228L9SJZrw/?utm_source=ig_embed&utm_campaign=loading)
-
-En tercer lugar -en cambio- está **The Weeknd**; conocido por su mezcla de R&B y pop suma **14,1 mil millones** de reproducciones.
-
-**Drake**, el rapero **canadiense**, sigue de cerca a **The Weeknd** con **14 mil millones** de reproducciones. Su habilidad para fusionar géneros y conectar emocionalmente con su audiencia consolida su estatus en la música actual.
-
-La **lista** incluye a **Peso Pluma** con **10,5 mil millones**, **Feid** con **7,9 mil millones**, y **Karol G** con **7,4 mil millones**.
-
-**TOP 10 de los artistas más escuchados del mundo**
----------------------------------------------------
-
-* Taylor Swift 29,1 mil millones
-* Bad Bunny 16,4 mill millones
-* The Weeknd 14,1 mil millones
-* Drake 14 mil millones
-* Peso Pluma 10,5 mil millones
-* Feid 7,9 mil millones
-* Karol G 7,4 mil millones
-* SZA 7,1 mil millones
-* Kanye West 6,9 mil millones
-* Lana del Rey 6, 9 mil millones
-
-Cortes de luz en Quito este martes 29 de octubre
-================================================
-
-Los cortes de luz en Quito este martes 29 de octubre son de hasta 14 horas, divididas hasta en dos franjas horarias.
---------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este martes 29 de octubre son de hasta 14 horas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-quito-martes-29-octubre.jpg)
-
-Los **cortes de luz** en **Quito** para este martes 29 de octubre se mantienen con una duración de hasta 14 horas.
-
-La **Empresa Eléctrica de Quito** definió una programación con los mismos horarios de lunes hasta el miércoles de esta semana.
-
-### Más noticias:
-
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-
-El Gobierno anunció este domingo que los cortes de luz de **hasta 14 horas** se mantienen en Quito y el resto del país.
-
-Aunque este lunes, Cenace comunicó que una mejoría en **Coca Codo Sinclair** permitía reducir los horarios de los cortes de luz, esto no ocurrió en varios sectores de la capital.
-
-Este martes, el presidente Daniel Noboa, acompañado de Inés Manzano, ministra de Energía encargada, viajará a **Colombia**.
-
-Si bien la agenda oficial es una **cumbre ambiental,** el objetivo de las autoridades ecuatorianas también es buscar acercamientos con sus pares colombianos para que el vecino **país venda**, nuevamente, energía a Ecuador.
-
-Esta es una de las gestiones del Gobierno de Noboa para disminuir los efectos de la **crisis energética** en el país.
-
-El Gobierno ya no pudo cumplir con el ofrecimiento de una **disminución paulatina** de las horas en los cortes de luz hasta el 10 de noviembre, por las graves condiciones hidrológicas.
-
-La dependencia de las lluvias, el bajo caudal en los ríos y las bajas cotas en las **hidroeléctricas** hizo dar marcha atrás al Presidente.
-
-Ahora, la promesa es que, con las medidas que se están tomando, para **diciembre**, existan cortes de luz de pocas horas o que ya no existan cortes de luz.
-
-Mientras tanto, los cortes de luz en Quito están fijados en **dos franjas de seis o siete horas cada una**, dependiendo del sector.
-
-Al ser tan prolongados, la disposición del **Ministerio de Educación** respecto a las clases fue que la jornada nocturna se mantenga en modalidad virtual.
-
-A continuación, los **cortes de luz** en Quito para este martes 29 de octubre:
-
-Daniel Noboa habló sobre la posibilidad de tener energía nuclear en Ecuador
-===========================================================================
-
-Daniel Noboa se refirió en una entrevista el domingo 27 de octubre sobre el tema de la energía nuclear en el Ecuador.
----------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa en una entrevista para TC Televisión el pasado 27 de octubre de 2024,](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa-2.jpg)
-
-El pasado domingo 27 de octubre el presidente **Daniel Noboa** realizó una entrevista en TC Televisión en el que mencionó **varios temas energéticos**. Los cortes de luz en Ecuador ahora son de hasta **14 horas en varias zonas a escala nacional**.
-
-### Más noticias
-
-* [Daniel Noboa definió la comitiva que le acompañará a Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-definio-la-comitiva-que-le-acompanara-a-colombia.html "Daniel Noboa definió la comitiva que le acompañará a Colombia")
-* [Gobierno de Daniel Noboa firmó contrato para inicio de un proyecto geotérmico](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-contrato-inicio-proyecto-geotermico.html "Gobierno de Daniel Noboa firmó contrato para inicio de un proyecto geotérmico")
-* [Ministra de Energía habló de los horarios de cortes de luz para las próximas semanas](https://www.elcomercio.com/actualidad/negocios/ministra-energia-refirio-horarios-cortes-luz-proximas-semanas.html "Ministra de Energía habló de los horarios de cortes de luz para las próximas semanas")
-
-El mandatario comenzó con su intervención, a las 20:30 de este domingo 27 de octubre de 2024, hablando del porqué de los apagones.
-
-El Presidente explicó la situación actual del país sobre e**l tema energético**. Uno de los puntos llamativos de la entrevista fue que **Daniel Noboa** habló sobre **energía nuclear**. “Estamos conversando con el gobierno de Francia inclusive para la **alternativa de energía nuclear**“, dijo Noboa.
-
-También se refirió a la razón de incrementar los **racionamientos de energía** cuando se había mencionado que iban a reducir paulatinamente. “No era basado en **populism**o, Era basado en empatía. Las decisiones que tomamos fueron basadas en un escenario con un **70% de probabilidad**, inclusive con un poco más”.
-
-La comitiva que acompañará a Daniel Noboa a Colombia
-----------------------------------------------------
-
-El presidente Daniel Noboa habló sobre la necesidad de que **Colombia** vuelva a vender energía a Ecuador. Colombia decidió suspender la venta de **energía a Ecuador** porque también atravesaba por malas condiciones climáticas.
-
-El gobierno colombiano restringió la **exportación de electricidad a Ecuador** por el bajo nivel de los embalses, también afectados por la sequía. Aunque el encuentro oficial será la **Conferencia de las Naciones Unidas Sobre Biodiversidad 2024**, Noboa y su comitiva buscarán acercamientos por la crisis energética.
-
-> El Gobierno Nacional, a pesar de los problemas heredados, trabaja por resolver y atender todas las necesidades de los ecuatorianos.[#NoboaEnTC](https://twitter.com/hashtag/NoboaEnTC?src=hash&ref_src=twsrc%5Etfw)[#UniendoEsfuerzos](https://twitter.com/hashtag/UniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/vAFW9W1Swt](https://t.co/vAFW9W1Swt)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 28, 2024](https://twitter.com/Presidencia_Ec/status/1850911179679399976?ref_src=twsrc%5Etfw)
-
-Con este fin, la comitiva está integrada por la ministra de Energía encargada, Inés Manzano y la canciller **Gabriela Sommerfeld**. Además, por el secretario general de Integridad Pública, **Julio Neira Hanze**.
-
-En declaraciones al diario colombiano La República, Manzano confirmó que el propósito es gestionar la compra de electricidad. **Inés Manzano**, ministra de Energía encargada, tendrá un encuentro con Andrés Camacho, ministro colombiano, la próxima semana para insistir que vuelvan a vender recursos energéticos.
-
-La Selección de Ecuador ‘estuvo presente’ en el Balón de Oro
-============================================================
-
-La Selección de Ecuador hizo su aparición en el Balón de Oro en el video del Premio Yashin, que ganó Emiliano Martínez.
------------------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi conduce un balón ante Carlos Gruezo de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000153402.jpg)
-
-El partido entre la **Selección de Ecuador y Argentina** en la Copa América se rememoró y dio apertura a los combinados en la gala del Balón de Oro. Escenas del choque entre tricolores y gauchos se utilizaron para el video que destacaba la figura de **Emiliano ‘Dibu’ Martínez**, ganador del premio Yashin.
-
-Después de que se anunciase al arquero del Aston Villa como el mejor del mundo en su posición y se le otorgara el reconocimiento, las imágenes de sus momentos más destacados se proyectaron. Él, en el escenario junto a su compañero **Lautaro Martínez** -delantero de la ‘Albiceleste’-, presenció sus intervenciones claves, más de una ante la Tri.
-
-### Más noticias:
-
-* [Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-companeros-arropan-balon-oro.html "Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro")
-* [España eliminó a la Selección de Ecuador en el Mundial Sub 17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-espana-mundial-partido-resultado.html "España eliminó a la Selección de Ecuador en el Mundial Sub 17")
-* [Desentrañando el proceso de la Selección de Ecuador, ¿existe?](https://www.elcomercio.com/deportes/futbol/desentranando-el-proceso-de-la-seleccion-de-ecuador-existe.html "Desentrañando el proceso de la Selección de Ecuador, ¿existe?")
-
-Aquel duelo que tuvo como protagonistas a gauchos y tricolores fue fundamental para su selección y para que él se impulse hacia el trofeo que recibió. Este marcó un punto de inflexión para las dos escuadras y enrumbó a **Argentina** a hacerse con el título continental.
-
-> ¿CÓMO ES EL DIBU MARTÍNEZ?  
->   
-> Lautaro Martínez: “para nosotros Emiliano es especial porque primero es ganador y eso es importante dentro de un equipo. Ayuda a los más jóvenes a los chicos qué vienen a entrenar con nosotros en la selección, es una gran persona”.[#BallonDor](https://twitter.com/hashtag/BallonDor?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/C0wQaVPhpI](https://t.co/C0wQaVPhpI)
-> 
-> — 🍒Charis 🍒 T.S our mastermind (@furiouschari) [October 28, 2024](https://twitter.com/furiouschari/status/1851012807564857429?ref_src=twsrc%5Etfw)
-
-El compromiso entre las dos escuadras se dirimió en penales en los cuartos de final de la Copa América. Los lanzamientos que **Emiliano ‘Dibu’ Martínez** atajó fueron los que se mostraron, así como otras de sus tapadas en aquel duelo.
-
-El partido entre la Selección de Ecuador y Argentina que estuvo en el Balón de Oro
-----------------------------------------------------------------------------------
-
-La **Selección de Ecuador** tuvo uno de sus duelos más intensos dentro de la Copa América ante Argentina. El choque terminó 1-1 en los 90 minutos reglamentarios y convirtió a la Tri en el único equipo de todo el torneo que le pudo marcar a la ‘Albiceleste’.
-
-Pese a que el combinado tricolor fue el primero en ponerse en desventaja en el marcador, tras un gol de **Lisandro Martínez**, este encontró la igualdad en los minutos finales. **Kevin Rodríguez**, que había ingresado desde el banco, puso el tanto con un tiro desde fuera del área.
-
-En la definición por penales, **Lionel Messi** erró el primero para los argentinos, sin embargo, Emiliano ‘Dibu’ Martínez salvó a su equipo. El guardameta consiguió parar los remates de Alan Minda y Ángel Mena.
-
-Un exDT de la Selección de Ecuador también estuvo presente
-----------------------------------------------------------
-
-La gala del Balón de Oro también contó con la presencia de un antiguo entrenador de la Selección de Ecuador. Este no solo asistió, sino que contó con protagonismo dentro del evento al entregar uno de los galardones.
-
-El estratega que estuvo presente fue **Jordi Cruyff**, quien estuvo en la Tri durante el 2020, previo al arribo de Gustavo Alfaro, y ahora es funcionario del **FC Barcelona** de España. Este otorgó el Premio Johan Cruyff, en honor a su padre, al mejor entrenador.
-
-El abandono es crueldad animal y se sanciona en Quito
-=====================================================
-
-El abandono de animales es una Infracción Muy Grave y se sanciona en el Distrito Metropolitano de Quito.
---------------------------------------------------------------------------------------------------------
-
-![El abandono es un acto de crueldad animal. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo202.jpg)
-
-El abandono es crueldad animal y se sanciona en Quito. El **abandono de animales** es un problema creciente que afecta tanto a los **seres vivos** como a la sociedad en su conjunto. En **Quito** \-por ejemplo- existe un **[perro callejero](https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html "https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html")** por cada 19 habitantes.
-
-Ese es el número que la **Unidad de Bienestar Animal** presentó tras una estimación realizada en **noviembre** de 2023. Y ese número -en lugar de disminuir- aumenta con el paso de los días.
-
-### **Más noticias:**
-
-* [Quito tiene un perro callejero por cada 19 habitante](https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html "https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html")
-* [Octubre es un mes crítico para los gatos negros ¿Por qué?](https://www.elcomercio.com/narices-frias/octubre-gatos-negros-cuidados-halloween.html "https://www.elcomercio.com/narices-frias/octubre-gatos-negros-cuidados-halloween.html")
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html")
-
-**El abandono es crueldad animal y se sanciona en Quito**
----------------------------------------------------------
-
-El pasado 15 de octubre de 2024, **Quito** fue testigo de otro caso de **abandono**, una de las peores formas de **crueldad animal**. Siete **cachorros** murieron tras pasar más de 12 horas dentro de una funda. Fueron abandonados en las vías del tren.
-
-Ese caso de **abandono** ocurrió a pesar de que en la [**Ordenanza Municipal**](https://bienestaranimal.quito.gob.ec/ "https://bienestaranimal.quito.gob.ec/") se estipula una sanción para el infractor.
-
-**¿Qué pasa con los animales abandonados?**
--------------------------------------------
-
-Los animales abandonados sufren traumas físicos y psicológicos significativos. Muchos enfrentan desnutrición, enfermedades y estrés, lo que aumenta el riesgo de contagiar enfermedades zoonóticas como la rabia y la leptospirosis.
-
-Además, estos seres vivos suelen estar desubicados y asustados, lo que puede llevarlos a reaccionar de manera agresiva hacia personas y otros animales
-
-**¿Cuál es la sanción para la persona que abandona a un animal?**
------------------------------------------------------------------
-
-El **abandono** está tipificado como una **Infracción Muy Grave** en la Ordenanza Municipal y se ‘castiga’ con una multa de 4 600 dólares.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBr3IW_KHgP/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBr3IW_KHgP/?utm_source=ig_embed&utm_campaign=loading)
-
-Todas las personas que abandonen “animales en lugares públicos o privados, en áreas urbanas o rurales, tales como centros de atención veterinaria, peluquerías y hoteles caninos, entre otros, así como en las  
-reservas naturales del Distrito Metropolitano de Quito” recibirán la multa.
-
-Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro
-=====================================================================
-
-Vinícius Júnior se unió al Real Madrid en julio de 2018 tras pagar más de 45 millones de euros al Flamengo.
------------------------------------------------------------------------------------------------------------
-
-![Vinicius Jr. durante el partido de la jornada 11 de LaLiga entre el Real Madrid y el FC Barcelona, el sábado 26 de octubre en el estadio Santiago Bernabéu, en Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/10/vini_apoyo_1.jpg)
-
-El brasileño **Vinícius Junior acabó segundo en la votación al Balón de Oro**, que reconoce al mejor futbolista de la pasada temporada, a pesar de que en los últimos días se dio por hecha su victoria, y algunos compañeros de equipo le arroparon en redes sociales con un mensaje común: “eres el mejor”.
-
-El Balón de Oro al **mejor jugador del mundo se entregó este lunes** 28 de octubre de 2024, en una ceremonia celebrada en París y que reconoció al español Rodri como el gran ganador de la noche.
-
-### Más noticias:
-
-* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
-* [Un Manchester United en crisis despide al entrenador Eric ten Hag](https://www.elcomercio.com/deportes/futbol/manchester-united-despide-eric-ten-hag-crisis.html "Un Manchester United en crisis despide al entrenador Eric ten Hag")
-* [Liga de Quito celebra el aniversario de su última Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-celebra-el-aniversario-de-su-ultima-copa-sudamericana.html "Liga de Quito celebra el aniversario de su última Copa Sudamericana")
-
-Tras la ceremonia, **Vinícius Júnior recibió el apoyo de sus compañeros**, que no dudaron en darle palabras de aliento.
-
-El más duro fue el francés Eduardo Camavinga, al culpar a la “política futbolística” como el motivo de que Vinícius no se llevase el Balón de Oro.
-
-“**POLÍTICA FUTBOLÍSTICA**. Mi hermano eres el mejor jugador del mundo y ningún premio puede decir lo contrario. Te quiero hermano “, escribió.
-
-“¡Eres el mejor y nadie te lo puede quitar! ¡El mejor!”, compartió Éder Militao.
-
-Carlo Ancelotti también reaccionó
----------------------------------
-
-Además de Andriy Lunin con una foto junto a Vinícius y el mensaje “eres el mejor”, también se posicionó su técnico, Carlo Ancelotti, quien fue nombrado mejor entrenador de la pasada temporada, **pero no acudió a recoger el premio**, después de que el Real Madrid cancelase su viaje a París para la gala al conocer que ni Vinícius ni Carvajal recibirían el Balón de Oro, considerándolo “una falta de respeto”, según pudo saber EFE de fuentes del club.
-
-“Quiero dar las gracias a mi Familia, a mi Presidente, a mi Club, a mis Jugadores y **sobre todo a Vini y Carvajal**”, publicó el entrenador italiano para agradecer el premio recibido.
-
-También Aurelien Tchouaméni reivindicó a sus compañeros: “**No están preparados**”, escribió haciendo mención al mensaje de Vinícius minutos después de que Rodrigo Hernández recibiera el Balón de Oro.
-
-“**Lo haré diez veces si es necesario. No están preparados**“, escribió el brasileño en su cuenta de X.
-
-Su excompañero Toni Kroos fue el primero en expresarse en sus redes sociales. Publicó una foto abrazado junto al brasileño con un mensaje: “El mejor”. Vinícius contestó a su excompañero: “¡Gracias Antonio!”.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Daniel Noboa definió la comitiva que le acompañará a Colombia
-=============================================================
-
-Uno de los objetivos de Daniel Noboa con la conformación de su comitiva es conseguir que Colombia vuelva a vender energía.
---------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa definió su comitiva para Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/10/daniel-noboa-comitiva-colombia.jpg)
-
-El presidente **Daniel Noboa** definió la comitiva oficial que acompañará a **Colombia** para la **Conferencia de las Naciones Unidas Sobre Biodiversidad 2024**.
-
-Uno de los objetivos del Gobierno de Daniel Noboa en este viaje es conseguir que Colombia vuelva a **vender** energía a Ecuador.
-
-### Más noticias:
-
-* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-
-La comitiva que acompañará a Daniel Noboa a Colombia
-----------------------------------------------------
-
-El domingo 27 de octubre, el presidente Daniel Noboa habló sobre la necesidad de que **Colombia** vuelva a vender energía a Ecuador.
-
-«Ví ahí en la prensa que (Gustavo Petro) hablaba de que hay que ayudar a Ecuador, el primero debería ser él. Estaríamos muy agradecidos y no es gratis, es **que venda** (energía)», señaló Noboa, en una entrevista con TC Televisión.
-
-Colombia decidió suspender la venta de energía a Ecuador porque también atravesaba por malas **condiciones climáticas**.
-
-El gobierno colombiano restringió la **exportación** de electricidad a Ecuador por el bajo nivel de los embalses, también afectados por la sequía. 
-
-Aunque el encuentro oficial será la **Conferencia de las Naciones Unidas Sobre Biodiversidad 2024**, Noboa y su comitiva buscarán acercamientos por la crisis energética.
-
-Con este fin, la comitiva está integrada por la ministra de Energía encargada, **Inés Manzano** y la canciller **Gabriela Sommerfeld.**
-
-Además, por el secretario general de Integridad Pública, **Julio Neira Hanze**.
-
-En declaraciones al diario colombiano La República, Manzano confirmó que el propósito es gestionar la compra de **electricidad**.
-
-Inés Manzano, ministra de Energía encargada, tendrá un encuentro con Andrés Camacho, ministro colombiano, la próxima semana para **insistir que vuelvan a vender recursos energéticos**.
-
-Actualmente, Ecuador atraviesa por una crisis energética con cortes de luz de **hasta 14 horas**.
-
-El presidente de Colombia, **Gustavo Petro**, mencionó la difícil situación de Ecuador debido a la sequía.
-
-Petro hizo un llamado a la **solidaridad** latinoamericana, a través de sus redes sociales.
-
-Vinícius Júnior y el Balón de Oro que no fue
-============================================
-
-Vinícius Júnior se quedó en la puerta de ganar su primer Balón de Oro. El galardón recayó en el español Rodri.
---------------------------------------------------------------------------------------------------------------
-
-![Vinícius Júnior con el Real Madrid en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/vini_jr_1.jpg)
-
-24 horas antes de que George Weah anunciase que **Rodrigo Hernández es el Balón de Oro**, Vinícius Junior estaba convencido de que sería él. También su club, patrocinadores… todo estaba preparado hasta que cinco horas antes todo cambió.
-
-El Real Madrid recibió **información de que no sería ninguno de sus futbolistas y se plantó**. No fue nadie del club a París y los 24 goles y 11 asistencias en 39 partidos, con doblete ‘Champions’ -con gol en la final- y Liga no fueron suficientes para que Vinícius Júnior viviera su gran noche.
-
-### Más noticias:
-
-* [España eliminó a la Selección de Ecuador en el Mundial Sub 17](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-femenina-espana-mundial-partido-resultado.html "España eliminó a la Selección de Ecuador en el Mundial Sub 17")
-* [Orense derrota a El Nacional y se suma a la pelea por la Liga Pro](https://www.elcomercio.com/deportes/futbol/orense-derrota-nacional-pelea-liga-pro.html "Orense derrota a El Nacional y se suma a la pelea por la Liga Pro")
-* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
-
-El brasileño se preparaba para un reconocimiento mundial. En las últimas semanas, l**os mensajes ya no eran esquivos y apuntaban** a Vinícius como el ganador. Compañeros; su entrenador Carlo Ancelotti; el director de relaciones institucionales del Real Madrid, Emilio Butragueño; rivales… Nadie lo ocultaba, pero todo cambió.
-
-El avión del Real Madrid que trasladaba a una expedición de unas 50 personas **se quedó en tierra a primera hora de la tarde**. El club tenía constancia de que ni Vinícius -ni Dani Carvajal- serían galardonados como mejor futbolista de la pasada temporada y decidió quedarse en tierra.
-
-Esta decisión, conocida a última hora, la catalogaron como una falta de respeto y no quisieron estar presentes donde “**al Real Madrid no se le respeta**”; a la vez que en el mensaje transmitido se incluyó a la UEFA en esta falta de respeto.
-
-Una UEFA con la que el Real Madrid mantiene sus diferencias debido a la Superliga y que esta edición de 2024 será la primera en la que entra como coorganizador del Balón de Oro junto a ‘France Football’.
-
-Mensaje claro del conjunto blanco mientras **Vinícius veía como se esfumaba su gran premio individual** con solo 24 años tras una trayectoria en la élite que arrancó con muchas dudas, que empezó a disipar en 2021.
-
-Tras la gala, el mediocampista utilizó sus redes sociales para dejar un desafiante mensaje: “Lo haré 10 veces si es necesario. No están preparados”.
-
-Vinícius en el Real Madrid
---------------------------
-
-El brasileño llegó al Real Madrid con solo 18 años, sin experiencia en la élite y a **cambio de unos 45 millones de euros.** Fue de los primeros jugadores que demostraron un cambio de filosofía en el club: adelantarse a otros grandes clubes por talento extranjero -en el caso del conjunto blanco, sobre todo, el brasileño con Juni Calafat al mando-.
-
-Y sus tres primeros años estuvieron marcados por las dudas de si estaba capacitado o no para ser jugador del Real Madrid. La realidad fue que en ese momento no, **pero acabó por convertirse en uno de los mejores** jugadores del mundo; segundo en el Balón de Oro.
-
-Un camino lleno de complicaciones, sobre todo por su inicial falta de acierto ante la portería rival: en sus tres primeras temporadas, 18 goles en 123 partidos; desde entonces, en tres temporadas y dos meses, 73 tantos en 155 encuentros.
-
-Una carrera deportiva en la que dos entrenadores le han marcado: **Santiago Solari y Carlo Ancelotti**.
-
-El primero apostó por ‘Vini’ cuando pocos creían en sus capacidades. En un Real Madrid que firmó una temporada en blanco, el brasileño fue el rayo de esperanza y diferencial de la campaña.
-
-Solari se hizo cargo del primer equipo tras el despido de Julen Lopetegui y, propio de un técnico que llegaba de la cantera madridista, **apostó por los jóvenes. Vinícius fue uno de ellos**; también defendiéndole en las ruedas de prensa cuando más arreciaban las críticas.
-
-“Para mí, lo de Vinícius es sencillo. Es tiempo y juego. Tiempo porque tiene todo el tiempo por delante, con apenas 18 años y el oficio y la experiencia van haciendo a los futbolistas. Y juego porque para tener esa experiencia tiene que jugar. **Es una combinación de esas cosas. Jugará para tener experiencia y esa experiencia le hará mejor jugador**. Es un proceso muy normal, sobre todo en un chico de 18 años recién llegado y que todos vemos el talento que tiene; es evidente”, aseguró Solari justificando su apuesta por ‘Vini’.
-
-Sin embargo, el tiempo de Solari al frente del banquillo duró cuatro meses. En su lugar volvió Zinedine Zidane para tomar las riendas del equipo tras 10 meses de dos entrenadores muy lejos de las expectativas a nivel de resultados.
-
-![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/10/vini_jr_2-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-Repunte de ‘Vini’
------------------
-
-Y con ‘Zizou’, Vinícius siguió dejando dudas. **No tenía la confianza ni el acierto suficientes** para ser diferencial. Etapa que empezó con mayor competencia para ‘Vini’, con la llegada de Eden Hazard, en un, finalmente, paso sin pena ni gloria por el Real Madrid.
-
-Dos temporadas en las que el brasileño firmó 11 goles y 11 asistencias y, sobre todo, siguió dejando dudas en la definición.
-
-Se marchó Zidane, llegó Carlo Ancelotti y algo hizo ‘clic’ en Vinícius en 2021. Ni la apuesta decidida de ‘Carletto’ por el Bale-Benzema-Hazard hizo titubear al brasileño.
-
-Se ganó la titularidad en dos partidos –**tres goles- en detrimento de Hazard** y, desde entonces, nadie le ha quitado sus galones; ni la llegada de Klyian Mbappé este verano. Vinícius es la estrella.
-
-Una temporada 2021-2022 en la que firmó 22 goles y 20 asistencias en 52 encuentros, con tanto incluído en la final de la Liga de Campeones y en la que se colocó entre los mejores jugadores del mundo.
-
-Benzema se llevó el Balón de Oro en una gran temporada con 44 goles y 15 asistencias en 46 partidos; palabras mayores; pero Vinícius ya llamaba a la puerta.
-
-La temporada **2022-2023 fue la de su consagración, sumando un gol** y una asistencia más que en la anterior, y en la que arrancó una lucha contra el racismo en los campos de fútbol que aún continúa.
-
-Vinícius fue protagonista también por los insultos racistas que recibió en algunos estadios españoles, con **especial foco en los episodios de Mestalla en un partido** en el que el brasileño fue expulsado.
-
-Desde entonces, su gran lucha se convirtió en perseguir a los autores de insultos racistas, **a la vez que su juego le llevaba** a alzarse con un Balón de Oro que, cuando acariciaba con las manos, se le escapó en las últimas horas. 
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/vini_jr_3-1024x683.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Emiliano ‘Dibu’ Martínez gana trofeo a mejor arquero del mundo
-==============================================================
-
-Emiliano 'Dibu' Martínez se volvió a llevar el premio Yashin, al mejor arquero del mundo, en la gala del Balón de Oro
----------------------------------------------------------------------------------------------------------------------
-
-![Emiliano 'Dibu' Martínez se hizo con el trofeo Yashin en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/c40fa1eaf15d15cd29d5d1ab2f31351bfc5be543.jpg)
-
-El argentino **Emiliano ‘Dibu’ Martínez** logró este lunes por segunda vez consecutiva el premio Yashin al mejor portero del año durante la gala del Balón de Oro, tras haber ganado con su selección la Copa América.
-
-A sus 32 años, el meta del Aston Villa se impuso a los otros candidatos, el ganador de la **Eurocopa** con España, **Unai Simon**, y el ucraniano del Real Madrid **Andrey Lunin**, vencedor de la Liga de Campeones.
-
-### Más noticias:
-
-* [Rodri recibió el Balón de Oro al mejor jugador del mundo](https://www.elcomercio.com/deportes/rodri-balon-oro-city-espana.html "Rodri recibió el Balón de Oro al mejor jugador del mundo")
-* [Real Madrid brilla como el mejor equipo masculino en el Balón de Oro](https://www.elcomercio.com/deportes/futbol/real-madrid-mejor-equipo-balon-oro-barcelona.html "Real Madrid brilla como el mejor equipo masculino en el Balón de Oro")
-* [Lamine Yamal conquista el Trofeo Kopa, en la ceremonia del Balón de Oro](https://www.elcomercio.com/deportes/futbol/lamine-yamal-conquista-el-trofeo-kopa-ceremonia-del-balon-de-oro.html "Lamine Yamal conquista el Trofeo Kopa, en la ceremonia del Balón de Oro")
-
-El portero del Athletic Club de Bilbao fue segundo, mientras que el tercero fue el ucraniano del Real Madrid, por delante del italiano del PSG **Gianluigi Dunnarumma** y del francés del Milan Mike Maignan. El georgiano del Valencia Giorgi Mamardashvili fue séptimo.
-
-“**Es un honor volver a estar aquí**“, dijo el ‘Dibu’, que aseguró que de niño soñaba con ser el arquero de la selección de su país y que ahora no se cree lo que está consiguiendo[.](https://www.elcomercio.com/deportes/emiliano-dibu-martinez-arquero-premio-yashin.html)
-
-El segundo premio Yashin para Emiliano ‘Dibu’ Martínez
-------------------------------------------------------
-
-Ganador en julio pasado el **Guante de Oro** de la Copa América, torneo que ganó con el equipo nacional argentino, en 2023 logró el trofeo FIFA The Best, después de que a finales de 2022 consiguiera el Guante de Oro de la Copa del Mundo de Catar, donde tuvo un importante papel en la victoria argentina.
-
-Ante la insinuación de que en el campo puede ser algo provocativo, Martínez señaló que “**para los argentinos no es algo excesivo**” y que, aunque es una persona normal, en el campo se transforma “porque lo importante es ganar”.
-
-“Yo no me veo como el mejor, hay muchos jugadores increíbles. Para mí es más importante ganar títulos colectivos. **Confío en lo que me dicen mis entrenadores**“, destacó.
-
-Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza
-=================================================================================
-
-El Gobierno de Sudáfrica fue históricamente un firme defensor de la causa palestina y el Congreso Nacional Africano (CNA).
---------------------------------------------------------------------------------------------------------------------------
-
-![Palestinos buscan personas desaparecidas bajo los escombros en el campo de refugiados de Al Nusairat.](https://www.elcomercio.com/wp-content/uploads/2024/10/Israel-efe-ataque.jpg)
-
-El ministro de Relaciones Exteriores y Cooperación Internacional de Sudáfrica, **Ronald Lamola**, aseguró este lunes que su país tiene **“pruebas forenses exhaustivas”** para demostrar ante la **Corte Internacional de Justicia** (CIJ) que Israel cometió genocidio en Gaza.
-
-### Más noticias
-
-* [Hamás busca nuevo liderazgo en plena guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/hamas-busca-nuevo-liderazgo-en-plena-guerra-en-gaza.html "Hamás busca nuevo liderazgo en plena guerra en Gaza")
-* [Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-dice-ataco-230-objetivos-hezbola-sur-libano.html "Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano")
-* [Israel mata a Yahya Sinwar, líder de Hamas](https://www.elcomercio.com/actualidad/mundo/israel-mata-a-yahya-sinwar-lider-de-hamas.html "Israel mata a Yahya Sinwar, líder de Hamas")
-
-“Creemos que disponemos de **pruebas forenses exhaustivas** que podrían convencer al tribunal de que, efectivamente, se cometió genocidio en Gaza”, declaró Lamola en Pretoria en una rueda de prensa con motivo de la visita de su **homólogo ucraniano, Andrii Sybiha**, al país africano.
-
-Lamola hizo estas declaraciones tras anunciar que el **Gobierno sudafricano** iba a presentar este mismo lunes un **memorial detallado contra Israel** ante el tribunal de La Haya.
-
-“Seguimos abogando por que todas las partes en conflicto deben estar en la mesa (de negociación)”, añadió el ministro sudafricano.
-
-El **texto no puede hacerse público** de acuerdo con el **reglamento del tribunal**, explicó la Presidencia sudafricana en un comunicado en el que confirmó que el memorial, de más de **750 págin**as, ya fue entregado a la CIJ.
-
-Gobierno de Israel
-------------------
-
-El documento “contiene pruebas que demuestran cómo el **Gobierno de Israel** violó la convención sobre el genocidio al promover la destrucción de los palestinos que viven en Gaza”, defendió la Presidencia de Sudáfrica.
-
-Y acusó a Israel de **matar a los gazatíes**, privarlos del acceso de la ayuda humanitaria y usar el hambre como “arma de guerra”, entre otras cuestiones.
-
-“Las pruebas demostrarán que los **actos genocidas de Israel** se basan en la intención de cometer genocidio”, agregó la Presidencia sudafricana.
-
-El Gobierno de Sudáfrica fue históricamente un **firme defensor de la causa palestina** y el Congreso Nacional Africano (CNA), partido de **Nelson Mandela** y del actual presidente del país, Cyril Ramaphosa, a menudo la ha vinculado con su propia lucha contra el régimen segregacionista del ‘apartheid’ (1948-1994).
-
-Sudáfrica acusó a finales de diciembre de 2023 al Estado hebreo ante la CIJ, el órgano judicial principal de las Naciones Unidas, de **presuntos crímenes de genocidio** cometidos durante su guerra contra el grupo islamista Hamás en la Franja de Gaza y, posteriormente, otros países respaldaron esta denuncia.
-
-Chile fue el último país en sumarse a esta demanda “para detener la masacre en Gaza” el pasado 12 de septiembre.
-
-Desde que comenzaron los bombardeos de Israel sobre la Franja de Gaza el 7 de octubre de 2023, tras los **ataques de la milicia** de Hamás en suelo israelí, los muertos en Gaza superan ya los 43 000, según las últimas informaciones del Ministerio de Sanidad gazatí.
-
-E**l 69 % de las víctimas mortales son mujeres y niños**, según el Gobierno de Gaza. 
-
-Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?
-========================================================================================
-
-Los bancos privados de Ecuador ofrecen alternativas para el pago de los créditos a las familias y microempresas.
-----------------------------------------------------------------------------------------------------------------
-
-![Los bancos evaluarán caso por caso la situación de cada cliente para brindar una solución que se ajuste a la circunstancia particular de cada uno.](https://www.elcomercio.com/wp-content/uploads/2024/10/bancos-28.jpg)
-
-**Ecuador** atraviesa por una grave **crisis energética** con cortes de luz programados de hasta 14 horas al día en todo el país. Los efectos se sienten en la **economía familiar** y de las **microempresas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-
-Diferimiento de cuotas de créditos
-----------------------------------
-
-En este contexto, los **bancos privados** decidieron implementar un plan de **alivio financiero** con **diferimiento** de hasta 90 días en las cuotas de **créditos**.
-
-Este mecanismo estará disponible para aquellos clientes que **enfrenten dificultades** en sus pagos de **créditos de vivienda, consumo, tarjeta de crédito y microcrédito**.
-
-La Asociación de Bancos Privados del Ecuador (**Asobanca**), detalló este 28 de octubre de 2024 el proceso de diferimiento de cuotas.
-
-Este mecanismo podrá aplicarse en acuerdo con el cliente, **de dos maneras**: por iniciativa de la institución financiera o por solicitud del cliente.
-
-Si la **institución financiera** es quien propone el diferimiento, solo será necesaria una notificación del **diferimiento al cliente**, quien deberá confirmar su aceptación a través del mecanismo que la institución defina.
-
-Cada entidad establecerá su propia política sobre si se requerirán garantías adicionales o no para el nuevo plazo.
-
-Las **cuotas aplazadas se sumarán al final del periodo** **original** del crédito **sin generar intereses de mora** **ni recargos,** siempre que se cumpla con el pago en los nuevos periodos acordados.
-
-En caso de que los clientes necesiten el **alivio financiero,** deben acercarse a su entidad bancaria para solicitarla.
-
-Los bancos evaluarán caso por caso la situación de cada cliente para brindar una solución que se ajuste a la circunstancia particular de cada uno, agregó la agrupación.
-
-Asimismo, ese valuará otros tipos de créditos, con el objetivo de ofrecer soluciones personalizadas y adecuadas a la realidad financiera de cada cliente.
-
-Objetivo del alivio financiero
-------------------------------
-
-La medida busca apoyar a la ciudadanía en momentos complejos y a la vez **proteger los depósitos** de sus **clientes**, agregó la Asobanca.
-
-Los recursos que los bancos canalizan en forma de créditos pertenecen a los **depositantes**. “Los bancos privados facilitarán estos alivios financieros extraordinarios para garantizar la recuperación de los créditos que entregan”, agregó.
-
-Algunos datos
--------------
-
-Según datos del Ministerio de Trabajo, más de 3 000 personas perdieron su empleo en el último mes como efecto de la crisis energética. Asimismo, los empresarios reportan pérdidas de 12 millones de dólares por cada hora de corte de luz.
-
-Asimismo, el Banco Central del Ecuador reportó un crecimiento en la tasa de morosidad en agosto de 2024, los créditos entregados por el sistema financiero del país registraron un índice de morosidad de 5,1%, mayor al evidenciado en agosto de 2023 (4,4%).
-
-Los segmentos de crédito con el índice más alto fueron m**icrocrédito con 10,3%,** **consumo con 5,9%,** e**ducativo con 4,1%** y v**ivienda con 3,9%.** Mientras que, el crédito productivo registró la tasa de morosidad más baja (1,5%).
-
-Técnico Universitario goleó y cree en el milagro de la Sudamericana
-===================================================================
-
-A falta de cuatro fechas para terminar la segunda etapa de la Liga Pro, Independiente la lidera.
-------------------------------------------------------------------------------------------------
-
-![Celebración de los jugadores de Técnico Universitario en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/tabla_tecnico_1.jpg)
-
-**Técnico Universitario** ganó 0-6 en su visita a Imbabura en el cierre de la fecha 11 de la primera fase de la Liga Pro 2024, con lo que ajustó la tabla de posiciones de la etapa y la acumulada.
-
-El encuentro entre **Imbabura y Técnico Universitario** se jugó la tarde de este lunes 28 de octubre de 2024, desde las 15:00, en el estadio Olímpico de Ibarra, que lució con poco público en sus gradas.
-
-### Más noticias:
-
-* [Vinícius Júnior no ganará el Balón de Oro 2024](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-ganara-el-balon-de-oro-2024.html "Vinícius Júnior no ganará el Balón de Oro 2024")
-* [Liga de Quito celebra el aniversario de su última Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-celebra-el-aniversario-de-su-ultima-copa-sudamericana.html "Liga de Quito celebra el aniversario de su última Copa Sudamericana")
-* [Jugadores de El Nacional exigen sueldo tras caer con Orense](https://www.elcomercio.com/deportes/futbol/sueldos-deudas-nacional-orense-liga-pro.html "Jugadores de El Nacional exigen sueldo tras caer con Orense")
-
-El 1-0 fue obra de **Sergio Fabián González a los 23 minutos** del primer tiempo, con un remate con pierna derecha para vencer la resistencia de Walter Chávez, que solo atinó ver como el potente disparo se incrustó en su portería.
-
-A los 40 minutos del mismo primer tiempo, desde el punto penal, **amplió el marcador con el 0-2 para tranquilidad** de los ambateños con la firma de Diego Armas, su figura, capitán y goleador, que no desaprovechó la oportunidad.
-
-Leonar Espinoza, a los 38, fue expulsado por **Augusto Aragón por detener el esférico** que iba al arco con una de sus manos, al más puro estilo de un arquero. Alejandro Cabeza también fue expulsado a los 58′.
-
-El mismo **Armas se encargó de sellar el 0-3** a los 48 minutos y el 0-4 a los 64, desde el punto penal.
-
-Con esos dos tantos el ecuatoriano **llegó a los 16** en la temporada, con lo que superó al argentino Pablo Magnín, delantero del Deportivo Cuenca, que se quedó con 15.
-
-Este ítem sigue comandado por el **paraguayo Álex Arce (Liga de Quito) con 20**. El colombiano Jeison Medina (Independiente del Valle) con 17, 11 de ellos logrados con Aucas en la primera fase.
-
-González registró su doblete a los 72 minutos y el 0-5. Finalmente, Diego Ledesma cerró el 0-6 a los 79.
-
-Técnico Universitario se acomoda en la tabla
---------------------------------------------
-
-Técnico Universitario escaló a la **séptima posición con 15 puntos** y un gol diferencia positivo de +7, mientras que Imbabura se estancó en la casilla 11 con 10 puntos y un gol diferencia negativo de -9.
-
-En la acumulada los **ambateños tienen 31 puntos y se quedó a seis de Orense**, el séptimo clasificado que está asegurando el último cupo a la Copa Sudamericana.
-
-Los ibarreños por su parte permanecen con 23 puntos a tan solo 3 de distancia de Cumbayá.
-
-Tabla de posiciones – fecha 11
-------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-7-819x1024.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Rodri recibió el Balón de Oro al mejor jugador del mundo
-========================================================
-
-Rodri tiene 28 años y toma el puesto de Lionel Messi como el mejor jugador del mundo.
--------------------------------------------------------------------------------------
-
-![Rodri con el Balón de Oro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/rodri_oro_2.jpg)
-
-Rodrigo Hernández, **centrocampista del Manchester City y de la Selección de España**, conocido como Rodri, fue coronado este lunes 28 de octubre de 2024, como el menor jugador del mundo al recibir el Balón de Oro, que lo acredita como tal.
-
-Al **Théâtre du Châtelet de París** llegaron todos los protagonistas de la ceremonia del Balón de Oro, con Rodri que llegó con muletas y pasó por la alfombra roja en la previa del arranque de la ceremonia.
-
-### Más noticias:
-
-* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
-* [La alegría de Flamengo tras el primer gol de Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-gol-flamengo-hinchas-video.html "La alegría de Flamengo tras el primer gol de Gonzalo Plata")
-* [Deportivo Quito avanza a octavos tras una dramática tanda de penales](https://www.elcomercio.com/deportes/deportivo-quito-cantera-orense-resultado-clasificado.html "Deportivo Quito avanza a octavos tras una dramática tanda de penales")
-
-En la coronación de Rodri el gran ausente fue el **Real Madrid y sus jugadores, que no viajaron a París**, luego que se conoció que el brasileño Vinicius Júnior no ganaría el Balón de Oro, tal como se apuntaba en las semanas previas de la ceremonia.
-
-Rodri firmó un último año con los títulos de la Premier League, la Supercopa de Europa y el Mundial de Clubes con el Manchester City, mientras que con la Selección de España se proclamó campeón de la Eurocopa en Alemania.
-
-Aun con dificultades al caminar por la lesión d**el ligamento cruzado anterior y el menisco** en la quinta jornada de la Premier League contra el Arsenal, el español recibió el trofeo de manos de Didier Drogba, una de las leyendas del Chelsea.
-
-La carrera jugador de 28 años empezó en el Villarreal, **luego pasó al Atlético Madrid** y finalmente se instaló en el City, donde alcanzó su mejor versión y se convirtió en pieza clave de los ingleses y de los españoles.
-
-Las posiciones finales del Balón de Oro colocaron a Harry Kane (10), Tony Kroos (9), Lamine Yamal (8), Lautaro Martínez (7), Kylian Mbappé (6), Erling Haaland (5), Dani Carvajal (4), Jude Bellingham (3), Vinícius Júnior (2) y Rodri (1).
-
-Más premios del Balón de Oro
-----------------------------
-
-El primer premio de la noche se lo llevó Lamine Yamal como el mejor futbolista sub-21 del mundo superando, entre otros, a su compañero de equipo Pau Cubarsí, con el que forman parte de la nueva generación de jugadores españoles.
-
-Luego el **Barcelona fue reconocido como el mejor club femenino del mundo** y el Real Madrid como el mejor del mundo en la rama masculina.
-
-**Harry Kane (Bayer Múnich) y Kylian Mbappé** (Real Madrid), que no estuvo presente en la gala, recibieron el premio Gerd Müller, que es entregado a los goleadores de la temporada. Ambos alcanzaron los 52 tantos.
-
-El argentino **Emiliano Martínez**, campeón de la Copa América, ganó el Trofeo Yashin, al mejor arquero del mundo por segunda vez consecutiva.
-
-La española **Jennifer Hermoso** le entregaron el Premio Sócrates, que se otorga a la mejor labor humanitaria realizada por un futbolista a nivel mundial.
-
-**Carlo Ancelotti**, ausente en la ceremonia, obtuvo el premio Johan Cruyff masculino, a mejor entrenador.
-
-**Aitana Bonmatí, jugadora española del Barcelona y de la Selección**, fue ganadora del Balón de Oro femenino gracias a  los títulos de la Champions League, la Supercopa de España, la Liga y la Copa de la Reina.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Daniel Noboa entregó al Ejército armas incautadas en operativo
-==============================================================
-
-Daniel Noboa entregó armas al Ejército. Esta provenían de actividades ilícitas.
--------------------------------------------------------------------------------
-
-![En Guayaquil, el presidente Daniel Noboa participó de la entrega de armamento incautado.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-18.jpg)
-
-El presidente **Daniel Noboa** estuvo en la Base Naval San Eduardo, en **Guayaquil**, para entregar **armas** al **Ejército[.](https://es.wikipedia.org/wiki/Daniel_Noboa)**
-
-El evento se realizó este lunes, 28 de octubre de 2024. El Presidente destacó la importancia del apoyo en la **Consulta Popular** del 21 de abril para la lucha contra el crimen organizado.
-
-En el proceso democrático se preguntó a los ecuatorianos sobre si estaban de acuerdo con la entrega de las armas incautadas a los **grupos delictivos** para el combate de los delitos.
-
-### Más noticias
-
-* [Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-extranjeras-pleno-asamblea.html "Propuesta de Daniel Noboa sobre bases militares extranjeras irá al Pleno de la Asamblea")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-* [Gobierno de Daniel Noboa firmó contrato para inicio de un proyecto geotérmico](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-contrato-inicio-proyecto-geotermico.html "Gobierno de Daniel Noboa firmó contrato para inicio de un proyecto geotérmico")
-* [Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-armas-incautadas-galapagos-bloque-de-seguridad.html "Daniel Noboa destina armas incautadas en Galápagos para el Bloque de Seguridad")
-
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) participó de la entrega de armamento incautado. Estas armas, que no servirán nunca más para delinquir, serán utilizadas por las [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw) en el combate contra el crimen organizado y para fortalecer la seguridad de los ciudadanos.  
->   
-> Esto es posible… [pic.twitter.com/M4K3zmVQTM](https://t.co/M4K3zmVQTM)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 28, 2024](https://twitter.com/Presidencia_Ec/status/1850992108418842634?ref_src=twsrc%5Etfw)
-
-Daniel Noboa y armas del crimen organizado
-------------------------------------------
-
-“Esto que estamos haciendo, es consecuencia del apoyo en la consulta popular, donde, por primera vez como país, le dijimos no a la corrupción, no a la impunidad y no a los delincuentes”. Esta fueron las palabras del presidente **Daniel Noboa**.
-
-De acuerdo con los datos de la [**Presidencia**,](https://www.flickr.com/photos/presidenciaecuador/with/54101114005) las armas estaban destinadas para cometer delitos y atentar contra vidas.
-
-**Daniel Noboa** dispuso a los militares emplear el armamento para el uso progresivo y legítimo de la fuerza “contra nuestros verdaderos enemigos: los narcoterroristas, los delincuentes”.
-
-Los detalles de las operaciones
--------------------------------
-
-Según declaraciones de **Jaime Vela**, jefe del Comando Conjunto de las Fuerzas Armadas, las armas provienen de la incautación en una operación naval en espacios acuáticos en **Galápagos**.
-
-Además, fue enfático al destacar el trabajo articulado del Bloque de Seguridad para luchar contra el **terrorismo, narcotráfico, minería ilegal y grupos armados organizados**.
-
-**Daniel Noboa** se refirió a maniobras políticas y jurídicas que, hace más de una década, beneficiaban a negocios ilegales. “Por eso nuestro gobierno les incomoda, por eso nos atacan día a día, porque quieren volver a feriarse la patria y eso no lo vamos a permitir”.
-
-Las armas entregadas
---------------------
-
-El Gobierno entregó **122 fusiles y 48 pistolas nueve milímetros**. El armamento estaría valorado en alrededor de un millón de dólares.
-
-Los equipamientos serán distribuidos en los tres brazos ejecutores de las Fuerzas Armadas. Estos tenían como origen **México y Centroamérica**.
