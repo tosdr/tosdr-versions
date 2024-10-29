@@ -20,6 +20,7 @@ Resources
 * [Help](https://riot.im/help)
 * [Labs](https://riot.im/labs)
 * [Contact Sales](https://riot.im/contact-sales)
+* [Matrix Conf videos](https://riot.im/matrix-conference-presentations)
 
 [Blog](https://element.io/blog/)[Pricing](https://riot.im/pricing)[Download](https://riot.im/download)
 
@@ -52,6 +53,7 @@ Resources
 * [Help](https://riot.im/help)
 * [Labs](https://riot.im/labs)
 * [Contact Sales](https://riot.im/contact-sales)
+* [Matrix Conf videos](https://riot.im/matrix-conference-presentations)
 
 Sign In
 
