@@ -15,7 +15,7 @@ We'll use your location to find clinics, hospitals and doctors closest to you.
 * My Account
     
 
-[![Swedish](https://cdn.providence.org/asset/vcNVt7vRuvf7LuDbQwSjJg10/project/psjh/providence/socal/images/campaigns/circle-app/swedishlogo/png?h=48&iar=0&w=180&rev=9e2f26f7406b4c778a47711ceded3c08&hash=BF7A1763C54F850F36613AD39DF1015E)](https://www.swedish.org/ "Swedish")
+[![Swedish](/-/media/project/psjh/providence/socal/images/campaigns/circle-app/swedishlogo.png?h=48&iar=0&w=180&rev=9e2f26f7406b4c778a47711ceded3c08&hash=BF7A1763C54F850F36613AD39DF1015E)](https://www.swedish.org/ "Swedish")
 
 [](javascript:void(0) "Search")
 
@@ -363,10 +363,10 @@ Compassion, Dignity, Justice, Excellence, Integrity, Safety. [Learn more about o
 
 ### CONNECT WITH US
 
-* [![Check us out on Facebook](https://cdn.providence.org/asset/geMdKaGYXwdaQZRA2kGjaA10/project/psjh/providence/socal/images/logos/social/facebook/png?h=93&iar=0&w=94&rev=0edb52fb3885401e9f0031989ece93a6&hash=FA1098F26C9A6E1EAD0AF0DFB2849539 "Check us out on Facebook")](https://www.facebook.com/providenceswedishmedicalcenter "Check us out on Facebook")
-* [![Check us out on Twitter](https://cdn.providence.org/asset/jC+nPJqgp9L5r54ckvqWhg10/project/psjh/providence/socal/images/logos/social/twitter/png?h=89&iar=0&w=96&rev=2d873c9c43534c2faf03b599a56adc06&hash=6C2680FFA8B2C72A609D5E918A498A4C "Check us out on Twitter")](https://twitter.com/ProvSwedish "Check us out on Twitter")
-* [![Check us out on Instagram](https://cdn.providence.org/asset/gxJ4bwfDVmBPooAusskQBQ10/project/psjh/providence/socal/images/logos/social/instagram/png?h=85&iar=0&w=85&rev=de36fc3795e346e2ac725cb2510b9fdd&hash=41B1EC174E569D8275F4BCF36815F684 "Check us out on Instagram")](https://www.instagram.com/providenceswedish "Check us out on Instgram")
-* [![Check us out on YouTube](https://cdn.providence.org/asset/UZutB5wofRN/NT+ilpQbLA10/project/psjh/providence/socal/images/logos/social/youtube/png?h=72&iar=0&w=104&rev=976d900154cc4d2182f0b8a0af3840ed&hash=56E6BC243E9BFD7F8DB6E77BDF53E7C4 "Check us out on YouTube")](https://www.youtube.com/user/SwedishSeattle "Check us out on YouTube")
+* [![Check us out on Facebook](/-/media/project/psjh/providence/socal/images/logos/social/facebook.png?h=93&iar=0&w=94&rev=0edb52fb3885401e9f0031989ece93a6&hash=FA1098F26C9A6E1EAD0AF0DFB2849539 "Check us out on Facebook")](https://www.facebook.com/providenceswedishmedicalcenter "Check us out on Facebook")
+* [![Check us out on Twitter](/-/media/project/psjh/providence/socal/images/logos/social/twitter.png?h=89&iar=0&w=96&rev=2d873c9c43534c2faf03b599a56adc06&hash=6C2680FFA8B2C72A609D5E918A498A4C "Check us out on Twitter")](https://twitter.com/ProvSwedish "Check us out on Twitter")
+* [![Check us out on Instagram](/-/media/project/psjh/providence/socal/images/logos/social/instagram.png?h=85&iar=0&w=85&rev=de36fc3795e346e2ac725cb2510b9fdd&hash=41B1EC174E569D8275F4BCF36815F684 "Check us out on Instagram")](https://www.instagram.com/providenceswedish "Check us out on Instgram")
+* [![Check us out on YouTube](/-/media/project/psjh/providence/socal/images/logos/social/youtube.png?h=72&iar=0&w=104&rev=976d900154cc4d2182f0b8a0af3840ed&hash=56E6BC243E9BFD7F8DB6E77BDF53E7C4 "Check us out on YouTube")](https://www.youtube.com/user/SwedishSeattle "Check us out on YouTube")
 
 * [Disclaimer Terms Of Use](https://www.swedish.org/disclaimer-terms-of-use)
     
