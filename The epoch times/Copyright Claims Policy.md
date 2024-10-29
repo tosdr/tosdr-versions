@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://www.theepochtimes.com/us/us-home-sales-poised-for-worst-year-since-1995-as-lock-in-effect-persists-5749770)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738746-GettyImages-1529791883KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-home-sales-poised-for-worst-year-since-1995-as-lock-in-effect-persists-5749770)
+* [Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://www.theepochtimes.com/article/day-in-photos-georgian-election-protest-diplomatic-briefing-and-national-no-day-5749459)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749429-GettyImages-2180878594-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-georgian-election-protest-diplomatic-briefing-and-national-no-day-5749459)
+* [Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://www.theepochtimes.com/us/steve-bannon-released-from-prison-after-serving-4-months-for-contempt-of-congress-5749735)
+    
+    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672739-bannon-in-dc-205x123.jpg.webp)](https://www.theepochtimes.com/us/steve-bannon-released-from-prison-after-serving-4-months-for-contempt-of-congress-5749735)
+* [With 1 Week Until Election Day, Candidates Make Closing Arguments](https://www.theepochtimes.com/us/with-1-week-until-election-day-candidates-make-closing-arguments-5749763) 
+    
+    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![With 1 Week Until Election Day, Candidates Make Closing Arguments ](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![With 1 Week Until Election Day, Candidates Make Closing Arguments ](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747994-Kamala-Harris-Donald-Trump-6-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/with-1-week-until-election-day-candidates-make-closing-arguments-5749763)
+* [Israel Bans Aid Agency UNRWA From Operating in Country](https://www.theepochtimes.com/world/israel-bans-aid-agency-unrwa-from-operating-in-country-5749654)
+    
+    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Israel Bans Aid Agency UNRWA From Operating in Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Bans Aid Agency UNRWA From Operating in Country](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749718-GettyImages-1960206191-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-bans-aid-agency-unrwa-from-operating-in-country-5749654)
+* [US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://www.theepochtimes.com/world/us-coast-guard-to-expand-presence-cooperation-in-indo-pacific-amid-china-concerns-5749568)
+    
+    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749709-GettyImages-1532304750-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-coast-guard-to-expand-presence-cooperation-in-indo-pacific-amid-china-concerns-5749568)
+* [Harris Pitches Herself to Michigan Workers in 3-city Swing](https://www.theepochtimes.com/us/harris-pitches-herself-to-michigan-workers-in-3-city-swing-5749451)
+    
+    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    
+    [![Harris Pitches Herself to Michigan Workers in 3-city Swing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Pitches Herself to Michigan Workers in 3-city Swing](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749787-10262024-DSC07551-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-pitches-herself-to-michigan-workers-in-3-city-swing-5749451)
+* [Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://www.theepochtimes.com/us/nearly-50-million-americans-have-already-cast-ballots-in-2024-election-5749611)
+    
+    6hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749784-GettyImages-2175877578-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-50-million-americans-have-already-cast-ballots-in-2024-election-5749611)
 * [AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749432-GettyImages-1244414689-205x123.jpg.webp)](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
+    ![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749715-GettyImages-1244414689-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
 * [EU Signals Rekindled Interest in Nuclear Power](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
     
-    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    7hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
     [![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/uploads/2023/03/15/GettyImages-1242862600-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
-* [US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
-    
-    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/uploads/2024/10/id5745812-1.tagreuters.com2024binary_LYNXMPEK9L0L2-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
-* [USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/uploads/2023/06/02/id5308678-USA-Today-newspaper-205x123.jpg.webp)](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
-* [Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
-    
-    9hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749538-Penn-mail-ballot-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
-* [Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
-    
-    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719606-Kennedy-GettyImages-2167258349-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
-* [North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
-    
-    12hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
-    
-    [![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749405-download6-205x123.jpg.webp)](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
-* [US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
-    
-    12hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/uploads/2023/02/02/Semicon-China-205x123.jpg.webp)](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
-* [Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
-    
-    12hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749323-Election_2024_Ballot_Box_Fires_24302618769266-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
-* [76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589460-02172024-DSC01207-I-voted-205x123.jpg.webp)](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
+    ![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749790-GettyImages-1242862600-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
