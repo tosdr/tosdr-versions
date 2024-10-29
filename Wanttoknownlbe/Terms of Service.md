@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-nano-tech-opmars-in-de-medische-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/shell-wint-groene-zeepbel-amnesty-vraagt-je-hulp/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
