@@ -20,6 +20,18 @@ Dark mode theme is available exclusively for premium users. Learn more about the
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-clock-modal.svg) No fees, cancel anytime
 
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/primis-popup-cover.webp) ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/mobile-primis-popup-cover.webp)
+
+Unlock Premium: Enjoy No Ads
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Ad-Free Browsing
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
+
+![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Dark Mode
+
+[Skip](javascript:void(0)) [Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=popup&utm_campaign=premium-popup)
+
 [_Modal close_](javascript:void(0))
 
 Are you sure you want to post this?
@@ -134,6 +146,7 @@ Agree
 
  Search
 
+* [Premium](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=subnav&utm_campaign=premium-subnav)
 * [Funny](https://www.boredpanda.com/funny/)
 * [Art](https://www.boredpanda.com/art/)
 * [News](https://www.boredpanda.com/news-feed/)
@@ -173,6 +186,7 @@ Agree
 * [Facts](https://www.boredpanda.com/facts/)
 * [Reviews](https://www.boredpanda.com/reviews/)
 * [Games](https://www.boredpanda.com/games/)
+* [Premium](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=usermenu&utm_campaign=premium-usermenu)
 * [Contact](https://www.boredpanda.com/contact/)
 * [About Us](https://www.boredpanda.com/about-us/)
 * [Jobs](https://jobs.boredpanda.com/)
@@ -258,10 +272,7 @@ Agree
 * [Latest](https://www.boredpanda.com/?show=recent)
 * [Newsletter](https://www.boredpanda.com/bored-panda-newsletter/)
 *  [![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/icons/ic_games_link.svg)](https://www.boredpanda.com/games/)[Games](https://www.boredpanda.com/games/)
-
-[Challenge Your Brain with](https://www.boredpanda.com/games)
-
-[Smart Games Ic\_badge\_arrow](https://www.boredpanda.com/games)
+* [Premium](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=subnav&utm_campaign=premium-subnav)
 
 [**The Bored Panda iOS app is live!**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8) Fight boredom with iPhones and iPads [**here**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8).[](javascript:void(0);)
 
@@ -322,101 +333,160 @@ Simple Interface - Even Your Cat Can Use It!
 Privacy Policy
 ==============
 
-_Last updated: 03/05/2023_  
-Hello and thank you for visiting the **Privacy Policy** page, where we explain how we handle the information you provide to us, what information we collect ourselves, why we do it and who else we trust with it. It also tells you how you can exercise your rights regarding your own data.  
-  
-When you use our products and services, by browsing the site, registering to have an account, logging in, commenting and such you do so under the policies we outline on this page.  
-  
-**1\. What personal information do we collect and why do we collect it?**  
-  
-1.1. Information you provide to us:  
-When you register for an account on our site, we ask for your email address so we can check whether you already have an account, if you don’t, we ask you to provide:  
-— **Email address**, so we can let you know about your account status and activity on the page, you can change the Notification settings of your account by visiting this [page](https://www.boredpanda.com/notification-settings/) while logged in,  
-— **Password** – oh, don’t worry, we don’t see it, so feel free to use the name of your crush (as long as it’s at least 8 symbols and has a number in it:) ). You can always reset it too, in case it doesn’t work out.  
-— **Full name** – you can lie here, nobody will know. We use this as your Pen name when you comment or post articles. Feel free to use a tool like [this](https://www.name-generator.org.uk/pen-name/) if you please. You can change it once the popularity becomes too heavy or any other time, we’re chill.  
-We will also ask you if you would like to receive our awesome newsletter, no pressure, and then we will send you an activation email – just to make sure you’re a real person or at least a very clever bot.  
-Ah, true, almost forgot, if you chose to use your Facebook login to create an account with us, you give Facebook  permission to share with us the associated email and your profile name, good news though, that also means we don’t need to vet you for humanness, so no confirmation email – woohoo!  
-  
-1.2. Information we get from your device:  
-In order to make sure that the site performs at its best – functions properly, is informative, up-to date and tailored just for you – when you visit it, we collect information from your device. That may include:  
-— **Device info** – we want to know if you should be seeing a desktop or mobile version of the site, which application store you might need and such.  
-— **Network data** – such as IP, helps us diagnose problems with our servers, administer our sites and also helps us to make sure our comment section is hate free.  
-— **Cookies** – the no calories kind. There is more detailed info about them below, but in short, they let us know how you use our site and optimize it for a better user experience.  
-  
-1.3. Share functions:  
-When you share our articles with friends, you do so using social widgets and according to those social networks policies.   
-  
-**2\. How the information is used?**  
-  
-2.1. We are relying on several separate bases to process your information as required by law. In order to provide our service to you, we process some data with **Legitimate Interest** in mind:  
-2.1.1. When the purpose is to deliver the **service**:  
-— Communicate with you over email according to your Notification preferences,  
-— Contact you and maintain records in order to provide customer service and support,  
-— Ensure there is no fraud with voting, polls and competitions we host,  
-— When we use cookies to remember your preferences,  
-— When we strive to detect and defend against fraudulent, abusive and unlawful activity on the site.  
-2.1.2. When the purpose is to **measure** and **analyze traffic**:  
-— We use Google Analytics, a web analytics service provided by Google, Inc., to collect information about how users use our site. We use the information to compile reports and to help us improve the site. The cookies collect information, including the number of visitors to the website, where visitors have come to the website from and the pages they visited. You can read more about these cookies and how Google safeguard them [here](https://support.google.com/analytics/answer/6004245),  
-— We use ScorecardResearch tags for market research purposes to count users who have visited and seen a page or various parts of a page to improve the experience on our site. You can find out more about ScorecardResearch, including how to opt-out right [here](https://www.scorecardresearch.com/About.aspx?newlanguage=1).[](https://www.scorecardresearch.com/About.aspx?newlanguage=1)2.2. Additionally, we ask your **Consent** to process the data we need:  
-2.2.1. When the purpose is **better advertising experience**. We would like the ads on our sites to be relevant and tailored to your interests, nobody likes seeing those hair grow vitamin ads, when you CLEARLY are not going bald (you’re not, don’t worry… I mean it).  
-— Cookies and similar technologies help us know what interests you might have,  
-— Location services help to only show you relevant ads, matching your location or language,  
-— Our partners may use the data they have about you, collected according to their own policies to show you what they believe would be relevant.  
-  
-**3\. How the information may be shared?**  
-We strive to ensure, using technological and contractual mechanisms, that your data is protected and only used according to this policy. We need to share certain data with our trusted partners:  
-– When we manage newsletters, we use MailerLite to help us do it. You can always unsubscribe via unsubscribe function in the newsletter,  
-– When we optimise our site and innovate we may use partners who provide services and functionalities we need, such as Google and others,  
-– When we deliver ads via vendors and third-party vendors. This helps you get better ads.  
-– When we would need for Legal purposes and according to the law.  
-  
-**4\. How the data might be transferred?**  
-  
-The data we process about individuals in the EU/EEA may be transferred from the EU/EEA through various compliance mechanisms, including data processing agreements we have with our partners. By using our services you consent to us transferring your information to our partners outside of EU/EEA. Any organisation who has access to your information in the course of providing services on our behalf will be governed by contractual restrictions to make sure they protect your information and comply with applicable data protection legislation.  
-  
-**5\. How we protect privacy of children?**  
-  
-Our services are aimed at a general audience. We do not knowingly target, collect, use or share information that could reasonably be used to identify children under the age of 16 without prior parental consent or consistent with applicable law. By using our service you confirm that you either are of legal age or have an applicable consent.  
+_Last updated: 10/29/2024_
 
-**6\. How can you exercise your rights under GDPR?**  
-  
-6\. 1. If you are an individual browsing from the EU/EEA, where the General Data Protection Regulations apply, you can exercise rights related to your data by contacting us via contact details at the bottom of the page:  
-— You can request **access** to a free copy of your data,  
-— You can ask us to **delete** your personal data, and we will do so where we legally can,— You have a right to **rectify** your data,  
-— If you wish to **object** to us processing your data according to Legitimate interest.  
-— You also are free to **revoke** your consent by updating your settings.  
-— You have a right to **complain** about us with our supervisory authority [here](http://www.ada.lt/).[](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm)6\. 2. Your above described requests will be executed in a legally required time frame, 1 month, and we will need you to provide a valid proof of identification with each request.  
-  
-**7\. How long do we keep the data?**  
-  
-We store your data for no longer than necessary in relation to the purpose under which such data was collected. This is determined on a case by case basis and depends on things such as the nature of the data provided, why it was collected, the legal basis we rely upon to process the data, and our relevant legal or operation retention requirements. For example, if you request to delete your account we still have to retain some data for fraud prevention purposes and financial auditing.  
-  
-**8\. What about Cookies?**  
-  
-8.1. When you use our websites and apps we may collect information using cookies or similar technologies. Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you. This allows websites to tailor what you see on the screen.  
-We use cookies as they are a very important part of the internet, they help sites to work smoother, just like what a cup of morning coffee does to you. The cookies we use are for:  
-– **Services** – to make sure the site functions as expected, they are essential to you being able to enjoy the experience,  
-– **Analytics** – those are also super important, they allow us to understand how all users combined use our site, make business decisions based on it and do what we need to do on our side to make the site viable,  
-– **Preferences** – yeah, this is to remember your consent status, so we don’t bug you with a pop-up on each visit,  
-– **Advertising** – you might not think that, but this part is very important too, cookies help us provide you the best possible experience with ads, without them there would be a wild wild west of terrible banners everywhere. Also they help us pay our bills and provide you with great content, just keep that in mind. We use a Google tool called Google Double Click to make this all happen.  
-  
-8.2. If you use an Ad-blocker on our site, we cannot fully execute our services and therefore ensure your rights under this policy.  
-  
-8.3. You can manage your cookie settings by:  
+Hello and thank you for visiting the **Privacy Policy** page, where we explain how we handle the information you provide to us, what information we collect ourselves, why we do it and who else we trust with it. It also tells you how you can exercise your rights regarding your own data.
+
+When you use our products and services, by browsing the site, registering to have an account, logging in, commenting and such you do so under the policies we outline on this page. This Privacy Policy only covers the use of the personal information (personal data) of the visitors of the site and is not intended to provide information about all of our processing of personal information (e.g. processing of personal information of candidates, employees, suppliers and their employees).
+
+Lithuanian company **UAB Pandos**, company code 303589891, **is responsible for the processing of your personal information described in this Privacy Policy (data controller)**. When we use the words ‘we’, ‘our’, etc. in this Privacy Policy, we are referring to this company (contact details are provided at the end of the Privacy Policy).
+
+You are responsible for maintaining the confidentiality of the information you provide to us and for ensuring that the information you provide to us is accurate, correct and complete. If there is any change in the information you have provided, you must inform us immediately by e-mail. In no event shall we be liable for any damage caused to you as a result of your providing incorrect or incomplete personal information or your failure to inform us of any change of the information.
+
+Our services are aimed at a general audience. We do not knowingly target, collect, use or share information that could reasonably be used to identify children under the age of 16 without prior parental consent or consistent with applicable law. By using our service, you confirm that you either are of legal age or have an applicable consent.
+
+**1\. Personal information of registered users**
+
+The table below explains what personal information and how we process to enable you to create and use your account:
+
+| **Purpose** | **What personal info?** | **Based on which legal basis?** | **For how long?** | **Other** |
+| --- | --- | --- | --- | --- |
+| To create an account | Email address (in case you use Google, Facebook or Apple account to create our account, we use email and profile name associated with that account)<br><br>Password<br><br>Name (you can lie here, nobody will know. We use this as your Pen name when you comment or post articles.)<br><br>Date and time the account was created | Article 6(1)(b) of the GDPR (entering into and performance of a contract) | Until the deletion of the account (at your request or 2 years after your last login).<br><br>**!!!** Some information may be retained for other purposes even after the deletion of the account. | We share your personal information only with certain data processors. |
+| To use your account | Personal info used to create your account<br><br>Information about the use you make of your account (posts, comments, upvotes, points, etc.) | Article 6(1)(b) of the GDPR (performance of a contract) | Until the deletion of your account (unless you delete certain post, comment, etc., earlier). | Some information (your name, posts, comments, etc.) may be seen publicly.<br><br>We also share your personal information only with certain data processors. |
+| Defending our or third parties’ legal rights | Information collected for the purposes of creating and using the account | Article 6(1)(f) of the GDPR (legitimate interest) | 5 years form the deletion of the account | Information is stored archived and is only made available to authorised persons under certain circumstances.<br><br>Information can be transferred to courts, public dispute resolution bodies, litigants, attorneys, and other legal service providers. |
+
+**2\. Personal information of users of Bored Panda Premium subscription**
+
+The table below explains what personal information and how we process if you purchase Bored Panda Premium subscription (purchasing it allows you to avoid ads when using our products):
+
+| **Purpose** | **What personal info?** | **Based on which legal basis?** | **For how long?** | **Other** |
+| --- | --- | --- | --- | --- |
+| Purchasing and using Bored Banda Premium subscription | Personal info used to create your account<br><br>Billing information (name, surname, bank, bank account number, amount paid, date and time of the payment, etc.)<br><br>Subscription details (type and status of subscription, subscription history) | Article 6(1)(b) of the GDPR (performance of a contract) | Until the end of the subscription.<br><br>**!!!** However, after the end of the subscription, information will be stored for other purposes, such as accounting and defending our legal rights (for 10 years after the end of the subscription). | Billing information is provided to the data processor who processes payments (Stripe, Inc.).<br><br>This can result in transferring your personal information outside to the third country (USA). |
+
+**3\. Newsletters**
+
+If you have given us your consent, we will send you newsletters and will use your email address for this purpose. Your personal information will be processed for the purpose of sending newsletters for 2 years from the date of consent. Direct marketing communications are sent (your contact details are processed) on the basis of consent.
+
+Personal information processed for the purpose of direct marketing will be transferred to the data processor MailerLite Limited. Since the headquarters of Mailerlite are established in the USA, this can result in transferring your personal information to the third county (USA).
+
+You have the right to opt-out of receiving newsletters at any time by contacting us at the email address provided in this Privacy Policy or by clicking unsubscribe button provided in each newsletter.
+
+**4\. Personal information of general website visitors (cookies and other tracking technologies)**
+
+Our website use cookies and other tracking technologies. A cookie is a small file made up of letters and numbers that we place on your browser or on the hard drive of your computer with your consent. We use different cookies for different purposes. Cookies also help us to distinguish you from other users of the Website, thus ensuring a more pleasant experience and enabling us to improve the Website.
+
+You can manage your cookie settings by:  
 — changing your Privacy Settings,  
 — changing settings on your mobile device,  
 — changing your browser settings,  
-— opting out [here](http://www.youronlinechoices.com/).  
-  
+— opting out [here](http://www.youronlinechoices.com/).
+
 Please contact us if you need assistance with anything. We want you to be aware that by changing certain preferences you might cause the page to not work correctly, or at all, and that would be very sad, wouldn’t it? Changing the settings, also, would not remove advertising from the site, but would instead make it less relevant and even more annoying.
 
-This Site is affiliated with Freestar for the purposes of placing advertising on the Site, and Freestar will collect and use certain data for advertising purposes. To learn more about Freestar’s data usage, click [here](https://freestar.com/privacy-policy/).  
-  
-**9\. Changes?**
+Our website is affiliated with Freestar for the purposes of placing advertising on the Site, and Freestar will collect and use certain data for advertising purposes. To learn more about Freestar’s data usage, click [here](https://freestar.com/privacy-policy/).
 
-We may amend or update this Privacy Policy from time to time, so you should check it periodically.  Where changes are made, we will post the revised Policy here with an updated effective date.
+**Strictly Necessary Cookies.**
 
-**10\. How to contact us?**
+These cookies are absolutely necessary for our website to work. The basis for the use of such cookies is Article 73(4) of the Law on Electronic Communications of the Republic of Lithuania. These cookies are necessary for the operation of the website and cannot be disabled on our systems. They are usually used in response to what you do on the website, such as starting to browse or selecting your privacy settings. These cookies do not store any personally identifiable information about you and are deleted as soon as you turn off the website.
+
+**Analytics and/or Performance Cookies.** 
+
+These cookies allow us to count the number of visits to the website and to monitor the flow of visitors so that we can improve the website. They allow us to know which pages of the website are the most or least visited and to monitor how visitors navigate through the website. The data collected is not accessible to any other party. The information collected by cookies is anonymous and is not intended to identify you or to influence your browsing experience while you are on the website. If you do not consent to the use of these cookies, you will not be recorded in the visit statistics. The processing of data collected by these cookies is based on your consent.
+
+**Commercial / Advertising Cookies.**
+
+These cookies, used by us and third parties, are designed to show you offers or other promotional information that may be of interest to you. We use cookies that collect data about your browsing history and identify your areas of interest so that we can show you relevant marketing information. The processing of data collected by these cookies is based on your consent.
+
+**5\. Social Media**
+
+The information you provide to us via social media (including messages, the use of the “Like” and “Follow” buttons, and other communications) is controlled by the operator of the social network.
+
+Our websites may provide links to our social media accounts (Social Media Accounts). We currently administer the following Social Media Accounts:
+
+* [Bored Panda](https://www.facebook.com/boredpanda/) on Facebook social network
+* [Bored Panda](https://www.instagram.com/boredpanda/) on Instagram social network
+* [Bored Panda](https://www.pinterest.com/boredpanda/) on Pinterest social network
+* [Bored Panda](https://www.linkedin.com/company/boredpanda/posts/) on LinkedIn social network
+* [Bored Panda](https://www.youtube.com/c/boredpanda) on YouTube social network
+* [Bored Panda](https://x.com/boredpanda) on X social network
+
+We process the information contained in social accounts for the purpose of administering the accounts on the basis of your consent. We do not separately store the information contained in the Social Media Accounts (where the data is processed for the purpose of administering the Social Media Accounts, but the data may be stored if it is necessary to process the data for another purpose, such as for the purpose of enforcing rights).
+
+When you visit Social Media Accounts, social network administrators place cookies on your device that collect personal data. Cookies are stored both if you are a registered user of a social network and if you do not have an account with the relevant social network. We do not have access to the personal data collected about you and can only obtain statistical information from the administrators of the social networks about the traffic of the Social Media Accounts.
+
+Headquarters of the majority of the social media networks administrators are established in third countries (mostly, USA), so visiting our Social Media Accounts may result in transfer of your personal data to third countries (mostly, USA). We recommend that you read the privacy notices of third parties and contact the social media networks’ administrators directly if you have any questions about how they use your personal data.
+
+**6\. How the information may be shared?**
+
+Your personal data may be transferred to our data processors, such as IT or cloud service companies (e.g. when we rent servers from an IT company, your personal data will be physically hosted (stored) with that IT company).  We require our data processors to ensure adequate protection of your data and ensure that they process your personal data only for the purposes for which we have instructed them to do so and only under our written instructions.
+
+Personal data may also be transferred to recipients who act as data controllers (separately or jointly with us). For example, social network operators, banks, payment service providers (for payments for paid services), etc.
+
+If you have any questions about our service providers, please contact us at the email address listed in our Privacy Policy.
+
+In addition to the specific recipients of the data identified in this Privacy Policy, we may also disclose information about you:
+
+— if we are required to do so by law (e.g. by a court or law enforcement authority);
+
+— when you intend to sell the business or part of its assets by disclosing your personal data to a potential buyer of the business or part of the business;
+
+— the sale of the company’s business or a substantial part of its assets to a third party.
+
+— Where necessary to protect our rights and legitimate interests.
+
+Except as provided in this Privacy Policy, we do not provide your personal data to any third parties.
+
+**7\. Your rights**
+
+In this section, we provide information about your rights in relation to our processing of your personal data and when you can exercise these rights. If you would like more information about your rights or to exercise them, please contact us at the email address set out in this Privacy Policy.
+
+We will provide you with information on the action taken following your request for the exercise of your rights without undue delay, but at the latest within one (1) month of receipt of the request. Depending on the complexity of the request and the number of requests received, the aforementioned time limit may be extended for a further 2 (two) months. In this case, we will inform you within 1 (one) month of receipt of the request of such extension and the reasons for it. The company will only refuse to exercise your rights in cases provided for by law.
+
+**Right of access to your personal data**
+
+We want you to fully understand how we use your personal data so that you do not experience any inconvenience. You can contact us at any time to enquire whether we are processing any of your personal data. If we store or use your personal data in any way, you have the right to access it. To do so, please submit a written request to us at the email address set out in this Privacy Policy, confirm your identity; and observe the principles of fairness and reasonableness when making such a request.
+
+**Right to withdraw consent**
+
+If you have given us your explicit consent to the processing of your data, you can withdraw it at any time. Withdrawal of consent does not affect the lawfulness of consent-based processing carried out before the withdrawal of consent.
+
+**Additional rights**
+
+Below you will find information about additional rights that you may have, which you can exercise by following the procedures described below.
+
+(a) You have the right to ask us to correct any inaccuracies in the data we hold. In this case, we may ask you to confirm the corrected information.
+
+(b) You have the right to ask us to delete your personal data. This right shall be exercised in the cases provided for in Article 17 of the General Data Protection Regulation (EU) 2016/679.
+
+(c) You have the right to ask us to restrict or not to process your personal data:
+
+— the period of time necessary to verify the accuracy of your personal data when you make a complaint about the accuracy of the data;
+
+— where our collection, storage or use of your personal data is unlawful, but you choose not to request erasure;
+
+— where we no longer need your personal data, but you need it to establish, exercise or defend a legal claim;
+
+— the period necessary to determine whether we have an overriding legal basis to continue processing your personal data if you have exercised your right to object to the processing of personal data.
+
+(d) You have the right to the transfer of data processed by automated means which we have received from you in a structured, commonly used and computer-readable format with your consent or for the purposes of concluding a contract (right to data portability). If you exercise this right, we will, at your request, transfer a copy of the data provided by you to you or to a data controller of your choice.
+
+(e) You have the right to object to our use of your personal data in accordance with Article 21 of the GDPR. You have the right to object when your personal data is processed on the basis of legitimate interest (for each of the above purposes of processing, it is indicated on which basis the data is processed) or for direct marketing purposes.
+
+**Right to request more information**
+
+We hope that you will understand that it is very difficult to discuss all possible ways of collecting and using personal data. We do our best to provide as clear and complete information as possible and we undertake to update this Privacy Policy if the process of using personal data changes. However, if you have any questions about our use of your personal data, we will be happy to answer them or provide you with any additional information we may disclose. If you have any specific questions or do not understand the information provided, please contact us.
+
+**Complaints**
+
+If you believe that your rights as a data subject have been and/or may be violated, please contact us immediately at the email address specified in this Privacy Policy. We ensure that only upon receipt of your complaint, we will contact you within a reasonable period of time to inform you of the progress of the investigation and, subsequently, the outcome of the complaint.
+
+If you are not satisfied with the results of the investigation, you can lodge a complaint with the supervisory authority, the State Data Protection Inspectorate: https://vdai.lrv.lt .
+
+**8\. Updates to the Privacy Policy**
+
+We may update our Privacy Policy from time to time to reflect changes. Changes will be posted with a revised effective date, and significant updates will be communicated via email or platform announcements.
+
+**9\. How to contact us?**
 
 Use this email for all the enquiries you might have:  
 [hello@boredpanda.com](mailto:hello@boredpanda.com) with a subject line “My privacy”  
@@ -424,7 +494,7 @@ Or via mail at:
 Bored Panda legal department  
 Didlaukio g. 80-96  
 Vilnius  
-Lithuania     
+Lithuania  
 LT-10312
 
 See Boredpanda in... [Tooltip close](javascript:void(0))
