@@ -1,8 +1,8 @@
 [Skip to content](#content)
 
-Kaseya 365 - Everything needed to manage and secure your endpoints.
+Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS Alerts.
 
-[Explore Kaseya 365](https://www.kaseya.com/products/kaseya-365/)
+[Read Press Release](https://www.kaseya.com/press-release/kaseya-continues-driving-msp-profitability-and-efficiency-with-launch-of-kaseya-365-user-at-dattocon-miami/)
 
 [IT Management Software](https://www.kaseya.com/ "IT Management Software")
 
@@ -15,7 +15,7 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     * [MSPsGrow Your Business](https://www.kaseya.com/managed-service-providers/ "MSPs")
     * [IT DepartmentsManage IT with Ease](https://www.kaseya.com/it-departments/ "IT Departments")
     
-    Prduct Suites
+    Product Suites
     
     * [RMM/Endpoint ManagementManage & Secure Anything](https://www.kaseya.com/solutions/rmm-endpoint-management/ "RMM/Endpoint Management")
     * [SecurityMulti-Layered Cyber Defense](https://www.kaseya.com/solutions/security/ "Security")
@@ -36,11 +36,11 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     ![](https://www.kaseya.com/wp-content/uploads/2024/04/logo-kaseya-365-white.svg)
     
-    The Golden Age of IT Management
+    Automated, Affordable, Comprehensive IT Solutions
     
-    Everything Needed to Manage, Secure, Backup and Automate Your Endpoints
+    Maximize efficiency, minimize costs, and simplify IT management with purpose-built solutions designed to deliver everything essential for IT teams.
     
-    [Read more](https://www.kaseya.com/products/kaseya-365/)
+    [Explore Kaseya 365](https://www.kaseya.com/products/kaseya-365/)
     
 * [Products](# "Products")
     
@@ -61,14 +61,57 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     * [RMM/Endpoint Management](# "RMM/Endpoint Management")
     * [Sales & Marketing](# "Sales & Marketing")
     * [Security Awareness Training](# "Security Awareness Training")
+    * [User Security](# "User Security")
     
     Featured Products
     
-    Kaseya 365
+    Kaseya 365 Endpoint
     
-    Manage, Secure, Backup & Automate Your Endpoints
+    Manage, Secure, & Backup Your Endpoints
     
-    [Explore Product](https://www.kaseya.com/products/kaseya-365/)
+    [Explore Product](https://www.kaseya.com/products/kaseya-365/endpoint/)
+    
+    Datto Endpoint Backup
+    
+    Simple, Affordable Direct-to-Cloud Backup
+    
+    [Explore Product](https://www.datto.com/products/endpoint-backup/)
+    
+    Datto Endpoint Backup with Disaster Recovery
+    
+    Secure, Reliable Direct-to-Cloud Backup
+    
+    [Explore Product](https://www.datto.com/products/server-backup/)
+    
+    Datto File Protection
+    
+    Top MSP Safeguard for Files & Folders
+    
+    [Explore Product](https://www.datto.com/products/file-protection/)
+    
+    Unitrends Endpoint Backup
+    
+    Simple, Affordable Direct-to-Cloud Backup
+    
+    [Explore Product](https://www.unitrends.com/products/endpoint-backup-solution)
+    
+    Unitrends Endpoint Backup with Disaster Recovery
+    
+    Iron-Clad Backup for On-The-Go Endpoints
+    
+    [Explore Product](https://www.unitrends.com/products/server-backup)
+    
+    Kaseya 365 Endpoint
+    
+    Manage, Secure, & Backup Your Endpoints
+    
+    [Explore Product](https://www.kaseya.com/products/kaseya-365/endpoint/)
+    
+    Kaseya 365 User
+    
+    Prevent, Respond & Recover from User Threats
+    
+    [Explore Product](https://www.kaseya.com/products/kaseya-365/user/)
     
     Datto Autotask PSA
     
@@ -88,23 +131,11 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     [Explore Product](https://www.datto.com/products/rmm/)
     
-    Datto Secure Edge
-    
-    ZTNA-Friendly Secure Access Service Edge
-    
-    [Explore Product](https://www.datto.com/products/secure-edge/)
-    
     IT Glue
     
     The Gold Standard For IT Documentation
     
     [Explore Product](https://www.itglue.com/features/)
-    
-    Managed SOC
-    
-    Easy, Effortless, 24/7/365 Managed SOC
-    
-    [Explore Product](https://www.rocketcyber.com/)
     
     VSA
     
@@ -112,11 +143,77 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     [Explore Product](https://www.kaseya.com/products/rmm-software/)
     
+    SaaS Alerts
+    
+    Cloud Detection & Response
+    
+    [Explore Product](https://saasalerts.com/)
+    
     vPenTest
     
     Automated Network Penetration Testing
     
     [Explore Product](https://www.vonahi.io/)
+    
+    Kaseya 365 Endpoint
+    
+    Manage, Secure, & Backup Your Endpoints
+    
+    [Explore Product](https://www.kaseya.com/products/kaseya-365/endpoint/)
+    
+    Datto RMM
+    
+    Next Gen RMM: Any Endpoint, Anywhere
+    
+    [Explore Product](https://www.datto.com/products/rmm/)
+    
+    VSA
+    
+    Unified RMM, Purpose-Built for SMBs
+    
+    [Explore Product](https://www.kaseya.com/products/rmm-software/)
+    
+    Kaseya 365 User
+    
+    Prevent, Respond & Recover from User Threats
+    
+    [Explore Product](https://www.kaseya.com/products/kaseya-365/user/)
+    
+    BullPhish ID
+    
+    Automated Security Awareness Training
+    
+    [Explore Product](https://www.idagent.com/products/security-awareness-training/)
+    
+    Dark Web ID
+    
+    Mission Critical Dark Web Monitoring
+    
+    [Explore Product](https://www.idagent.com/products/dark-web-monitoring/)
+    
+    Datto SaaS Protection
+    
+    Stress-Free SaaS Backup for Less
+    
+    [Explore Product](https://www.datto.com/products/saas-protection/)
+    
+    Graphus
+    
+    AI-Powered Email Security
+    
+    [Explore Product](https://www.idagent.com/products/email-security/)
+    
+    SaaS Alerts
+    
+    Cloud Detection & Response
+    
+    [Explore Product](https://saasalerts.com/)
+    
+    Spanning
+    
+    Simple, Smart & Secure SaaS Backup
+    
+    [Explore Product](https://spanning.com/)
     
     audIT
     
@@ -250,54 +347,6 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     [Explore Product](https://www.datto.com/products/wifi/)
     
-    Datto Endpoint Backup
-    
-    Simple, Affordable Direct-to-Cloud Backup
-    
-    [Explore Product](https://www.datto.com/products/endpoint-backup/)
-    
-    Datto Endpoint Backup with Disaster Recovery
-    
-    Secure, Reliable Direct-to-Cloud Backup
-    
-    [Explore Product](https://www.datto.com/products/server-backup/)
-    
-    Datto File Protection
-    
-    Top MSP Safeguard for Files & Folders
-    
-    [Explore Product](https://www.datto.com/products/file-protection/)
-    
-    Unitrends Endpoint Backup
-    
-    Simple, Affordable Direct-to-Cloud Backup
-    
-    [Explore Product](https://www.unitrends.com/products/endpoint-backup-solution)
-    
-    Unitrends Endpoint Backup with Disaster Recovery
-    
-    Iron-Clad Backup for On-The-Go Endpoints
-    
-    [Explore Product](https://www.unitrends.com/products/server-backup)
-    
-    Datto RMM
-    
-    Next Gen RMM: Any Endpoint, Anywhere
-    
-    [Explore Product](https://www.datto.com/products/rmm/)
-    
-    VSA
-    
-    Unified RMM, Purpose-Built for SMBs
-    
-    [Explore Product](https://www.kaseya.com/products/rmm-software/)
-    
-    Traverse
-    
-    Hybrid Network Performance Monitoring
-    
-    [Explore Product](https://www.kaseya.com/products/traverse/)
-    
     Graphus
     
     AI-Powered Email Security
@@ -340,6 +389,14 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/10/Kaseya-365-USER-Custom-Page.jpg)
+    
+    Introducing Kaseya 365 User: Going Beyond the Endpoint With SaaS Alerts & Kaseya 365 User
+    
+    October 29
+    
+    2 minute read](https://www.kaseya.com/blog/beyond-the-endpoint-with-saas-alerts-kaseya-365-user/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/10/top-compliance-standards-soc2-pci-iso-nist-thumb-600x400.jpg)
     
     Top Compliance Standards and the Differences Between Them: SOC 2, ISO 27001, NIST and PCI DSS
@@ -348,19 +405,37 @@ Kaseya 365 - Everything needed to manage and secure your endpoints.
     
     11 minute read](https://www.kaseya.com/blog/top-compliance-standards-soc2-pci-iso-nist/)
     
-    [![](https://www.kaseya.com/wp-content/uploads/2024/10/ransomware-as-a-service-raas-600x400.jpeg)
-    
-    What is Ransomware-as-a-Service (RaaS)?
-    
-    October 3
-    
-    10 minute read](https://www.kaseya.com/blog/ransomware-as-a-service-raas/)
-    
     [View the Full Blog](https://www.kaseya.com/blog/)
     
     Upcoming Events
     
     [View All Events](https://www.kaseya.com/events/)
+    
+* [Customer Success](# "Customer Success")
+    
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/kaseya-menu-global-services.png)
+    
+    Global Services
+    
+    Enablement and Managed Services designed to streamline your business operations.
+    
+    [Explore Global Services](https://www.kaseya.com/customer-success/global-services/)
+    
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/kaseya-menu-university.png)
+    
+    Kaseya University
+    
+    Training and certification programs designed to optimize IT and security management.
+    
+    [Explore Kaseya University](https://www.kaseya.com/customer-success/kaseya-university/)
+    
+    ![](https://www.kaseya.com/wp-content/uploads/2024/10/kaseya-menu-global-support.png)
+    
+    Global Support
+    
+    24 x 7 x 365 technical assistance ensures your business has continuous access to expert support.
+    
+    [Explore Global Support](https://www.kaseya.com/customer-success//global-support/)
     
 * [Company](# "Company")
     
