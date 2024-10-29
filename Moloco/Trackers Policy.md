@@ -1,8 +1,8 @@
-###### Join us as Moloco takes the stage for Advertising Week NYC 2024, Oct 7-10  
+###### **New insights!** Unlock global growth with Beyond Borders: Mobile Gaming Insights for Global Growth.  
 
-[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/advertising-week-nyc-2024)[Learn more
+[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.molocoads.com/offers/mobile-gaming-insights)[ACCESS FREE REPORT
 
-![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/advertising-week-nyc-2024)
+![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.molocoads.com/offers/mobile-gaming-insights)
 
 [![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/?r=0)
 
