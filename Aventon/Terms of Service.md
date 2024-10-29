@@ -1,6 +1,4 @@
-src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
-
-[Get the Soltera.2 Now for Just $999!](https://www.aventon.com/products/soltera-2-ebike)
+[Check Out the All-New Abound SR. Available Now!](https://www.aventon.com/products/abound-sr-ebike)
 
 — —
 
@@ -1034,5 +1032,3 @@ Footer
 [Privacy Policy](https://www.aventon.com/pages/privacy-policy)   |   [Terms of Service](https://www.aventon.com/pages/terms-of-service)  
 
 [0](https://www.aventon.com/cart)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
