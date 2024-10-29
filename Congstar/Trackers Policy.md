@@ -235,7 +235,7 @@ Rückgabe
 * [Tarife mit Vertrag](https://www.congstar.de/handytarife/)
 * [Prepaid](https://www.congstar.de/prepaid/)
 * [Handys & Smartphones](https://www.congstar.de/geraete/)
-* [Festnetz & Internet](https://www.congstar.de/internet/)
+* [Internet](https://www.congstar.de/internet/)
 * [Produktinformationsblätter](https://www.congstar.de/produktinformationsblaetter/)
 * [Garantiebedingungen](https://www.congstar.de/garantiebedingungen/)
 * [Hinweise zu Batterien und Altgeräten](https://www.congstar.de/hinweise-zu-batterien-und-altgeraeten/)
