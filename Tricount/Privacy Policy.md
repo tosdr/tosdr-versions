@@ -264,7 +264,7 @@ Help
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.bunq.com/blog/tricount)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/)
 
 © 2024 Tricount
 
@@ -290,7 +290,7 @@ Help
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.bunq.com/blog/tricount)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/)
 
 © 2024 Tricount
 
@@ -316,7 +316,7 @@ Help
 
 Company
 
-[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.bunq.com/blog/tricount)
+[Discover bunq](https://www.bunq.com/)[Press](https://press.bunq.com/)[Jobs](https://jobs.bunq.com/)[Blog](https://www.tricount.com/en/)
 
 © 2024 Tricount
 
