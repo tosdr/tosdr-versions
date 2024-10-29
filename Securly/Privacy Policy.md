@@ -618,7 +618,6 @@ United States
 * [Case studies](https://www.securly.com/case-studies)
 * [Product briefs](https://www.securly.com/product-briefs)
 * [Live events & webinars](https://www.securly.com/events)
-* [The Lounge](https://lounge.securly.com/)
 * [Blog](https://blog.securly.com/)
 * [Securly vs. Alternatives](https://www.securly.com/vs-alternatives)
 * [Lookup tool](https://www.securly.com/lookup-tool)
