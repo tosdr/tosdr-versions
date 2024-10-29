@@ -108,11 +108,11 @@ Learn & Connect
 
 [Learning Center](https://getdivvy.com/learning)[Guides](https://getdivvy.com/guides)[Webinars](https://getdivvy.com/webinars)[Business Templates](https://getdivvy.com/business-templates)[BILL Product Updates](https://getdivvy.com/product-updates)[Find an Accountant](https://getdivvy.com/find-an-accountant)
 
-4 ways financial automation amplifies efficiency in healthcare
+3 modern solutions to top accounting  firm challenges
 
-[Get the Guide](https://getdivvy.com/guides/4-ways-financial-automation-amplifies-efficiency-in-healthcare)
+[Get the Guide](https://getdivvy.com/guides/international-accounting-day)
 
-![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66ecee7085d3393ae269135d_guide-hero.png)
+![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/671ff0f19abf29dd11135a04_iad-thumb.webp)
 
 Company
 
