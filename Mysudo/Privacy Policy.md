@@ -108,7 +108,7 @@
 Privacy Policy
 --------------
 
-Last updated: October 14, 2024
+Last updated: October 29, 2024
 
 This privacy policy describes the information Anonyome Labs, Inc. collects and how we use it within the applications, services, and websites. In addition to Anonyome Labs, Inc., all subsidiaries of Anonyome Labs, Inc. also adhere to the content in this privacy policy.
 
@@ -176,7 +176,7 @@ We use technology to protect our web sites from spam and other forms of abuse. T
 
 We collect non-personally identifying information about how users use our web sites, to improve them. We use Statsig for this purpose.
 
-If you choose to provide your email address to subscribe to privacy, security and cyber safety tips, your email address will be stored and processed on the Mailchimp platform.
+If you choose to provide your email address to subscribe to privacy, security and cyber safety tips, your email address will be stored and processed on the Marketo platform.
 
 The MySudo Support Site ([https://support.mysudo.com](https://support.mysudo.com/)) is hosted on the Zendesk platform. If you choose to participate in the Community feature of this site, you are required to create an account to post messages. Creating an account requires that you provide an email address. This email address is not used by us to contact community users directly.
 
