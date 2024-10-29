@@ -23,6 +23,9 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
+Secondary Menu
+--------------
+
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -223,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action to Stop Online Business Opportunity Scam That Has Cost Consumers Millions](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-stop-online-business-opportunity-scam-has-cost-consumers-millions)
+    ### [FTC Sends More Than $1 Million to Consumers Harmed by Rhinelander Auto’s Unlawful Junk Fees and Discriminatory Financing](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-1-million-consumers-harmed-rhinelander-autos-unlawful-junk-fees-discriminatory)
     
-    October 28, 2024
+    October 29, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -329,6 +332,9 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
+
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
