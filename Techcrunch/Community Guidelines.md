@@ -186,6 +186,6 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Bridgit Mendler](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/)
 * [TechCrunch Disrupt 2024 Agenda](https://techcrunch.com/events/tc-disrupt-2024/agenda/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
