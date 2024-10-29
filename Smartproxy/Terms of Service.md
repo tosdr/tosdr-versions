@@ -26,9 +26,9 @@ Equip ISP proxies and enjoy unbeatable speed and stability.](https://smartproxy.
 
 Dive into a 10M+ ethically-sourced mobile IP pool with 160+ locations and 700+ ASNs.](https://smartproxy.com/proxies/mobile)
 
-[Proxy Servers
+[Datacenter
 
-Power up your projects with stability and exceptional speed of 500K+ IPs worldwide.](https://smartproxy.com/proxies/buy)
+Power up your projects with stability and exceptional speed of 500K+ IPs worldwide.](https://smartproxy.com/proxies/datacenter-proxies)
 
 [Site Unblocker
 
@@ -74,7 +74,7 @@ Test lists of proxies to avoid potential errors.](https://smartproxy.com/apps/pr
 
 [Features](https://smartproxy.com/proxies/features)
 
-[SOCKS5](https://smartproxy.com/proxies/socks5)[Rotating](https://smartproxy.com/proxies/rotating-proxies)[ISP](https://smartproxy.com/proxies/isp-proxies)[Shared](https://smartproxy.com/proxies/shared-proxies)[Private](https://smartproxy.com/proxies/private-proxies)[Backconnect](https://smartproxy.com/proxies/backconnect-proxies)[Elite](https://smartproxy.com/proxies/anonymous-proxy)[No subnets](https://smartproxy.com/proxies/proxies-without-subnets)[IPv4](https://smartproxy.com/proxies/ipv4-proxies)[Datacenter](https://smartproxy.com/proxies/datacenter-proxies)[Cheap](https://smartproxy.com/proxies/cheap)
+[SOCKS5](https://smartproxy.com/proxies/socks5)[Rotating](https://smartproxy.com/proxies/rotating-proxies)[ISP](https://smartproxy.com/proxies/isp-proxies)[Shared](https://smartproxy.com/proxies/shared-proxies)[Private](https://smartproxy.com/proxies/private-proxies)[Backconnect](https://smartproxy.com/proxies/backconnect-proxies)[Elite](https://smartproxy.com/proxies/anonymous-proxy)[No subnets](https://smartproxy.com/proxies/proxies-without-subnets)[IPv4](https://smartproxy.com/proxies/ipv4-proxies)[Proxy Servers](https://smartproxy.com/proxies/buy)[Cheap](https://smartproxy.com/proxies/cheap)
 
 [Targets](https://smartproxy.com/targets)
 
@@ -102,7 +102,7 @@ from$2/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
 
 from$6/GB](https://smartproxy.com/proxies/mobile/pricing)
 
-[Proxy servers
+[Datacenter
 
 from$0.09/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
 
