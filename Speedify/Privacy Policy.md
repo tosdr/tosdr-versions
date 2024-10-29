@@ -137,7 +137,7 @@ Oct 30
 
 10:00 am - 11:00 am EDT
 
-### [10/30 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](https://speedify.com/event/10-30-10am-edt-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "10/30 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
+### [10/30 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](http://speedify.com/event/10-30-10am-edt-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "10/30 @ 10am EDT – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
