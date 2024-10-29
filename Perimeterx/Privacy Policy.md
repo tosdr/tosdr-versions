@@ -312,7 +312,7 @@ X
             
             [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
-    * * [Become a Partner
+    * * [Technology Partners
             
             HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
             
@@ -634,7 +634,7 @@ X
             
             [Explore HUMAN's technology through channel partners, combining bot mitigation and other security solutions.](https://www.humansecurity.com/partners/channel/old)
             
-    * * [Become a Partner
+    * * [Technology Partners
             
             HUMAN collaborates with the world's leading technology companies](https://www.humansecurity.com/partners/technology)
             
@@ -929,7 +929,7 @@ Partners
 * [The Human Collective](https://www.humansecurity.com/company/the-human-collective)
 * [Integrations](https://www.humansecurity.com/partners)
 * [Resellers](https://www.humansecurity.com/partners/channel/old)
-* [Technology](https://www.humansecurity.com/partners/technology)
+* [Technology Partners](https://www.humansecurity.com/partners/technology)
 * [Partner Portal](https://partners.humansecurity.com/English/?ReturnUrl=%2fEnglish%2fPartners%2fhome.aspx&__hstc=233546881.7f9124919ef436acf331cc4180a46d72.1635342799936.1648671054706.1648675289816.112&__hssc=233546881.12.1648738104896&__hsfp=1741684099)
 
 ROLES
