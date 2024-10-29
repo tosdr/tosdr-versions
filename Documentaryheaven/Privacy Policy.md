@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    Diary of a Porn Virgin
+    The Beginning and the End of the Universe
     
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
+* [![A Universe From Nothing (Lecture)](/wp-content/thumbnails/2511-100x70.jpg?x53432)
     
-    First Peoples: Europe
+    A Universe From Nothing (Lecture)
     
-    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
-* [![Anthrax War](/wp-content/thumbnails/2645-100x70.jpg?x53432)
+    Lawrence Krauss gives a talk on our current picture of the universe, how it will end, and how it could have come from nothing.Krauss is the author of many bestselling books on Physics and Cosmolog](https://documentaryheaven.com/a-universe-from-nothing-lecture/ "A Universe From Nothing (Lecture)")
+* [![Great White Shark: A Living Legend](/wp-content/thumbnails/8038-100x70.jpg?x53432)
     
-    Anthrax War
+    Great White Shark: A Living Legend
     
-    Anthrax War is a ground-breaking feature length documentary which illuminates one of the most important stories of our age – the threat that a terrifying Germ War Arms Race may now be beginning around](https://documentaryheaven.com/anthrax-war/ "Anthrax War")
-* [![The Real Jack The Ripper](/wp-content/thumbnails/8086-100x70.jpg?x53432)
+    Wildlife film. South African naturalist Mike Rutzen is crazy about great white sharks. He never saw Jaws, so he doesn't share the terror that has made these sharks the world's most feared predator.](https://documentaryheaven.com/great-white-shark-a-living-legend/ "Great White Shark: A Living Legend")
+* [![Lessons in Hate and Violence](/wp-content/thumbnails/5507-100x70.jpg?x53432)
     
-    The Real Jack The Ripper
+    Lessons in Hate and Violence
     
-    In 1888, London England was the world's largest city and the first to experience a serial killer. Fear and confusion gripped the city for a ten week period now know as the Autumn Of Terror. Over a cen](https://documentaryheaven.com/real-jack-ripper/ "The Real Jack The Ripper")
-* [![Poverty in Chicago](/wp-content/thumbnails/5903-100x70.jpg?x53432)
+    Dispatches goes undercover to investigate allegations that teachers regularly assault young children in some of the 2,000 Muslim schools in Britain run by Islamic organizations.The programme also fo](https://documentaryheaven.com/lessons-in-hate-and-violence/ "Lessons in Hate and Violence")
+* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
     
-    Poverty in Chicago
+    The Perfect Vagina
     
-    Directed and Produced by Brian Schodorf this film is an exploration of how the drug afflicted homeless population affects society as a whole with exclusive interviews with Chicago’s top social and pol](https://documentaryheaven.com/poverty-in-chicago/ "Poverty in Chicago")
-* [![North Korea: Inside the Mind of a Dictator](/wp-content/thumbnails/16488-100x70.jpg?x53432)
+    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
+* [![Ed Gein](/wp-content/thumbnails/6967-100x70.jpg?x53432)
     
-    North Korea: Inside the Mind of a Dictator
+    Ed Gein
     
-    Kim Jong-un, ruler of North Korea, he is just 36 years old but he commands the world's fourth-largest military, he has access to nuclear weapons and his family has ruled over their people using viole](https://documentaryheaven.com/north-korea-inside-mind-of-dictator/ "North Korea: Inside the Mind of a Dictator")
+    Edward Theodore "Ed" Gein was an American murderer and body snatcher. His crimes, committed around his hometown of Plainfield, Wisconsin, gathered widespread notoriety after authorities discovered Gei](https://documentaryheaven.com/ed-gein/ "Ed Gein")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
