@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
+* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
     
-    Extraordinary People: The Million Dollar Mind Reader
+    First Peoples: Europe
     
-    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
-* [![Kusamono](/wp-content/thumbnails/8782-100x70.jpg?x53432)
+    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
+* [![Anthrax War](/wp-content/thumbnails/2645-100x70.jpg?x53432)
     
-    Kusamono
+    Anthrax War
     
-    This is a short story about a young potter called Muri. His interest in Bonsai trees brought him to the throwing wheel where he started making his own Bonsai pots. Now 26 years old Muri has left Ruman](https://documentaryheaven.com/kusamono/ "Kusamono")
-* [![Stephen Fry And The Great American Oil Spill](/wp-content/thumbnails/8837-100x70.jpg?x53432)
+    Anthrax War is a ground-breaking feature length documentary which illuminates one of the most important stories of our age – the threat that a terrifying Germ War Arms Race may now be beginning around](https://documentaryheaven.com/anthrax-war/ "Anthrax War")
+* [![The Real Jack The Ripper](/wp-content/thumbnails/8086-100x70.jpg?x53432)
     
-    Stephen Fry And The Great American Oil Spill
+    The Real Jack The Ripper
     
-    Stephen Fry loves Louisiana. Four months after the BP oil spill, dubbed the worst ecological disaster in the history of America, Fry returns to the Deep South together with zoologist Mark Carwardine,](https://documentaryheaven.com/stephen-fry-great-american-oil-spill/ "Stephen Fry And The Great American Oil Spill")
-* [![Britain’s Oldest Mums And Dads](/wp-content/thumbnails/13815-100x70.jpg?x53432)
+    In 1888, London England was the world's largest city and the first to experience a serial killer. Fear and confusion gripped the city for a ten week period now know as the Autumn Of Terror. Over a cen](https://documentaryheaven.com/real-jack-ripper/ "The Real Jack The Ripper")
+* [![Poverty in Chicago](/wp-content/thumbnails/5903-100x70.jpg?x53432)
     
-    Britain’s Oldest Mums And Dads
+    Poverty in Chicago
     
-    Britain is becoming a nation of much older parents, the number of British women giving birth in their 40's and 50's has more than doubled in the last 10 years. The number of children born to fathers i](https://documentaryheaven.com/britains-oldest-mums-dads/ "Britain’s Oldest Mums And Dads")
-* [![Dive](/wp-content/thumbnails/6433-100x70.jpg?x53432)
+    Directed and Produced by Brian Schodorf this film is an exploration of how the drug afflicted homeless population affects society as a whole with exclusive interviews with Chicago’s top social and pol](https://documentaryheaven.com/poverty-in-chicago/ "Poverty in Chicago")
+* [![North Korea: Inside the Mind of a Dictator](/wp-content/thumbnails/16488-100x70.jpg?x53432)
     
-    Dive
+    North Korea: Inside the Mind of a Dictator
     
-    DIVE!, the documentary about living off America's trash has been making the rounds of the film festivals for some time now. It's even sparked a huge campaign to get Trader Joe's to stop wasting food](https://documentaryheaven.com/dive/ "Dive")
+    Kim Jong-un, ruler of North Korea, he is just 36 years old but he commands the world's fourth-largest military, he has access to nuclear weapons and his family has ruled over their people using viole](https://documentaryheaven.com/north-korea-inside-mind-of-dictator/ "North Korea: Inside the Mind of a Dictator")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
