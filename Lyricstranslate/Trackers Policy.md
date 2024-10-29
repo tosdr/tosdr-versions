@@ -137,69 +137,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Jtsing](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1303203-1706598651.png)](https://lyricstranslate.com/en/translator/jtsing "Jtsing")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[Việt Lee - Thương Một Người Mất Cả Tương Lai](https://lyricstranslate.com/en/viet-lee-thuong-mot-nguoi-mat-ca-t-lyrics)
+[Narciso Parigi - Una musica per te](https://lyricstranslate.com/en/narciso-parigi-una-musica-te-lyrics)
 
-Vietnamese
+Italian
 
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1172981#comment-1172981)
+
+[![emmac03](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566536-1679349402.jpg)](https://lyricstranslate.com/en/translator/emmac03 "emmac03")
 
 New translation
 
-[Adão Ventura - Cantiga](https://lyricstranslate.com/en/adao-ventura-cantiga-german)
+[Carolina Durante - Verdes, Césped](https://lyricstranslate.com/en/carolina-durante-verdes-cesped-english)
 
-Portuguese → German
+Spanish → English
 
-[![Parelmoer](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1483002-1611507450.jpg)](https://lyricstranslate.com/en/translator/parelmoer "Parelmoer")
+[![Paralia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1542717-1715186189.jpg)](https://lyricstranslate.com/en/translator/paralia "Paralia")
+
+New comment
+
+I should have heard the song!!!! It even names ...  [more](https://lyricstranslate.com/en/comment/1172980#comment-1172980)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1172979#comment-1172979)
+
+[![saspitite](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633967-1729776092.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
+
+New song
+
+[Hevisaurus - Justus Kummitus](https://lyricstranslate.com/en/hevisaurus-justus-kummitus-lyrics)
+
+Finnish
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[F.Charm - Oameni buni](https://lyricstranslate.com/en/fcharm-oameni-buni-lyrics)
+
+Romanian
+
+[![laigledemeaux](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1635065-1730205583.jpg)](https://lyricstranslate.com/en/translator/laigledemeaux "laigledemeaux")
 
 New translation
 
-[Zsuzsa A. Túri - Angyal](https://lyricstranslate.com/en/zsuzsa-turi-angyal-dutch)
+[Les Misérables (Musical) - Eponine's Errand](https://lyricstranslate.com/en/les-miserables-musi-eponines-errand-turkish)
 
-Hungarian → Dutch
-
-[![kejora.senja](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1232098-1689550181.jpg)](https://lyricstranslate.com/en/translator/kejorasenja "kejora.senja")
-
-New song
-
-[Ekin Uzunlar - Üç Günlük Dünya](https://lyricstranslate.com/en/ekin-uzunlar-uc-gunluk-dunya-lyrics)
-
-Turkish
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New translation
-
-[Japanese Children's Songs - あいうえお (A I U E O)](https://lyricstranslate.com/en/japanese-childrens-i-u-e-o-transliteration)
-
-Japanese → Transliteration
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[Jason Heerah - Zot Inn Pare?](https://lyricstranslate.com/en/jason-heerah-zot-inn-pare-lyrics)
-
-Mauritian Créole
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New song
-
-[Japanese Children's Songs - あいうえお](https://lyricstranslate.com/en/japanese-childrens-songs-i-u-e-o-lyrics)
-
-Japanese
-
-[![INCONNU_](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1613095-1725643314.jpg)](https://lyricstranslate.com/en/translator/inconnu-0 "INCONNU_")
-
-New song
-
-[Syudou - ブルートライブ](https://lyricstranslate.com/en/syudou-buru-toraibu-lyrics)
-
-Japanese
+English → Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
