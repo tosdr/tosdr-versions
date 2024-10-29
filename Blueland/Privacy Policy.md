@@ -8,6 +8,7 @@
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refill Packs](https://www.blueland.com/collections/refills)
+    * [Holiday Shop 🎁](https://www.blueland.com/collections/holiday-shop)
     
     Offset
     
@@ -19,7 +20,7 @@
     * [Personal Care](https://www.blueland.com/collections/personal-care)
     * [Extras](https://www.blueland.com/collections/extras)
     
-* [Get Refills](https://www.blueland.com/collections/refills)
+* [Holiday Shop](https://www.blueland.com/holiday)
 * [How It Works](https://www.blueland.com/how-it-works)
 
 [Blueland](https://www.blueland.com/)
@@ -39,6 +40,7 @@ Toggle navigation menu
 
 * [Shop All](https://www.blueland.com/collections/all)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
+* [Holiday Shop 🎁](https://www.blueland.com/holiday)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
 * [Hand Soap](https://www.blueland.com/collections/soaps)
@@ -522,7 +524,9 @@ Quick Add
 
 [![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
+
+Bestseller](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
