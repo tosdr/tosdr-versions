@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 28, 2024**
+**October 29, 2024**
 
 * * *
 
@@ -251,9 +251,9 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Social Psychology](https://www.sciencedaily.com/news/mind_brain/social_psychology/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Fitness](https://www.sciencedaily.com/news/health_medicine/fitness/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -267,9 +267,9 @@ this week
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
-
 [Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
+
+[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
 
   
 
