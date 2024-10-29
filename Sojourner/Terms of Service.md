@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4fb38fa4b83778f965abd9ce22726306
+057d5ecaf5c6fa43bded9b644ee7475e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage yellow tiny flower beads](https://sojourner.biz/images/cache/glass/VB0006.200.jpg)](https://sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
+[![12 mm silver coin pearls](https://sojourner.biz/images/cache/pearls/PE0210.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
 
-#### [Vintage yellow tiny flower beads](https://sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
+#### [12 mm silver coin pearls](https://sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
 
-$3.00
+$18.00
 
 ### Best Sellers
 
