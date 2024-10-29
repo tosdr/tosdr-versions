@@ -310,7 +310,7 @@ Main navigation
                     
                 * [Education partner program](https://www.usertesting.com/education-partner-program)
                     
-                * [OneWorld](https://www.usertesting.com/company/programs-initiatives/usertesting-oneworld)
+                * [OneWorld](https://www.usertesting.com/company/programs-initiatives/oneworld)
                     
                 
             
