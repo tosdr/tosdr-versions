@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![New Windows Driver Signature bypass allows kernel rootkit installs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Redline, Meta infostealer malware operations seized by police](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
-    * [![New Cisco ASA and FTD features block VPN brute-force password attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Redline, Meta infostealer malware operations seized by police](https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/)
+    * [![New tool bypasses Google Chrome’s new cookie encryption system](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
-    * [![Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New tool bypasses Google Chrome’s new cookie encryption system](https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
+    * [![US says Chinese hackers breached multiple telecom providers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 70 zero-day flaws get hackers $1 million at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/over-70-zero-day-flaws-get-hackers-1-million-at-pwn2own-ireland/)
-    * [![Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        US says Chinese hackers breached multiple telecom providers](https://www.bleepingcomputer.com/news/security/us-says-chinese-hackers-breached-multiple-telecom-providers/)
+    * [![Windows 11 24H2: The hardware and software blocking the new update](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Black Basta ransomware poses as IT support on Microsoft Teams to breach networks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/)
+        Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
     * [![New tool bypasses Google Chrome’s new cookie encryption system](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -441,13 +441,13 @@ Popular Stories
 
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
-* [![Pwn2Own Ireland](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    QNAP, Synology, Lexmark devices hacked on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/qnap-synology-lexmark-devices-hacked-on-pwn2own-day-3/)
+    New Windows Driver Signature bypass allows kernel rootkit installs](https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/)
 * [![SonicWall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fog ransomware targets SonicWall VPNs to breach corporate networks](https://www.bleepingcomputer.com/news/security/fog-ransomware-targets-sonicwall-vpns-to-breach-corporate-networks/)
+* [![Cisco](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Cisco ASA and FTD features block VPN brute-force password attacks](https://www.bleepingcomputer.com/news/security/new-cisco-asa-and-ftd-features-block-vpn-brute-force-password-attacks/)
 
 ##### Follow us:
 
