@@ -4,7 +4,7 @@ Privacy
 Privacy Policy
 ==============
 
-**Last update:**  23\. October 2024
+**Last update:**  28\. October 2024
 
 This data privacy statement applies to (amongst others):
 
@@ -628,7 +628,7 @@ You have the right to withdraw the consent granted by you for the processing of 
 
 You also have the right to lodge a complaint with the competent supervisory authority at any time.
 
-**Linz**, on  23\. October 2024
+**Linz**, on  28\. October 2024
 
 [Download as PDF](https://webcache-eu.datareporter.eu/c/9c8088b5-7ae6-4afc-83c3-f1f089b303c8/5Xps5b0vwZQ5/5z5/privacynotice_en.pdf)
 
@@ -675,6 +675,7 @@ Statistics cookies collect information about how websites are used to improve th
 | **\_gat** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | 1 minute | world4you.com |
 | **\_gcl\_au** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | 3 months | world4you.com |
 | **\_gid** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | 1 day | world4you.com |
+| **AMP\_MKTG\_(ID)** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Amplitude | Session | my.world4you.com |
 | **jts-rw** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Jentis | 1 year | world4you.com |
 | **jts\_ga\_HMVMP3XZDE** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google Analytics | Session | my.world4you.com |
 
@@ -690,7 +691,6 @@ Marketing cookies come from external advertising companies and are used to colle
 | **\_gcl\_dc** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
 | **\_gcl\_gb** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
 | **\_gcl\_gs** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
-| **\_uetvid** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Microsoft Bing | Session | www.world4you.com |
 | **bcookie** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | LinkedIn | 12 months | linkedin.com |
 | **IDE** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | 1 year | doubleclick.net |
 | **jts-fbc** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. |     | Session | www.world4you.com |
