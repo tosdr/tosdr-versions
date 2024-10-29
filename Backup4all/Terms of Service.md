@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
+* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
     
-* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
+* [How to restore your backup from Dropbox](https://www.backup4all.com/how-to-restore-your-backup-from-dropbox-kb.html)  
     
-* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
+* [How to monitor multiple Backup4all installati ...](https://www.backup4all.com/how-to-monitor-multiple-backup4all-installations-using-the-back-kb.html)  
     
-* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
+* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
     
-* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
+* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
     
 
 Choose language:
