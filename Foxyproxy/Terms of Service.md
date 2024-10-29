@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have already purchased a new subscription. I like your proxy.
+I enjoy your service tremendously. It's simple and it works. I had one minor concern (which was not your fault) and your support team helped me right away. I could not ask for an easier, higher quality proxy service.
 
-Michael France
+Peter May
