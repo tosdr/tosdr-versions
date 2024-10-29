@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Savage 110 Pro Pursuit: Going Upscale, Again](https://www.thegunpage.com/savage-110-pro-pursuit-going-upscale-again/10611528)
+* [From Bad to Worse: Dem Candidate’s Photo Op Range Day Yields More Troubling Concerns](https://www.thegunpage.com/from-bad-to-worse-dem-candidates-photo-op-range-day-yields-more-troubling-concerns/10611526)
+* [State Rep. Quang Nguyen Scrutinizes Sedona Gun Ordinance](https://www.thegunpage.com/state-rep-quang-nguyen-scrutinizes-sedona-gun-ordinance/10611524)
+* [TFB Review: Meprolight MPO-F Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-f-open-emitter-pistol-sight/10611529)
 * [Gun Beats Vehicle as Armed Citizen Stops Attacker from Running People Over](https://www.thegunpage.com/gun-beats-vehicle-as-armed-citizen-stops-attacker-from-running-people-over/10611519)
 * [Review: Heckler & Koch VP9 Match](https://www.thegunpage.com/review-heckler-koch-vp9-match/10611518)
 * [What Are The Top 5 Concealed Carry Handguns?](https://www.thegunpage.com/what-are-the-top-5-concealed-carry-handguns/10611514)
 * [POTD: Tequila Sunrise 300 BLK Precision Rifle](https://www.thegunpage.com/potd-tequila-sunrise-300-blk-precision-rifle/10611515)
 * [The Rimfire Report: Ruger American Rimfire Long-Range Target](https://www.thegunpage.com/the-rimfire-report-ruger-american-rimfire-long-range-target/10611516)
 * [FN Unveils The FN SCAR 15P 300 Blackout](https://www.thegunpage.com/fn-unveils-the-fn-scar-15p-300-blackout/10611507)
-* [TFB Review: Meprolight FABS Self-Illuminated Metal Flip Backup Sights](https://www.thegunpage.com/tfb-review-meprolight-fabs-self-illuminated-metal-flip-backup-sights/10611509)
-* [Giffords, Anti-Gunners Change Their Messaging to Match Changing Crime Stats](https://www.thegunpage.com/giffords-anti-gunners-change-their-messaging-to-match-changing-crime-stats/10611502)
-* [2nd Circuit Court Rules For New York In “Sensitive Places” Carry Ban Lawsuit](https://www.thegunpage.com/2nd-circuit-court-rules-for-new-york-in-sensitive-places-carry-ban-lawsuit/10611500)
-* [Royce Gracie Speaks Out About NRA And The Second Amendment](https://www.thegunpage.com/royce-gracie-speaks-out-about-nra-and-the-second-amendment/10611510)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
 * Jeff L. on [Sorry Democrats, the Fascist Shoe Really is on the Other (Democrat) Foot](https://www.conservativedailynews.com/2024/10/sorry-democrats-the-fascist-shoe-really-is-on-the-other-democrat-foot/#comment-782914)  
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
 * charles wilkins on [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/#comment-782900)
 * charles wilkins on [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/#comment-782887)
-* Jeff L. on [Americans Reject Democrat-Media Theatre of the Absurd](https://www.conservativedailynews.com/2024/10/americans-reject-democrat-media-theatre-of-the-absurd/#comment-782875)
 
 [Close](#)
 
