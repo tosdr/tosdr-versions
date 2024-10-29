@@ -1,4 +1,4 @@
-[](#main)
+[Skip to Content](https://poplin.co/privacy-policy#main)
 
 Log in
 
@@ -21,7 +21,7 @@ Poplin navigation menu
 
 * [Log In](javascript:void(0))
 
-Get the appCreate Account
+Get the app Create Account
 
 Privacy Policy
 ==============
@@ -58,8 +58,11 @@ See our [4,700+ reviews](https://www.trustpilot.com/review/poplin.co) on
 
 ![](/assets/images/Trustpilot_white.webp)
 
-* [![Apple Store link to download Poplin app](assets/images/ico-app-store.webp)Apple](https://apps.apple.com/us/app/sudshare/id1333675995)
-* [![Google Play link to download Poplin app](assets/images/ico-google-play.webp)Google Play](https://play.google.com/store/apps/details?id=com.sudshare.sudshare)
+![](/assets/images/AccessiBe-badge.png)
 
 * [Privacy Policy](https://poplin.co/privacy-policy)
 * [Terms of service](https://poplin.co/terms-of-service)
+* [Accessibility Statement](https://poplin.co/ada-notice)
+
+* [![Apple Store link to download Poplin app](assets/images/ico-app-store.webp)Download on the App Store](https://apps.apple.com/us/app/sudshare/id1333675995)
+* [![Google Play link to download Poplin app](assets/images/ico-google-play.webp)Get it on Google Play](https://play.google.com/store/apps/details?id=com.sudshare.sudshare)
