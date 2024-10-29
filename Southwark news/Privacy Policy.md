@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+    
+    ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+    
+    [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    [![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+    
+    ### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+    
+    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
     [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
     
     ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
@@ -39,22 +55,6 @@
     [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
     ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
-    
-    ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
-    
-    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
-    
-    [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-    
-    ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-    
-    [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+    
+    ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+    
+    [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    [![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+    
+    ### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+    
+    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
     [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
     
     ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
@@ -124,22 +140,6 @@ View All Result
     [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
     ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/7B26C1BF-88FF-4F7E-AF98-B862296D896D-e1729811631731-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
-    
-    ### [A visit to Crystal Palace’s Chatsworth Bakehouse – so popular they had to open a second shop](https://southwarknews.co.uk/area/crystal-palace/a-visit-to-crystal-palaces-chatsworth-bakehouse-so-popular-they-had-to-open-a-second-shop/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Real-Living-Wage-Rates_Instagram-360x180.jpg)](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/)
-    
-    ### [More than 140,000 Londoners will get a pay boost of 5.3 per cent](https://southwarknews.co.uk/area/south-london/more-than-140000-londoners-will-get-a-pay-boost-of-5-3-per-cent/) 
-    
-    [![Mr Vinod Patel, lead for dental services for cancer and the review](https://southwarknews.co.uk/wp-content/uploads/2024/10/mr-vinod-patel-360x180.jpg)](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-    
-    ### [South London hospital recognised for innovation in preventing tooth necrosis](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
-    
-    [![Robert Lacey and Ben Coppin Nursery Rhymes (credit: Luke Ainger)](https://southwarknews.co.uk/wp-content/uploads/2024/10/RobertLacey-and-Ben-Coppin-Nursery-Rhymes-credit-Luke-Ainger-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
-    
-    ### [Illustrator from Deptford brings out his first book with famous royal historian](https://southwarknews.co.uk/area/rotherhithe/illustrator-from-deptford-brings-out-his-first-book-with-famous-royal-historian/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -357,17 +357,17 @@ Website
 
 [26th October 2024](https://southwarknews.co.uk/area/borough/south-london-hospital-recognised-for-innovation-in-preventing-tooth-necrosis/)
 
-[![Henrietta Onyema by the food donation boxes outside her home](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_2861-e1729526185494-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-### [Food bank founder devastated after council warns donation boxes must go](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-[21st October 2024](https://southwarknews.co.uk/area/bermondsey/food-bank-founder-devastated-after-council-warns-donation-boxes-must-go/)
+[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
-[![Dulwich residents who object to the plans](https://southwarknews.co.uk/wp-content/uploads/2024/10/ii_m2ddeupy1-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+[![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
-### [Dulwich residents slam plans for 376 student flats over fears they will destroy the area](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
-[21st October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-residents-slam-plans-for-376-student-flats-over-fears-they-will-destroy-the-area/)
+[25th October 2024](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
 [![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
@@ -375,13 +375,31 @@ Website
 
 [22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
-[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
+[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 ### Featured Articles
+
+[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
+### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
+[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
+[![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-120x86.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+
+### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+
+[28th October 2024](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
+
+[![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-120x86.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+
+### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+
+[28th October 2024](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
 
 [![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
@@ -400,24 +418,6 @@ Website
 ### [Regal Rags opens shop in Peckham selling vintage and designer pieces](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
 
 [26th October 2024](https://southwarknews.co.uk/area/peckham/regal-rags-opens-shop-in-peckham-selling-vintage-and-designer-pieces/)
-
-[![L: A car driving into the bus gate that is not signposted. R: A sign indicating a 'with-flow' bus lane that does not exist.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-25-10-2024-at-11.44-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-### [Exclusive: Bus lane on Lower Road that catches out thousands of drivers is ‘fake’](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[25th October 2024](https://southwarknews.co.uk/area/rotherhithe/exclusive-bus-lane-on-lower-road-that-catches-out-thousands-of-drivers-is-fake/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Bleecker3-copy-120x86.jpg)](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-
-### [Five new food and drink openings in south London](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-
-[25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
-
-[![He collapsed on London Bridge (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-24-10-2024-at-13.19-120x86.jpg)](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
-
-### [City Police praised for giving CPR to a man whose heart stopped on London Bridge](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
-
-[24th October 2024](https://southwarknews.co.uk/area/borough/city-police-praised-for-giving-cpr-to-a-man-whose-heart-stopped-on-london-bridge/)
 
 ### USEFUL PAGES
 
