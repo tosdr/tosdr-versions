@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Holiday Travel Prep Sale | 20% off $100, 25% off $250, 30% off $400+ No code required. Holiday Travel Prep Sale | 20% off $100, 25% off $250, 30% off $400+ No code required.](https://www.airestech.com/pages/store)
+FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
 
     
 
