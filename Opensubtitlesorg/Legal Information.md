@@ -270,7 +270,7 @@ OpenSubtitles Copyrights 2006-2016 by OpenSubtitles Group Limited. All Rights Re
 
 \[ [Hockey Arena](http://www.hockeyarena.net/ "Online Manager - Hockey Arena") | [Movie Posters](https://www.cinematerial.com/ "Digital Movie posters") \]
 
-© 2006-2024 opensubtitles.org | web3 backend
+© 2006-2024 opensubtitles.org | web2 backend
 
 [![](//static.opensubtitles.org/gfx/css/close.gif)](javascript:void(0))
 
