@@ -48,7 +48,7 @@ Search the National Theatre  Search
 
 Search the National Theatre  Search
 
-* [![](https://images.nationaltheatre.org.uk/uploads/2022/07/National-Theatre-entrance_4-Feb-2015-Photo-Philip-Vile.jpg?resize=16%2C10&gravity "National-Theatre-entrance_4-Feb-2015-Photo-Philip-Vile")
+* [![People walking in front of the modern concrete architecture of the National Theatre under a clear blue sky.](https://images.nationaltheatre.org.uk/uploads/2024/10/National-Theatre-entrance-4-Feb-2015-Photo-Philip-Vile-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "National-Theatre-entrance-4-Feb-2015-Photo-Philip-Vile-aspect-ratio-160-100")
     
     Your visit](https://www.nationaltheatre.org.uk/your-visit/)
     * [Access](https://www.nationaltheatre.org.uk/your-visit/access/)
@@ -56,13 +56,13 @@ Search the National Theatre  Search
     * [Our theatres and event spaces](https://www.nationaltheatre.org.uk/your-visit/venues-at-the-national-theatre/)
     * [Things to do](https://www.nationaltheatre.org.uk/your-visit/things-to-do/)
     * [Venue hire](https://www.nationaltheatre.org.uk/your-visit/venue-hire/)
-* [![On a table outdoors, a selection of small plates of Italian dishes and glasses filled with wine are spread out.](https://images.nationaltheatre.org.uk/uploads/2023/09/Forza-wine-national-theatre-2000x1250-italian-rooftop-bar-restaurant-cocktails-photo-caitlin-isola-02.jpg?resize=16%2C10&gravity "Forza-wine-national-theatre-2000x1250-italian-rooftop-bar-restaurant-cocktails-photo-caitlin-isola-02")
+* [![A group of people are seated at a wooden table, sharing a meal. Their hands are visible, holding cutlery and reaching for food. The table is set with plates of various dishes, glasses of drinks, and scattered utensils, creating a convivial dining atmosphere.](https://images.nationaltheatre.org.uk/uploads/2024/10/Forza-Wine-plates-and-diners-Photo-Teo-Della-Torre-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "Forza-Wine-plates-and-diners-Photo-Teo-Della-Torre-aspect-ratio-160-100")
     
     Food and drink](https://www.nationaltheatre.org.uk/your-visit/eat-and-drink/)
     * [Lasdun Restaurant](https://www.nationaltheatre.org.uk/your-visit/eat-and-drink/lasdun-restaurant/)
     * [Forza Wine](https://www.nationaltheatre.org.uk/your-visit/eat-and-drink/forza-wine/)
     * [The Understudy](https://www.nationaltheatre.org.uk/your-visit/eat-and-drink/the-understudy/)
-* [![Ayesha Dharker as Simonida with cast, surrounding a Maypole, in Pericles](https://images.nationaltheatre.org.uk/uploads/2022/07/Pericles-2018-maypole-photo-James-Bellorini.jpg?resize=16%2C10&gravity "Pericles-2018-maypole-photo-James-Bellorini")
+* [![A large group of people in colorful clothing and flower crowns enthusiastically dance and celebrate around a maypole adorned with vibrant ribbons on a lit stage.](https://images.nationaltheatre.org.uk/uploads/2024/10/Pericles-2018-maypole-photo-James-Bellorini-1280x778-1-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "Pericles-2018-maypole-photo-James-Bellorini-1280x778-1-aspect-ratio-160-100")
     
     Join and support](https://www.nationaltheatre.org.uk/join-support/)
     * [Become a member](https://www.nationaltheatre.org.uk/join-support/become-a-member/)
@@ -71,21 +71,21 @@ Search the National Theatre  Search
     * [Trusts and foundations](https://www.nationaltheatre.org.uk/join-support/trusts-and-foundations/)
     * [Include a gift in your Will](https://www.nationaltheatre.org.uk/join-support/legacies/)
     * [American Associates of the National Theatre](https://www.nationaltheatre.org.uk/join-support/american-associates/)
-* [![A young person pointing to the stage whilst another person smils and looks upwards, they are sitting in the Lyttelton Theatre which is full of other young people](https://images.nationaltheatre.org.uk/uploads/2024/02/24-StudentConference-pointing-Emma-Hare-2000x1250-1.jpg?resize=16%2C10&gravity "24-StudentConference-pointing-Emma-Hare-2000x1250")
+* [![A young person pointing to the stage whilst another person smils and looks upwards, they are sitting in the Lyttelton Theatre which is full of other young people](https://images.nationaltheatre.org.uk/uploads/2024/10/24-StudentConference-pointing-Emma-Hare-1280x778-1-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "24-StudentConference-pointing-Emma-Hare-1280x778-1-aspect-ratio-160-100")
     
     Learn and explore](https://www.nationaltheatre.org.uk/learn-explore/)
     * [Schools](https://www.nationaltheatre.org.uk/learn-explore/schools/)
     * [Young people](https://www.nationaltheatre.org.uk/learn-explore/young-people/)
     * [Teaching resources](https://www.nationaltheatre.org.uk/learn-explore/schools/teacher-resources/)
     * [Training for business](https://www.nationaltheatre.org.uk/learn-explore/theatreworks-training-for-business/)
-* [![The National Theatre building exterior illuminated by candles at night](https://images.nationaltheatre.org.uk/uploads/2022/06/external-test-2-1-scaled.jpg?resize=16%2C10&gravity)
+* [![A brightly lit National Theatre at night, featuring warm orange and red hues. The exterior is decorated with numerous lights, and people are gathered outside. The building's modern architecture is highlighted under the evening sky.](https://images.nationaltheatre.org.uk/uploads/2024/10/National-Theatre-Inside-Out-festival-with-flames-menu-image-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "National-Theatre-Inside-Out-festival-with-flames-menu-image-aspect-ratio-160-100")
     
     About us](https://www.nationaltheatre.org.uk/about-us/)
     * [Our history](https://www.nationaltheatre.org.uk/about-us/our-history/)
     * [Careers, opportunities and advice](https://www.nationaltheatre.org.uk/about-us/careers/)
     * [Archive](https://www.nationaltheatre.org.uk/about-us/archive/)
     * [Contact us](https://www.nationaltheatre.org.uk/about-us/contact-us/)
-* [![Homepage of the National Theatre online shop](https://images.nationaltheatre.org.uk/uploads/2022/11/Shop-nav-menu-image-v2.jpg?resize=16%2C10&gravity "Shop-nav-menu-image-v2")
+* [![A cozy reading nook with an open book resting on a woven blue and white blanket. Nearby, two closed books, a pair of eyeglasses, a wooden tray, and a cup of coffee are arranged. A patterned pillow adds to the comfort.](https://images.nationaltheatre.org.uk/uploads/2024/10/Shop-Fiction-menu-image-aspect-ratio-160-100.jpg?resize=16%2C10&gravity "Shop-Fiction-menu-image-aspect-ratio-160-100")
     
     Shop](https://shop.nationaltheatre.org.uk/)
 
@@ -181,7 +181,7 @@ Footer
 * [Latest news](https://www.nationaltheatre.org.uk/news/)
 * [What we do](https://www.nationaltheatre.org.uk/about-us/)
 * [Our history](https://www.nationaltheatre.org.uk/about-us/our-history/)
-* [Press](https://www.nationaltheatre.org.uk/press/)
+* [Communications](https://www.nationaltheatre.org.uk/communications/)
 * [Modern Slavery Statement](https://www.nationaltheatre.org.uk/modern-slavery-statement/)
 
 * [What’s on](https://www.nationaltheatre.org.uk/whats-on/)
