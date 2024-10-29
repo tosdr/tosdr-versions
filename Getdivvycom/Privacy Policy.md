@@ -186,7 +186,7 @@ transforming spend & expense management for thousands of businesses
 Control. Simplify. Save.
 ------------------------
 
-BILL Spend & Expense is the all-in-one expense management solution that combines free software with access to the BILL Divvy Corporate Card² to provide you with real-time visibility and customizable control over your business finances.
+BILL Spend & Expense is the all-in-one expense management solution that combines free software with access to the BILL Divvy Card powered by Visa² to provide you with real-time visibility and customizable control over your business finances.
 
 [#### Business credit
 
@@ -206,7 +206,7 @@ Enable your team with the tools they need to spend smarter on the go and easily 
 
 [#### Virtual cards
 
-Protect your business from fraud and overspending with BILL Divvy Corporate Card virtual cards.](https://getdivvy.com/product/virtual-cards)
+Protect your business from fraud and overspending with BILL Divvy Card virtual cards.](https://getdivvy.com/product/virtual-cards)
 
 [#### Reimbursements
 
@@ -306,7 +306,7 @@ Highly-rated, full-featured mobile app for all users
 
 ¹Credit lines and the advertised range are not guaranteed and will be determined upon application approval.  
   
-²BILL Divvy Corporate Card is issued by Cross River Bank, member FDIC. This is not a deposit product.
+²BILL Divvy Card is issued by Cross River Bank, member FDIC. This is not a deposit product.
 
 Product
 
