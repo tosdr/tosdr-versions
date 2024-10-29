@@ -137,24 +137,25 @@ MSX Music player
 
 Latest reactions
 
+* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
+* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/news/hardware/en/msx-pico-cartridge "MSX Pico - multi Flash ROM cartridge")
 * [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MGLOAD](https://www.msx.org/downloads/mgload-0 "MGLOAD")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 * [News submissions that didn't make the front-page](https://www.msx.org/news/mrc/en/news-submissions-that-didnt-make-the-front-page "News submissions that didn't make the front-page")
-* [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 
 Latest forum posts
 
-* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=72 "WonderTANG! Who wants to juice up your MSX?")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement "Morderne mouse replacement")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
+* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
 * [Generation MSX is down?](https://www.msx.org/forum/msx-talk/general-discussion/generation-msx-is-down "Generation MSX is down?")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done?](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-propietary-firmware-deskpac-bypass-by-hardware-modding-can-b?page=1 "Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done? ")
 * [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
@@ -162,7 +163,6 @@ Latest forum posts
 * [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Moonsound OPL4 HOW TO USE?](https://www.msx.org/forum/msx-talk/hardware/moonsound-opl4-how-to-use "Moonsound OPL4 HOW TO USE?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
