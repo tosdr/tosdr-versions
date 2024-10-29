@@ -13,282 +13,282 @@
 
 * 
 
-Privacy Policy
---------------
+隐私政策
+----
 
-Last updated: 1 July 2024
+最新更新日期： 2024 年 7 月 1 日
 
-Thank you for using Rakuten Viki!
+感谢使用 Rakuten Viki！
 
-Viki, Inc. (“Rakuten Viki”, “we”, “our” and/or “us”) provides an interactive platform where you can access entertainment content and other available features, as well as interact with other users as part of an online community. Rakuten Viki provides the Rakuten Viki branded website (“Site)”, mobile and TV applications (“Apps”), and all other features, functionalities, user interfaces, and content available within the Site and Apps (collectively, the “Rakuten Viki Service”). We are a subsidiary of Rakuten Group, Inc., based in Tokyo, Japan (“Rakuten Group”). Learn more about Rakuten Group [here](https://global.rakuten.com/corp/about/company/).
+Viki, Inc.（“Rakuten Viki”、“我们”、“我们的”和/或“我方”）提供了一个互动平台，您可以在其中访问娱乐内容和其他可用特性，还可以作为在线社区的一部分与其他用户互动。Rakuten Viki 提供 Rakuten Viki 品牌网站（“网站”）、移动和电视应用程序（“应用程序”）以及网站和应用程序内提供的所有其他特性、功能、用户界面和内容（统称为“Rakuten Viki 服务”）。我们是 Rakuten Group, Inc. 的子公司，总部位于日本东京（“乐天集团”）。请点击[此处](https://global.rakuten.com/corp/about/company/)，了解有关乐天集团的更多信息。
 
-This Privacy Policy applies to your use of the Rakuten Viki Service and any other interactions between you and Rakuten Viki. It describes how we collect and process Personal Information about you, including Personal Information we may collect from or through your use of third-party social media services in relation to the Rakuten Viki Service, how we use and protect this information, and your rights in relation to this information.
+本隐私政策适用于您对 Rakuten Viki 服务的使用，以及您与 Rakuten Viki 之间的任何其他互动。本政策描述了我们如何收集和处理您的个人信息，包括我们可能通过您使用与 Rakuten Viki 服务相关的第三方社交媒体服务收集的个人信息，我们使用和保护这些信息的方式，以及您与这些信息相关的权利。
 
-As used in this Policy, “Personal Information” is information that identifies, describes, relates to, or is reasonably capable of being associated with or linked to an identifiable individual or household, or a combination of pieces of information that could reasonably allow you or your household to be identified. “Sensitive Personal Information” includes certain types of Personal Information that have been designated in various privacy and data protection laws as “sensitive’ or belonging to “special categories” due to their ability to be used by unauthorized recipients to perpetrate fraud, theft, or discriminatory treatment of individuals, such as financial account information, username/password combinations, health data, religion, political affiliation or union membership, and demographic information such as race, ethnicity, or sexual orientation. Viki does not intentionally collect or store or use for any of the purposes described below any Sensitive Personal Information except your account credentials (and payment information which is collected and handled directly by our third-party processor) even to the extent you choose to provide this type of information about yourself in comments, reviews, or other user-generated content you contribute when you use or interact with the Rakuten Viki Service. Information that is anonymized, aggregated or de-identified so it is no longer reasonably associated with an identified or identifiable person is not Personal Information, and we may use such anonymized, aggregated or de-identified information for any business purpose, without attempting to re-identify it.
+在本政策中，“个人信息”是指识别、描述、涉及可识别的个人或家庭或能够合理与可识别的个人或家庭关联的信息，或能够合理识别您或您的家庭的信息组合。“敏感个人信息”包括在各种隐私和数据保护法律中被指定为“敏感”或属于“特殊类别”的某些类型的个人信息，未经授权的接收方可能会利用这些信息对个人实施欺诈、盗窃或歧视性待遇，例如金融账户信息、用户名/密码组合、健康数据、宗教、政治派别或工会成员身份，以及种族、民族或性取向等人口统计信息。除您的账户凭据（以及由我们的第三方处理方直接收集和处理的付款信息）外，Viki 不会出于下述任何目的有意收集、存储或使用任何敏感个人信息，即使您在使用 Rakuten Viki 服务或与其互动时选择在评论、点评或其他用户生成内容中提供有关您自己的此类信息。经过匿名、汇总或去识别化处理，从而不再与已识别或可识别的个人合理关联的信息不属于个人信息，并且我们可将此类匿名、汇总或去识别化的信息用于任何商业目的，而不会试图重新识别个人身份。
 
-1. **INFORMATION WE COLLECT**
+1. **我们收集的信息**
     
-    We collect the below-listed types of Personal Information about you from a variety of sources, including directly from you, from your use of the Rakuten Viki Service, and from other sources, as described below:
+    我们从各种来源收集以下关于您的个人信息，包括直接向您收集、在您使用 Rakuten Viki 服务时收集，以及从其他来源收集，如下所述：
     
-    1. **Information We collect directly from you**
+    1. **我们直接向您收集的信息**
         
-        The following are the categories of information that we collect directly from you when you provide this information in relation to your Rakuten Viki account or your use of the Rakuten Viki Service. Please note that any information you voluntarily include as part of your profile information will be visible to other users of the Rakuten Viki Service.
+        以下是在您提供与您的 Rakuten Viki 账户或您使用 Rakuten Viki 服务相关的信息时，我们直接向您收集的信息类别。请注意，Rakuten Viki 服务的其他用户可以看到您自愿提供的个人资料中的任何信息。
         
-        1. Identifiers, such as:
-            1. Your personal details (for example, full name, profile picture);
-            2. Your contact details (for example, email address); and
-            3. Your account login details (for example, your username and password (encrypted));
-        2. Partial financial information, such as the last 4 digits of your credit card number and your credit card expiry date (if applicable). Note that full financial information needed for payment is directly collected and handled by our payment processor;
-        3. Demographics you choose to provide (optional) as part of your profile, such as gender. Note that such information will only be publicly visible if voluntarily included by you as part of your profile;
-        4. Commercial information, such as information about your chosen subscription plan(s); and
-        5. Any other information you may choose to provide when you access, participate and/or engage in a community of users of the Rakuten Viki Service, including when you post or upload subtitles and/or content to the Rakuten Viki Service, fill out a form, submit a request to our community support, respond to a survey, post or comment on forums, submit ratings and reviews, participate in promotions and/or quizzes, and provide your consent to any activities.
-    2. **Information we automatically collect from your use of the Rakuten Viki Service**
+        1. 识别信息，如：
+            1. 您的个人详细信息（例如：全名、个人头像）；
+            2. 您的联系方式（例如：电子邮箱地址)；及
+            3. 您的账户登录信息（例如：您的用户名和密码（加密））；
+        2. 部分财务信息，例如您的信用卡账号后 4 位以及信用卡到期日（如适用）。请注意，付款所需的全部财务信息由我们的付款处理方直接收集和处理；
+        3. 您在个人资料中选择提供的人口统计信息（可选），如性别。请注意，此类信息仅在您自愿写入个人资料时才会公开；
+        4. 商业信息，例如有关您所选订阅计划的信息；以及
+        5. 您在访问、参与 Rakuten Viki 服务和/或在 Rakuten Viki 服务的用户社区中进行互动时，包括在 Rakuten Viki 服务发布或上传字幕和/或内容、填写表格、向我们的社区支持提交请求、回复调查、在论坛上发帖或评论、提交评分和评论、参加促销活动和/或测试、同意参加任何活动时，您选择提供的任何其他信息。
+    2. **我们在您使用 Rakuten Viki 服务时自动收集的信息**
         
-        We may systematically collect the below-listed categories of information from and about your use of the Rakuten Viki Service.
+        我们可能会在您使用 Rakuten Viki 服务时系统地收集关于您的使用情况的以下类别信息。
         
-        1. Identifiers, such as unique identifiers for devices you use to access the Rakuten Viki Service (for example, the IP address, an app/device identifier, user agent, and advertising industry standard unique identifier);
-        2. Commercial information, such as information about your transactions on the Rakuten Viki Service (for example, amount charged, date and time), content you viewed on the Rakuten Viki Service and your content consumption history;
-        3. Internet and other electronic network activity information, such as how and when you use or access the Site, Apps, and Rakuten Viki Service (for example, date and time of visits, pages you view, types and frequency of content or genres you view, expressed content preferences or favourites you identify, subtitles or segments of content you edit, browsing you do, and searches you make);
-        4. Location inferred from IP address, such as the city and country from which the Rakuten Viki Service was accessed;
-        5. Other device information, such as certain technical information about your device relating to your browser type, language, local storage, your operating system and application version, device types, device model and manufacturer and your device operating system type and version;
-        6. Information collected using cookies and similar technologies. We and our partners automatically collect information from cookies and similar technologies (for example, cookie IDs and cookie preference or consent settings), subject to your consent or opt-out, as applicable for your jurisdiction, to recognize you, track your behaviour on the Rakuten Viki Service and your device, and to serve you with tailored advertisements. For more information on how we use cookies and how you can manage them, please visit our [Cookies Policy](https://www.viki.com/legal/cookies); and
-        7. Inferences about your potential preferences and characteristics based on any of the other Personal Information we collect, except Sensitive Personal Information, which we do not use to infer characteristics about you.
-    3. **Information We collect from other sources**
-        1. Registration through third parties
+        1. 识别信息，例如您访问 Rakuten Viki 服务所使用设备的唯一标识符（例如：IP 地址、应用程序/设备标识符、用户代理和广告业标准唯一标识符）；
+        2. 商业信息，例如关于您在 Rakuten Viki 服务上的交易信息（例如，收费金额、日期和时间），您在 Rakuten Viki 服务上观看的内容，以及内容消费历史记录；
+        3. 互联网和其他电子网络活动信息，例如您使用或访问网站、应用程序和 Rakuten Viki 服务的方式和时间（例如，访问日期和时间、您查看的页面、您观看的内容或风格的类型和频率、您的表达内容偏好或喜好、您编辑的内容的字幕或片段，您进行的浏览以及搜索）；
+        4. 从 IP 地址推断的位置，例如访问 Rakuten Viki 服务所在的城市和国家/地区；
+        5. 其他设备信息，例如您的设备上关于浏览器类型、语言、本地存储、操作系统和应用程序版本、设备类型、设备型号、制造商以及您的设备操作系统类型和版本的某些技术信息；
+        6. 使用 Cookie 和类似技术收集的信息。我们和我们的合作伙伴会自动通过 Cookie 和类似技术（例如 Cookie ID 和 Cookie 偏好或同意设置）收集信息，但须征得您同意，且您也可以选择退出（视您所在的司法管辖区而定），以识别您、跟踪您在 Rakuten Viki 服务和您的设备上的行为、为您提供量身定制的广告。有关我们如何使用 Cookie 和您如何管理 Cookie 的更多信息，请查看我们的 [Cookie 政策](https://www.viki.com/legal/cookies)；以及
+        7. 根据我们收集的任何其他个人信息推断您的潜在偏好和特征，但我们不会使用敏感个人信息推断您的特征。
+    3. **我们从其他来源收集的信息**
+        1. 通过第三方注册
             
-            You may choose to sign in to the Rakuten Viki Service using your existing account(s) on third-party services that are not owned or controlled by us (“Third-Party Services”), such as those provided by Facebook, Inc., Google LLC, or other Rakuten Group entities. In such case, Third-Party Services may send us the following types of information (whether this information is provided is controlled by the Third-Party Services or as authorized by you via your privacy settings on the Third-Party Services):
+            您可选择使用您在不归我们所有或控制的第三方服务（“第三方服务”）上现有账户登录 Rakuten Viki 服务，例如 Facebook, Inc.、Google LLC 或其他乐天集团实体提供的服务。在这种情况下，第三方服务可能向我们发送以下类型的信息（无论此类信息是由第三方服务控制，还是由您通过您在第三方服务上的隐私设置授权）：
             
-            1. Identifiers, such as:
-                1. Your personal details (for example, name, profile picture); and
-                2. Your contact details (for example, email address);
-            2. IP address;
-            3. Device information; and
-            4. Your preferences and consents.
-        2. Third Party Comment Service
+            1. 识别信息，如：
+                1. 您的个人详细信息（例如：姓名、个人头像）；以及
+                2. 您的联系方式（例如：电子邮箱地址）；
+            2. IP 地址；
+            3. 设备信息；以及
+            4. 您的偏好和同意。
+        2. 第三方评论服务
             
-            The Rakuten Viki Service allows you to post comments and information on a public-facing feature of the Rakuten Viki Service or through plug-ins, or other applications (the “Third-Party Comments Services”). Such information is public on the Rakuten Viki Service and, depending on your privacy settings, may also be made public on the internet. You can control the data you share through the privacy settings on the Third-Party Comments Services. We have no control over, and assume no responsibility for the privacy policies, terms of use and other policies on the Third-Party Comments Services. Please refer to the Third-Party Comments Services for more information; and
+            Rakuten Viki 服务允许您在 Rakuten Viki 服务的公开功能、插件或其他应用程序上发布评论和信息（“第三方评论服务”）。此类信息在 Rakuten Viki 服务上公开，并且根据您的隐私设置，这些信息也可能在互联网上公开。您可以通过第三方评论服务上的隐私设置控制您共享的数据。我们对任何第三方评论服务的隐私政策、使用条款和其他政策没有控制权，亦不承担任何责任。如欲了解更多信息，请参阅第三方评论服务；以及
             
-        3. Partnerships and advertisers
+        3. 合作伙伴和广告商
             
-            We may receive additional information about you from third party partners and advertisers, such as your activities on and off the Rakuten Viki Service.
+            我们可能会从第三方合作伙伴和广告商处获得更多关于您的信息，例如您在 Rakuten Viki 服务内外进行的活动。
             
-2. **HOW WE USE PERSONAL INFORMATION WE COLLECT**
+2. **我们如何使用收集的个人信息**
     
-    We use the Personal Information we collect from you to provide you the Rakuten Viki Service and for the following specific purposes:
+    我们使用向您收集的个人信息向您提供 Rakuten Viki 服务，并用于以下特定目的：
     
-    1. Providing access to and personalising the Rakuten Viki Service
+    1. 访问和个性化 Rakuten Viki 服务
         
-        We may use your Personal Information to:
+        我们可能会将您的个人信息用于：
         
-        1. Create account(s) that enable you to access and use the Rakuten Viki Service;
-        2. Authenticate your identity when you log in to the Rakuten Viki Service;
-        3. Personalise or otherwise customize your experience by, for example, providing you with content or content options based on your search, remembering language or other UI preferences, and recommending content based on your expressed or inferred preferences;
-        4. Determine your general geographic location to personalise the Rakuten Viki Service and determine whether the content you have requested is available in your region;
-        5. Process your payment for the Rakuten Viki Service through third-party service providers such as Stripe (whose Privacy Policy can be found [here](https://stripe.com/privacy)); and
-        6. Manage, maintain, and monitor the accounts you hold with us.
-    2. Advertising
+        1. 创建账户，允许您访问和使用 Rakuten Viki 服务；
+        2. 在您登录 Rakuten Viki 服务时，验证您的身份；
+        3. 个性化或以其他方式自定义您的体验，例如：基于您的搜索向您提供内容或内容选择，记住语言或其他 UI 偏好，并基于您表达或推断的偏好推荐内容；
+        4. 确定您的大概地理位置，以提供个性化的 Rakuten Viki 服务，并确定您请求的内容是否可在您所在地区提供；
+        5. 处理您通过第三方服务提供商（如 Stripe，其隐私政策可参见[此处](https://stripe.com/privacy)）支付的 Rakuten Viki 服务相关款项；以及
+        6. 管理、维护和监控您在我们这里开立的账户。
+    2. 广告
         
-        We, and our third-party advertisers, use your Personal Information to serve you with advertisements that may interest you, subject to your consent or opt-out, depending on your jurisdiction (see Section 4(a)(iii): Third-Party Advertisers).
+        我们和我们的第三方广告商使用您的个人信息向您投放您可能感兴趣的广告，但须征得您的同意，且您也可以选择退出，具体取决于您所在的司法管辖区（参见第 4(a)(iii) 条：第三方广告商）。
         
-    3. Marketing
+    3. 营销
         
-        We and our service providers and/or business partners (“Our Partners”) may use your information to send you promotional and direct marketing communications. Our avenues for direct marketing include in-app notifications, push notifications and email, and we monitor your engagement with these avenues to measure the effectiveness of our direct marketing. From time to time, we, Rakuten Affiliates, and Our Partners may invite you to participate in surveys, questionnaires, or other promotional or market research activities or events. Your Personal Information may be used to administer the above and for our analysis if you consent to participate.
+        我们和我们的服务提供商和/或业务合作伙伴（“我们的合作伙伴”）可能会使用您的信息向您发送促销和直接营销通信。我们的直接营销渠道包括应用内通知、推送通知和电子邮件，并且我们会监控您与这些渠道的互动情况，以衡量我们直接营销的效果。我们、乐天关联方和我们的合作伙伴可能会不时邀请您参与调查、问卷或其他促销或市场研究活动。如果您同意参加，您的个人信息可能会用于实施上述活动和我们的分析。
         
-    4. Communication
+    4. 通信
         
-        We may use your information to contact you, for example, to respond to and resolve your support requests, answer questions, issue security alerts, communicate account information and other information regarding the Rakuten Viki Service, and to maintain and moderate the Rakuten Viki Service.
+        我们可能会使用您的信息与您联系，例如，回复和解决您的支持请求、回答问题、发出安全警报、传递账户信息和关于 Rakuten Viki 服务的其他信息，以及维护和调整 Rakuten Viki 服务。
         
-    5. Security
+    5. 安全
         
-        We may use your information where necessary to assess risk and to investigate, address, and prevent fraud, security issues, abuse and other malicious online activities on the Rakuten Viki Service. We may also use your information to improve our security measures.
+        我们可能会在必要时使用您的信息来评估风险，并调查、解决和防止 Rakuten Viki 服务上的欺诈、安全问题、滥用和其他恶意在线活动。我们还可能使用您的信息来改进我们的安全措施。
         
-    6. Research and services improvement
+    6. 研究和服务改进
         
-        We may use your information to conduct research and analysis to develop and improve the Rakuten Viki Service, identify and troubleshoot errors, and to conduct customer satisfaction assessments, in an effort to understand your preferences and provide you with the best experience.
+        我们可能会使用您的信息进行研究和分析，以开发和改进 Rakuten Viki 服务，识别和排除故障，并进行客户满意度评估，以了解您的偏好并为您提供最佳体验。
         
-    7. Community engagement
+    7. 社区参与
         
-        We may use your information and any reviews, ratings, contributions, or messages you post on the Rakuten Viki Service to increase community engagement.
+        我们可能会使用您的信息以及您在 Rakuten Viki 服务上发布的任何评论、评级、投稿或消息，来提高社区参与度。
         
-    8. Business performance analytics
+    8. 业绩分析
         
-        We may use your information to conduct business performance analytics to improve the Rakuten Viki Service offerings; for example, to better understand user preferences among various platforms on which the Rakuten Viki Service is available (web, mobile devices, connected television).
+        我们可能会使用您的信息进行业绩分析，以改进 Rakuten Viki 服务产品；例如，更好地了解 Rakuten Viki 服务所在各种平台（网页、移动设备、联网电视）的用户偏好。
         
-    9. Legal
+    9. 法律
         
-        We may use your information to comply with legal obligations to which we are subject, to protect our intellectual property (including but not limited to our copyright and trademarks) or the intellectual property of third parties, to defend or enforce our other legal rights and our [Terms of Use](https://www.viki.com/legal/terms_of_use), to defend against any third party claims or actions, and to respond to requests or inquiries from regulators and law enforcement bodies.
+        我们可能会使用您的信息来遵守我们所承担的法律义务，保护我们的知识产权（包括但不限于我们的版权和商标）或第三方的知识产权，捍卫或行使我们的其他法律权利和[使用条款](https://www.viki.com/legal/terms_of_use)，就任何第三方索赔或诉讼进行抗辩，以及回应监管机构和执法机构的要求或问询。
         
-    10. Application store services
+    10. 应用商店服务
         
-        We may use your information to process payments or process or fulfil any orders of transactions on the Rakuten Viki Service made by you through an application store in accordance with their respective terms and policies. These application stores include Apple App Store (see [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)) and Google Play Store (see [Google Privacy Policy](https://policies.google.com/privacy)).
+        我们可能会根据您使用的应用商店的条款和政策，使用您的信息来处理付款或处理或完成您在 Rakuten Viki 服务上进行的任何订单交易。这些应用商店包括 Apple App Store（参见 [Apple 隐私政策](https://www.apple.com/legal/privacy/en-ww/)）和 Google Play Store（参见 [Google 隐私政策](https://policies.google.com/privacy)）。
         
-    11. Consent Management
+    11. 同意管理
         
-        We use a Consent Management Platform (“CMP”) to enable us to transparently present user options, to capture, store and retrieve user preferences and to transmit user preferences or consent profiles to various third parties as necessary, regarding data processing of Personal Information for various purposes, including advertising and marketing. The CMP supports us in our Personal Information processing and disclosure, depending on whether the user has consented or not, and enables proof and documentation for the legal basis within the framework of data protection accountability.
+        我们使用同意管理平台（“CMP”）帮助我们以透明方式展示用户选项，收集、存储和检索用户偏好，并在必要时将用户偏好或同意资料传输给各种第三方，从而为包括广告和营销在内的各种目的处理个人信息数据。根据用户是否同意，CMP 支持我们处理和披露个人信息，并在数据保护责任框架内为法律依据提供证明和文件。
         
-3. **LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION**
-    1. Users in the European Union ("EU"), the United Kingdom ("UK"), or Brazil
+3. **处理个人信息的法律依据**
+    1. 欧盟、英国或巴西的用户
         
-        If you are visiting our Site or using the Rakuten Viki Services from the EU, the UK, Brazil, or any other jurisdiction with laws similar to the General Data Protection Regulation (“GDPR”), we must have a particular legal basis to process your Personal Information. For EU, UK, or Brazilian users, we may rely on the following legal bases to use certain of your Personal Information:
+        如果您从欧盟、英国或巴西或任何其他拥有与《通用数据保护条例》（“GDPR”）类似法律的司法管辖区访问我们的网站，或使用 Rakuten Viki 服务，我们必须有特定的法律依据才可处理您的个人信息。对于欧盟、英国或巴西的用户，我们可能会依赖以下法律依据来使用您的某些个人信息：
         
-        1. Performance of a contract
+        1. 履行合同
             
-            The use of your Personal Information is necessary to perform our contractual obligations to provide the Rakuten Viki Service and its features and functionality to you, for example, to create and maintain your account, authenticate your login, provide community features, process transactions and payments from Rakuten Viki Service and application store services, verify whether content is available to you, and send you emails and other communication concerning the administration, security, and operation of your account or the Rakuten Viki Service, as per our terms and conditions or other policies. Failure to provide this information may prevent or delay the performance of our contractual obligations to you regarding the provision of the Rakuten Viki Service.
+            使用您的个人信息是履行我们向您提供 Rakuten Viki 服务及其特性和功能的合同义务所必需的，例如，创建和维护您的账户、验证您的登录、提供社区功能、处理来自 Rakuten Viki 服务和应用商店服务的交易和付款、验证内容是否可供您使用，以及根据我们的条款和条件或其他政策，向您发送有关您的账户或 Rakuten Viki 服务的管理、安全和操作的电子邮件和其他通信。不提供这些信息可能会妨碍或延误我们履行向您提供 Rakuten Viki 服务的合同义务。
             
-        2. Consent
+        2. 同意
             
-            We will rely on your consent to use:
+            我们需要您的同意才能：
             
-            1. Technical or Personal Information related to cookies and similar technologies;
-            2. Your Personal Information for marketing and advertising purposes; and
-            3. For other purposes for which we may request your consent, e.g., surveys, questionnaires, or other promotional or market research activities or events.
+            1. 使用与 Cookie 和类似技术相关的技术或个人信息；
+            2. 将您的个人信息用于营销和广告目的；以及
+            3. 用于我们可能征求您同意的其他目的，例如调查、问卷或其他促销或市场研究活动。
             
-            For cookies and similar technologies, you may withdraw your consent at any time by adjusting your preferences as further explained in Section 5 or by contacting us via the means provided at the end of this Privacy Policy. For direct marketing communications you can modify your notification preferences in your “Subscription & Settings” or following an unsubscribe link in any marketing communication you receive from us.
+            对于 Cookie 和类似技术，您可以随时按照第 5 条的进一步说明更改偏好，或通过本隐私政策结尾提供的方式联系我们，撤回您的同意。对于直接营销通信，您可以在“订阅和设置”中修改您的通知偏好，或在我们向您发送的任何营销通信中点击取消订阅链接。
             
-        3. Legitimate Interests
+        3. 合法权益
             
-            We use your Personal Information for our legitimate interests to:
+            出于我们的合法权益，我们会将您的个人信息用于：
             
-            1. Understand how you use the Rakuten Viki Service;
-            2. Personalise the Rakuten Viki Service for you;
-            3. Improve the Rakuten Viki Service for all users;
-            4. Maintain security of the Rakuten Viki Service; and
-            5. Share information with Rakuten Affiliates for internal administration.
+            1. 了解您如何使用 Rakuten Viki 服务；
+            2. 为您提供个性化的 Rakuten Viki 服务；
+            3. 为所有用户改进 Rakuten Viki 服务；
+            4. 维护 Rakuten Viki 服务的安全；以及
+            5. 与乐天关联方共享信息，以进行内部管理。
             
-            Service improvements are dependent on our analyzing, for example, how you use the Rakuten Viki Service (such as pages you view, the rate at which you consume content (how often, and for how long), content you prefer and searches you make or share, the content you liked, comments you leave, third-party websites you visit through links, the success rate of any promotion, marketing campaign, or event, certain technical information about your device, or when you access the Rakuten Viki Service through a certain device, and purchase path or transaction data) and any issues or problems reported to customer service. In circumstances where we process personal data to serve our legitimate interests, we put in place robust safeguards to ensure that your privacy is protected and ensure that our legitimate interests do not override your data protection interests or fundamental rights and freedoms. You have a right to object to any of these uses except where our compelling interest outweighs your concerns, such as our interest in ensuring the security of the Rakuten Viki Service for all users. You may exercise your right to Object as described in Section 5.
+            服务的改进依赖于我们分析各种信息，例如您如何使用 Rakuten Viki 服务（例如您查看的页面、您观看内容的速度（频率和时长）、您偏爱的内容和您进行或共享的搜索、您喜欢的内容、您留下的评论、您通过链接访问的第三方网站、任何促销、营销活动的成功率、有关您设备的某些技术信息、或当您通过特定设备访问 Rakuten Viki 服务时的某些技术信息，以及购买路径或交易数据）以及向客服报告的任何问题。在我们为了行使自身合法权益而处理个人数据的情况下，我们制定了有力的保障措施，确保您的隐私得到保护，并确保我们的合法权益不会凌驾于您的数据保护权益或基本权利和自由之上。您有权反对任何此类使用，除非我们的必要利益高于您的顾虑，例如为了确保所有用户安全使用 Rakuten Viki 服务。您可以按照第 5 条行使反对权。
             
         
-    2. Additional Legal Basis for EU and UK
-        1. Legal obligation and public interest
+    2. 欧盟和英国的其他法律依据
+        1. 法律义务与公共利益
             
-            In some cases, we may also have a legal obligation to collect or disclose your Personal Information, or may otherwise need to use or disclose your Personal Information, to protect your vital interests or those of another person, or to assert, protect or defend our or a third party’s legal rights.
+            在某些情况下，我们还可能负有收集或披露您的个人信息的法律义务，或可能需要以其他方式使用或披露您的个人信息才能保护您或他人的重要利益，或主张、保护或捍卫我们或第三方的法律权利。
             
-    3. Additional Legal Bases for Brazil
-        1. Legal obligations, legal proceedings and performance of public statutory duties
+    3. 巴西的其他法律依据
+        1. 法律义务、法律程序以及履行法定公共职责
             
-            We may use your Personal Information to comply with our legal obligations, in connection with legal proceedings, to assert, protect or defend our or a third party’s legal rights, or to perform public statutory duties we are subject to.
+            我们可能会使用您的个人信息来履行我们与法律程序相关的法律义务，主张、保护或捍卫我们或第三方的法律权利，或履行我们负有的法定公共职责。
             
-4. **HOW WE SHARE PERSONAL INFORMATION**
-    1. We may disclose your Personal Information for business purposes to the following parties:
-        1. Service providers
+4. **我们如何共享个人信息**
+    1. 我们可出于业务目的向以下各方披露您的个人信息：
+        1. 服务提供商
             
-            We share your Personal Information with our service providers that perform business services and/or operations on our behalf according to our instruction. For example, we may engage other companies to process secure payments, provide authentication services, detect and prevent fraud, abuse and other malicious online activities on the Rakuten Viki Service, provide streaming and content delivery services, fulfil orders, perform analytics, facilitate direct marketing communications, administer our promotions and surveys, and support service email and messaging services.
+            我们与服务提供商共享您的个人信息，此类服务提供商根据我们的指示代表我们开展商业服务和/或经营活动。例如，我们可能聘请其他公司处理安全付款、提供验证服务、发现并防止 Rakuten Viki 服务上的欺诈、滥用和其他恶意在线活动、提供流式传输和内容交付服务、完成订单、进行分析、支持直接营销通信、管理我们的促销活动和调查，以及支持服务电子邮件和消息传递服务。
             
-        2. Business partners
+        2. 业务合作伙伴
             
-            We share your Personal Information with Our Partners to carry out marketing activities and perform business services depending upon your selected subscription plan and/or your request to use certain features. For example, we partner with other companies to provide content, and targeted advertising services on third-party platforms, subject to your consent or opt-out, as applicable in your jurisdiction.
+            我们可能会与我们的合作伙伴共享您的个人信息，以根据您选择的订阅计划和/或您使用某些特性的请求开展营销活动和商业服务。例如，我们与其他公司合作，在第三方平台上提供内容和定向广告服务，但须征得您的同意，且您有权退出（视您所在的司法管辖区而定）。
             
-        3. Third-Party Advertisers
+        3. 第三方广告商
             
-            We permit advertisements to be delivered to you on the Rakuten Viki Service by third-party advertisers (also called ad networks or network advertisers). Subject to your consent or opt-out, depending on your jurisdiction (see Section 5), advertisements may be tailored to your interests by the third-party advertisers based on preferences inferred from information they collect about your behavior on other sites and services, as well as Personal Information we may share with them about your interactions with the Rakuten Viki Services. In California in particular, the law identifies Personal Information disclosure for the purposes of cross-context behavioral advertising as a “sale” or “sharing” regardless of whether money is exchanged for it. In other jurisdictions, this is identified as processing for the purposes of targeted advertising. Subject to your opt-out or consent as may be applicable in your jurisdiction, we share the following types of Personal Information, where available, with these third-party advertisers for the purposes of their ad delivery, ad measurement, and cross-context behavioral advertising or targeted advertising on the Rakuten Viki Services: identifiers (e.g., IP address, device ID, ad ID, user agent), location data inferred from IP address, the genres of content you engage with, and cookie data.
+            我们允许第三方广告商（也称为广告网络或网络广告商）在 Rakuten Viki 服务上向您投放广告。根据您所在的司法管辖区以及您是否同意或选择退出（请参见第 5 条），第三方广告商可能会根据您在其他网站和服务上的行为信息以及我们可能与他们共享的您与 Rakuten Viki 服务互动的个人信息，推断出您的偏好，从而为您量身定制广告。特别是在加利福尼亚州，法律将出于跨场景行为广告目的的个人信息披露认定为“出售”或“共享”，无论是否涉及金钱交换。在其他司法管辖区，这被认定为出于定向广告目的的处理。根据您所在司法管辖区的适用情况，在您同意（您可以选择退出）的情况下，我们会与这些第三方广告商共享以下类型的个人信息（如适用），以便他们在 Rakuten Viki 服务上进行广告投放、广告效果衡量以及跨场景行为广告或定向广告：标识符（例如，IP 地址、设备 ID、广告 ID、用户代理）、从 IP 地址推断出的位置数据、您所参与的内容类型以及 Cookie 数据。
             
-            Other than the Personal Information we may share with them according to our contractual terms, we have no control over any other Personal Information these third-party advertisers collect elsewhere or may use to target advertisements to you, and we assume no responsibility for their privacy practices.
+            除了我们可能根据合同条款与他们共享的个人信息外，我们无法控制这些第三方广告商在其他地方收集或可能用来向您投放广告的任何其他个人信息，且我们对他们的隐私做法不承担任何责任。
             
-        4. Rakuten Group companies
+        4. 乐天集团公司
             
-            Rakuten Group, Inc. is Rakuten Viki’s parent company. We work closely with our affiliated businesses and companies that fall under the Rakuten Group family (together, “Rakuten Affiliates”). We may share your data with Rakuten Affiliates for internal business administration purposes within the Rakuten Group.
+            Rakuten Group, Inc. 是 Rakuten Viki 的母公司。我们与我们的关联公司以及乐天集团旗下的公司密切合作（统称为“乐天关联方”）。我们可能为了乐天集团内部的业务管理，与乐天关联方共享您的数据。
             
-            In addition, the Rakuten Group aims to provide you with a common service experience through the “Rakuten ID”, a program that enables you to use the same log-in credentials with any participating Rakuten Group services you use. Viki will securely share your account credentials with the Rakuten ID program for future account authentication purposes, according to the terms explained in the Rakuten ID Privacy Policy here: [https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html), for use if you choose to connect to another Rakuten ID participating service in addition to the Rakuten Viki Service.
+            此外，乐天集团旨在通过 “Rakuten ID” 为您提供统一的服务体验，该计划可让您在使用任何乐天集团参与服务时使用相同的登录凭证。Viki 将根据 Rakuten ID 隐私政策（[https://corp.rakuten.co.jp/privacy/en/rakuten-id.html](https://corp.rakuten.co.jp/privacy/en/rakuten-id.html)）中说明的条款，与 Rakuten ID 计划安全共享您的账户凭证，用于未来的账户验证目的，以便您在选择连接 Rakuten Viki 服务之外的其他 Rakuten ID 参与服务时使用。
             
-        5. Law enforcement agencies, courts, regulators and government authorities
+        5. 执法机构、法院、监管机构和政府机构
             
-            We may share your Personal Information with these parties where we assess and reasonably believe this is necessary to comply with a legal or regulatory obligation, or otherwise assert, protect or defend our or a third party’s legal rights; and
+            如我们评估并合理认为遵守法律或监管义务，或以其他方式主张、保护或捍卫我们或第三方的法律权利有需要，我们可能会与相关方共享您的个人信息；以及
             
-        6. Asset purchasers
+        6. 资产收购方
             
-            We may share your Personal Information with any third-party that purchases, or to which we transfer, all or a relevant portion of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your Personal Information uses it in a manner that is consistent with this Privacy Policy.
+            我们可能会将您的个人信息共享给收购或受让我们的全部或相关部分资产和业务的任何第三方。如果发生此类出售或转让，我们将尽合理努力，确保接收我们传输的个人信息的实体按照符合本隐私政策的方式使用此等个人信息。
             
-    2. The following categories of Personal Information may be shared with the parties listed above for the purposes described, except where otherwise specified above:
-        1. Identifiers;
-        2. Commercial information;
-        3. General location data inferred from IP address;
-        4. Other device information;
-        5. Internet or other electronic network activity information;
-        6. Cookies; and
-        7. Inferences drawn from any of the above information categories.
-    3. Note about third-party websites
+    2. 除以上另有说明外，以下类别的个人信息可能会出于上述目的与上述各方共享：
+        1. 识别信息；
+        2. 商业信息；
+        3. 从 IP 地址推断的大概位置数据；
+        4. 其他设备信息；
+        5. 互联网或其他电子网络活动信息；
+        6. Cookie；以及
+        7. 从上述各类信息中推断得出的信息。
+    3. 关于第三方网站的说明
         
-        The Rakuten Viki Service may contain links to other third-party websites that we neither control nor own. We encourage you to be aware of when you are visiting these other third-party websites and to understand their privacy statements, as we have no control over, and assume no responsibility for the data collection, privacy practices or the content of any of these third-party sites you may choose to visit.
+        Rakuten Viki 服务可能包含指向其他第三方网站的链接，此类网站既不受我们控制，也不归我们所有。我们建议您在访问这些第三方网站时保持警惕，并仔细阅读其隐私声明，因为我们无法控制您选择访问的任何第三方网站的数据收集、隐私惯例或内容，也不承担任何责任。
         
-5. **YOUR CHOICES AND YOUR RIGHTS OVER YOUR PERSONAL INFORMATION**
-    1. Your choices
+5. **您的选择以及您对个人信息的权利**
+    1. 您的选择
         
-        You may in some cases have the option to decline providing us with certain Personal Information, and you are not required to provide any Personal Information to us that is unnecessary for us to provide the Rakuten Viki Service to you. However, choosing not to provide information may impact your use of certain optional features or the Rakuten Viki Service. Please find below some choices you have over your Personal Information:
+        在某些情况下，您可以选择拒绝向我们提供某些个人信息，并且您不需要向我们提供任何对向您提供 Rakuten Viki 服务而言不必要的个人信息。但是，选择不提供信息可能会影响您使用某些可选功能或 Rakuten Viki 服务。以下是您对您的个人信息享有的选择：
         
-        1. Account
+        1. 账户
             
-            You can change Personal Information in your account by accessing your Account and modifying the information listed in the “Edit Profile” and/or “About Me” tabs. You are not required to provide any Personal Information to us that is unnecessary for us to provide the Rakuten Viki Service to you;
+            您可以访问您的账户并修改“编辑个人资料”和/或“关于我”选项卡中列出的信息，变更您账户中的个人信息。您不需要向我们提供任何对向您提供 Rakuten Viki 服务而言不必要的个人信息；
             
-        2. Marketing Communication
+        2. 营销通信
             
-            You can unsubscribe or opt-out of receiving direct marketing communications from us by using the “Unsubscribe” link at the bottom of an email, by modifying your notification preferences in your “Subscription & Settings”, or by contacting us through the Rakuten Viki Service. Please note that even if you opt-out of receiving marketing communications, we may continue to send you non-marketing emails and other types of communications, as permitted by law, such as responses to your support requests, updates to our policies, or emails relating to your Rakuten Viki Service account; and
+            要取消订阅或选择不接收我们的直接营销通信，您可使用电子邮件底部的“取消订阅”链接、在您的“订阅和设置”中修改您的通知偏好，或通过 Rakuten Viki 服务联系我们。请注意，即使您选择不接收营销通信，我们仍可在法律许可的情况下，继续向您发送非营销电子邮件及其他类型的通信，例如回复您的支持请求，更新我们的政策或与发送与您的 Rakuten Viki 服务账户有关的电子邮件；以及
             
-        3. Advertising
+        3. 广告
             
-            Depending on your jurisdiction, you can opt-out of the sale or sharing of your Personal Information or the processing of your Personal Information for the purposes of targeted advertising, or we do not enable marketing cookies to be placed or read without your prior consent. You may control the use of cookies for a particular browser or device through our cookie banner. If you choose to disable cookies, it may limit your use of certain features or functions on the Rakuten Viki Service. For more information on how we use cookies and how you can manage them, please see our [Cookies Policy](https://www.viki.com/legal/cookies).
+            根据您所在的司法管辖区，您可以选择不出售或共享您的个人信息或不出于定向广告目的处理您的个人信息，或者我们不允许在未经您事先同意的情况下放置或读取营销 Cookie。您可以通过我们的 Cookie 横幅来控制在特定浏览器或设备上使用 Cookie。如果您选择禁用 Cookie，可能会限制您使用 Rakuten Viki 服务上的某些特性或功能。有关我们如何使用 Cookie 和您如何管理 Cookie 的更多信息，请查看我们的 [Cookie 政策。](https://www.viki.com/legal/cookies)
             
-            For more information about how the online advertising industry uses information it collects to provide you with targeted advertisement, and to control broadly whether you want to receive relevant advertisements from third-party advertisers, please review the information at the following links: [The Network Advertising Initiative](https://thenai.org/opt-out/) and [Your Ad Choices](https://youradchoices.com/).
+            有关网络广告行业如何利用其收集的信息向您投放定向广告，以及广义上管理您是否希望接收第三方广告商的相关广告的更多信息，请查看以下链接中的信息：[网络广告倡议](https://thenai.org/opt-out/)和[您的广告选择](https://youradchoices.com/)。
             
-    2. Your Privacy rights
+    2. 您的隐私权
         
-        You may have certain rights regarding Personal Information based on where you reside (“Privacy Rights”), in accordance with applicable law and limitations, as described below. If you would like to exercise such rights, send us an email at [privacy@viki.com](mailto:privacy@viki.com), or if you are a resident of certain U.S. states, by using the web form [here](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link), and ensure to include the statement “Your U.S. State Privacy Rights” in the body of your request. Privacy rights requests will be honored within the time required by local law, which varies among jurisdictions. An agent may submit requests on your behalf, provided you or your agent provide proof that the agent is authorized to act on your behalf. Please note that we may require additional information from you in order to verify your identity and honor your requests.
+        根据适用法律和限制，您可能基于您的居住地对个人信息享有如下所述的某些权利（“隐私权”）。如果您想行使这些权利，请发送电子邮件至 [privacy@viki.com](mailto:privacy@viki.com)，或者如果您是美国某州居民，请使用[此处](https://docs.google.com/forms/d/e/1FAIpQLScc7DvNdohyifLieWNF7V2ZqNIAJXHGkDD-lIrDT8vubBhKoA/viewform?usp=sf_link)的网页表格，并确保在请求正文中包含“您的美国某些州隐私权”声明。隐私权请求将在当地法律规定的时间内得到满足，当地法律因司法管辖区而异。代理可以代表您提交请求，前提是您或您的代理证明代理有权代您行事。请注意，为了验证您的身份并满足您的请求，我们可能需要您提供更多信息。
         
-        1. General Privacy Rights, including the right to request to:
-            1. **Know or confirm** that we are processing personal data concerning you, including the categories of personal data, the purposes of processing, and the categories of recipients to whom we disclose it or in some cases the list of specific third parties to whom we disclosed personal data;
-            2. **Access** your Personal Information that we process or receive a copy of the Personal Information we hold about you;
-            3. **Correct** inaccurate or incomplete factual information we hold about you. In lieu of submitting a request, you can correct or delete Personal Information you provided when using Rakuten Viki Services by accessing your Account and modifying the information listed in the “Edit Profile” and/or “About Me” tabs through your account settings or any other location where you provided such information at any time.
-            4. **Delete** your Personal Information, subject to certain legal exceptions. You can delete your Rakuten Viki Service account within your account settings (for more information, please see the article at https://support.viki.com/hc/en-us/articles/360051348154-How-Do-I-Delete-My-Account);
-            5. **Object** to our use of your Personal Information under certain circumstances, such as when our use is based on our non-compelling legitimate interests or is used for direct marketing purposes. You can unsubscribe or opt out of receiving direct marketing communications from us by using the “Unsubscribe” link at the bottom of an email, by modifying your notification preferences in your “Subscription & Settings”, or by contacting us. Please note that even if you opt-out of receiving marketing communications, we may continue to send you non-marketing emails and other types of communications, as permitted by law, such as responses to your support requests, updates to our policies, or emails relating to your Rakuten Viki Service account;
-            6. **Restrict** our use and limit our processing of your Personal Information to particular purposes. You can request to restrict our use of Personal Information during the pendency of your objection to our use for legitimate interests, or when alleging that our use of Personal Information is unlawful or no longer necessary for the purpose;
-            7. **Withdraw your consent** for any processing that is based on your consent;
-            8. **Port your data** - Receive a copy of Personal Information you provided us in an electronic format and/or have us transmit it to an external party – (right to data portability);
-            9. Exercise privacy rights without fear of being denied goods or services or discrimination. We may, however, provide a different level of service where such Personal Information is necessary to provide the additional features or functionality; and
-            10. **Lodge a complaint** – if contacting us does not resolve your complaint, you have the right to make a complaint to your data protection authority.
-        2. Additional Privacy Rights applicable to users in California:
+        1. 一般隐私权，包括提出以下请求的权利：
+            1. **了解或确认**我们正在处理关于您的个人数据，包括个人数据的类别、处理目的以及我们披露个人数据的接收方类别，或在某些情况下，我们向其披露个人数据的特定第三方名单；
+            2. **访问**我们处理的您的个人信息，或接收我们持有的关于您的个人信息的副本；
+            3. **纠正**我们持有的关于您的不准确或不完整的事实信息。除提交请求以外，您还可以通过访问您的账户，并通过您的账户设置或您随时提供此类信息的任何其他位置修改在“编辑个人资料”和/或“关于我”选项卡中列出的信息，纠正或删除您在使用 Rakuten Viki 服务时提供的个人信息。
+            4. **删除**您的个人信息，但须遵守某些法律例外情况。您可以在账户设置中删除 Rakuten Viki 服务账户（更多信息，请参阅以下网址的文章：https://support.viki.com/hc/en-us/articles/360051348154-How-Do-I-Delete-My-Account）；
+            5. **反对**我们在某些情况下使用您的个人信息，例如，我们基于非必要合法权益或出于直接营销目的使用您的个人信息。要取消订阅或选择不接收我们的直接营销通信，您可使用电子邮件底部的“取消订阅”链接、在您的“订阅和设置”中修改您的通知偏好，或联系我们。请注意，即使您选择不接收营销通信，我们仍可在法律许可的情况下，继续向您发送非营销电子邮件及其他类型的通信，例如回复您的支持请求，更新我们的政策或发送与您 Rakuten Viki 服务账户有关的电子邮件；
+            6. **限制**我们对您个人信息的使用，并将我们对您个人信息的处理限于特定目的。如果您对我们出于合法权益使用您的个人信息提出异议，或声称我们对您个人信息的使用不合法或不再出于必要目的，您可以在我们处理您的异议期间要求我们限制对您个人信息的使用；
+            7. **撤回您的同意，**不再允许根据您的同意进行任何处理；
+            8. **迁移您的数据** – 以电子格式接收您提供给我们的个人信息副本和/或要求我们将其传输给外部方（数据迁移权）；
+            9. 行使隐私权，无需担心被拒绝提供商品或服务，或受到歧视。但是，如果此类个人信息是提供额外特性或功能所必需的，我们可能会提供不同级别的服务；以及
+            10. **提出投诉** – 如果联系我们后无法解决您的投诉，您有权向您的数据保护机构提出投诉。
+        2. 适用于加利福尼亚州用户的其他隐私权：
             
-            If you are a California resident, you also have the right to:
+            如果您是加利福尼亚州居民，您还享有以下权利：
             
-            1. **Know** the categories of sources from which we collected the information, the categories of your Personal Information that we disclosed, sold or shared, and our business or commercial purpose for collecting, selling, or sharing the information.
-            2. **Opt-out of the sale or “sharing”** of your Personal Information for the purposes of cross-context behavioral advertising – we disclose certain Personal Information to third parties for the purposes of cross-context behavioral advertising which California law defines as a “sale” or “share”. You may exercise your right to opt-out by clicking the “Do Not Sell or Share My Personal Information” button at the bottom of our Site. For California and Colorado residents, we recognize valid opt-out preference signals sent from browsers or devices, including the Global Privacy Control. When we receive such signals that do not conflict with your existing privacy preferences, we will automatically exercise opt-out rights that may be available to you under California laws, such as the rights to opt out of sale, sharing, and processing your Personal Information for targeted advertising. One way that you can use such opt-out signals is by following the instructions for your device or browser located [here](https://globalprivacycontrol.org/).
-            3. **“Shine the Light”**: residents of California may request information once per calendar year about our disclosures, if any, of certain categories of your Personal Information to third parties for their direct marketing purposes under California’s “Shine the Light” law.
-            4. **Understand our use of financial incentives** provided in exchange for Personal Information. California Notice of Financial Incentives: California law requires certain disclosures related to financial incentive offerings, including in relation to the value of your consumer data to our business. We may offer an opportunity to sign up to receive interest-based content via email by providing us your name, email address, or other personal contact information. There is no obligation to opt-in, and you may unsubscribe at any time by following the instructions in the mailing. From time to time, we may offer a financial incentive to those who sign up for or remain on our mailing list, complete a market research survey, make a purchase, or do not complete a purchase, such as a discount coupon or an opportunity to win a prize or giveaway in a random drawing. The details of each incentive program will be contained in the program terms. We offer these programs, among other things, to enhance our relationship with you, to provide you with content that may be of interest to you, and/or so you can enjoy more of our products/services at a lower price. Although we do not calculate the value of consumer data to our business in our accounting statements, we make the following good faith estimate for California residents to use in making an informed decision whether or not to take advantage of any financial incentive or price or service difference we may offer that relates to the collection, retention or sale of your personal information: To the extent we create overall value for our business from our financial incentive marketing programs that could be directly or reasonably related to the value of customer data, that value would vary from program to program and among individuals, but our method for calculating this value to our business would include, for each program, and in the aggregate, whether and by what amount the sales generated by the program(s) exceed the cost to us of offering them, which would include costs associated with (1) any financial incentives that are paid to consumers; (2) the cost of the marketing and distribution of the offer; (3) our marketing team’s efforts to enhance the resulting consumer data through campaign optimization and consumer engagement at sufficient scale; (4) leveraging our past investments in understanding consumers as our existing and future customers; (5) collecting and maintaining data as intellectual property; and (6) all other costs reasonably related to the programs.
-        3. Additional rights applicable to residents of certain U.S. states other than California:
+            1. **了解**我们收集信息的来源类别、我们披露、出售或共享的您的个人信息类别，以及我们收集、出售或共享信息的业务或商业目的。
+            2. **选择不“出售”或“共享”您的个人信息**，不允许用于跨场景行为广告目的 – 我们出于跨场景行为广告目的向第三方披露某些个人信息，而加利福尼亚州法律将这种行为定义为“出售”或“共享”。您可以点击我们网站底部的“请勿出售或共享我的个人信息”按钮，行使选择退出权。对加利福尼亚州和科罗拉多州居民而言，我们认可从浏览器或设备发送的有效选择退出偏好信号，包括全球隐私控制。收到与您现有隐私偏好不冲突的此类信号时，我们将自动行使根据加利福尼亚州法律您可能享有的选择退出权，例如选择不出售、共享和处理您的个人信息以进行定向广告的权利。您可以使用此类选择退出信号的一种方式是遵循[此处](https://globalprivacycontrol.org/)针对您的设备或浏览器的说明。
+            3. **《反客户信息披露法》**：加利福尼亚州居民可根据加利福尼亚州的《反客户信息披露法》，每个日历年要求我们提供一次信息，说明我们出于直接营销目的向第三方披露您的某些类别个人信息的情况（如有）。
+            4. **了解我们为交换个人信息而提供的财务激励**。加利福尼亚州财务激励声明：加利福尼亚州法律要求披露与财务激励相关的某些信息，包括与您的消费者数据对我们业务的价值相关的信息。我们可能会提供机会，让您通过向我们提供您的姓名、电子邮箱或其他个人联系信息，注册接收基于兴趣的内容。您无需选择加入，并且可以随时按照邮件中的说明取消订阅。我们可能会不时向注册或保留在我们邮件列表、完成市场研究调查、购买或未完成购买的用户提供财务激励，例如折扣券或在随机抽奖中赢得奖品或赠品的机会。计划条款将包含每项激励计划的详细信息。我们提供这些计划，只在加强我们与您的关系，向您提供您可能感兴趣的内容，和/或让您以较低价格享受更多的产品/服务。虽然我们不会在会计报表中计算消费者数据对我们业务的价值，但我们会做出以下善意估计，供加州居民在做出是否利用我们可能提供的与收集、保留或出售您的个人信息有关的任何财务激励或价格或服务差异的明智决定时使用：如果我们的财务激励营销计划能够直接或合理地与客户数据价值相关联，从而为我们的业务创造整体价值，那么该价值将因计划和个人而异，而我们计算该业务价值的方法将包括：对于每个计划以及总体而言，该计划所产生的销售额是否超过了我们实施计划的成本以及超过的具体金额，其中成本与以下各方面相关：(1) 向消费者支付的任何财务激励；(2) 营销和分销优惠的成本；(3) 我们的营销团队通过活动优化和足够规模的消费者参与来加强由此产生的消费者数据；(4) 利用我们过去在了解作为我们现有和未来客户的消费者方面的投资；(5) 收集和维护知识产权数据；以及 (6) 与计划合理相关的所有其他成本。
+        3. 适用于加利福尼亚州以外的美国某些州居民的其他权利：
             
-            If you are a resident of certain U.S. states other than California, you also have the right to:
+            如果您是加利福尼亚州以外美国某些州的居民，您还享有以下权利：
             
-            1. **Opt-out of Processing for Targeted Advertising Purposes** – we make certain disclosures of Personal Information that are used for targeted advertising. You may opt out of your Personal Information being processed for targeted advertising purposes by clicking the “Do Not Sell or Share My Personal Information” button at the bottom of our Site.
-            2. **Appeal** our decision regarding your privacy rights request, by submitting an e-mail to [privacy@viki.com](mailto:privacy@viki.com) with a subject heading “PRIVACY APPEAL” and setting out the details of your appeal and the reasons you think it should be granted.
-6. **AUTOMATED DECISIONS ABOUT YOU**
+            1. **选择退出为定向广告而进行的处理** – 我们披露个人信息，用于定向广告目的。您可以点击我们网站底部的“请勿出售或共享我的个人信息”按钮，来选择退出出于定向广告目的处理您的个人信息。
+            2. 向 [privacy@viki.com](mailto:privacy@viki.com) 提交标题为“隐私上诉”的电子邮件，并列出您的上诉详情以及您认为应该批准上诉的原因，以此对我们关于您的隐私权请求的决定提出**上诉**。
+6. **关于您的自动决定**
     
-    We may use software programs, algorithms, machine learning or artificial intelligence to make automated decisions about you based on your Personal Information to, for example, show you personalised content and select personalised offers, discounts, marketing communications or recommendations to send you based on your order history, browsing history, preferences, location, device type and means of payment. These types of automated decisions will not have legal or similarly significant effects for you, but you can still contact us for further information on these decisions.
+    我们可能会使用软件程序、算法、机器学习或人工智能，基于您的个人信息自动做出与您相关的决定，例如，根据您的订单记录、浏览记录、偏好、位置、设备类型和支付方式，向您展示个性化内容，并选择向您发送的个性化优惠、折扣、营销通信或推荐。这些类型的自动决定不会对您产生法律或类似的重大影响，但您仍可与我们联系，获得有关这些决定的更多信息。
     
-7. **INTERNATIONAL DATA TRANSFERS**
+7. **国际数据传输**
     
-    Please note that your Personal Information may need to be transferred to, stored and/or processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. We may transfer to, store and/or otherwise process your Personal Information in the United States, Japan, Singapore, South Korea, Brazil, Netherlands and India. In such cases, we will require the recipient to provide appropriate protection for the Personal Information disclosed to it in compliance with applicable data protection laws. As part of the Rakuten Group, we rely on Rakuten’s EU Binding Corporate Rules and UK Binding Corporate Rules to safeguard international data transfers of EU and UK Personal Information within the group. Rakuten’s EU Binding Corporate Rules have been approved by the CNPD, the Data Protection Authority of Luxembourg and the UK Binding Corporate Rules have been approved by the ICO, the Data Protection Authority of the UK. The aforementioned Binding Corporate Rules can be found at [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html).
+    请注意，您的个人信息可能需要传输至数据保护和隐私法规无法提供与您的国家/地区保护水平相同的国家/地区、存储在此类国家/地区以及/或在此类国家/地区进行处理。我们可能向美国、日本、新加坡、韩国、巴西、荷兰和印度传输您的个人信息、在这些国家存储和/或处理您的个人信息。这种情况下，我们会要求接收方根据适用的数据保护法律，对向其披露的个人信息提供适当保护。作为乐天集团旗下公司，我们依靠乐天的《欧盟约束性公司规则》和《英国约束性公司规则》，以保障欧盟和英国个人信息在集团内部的国际数据传输。乐天的《欧盟约束性公司规则》已获卢森堡数据保护机构 CNPD 批准，而《英国约束性公司规则》已获英国数据保护机构 ICO 的批准。上述约束性公司规则可见 [https://corp.rakuten.co.jp/privacy/en/bcr.html](https://corp.rakuten.co.jp/privacy/en/bcr.html)。
     
-8. **SECURITY**
+8. **安全**
     
-    We care about the security of your Personal Information. We implement technical and organisational measures to ensure a level of security appropriate to the risk of processing for the Personal Information we process. These measures are aimed at ensuring the on-going integrity and confidentiality of your Personal Information. However, no company can guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are also responsible to make sure that your Personal Information is accurate and that your password is unique, secure and not shared with any third-party.
+    我们重视您的个人信息安全。我们实施技术和组织措施，以确保提供与我们所处理的个人信息的处理风险相称的适当安全级别的保护。这些措施旨在确保您的个人信息的持续完整性和保密性。但是，没有任何公司能够保证数据不会因我们的物理、技术或管理保障措施的漏洞而被访问、披露、篡改或损毁。您也有责任确保您的个人信息是准确的、您的密码是唯一和安全的并且不与任何第三方共享。
     
-9. **RETENTION**
+9. **保留**
     
-    Unless otherwise specified, we will keep your account Personal Information for as long as we have a relationship with you, i.e., while you have an active account with us.
+    除非另有规定，否则只要我们与您保持关系，我们将一直保存您的账户个人信息，即在您拥有我们的有效账户期间。
     
-    In addition, we will retain your Personal Information outside the normal retention times to the extent there is a need to retain the data to pursue, defend, or exercise a legal right or claim, or if we are required to do so to comply with applicable legal obligations or regulatory requirements.
+    此外，如果为了寻求、捍卫或行使法律权利或索赔，或者为了遵守适用的法律义务或监管要求而需要保留数据，我们将在正常保留时间之外保留您的个人信息。
     
-10. **CHILDREN'S PRIVACY**
+10. **儿童隐私**
     
-    The Rakuten Viki Service is not intended for children (a) under the age of 18, (b) under the age of majority in any state, territory or country of residence from which the Rakuten Viki Service is accessed, or (c) under any other prescribed minimum age for providing consent to data collection under local law. Our registration requires the user to certify that they are above the age of 18 and above the age of majority in their home territory. We do not knowingly collect Personal Information via the Rakuten Viki Service from anyone under the age of 18 or under the age of majority in the relevant state, territory or country of residence. If you are a parent or a guardian who believes that your child/ward who is under the age of 18 or under the age of majority in your state, territory or country of residence, has improperly provided us with their Personal Information, please contact us at [privacy@viki.com](mailto:privacy@viki.com) to remedy this situation.
+    Rakuten Viki 服务不适用于 (a) 未满 18 岁的儿童，(b) 未满访问 Rakuten Viki 服务的任何居住所在州、地区或国家的法定成年年龄的儿童，或 (c) 未满当地法律规定同意数据收集的任何其他最低年龄的儿童。我们的注册要求用户证明其已年满 18 岁以及当地的法定成年年龄。我们不会在知情情况下通过 Rakuten Viki 服务收集未满 18 岁或居住所在相关州、地区或国家法定成年年龄的任何人的个人信息。如果您是父母或监护人，且认为您未满 18 岁或您居住所在州、地区或国家法定成年年龄的子女/受监护人不当地向我们提供了他们的个人信息，请通过 [privacy@viki.com](mailto:privacy@viki.com) 联系我们，纠正这种情况。
     
-11. **CHANGES TO THIS PRIVACY POLICY**
+11. **本隐私政策的变更**
     
-    We may modify or update this Privacy Policy from time to time. The most current version will govern our use of your Personal Information and is available at [viki.com/privacy](https://www.viki.com/legal/privacy), with the latest update date at the top of this Privacy Policy. Older versions are available upon request. Any revised Privacy Policy is effective upon posting. If we make changes, we will provide you notice of such changes, such as by sending an email, posting to the Site, providing a notice through the Rakuten Viki Services or other reasonable means. In addition, if we make changes that we believe materially impact your rights, if applicable, we will ask you to consent to the changes.
+    我们可能会不时修改或更新本隐私政策。最新版本将约束我们对您的个人信息的使用，可在 [viki.com/privacy](https://www.viki.com/legal/privacy) 上查看，最新更新日期见本隐私政策顶部。可应要求提供旧版本。任何修订后的隐私政策一经公布即生效。如果我们做出变更，我们将通过发送电子邮件、在网站上发布、利用 Rakuten Viki 服务或其他合理方式，向您发出变更通知。此外，如果我们做出了我们认为会对您的权利产生重大影响的变更，我们将征得您对这些变更的同意（如适用）。
     
-12. **CONTACT US**
+12. **联系我们**
     
-    If you have questions or concerns regarding the way in which your Personal Information has been used, feel free to contact our Data Protection Officer by email at [privacy@viki.com](mailto:privacy@viki.com). If you are seeking general assistance on Viki (including seeking a refund), please contact us [here](https://support.viki.com/hc/en-us).
+    如果您对个人信息的使用方式有任何疑问或疑虑，请随时通过以下电子邮件与我们的数据保护官联系：[privacy@viki.com](mailto:privacy@viki.com)。如果您寻求有关 Viki 的一般协助（包括寻求退款），请通过[此处](https://support.viki.com/hc/en-us)联系我们。
     
-    We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority. In relation to EU users, your applicable data protection authority is listed at: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
+    我们致力于与您配合，公平解决任何关于隐私的投诉或疑虑。但是，如果您认为我们未就您的投诉或疑虑提供协助，您有权向您的数据保护机构提出投诉。关于欧盟用户，请访问 [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)，查看适用的数据保护机构列表。
     
 
 ![Rakuten Viki](https://1.viki.io/a/vwk8s/_next/static/images/rakuten-viki-horizontal-white.c2156eedbe0.svg)
