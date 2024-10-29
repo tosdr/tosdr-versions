@@ -878,14 +878,12 @@ Questions about the Terms of Service should be sent to us at [\[email protecte
         * [Certificate of Insurance (COI)](https://www.roadwaymoving.com/certificate-of-insurance-services/)
         * [GPS Tracking](https://www.roadwaymoving.com/gps-tracking/)
         * [FVP](https://www.roadwaymoving.com/fvp/)
-* Who We Are
+* Locations & Service Area
     
     * * *
     
     * Roadway Moving
-        * [About Us](https://www.roadwaymoving.com/about/)
-        * [Our Movers](https://www.roadwaymoving.com/our-movers/)
-        * [NY Yankees Partner](https://www.roadwaymoving.com/yankees/announcement/)
+        * [NYC](https://www.roadwaymoving.com/locations/new-york/)
     * Roadway Community
         * [Careers](https://www.roadwaymoving.com/careers/)
         * [Roadway Gives Back](https://www.roadwaymoving.com/community/)
@@ -915,17 +913,20 @@ Questions about the Terms of Service should be sent to us at [\[email protecte
         * [![Yelp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
             ![Yelp](https://www.roadwaymoving.com/wp-content/uploads/2023/12/icon-yelp.svg)](https://www.yelp.com/biz/roadway-moving-new-york "Yelp")
-* Get Help
+* Company
     
     * * *
     
-    * Moving Resources
-        * [Moving 101](https://www.roadwaymoving.com/moving-101/)
-        * [Tipping Guide](https://www.roadwaymoving.com/tipping-guide/)
-        * [Moving FAQ](https://www.roadwaymoving.com/moving-faq/)
+    * Roadway Moving
+        * [About Us](https://www.roadwaymoving.com/about/)
+        * [Our Movers](https://www.roadwaymoving.com/our-movers/)
+        * [New York Yankees Partner](https://www.roadwaymoving.com/yankees/announcement/)
     * Support
         * [Contact Us](https://www.roadwaymoving.com/contact-us/)
         * [Certificate of Insurance (COI)](https://www.roadwaymoving.com/certificate-of-insurance-services/)
+        * [Moving 101](https://www.roadwaymoving.com/moving-101/)
+        * [Tipping Guide](https://www.roadwaymoving.com/tipping-guide/)
+        * [Moving FAQ](https://www.roadwaymoving.com/moving-faq/)
     * Media
     * Community
         * [Careers](https://www.roadwaymoving.com/careers/)
