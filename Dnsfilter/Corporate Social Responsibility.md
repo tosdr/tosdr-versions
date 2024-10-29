@@ -165,7 +165,7 @@ Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all
 
 **](https://www.dnsfilter.com/blog/guest-wifi-solutions-retail-stores/)
 
-[![Green IT & Sustainability](https://www.dnsfilter.com/hs-fs/hubfs/d33a45dc-9e81-4566-9644-85ea957c2cb3.webp?width=500&height=190&name=d33a45dc-9e81-4566-9644-85ea957c2cb3.webp)
+[![Green IT & Sustainability](https://www.dnsfilter.com/hs-fs/hubfs/Newsroom-%20Green%20IT%20%26%20Sustainability.jpg?width=500&height=190&name=Newsroom-%20Green%20IT%20%26%20Sustainability.jpg)
 
 Posted on October 28, 2024 by Mikey Pruitt
 
