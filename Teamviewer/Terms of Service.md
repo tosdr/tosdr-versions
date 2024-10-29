@@ -141,7 +141,7 @@ The Master Terms contain the terms and conditions generally applicable for your 
 
 ### A.1. Formation of Contract
 
-A contract between TeamViewer and Customer pursuant to this EULA shall be formed, if (i) Customer places an order within the TeamViewer web shop ([www.teamviewer.com](https://www.teamviewer.com/en/)) by clicking on the “Place Order” / “Subscribe” / “Purchase” or similarly named button, and TeamViewer accepts the order (e.g., by sending an order confirmation or license activation to the Customer); (ii) TeamViewer issues a binding quote to Customer and Customer accepts the quote within the prescribed time period set out in the quote or, if no time period is specified, within twenty-one (21) days after issuance date; (iii) Customer and TeamViewer enter into an order document or other form of contractual document; or (iv) in the case of a free-of-charge instance (i.e., Free Version, Trial Use or Test Period), when Customer downloads the Software (defined below).[](https://www.teamviewer.com/en/)
+A contract between TeamViewer and Customer pursuant to this EULA shall be formed, if (i) Customer places an order within the TeamViewer web shop ([www.teamviewer.com](https://www.teamviewer.com/en/)) by clicking on the “Place Order” / “Subscribe” / “Purchase” or similarly named button, and TeamViewer accepts the order (e.g., by sending an order confirmation or license activation to Customer); (ii) TeamViewer issues a binding quote to Customer and Customer accepts the quote within the prescribed time period set out in the quote or, if no time period is specified, within twenty-one (21) days after issuance date; (iii) Customer and TeamViewer enter into an order document or other form of contractual document; or (iv) in the case of a free-of-charge instance (i.e., Free Version, Trial License), when Customer downloads the Software (defined below).[](https://www.teamviewer.com/en/)
 
 If Customer acquires the Software license from an authorized dealer of TeamViewer (“**Reseller**”), this EULA, with exception for the payment terms, shall apply in relation between Customer and TeamViewer. Any deviating terms, warranties and commitments agreed upon between the Reseller and Customer shall not be binding upon TeamViewer.
 
@@ -159,73 +159,80 @@ Unless otherwise specified in the Contract, all fees and charges shall be due im
 
 Unless otherwise specified in the Contract, TeamViewer shall invoice the respective fee (i) for the Subscription License at the date of the Contract, and, if applicable, subsequently at the beginning of each Renewal Term and (ii) for Professional Services (a) upfront in case of Bundled Package (cf. sec. D.5.1) or Cost Estimate (cf. D.5.3) or (b) in all other cases, monthly after the performed Professional Services.
 
-The invoicing shall be made either (i) online via an email to the email address provided by the Customer or (ii) – if such an account has been created – through an upload into the Customer’s TeamViewer account and/or the notification of the Customer via email. The Customer shall only be entitled to the delivery of an invoice by mail if the Customer requests the invoice from TeamViewer and pays the respective fee specified in TeamViewer’s applicable price list.
+The invoicing shall be made either (i) online via an email to the email address provided by Customer or (ii) – if such an account has been created – through an upload into Customer’s TeamViewer account and/or the notification of Customer via email. The Customer shall only be entitled to the delivery of an invoice by mail if Customer requests the invoice from TeamViewer and pays the respective fee specified in TeamViewer’s applicable price list.
 
-#### A.2.3. Payment methods
+#### A.2.3. Tax and bank charges  
 
-The invoiced amounts may be paid by credit card. Further payment methods (e.g., SEPA direct debit or check) may be offered during the ordering process.
+The fees and charges specified in the Contract do not include any sales, use, consumption, value-added, or any other tax (including applicable withholding tax, which shall be added to the invoiced amount, if applicable). Customer is responsible for the payment of any and all such taxes. Bank and credit card charges shall be borne by Customer.
 
-#### A.2.4. Prices, fees, and tax
+#### A.2.4. Price increase
 
-The fees and charges specified in the Contract do not include any sales, use, consumption, value-added, or any other tax (including applicable withholding tax, which shall be added to the invoiced amount, if applicable). Customer is responsible for the payment of any and all such taxes. Bank and credit card charges shall be borne by the Customer.
+Unless otherwise specified in the Contract, TeamViewer may notify Customer of a price increase at least twenty-eight (28) days prior to the expiry of the current Subscription Term (ref. sec. B.5.1). If no objection is made by Customer within fourteen (14) days, the price increase will go into effect upon the commencement of the Renewal Term. If Customer does object to the price increase, the Contract shall terminate at the end of the current Subscription Term. TeamViewer shall inform Customer in its notification about this effect of non-objection.
 
-#### A.2.5. Price increase
-
-Unless otherwise specified in the Contract, TeamViewer may notify Customer of a price increase at least twenty-eight (28) days prior to the expiry of the current Subscription Term (ref. sec. B.5.1). If no objection is made by the Customer within fourteen (14) days, the price increase will go into effect upon the commencement of the Renewal Term. If Customer does object to the price increase, the Contract shall terminate at the end of the current Subscription Term. TeamViewer shall inform the Customer in its notification about this effect of non-objection.
-
-#### A.2.6. Late payment
+#### A.2.5. Late payment
 
 Any overdue payment shall accrue interest at the rate provided by applicable law. In addition, the following provisions shall apply:
 
 1. Reminder fee: In the case of a second payment reminder, TeamViewer shall be entitled to charge a reasonable reminder fee.
-2. Termination in case of default: TeamViewer may terminate the Contract if the Customer defaults on the payment of the fee and fails to cure the breach within fifteen (15) days of receiving notice from TeamViewer. Termination is in addition to (and not in lieu of) any other rights and remedies available to TeamViewer hereunder or at law.
-3. Suspension in case of default: If the Customer defaults on the payment of the user fee, TeamViewer shall be entitled to suspend the Services temporarily (“**Suspension**”). However, TeamViewer shall warn the Customer of the Suspension reasonably in advance, e.g., via email or notifications in the Software. The Suspension shall not take place or respectively be rescinded without undue delay once the Customer has made his payment in full. During the Suspension, no connections can be established from and to the installations of the Customer’s Software. The Customer’s obligation to pay the user fee shall continue to be in effect during the Suspension period.
+2. Termination: TeamViewer may terminate the Contract if Customer defaults on the payment of the fee and fails to cure the breach within fifteen (15) days of receiving notice from TeamViewer. Termination is in addition to (and not in lieu of) any other rights and remedies available to TeamViewer hereunder or at law.
+3. Suspension: If Customer defaults on the payment or breaches any material obligation, TeamViewer shall be entitled to suspend the Services temporarily (“**Suspension**”), for which, TeamViewer shall warn Customer of the Suspension reasonably in advance, e.g., via email or notifications in the Software. The Suspension shall not take place or respectively be rescinded without undue delay once Customer has made his payment in full and/or has remedied the breach. During the Suspension, no connections can be established from and to the installations of Customer’s Software. Customer’s obligation to pay the user fee shall continue to be in effect during the Suspension period.
 
-#### A.2.7. Invoicing entities
+#### A.2.6. Invoicing entities
 
 Customer acknowledges and agrees that payment may be collected and processed by an affiliated company of TeamViewer where Customer has its main seat or residence.
 
 ### A.3. Confidentiality
 
-The Products, including the Software, the Services and Professional Services, all manuals, as well as both parties’ data, documentation, and other materials provided by one party (“**Disclosing Party**”) to the other party (“**Receiving Party**”), contain, as applicable, essential components (e.g. algorithm and logic), constituting confidential information and trade secrets and shall be deemed the Disclosing Party’s confidential information (“**Confidential Information**”) regardless of whether it is designated as “confidential”. The Receiving Party will only use Confidential Information in accordance with the Contract and may only disclose Confidential Information to a third party if it is required to fulfil or comply with its obligations under the Contract and only if the third party is bound by confidentiality obligations which are at least as protective to the Receiving Party as those set forth in this Confidentiality section or to the extent that disclosure is required by law or it is necessary to assert a claim. Any previously concluded confidentiality agreement between TeamViewer and the Customer covering the subject matter of this section shall automatically terminate when the Contract becomes effective.
+The Products, including the Software, the Services and Professional Services, all manuals, as well as both parties’ data, documentation, and other materials provided by one party (“**Disclosing Party**”) to the other party (“**Receiving Party**”), contain, as applicable, essential components (e.g. algorithm and logic), constituting confidential information and trade secrets and shall be deemed the Disclosing Party’s confidential information (“**Confidential Information**”) regardless of whether it is designated as “confidential”. The Receiving Party will only use Confidential Information in accordance with the Contract and may only disclose Confidential Information to a third party if it is required to fulfil or comply with its obligations under the Contract and only if the third party is bound by confidentiality obligations which are at least as protective to the Receiving Party as those set forth in this Confidentiality section or to the extent that disclosure is required by law or it is necessary to assert a claim. Any previously concluded confidentiality agreement between TeamViewer and Customer covering the subject matter of this section shall automatically terminate when the Contract becomes effective.
 
-### A.4. Data protection
+### A.4. Data protection; use of personal Information
 
-TeamViewer complies with applicable data protection law. TeamViewer collects, processes and uses personal data of Customer in its function as a data controller as set out and in accordance with the relevant Product Privacy Notice available for download under [https://www.teamviewer.com/en/privacy-notice/](https://www.teamviewer.com/en/legal/privacy-and-cookies/). Additionally, for the provision of Services, TeamViewer acts as a processor for Customer’s personal data in accordance with the terms and conditions of the Data Processing Agreement (DPA) provided separately under [https://www.teamviewer.com/en/eula/#dpa](#dpa). By using the Products, Customer accepts and agrees that TeamViewer acts as its data processor under the DPA for the data processing related to the Product/the function module(s) in use. The DPA does not apply if Customer is a natural person using the Software or the Services in the course of a purely personal or family activity (cf. Art. 2(2)(c) EU General Data Protection Regulation, “**GDPR**”).
+Both parties shall comply with the applicable Privacy Law. TeamViewer collects, processes and uses personal data of Customer in its function as a data controller as set out and in accordance with the relevant Product Privacy Notice available for download under [https://www.teamviewer.com/en/privacy-notice/](https://www.teamviewer.com/en/legal/privacy-and-cookies/). Additionally, for the provision of Services, TeamViewer acts as a processor for Customer’s personal data in accordance with the terms and conditions of the Data Processing Agreement (DPA) provided separately under [https://www.teamviewer.com/en/eula/#dpa](#dpa). By using the Products, Customer accepts and agrees that TeamViewer acts as its data processor under the DPA for the data processing related to the Product/the function module(s) in use. The DPA does not apply if Customer is a natural person using the Software or the Services in the course of a purely personal or family activity (cf. Art. 2(2)(c) EU General Data Protection Regulation, “**GDPR**”).
+
+Customer is responsible for obtaining all relevant consents from and providing all relevant notices to individuals whose Personal Information is provided by Customer to TeamViewer in connection with the Contract so as to ensure TeamViewer's dealings with that Personal Information pursuant to the Contract comply with Customer's obligations under any Privacy Laws.  Customer must indemnify TeamViewer against and must pay to TeamViewer on demand all losses, liabilities, costs and expenses arising out of its failure to comply with its obligations specified in this section.
+
+In this section:
+
+1. **"Personal Information"** has the meaning as defined in any applicable Privacy Law; and 
+2. **“Privacy Law"** means any legislation or administrative requirement (as amended from time to time) imposing an obligation in relation to the collection, use, disclosure, storage and transmission of Personal Information which is applicable to a party in performance of its obligations under the Contract, including without limitation any codes, principals or guidelines contained in or arising out of such legislation.
 
 ### A.5. Non-personal data
 
-TeamViewer may process non-personal or anonymous data to improve functionality and the Customers’ experience with the Services. Customer agrees that TeamViewer owns all rights in and is free to use any such non-personal or anonymous data in any way it deems fit for development, diagnostic, corrective, security as well as marketing or any other purposes.
+TeamViewer may process non-personal or anonymous data to improve functionality and Customers’ experience with the Services. Customer agrees that TeamViewer owns all rights in and is free to use any such non-personal or anonymous data in any way it deems fit for development, diagnostic, corrective, security as well as marketing or any other purposes.
 
-### A.6. Changes to the EULA
+### A.6. Feedback
+
+If Customer provides TeamViewer with feedback or suggestions regarding its Products and Services or other offerings, TeamViewer may use the feedback or suggestions without restriction or obligation.  
+
+### A.7. Changes to the EULA
 
 TeamViewer shall be entitled to amend this EULA, especially – but not limited to – (i) to reflect changes in Services or in business, e.g. new products or features, services or technologies (ii) for legal, regulatory or security reasons and/or (iii) to prevent abuse or harm, upon no less than twenty-eight (28) days prior notice to Customer. Unless Customer notifies TeamViewer in writing of its objection to such amendment within fifteen (15) days of such notice, then the amendment shall be deemed accepted by Customer. If Customer notifies TeamViewer in writing of its objection to such amendment within fifteen (15) days of notice, the Contract shall continue under the existing terms without giving effect to such amendment.
 
-### A.7. No deviating provisions
+### A.8. No deviating provisions
 
-The Contract contains the entire agreement between the parties with respect to the subject matter hereof, and supersedes all proposals, understandings, representations, warranties, covenants, and any other communications (whether written or oral) between the parties relating thereto and is binding upon the parties and their permitted successors and assigns. Any inconsistent or conflicting terms and conditions contained in any purchase order or similar instrument of Customer shall be of no force or effect, unless TeamViewer has explicitly approved such terms and conditions in writing. This requirement of explicit written form approval applies in particular to Customer’s terms and conditions, regardless of whether TeamViewer provides Software or Services to the Customer in knowledge of the Customer’s general terms and conditions without explicitly objecting to them.
+The Contract contains the entire agreement between the parties with respect to the subject matter hereof, and supersedes all proposals, understandings, representations, warranties, covenants, and any other communications (whether written or oral) between the parties relating thereto and is binding upon the parties and their permitted successors and assigns. Any inconsistent or conflicting terms and conditions contained in any purchase order or similar instrument of Customer shall be of no force or effect, unless both parties explicitly approved such terms and conditions in writing via a duly executed agreement. This requirement of explicit written form approval applies in particular to Customer’s terms and conditions, regardless of whether TeamViewer provides Software or Services to Customer in knowledge of Customer’s general terms and conditions without explicitly objecting to them.
 
-### A.8. Warranties; no guarantees
+### A.9. Warranties; no guarantees
 
 Warranties in this EULA refer to the description of remedies available to Customer in case of non-performance or defective performance and shall not be construed as a guarantee that stands for strict liability without fault. A guarantee of TeamViewer for quality or committed features in the meaning of preceding clause shall only be taken as such if made by TeamViewer in writing (including a signature) and labelled expressively as “guarantee”.
 
-### A.9. Severability; waiver
+### A.10. Severability; waiver
 
 If any provision of the Contract is found partly or wholly invalid or unenforceable, such provision shall be enforced to the maximum extent permissible, and remaining provisions of the Contract shall remain in full force and effect. A waiver of any breach or default under the Contract shall not constitute a waiver of any other subsequent breach or default.
 
-### A.10. Communication via email
+### A.11. Communication via email
 
-Unless otherwise specified in the Contract, any notifications and declarations in connection with the Contract may also be made by email. To this end, TeamViewer may use the email address the Customer provided upon registration or in the TeamViewer account. The Customer shall be responsible for checking its emails regularly and, if necessary, updating its email address. TeamViewer’s contact information is available [here](https://www.teamviewer.com/en/global/support/customer-support/).
+Unless otherwise specified in the Contract, any notifications and declarations in connection with the Contract may also be made by email. To this end, TeamViewer may use the email address Customer provided upon registration or in the TeamViewer account. Customer shall be responsible for checking its emails regularly and, if necessary, updating its email address. TeamViewer’s contact information is available [here](https://www.teamviewer.com/en/global/support/customer-support/).
 
-### A.11. Documentation
+### A.12. Documentation
 
-User manuals are retrievable online in German and English under [https://www.teamviewer.com/en/documents/](https://www.teamviewer.com/en/documents/). Any further languages may be offered by TeamViewer at its sole discretion. As between the parties, TeamViewer retains all right, title and interest in and to such documentation and in all copies, modifications and derivative works thereof including, without limitation, all rights to patent, copyright, trade secret, know-how, trademark and other proprietary or intellectual property rights.
+User manuals are retrievable online in German and English under [https://www.teamviewer.com/en/documents/](https://www.teamviewer.com/en/documents/). Any further languages may be offered by TeamViewer at its sole discretion. As between the parties, TeamViewer retains all right, title and interest in and to such documentation and in all copies, modifications and derivative works thereof including, without limitation, all rights to patent, copyright, trade secret, know-how, trademark and other proprietary or intellectual property rights.
 
 B. Software Specific Terms  
 
 -----------------------------
 
-The Software Specific Terms contain the terms and conditions that additionally apply to you for the use of: (i) certain software provided by TeamViewer, whether installed on devices of the Customer or accessed via web browser, also including any applications (e. g. apps for mobile terminals), addon components, customized settings and features, and all updates and Release Versions as hereinbelow defined thereof (collectively “**Software**”), and (ii) servers for the establishment of encrypted connections (handshake) and for the forwarding of data packets (routing) in connection with the use of the Software (“**Server Services**”), as well as (iii) any further cloud-based services provided by TeamViewer. The Software, Server Services and other cloud-based services provided by TeamViewer are hereinafter collectively referred to as “**Services**”.
+The Software Specific Terms contain the terms and conditions that additionally apply to you for the use of: (i) certain software provided by TeamViewer, whether installed on devices of Customer or accessed via web browser, also including any applications (e. g. apps for mobile terminals), addon components, customized settings and features, and all updates and Release Versions as hereinbelow defined thereof (collectively “**Software**”), and (ii) servers for the establishment of encrypted connections (handshake) and for the forwarding of data packets (routing) in connection with the use of the Software (“**Server Services**”), as well as (iii) any further cloud-based services provided by TeamViewer. The Software, Server Services and other cloud-based services provided by TeamViewer are hereinafter collectively referred to as “**Services**”.
 
 ### B.1. License
 
@@ -235,7 +242,7 @@ The Software Specific Terms contain the terms and conditions that additionally a
 For the use of Software and/or other Services, Customer shall acquire the right of use (“**License**”) respectively as:
 
 1. a temporary, i.e., term- or subscription-based, license against recurring payments (“**Subscription**”); or
-2. a limited license free-of-charge (“**Free**”), granted by TeamViewer for selected Products (including Free Version, test version and Trial Use thereof),
+2. a limited license free-of-charge (“**Free License**”), granted by TeamViewer for selected Products (including Free Version, test version, Trial License and Beta Version),
 
 under the conditions herein below.  
   
@@ -245,7 +252,7 @@ under the conditions herein below.
 Licenses for Subscription are exclusively available to businesses and not provided to consumers. Businesses in the preceding sentence means a natural or legal person, or a partnership with legal personality, that acts in exercise of trade, business or profession while entering the Contract.  
   
 
-**B.1.1.2. Free Version**
+**B.1.1.2. Free Version for non-commercial use**
 
 TeamViewer may provide a free-of-charge version for selected Software Products to Customer solely for personal and non-commercial purposes (“**Free Version**”). The use for the exercise of Customer’s trade, business or profession, or the use for the purposes for which Customer directly or indirectly receives compensation (e. g. teamwork with colleagues, free support provided to third parties which have bought Customer’s own software or other product), shall not constitute personal usage.  
   
@@ -255,41 +262,50 @@ TeamViewer may provide a free-of-charge version for selected Software Products t
 If the Contract provides for a test period, Customer may terminate the Contract within seven (7) calendar days of the conclusion of the Contract. In such a case, Customer shall be provided with a refund of any prepaid, unused fees (if any) paid to TeamViewer for the applicable Software that is subject to the test period.  
   
 
-**B.1.1.4. Trial Use**
+**B.1.1.4. Trial License**
 
-Prior to entering into a Contract, TeamViewer may offer to Customer the opportunity for a trial use for the Services during a defined trial use period (“**Trial Use**”). TeamViewer may also provide Customer with a limited Trial Use license if Customer installs the Free Version and declares that its use of the Software is (at least partly) for commercial purposes.
+TeamViewer may offer Customer the opportunity to use the Services for a defined trial period (“**Trial License**”). TeamViewer may also provide Customer with a limited Trial License if Customer installs the Free Version and declares that its use of the Software is (at least partly) for commercial purposes.  
+ 
+
+**B.1.1.5. Beta Version**
+
+TeamViewer may, at its sole discretion, provide Customer with beta versions of selected Products or newly developed features that are in the testing phase (**“Beta Version”**), which Customer may use at its own risk. Beta Version is provided under the Free License and may be subject to additional terms and conditions. Beta Version may contain features under development, may not operate correctly and may undergo further changes. Beta Version is not intended for use in production environments or live systems, as it may contain errors, bugs, or behave unpredictably. Customer assumes full responsibility for the use of the Beta Version.
 
 #### B.1.2. Scope of License
 
-The License is granted to Customer herein as non-exclusive, worldwide (subject to applicable export control regulations; unless Customer is expressly granted a limited right to use the Service only in a specific territory in the Contract), non-transferrable and not sub-licensable, and limited to the right to install, run and use the Software on Customer’s own devices, or on any devices in the immediate possession of Customer, for the purpose of operating its own business activities and within the limits of the scope of use specified in the Contract.
+The License is granted to Customer herein as non-exclusive, worldwide (subject to sec. B.3.2 (Export controls and economic sanctions) and except where Customer is granted
 
-The rights of use granted under the Contract for Subscription shall be limited in time to the specified term of Subscription and end with the expiry or termination thereof.
+a License to use the Service only in a specific territory as outlined in the Contract), non-transferrable and not sub-licensable, and limited to the right to install, run and use the Software on Customer’s own devices, or on any devices in the immediate possession of Customer, for the purpose of operating its own business activities and within the limits of the scope of use specified in the Contract. The rights of use granted under the Contract for Subscription shall be limited in time to the specified term of Subscription and end with the expiry or termination thereof. Each License type has a specific scope, outlining the usable licensed items (such as the number of users, agents, managed devices, or managed devices) as well as limitations on use, in each case as defined in the Product Specification (cf. sec. B.2.1), or as specifically set forth in the Contract.
 
-#### B.1.3. Authorized Users; Named User License
+#### B.1.3. Add-On
 
-Customer may only provide use of its License to Authorized Users. “Authorized User” means: (i) if Customer is an individual, solely Customer; (ii) if Customer is a legal entity, any current employees, agents, representatives or temporary workers authorized by Customer to use the Software or Services solely for the support of Customer’s internal business, provided that such access and use shall be limited to their provision of services to Customer in scope of their employment or assignment; or (iii) in any other cases subject to written consent by TeamViewer.
+Customer may acquire additional licenses (**“Add-On”**) to extend the scope of the License, such as for adding more licensed items, or activating specific features of Product. Unless otherwise stipulated in the Contract, Add-Ons will be added and co-termed to the existing Subscription License. TeamViewer may also grant Add-Ons on a trial basis (“Add-On Trial”) at its sole option.
+
+#### B.1.4. Authorized Users; Named User License  
+
+Customer may only provide use of its License to Authorized Users. **“Authorized User”** means: (i) if Customer is an individual, solely Customer; (ii) if Customer is a legal entity, any current employees, agents, representatives or temporary workers authorized by Customer to use the Software or Services solely for the support of Customer’s own business, provided that such access and use shall be limited to their provision of services to Customer in scope of their employment or assignment; or (iii) in any other cases subject to written consent by TeamViewer.
 
 Customer is responsible for the acts and omissions of its Authorized Users, as well as any other person that accesses and uses the Services by using the access credentials provided by Customer, as its own acts and omissions. All obligations of Customer under this EULA and the respective Contract shall apply fully to any such Authorized Users or other persons as if they were Customers hereunder.
 
 Unless specifically agreed to the contrary in the Contract, the access to and use of the Product under a Subscription License is limited and bound to the specific Authorized User designated by Customer, each identified with a personalized login (Named User License). Group or shared logins are prohibited. Re-assignment is subject to limitation in the Contract.
 
-#### B.1.4. Overuse by Quantity
+#### B.1.5. License compliance and enforcement
 
-The usable licensed units included in the scope of license acquired by Customer, in particular regarding the amounts of licensed users or agents, managed devices, experts and annually allowed reassignments, etc., shall be specified in the Contract; where the Contract does not contain a specification, the usable licensed units available under the respective license type as stated in the Product Specification (cf. sec. B.2.1) shall apply. If Customer exceeds the quantity of licensed units during the term of Contract, additional license fees will be charged for the excess at the then current list price of TeamViewer or, at the election of TeamViewer, pro rata relating to the price provided in the Contract.
+Customer shall use the Services strictly within the granted scope of their License and ensure compliant usage throughout their organization and network, including monitoring and preventing any unlicensed or improperly licensed use. In case of non-compliance, additional license fees will be charged at the then current list price of TeamViewer or, at the election of TeamViewer, pro rata relating to the price provided in the Contract.
 
-#### B.1.5. Prohibited use
+#### B.1.6. Prohibited use
 
 Any use of Software and/or other Services that is not expressly granted is prohibited. In particular, Customer shall not, or allow a third party to: (i) attempt to circumvent any technical devices of the Software that are directed at, or have the effect of, enforcing the terms of the EULA; (ii) modify, create derivative works, translate, decompile or create or attempt to create, by reverse engineering or otherwise, the source code or the object code of the Software; (iii) use the Software under any circumstance whatsoever directly or indirectly in a computer service business or service bureau or in a rental or commercial timesharing arrangement or as a spyware; (iv) remove, modify or obscure any copyright, trade secret, confidentiality, trademark, service mark or other proprietary rights, serial number, notice, legend or similar on any copy of the Software, or related data, manuals, documentation or other materials; (v) market, sell, lend, rent, lease, or otherwise distribute, the Software or provide access to Services to third parties; or (vi) except as otherwise expressly provided herein, assign, sublicense or otherwise transfer any rights in or to the Software. This shall not affect Customer’s mandatory statutory rights.
 
-#### B.1.6. Reservation of rights
+#### B.1.7. Reservation of rights
 
 As between the parties, TeamViewer retains all right, title and interest in and to the Software (including any customization and Release Versions) and in all copies, modifications and derivative works of the Software including, without limitation, all rights to patent, copyright, trade secret, know-how, trademark and other proprietary or intellectual property rights, even if provided to or otherwise contributed by the Customer.
 
-#### B.1.7. Source code
+#### B.1.8. Source code
 
 The rights of use granted shall not include any rights to the source code of the Software.
 
-#### B.1.8. Usage analyses, right to audit and self-declaration
+#### B.1.9. Usage analyses, right to audit and self-declaration
 
 TeamViewer may analyze Customer’s use of the Software and/or Services for security reasons as well as for product improvement, license auditing and/or marketing purposes. To that end, TeamViewer may use, at its sole discretion, and implement technical measures regarding the functionality of the Software and/or other Services to assess whether Customer’s usage pattern is in line with the indicated usage volume and thus with the chosen license type, and to detect whether the contractually agreed scope of use is being exceeded by Customer. TeamViewer may require Customer, at any time, to provide a self-declaration regarding its actual scope of use and/or usage pattern.
 
@@ -301,7 +317,7 @@ The functions and features of the Services available in the respective TeamViewe
 
 #### B.2.2. Product Specification for Free Version
 
-A key element of and part of the Product Specification for the Free Version is the display and receipt of personalized marketing messages in the Software as well as the processing of personal data necessary to provide such personalization. In this context, the Free Version also requires cookies, including in certain cases third-party cookies, to be placed on Customer’s devices, which enable TeamViewer and third-party recipients to analyze the Customer’s usage as well as online usage behavior. Detailed information on the purposes and exact implementation of personalization processes are described in TeamViewer’s Privacy Notice and Cookie Policies.
+A key element of and part of the Product Specification for the Free Version is the display and receipt of personalized marketing messages in the Software as well as the processing of personal data necessary to provide such personalization. In this context, the Free Version also requires cookies, including in certain cases third-party cookies, to be placed on Customer’s devices, which enable TeamViewer and third-party recipients to analyze Customer’s usage as well as online usage behavior. Detailed information on the purposes and exact implementation of personalization processes are described in TeamViewer’s Privacy Notice and Cookie Policies.
 
 #### B.2.3. System Requirements
 
@@ -315,13 +331,15 @@ Depending on the software types, Software may be provided for electronic downloa
 
 For the establishment of encrypted remote communication connections between different users of the Software, the Software must communicate with servers of TeamViewer (so-called “**handshake**”). In addition, it may be necessary for the transmission of data in the context of a session (e. g. online meeting or remote maintenance) that encrypted data packets be forwarded by servers of TeamViewer (so-called “**routing**”). Such handshake and routing are made available in connection with TeamViewer’s Server Services.
 
-TeamViewer provides Customer with the Server Services subject to the conditions set out in this EULA. Customer acknowledges that the Server Services may be unavailable or include latency from time to time due to causes beyond the reasonable control of TeamViewer. Additionally, Customer acknowledges that the end-to-end connection between different users of the Software is dependent on Customer’s internet connection to the data center as well as Customer’s use of hardware and software (e. g. PC, operating system) in compliance with System Requirements for the Software, all of which shall not be included in the services provided by TeamViewer and shall be Customer’s responsibility at its own costs.
+TeamViewer provides the Server Services to support the cloud solution subject to the Contract. Customer acknowledges that the Server Services may be unavailable or include latency from time to time due to causes beyond the reasonable control of TeamViewer. Additionally, Customer acknowledges that the end-to-end connection between different users of the Software is dependent on Customer’s internet connection to the data center as well as Customer’s use of hardware and software (e. g. PC, operating system) in compliance with System Requirements for the Software, all of which shall not be included in the services provided by TeamViewer and shall be Customer’s responsibility at its own costs.
 
-In case of Free Version, Customer has no claim to demand the provision of the Server Services and TeamViewer may in its sole discretion discontinue or modify the Server Services at any time.
+In case of Free License, Customer has no claim to demand the provision of the Server Services and TeamViewer may in its sole discretion discontinue or modify the Server Services at any time.
 
-#### B.2.6. TeamViewer account
+#### B.2.6. TeamViewer account; Admin Management
 
-TeamViewer may require Customer (and its Authorized Users) to sign up for a TeamViewer account and being logged in to the TeamViewer account to be able to use the Services. TeamViewer may further set certain account verification requirements that Customer will be required to meet to use the Services.
+Customer and its Authorized Users must sign up for a TeamViewer account and being logged in to the TeamViewer account to be able to use the Services. TeamViewer may further set certain account verification requirements that Customer will be required to meet to use the Services.
+
+Customer shall ensure that the Authorized User designated as company administrator has the authority to manage the settings and user accounts on behalf of Customer, including the activation of features and services, enabling the use of Beta Version, as well as accepting the relevant terms of use in such a context.
 
 #### B.2.7. Telephone conference number
 
@@ -353,7 +371,7 @@ Customer shall use the Software and/or other Services only in accordance with th
 
 #### B.3.2. Export controls and economic sanctions
 
-Customer acknowledges that the Software and related technical data as well as the Services (collectively “**Controlled Technology**”) are subject to the import and export control and economic sanctions laws of Germany, the European Union and the United States, specifically the U.S. Export Administration Regulations (EAR) and the laws of any country where Controlled Technology is imported or re-exported. Customer agrees to comply with all relevant laws and will not export, re-export, or transfer any Controlled Technology in contravention of German, EU or U.S. law nor to any restricted country, entity, or person for which an export license or other governmental approval is required. Customer further agrees that it will not export, transfer, or sell any Controlled Technology for use in connection with chemical, biological, or nuclear weapons, or missiles, drones or space launch vehicles capable of delivering such weapons.
+Customer acknowledges that the Software and related technical data as well as the Services (collectively “**Controlled Technology**”) are subject to the import and export control and economic sanctions laws of Germany, the European Union, United Kingdom and the United States, specifically the U.S. Export Administration Regulations (EAR) and the laws of any country where Controlled Technology is imported or re-exported. Customer agrees to comply with all relevant laws and will not export, re-export, or transfer any Controlled Technology in contravention of German, EU or U.S. law nor to any restricted country, entity, or person for which an export license or other governmental approval is required. Customer further agrees that it will not export, transfer, or sell any Controlled Technology for use in connection with chemical, biological, or nuclear weapons, or missiles, drones or space launch vehicles capable of delivering such weapons.
 
 Customer represents that it is not (i) a Restricted Party (as defined below); (ii) currently engaging in any transaction, activity or conduct that could result in a violation of applicable Sanctions (as defined below) and warrants that it will not make available the Controlled Technology directly or indirectly, to, or for the benefit of, any Restricted Party.
 
@@ -367,7 +385,7 @@ Depending on the Product, TeamViewer may make available to Customer functions fo
 
 Customer ensures that it holds all necessary rights to the Customer Content (e.g., rights to images, trademarks, copyrights, etc.) for processing within the scope of the Contract and subsequently assumes the sole liability and defence against all claims of third parties, asserting claims against TeamViewer due to the alleged violation of trademark rights in connection with Customer Content.
 
-Customer shall ensure that the Customer Content does not contain Prohibited Customer Content. “Prohibited Customer Content” is defined as content that (i) infringes the rights of third parties or violates applicable law; (ii) is illegal, racist or pornographic in nature, glorifies or incites violence, promotes terrorist organizations, incites criminal activity or contains defamatory statements; or (iii) contains or distributes software viruses or other malicious software or harmful files such as Trojan horses, worms or spyware. TeamViewer is not obliged to check whether the Customer Content contains prohibited Customer Content. However, TeamViewer reserves the right to refuse or suspend the provision of the Services in whole or in part if and to the extent that prohibited Customer Content is uploaded using a user’s access data associated with the Customer’s license or account.
+Customer shall ensure that the Customer Content does not contain Prohibited Customer Content. “Prohibited Customer Content” is defined as content that (i) infringes the rights of third parties or violates applicable law; (ii) is illegal, racist or pornographic in nature, glorifies or incites violence, promotes terrorist organizations, incites criminal activity or contains defamatory statements; or (iii) contains or distributes software viruses or other malicious software or harmful files such as Trojan horses, worms or spyware. TeamViewer is not obliged to check whether the Customer Content contains prohibited Customer Content. However, TeamViewer reserves the right to refuse or suspend the provision of the Services in whole or in part if and to the extent that prohibited Customer Content is uploaded using a user’s access data associated with Customer’s license or account.
 
 #### B.3.4. Customer Hosting
 
@@ -379,7 +397,7 @@ Customer shall ensure that the server infrastructure running the server-side sof
 
 Where TeamViewer reasonably believes that the security or integrity of the Customer Hosting has been compromised, TeamViewer shall at its own discretion have the right to block any connection between the Customer Hosting and the TeamViewer Server Services until the underlying issue has been resolved. TeamViewer shall in such cases without undue delay notify Customer and provide relevant information in that respect.
 
-In the case of Customer Hosting, TeamViewer shall have the right to audit Customer’s compliance with the terms of the Contract: (i) every six months, by way of establishing a secure remote connection to the Software installed on Customer’s systems, for purposes of evaluation of the usage recorded on Software on Customer’s systems. Customer shall make available additional information reasonably necessary to demonstrate compliance with the usage restrictions, including all limitations set out under the Contract; and (ii) once a year, by conducting an audit at the Customer’s premises, on which the Software is deployed, for which TeamViewer shall notify Customer no less than five (5) business days prior to such audit and conduct such audit during normal business hours, minimizing the business impact on Customer’s normal business operation. At TeamViewer’s sole discretion, TeamViewer shall have the right to have the audit performed by a duly authorized third party bound by obligations of confidentiality.
+In the case of Customer Hosting, TeamViewer shall have the right to audit Customer’s compliance with the terms of the Contract: (i) every six months, by way of establishing a secure remote connection to the Software installed on Customer’s systems, for purposes of evaluation of the usage recorded on Software on Customer’s systems. Customer shall make available additional information reasonably necessary to demonstrate compliance with the usage restrictions, including all limitations set out under the Contract; and (ii) once a year, by conducting an audit at Customer’s premises, on which the Software is deployed, for which TeamViewer shall notify Customer no less than five (5) business days prior to such audit and conduct such audit during normal business hours, minimizing the business impact on Customer’s normal business operation. At TeamViewer’s sole discretion, TeamViewer shall have the right to have the audit performed by a duly authorized third party bound by obligations of confidentiality.
 
 ### B.4. Limitation of Warranty
 
@@ -429,9 +447,11 @@ The continued use of Free Version by Customer shall be deemed as acceptance of t
 
 #### B.5.3. Extraordinary termination
 
-TeamViewer shall be entitled to extraordinarily terminate the Contract for breach in case of sections B.1.5 (Prohibited use), B.3.1 (Lawful use), B.3.2 (Export controls and economic sanctions), A.4 (Data protection), A.2.5 (Late payment). To the extent a DPA is required in accordance with section A.4, lack of such DPA or termination thereof shall also constitute cause for termination of the Contract. Either party’s right to terminate for good cause remains unaffected.
+TeamViewer is entitled to suspend the Services pursuant to sec. A.2.5 (iii), or terminate the Contract with immediate effect, in the event of a material breach, in particular without limitation to a violation of: sec. A.2.5 (Late payment), sec. A.4 (Data protection; use of Personal Information), sec. B.1.5 (Prohibited use), sec. B.3.1 (Lawful use), sec. B.3.2 (Export controls and economic sanctions), sec. B.7.4 (Compliant Usage).
 
-Notwithstanding the above, termination by the Customer based on non-performance of service in conformity with the Contract shall only be admissible if TeamViewer had been given enough opportunities to eliminate the error/shortcoming and has failed to do so or the subsequent performance was unsuccessful.
+To the extent a DPA is required in accordance with sec. A.4, lack of such DPA or termination thereof shall also constitute cause for termination of the Contract. Either party’s right to terminate for good cause remains unaffected.
+
+Notwithstanding the above, termination by Customer based on non-performance of service in conformity with the Contract shall only be admissible if TeamViewer had been given enough opportunities to eliminate the error/shortcoming and has failed to do so or the subsequent performance was unsuccessful.
 
 #### B.5.4. Termination notice
 
@@ -445,6 +465,38 @@ Upon termination or expiration of the Contract: (i) the granted License shall en
 
 With respect to the use of the specific application of the Software for iOS operating system, available on the App Store (“**TeamViewer iOS App**”), the following provisions shall apply: Apple Inc. (“**Apple**”) is not a party to any Contract concluded under this EULA and does not own and is not responsible for the TeamViewer iOS App in any capacity or manner. Apple is not providing any warranty for the TeamViewer iOS App except, if applicable, to refund the purchase price for it. Apple is not responsible for the Services, or any maintenance or support for the TeamViewer iOS App, and will not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the TeamViewer iOS App, including any third-party product liability claims, claims that the TeamViewer iOS App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement. Any inquiries or complaints relating to the use of the TeamViewer iOS App, including those pertaining to intellectual property rights, must be directed to TeamViewer in accordance with the notice provisions contained in this EULA. The license granted to Customer to use the TeamViewer iOS App is a limited non-transferable license for the use on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by Customer, or as otherwise permitted by the Usage Rules set forth in Apple’s Mobile App Store Terms of Service, except that the TeamViewer iOS App may also be accessed and used by other accounts associated with Customer via Apple’s Family Sharing or volume purchasing programs. In addition, Customer must comply with the terms of any third-party agreement applicable to Customer when using the TeamViewer iOS App, such as Customer’s wireless data service agreement. Apple and Apple’s subsidiaries are third-party beneficiaries of this EULA and, upon Customer’s acceptance of this EULA, will have the right (and will be deemed to have accepted the right) to enforce this EULA against Customer as a third-party beneficiary thereof; notwithstanding the foregoing, TeamViewer’s right to enter into, rescind or terminate any variation, waiver or settlement under this EULA is not subject to the consent of any third party.
 
+### B.7. AI Specific Terms  
+
+#### B.7.1. AI Services  
+
+TeamViewer may offer services and features that utilize, are powered by, or incorporate elements of artificial intelligence (**“AI Services”**), which Customer or its company administrator may activate subject to a License.
+
+#### B.7.2. Content  
+
+The content submitted or otherwise fed into the AI Services, such as prompts, recordings, screen captures, files, etc., (**“Input”**), and the results generated by the AI Services based on the Input (**“Output”**) are collectively referred to as “Content” hereinafter. 
+
+Customer agrees that the Content may be processed by TeamViewer, third-party providers and their contractors for service provision, and TeamViewer may also use it for product development and improvement. Therefore, Customer shall not use the related AI Services for processing any Content that is sensitive or otherwise not intended for viewing by others.
+
+Due to the nature of machine learning, the Output may be incorrect, incomplete, may not work as expected, or may not accurately reflect the Input or the actions taken, and the AI Services may generate the same or similar Output for other users. Customer acknowledges that Output generated for other users may allow for insights on the Input initially submitted by Customer, may not qualify for intellectual property protection, nor be appropriate for its intended business purpose, and the utilization of the Outputs is at Customer’s own risk. Any warranty, service level or indemnification obligation of TeamViewer, to the extent provided otherwise in the Contract, shall not apply to the Outputs.
+
+#### B.7.3. Third Party Provider  
+
+Customer acknowledges and agrees that the AI Services may include AI models, technologies or features provided by third-party providers, and its usage of such is subject to additional pass-through terms in their then-current version available at [https://www.teamviewer.com/en/legal/ai-terms/](https://www.teamviewer.com/en/legal/ai-terms/) (**“Third Party Terms”**).
+
+#### B.7.4. Compliant Usage  
+
+Customer shall use the AI Services in a responsible, safe, and legally compliant manner in accordance with the Acceptable Use Policy at [https://www.teamviewer.com/en/legal/ai-terms/](https://www.teamviewer.com/en/legal/ai-terms/). The AI Services shall not be used for other purposes than for the designed purpose as set out in the Product Specification.
+
+#### B.7.5. Change of AI Services  
+
+Both parties understand that AI Services are built upon emerging technologies, which are subject to continuous development and innovation, and the legal framework and technical guidelines governing these technologies are evolving over time. In light of this, TeamViewer may: i) change its third-party provider(s) for the AI Services at any time; ii) change the scope of use or limit specific feature of AI Services, particularly in response to technical, security, or regulatory requirements, or changes made by third-party providers. If such changes significantly interfere with the core functionality of the AI Services, Customer is entitled to terminate its subscription of the AI Services, and claim a pro rata refund in case of Paid AI Services (cf. sec. B.7.6). Customer´s continued use of the AI Services following such modifications constitutes acceptance of the changes.
+
+#### B.7.6. Refund  
+
+If the AI Services are provided under a separately chargeable license with an additional license fee (**“Paid AI Services”**), TeamViewer may terminate such a license at any time with a sixty(60)-day notice; in this case, Customer will be entitled to a pro rata refund of the prepaid fees. For the avoidance of doubt, this refund shall be the sole and exclusive remedy available to Customer in relation arising from to the termination of the affected AI Services.
+
+In any other cases, the AI Services will be provided under a Free License and available to Customer on as-is and as-available basis. 
+
 C. Hardware Specific Terms  
 
 -----------------------------
@@ -455,9 +507,9 @@ The Hardware Specific Terms contain the terms and conditions that additionally a
 
 #### C.1.1. Subject Matter
 
-This Part will apply to sale of Hardware to and purchase by the Customer from TeamViewer (“**Hardware Purchase**”).
+This Part will apply to sale of Hardware to and purchase by Customer from TeamViewer (“**Hardware Purchase**”).
 
-The subject matter of the Hardware Purchase shall be the supply of the Hardware as provided in the Contract and the transfer of ownership of the Hardware to and the payment of the purchase price agreed by the Customer.
+The subject matter of the Hardware Purchase shall be the supply of the Hardware as provided in the Contract and the transfer of ownership of the Hardware to and the payment of the purchase price agreed by Customer.
 
 Any additional services related to the Hardware Purchase, including but not limited to the setup, installation, or trainings, shall not be provided under these Hardware Specific Terms. Such services may be agreed between the parties upon request but shall remain subject to a separate agreement and remuneration.
 
@@ -473,7 +525,7 @@ Customer shall assume the risk of accidental destruction, loss or damage of the 
 
 Customer shall pay to TeamViewer the purchase price and delivery fees as specified in the Contract.
 
-In deviation to section A.2.2 and unless otherwise agreed, the purchase price shall be due for payment upon Passing of Risk.
+In deviation to sec. A.2.2 and unless otherwise agreed, the purchase price shall be due for payment upon Passing of Risk.
 
 Customer shall be responsible for the setup and configuration of the Hardware following the delivery thereof.
 
@@ -485,7 +537,7 @@ Customer is not entitled to set off against claims of TeamViewer, unless the cou
 
 #### C.1.5. Hardware Requirements
 
-The use of the Hardware by the Customer will be subject to specifications as provided either by TeamViewer or by the Hardware manufacturer.
+The use of the Hardware by Customer will be subject to specifications as provided either by TeamViewer or by the Hardware manufacturer.
 
 #### C.1.6. Limitation of Warranty / Warranties
 
@@ -497,7 +549,7 @@ Contract, unless the defect was hidden and not recognizable during the ordinary 
 
 In case of material defects of the Hardware or defects in title thereof and at TeamViewer’s discretion, TeamViewer shall either fix the defect or make available to Customer replacement Hardware which is free from defect.
 
-TeamViewer reserves the right to assign to the Customer any claims arising from TeamViewer’s liability for material defects and defects of title against the manufacturer, the reseller or other third parties.
+TeamViewer reserves the right to assign to Customer any claims arising from TeamViewer’s liability for material defects and defects of title against the manufacturer, the reseller or other third parties.
 
 If Customer is an entrepreneur, the validity of any claims based on defects in the Hardware shall become statute-barred one (1) year after the Passing of Risk. Entrepreneur in the preceding sentence means a natural or legal person, or a partnership with legal personality, that acts in exercise of trade, business or profession while entering the Contract.
 
@@ -507,7 +559,7 @@ Any claims for damages based on breach of warranty or defective performance shal
 
 #### C.2.1. Subject Matter
 
-This Part, the hardware lease terms, will apply to the non-permanent transfer of Hardware for use during the duration of the Contract (“**Leased Hardware**”) to the Customer by TeamViewer (“**Hardware Lease**”).
+This Part, the hardware lease terms, will apply to the non-permanent transfer of Hardware for use during the duration of the Contract (“**Leased Hardware**”) to Customer by TeamViewer (“**Hardware Lease**”).
 
 The subject matter of the Hardware Lease shall be the supply of the Hardware as provided in the applicable Contract and the non-permanent transfer of usage rights and possession of the Hardware and the payment of the agreed fee.
 
@@ -523,7 +575,7 @@ Upon delivery thereof, Customer shall ensure the proper functioning of the Lease
 
 Customer shall bear all operating costs incurred when using the Leased Hardware, including all cleaning and running costs.
 
-All maintenance and repair costs as well as any necessary repairs of the equipment, components and accessories of the Leased Hardware which are based on the use by the Customer shall be carried out by the Customer at Customer’s own expense.
+All maintenance and repair costs as well as any necessary repairs of the equipment, components and accessories of the Leased Hardware which are based on the use by Customer shall be carried out by Customer at Customer’s own expense.
 
 Customer shall notify TeamViewer immediately of any damage to the Leased Hardware, providing where available, comprehensive information on the cause of and the person responsible for the damage. In case of damages to the Leased Hardware, which do not regularly occur solely as a result of normal contractual wear and tear, Customer shall bear the burden of proof that the deterioration of the Leased Object was not caused by him and was not his fault.
 
@@ -681,7 +733,7 @@ To the extent required to provide the Professional Services, TeamViewer grants C
 
 #### D.6.2. Work Results
 
-Save otherwise provided in the Contract, as between the parties, TeamViewer is, or shall become as of creation, the sole and exclusive owner of any and all intellectual property rights, including copyrights and rights of use and exploitation, in the work products arising from its performance of Professional Services, in particular software programs (object and source code) and applications, customization, configuration, implementation, settings, improvement, development of features, in relation to the Software, as well as other work products provided by TeamViewer, e. g. documentation, tools, solutions, test results, analysis and know-how (collectively the “**Work Results**”). If and to the extent any right, title and interest in and to any intellectual property in the Software or Work Results are vested in Customer for any reason, Customer hereby assigns to TeamViewer and TeamViewer hereby accepts any such right, title and interest with effect as of the time of its creation. For the avoidance of doubt, TeamViewer especially reserves the rights to make available any Work Results, or parts thereof, to third parties, e. g. TeamViewer customers, provided such use by TeamViewer shall not infringe any intellectual property rights or business secrets of the Customer. To the extent legally possible, Customer hereby irrevocably waives and agrees never to assert and enforce in any manner any moral rights (_Urheberpersönlichkeitsrechte_) that it may be entitled to in the Software or Work Results, against TeamViewer, any of TeamViewer’s affiliates or successors in interest, or any of TeamViewer’s, its affiliates’ or successors’ customers.
+Save otherwise provided in the Contract, as between the parties, TeamViewer is, or shall become as of creation, the sole and exclusive owner of any and all intellectual property rights, including copyrights and rights of use and exploitation, in the work products arising from its performance of Professional Services, in particular software programs (object and source code) and applications, customization, configuration, implementation, settings, improvement, development of features, in relation to the Software, as well as other work products provided by TeamViewer, e. g. documentation, tools, solutions, test results, analysis and know-how (collectively the “**Work Results**”). If and to the extent any right, title and interest in and to any intellectual property in the Software or Work Results are vested in Customer for any reason, Customer hereby assigns to TeamViewer and TeamViewer hereby accepts any such right, title and interest with effect as of the time of its creation. For the avoidance of doubt, TeamViewer especially reserves the rights to make available any Work Results, or parts thereof, to third parties, e. g. TeamViewer customers, provided such use by TeamViewer shall not infringe any intellectual property rights or business secrets of Customer. To the extent legally possible, Customer hereby irrevocably waives and agrees never to assert and enforce in any manner any moral rights (_Urheberpersönlichkeitsrechte_) that it may be entitled to in the Software or Work Results, against TeamViewer, any of TeamViewer’s affiliates or successors in interest, or any of TeamViewer’s, its affiliates’ or successors’ customers.
 
 Any right of Customer to use any Work Results shall be subject to a license agreement between the parties. If and to the extent the Work Results relate to an implementation, extension or improvement of Customer’s use of Services, for which Customer has already acquired an appropriate Subscription License from TeamViewer pursuant to section B, such License shall also apply to the use of the related Work Results, unless otherwise agreed by the parties.
 
@@ -734,7 +786,7 @@ Strict liability (liability without fault) for defects which already existed whe
 
 **E.1.1.5. Limited liability in case of Free License**
 
-TeamViewer’s liability for damages caused by the use of Free Version shall be subject to the provisions on gratuitous lending (section 598 et seq. BGB), i.e., in particular, TeamViewer’s liability shall be limited to intent and gross negligence. Mandatory liability under the German Product Liability Act or any applicable corresponding mandatory law shall not be excluded.  
+TeamViewer’s liability for damages caused by the use of Free License shall be subject to the provisions on gratuitous lending (section 598 et seq. BGB), i.e., in particular, TeamViewer’s liability shall be limited to intent and gross negligence. Mandatory liability under the German Product Liability Act or any applicable corresponding mandatory law shall not be excluded.  
   
 
 **E.1.1.6. Employees and agents of TeamViewer**
@@ -745,7 +797,7 @@ The limitations of liability pursuant to section E.1.1 shall also apply to claim
 
 The Contract and any disputes in connection with it shall be exclusively governed by the law of the Federal Republic of Germany, excluding the United Nations Convention on Contracts for the International Sale of Goods.
 
-The exclusive place of jurisdiction shall be Stuttgart, Germany. TeamViewer shall still be entitled to file a suit at the Customer’s domicile.
+The exclusive place of jurisdiction shall be Stuttgart, Germany. TeamViewer shall still be entitled to file a suit at Customer’s domicile.
 
 #### **E.1.3. Specific Terms for Australian Customers**
 
@@ -809,18 +861,6 @@ c) the relevant Consumer Guarantee is a guarantee pursuant to sections 51, 52 or
 
 For any claim under the Consumer Guarantees please notify Us in writing using the Customer Portal pursuant to sec.B.5.4. We will pay Your reasonable, direct expenses of claiming under this section. You shall submit details and proof of its expense claim to Us for consideration.
 
-**E.1.3.5. Privacy and Use of Personal Information**
-
-Customer is responsible for obtaining all relevant consents from and providing all relevant notices to individuals whose Personal Information is provided by Customer to TeamViewer in connection with the Contract so as to ensure TeamViewer's dealings with that information pursuant to the Contract comply with Customer's obligations under any Privacy Laws. 
-
-Customer must indemnify TeamViewer against and must pay to TeamViewer on demand all losses, liabilities, costs and expenses arising out of its failure to comply with its obligations specified in this section.
-
-In this section:
-
-a) "Personal Information" has the meaning as defined in any applicable Privacy Law; and
-
-b) "Privacy Law" means any legislation or administrative requirement (as amended from time to time) imposing an obligation in relation to the collection, use, disclosure, storage and transmission of Personal Information which is applicable to a party in performance of its obligations under the Contract, including without limitation any codes, principals or guidelines contained in or arising out of such legislation.
-
 ### E.2. Jurisdiction Specific Terms for the Americas
 
 If the place of purchase or your main seat or residence is located in North or South America, the Jurisdiction Specific Terms for the Americas will additionally apply to you.
@@ -839,7 +879,7 @@ Unless the parties expressly agree in writing to the contrary, if the Customer i
 
 #### E.2.4. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL PURPOSE, IN NO EVENT WILL TEAMVIEWER OR ITS LICENSORS, RESELLERS, SUPPLIERS OR AGENTS BE LIABLE TO CUSTOMER FOR (i) ANY COSTS OF PROCUREMENT OF SUBSTITUTE OR REPLACEMENT GOODS AND SERVICES, LOSS OF PROFITS, LOSS OF USE, LOSS OF OR CORRUPTION TO DATA, BUSINESS INTERRUPTION, LOSS OF PRODUCTION, LOSS OF REVENUES, LOSS OF CONTRACTS, LOSS OF GOODWILL, OR ANTICIPATED SAVINGS OR WASTED MANAGEMENT AND STAFF TIME; OR (ii) ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR INDIRECT DAMAGES WHETHER ARISING DIRECTLY OR INDIRECTLY OUT OF THIS CONTRACT, EVEN IF TEAMVIEWER OR ITS LICENSORS, RESELLERS, SUPPLIERS OR AGENTS HAS BEEN ADVISED SUCH DAMAGES MIGHT OCCUR. IN NO CASE SHALL TEAMVIEWER’S LIABILITY EXCEED THE LOWER OF (X) THE FEES CUSTOMER PAID FOR THE SOFTWARE OR SERVICES GIVING RISE TO THE CLAIM DURING THE SIX (6) MONTH PERIOD IMMEDIATELY PRIOR TO THE EVENT GIVING RISE TO THE CLAIM OR (Y) THE RESPECTIVE EQUIVALENT OF TWELVE-THOUSAND-FIVE-HUNDRED EURO (12,500.00 EUR). NOTHING IN THIS AGREEMENT SHALL OPERATE SO AS TO EXCLUDE OR LIMIT TEAMVIEWER’S LIABILITY TO CUSTOMER FOR DEATH OR PERSONAL INJURY ARISING OUT OF NEGLIGENCE OR FOR ANY OTHER LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED BY LAW. THE DISCLAIMERS AND LIMITATIONS SET FORTH IN THIS EULA WILL APPLY REGARDLESS OF WHETHER OR NOT CUSTOMER ACCEPTS THE SOFTWARE, SERVICES OR ANY UPDATES, OR NEW VERSIONS.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL PURPOSE, IN NO EVENT WILL TEAMVIEWER OR ITS LICENSORS, RESELLERS, SUPPLIERS OR AGENTS BE LIABLE TO CUSTOMER FOR (i) ANY COSTS OF PROCUREMENT OF SUBSTITUTE OR REPLACEMENT GOODS AND SERVICES, LOSS OF PROFITS, LOSS OF USE, LOSS OF OR CORRUPTION TO DATA, BUSINESS INTERRUPTION, LOSS OF PRODUCTION, LOSS OF REVENUES, LOSS OF CONTRACTS, LOSS OF GOODWILL, OR ANTICIPATED SAVINGS OR WASTED MANAGEMENT AND STAFF TIME; OR (ii) ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR INDIRECT DAMAGES WHETHER ARISING DIRECTLY OR INDIRECTLY OUT OF THIS CONTRACT, EVEN IF TEAMVIEWER OR ITS LICENSORS, RESELLERS, SUPPLIERS OR AGENTS HAS BEEN ADVISED SUCH DAMAGES MIGHT OCCUR. IN NO CASE SHALL TEAMVIEWER’S LIABILITY EXCEED THE LOWER OF (X) THE FEES CUSTOMER PAID FOR THE SOFTWARE OR SERVICES GIVING RISE TO THE CLAIM DURING THE SIX (6) MONTH PERIOD IMMEDIATELY PRIOR TO THE EVENT GIVING RISE TO THE CLAIM OR (Y) THE RESPECTIVE EQUIVALENT OF TWELVE-THOUSAND-FIVE-HUNDRED EURO (12,500.00 EUR). NOTHING IN THIS AGREEMENT SHALL OPERATE SO AS TO EXCLUDE OR LIMIT TEAMVIEWER’S LIABILITY TO CUSTOMER FOR DEATH OR FOR ANY OTHER LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED BY LAW. THE DISCLAIMERS AND LIMITATIONS SET FORTH IN THIS EULA WILL APPLY REGARDLESS OF WHETHER OR NOT CUSTOMER ACCEPTS THE SOFTWARE, SERVICES OR ANY UPDATES, OR NEW VERSIONS.
 
 #### E.2.5. Indemnification by Customer
 
@@ -860,7 +900,12 @@ The Contract and any disputes in connection with it shall be exclusively governe
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE WARRANTIES SET FORTH IN THE CONTRACT ARE CUSTOMER’S EXCLUSIVE WARRANTIES AND ARE IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS. TEAMVIEWER MAKES NO WARRANTIES OR REPRESENTATIONS THAT THE SOFTWARE OR ANY SERVICES WILL MEET CUSTOMER’S REQUIREMENTS OR THAT OPERATION OR USE OF THE SOFTWARE OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE. CUSTOMER MAY HAVE OTHER WARRANTY RIGHTS, WHICH MAY VARY FROM STATE TO STATE AND COUNTRY TO COUNTRY.
 
-**Version as of January 25, 2024.**
+#### E.2.9. California Consumer Privacy Act and Personal Information
+
+With regard to Personal Information subject to California Consumer Privacy Act of 2018, Cal. Civ. Code § 1798.100 et seq. and its implementing regulations (“CCPA”), TeamViewer agrees that it shall not: (i) sell the Personal Information, as a sale is defined in the CCPA; (ii) retain, use, or disclose the Personal Information for any purpose other than as described in the EULA, DPA and/or TeamViewer’s Privacy Notices, including retaining, using, or disclosing the Personal Information for a commercial purpose that does not comply with the CCPA; or (iii) retain, use, or disclose the Personal Information outside of the permitted scope of the Contract and without the documented instructions of Customer.  
+ 
+
+**Version as of October 29, 2024.**
 
  
 
@@ -869,104 +914,91 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE WARRANTIES SET FORTH IN T
 TeamViewer Data Processing Agreement
 ------------------------------------
 
-### **1\. General**
+### **1\. Applicability**
 
-For the data processing activities described in the respective [Annex 1](https://www.teamviewer.com/en/legal/dpa-annex/) of this agreement, where TeamViewer acts as the Customer’s Processor, the parties agree to the following provisions on the commissioned processing of personal data, which shall supplement the TeamViewer End User License Agreement (EULA) (Data Processing Agreement, “**DPA**“) until further notice.
+For the data processing activities described in [**Annex 1**](https://www.teamviewer.com/en/legal/dpa-annex/) of this agreement, where Customer acts as data controller and TeamViewer acts as the Customer's processor, the parties agree to the following provisions on the commissioned processing of personal data, which shall supplement the [TeamViewer End User License Agreement (**EULA**)](https://www.teamviewer.com/en/legal/eula/) (Data Processing Agreement, (**DPA**)) until further notice.
 
-The DPA does not apply if the Customer is a natural person using the Software or the Services in the course of a purely personal or family activity (cf. Art. 2(2)(c) EU General Data Protection Regulation, “**GDPR**“).
+The DPA does not apply if the Customer is a natural person using the Software or the Services in the course of a purely personal or family activity (cf. Art. 2(2)(c) EU General Data Protection Regulation (EU 2016/679), (**GDPR**)).
 
 The provisions of this DPA and the EULA concluded at the same time complement each other and exist side by side. In the event of any contradictions in the area of data protection, the DPA shall take precedence over the provisions of the EULA.
 
-For Customer’s convenience, TeamViewer provides an overview of how it collects and processes personal data in connection with the use of TeamViewer Software and Services in its [Data Protection Information Sheet](https://www.teamviewer.com/privacy/#dpi) for TeamViewer Customers, as amended from time to time.
+For Customer’s convenience, TeamViewer provides an overview of how it collects and processes personal data in connection with the use of TeamViewer Software and Services in its [Data Protection Information Sheet](https://www.teamviewer.com/en/legal/privacy-and-cookies/) for TeamViewer Customers, as amended from time to time.
 
 ### **2\. Rights and obligations of TeamViewer**
 
-#### **2.1. Compliance with applicable laws**
+#### **2.1. Applicable laws**
 
-The obligations of TeamViewer shall arise from this DPA and the applicable laws. The applicable laws shall in particular include the Federal Data Protection Act (“FDPA”) and the GDPR.
+The obligations of TeamViewer shall arise from this DPA and the applicable data protection laws. The applicable laws shall in particular include the German Federal Data Protection Act (Bundesdatenschutzgesetz (**BDSG**)) and the GDPR.
 
 #### **2.2. Processing on instructions only**
 
-To the extent this DPA is applicable, TeamViewer shall only process personal data within the scope of this DPA and on documented instructions of the Customer, which are mutually agreed upon by the parties in the EULA and especially defined by the Product functionality, unless TeamViewer is required to do so by Union or the member state law to which TeamViewer is subject; in such a case TeamViewer shall inform the Customer of that legal requirement before processing, unless the respective law prohibits such information on important grounds of public interest. The Customer can give additional written instructions as far as this is necessary to comply with the applicable data protection law. The documentation on issued instructions shall be kept by the Customer for the term of the DPA.
+To the extent this DPA is applicable, TeamViewer shall only process personal data within the scope of this DPA and on documented instructions of the Customer, which are mutually agreed upon by the parties in the EULA and especially defined by the Product functionality, unless TeamViewer is required to do so by European Union or member state law to which TeamViewer is subject; in such a case TeamViewer shall inform the Customer of that legal requirement before processing, unless the respective law prohibits such information on important grounds of public interest. The Customer can give additional written instructions as far as this is necessary to comply with the applicable data protection law. The documentation on issued instructions shall be kept by the Customer for the term of the DPA.
 
 #### **2.3. Obligation of confidentiality**
 
-TeamViewer shall ensure that the persons authorized to process the personal data have committed themselves to confidentiality unless they are subject to an appropriate legal obligation of secrecy.
+TeamViewer shall ensure that the persons authorized to process the personal data are committed to confidentiality or under an appropriate statutory obligation of confidentiality.
 
-#### **2.4. Security measures according to Art. 32 GDPR**
+#### **2.4. Technical and Organizational Measures**
 
-**2.4.1. Principle**
+TeamViewer has implemented and maintains reasonable and appropriate technical and organization measures regarding the protection of personal data in accordance with Art. 32 GDPR (**TOMs**). The TOMs are described in detail in the documentation of the TOMs, which is attached to this DPA as **[Annex 2](https://www.teamviewer.com/en/legal/dpa-annex/)**. Further information on TeamViewer’s security can be found in [TeamViewer’s Trust Center](https://www.teamviewer.com/en/resources/trust-center/).
 
-TeamViewer will take the necessary measures for the security of the processing according to Article 32 GDPR (hereinafter referred to as “**Security Measures**”).
+The TOMs take into account the state of art, the implementation costs, and the nature, scope, context and purposes of processing personal data to ensure a level of security appropriate to the risk to the rights and freedoms of the natural persons affected by the processing. To this end, the protection objectives of Art. 32 (1) GDPR, such as confidentiality, integrity and availability of systems and services and their resilience in terms of the nature, scope, as well as context of the processing shall be addressed in such a way that the risks are mitigated continuously by appropriate TOMs.
 
-**2.4.2. Scope**
+The procedures for the regular review, assessment, and evaluation of the effectiveness of the then-current TOMs is further described in **[Annex 2](https://www.teamviewer.com/en/legal/dpa-annex/)**. The TOMs are subject to technical progress and further development. TeamViewer may review and update the TOMs from time to time without notification of the Customer, provided that any such update will not degrade the security of the personal data and of the Software and Services of TeamViewer.
 
-For the specific commissioned processing of personal data, a level of security appropriate to the risk to the rights and freedoms of the natural persons affected by the processing shall be guaranteed. To this end, the protection objectives of Art. 32 (1) GDPR, such as confidentiality, integrity and availability of systems and services and their resilience in terms of the nature, scope, as well as context of the processing shall be taken into account in such a way that the risks are mitigated permanently by appropriate Security Measures.
+#### **2.5.Assistance with requests**
 
-**2.4.3. Security Measures**
+TeamViewer shall, taking into account the nature of the processing, assist the Customer as far as this is possible by appropriate technical and organizational measures in the fulfillment of requests to exercise the rights of affected data subjects as referred in Chapter III of the GDPR. Should a data subject contact TeamViewer directly to exercise the data subject's rights regarding the data processed on behalf of the Customer (as far as identifiable), TeamViewer shall immediately forward such request to the Customer. Upon request, the Customer shall remunerate TeamViewer with an appropriate compensation for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
 
-The adopted Security Measures are described in detail in the documentation of the Security Measures, which is attached to this DPA as [Annex 2](https://www.teamviewer.com/en/legal/dpa-annex/).
+#### **2.6. Assistance with compliance with Art. 32 - 36 GDPR**
 
-**2.4.4. Procedure for reviewing**
-
-The documentation of the security measures also describes the procedures for the regular review, assessment, and evaluation of the effectiveness of the then-current Security Measures.
-
-**2.4.5. Changes**
-
-The Security Measures are subject to technical progress and further development. TeamViewer shall be generally permitted to implement alternative appropriate measures. In doing so, the level of security may not fall below the level existing prior to this DPA on the basis of the Security Measures already implemented or to be implemented.
-
-#### **2.5. Assistance with safeguarding the rights of data subjects**
-
-TeamViewer shall, taking into account the nature of the processing, assist the Customer as far as this is possible by appropriate technical and organizational measures in the fulfillment of requests to exercise the rights of affected data subjects as referred in Chapter III of the GDPR. Should a data subject contact TeamViewer directly to exercise the data subject’s rights regarding the data processed on behalf of the Customer (as far as identifiable), TeamViewer shall immediately forward such request to the Customer. The Customer shall remunerate TeamViewer an hourly rate of 70 Euros for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
-
-#### **2.6. Assistance with ensuring compliance with Art. 32 – 36 GDPR**
-
-Taking into account the type of processing and the information available to TeamViewer, TeamViewer shall support the Customer with appropriate technical and organizational measures to comply with the obligations mentioned in Article 32-36 GDPR, especially with regard to the security of the processing, the notification of personal data breach, the data protection impact assessment as well as the consultation with supervisory authorities. The Customer shall remunerate TeamViewer an hourly rate of 70 Euros for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
+Taking into account the type of processing and the information available to TeamViewer, TeamViewer shall support the Customer with appropriate technical and organizational measures to comply with the obligations mentioned in Art. 32-36 GDPR, especially with regard to the security of the processing, the notification of personal data breach, the data protection impact assessment as well as the consultation with supervisory authorities. Upon request, the Customer shall remunerate TeamViewer an appropriate compensation for the effort resulting from such assistance, if and as far as permitted by applicable data protection laws.
 
 #### **2.7. Records of processing activities**
 
 TeamViewer will provide the Customer with the information necessary to maintain the records of processing activities.
 
-#### **2.8. Deletion and return at the end of processing**
+#### **2.8. Data Deletion**
 
-At the choice of the Customer, TeamViewer shall delete or return the personal data that is processed on behalf of the Customer, if and to the extent that the law of the European Union or a member state to which TeamViewer is subject does not provide for an obligation to store the data.
+At the choice of the Customer, TeamViewer shall delete or return the personal data that is processed on behalf of the Customer, if and to the extent that the law of the European Union or a member state to which TeamViewer is subject does not provide for an obligation to store the personal data.
 
-#### **2.9. Information to demonstrate compliance with data protection obligations and inspections**
+#### **2.9. Assistance with demonstration of DPA compliance**
 
-TeamViewer shall provide the customer with all information necessary to demonstrate compliance with the obligations resulting from Sections 2 and 3 of this DPA. TeamViewer will also provide certificates of regular audits by recognized auditors or other qualified third parties, if required.
+TeamViewer shall provide the Customer with all information necessary to demonstrate compliance with the obligations resulting from Sections 2 and 3 of this DPA. TeamViewer will also provide certificates of regular audits by recognized auditors or other qualified third parties, if required.
 
-If and insofar there are objectively justified indications of a violation of this DPA or of data protection regulations by TeamViewer, TeamViewer will enable and contribute to additional audits, including inspections, which are carried out by the Customer or by a qualified auditor appointed by the Customer. When conducting the inspection, the Customer will not disrupt TeamViewer’s operations in a disproportionate manner.
+If and insofar there are objectively justified indications of a violation of this DPA or of data protection regulations by TeamViewer, TeamViewer will enable and contribute to additional audits, including inspections, which are carried out by the Customer or by a qualified auditor appointed by the Customer. When conducting the inspection, the Customer will not disrupt TeamViewer's operations in a disproportionate manner.
 
-#### **2.10. Obligation to notify in case of doubts about instructions**
+#### **2.10. Notification of doubts regarding the instruction**
 
 TeamViewer shall inform the Customer immediately if TeamViewer is of the opinion that the execution of an instruction could lead to a violation of the applicable data protection law. TeamViewer is entitled to suspend the execution of the relevant instruction until it is confirmed in writing or changed by the Customer after the review.
 
-#### **2.11. Obligation to notify breaches**
+#### **2.11. Notification of breaches**
 
 If TeamViewer detects violations of the applicable data protection law, this DPA, or instructions of the Customer regarding the commissioned processing of personal data, TeamViewer shall inform the Customer immediately.
 
-#### **2.12. Appointment of a data protection officer**
+#### **2.12. Data protection officer**
 
-TeamViewer has appointed Ms. Hauser as external data protection officer, who can be reached at [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection), or at TeamViewer Germany GmbH, for the attention of the Data Protection Officer, Bahnhofsplatz 2, 73033 Göppingen, Deutschland.
+TeamViewer has appointed an external data protection officer, who can be reached at [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection), or at TeamViewer Germany GmbH, for the attention of the Data Protection Officer, Bahnhofsplatz 2, 73033 Göppingen, Germany.
 
 #### **2.13. Data transfers to a third country**
 
-TeamViewer will generally only transfer personal data processed within the scope of this DPA to a country outside the EU or the European Economic Area (EEA) for which no adequacy decision of the EU Commission in the sense of Art. 45 para. 3 GDPR exists (“unsafe third country”), provided that:
+TeamViewer will generally only transfer personal data processed within the scope of this DPA to a country outside the EU or the European Economic Area (EEA) for which no adequacy decision of the EU Commission in the sense of Art. 45 (3) GDPR exists (**unsafe third country**), provided that:
 
-* a. the Customer or the Customer’s user gives TeamViewer instructions for such a transfer, e.g., by requesting TeamViewer to establish a connection to an endpoint located in an unsafe third country (in such cases the Customer is responsible for ensuring that the data transfer is carried out in accordance with Art. 44 et seq. GDPR), or
-* b. TeamViewer is obliged to do so according to the law of the European Union or a member state to which TeamViewer is subject; in such a case TeamViewer will inform the Customer about these legal requirements prior to processing, unless the respective law prohibits such a communication on important grounds of public interest.
+**a.**  the Customer or the Customer’s user gives TeamViewer instructions for such a transfer, e.g., by requesting TeamViewer to establish a connection to an endpoint located in an unsafe third country (in such cases the Customer is responsible for ensuring that the data transfer is carried out in accordance with Art. 44 et seq. GDPR), or
+
+**b.**  TeamViewer is obliged to do so according to the law of the European Union or a member state to which TeamViewer is subject; in such a case TeamViewer will inform the Customer about these legal requirements prior to processing, unless the respective law prohibits such a communication on important grounds of public interest.
 
 Furthermore, TeamViewer shall be entitled to utilize Subprocessors in a third country to process personal data, insofar the requirements of Art. 44 GDPR are met.
 
 ### **3\. Subprocessors**
 
-#### **3.1. Subprocessors engaged upon conclusion of the DPA**
+#### **3.1. Authorised Subprocessors**
 
-TeamViewer utilizes the services of a number of another processors (hereinafter, “**Subprocessors**”). The list of Subprocessors used by TeamViewer for each of the TeamViewer products can be found under the following link as [Annex 3](https://www.teamviewer.com/en/legal/dpa-annex/). By concluding the DPA, the Customer agrees to the engagement of the Subprocessors that are included in [Annex 3](https://www.teamviewer.com/en/legal/dpa-annex/) at the time of concluding the DPA for the relevant TeamViewer Product.
+TeamViewer utilizes the services of a number of another processors (hereinafter, “**Subprocessors**”). The list of Subprocessors used by TeamViewer for each of the TeamViewer products can be found under the following link as [**Annex 3**](https://www.teamviewer.com/en/legal/dpa-annex/). By concluding the DPA, the Customer agrees to the engagement of the Subprocessors that are included in **[Annex 3](https://www.teamviewer.com/en/legal/dpa-annex/)** at the time of concluding the DPA for the relevant TeamViewer Product.
 
-#### **3.2. Notification regarding further Subprocessors**
+#### **3.2. Appointment of new Subprocessors**
 
-If TeamViewer wishes to commission further or other Subprocessors to provide the contractually agreed services (e.g., hosting), such Subprocessors have to be selected with the required care and due diligence. TeamViewer shall notify the Customer at least 15 days in advance about the appointment of any new Subprocessors. The Customer has the right to object to the engagement of the Subprocessor by stating objectively comprehensible reasons. If no objection is raised within this period, the new Subprocessor notified accordingly shall be deemed approved. If, in the event of an objection within the deadline, no solution can be reached, either party is entitled to terminate the DPA with a notice period of two (2) weeks. When the termination of the DPA becomes effective, the EULA shall also be considered terminated. Reference is made to section B.5.5 (Consequences of termination) of the EULA.
+If TeamViewer wishes to commission further or other Subprocessors to provide the contractually agreed services (e.g., hosting), such Subprocessors have to be selected with the required care and due diligence. TeamViewer shall notify the Customer at least fifteen (15) days in advance about the appointment of any new Subprocessors. The Customer has the right to object to the engagement of the Subprocessor by stating objectively comprehensible reasons. If no objection is raised within this period, the new Subprocessor notified accordingly shall be deemed approved. If, in the event of an objection within the deadline, no solution can be reached, either party is entitled to terminate the DPA with a notice period of two (2) weeks. When the termination of the DPA becomes effective, the EULA shall also be considered terminated. Reference is made to section B.5.5 (Consequences of termination) of the EULA.
 
 #### **3.3. Subprocessors in third countries**
 
@@ -974,17 +1006,7 @@ Subprocessors in third countries may only be engaged if the special requirements
 
 #### **3.4. Obligations of Subprocessors**
 
-**3.4.1. Structuring Contracts According to the Requirements of the DPA**
-
-TeamViewer shall structure the contracts with Subprocessors in a way that they comply with the requirements of the applicable data protection laws and this DPA.
-
-**3.4.2. Engagement of additional or different Subprocessors**
-
-TeamViewer shall oblige the Subprocessors not to commission additional or different Subprocessors with the processing of personal data without observing the provisions of section 3.2 towards TeamViewer.
-
-**3.4.3. Subprocessor guarantees**
-
-TeamViewer shall contractually impose obligations on the Subprocessors providing sufficient guarantees that the appropriate technical and organizational measures will be implemented in such a way that the processing is carried out in accordance with the requirements of the GDPR and this DPA.
+TeamViewer shall structure the contracts with Subprocessors in a way that they comply with the requirements of the applicable data protection laws and this DPA and shall oblige the Subprocessors to commission additional or different Subprocessors with the processing of personal data when observing the provisions of section 3.2 towards TeamViewer. TeamViewer shall contractually impose obligations on the Subprocessors providing sufficient warranties that the appropriate technical and organizational measures will be implemented in such a way that the processing is carried out in accordance with the requirements of the GDPR and this DPA.
 
 ### **4\. Changes to this DPA**
 
@@ -997,7 +1019,7 @@ Reference is made to Art. 82 of the GDPR.
 For the rest, it is agreed that the regulations on limitation of liability from the corresponding license agreement shall apply.  
  
 
-**_Version as of July 17th, 2023._**
+**_Version as of October 29th, 2024._**
 
 [Download DPA](https://teamviewer.scene7.com/is/content/teamviewergmbh/teamviewer/central-image-hub/pdf/en/teamviewer-dpa-en.pdf)
 
