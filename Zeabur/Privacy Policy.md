@@ -439,4 +439,10 @@ By email: [support@zeabur.com](mailto:support@zeabur.com).
 
 [Fair use Guidelines](https://docs.zeabur.com/docs/en-US/legal/fair-use-guideline "Fair use Guidelines")[Terms of Service](https://docs.zeabur.com/docs/en-US/legal/terms "Terms of Service")
 
-2024 © [Zeabur Pte. Ltd.](https://zeabur.com/).
+English
+
+Light
+
+* * *
+
+2024 © [Zeabur Pte. Ltd.](https://zeabur.com/)
