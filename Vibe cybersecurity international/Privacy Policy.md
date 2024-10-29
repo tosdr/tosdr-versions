@@ -154,7 +154,7 @@ Last Edited on July 13, 2024
 
 [![NextCloud Technology Partner](https://vibecyber.com/wp-content/uploads/2021/01/NextCloudTechnologyPartner2.jpg)](https://apps.nextcloud.com/apps/vibeetoee)
 
-[![Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize-qdn9cmpthyktjhbpdqj9grs8sk5xg2l4sukkv9a5mo.png "Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize")](https://www.startus-insights.com/innovators-guide/discover-5-top-zero-trust-architecture-solutions/)
+[![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize-qdn9cmpthyktjhbpdqj9grs8sk5xg2l4sukkv9a5mo.png "Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize")](https://www.startus-insights.com/innovators-guide/discover-5-top-zero-trust-architecture-solutions/)
 
 VIBE CYBER LLC  
 1124 Sylvan Dr, Sarasota FL-34234, United States of America
@@ -178,7 +178,7 @@ Andrew is a senior executive with extensive background in Applications Engineeri
 
 Andrew is a senior executive with extensive background in Applications Engineering, and in particular, Business Development. With an MBA, and an undergrad degree in Aerospace (aka “rocket science”), and having realized high-level security clearance with the US Government, Andrew is a subject-matter expert when it comes to helping our team navigate the complex world of government and its related businesses and agencies. In Andrew’s words, he “thrives in the chaos of the unknown where so many opportunities exist.”
 
-![Chuck-Brooks](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Chuck-Brooks-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "Chuck-Brooks")
+![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Chuck-Brooks-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "Chuck-Brooks")
 
 Chuck Brooks
 ------------
@@ -187,7 +187,7 @@ Chuck Brooks
 
 Named Top Person To Follow on Tech by LinkedIn. Former Technology Partner Advisor at Bill and Melinda Gates Foundation. Helped “stand up” Office of Legislative at DHS. Served as first Director of Legislative Affairs at the DHS Science & Technology Directorate. A thought leader, influencer, technology evangelist. A featured writer/speaker/blogger. Topics include: homeland security, cyber security, CBRNE, artificial intelligence (AI), Internet of Things (IoT), science & technology, public/private partnerships, risk management, blockchain, innovation. Published in FORBES, Huffington Post, InformationWeek, MIT Sloan Blog, Computerworld, Federal Times, NextGov and many more.
 
-![olivierRouit](https://vibecyber.com/wp-content/uploads/elementor/thumbs/olivierRouit-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "olivierRouit")
+![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/olivierRouit-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "olivierRouit")
 
 Olivier Rouit
 -------------
@@ -225,7 +225,7 @@ Paul Hager
 
 Paul has extensive experience in cybersecurity. He served as the U.S. Representative to NATO for Information Security. As Special Assistant to the Director of the NSA he participated in technology research, investment, and partnerships in international cybersecurity and telecom technologies. Early in his NSA career, he carried out system penetration testing (hacking), and was an early team member of the first U.S. National Computer Security Center. Paul has authored national and international policies and publications/books on information security. Paul earned his M.B.A. in Corporate Finance from the University of Pennsylvania Wharton School of Business, and a Master of Public Administration (MPA) in International Policy, from Harvard University. His undergraduate degrees are from the University of North Carolina, a B.S. in Mathematics and a B.A. with Honors in Psychology.
 
-![bobBergman](https://vibecyber.com/wp-content/uploads/elementor/thumbs/bobBergman-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "bobBergman")
+![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/bobBergman-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "bobBergman")
 
 Bob Bergman
 -----------
@@ -234,7 +234,7 @@ Bob Bergman
 
 A total of 50 years of experience in software engineering, Decision Sciences, System Dynamics Modeling, Scenario Planning, International Standards, business strategy synthesis, and simulation. Bob’s background includes 12 years of flight simulator design for USAF high-performance aircraft and 28 years at Intel applying quantitative decision methodologies to improve international standards negotiations and strategic business decisions. Bob represented Intel at GSM Association, 3GPP (wireless com standards), IETF, oneM2m (IOT standards), and Open Mobile Alliance (Digital Rights Management standards). Bob attended MIT and SUNY at Albany earning a BS degree in Electrical Engineering & Computer Science, with graduate work in system dynamics.
 
-![Dr. William Young, Jr.](https://vibecyber.com/wp-content/uploads/elementor/thumbs/WilliamYoung-qdn9cls1qu3hall6xt76wiuw1tmm35b4f9e57e3rv4.jpeg "Dr. William Young, Jr.")
+![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/WilliamYoung-qdn9cls1qu3hall6xt76wiuw1tmm35b4f9e57e3rv4.jpeg "Dr. William Young, Jr.")
 
 Dr. William “Dollar” Young, Jr
 ------------------------------
@@ -247,7 +247,7 @@ Dr. Young is the creator of System-Theoretic Process Analysis for Security (STPA
 
 Dr. Young earned his PhD at the Massachusetts Institute of Technology (MIT) in 2016 in Systems Engineering with an emphasis in Secure Systems Engineering. He has four Master’s Degrees. Dr. Young was one of the initial graduates of the Air Force’s Grand Strategy Program. He has a Bachelor of Science in Engineering Science with an emphasis in Electrical and Aeronautical Engineering.
 
-![Alfred-Berkeley](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Alfred-Berkeley-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "Alfred-Berkeley")
+![](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Alfred-Berkeley-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "Alfred-Berkeley")
 
 Alfred Berkeley
 ---------------
