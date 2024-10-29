@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/eis-duidelijkheid-building-back-better/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/onderzoekers-er-sterven-wel-degelijk-mensen-na-vaccinaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
