@@ -388,7 +388,7 @@ The following clauses apply to the data stored by Restream as data Processor whi
 #### Company
 
 * [About](https://restream.io/about)
-* [Careers](https://restream.io/careers)
+* [Careers](https://restream.io/about#open-positions)
 * [Pricing](https://restream.io/pricing)
 * [Media kit](https://restre.am/media-kit)
 
