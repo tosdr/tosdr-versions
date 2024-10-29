@@ -139,25 +139,24 @@ Save settings
 
 ### Featured Articles
 
+[![Make Fake Blood](https://www.wikihow.com/images/thumb/f/f2/Make-Fake-Blood-Step-17-Version-4.jpg/-crop-126-120-126px-Make-Fake-Blood-Step-17-Version-4.jpg)
+
+3 Realistic Fake Blood Recipes (Plus Fake Guts, Scabs, & Flesh)](https://www.wikihow.com/Make-Fake-Blood)
+
+[![Stop Being Scared After Watching Scary Movies](https://www.wikihow.com/images/thumb/0/03/Stop-Being-Scared-After-Watching-Scary-Movies-Step-13-Version-2.jpg/-crop-126-120-126px-Stop-Being-Scared-After-Watching-Scary-Movies-Step-13-Version-2.jpg)
+
+How to  
+Stop Being Scared After Watching Scary Movies](https://www.wikihow.com/Stop-Being-Scared-After-Watching-Scary-Movies)
+
+[![Start Exercising when You're Out of Shape](https://www.wikihow.com/images/thumb/b/bd/Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg/-crop-126-120-126px-Start-Exercising-when-You%27re-Out-of-Shape-Step-17.jpg)
+
+How to  
+Start Working Out if You're Out of Shape: Tips & Beginner Exercises](https://www.wikihow.com/Start-Exercising-when-You%27re-Out-of-Shape)
+
 [![Cheer up Your Girlfriend](https://www.wikihow.com/images/thumb/c/c8/Cheer-up-Your-Girlfriend-Step-16.jpg/-crop-126-120-126px-Cheer-up-Your-Girlfriend-Step-16.jpg)
 
 How to  
 Cheer up Your Girlfriend](https://www.wikihow.com/Cheer-up-Your-Girlfriend)
-
-[![Flirt](https://www.wikihow.com/images/thumb/0/0b/Flirt-Step-20-Version-4.jpg/-crop-126-120-126px-Flirt-Step-20-Version-4.jpg)
-
-How to  
-Flirt](https://www.wikihow.com/Flirt)
-
-[![Tell Scary Stories](https://www.wikihow.com/images/thumb/0/07/Tell-Scary-Stories-Step-12.jpg/-crop-126-120-126px-Tell-Scary-Stories-Step-12.jpg)
-
-How to  
-Tell Scary Stories](https://www.wikihow.com/Tell-Scary-Stories)
-
-[![Feel More Attractive](https://www.wikihow.com/images/thumb/9/91/Enjoy-College-Step-7.jpg/-crop-126-120-126px-Enjoy-College-Step-7.jpg)
-
-How to  
-Feel More Attractive](https://www.wikihow.com/Feel-More-Attractive)
 
   
 
@@ -200,4 +199,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-154
+135
