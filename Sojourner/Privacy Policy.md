@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e36f79aa05410cf3b4451af8a72bf130
+b2f5bb3970606a28d98a00ba1a42e944
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm round larimar beads](https://www.sojourner.biz/images/cache/stone/STN043.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
+[![Frosted crystal colored lozenges](https://www.sojourner.biz/images/cache/glass/GL0131.200.jpg)](https://www.sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
 
-#### [10 mm round larimar beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
+#### [Frosted crystal colored lozenges](https://www.sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
 
-$41.00
+$15.00
 
 ### Best Sellers
 
