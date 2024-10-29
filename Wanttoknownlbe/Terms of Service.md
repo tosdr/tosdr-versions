@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/verkiezingen/het-bewijs-weer-een-gestolen-vs-verkiezing/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-bizarre-matt-hancock-volksgezondheids-minister/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
