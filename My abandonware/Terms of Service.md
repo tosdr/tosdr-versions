@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
+* [The House of the Dead](https://www.myabandonware.com/game/the-house-of-the-dead-bed)
+* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [Alchemist Marie & Elie: Futari no Atelier](https://www.myabandonware.com/game/alchemist-marie-elie-futari-no-atelier-t31)
 * [Terrors 2](https://www.myabandonware.com/game/terrors-2-t30)
-* [Star Hearts: Hoshi to Daichi no Shisha](https://www.myabandonware.com/game/star-hearts-hoshi-to-daichi-no-shisha-t2z)
-* [Soroban Gu](https://www.myabandonware.com/game/soroban-gu-t2y)
-* [Super Robot Taisen: Compact](https://www.myabandonware.com/game/super-robot-taisen-compact-t1y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
