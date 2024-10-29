@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
+* [Post-election tumult](https://www.japantimes.co.jp/news/japan/politics/ "Post-election tumult")
 * [MLB World Series](https://www.japantimes.co.jp/about-us/link-policy/tag/world-series/ "MLB World Series")
-* [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
+* [U.S. Presidential election](https://www.japantimes.co.jp/about-us/link-policy/tag/2024-us-presidential-election/ "U.S. Presidential election")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -251,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
+[China's private tutoring firms emerge from the shadows after crackdown](https://www.japantimes.co.jp/business/2024/10/29/china-private-tutoring-crackdown/ "China's private tutoring firms emerge from the shadows after crackdown")
 
-9 hours ago
+7 mins ago
 
-[Tree-cutting begins in Meiji Jingu Gaien redevelopment project](https://www.japantimes.co.jp/news/2024/10/28/japan/meiji-jingu-cut-start/ "Tree-cutting begins in Meiji Jingu Gaien redevelopment project")
+[Job market tightened in September, supporting wage gains and BOJ policy goals](https://www.japantimes.co.jp/business/2024/10/29/japan-jobless-rate-sept/ "Job market tightened in September, supporting wage gains and BOJ policy goals")
 
-11 hours ago
+27 mins ago
 
-[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+[Japan selects first woman to lead Antarctic research wintering team](https://www.japantimes.co.jp/news/2024/10/29/japan/japan-first-woman-leader-antarctica/ "Japan selects first woman to lead Antarctic research wintering team")
 
-[Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant](https://www.japantimes.co.jp/news/2024/10/28/japan/tepco-debris-removal-trial/ "Tepco resumes attempt to remove nuclear fuel debris from Fukushima plant")
+36 mins ago
 
-[China's second-generation factory owners go digital to combat challenges](https://www.japantimes.co.jp/business/2024/10/28/tech/china-generation-factory-digital/ "China's second-generation factory owners go digital to combat challenges")
+[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
+
+41 mins ago
+
+[Toyota and NTT to jointly develop driver assistance technology that uses AI](https://www.japantimes.co.jp/business/2024/10/29/companies/toyota-ntt-driver-assistance/ "Toyota and NTT to jointly develop driver assistance technology that uses AI")
+
+49 mins ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
