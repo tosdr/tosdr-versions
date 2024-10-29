@@ -108,10 +108,6 @@ AllLive NowToday
     
     Elite Group A
     
-* [Kerala vs Bengal](https://www.cricbuzz.com/live-cricket-scores/97495/ker-vs-ben-elite-group-c-ranji-trophy "Kerala v Bengal, Elite Group C - Stumps")
-    
-    Elite Group C
-    
 * [Bihar vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97486/bih-vs-kar-elite-group-c-ranji-trophy "Bihar v Karnataka, Elite Group C - Stumps")
     
     Elite Group C
@@ -120,21 +116,21 @@ AllLive NowToday
     
     Elite Group D
     
-* [Services vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97437/ser-vs-jk-elite-group-a-ranji-trophy "Services v Jammu and Kashmir, Elite Group A - JK Won")
+* [Kerala vs Bengal](https://www.cricbuzz.com/live-cricket-scores/97495/ker-vs-ben-elite-group-c-ranji-trophy "Kerala v Bengal, Elite Group C - Stumps")
     
-    Elite Group A
+    Elite Group C
     
 * [Odisha vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97432/odsa-vs-brd-elite-group-a-ranji-trophy "Odisha v Baroda, Elite Group A - BRD Won")
     
     Elite Group A
     
-* [Railways vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97529/rlys-vs-saur-elite-group-d-ranji-trophy "Railways v Saurashtra, Elite Group D - RLYS Won")
-    
-    Elite Group D
-    
 * [Vidarbha vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97477/vid-vs-utk-elite-group-b-ranji-trophy "Vidarbha v Uttarakhand, Elite Group B - Stumps")
     
     Elite Group B
+    
+* [Railways vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97529/rlys-vs-saur-elite-group-d-ranji-trophy "Railways v Saurashtra, Elite Group D - RLYS Won")
+    
+    Elite Group D
     
 * [Chhattisgarh vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97522/cg-vs-tn-elite-group-d-ranji-trophy "Chhattisgarh v Tamil Nadu, Elite Group D - Stumps")
     
@@ -168,6 +164,10 @@ AllLive NowToday
     
     Elite Group A
     
+* [Services vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97437/ser-vs-jk-elite-group-a-ranji-trophy "Services v Jammu and Kashmir, Elite Group A - JK Won")
+    
+    Elite Group A
+    
 * Ranji Trophy Plate
     
     [Mizoram vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98141/miz-vs-mnp-plate-ranji-trophy-plate "Mizoram v Manipur, Plate - Stumps")
@@ -188,6 +188,12 @@ AllLive NowToday
     
     1st Match
     
+* Australia A v India A
+    
+    [Australia A vs India A](https://www.cricbuzz.com/live-cricket-scores/96530/ausa-vs-inda-1st-unofficial-test-australia-a-v-india-a "Australia A v India A, 1st unofficial Test - Upcoming")
+    
+    1st unofficial Test
+    
 * ACC Mens T20 Emerging Teams Asia Cup
     
     [Sri Lanka A vs Afghanistan A](https://www.cricbuzz.com/live-cricket-scores/107665/sla-vs-afga-final-acc-mens-t20-emerging-teams-asia-cup "Sri Lanka A v Afghanistan A, Final - AFGA Won")
@@ -196,17 +202,17 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Otago vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107299/otg-vs-cd-11th-match-the-ford-trophy-2024-25 "Otago v Central Districts, 11th Match - Upcoming")
-    
-    11th Match
-    
-* [Auckland vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107297/akl-vs-cntbry-10th-match-the-ford-trophy-2024-25 "Auckland v Canterbury, 10th Match - Upcoming")
+    [Auckland vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107297/akl-vs-cntbry-10th-match-the-ford-trophy-2024-25 "Auckland v Canterbury, 10th Match - Upcoming")
     
     10th Match
     
 * [Northern Knights vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107307/nk-vs-wel-12th-match-the-ford-trophy-2024-25 "Northern Knights v Wellington, 12th Match - Upcoming")
     
     12th Match
+    
+* [Otago vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107299/otg-vs-cd-11th-match-the-ford-trophy-2024-25 "Otago v Central Districts, 11th Match - Upcoming")
+    
+    11th Match
     
 * WOMEN
     
@@ -601,37 +607,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Ranji Highlights: Chhattisgarh put Tamil Nadu on the mat](https://www.cricbuzz.com/cricket-news/132243/ranji-highlights-chhattisgarh-put-tamil-nadu-on-the-mat "Ranji Highlights: Chhattisgarh put Tamil Nadu on the mat")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132242/bangladesh-confronted-by-internal-and-external-tests-to-save-series "Bangladesh confronted by internal and external tests to save series")
 
 [Bangladesh confronted by internal and external tests to save series](https://www.cricbuzz.com/cricket-news/132242/bangladesh-confronted-by-internal-and-external-tests-to-save-series "Bangladesh confronted by internal and external tests to save series")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132241/mahidul-islam-ankon-replaces-concussed-jaker-ali-for-chittagong-test "Mahidul Islam Ankon replaces concussed Jaker Ali for Chittagong Test")
 
 [Mahidul Islam Ankon replaces concussed Jaker Ali for Chittagong Test](https://www.cricbuzz.com/cricket-news/132241/mahidul-islam-ankon-replaces-concussed-jaker-ali-for-chittagong-test "Mahidul Islam Ankon replaces concussed Jaker Ali for Chittagong Test")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132240/carey-graham-give-hurricanes-a-winning-start "Carey, Graham give Hurricanes a winning start")
 
 [Carey, Graham give Hurricanes a winning start](https://www.cricbuzz.com/cricket-news/132240/carey-graham-give-hurricanes-a-winning-start "Carey, Graham give Hurricanes a winning start")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132239/taijul-throws-his-hat-in-the-ring-for-test-captaincy "Taijul throws his hat in the ring for Test captaincy")
 
 [Taijul throws his hat in the ring for Test captaincy](https://www.cricbuzz.com/cricket-news/132239/taijul-throws-his-hat-in-the-ring-for-test-captaincy "Taijul throws his hat in the ring for Test captaincy")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/132238/shakib-unsure-about-playing-afghanistan-odis "Shakib unsure about playing Afghanistan ODIs")
 
 [Shakib unsure about playing Afghanistan ODIs](https://www.cricbuzz.com/cricket-news/132238/shakib-unsure-about-playing-afghanistan-odis "Shakib unsure about playing Afghanistan ODIs")
 
-11h ago
+17h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
