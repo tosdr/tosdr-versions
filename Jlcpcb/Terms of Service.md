@@ -7,7 +7,7 @@ Terms & Conditions
 
 [Help Center](https://jlcpcb.com/help) [Q&A](https://jlcpcb.com/help/answers) [News](https://jlcpcb.com/help/news) [Blog](https://jlcpcb.com/blog) [Contact](https://jlcpcb.com/help/contact)
 
-[Order now](https://cart.jlcpcb.com/quote)
+[Order now](https://cart.jlcpcb.com/quote?spm=Jlcpcb.Homepage.1006)
 
 Sign in
 
