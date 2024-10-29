@@ -31,6 +31,250 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Colombia ratifica intercambio de energía con Ecuador, si condiciones mejoran
+============================================================================
+
+El presidente Daniel Noboa participará en el segmento de autoridades de alto nivel en el COP16. Su mirada está en la crisis energética
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los ministros de Energía de Ecuador y Colombia conversaron sobre la crisis energética en el COP16.](https://www.elcomercio.com/wp-content/uploads/2024/10/Energia-Colombia.jpg)
+
+En el marco de la Conferencia de las Naciones Unidas sobre Biodiversidad (**COP16**) que se desarrolla en Cali, los **ministros de Energía y Minas de Ecuador y Colombia** tuvieron un acercamiento.
+
+### Más noticias
+
+* [Daniel Noboa definió la comitiva que le acompañará a Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-definio-la-comitiva-que-le-acompanara-a-colombia.html "Daniel Noboa definió la comitiva que le acompañará a Colombia")
+* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+
+Compromiso de intercambio de energía
+------------------------------------
+
+En una conversación entre la ministra encargada de Energía**, Inés Manzano**, y el ministro de Energía colombiano, **Andrés Camacho**, abordaron la **crisis energética** en la región.
+
+Andrés Camacho, ministro colombiano, **expresó solidaridad con Ecuador** y ratificó el compromiso de intercambio de energía, condicionado a la mejora en las circunstancias.
+
+Además, señaló que es necesaria la integración y colaboración para avanzar en la transición energética de América Latina.
+
+En su cuenta de la red social X**, Camacho relató:** “Tuvimos la oportunidad de conversar con la ministra (e) Inés Manzano, **sobre la crisis climática de la región** y ratificamos nuestro compromiso de intercambio de energía, siempre y cuando las condiciones mejoren”.
+
+“Sabemos de las duras circunstancias por las que pasa **nuestro pueblo hermano**, es necesaria la **integración y colaboración** para avanzar en la transición energética justa de América Latina”, concluyó.
+
+El Ministro de Colombia compartió varias fotos en la publicación en las que se lo ve manteniendo un diálogo con la ministra Inés Manzano.
+
+Hace meses Colombia suspendió las **exportaciones eléctricas** para proteger sus embalses, mientras Ecuador enfrenta racionamientos.
+
+El presidente ecuatoriano Daniel Noboa participará en la COP16 este martes.
+
+> En el marco de la [#COP16Colombia](https://twitter.com/hashtag/COP16Colombia?src=hash&ref_src=twsrc%5Etfw) tuvimos la oportunidad de conversar con la Ministra(E) de Energía de Ecuador, Inés Manzano, sobre la crisis climática de la región y ratificamos nuestro compromiso de intercambio de energía, siempre y cuando las condiciones mejoren.  
+>   
+> Sabemos de… [pic.twitter.com/7j0b0b5y8u](https://t.co/7j0b0b5y8u)
+> 
+> — Andrés Camacho M. (@andrescamachom\_) [October 29, 2024](https://twitter.com/andrescamachom_/status/1851064784818507963?ref_src=twsrc%5Etfw)
+
+Noboa participará en el COP16
+-----------------------------
+
+El presidente Daniel Noboa viajará este martes a Cali (Colombia) para participar en el segmento de autoridades de alto nivel de la Conferencia de las Naciones Unidas sobre Biodiversidad (**COP16)**.
+
+Su viaje se da con la mirada puesta en la **crisis energética** que atraviesa el país y la posibilidad de reanudar el suministro de electricidad exportada por Colombia.
+
+A través de un decreto, **Noboa** detalló que tiene previsto realizar un viaje de ida y vuelta en el mismo día a territorio colombiano. Irá acompañado por sus ministras de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld**, y de Ambiente, Agua y encargada de Energía, **Inés Manzano.**
+
+Hezbolá nombra a Naim Qassem como su nuevo líder
+================================================
+
+Naim Qassem fue elegido secretario general del grupo, tras un poco más de un mes del asesinato del líder anterior, Nasralá.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Naim Qassem escuchando un discurso del líder de Hezbolá Hasan Nasralá, asesinado.](https://www.elcomercio.com/wp-content/uploads/2024/10/Naim-Qassem.jpg)
+
+El Consejo de la Shura de Hezbolá**, el máximo órgano de gobierno** del grupo chií libanés, anunció el nombramiento **del que era el número dos** de la organización, Naim Qassem.
+
+Él será su nuevo secretario general en sustitución de **Hasan Nasralá**, muerto en un bombardeo de Israel el pasado 27 de septiembre.
+
+### Más noticias
+
+* [Argentina identifica al presunto jefe operativo de Hezbolá en Latinoamérica y pide captura](https://www.elcomercio.com/actualidad/mundo/argentina-identifica-presunto-jefe-operativo-hezbola-latinoamerica-pide-captura.html "Argentina identifica al presunto jefe operativo de Hezbolá en Latinoamérica y pide captura")
+* [Nuevos choques entre Hezbolá y soldados israelíes](https://www.elcomercio.com/actualidad/mundo/nuevos-choques-hezbola-soldados-israelies.html "Nuevos choques entre Hezbolá y soldados israelíes")
+* [Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-dice-ataco-230-objetivos-hezbola-sur-libano.html "Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano")
+
+El nuevo líder de Hezbolá
+-------------------------
+
+En un **comunicado emitido** por la dirección de Hezbolá, el grupo aseguró que de acuerdo con el mecanismo para la elección del secretario general, el Consejo de la Shura de Hizbulá llegó a un acuerdo.
+
+Este fue elegir a Su Eminencia el jequ**e Naim Qassem** secretario general de Hezbolá. “Quien portará el bendito estandarte en este viaje, pidiendo a **Dios Todopoderoso** que le guíe en esta noble misión al frente de Hizbulá y su resistencia islámica”.
+
+En la nota, la formación armada prometió que con el nombramiento de Qassem “trabajarán juntos para lograr los principios de Hezbolá y las metas de su camino. También prometieron mantener la llama de la **resistencia brillando** y su estandarte en alto hasta que se logre la victoria”.
+
+Nombramiento luego del asesinato del antiguo líder
+--------------------------------------------------
+
+Tras poco más de **un mes del asesinato de Nasral**á, el grupo ha decidido elegir al que era el número dos de la formación. Qassem ha sido el encargado dar los **tres discursos televisivos** ofrecidos tras la muerte del anterior jefe de Hezbolá, que estuvo **tres décadas al cargo.**
+
+Esta decisión se ha tomado después de que la semana pasada **Hezbolá confirmara la muerte de Hashem** Safi al Din, jefe del Consejo Ejecutivo de la formación. Y luego de haberlo considerado uno de los principales candidatos a suceder al clérigo Nasralá.
+
+Qassem, cuya localización se desconoce, **fue nombrado jefe adjunto de Hezbolá** en 1991, cuando Nasralá no era aún el líder de la formación.
+
+Ha sido considerado **uno de los principales portavoces del grupo chiita** y la figura de más alto nivel que incluso ha concedido entrevistas a [medios extranjeros.](https://es.wikipedia.org/wiki/Hezbol%C3%A1 "https://es.wikipedia.org/wiki/Hezbol%C3%A1")
+
+Así fue como Marco Angulo aterrizó en Liga de Quito
+===================================================
+
+El volante Marco Angulo se destacó como uno de los talentos más prometedores en su posición, y a pesar de su juventud, ha tenido un camino interesante en el fútbol.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Angulo (der.) en un partido con Liga de Quito ante Universidad Católica en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-35.jpg)
+
+**Marco** **Angulo** inició su carrera profesional en el Independiente Juniors en 2020. Su talento lo llevó rápidamente al primer equipo de Independiente del Valle, donde con apenas 20 años empezó a brillar.
+
+Tras una corta experiencia en el extranjero, regresó a Ecuador a inicios de 2024 para vestir los colores de **Liga** **de** **Quito**.
+
+### Más noticias:
+
+* [Marco Angulo, jugador de Liga de Quito, dejó cuidados intensivos](https://www.elcomercio.com/deportes/marco-angulo-liga-quito-cuidados-intensivos.html "Marco Angulo, jugador de Liga de Quito, dejó cuidados intensivos")
+* [Marco Angulo, la motivación de Liga de Quito en el final de temporada](https://www.elcomercio.com/deportes/futbol/marco-angulo-la-motivacion-de-liga-de-quito-en-el-final-de-temporada.html "Marco Angulo, la motivación de Liga de Quito en el final de temporada")
+* [Liga de Quito celebra el aniversario de su última Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-celebra-el-aniversario-de-su-ultima-copa-sudamericana.html "Liga de Quito celebra el aniversario de su última Copa Sudamericana")
+
+La llegada de Marco Angulo a Liga de Quito
+------------------------------------------
+
+Marco Angulo debutó en primera división en 2021 con **Independiente del Valle**, pero fue en 2022 cuando su nivel explotó. Se consolidó como titular y fue una de las figuras en la Copa Sudamericana que los ‘rayados’ ganaron ese año, disputando 44 partidos, con tres goles y tres asistencias.
+
+Su gran actuación atrajo la atención del FC Cincinnati, equipo de la MLS que adquirió sus derechos y le ofreció un contrato hasta diciembre de 2025. Sin embargo, después de una temporada en Estados Unidos, Angulo regresó a Ecuador para r**eforzar el mediocampo de Liga de Quito**, club que buscaba consolidarse tras la salida de jugadores claves de su equipo campeón de la Copa Sudamericana 2023.
+
+Desempeño en el ‘Rey de Copas’
+------------------------------
+
+Desde que llegó a Liga de Quito en marzo y hasta principios de octubre, cuando sufrió un accidente de tránsito, Marco Angulo **disputó 20 partidos en cuatro competiciones distintas**, iniciando como titular en 10 de ellos.
+
+Aún no ha logrado alcanzar el nivel que mostró en sus mejores temporadas en Ecuador. En la **Liga Pro, donde ha sumado la mayor cantidad de minutos** este año, ha tenido un rendimiento correcto, aunque sin destacarse ampliamente.
+
+En 11 partidos de Liga Pro, fue titular en tres, con un 8**8% de efectividad en sus pases**, un promedio de una intercepción, siete entradas, y una recuperación de balón por partido. Además, ganó el 36% de sus duelos individuales.
+
+Su calificación promedio en la Liga Pro ha sido de **6,62, según SofaScore.**
+
+Estado de salud Marco Angulo
+----------------------------
+
+Marco Angulo, jugador de Liga de Quito, estuvo involucrado en un **siniestro de tránsito durante la madrugada del 7 de octubre** de 2024. Tras 17 días del evento, este 24 de octubre, Pablo ‘Vitamina’ Sánchez -DT de los albos- reveló que el futbolista abandonó la sala de cuidados intensivos.
+
+En una rueda de prensa en el contexto de la previa del partido entre la ‘U’ y Mushuc Runa por la fecha 11 de la Liga Pro, el entrenador de los albos brindó una actualización en cuanto al estado del futbolista. Este se mostró optimista, señaló que el **futbolista ha mejorado** y reveló los últimos hechos con respecto a su situación.
+
+![Marco Angulo en un partido con Liga de Quito en la Liga Pro 2024. ](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-36-1024x683.jpg)
+
+Marco Angulo en un partido con Liga de Quito en la Liga Pro 2024. Foto: API.
+
+“Tuvimos una buena noticia, creo que fue antes de ayer (22 de octubre del 2024), en la cual nos comunicaron que **Marco** (Angulo) **dejaba la terapia intensiva y pasaba a una habitación normal**, producto de que está estable y ha mejorado. Esto nos pone muy contentos”, sostuvo el entrenador azucena.
+
+En virtud de las circunstancias, Pablo Sánchez también detalló que eso va a permitir que el futbolista podrá recibir visitas de sus compañeros y el cuerpo técnico. Aquello, a su vez, estará sujeto a la disposición de la familia de Angulo.
+
+Un día como hoy fue el primer salto en paracaídas en Ecuador 
+=============================================================
+
+El 29 de octubre, Ecuador conmemora el Día del Paracaidismo.
+------------------------------------------------------------
+
+El **29 de octubre** es una fecha significativa en el calendario ecuatoriano. Este día se celebra el **Día del Paracaidismo**, que conmemora **el primer salto realizado por un grupo de militares en 1956**. Este evento marcó el inicio de una tradición que ha crecido y evolucionado a lo largo de los años, convirtiéndose en un símbolo de valentía y destreza. 
+
+### Más noticias
+
+* [El ecuatoriano Pablo Santos desafía las alturas y cumple su sueño de volar](https://www.elcomercio.com/deportes/pablo-santos-salto-base-extremo.html "https://www.elcomercio.com/deportes/pablo-santos-salto-base-extremo.html")
+* [Bisabuela de 102 años se convierte en la paracaidista con mayor edad del planeta](https://www.elcomercio.com/actualidad/mundo/bisabuela-paracaidista-edad-mujer-ayuda.html "https://www.elcomercio.com/actualidad/mundo/bisabuela-paracaidista-edad-mujer-ayuda.html")
+
+**Orígenes del Día del Paracaidismo** 
+--------------------------------------
+
+La **historia del paracaidismo en Ecuador** comienza el 29 de octubre de 1956, cuando un grupo de **35 militares se lanzó desde un avión en Salinas**. Este acto pionero fue **liderado por el capitán Alejandro Romo Escobar**, conocido como ‘El Pionero’ del paracaidismo ecuatoriano. Su visión y liderazgo fueron cruciales para establecer esta disciplina en el país, de acuerdo con la página [HazteVerEcuador](https://hazteverecuador.com/dia-del-paracaidismo-en-ecuador-29-de-octubre-de-1956/ "https://hazteverecuador.com/dia-del-paracaidismo-en-ecuador-29-de-octubre-de-1956/").  
+
+El capitán Romo, junto a un equipo de oficiales y voluntarios, **realizó este salto con el objetivo de engrandecer a Ecuador**. La formación inicial fue proporcionada por **instructores del Ejército de Estados Unidos**, quienes aseguraron que los paracaidistas ecuatorianos recibieran un entrenamiento riguroso y profesional, siguiendo con la misma fuente.  
+
+**Orígenes del paracaidismo** 
+------------------------------
+
+El deseo de volar ha fascinado a la humanidad desde tiempos inmemoriales. Los primeros intentos de descender desde alturas mediante dispositivos similares al paracaídas se registran en la **antigua China**, donde s**e realizaron saltos con estructuras que recordaban a un paraguas**.  
+
+Sin embargo, el desarrollo sistemático del paracaídas comenzó con el avance de la aerostática en el siglo XVIII. En 1783, l**os hermanos Montgolfier realizaron el primer vuelo en globo aerostático**, lo que inspiró a muchos a experimentar con el descenso controlado. **Louis-Sébastien Lenormand es considerado uno de los pioneros en este campo, ya que en 1783 realizó un salto exitoso** desde una altura considerable a través de un paracaídas de tela, según información de la [National Geographic](https://historia.nationalgeographic.com.es/a/paracaidas-reto-salto-vacio_12905 "https://historia.nationalgeographic.com.es/a/paracaidas-reto-salto-vacio_12905").  
+
+**Innovaciones clave** 
+-----------------------
+
+**Jacques-André Garnerin** es una figura central en la **historia del paracaidismo**. En 1797, realizó **el primer salto exitoso desde un globo a 900 metros de altura**, gracias un paracaídas que él mismo diseñó. **Este dispositivo consistía en una cúpula de seda sin bastidor rígido**, lo que representó un avance significativo respecto a los modelos anteriores, siguiendo con la National Geographic.  
+
+Garnerin también fue **pionero en las exhibiciones públicas de paracaidismo**, lo que ayudó a **popularizar esta actividad entre el público**.La evolución del **diseño del paracaídas** continuó con innovaciones como **el arnés inventado por Thomas Baldwin** en 1877 y la **mochila para paracaídas d**esarrollada en 1890, que incluía un paracaídas de reserva, a decir de la National Geographic. Estas mejoras hicieron que **el uso del paracaídas fuera más seguro y accesible**. 
+
+**El paracaidismo militar** 
+----------------------------
+
+A pesar de su invención, el **uso del paracaídas no se generalizó durante la Primera Guerra Mundial**. Las tripulaciones aéreas no estaban familiarizadas con su funcionamiento y **no se consideraba esencial para la supervivencia en combate**. Sin embargo, durante la **Segunda Guerra Mundial**, el paracaídas **se convirtió en una herramienta vital para las fuerzas armadas**. Los ejércitos comenzaron a entrenar **unidades especializadas en saltos desde aviones** para realizar operaciones detrás de las líneas enemigas, a decir de la [Fuerza Aérea Colombiana](https://www.fac.mil.co/es/noticias/la-historia-del-paracaidas-ensayos-y-pruebas "https://www.fac.mil.co/es/noticias/la-historia-del-paracaidas-ensayos-y-pruebas"). El **primer descenso exitoso** desde un avión tuvo lugar en 1912, cuando **Albert Berry** se lanzó desde un biplano Benoist a 500 metros de altura. 
+
+Así funciona el Pico y placa en Quito este martes 29 de octubre
+===============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito para tratar de controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/transito-pico-.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
+* [Quito tendrá espacios gratuitos de ‘coworking’](https://www.elcomercio.com/actualidad/quito/quito-tendra-espacios-gratuitos-coworking.html "Quito tendrá espacios gratuitos de ‘coworking’")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 Cuenca tiene dos momentos para proyectar su economía y cultura
 ==============================================================
 
@@ -209,25 +453,32 @@ En la provincia de Pichincha, además de las visitas a los cementerios, las fami
 
 De igual forma, en Riobamba, el personaje del “Animero” recorre los cementerios recitando oraciones. En Cuenca y otras zonas del Azuay y Cañar, se comparten **comidas en las tumbas**, como muestra de la creencia de que los difuntos regresan cada año.
 
-Un candidato creíble y competente
-=================================
+Cartas a Quito / 29 de octubre de 2024
+======================================
 
-El tamaño de la crisis es tan grande, que reclama políticos superiores para gobernar.
--------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este martes 29 de octubre de 2024
+-----------------------------------------------------------------
 
-![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-Quienes eligieron al joven Daniel Noboa improvisaron un jefe de Estado, que sabiendo que habría una **crisis hidrológica** no hizo nada por mantener, reparar y poner en operación a las **plantas termoeléctricas** existentes, ni conformó un **equipo técnico** competente, entregando la **solución** a **ministros encargados** e **improvisados**, afectando así a todos los **ecuatorianos**.
+Penosa realidad de algunos profesionales
+----------------------------------------
 
-El tamaño de la **crisis** es tan grande, que reclama **políticos** superiores para gobernar. Estamos en **recesión económica** y en estado de **inseguridad** irreversible. Si seguimos así, sin hacer nada importante, vamos a colapsar y a afectar más a **poblaciones** numerosas.
+En los momentos actuales, estando a las puertas de una elección presidencial, es inevitable que nos veamos en la necesidad de escuchar y leer cada barbaridad.
 
-El Presidente Noboa que fue elegido sorpresivamente, no ha estado preparado para **gobernar** un **país** en retroceso desde hace una década, sumido en una **violencia** inusitada que está sembrando el **terror** en ciertas **poblaciones** y causando **miedo** masivo en la **población**.
+Deberíamos, de haber políticos de altura intelectual suficiente, escuchar y leer propuestas de solución a los problemas que vivimos. En lugar de eso, nos vemos en la penosa necesidad de presenciar ataques irracionales, carentes de lógica elemental. Lo más penoso es que muchos de ellos provienen de “profesionales”, inclusive de algunos que han seguido doctorados o maestrías, y que se jactan de ello colocando en su identificación sus títulos y dónde los obtuvieron.
 
-Los otros **candidatos** no tienen las **calificaciones intelectuales** ni la experiencia indispensable para hacerse cargo de un país complejo. Hay una **candidata** del correismo que no da la talla para ser gobernante de nuestro país, pues solo persigue la **impunidad** de los ex dirigentes convictos,  por lo que el **pueblo** rechazaría un nuevo **fracaso** correísta. La mayoría son **aspirantes** que se saben perdedores por su condición de **improvisados** e **incompetentes** y porque no han podido crear un **partido** político serio, con principios viables para la **gestión pública**.
+Veo las expresiones de un señor Víctor Hugo Erazo, o, de un señor Fausto Herrera, y, no se diga de un señor Mauro Andino Espinoza, sin quedarse atrás doña Alondra Santiago, cuyo contenido es exclusivamente denostar contra las actuaciones del actual gobierno sin realizar una sola propuesta que resuelva alguno de los problemas.
 
-Entonces es de desear que de entre los 16 aspirantes haya uno que siendo equidistante de los **extremismos políticos**, entienda que gobernar es difícil y sacrificado, debido a la **pobreza** y **descomposición política nacional**. Quien gobierne el próximo período debe saber cómo encausar al país a una etapa de **productividad total** y general, que sustente una **recuperación** auténtica basada en sus propios medios y no en el **endeudamiento,** que es un dogal que sojuzga nuestros anhelos.
+Si supieran que el hacer propuestas de solución los ubicaría en un nivel más aceptable políticamente, pero me temo que eso sería imposible de entender para ellos, acostumbrados a la pelea, a la discusión, creyendo que esa es el arma de política que más réditos da. Obviamente, están siguiendo el ejemplo de algún líder, que como una salida a algún complejo enraizado, utiliza la única arma que conoce: la confrontación.
 
-Este **candidato** debe tener experiencia en **gestión pública** y contar con un equipo de **trabajo** **competitivo** para **gobernar** y no solo disfrazarse de Rambo. Debe saber que tiene que abandonar el **populismo** irresponsable, porque gobernar no es perdonar las **deudas** al Estado, no recaudar lo que se debe ni regalar los **combustibles** o el costo de la **energía eléctrica**.
+Su sensibilidad social y política no ha alcanzado el nivel de la racionalidad, se quedó en la primitiva era de las cavernas, donde la agresividad primaria era un arma de supervivencia.
+
+Es muy penoso, pues entiendo que algunos de los mencionados son profesionales, con postgrados y masterados a cuestas: ¿de qué les ha servido la universidad?
+
+Un profesional como tal debe separar sus afinidades políticas o profesionales, para hacer del conocimiento la herramienta imparcial y racional. Esto es lo que se aprende en las universidades que privilegian el conocimiento, lo que obviamente desemboca en propuestas racionales. Cuando dejamos prevalecer en nuestro pensamiento, dogmatismo o afinidades personales o ideológicas por sobre el razonamiento y el conocimiento, dejamos de ser profesionales.
+
+José M. Jalil Haas
 
 Pasolini, pasión de vivir
 =========================
@@ -261,6 +512,46 @@ Poeta de la palabra. Y palabra en el tiempo. **Poeta** contra el poder; del pasa
 _Los 120 días de Sodoma_ de Sade es una invectiva contra la **humanidad**, pero también una velada intención de remover sus **malsanas raíces** y disipar sus iniquidades. Pasolini usó como argamasa la obra de Sade, fundiéndola con su contumaz aversión contra el fascismo. ¿Una perversión o una película que debe constar en la más exigente **antología** de la historia del cine? Quienes la resistan tienen la respuesta.
 
 “Poco tiempo me queda: por culpa de la muerte/ que me viene al encuentro en mi marchita juventud./ Más por culpa también de nuestro mundo humano/ que le quita el pan a los hombres y a los poetas la paz”.
+
+Un candidato creíble y competente
+=================================
+
+El tamaño de la crisis es tan grande, que reclama políticos superiores para gobernar.
+-------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Quienes eligieron al joven Daniel Noboa improvisaron un jefe de Estado, que sabiendo que habría una **crisis hidrológica** no hizo nada por mantener, reparar y poner en operación a las **plantas termoeléctricas** existentes, ni conformó un **equipo técnico** competente, entregando la **solución** a **ministros encargados** e **improvisados**, afectando así a todos los **ecuatorianos**.
+
+El tamaño de la **crisis** es tan grande, que reclama **políticos** superiores para gobernar. Estamos en **recesión económica** y en estado de **inseguridad** irreversible. Si seguimos así, sin hacer nada importante, vamos a colapsar y a afectar más a **poblaciones** numerosas.
+
+El Presidente Noboa que fue elegido sorpresivamente, no ha estado preparado para **gobernar** un **país** en retroceso desde hace una década, sumido en una **violencia** inusitada que está sembrando el **terror** en ciertas **poblaciones** y causando **miedo** masivo en la **población**.
+
+Los otros **candidatos** no tienen las **calificaciones intelectuales** ni la experiencia indispensable para hacerse cargo de un país complejo. Hay una **candidata** del correismo que no da la talla para ser gobernante de nuestro país, pues solo persigue la **impunidad** de los ex dirigentes convictos,  por lo que el **pueblo** rechazaría un nuevo **fracaso** correísta. La mayoría son **aspirantes** que se saben perdedores por su condición de **improvisados** e **incompetentes** y porque no han podido crear un **partido** político serio, con principios viables para la **gestión pública**.
+
+Entonces es de desear que de entre los 16 aspirantes haya uno que siendo equidistante de los **extremismos políticos**, entienda que gobernar es difícil y sacrificado, debido a la **pobreza** y **descomposición política nacional**. Quien gobierne el próximo período debe saber cómo encausar al país a una etapa de **productividad total** y general, que sustente una **recuperación** auténtica basada en sus propios medios y no en el **endeudamiento,** que es un dogal que sojuzga nuestros anhelos.
+
+Este **candidato** debe tener experiencia en **gestión pública** y contar con un equipo de **trabajo** **competitivo** para **gobernar** y no solo disfrazarse de Rambo. Debe saber que tiene que abandonar el **populismo** irresponsable, porque gobernar no es perdonar las **deudas** al Estado, no recaudar lo que se debe ni regalar los **combustibles** o el costo de la **energía eléctrica**.
+
+Los madrugadores forzados
+=========================
+
+Los cortes de luz en Quito obligan a la gente a modificar su rutina diaria, afectando su descanso y tareas básicas.
+-------------------------------------------------------------------------------------------------------------------
+
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
+
+Siempre he admirado a los **deportistas** que se levantan a las 04:00 de la mañana para **entrenar**. En ciudades como **Quito**, a esa hora, por lo general hace frío y se requiere de mucha **decisión** y **disciplina** para **levantarse** y vestirse, ya sea para correr, caminar, nadar… o dedicarse a la **actividad física** que apasione.
+
+Desde hace unos días, a ese grupo se ha unido otro, pero a la fuerza. Me refiero a aquellos que tienen **luz** hasta las 6:00 o 7:00 de la mañana, porque les dotaron del **servicio** a **media noche,** y vuelven a brindárselo por otras tres horas a partir de las 14:00 o 15:00.  
+
+Muchos dirán que a todos les afecta, pero considero que a quienes a **semana seguida** le someten a ese **régimen** ya empieza a notárseles. Me explico. Si usted tiene un compañero de trabajo que a las 9:00 o 10:00 de la mañana está cansado, **cabeceando** o con los ojos rojos, es porque seguramente está de pie desde las 04:00. O, simplemente se fue a dormir a las 02:00. Sea cual sea la hora, comparten las mismas razones: en la **madrugada** recién se puede **lavar la ropa, secarla, cocinar algo, asearse.** Hay casas o departamentos en el Distrito Metropolitano de Quito –lo pongo con su nombre completo para incluir a los **valles y parroquias**\-, desde hace ya bastantes años, que todo funciona con base en la **electricidad** y eso significa que **sin** **luz** no se puede **lavar, cocinar, bañarse, escuchar música, leer**… seguir con la rutina que se tenía hasta hace unos días. Y, en algunos casos, tampoco se tiene **agua**, porque no hay generadores para que funcionen las bombas.
+
+Ni bien hay **luz** corren a **cargar** los **teléfonos**, las **tabletas** o las computadoras personales. Si no  han lavado ropa, vuelan a la **lavadora**. Si la ropa no se ha secado, se aprovecha a poner lo que falta en la secadora. Si se debe planchar una falda, una camisa o un pantalón que en unas horas se usará, enseguida se conecta la plancha. En el intermedio **se bañan, se afectan, se maquillan, se peinan**. Y si se requiere **secadora de cabello**, no hay más tiempo que a esa hora.
+
+También hay que preparar algo para **desayunar** más tarde o forzarse a comer entre las 06:00 y las 07:00. La verdad no hay bolsillo que alcance para pagar dos o tres comidas diarias fuera de la casa. Es que con ese horario se va al **trabajo** sin luz y se regresa y todo sigue sin funcionar.
+
+Con la luz natural de las 17:00 o 18:00 apenas se puede leer un poco. Quienes no van a un **centro comercial** o algún sitio con generador hasta agotarse para llegar a sus **casas y dormirse** enseguida, permiten que los niños estén más tiempo en los **parques de los conjuntos o urbanizaciones cerradas**. También hay alguno que otro padre que los acompaña. Personas de la tercera edad optan por caminar y los amantes de las mascotas pasean más tiempo a sus animales. Algunas parejas también salen a las puertas de las **casas y conversan.** Muchos coinciden en que ahora **compran máximo semanalmente** la comida, para que no se les dañe. Otros, en cambio, prefieren **comprar a diario**, para no volver a conectar las **refrigeradoras** hasta que todo pase, aunque saben que eso puede tomar muchísimo más tiempo… 
 
 El ADN de la lectura
 ====================
@@ -323,53 +614,6 @@ Psicología, cerebro y educación
 Las neurociencias y la programación neurolingüística no pasan de ser espacios que se estudian en cursos especiales, sin mayor incidencia en las políticas públicas. **Y el ADN de la lectura está en veremos.**
 
 **El Ecuador necesita una verdadera transformación**, con la participación activa de todas las universidades, los centros de investigación, la sociedad civil y el sector oficial. **La ciencia de la lectura debe irrigar la escuela** ydebe expandirse a todo el cuerpo social, donde **la mediación lectora, las bibliotecas, la lectura silenciosa y por placer mejore la cultura nacional.** 
-
-Los madrugadores forzados
-=========================
-
-Los cortes de luz en Quito obligan a la gente a modificar su rutina diaria, afectando su descanso y tareas básicas.
--------------------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Siempre he admirado a los **deportistas** que se levantan a las 04:00 de la mañana para **entrenar**. En ciudades como **Quito**, a esa hora, por lo general hace frío y se requiere de mucha **decisión** y **disciplina** para **levantarse** y vestirse, ya sea para correr, caminar, nadar… o dedicarse a la **actividad física** que apasione.
-
-Desde hace unos días, a ese grupo se ha unido otro, pero a la fuerza. Me refiero a aquellos que tienen **luz** hasta las 6:00 o 7:00 de la mañana, porque les dotaron del **servicio** a **media noche,** y vuelven a brindárselo por otras tres horas a partir de las 14:00 o 15:00.  
-
-Muchos dirán que a todos les afecta, pero considero que a quienes a **semana seguida** le someten a ese **régimen** ya empieza a notárseles. Me explico. Si usted tiene un compañero de trabajo que a las 9:00 o 10:00 de la mañana está cansado, **cabeceando** o con los ojos rojos, es porque seguramente está de pie desde las 04:00. O, simplemente se fue a dormir a las 02:00. Sea cual sea la hora, comparten las mismas razones: en la **madrugada** recién se puede **lavar la ropa, secarla, cocinar algo, asearse.** Hay casas o departamentos en el Distrito Metropolitano de Quito –lo pongo con su nombre completo para incluir a los **valles y parroquias**\-, desde hace ya bastantes años, que todo funciona con base en la **electricidad** y eso significa que **sin** **luz** no se puede **lavar, cocinar, bañarse, escuchar música, leer**… seguir con la rutina que se tenía hasta hace unos días. Y, en algunos casos, tampoco se tiene **agua**, porque no hay generadores para que funcionen las bombas.
-
-Ni bien hay **luz** corren a **cargar** los **teléfonos**, las **tabletas** o las computadoras personales. Si no  han lavado ropa, vuelan a la **lavadora**. Si la ropa no se ha secado, se aprovecha a poner lo que falta en la secadora. Si se debe planchar una falda, una camisa o un pantalón que en unas horas se usará, enseguida se conecta la plancha. En el intermedio **se bañan, se afectan, se maquillan, se peinan**. Y si se requiere **secadora de cabello**, no hay más tiempo que a esa hora.
-
-También hay que preparar algo para **desayunar** más tarde o forzarse a comer entre las 06:00 y las 07:00. La verdad no hay bolsillo que alcance para pagar dos o tres comidas diarias fuera de la casa. Es que con ese horario se va al **trabajo** sin luz y se regresa y todo sigue sin funcionar.
-
-Con la luz natural de las 17:00 o 18:00 apenas se puede leer un poco. Quienes no van a un **centro comercial** o algún sitio con generador hasta agotarse para llegar a sus **casas y dormirse** enseguida, permiten que los niños estén más tiempo en los **parques de los conjuntos o urbanizaciones cerradas**. También hay alguno que otro padre que los acompaña. Personas de la tercera edad optan por caminar y los amantes de las mascotas pasean más tiempo a sus animales. Algunas parejas también salen a las puertas de las **casas y conversan.** Muchos coinciden en que ahora **compran máximo semanalmente** la comida, para que no se les dañe. Otros, en cambio, prefieren **comprar a diario**, para no volver a conectar las **refrigeradoras** hasta que todo pase, aunque saben que eso puede tomar muchísimo más tiempo… 
-
-Cartas a Quito / 29 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este martes 29 de octubre de 2024
------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Penosa realidad de algunos profesionales
-----------------------------------------
-
-En los momentos actuales, estando a las puertas de una elección presidencial, es inevitable que nos veamos en la necesidad de escuchar y leer cada barbaridad.
-
-Deberíamos, de haber políticos de altura intelectual suficiente, escuchar y leer propuestas de solución a los problemas que vivimos. En lugar de eso, nos vemos en la penosa necesidad de presenciar ataques irracionales, carentes de lógica elemental. Lo más penoso es que muchos de ellos provienen de “profesionales”, inclusive de algunos que han seguido doctorados o maestrías, y que se jactan de ello colocando en su identificación sus títulos y dónde los obtuvieron.
-
-Veo las expresiones de un señor Víctor Hugo Erazo, o, de un señor Fausto Herrera, y, no se diga de un señor Mauro Andino Espinoza, sin quedarse atrás doña Alondra Santiago, cuyo contenido es exclusivamente denostar contra las actuaciones del actual gobierno sin realizar una sola propuesta que resuelva alguno de los problemas.
-
-Si supieran que el hacer propuestas de solución los ubicaría en un nivel más aceptable políticamente, pero me temo que eso sería imposible de entender para ellos, acostumbrados a la pelea, a la discusión, creyendo que esa es el arma de política que más réditos da. Obviamente, están siguiendo el ejemplo de algún líder, que como una salida a algún complejo enraizado, utiliza la única arma que conoce: la confrontación.
-
-Su sensibilidad social y política no ha alcanzado el nivel de la racionalidad, se quedó en la primitiva era de las cavernas, donde la agresividad primaria era un arma de supervivencia.
-
-Es muy penoso, pues entiendo que algunos de los mencionados son profesionales, con postgrados y masterados a cuestas: ¿de qué les ha servido la universidad?
-
-Un profesional como tal debe separar sus afinidades políticas o profesionales, para hacer del conocimiento la herramienta imparcial y racional. Esto es lo que se aprende en las universidades que privilegian el conocimiento, lo que obviamente desemboca en propuestas racionales. Cuando dejamos prevalecer en nuestro pensamiento, dogmatismo o afinidades personales o ideológicas por sobre el razonamiento y el conocimiento, dejamos de ser profesionales.
-
-José M. Jalil Haas
 
 Policía abatió a un delincuente armado en Guayaquil
 ===================================================
@@ -721,243 +965,3 @@ Uno en Orellana: **Coca**, en el puente sobre el río, en el catón Joya De Los 
 > ⚠️Vía alterna: Sucúa-Seipa-Sevilla. [pic.twitter.com/8rj06cclKC](https://t.co/8rj06cclKC)
 > 
 > — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 28, 2024](https://twitter.com/ObrasPublicasEc/status/1850946005837173085?ref_src=twsrc%5Etfw)
-
-Aitana Bonmatí y un doblete el Balón de Oro Femenino
-====================================================
-
-Aitana Bonmatí, futbolista española del FC Barcelona, se llevó por segundo año consecutivo el Balón de Oro Femenino.
---------------------------------------------------------------------------------------------------------------------
-
-![Aitana Bonmatí, ganadora del Balón de Oro Femenino 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/d9db21f83b13f46067b274aa345a88e0dd76f900.jpg)
-
-La española **Aitana Bonmatí** logró este lunes 28 de octubre su segundo **Balón de Oro** consecutivo tras el que recibió hace un año, y que premia su contribución a la temporada dominadora del FC Barcelona en el fútbol femenino.
-
-“**Estoy muy agradecida**“, afirmó la centrocampista, de 26 años, al recoger el trofeo, y recalcó que, como ella dice siempre, “nos lo hemos merecido todas”[.](https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD "https://en.wikipedia.org/wiki/Aitana_Bonmat%C3%AD")
-
-### Más noticias:
-
-* [La Selección de Ecuador ‘estuvo presente’ en el Balón de Oro](https://www.elcomercio.com/deportes/seleccion-ecuador-balon-oro-emiliano-martinez.html "La Selección de Ecuador ‘estuvo presente’ en el Balón de Oro")
-* [Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro](https://www.elcomercio.com/deportes/futbol/vinicius-companeros-arropan-balon-oro.html "Vinícius es arropado por sus compañeros tras no ganar el Balón de Oro")
-* [Vinícius Júnior y el Balón de Oro que no fue](https://www.elcomercio.com/deportes/futbol/vinivius-junior-balon-oro-rodri.html "Vinícius Júnior y el Balón de Oro que no fue")
-
-“Juego un deporte colectivo y estoy rodeado de **jugadoras maravillosas**, tanto en mi equipo como en la selección española”, añadió.
-
-También manifestó su agradecimiento al **FC Barcelona** y “a todos los que me han ayudado a ser mejor jugadora”, además de que recordó algunos de los momentos clave de la pasada temporada, como la última Liga de Campeones lograda en **Bilbao** en mayo pasado.
-
-Aitana Bonmatí y su segundo Balón de Oro
-----------------------------------------
-
-Explicó que el primer Balón de Oro no le dio más confianza: **“Es una cuestión de experiencia, no de trofeos**“.
-
-Aitana Bonmatí repite con este nuevo galardón consecutivo el doblete que su compañera del Barcelona **Alexia Putellas** consiguió en 2021 y 2022.
-
-Por ello, consideró “único” que las jugadoras de su club hayan logrado **cuatro balones de oro** consecutivos.
-
-Además, dos compañeras de equipo, la noruega **Caroline Graham Hansen** y la española **Salma Paralluelo**, quedaron en segundo y tercer lugar para completar un podio azulgrana.
-
-Un Balón de Oro con figuras
----------------------------
-
-La galardonada, que recogió el premio de la actriz estadounidese **Natalie Portman**, que ha creado un club de fútbol femenino en Los Angeles.
-
-La jugadora logró la pasada temporada con su equipo la **Liga de Campeones**, así como los títulos de liga, copa y supercopa a nivel nacional. Fue nombrada mejor jugadora de Liga de Campeones y de la liga española
-
-La Serie B conocerá al nuevo descendido en la fecha final
-=========================================================
-
-La Liga Pro Serie B cerrará su calendario 2024 con sus cinco partidos en horario unificado.
--------------------------------------------------------------------------------------------
-
-![Jugadores de Leones FC en la Liga Pro Serie B 2024 en el estadio de Independiente Juniors.](https://www.elcomercio.com/wp-content/uploads/2024/10/leones_vargas_1.jpg)
-
-La **Liga Pro Serie B de Ecuador** dirimirá en la última fecha al segundo descendido a la Segunda Categoría para el 2025, con Leones FC de Imbabura y Vargas Torres de Esmeraldas como los únicos implicados.
-
-El **martes 29 de octubre de 2024, desde las 15:00 y en horario unificado**, se jugarán los cinco partidos en cinco estadios de cinco ciudades diferentes, con lo que la Serie B llegará a su fin con la realización de las 36 jornadas programadas.
-
-### Más noticias:
-
-* [Un Manchester United en crisis despide al entrenador Eric ten Hag](https://www.elcomercio.com/deportes/futbol/manchester-united-despide-eric-ten-hag-crisis.html "Un Manchester United en crisis despide al entrenador Eric ten Hag")
-* [Liga de Quito celebra el aniversario de su última Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-celebra-el-aniversario-de-su-ultima-copa-sudamericana.html "Liga de Quito celebra el aniversario de su última Copa Sudamericana")
-* [Selección de Ecuador saca a la venta entradas para enfrentar a Bolivia](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-saca-venta-entradas-para-enfrentar-a-bolivia.html "Selección de Ecuador saca a la venta entradas para enfrentar a Bolivia")
-
-Lo primero que se confirmó fue que **Cuniburo, en calidad de campeón, y Manta, como vicecampeón**, son los dos equipos que ascendieron a la Serie A y pasarán a ser parte de los 16 equipos que juegan en la Primera División de Ecuador.
-
-Para Cuniburo de Pichincha será la primera vez que intervenga en la Serie A, mientras que para Manta de Manabí será la novena temporada en esta categoría. **Antes lo hizo en 2003, 2009-2014 y 2021**, siendo uno de los principales representantes de la provincia de la Costa.
-
-En el plantel pichinchano, al mando del argentino Juan Grabowski, destacan nombres como los de Marco Carrasco, Kevin Ushiña, **Luis Romero, Ariel Mina, Jefferson Orejuela, Sergio López**, José Lugo y Hernán Lino, todos con pasado en equipos de la Serie A.
-
-Los manabitas está dirigidos por Efrén ‘Cachorro’ Mera. En la plantilla sobresalen Adrián Pucheta, Roberto Valarezo, Darlin Leiton, **Jamilton Carcelén, Cristhian Alemán, Daniel Valencia**, Juan Diego Rojas y Kenner Arce como la cuota de experiencia en la A.
-
-Independiente Juniors, Guayaquil City, 9 de Octubre, Gualaceo, San Antonio y Chacaritas, este último el primer descendido, **no se juegan nada en la última jornada y únicamente cumplirán el calendario**, aunque harán las veces de jueces para determinar al otro perdedor de la categoría.
-
-El descenso espera por un equipo
---------------------------------
-
-Leones FC y Vargas Torres, en ese orden, definirán en la última jornada al segundo descendido de la Serie B.
-
-**Leones FC tiene 34 puntos y un gol diferencia negativo de -10**. Su campaña se resume en siete encuentros ganados, 13 empatados y 15 perdidos. A lo largo del año marcaron 38 tantos y recibieron 48.
-
-**Vargas Torres acumula 32 puntos** con cinco victorias, 17 empates y 13 derrotas. Anotó 25 goles y recibió 44.
-
-En la jornada de cierre los de Imbabura recibirán en el Olímpico de Ibarra a Chacaritas, mientas que los de Esmeraldas a San Antonio en el Folke Anderson.
-
-Un **empate o una victoria dejará a Leones FC en la Serie B**. A Vargas Torres le sirve únicamente la victoria y esperar que su rival directo pierda, porque un empate también los deja en desventaja por el gol diferencia.
-
-Fecha 36
---------
-
-### Martes 29/10
-
-**15:00 Leones FC vs. Chacaritas**
-
-Estadio: Olímpico de Ibarra
-
-**15:00 Guayaquil City vs. Manta**
-
-Estadio: Christian Benítez
-
-**15:00 Vargas Torres vs. San Antonio**
-
-Estadio: Folke Anderson
-
-**15:00 Gualaceo vs. 9 de Octubre**
-
-Estadio: Reina del Cisne
-
-**15:00 Cuniburo vs. Independiente Juniors**
-
-Estadio: Olímpico Atahualpa
-
-![Jugadores de Vargas Torres (d) e Independiente Juniors.](https://www.elcomercio.com/wp-content/uploads/2024/10/leones_vargas_2-1024x683.jpg)
-
-Jugadores de Vargas Torres (d) e Independiente Juniors.
-
-No te pierdas – El Confesionario
---------------------------------
-
-¿Qué feriado del 31 de octubre al 4 de noviembre será recuperable? 
-===================================================================
-
-Los ecuatorianos disfrutarán de cinco días seguidos de descanso en tres feriados; de estos, uno deberá recuperarse.
--------------------------------------------------------------------------------------------------------------------
-
-![A Ecuador le restan cuatro asuetos por disfrutar en 2024, tres dispuestos por la Ley de Feriados y uno decretado de forma extraordinaria](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-extensivo-noviembre-ecuador.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, dispuso un **nuevo feriado** para este jueves 31 de octubre de 2024, a través de la firma del Decreto Ejecutivo 438.
-
-Más noticias
-------------
-
-* [¿Cuándo será el Black Friday?](https://www.elcomercio.com/actualidad/mundo/cuando-es-el-black-friday.html "¿Cuándo será el Black Friday?")
-* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
-* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
-
-Esta fecha se suma a los **asuetos** contemplados por Difuntos e **Independencia** de Cuenca.
-
-De acuerdo con el **calendario** del Ministerio de Turismo, el primero se celebra este sábado 2 de noviembre, pero se traslada al **viernes 1** de noviembre.
-
-Mientras que los festejos por la Independencia de Cuenca **coinciden** el domingo 3 de noviembre, por lo que se trasladan al **lunes 4** de noviembre.
-
-Con el **anuncio** del Presidente, los ecuatorianos tendrán un feriado extensivo de cinco días para **descansar** y viajar: jueves 31, viernes 1, sábado 2, domingo 3 y lunes 4.
-
-Así, los días de descanso por los dos **feriados** de noviembre son cuatro: viernes 1, sábado 2, domingo 3 y lunes 4.
-
-Feriado extraordinario del jueves 31 de octubre
------------------------------------------------
-
-La medida del feriado extraordinario tiene **carácter** obligatorio tanto para los **trabajadores** públicos como privados.
-
-El objetivo de este descanso obligatorio es “fortalecer la actividad **económica** y beneficiar al sector **turístico**“, señaló Presidencia.
-
-Este sector es uno de los más afectados por la **crisis energética**; según Holbach Muñetón, presidente de la Federación Nacional de Cámaras Provinciales de Turismo del Ecuador (Fenacaptur), quienes se dedican a esta actividad pierden por hora entre **250 000** a **300 000** dólares por los apagones.
-
-Un asueto será recuperable
---------------------------
-
-Los feriados por el Día de Difuntos e Independencia de Cuenca no son recuperables; sin embargo, el **asueto** extraordinario del jueves 31 de octubre sí lo es.
-
-La disposición presidencial señala que para el **sector público** se establecerá un **cronograma** específico para recuperar el día no laborado. El Gobierno anunciará la **planificación** de recuperación en los próximos días.
-
-En tanto, el sector privado tendrá la facultad de organizar a su **conveniencia** la recuperación de la jornada de descanso, “siempre que se garanticen los **derechos laborales** de los trabajadores y se mantenga la **continuidad** de las actividades consideradas esenciales”, indicó el Ministerio de Trabajo.
-
-En conclusión, de los cinco días de descanso obligatorio, el jueves 31 deberá devolverse; mientras que el viernes 1, sábado 2, domingo 3 y lunes 4 no serán **repuestos**.
-
-Luego de este extenso feriado, el único **descanso** obligatorio que resta en el año es el de **Navidad**, el 25 de diciembre.
-
-Bayron Guamá llega a la Vuelta a Ecuador con una etapa en Guatemala
-===================================================================
-
-Byron Guamá se encuentra en la Vuelta a Guatemala, donde ya ganó una etapa y se prepara para la Vuelta a Ecuador.
------------------------------------------------------------------------------------------------------------------
-
-![Bayron Guamá celebra en la tercera etapa de la Vuelta a Guatemala antes de la Vuelta a Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000153430.jpg)
-
-Antes de disputar la **Vuelta a Ecuador**, donde es multicampeón, Bayron Guamá se encuentra en la **Vuelta Internacional a Guatemala** con el Movistar Best PC. El ciclista tricolor llegará al certamen que se celebrará en el país como ganador de una etapa en el evento extranjero y aún pelea por llevarse el título.
-
-El domingo 27 de octubre del 2024, **Guamá** tuvo su punto más alto dentro de la competencia en Guatemala al hacerse con la tercera etapa. Este finalizó como líder tras un recorrido de **133 kilómetros**, el cual atravesó Ciudad Vieja y San Pedro Yepocapa.
-
-### Más noticias:
-
-* [Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025](https://www.elcomercio.com/deportes/ciclismo/ciclistas-ecuatorianos-world-tour-carapaz-cepeda.html "Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025")
-* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
-* [¿Cuándo volverá Richard Carapaz a las competencias?](https://www.elcomercio.com/deportes/cuando-volvera-richard-carapaz-a-las-competencias.html "¿Cuándo volverá Richard Carapaz a las competencias?")
-
-La victoria más destacada de **Guamá** llegó gracias a que logró meterse en el pelotón de fuga. A su vez, también estuvo en segundo lugar en el premio de montaña. Este fue el **octavo triunfo** que consiguió dentro de aquella vuelta.
-
-Después de la actuación del ecuatoriano, este se hizo presente en la **cuarta etapa** del certamen centroamericano. En esta, sin embargo, no consiguió meterse entre los primeros nombres que cruzaron la meta[.](https://en.wikipedia.org/wiki/Vuelta_al_Ecuador "https://en.wikipedia.org/wiki/Vuelta_al_Ecuador")
-
-A Guamá le restan aún seis etapas más dentro de la **Vuelta Internacional a Guatemala**. Estas se llevarán a cabo desde el martes 29 de octubre del 2024 hasta el domingo 3 de noviembre.
-
-¿Cómo está Bayron Guamá en la Vuelta Internacional a Guatemala?
----------------------------------------------------------------
-
-**Bayron Guamá** se ubica en quinta posición de la tabla general de la Vuelta Internacional a Guatemala a 2:40 minutos del líder. A su vez, su compatriota **Brayan Obando** se ubica en el cuarto puesto con tres segundos menos.
-
-Con las seis etapas por delante, los dos tricolores cuentan con oportunidades para remontar y pelear por el primer lugar o meterse en el podio. El guatemalteco Marqueo Vásquez y los colombianos David González y Robinson López son quienes se ubican por encima de ambos.
-
-¿Cuándo se inicia la Vuelta a Ecuador?
---------------------------------------
-
-El ciclismo nacional celebrará la **Vuelta Ciclística a Ecuador** durante noviembre del 2024. A partir del lunes 11 de noviembre, esta se dará inicio y durará hasta el domingo 17 del mismo mes.
-
-El recorrido de la **Vuelta** contemplará siete etapas. Estas abarcarán las regiones **Costa y Sierra** del país.
-
-El perro que visitó la Gran Pirámide de Guiza regresó, pero con amigos
-======================================================================
-
-La Gran Pirámide de Guiza tiene una altura de 140 metros.
----------------------------------------------------------
-
-![El primer perro en la Gran Pirámide de Guiza. Foto: Captura de pantalla](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo204-3.jpg)
-
-Recientemente, un **video** que se volvió viral en **[redes sociales](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html")** mostró a un perro en la cima de la **Gran Pirámide de Guiza**.
-
-Ese hecho llamó la atención de muchos, pero lo más sorprendente ocurrió nuevamente cuando el mismo perro apareció, esta vez acompañado por dos amigos caninos.
-
-### **Más noticias:**
-
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html?source=Internal&ref=Single+Content+Link")
-* [¿Perros o gatos? Esta es la preferencia de mascotas en Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/perros-gatos-mascotas-ecuador-censo.html "https://www.elcomercio.com/tendencias/entretenimiento/perros-gatos-mascotas-ecuador-censo.html")
-* [Una gata recorrió varios kilómetros, por error, dentro de una caja de Amazon](https://www.elcomercio.com/tendencias/curiosidades/gata-amazon-viral-animal-compania.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/curiosidades/gata-amazon-viral-animal-compania.html?source=Internal&ref=Single+Content+Link")
-
-**El perro que visitó la Gran Pirámide de Guiza regresó, pero con amigos**
---------------------------------------------------------------------------
-
-El nuevo video, compartido en plataformas como X, **TikTok** e Instagram, muestra a los tres perros caminando con destreza sobre la emblemática estructura de 140 metros de altura.
-
-La grabación fue realizada por un turista que avistó a los animales desde la parte baja de la pirámide.
-
-La aparición de estos perros emocionó a los amantes de los animales, ya que los intrépidos peluditos parecen disfrutar de su aventura en uno de los sitios históricos más icónicos del mundo.
-
-**Así se viralizó el primer perro en la Gran Pirámide de Guiza**
-----------------------------------------------------------------
-
-El video más viral hasta ahora fue compartido por el parapentista estadounidense Marshall Mosher. En su grabación, se puede ver al perro en la cima de la pirámide, lo que generó una oleada de comentarios en diversas plataformas.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBWbVu6o13H/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Experience Egypt (@experienceegypt)](https://www.instagram.com/reel/DBWbVu6o13H/?utm_source=ig_embed&utm_campaign=loading)
-
-Otro parapentista, Alex Lang, también capturó imágenes de lo que se cree es el mismo perro, describiéndolo como “el rey de la pirámide”.
-
-Estos avistamientos no solo entretienen, sino que también han despertado un renovado interés por la historia y la cultura de Egipto.
