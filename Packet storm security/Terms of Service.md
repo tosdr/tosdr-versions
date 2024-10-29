@@ -53,16 +53,16 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 222 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 225 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 65 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 59 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
+* [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 7 files
 * [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 4 files
 * [Emiliano Febbi](https://packetstormsecurity.com/files/authors/16637) 4 files
-* [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
 
 Recent News
 -----------
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1540208917&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1540208917.1730215042.1730215042.1730215042.1%3B%2B__utmz%3D32867617.1730215042.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1165115432&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1165115432.1730236632.1730236632.1730236632.1%3B%2B__utmz%3D32867617.1730236632.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
