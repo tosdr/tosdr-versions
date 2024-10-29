@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [High School Football Scores](https://www.gpb.org/sports/football/matchups)
+* [Elections Central](https://www.gpb.org/politics/election2024)
 * [Explore GPB Passport](https://www.gpb.org/explore)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
