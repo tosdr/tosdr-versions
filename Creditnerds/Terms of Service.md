@@ -293,7 +293,7 @@ Check Out Our Blog
 
 [![A semi-realistic, 2D cartoon-style image of a professional character with glasses seated at a desk, surrounded by financial documents, charts, and a laptop displaying information related to 'Hard Inquiry vs. Soft Inquiry: What’s the Difference?' The character has a friendly, thoughtful expression, set in a cozy office environment with bookshelves, plants, and office decor. The clean, minimal shading style provides a professional yet approachable atmosphere, highlighting the concept of credit inquiries.](https://creditnerds.com/wp-content/uploads/2024/10/Hard-Inquiry-vs.-Soft-Inquiry-Whats-the-Difference-30x30.webp)](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
 
-[Uncategorized](https://creditnerds.com/category/uncategorized/)
+[Credit](https://creditnerds.com/category/credit/)
 
 October 28, 2024
 
@@ -303,9 +303,21 @@ Hard Inquiry vs. Soft Inquiry: What’s the Difference? Understanding credit inq
 
 [Read More](https://creditnerds.com/hard-inquiry-vs-soft-inquiry-whats-the-difference/)
 
+[![A semi-realistic, 2D cartoon-style image of a professional character with glasses holding a document labeled 'Brokerage Account.' The character, seated at a desk, is surrounded by financial elements like charts, stock icons, and documents representing investments. The background features office decor, including a plant and bookshelf, with flat colors and minimal shading to maintain a 2D look, making the concept of a brokerage account clear and accessible.](https://creditnerds.com/wp-content/uploads/2024/10/What-Is-a-Brokerage-Account-30x30.webp)](https://creditnerds.com/what-is-a-brokerage-account/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+October 25, 2024
+
+#### [What Is a Brokerage Account?](https://creditnerds.com/what-is-a-brokerage-account/)
+
+A brokerage account is an investment account that allows you to invest your money in stocks, bonds, mutual funds, ETFs, brokered CDs, and money market funds. Unlike retirement accounts like a 401(k) or IRA, brokerage accounts provide flexibility for contributions and withdrawals without specific tax advantages or penalties. With a brokerage account, you have the …
+
+[Read More](https://creditnerds.com/what-is-a-brokerage-account/)
+
 [![Cartoon-style image of a person wearing glasses, sitting at a desk with a computer displaying an auto loan application. The character looks thoughtful, with a car and floating dollar signs in the background, representing the decision-making process of getting an online auto loan.](https://creditnerds.com/wp-content/uploads/2024/10/Online-auto-loan-30x30.webp)](https://creditnerds.com/should-you-get-an-online-auto-loan/)
 
-[Uncategorized](https://creditnerds.com/category/uncategorized/)
+[Credit](https://creditnerds.com/category/credit/)
 
 October 23, 2024
 
@@ -386,18 +398,6 @@ October 3, 2024
 When purchasing a vehicle, the loan term plays a crucial role in determining both your monthly payments and the overall cost of the car. What’s the average length of a car loan? For new vehicles, the average car loan term is around 68.48 months, while for used vehicles, it is about 67.41 months, which equates …
 
 [Read More](https://creditnerds.com/whats-the-average-length-of-a-car-loan/)
-
-[![Cartoon-style image of a person wearing glasses, holding two documents labeled 'Home Equity Loan' and 'HELOC.' The character looks thoughtful as they compare the options. A house is shown in the background with dollar signs and arrows, symbolizing financial decisions related to home equity loans and HELOCs.](https://creditnerds.com/wp-content/uploads/2024/10/Home-Equity-v-HELOC--30x30.webp)](https://creditnerds.com/home-equity-loan-vs-heloc-whats-the-difference/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 1, 2024
-
-#### [Home Equity Loan vs. HELOC: What’s the Difference?](https://creditnerds.com/home-equity-loan-vs-heloc-whats-the-difference/)
-
-Home Equity Loan vs. HELOC: What’s the Difference? Owning a home gives you the opportunity to access cash through your home’s equity. Two of the most popular ways to do this are through a home equity loan or a home equity line of credit (HELOC). But how do you decide which is best for your …
-
-[Read More](https://creditnerds.com/home-equity-loan-vs-heloc-whats-the-difference/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
