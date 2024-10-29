@@ -10,6 +10,39 @@
 
 [![](https://unitedwayswi.org/wp-content/uploads/2024/10/2-LINE-UW-First-RGB-United-Way-Logo-Localization-Tool.png)](https://unitedwayswi.org/)
 
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+  
+**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
+  
+**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
+
 [LIVE UNITED
 
 CLICK HERE TO LEARN MORE](https://unitedwayswi.org/live-united)
