@@ -54,19 +54,7 @@
     
     By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
-* *  [![](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-        
-        ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-        
-        If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-        
-    *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+* *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -77,6 +65,18 @@
         Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+        
+    *  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        
+        Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
         
 
 More Stories
@@ -93,18 +93,6 @@ More Stories
     Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
     
     By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
-    
-*  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
-    
-    Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
     
 *  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
@@ -129,6 +117,18 @@ More Stories
     Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
     
     By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
+    
+*  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    
+    If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
     
 *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
