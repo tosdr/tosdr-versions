@@ -666,8 +666,6 @@ Share This Article
 
 [Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
-* [Amazon Prime 6 FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
-
 **Safe Search Kids has partnered with Grafari and Calcularis** to provide personalized learning apps for every child's success. [**Grafari**](https://constructor.tech/lp/grafari-us?utm_source=awin&utm_medium=paid&utm_campaign=grafari-o) empowers children to master reading and spelling. [**Calcularis**](https://constructor.tech/lp/calcularis-trial?utm_source=awin&utm_medium=paid&utm_campaign=calcularis) ignites an excitement for learning fundamental math skills.  
   
 
@@ -685,6 +683,7 @@ Share This Article
 * [How Parents Can Take Part in Their Child’s Eco-Education](https://www.safesearchkids.com/how-parents-can-take-part-in-their-childs-eco-education/)
 * [The Silent Educators: What Animals Can Teach Us](https://www.safesearchkids.com/what-animals-can-teach-us/)
 * [How Social Media Is Making Kids Grow Up Too Fast](https://www.safesearchkids.com/how-social-media-is-making-kids-grow-up-too-fast/)
+* [5 Fun Creative Ways to Teach Kids to Read](https://www.safesearchkids.com/fun-and-creative-ways-to-teach-your-kids-to-read/)
 * [How to Teach Your Kids About Misinformation Online](https://www.safesearchkids.com/how-to-teach-your-kids-about-misinformation-online/)
 * [A Teens Guide to Social Media Safety](https://www.safesearchkids.com/a-teens-guide-to-social-media-safety/)
 * [Balancing Privacy and Trust with Child Safety](https://www.safesearchkids.com/spy-apps-on-phones-balancing-privacy-and-trust-with-child-safety/)
@@ -774,6 +773,7 @@ Share This Article
 * [Understanding AI-Generated YouTube Content](https://www.safesearchkids.com/understanding-ai-generated-youtube-content-a-parents-guide/)
 * [How to Speak Your Child’s Love Language](https://www.safesearchkids.com/how-to-speak-your-childs-love-language-tips-and-techniques/)
 * [What Sensory Activities Can Be Used In Listening Therapy?](https://www.safesearchkids.com/what-sensory-activities-can-be-used-in-listening-therapy/)
+* [Is Mastodon Safe? | Social Media Safety](https://www.safesearchkids.com/is-mastodon-safe/)
 
 ### Articles on Education
 
@@ -781,7 +781,6 @@ Share This Article
 * [Effective Study Techniques for Secondary Students](https://www.safesearchkids.com/effective-study-techniques-for-secondary-school-students/)
 * [How to Prepare for a Career in Journalism](https://www.safesearchkids.com/how-to-prepare-for-a-career-in-journalism/)
 * [The Distinct Types of Learning in the Classroom](https://www.safesearchkids.com/exploring-the-distinct-types-of-learning-with-examples-for-the-classroom/)
-* [5 Fun Creative Ways to Teach Kids to Read](https://www.safesearchkids.com/fun-and-creative-ways-to-teach-your-kids-to-read/)
 * [Exploring Geometry through Games (for Young Students)](https://www.safesearchkids.com/exploring-geometry-through-games-diy-projects-for-young-students/)
 * [Must Reads Before Starting High School Chemistry](https://www.safesearchkids.com/3-key-concepts-your-child-should-read-before-starting-high-school-chemistry/)
 * [How to Cite Sources in Essays and Research Papers](https://www.safesearchkids.com/how-to-cite-sources-in-essays-and-research-papers/)
