@@ -24,7 +24,7 @@
         * [All-In-One Platform](https://seesaw.com/all-in-one-platform/)
         * [Family Engagement](https://seesaw.com/family-engagement/)
         * [Flexible Implementations](https://seesaw.com/flexible-implementations/)
-        * [Integrations](https://seesaw.com/integrations/)
+        * [Integrations](https://seesaw.com/integrations-3/)
         * [Differentiated Learning](https://seesaw.com/differentiated-learning/)
         * [Accessibility](https://seesaw.com/accessibility/)
     * [Features](#)
@@ -93,7 +93,7 @@
         * [All-In-One Platform](https://seesaw.com/all-in-one-platform/)
         * [Family Engagement](https://seesaw.com/family-engagement/)
         * [Flexible Implementations](https://seesaw.com/flexible-implementations/)
-        * [Integrations](https://seesaw.com/integrations/)
+        * [Integrations](https://seesaw.com/integrations-3/)
         * [Differentiated Learning](https://seesaw.com/differentiated-learning/)
         * [Accessibility](https://seesaw.com/accessibility/)
     * [Features](#)
@@ -195,7 +195,7 @@ Seesaw
 Tech Resources
 
 * [Help Center](https://help.seesaw.me/hc/en-us)
-* [Third-Party Integrations](https://seesaw.com/integrations/)
+* [Third-Party Integrations](https://seesaw.com/integrations-3/)
 * [Setup/Implementation](https://seesaw.com/flexible-implementations/)
 
 Sales Support
