@@ -1529,7 +1529,7 @@
                 * [ ]  [Coupa Prepaid Automation Process](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-prepaid/)
                 * [ ]  [Coupa Supplier Management](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-supplier/)
                 * [ ]  [Coupa Virtual Card Guide](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-virtual-cards/)
-                * [ ]  [Fiance Guides](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/finance-guides/)
+                * [ ]  [Finance Guides](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/finance-guides/)
                     * [ ]  [Finance System Guides](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/finance-guides/nscustomfields/)
                 * [ ]  [HelpLab Information Guide](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/helplab-guide/)
                 * [ ]  [Navan Expense End Users Guide](https://handbook.gitlab.com/handbook/business-technology/enterprise-applications/guides/navan-expense-guide/)
