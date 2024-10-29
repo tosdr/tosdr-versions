@@ -205,29 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 7 Most Awful Wastes of US Taxpayer Money (Part 2)](https://www.somethingawful.com/most-awful/worst-government-waste/1/)
-* [GI Army Funnies and the Gay Nightmare](https://www.somethingawful.com/news/dont-ask-funnies/1/)
-* [The 10 Most Awful Museums to Visit This Summer](https://www.somethingawful.com/most-awful/vacations-museums-weird/1/)
-* [The 13 Most Awful American Fears](https://www.somethingawful.com/most-awful/most-awful-fears/1/)
-* [The 25 Most Awful Places According to Hollywood (Part 1)](https://www.somethingawful.com/most-awful/hollywood-terrible-places/1/)
+* [It Came From Outer Space](https://www.somethingawful.com/photoshop-phriday/came-from-outer/1/)
+* [Album Cover/Album Title Swap](https://www.somethingawful.com/photoshop-phriday/album-cover-swap/1/)
+* [Ilsa - She Wolf of the SS - Part One](https://www.somethingawful.com/movie-reviews/ilsa-she-wolf/1/)
+* [The Questionable Art of BattleTechnology Magazine](https://www.somethingawful.com/dungeons-and-dragons/battletech-mechwarrior-magazine/1/)
+* [August 4, 2008](https://www.somethingawful.com/forum-fridays/ff08-04-08/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [LIMEYS](http://forums.somethingawful.com/showthread.php?threadid=4073856 "LIMEYS")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's](http://forums.somethingawful.com/showthread.php?threadid=4073865 "Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums?](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums?")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums? \[POLL\]](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums? [POLL]")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Post random SAclopedia entries](http://forums.somethingawful.com/showthread.php?threadid=4073877 "Post random SAclopedia entries")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [Something I never got about the movie office space. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4073874 "Something I never got about the movie office space. Spoilers")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [I think more chicks should wear hats, it's cute](http://forums.somethingawful.com/showthread.php?threadid=4073884 "I think more chicks should wear hats, it's cute")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's](http://forums.somethingawful.com/showthread.php?threadid=4073865 "Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
 
 ### Random Articles
 
-* [HORDES OF DOGS](https://www.somethingawful.com/news/dog-classifieds8/)
-* [I Hate You Page 175](https://www.somethingawful.com/cliff-yablonski/i-hate-you-175/)
-* [Look Ma! I'm Updating on a Holiday Again!](https://www.somethingawful.com/news/look-ma-im/)
-* [M-More Pigs!](https://www.somethingawful.com/news/mmore-pigs/)
-* [Betty's Pub, BlizzHackers, and Emokid](https://www.somethingawful.com/weekend-web/bettys-pub-blizzhackers/1/)
+* [KRUT-5 News: Teen Mobile Sex Pics: "An Epidemic"](https://www.somethingawful.com/news/krut5-teen-sexting/)
+* [You Might Be a Redneck Jokes From "The Road"](https://www.somethingawful.com/news/cormac-foxworthy-road/)
+* [Why Are You Sleeping with the Man from the Halloween Store?](https://www.somethingawful.com/news/halloween-store-adulterer/)
+* [wicked stellar](https://www.somethingawful.com/awful-links/awful-link-666/)
+* [Marc Rubin Gallery (Thanks, Jamie!)](https://www.somethingawful.com/awful-links/marc-rubin-gallery/)
 
 [Random!](https://www.somethingawful.com/random/)
 
