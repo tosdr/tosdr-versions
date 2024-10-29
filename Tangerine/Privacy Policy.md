@@ -338,7 +338,7 @@ Examples of additional purposes for which we may collect, disclose or use your p
 
 **f.** when you use our Mobile Banking app, we may ask you for certain images, including of:
 
-**·** Your identification document(s) and a “selfie” to validate identity and prevent fraud as described in our Digital ID Verification Terms
+**·** Your identification document(s) and a “selfie” to validate identity and prevent fraud as described in our [Digital ID Verification Terms](https://www.tangerine.ca/en/legal/digital-id-terms)
 
 **·** Other documents to validate identity and prevent fraud
 
@@ -478,7 +478,7 @@ SECTION 8
 We will be open about the procedures used to manage personal information. Individuals will have access to information about these procedures through Tangerine’s Privacy Code, by contacting our Associates or by writing to the Global Privacy Officer. The information will be available in a format that is easy to understand.
 
 1. We will make this Privacy Code available to the public.
-    * An electronic version of this Privacy Code is available on Tangerine’s website at **tangerine.ca** or a copy can be requested by calling one of our Associates.
+    * An electronic version of this Privacy Code is available on Tangerine’s website at [**tangerine.ca**](https://www.tangerine.ca/en) or a copy can be requested by calling one of our Associates.
 2. Information about this Privacy Code will be available in a format that is easy to understand.
     * The contact information of the Associates and the Global Privacy Officer are provided at the beginning of this document in the “Explanation of Terms” section, so you can inquire about Tangerine’s personal information practices.
 3. We may make information about our procedures available in a variety of ways, depending on the nature of the services you are using and the sensitivity of the personal information.
@@ -664,7 +664,7 @@ Voici des exemples d’autres fins auxquelles nous pourrions recueillir, communi
 
 **f.** Lorsque vous utilisez notre appli bancaire mobile, nous pouvons vous demander certaines images, y compris les suivantes :
 
-**·** Vos pièces d’identité et un « égoportrait » pour confirmer votre identité et prévenir la fraude comme décrit dans nos Modalités de vérification de l’identité numérique
+**·** Vos pièces d’identité et un « égoportrait » pour confirmer votre identité et prévenir la fraude comme décrit dans nos [Modalités de vérification de l’identité numérique](https://www.tangerine.ca/fr/juridique/la-verification-numerique-de-lidentite)
 
 **·** Autres documents pour confirmer votre identité et prévenir la fraude 
 
@@ -888,7 +888,7 @@ ATS : **[(819) 994-6591](tel:18199946591)**
 * [Help Centre](https://www.tangerine.ca/en/help-centre)
 * [Learning Centre](https://www.tangerine.ca/en/thejuice)
 * [Contact Us](https://www.tangerine.ca/en/help-centre/contact-us)
-* ABM Locator
+* [ABM Locator](https://www.tangerine.ca/app/#/locations?locale=en_CA)
 * [Rates](https://www.tangerine.ca/en/rates)
 
 **About Us**
