@@ -122,10 +122,6 @@ Virgin Media Legal stuff
 
 ![](https://a.storyblok.com/f/254971/2097x2911/eef6898825/left-001.svg)![](https://a.storyblok.com/f/254971/2265x991/7b92892731/left-002.svg)![](https://a.storyblok.com/f/254971/1227x449/aa375be4f7/right-001.svg)
 
-1. [Home](https://www.virginmedia.com/)
-2. Legal
-    
-
 Looking for our terms and conditions? You've come to the right place. We've set it all out in black and white.
 
 * [Terms and Conditions - TV, Fibre, Phone (from 4 February 2024)](https://prod.ctassets.virginmedia.com/uploads/Terms_and_Conditions_TV_Fibre_Phone_from_4_February_2024_35cc93ecec.pdf)
