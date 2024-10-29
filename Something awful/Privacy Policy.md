@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [GameStop Employee Memo](https://www.somethingawful.com/video-game-article/gamestop-employee-letter/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [AD&D 2nd Edition Spelljammer: Space Lairs](https://www.somethingawful.com/dungeons-and-dragons/spelljammer-lairs-adventure/1/)
-* [Celebrity Speakers Cut from the 2016 Republican National Convention](https://www.somethingawful.com/news/rnc-celebrity-guests/)
-* [Should You Buy Doom or Animal Crossing?](https://www.somethingawful.com/video-game-article/doom-animal-crossing/)
+* [You're the Man for the Job](https://www.somethingawful.com/news/post-apocalyptic-job/)
+* [Children's Letters to Frankenstein](https://www.somethingawful.com/news/letters-to-frankenstein/1/)
+* [Worst Christmas Gifts](https://www.somethingawful.com/comedy-goldmine/worst-christmas-presents/1/)
+* [AwfulVision: Let's get retarded in here!](https://www.somethingawful.com/awfulvision/retard-anime-rap/1/)
+* [BarkWire.com Dog Reviews: Barnacle & Blue Yonder](https://www.somethingawful.com/news/barkwire-barnacle-blueyonder/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [INFORMATION WARFARE](https://www.somethingawful.com/awful-links/awful-link-526/)
-* [Room 101 vs. Anshe Chung](https://www.somethingawful.com/second-life-safari/room-101-vs/1/)
-* [Choosing the Right Exotic Shotgun Shell for Your 9/11 Party](https://www.somethingawful.com/news/exotic-shotgun-911/)
-* [Mama had a baby and its' head popped off!](https://www.somethingawful.com/daily-dirt/mama-had-baby/)
-* [Depressing Times](https://www.somethingawful.com/awful-links/depressing-times-cards/)
+* [Merry Christmas, No Matter Which Santa Claus You Worship](https://www.somethingawful.com/news/santa-claus-worship/)
+* [Neverwinter Nights 2 Primer](https://www.somethingawful.com/video-game-article/neverwinter-nights-primer/)
+* [The Cauldron, Wiccan Wisdom, and The Witch Forum](https://www.somethingawful.com/weekend-web/witch-forums/1/)
+* [Plane Common Sense 2](https://www.somethingawful.com/photoshop-phriday/plane-common-sense-2/1/)
+* [A Routine Checkup](https://www.somethingawful.com/news/routine-checkup-exam/)
 
 [Random!](https://www.somethingawful.com/random/)
 
