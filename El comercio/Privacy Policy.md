@@ -31,937 +31,958 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Colombia ratifica intercambio de energía con Ecuador, si condiciones mejoran
-============================================================================
+Este es el mayor arrepentimiento de las mujeres al final de sus vidas
+=====================================================================
 
-El presidente Daniel Noboa participará en el segmento de autoridades de alto nivel en el COP16. Su mirada está en la crisis energética
---------------------------------------------------------------------------------------------------------------------------------------
+Un estudio realizado por la Universidad Harvard reveló cuál es el mayor arrepentimiento de las mujeres.
+-------------------------------------------------------------------------------------------------------
 
-![Los ministros de Energía de Ecuador y Colombia conversaron sobre la crisis energética en el COP16.](https://www.elcomercio.com/wp-content/uploads/2024/10/Energia-Colombia.jpg)
+![La autenticidad mejora la calidad de vida. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T134149.176.jpg)
 
-En el marco de la Conferencia de las Naciones Unidas sobre Biodiversidad (**COP16**) que se desarrolla en Cali, los **ministros de Energía y Minas de Ecuador y Colombia** tuvieron un acercamiento.
+Un reciente estudio de la Universidad de **Harvard** reveló que cuál es el mayor arrepentimiento de las mujeres al final de sus vidas.
 
-### Más noticias
+### **Más noticias:**
 
-* [Daniel Noboa definió la comitiva que le acompañará a Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-definio-la-comitiva-que-le-acompanara-a-colombia.html "Daniel Noboa definió la comitiva que le acompañará a Colombia")
-* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Matthew Perry y sus demonios personales](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-y-sus-demonios-personales.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-y-sus-demonios-personales.html")
+* [Un año sin Matthew Perry y Jennifer Aniston y Courteney Cox reviven momentos inolvidables](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html")
+* [Actualización del caso Matthew Perry, donde un médico se declara culpable](https://www.elcomercio.com/tendencias/trending/matthew-perry-caso-muerte-friends.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/trending/matthew-perry-caso-muerte-friends.html?source=Internal&ref=Single+Content+Link") 
 
-Compromiso de intercambio de energía
-------------------------------------
+Esta investigación, dirigida por el **psiquiatra [Robert Waldinger,](https://researchers.mgh.harvard.edu/profile/519813/Robert-Waldinger "https://researchers.mgh.harvard.edu/profile/519813/Robert-Waldinger")** se basa en más de 85 años de análisis sobre la felicidad y el arrepentimiento humano, y ha examinado las experiencias de vida de más de 1 000 personas.
 
-En una conversación entre la ministra encargada de Energía**, Inés Manzano**, y el ministro de Energía colombiano, **Andrés Camacho**, abordaron la **crisis energética** en la región.
+**¿De qué se arrepienten las mujeres al final de sus vidas?**
+-------------------------------------------------------------
 
-Andrés Camacho, ministro colombiano, **expresó solidaridad con Ecuador** y ratificó el compromiso de intercambio de energía, condicionado a la mejora en las circunstancias.
+El mayor arrepentimiento de las mujeres al final de sus vidas se centra en haber priorizado excesivamente las opiniones y expectativas de los demás.
 
-Además, señaló que es necesaria la integración y colaboración para avanzar en la transición energética de América Latina.
+Según los hallazgos, muchas mujeres sienten que han reprimido sus verdaderos deseos y ambiciones debido a la presión social.
 
-En su cuenta de la red social X**, Camacho relató:** “Tuvimos la oportunidad de conversar con la ministra (e) Inés Manzano, **sobre la crisis climática de la región** y ratificamos nuestro compromiso de intercambio de energía, siempre y cuando las condiciones mejoren”.
+**Waldinger** señala que vivir bajo la sombra de las percepciones externas puede llevar a un profundo conflicto interno, generando insatisfacción al reflexionar sobre sus vidas.
 
-“Sabemos de las duras circunstancias por las que pasa **nuestro pueblo hermano**, es necesaria la **integración y colaboración** para avanzar en la transición energética justa de América Latina”, concluyó.
+El estudio subraya la importancia de **vivir de manera auténtica**.
 
-El Ministro de Colombia compartió varias fotos en la publicación en las que se lo ve manteniendo un diálogo con la ministra Inés Manzano.
+**Una vida auténtica acerca a la felicidad**
+--------------------------------------------
 
-Hace meses Colombia suspendió las **exportaciones eléctricas** para proteger sus embalses, mientras Ecuador enfrenta racionamientos.
+Waldinger recomienda cultivar relaciones genuinas y profundas, ya que estas conexiones permiten a las personas mostrarse tal como son, sin el temor al juicio ajeno.
 
-El presidente ecuatoriano Daniel Noboa participará en la COP16 este martes.
+Esta autenticidad mejora la calidad de vida y contribuye a una mayor felicidad en la vejez.
 
-> En el marco de la [#COP16Colombia](https://twitter.com/hashtag/COP16Colombia?src=hash&ref_src=twsrc%5Etfw) tuvimos la oportunidad de conversar con la Ministra(E) de Energía de Ecuador, Inés Manzano, sobre la crisis climática de la región y ratificamos nuestro compromiso de intercambio de energía, siempre y cuando las condiciones mejoren.  
->   
-> Sabemos de… [pic.twitter.com/7j0b0b5y8u](https://t.co/7j0b0b5y8u)
-> 
-> — Andrés Camacho M. (@andrescamachom\_) [October 29, 2024](https://twitter.com/andrescamachom_/status/1851064784818507963?ref_src=twsrc%5Etfw)
+Además, el estudio ofrece recomendaciones para aquellas mujeres que aún tienen la oportunidad de tomar decisiones sobre su vida. Se les anima a vivir según sus propios términos, seguir sus deseos personales y desarrollar una identidad auténtica.
 
-Noboa participará en el COP16
+La reflexión sobre el arrepentimiento puede servir como un motor para tomar decisiones más valientes en el futuro.
+
+Vinícius Júnior envía mensaje de unidad tras Balón de Oro
+=========================================================
+
+Vinícius Júnior, jugador del Real Madrid, se pronunció desde sus redes sociales tras no ganar el Balón de Oro 2024.
+-------------------------------------------------------------------------------------------------------------------
+
+![Vinícius Júnior, futbolista del Real Madrid que perdió el Balón de Oro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T140050.820.jpg)
+
+Al día siguiente de la gala del **Balón de Oro** y después de recibir el apoyo de sus compañeros a través de redes sociales tras no ser galardonado como el mejor futbolista del mundo, el brasileño **Vinícius Júnior** publicó la palabra “juntos” acompañada de una foto de la primera plantilla del Real Madrid.
+
+Una gala a la que no asistió el **Real Madrid** tras tener informaciones de que ni Vinícius ni Dani Carvajal ganarían el Balón de Oro, un galardón que se llevó el centrocampista español del **Manchester City** Rodri Hernández.
+
+### Más noticias:
+
+* [Las polémicas de la gala del Balón de Oro 2024](https://www.elcomercio.com/deportes/polemicos-balon-oro-2024-rodri-vinicius.html "Las polémicas de la gala del Balón de Oro 2024")
+* [¿Cómo votó Ecuador por el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/como-voto-ecuador-por-el-balon-de-oro-2024.html "¿Cómo votó Ecuador por el Balón de Oro 2024?")
+* [Los 46 ganadores del Balón de Oro desde su creación en 1956](https://www.elcomercio.com/deportes/futbol/palmares-ganadores-balon-oro-lista.html "Los 46 ganadores del Balón de Oro desde su creación en 1956")
+
+En el club blanco consideran esa decisión “una falta de respeto” por parte de los organizadores del Balón de Oro y de la **UEFA**, con la que mantiene sus diferencias debido a la **Superliga** y que este año fue el primero en el que entra como coorganizador del evento junto a ‘France Football’[.](https://en.wikipedia.org/wiki/Real_Madrid_CF "https://en.wikipedia.org/wiki/Real_Madrid_CF")
+
+Nadie del Real Madrid asistió al Balón de Oro
+---------------------------------------------
+
+Ningún representante del Real Madrid estuvo en una gala en la que se le reconoció como mejor club del mundo de la pasada temporada y al técnico **Carlo Ancelotti** como mejor entrenador.
+
+La decisión de no asistir se tomó minutos antes de subir al avión en el que la expedición madridista iba a poner rumbo a París y en apoyo a un **Vi****nícius Júnior** que hasta el mismo lunes era el gran favorito a alzarse con el **Balón de Oro**.
+
+Unidad en la que insistió el brasileño este martes a través de sus redes sociales. “Juntos”, escribió el atacante en un mensaje acompañado de dos corazones blancos y una foto de la primera plantilla de la presente temporada junto al presidente Florentino Pérez y al presidente de honor **José Martínez ‘Pirri’**.
+
+Richard Carapaz brilla como el mejor ciclista de Latinoamérica
+==============================================================
+
+El carchense Richard Carapaz es el ciclista latinoamericano mejor ubicado en el escalafón mundial de la UCI.
+------------------------------------------------------------------------------------------------------------
+
+![Richard Carapaz ganó la etapa 17 del Tour de Francia 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/carapazefe2024.jpg)
+
+**Richard Carapaz** ocupa el puesto 20 del **ranking mundial** de la **Unión Ciclista Internacional (UCI)**, lo que lo posiciona como el mejor ciclista de **Latinoamérica**, según la última actualización de este 29 de octubre del 2024.
+
+El número uno en el ranking mundial es sin discusiones el esloveno **Tadej Pogacar**, seguido por **Remco Evenepoel** y **Jasper Philipsen.**
+
+### Más noticias:
+
+* [Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025](https://www.elcomercio.com/deportes/ciclismo/ciclistas-ecuatorianos-world-tour-carapaz-cepeda.html "Richard Carapaz y los ciclistas ecuatorianos en la UCI World Tour 2025")
+* [Richard Carapaz prepara la temporada 2025](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-temporada2024-resultados-ecuador.html "Richard Carapaz prepara la temporada 2025")
+* [¿Cuándo volverá Richard Carapaz a las competencias?](https://www.elcomercio.com/deportes/cuando-volvera-richard-carapaz-a-las-competencias.html "¿Cuándo volverá Richard Carapaz a las competencias?")
+
+En ese escalafón mundial, **Carapaz** ocupa el puesto 20. Con eso es el mejor ubicado entre los ciclistas de **Latinoamérica.**
+
+El segundo mejor del continente es el también ecuatoriano **Jhonatan Narváez** (puesto 33 del mundo), quien descendió 10 escalones con relación a la actualización de la semana pasada.
+
+En tanto, el colombiano **Daniel Felipe Martínez** es el tercero (puesto 34).
+
+El ranking de la UCI
+--------------------
+
+**Tadej Pogacar** es el número uno del ranking mundial individual de la **UCI** con 11655 puntos.
+
+El puntaje se otorga por las distintas actuaciones en las últimas 52 semanas.
+
+El segundo sitial lo ocupa el belga **Remco Evenepoel** con 6062,57 unidades.
+
+Tercero es Jaspen Philipsen con 4790 puntos.
+
+El mejor latinoamericano del listado es Carapaz, en el puesto 20, con 2269 puntos.
+
+Los puntos de Richard Carapaz
 -----------------------------
 
-El presidente Daniel Noboa viajará este martes a Cali (Colombia) para participar en el segmento de autoridades de alto nivel de la Conferencia de las Naciones Unidas sobre Biodiversidad (**COP16)**.
+La ‘Locomotora del Carchi’ suma 2269 unidades. Estos son algunos de los puntos ganados por el ecuatoriano en el último año:
 
-Su viaje se da con la mirada puesta en la **crisis energética** que atraviesa el país y la posibilidad de reanudar el suministro de electricidad exportada por Colombia.
+* 600 puntos por el cuarto lugar de la clasificación general de la **Vuelta a España 2024.**
+* 210 por haber ganado la clasificación de la montaña en el **Tour de Francia 2024.**
+* 210 puntos por ganar la etapa 17 del **Tour de Francia 2024.**
+* 150 unidades por el séptimo lugar en la general del **Tour de Romandía 2024**.
+* 130 puntos por el segundo lugar en la etapa 9 de la Vuelta a España 2024.
+* 110 por el tercer lugar de la etapa 20 del Tour de Francia 2024.
 
-A través de un decreto, **Noboa** detalló que tiene previsto realizar un viaje de ida y vuelta en el mismo día a territorio colombiano. Irá acompañado por sus ministras de Relaciones Exteriores y Movilidad Humana, **Gabriela Sommerfeld**, y de Ambiente, Agua y encargada de Energía, **Inés Manzano.**
+El ranking de los ciclistas latinoamericanos
+--------------------------------------------
 
-Hezbolá nombra a Naim Qassem como su nuevo líder
-================================================
+1. **Richard Carapaz (Ecuador)** – 20 del mundo
+2. **Jhonatan Narváez (Ecuador)** – 33
+3. **Daniel Felipe Martínez (Colombia)** – 34
+4. **Egan Bernal (Colombia)** – 63
+5. **Isaac del Toro (México)** – 57
+6. **Santiago Buitrago (Colombia)** – 75
+7. **Orluis Alberto Aular (Venezuela)** – 108
 
-Naim Qassem fue elegido secretario general del grupo, tras un poco más de un mes del asesinato del líder anterior, Nasralá.
----------------------------------------------------------------------------------------------------------------------------
+Richard Carapaz
+---------------
 
-![Naim Qassem escuchando un discurso del líder de Hezbolá Hasan Nasralá, asesinado.](https://www.elcomercio.com/wp-content/uploads/2024/10/Naim-Qassem.jpg)
+Carapaz, campeón olímpico en Tokio 2020 y conocido como la ‘**Locomotora del Carchi**‘, ha dejado huella en el ciclismo internacional desde su llegada al Movistar Team en 2016.
 
-El Consejo de la Shura de Hezbolá**, el máximo órgano de gobierno** del grupo chií libanés, anunció el nombramiento **del que era el número dos** de la organización, Naim Qassem.
+Este año, se destacó al liderar el **Tour de Francia** tras la etapa 3 y al final se coronó ‘rey de la montaña’.
 
-Él será su nuevo secretario general en sustitución de **Hasan Nasralá**, muerto en un bombardeo de Israel el pasado 27 de septiembre.
+A lo largo de su carrera, ‘Richie’ ha participado en 13 grandes vueltas y ha cosechado 23 triunfos, incluyendo su memorable victoria en el Giro de Italia en 2019 y la medalla de oro en los Juegos Olímpicos Tokio 2020.
+
+![Tadej Pogar (izq.), líder del Giro de Italia y el ciclista ecuatoriano Jhonatan Narváez. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/05/JhonatanNarvaezPogacar-1024x683.jpg)
+
+Tadej Pogar (izq.), líder del Giro de Italia y el ciclista ecuatoriano Jhonatan Narváez. Foto: EFE
+
+Ecuatorianos en el World Tour
+-----------------------------
+
+La presencia de ciclistas ecuatorianos en la **UCI World Tour** continúa en aumento.
+
+Con la reciente incorporación de **Jefferson Cepeda** al **Movistar Team**, Ecuador tiene ahora la opción de cinco ciclistas en la élite del ciclismo:
+
+* **Richard Carapaz**
+* **Jhonatan Narváez**
+* **Alexander Cepeda**
+* **Jefferson Cepeda**
+* **Martín López**
+
+En 2025, se espera que estas figuras sigan brillando en el ciclismo internacional.
+
+Carapaz tendrá un año de retos con el **EF Education-EasyPost**, mientras que **Jefferson Cepeda** buscará dejar huella con el **Movistar Team.**
+
+Narváez, ganador de la etapa 1 del Giro de Italia 2024, competirá para el UAE Team Emirates junto a Tadej Pogačar desde el 2025.
+
+Hay enormes expectativas por lo que pueda hacer el ‘Lagarto’ en su nuevo equipo.
+
+La Selección de Ecuador sub-20 tiene rivales para el Sudamericano
+=================================================================
+
+La Selección de Ecuador sub-20 fue campeona del Campeonato Sudamericano en Chile en 2019.
+-----------------------------------------------------------------------------------------
+
+![Keny Arroyo con la Selección de Ecuador sub-20 en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_sub_20_1.jpg)
+
+La **Selección de Ecuador sub-20** conoció sus rivales para el Campeonato Sudamericano de Arequipa, Perú, a jugarse del jueves 23 de enero al domingo 16 de febrero de 2025.
+
+El plantel de la **Selección de Ecuador sub-20 está dirigida por Miguel Bravo**, entrenador que está al mando desde febrero de 2024, cuando fue confirmado por la Federación Ecuatoriana de Fútbol (FEF) en reemplazo del también ecuatoriano Jimmy Bran.
+
+### Más noticias:
+
+* [Rodri recibió el Balón de Oro al mejor jugador del mundo](https://www.elcomercio.com/deportes/rodri-balon-oro-city-espana.html "Rodri recibió el Balón de Oro al mejor jugador del mundo")
+* [Técnico Universitario goleó y cree en el milagro de la Sudamericana](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-segunda-etapa-fecha11.html "Técnico Universitario goleó y cree en el milagro de la Sudamericana")
+* [Emiliano ‘Dibu’ Martínez gana trofeo a mejor arquero del mundo](https://www.elcomercio.com/deportes/emiliano-dibu-martinez-arquero-premio-yashin.html "Emiliano ‘Dibu’ Martínez gana trofeo a mejor arquero del mundo")
+
+Con Bran, Ecuador alcanzó la clasificación al Mundial de Argentina, **pero en esa competencia quien dirigió desde la zona técnica fue Bravo**. En los octavos de final fueron eliminados por Corea del Sur con un marcador de 3-2.
+
+Esta será la trigésima primera edición de Sudamericano y contará con Arequipa como sede. El **Monumental de la UNSA y el Mariano Melgar** son los escenarios que acogerán los partidos de este sub-20.
+
+Para Perú es la tercera ocasión que organiza el torneo. La primera vez fue en 1975 y la segunda en 2011 con **Ecuador como una de las clasificada al Mundial de Colombia**, en un equipo que lo dirigía Sixto Vizuete y en cancha contaba con Marcos Caicedo, Fernando Gaibor, Édson Montaño, Marlon de Jesús, entre otros.
+
+Los rivales de Ecuador
+----------------------
+
+La Tri quedó emparejada en el grupo B. Brasil, **Colombia, Chile y Bolivia** serán los rivales en Perú.
+
+En el grupo A están los seleccionados de Perú, Uruguay, Venezuela, Paraguay y Argentina.
+
+El debut será el **24 de enero contra Bolivia, el 28 se medirán a Colombia**, el 30 frente a Brasil, el 1 de febrero cerrará contra Chile.
+
+Jugadores como Diogo Bagüí (Emelec), Keny Arroyo (Independiente del Valle), Davis Bautista (Eintracht Frankfurt), Ronny Borja (Emelec), **Bruno Caicedo (Cumbayá), Dylan Luque (Barcelona SC)**, Juan Macías (Liga de Quito), Juan Sebastián Rodríguez (Liga de Quito), Michael Bermúdez (O. F. K. Belgrado) y Ronald Perlaza (Aucas), son los más destacados de esta categoría.
+
+En el 2019, Ecuador sorprendió a propios y extraños con la obtención del título, el primero que obtuvo una Selección nacional en un torneo organizado por la Conmebol.
+
+Jorge Célico estuvo al mando de una generación en la que destacaron Moisés Ramírez, Diego Palacios, José Cifuentes, **Jordan Rezabala, Alexander Alvarado, Gonzalo Plata** y Leonardo Campana, el goleador con seis goles.
+
+La primera vez que un equipo sub-20 alcanzó un boleto para el Mundial fue en el 2001 en Ecuador y fue para jugar en Argentina.
+
+La segunda fue en el 2011 en Perú y fue para disputar la cita de Colombia; la tercera fue en el **2017 en Ecuador y el cupo fue para Corea del Sur**; en el 2019 en Chile se clasificó para Polonia; y en el 2023 en Colombia a Argentina.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Un edificio de 10 pisos se desplomó en una ciudad argentina
+===========================================================
+
+Un hombre de unos 80 años fue hallado muerto entre los escombros del edificio de 10 pisos que albergaba un aparthotel.
+----------------------------------------------------------------------------------------------------------------------
+
+![Miembros de la Policía custodian la calle en la que se derrumbó un edificio este martes, en Villa Gesell.](https://www.elcomercio.com/wp-content/uploads/2024/10/argentina-edificio.jpg)
+
+Un **edificio de 10 pisos** que albergaba un **aparthotel** en Villa Gessell, en la provincia de **Buenos Aires**, se derrumbó este martes, 29 de octubre de2024, por causas no determinadas.
 
 ### Más noticias
 
 * [Argentina identifica al presunto jefe operativo de Hezbolá en Latinoamérica y pide captura](https://www.elcomercio.com/actualidad/mundo/argentina-identifica-presunto-jefe-operativo-hezbola-latinoamerica-pide-captura.html "Argentina identifica al presunto jefe operativo de Hezbolá en Latinoamérica y pide captura")
-* [Nuevos choques entre Hezbolá y soldados israelíes](https://www.elcomercio.com/actualidad/mundo/nuevos-choques-hezbola-soldados-israelies.html "Nuevos choques entre Hezbolá y soldados israelíes")
-* [Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/ejercito-israeli-dice-ataco-230-objetivos-hezbola-sur-libano.html "Ejército israelí dice que atacó unos 230 objetivos de Hezbolá en el sur del Líbano")
+* [Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas](https://www.elcomercio.com/actualidad/mundo/milei-asegura-universidad-publica-seguira-arancel-medio-protestas.html "Javier Milei asegura que universidad pública seguirá sin arancel en medio de protestas")
+* [Javier Milei protagoniza toque de campana en Wall Street y las acciones argentinas brillan](https://www.elcomercio.com/actualidad/mundo/javier-milei-protagoniza-toque-campana-wall-street-acciones-argentinas-brillan.html "Javier Milei protagoniza toque de campana en Wall Street y las acciones argentinas brillan ")
 
-El nuevo líder de Hezbolá
--------------------------
+Un hombre falleció
+------------------
 
-En un **comunicado emitido** por la dirección de Hezbolá, el grupo aseguró que de acuerdo con el mecanismo para la elección del secretario general, el Consejo de la Shura de Hizbulá llegó a un acuerdo.
+Un hombre de unos 80 años fue **hallado muerto** entre los escombros del edificio de 10 pisos que albergaba un aparthotel en la localidad costera argentina de Villa Gesell y que se desplomó esta madrugada, informó a EFE un portavoz del Ministerio de Seguridad de la provincia de Buenos Aires.
 
-Este fue elegir a Su Eminencia el jequ**e Naim Qassem** secretario general de Hezbolá. “Quien portará el bendito estandarte en este viaje, pidiendo a **Dios Todopoderoso** que le guíe en esta noble misión al frente de Hizbulá y su resistencia islámica”.
+Mujer bajo escombros
+--------------------
 
-En la nota, la formación armada prometió que con el nombramiento de Qassem “trabajarán juntos para lograr los principios de Hezbolá y las metas de su camino. También prometieron mantener la llama de la **resistencia brillando** y su estandarte en alto hasta que se logre la victoria”.
+El jefe del operativo de rescate**, Hugo Piriz,** explicó que los bomberos tuvieron contacto con una mujer atrapada bajo los escombros que dijo estar en **compañía de otra** y están tratando de rescatarlas, informó el diario Perfil.
 
-Nombramiento luego del asesinato del antiguo líder
---------------------------------------------------
+Se busca a una decena de personas, que son las que se cree que estaban en el **edificio cuando aproximadamente el 80 % de su estructura** se vino abajo, además de las de un edificio cercano que se vio también afectado.
 
-Tras poco más de **un mes del asesinato de Nasral**á, el grupo ha decidido elegir al que era el número dos de la formación. Qassem ha sido el encargado dar los **tres discursos televisivos** ofrecidos tras la muerte del anterior jefe de Hezbolá, que estuvo **tres décadas al cargo.**
+El derrumbe del Aparthotel Dubrovnik ocurrió media hora después de la medianoche.
 
-Esta decisión se ha tomado después de que la semana pasada **Hezbolá confirmara la muerte de Hashem** Safi al Din, jefe del Consejo Ejecutivo de la formación. Y luego de haberlo considerado uno de los principales candidatos a suceder al clérigo Nasralá.
+El intendente (alcalde) de la ciudad, Gustavo Barrera, confirmó que hay **personas atrapadas entre los escombros** y que aún no las tienen cuantificadas ni saben cómo están.
 
-Qassem, cuya localización se desconoce, **fue nombrado jefe adjunto de Hezbolá** en 1991, cuando Nasralá no era aún el líder de la formación.
+En el lugar están trabajando cerca de un **centenar de bomberos** y personal de emergencias, incluyendo algunos de ciudades vecinas, como Madariaga y Pinamar.
 
-Ha sido considerado **uno de los principales portavoces del grupo chiita** y la figura de más alto nivel que incluso ha concedido entrevistas a [medios extranjeros.](https://es.wikipedia.org/wiki/Hezbol%C3%A1 "https://es.wikipedia.org/wiki/Hezbol%C3%A1")
+“Estamos abocados al rescate”, dijo Barrera al canal TodoNoticias y otros medios como el diario La Nación.
 
-Así fue como Marco Angulo aterrizó en Liga de Quito
-===================================================
+“El edificio tenía **los planos aprobados** y tenía permiso de obra en un ascensor para la parte delantera del inmueble. Lo que se cayó fue el fondo y alrededor de diez pisos”, dijo el intendente.
 
-El volante Marco Angulo se destacó como uno de los talentos más prometedores en su posición, y a pesar de su juventud, ha tenido un camino interesante en el fútbol.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Barrera indicó que parte del **derrumbe afectó a una vivienda lindera,** por lo que algunas de las personas que buscan entre los escombros podrían ser habitantes de los departamentos de al lado.
 
-![Marco Angulo (der.) en un partido con Liga de Quito ante Universidad Católica en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-35.jpg)
+“No tenemos información certera de que **hubiera personas viviendo en el apart.** Calculamos que habría unas seis o siete personas. Y en el edificio de al lado dos o tres personas más”, agregó el intendente.
 
-**Marco** **Angulo** inició su carrera profesional en el Independiente Juniors en 2020. Su talento lo llevó rápidamente al primer equipo de Independiente del Valle, donde con apenas 20 años empezó a brillar.
+Barreras dijo que se encuentra en contacto con funcionarios del gobierno provincial, tanto con el ministro de Salud como con el ministro de **Seguridad bonaerense, Javier Alonso,** quien está en el lugar de los hechos.
 
-Tras una corta experiencia en el extranjero, regresó a Ecuador a inicios de 2024 para vestir los colores de **Liga** **de** **Quito**.
+Poco después, el jefe del operativo, Hugo Piriz, precisó que realizaban una búsqueda de ocho y nueve personas que estaban en los **primeros tres pisos del hotel.** “Se derrumbó aproximadamente un 80% del edificio”, agregó. Las primeras imágenes mostraban que la **torre principal del apart** habría colapsado por completo. Hasta el momento, los bomberos no pudieron rescatar a nadie.
 
-### Más noticias:
+Piriz contó a LN+ que los bomberos hacen pausas en la tarea de **remover escombros** esperando que alguien de algún tipo de señal. “Es un trabajo muy arduo y vamos a necesitar muchos bomberos en el transcurso del día”, indicó.
 
-* [Marco Angulo, jugador de Liga de Quito, dejó cuidados intensivos](https://www.elcomercio.com/deportes/marco-angulo-liga-quito-cuidados-intensivos.html "Marco Angulo, jugador de Liga de Quito, dejó cuidados intensivos")
-* [Marco Angulo, la motivación de Liga de Quito en el final de temporada](https://www.elcomercio.com/deportes/futbol/marco-angulo-la-motivacion-de-liga-de-quito-en-el-final-de-temporada.html "Marco Angulo, la motivación de Liga de Quito en el final de temporada")
-* [Liga de Quito celebra el aniversario de su última Copa Sudamericana](https://www.elcomercio.com/deportes/liga-de-quito-celebra-el-aniversario-de-su-ultima-copa-sudamericana.html "Liga de Quito celebra el aniversario de su última Copa Sudamericana")
+Villa Gessell es una **ciudad turística,** en la costa de la **provincia de Buenos Aires**, cuya población se multiplica en los meses estivales. Actualmente, **primavera en el hemisferio austra**l, no hay gran ocupación. 
 
-La llegada de Marco Angulo a Liga de Quito
-------------------------------------------
+Dos ríos están desbordados y siete, en crecimiento
+==================================================
 
-Marco Angulo debutó en primera división en 2021 con **Independiente del Valle**, pero fue en 2022 cuando su nivel explotó. Se consolidó como titular y fue una de las figuras en la Copa Sudamericana que los ‘rayados’ ganaron ese año, disputando 44 partidos, con tres goles y tres asistencias.
+Según el Inamhi, las lluvias empiezan a disminuir en Ecuador; solo se registrarán precipitaciones ocasionales y leves
+---------------------------------------------------------------------------------------------------------------------
 
-Su gran actuación atrajo la atención del FC Cincinnati, equipo de la MLS que adquirió sus derechos y le ofreció un contrato hasta diciembre de 2025. Sin embargo, después de una temporada en Estados Unidos, Angulo regresó a Ecuador para r**eforzar el mediocampo de Liga de Quito**, club que buscaba consolidarse tras la salida de jugadores claves de su equipo campeón de la Copa Sudamericana 2023.
+![El río Upano registra aumento de caudal y desbordamiento.](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-disminuyen.jpg)
 
-Desempeño en el ‘Rey de Copas’
-------------------------------
-
-Desde que llegó a Liga de Quito en marzo y hasta principios de octubre, cuando sufrió un accidente de tránsito, Marco Angulo **disputó 20 partidos en cuatro competiciones distintas**, iniciando como titular en 10 de ellos.
-
-Aún no ha logrado alcanzar el nivel que mostró en sus mejores temporadas en Ecuador. En la **Liga Pro, donde ha sumado la mayor cantidad de minutos** este año, ha tenido un rendimiento correcto, aunque sin destacarse ampliamente.
-
-En 11 partidos de Liga Pro, fue titular en tres, con un 8**8% de efectividad en sus pases**, un promedio de una intercepción, siete entradas, y una recuperación de balón por partido. Además, ganó el 36% de sus duelos individuales.
-
-Su calificación promedio en la Liga Pro ha sido de **6,62, según SofaScore.**
-
-Estado de salud Marco Angulo
-----------------------------
-
-Marco Angulo, jugador de Liga de Quito, estuvo involucrado en un **siniestro de tránsito durante la madrugada del 7 de octubre** de 2024. Tras 17 días del evento, este 24 de octubre, Pablo ‘Vitamina’ Sánchez -DT de los albos- reveló que el futbolista abandonó la sala de cuidados intensivos.
-
-En una rueda de prensa en el contexto de la previa del partido entre la ‘U’ y Mushuc Runa por la fecha 11 de la Liga Pro, el entrenador de los albos brindó una actualización en cuanto al estado del futbolista. Este se mostró optimista, señaló que el **futbolista ha mejorado** y reveló los últimos hechos con respecto a su situación.
-
-![Marco Angulo en un partido con Liga de Quito en la Liga Pro 2024. ](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-36-1024x683.jpg)
-
-Marco Angulo en un partido con Liga de Quito en la Liga Pro 2024. Foto: API.
-
-“Tuvimos una buena noticia, creo que fue antes de ayer (22 de octubre del 2024), en la cual nos comunicaron que **Marco** (Angulo) **dejaba la terapia intensiva y pasaba a una habitación normal**, producto de que está estable y ha mejorado. Esto nos pone muy contentos”, sostuvo el entrenador azucena.
-
-En virtud de las circunstancias, Pablo Sánchez también detalló que eso va a permitir que el futbolista podrá recibir visitas de sus compañeros y el cuerpo técnico. Aquello, a su vez, estará sujeto a la disposición de la familia de Angulo.
-
-Un día como hoy fue el primer salto en paracaídas en Ecuador 
-=============================================================
-
-El 29 de octubre, Ecuador conmemora el Día del Paracaidismo.
-------------------------------------------------------------
-
-El **29 de octubre** es una fecha significativa en el calendario ecuatoriano. Este día se celebra el **Día del Paracaidismo**, que conmemora **el primer salto realizado por un grupo de militares en 1956**. Este evento marcó el inicio de una tradición que ha crecido y evolucionado a lo largo de los años, convirtiéndose en un símbolo de valentía y destreza. 
+El **Instituto Nacional de Meteorología** (Inamhi) dio a conocer las **previsiones climáticas** en Ecuador, donde se presentaron **lluvias fuertes desde el domingo** que ocasionaron el aumento de caudales.
 
 ### Más noticias
 
-* [El ecuatoriano Pablo Santos desafía las alturas y cumple su sueño de volar](https://www.elcomercio.com/deportes/pablo-santos-salto-base-extremo.html "https://www.elcomercio.com/deportes/pablo-santos-salto-base-extremo.html")
-* [Bisabuela de 102 años se convierte en la paracaidista con mayor edad del planeta](https://www.elcomercio.com/actualidad/mundo/bisabuela-paracaidista-edad-mujer-ayuda.html "https://www.elcomercio.com/actualidad/mundo/bisabuela-paracaidista-edad-mujer-ayuda.html")
+* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
 
-**Orígenes del Día del Paracaidismo** 
---------------------------------------
+Advertencia Meteorológica 55
+----------------------------
 
-La **historia del paracaidismo en Ecuador** comienza el 29 de octubre de 1956, cuando un grupo de **35 militares se lanzó desde un avión en Salinas**. Este acto pionero fue **liderado por el capitán Alejandro Romo Escobar**, conocido como ‘El Pionero’ del paracaidismo ecuatoriano. Su visión y liderazgo fueron cruciales para establecer esta disciplina en el país, de acuerdo con la página [HazteVerEcuador](https://hazteverecuador.com/dia-del-paracaidismo-en-ecuador-29-de-octubre-de-1956/ "https://hazteverecuador.com/dia-del-paracaidismo-en-ecuador-29-de-octubre-de-1956/").  
+El Inamhi emitió la **advertencia meteorológica 55,** la cual advierte que se prevé precipitaciones de variable intensidad con tormentas en la región.
 
-El capitán Romo, junto a un equipo de oficiales y voluntarios, **realizó este salto con el objetivo de engrandecer a Ecuador**. La formación inicial fue proporcionada por **instructores del Ejército de Estados Unidos**, quienes aseguraron que los paracaidistas ecuatorianos recibieran un entrenamiento riguroso y profesional, siguiendo con la misma fuente.  
+Esta alerta estará vigente hasta el **miércoles 30 de octubre**. El día marcado como de mayor riesgo de precipitaciones fue el domingo 27 de octubre.
 
-**Orígenes del paracaidismo** 
-------------------------------
+Las provincia**s más afectadas por las lluvias** pueden ser Esmeraldas y Santo Domingo, en el Litoral. Así mismo, la Amazonía registrará precipitaciones de mayor intensidad en las provincias del norte y centro.
 
-El deseo de volar ha fascinado a la humanidad desde tiempos inmemoriales. Los primeros intentos de descender desde alturas mediante dispositivos similares al paracaídas se registran en la **antigua China**, donde s**e realizaron saltos con estructuras que recordaban a un paraguas**.  
+En la región Interandina, hay **mayor amenaza por las lluvias** para Carchi, Imbabura, Pichincha, Cotopaxi y Tungurahua.
 
-Sin embargo, el desarrollo sistemático del paracaídas comenzó con el avance de la aerostática en el siglo XVIII. En 1783, l**os hermanos Montgolfier realizaron el primer vuelo en globo aerostático**, lo que inspiró a muchos a experimentar con el descenso controlado. **Louis-Sébastien Lenormand es considerado uno de los pioneros en este campo, ya que en 1783 realizó un salto exitoso** desde una altura considerable a través de un paracaídas de tela, según información de la [National Geographic](https://historia.nationalgeographic.com.es/a/paracaidas-reto-salto-vacio_12905 "https://historia.nationalgeographic.com.es/a/paracaidas-reto-salto-vacio_12905").  
+> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) 55 | Entre el 27 y el 30 de octubre; se prevé precipitaciones de variable intensidad con tormentas en la región Amazónica, zonas de estribación de cordillera oriental y norte-interior del Litoral 🌦️🌧️⛈️  
+> Mayor Información 👇 [pic.twitter.com/X4NBKXckGy](https://t.co/X4NBKXckGy)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 26, 2024](https://twitter.com/inamhi_ec/status/1850326241884156240?ref_src=twsrc%5Etfw)
 
-**Innovaciones clave** 
+¿Cómo están las lluvias en Ecuador este martes?
+-----------------------------------------------
+
+Para este **martes 29 de octubre**, se prevé presencia de **lluvias ligeras** a moderadas en la Amazonía y la Sierra.
+
+Según **Madelyn Enríquez**, analista de Pronósticos del Inamhi, las lluvias comenzaron a disminuir en Ecuador, sobre todo en el centro y sur.
+
+La **Amazonía** registrará el aumento de temperatura diurna y **altos índices de radiación** UV para el 30 y 31 de octubre, en contraste con las fuertes lluvias que se registraron el domingo.
+
+En la parte norte de la Sierra, sobre todo en **Carchi, Imbabura, Pichincha**, se espera presencia de chubascos durante la tarde.
+
+En la zona austral, **no se han registrado lluvias** hoy, pero podrían presentarse en horas de la tarde precipitaciones de menor intensidad. Así mismo en Quito, donde podría**n caer lluvias ocasionales** o chubascos conforme avance la tarde de este martes 29 de octubre.
+
+Este martes, lluvias ligeras caen en la zona de la cordillera.
+
+Según la **Secretaría de Gestión de Riesgos,** debido a las lluvias que se registraron desde la noche del domingo, dos ríos continúan desbordados. Estos son el río Macuma y el río Upano, ubicados en Morona Santiago.
+
+Además, siete **cuerpos hídricos** (ríos) están en crecimiento. Estos son:
+
+* **Sucumbíos**:
+    * Río Lumbaqui
+    * Río Putumayo
+    * Río San Miguel
+    * Río Aguarico
+* **Orellana**
+    * Río Napo
+    * Río Payamino
+    * Río Coca
+
+> 🚨ℹ️ [#ActualizaciónSNGR](https://twitter.com/hashtag/Actualizaci%C3%B3nSNGR?src=hash&ref_src=twsrc%5Etfw): Informamos a la ciudadanía sobre el estado actual de los cuerpos hídricos a nivel nacional.  
+>   
+> Corte: 07:00 [pic.twitter.com/Lord1ukgmb](https://t.co/Lord1ukgmb)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [October 29, 2024](https://twitter.com/Riesgos_Ec/status/1851289771428954458?ref_src=twsrc%5Etfw)
+
+Recomendaciones ante las lluvias
+--------------------------------
+
+* Si las autoridades lo indican, evacúa lo antes posible
+* Aléjate de los cables de electricidad y desconecta los aparatos electrónicos
+* No camines cerca del agua ni intentes cruzar ríos
+* Evita acercarte a cables o postes de luz, podrían generar fuertes descargas eléctricas
+* No te refugies debajo de árboles ni manejes herramientas ni objetos metálicos durante las [tormentas](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Influenza y otras enfermedades respiratorias están en auge en Ecuador
+=====================================================================
+
+Enfermedades respiratorias son frecuentes en Ecuador. Hay síntomas y medidas.
+-----------------------------------------------------------------------------
+
+![Foto referencial de afectaciones respiratorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/gripe.jpg)
+
+Dolor corporal, fiebre, malestar en la garganta y tos son algunas de las **molestias en enfermedades respiratorias** más frecuentes en esta temporada en Ecuador. La **influenza** es uno de los cuadros[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Una campaña de vacunación está en marcha en los centros de salud a escala nacional. Hay **grupos prioritarios**.
+
+### Más noticias
+
+* [Servicios de salud tienen disposiciones por cortes de luz](https://www.elcomercio.com/actualidad/ecuador/servicios-de-salud-tienen-disposiciones-por-cortes-de-luz.html "Servicios de salud tienen disposiciones por cortes de luz")
+* [El té verde fortalece la salud mental y emocional](https://www.elcomercio.com/tendencias/salud/te-verde-salud-mental-alimentos-investigacion.html "El té verde fortalece la salud mental y emocional ")
+* [Lasaña de berenjenas, deliciosa alternativa saludable](https://www.elcomercio.com/sabores/lasana-berenjenas-deliciosa-alternativa-saludable.html "Lasaña de berenjenas, deliciosa alternativa saludable")
+
+La influenza y otros malestares respiratorios
+---------------------------------------------
+
+La influenza es una infección viral aguda de las vías respiratorias y altamente contagiosa. Es causada por el virus A, B y C. Esta puede afectar todos los grupos etarios.
+
+En Ecuador, la **campaña de vacunación** impulsada por el **Ministerio de Educación** empezó el 26 de octubre de 2024 y se extenderá hasta febrero de 2025. Serán, al menos, **5 132 000 dosis** aplicadas, con una inversión de 13 916 709,09.
+
+Pero, no está solo la influenza. Entre los virus predominantes en Ecuador se encuentra el **Virus Sincitial Respiratorio (VSR) y el covid-19**.
+
+> Acercamos los servicios de salud a la ciudadanía 👏🏻  
+>   
+> Participamos de la Feria de Salud Machachi 2024, donde realizamos el lanzamiento de la campaña de vacunación contra la influenza.  
+>   
+> Conoce más 📹[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Y1LBMIEOFV](https://t.co/Y1LBMIEOFV)
+> 
+> — Ministerio de Salud Pública 🇪🇨 (@Salud\_Ec) [October 27, 2024](https://twitter.com/Salud_Ec/status/1850590614749868408?ref_src=twsrc%5Etfw)
+
+Datos de complicaciones
 -----------------------
 
-**Jacques-André Garnerin** es una figura central en la **historia del paracaidismo**. En 1797, realizó **el primer salto exitoso desde un globo a 900 metros de altura**, gracias un paracaídas que él mismo diseñó. **Este dispositivo consistía en una cúpula de seda sin bastidor rígido**, lo que representó un avance significativo respecto a los modelos anteriores, siguiendo con la National Geographic.  
+Una de las complicaciones en los cuadros respiratorios responde a la combinación de enfermedades, como la influenza y la neumonía con el **covid-19**.
 
-Garnerin también fue **pionero en las exhibiciones públicas de paracaidismo**, lo que ayudó a **popularizar esta actividad entre el público**.La evolución del **diseño del paracaídas** continuó con innovaciones como **el arnés inventado por Thomas Baldwin** en 1877 y la **mochila para paracaídas d**esarrollada en 1890, que incluía un paracaídas de reserva, a decir de la National Geographic. Estas mejoras hicieron que **el uso del paracaídas fuera más seguro y accesible**. 
+En ese último caso, llega más a niños de uno a cuatro años, personas de la tercera edad y de nueve a 14 años. Quito es una de las ciudades de **Ecuador** con más recurrencia.
 
-**El paracaidismo militar** 
-----------------------------
-
-A pesar de su invención, el **uso del paracaídas no se generalizó durante la Primera Guerra Mundial**. Las tripulaciones aéreas no estaban familiarizadas con su funcionamiento y **no se consideraba esencial para la supervivencia en combate**. Sin embargo, durante la **Segunda Guerra Mundial**, el paracaídas **se convirtió en una herramienta vital para las fuerzas armadas**. Los ejércitos comenzaron a entrenar **unidades especializadas en saltos desde aviones** para realizar operaciones detrás de las líneas enemigas, a decir de la [Fuerza Aérea Colombiana](https://www.fac.mil.co/es/noticias/la-historia-del-paracaidas-ensayos-y-pruebas "https://www.fac.mil.co/es/noticias/la-historia-del-paracaidas-ensayos-y-pruebas"). El **primer descenso exitoso** desde un avión tuvo lugar en 1912, cuando **Albert Berry** se lanzó desde un biplano Benoist a 500 metros de altura. 
-
-Así funciona el Pico y placa en Quito este martes 29 de octubre
-===============================================================
-
-Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa se aplica en Quito para tratar de controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/transito-pico-.jpg)
-
-La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
-
-### Más noticias
-
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
-* [Quito tendrá espacios gratuitos de ‘coworking’](https://www.elcomercio.com/actualidad/quito/quito-tendra-espacios-gratuitos-coworking.html "Quito tendrá espacios gratuitos de ‘coworking’")
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
-
-Documentos necesarios para circular
------------------------------------
-
-Para circular, es **esencial tener la licencia** y la matrícula vigentes.
-
-Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
-
-* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
-* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
-* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
-* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
-* Realizar la evaluación teórica.
-* Esperar la entrega de la nueva licencia.
-
-Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
-
-Colaboración ciudadana en el Pico y placa
------------------------------------------
-
-El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
-
-Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
-
-En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
-> 
-> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
-
-Cuenca tiene dos momentos para proyectar su economía y cultura
-==============================================================
-
-La Cumbre Iberoamericana de Presidentes permitirá la proyección de la ciudad en el exterior y el feriado su recuperación económica.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Cuenca conmemorará este domingo 3 de noviembre sus 204 años de independencia. Archivo/ EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-28-17-15-36.jpg)
-
-**Cuenca** tendrá tres semanas muy importantes. El feriado por las **fiestas de independencia** aportará a su reactivación económica, no solo en el ámbito **turístico** sino también en el **comercial** y el **artesanal**.
-
-La ciudad espera una gran afluencia de turistas nacionales, principalmente, de la Costa. Son más de 230 eventos, entre culturales, musicales, sociales y artesanales, que fueron organizados para estos días.
-
-> En el 2023, este feriado generó más de 40,3 millones de dólares, que se distribuyeron en turismo, comercio y artesanías, principalmente.
-
-Si bien hay **cortes de luz**, los representantes de estas actividades económicas esperan un movimiento similar. Ellos armaron estrategias en su servicio para atender a los visitantes.
-
-El segundo momento que tiene **Cuenca** es la **Cumbre Iberoamericana**, que se cumplirá a mediados de noviembre. De forma paralela se cumplirá el **Encuentro Empresarial Iberoamericano**, que forma parte de la Cumbre.
-
-Para los empresarios de la región es un espacio que permitirá potenciar el crecimiento y desarrollo económico local y nacional.
-
-La llegada de delegaciones internacionales y empresarios generará un aumento en el turismo y el comercio.
-
-Se espera que la Cumbre cuente con la participación de **nueve jefes de Estado**, así como a una amplia gama de empresarios e inversores.
-
-Este espacio también es una oportunidad para resaltar la cultura y el patrimonio de Cuenca.
-
-Al ser una ciudad reconocida por su riqueza cultural e histórica, el evento permitirá mostrar al mundo las tradiciones, costumbres y atractivos turísticos que posee.
-
-Esta suerte de vitrina no solo beneficiará a la ciudad durante la Cumbre, sino que puede tener efectos duraderos al atraer más visitantes en el futuro.
-
-Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado
-======================================================================================
-
-Explora las encantadoras haciendas de Pichincha, un destino ideal para el turismo rural y ecológico en Ecuador.
----------------------------------------------------------------------------------------------------------------
-
-![El paisaje es hermoso en Tambopaxi.](https://www.elcomercio.com/wp-content/uploads/2024/10/Las-haciendas-en-la-Sierra-de-Ecuador.jpg)
-
-En el corazón de las provincias de Pichincha y Cotopaxi, Ecuador, se encuentra un tesoro escondido: las haciendas que ofrecen una experiencia única de turismo rural. Este recorrido no solo permite disfrutar de la belleza natural, sino que también invita a sumergirse en la historia y las tradiciones del campo ecuatoriano. Desde la Hacienda **Las Cuevas hasta la Hacienda Sierra Alisos**, cada parada es un descubrimiento.
-
-### Más noticias:
-
-* [¿Cuántos días de descanso hay por los feriados de noviembre?](https://www.elcomercio.com/actualidad/ecuador/dias-descanso-feriados-noviembre.html "¿Cuántos días de descanso hay por los feriados de noviembre?")
-* [Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-iva-feriados-noviembre.html "Daniel Noboa redujo el IVA para incentivar el turismo en los feriados de noviembre")
-* [Aún quedan feriados en este 2024, ¿son recuperables?](https://www.elcomercio.com/actualidad/ecuador/aun-quedan-feriados-2024-ecuador-son-recuperables.html "Aún quedan feriados en este 2024, ¿son recuperables?")
-
-**La llegada a la Hacienda Las Cuevas**
----------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Hacienda-Las-Cuevas-1024x734.jpg)
-
-El viaje se inicia por la vía a Papallacta. A solo 5 kilómetros, un desvío a la derecha nos lleva hacia Mulaluco y, finalmente, a la **Hacienda Las Cuevas**. La señalización es clara y los lugareños conocen bien el camino. Tras un trayecto de 15 minutos por una vía pedregosa y empinada, llegamos a este lugar mágico. Al arribar, nos recibe un hermoso lago rodeado de eucaliptos y una casa que parece fusionarse con la montaña. La historia de esta hacienda se remonta a los años 70, cuando **Álvaro Bustamante**, un ingeniero civil, decidió construir su hogar alejado del bullicio del mundo. Tras años de esfuerzo y desafíos, hoy es un hotel cinco estrellas que ofrece una experiencia única.
-
-**Actividades en Hacienda Las Cuevas**
---------------------------------------
-
-La hacienda no solo es un lugar para descansar; también ofrece actividades como **elaboración de quesos**, paseos a caballo y ciclismo. Nos dirigimos al restaurante con vista al valle de Pifo para disfrutar de un delicioso desayuno con productos locales. Aprender a hacer queso fresco fue una experiencia gratificante que complementó la visita. Después del desayuno, exploramos los alrededores: caminatas por senderos naturales y una gruta dedicada al jacuzzi nos permitieron relajarnos y disfrutar del paisaje. La conexión con la naturaleza es palpable en cada rincón.
-
-**Hacia Hato Verde: Un encuentro con la tradición**
----------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Hato-Verde-1024x734.jpg)
-
-El viaje continúa hacia **Hato Verde**, ubicado en Cotopaxi. A solo 100 kilómetros de Las Cuevas, este lugar destaca por su arquitectura colonial y su ambiente familiar. Al llegar, fuimos recibidos por **María del Rosario y César**, quienes comparten su pasión por la vida rural desde 2005. El almuerzo fue una delicia típica: fritada acompañada de papas y salsa de ají. Luego, exploramos los establos donde César cría caballos angloárabes y árabes. Esta experiencia nos permitió conectar con el campo y disfrutar de la tranquilidad que ofrece.
-
-**La riqueza cultural de San Agustín de Callo**
------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/San-Agustin-1024x734.jpg)
-
-A solo 20 minutos se encuentra **San Agustín de Callo**, una hacienda que también es sitio arqueológico. Su historia se remonta al siglo XV, cuando era utilizada como fortaleza inca. La mezcla de estilos incas y coloniales se refleja en su arquitectura única. Alimentar a las llamas fue uno de los momentos más memorables. La cena fue exquisita: ají de carne y pollo a la naranja en un entorno mágico con vistas al Cotopaxi. Las habitaciones son espaciosas y acogedoras, perfectas para descansar después de un día lleno de aventuras.
-
-**Desayuno en el Parque Nacional Cotopaxi**
--------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/tambopaxi-1024x734.jpg)
-
-El siguiente día nos llevó al **Hotel Tambopaxi**, situado dentro del Parque Nacional Cotopaxi. Despertar con vistas al volcán es una experiencia inolvidable. El desayuno fue abundante y delicioso, preparándonos para una jornada llena de actividades al aire libre. Decidimos realizar un paseo a caballo por los alrededores del volcán. Vestidos adecuadamente para el clima frío, disfrutamos del silencio interrumpido solo por el sonido del viento y el galopar de los caballos.
-
-**Finca-Hotel Cotopaxipungo: Un refugio en el páramo**
-------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Cotopaxipungo-1024x734.jpg)
-
-A unos 20 kilómetros se encuentra la **Finca-Hotel Cotopaxipungo**, donde su arquitectura tradicional española se mezcla con el paisaje montano. La atención personalizada del personal hace que cada huésped se sienta especial. El almuerzo aquí fue otro deleite culinario: ají de queso seguido por cerdo al horno. Caminamos por senderos rodeados de aves locales antes de continuar nuestro recorrido hacia **El Rejo**.
-
-**Tradición viva en El Rejo**
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/El-Rejo-1024x734.jpg)
-
-En **El Rejo** nos recibieron con un canelazo mientras observábamos un rodeo nocturno que celebra la cultura andina. La cena consistió en cerdo asado acompañado por papitas en mantequilla; una experiencia gastronómica auténtica que culminó con pastel de chocolate.
-
-Las habitaciones son cálidas gracias a las chimeneas, ideales para descansar después de un día lleno de actividades.
-
-**Conexión profunda en Hacienda Sierra Alisos**
------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Alisos-1024x734.jpg)
-
-Finalmente, llegamos a **Hacienda Sierra Alisos**, donde Raúl y Paola nos ofrecieron una cálida bienvenida. Aquí, la conexión con la naturaleza se siente profundamente. Disfrutamos de un desayuno saludable antes de recorrer los senderos guiados por Raúl. La ceremonia ancestral que realizamos para conectarnos con la Pachamama fue una experiencia transformadora que nos permitió reconectar con nuestros sentidos y liberar el estrés acumulado.
-
-**Un legado cultural y natural**
---------------------------------
-
-Este recorrido por las haciendas de Pichincha no solo fue una escapada turística; fue una inmersión en la cultura ecuatoriana y sus tradiciones rurales. Cada hacienda visitada ofreció algo único: desde gastronomía auténtica hasta experiencias enriquecedoras en contacto con la naturaleza. Sin duda, Pichincha se revela como un destino ideal para quienes buscan desconectarse del ritmo urbano y sumergirse en la paz del campo ecuatoriano. Las haciendas no son solo lugares para hospedarse; son historias vivas que invitan a ser exploradas y apreciadas por todos aquellos que desean descubrir lo mejor del turismo rural en Ecuador.
-
-* * *
-
-Escucha más sobre las haciendas en nuestro podcast DE PASEO
------------------------------------------------------------
-
-Feriado de difuntos, una celebración de orígenes ancestrales
-============================================================
-
-En cada una de sus regiones, los ecuatorianos recuerdan a sus difuntos con tradiciones que combinan elementos indígenas y religiosos.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Personas acuden a los cementerios para adornar las tubas de sus familiares.](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-difuntos.jpg)
-
-El feriado por el **Día de los Difuntos en Ecuador** es una fecha que refleja la **diversidad cultural y las raíces ancestrales del país**.
-
-En cada una de sus regiones, los ecuatorianos recuerdan a sus difuntos con tradiciones que **combinan elementos indígenas y religiosos**, honrando a quienes partieron del **mundo terrenal mediante rituales y prácticas** que varían de una localidad a otra.
-
-### Más noticias
-
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
-* [Feriados que restan en Ecuador para este 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-que-restan-en-ecuador-para-este-2024.html "Feriados que restan en Ecuador para este 2024")
-
-El 2 de noviembre, Ecuador conmemora e**l Día de los Difuntos**, una fecha profundamente enraizada en la **tradición indígena y mestiza del país**.
-
-Esta celebración es una combinación de prácticas ancestrales de los **pueblos indígenas y ritos cristianos** introducidos durante la **colonización española**.
-
-La tradición, compartida en varias regiones de **América Latina**. Adquirió un significado cultural único en Ecuador, donde es reconocida oficialmente como un **feriado nacional**.
-
-Rituales y prácticas tradicionales
-----------------------------------
-
-Durante el Día de los Difuntos, las familias ecuatorianas participan en **distintas prácticas** para recordar a sus seres queridos fallecidos. Entre las costumbres más destacadas están la **preparación y el consumo de la colada morada y las guaguas de pan**.
-
-La colada morada es una bebida espesa hecha de frutas, maíz negro, hierbas y especias, que simboliza la conexión entre el mundo de los **vivos y el de los muertos**. Las guaguas de pan, por su parte, son panes en forma de **figuras humanas** que representan a los difuntos y acompañan a la colada en un acto de remembranza.
-
-Visitas al cementerio y ofrendas
---------------------------------
-
-El **Día de los Difuntos** es también una oportunidad para que las familias ecuatorianas visiten los cementerios, donde llevan flores y limpian las tumbas de sus familiares.
-
-Esta práctica, presente en **diversas regiones del país**, busca mantener viva la memoria de los ancestros y honrar su legado. En algunas **comunidades indígenas**, se realizan ofrendas y rituales específicos como parte de una **ceremonia comunal**, en la cual se reconoce la importancia de los **ancestros en la vida cotidiana**.
-
-> ⚠️💡 [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Horarios de cortes de luz en Quito para este feriado [https://t.co/2Qf6Nq9aeZ](https://t.co/2Qf6Nq9aeZ) [pic.twitter.com/AeMPrTYY4e](https://t.co/AeMPrTYY4e)
-> 
-> — El Comercio (@elcomerciocom) [October 28, 2024](https://twitter.com/elcomerciocom/status/1850996825211146378?ref_src=twsrc%5Etfw)
-
-Importancia cultural y significado social
------------------------------------------
-
-La celebración del Día de los Difuntos en Ecuador **refuerza la identidad cultural** y promueve la continuidad de tradiciones que han perdurado a través de los siglos. Al mantener estos rituales vivos, las **familias ecuatorianas recuerdan y honran a sus seres queridos fallecidos**.
-
-De esta forma expresan su conexión con las raíces ancestrales y preservando un **legado cultural** que distingue al país.
-
-El Día de los Difuntos es reconocido como un **feriado nacional en Ecuador**. Esto permite a las personas tomarse el tiempo para participar en las **actividades conmemorativas**.
-
-Esta medida refuerza el **valor de la tradición en el país**. Asimismo, sirve para brindar a los ecuatorianos un momento especial para **recordar y honrar a sus seres queridos**.
-
-¿Cómo se celebra en Ecuador?
-----------------------------
-
-En Ecuador, el **Día de los Difuntos** se conmemora con una mezcla de tradiciones ancestrales y **costumbres católicas**, que varían según la región. En la Sierra, los cementerios se llenan de familiares que **limpian y decoran las tumbas de sus seres queridos con flores y velas**.
-
-Por otro lado, en Tulcán, el Cementerio Municipal, reconocido por sus esculturas de ciprés, recibe a **miles de visitantes**. En Otavalo, las **comunidades indígenas** comparten alimentos y realizan rituales que reflejan la fusión de la cosmovisión andina con la **religión católica**.
-
-Asimismo, en Pujilí y Saquisilí, el 3 de noviembre se recoge la comida dejada como ofrenda y se reparte entre la comunidad.
-
-En la provincia de Pichincha, además de las visitas a los cementerios, las familias preparan **colada morada y guaguas de pan,** alimentos tradicionales que acompañan la **reunión familiar**.
-
-De igual forma, en Riobamba, el personaje del “Animero” recorre los cementerios recitando oraciones. En Cuenca y otras zonas del Azuay y Cañar, se comparten **comidas en las tumbas**, como muestra de la creencia de que los difuntos regresan cada año.
-
-Cartas a Quito / 29 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este martes 29 de octubre de 2024
------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Penosa realidad de algunos profesionales
-----------------------------------------
-
-En los momentos actuales, estando a las puertas de una elección presidencial, es inevitable que nos veamos en la necesidad de escuchar y leer cada barbaridad.
-
-Deberíamos, de haber políticos de altura intelectual suficiente, escuchar y leer propuestas de solución a los problemas que vivimos. En lugar de eso, nos vemos en la penosa necesidad de presenciar ataques irracionales, carentes de lógica elemental. Lo más penoso es que muchos de ellos provienen de “profesionales”, inclusive de algunos que han seguido doctorados o maestrías, y que se jactan de ello colocando en su identificación sus títulos y dónde los obtuvieron.
-
-Veo las expresiones de un señor Víctor Hugo Erazo, o, de un señor Fausto Herrera, y, no se diga de un señor Mauro Andino Espinoza, sin quedarse atrás doña Alondra Santiago, cuyo contenido es exclusivamente denostar contra las actuaciones del actual gobierno sin realizar una sola propuesta que resuelva alguno de los problemas.
-
-Si supieran que el hacer propuestas de solución los ubicaría en un nivel más aceptable políticamente, pero me temo que eso sería imposible de entender para ellos, acostumbrados a la pelea, a la discusión, creyendo que esa es el arma de política que más réditos da. Obviamente, están siguiendo el ejemplo de algún líder, que como una salida a algún complejo enraizado, utiliza la única arma que conoce: la confrontación.
-
-Su sensibilidad social y política no ha alcanzado el nivel de la racionalidad, se quedó en la primitiva era de las cavernas, donde la agresividad primaria era un arma de supervivencia.
-
-Es muy penoso, pues entiendo que algunos de los mencionados son profesionales, con postgrados y masterados a cuestas: ¿de qué les ha servido la universidad?
-
-Un profesional como tal debe separar sus afinidades políticas o profesionales, para hacer del conocimiento la herramienta imparcial y racional. Esto es lo que se aprende en las universidades que privilegian el conocimiento, lo que obviamente desemboca en propuestas racionales. Cuando dejamos prevalecer en nuestro pensamiento, dogmatismo o afinidades personales o ideológicas por sobre el razonamiento y el conocimiento, dejamos de ser profesionales.
-
-José M. Jalil Haas
-
-Pasolini, pasión de vivir
-=========================
-
-Vida y obra de Pasolini se despliegan bajo el doble arco del dolor y la búsqueda.
----------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-En _La divina mímesis_, 1976, libro de Pier Paolo Pasolini (Italia, 1922-1975), leo este epígrafe: “Doy a la imprenta hoy estas páginas como un ‘documento’, pero también para fastidiar a mis ‘enemigos’: en efecto, ofreciéndoles una razón más para despreciarme, les ofrezco una razón más para irse al Infierno”. En la portada, su inconfundible rostro atribulado y esquivo, rasgado por un brochazo que simula un rayo. Mímesis: **metamorfosis** de algunos fieles cuando sienten que se apoderan de ellos seres de otros tiempos; encarnación de espíritus, en general execrables. “Pasolini creía ser poseso de seres mitológicos”, dice Elsa Morante.
-
-Vida y obra de Pasolini se despliegan bajo el doble arco del dolor y la búsqueda, las dos tensionadas al extremo por la pasión, fundamento de su estructura humana. Múltiple y único, cineasta, novelista, **pensador**, dramaturgo, actor, periodista, político, fanático del fútbol… y sobre todo, poeta; su cine, que es la expresión más acabada de su aciaga existencia, es poesía; su **literatura**, su vida y su obra son poesía. El círculo dantesco de su vida exhala un halo de **poesía trágica**. Su supuesto asesino esperó más de 30 años para declarar que no fue él quien cometió el crimen, sino tres jóvenes al grito de consignas políticas.
-
-**“Dios, qué significa ese sudario silencioso/ que ondula sobre el horizonte”**
--------------------------------------------------------------------------------
-
-No es difícil imaginar a **Pasolini** hundiendo sus raíces en el viento, desgarrando su carne atormentada y fundiéndose en escombros. **Contradictor** del **poder**, pasó del catolicismo al marxismo; excomulgado por Roma y expulsado del **Partido Comunista**, proclamó su homosexualidad en una **sociedad** atiborrada de prejuicios, nombrando el nombre de su amor y su deseo; siempre soñó caminar entre árboles y flores durante su vida y su muerte, pero este sueño fue el más irreal. Su vida, cine y escritura están poblados de desiertos, yermos que solo muestran **abyecciones**, **ignominias**, despojos.
-
-Fue en el malecón de Ostia donde lo mataron a palos. En un **circuito lleno** de desechos y basurales malolientes. Y en su vida, sus logros tuvieron siempre poderosos contradictores de izquierdas y derechas: “Todo el séquito que lo acompañaba, dice **Benjamín Prado**, vivía explotándolo o eran oscuros enemigos suyos”.
-
-_Accattone_, 1961, su ópera prima. Historia del tugurio humano de la ciudad. Raterillos, vagamundos, proxenetas y prostitutas desbordan el filme. Una **niebla repulsiva** circula por ambientes y personajes. ¿Puede hallarse una señal de salvación ante panorama tan desolador? Ateo confeso, accede en este y otros filmes a lo espiritual como medio redentor.
-
-_Mamma Roma_, 1962. Una prostituta jubilada es la protagonista. Exhausta, vencida y vacía, **encarnación** de Roma de la posguerra, vive asida a la precaria felicidad de su hijo recién recuperado. Su departamento le sirve de atalaya para mirar un **futuro promisorio** cubierto de fuegos fatuos. El **adolescente deambula** por la barriada aprendiendo, en simbiosis **siniestra**, las lecciones del amor y el vagabundeo, preludio de la muerte.
-
-La **materia** con que se **edifica** la filmografía de Pasolini es el **desierto**. Sobre él pululan zonas habitadas por la escoria de la ciudad. Aridez como circunstancia histórica y existencial de lo originario. Personajes funambulescos titubeando sobre la cuerda de la **memoria** perdida. El desierto de Pasolini: agreste, hostil, vacío.
-
-Pablo Corro ve raíces ontológicas en el desierto pasoliniano. Su sentido religioso, **evangélico, histórico y literario** a la vez, se muestra en _El Evangelio según San Mateo_. Pasolini rompe con su ateísmo militante, no obstante, recrea el suceso bíblico desde una lectura marxista. En 2015 el Observador Romano lo declaró el mejor filme sobre la historia de Jesucristo.
-
-Poeta de la palabra. Y palabra en el tiempo. **Poeta** contra el poder; del pasado no vivido, del amor, del erotismo y de la sexualidad; de la vida y de la muerte. Luego de filmes magistrales como su trilogía erótica, _Las mil y una_ _noches_, _El Decamerón_ y _Los cuentos de Canterbury_; después de _Teorema_ y _Edipo Rey,_ muestras de mórbido erotismo y cáustica diatriba contra el sistema, filma _Saló o los 120 días de Sodoma_, película que no pudo ver porque le sobrevino la **muerte**.
-
-_Los 120 días de Sodoma_ de Sade es una invectiva contra la **humanidad**, pero también una velada intención de remover sus **malsanas raíces** y disipar sus iniquidades. Pasolini usó como argamasa la obra de Sade, fundiéndola con su contumaz aversión contra el fascismo. ¿Una perversión o una película que debe constar en la más exigente **antología** de la historia del cine? Quienes la resistan tienen la respuesta.
-
-“Poco tiempo me queda: por culpa de la muerte/ que me viene al encuentro en mi marchita juventud./ Más por culpa también de nuestro mundo humano/ que le quita el pan a los hombres y a los poetas la paz”.
-
-Un candidato creíble y competente
-=================================
-
-El tamaño de la crisis es tan grande, que reclama políticos superiores para gobernar.
--------------------------------------------------------------------------------------
-
-![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
-
-Quienes eligieron al joven Daniel Noboa improvisaron un jefe de Estado, que sabiendo que habría una **crisis hidrológica** no hizo nada por mantener, reparar y poner en operación a las **plantas termoeléctricas** existentes, ni conformó un **equipo técnico** competente, entregando la **solución** a **ministros encargados** e **improvisados**, afectando así a todos los **ecuatorianos**.
-
-El tamaño de la **crisis** es tan grande, que reclama **políticos** superiores para gobernar. Estamos en **recesión económica** y en estado de **inseguridad** irreversible. Si seguimos así, sin hacer nada importante, vamos a colapsar y a afectar más a **poblaciones** numerosas.
-
-El Presidente Noboa que fue elegido sorpresivamente, no ha estado preparado para **gobernar** un **país** en retroceso desde hace una década, sumido en una **violencia** inusitada que está sembrando el **terror** en ciertas **poblaciones** y causando **miedo** masivo en la **población**.
-
-Los otros **candidatos** no tienen las **calificaciones intelectuales** ni la experiencia indispensable para hacerse cargo de un país complejo. Hay una **candidata** del correismo que no da la talla para ser gobernante de nuestro país, pues solo persigue la **impunidad** de los ex dirigentes convictos,  por lo que el **pueblo** rechazaría un nuevo **fracaso** correísta. La mayoría son **aspirantes** que se saben perdedores por su condición de **improvisados** e **incompetentes** y porque no han podido crear un **partido** político serio, con principios viables para la **gestión pública**.
-
-Entonces es de desear que de entre los 16 aspirantes haya uno que siendo equidistante de los **extremismos políticos**, entienda que gobernar es difícil y sacrificado, debido a la **pobreza** y **descomposición política nacional**. Quien gobierne el próximo período debe saber cómo encausar al país a una etapa de **productividad total** y general, que sustente una **recuperación** auténtica basada en sus propios medios y no en el **endeudamiento,** que es un dogal que sojuzga nuestros anhelos.
-
-Este **candidato** debe tener experiencia en **gestión pública** y contar con un equipo de **trabajo** **competitivo** para **gobernar** y no solo disfrazarse de Rambo. Debe saber que tiene que abandonar el **populismo** irresponsable, porque gobernar no es perdonar las **deudas** al Estado, no recaudar lo que se debe ni regalar los **combustibles** o el costo de la **energía eléctrica**.
-
-Los madrugadores forzados
-=========================
-
-Los cortes de luz en Quito obligan a la gente a modificar su rutina diaria, afectando su descanso y tareas básicas.
--------------------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Siempre he admirado a los **deportistas** que se levantan a las 04:00 de la mañana para **entrenar**. En ciudades como **Quito**, a esa hora, por lo general hace frío y se requiere de mucha **decisión** y **disciplina** para **levantarse** y vestirse, ya sea para correr, caminar, nadar… o dedicarse a la **actividad física** que apasione.
-
-Desde hace unos días, a ese grupo se ha unido otro, pero a la fuerza. Me refiero a aquellos que tienen **luz** hasta las 6:00 o 7:00 de la mañana, porque les dotaron del **servicio** a **media noche,** y vuelven a brindárselo por otras tres horas a partir de las 14:00 o 15:00.  
-
-Muchos dirán que a todos les afecta, pero considero que a quienes a **semana seguida** le someten a ese **régimen** ya empieza a notárseles. Me explico. Si usted tiene un compañero de trabajo que a las 9:00 o 10:00 de la mañana está cansado, **cabeceando** o con los ojos rojos, es porque seguramente está de pie desde las 04:00. O, simplemente se fue a dormir a las 02:00. Sea cual sea la hora, comparten las mismas razones: en la **madrugada** recién se puede **lavar la ropa, secarla, cocinar algo, asearse.** Hay casas o departamentos en el Distrito Metropolitano de Quito –lo pongo con su nombre completo para incluir a los **valles y parroquias**\-, desde hace ya bastantes años, que todo funciona con base en la **electricidad** y eso significa que **sin** **luz** no se puede **lavar, cocinar, bañarse, escuchar música, leer**… seguir con la rutina que se tenía hasta hace unos días. Y, en algunos casos, tampoco se tiene **agua**, porque no hay generadores para que funcionen las bombas.
-
-Ni bien hay **luz** corren a **cargar** los **teléfonos**, las **tabletas** o las computadoras personales. Si no  han lavado ropa, vuelan a la **lavadora**. Si la ropa no se ha secado, se aprovecha a poner lo que falta en la secadora. Si se debe planchar una falda, una camisa o un pantalón que en unas horas se usará, enseguida se conecta la plancha. En el intermedio **se bañan, se afectan, se maquillan, se peinan**. Y si se requiere **secadora de cabello**, no hay más tiempo que a esa hora.
-
-También hay que preparar algo para **desayunar** más tarde o forzarse a comer entre las 06:00 y las 07:00. La verdad no hay bolsillo que alcance para pagar dos o tres comidas diarias fuera de la casa. Es que con ese horario se va al **trabajo** sin luz y se regresa y todo sigue sin funcionar.
-
-Con la luz natural de las 17:00 o 18:00 apenas se puede leer un poco. Quienes no van a un **centro comercial** o algún sitio con generador hasta agotarse para llegar a sus **casas y dormirse** enseguida, permiten que los niños estén más tiempo en los **parques de los conjuntos o urbanizaciones cerradas**. También hay alguno que otro padre que los acompaña. Personas de la tercera edad optan por caminar y los amantes de las mascotas pasean más tiempo a sus animales. Algunas parejas también salen a las puertas de las **casas y conversan.** Muchos coinciden en que ahora **compran máximo semanalmente** la comida, para que no se les dañe. Otros, en cambio, prefieren **comprar a diario**, para no volver a conectar las **refrigeradoras** hasta que todo pase, aunque saben que eso puede tomar muchísimo más tiempo… 
-
-El ADN de la lectura
-====================
-
-En las siguientes líneas, una aproximación al mundo de la lectura desde otra mirada: el cerebro, que cumplió 200 mil años…
---------------------------------------------------------------------------------------------------------------------------
-
-![Las contribuciones de las neurociencias son trascendentes.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-8-3.jpg)
-
-**La importancia de la lectura va mucho más allá de enseñar a leer.** El reduccionismo, a veces, ha matado la lectura y por extensión a la calidad de la educación. **Las contribuciones de las neurociencias son trascendentes.** Veamos por qué.
-
-Lectura crítica
----------------
-
-Los educadores enseñamos a leer –y es un mérito relevante- bajo sistemas que aprendimos en los normales y en las universidades. Pero hoy, **en el siglo XXI, el tema de la lectura ha superado los modelos tradicionales centrados en la lectura mecánica**, orientados a adquirir una serie de automatismos que permiten a los estudiantes a interpretar signos gráficos, mediante una percepción visual y darles una identidad oral. Se insiste en la lectura comprensiva, que tiende a asociar las letras con los sonidos y las palabras con su significado, y lograr, en última instancia, **la lectura crítica.**
-
-Métodos de enseñanza de la lectura
-----------------------------------
-
-**Existen varios métodos de enseñanza de la lectura.** Los más conocidos son **el** **método fónico, el método global y el método constructivista.** El primero se fundamenta en el **principio alfabético,** que implica la asociación entre fonemas y grafemas, y de las vocales a las consonantes.
-
-El segundo **se centra en las palabras**, que deben ser memorizadas inicialmente, como base de la creación de los primeros enunciados, cuyos significados son aprendidos con la ayuda de dibujos, conocimientos previos y más. De esta manera, las palabras antes desconocidas sobran sentido. Por último, el método constructivista, creado por **Jean Piaget**, **sugiere la enseñanza de la lectura a partir de las hipótesis implícitas** que el niño desarrolla del aspecto fonológico.
-
-El debate entre estos modelos de enseñanza de la lectura no ha terminado. Pero existen evidencias empíricas que muestran la importancia de **la conciencia fonológica en el proceso de alfabetización**, y que es posible integrar los métodos fónico y global.
-
-Cerebro lector
---------------
-
-Lo anterior sería imposible entender sin considerar la existencia de un cerebro lector, de acuerdo con la terminología de **Stanislas Dehaene**; es decir, de la arquitectura cerebral que hace posible las relaciones entre las neuronas que explican las neurociencias, que permiten, según **Max Weber**: saber pronunciar las palabras escritas; saber identificar las palabras y el significado de cada una de ellas; y, saber extraer y comprender el significado de un texto.
-
-El tema es complejo y fascinante. **Según algunos investigadores estamos todavía en la “madrugada” de la palabra escrita**, porque recién comienza a descifrarse en el ADN de la lectura y algunos campos específicos de la **neuroeducación**: el aprendizaje, la memoria, la atención, la dislexia, entre otros asuntos, donde la bioingeniería, la computación y la biología molecular se han unido para cambiar para siempre a la pedagogía y la medicina.
-
-**Las ciencias aplicadas a los aprendizajes están en “pañales”.** Pese a ello, en los últimos veinte años, la pedagogía y la psicología, con el apoyo de las neurociencias, han podido generar **mapas preliminares del cerebro**, en los cuales se identifican los **circuitos cerebrales de la lectura**, a través de neuroimágenes o imágenes cerebrales, que revelan las áreas que se activan cuando desciframos palabras escritas.
-
-La ciencia de la lectura
-------------------------
-
-**Stanislas Dehaene**, autor del libro **“El cerebro lector: últimas noticias de las neurociencias sobre la lectura, la enseñanza, el aprendizaje y la dislexia”**, considera que “una persona promedio sabe más sobre su auto, que sobre el funcionamiento de su cerebro”.
-
-Esta declaración es impactante y muy cierta. **La nueva ciencia de la lectura es desconocida en varias partes del mundo, y peor aplicada.** Las razones son obvias: **la mayoría de los modelos de enseñanza y aprendizaje –y en general de las ciencias- son lineales, mecanicistas-funcionalistas, que reducen los fenómenos a mecanismos limitados o reduccionistas**; por ejemplo, células, moléculas o modelos de conducta de los seres vivientes. Cuando el enfoque dinámico de los sistemas considera al mundo a partir de **vínculos e integración.**
-
-Todo es sistémico y sus estructuras específicas resultan de las relaciones entre las partes o subsistemas. En este contexto, **la lectura es un sistema complejo cuyo eje es el cerebro**, que es la **central de manejo**, que actúa también como **centro de la memoria**.
-
-**El ser humano tiene entre 12 y 15 mil millones, aproximadamente, de células nerviosas o neuronas.** Cada neurona, a su vez, puede construir millones de conexiones, que se forman al usarse el cerebro. Así, cuando son más estimuladas, se construyen más conexiones y más capacidades del ser humano para pensar. **Porque la lectura es pensamiento en acción.**
-
-Las neurociencias
------------------
-
-En esa línea de pensamiento, un punto en discusión –todavía intocado en el Ecuador- es **la necesaria conexión de la escuela con las ciencias** \-tratado en otro ensayo de esta serie-, como núcleo central de la educación inicial y continua de los docentes y específicamente de los sistemas neuro lingüísticos asociados a la lectura, que es el tema que motiva este ensayo.
-
-**En el Ecuador existen pocos estudios sobre las neurociencias y sus relaciones con los procesos de aprendizaje de los estudiantes.**  Las escuelas –salvo excepciones- actúan sobre sistemas formales, anclados a modelos tradicionales, donde la gestión del currículo –lo administrativo- supera a las teorías pedagógicas, así como a los fundamentos curriculares, que deberían formar parte de la actualización de los docentes, y a los estándares de aprendizaje de los estudiantes, sobre la base de sistemas de evaluación y calidad sustentados en parámetros científicos.
-
-Psicología, cerebro y educación
--------------------------------
-
-**Tracey Tokuhama-Espinosa ha identificado las interconexiones entre la psicología, el cerebro y la educación** como ejes de sus investigaciones y publicaciones, que contrastan con los intentos de innovación desde el aparato escolar dirigido por el Ministerio de Educación, en el que prevalecen las estadísticas en financiamiento y cobertura, mientras que la calidad de la educación todavía es una deuda pendiente.
-
-**Y cuando nos referimos a la escuela nos encontramos ante un vacío no solo legal sino conceptual y pedagógico.** La escuela responde a una cultura organizacional, que privilegia la cantidad de “materia”, en nombre de un currículo rígido, y donde los sistemas de evaluación compulsivos fomentan la incertidumbre, unidos a la **falta de programas de investigación asociados a la educación, la pedagogía y la didáctica**, para la toma de decisiones.
-
-Las neurociencias y la programación neurolingüística no pasan de ser espacios que se estudian en cursos especiales, sin mayor incidencia en las políticas públicas. **Y el ADN de la lectura está en veremos.**
-
-**El Ecuador necesita una verdadera transformación**, con la participación activa de todas las universidades, los centros de investigación, la sociedad civil y el sector oficial. **La ciencia de la lectura debe irrigar la escuela** ydebe expandirse a todo el cuerpo social, donde **la mediación lectora, las bibliotecas, la lectura silenciosa y por placer mejore la cultura nacional.** 
-
-Policía abatió a un delincuente armado en Guayaquil
-===================================================
-
-En otro hecho, un uniformado fue atacado por cuatro hombres armados en Santo Domingo de los Tsáchilas.
-------------------------------------------------------------------------------------------------------
-
-![El delincuente fue abatido cuando amenazaba a un ciudadano con un revólver](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-delincuente-abatido-guayaquil.jpg)
-
-La **Policía Nacional** abatió a un delincuente que amedrentaba a un ciudadano con un **arma de fuego**.
-
-El hecho se registró alrededor de las 14:00 de este lunes 28 de octubre de 2024, en el sector de La Florida, en **Guayaquil**.
-
-### Más noticias
-
-* [La CorteIDH condena a Ecuador por tortura y muerte de un detenido por la Policía en 1992](https://www.elcomercio.com/actualidad/mundo/corteidh-condena-ecuador-tortura-muerte-detenido-policia-1992.html "La CorteIDH condena a Ecuador por tortura y muerte de un detenido por la Policía en 1992")
-* [Ataques armados en Manta dejan cinco fallecidos](https://www.elcomercio.com/actualidad/seguridad/ataques-armados-en-manta-dejan-cinco-fallecidos.html "Ataques armados en Manta dejan cinco fallecidos")
-* [Barrios de Quito se organizan contra la inseguridad por cortes de luz](https://www.elcomercio.com/actualidad/quito/seguridad-barrios-quitocortes-luz.html "Barrios de Quito se organizan contra la inseguridad por cortes de luz")
-
-Un efectivo de la Policía se trasladaba a su puesto de trabajo cuando se percató que el desconocido **apuntaba con un revólver** a una persona.
-
-Con el afán de proteger a la víctima, el uniformado sacó su **arma de dotación** y advirtió al hombre que bajara el revólver.
-
-Al **no obedecer la orden**, y ante la grave amenaza a la vida del ciudadano, el policía **neutralizó** al individuo en uso legítimo de la fuerza.
-
-Tras el hecho, el uniformado llamó de inmediato a una **ambulancia**. Cuando llegaron los paramédicos, revisaron al delincuente y comprobaron que **murió**.
-
-En el sitio se recuperó el arma con la que el sujeto amenazaba a la víctima; el revólver ser utilizado como **indicio** en las investigaciones del caso.
-
-> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw) ||  
->   
-> ABATIMOS A UN ANTISOCIAL EN [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw)  
->   
-> En el sector La Florida, [#GYE](https://twitter.com/hashtag/GYE?src=hash&ref_src=twsrc%5Etfw), un servidor policial visualizó a un sujeto amedrentando a dos ciudadanos con un objeto de similares características a un arma de fuego, por lo que mediante [#UsoLegítimoDeLaFuerza](https://twitter.com/hashtag/UsoLeg%C3%ADtimoDeLaFuerza?src=hash&ref_src=twsrc%5Etfw) y para precautelar… [pic.twitter.com/8bF6RX1ZOb](https://t.co/8bF6RX1ZOb)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 28, 2024](https://twitter.com/PoliciaEcuador/status/1851045505456861611?ref_src=twsrc%5Etfw)
-
-Policía sufrió ataque armado en Santo Domingo de los Tsáchilas
---------------------------------------------------------------
-
-Un policía se movilizaba en una calle de **Santo Domingo**, cuando fue interceptado por cuatro desconocidos que iban a bordo de dos motocicletas.
-
-Los individuos sacaron **armas** y realizaron **varios disparos** contra la humanidad del uniformado.
-
-En su intento por defenderse, el gendarme hizo uso de su arma de dotación y r**epelió el ataque**, dejando herido a uno de los hombres.
-
-Los demás atacantes huyeron del lugar, mientras que el sospechoso afectado fue trasladado inmediatamente a una **casa de salud** cercana con custodia policial.
-
-> HERIDO PRESUNTO DELINCUENTE EN [#USOLEGÍTIMODELAFUERZA](https://twitter.com/hashtag/USOLEG%C3%8DTIMODELAFUERZA?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Un servidor policial fue interceptado por 4 sujetos a bordo de 2 motocicletas en [#SDTsáchilas](https://twitter.com/hashtag/SDTs%C3%A1chilas?src=hash&ref_src=twsrc%5Etfw), quienes realizaron varios disparos contra la humanidad del uniformado, mismo que hace uso de su arma entregada en dotación y… [pic.twitter.com/S0UdMn7PRO](https://t.co/S0UdMn7PRO)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 29, 2024](https://twitter.com/PoliciaEcuador/status/1851083467099951381?ref_src=twsrc%5Etfw)
-
-Tres lugares en donde probar una buena colada morada en Quito durante el feriado
-================================================================================
-
-La colada morada es uno de los platos favoritos durante el feriado de difuntos. Es parte de la tradición y la religiosidad popular del país.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las madres del monasterio de las Agustinas de la Encarnación elaboran colada morada desde hace muchos años, pero solamente son 12 en los que la venden al público.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5-4.jpg)
-
-Hay algo interesante de la **gastronomía quiteña**: las familias no se reúnen a comer un plato especial por fechas cívicas, como puede ocurrir en México, Santiago de Chile o Buenos Aires. No se lo hace por el 10 de agosto o el 24 de mayo. Más bien, los encuentros son por razones **religiosas**: la **fanesca** en **Semana Santa** o, como en estos días de **finados**, por la **colada morada**. **EL COMERCIO** visitó tres lugares en donde se puede probar una buena **colada morada** en el feriado que se acerca: el **monasterio de las monjas agustinas y los mercados de Santa Clara e Iñaquito.**
-
-### Más noticias
-
-* [Quito tendrá espacios gratuitos de ‘coworking’](https://www.elcomercio.com/actualidad/quito/quito-tendra-espacios-gratuitos-coworking.html "Quito tendrá espacios gratuitos de ‘coworking’")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/trafico-quito-nuevos-cierres-av-6-de-diciembre-colon-orellana.html "Tráfico aumenta por nuevos cierres en la av. 6 de Diciembre, en Quito")
-
-Colada morada y guaguas en el monasterio de las agustinas
----------------------------------------------------------
-
-Si estas son fechas católicas -cargadas de **sincretismo**, por cierto-, es muy buena idea ir al **monasterio de las monjas agustinas**, en la calle Benalcázar y Carchi, en el centro de **Quito**. En este lugar, usted encontrará una **colada morada** cuya receta se aprendió de generación en generación en el **convento**. Porque hay, además, una verdad ineludible: **las monjas siempre han sido grandes cocineras.** Y lo confirmará con la colada morada y las guaguas de pan que allí preparan.
-
-Es una colada que tiene dos virtudes, según la madre Ana Lucía del Espíritu Santo, priora del **Monasterio de las Agustinas de la Encarnación:** el **amor** y la **oración**. Mientras algunas preparan la colada, con las hermanas rezan el **rosario**. Es parte de la mística: el trabajo es también una forma de oración.
-
-“Es una tradición muy antigua, no solo del monasterio, sino quiteña. Siempre se la ha hecho para las hermanas, para los padres”, nos cuenta la madre Ana Lucía. Sin embargo, **hace 12 años** comenzaron a vender para aquellos de la vida civil que quieran probar.
-
-Los ingredientes son los mismos que se usan en casi toda colada morada: el ishpingo, el mortiño, frutilla, piña, babaco, el maíz y la maicena. Lo que no usan es azúcar, sino panela. Tiene una textura espesa y en este caso, la acidez perfecta, pues uno de los riesgos es, precisamente, el exceso de ácido.
-
-Sin embargo, les costó en un principio porque son **monjas de clausura** y era algo complejo relacionarse con el mundo exterior. De hecho, aceptaron la entrevista, pero aún les resulta difícil mostrarse ante las cámaras. Además, nos recibieron en el pequeño museo que tienen con ollas antiguas y una máquina con la que hacían anteriormente las hostias para las misas, casi a oscuras por los **cortes de luz.**
-
-Por la fuerza del tiempo, esta relación ha cambiado. “Y nos ha ido muy bien”, dice. Ahora, incluso, tienen un lugar donde pueden ir a tomar la colada morada o pedir para llevar, si quieren. **Lo importante es que tienen que avisarles, con anticipación, al teléfono 099-302-8809.**
-
-Del monasterio a los mercados
------------------------------
-
-Si algo sabemos es que en los mercados se come bien, sobre todo la comida típica: el hornado, la fritada, por ejemplo. Pero no es menos cierto que hay que ir a probar la colada morada. Y es que es algo tan importante que hasta se realizan concursos internos.
-
-La ganadora participará en el **concurso** de la ciudad, el **viernes 1 de noviembre, en la Plaza Foch**, en el barrio **La Mariscal**. Serán 25 representantes que buscarán tener el título de la mejor colada morada del 2024. Para ello, hablamos con las ganadoras en los mercados de **Santa Clara** y de **Iñaquito**.
-
-Cecilia Salinas, en Santa Clara, sabe lo que es ganar
------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-6-5-1024x683.jpg)
-
-En el renovado mercado de Santa Clara, **Cecilia Salinas** nos recibe con el cariño propio de las caseras. Está combatiendo un cáncer de mama, pero ella confía en Dios. Además, ya fue la **ganadora** del concurso de la ciudad en el **2022**.
-
-También su colada morada es fruto de la tradición. Aprendió de su madre y también destaca que el **amor** es el **ingrediente** más importante y sobre todo con buenos productos que compra a sus compañeras del mercado de **Santa Clara**. “Es como decía mi mamá: aunque cueste más, las cosas hay que hacerlas bien para que la gente regrese”.
-
-Es una colada morada para regresar por ella. Una **textura increíble** y su **aroma** se destaca apenas nos acercamos a su puesto. Usa los mismos ingredientes, pero no le gusta con panela, sino con azúcar, aunque ella no lo pueda tomar. **“No es una colada morada, sino un arrope de frutas”**, dice riéndose a carcajadas. Lo que no ofrece son las **guaguas de pan**.
-
-Adriana Huaraca, el amor y un secreto, en Iñaquito
---------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7-5-1024x683.jpg)
-
-En el mercado de Iñaquito, **Adriana Guaraca** sigue la tradición de su **hermana**, que ganaba año tras año el concurso interno. No participó en este 2024, pero sí Adriana. Este es el segundo año en que prepara la colada morada y ya es la **triunfadora**. Algo que no es fácil de conseguir y más aún en un lugar en el que toda comida es muy buena. Eso quiere decir que es una receta probada.
-
-¿En qué consiste esta receta? Adriana también dice que es **amor**, pero “el secreto especial es la **guayaba** para cortar la **acidez** del **mortiño**, la **naranjilla**. Así, las personas que tienen gastritis no se enferman y pueden comer tranquilos”, dice.
-
-Ella sí prepara las **guaguas de pan** y también ofrece **quesadillas**, por si acaso a alguien quiera algo diferente. Pero se ríe cuando dice que tiene “guaguas machos y guaguas hembras”. Es por el color de la decoración: rosado, para las mujeres, y azul, para los hombres.
-
-Es tan famosa su **colada morada,** que los **pedidos** para llevar llegan por **cientos**. Y es verdad: hay algo especial en la **textura** \-seguramente por la guayaba, que hace que sea una de las serias competidoras, y eso que solo lleva dos años preparando la colada morada[.](https://es.wikipedia.org/wiki/Colada_morada "https://es.wikipedia.org/wiki/Colada_morada")
-
-  
-
-La CIDH visitó a Jorge Glas en La Roca
-======================================
-
-El objetivo de la CIDH, con la visita a Jorge Glas, es constatar el estado en el que se encuentra el exvicepresidente.
-----------------------------------------------------------------------------------------------------------------------
-
-![La CIDH visitó a Jorge Glas en La Roca.](https://www.elcomercio.com/wp-content/uploads/2022/11/Jorge_Glas.jpg)
-
-La **Comisión Interamericana de Derechos Humanos (CIDH)** visitó al exvicepresidente **Jorge Gla**s en la cárcel de máxima seguridad, **La Roca**, la tarde de este lunes 28 de octubre de 2024.
-
-Jorge Glas, **sentenciado y procesado** en varios casos, permanece en La Roca desde el 6 de abril, un día después de ser capturado, durante una incursión policial en la **Embajada de México en Quito**.
-
-### Más noticias:
-
-* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
-* [Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos](https://www.elcomercio.com/actualidad/politica/rafael-correa-jorge-glas-con-prohibicion-de-ingreso-eeuu-corrupcion.html "Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos")
-
-La visita de la CIDH a Jorge Glas en La Roca
---------------------------------------------
-
-Una delegación de la **Comisión Interamericana de Derechos Humanos (CIDH)** llegó este lunes hasta La Roca, la cárcel de máxima seguridad de Ecuador, para realizar una visita a Jorge Glas.
-
-La visita al exvicepresidente y líder del correísmo se produce a pedido de la **defensa** del exvicepresidente y del “Comité Internacional para la Libertad de Jorge Glas”.
-
-Estos dos frentes solicitan a la CIDH que amplíe las **medidas cautelares** que ya dictó en 2019 a favor de Glas.
-
-La defensa de Glas busca su **excarcelación**, el reconocimiento del Estado como asilado político y que se le otorgue un salvoconducto para entregarlo a México.
-
-El ingreso de la delegación de la **CIDH** se dio pasadas las 13:30, de este lunes 28 de octubre.
-
-Un convoy de **diez vehículos** escoltados por policías llegaron hasta el centro carcelario ubicado en la ciudad portuaria de Guayaquil e ingresaron por la puerta principal.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/cidh-visita-jorge-glas-1024x683.jpg)
-
-Vehículos de la delegación de la CIDH ingresando a La Roca. Foto: API.
-
-En los exteriores de la cárcel, varios **policías** resguardaban la entrada.
-
-Esto, mientras **simpatizantes** del exvicepresidente pedían su libertad, frente a La Roca.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/cidh-visita-jorge-glas-1-1024x683.jpg)
-
-Simpatizantes del exvicepresidente afuera de La Roca. Foto: API.
-
-Glas fue sentenciado y es procesado
------------------------------------
-
-Glas fue la mano derecha del expresidente Rafael Correa, fue su **Vicepresidente** y también **Ministro de Sectores Estratégicos**.
-
-Pese a los procesos legales por los que se le ha sentenciado y procesado, el movimiento del **correísmo** Revolución Ciudadana, sostiene que es un perseguido político.
-
-En el momento de su detención en la **Embajada de México en Quito**, Glas tenía pendiente terminar de cumplir una pena de **ocho años** de cárcel por dos condenas por **corrupción** dictadas en 2017 y 2020.
-
-De esos ocho años, ya había purgado alrededor de **cinco años,** cuando salió en libertad, a finales de 2022, por orden de un juez que fue condenado por prevaricato.
-
-La orden judicial de detención contra Glas fue emitida en el marco de un tercer proceso penal en su contra por **presunto peculado**.
-
-Esto, en el caso **Reconstrucción de Manabí,** por el terremoto ocurrido en 2016.
-
-México y Ecuador se han contrademandado ante la **Corte Internacional de Justicia (CIJ)** por los hechos ocurridos el 5 de abril.
-
-Los dos países se acusan de haber transgredido **convenios y normas internacionales.**
-
-Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante
-============================================================================
-
-El médico recibió medidas cautelares mientras se investiga su presunta responsabilidad en el abuso sexual.
-----------------------------------------------------------------------------------------------------------
-
-![El galeno trabajaba en el dispensario médico de un colegio de Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/10/medico-abuso-sexual-cuenca.jpg)
-
-Un **médico** que trabajaba en el dispensario de un colegio de **Cuenca** fue llamado a juicio para investigar su responsabilidad en un **presunto abuso sexual** contra un estudiante.
-
-### Más noticias
-
-* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
-* [Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-pruebas-presentadas-fiscalia-primera-semana-audiencias.html "Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias")
-* [Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular](https://www.elcomercio.com/actualidad/ecuador/comision-asamblea-fiscalizacion-fallas-telefonia-celular-claro-movistar.html "Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular")
-
-Según dio a conocer Fiscalía, la mañana del 30 de marzo de 2022, un **adolescente de 15 años** tuvo un sangrado en la nariz por lo que su profesora le envió al **centro médico** de la unidad educativa para que lo atendieran.
-
-Al llegar, el galeno **Juan Carlos H.** lo recibió y le pidió que se acostará en la camilla. Al momento de revisarlo, según contó el menor de edad, **el médico le habría tocado sus partes íntimas**.
-
-El adolescente salió del lugar y de inmediato le contó los hechos a la profesora, quien notificó a las autoridades de la institución.
-
-Desde allí se remitió a Fiscalía el **informe** de situaciones de violencia, con el cual se inició la investigación del caso.
-
-Médico recibió medidas cautelares
+Las precauciones con la influenza
 ---------------------------------
 
-Durante la audiencia de evaluación de juicio, Fiscalía presentó como pruebas los **testimonios** del menor de edad, de su madre, de la profesora y de la psicóloga del colegio que evaluó a la presunta víctima.
+Las personas que tienen un cuadro de **influenza** son más contagiosas durante los primeros tres días de la enfermedad. Claro que el inicio de los **síntomas** puede variar de uno a cuatro días.
 
-Además, se presentaron los informes de las **pericias** de entorno social y psicológica, así como el reporte emitido por la institución educativa, entre otros documentos.
+Según detallan desde el **Ministerio de Educación**, la vacunación anual contra la influenza es importante para prevenir complicaciones.
 
-Tras analizar las pruebas, el Juez del caso **ratificó las medidas cautelares** para Juan Carlos H., que incluyen la presentación periódica y prohibición de salida del país.
+Es vital evitar el contacto con **personas enfermas**, además, hay que lavarse las manos con frecuencia y cubrirse tu boca al toser o estornudar
 
-También confirmó **medidas de protección** a favor del adolescente.
+En caso de presentar **fiebre mayor a 38 °C**, la persona debe acudir al centro de salud más cercano. Lo propio cuando tenga tos o dolor de garganta intensos o en caso de identificar signos de alarma como dificultad al respirar.
 
-Por el delito de abuso sexual, el acusado podría enfrentar una pena de **tres a cinco años** de cárcel.
+Los síntomas de la influenza
+----------------------------
 
-Cortes de luz en Cuenca para este martes 29 de octubre
-======================================================
+La **influenza** repercute en la nariz, la garganta, los bronquios y, ocasionalmente, los pulmones. La fiebre es uno de los síntomas centrales, así como la **mialgia**, cefalea, malestar general, tos seca, dolor en la faringe y rinitis:
 
-Centrosur detalló los 17 horarios de cortes de luz que tendrá la ciudad en las zonas residenciales e industriales.
-------------------------------------------------------------------------------------------------------------------
+* Fiebre
+* Tos
+* Dolor de garganta
+* Secreción o congestión nasal
+* Dolor muscular o corporal
+* Dolor de cabeza
+* Fatiga (cansancio)
 
-![Cuenca tendrá cortes de hasta 14 horas este martes 29 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-cortes-luz-29-octubre.jpg)
+¿Quiénes pueden ir a la vacunación gratis?
+------------------------------------------
 
-La Empresa Eléctrica **Centrosur** detalló el cronograma de **cortes de luz** que tendrá **Cuenca** este **martes 29 de octubre** de 2024.
+En los centros de salud públicos se aplican las dosis a personas de varios grupos:
+
+* **Población infantil** de 6 meses a 7 años, 11 meses y 29 días (dos dosis).
+* **Personas de 65 años** en adelante
+* **Mujeres en cualquier trimestre** de gestación y en puerperio que no recibieron la vacuna durante el embarazo
+* **De 8 a 64 años** con enfermedad crónica, inmunosupresión o con discapacidad
+* Personal de salud, incluye al administrativo, trabajadores de residencias de ancianos, de manejo estrecho de desechos hospitalarios
+* Personas Privadas de Libertad (PPL)
+* Colaboradores de centros de cuidados infantiles
+* Sectores estratégicos, trabajadores de avícolas y de criaderos de cerdos
+
+Las polémicas de la gala del Balón de Oro 2024
+==============================================
+
+La Gala del Balón de Oro dejó más de una polémica con relación al ganador y a notables ausencias dentro del certamen.
+---------------------------------------------------------------------------------------------------------------------
+
+![Rodri Hernández, ganador del Balón de Oro 2024, con su premio.](https://www.elcomercio.com/wp-content/uploads/2024/10/420b05f500fce672b7bd1a79339a5688acf0f632.jpg)
+
+La gala del **Balón de Oro 2024** contó con una serie de polémicas, desde la elección del ganador del premio hasta una serie de notables ausencias. Rodri se llevó el máximo premio por encima de otros favoritos y la delegación del **Real Madrid** no acudió.
+
+Los prestigios premios otorgados por France Football, a la par de los **The Best** de la FIFA, celebraron su evento el 28 de octubre del 2024 en París. En el certamen, 30 futbolistas fueron nominados a la mayor distinción y también se entregaron los premios **Johan Cruyff** a mejor entrenador, Lev Yashin a mejor arquero, Sócrates a juego limpio, Kopa a mejor futbolista juvenil, Gerd Müller a mejor jugador y el Balón de Oro Femenino.
+
+### Más noticias:
+
+* [¿Cómo votó Ecuador por el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/como-voto-ecuador-por-el-balon-de-oro-2024.html "¿Cómo votó Ecuador por el Balón de Oro 2024?")
+* [Los 46 ganadores del Balón de Oro desde su creación en 1956](https://www.elcomercio.com/deportes/futbol/palmares-ganadores-balon-oro-lista.html "Los 46 ganadores del Balón de Oro desde su creación en 1956")
+* [Aitana Bonmatí y un doblete el Balón de Oro Femenino](https://www.elcomercio.com/deportes/aitana-bonmat-segundo-balon-oro.html "Aitana Bonmatí y un doblete el Balón de Oro Femenino")
+
+Desde antes de que se lleve a cabo el evento, sin embargo, las controversias arrancaron. Todo inició con filtración de que Rodri del **Manchester City** sería el ganador y no Vinícius Júnior del **Real Madrid**.
+
+A raíz de aquel suceso, el **futbolista brasilero** y la delegación madrileña cancelaron su presencia. Al igual que **Vinícius**, otro grupo de futbolistas del conjunto merengue también se encontraba nominado al Balón de Oro y a otras preseas[.](https://en.wikipedia.org/wiki/2024_Ballon_d'Or "https://en.wikipedia.org/wiki/2024_Ballon_d'Or")
+
+Vinícius Jr y el Balón de Oro de Rodri
+--------------------------------------
+
+Antes de la gala y la filtración del ganador del Balón de Oro, el gran opcionado a hacerse con el título del mejor jugador del mundo era Vinícius Júnior. Aunque **Kylian Mbappé y Erling Haaland** terminaron por detrás de **Lionel Messi** en la edición previa, sus actuaciones en la temporada 2023-2024 no los llevaron a ser considerados serios candidatos.
+
+En el caso de **Mbappé**, este fue goleador y multicampeón de Francia con el PSG, pero no pudo destacar en la Eurocopa. Haaland se consagró el título de la Premier League junto al **Manchester City** y también fue el máximo anotador, pero no llegó más allá.
+
+Vinícius Júnior fue campeón con el **Real Madrid** en La Liga y la **Supercopa en España y de la UEFA Champions League** a nivel de Europa. De igual forma, su papel fue fundamental para que la escuadra llegue a tales títulos.
+
+En el caso de **Rodri**, este ganó el torneo doméstico de Inglaterra con el City y la FA Cup, al igual que el Mundial de Clubes. Con su selección se hizo con la Eurocopa.
+
+La ausencia de la plantilla del Real Madrid
+-------------------------------------------
+
+Ningún miembro directivo ni futbolístico del **Real Madrid** se hizo presente en el Balón de Oro. Tras la filtración, la entidad dejó de lado su agenda y permaneció en la capital española.
+
+Carlo Ancelotti, DT del conjunto merengue, ganó el premio **Johan Cruyff** a mejor entrenador y no estuvo para recibirlo. El mismo caso se dio con **Kylian Mbappé**, quien se hizo con el trofeo Gerd Müller al mejor goleador.
+
+En el caso de **Jude Bellingham y Danny Carvajal**, futbolistas nominados al Balón de Oro, tampoco estuvieron presentes.
+
+Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano
+======================================================================
+
+La ministra Inés Manzano intentaba comprar energía a Colombia, sin embargo, la respuesta del gobierno fue negativa.
+-------------------------------------------------------------------------------------------------------------------
+
+![La ministra de Energía (e), Inés Manzano, dio declaraciones sobre Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-19.jpg)
+
+La ministra de Energía encargada, **Inés Manzano**, confirmó que **Colombia** no venderá electricidad a **Ecuador**. La funcionaria, junto al presidente **Daniel Noboa**, viajaron al país vecino este martes 29 de octubre de 2024, para, entre otras cosas, buscar de la posibilidad de que se reanude la venta de energía.
 
 ### Más noticias
 
-* [Cortes de luz en Quito este martes 29 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-29-octubre.html "Cortes de luz en Quito este martes 29 de octubre")
-* [Cortes de luz en Guayaquil este martes 29 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-martes-29-octubre.html "Cortes de luz en Guayaquil este martes 29 de octubre")
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
+* [Colombia ratifica intercambio de energía con Ecuador, si condiciones mejoran](https://www.elcomercio.com/actualidad/ecuador/colombia-ratifica-intercambio-de-energia-con-ecuador-si-condiciones-mejoran.html "Colombia ratifica intercambio de energía con Ecuador, si condiciones mejoran")
+* [Daniel Noboa habló sobre la posibilidad de tener energía nuclear en Ecuador](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-posibilidad-tener-energia-nuclear-ecuador.html "Daniel Noboa habló sobre la posibilidad de tener energía nuclear en Ecuador")
+* [Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-ecuador-14-horas-diarias-lunes-28-octubre-domingo-3-noviembre.html "Cortes de luz de hasta 14 horas diarias en Ecuador del 28 de octubre al 3 de noviembre")
 
-Cortes de luz en Cuenca para este martes 29 de octubre
-------------------------------------------------------
+Ecuador atraviesa por una de las peores crisis energéticas con hasta 14 horas de **cortes de luz** programadas en todo el país. La funcionaria tenía esperanza que **Colombia** o reanudara la exportación de **electricidad** hacia Ecuador, suspendida desde finales de septiembre.
 
-La capital de Azuay mantendrá **apagones programados** de entre **10 y 14 horas**, distribuidos en **dos y tres franjas horarias**.
+Lamentablemente, el ministro de Energía colombiano, **Andrés Camacho**, dijo que aunque hay toda la predisposición política por parte del presidente **Gustavo Petro** no pueden vender energía a los 18 millones de ecuatoriano. Sin embargo, dijo que insistirá para que la empresa privada venda energía a Ecuador, aseguró Manzano a **Noticias Caracol de Colombia**.
 
-La suspensión del servicio eléctrico contempla **racionamientos** que cubren la madrugada, mañana, tarde y noche.
+Además, agregó, “en una situación como la que estamos, con 14 horas de suspensión, y viendo sus embalses y la entrada de lluvias creíamos que sí era posible, pero debo respetar la decisión del ministro Camacho”, dijo Manzano.
 
-Las **zonas residenciales** de Cuenca tendrán 14 distintos **horarios** de cortes de luz.
+Horas antes, en una conversación entre la ministra Manzano, y el ministro de Energía colombiano, **Andrés Camacho**, abordaron la crisis energética en la región.
 
-Mientras que el **sector industrial** tendrá apagones de **siete** y **12 horas**, en horarios de 00:00 a 07:00 y de 00:00 a 05:00 y de 10:00 a 17:00.
+El ministro colombiano expresó solidaridad con Ecuador y ratificó el compromiso de intercambio de energía, condicionado a la mejora en las circunstancias, pero no se retomó la venta de energía.
 
-La entidad no explicó los criterios utilizados para la **duración diferenciada** de los racionamientos.
+Manzano agregó que **Colombia** está trabajando en una regulación que permita la compra de energía a privados. “Me da pena que se demoren tanto. Nosotros en cinco días la hicimos, la aprobamos en directorio y la compartimos hace más de 10 días”, aseguró.
 
-Te compartimos el cronograma completo de apagones por barrios, y los horarios para el resto de **Azuay**, **Cañar y Morona Santiago**.
+Deportivo Quito jugará en Guayaquil luego de nueve años
+=======================================================
 
-Gobierno prevé finalizar con los cortes de luz en diciembre
------------------------------------------------------------
+Deportivo Quito jugará los octavos de final del Torneo de Ascenso Nacional contra Toreros FC de Guayaquil.
+----------------------------------------------------------------------------------------------------------
 
-Según Daniel Noboa, durante una entrevista que dio a TC Televisión la noche de este domingo, la medida de aplicar los **racionamientos** fue obligada por las **malas condiciones ambientales** y la **falta de mantenimiento** a las centrales hidroeléctricas.
+![Jugadores del Deportivo Quito en el Torneo de Ascenso Nacional 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/quito_guayaquil_1.jpg)
 
-Noboa mencionó que, tras analizar la situación actual y las previsiones, se planea que la **crisis total se solucione a finales de 2026**.
+**Deportivo Quito** es uno de los 16 equipos que aún siguen en competencia para alcanzar uno de los dos cupos que otorga el Torneo de Ascenso Nacional para la Liga Pro Serie B de 2025.
 
-“Cada año necesitamos aumentar un **14 o 15 % de energía** en el país, por eso estamos proyectando la **adquisición y recuperación de megavatios**, para no solo **corregir lo mal hecho por los anteriores gobiernos**, sino asegurar que **no se repita una crisis así**“, comentó.
-
-El Presidente afirmó que a corto plazo los apagones se acabarían si todo **sale según lo esperado**: “Las **probabilidades indican** que deberíamos estar sin apagones en **diciembre**, con todo lo que estamos trayendo en energía”, enfatizó.
-
-“Lo importante es que a **principios de diciembre las familias ecuatorianas** puedan ya llevar su vida dentro de la **cotidianidad**“, añadió.
-
-Los 46 ganadores del Balón de Oro desde su creación en 1956
-===========================================================
-
-Rodri se convirtió en el jugador número 46 en ganar el Balón de Oro, y en el segundo español en lograrlo.
----------------------------------------------------------------------------------------------------------
-
-![Rodri con el Balón de Oro que ganó en la premiación de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/oro_palmares_1.jpg)
-
-46 son los futbolistas que han ganado el Balón de Oro desde 1956**, año en el que Gabriel Hanot**, director de la revista France Football, creó el premio que con el pasar del tiempo ha cobrado relevancia global.
-
-En un principio el Balón de Oro **estaba destinado a jugadores de nacionalidad** europeo que jugaran en Europa.
+Deportivo Quito es parte de los siete representantes de la Sierra en esta parte del torneo, junto a **Aviced (Azuay), Cuenca Juniors (Azuay)**, La Troncal (Cañar), La Unión (Cotopaxi), Mineros (Bolívar) y Atlético Vinotinto (Pichincha).
 
 ### Más noticias:
 
-* [Daniel Pintado busca el premio al atleta del año en el mundo](https://www.elcomercio.com/deportes/atletismo/daniel-pintado-candidato-atleta-masculino-ano-world-athletics.html "Daniel Pintado busca el premio al atleta del año en el mundo")
-* [Jugadores de El Nacional exigen sueldo tras caer con Orense](https://www.elcomercio.com/deportes/futbol/sueldos-deudas-nacional-orense-liga-pro.html "Jugadores de El Nacional exigen sueldo tras caer con Orense")
-* [Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-jr-respalda-a-jugadores-del-barcelona-tras-ser-victimas-de-racismo.html "Vinícius Jr. respalda a jugadores del Barcelona tras ser víctimas de racismo")
+* [Lamine Yamal conquista el Trofeo Kopa, en la ceremonia del Balón de Oro](https://www.elcomercio.com/deportes/futbol/lamine-yamal-conquista-el-trofeo-kopa-ceremonia-del-balon-de-oro.html "Lamine Yamal conquista el Trofeo Kopa, en la ceremonia del Balón de Oro")
+* [Real Madrid brilla como el mejor equipo masculino en el Balón de Oro](https://www.elcomercio.com/deportes/futbol/real-madrid-mejor-equipo-balon-oro-barcelona.html "Real Madrid brilla como el mejor equipo masculino en el Balón de Oro")
+* [Liga Pro reacciona ante crisis de El Nacional](https://www.elcomercio.com/deportes/liga-pro-el-nacional-crisis-economica-miguel-loor.html "Liga Pro reacciona ante crisis de El Nacional")
 
-En 1995 se hace una **primera modificación a esa regla** y se incluyó a los futbolistas no europeos que jugarán en cualquier liga de Europa.
+Los clasificados se completan con ocho escuadras de la Costa: Deportivo Quevedo (Los Ríos), La Paz FC (Manabí), Patria (Guayas), **Liga de Portoviejo (Manabí), Naranja Mekánica (Guayas)**, Toreros FC (Guayas), 22 de Julio (Esmeraldas) y Huancavilca (Santa Elena).
 
-Desde 2007 se eliminaron **todas las restricciones y cualquier jugador** del mundo puedo competir por el premio.
+La Amazonia estará representada por **Primero de Mayo de Yantzaza**, localidad que se ubica en el corazón de la parte sur oriental de esta parte del territorio ecuatoriano.
 
-El argentino Lionel Messi es el más ganador con ocho. Le siguen Cristiano Ronaldo (5), Michel Platini (3), Johan Cruyff (3), **Franz Beckenbauer (2), Ronaldo Nazário (2), Alfredo Di Stéfano (**2), Kevin Keegan (2) y Karl-Heinz Rummenigge.
+Para llegar a esta instancia, la ‘AKD’ dejó en el camino en los treintaidosavos de final a Santa Elena Sporting Club (marcador global de 5-1) y a **Cantera Orense en los dieciseisavos de final** (3-2 en la tanda de penales).
 
-Rodri se convirtió en el **segundo hombre nacido en España que gana el Balón de Oro**, 64 años después de que Luis Suárez se impusiera en 1960, mientras que Aitana Bonmatí completó un doblete histórico para el fútbol español.
+El rival de los **capitalinos en los octavos de final será Toreros FC**, cuadro que hace local en el estadio Alejandro Ponce Noboa de Guayaquil, ciudad a la que los quiteños volverán a jugar un partido por los puntos luego de de nueve años.
 
-Alfredo Di Stéfano, nacido en Argentina, **pero nacionalizado español, lo ganó en dos ocasiones**, en la segunda edición del galardón, en 1957, y en la cuarta, dos años más tarde, cuando el premio estaba reservado a futbolistas europeos.
+La última vez del Quito en Guayaquil
+------------------------------------
 
-Rodri es, además, el **primer jugador del Machester City que se hace con el premio**, después de que sus compañeros Kevin de Bruyne, en 2022, y Erling Haland el pasado año, subieran al podio, como tercero y segundo respectivamente.
+El domingo **30 de agosto de 2015 fue la última vez que el Deportivo Quito** visitó Guayaquil para jugar un partido de la Serie A que, por ese entonces, estaba organizada por la Federación Ecuatoriana de Fútbol (FEF).
 
-Palmarés del Balón de Oro
--------------------------
+El juego correspondió a la octava fecha de la segunda etapa. Se disputó en el **estadio Monumental y terminó 3-0** en favor de los locales que eran dirigidos por el uruguayo Guillermo Almada. La visita estaba a cargo del ecuatoriano Renato Salas.
 
-No te pierdas - El Confesionario
+El uruguayo Brahian Alemán, con doble penal, y el **ecuatoriano Édson Montaño fueron los autores de los goles** esa tarde en Guayaquil.
+
+Otro de los datos fue que Matías Oyola, capitán de los guayaquileños, fue expulsado a los 39 minutos, y Juan Guerrón siguió ese camino en la visita a los 71.
+
+Ese año fue terrorífico para el Quito. Al final del mismo terminaron descendiendo a la Serie B, **en gran medida por los seis puntos que la FIFA** le restó por el incumplimiento en el pago de los intereses correspondientes a la deuda mantenida con el colombiano Néstor Salazar.
+
+También se le sumó el no haber presentado los roles de pago de agosto y septiembre de esa temporada.
+
+### Alineación de Barcelona SC:
+
+Máximo Banguera; Diego Calderón, Gabriel Marques, Oswaldo Minda (Willian Erreyes) y José Luis Perlaza; Hamilton Pereira, **Matías Oyola, Herlin Lino (Armando Wila), Brahian Alemán** y Ely Esterilla; Ismael Blanco (Édson Montaño).
+
+DT: Guillermo Almada
+
+### Alineación del Deportivo Quito:
+
+Bernardo Long; Jacinto Hernández, Juan Guerrón, Efrén Proaño, Martín Bonjour y Andrés Justicia (Richard Calderón); **Luis Fernando Saritama, Michael Castro, Juan Diego Rojas** y Daniel Porozo (Cristian Ledesma); Ronnal Campos.
+
+DT: Renato Salas
+
+No te pierdas – El Confesionario
 --------------------------------
 
-Tres ríos desbordados en Ecuador este lunes 28 de octubre ¿Cuáles son los daños?
-================================================================================
+Ataques israelíes contra un mercado en Ciudad de Gaza
+=====================================================
 
-La Secretaría Nacional de Gestión de Riesgos reportó tres ríos desbordados y cinco con tendencia a subir de nivel, en Ecuador.
-------------------------------------------------------------------------------------------------------------------------------
+Autoridades sanitarias de Gaza elevan a 43 061 el número de fallecidos desde el comienzo de la ofensiva de Israel contra Hamás.
+-------------------------------------------------------------------------------------------------------------------------------
 
-![Tres ríos desbordados en Ecuador, según el reporte de la Secretaría Nacional de Gestión de Riesgos.](https://www.elcomercio.com/wp-content/uploads/2024/10/rios-desbordados-ecuador.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/gaza-israle-efe.jpg)
 
-Tres **ríos** están desbordados en **Ecuador** este lunes 28 de octubre de 2024.
+Al menos **cinco personas murieron** y más de una **veintena resultaron heridas** este martes, 29 de octubre de 2024, en un par de **ataques israelíes c**ontra el mercado Sahaba de la norteña [Ciudad de Gaza](https://www.elcomercio.com/actualidad/mundo/sudafrica-asegura-tener-pruebas-exhaustivas-cometio-genocidio-gaza.html "https://www.elcomercio.com/actualidad/mundo/sudafrica-asegura-tener-pruebas-exhaustivas-cometio-genocidio-gaza.html"), recoge la agencia oficial de noticias palestina, Wafa.
 
-La **Secretaría Nacional de Gestión de Riesgos** reporto también que cinco ríos tienen tendencia a **subir de nivel.**
+### Más noticias
+
+* [Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza](https://www.elcomercio.com/actualidad/mundo/sudafrica-asegura-tener-pruebas-exhaustivas-cometio-genocidio-gaza.html "Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza")
+* [Yahya Sinwar fue un líder clave de Gaza](https://www.elcomercio.com/actualidad/mundo/yahya-sinwar-fue-lider-hamas-que-paso-ser-prisionero-estratega-clave.html "Yahya Sinwar fue un líder clave de Gaza")
+* [La muerte de Sinwar será una inspiración para la resistencia contra Israel](https://www.elcomercio.com/actualidad/mundo/muerte-sinwar-inspiracion-resistencia-israel.html "La muerte de Sinwar será una inspiración para la resistencia contra Israel")
+
+El medio, que cita fuentes locales en el enclave (donde **Israel no permite la entrada independiente** a la prensa internacional), dijo que hubo **dos ataques lanzados** por aeronaves israelíes contra el mercado, ubicado en el barrio de Daraj, en el este de la capital gazatí, y que los muertos y heridos fueron trasladados a varios hospitales.
+
+El portavoz de la Defensa Civil gazatí, Mahmud Basal, confirmó que al **menos cuatro cadáveres y más de 80 heridos** llegaron en menos de una hora al hospital Árabe al Ahli de Ciudad de Gaza tras un ataque contra el mercado de Sahaba y el barrio de Sudania.
+
+La noticia llega después de que las **autoridades sanitarias de Gaza** elevaran a 43 061 el número de fallecidos desde el comienzo de la ofensiva de Israel contra Hamás, en octubre del año pasado.
+
+Esta cifra **no incluye los casi cien muertos** de esta madrugada en un **bombardeo israelí** contra un edificio residencial en la localidad de Beit Lahia, en el norte de la Franja, bajo asedio militar israelí desde hace 24 días.
+
+109 personas murieron en el norte gazatí
+----------------------------------------
+
+En lo que va de martes, al menos **109 personas murieron en el castigado** norte gazatí, según los medios palestinos, que citan fuentes sanitarias.
+
+Por su parte, el **Ejército israelí** confirmó hoy la muerte de **cuatro soldados** en los combates en el norte de Gaza, elevando a 367 el número de **soldados israelíes** muertos desde el comienzo de la guerra.
+
+Diego Armas, el goleador ecuatoriano que sorprende en la Liga Pro
+=================================================================
+
+En el campeonato ecuatoriano, los goleadores suelen ser extranjeros, pero esta temporada un tricolor está decidido a cambiar eso.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Diego Armas, capitán, figura y goleador del Técnico Universitario en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-40.jpg)
+
+En la tabla de goleadores de la **Liga Pro**, el paraguayo Alex Arce, de Liga de Quito, lidera con gran ventaja, pero **Diego** **Armas**, a sus 34 años, está dando la sorpresa y luchando por un lugar entre los mejores.
+
+Armas, con un segundo aire en su carrera, ha sido fundamental para el **Técnico Universitario**, donde busca llevar al equipo a la Copa Sudamericana.
 
 ### Más noticias:
 
-* [Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute](https://www.elcomercio.com/actualidad/negocios/lluvias-coca-codo-sinclair-pero-pasa-paute.html "Lluvias benefician a Coca Codo Sinclair, pero qué pasa en Paute")
-* [Embalse de Mazar está cerca del nivel mínimo de operación](https://www.elcomercio.com/actualidad/negocios/el-embalse-de-mazar-se-acerca-nuevamente-a-su-nivel-mas-critico.html "Embalse de Mazar está cerca del nivel mínimo de operación")
+* [Técnico Universitario goleó y cree en el milagro de la Sudamericana](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-segunda-etapa-fecha11.html "Técnico Universitario goleó y cree en el milagro de la Sudamericana")
+* [Liga Pro reacciona ante crisis de El Nacional](https://www.elcomercio.com/deportes/liga-pro-el-nacional-crisis-economica-miguel-loor.html "Liga Pro reacciona ante crisis de El Nacional")
+* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
 
-Los ríos desbordados en Ecuador y los daños causados
-----------------------------------------------------
+**La tabla de goleadores de la Liga Pro**
+-----------------------------------------
 
-**Tres** ríos están desbordados en Ecuador y **cinco** con tendencia a subir de nivel, según el reporte de la Secretaría Nacional de Gestión de Riesgos, con **corte a las 19:00**.
+En lo más alto de la tabla se encuentra **Alex Arce,** quien ha maravillado a los aficionados con su capacidad goleadora, acumulando **20 goles esta temporada**.
 
-Estos desbordamientos han causado algunos **daños**.
+Justo detrás, **Jeison Medina,** ariete colombiano que ha jugado para Aucas e Independiente del Valle, suma 17 goles, con 11 de ellos anotados en su paso por el “Papá” y seis con los “Rayados”.
 
-El primer desbordamiento es del **río Anzu**, en el sector San Gabriel, en la parroquia Puerto Napo, cantón Tena, provincia del **Napo**.
+En el tercer lugar, y siendo el primer ecuatoriano en la lista, aparece **Diego Armas** con una sorprendente cifra de **16 goles**. Lo notable es que Armas lo ha logrado jugando en un equipo menos favorecido que los otros dos goleadores, ya que el Técnico Universitario está en una lucha por obtener el último cupo a un torneo internacional.
 
-La Secretaría de Riesgos informó que, debido a las precipitaciones de hoy, durante la **madrugada y la mañana** se produjo el incremento de este río.
+La temporada de Diego Armas
+---------------------------
 
-“Causando el desbordamiento en el margen derecho en las **comunidades San Gabriel y El Inglés**“, indicó la institución.
+Diego Armas **regresó al Técnico Universitario en 2024**, después de un año difícil en El Nacional, donde no logró destacar. Para él, el ‘Rodillo Rojo’ es su hogar, un club donde ha jugado casi 200 partidos a lo largo de su trayectoria y donde se ha ganado el cariño de los aficionados.
 
-A las 19:00, no había **lluvias** en la zona.
+En su tercera etapa con el equipo ambateño, A**rmas está viviendo su mejor campaña en la Serie A**, siendo la más goleadora de su carrera.
 
-El segundo desbordamiento es del **río Macuma**, en el sector puente sobre el río, paso Pimpints Chankuap, parroquia y cantón Taisha, en **Morona Santiago**.
+Anteriormente, había logrado 17 goles en 2017, pero en la categoría B. Hasta ahora, **ha anotado 16 goles en 29 partidos**, incluyendo dos dobletes y un triplete, además de proporcionar cuatro asistencias, lo que significa que ha participado en 20 goles en total esta temporada, sumando Liga Pro y Copa Ecuador.
 
-La Secretaría señaló que la presencia de **precipitaciones** inició la noche del domingo 27 de octubre y se extendió hasta hoy.
+Para poner en perspectiva su impacto, en la Liga Pro, su equipo ha marcado 32 goles, de los cuales él ha anotado la mitad, lo que representa una participación de**l 50% en los goles del Técnico Universitario.**
 
-Por esta razón, se produjo el incremento de caudal del río Macuma, lo que ocasionó el **colapso estructural** del puente.
+Un año sin Matthew Perry y Jennifer Aniston y Courteney Cox reviven momentos inolvidables
+=========================================================================================
 
-Finalmente, el tercer desbordamiento es en el **río Upano**, en la parroquia Macas, del cantón Morona, de **Morona Santiago**.
+Matthew Perry, conocido por su icónico papel como Chandler Bing en la serie 'Friends', falleció a los 54 años.
+--------------------------------------------------------------------------------------------------------------
 
-La Secretaría informó que se mantiene el río desbordado y la **vía de primer orden está cerrada**.
+![Matthew Perry era Chandler Bing en la serie 'Friends'. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T124226.247.jpg)
 
-Los cinco ríos con tendencia a subir de nivel están en las provincias de **Sucumbíos y Orellana**.
+**Matthew Perry**, conocido por su icónico papel como **Chandler Bing** en la serie [‘**Friends’**](https://www.warnerbros.com/tv/friends "https://www.warnerbros.com/tv/friends"), falleció el 28 de octubre de 2023 a los 54 años.
 
-Cuatro están en Sucumbíos: **Aguarico**, en el sector de Las Chozas; **Putumayo y San Miguel** en el sector del malecón; y **Lumbaqui**.
+Su muerte, **inesperada y trágica**, conmocionó a la industria del entretenimiento y a sus millones de seguidores en todo el mundo, que lo tienen presente, así como Jennifer Aniston y Courteney Cox. Sus dos amigas, precisamente, recordaron a Perry tras cumplirse un año de su muerte.
 
-Uno en Orellana: **Coca**, en el puente sobre el río, en el catón Joya De Los Sachas.
+### **Más noticias:**
 
-> [#MoronaSantiago](https://twitter.com/hashtag/MoronaSantiago?src=hash&ref_src=twsrc%5Etfw) | Cerrada la vía Macas-Puyo, en el ingreso al puente sobre el río Upano, por aumento de caudal e inundación de la variante provisional.  
->   
-> ⚠️Vía alterna: Sucúa-Seipa-Sevilla. [pic.twitter.com/8rj06cclKC](https://t.co/8rj06cclKC)
+* [Actualización del caso Matthew Perry, donde un médico se declara culpable](https://www.elcomercio.com/tendencias/trending/matthew-perry-caso-muerte-friends.html "https://www.elcomercio.com/tendencias/trending/matthew-perry-caso-muerte-friends.html") 
+* [Matthew Perry y sus demonios personales](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-y-sus-demonios-personales.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-y-sus-demonios-personales.html")
+* [La verdad tras la muerte de Matthew Perry conmueve a sus fans](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-muerte-verdad-drogas-friends.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-muerte-verdad-drogas-friends.html")
+
+**¿Qué le pasó a Matthew Perry?**
+---------------------------------
+
+Los informes forenses revelaron que la causa principal de la muerte de Matthew Perry fueron los “efectos agudos de la ketamina”, un anestésico que el actor había estado utilizando como parte de un tratamiento para su depresión y ansiedad.
+
+Las circunstancias que rodearon su muerte generaron un intenso escrutinio. En los meses posteriores a su fallecimiento, se descubrió una red de distribución de ketamina en **Hollywood**.
+
+> [View this post on Instagram](https://www.instagram.com/p/DBt20MPu1JS/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 28, 2024](https://twitter.com/ObrasPublicasEc/status/1850946005837173085?ref_src=twsrc%5Etfw)
+> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBt20MPu1JS/?utm_source=ig_embed&utm_campaign=loading)
+
+Las autoridades arrestaron a cinco personas, incluidos médicos, acusados de suministrar grandes cantidades de esta droga al actor.
+
+Documentos judiciales revelaron que **Perry** había adquirido decenas de viales en un corto periodo, lo que llevó a la conclusión de que su adicción se había intensificado rápidamente.
+
+**Su lucha contra las drogas**
+------------------------------
+
+Matthew Perry siempre fue abierto sobre sus luchas con la adicción a lo largo de su vida. En su autobiografía, ‘**Friends, Lovers, and the Big Terrible Thing’,** compartió sus experiencias con el abuso de sustancias y cómo esas lo afectaron profundamente.
+
+> [View this post on Instagram](https://www.instagram.com/reel/CkaxX1ND6h6/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Matthew Perry (@mattyperry4)](https://www.instagram.com/reel/CkaxX1ND6h6/?utm_source=ig_embed&utm_campaign=loading)
+
+**Jennifer Aniston y Courteney Cox reviven momentos inolvidables**
+------------------------------------------------------------------
+
+En este primer aniversario de su muerte, **Courteney Cox y Jennifer Aniston**, amigas y compañeras de reparto en ‘**Friends**‘, recordaron con cariño a Matthew Perry.
+
+Ambas expresaron su dolor por la pérdida y resaltaron el impacto que tuvo en sus vidas y carreras. Aniston mencionó que siempre lo recordarán como un amigo querido.
+
+¿A cuánto está el peso colombiano en dólares este martes 29 de octubre?
+=======================================================================
+
+El cambio oficial entre el peso colombiano y el dólar estadounidense está regulado por la Superintendencia Financiera de Colombia.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![El cambio monetario entre el peso colombiano y el dólar se mide diariamente](https://www.elcomercio.com/wp-content/uploads/2024/10/dolar-peso-colombiano-cambio.jpg)
+
+La conversión del peso colombiano a dólares es una parte crucial de la economía diaria de Colombia y Ecuador por el uso de estas monedas. Estos valores afectan de forma directa al comercio internacional como a la inversión extranjera.
+
+### Más noticias
+
+* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
+* [¿Qué feriado del 31 de octubre al 4 de noviembre será recuperable?](https://www.elcomercio.com/actualidad/ecuador/feriados-recuperables-noviembre-descanso.html "¿Qué feriado del 31 de octubre al 4 de noviembre será recuperable? ")
+* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
+
+En el sistema financiero de Colombia, la **tasa de cambio** entre el **peso colombiano** y el **dólar estadounidense** es fluctuante, lo que significa que el valor del peso cambia diariamente según la **oferta** y la **demanda** en el mercado.
+
+Colombia utiliza un sistema de libre de cambio, lo cual implica que los individuos y empresas ecuatorianas pueden **convertir dólares a pesos** y viceversa sin restricciones severas del gobierno, siempre y cuando cumplan con las regulaciones fiscales.
+
+Este **cambio monetario** hace atractiva la **comercialización** de productos y servicios en las cercanías a la **frontera de Ecuador y Colombia**.
+
+En temporadas en que el **peso colombiano está débil** frente al **dólar**, los ecuatorianos pueden aprovechar para comprar ropa, tecnología, electrodomésticos y otros productos de consumo a precios más bajos, lo que incentiva el **turismo de compras** en ciudades como **Ipiales, Pasto y Bogotá**.
+
+¿A cuánto está el peso colombiano en dólares este 29 de octubre?
+----------------------------------------------------------------
+
+De acuerdo con el Banco de la República de Colombia, el comportamiento del mercado del peso con respecto al dólar es **favorable** para los ecuatorianos este martes 29 de octubre.
+
+La Tasa de Cambio Representativa del Mercado **(TRM)** de la Superintendencia Financiera de Colombia refleja que **4,342 pesos** equivalen a **un dólar** de Estados Unidos.
+
+De acuerdo con diario AS de Colombia, el cambio tuvo un alza de **0.61 %** con respecto al día anterior, lo que equivale a **26.17 pesos** adicionales.
+
+Si se lo compara con el mes anterior, al 29 de septiembre, el cambio subió un **4.29 %**, es decir, **178.69 pesos**.
+
+El precio más alto comparado con el dólar se alcanzó el 10 de octubre de 2023, cuando el peso colombiano llegó a los **4,386.66**.
+
+La **TRM** es calculada diariamente y certificada por la Superintendencia Financiera de Colombia con base en la información disponible y la reglamentación expedida por el **Banco de la República**.
+
+¿A qué hora se inician las semifinales de vuelta de Copa Ecuador?
+=================================================================
+
+Universidad Católica e Independiente del Valle se enfrentan en las semifinales de vuelta de la Copa Ecuador durante este 29 de octubre.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Jeison Medina, jugador de Independiente del Valle, defiende un balón ante rivales de la Universidad Católica en Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T113621.057.jpg)
+
+La Copa Ecuador definirá a su primer finalista durante este martes 29 de octubre del 2024. A las 17:00, **Universidad Católica e Independiente del Valle** se medirán en el estadio del conjunto rayado.
+
+Los **camarattas** se jugarán su última oportunidad en el torneo durante su partido de revancha. Estos están obligados a dar vuelta a la serie como visitantes tras caer en la ida en el Rodrigo Paz Delgado.
+
+### Más noticias:
+
+* [El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador](https://www.elcomercio.com/deportes/el-nacional-mushuc-runa-copa-ecuador.html "El Nacional vence a Mushuc Runa en brusca semifinal de Copa Ecuador")
+* [¿A qué hora juega El Nacional semifinales de Copa Ecuador?](https://www.elcomercio.com/deportes/semifinal-el-nacional-mushuc-runa-copa-ecuador.html "¿A qué hora juega El Nacional semifinales de Copa Ecuador?")
+* [Independiente del Valle da un paso en las semifinales de Copa Ecuador](https://www.elcomercio.com/deportes/copa-ecuador-independiente-vallle-copa-ecuador.html "Independiente del Valle da un paso en las semifinales de Copa Ecuador")
+
+**Independiente del Valle** tendrá a su público a favor y la ventaja deportiva obtenida en el primer cotejo. Los negriazules deberán manejar el resultado favorable del partido previo y con un empate les bastará para pasar de todo, pues previamente vencieron por 1-0 gracias a un gol de Michael Hoyos.
+
+Para pasar de ronda, **Universidad Católica** debe vencer por una diferencia de dos goles. En caso de hacerlo por solo un tanto, el finalista se definirá desde la tanda de penales.
+
+### Detalles de la semifinal de vuelta en la Copa Ecuador
+
+**Partido**: Independiente del Valle vs. Universidad Católica.
+
+**Fecha**: martes 29 de octubre del 2024.
+
+**Hora**: 17:00.
+
+**Estadio**: Independiente del Valle.
+
+El clasificado a la final de Copa Ecuador esperará por su rival
+---------------------------------------------------------------
+
+Pese al duelo entre **Independiente del Valle y Universidad Católica**, la final como tal no estará definida al término de tal cotejo. Aún resta un compromiso más en la otra llave para definir a los dos aspirantes al título[.](https://es.wikipedia.org/wiki/Copa_Ecuador "https://es.wikipedia.org/wiki/Copa_Ecuador")
+
+El duelo restante es entre **El Nacional y Mushuc Runa**, quienes se enfrentaron en Latacunga por su partido de ida. Allí, los puros criollos se impusieron gracias a un doblete de Jorge ‘Tukita’ Ordóñez, mientas que el ‘Ponchito’ descontó de la mano de Ángel Gracia.
+
+El cruce de revancha entre las escuadras se llevará a cabo el jueves 31 de octubre del 2024 a las 16:00. El ‘Bi-Tri’ hará de local en el **Estadio Olímpico Atahualpa de Quito.**
+
+¿Cómo votó Ecuador por el Balón de Oro 2024?
+============================================
+
+El nuevo ganador del Balón de Oro fue Rodri Hernández, pero ¿quiénes votaron por el español? ¿El representante de Ecuador lo hizo?
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Rodri Hernández fue el ganador del Balón de Oro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-39.jpg)
+
+La elección del **Balón de Oro** es un proceso detallado y único. Un **jurado de periodistas** de los 100 países mejor clasificados en el ranking FIFA es el encargado de elegir al ganador.
+
+Cada periodista **selecciona 10 candidatos en orden**, asignando puntos de mayor a menor. Al final, el jugador con la mayor cantidad de puntos se corona con el Balón de Oro.
+
+### Más noticias:
+
+* [Los 46 ganadores del Balón de Oro desde su creación en 1956](https://www.elcomercio.com/deportes/futbol/palmares-ganadores-balon-oro-lista.html "Los 46 ganadores del Balón de Oro desde su creación en 1956")
+* [Vinícius Júnior no entró en la lista de Balones de Oro del Real Madrid](https://www.elcomercio.com/deportes/futbol/vinicius-junior-no-entro-en-la-lista-de-balones-de-oro-del-real-madrid.html "Vinícius Júnior no entró en la lista de Balones de Oro del Real Madrid")
+* [Rodri recibió el Balón de Oro al mejor jugador del mundo](https://www.elcomercio.com/deportes/rodri-balon-oro-city-espana.html "Rodri recibió el Balón de Oro al mejor jugador del mundo")
+
+¿Cómo votó Ecuador por el Balón de Oro?
+---------------------------------------
+
+El representante de Ecuador, **Patricio Cornejo**, utilizó sus redes sociales para compartir cómo distribuyó su voto. Curiosamente, el ecuatoriano **no incluyó a Rodri**, el ganador final, dentro de su top cinco, aunque sí lo colocó en su top 10, como permite el formato de votación.
+
+Su podio lo encabezó **Toni Kroos** (15 puntos), seguido de Vinícius Júnior (12 puntos) y cerró con Nico Williams (10 puntos).
+
+Los otros nombres en su lista fueron, en orden: **Kylian Mbappé**, Lautaro Martínez, Jude Bellingham, Dani Carvajal, Martin Ødegaard, Rodri y, en el último puesto, una votación aún no clara debido a una imagen borrosa compartida en redes.
+
+Aunque ya se han filtrado los votos de algunos periodistas, el listado completo y oficial se publicará el 12 de noviembre por **France Football**, el medio organizador del premio.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBtl2x6OBRw/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Patricio Cornejo Garcés (@patriciocornejog)](https://www.instagram.com/p/DBtl2x6OBRw/?utm_source=ig_embed&utm_campaign=loading)
+
+Rodri Hernández, el segundo español en ganar el Balón de Oro
+------------------------------------------------------------
+
+**Rodrigo Hernández**, centrocampista del Manchester City y la Selección de España, ganó el lunes 28 de octubre de 2024 el premio como el mejor jugador del mundo, obteniendo el **Balón de Oro**. Sin embargo, la ceremonia contó con la notable ausencia de jugadores y representantes del Real Madrid, ya que Vinícius Júnior, quien fue un fuerte candidato, finalmente no se llevó el galardón.
+
+Rodri firmó un año histórico, ganando la Premier League, la Supercopa de Europa y el Mundial de Clubes con el Manchester City, además de consagrarse campeón de la Eurocopa en Alemania con España. Este reconocimiento lo c**onvierte en el segundo español en ganar el Balón de Oro, tras Luis Suárez** en 1960.
+
+Bomberos y guardapáramos combaten incendio forestal en el Antisana
+==================================================================
+
+El incendio forestal en el Antisana se registró en la madrugada de este martes 29 de octubre.
+---------------------------------------------------------------------------------------------
+
+![Personeros del Cuerpo de Bomberos de Quito y del Fonag trabajan en el incendio forestal](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-forestal-antisana.jpg)
+
+Un incendio forestal se registra en el sector del **Antisana**, al sureste de Quito, desde la madrugada de este martes 29 de octubre de 2024.
+
+### Más noticias
+
+* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
+* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
+* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "El abandono es crueldad animal y se sanciona en Quito")
+
+Según detalló el Cuerpo de Bomberos de la ciudad, el fuego tiene lugar en la hacienda Guaytara, en la **Reserva Ecológica**.
+
+**18 guardapáramos** del Fondo para la Protección del Agua (Fonag) y **25 bomberos** trabajan en el control del fuego en el sitio.
+
+En imágenes difundidas por usuarios en redes sociales se observa como el **humo**, producto de la quema de la vegetación seca, cubre el aire en los sectores cercanos al incendio.
+
+> Desde la madrugada combatimos un incendio en la hacienda Guaytara, sector Antisana, con 18 guardapáramos y 25 miembros de [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw) . [pic.twitter.com/SK9aKt5hbe](https://t.co/SK9aKt5hbe)
+> 
+> — FONAG (@fonag) [October 29, 2024](https://twitter.com/fonag/status/1851245901332804043?ref_src=twsrc%5Etfw)
+
+Reserva del Antisana
+--------------------
+
+En la Reserva del Antisana se encuentra el **volcán** del mismo nombre. El volcán Antisana mide **5 758 metros**, siendo el cuarto más grande de Ecuador por detrás del Chimborazo, Cotopaxi y Cayambe.
+
+Se ubica en la Cordillera Oriental de los Andes, a unos **50 kilómetros** al sureste de Quito. Si bien es un volcán potencialmente activo, no ha registrado erupciones significativas en tiempos históricos.
+
+Se presume que han ocurrido al menos 4 erupciones en el Antisana: **1590-1600, 1760, 1773 y 1802**; pero la única comprobada es la primera.
+
+Debido a la situación remota del volcán no existen relatos detallados de las otras erupciones. Las de 1760 y 1773, por ejemplo, al parecer fueron solo flujos de lava que se asocian la Caldera de Chacana y no al Antisana propiamente dicho.
+
+La supuesta erupción de 1802 corresponde a un relato de **Alexander von Humboldt** que refería la presencia de humo cerca del volcán; sin embargo, no existe otra confirmación de este fenómeno.
+
+Actualmente, no se observa ningún tipo de actividad eruptiva en el Antisana, aunque algunos montañistas han reportado **olor a azufre** en las partes altas.
+
+En Quito se consume más agua de lo debido
+=========================================
+
+Los habitantes de Quito sobrepasan el límite que la Organización Mundial de la Salud sostiene como indispensable para el consumo humano.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Mientras en unos barrios se aprovisionan de agua por medio de tanqueros, en otros se consume más de lo debido.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-22-2.jpg)
+
+El **racionamiento de agua en Quito** es otra de la cara de la crisis ambiental que padece la ciudad. Incluso, el alcalde, **Pabel Muñoz**, pidió a los quiteños que **bajaran el consumo de agua**. Y es que en Quito **se consume más agua de lo indispensable.**
+
+### Más noticias
+
+* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
+* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
+* [Quito tendrá espacios gratuitos de ‘coworking’](https://www.elcomercio.com/actualidad/quito/quito-tendra-espacios-gratuitos-coworking.html "Quito tendrá espacios gratuitos de ‘coworking’")
+
+Un pedido singular a los habitantes de Quito
+--------------------------------------------
+
+El alcalde de Quito, **Pabel Muñoz**, sugirió, el pasado 25 de octubre del 2024, que los quiteños redujeran el consumo de agua. Incluso, insinuó que las **duchas** no debieran **durar más de cuatro o cinco minutos**.
+
+En América Latina, ya hay un **precedente** de una autoridad que pidió -incluso ordenó- que los ciudadanos **redujeran su tiempo en la ducha** ante la escasez de agua y los cortes de luz. En el **2009**, el entonces presidente de **Venezuela**, **Hugo Chávez,** dijo: “Hay gente que se pone a cantar en el baño media hora. ¿Qué comunismo es ese? Yo lo he contado: **tres minutos es más que suficiente**; no quedo hediondo. **Un minuto para mojarse, otro para enjabonarse y el tercero para enjuagarse. Lo demás es un desperdicio”.**
+
+Por su parte, **Muñoz** dijo: “Por favor, no consuma agua más allá de lo necesario e indispensable, que **una ducha tome cuatro o cinco minutos basta”[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
+
+Quito consume más agua de lo debido
+-----------------------------------
+
+Para la **Organización Mundial de la Salud (OMS)**, para una persona es suficiente el consumo de **100 litros al día de agua**, tanto como bebida, para la higiene y para la cocción de alimentos. Esta medida corresponde aproximadamente a seis baldes de tamaño regular que se usan en los hogares.
+
+Según la organización **Quito Cómo vamos**, en la capital ecuatoriana se consume más de lo debido. Es más, excede significativamente lo que sostiene la OMS. **Cada persona en Quito consume en promedio 138 litros de agua por día.**
+
+De hecho, esta organización comparó este nivel de consumo con los grandes botellones de agua:
+
+> 🚰 Para que tengan una idea más clara 138lts al día equivalen a cerca de 7 de estos botellones. [pic.twitter.com/Ei4862Oi6d](https://t.co/Ei4862Oi6d)
+> 
+> — QuitoComoVamos (@UIOComoVamos) [October 26, 2024](https://twitter.com/UIOComoVamos/status/1850173603037253649?ref_src=twsrc%5Etfw)
+
+Por el momento, el Alcalde de **Quito** afirma que no se están planteando aún medidas drásticas para cortar el agua. Pero **“si seguimos consumiendo al ritmo que se lo hace en los barrios de Quito, pronto sería probable que lleguemos a una política de restricción”.**
+
+Cráteres de impacto ocultos a simple vista en Venus
+===================================================
+
+Un vistazo único al pasado de Venus, descubren posible estructura de impacto primitiva.
+---------------------------------------------------------------------------------------
+
+![Una imagen de radar (arriba) y un mapa geológico (abajo) de la tesela de Haastte-baad (rosa), cortado por un conjunto de anillos concéntricos únicos (negros) que registran un tipo de cráter de impacto recientemente reconocido en Venus.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-9-3.jpg)
+
+El **mapeo geológico** de una de las regiones de **Venus** con **superficie** más antigua ha revelado pruebas de dos enormes de eventos de **impacto** consecutivos con características únicas.
+
+### Más noticias
+
+* [La Tierra tendrá una segunda luna, de tamaño mini, durante casi dos meses](https://www.elcomercio.com/actualidad/mundo/tierra-tendra-segunda-luna-tamano-mini-durante-casi-dos-meses.html "La Tierra tendrá una segunda luna, de tamaño mini, durante casi dos meses")
+* [El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador](https://www.elcomercio.com/actualidad/ecuador/geofisico-mejora-lupa-observar-cuatro-volcanes-ecuador.html "El Geofísico mejora su lupa para observar cuatro volcanes de Ecuador")
+* [Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos](https://www.elcomercio.com/actualidad/ecuador/volcan-sangay-aumenta-actividad-riesgos-alerta-temblores-y-bramidos.html "Volcán Sangay aumenta actividad; Riesgos alerta temblores y bramidos")
+
+La **Tesela de Haastte-baad** alberga una de las superficies más antiguas de **Venus**, llamada terreno de tesela, cortada por un conjunto único de **anillos concéntricos** de más de 1.500 kilómetros en su parte más ancha.
+
+Tras modelar cómo se podrían haber formado sus **características** únicas, la **investigación** concluyó no se parecen en nada a los **cráteres** de aspecto tradicional de la **Luna** y **Marte**, e incluso de **Venus**; esto se debe a que las condiciones iniciales de **Venus** dieron lugar a **estructuras** de **impacto** que difieren significativamente de los **cráteres** de **impacto** clásicos.
+
+Descubrimiento en Venus revela detalles de los primeros procesos planetarios
+----------------------------------------------------------------------------
+
+“Si se trata realmente de una **estructura de impacto**, sería la más antigua y grande de Venus, lo que nos daría una **visión** poco común de su pasado e informaría sobre los **procesos planetarios** primitivos”, dijo en un comunicado la **autora del estudio y científica** principal del Planetary Scientific Institute (PSI), Vicki Hansen.
+
+“Y quizás aún más importante, nos muestra que no todas las estructuras de impacto son iguales. Las **estructuras de impacto** son el resultado de un bólido (un cuerpo de composición no especificada) que choca con un **planeta** objetivo. La **naturaleza** del **bólido** es importante, pero también lo es la **naturaleza** del objetivo”. El artículo fue publicado en el Journal of Geophysical Reserarch: Planets.
+
+Las **teselas** son **regiones de terreno** muy deformado en Venus que se caracterizan por su **terreno arrugado y corrugado,** que se forma cuando una capa relativamente delgada, pero fuerte de **material** se forma sobre una capa débil, capaz de fluir y conveccionar vigorosamente, como agua hirviendo.
+
+El terreno de teselas de Venus se formó sobre un lago de lava, ¿de dónde vino?
+------------------------------------------------------------------------------
+
+Mientras que el **Venus** de hoy cuenta con una capa exterior de 112 kilómetros de espesor, llamada litosfera, el Venus joven era mucho más caliente y probablemente tenía una **litosfera** de unos 9 kilómetros de espesor. Si una **litosfera delgada** es golpeada por un **gran bólido**, este atravesará la **litosfera delgada** y entrará en el manto de abajo, liberando un enorme mar de **lava** a la superficie que finalmente se enfría y forma teselas, dijo Hansen. El mapeo del equipo sugiere que esto ocurrió hace entre 1 500 y 4 000 millones de años.
+
+Sin embargo, un misterio adicional es que las **teselas** a veces pueden estar sobre mesetas. La formación del **enorme volumen** de lava da como resultado una **solución**.
+
+El sorprendente comportamiento del residuo sólido en el manto de Venus
+----------------------------------------------------------------------
+
+“Cuando hay grandes cantidades de **material** parcialmente fundido en el manto que se precipita hacia la superficie, lo que queda es algo llamado residuo. El **residuo sólido** es mucho más fuerte que el manto adyacente, que no experimentó una **fusión parcial**. Lo que puede resultar sorprendente es que el residuo sólido también tiene una **densidad** menor que todo el manto que lo rodea. Por lo tanto, es más fuerte, pero también es flotante. Básicamente, tienes un colchón de **aire** en el manto debajo de tu estanque de lava, y simplemente se elevará y elevará ese **terreno** de **teselas**“, explicó.
+
+Pero la **convección** debajo de la **litosfera** a veces puede mover **material**. Si el residuo permanece en su lugar, la **tesela** permanece alta; si el residuo es arrastrado por la **convección** del **manto**, la **tesela** suprayacente estará a la misma altura que el resto de la **superficie** del planeta, dijo Hansen. Este es el caso de la tesela de Haasttse-baad.
+
+Estructuras de anillo en Venus: similitudes con Calisto y Europa
+----------------------------------------------------------------
+
+Luego, el equipo tuvo que tener en cuenta las **estructuras** de anillo, que no se ven en ningún otro lugar de **Venus**. Los **investigadores** coincidieron en que los **anillos** recuerdan al cráter **Valhalla de Calisto** y al cráter **Tiro de Europa**. Se cree que se formaron por el **impacto** de una **capa delgada** y resistente sobre una **capa débil y fluida**, muy similar a la **configuración** necesaria para formar teselas. En **Calisto** y Europa, eso significa una **capa delgada** y resistente de hielo sobre un **océano** o un líquido fangoso.
+
+Finalmente, el equipo de **investigación** descubrió que la **formación** de la **estructura** anillada de Venus habría requerido que dos **grandes bólidos** chocaran contra Venus uno tras otro. El primero creó el estanque de lava para formar el **terreno de teselas** y el **segundo bólido** impactó el estanque de lava, formando la singular **estructura de anillo**.
+
+Evidencia de impactos de bólidos en la historia del sistema solar
+-----------------------------------------------------------------
+
+Los **bólidos consecutivos** pueden parecer demasiado **fortuitos**, pero hay evidencia en **rocas antiguas** preservadas en **Sudáfrica** de que esto ocurrió hace unos 3 500 millones de años en la **Tierra**, dijo Hansen. Incluso en la **Luna y Marte**, hay evidencia de muchos de estos **enormes impactos**. En esos casos, los **grandes bólidos**, que no eran poco comunes durante los primeros 2 500 millones de años de la **historia** de nuestro **sistema solar**, se produjeron en la **Tierra** hace unos 3 500 millones de años.
+
+¿Cuál es el significado de mantener el celular en silencio de acuerdo con la psicología? 
+=========================================================================================
+
+Un estudio sugiere que esta práctica les permite a las personas ser más productivas en sus tareas.
+--------------------------------------------------------------------------------------------------
+
+![El celular en silencio permite mantener límites con los demás. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/celular-silencio-psicologia.jpg)
+
+Debido a las **notificacione**s que reciben por las **redes sociales**, el servicio de mensajería, su correo personal, las promociones de diferentes aplicaciones de compra o de las **plataformas de ‘streaming’**, muchas personas tienden a **mantener en silencio su celular o desactivar las notificaciones**. 
+
+### Más noticias
+
+* [Cómo liberar espacio en tu teléfono al vaciar WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-liberar-espacio-almacenamiento.html "https://www.elcomercio.com/tecnologia/whatsapp-liberar-espacio-almacenamiento.html")
+* [WhatsApp refuerza la protección para combatir el ‘phishing’ y el ‘spam’](https://www.elcomercio.com/tecnologia/whatsapp-phishing-spam-actualizacion.html "https://www.elcomercio.com/tecnologia/whatsapp-phishing-spam-actualizacion.html") 
+
+Cuya decisión puede deberse a que **el sonido les genera estrés o los distrae de sus actividades diarias** como estudiar, leer un libro, escuchar su música favorita e incluso las tareas que se tienen que cumplir en los diferentes trabajos, pero **esta conducta tiene un significado psicológico**. 
+
+**Significado del celular en silencio** 
+----------------------------------------
+
+Algunos **estudios de universidades estadounidenses** se dieron a la tarea de encontrar **el significado de que las personas mantengan su celular en silencio** o desactiven las notificaciones, en los cuales se explicó que, por lo general, se busca **controlar las interacciones con su entorno**, según La Nación. 
+
+**Protección del espacio personal** 
+------------------------------------
+
+Además, **expertos en psicología** coincidieron que esta actitud está relacionada con **“proteger el espacio personal”**, por lo que muchos optan por **silenciar el dispositivo para evitar la contaminación sonora** y así evitar que las personas que se encuentren alrededor sean interrumpidas por el sonido. 
+
+**Incomodidad social** 
+-----------------------
+
+En caso de que silencie su teléfono con el motivo de **no llamar la atención de los demás**, puede significar que: “Cuando un rostro desconocido pasa la zona de confort, las señales neuronales comienzan a dispararse, creando **sentimientos de incomodidad, irritabilidad y ansiedad**”, según Journal of Neuroscience. 
+
+Lo cua**l pone una barrera a quienes no hacen parte de su círculo social**, para que estas no se acerquen tanto a su intimidad y no genere incomodidad, lo cual funciona como una **forma de autoprotección** que es cada vez más frecuente en la cultura de muchos países. 
+
+**Enfoque y productividad** 
+----------------------------
+
+También se cree que **mantener el celular en silencio tiene el propósito de mantener la concentración**, lo que quiere decir que **es una persona productiva**, puesto que un **estudio de la Universidad de California** reveló que cada vez que una persona se distrae, puede tardarle hasta 23 minutos en volver a concentrarse y realizar la tarea que estaba realizando. 
+
+Esto les permite **gestionar de una mejor manera su tiempo y establecer límites claros** con los demás, así como puede ayudarle a crear conexiones más profundas y priorizar la calidad de sus relaciones en lugar de la cantidad, de acuerdo con la página web ‘Terra’.
