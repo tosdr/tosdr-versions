@@ -6,7 +6,7 @@
 
  
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -148,7 +148,7 @@
         Quick Links
         
         * [MDR Insights](https://www.bitdefender.com/en-us/blog/businessinsights/tag/managed-detection-and-response/)
-        * [MITRE Engenuity for MDR](https://www.bitdefender.com/content/dam/bitdefender/business/products/mdr/category/Bitdefender_MITRE_Evaluation_2024_Datasheet_English.pdf)
+        * [MITRE Engenuity for MDR](https://www.bitdefender.com/business/explore/mdr-paid/ebook-bitdefender-definitive-guide-to-mitre-engenuitys-attck-evaluations-for-managed-services?utm_source=website&campaign=22024_May_WW_CORE_EPP_DM_Premium_Content_Evolve_Cybersecurity__XDR_trial)
         * [Gartner Market Guide for MDR](https://www.bitdefender.com/en-us/business/campaign/2024_gartner_mdr_market_guide)
         
     * Why Bitdefender
@@ -350,7 +350,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
 
   [Home](https://www.bitdefender.com/en-us/) [Site](https://www.bitdefender.com/en-us/site) [View](https://www.bitdefender.com/en-us/site/view) [Legal Intellectual Property](https://www.bitdefender.com/en-us/site/view/legal-intellectual-property)
 
