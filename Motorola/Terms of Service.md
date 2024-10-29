@@ -10,8 +10,8 @@
     * [* Motorola Edge](https://www.motorola.com/us/smartphones-motorola-edge-family "Motorola Edge")
     * [* Moto G](https://www.motorola.com/us/smartphones-moto-g-family "Moto G")
     * [* All Smartphones](https://www.motorola.com/us/smartphones "All Smartphones")
+    * [* Switch to Moto](https://www.motorola.com/us/switch "Switch to Moto")
     * [* Compatibility](https://www.motorola.com/us/carrier-compatibility "Compatibility")
-    * [* 5G](https://www.motorola.com/us/smartphones-5g "5G")
     
 * On Sale
     
@@ -34,6 +34,7 @@
     
     * [* Moto for Business](https://www.motorola.com/us/business "Moto for Business")
     * [* ThinkShield](https://www.motorola.com/us/thinkshield/p "ThinkShield")
+    * [* ThinkPhone](https://www.motorola.com/us/smartphones-thinkphone/p?skuId=869 "ThinkPhone")
     
 * Accessories
     
