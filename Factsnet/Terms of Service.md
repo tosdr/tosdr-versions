@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Leadhillite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
+[![36 Facts About Salt Caves ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
 
-Earth Sciences
+Earth & Life Science
 
-28 Oct 2024
+29 Oct 2024
 
-[30 Facts About Leadhillite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
+[36 Facts About Salt Caves](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
 
-[![35 Facts About Nematodes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-nematodes/)
+[![30 Facts About Dopamine Beta Hydroxylase Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
 
-Animals
+Health Science
 
-28 Oct 2024
+29 Oct 2024
 
-[35 Facts About Nematodes](https://facts.net/nature/animals/35-facts-about-nematodes/)
+[30 Facts About Dopamine Beta Hydroxylase Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
