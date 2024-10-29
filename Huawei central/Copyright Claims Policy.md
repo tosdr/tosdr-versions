@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 Pro October 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-5-Pro-1-400x240.jpg)
+        
+        Huawei Watch GT 5 Pro gets October 2024 improvements update](https://www.huaweicentral.com/huawei-watch-gt-5-pro-gets-october-2024-improvements-update/)
     * [![Huawei Watch Ultimate Green Edition China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Green-Edition-1-400x240.jpg)
         
         Huawei launches Watch Ultimate Green Edition in China with dual-tone bezel](https://www.huaweicentral.com/huawei-launches-watch-ultimate-green-edition-in-china-with-dual-tone-bezel/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Luxshare Huawei smartwatch production](https://www.huaweicentral.com/wp-content/uploads/2024/10/Wearable-400x240.jpg)
         
         Luxshare to reportedly increase Huawei smartwatch production](https://www.huaweicentral.com/luxshare-to-reportedly-increase-huawei-smartwatch-production/)
-    * [![Huawei Watch D2 Philippines October 14](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-D2-400x240.jpg)
-        
-        Huawei to launch Watch D2 in Philippines on October 14](https://www.huaweicentral.com/huawei-to-launch-watch-d2-in-philippines-on-october-14/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
