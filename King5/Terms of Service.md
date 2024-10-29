@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3/20241029T050446/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3/20241029T050446/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
+        
+        #### [Former Seattle police Chief Adrian Diaz on paid administrative leave](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
+        
     *  [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
         
         #### [Survivor has message for those dealing with domestic violence](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
-        
-    *  [![](https://media.king5.com/assets/KING/images/602e38af-6b09-4258-bd28-a79628a497b1/20241029T014209/602e38af-6b09-4258-bd28-a79628a497b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/602e38af-6b09-4258-bd28-a79628a497b1/20241029T014209/602e38af-6b09-4258-bd28-a79628a497b1_360x203.jpg)](https://www.king5.com/article/news/local/seattle-neighbors-workers-concerned-illegal-street-takeovers/281-771fcfb9-4095-4186-b8dd-070d8ca9e029)
-        
-        #### [Seattle residents concerned about illegal street racing events over the weekend](https://www.king5.com/article/news/local/seattle-neighbors-workers-concerned-illegal-street-takeovers/281-771fcfb9-4095-4186-b8dd-070d8ca9e029)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+50°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
