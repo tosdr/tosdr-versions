@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/vonnis-over-t-doorverkopen-van-jouw-geldlening/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/tessa-over-%e2%80%98wat-is-waarheid-en-de-ultieme-doofpot-ons-eigen-gevoel%e2%80%99/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
