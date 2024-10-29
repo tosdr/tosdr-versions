@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+    *  [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
         
-        #### [Bellingham breaks rainfall record](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
+        #### [Survivor has message for those dealing with domestic violence](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
         
-    *  [![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_16x9.jpg) ![](https://media.king5.com/assets/KING/images/662a3921-f2d7-4831-9d7b-db30c5628e32/20241028T051432/662a3921-f2d7-4831-9d7b-db30c5628e32_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
+    *  [![](https://media.king5.com/assets/KING/images/602e38af-6b09-4258-bd28-a79628a497b1/20241029T014209/602e38af-6b09-4258-bd28-a79628a497b1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/602e38af-6b09-4258-bd28-a79628a497b1/20241029T014209/602e38af-6b09-4258-bd28-a79628a497b1_360x203.jpg)](https://www.king5.com/article/news/local/seattle-neighbors-workers-concerned-illegal-street-takeovers/281-771fcfb9-4095-4186-b8dd-070d8ca9e029)
         
-        #### [I-5 reopens in Kent after 45 car pileup stalls traffic for hours](https://www.king5.com/article/traffic/traffic-news/multi-vehicle-pile-up-blocking-i-5-lanes-in-kent/281-32700d61-69b6-4454-89b6-7b8de1ce38b1)
+        #### [Seattle residents concerned about illegal street racing events over the weekend](https://www.king5.com/article/news/local/seattle-neighbors-workers-concerned-illegal-street-takeovers/281-771fcfb9-4095-4186-b8dd-070d8ca9e029)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/975af024-b84d-40e2-b2b9-66d39475bcb1/20241029T010114/975af024-b84d-40e2-b2b9-66d39475bcb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/975af024-b84d-40e2-b2b9-66d39475bcb1/20241029T010114/975af024-b84d-40e2-b2b9-66d39475bcb1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a/20241028T192536/a2a7cc94-fc25-4904-a9f9-0bfa56b9d67a_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
         
         #### [Bellingham breaks rainfall record](https://www.king5.com/article/weather/weather-blog/puget-sound-rainfall-october-26-27/281-27556e93-d424-4f6f-a80e-f5ad95020c4d)
-        
-    *  [![](https://media.king5.com/assets/KING/images/f2941952-8794-4519-8168-258494085af9/20241028T115232/f2941952-8794-4519-8168-258494085af9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f2941952-8794-4519-8168-258494085af9/20241028T115232/f2941952-8794-4519-8168-258494085af9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+52°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
