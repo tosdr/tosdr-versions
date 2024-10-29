@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hector-Leonardo-Gutierrez-326x245.jpg)](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+
+Citywide
+
+### [Feds charge homeless man with making death threats via Facebook](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+
+[October 25, 2024 1:00 PM](https://cwbchicago.com/2024/10)
+
+Federal prosecutors have charged a man who lives under viaducts in the city and suburbs with threatening to kill a man via a collection of Facebook accounts.[](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
 
 New City
@@ -262,16 +272,6 @@ Uptown
 [October 25, 2024 7:08 AM](https://cwbchicago.com/2024/10)
 
 Nearly seven years after a gunman killed one victim and injured two others, including a 12-year-old boy at an Uptown Starbucks, a judge on Thursday sentenced the alleged shooter to more than 50 years in prison.[](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Leighton-326x245.jpg)](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
-
-Citywide
-
-### [Cashless bail has been an ‘abject failure’ suburban state’s attorney says](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
-
-[October 24, 2024 6:10 PM](https://cwbchicago.com/2024/10)
-
-A full year into the state’s end of cash bail, a suburban county state’s attorney says the law has been “an abject failure” for his county.[](https://cwbchicago.com/2024/10/cashless-bail-has-been-an-abject-failure-suburban-states-attorney-says.html "Cashless bail has been an ‘abject failure’ suburban state’s attorney says")
 
 Search
 
