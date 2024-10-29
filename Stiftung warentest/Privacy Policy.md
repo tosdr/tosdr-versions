@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
 
 Service Stiftung Warentest
 
