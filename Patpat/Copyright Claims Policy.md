@@ -76,7 +76,7 @@ JOIN
 
 JOIN
 
-% OFF
+15% OFF
 
 Thank for subscribing! You will receive an email with your discount code shortly!
 
