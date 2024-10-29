@@ -37,11 +37,6 @@ Main Menu
 
 * [Home](https://www.appstate.edu/)
 
-* App State will resume normal operations in Boone and Hickory on Friday, Oct. 25 at 4 p.m.
-    
-    App State will resume normal operations in Boone and Hickory on Friday, Oct. 25 at 4 p.m. [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) remains in effect for non-faculty employees in Boone and Hickory until Friday, Oct. 25 at 4 p.m. [Read full message](https://appstatealert.com/)
-    
-
 Appalachian Privacy Statement
 =============================
 
