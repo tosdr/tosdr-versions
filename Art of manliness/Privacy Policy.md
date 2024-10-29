@@ -202,6 +202,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Parent-Teacher Conference](https://www.artofmanliness.com/people/fatherhood/how-to-parent-teacher-conference/)
 
+[![A hand holds a needle near a blue balloon against a clear sky, symbolizing the tension of rejection and how to deal with it.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
+
+[Podcast #1,033: Ouch! That Stings! Why Rejection Hurts So Much (And How to Deal With It)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
+
 [![A black-and-white vintage wedding photo captures a historic moment of marriage as the groom gazes fondly at the bride, who faces the camera with a beaded tiara and veil.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/)
 
 [Fascinating Insights on the State of Sex and Marriage 100 Years Ago](https://www.artofmanliness.com/people/relationships/fascinating-insights-on-the-state-of-sex-and-marriage-100-years-ago/)
@@ -213,10 +217,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Three people stand together with arms raised in celebration on a rocky riverbank, surrounded by lush mountains, with the sun setting behind them—an ideal scene of enduring friendships.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
 
 [Why Are Female Friendships the Ideal? (‘Cause Dude Friendships Also Rock)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
-
-[![Two bolts of lightning strike a dark, cloudy sky over a body of water near a forested shoreline during nighttime, reminiscent of past summers spent around Sunday Firesides.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
-
-[Sunday Firesides: The Lightning of Past Summers](https://www.artofmanliness.com/people/relationships/sunday-firesides-the-lightning-of-past-summers/)
 
 [![An elderly man in a suit writes at his desk, head resting on his hand, reflecting perhaps on the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
+
+[Podcast #1,033
+
+###### Ouch! That Stings! Why Rejection Hurts So Much (And How to Deal With It)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-941-how-to-avoid-death-by-comfort/)
 
 [Podcast #941
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,031
 
 ###### Money CAN Buy Happiness (If You Use It In These Ways)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
-
-[Podcast #1,030
-
-###### The Problems With the Cult of Leadership](https://www.artofmanliness.com/career-wealth/leadership/podcast-1030-the-problems-with-the-cult-of-leadership/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
