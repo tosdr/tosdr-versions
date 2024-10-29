@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Peace
+[Hope
 
-### Israeli strikes inside Iran cross a threshold. How will Iran respond?](https://www.csmonitor.com/World/Middle-East/2024/1028/iran-israel-airstrike-deterrence-hezbollah-gaza "Israeli strikes inside Iran cross a threshold. How will Iran respond?")
+### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
 
-[Dignity
+[Safety
 
-### Trading up to higher skills](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1028/Trading-up-to-higher-skills "Trading up to higher skills")
+### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
 
-[Joy
+[Trust
 
-### Yankee Dodger Dandy](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1025/Yankee-Dodger-Dandy "Yankee Dodger Dandy")
+### American politics at its best](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1029/American-politics-at-its-best "American politics at its best")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
+
+[### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
+
 [### Israeli strikes inside Iran cross a threshold. How will Iran respond?](https://www.csmonitor.com/World/Middle-East/2024/1028/iran-israel-airstrike-deterrence-hezbollah-gaza "Israeli strikes inside Iran cross a threshold. How will Iran respond?")
-
-[### Japan’s new PM hoped snap elections would secure grip on power. They backfired.](https://www.csmonitor.com/World/Asia-Pacific/2024/1028/Japan-snap-election-results-LDP-Ishiba "Japan’s new PM hoped snap elections would secure grip on power. They backfired.")
-
-[### The French love to hate ‘Emily in Paris.’ But they won’t let her leave.](https://www.csmonitor.com/World/Europe/2024/1028/emily-paris-rome-macron "The French love to hate ‘Emily in Paris.’ But they won’t let her leave.")
 
 * * *
 
