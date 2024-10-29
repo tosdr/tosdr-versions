@@ -231,6 +231,8 @@ Benutzerkonto
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Nutzungsbedingungen
 
+[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/JS_V4V_Portaledge_SNB_desktop_250x120.gif)](https://www.jochen-schweizer.de/neuheiten/l/n5smg)
+
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
 * [Kurzurlaub](https://www.jochen-schweizer.de/kurzurlaub/l/d48wi)
