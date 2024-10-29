@@ -306,29 +306,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![BHP and ANZ director Christine O’Reilly; Macquarie Group director Rebecca McGrath and AUB chair and CBA director Peter Harmer.](https://static.ffx.io/images/$zoom_0.1695%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fd40025c54d0d873f2ee6ab77659b220a35c0259)](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
+[![BHP chairman Ken MacKenzie in 2022. He is expected to announce his resignation next year.](https://static.ffx.io/images/$zoom_0.6808%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_414%2C$y_397/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/87030af83057a984b71cf14853a2d588493749fc)](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
 
-### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
+### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
 
+* 56 mins ago
 * Patrick Durkin
 
-* ### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
+* ### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
     
-* ### [How to have a job you love, save the world and earn up to $800k](https://www.afr.com/work-and-careers/careers/how-to-have-a-job-you-love-save-the-world-and-earn-up-to-800k-20240827-p5k5o1)
+* ### [How execs create their own jobs](https://www.afr.com/work-and-careers/careers/the-executives-who-created-the-jobs-they-were-hired-for-20241001-p5kf1s)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4497%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_44%2C$y_428/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/64b0bcb1d981aa86728d6d655508a76e03e935a1)](https://www.afr.com/technology/cheap-at-half-the-price-these-security-cameras-shine-bright-20241024-p5kl28)
+[![ ](https://static.ffx.io/images/$zoom_0.5786%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_131/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1b63a1a5fdabc10d7c3738b392e5bd2385a05558)](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
 
-### [Cheap at half the price: these security cameras shine bright](https://www.afr.com/technology/cheap-at-half-the-price-these-security-cameras-shine-bright-20241024-p5kl28)
+### [This humble ‘house’ in Nepal has lured celebrities and revived a village](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
 
-* John Davidson
+* 56 mins ago
+* Nina Karnikowski
 
-* ### [Two rock star chefs, one unique Sydney Opera House ‘performance’](https://www.afr.com/life-and-luxury/food-and-wine/two-rock-star-chefs-one-unique-sydney-opera-house-performance-20241022-p5kkeg)
+* ### [Ever wondered what companies do with their old laptops and iPhones?](https://www.afr.com/technology/ever-wondered-what-companies-do-with-their-old-laptops-and-iphones-20241022-p5kkbm)
     
-* ### [What makes this Himalayan valley so alluring is its inaccessibility](https://www.afr.com/life-and-luxury/travel/what-makes-this-himalayan-valley-so-alluring-is-its-inaccessibility-20241022-p5kkdr)
+* ### [This all-electric BMW has an enticing price point](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/this-all-electric-bmw-has-an-enticing-price-point-20241010-p5khby)
     
 
 [Rich List](https://www.afr.com/rich-list)
