@@ -70,13 +70,13 @@
     
     [###### IT](https://boomi.com/solutions/function/information-technology/)[###### Finance](https://boomi.com/solutions/function/finance/)[###### Human Resources](https://boomi.com/solutions/function/hr/)[###### Marketing](https://boomi.com/solutions/function/marketing/)[###### Sales](https://boomi.com/solutions/function/sales/)[###### Analytics](https://boomi.com/solutions/function/analytics/)[###### Support](https://boomi.com/solutions/function/support/)[###### Product (Embed)](https://boomi.com/partners/embedded-software-providers/)
     
-    ###### Integrate your apps
+    Integrate your apps
     
     [![Netsuite - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Netsuite-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/netsuite/)[![Salesforce - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Salesforce-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/salesforce/)[![SAP - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/SAP-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/sap/)[![Servicenow - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Servicenow-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/servicenow/)[![AWS - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/AWS-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/aws/)[![Workday - Menu Connector Cards Logo Mark](https://boomi.com/wp-content/uploads/Workday-Menu-Connector-Cards-Logo-Mark.svg)](https://boomi.com/solutions/application/workday/)
     
-    [Explore all connectors](https://boomi.com/connectors/)
-    
     [Pre-built solutions](https://discover.boomi.com/)
+    
+    [Explore all connectors](https://boomi.com/connectors/)
     
 * Case studies
     
@@ -88,7 +88,7 @@
     
     ###### Learn
     
-    [###### Events & webinars](https://boomi.com/company/events/)[###### Blog](https://boomi.com/blog/)[###### Analyst reports](https://boomi.com/resources/?content_type=analyst-report)[###### Ebooks](https://boomi.com/resources/?content_type=ebook)[###### Podcast](https://boomi.com/boomi-podcast/)
+    [###### Events & webinars](https://boomi.com/company/events/)[###### Blog](https://boomi.com/blog/)[###### eBooks](https://boomi.com/resources/?content_type=ebook)[###### Podcast](https://boomi.com/boomi-podcast/)[###### Explore all resources](https://boomi.com/resources)
     
     ###### Support
     
@@ -98,7 +98,7 @@
     
     [###### Services](https://boomi.com/services/)[###### Professional services](https://boomi.com/services/professional-services/)[###### Customer success](https://boomi.com/services/support/)[###### Managed services](https://boomi.com/services/managed-services/)
     
-    [Explore all resources](https://boomi.com/resources/)
+    [Resource center](https://boomi.com/resources/)
     
 * Partners
     
@@ -114,42 +114,41 @@
     
 * [Contact us](https://boomi.com/company/contact/)
 
-* [Language](javascript:;)
-    * [![en-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![en-flag](https://boomi.com/wp-content/themes/boomi/assets/images/united-states.svg)
-        
-        English](https://boomi.com/ "Language switcher : English")
-    * [![fr-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![fr-flag](https://boomi.com/wp-content/themes/boomi/assets/images/france.svg)
-        
-        Français](https://boomi.com/fr/ "Language switcher : French")
-    * [![de-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![de-flag](https://boomi.com/wp-content/themes/boomi/assets/images/germany.svg)
-        
-        Deutsch](https://boomi.com/de/ "Language switcher : German")
-    * [![it-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![it-flag](https://boomi.com/wp-content/themes/boomi/assets/images/italy.svg)
-        
-        Italiano](https://boomi.com/it/ "Language switcher : Italian")
-    * [![ja-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![ja-flag](https://boomi.com/wp-content/themes/boomi/assets/images/japan.svg)
-        
-        日本語](https://boomi.com/ja/ "Language switcher : Japanese")
-* [Get started](javascript:;)
-    * [Boomi Discover](https://discover.boomi.com/)
-    * [Connectors](https://boomi.com/connectors/)
-    * [Community](https://community.boomi.com/s/)
-    * [Documentation](https://help.boomi.com/)
-    * [Training](https://boomi.com/services/training/)
+* Language
+    
+    [![en-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![en-flag](https://boomi.com/wp-content/themes/boomi/assets/images/united-states.svg)
+    
+    ###### English](https://boomi.com/)[![fr-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![fr-flag](https://boomi.com/wp-content/themes/boomi/assets/images/france.svg)
+    
+    ###### Français](https://boomi.com/fr/)[![de-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![de-flag](https://boomi.com/wp-content/themes/boomi/assets/images/germany.svg)
+    
+    ###### Deutsch](https://boomi.com/de/)[![it-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![it-flag](https://boomi.com/wp-content/themes/boomi/assets/images/italy.svg)
+    
+    ###### Italiano](https://boomi.com/it/)[![ja-flag](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+    
+    ![ja-flag](https://boomi.com/wp-content/themes/boomi/assets/images/japan.svg)
+    
+    ###### 日本語](https://boomi.com/ja/)
+    
+* Get started
+    
+    [###### Boomi Discover](https://discover.boomi.com/)[###### Connectors](https://boomi.com/connectors/)[###### Community](https://community.boomi.com/s/)[###### Documentation](https://help.boomi.com/)[###### Training](https://boomi.com/services/training/)
+    
+* [Login](https://platform.boomi.com/?_ga=2.140176439.544537635.1525375425-968405543.1525375425)
 
-[Start free trial](https://boomi.com/form/trial/)[View demo](https://boomi.com/boomi-product-demo/)[Login](https://platform.boomi.com/?_ga=2.140176439.544537635.1525375425-968405543.1525375425)
+[Start free trial](https://boomi.com/form/trial/)[View demo](https://boomi.com/boomi-product-demo/) [Contact us](https://boomi.com/company/contact/)
 
- [![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)[![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)
+ [![Boomi](https://boomi.com/wp-content/uploads/2024/06/brand.svg)](https://boomi.com/)[![Boomi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Boomi](https://boomi.com/wp-content/uploads/BoomiMenuLogoIcon.svg)](https://boomi.com/)
 
 * Platform
     
@@ -317,15 +316,15 @@
     
     ##### Resources
     
-    [Explore all resources](https://boomi.com/resources/)
+    [Resource center](https://boomi.com/resources/)
     
     Learn
     
     * [###### Events & webinars](https://boomi.com/company/events/)
     * [###### Blog](https://boomi.com/blog/)
-    * [###### Analyst reports](https://boomi.com/resources/?content_type=analyst-report)
-    * [###### Ebooks](https://boomi.com/resources/?content_type=ebook)
+    * [###### eBooks](https://boomi.com/resources/?content_type=ebook)
     * [###### Podcast](https://boomi.com/boomi-podcast/)
+    * [###### Explore all resources](https://boomi.com/resources)
     
     Support
     
@@ -341,6 +340,10 @@
     * [###### Professional services](https://boomi.com/services/professional-services/)
     * [###### Customer success](https://boomi.com/services/support/)
     * [###### Managed services](https://boomi.com/services/managed-services/)
+    
+    * [Start free trial](https://boomi.com/form/trial/)
+    * [Request a demo](https://boomi.com/custom-demo-request/)
+    * [Pricing](https://boomi.com/pricing/)
     
 * Partners
     
