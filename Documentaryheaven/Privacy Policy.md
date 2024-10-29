@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Tibet’s Cry For Freedom](/wp-content/thumbnails/7511-100x70.jpg?x53432)
+* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
     
-    Tibet’s Cry For Freedom
+    Extraordinary People: The Million Dollar Mind Reader
     
-    Inspired by a burning passion to raise awareness of the Tibetan freedom struggle and using the Beijing Olympics as the springboard, first time filmmaker Lara Damiani quit her job, sold her clothes and](https://documentaryheaven.com/tibets-cry-for-freedom/ "Tibet’s Cry For Freedom")
-* [![EP 4/4 Time – Cosmictime](/wp-content/thumbnails/2287-100x70.jpg?x53432)
+    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
+* [![Kusamono](/wp-content/thumbnails/8782-100x70.jpg?x53432)
     
-    EP 4/4 Time – Cosmictime
+    Kusamono
     
-    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/ep-44-time-cosmictime/ "EP 4/4 Time – Cosmictime")
-* [![Promises (2001)](/wp-content/thumbnails/1195-100x70.jpg?x53432)
+    This is a short story about a young potter called Muri. His interest in Bonsai trees brought him to the throwing wheel where he started making his own Bonsai pots. Now 26 years old Muri has left Ruman](https://documentaryheaven.com/kusamono/ "Kusamono")
+* [![Stephen Fry And The Great American Oil Spill](/wp-content/thumbnails/8837-100x70.jpg?x53432)
     
-    Promises (2001)
+    Stephen Fry And The Great American Oil Spill
     
-    Promises presents a powerful portrait of seven Palestinian and Israeli children who live in and around Jerusalem. As filmmaker B.Z. Goldberg, who was raised in Israel, notes, "They live no more than 2](https://documentaryheaven.com/promises-2001/ "Promises (2001)")
-* [![Crash: How Long Will It Last?](/wp-content/thumbnails/5494-100x70.jpg?x53432)
+    Stephen Fry loves Louisiana. Four months after the BP oil spill, dubbed the worst ecological disaster in the history of America, Fry returns to the Deep South together with zoologist Mark Carwardine,](https://documentaryheaven.com/stephen-fry-great-american-oil-spill/ "Stephen Fry And The Great American Oil Spill")
+* [![Britain’s Oldest Mums And Dads](/wp-content/thumbnails/13815-100x70.jpg?x53432)
     
-    Crash: How Long Will It Last?
+    Britain’s Oldest Mums And Dads
     
-    In the second half of this special two-part Dispatches, economist and author Will Hutton continues the definitive insider’s account of how Britain’s economy went from boom to bust.Hutton reveals h](https://documentaryheaven.com/crash-how-long-will-it-last/ "Crash: How Long Will It Last?")
-* [![Not Afraid: The Shady Records Story](/wp-content/thumbnails/9680-100x70.jpg?x53432)
+    Britain is becoming a nation of much older parents, the number of British women giving birth in their 40's and 50's has more than doubled in the last 10 years. The number of children born to fathers i](https://documentaryheaven.com/britains-oldest-mums-dads/ "Britain’s Oldest Mums And Dads")
+* [![Dive](/wp-content/thumbnails/6433-100x70.jpg?x53432)
     
-    Not Afraid: The Shady Records Story
+    Dive
     
-    The folks over at Complex magazine recently got an opportunity to sit down with Eminem and his entourage, which included Paul Rosenberg, Dr. Dre, 50 Cent and Royce Da 5’9 in order to discuss the rise](https://documentaryheaven.com/not-afraid-shady-records-story/ "Not Afraid: The Shady Records Story")
+    DIVE!, the documentary about living off America's trash has been making the rounds of the film festivals for some time now. It's even sparked a huge campaign to get Trader Joe's to stop wasting food](https://documentaryheaven.com/dive/ "Dive")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
