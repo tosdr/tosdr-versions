@@ -198,4 +198,4 @@ Follow @qustodio
 
 Empower your family with the highest level of digital protection. Use code DIGITAL15 for 15% off today.
 
-[Choose my plan](https://www.qustodio.com/en/?page_id=19) [Choose my plan](https://www.qustodio.com/en/?page_id=19) [Choose my plan](https://www.qustodio.com/en/?page_id=19)
+[Choose my plan](https://www.qustodio.com/en/premium/) [Choose my plan](https://www.qustodio.com/en/premium/) [Choose my plan](https://www.qustodio.com/en/premium/)
