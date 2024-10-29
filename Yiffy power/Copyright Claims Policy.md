@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 246 1
+0 263 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/vanilla-directed-by-vitiligo-director/)
+[](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-clamcrusher/)
 
-[vanilla directed by vitiligo (director)](https://yiff-party.com/yiff/vanilla-directed-by-vitiligo-director/)
+[bowser (mario bros and etc) created by clamcrusher](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-clamcrusher/)
 
-0 77 0
+0 90 0
 
 September 29, 2024
 
-[](https://yiff-party.com/yiff/malon-nintendo-and-etc-created-by-alfa995/)
+[](https://yiff-party.com/yiff-ai-premium/twix-directed-by-furhammer-director-2/)
 
-[malon (nintendo and etc) created by alfa995](https://yiff-party.com/yiff/malon-nintendo-and-etc-created-by-alfa995/)
+[twix directed by furhammer (director)](https://yiff-party.com/yiff-ai-premium/twix-directed-by-furhammer-director-2/)
 
-0 2 0
+0 1 0
 
 October 29, 2024
 
