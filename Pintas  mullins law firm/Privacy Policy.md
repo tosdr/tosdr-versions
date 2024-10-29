@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much do insurance companies pay for pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-how-much-do-insurance-companies-pay-for-pain-and-suffering.jpg "How Much Do Insurance Companies Pay For Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement "How Much Do Insurance Companies Pay For Pain and Suffering?")
+[![Can a chest x-ray show mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-can-a-chest-xray-show-mesothelioma.jpg "Can a Chest X-ray Show Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/ "Can a Chest X-ray Show Mesothelioma?")
 
-[#### How Much Do Insurance Companies Pay For Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement)
+[#### Can a Chest X-ray Show Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/)
 
-[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
+[![What are signs of poor hygiene?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-soiled-clothes-or-other-signs-of-poor-hygiene-what-are-signs-of-poor-hygiene-scaled.jpg "What Are Signs of Poor Hygiene?")](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/ "What Are Signs of Poor Hygiene?")
 
-[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
+[#### What Are Signs of Poor Hygiene?](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/)
 
-[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
+[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
 
-[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
+[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
