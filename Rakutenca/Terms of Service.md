@@ -1,7 +1,3 @@
-[HP Canada: HP's Anniversary sale on now! Save up to 50% + 8% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
