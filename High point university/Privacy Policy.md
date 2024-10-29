@@ -122,7 +122,7 @@ Search
 
 In High Point University
 
-[High Point University](https://www.highpoint.edu/ "Go to the High Point University home page.") > [High Point University](https://www.highpoint.edu/ "Go to High Point University.") > Privacy Policy
+[High Point University](https://www.highpoint.edu/ "Go to High Point University.") > Privacy Policy
 
 Site Menu
 
