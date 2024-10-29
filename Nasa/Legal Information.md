@@ -313,7 +313,7 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article 35 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
+article 6 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-n
 
 ### Highlights
 
-[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
+
+2 min read
+
+### Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
+
+article 5 hours ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
 
 6 min read
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article 35 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
+article 6 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
 
 3 min read
 
 ### Autumn Leaves – Call for Volunteers
 
-article 3 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)[![Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/Kite%20with%20Aeropod%20-%20Lisa%20Ogiemwonyi.png)
-
-3 min read
-
-### Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
-
-article 3 days ago](https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/)
+article 3 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
 
 ### Highlights
 
@@ -413,7 +413,7 @@ article 6 days ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Station Science Top News: Oct. 18, 2024
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/)
 
 ### Featured
 
