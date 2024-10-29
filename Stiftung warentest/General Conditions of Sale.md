@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
-* [Ökobilanz Kaffee­zubereitung: Lecker, aber auch ökologisch?](https://www.test.de/Oekobilanz-und-Preisvergleich-Kaffeezubereitung-6093120-0/ "Ökobilanz Kaffeezubereitung - Lecker, aber auch ökologisch?")
-* [Kabel­fernsehen und Gebühren­pflicht: Jetzt entscheiden Mieter selbst](https://www.test.de/kabelfernsehen-nebenkostenprivileg-abgeschafft-6029892-0/ "Kabelfernsehen und Gebührenpflicht - Jetzt entscheiden Mieter selbst")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
-* [Schnäpp­chen-Platt­form: Temu beugt sich Verbraucherschützern](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Schnäppchen-Plattform - Temu beugt sich Verbraucherschützern")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
+* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
+* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
 
 Service Stiftung Warentest
 
