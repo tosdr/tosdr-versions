@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The country game(a roleplay) (8,171)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,171 posts)")
-* [AN if it had a discussion thread (136)](https://forum.nationstates.net/viewtopic.php?t=556428&f=25&view=unread#unread ""AN if it had a discussion thread" (136 posts)")
-* [\[Abortion Thread\] To rules? To conseq… (1,318)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,318 posts)")
-* [Internal and International Incidents… (4,548)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,548 posts)")
-* [American Politics: Remember, Remember… (4,859)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (4,859 posts)")
+* [Guess AU's favorite irl country (458)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (458 posts)")
+* [American Politics: Remember, Remember… (5,003)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (5,003 posts)")
+* [Womanly things that men do these days… (694)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (694 posts)")
+* [Canadian Politics (6,730)](https://forum.nationstates.net/viewtopic.php?t=467837&f=20&view=unread#unread ""Canadian Politics" (6,730 posts)")
+* [Agree or Disagree III (11,773)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (11,773 posts)")
 
 Advertisement
 
