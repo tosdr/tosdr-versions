@@ -33,6 +33,8 @@ GO TO EUROPEAN SITE
 
 [](#)
 
+Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 + Free International Shipping on all orders above $85 +
+
 Privacy Page
 ============
 
