@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Israel to vote on severely restricting UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
+    * [Israel passes laws to restrict the work of a UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
     * [North Korea has sent about 10,000 troops to Russia to fight in Ukraine, Pentagon says](https://apnews.com/article/russia-north-korea-nato-ukraine-war-9b7357344d988ea32d8ca21f6e22dcc5)
     * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Fires set in drop boxes destroy hundreds of ballots in Washington and damage 3 in Oregon](https://apnews.com/article/vote-ballot-drop-box-democracy-fire-f66c52f774955106fb9e7c8172825cff)
+    * [Americans in Puerto Rico can't vote for US president. Their anger at Trump is shaping the race](https://apnews.com/article/puerto-rico-trump-joke-garbage-a91e2aafd93a06d32365efa013581b85)
     * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
     * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [Harris says crude and racist rhetoric at Trump's event fans the fuel of division](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Biden casts 2024 election ballot near his Delaware home, waiting in line with other voters](https://apnews.com/article/biden-kamala-harris-election-2024-ed9d040150d548d3d0ab3d0a47fe60e2)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris says crude and racist rhetoric at Trump's event fans the fuel of division](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [Virginia asks US Supreme Court to reinstate removals of 1,600 voter registrations](https://apnews.com/article/virginia-voter-registration-noncitizens-purge-appeal-b1d174ea90a7ac6e6fb1b9c623b7402e)
+    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
+    * [Harris courts Michigan's working-class voters on her second visit to the battleground since Saturday](https://apnews.com/article/trump-harris-computer-chips-hemlock-michigan-06baf9a980e62ffc699e399b5cd42ba6)
+    * [Republicans ask US Supreme Court to block counting of some provisional ballots in Pennsylvania](https://apnews.com/article/supreme-court-pennsylvania-provisional-ballots-e72618cfa6bfd6c254015967451e442a)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Bad signings, no identity and big losses: Here's how Erik ten Hag got it wrong at Man United](https://apnews.com/article/ten-hag-man-united-99efe224a39491a8fdb614dd8cefe90c)
-    * [Anatomy of a Hail Mary: How Jayden Daniels and the Commanders beat the buzzer](https://apnews.com/article/commanders-hail-mary-26c2f6f70224bdbdf9d6529ddf5d3b20)
-    * [Shohei Ohtani set to play for Dodgers in Game 3 of World Series following shoulder injury](https://apnews.com/article/world-series-ohtani-dodgers-yankees-e9ad1f46a4a6f12b9aeb99c1dee08db6)
+    * [Shohei Ohtani leading off for Dodgers in World Series Game 3, two days after dislocating shoulder](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
+    * [Spaniards Rodri and Bonmatí win Ballon d'Or award as Real Madrid snubs ceremony](https://apnews.com/article/ballon-dor-rodri-vinicius-bonmati-a0693556e3bcced352d2521adee8c51d)
+    * [Stephen Curry will miss at least two games for Warriors with left ankle injury](https://apnews.com/article/curry-ankle-warriors-add31c5afc465fd043d22401a9e0464c)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Jon Stewart will remain 'Daily Show' host on Mondays through 2025](https://apnews.com/article/jon-stewart-daily-show-2025-hosting-5026a4cbc96ad42b19ce3bc208b4f93e)
-    * [Authorities launch 'interagency operation' at federal jail in New York housing Sean 'Diddy' Combs](https://apnews.com/article/diddy-jail-brooklyn-federal-prisons-ac89fcc984eba107a4585b57534df0ca)
     * [Who is comedian Tony Hinchcliffe, who insulted Puerto Rico at Trump's Madison Square Garden rally?](https://apnews.com/article/tony-hinchcliffe-puerto-rico-things-to-know-25e303873fac6fde3afdab80d941230d)
+    * [Music Review: Tyler, the Creator's 'Chromakopia' looks into the artist's journey to self-discovery](https://apnews.com/article/tyler-creator-chromakopia-review-d3b3d434582aa5b8ef3ce89683e0f34f)
+    * [Brian Williams and Amazon are asking election night news-seekers to take a leap of faith with them](https://apnews.com/article/brian-williams-amazon-election-carville-la-76da61e7d2a7a711f31c18eaf7a7538a)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Treasury issues rule to block US investors from helping China develop advanced military technology](https://apnews.com/article/treasury-rule-china-artificial-intelligence-chips-investment-86bae5f144e544416e0bf9ca16e7d5af)
     * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 5%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
-    * [Boeing, in need of cash, looking to raise up to approximately $19B in offering](https://apnews.com/article/boeing-strike-56f2fb5071cbcec83c7670aac0cb977a)
+    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 6%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
     
 * [Science](https://apnews.com/science)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [Slight progress in global biodiversity protection efforts but some species decline, new reports find](https://apnews.com/article/biodiversity-trees-decline-un-hedgehog-species-report-pledges-ocean-land-370da9d6ce7e1e9f4c1f918f99e2bb1e)
     * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
-    * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
-    * [Autonomous tech is coming to farming. What will it mean for crops and workers who harvest them?](https://apnews.com/article/automation-tractors-robots-agriculture-labor-workforce-farming-df6087837925c14cfdd7ad2f80410a54)
+    * [Brazil fines meatpacking companies, including giant JBS, for buying illegally raised cattle](https://apnews.com/article/amazon-deforestation-cattle-jbs-nyse-brazil-76bd1fe0c0f3cd77f0e5a4be8e366ab5)
     
 * [Health](https://apnews.com/health)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [A fresh pumpkin becomes comfort food in this Creamy Pumpkin Mac and Cheese](https://apnews.com/article/recipe-creamy-mac-cheese-5db3405bb9aae5be2e0a53747a49fbbd)
     * [Mark Bittman's recipe for a gooey, melty, kid-friendly grilled cheese sandwich](https://apnews.com/article/mark-bittman-grilled-cheese-kid-friendly-f05d769d3f27b8fb5e868e8605a94c08)
     * [Mark Bittman turns his attention to the small chefs in your household with a cookbook for kids](https://apnews.com/article/mark-bittman-kids-cookbook-5cbf19b11318d42e0975e47647b617f0)
-    * [Florida works to bring back tourism to its Gulf Coast following hurricanes Helene and Milton](https://apnews.com/article/florida-hurricanes-tourism-st-petersburg-pinellas-5d644dc9ee12b9d54e05bea2fb6c16f4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Al menos 43.000 palestinos han muerto en la guerra en Gaza, según autoridades palestinas](https://apnews.com/article/gaza-israel-hamas-muertos-guerras-libano-945c2561c36b8c7a4a47947589cd7611)
-    * [La presidenta de Georgia pide apoyo occidental a protestas tras declaración de victoria del gobierno](https://apnews.com/article/georgia-rusia-elecciones-protestas-zourabichvili-interferencias-830aa559da62c4f030416758f2abf987)
-    * [La OTAN confirma que Corea del Norte ha enviado tropas para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
+    * [Israel aprueba leyes que restringen operaciones de agencia de ONU en Gaza](https://apnews.com/article/gaza-israel-hamas-muertos-guerras-libano-945c2561c36b8c7a4a47947589cd7611)
+    * [Pentágono: Corea del Norte ha enviado cerca de 10.000 soldados para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
+    * [Una broma de mal gusto de un comediante de EEUU enfurece a Puerto Rico en año electoral](https://apnews.com/article/puerto-rico-trump-harris-broma-basura-a4513a76f000626edb58c1127ca9a986)
     * [La izquierda recupera fuerza en elecciones de Uruguay pero no le alcanza para evitar el balotaje](https://apnews.com/article/uruguay-elecciones-balotaje-orsi-delgado-0fefaf1c85616ad1f2dc311fdacf046b)
-    * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
-    * [Primer ministro francés retoma actividades tras cirugía del fin de semana por lesión cervical](https://apnews.com/article/francia-primer-ministro-barnier-cirugia-35797615e9e580ed5e13cd68274078dd)
+    * [Irán ejecuta al iraní-alemán Jamshid Sharmahd, acusado de terrorismo](https://apnews.com/article/iran-sharmahd-alemania-terrorismo-ecdee48419d17900ca7377c17b405608)
+    * [Policía: Incendios en buzones electorales de Oregon y Washington están relacionados](https://apnews.com/article/elecciones-incendios-casillas-washington-oregon-portland-d31b8183072e0183ffe71b4d0c6e2fd8)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,7 +460,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel to vote on severely restricting UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
+    * [Israel passes laws to restrict the work of a UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
     * [North Korea has sent about 10,000 troops to Russia to fight in Ukraine, Pentagon says](https://apnews.com/article/russia-north-korea-nato-ukraine-war-9b7357344d988ea32d8ca21f6e22dcc5)
     * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
+    * [Fires set in drop boxes destroy hundreds of ballots in Washington and damage 3 in Oregon](https://apnews.com/article/vote-ballot-drop-box-democracy-fire-f66c52f774955106fb9e7c8172825cff)
+    * [Americans in Puerto Rico can't vote for US president. Their anger at Trump is shaping the race](https://apnews.com/article/puerto-rico-trump-joke-garbage-a91e2aafd93a06d32365efa013581b85)
     * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
     * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [Harris says crude and racist rhetoric at Trump's event fans the fuel of division](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Biden casts 2024 election ballot near his Delaware home, waiting in line with other voters](https://apnews.com/article/biden-kamala-harris-election-2024-ed9d040150d548d3d0ab3d0a47fe60e2)
+    * [US voters concerned about post-election violence and efforts to overturn the results: AP-NORC poll](https://apnews.com/article/ap-poll-democracy-elections-results-violence-3016f595faea0dfc81c487e856aafb04)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris says crude and racist rhetoric at Trump's event fans the fuel of division](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
-    * [Virginia asks US Supreme Court to reinstate removals of 1,600 voter registrations](https://apnews.com/article/virginia-voter-registration-noncitizens-purge-appeal-b1d174ea90a7ac6e6fb1b9c623b7402e)
+    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
+    * [Harris courts Michigan's working-class voters on her second visit to the battleground since Saturday](https://apnews.com/article/trump-harris-computer-chips-hemlock-michigan-06baf9a980e62ffc699e399b5cd42ba6)
+    * [Republicans ask US Supreme Court to block counting of some provisional ballots in Pennsylvania](https://apnews.com/article/supreme-court-pennsylvania-provisional-ballots-e72618cfa6bfd6c254015967451e442a)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Bad signings, no identity and big losses: Here's how Erik ten Hag got it wrong at Man United](https://apnews.com/article/ten-hag-man-united-99efe224a39491a8fdb614dd8cefe90c)
-    * [Anatomy of a Hail Mary: How Jayden Daniels and the Commanders beat the buzzer](https://apnews.com/article/commanders-hail-mary-26c2f6f70224bdbdf9d6529ddf5d3b20)
-    * [Shohei Ohtani set to play for Dodgers in Game 3 of World Series following shoulder injury](https://apnews.com/article/world-series-ohtani-dodgers-yankees-e9ad1f46a4a6f12b9aeb99c1dee08db6)
+    * [Shohei Ohtani leading off for Dodgers in World Series Game 3, two days after dislocating shoulder](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
+    * [Spaniards Rodri and Bonmatí win Ballon d'Or award as Real Madrid snubs ceremony](https://apnews.com/article/ballon-dor-rodri-vinicius-bonmati-a0693556e3bcced352d2521adee8c51d)
+    * [Stephen Curry will miss at least two games for Warriors with left ankle injury](https://apnews.com/article/curry-ankle-warriors-add31c5afc465fd043d22401a9e0464c)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Jon Stewart will remain 'Daily Show' host on Mondays through 2025](https://apnews.com/article/jon-stewart-daily-show-2025-hosting-5026a4cbc96ad42b19ce3bc208b4f93e)
-    * [Authorities launch 'interagency operation' at federal jail in New York housing Sean 'Diddy' Combs](https://apnews.com/article/diddy-jail-brooklyn-federal-prisons-ac89fcc984eba107a4585b57534df0ca)
     * [Who is comedian Tony Hinchcliffe, who insulted Puerto Rico at Trump's Madison Square Garden rally?](https://apnews.com/article/tony-hinchcliffe-puerto-rico-things-to-know-25e303873fac6fde3afdab80d941230d)
+    * [Music Review: Tyler, the Creator's 'Chromakopia' looks into the artist's journey to self-discovery](https://apnews.com/article/tyler-creator-chromakopia-review-d3b3d434582aa5b8ef3ce89683e0f34f)
+    * [Brian Williams and Amazon are asking election night news-seekers to take a leap of faith with them](https://apnews.com/article/brian-williams-amazon-election-carville-la-76da61e7d2a7a711f31c18eaf7a7538a)
     
 * [Business](https://apnews.com/business)
     
@@ -608,9 +608,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Treasury issues rule to block US investors from helping China develop advanced military technology](https://apnews.com/article/treasury-rule-china-artificial-intelligence-chips-investment-86bae5f144e544416e0bf9ca16e7d5af)
     * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 5%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
-    * [Boeing, in need of cash, looking to raise up to approximately $19B in offering](https://apnews.com/article/boeing-strike-56f2fb5071cbcec83c7670aac0cb977a)
+    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 6%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
     
 * [Science](https://apnews.com/science)
     
@@ -731,9 +731,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Slight progress in global biodiversity protection efforts but some species decline, new reports find](https://apnews.com/article/biodiversity-trees-decline-un-hedgehog-species-report-pledges-ocean-land-370da9d6ce7e1e9f4c1f918f99e2bb1e)
     * [On Navajo Nation, a push to electrify more homes on the vast reservation](https://apnews.com/article/navajo-nation-electricity-tribal-lands-reservation-infrastructure-poverty-76f4515d3211a31cdff503c6082e3590)
-    * [Indonesian forests pay the price for the growing global biomass energy demand](https://apnews.com/article/indonesia-biomass-deforestation-energy-coal-japan-south-korea-22d17f5a00abbccb59960438590ab31c)
-    * [Autonomous tech is coming to farming. What will it mean for crops and workers who harvest them?](https://apnews.com/article/automation-tractors-robots-agriculture-labor-workforce-farming-df6087837925c14cfdd7ad2f80410a54)
+    * [Brazil fines meatpacking companies, including giant JBS, for buying illegally raised cattle](https://apnews.com/article/amazon-deforestation-cattle-jbs-nyse-brazil-76bd1fe0c0f3cd77f0e5a4be8e366ab5)
     
 * [Health](https://apnews.com/health)
     
@@ -777,9 +777,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A fresh pumpkin becomes comfort food in this Creamy Pumpkin Mac and Cheese](https://apnews.com/article/recipe-creamy-mac-cheese-5db3405bb9aae5be2e0a53747a49fbbd)
     * [Mark Bittman's recipe for a gooey, melty, kid-friendly grilled cheese sandwich](https://apnews.com/article/mark-bittman-grilled-cheese-kid-friendly-f05d769d3f27b8fb5e868e8605a94c08)
     * [Mark Bittman turns his attention to the small chefs in your household with a cookbook for kids](https://apnews.com/article/mark-bittman-kids-cookbook-5cbf19b11318d42e0975e47647b617f0)
-    * [Florida works to bring back tourism to its Gulf Coast following hurricanes Helene and Milton](https://apnews.com/article/florida-hurricanes-tourism-st-petersburg-pinellas-5d644dc9ee12b9d54e05bea2fb6c16f4)
     
 * [Religion](https://apnews.com/religion)
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Al menos 43.000 palestinos han muerto en la guerra en Gaza, según autoridades palestinas](https://apnews.com/article/gaza-israel-hamas-muertos-guerras-libano-945c2561c36b8c7a4a47947589cd7611)
-    * [La presidenta de Georgia pide apoyo occidental a protestas tras declaración de victoria del gobierno](https://apnews.com/article/georgia-rusia-elecciones-protestas-zourabichvili-interferencias-830aa559da62c4f030416758f2abf987)
-    * [La OTAN confirma que Corea del Norte ha enviado tropas para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
+    * [Israel aprueba leyes que restringen operaciones de agencia de ONU en Gaza](https://apnews.com/article/gaza-israel-hamas-muertos-guerras-libano-945c2561c36b8c7a4a47947589cd7611)
+    * [Pentágono: Corea del Norte ha enviado cerca de 10.000 soldados para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
+    * [Una broma de mal gusto de un comediante de EEUU enfurece a Puerto Rico en año electoral](https://apnews.com/article/puerto-rico-trump-harris-broma-basura-a4513a76f000626edb58c1127ca9a986)
     * [La izquierda recupera fuerza en elecciones de Uruguay pero no le alcanza para evitar el balotaje](https://apnews.com/article/uruguay-elecciones-balotaje-orsi-delgado-0fefaf1c85616ad1f2dc311fdacf046b)
-    * [Fotos satelitales muestran daños causados por ataque israelí en Irán](https://apnews.com/article/iran-israel-ataque-f884733875569003fca4dc47e99ddb09)
-    * [Primer ministro francés retoma actividades tras cirugía del fin de semana por lesión cervical](https://apnews.com/article/francia-primer-ministro-barnier-cirugia-35797615e9e580ed5e13cd68274078dd)
+    * [Irán ejecuta al iraní-alemán Jamshid Sharmahd, acusado de terrorismo](https://apnews.com/article/iran-sharmahd-alemania-terrorismo-ecdee48419d17900ca7377c17b405608)
+    * [Policía: Incendios en buzones electorales de Oregon y Washington están relacionados](https://apnews.com/article/elecciones-incendios-casillas-washington-oregon-portland-d31b8183072e0183ffe71b4d0c6e2fd8)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
