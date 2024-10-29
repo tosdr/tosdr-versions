@@ -1,3 +1,5 @@
+[🗳 Cast Your Vote To Select The Meme Of The Month! 🗳](https://knowyourmeme.com/editorials/poll/cast-your-vote-for-october-2024s-meme-of-the-month)
+
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -97,9 +99,17 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/387/socrazycover.jpg "What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained")
+    
+    What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained](https://knowyourmeme.com/editorials/guides/what-is-the-shes-so-crazzzzzzzy-love-her-meme-the-viral-woman-with-chips-on-her-head-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/386/temp_42c6b1d3-8ab3-4028-b8bf-78f7b92dede9.jpg "Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post")
+    
+    Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post](https://knowyourmeme.com/news/man-cheats-on-girlfriend-says-altitude-made-him-gay-in-wild-raitah-post)
+    
 * [![Still image from Loomis' American National Anthem performance. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/385/Loomis'_National_Anthem_Cover.jpg "Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate")
     
-    Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate](https://knowyourmeme.com/memes/events/loomis-national-anthem)
+    Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate](https://knowyourmeme.com/memes/loomis-national-anthem)
     
 * [![Ruth Bader chair meme and Halloween costume video](https://i.kym-cdn.com/featured_items/icons/wide/000/026/384/9f4.jpg "'Ruth Bader Ginsburg Chair:' Cursed Image Of Late Supreme Court Justice of the United States Resurfaces Online After TikToker Posted A Halloween Costume Inspired By The Meme")
     
@@ -109,18 +119,10 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago](https://knowyourmeme.com/memes/ah-shit-here-we-go-again)
     
-* [!['Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles](https://i.kym-cdn.com/featured_items/icons/wide/000/026/382/illustya-challenge-thumbnail.jpg "'Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles")
-    
-    'Irasutoya Challenge' Finds Japanese Artists Redrawing Simple Irasutoya Pieces In Their Own Styles](https://knowyourmeme.com/memes/irasutoya-challenge)
-    
-* [![Vegeta Reading refers to a piece of Dragon Ball fan art showing the character Vegeta reading a book in a library. Vegeta is wearing a suit and glasses, leaning against a bookshelf while looking at the viewer. The artwork was created by internet user WhirlyDoodle in 2023. Vegeta Reading became the subject of an image macro series which notably spread on TikTok in 2024. Captions about being studious or smart were paired with the image in photo slideshows and slow fade-in memes. The image was often used with the Blackbeard Writing meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/381/vegeta-reading-meme.jpg "Did You Know That Vegeta Is Studious? He's Studying You Right Now")
-    
-    Did You Know That Vegeta Is Studious? He's Studying You Right Now](https://knowyourmeme.com/memes/vegeta-reading)
-    
 
 ##### Also Trending:
 
-[Walmart Walk-In Oven Death](https://knowyourmeme.com/memes/events/halifax-walmart-walk-in-oven-death "Walmart Walk-In Oven Death") [BLU Scout Pants Fix](https://knowyourmeme.com/memes/events/blu-scout-pants-fix "BLU Scout Pants Fix") [Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Occupation: Slave](https://knowyourmeme.com/memes/occupation-slave "Occupation: Slave") [Diddy Baby Oil Costume Controversy](https://knowyourmeme.com/memes/events/p-diddy-baby-oil-costume-controversy "Diddy Baby Oil Costume Controversy")
+[Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Diddy Baby Oil Costume Controversy](https://knowyourmeme.com/memes/events/p-diddy-baby-oil-costume-controversy "Diddy Baby Oil Costume Controversy") [Napoleo](https://knowyourmeme.com/memes/napoleo "Napoleo") [BLU Scout Pants Fix](https://knowyourmeme.com/memes/events/blu-scout-pants-fix "BLU Scout Pants Fix") [I Got Racks Now Rhonda](https://knowyourmeme.com/memes/events/nettspend-rhonda-situation-i-got-racks-now-rhonda "I Got Racks Now Rhonda") [She's So Crazzzzzzzy Love Her](https://knowyourmeme.com/memes/shes-so-crazzzzzzzy-love-her "She's So Crazzzzzzzy Love Her")
 
 Terms of Service and Use
 ========================
@@ -261,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### Sup! You must login or signup first!
 
 |     |     |
 | --- | --- |
