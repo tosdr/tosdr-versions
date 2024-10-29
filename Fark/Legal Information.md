@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Who would be daft enough to try and kidnap a coroner? These loonies](https://www.fark.com/goto/13443920) ( [bbc.com](https://www.fark.com/goto/13443920) ) » [(10 comments)](https://www.fark.com/comments/13443920/Who-would-be-daft-enough-to-try-kidnap-a-coroner-These-loonies) |
-| [Discussion](https://www.fark.com/discussion/) | [The New York Giants want to get back on track. The Pittsburgh Steelers want to take the division lead. Who will win the Daniel Jones-Russell Wilson quarterback duel? Monday Night Football kicks off at 8:15 PM ET on ESPN/ABC](https://www.fark.com/goto/13442944) ( [espn.com](https://www.fark.com/goto/13442944) ) » [(224 comments)](https://www.fark.com/comments/13442944/The-New-York-Giants-want-to-get-back-on-track-The-Pittsburgh-Steelers-want-to-take-division-lead-Who-will-win-Daniel-Jones-Russell-Wilson-quarterback-duel-Monday-Night-Football-kicks-off-at-815-PM-ET-on-ESPNABC) |
-| [Sports](https://www.fark.com/sports/) | [According to Seahawks quaterback Geno Smith the Hawks lost the game because the \_\_\_\_\_\_\_ sucked. A) offense, B) defense, C) fans](https://www.fark.com/goto/13443934) ( [12thmanrising.com](https://www.fark.com/goto/13443934) ) » [(9 comments)](https://www.fark.com/comments/13443934/According-to-Seahawks-quaterback-Geno-Smith-Hawks-lost-game-because-_______-sucked-A-offense-B-defense-C-fans) |
-| [Business](https://www.fark.com/business/) | [This might make things uncomfortable with the latest bro lovefest](https://www.fark.com/goto/13444026) ( [variety.com](https://www.fark.com/goto/13444026) ) » [(3 comments)](https://www.fark.com/comments/13444026/This-might-make-things-uncomfortable-with-latest-bro-lovefest) |
-| [STEM](https://www.fark.com/stem/) | [Have an old wireless phone? Got an amateur radio license? Have a few hours to kill?](https://www.fark.com/goto/13444046) ( [zdnet.com](https://www.fark.com/goto/13444046) ) » [(2 comments)](https://www.fark.com/comments/13444046/Have-an-old-wireless-phone-Got-an-amateur-radio-license-Have-a-few-hours-to-kill) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Danson on the inside](https://www.fark.com/goto/13444052) ( [youtube.com](https://www.fark.com/goto/13444052) ) » [(3 comments)](https://www.fark.com/comments/13444052/Danson-on-inside) |
-| [Fandom](https://www.fark.com/fandom/) | [As I Lay Dying officially playing dead](https://www.fark.com/goto/13443582) ( [nme.com](https://www.fark.com/goto/13443582) ) » [(5 comments)](https://www.fark.com/comments/13443582/As-I-Lay-Dying-officially-playing-dead) |
-| [D'awww](https://www.fark.com/dawww/) | [No ancient hairballs found](https://www.fark.com/goto/13443866) ( [livescience.com](https://www.fark.com/goto/13443866) ) » [(1 comment)](https://www.fark.com/comments/13443866/No-ancient-hairballs-found) |
-| [Food](https://www.fark.com/food/) | [Flavortown Monopoly board game is going to be off the hook this Christmas, depicts many of Guy Fieri's eating establishments and other Flavortown references, including Guy's Bar-B-Que Joint and the University of Flavortown](https://www.fark.com/goto/13444016) ( [yahoo.com](https://www.fark.com/goto/13444016) ) » [(4 comments)](https://www.fark.com/comments/13444016/Flavortown-Monopoly-board-game-is-going-to-be-off-hook-this-Christmas-depicts-many-of-Guy-Fieris-eating-establishments-other-Flavortown-references-including-Guys-Bar-B-Que-Joint-the-University-of-Flavortown) |
-| [Politics](https://www.fark.com/politics/) | [MN woman charged with voter fraud for forging and submitting dead mother's ballot. Soon to share a characteristic with candidate she cast vote for](https://www.fark.com/goto/13444056) ( [fox9.com](https://www.fark.com/goto/13444056) ) » [(8 comments)](https://www.fark.com/comments/13444056/MN-woman-charged-with-voter-fraud-for-forging-submitting-dead-mothers-ballot-Soon-to-share-a-characteristic-with-candidate-she-cast-vote-for) |
+| [Main](https://www.fark.com/) | [Epic fails](https://www.fark.com/goto/13444156) ( [msn.com](https://www.fark.com/goto/13444156) ) » [(3 comments)](https://www.fark.com/comments/13444156/Epic-fails) |
+| [Discussion](https://www.fark.com/discussion/) | [S.№29 Ep.№116 of The Daily Show w/Jon Stewart is followed tonight by a special "Jordan Klepper Fingers the Pulse" at rallies in the final days of the election, starting 11:00 ㏘ (now) for Stewart, and Klepper @ 11:35−12:30, both on Comedy Central](https://www.fark.com/goto/13444256) ( [imdb.com](https://www.fark.com/goto/13444256) ) » [(4 comments)](https://www.fark.com/comments/13444256/S29-Ep116-of-The-Daily-Show-wJon-Stewart-is-followed-tonight-by-a-special-Jordan-Klepper-Fingers-Pulse-at-rallies-in-final-days-of-election-starting-1100-now-for-Stewart-Klepper-11351230-both-on-Comedy-Central) |
+| [Sports](https://www.fark.com/sports/) | [There's a fine line between 'aggressive driving' and 'dangerous driving'](https://www.fark.com/goto/13443800) ( [bbc.com](https://www.fark.com/goto/13443800) ) » [(3 comments)](https://www.fark.com/comments/13443800/Theres-a-fine-line-between-aggressive-driving-dangerous-driving) |
+| [Business](https://www.fark.com/business/) | [In today's fast-moving world of AI-enabled business, Chief Privacy Officers decide title is a relic of the corporate past, suggest renaming their position Chief AI Officer with cool new AI duties. Customers will get over it](https://www.fark.com/goto/13444030) ( [aibusiness.com](https://www.fark.com/goto/13444030) ) » [(2 comments)](https://www.fark.com/comments/13444030/In-todays-fast-moving-world-of-AI-enabled-business-Chief-Privacy-Officers-decide-title-is-a-relic-of-corporate-past-suggest-renaming-their-position-Chief-AI-Officer-with-cool-new-AI-duties-Customers-will-get-over-it) |
+| [STEM](https://www.fark.com/stem/) | [Maybe you've got tonsil stones](https://www.fark.com/goto/13443996) ( [usatoday.com](https://www.fark.com/goto/13443996) ) » [(5 comments)](https://www.fark.com/comments/13443996/Maybe-youve-got-tonsil-stones) |
+| [Entertainment](https://www.fark.com/entertainment/) | [It's sticky](https://www.fark.com/goto/13444120) ( [youtube.com](https://www.fark.com/goto/13444120) ) » [(0 comments)](https://www.fark.com/comments/13444120/Its-sticky) |
+| [Fandom](https://www.fark.com/fandom/) | [As I Lay Dying officially playing dead](https://www.fark.com/goto/13443582) ( [nme.com](https://www.fark.com/goto/13443582) ) » [(8 comments)](https://www.fark.com/comments/13443582/As-I-Lay-Dying-officially-playing-dead) |
+| [D'awww](https://www.fark.com/dawww/) | [No ancient hairballs found](https://www.fark.com/goto/13443866) ( [livescience.com](https://www.fark.com/goto/13443866) ) » [(2 comments)](https://www.fark.com/comments/13443866/No-ancient-hairballs-found) |
+| [Food](https://www.fark.com/food/) | [We need a "Pointless" tag: 5 recipes for butter chicken without butter AND chicken](https://www.fark.com/goto/13443882) ( [vegnews.com](https://www.fark.com/goto/13443882) ) » [(3 comments)](https://www.fark.com/comments/13443882/We-need-a-Pointless-tag-5-recipes-for-butter-chicken-without-butter-AND-chicken) |
+| [Politics](https://www.fark.com/politics/) | [Here's the full video of Trump's hiatler metamorphosis](https://www.fark.com/goto/13443598) ( [huffpost.com](https://www.fark.com/goto/13443598) ) » [(5 comments)](https://www.fark.com/comments/13443598/Heres-full-video-of-Trumps-hiatler-metamorphosis) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 28 2024 21:42:13  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 03:42:39  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
