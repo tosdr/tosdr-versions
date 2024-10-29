@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. English
+1. java
     
-2. c
+2. harvard
     
-3. computer science
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Data Analysis
     
-    39,918 courses](https://www.classcentral.com/subject/cs)
-2. [Artificial Intelligence
+    8,448 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Computer Science
     
-    12,571 courses](https://www.classcentral.com/subject/ai)
-3. [Cybersecurity
+    40,170 courses](https://www.classcentral.com/subject/cs)
+3. [Artificial Intelligence
     
-    16,160 courses](https://www.classcentral.com/subject/cybersecurity)
+    12,690 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [Organic Chemistry 1
+1. [Astrobiology and the Search for Extraterrestrial Life
     
-    Jawaharlal Nehru University, New Delhi](https://www.classcentral.com/course/swayam-organic-chemistry-1-14221)
-2. [Terrorism and Counterterrorism: Comparing Theory and Practice
+    University of Edinburgh](https://www.classcentral.com/course/astrobio-415)
+2. [Introduction to Philosophy
     
-    Leiden University](https://www.classcentral.com/course/terrorism-701)
-3. [FinTech Foundations and Overview
+    University of Edinburgh](https://www.classcentral.com/course/introphil-418)
+3. [Computing in Python I: Fundamentals and Procedural Programming
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/fintech-11193)
+    Georgia Institute of Technology](https://www.classcentral.com/course/python-the-georgia-institute-of-technology-comput-11469)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
