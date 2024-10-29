@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
-  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+  [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
 Editors' Picks
 --------------
@@ -182,13 +182,13 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
-By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+  [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[h](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![h](h)](https://www.japantimes.co.jp/about-us/link-policy/h "h")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China's private tutoring firms emerge from the shadows after crackdown](https://www.japantimes.co.jp/business/2024/10/29/china-private-tutoring-crackdown/ "China's private tutoring firms emerge from the shadows after crackdown")
+[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-7 mins ago
+35 mins ago
 
-[Job market tightened in September, supporting wage gains and BOJ policy goals](https://www.japantimes.co.jp/business/2024/10/29/japan-jobless-rate-sept/ "Job market tightened in September, supporting wage gains and BOJ policy goals")
+[North Korean troops in Russia could have dangerous ramifications for Asia](https://www.japantimes.co.jp/news/2024/10/29/asia-pacific/nk-troops-in-ukr/ "North Korean troops in Russia could have dangerous ramifications for Asia")
 
-27 mins ago
+54 mins ago
 
-[Japan selects first woman to lead Antarctic research wintering team](https://www.japantimes.co.jp/news/2024/10/29/japan/japan-first-woman-leader-antarctica/ "Japan selects first woman to lead Antarctic research wintering team")
+[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
-36 mins ago
+1 hours ago
 
-[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
+[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
 
-41 mins ago
+1 hours ago
 
-[Toyota and NTT to jointly develop driver assistance technology that uses AI](https://www.japantimes.co.jp/business/2024/10/29/companies/toyota-ntt-driver-assistance/ "Toyota and NTT to jointly develop driver assistance technology that uses AI")
+[China reports finding spying devices at sea](https://www.japantimes.co.jp/news/2024/10/29/asia-pacific/politics/china-deep-sea-spying-submarines/ "China reports finding spying devices at sea")
 
-49 mins ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
