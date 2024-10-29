@@ -32,7 +32,7 @@ Top Authors In Last 30 Days
 * [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 59 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 25 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 8 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 7 files
 * [Seth Jenkins](https://packetstormsecurity.com/files/authors/16492) 4 files
@@ -43,6 +43,22 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[ChatGPT Jailbreak: Researchers Bypass AI Safeguards Using Hexadecimal Encoding And Emojis](https://packetstormsecurity.com/news/view/36532/ChatGPT-Jailbreak-Researchers-Bypass-AI-Safeguards-Using-Hexadecimal-Encoding-And-Emojis.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:07:06 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36532/) | [View](https://www.securityweek.com/first-chatgpt-jailbreak-disclosed-via-mozillas-new-ai-bug-bounty-program/)
+
+[The Failure That Started The Internet](https://packetstormsecurity.com/news/view/36527/The-Failure-That-Started-The-Internet.html)
+
+Posted [Oct 29, 2024](https://packetstormsecurity.com/news/date/2024-10-29/ "15:06:25 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [science](https://packetstormsecurity.com/news/tags/science)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36527/) | [View](https://www.bbc.com/future/article/20241028-the-failure-that-started-the-internet)
 
 [Dutch Cops Pwn The Redline And Meta Infostealers, Leak VIP Aliases](https://packetstormsecurity.com/news/view/36526/Dutch-Cops-Pwn-The-Redline-And-Meta-Infostealers-Leak-VIP-Aliases.html)
 
@@ -60,6 +76,38 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy]
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36525/) | [View](https://www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/)
 
+[Senator Accuses Sloppy Domain Registrars Of Aiding Russian Disinfo Campaigns](https://packetstormsecurity.com/news/view/36524/Senator-Accuses-Sloppy-Domain-Registrars-Of-Aiding-Russian-Disinfo-Campaigns.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:24 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [russia](https://packetstormsecurity.com/news/tags/russia), [dns](https://packetstormsecurity.com/news/tags/dns), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36524/) | [View](https://www.theregister.com/2024/10/27/senator_domain_registrars_russia_disinfo/)
+
+[AWS Breaks Up Massive Russian Phishing Operation](https://packetstormsecurity.com/news/view/36523/AWS-Breaks-Up-Massive-Russian-Phishing-Operation.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:15 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [russia](https://packetstormsecurity.com/news/tags/russia), [amazon](https://packetstormsecurity.com/news/tags/amazon), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [phish](https://packetstormsecurity.com/news/tags/phish)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36523/) | [View](https://www.scworld.com/news/aws-breaks-up-massive-russian-phishing-operation)
+
+[Dildog On Building Privacy And What Makes Hackers Unique](https://packetstormsecurity.com/news/view/36522/Dildog-On-Building-Privacy-And-What-Makes-Hackers-Unique.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:09 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36522/) | [View](https://www.securityweek.com/rising-tides-christien-dildog-rioux-on-building-privacy-and-what-makes-hackers-unique/)
+
+[Chinese Hackers Collected Audio From A Trump Advisor's Call](https://packetstormsecurity.com/news/view/36521/Chinese-Hackers-Collected-Audio-From-A-Trump-Advisors-Call.html)
+
+Posted [Oct 28, 2024](https://packetstormsecurity.com/news/date/2024-10-28/ "13:59:03 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36521/) | [View](https://www.theguardian.com/us-news/2024/oct/27/chinese-hackers-trump-campaign-adviser-audio)
+
 [100 Million Impacted By Change Healthcare Attack](https://packetstormsecurity.com/news/view/36520/100-Million-Impacted-By-Change-Healthcare-Attack.html)
 
 Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:41 UTC")
@@ -75,54 +123,6 @@ Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [amazon](https://packetstormsecurity.com/news/tags/amazon), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36519/) | [View](https://www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/)
-
-[Third-Party Vendors Drive 45% Of Breaches In Energy Sector](https://packetstormsecurity.com/news/view/36518/Third-Party-Vendors-Drive-45-Of-Breaches-In-Energy-Sector.html)
-
-Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:32 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36518/) | [View](https://www.scworld.com/news/third-party-vendors-drive-45-of-breaches-in-us-energy-sector)
-
-[White House Endorses Collaboration With Cybersecurity Researchers](https://packetstormsecurity.com/news/view/36517/White-House-Endorses-Collaboration-With-Cybersecurity-Researchers.html)
-
-Posted [Oct 25, 2024](https://packetstormsecurity.com/news/date/2024-10-25/ "15:02:27 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36517/) | [View](https://www.scworld.com/news/white-house-endorses-collaboration-with-cybersecurity-researchers)
-
-[Cisco Patches Vulnerability Exploited In Large Scale Brute Force Campaign](https://packetstormsecurity.com/news/view/36516/Cisco-Patches-Vulnerability-Exploited-In-Large-Scale-Brute-Force-Campaign.html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:51 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [cisco](https://packetstormsecurity.com/news/tags/cisco)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36516/) | [View](https://www.securityweek.com/cisco-patches-vulnerability-exploited-in-large-scale-brute-force-campaign/)
-
-[SEC Fines 4 Firms Related To SolarWinds Case](https://packetstormsecurity.com/news/view/36515/SEC-Fines-4-Firms-Related-To-SolarWinds-Case.html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:49 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36515/) | [View](https://www.scworld.com/news/sec-fines-4-firms-for-sloppy-incident-disclosures-related-to-solarwinds-case)
-
-[Poor MFA, Identity Attacks Dominate Threat Landscape In Q3 2024](https://packetstormsecurity.com/news/view/36514/Poor-MFA-Identity-Attacks-Dominate-Threat-Landscape-In-Q3-2024.html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:46 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36514/) | [View](https://www.scworld.com/news/poor-mfa-identity-attacks-dominate-threat-landscape-in-q3-2024)
-
-[New LLM Jailbreak Method With 65% Success Rate Developed](https://packetstormsecurity.com/news/view/36513/New-LLM-Jailbreak-Method-With-65-Success-Rate-Developed.html)
-
-Posted [Oct 24, 2024](https://packetstormsecurity.com/news/date/2024-10-24/ "13:00:41 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36513/) | [View](https://www.scworld.com/news/new-llm-jailbreak-method-with-65-success-rate-developed-by-researchers)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1396835009&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1396835009.1730192888.1730192888.1730192888.1%3B%2B__utmz%3D32867617.1730192888.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1083977751&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1083977751.1730215042.1730215042.1730215042.1%3B%2B__utmz%3D32867617.1730215042.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
