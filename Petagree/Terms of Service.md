@@ -313,5 +313,4 @@ Subscribe 
 * Mastercard
 * PayPal
 * Shop Pay
-* Venmo
 * Visa
