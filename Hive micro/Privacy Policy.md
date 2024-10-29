@@ -59,9 +59,9 @@ Moderate text and text in images with best-in-class deep learning models](https:
 Real-time speech and sound moderation in audioReal-time speech and sound  
 moderation in audio](https://hivemoderation.com/audio-moderation)
 
-[Visual Context
+[Contextual Scene Classification
 
-Identify common objects, settings, and event types within videos and images](https://thehive.ai/apis/visual-context)
+Identify common objects, settings, and event types within videos and images](https://thehive.ai/apis/contextual-scene-classification)
 
 [OCR
 
@@ -94,9 +94,9 @@ Platform[AutoML
 
 Build and deploy deep learning models for custom use cases](https://thehive.ai/solutions/auto-ml)
 
-[Web Search
+[Reverse Image Search
 
-Find copies and variants of content against billions of public web images](https://thehive.ai/apis/web-search)
+Find copies and variants of content against billions of public web images](https://thehive.ai/apis/reverse-image-search)
 
 [Custom Search
 
