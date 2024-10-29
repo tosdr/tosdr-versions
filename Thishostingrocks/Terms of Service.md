@@ -223,7 +223,7 @@ If you have any concerns about material which appears on Website, please contact
     
     [Godlike.Host](https://thishosting.rocks/godlike-host-review/ "Godlike.Host")
     
-    9.7
+    9.5
     
 * [![Snappa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAhAQAAAACzBsUpAAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBSAAAAEIAAHO7fnCAAAAAElFTkSuQmCC)
     
