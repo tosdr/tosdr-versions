@@ -480,4 +480,10 @@ Unless otherwise expressly provided, you and Zeabur agree that there are no thir
 
 [Privacy Policy](https://docs.zeabur.com/docs/en-US/legal/privacy "Privacy Policy")[Pricing](https://docs.zeabur.com/docs/en-US/billing/pricing "Pricing")
 
-2024 © [Zeabur Pte. Ltd.](https://zeabur.com/).
+English
+
+Light
+
+* * *
+
+2024 © [Zeabur Pte. Ltd.](https://zeabur.com/)
