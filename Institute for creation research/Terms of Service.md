@@ -165,67 +165,83 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Back to Genesis
+More Many Earth Clocks Indicate Recent Creation
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/people_fruitflies.jpg)](https://www.icr.org/article/are-people-and-fruit-flies-related)
+[![](/i/Main%20Stage%20-%201400x1050/Mishandled_Data_Hominid_1400x1050.jpg)](https://www.icr.org/article/mishandled-data-determine-new-hominid-ages)
 
-[Are People and Fruit Flies Related?](https://www.icr.org/article/are-people-and-fruit-flies-related/)
+[Mishandled Data Determine New Hominid Ages](https://www.icr.org/article/mishandled-data-determine-new-hominid-ages/)
 
-There are around 152,000 named species of flies (the order Diptera) representing approximately 10% of all species on Earth. One genus in particular,...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/plan_replace_God.jpg)](https://www.icr.org/article/the-plan-to-replace-god/)
-
-[The Plan to Replace God](https://www.icr.org/article/the-plan-to-replace-god//)
-
-After reviewing the writings of some 18th- and 19th-century thinkers, I’m convinced that the popularity of ideas like “millions of years”...
+A recent report in the journal Science mixed detailed archaeological finds with stories about human origins. As is typical, age assignments for fossils...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/HowBatWings.jpg)](https://www.icr.org/article/how-bat-get-its-wings)
+[![](/i/Main%20Stage%20-%201400x1050/Yellowstone_Super_Eruptions_1400x1050.jpg)](https://www.icr.org/article/yellowstone-super-eruptions-declining)
 
-[How Did the Bat Get Its Wings?](https://www.icr.org/article/how-bat-get-its-wings/)
+[Yellowstone Super-Eruptions Declining](https://www.icr.org/article/yellowstone-super-eruptions-declining/)
 
-Where did bats come from? Evolutionists presuppose that some kind of rodent received just the right mutations to over “a few million years”...
+Recently, renewed activity has had scientists, and the general public alike, alarmed about an impending supervolcano eruption at Yellowstone.1...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Viking_Grave_1400x1050.jpg)](https://www.icr.org/article/norwegians-find-viking-grave-under-house-floor)
+
+[Norwegians Find Viking Grave Under House Floor](https://www.icr.org/article/norwegians-find-viking-grave-under-house-floor/)
+
+In America we have the idiomatic expression “skeletons in the closet,” but what about finding a 1,000-year-old Viking grave, literally buried...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Geological Evidence Indicates Rapid Formation
+
+[![](/i/Main%20Stage%20-%201400x1050/aurora-fossil-2-1400x1050)](https://www.icr.org/article/aurora-fossil-cnidaria)
+
+["Massively Exciting" Fossil Find](https://www.icr.org/article/aurora-fossil-cnidaria/)
+
+Now this is exciting: “Geologists have found the fossil of the earliest known animal predator. The 560-million-year-old specimen is the first of...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-Shop Related Products
+[![](/i/Main%20Stage%20-%201400x1050/ocean-bottom-1400x1050)](https://www.icr.org/article/half-billion-year-old-fossil-brains)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+[Half-Billion-Year-Old Fossil Brains?](https://www.icr.org/article/half-billion-year-old-fossil-brains/)
 
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
+Once again, a recent and remarkable fossil discovery has been made challenging evolutionary theory. A strange arthropod (i.e. a radiodont) has been found...
 
-$12.99
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/gunnisonforest_1400x1050.jpg)](https://www.icr.org/article/14933)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+[Gunnison National Forest: Adaptable Aspens and Warped Rocks](https://www.icr.org/article/14933/)
 
-$7.99
+Gunnison National Forest’s 1.67-millionplus acres showcase stunning views of the Colorado Rocky Mountains. The Continental Divide forms its eastern...
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
+More Impact
 
-$7.99
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_say_no_jostle_jurassic.jpg)](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic)
 
-$9.99
+[The Fossils Still Say No: Jostle in the Jurassic](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic/)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+The Jurassic system of the geologic column is an enigma to evolutionists because it represents a continuance of many life forms found buried below in...
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-$2.99
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/Ice_Core_Research_Continues.jpg)](https://www.icr.org/article/ice-core-research-continues/)
 
-$7.99
+[ICR Ice Core Research Continues](https://www.icr.org/article/ice-core-research-continues//)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+Creationists think the thick ice sheets of Greenland and Antarctica began forming just 4,500 years ago during a short Ice Age triggered by the Genesis...
 
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-$15.99
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/capping_cretaceous.jpg)](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum)
+
+[The Fossils Still Say No: Capping a Cretaceous Conundrum](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum/)
+
+The Cretaceous system of the geologic column, like the other systems below it, is a conundrum to evolutionists because it represents a continuance of...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
