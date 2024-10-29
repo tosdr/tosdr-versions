@@ -36,18 +36,18 @@
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
+    * [![This $50 course helps prepare you for four in-demand IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This $50 course helps prepare you for four in-demand IT certifications](https://www.bleepingcomputer.com/offer/deals/this-50-course-helps-prepare-you-for-four-in-demand-it-certifications/)
+    * [![QNAP fixes NAS backup software zero-day exploited at Pwn2Own](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
+    * [![Russian charged by U.S. for creating RedLine infostealer malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russian charged by U.S. for creating RedLine infostealer malware](https://www.bleepingcomputer.com/news/security/russian-charged-by-us-for-creating-redline-infostealer-malware/)
     * [![Get a Costco Gold Star Membership and a $45 Shop Card for $65](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get a Costco Gold Star Membership and a $45 Shop Card for $65](https://www.bleepingcomputer.com/offer/deals/get-a-costco-gold-star-membership-and-a-45-shop-card-for-65/)
-    * [![New tool bypasses Google Chrome’s new cookie encryption system](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New tool bypasses Google Chrome’s new cookie encryption system](https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
-    * [![Exchange Online adds Inbound DANE with DNSSEC for everyone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Exchange Online adds Inbound DANE with DNSSEC for everyone](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-everyone/)
-    * [![Russia targets Ukrainian conscripts with Windows, Android malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russia targets Ukrainian conscripts with Windows, Android malware](https://www.bleepingcomputer.com/news/security/russia-targets-ukrainian-conscripts-with-windows-android-malware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
