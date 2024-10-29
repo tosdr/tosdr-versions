@@ -585,7 +585,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28831448/pic/houzz_logo.svg?v=28831448)
+![Houzz Logo Print](//www.houzz.com/res/28831631/pic/houzz_logo.svg?v=28831631)
 
 Houzz Return Policy
 ===================
@@ -666,7 +666,7 @@ Warranty Information
 
 Some products may be covered by a manufacturer's warranty. Houzz may offer additional warranty coverage for purchase through a third party provider for certain products.  This warranty is for residential use only. Please contact the Seller of the item or the third party provider to learn more about its warranty coverage and any applicable terms that may apply.
 
-[© 2023 Houzz Inc.](http://www.houzz.com/termsOfUse#copyrights)
+[© 2024 Houzz Inc.](http://www.houzz.com/termsOfUse#copyrights)
 
 * [](https://www.houzz.com/)
     
