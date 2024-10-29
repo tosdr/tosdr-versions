@@ -360,7 +360,7 @@ Footer menu
 
 1.800.THE IACP
 
-[www.iacpshop.com](https://iacpshop.com/)
+[www.iacpstore.com](https://iacpstore.com/)
 
 * [![Linkedin](/themes/iacp/images/icons/icon-linkedin.svg)](https://www.linkedin.com/company/international-association-of-chiefs-of-police/ "Follow IACP on Linkedin")
 * [![Youtube](/themes/iacp/images/icons/icon-youtube.svg)](https://www.youtube.com/user/TheIACP "Follow IACP on Youtube")
