@@ -20,16 +20,16 @@ Tuesday, October 29 2024
 
 Latest
 
-* [Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
-* [Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
-* [New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
-* [Free, France’s second largest ISP, confirms data breach after leak](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
-* [A vote for Donald Trump is a vote for school shootings and measles](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
-* [Mac Mini with M4 Pro and 64GB RAM Leaked Ahead of the Launch](https://digitpatrox.com/mac-mini-with-m4-pro-and-64gb-ram-leaked-ahead-of-the-launch/)
-* [Bypass blocks and access Anthropic](https://digitpatrox.com/bypass-blocks-and-access-anthropic/)
-* [What is chaos engineering and how can it benefit businesses?](https://digitpatrox.com/what-is-chaos-engineering-and-how-can-it-benefit-businesses/)
-* [The genAI emperor has no clothes – Computerworld](https://digitpatrox.com/the-genai-emperor-has-no-clothes-computerworld/)
-* [How Long Does It Take to Get Off the Apple Intelligence Waitlist?](https://digitpatrox.com/how-long-does-it-take-to-get-off-the-apple-intelligence-waitlist/)
+* [How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
+* [QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
+* [Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
+* [Microsoft slams Google’s ‘shadow campaigns’ as feud over cloud regulation escalates](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
+* [9 Cold Calling Tips That Close Deals Like Clockwork](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
+* [7 best Disney Channel Original Movies for Halloween](https://digitpatrox.com/7-best-disney-channel-original-movies-for-halloween/)
+* [QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://digitpatrox.com/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
+* [Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
+* [Apple Launches Smaller Mac mini with M4 Chips, 64GB RAM, and Thunderbolt 5](https://digitpatrox.com/apple-launches-smaller-mac-mini-with-m4-chips-64gb-ram-and-thunderbolt-5/)
+* [Vendor Spotlight: Fortra](https://digitpatrox.com/vendor-spotlight-fortra/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/02/windows-10-storage-stats-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
     
-    [Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
+    [How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
     
-    11 mins ago
+    2 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241028-hostverge-wordpress-hosting-lifetime-subscription.jpg)](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653001195/prod/content/dam/CRO-Images-2022/Electronics/05May/CR-Tech-InlineHero-TV-Tech-OLED-vs-QLED-0522)](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
     
-    [Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
+    [QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
     
-    14 mins ago
+    12 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/43MwToY8nZhtAN8uknp9aC-1200-80.jpg)](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/26.jpg)](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
     
-    [New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
+    [Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
     
-    30 mins ago
+    15 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/28/free-headpic.jpg)](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
+* [![](https://cdn.mos.cms.futurecdn.net/2ZqQxnwLWmkdKsZoNBtY6e-1200-80.jpg)](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
     
-    [Free, France’s second largest ISP, confirms data breach after leak](https://digitpatrox.com/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
+    [Microsoft slams Google’s ‘shadow campaigns’ as feud over cloud regulation escalates](https://digitpatrox.com/microsoft-slams-googles-shadow-campaigns-as-feud-over-cloud-regulation-escalates/)
     
-    57 mins ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/KZ3E54gftW7aU0QRRE9zoWGbv-o=/0x0:2040x1360/1200x628/filters:focal(953x573:954x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693283/247224_Election_Package__Mr.Nelson_design_Trump.jpg)](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/cold-calling-tips-featured-image1-10282024-min.png)](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
     
-    [A vote for Donald Trump is a vote for school shootings and measles](https://digitpatrox.com/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles/)
+    [9 Cold Calling Tips That Close Deals Like Clockwork](https://digitpatrox.com/9-cold-calling-tips-that-close-deals-like-clockwork/)
     
     1 hour ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 mins ago
+* [2 mins ago
     
-    ### Why agentic AI will be a huge money-spinner for big tech providers](https://digitpatrox.com/why-agentic-ai-will-be-a-huge-money-spinner-for-big-tech-providers/)
-* [14 mins ago
+    ### How to see what’s taking up space on a hard drive on Windows 10](https://digitpatrox.com/how-to-see-whats-taking-up-space-on-a-hard-drive-on-windows-10/)
+* [12 mins ago
     
-    ### Pay Once, Host Forever with HostVerge WordPress Hosting for $40](https://digitpatrox.com/pay-once-host-forever-with-hostverge-wordpress-hosting-for-40/)
-* [30 mins ago
+    ### QLED vs. OLED (and QD-OLED): Which TV Tech Is Right for You?](https://digitpatrox.com/qled-vs-oled-and-qd-oled-which-tv-tech-is-right-for-you/)
+* [15 mins ago
     
-    ### New on Apple TV Plus in November 2024 — all the movies and shows to watch](https://digitpatrox.com/new-on-apple-tv-plus-in-november-2024-all-the-movies-and-shows-to-watch/)
+    ### Volvo and Polestar EVs Can Now Use Tesla’s Superchargers](https://digitpatrox.com/volvo-and-polestar-evs-can-now-use-teslas-superchargers/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [3 weeks ago
     
-    ### Verizon Is Having a Massive Outage Right Now](https://digitpatrox.com/verizon-is-having-a-massive-outage-right-now/)
-* [5 days ago
+    ### What is Cursor AI, the ChatGPT Replacement for Coding](https://digitpatrox.com/what-is-cursor-ai-the-chatgpt-replacement-for-coding/)
+* [September 20, 2024
     
-    ### Vendor Spotlight: Cyscale](https://digitpatrox.com/vendor-spotlight-cyscale/)
-* [August 18, 2024
+    ### High wire acts, Microsoft Clippy, and DIY AI at Dreamforce 2024](https://digitpatrox.com/high-wire-acts-microsoft-clippy-and-diy-ai-at-dreamforce-2024/)
+* [7 days ago
     
-    ### Get a Lifetime Subscription of FastestVPN for just $30](https://digitpatrox.com/get-a-lifetime-subscription-of-fastestvpn-for-just-30/)
+    ### My Favorite Way to Motivate Myself to Clean a Bit Every Day](https://digitpatrox.com/my-favorite-way-to-motivate-myself-to-clean-a-bit-every-day/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Bypass blocks and access Anthropic](https://digitpatrox.com/bypass-blocks-and-access-anthropic/)
-* [3 hours ago
+    ### QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://digitpatrox.com/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
+* [2 hours ago
     
-    ### What is chaos engineering and how can it benefit businesses?](https://digitpatrox.com/what-is-chaos-engineering-and-how-can-it-benefit-businesses/)
-* [3 hours ago
+    ### Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
+* [2 hours ago
     
-    ### The genAI emperor has no clothes – Computerworld](https://digitpatrox.com/the-genai-emperor-has-no-clothes-computerworld/)
+    ### Apple Launches Smaller Mac mini with M4 Chips, 64GB RAM, and Thunderbolt 5](https://digitpatrox.com/apple-launches-smaller-mac-mini-with-m4-chips-64gb-ram-and-thunderbolt-5/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
