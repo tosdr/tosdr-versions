@@ -99,17 +99,17 @@ Home[Why Trust.Zone?](https://trust.zone/trustzone-vpn)[VPN Software](https://tr
 
 ### Latest News
 
-#### 26 October, 2024 17:21:49
+#### 30 October, 2024 02:12:11
+
+#### [Trust.Zone VPN Now Supports VLESS Protocol](https://trust.zone/post/trust.zone-vpn-now-supports-vless-protocol)
+
+We’re excited to share that Trust.Zone VPN now supports the VLESS protocol!...  
+
+#### 30 October, 2024 00:11:53
 
 #### [Happy Halloween! A Sweet Treat: Get 6 Months for FREE Now!](https://trust.zone/post/who-says-halloween-has-to-wait-get-6-months-for-free-now)
 
 Halloween magic is already in the air!  Find your treats with our special...  
-
-#### 15 October, 2024 22:13:30
-
-#### [PROMO CODE for Trust.Zone VPN. 24 Hours Left!](https://trust.zone/post/missed-our-sale-here-is-62-off-coupon-code)
-
-Need a PROMO CODE for 3 Years Plan? Here is a SPECIAL DEAL! Enter a...  
 
 [Read News >](https://trust.zone/blog)
 
