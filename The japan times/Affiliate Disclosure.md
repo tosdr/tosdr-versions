@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 29, 2024](https://www.japantimes.co.jp/archive/2024/10/29/ "archive page")
+[October 30, 2024](https://www.japantimes.co.jp/archive/2024/10/30/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,56 +131,34 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
-  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
 [Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
   [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
-[As it happened: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
-
-  [![A polling station at a local school in Tokyo on Sunday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430377.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A polling station at a local school in Tokyo on Sunday")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
-
-[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
-
-  [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
-
 [Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
   [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+
+[Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
+
+  [![Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
+
+[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
+
+  [![The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430685.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.")](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan faces political upheaval after LDP-led coalition loses majority](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
-By [Kanako Takahara](https://www.japantimes.co.jp/author/162/kanako-takahara/ "Kanako Takahara") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430457.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba during an interview with reporters at the Liberal Democratic Party's headquarters in Tokyo on Sunday night")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/lower-house-election-results/ "Japan faces political upheaval after LDP-led coalition loses majority")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
 [Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
   [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[As it happened: Japan's Lower House election 2024](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
-
-  [![A polling station at a local school in Tokyo on Sunday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430377.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A polling station at a local school in Tokyo on Sunday")](https://www.japantimes.co.jp/news/2024/10/27/japan/politics/live-update-japan-lower-house-election-2024/ "As it happened: Japan's Lower House election 2024")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Fujikyu Railway weighs legal action over foreign tourist dance video](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/25/430068.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Fujikyu Railway, a group of around 10 people, who appear to be foreign nationals, boarded a train at Fujikyu-Highland Station on Oct. 16 and filmed themselves dancing onboard before they got off at Otsuki Station.")](https://www.japantimes.co.jp/news/2024/10/25/japan/society/foreign-tourists-dance-video/ "Fujikyu Railway weighs legal action over foreign tourist dance video")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -189,6 +167,28 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
   [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
+
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
+
+  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Delay in Mount Fuji snowcap formation breaks record](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
+
+  [![The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430685.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The volcano's snowcap begins forming on Oct. 2 on average, and last year snow was first detected there on Oct. 5.")](https://www.japantimes.co.jp/news/2024/10/28/japan/mount-fuji-snowcap-delay/ "Delay in Mount Fuji snowcap formation breaks record")
 
 Podcast
 -------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Georgia and Moldova votes show challenges of EU enlargement push](https://www.japantimes.co.jp/news/2024/10/29/world/politics/eu-enlargement-push-hurdles/ "Georgia and Moldova votes show challenges of EU enlargement push")
+
+3 hours ago
+
+[Hezbollah names Naim Qassem as its new leader](https://www.japantimes.co.jp/news/2024/10/29/world/hezbollah-new-leader/ "Hezbollah names Naim Qassem as its new leader")
+
+3 hours ago
+
+[Japan posts record number of heatstroke patients in five-month period](https://www.japantimes.co.jp/news/2024/10/29/japan/japan-heatstroke-five-month-record/ "Japan posts record number of heatstroke patients in five-month period")
+
+4 hours ago
+
+[Japan continues to see moderate recovery but cuts factory output view](https://www.japantimes.co.jp/business/2024/10/29/economy/japan-moderate-economic-recovery/ "Japan continues to see moderate recovery but cuts factory output view")
+
+4 hours ago
+
 [Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-35 mins ago
-
-[North Korean troops in Russia could have dangerous ramifications for Asia](https://www.japantimes.co.jp/news/2024/10/29/asia-pacific/nk-troops-in-ukr/ "North Korean troops in Russia could have dangerous ramifications for Asia")
-
-54 mins ago
-
-[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
-
-1 hours ago
-
-[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
-
-1 hours ago
-
-[China reports finding spying devices at sea](https://www.japantimes.co.jp/news/2024/10/29/asia-pacific/politics/china-deep-sea-spying-submarines/ "China reports finding spying devices at sea")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
