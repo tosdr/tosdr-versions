@@ -402,11 +402,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo/zec-msuv-9.jpg?itok=1Td0l5r0)](http://seecult.org/galerija/galerija-umetnika/nikola-dzafo/nikola-dzafo)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-london/hyde-park-020.jpg?itok=jH3oi0Nu)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-london)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/srbinovic.jpg?itok=Q1a7Y8Hd)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![digitalizacija, ubsm](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/univerzitetska-biblioteka-svetozar-markovic/struktura.jpg?itok=-JObP7rN "digitalizacija, ubsm")](http://seecult.org/galerija/foto-galerija/digitalizacija/univerzitetska-biblioteka-svetozar-markovic)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
