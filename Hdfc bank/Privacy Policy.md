@@ -1489,6 +1489,7 @@ We share the SDK Information with service providers, to perform any of the act
 * [Fair Practices Code for Lenders](https://www.hdfcbank.com/personal/about-us/corporate-governance/fair-practice-code-for-lending)
 * [Code for Collection of Dues and Repossession of Security](https://www.hdfcbank.com/content/bbp/repositories/723fb80a-2dde-42a3-9793-7ae1be57c87f/?path=/Common%20Overlays/Feedback/PDFS/Citizens%20Charter/model_collection_repossession_policy.pdf)
 * [Code of Conduct for Direct Selling Agents](https://www.hdfcbank.com/personal/useful-links/important-messages/code-of-conduct-for-direct-selling-agents)
+* [Credit Card Referral Program](https://www.hdfcbank.com/personal/pay/cards/credit-cards/credit-card-services/credit-card-referral-program?mc_id=website_footer&icid=website_footer)
 
 * [Resources](https://www.hdfcbank.com/personal/resources)
 * [Home Loan](https://www.hdfc.com/housing-loans/home-loans)
