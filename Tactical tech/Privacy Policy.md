@@ -349,7 +349,7 @@ Tactical Tech
 Hermannstrasse 90  
 12051 Berlin, Germany
 
-[www.tacticaltech.org](https://tactocalttech.org/)
+[www.tacticaltech.org](https://tacticaltech.org/)
 
 [ttc@tacticaltech.org](mailto:ttc@tacticaltech.org)
 
