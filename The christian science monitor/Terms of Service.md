@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 25, 2024
+October 28, 2024
 
-A new editor for the Monitor
+The election homestretch
 
-For many in the newsroom, Christa Case Bryant was one of those people you just knew would be editor someday. There’s the commitment to fairness that has been the Monitor’s hallmark for decades. There’s the reporting awards for covering Congress that show Monitor journalism at its best. And there’s the deep understanding and love for the Monitor’s mission and essential connection to Christian Science.Well, as some of you now know, it has happened. With my family likely to remain in Germany for some time, I am stepping down, and I could not be happier to see Christa taking the position. Former Editor Willis Abbot said, “What newspaperman in the world wouldn’t be proud to be editor of The Christian Science Monitor!” It was an honor to do it for eight years.Christa not only brings her credentials, but will also be the second woman to hold the post in our 116-year history. For a news organization founded by a woman, Mary Baker Eddy, that seems worthy of a cheer. You can read the official announcement here.I’ve got much more I’m excited to do at the Monitor and will be taking a senior role, to be announced in January. Until then, I’ll continue to be your cruise director here and work to help Christa hit the ground running, with a transition planned for early next year. Please help me welcome her to the job.
+My sister used to be in politics, and she said elections were all about building a narrative that would crescendo in the final days before the vote. In some ways, that same calendar applies to the Monitor, too. In the homestretch before the United States presidential election, you’ll see us focusing on many stories that set the scene for next Tuesday – less as prognostications, more as highlighting trends and setting expectations. The hope is to help keep you focused on what’s going on beneath the noise.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
