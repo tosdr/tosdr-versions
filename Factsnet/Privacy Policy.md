@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Leadhillite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
+[![35 Facts About Tiniest Houses ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22101%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/35-facts-about-tiniest-houses/)
+
+Lifestyle
+
+28 Oct 2024
+
+[35 Facts About Tiniest Houses](https://facts.net/lifestyle/35-facts-about-tiniest-houses/)
+
+[![50 Facts About Lepidolite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-lepidolite/)
 
 Earth Sciences
 
 28 Oct 2024
 
-[30 Facts About Leadhillite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-leadhillite/)
-
-[![35 Facts About Nematodes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22123%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/35-facts-about-nematodes/)
-
-Animals
-
-28 Oct 2024
-
-[35 Facts About Nematodes](https://facts.net/nature/animals/35-facts-about-nematodes/)
+[50 Facts About Lepidolite](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-lepidolite/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
