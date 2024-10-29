@@ -501,7 +501,7 @@ Events & Demos
 * [AI-Native NOW](https://www.juniper.net/us/en/events/ai-native-now.html)
 * [The Feed (Videos & Podcasts)](https://www.juniper.net/us/en/the-feed.html)
 * [Juniper Summit](https://www.juniper.net/us/en/the-feed/summits.html)
-* [All Global Events](https://events.juniper.net/)
+* [All Global Events](https://www.juniper.net/us/en/events.html)
 
 * [Demos, Offers & Trials](javascript:void(0);)
 * [Test Drive Juniper](https://www.juniper.net/us/en/try.html)
