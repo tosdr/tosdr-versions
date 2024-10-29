@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [ARMORED CORE VI FIRES OF RUBICON - Patch Notes 1.07.2](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-patch-notes-1072)
 * [Little Nightmares II Enhanced Edition gets a retail edition, available now!](https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-ii-enhanced-edition-gets-retail-edition-available-now)
-* [The Unknown 9 Universe Glossary](https://en.bandainamcoent.eu/unknown-9/news/the-unknown-9-universe-glossary)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
