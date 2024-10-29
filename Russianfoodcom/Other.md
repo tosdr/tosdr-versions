@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,8 +148,6 @@
 
 Сейчас читают
 
-* [Жареная рыба в сметанном кляре](https://www.russianfood.com/recipes/recipe.php?rid=165757)
-* [Мясные тефтели, запечённые с бататом](https://www.russianfood.com/recipes/recipe.php?rid=173993)
 * [Свекольные рулетики с творожной начинкой](https://www.russianfood.com/recipes/recipe.php?rid=174405)
 * [Закуска из свёклы с яйцом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=171614)
 * [Десерт с печеньем, джемом и сливочно-сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174232)
@@ -158,6 +156,8 @@
 * [Мини-слойки с творогом и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=171573)
 * [Винное желе с бананами и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=171426)
 * [Слоёный салат с шампиньонами, маринованными огурцами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=172921)
+* [Винегрет с квашеной капустой и морковью по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=164965)
+* [Макароны в морковно-сырном соусе](https://www.russianfood.com/recipes/recipe.php?rid=172980)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Овощи, запечённые с курицей](https://www.russianfood.com/recipes/recipe.php?rid=174325) |     |
+
+[![Фото к рецепту: Овощи, запечённые с курицей](//img1.russianfood.com/dycontent/images_upl/742/sm_741322.jpg "Фото к рецепту: Овощи, запечённые с курицей")](https://www.russianfood.com/recipes/recipe.php?rid=174325)
+
+Приготовление такого вкусного блюда не требует особых кулинарных навыков. Здесь и баклажаны, и цукини, и помидоры, и сладкий перец. И всё это запекают с куриным мясом. Курица и овощи получаются сочными, нежными и очень ароматными.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174325)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174325#comments) | 29.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -248,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173838#comments) | 28.10.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173838#comments) | 28.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22782#comments) | 27.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Сытные блюда на новый лад. ФАСОЛЬ по-необычному (20)](https://www.russianfood.com/reading/?post_id=22779) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/716/sm_715627.jpg)](https://www.russianfood.com/reading/?post_id=22779)
-
-Тушёная стручковая фасоль в томатном соусе. Чили кон карне из говядины с фасолью и помидорами. Запеканка из капусты с курицей и консервированной фасолью. Пряная курица, тушенная с чесноком и красной фасолью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22779)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22779#comments) | 26.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728221.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736172.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731647.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736334.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173385) |
-| [Потпаи с мясом и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173387) | [Мясные тефтели, запечённые с бататом](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [Рыба, запечённая с помидорами черри (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [Постный манник на воде и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173385) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736172.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [![](//img1.russianfood.com/dycontent/images_upl/732/alt1_731647.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736334.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741322.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174325) | [![](//img1.russianfood.com/dycontent/images_upl/729/alt1_728221.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173387) |
+| [Мясные тефтели, запечённые с бататом](https://www.russianfood.com/recipes/recipe.php?rid=173993) | [Рыба, запечённая с помидорами черри (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173838) | [Постный манник на воде и растительном масле](https://www.russianfood.com/recipes/recipe.php?rid=173385) | [Овощи, запечённые с курицей](https://www.russianfood.com/recipes/recipe.php?rid=174325) | [Потпаи с мясом и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173387) |
 
 |     |     |     |
 | --- | --- | --- |
