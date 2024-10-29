@@ -240,11 +240,16 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Want to integrate our service into your own application?
+![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
 
   
-[Check out our API](https://www.dynu.com/Resources/API)  
   
+
+### Free for Open Source Projects
+
+We love open source projects. Contact us with details of your project.  
+  
+[Contact Us](https://www.dynu.com/Support/ContactUs)
 
 ### News
 
