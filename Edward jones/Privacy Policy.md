@@ -97,7 +97,7 @@ Learn what you can do if you suspect you’re a victim of fraud.
     
 * ![](/sites/default/files/styles/teaser_image_small/public/acquiadam/2022-07/iStock-1163901757.jpg.webp?itok=Xhm6ygwi)
     
-    [Edward Jones Privacy Policy](https://www.edwardjones.com/us-en/privacy/online-privacy-policy)
+    [Edward Jones Privacy Statement](https://www.edwardjones.com/us-en/privacy/online-privacy-policy)
     
 
 Back to Top
