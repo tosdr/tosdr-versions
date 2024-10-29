@@ -536,7 +536,6 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
                 * [Start](https://www.mpi-hd.mpg.de/mpi/en/institute/infrastructure/technical-units/engineering-design-office "Start")
                 * [Project Images](https://www.mpi-hd.mpg.de/mpi/en/institute/infrastructure/technical-units/engineering-design-office/project-images "Project Images")
         * [Safety](https://www.mpi-hd.mpg.de/mpi/en/institute/infrastructure/safety "Safety")
-        * [Guesthouse](https://www.mpi-hd.mpg.de/mpi/en/institute/infrastructure/guesthouse "Guesthouse")
     * [Contact](https://www.mpi-hd.mpg.de/mpi/en/institute/contact "Contact")
         * [Contact Persons](https://www.mpi-hd.mpg.de/mpi/en/institute/contact/contact-persons "Contact Persons")
             * [Works Council](https://www.mpi-hd.mpg.de/mpi/en/institute/infrastructure/works-council "Works Council")
