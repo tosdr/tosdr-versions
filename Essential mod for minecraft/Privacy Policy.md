@@ -17,22 +17,25 @@ Privacy Policy Summary
 
 #### Summary
 
-This summary is provided for ease of understanding how our platform works and does not constitute a substitution for reviewing our complete Privacy Policy below (last updated on September 10, 2021).
+This summary is provided for ease of understanding about the information we collect from you and how we process such information, and does not constitute a substitution for reviewing our complete Privacy Policy below (last updated on October 28, 2024) (the “**Privacy Policy**”). PLEASE REVIEW THE PRIVACY POLICY IN DETAIL BEFORE USING THE SERVICE, AS IT CONTAINS MORE DETAILED EXPLANATIONS THAN ARE SET FORTH IN THIS SUMMARY ABOUT ESSENTIAL’S DATA PRIVACY PRACTICES AND YOUR CORRESPONDING RIGHTS.
 
-Essential collects a limited amount of data and personal information in order to operate its products and services. Personally identifiable information is kept **confidential** and is never released to third parties unless required to comply with court orders and for child safety as required by regulators. We may release anonymized, aggregated statistics to third parties, such as mod developers to report how many players their mod has. You may withdraw your consent to Essential's transmission of personally identifiable information only by no longer using our platform, products, and services, as further described in Essential's Terms of Use and Privacy Policy.
+Essential collects a limited amount of Personal Information that you provide when using the Service (each as defined in the Privacy Policy) in order to operate the Service. Personal Information is kept **confidential** and is **not shared with third parties**, except to comply with legal requirements or as otherwise set forth in the Privacy Policy. Anonymized, aggregated statistics and usage information may be shared with third parties, as further described in the Privacy Policy. You may withdraw your consent to certain of ModCore's uses of your Personal Information at any time by no longer using the Service or, to the extent applicable to you, by exercising the rights set forth under the “Your Rights” Section of the Privacy Policy.
 
-#### What data we collect
+The information we collect helps us improve the Service’s functionality, troubleshoot issues, and ensure the security of the Service. By collecting usage data, device specifications, and user interactions, we can better understand how our users engage with the Service and make necessary changes and/or enhancements. We prioritize user privacy and employ various measures to safeguard your Personal Information from unauthorized disclosure, and we aim to maintain transparency about our data practices through the Privacy Policy. Please read the Privacy Policy.
 
-Essential collects the following information from users who accept our Privacy Policy and Terms of Service through their continued use of the platform, products, and services:
+#### What Data We Collect
 
-* Minecraft UUID
-* Minecraft Platform (Version (1.8.9, 1.18.2, etc), Loader (Forge, Fabric, Vanilla), Loader version (2318, 0.1.14))
-* Minecraft Mod Checksums (MD5 digests are a unique file signature that allows us to identify if a specific mod is known to us without knowing what the contents of the mod are)
-* Which user interfaces players enter during their session (For example the Essential settings menu or the Wardrobe)
-* Which cosmetics users preview in our player customizer
-* State of settings being randomly A/B tested (Learn more about A/B test [here](https://en.wikipedia.org/wiki/A/B_testing))
-* Which Minecraft servers players join (when enabled in privacy settings)
-* Your computer specifications (CPU, GPU, Operating System)
+Essential collects the following information, some of which may constitute Personal Information, from users who accept our Privacy Policy and Terms of Service through their continued use of the Service:
+
+* Your Account (as defined in the Privacy Policy) information, email address, and Minecraft UUID (as defined in the Privacy Policy);
+* Usage times and dates, time zone, language, screen resolution, and device settings;
+* Items you purchased, configurations made to these items, Minecraft version, Mod (as defined in the Privacy Policy) loader version, and concurrent Mods;
+* Your browser type, operating system, IP address, referring/exit pages, unique device identifiers, and push notification token;
+* Activity linked to your email or your Minecraft UUID;
+* Metadata from your user content (Account name, Minecraft UUID);
+* Supplementary information pertaining to you that we receive from third parties; and
+* Information provided by you during customer support interactions.
+* Geolocation information, such as the country, State, or territory where you are located when you access the Service (which information will be subsequently anonymized by Essential).
 
 #### Content
 
