@@ -407,6 +407,7 @@ DUDE PERFECT
 SUPPORT
 -------
 
+* [FAQS](https://dudeperfect.store/pages/faqs)
 * [Returns](https://dudeperfect.store/a/return)
 * [Return and Refund Policy](https://dudeperfect.store/policies/refund-policy)
 * [Privacy Policy](https://dudeperfect.store/policies/privacy-policy)
