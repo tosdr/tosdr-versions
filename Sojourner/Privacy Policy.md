@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b819d4587a3cf4adced2435bd9114d35
+e36f79aa05410cf3b4451af8a72bf130
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![EB14 bead](https://www.sojourner.biz/images/cache/EB14l.200.jpg)](https://www.sojourner.biz/beads/metal/eb14-bead.html "EB14 bead")
+[![10 mm round larimar beads](https://www.sojourner.biz/images/cache/stone/STN043.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
 
-#### [EB14 bead](https://www.sojourner.biz/beads/metal/eb14-bead.html "EB14 bead")
+#### [10 mm round larimar beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-round-larimar-beads.html "10 mm round larimar beads")
 
-$8.20
+$41.00
 
 ### Best Sellers
 
