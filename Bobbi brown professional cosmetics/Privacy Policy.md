@@ -346,9 +346,7 @@ Suggested searches
 
 [Vitamin Enriched Face Base](https://www.bobbibrowncosmetics.com/product/14007/7485/Skincare/Moisturizer/Vitamin-Enriched-Face-Base/VEFB)
 
-[Palettes](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets)
-
-[Offers](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Palettes and Sets](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets)
 
 [Sign in](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
