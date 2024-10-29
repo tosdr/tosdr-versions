@@ -209,6 +209,7 @@ this hour
 * * *
 
 * [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
+* [Scientists Reverse Brain Aging in Fruit Flies](https://www.sciencedaily.com/releases/2024/10/241028164423.htm)
 * [Lab-Grown Pork Support Fromed by Sorghum Grain](https://www.sciencedaily.com/releases/2024/10/241028131649.htm)
 * [Seeing a Black Hole's Jet in a New Light](https://www.sciencedaily.com/releases/2024/10/241028131413.htm)
 * [Pythons Can Swallow Even Bigger Prey](https://www.sciencedaily.com/releases/2024/10/241028131408.htm)
@@ -217,7 +218,6 @@ this hour
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
 * [Arid Regions: Capturing Water Vapor from Air](https://www.sciencedaily.com/releases/2024/10/241025122821.htm)
-* [Saturn's Moon Titan Has Thick Insulating Crust](https://www.sciencedaily.com/releases/2024/10/241025122818.htm)
 
 Trending Topics
 ---------------
@@ -230,9 +230,9 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
-
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
-
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
   
 
