@@ -4,7 +4,7 @@
 
 [Sign Up To Save](https://gitkraken.dev/purchase?planType=PRO&planQuantity=1&promoCode=DEVEXDAYS24)
 
-Our Lowest Price of the Year **Sale Extended to Oct 28th**
+Our Lowest Price of the Year **Sale ends soon**
 
 [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-logo.svg)](https://www.gitkraken.com/)
 
@@ -75,7 +75,7 @@ Our Lowest Price of the Year **Sale Extended to Oct 28th**
     * * [Workshops](https://www.gitkraken.com/workshops)
         * [Learn Git Library](https://www.gitkraken.com/learn/git)
         * [Git Blog](https://www.gitkraken.com/blog)
-        * [GitKon ’23](https://gitkon.com/)
+        * [GitKon ’24](https://gitkon.com/)
         
         * [Sample Customers](https://www.gitkraken.com/sample-customers)
         * [Customer Stories](https://www.gitkraken.com/media#customer-stories)
