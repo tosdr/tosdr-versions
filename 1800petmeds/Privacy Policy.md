@@ -2,12 +2,9 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 
               Privacy Policy                                        
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwbc6b41fe/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw9fd18ada/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-Products Education 
-
-Popular Searches
-----------------
+Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc0539813/images/close-icon.svg)
 
 * [Dog Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
 * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html)
@@ -16,24 +13,15 @@ Popular Searches
 
   
 
-* [Quick Reorder](https://www.1800petmeds.com/order-history)
-* [Contact Us](https://www.1800petmeds.com/help.html)
+* [Contact Us](https://www.1800petmeds.com/)
+* [Talk to a Veterinarian](https://www.1800petmeds.com/vetster)
 * [Sign In](https://www.1800petmeds.com/login)
-    * [My Account](https://www.1800petmeds.com/mypetmed)
-    * [My Orders](https://www.1800petmeds.com/order-history)
-    * [My Appointments](https://www.1800petmeds.com/appointments)
-    * [Manage Autoship](https://www.1800petmeds.com/manage-autoship)
-    * [My Settings](https://www.1800petmeds.com/mypetmed#settings)
-    * [Sign In](https://www.1800petmeds.com/login)
-    * [New Customer](https://www.1800petmeds.com/mypetmed?newcustomer=true)
 * [Cart 0](https://www.1800petmeds.com/cart "Cart")
     
 
-MENU CLOSE
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw16b43541/images/petmeds-mobile-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwbc6b41fe/images/newlogo_v1.svg)](https://www.1800petmeds.com/ "PetMeds Home")
-
-[Sign In](https://www.1800petmeds.com/login)
+[![Sign In](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw9c2ae0d5/images/profile.svg)](https://www.1800petmeds.com/login)
 
 [Cart 0](https://www.1800petmeds.com/cart "Cart")
 
