@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Orc army having problems translating commands for Best Korean soldiers. Surely the Norcs can understand "run forward, get shot"](https://www.fark.com/goto/13444634) ( [cnn.com](https://www.fark.com/goto/13444634) ) » [(24 comments)](https://www.fark.com/comments/13444634/Orc-army-having-problems-translating-commands-for-Best-Korean-soldiers-Surely-Norcs-can-understand-run-forward-get-shot) |
-| [Discussion](https://www.fark.com/discussion/) | [Arctic adventure for free](https://www.fark.com/goto/13444378) ( [fjordcowork.com](https://www.fark.com/goto/13444378) ) » [(1 comment)](https://www.fark.com/comments/13444378/Arctic-adventure-for-free) |
-| [Sports](https://www.fark.com/sports/) | [Paraglider gets a surprise flight to 24,000 feet thanks to a storm](https://www.fark.com/goto/13444370) ( [avweb.com](https://www.fark.com/goto/13444370) ) » [(2 comments)](https://www.fark.com/comments/13444370/Paraglider-gets-a-surprise-flight-to-24000-feet-thanks-to-a-storm) |
-| [Business](https://www.fark.com/business/) | [HeyDude, you're making Crocs look bad and that's saying something](https://www.fark.com/goto/13444632) ( [prnewswire.com](https://www.fark.com/goto/13444632) ) » [(1 comment)](https://www.fark.com/comments/13444632/HeyDude-youre-making-Crocs-look-bad-thats-saying-something) |
-| [STEM](https://www.fark.com/stem/) | [Admit it - you felt sorry for WALL\*E while he protected EVE for so long, didn't you?](https://www.fark.com/goto/13444424) ( [techxplore.com](https://www.fark.com/goto/13444424) ) » [(3 comments)](https://www.fark.com/comments/13444424/Admit-it-you-felt-sorry-for-WALLE-while-he-protected-EVE-for-so-long-didnt-you) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Happy 68th - D'OH - 67th birthday to Dan Castellaneta](https://www.fark.com/goto/13444580) ( [imdb.com](https://www.fark.com/goto/13444580) ) » [(5 comments)](https://www.fark.com/comments/13444580/Happy-68th-DOH-67th-birthday-to-Dan-Castellaneta) |
-| [Fandom](https://www.fark.com/fandom/) | [The evolution of horror in 10 revolutionary films to the left, terrifying commentary and suggestions to the right](https://www.fark.com/goto/13444592) ( [theguardian.com](https://www.fark.com/goto/13444592) ) » [(4 comments)](https://www.fark.com/comments/13444592/The-evolution-of-horror-in-10-revolutionary-films-to-left-terrifying-commentary-suggestions-to-right) |
-| [D'awww](https://www.fark.com/dawww/) | [No ancient hairballs found](https://www.fark.com/goto/13443866) ( [livescience.com](https://www.fark.com/goto/13443866) ) » [(2 comments)](https://www.fark.com/comments/13443866/No-ancient-hairballs-found) |
-| [Food](https://www.fark.com/food/) | [You're serious? Let me laugh even harder](https://www.fark.com/goto/13444616) ( [thetakeout.com](https://www.fark.com/goto/13444616) ) » [(11 comments)](https://www.fark.com/comments/13444616/Youre-serious-Let-me-laugh-even-harder) |
-| [Politics](https://www.fark.com/politics/) | [Jeff Bezos has written his own op-ed to defend his decision, arguing that he doesn't want to show any pro-democracy bias](https://www.fark.com/goto/13444586) ( [yahoo.com](https://www.fark.com/goto/13444586) ) » [(9 comments)](https://www.fark.com/comments/13444586/Jeff-Bezos-has-written-his-own-op-ed-to-defend-his-decision-arguing-that-he-doesnt-want-to-show-any-pro-democracy-bias) |
+| [Main](https://www.fark.com/) | [Apple reseller turns into pop-up tram stop](https://www.fark.com/goto/13444708) ( [metro.co.uk](https://www.fark.com/goto/13444708) ) » [(1 comment)](https://www.fark.com/comments/13444708/Apple-reseller-turns-into-pop-up-tram-stop) |
+| [Discussion](https://www.fark.com/discussion/) | [Doppelganger: the Russian troll farm behind your grandma's wildest Facebook theories about the Queen's 'secret twin'](https://www.fark.com/goto/13444400) ( [metro.co.uk](https://www.fark.com/goto/13444400) ) » [(0 comments)](https://www.fark.com/comments/13444400/Doppelganger-Russian-troll-farm-behind-your-grandmas-wildest-Facebook-theories-about-Queens-secret-twin) |
+| [Sports](https://www.fark.com/sports/) | ["Hey, you know what those Kansas Chiefs REALLY need right now? One more stud on their D-Line" said no one, ever, this season, particularly not any team that's likely to face them in the playoffs](https://www.fark.com/goto/13444876) ( [msn.com](https://www.fark.com/goto/13444876) ) » [(2 comments)](https://www.fark.com/comments/13444876/Hey-you-know-what-those-Kansas-Chiefs-REALLY-need-right-now-One-more-stud-on-their-D-Line-said-no-one-ever-this-season-particularly-not-any-team-thats-likely-to-face-them-in-playoffs) |
+| [Business](https://www.fark.com/business/) | [I suppose it's the season for talking about 'ghost jobs'](https://www.fark.com/goto/13444862) ( [indy100.com](https://www.fark.com/goto/13444862) ) » [(3 comments)](https://www.fark.com/comments/13444862/I-suppose-its-season-for-talking-about-ghost-jobs) |
+| [STEM](https://www.fark.com/stem/) | [Science powers of the oldest active astronaut have not grown weak. And he is A) retiring from NASA to take up boxing. B) back in the ISS to science the fark out of everything](https://www.fark.com/goto/13444620) ( [arstechnica.com](https://www.fark.com/goto/13444620) ) » [(0 comments)](https://www.fark.com/comments/13444620/Science-powers-of-oldest-active-astronaut-have-not-grown-weak-And-he-is-A-retiring-from-NASA-to-take-up-boxing-B-back-in-ISS-to-science-fark-out-of-everything) |
+| [Entertainment](https://www.fark.com/entertainment/) | [An Enterprise by any other name still stinks](https://www.fark.com/goto/13444748) ( [slashfilm.com](https://www.fark.com/goto/13444748) ) » [(2 comments)](https://www.fark.com/comments/13444748/An-Enterprise-by-any-other-name-still-stinks) |
+| [Fandom](https://www.fark.com/fandom/) | [An Enterprise by any other name still stinks](https://www.fark.com/goto/13444748) ( [slashfilm.com](https://www.fark.com/goto/13444748) ) » [(2 comments)](https://www.fark.com/comments/13444748/An-Enterprise-by-any-other-name-still-stinks) |
+| [D'awww](https://www.fark.com/dawww/) | [Ugly-ass baby mountain bongo born in safari park. No news on mountain congas](https://www.fark.com/goto/13444684) ( [bbc.com](https://www.fark.com/goto/13444684) ) » [(0 comments)](https://www.fark.com/comments/13444684/Ugly-ass-baby-mountain-bongo-born-in-safari-park-No-news-on-mountain-congas) |
+| [Food](https://www.fark.com/food/) | [You've always wondered if a cow would be a good sous chef, haven't you? Of course you have](https://www.fark.com/goto/13444688) ( [facebook.com](https://www.fark.com/goto/13444688) ) » [(2 comments)](https://www.fark.com/comments/13444688/Youve-always-wondered-if-a-cow-would-be-a-good-sous-chef-havent-you-Of-course-you-have) |
+| [Politics](https://www.fark.com/politics/) | [Since Trump can't fire the entire government, the new plan is to traumatize everyone into quitting](https://www.fark.com/goto/13444928) ( [motherjones.com](https://www.fark.com/goto/13444928) ) » [(8 comments)](https://www.fark.com/comments/13444928/Since-Trump-cant-fire-entire-government-new-plan-is-to-traumatize-everyone-into-quitting) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 09:43:44  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 15:42:52  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
