@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Are synthetic food dyes bad for you? Here’s what the science says.](https://www.sciencenews.org/article/synthetic-food-dye-science-ban)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")18 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 28, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A common kitchen tool could help koala conservation](https://www.sciencenews.org/article/common-kitchen-tool-koala-conservation)
             
-            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")20 hours ago
+            By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")October 28, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Environment](https://www.sciencenews.org/topic/environment)
+    * * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [An idea to save Mexico’s oyamel forests could help monarch butterflies too](https://www.sciencenews.org/article/mexicos-forests-monarch-butterflies)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [How tiny phytoplankton trek long distances upward in the ocean](https://www.sciencenews.org/article/phytoplankton-trek-upward-ocean)
             
             By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")October 17, 2024
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 10, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
