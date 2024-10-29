@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (470)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (805)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1165,12 +1165,20 @@ It is the policy of AC Group to obtain information enabling to assess the purpos
 
 ### CONTROLS AND PROCEDURES (security management as laid down in the document “laundering of transactions prevention manual ”)
 
-* The responsible AC Officer will obtain Know Your Client’s Business information from Studio’s/Performers (both individual and non-individual) on the platform: \*on acceptance of Studio’s/Performers on any significant change in the Studio’s/Performers agreements such as the size or frequency of transactions, nature of business conducted, involvement of new parties or jurisdictions as an ongoing exercise throughout the relationship with the Platform User. Know Your Client’s Business information sought from Platform Users will include, but not be limited to:
-* the purpose or need and business justification of the services the Platform User is selling on the platform as a Studio/Performer to the Users and by using the E-wallet for the pay-outs to the Platform Users..
-* the provenance of funds or assets involved in the Platform User’s sales.
-* the nature, size, frequency, source and destination of anticipated transactions of the Studio/Performer (volume and destination of the transactions).
-* the business justification for all uses of structures and entities (if applicable).
-* the counter-parties and jurisdictions concerned. The information will be obtained by asking the Platform User pertinent questions, and the answers given by the Platform User will be verified where this is possible within the course of normal conduct of the relationship (survey Platform User). Information provided by the Platform User will be recorded on the Platform User account, to assist with future monitoring of the Platform User relationship (Flag on account monitoring). Answers not readily verifiable should nevertheless be considered together with other details known about or given by the Platform User to check that all the information is consistent and plausible. Where answers given by the Platform User are implausible, or inconsistent with other information, or where the Platform User is unwilling to provide satisfactory \*\* answers to due diligence enquiries, the responsible AC Officer will consider whether AC Group should commence the relationship or withdraw from the relationship. Know Your Client’s Business information, or the lack of it, will be taken into account by all staff when considering possible grounds to suspect money laundering.
+* The responsible AC Officer will obtain Know Your Client’s Business information from Studio’s/Performers (both individual and non-individual) on the platform:
+
+\*on acceptance of Studio’s/Performers on any significant change in the Studio’s/Performers agreements such as the size or frequency of transactions, nature of business conducted, involvement of new parties or jurisdictions as an ongoing exercise throughout the relationship with the Platform User.  
+Know Your Client’s Business information sought from Platform Users will include, but not be limited to:  
+\* the purpose or need and business justification of the services the Platform User is selling on the platform as a Studio/Performer to the Users and by using the E-wallet for the pay-outs to the Platform Users.  
+\* the provenance of funds or assets involved in the Platform User’s sales.  
+\* the nature, size, frequency, source and destination of anticipated transactions of the Studio/Performer (volume and destination of the transactions).  
+\* the business justification for all uses of structures and entities (if applicable).  
+\* the counter-parties and jurisdictions concerned.  
+The information will be obtained by asking the Platform User pertinent questions, and the answers given by the Platform User will be verified where this is possible within the course of normal conduct of the relationship (survey Platform User).  
+Information provided by the Platform User will be recorded on the Platform User account, to assist with future monitoring of the Platform User relationship (Flag on account monitoring).  
+Answers not readily verifiable should nevertheless be considered together with other details known about or given by the Platform User to check that all the information is consistent and plausible.  
+Where answers given by the Platform User are implausible, or inconsistent with other information, or where the Platform User is unwilling to provide satisfactory answers to due diligence enquiries, the responsible AC Officer will consider whether AC Group should commence the relationship or withdraw from the relationship.  
+Know Your Client’s Business information, or the lack of it, will be taken into account by all staff when considering possible grounds to suspect money laundering.
 
 POLICY AND PROCEDURE FOR ONGOING MONITORING OF THEPLATFORM USERS
 ----------------------------------------------------------------
@@ -1192,7 +1200,7 @@ It is the policy of AC Group to establish and maintain systems to keep records o
 
 ### CONTROLS AND PROCEDURES
 
-* When information is being collected for AML Platform User, the responsible AC Officer will ensure that: \*information collected is recorded in a consistent manner in the Platform User account, or other appropriate place, and that records held in different places are cross- referenced where appropriate, so that information is accessible by and comprehensible to other authorized members of staff, including the Compliance Officer \*all instances are recorded where information requested has not been forthcoming, or explanations provided have not been satisfactory.
+* When information is being collected for AML Platform User, the responsible AC Officer will ensure that: \* information collected is recorded in a consistent manner in the Platform User account, or other appropriate place, and that records held in different places are cross- referenced where appropriate, so that information is accessible by and comprehensible to other authorized members of staff, including the Compliance Officer. \* All instances are recorded where information requested has not been forthcoming, or explanations provided have not been satisfactory.
 * AC Group shall have systems to routinely archive records along with AC Group’s accounting records to ensure their availability for a minimum of the legal requirements from the date of the completion of the transaction or enquiry.
 * AC Group shall have data retrieval systems which facilitate full and rapid retrieval of all relevant records by authorised staff, in order to respond fully to enquiries from financial investigators.
 * AC Group shall have procedures to ensure that any personal data obtained is processed only for the purposes of preventing money laundering and terrorist financing.
