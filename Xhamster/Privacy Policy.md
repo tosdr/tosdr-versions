@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A2%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=672012e1e63073.80143925d8c&xhSessionToken=aa33a57f4ab4b3ac0f7c1b55d98d7b797a52e3f9&xhSessionStartedAt=1730155233)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22j%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A2%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6720661599cba8.45270363dea&xhSessionToken=3f5ab422507b5237bffdb151569bcd5a4c555825&xhSessionStartedAt=1730176533)
 
 [Categories](https://xhamster.com/categories)
 
@@ -57,7 +57,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 Privacy Policy
 ==============
 
-Effective Date: October 28, 2024
+Effective Date: October 29, 2024
 
 Last Modified: January 04, 2024
 
@@ -369,7 +369,7 @@ Last Modified: January 04, 2024
 * [](https://xhamster.com/info/eu-digital-services-act)
 * [](https://xhamster.com/info/trust-and-safety)
 
-* [](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [](https://xhamster.com/creators/contest)
 * [](https://xhamster.com/creator?source=footerCcp)
 
