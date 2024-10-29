@@ -205,23 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [You're the Man for the Job](https://www.somethingawful.com/news/post-apocalyptic-job/)
-* [Children's Letters to Frankenstein](https://www.somethingawful.com/news/letters-to-frankenstein/1/)
-* [Worst Christmas Gifts](https://www.somethingawful.com/comedy-goldmine/worst-christmas-presents/1/)
-* [AwfulVision: Let's get retarded in here!](https://www.somethingawful.com/awfulvision/retard-anime-rap/1/)
-* [BarkWire.com Dog Reviews: Barnacle & Blue Yonder](https://www.somethingawful.com/news/barkwire-barnacle-blueyonder/1/)
+* [AwfulVision: Grizzly Adams!](https://www.somethingawful.com/awfulvision/grizzly-adams-vlog/1/)
+* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
+* [AwfulVision: YouTub!](https://www.somethingawful.com/awfulvision/youtub-ymca-juggalo/1/)
+* [Mike Tyson's Sybaris](https://www.somethingawful.com/news/sybaris-mike-tyson/1/)
+* [Deep Phat Fryahs!](https://www.somethingawful.com/icq-pranks/icq-prank-deep/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [90 Eggs!](http://forums.somethingawful.com/showthread.php?threadid=4073799 "90 Eggs!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [LIMEYS](http://forums.somethingawful.com/showthread.php?threadid=4073856 "LIMEYS")
 
 ### Random Articles
 
-* [Merry Christmas, No Matter Which Santa Claus You Worship](https://www.somethingawful.com/news/santa-claus-worship/)
-* [Neverwinter Nights 2 Primer](https://www.somethingawful.com/video-game-article/neverwinter-nights-primer/)
-* [The Cauldron, Wiccan Wisdom, and The Witch Forum](https://www.somethingawful.com/weekend-web/witch-forums/1/)
-* [Plane Common Sense 2](https://www.somethingawful.com/photoshop-phriday/plane-common-sense-2/1/)
-* [A Routine Checkup](https://www.somethingawful.com/news/routine-checkup-exam/)
+* [We Watch Entire Movies for Free On Our Portable Devices](https://www.somethingawful.com/feature-articles/free-streaming-movies/)
+* [Donkey Punch](https://www.somethingawful.com/horrors-of-porn/donkey-punch/)
+* [Clash of the Titans; The Last Song](https://www.somethingawful.com/current-movie-reviews/clash-titans-rocklords/1/)
+* [The Olive Garden Review Lady Reviews True Blood for Her Newspaper](https://www.somethingawful.com/news/olive-garden-sookie/)
+* [The Bat Farm](https://www.somethingawful.com/icq-pranks/icq-transcript-bat/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
