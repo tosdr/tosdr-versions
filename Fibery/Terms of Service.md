@@ -494,7 +494,7 @@ Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](h
 
 [](https://fibery.io/)
 
-Product discovery & development platform
+Your company's operating system
 
 Rated 4.8 on [G2](https://www.g2.com/products/fibery/reviews) and [Capterra](https://www.capterra.com/p/210658/Fibery/#reviews)
 
