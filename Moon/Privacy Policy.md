@@ -229,20 +229,8 @@ To contact our Data Protection Officer, you can:
 
 * Email: [\[email protected\]](https://paywithmoon.com/cdn-cgi/l/email-protection)
 
-**For Data Subjects in the EU**
-
-We appointed GDPR-Rep.eu as representative according to Art 27 GDPR. If you want to make use of your GDPR data privacy rights, please visit: [https://prighter.com/q/17491075](https://prighter.com/q/17491075)
-
-PrighterGDPR-Rep by Maetzler Rechtsanwalts GmbH & Co KG  
-Schellinggasse 3/10  
-1010 Vienna, Austria
-
 ‍
 -
-
-  
-
----
 
 [](https://www.facebook.com/paywithmoon/)[](https://twitter.com/intent/follow?region=follow_link&screen_name=paywithmoon&tw_p=followbutton)[](https://instagram.com/paywithmoon)[](https://discord.gg/E9TP7wPtZF)
 
