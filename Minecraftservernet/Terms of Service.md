@@ -29,17 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
 
-TheosisMC • Hardcore Survival • 1.21.3](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.3")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Total Anarchy](https://minecraft-server.net/details/Total__Anarchy/ "Total Anarchy")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
+Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
-
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")
+1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06766 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06508 - Created by [Debaucus](https://debauc.us/)
