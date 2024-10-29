@@ -1,4 +1,4 @@
-[Skip to content](#main-content) Privacy policy – SHOES-n-FEET                                                                     
+[Skip to content](#main-content) Privacy policy – SHOES-n-FEET                                                                 
 
 [![SHOES-n-FEET](//shoesnfeet.com/cdn/shop/files/logo_snf_v01_305x.png?v=1613707207)](https://shoesnfeet.com/)
 
@@ -446,7 +446,6 @@ Payment icons
 * Mastercard
 * PayPal
 * Shop Pay
-* Venmo
 * Visa
 
 * choosing a selection results in a full page refresh
