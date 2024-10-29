@@ -186,9 +186,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (83)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (93)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (30)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (32)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (45)](https://www.smithbrothersfarms.com/fall-favorites)
         
@@ -216,10 +216,10 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (71)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (74)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Greek Yogurt (49)](https://www.smithbrothersfarms.com/greek)
+        * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
         * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
             
@@ -250,12 +250,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (26)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (30)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -264,7 +264,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (84)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (91)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (32)](https://www.smithbrothersfarms.com/bread)
@@ -277,7 +277,7 @@ Hi
             
         * [Muffins & Scones (7)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (7)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (14)](https://www.smithbrothersfarms.com/desserts)
             
         
     * [Meat (47)](https://www.smithbrothersfarms.com/meat-poultry)
