@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)9°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,22 +54,22 @@
 
 Thèmes du moment
 
-* [Vaud](https://www.watson.ch/fr/vaud/)
 * [People](https://www.watson.ch/fr/people/)
+* [élections](https://www.watson.ch/fr/elections/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Allemagne](https://www.watson.ch/fr/allemagne/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Police](https://www.watson.ch/fr/police/)
-* [élections](https://www.watson.ch/fr/elections/)
-* [Hamas](https://www.watson.ch/fr/hamas/)
+* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Médias](https://www.watson.ch/fr/medias/)
+* [Jeff Bezos](https://www.watson.ch/fr/jeff-bezos/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
-* [commerce](https://www.watson.ch/fr/commerce/)
 * [Valais](https://www.watson.ch/fr/valais/)
+* [Musique](https://www.watson.ch/fr/musique/)
 * [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
-* [Armée](https://www.watson.ch/fr/armee/)
-* [avion](https://www.watson.ch/fr/avion/)
-* [Migros](https://www.watson.ch/fr/migros/)
 * [Neuchâtel](https://www.watson.ch/fr/neuchatel/)
-* [La Chaux-de-Fonds](https://www.watson.ch/fr/la-chaux-de-fonds/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [La Chaux-de-Fonds](https://www.watson.ch/fr/la-chaux-de-fonds/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
