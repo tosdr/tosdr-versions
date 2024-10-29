@@ -31,7 +31,7 @@ Privacy Policy
 
 [Home](https://www.strivescan.com/) » Privacy Policy
 
-**Effective Date**: February 1, 2020
+**Effective Date**: October 29, 2024
 
 StriveScan.com, StriveFair.com, StriveVisit.com, StriveCIS.com, and its related services, products, and mobile applications (“Website”) are owned and operated by Betadac Media, LLC d/b/a StriveScan (“Betadac”, “StriveScan”, “our”, “us”, “we”), an Illinois limited liability company with its principal place of business in Chicago, Illinois, United States. StriveScan has adopted this Privacy Policy (“Privacy Policy”) to inform you that it collects Personal Data when you use the Website and to explain how this information is used. You should contact StriveScan directly with any questions or concerns.
 
@@ -134,20 +134,6 @@ By using the Website, you further authorize the following specific uses of your 
 * Provide statistical information, and include you in the same, where applicable;
 * Process payments; and
 * Prevent and detect illegal activities or violations of the Website’s Terms of Use.
-
-**EU-US and Swiss-US Privacy Shield**
-
-StriveScan participates in and comply with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework (together the “Privacy Shield”) as set forth by the European Commission and the US Department of Commerce regarding the collection, use, and retention of Personal Data (defined in Section 2.1) transferred from European Economic Area (“EEA”) member countries, Switzerland and the United Kingdom (UK) to the United States.
-
-StriveScan has certified that it adheres to and will abide by the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability.
-
-StriveScan uses a limited number of third-party service providers to assist us in providing our services to Users. These third-party providers may perform technical operations, assist with the transmission of data, and provide data storage services. These third parties may access, process, or store personal data in the course of providing their services. StriveScan maintains contracts with these third parties restricting their access, use and disclosure of personal data in compliance with our Privacy Shield obligations, including the onward transfer provisions, and StriveScan remains liable if they fail to meet those obligations and we are responsible for the event giving rise to damage.
-
-If you have any questions or concerns, please contact us at [\[email protected\]](https://www.strivescan.com/cdn-cgi/l/email-protection). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Data in accordance with the Privacy Shield Principles. In the event we are unable to resolve your concern, you may contact JAMS, which provides an independent third-party dispute resolution body based in the United States, and they will investigate and assist you free of charge. Contact JAMS at at https://www.jamsadr.com/eu-us-privacy-shield. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-For purposes of enforcing compliance with the Privacy Shield, StriveScan is subject to the investigatory and enforcement authority of the US Federal Trade Commission.
-
-For more information about the Privacy Shield, see the US Department of Commerce’s Privacy Shield website located at: https://www.privacyshield.gov. To review our certification on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list located at: https://www.privacyshield.gov/list.
 
 **Cookies & Similar Technologies****.**
 
