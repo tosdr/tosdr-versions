@@ -186,11 +186,11 @@ English
 
 Eesti keel
 
+English
+
 Polski
 
 Lietuvių
-
-English
 
 Latviešu valoda
 
@@ -331,11 +331,11 @@ English
 
 Eesti keel
 
+English
+
 Polski
 
 Lietuvių
-
-English
 
 Latviešu valoda
 
@@ -347,11 +347,11 @@ English
 
 Eesti keel
 
+English
+
 Polski
 
 Lietuvių
-
-English
 
 Latviešu valoda
 
