@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. sql
+1. English
     
-2. finance
+2. c
     
-3. project management
+3. computer science
     
 
 Popular subjects
