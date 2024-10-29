@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
+* [Morderne mouse replacement](https://www.msx.org/forum/msx-talk/hardware/morderne-mouse-replacement "Morderne mouse replacement")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
+* [Generation MSX is down?](https://www.msx.org/forum/msx-talk/general-discussion/generation-msx-is-down "Generation MSX is down?")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done?](https://www.msx.org/forum/msx-talk/hardware/panasonic-fs-a1-propietary-firmware-deskpac-bypass-by-hardware-modding-can-b?page=1 "Panasonic FS-A1 propietary firmware (DESKPAC) bypass by hardware modding. Can be done? ")
-* [Modular MSX Sound Cartridge - Real Yamaha Chipset](https://www.msx.org/forum/msx-talk/hardware/modular-msx-sound-card-real-yamaha-chipset "Modular MSX Sound Cartridge - Real Yamaha Chipset")
 * [MSX0 Discussion](https://www.msx.org/forum/msx-talk/hardware/msx0-discussion?page=1 "MSX0 Discussion")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=62 "List of undumped MSX software (PLEASE HELP!)")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=71 "WonderTANG! Who wants to juice up your MSX?")
 * [On magnified sprites, OR function and 1px offset](https://www.msx.org/forum/msx-talk/development/on-magnified-sprites-or-function-and-1px-offset "On magnified sprites, OR function and 1px offset")
 * [SODA: lighter than a BEER](https://www.msx.org/forum/msx-talk/development/soda-lighter-than-a-beer "SODA: lighter than a BEER")
 * [The Matrix digital rain on MSX](https://www.msx.org/forum/msx-talk/development/the-matrix-digital-rain-on-msx?page=1 "The Matrix digital rain on MSX")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Moonsound OPL4 HOW TO USE?](https://www.msx.org/forum/msx-talk/hardware/moonsound-opl4-how-to-use "Moonsound OPL4 HOW TO USE?")
-* [HB-F1XD Japanese MSX2 - Replace V9938 with V9958?](https://www.msx.org/forum/msx-talk/general-discussion/hb-f1xd-japanese-msx2-replace-v9938-v9958?page=9 "HB-F1XD Japanese MSX2 - Replace V9938 with V9958?")
-* [uMSX Pro REV.3.80 new improvements](https://www.msx.org/forum/msx-talk/hardware/umsx-pro-rev380-new-improvements "uMSX Pro REV.3.80 new improvements")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
