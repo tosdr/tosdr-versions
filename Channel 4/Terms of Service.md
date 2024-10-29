@@ -55,7 +55,6 @@
         * [Channel 4 Streaming Website Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-streaming-website-accessibility-statement)
         * [Channel 4 Streaming iOS App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/ios-digital-accessibility-statement)
         * [Channel 4 Streaming Android App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/android-digital-accessibility-statement)
-        * [Channel 4 Streaming FAQs](https://www.channel4.com/4viewers/accessibility/general-faq)
         
     
 * [Take Part](#)
