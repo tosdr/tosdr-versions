@@ -4,7 +4,7 @@ Prep for the HolidaysEnds 10/31. Limited quantities. No rainchecks.[Shop now](ht
 
 [Skip to content](#headerskip "Skip to content")
 
-[Yardbird](https://yardbird.com/)[Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)[Best Buy Business](https://www.bestbuy.com/site/electronics/bestbuy-business/pcmcat230900050001.c?id=pcmcat230900050001)[Connect with an Expert](https://www.bestbuy.com/services/triage/shopping)
+[Yardbird](https://yardbird.com/)[Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)[Best Buy Business](https://www.bestbuy.com/site/electronics/bestbuy-business/pcmcat230900050001.c?id=pcmcat230900050001)[Shop with an Expert](https://www.bestbuy.com/services/triage/shopping)
 
 [](https://www.bestbuy.com/ "BestBuy.com")
 
