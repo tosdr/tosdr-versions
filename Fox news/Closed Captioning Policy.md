@@ -31,12 +31,10 @@
 [Menu](#)
 
 * [Home](https://www.foxnews.com/)
-* [Sports](https://www.foxnews.com/sports)
-* [Entertainment](https://www.foxnews.com/entertainment)
-* [Lifestyle](https://www.foxnews.com/lifestyle)
-* [Games](https://www.foxnews.com/games)
 * [Politics](https://www.foxnews.com/politics)
-* [True Crime](https://www.foxnews.com/true-crime)
+* [Democracy '24](https://www.foxnews.com/elections)
+* [Media](https://www.foxnews.com/media)
+* [Opinion](https://www.foxnews.com/opinion)
 
  
 
