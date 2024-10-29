@@ -1,4 +1,4 @@
-👻 Treat yourself to new skills—use SPOOKY35 for 35% off sitewide! [SAVE NOW](https://hubs.la/Q02V4YhP0)
+🎫 Meet us at KubeCon + CloudNativeCon NA · Nov 12-15 · Salt Lake City [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=lf&utm_medium=homepage&utm_campaign=KubeCon%20NA%202024&utm_content=hello-bar)
 
 English Japan China Europe
 
