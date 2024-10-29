@@ -697,6 +697,7 @@ Follow Verizon
 * [twitter](https://twitter.com/verizon "Opens New Window")
 * [you-tube](https://www.youtube.com/user/verizon "Opens New Window")
 * [instagram](https://www.instagram.com/verizon/ "Opens New Window")
+* [TikTok](https://www.tiktok.com/@verizon "Opens New Window")
 
 Follow Verizon Fios
 
