@@ -30,9 +30,11 @@ MyData
     * [Upcoming events](https://mydata.org/mydata-events/)
     * [Past events](https://mydata.org/past-events/)
     * [Event materials (member login required)](https://mydata.org/member-opportunities/#event-materials)
-    * [Deep Dive Workshop: Consent Management Solutions](https://mydata.org/event/deep-dive-workshop-consent-management-solutions-current-practice-and-better-alternatives/)
-    * [Thematic Networking: AI and Human-Centric Data](https://mydata.org/event/thematic-networking-ai-and-human-centric-data/)
+    * [Thematic Networking: AI and Human-Centric Data](https://mydata.org/mydata-event/thematic-networking-ai-and-human-centric-data/)
+    * [Thematic Networking: Competition and Anti-Trust](https://mydata.org/mydata-event/thematic-networking-competition-and-anti-trust/)
+    * [MyData Online Symposium: Human-centric AI between Innovation and Compliance](https://mydata.org/mydata-event/mydata-online-symposium-human-centric-ai-between-innovation-and-compliance/)
 * [News](https://mydata.org/updates/)
+    * [Updates](https://mydata.org/updates/)
     * [Member Opportunities and Resource Board](https://mydata.org/member-opportunities/)
 
 * [Login](https://mydata.org/member-login/)
