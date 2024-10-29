@@ -15,15 +15,16 @@
 
 [](https://x.com/ott_akic)[](https://www.instagram.com/ott_akic)[](https://www.facebook.com/onlinetechtips)[](mailto:akishore@online-tech-tips.com)
 
-* Tips
-    * [Tech](https://www.online-tech-tips.com/category/tech/)
-    * [Gaming](https://www.online-tech-tips.com/category/gaming/)
-    * [Smart Home](https://www.online-tech-tips.com/category/tech/smart-home/)
-* [Reviews](https://www.online-tech-tips.com/category/gadgets/)
-    * [Software Reviews](https://www.online-tech-tips.com/category/reviews/software-reviews/)
-    * [Gadget Reviews](https://www.online-tech-tips.com/category/reviews/gadgets/)
-* [Other](https://www.online-tech-tips.com/category/gaming/)
-    * [Internet](https://www.online-tech-tips.com/category/tech/internet/)
+ 
+
+* [Latest](https://www.online-tech-tips.com/recent-posts)
+* [News](https://www.online-tech-tips.com/category/news/)
+* [Tech](https://www.online-tech-tips.com/category/tech/)
+* [Social](https://www.online-tech-tips.com/category/social-media)
+* [Streaming](https://www.online-tech-tips.com/category/streaming)
+* [Reviews](https://www.online-tech-tips.com/category/reviews)
+
+ 
 
 Privacy Policy
 ==============
@@ -92,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")
+
+![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
+
+WhatsApp is introducing a new way for users to save and manage contacts on their devices. The instant messaging platform…
+
+Sodiq Olanrewaju · Oct 29, 2024
+
 [![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")
 
 ![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/)
@@ -116,9 +129,7 @@ Months ago, Google introduced “Listen to this page” mode in Chrome (for Andr
 
 Sodiq Olanrewaju · Oct 22, 2024
 
-[![person holding smartphone displaying the YouTube logo - person-holding-smartphone-displying-the-YouTube-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "person-holding-smartphone-displying-the-YouTube-logo - Online Tech Tips")
-
-![person holding smartphone displaying the YouTube logo - person-holding-smartphone-displying-the-YouTube-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-holding-smartphone-displying-the-YouTube-logo.jpg "person-holding-smartphone-displying-the-YouTube-logo - Online Tech Tips")](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/)
+[![person holding smartphone displaying the YouTube logo - person-holding-smartphone-displying-the-YouTube-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-holding-smartphone-displying-the-YouTube-logo.jpg "person-holding-smartphone-displying-the-YouTube-logo - Online Tech Tips")](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -127,16 +138,6 @@ Sodiq Olanrewaju · Oct 22, 2024
 Every year, YouTube releases a major update introducing new features to the video-sharing platform. According to YouTube, this year’s update…
 
 Sodiq Olanrewaju · Oct 18, 2024
-
-[![Three overlapping Google Docs logo on a blue background - three-google-docs-logo-on-a-blue-background](https://www.online-tech-tips.com/wp-content/uploads/2024/10/three-google-docs-logo-on-a-blue-background.png "three-google-docs-logo-on-a-blue-background - Online Tech Tips")](https://www.online-tech-tips.com/document-tabs-in-google-docs-will-help-you-better-organize-information/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [“Document Tabs” in Google Docs Will Help You Better Organize Information](https://www.online-tech-tips.com/document-tabs-in-google-docs-will-help-you-better-organize-information/)
-
-"Documents tab" is now live in Google Docs, months after Google’s April announcement. The feature allows users to organize lengthy…
-
-Sodiq Olanrewaju · Oct 17, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -182,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1-130x85.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")
+    
+    [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/ "WhatsApp Launches Cloud-Based Contact Managment Feature")Oct 29, 2024
+    
 * [![Person wearing a Samsung Galaxy Watch whose screen displays a "Watch updated to One UI 6.0 Watch." message - person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch](https://www.online-tech-tips.com/wp-content/uploads/2024/10/person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch-130x85.png "person-wearing-samsung-galaxy-watch-whose-screen-display-watch-updated-to-one-ui-6-0-watch - Online Tech Tips")](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/ "Samsung Releases Stable One UI 6 Watch Update")
     
     [Samsung Releases Stable One UI 6 Watch Update](https://www.online-tech-tips.com/samsung-releases-stable-one-ui-6-watch-update/ "Samsung Releases Stable One UI 6 Watch Update")Oct 28, 2024
@@ -194,10 +199,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
     
     [YouTube Announces Over Two Dozen Features in New Update](https://www.online-tech-tips.com/youtube-announces-over-two-dozen-features-in-new-update/ "YouTube Announces Over Two Dozen Features in New Update")Oct 18, 2024
     
-* [![Three overlapping Google Docs logo on a blue background - three-google-docs-logo-on-a-blue-background](https://www.online-tech-tips.com/wp-content/uploads/2024/10/three-google-docs-logo-on-a-blue-background-130x85.png "three-google-docs-logo-on-a-blue-background - Online Tech Tips")](https://www.online-tech-tips.com/document-tabs-in-google-docs-will-help-you-better-organize-information/ "“Document Tabs” in Google Docs Will Help You Better Organize Information")
-    
-    [“Document Tabs” in Google Docs Will Help You Better Organize Information](https://www.online-tech-tips.com/document-tabs-in-google-docs-will-help-you-better-organize-information/ "“Document Tabs” in Google Docs Will Help You Better Organize Information")Oct 17, 2024
-    
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
 
@@ -209,15 +210,12 @@ Online Tech Tips is part of the AKIC Publishing family. Be sure to check out our
 
 ### Categories
 
-* Tips
-    * [Tech](https://www.online-tech-tips.com/category/tech/)
-    * [Gaming](https://www.online-tech-tips.com/category/gaming/)
-    * [Smart Home](https://www.online-tech-tips.com/category/tech/smart-home/)
-* [Reviews](https://www.online-tech-tips.com/category/gadgets/)
-    * [Software Reviews](https://www.online-tech-tips.com/category/reviews/software-reviews/)
-    * [Gadget Reviews](https://www.online-tech-tips.com/category/reviews/gadgets/)
-* [Other](https://www.online-tech-tips.com/category/gaming/)
-    * [Internet](https://www.online-tech-tips.com/category/tech/internet/)
+* [Latest](https://www.online-tech-tips.com/recent-posts)
+* [News](https://www.online-tech-tips.com/category/news/)
+* [Tech](https://www.online-tech-tips.com/category/tech/)
+* [Social](https://www.online-tech-tips.com/category/social-media)
+* [Streaming](https://www.online-tech-tips.com/category/streaming)
+* [Reviews](https://www.online-tech-tips.com/category/reviews)
 
 ### Social
 
