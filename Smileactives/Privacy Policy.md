@@ -413,6 +413,8 @@ even if empty. (less s&h)
 
 * [![sa-Instagram-icon](//smileactives.com/cdn/shop/files/sa-Instagram-icon.png?v=1684227221)](https://www.instagram.com/smileactives/)
 * [![sa-facebook-icon](//smileactives.com/cdn/shop/files/sa-facebook-icon.png?v=1684227335)](https://www.facebook.com/smileactives/)
+* [![](//smileactives.com/cdn/shop/files/tiktok.png?v=1730184748)](https://www.tiktok.com/@smileactives)
+* [![](//smileactives.com/cdn/shop/files/Pintrest.png?v=1730184748)](https://www.pinterest.com/smileactives/)
 
 #### Company
 
@@ -433,6 +435,8 @@ even if empty. (less s&h)
 
 * [![](//smileactives.com/cdn/shop/files/sa-Instagram-icon.png?v=1684227221)](https://www.instagram.com/smileactives/)
 * [![](//smileactives.com/cdn/shop/files/sa-facebook-icon.png?v=1684227335)](https://www.facebook.com/smileactives/)
+* [![](//smileactives.com/cdn/shop/files/tiktok.png?v=1730184748)](https://www.tiktok.com/@smileactives)
+* [![](//smileactives.com/cdn/shop/files/Pintrest.png?v=1730184748)](https://www.pinterest.com/smileactives/)
 
 ### Company
 
