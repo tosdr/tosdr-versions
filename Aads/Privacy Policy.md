@@ -26,7 +26,7 @@ Learn about
     Ad technologies for your promotion](https://a-ads.com/advertise/)
     
     [Catalog of Banner Ad Units  
-    Choose from 1000s of websites](https://a-ads.com/catalog)
+    Choose from 1000s of websites](https://a-ads.com/catalog/)
     
     [Ad Formats  
     Discover available banner formats](https://a-ads.com/ad-formats/)
@@ -97,7 +97,7 @@ Learn about
     [Advertising with AADS  
     Ad technologies for your promotion](https://a-ads.com/advertise/)
 * [Catalog of Banner Ad Units  
-    Choose from 1000s of websites](https://a-ads.com/catalog)
+    Choose from 1000s of websites](https://a-ads.com/catalog/)
 * [Ad Formats  
     Discover available banner formats](https://a-ads.com/ad-formats/)
 * [Content Ad publication  
@@ -344,7 +344,7 @@ We accept Bank Card
 
 ![](/assets/payment-crypto-2-dbc5b8a5f29e9012fb22b77b0f18b18201bfa5bcca90c9ead0ac8e44e03d6d26.png) ![](/assets/payment-crypto-1-9d2b46437979b59f814a11b7ddab63e0528f8f72258ceb4755227e569818c4c4.png) ![](/assets/payment-crypto-ff9605bffb72da2917df3b9fdcefc7b59a01ec1ee9c02a19dcfaaa72d8e34ef7.png)
 
-+16 more BNB, BTC, BCH, BUSD, DASH, DOGE, ETC, LTC, Polygon, SOL, SOLUSDT, TRX, USDC, USDT, USDT.TRC20, WAVES, WBNB, XEM, XRP, ZEC
++16 more BTC, BCH, DASH, DOGE, ETC, LTC, SOL, USDT.SOL, TRX, USDC, USDT, USDT.TRC20, WBNB.BEP20, XEM, XRP, ZEC
 
 ![](/assets/lightning-6bca492e548a884a214cfaa7b65fe2efa89a5f3201d6dd4fa6a2113b28ce31c3.png)
 
