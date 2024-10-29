@@ -4,7 +4,7 @@
 
 Cryptocurrencies
 
-[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Global Charts](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Crypto ETFs](https://coinmarketcap.com/etf/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)[Yields](https://coinmarketcap.com/yield/)
+[Ranking](https://coinmarketcap.com/)[Categories](https://coinmarketcap.com/cryptocurrency-category/)[Market Overview](https://coinmarketcap.com/charts/)[Historical Snapshots](https://coinmarketcap.com/historical/)[Crypto ETFs](https://coinmarketcap.com/etf/)[Token unlocks](https://coinmarketcap.com/token-unlocks/)[Yields](https://coinmarketcap.com/yield/)
 
 Leaderboards
 
@@ -54,31 +54,31 @@ Learn
 
 [News](https://coinmarketcap.com/headlines/news/)[Academy](https://coinmarketcap.com/academy/)[Research](https://coinmarketcap.com/academy/categories/cmc-research/)[Videos](https://www.youtube.com/channel/UCnhdZlwVd6ocXGhdSyV9Axg/?sub_confirmation=1)[Glossary](https://coinmarketcap.com/academy/glossary/)
 
-Cryptos: [2.4M+](https://coinmarketcap.com/)
+Cryptos: [2.4M+](https://coinmarketcap.com/charts/)
 
 Exchanges: [759](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.4T](https://coinmarketcap.com/charts/#market-cap)
+[$2.4T](https://coinmarketcap.com/charts/)
 
-3.62%
+2.91%
 
 24h Vol: 
 
-[$101.78B](https://coinmarketcap.com/charts/#volume-24h)
+[$100.94B](https://coinmarketcap.com/charts/)
 
-95.75%
+63.13%
 
-Dominance: [BTC: 58.5% ETH: 13.1%](https://coinmarketcap.com/charts/#bitcoin-dominance)
+Dominance: [BTC: 58.5% ETH: 13.1%](https://coinmarketcap.com/charts/)
 
  ETH Gas: 
 
-6.28 Gwei
+20.12 Gwei
 
  Fear & Greed: 
 
-[60/100](https://coinmarketcap.com/charts/#fear-and-greed-index)
+[60/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
 
 Privacy Policy
 ==============
