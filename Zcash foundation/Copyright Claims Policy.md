@@ -206,12 +206,6 @@ When we receive a valid counter-notice, we’ll promptly forward a copy to the p
 **Subscribe to our newsletter!**
 --------------------------------
 
-   
-
-Email 
-
-Keep me updated
-
 **Follow us:**
 --------------
 
@@ -261,12 +255,6 @@ submit
 
 **Subscribe to our newsletter!**
 --------------------------------
-
-   
-
-Email 
-
-Keep me updated
 
 [Z.cash](https://z.cash/)
 
