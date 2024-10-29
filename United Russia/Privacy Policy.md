@@ -299,7 +299,39 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
+[![Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://cdn.er.ru/media/news/October2024/ajDAx6ewUjlrYOphycSi-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
+
+[Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
+
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#мобильнаясвязь](https://er.ru/activity/news?tags%5B0%5D=152855) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 14:45
+
+[![Госдума поддержала инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://cdn.er.ru/media/news/October2024/QQ41rComsDJuIr5kwuQc-small.jfif)](https://er.ru/activity/news/gosduma-podderzhala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
+
+[Госдума поддержала инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://er.ru/activity/news/gosduma-podderzhala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
+
+[#Пискарев](https://er.ru/activity/news?tags%5B0%5D=17151) [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#мораторий](https://er.ru/activity/news?tags%5B0%5D=3384) [#исполнительноепроизводство](https://er.ru/activity/news?tags%5B0%5D=127038) [#должники](https://er.ru/activity/news?tags%5B0%5D=38980)
+
+Сегодня 14:06
+
+[![«Единая Россия» обеспечила гарантии наставникам на производстве](https://cdn.er.ru/media/news/October2024/4VRjxhgiVXHfaORWH3aY-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-garantii-nastavnikam-na-proizvodstve)
+
+[«Единая Россия» обеспечила гарантии наставникам на производстве](https://er.ru/activity/news/edinaya-rossiya-obespechila-garantii-nastavnikam-na-proizvodstve)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#работодатель](https://er.ru/activity/news?tags%5B0%5D=5541)
+
+Сегодня 13:46
+
+[![«Единая Россия» обеспечила совершенствование мер безопасности в сфере миграции](https://cdn.er.ru/media/news/October2024/NjAV0WsAiNuzFsNhFWjG-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-sovershenstvovanie-mer-bezopasnosti-v-sfere-migracii)
+
+[«Единая Россия» обеспечила совершенствование мер безопасности в сфере миграции](https://er.ru/activity/news/edinaya-rossiya-obespechila-sovershenstvovanie-mer-bezopasnosti-v-sfere-migracii)
+
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#нелегальная миграция](https://er.ru/activity/news?tags%5B0%5D=13055)
+
+Сегодня 13:36
+
+[![Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://cdn.er.ru/media/news/October2024/u5kf1mNHe2eqQfFu1ae8-small.jpg)](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
 
 [Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
 
@@ -314,38 +346,6 @@
 [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627)
 
 Сегодня 11:36
-
-[![Дмитрий Вяткин: По инициативе «Единой России» будет введён мораторий на взыскание исполнительского сбора с участников СВО](https://cdn.er.ru/media/news/October2024/0GxCkatQcPRkLnJzTKzA-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-po-iniciative-edinoj-rossii-budet-vvedyon-moratorij-na-vzyskanie-ispolnitelskogo-sbora-s-uchastnikov-svo)
-
-[Дмитрий Вяткин: По инициативе «Единой России» будет введён мораторий на взыскание исполнительского сбора с участников СВО](https://er.ru/activity/news/dmitrij-vyatkin-po-iniciative-edinoj-rossii-budet-vvedyon-moratorij-na-vzyskanie-ispolnitelskogo-sbora-s-uchastnikov-svo)
-
-[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#долги](https://er.ru/activity/news?tags%5B0%5D=869) [#мораторий](https://er.ru/activity/news?tags%5B0%5D=3384) [#исполнительский сбор](https://er.ru/activity/news?tags%5B0%5D=56017)
-
-Сегодня 11:22
-
-[![«Единая Россия» представила предложения о наиболее перспективных направлениях популяризации традиционных семейных ценностей](https://cdn.er.ru/media/news/October2024/JgKMrsZKYXcvLTNVYlX1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-predlozheniya-o-naibolee-perspektivnyh-napravleniyah-populyarizacii-tradicionnyh-semejnyh-cennostej)
-
-[«Единая Россия» представила предложения о наиболее перспективных направлениях популяризации традиционных семейных ценностей](https://er.ru/activity/news/edinaya-rossiya-predstavila-predlozheniya-o-naibolee-perspektivnyh-napravleniyah-populyarizacii-tradicionnyh-semejnyh-cennostej)
-
-[#рабочая группа](https://er.ru/activity/news?tags%5B0%5D=2375) [#предложенияер](https://er.ru/activity/news?tags%5B0%5D=150829) [#популяризация](https://er.ru/activity/news?tags%5B0%5D=21768) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171) [#Катренко](https://er.ru/activity/news?tags%5B0%5D=42668) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335)
-
-Сегодня 10:40
-
-[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://cdn.er.ru/media/news/October2024/QZx9cwW6MtObjbHrtWJt-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
-
-[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007)
-
-28.10.24
-
-[![«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://cdn.er.ru/media/news/October2024/PftT7j1myUbfvfzqql3L-small.png)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
-
-[«Единая Россия»: Выставка «Сила V правде – гордость и победа» открылась в Оренбурге](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-otkrylas-v-orenburge)
-
-[#Габбасов](https://er.ru/activity/news?tags%5B0%5D=50449) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
-
-26.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
