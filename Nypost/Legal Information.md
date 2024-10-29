@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Walz accused of pushing CCP official's daughter to brink of suicide during love affair](https://nypost.com/2024/10/28/us-news/tim-walz-accused-of-pushing-chinese-communist-party-officials-daughter-to-brink-of-suicide-during-1980s-affair/)
+[Washington Post owner Jeff Bezos breaks silence on paper’s decision to not back 2024 candidate](https://nypost.com/2024/10/28/us-news/washington-post-owner-jeff-bezos-says-presidential-endorsements-create-a-perception-of-bias-following-papers-decision-to-not-back-2024-candidate/)
 
 Privacy Notice Highlights
 =========================
