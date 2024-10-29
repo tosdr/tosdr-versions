@@ -31,6 +31,20 @@ Main menu
     #### Latest Icon time
     
     * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28107)
+        
+        Icon calendar 29 October 2024
+        
+        Proof
+        
+    * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28499)
+        
+        Icon calendar 29 October 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-27993)
         
         Icon calendar 17 October 2024
@@ -41,20 +55,6 @@ Main menu
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28415)
         
         Icon calendar 17 October 2024
-        
-        Final
-        
-    * [**Legislative Assembly**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-27892)
-        
-        Icon calendar 16 October 2024
-        
-        Final
-        
-    * [**Legislative Council**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28330)
-        
-        Icon calendar 16 October 2024
         
         Final
         
@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Feeding better student outcomes](https://parliament.vic.gov.au/link/e18c4538b4394d718e0016ee1b3553ef.aspx)
+        
+        29 October 2024
+        
     * [Broad support for reform of subcontractor sector](https://parliament.vic.gov.au/link/ba35261b527348a98aa1782586ecada2.aspx)
         
         25 October 2024
@@ -124,10 +128,6 @@ Main menu
     * [Lower House debates pill testing trial](https://parliament.vic.gov.au/link/f13676eb05b14989afd5defa186552d3.aspx)
         
         23 October 2024
-        
-    * [Lived experience fuels MPs’ disability advocacy](https://parliament.vic.gov.au/link/b06fa93d551a4e10b05e0b88236adcb0.aspx)
-        
-        22 October 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
