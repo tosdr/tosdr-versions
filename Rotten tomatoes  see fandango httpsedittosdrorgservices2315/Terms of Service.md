@@ -68,13 +68,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
+* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
     
-    ### Introducing Fandango FanClub!
+    ### Halloween Deals Near You!
     
-    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
+    Your favorite Halloween classics at spooky good prices are just a click away.
     
-    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
+    [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
@@ -99,6 +99,9 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/FND_poster_Wicked-Presale.jpg)
     
     Wicked (2024)](https://www.fandango.com/wicked-2024-234523/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
+    
+    Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235359/WRB_Tree1Sheet6_RGB_1.jpg)
     
     The Wild Robot (2024)](https://www.fandango.com/the-wild-robot-2024-235359/movie-overview)
@@ -117,9 +120,6 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
     
     Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237168/TERRIFIER-3-Hero-Theatrical-SM.jpg)
-    
-    Terrifier 3 (2024)](https://www.fandango.com/terrifier-3-2024-237168/movie-overview)
 
 ### Experience + Explore
 
