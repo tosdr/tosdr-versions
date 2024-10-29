@@ -569,7 +569,7 @@ Nothing in this Agreement is intended to or does create any type of joint ventur
 #### Company
 
 * [About](https://restream.io/about)
-* [Careers](https://restream.io/careers)
+* [Careers](https://restream.io/about#open-positions)
 * [Pricing](https://restream.io/pricing)
 * [Media kit](https://restre.am/media-kit)
 
