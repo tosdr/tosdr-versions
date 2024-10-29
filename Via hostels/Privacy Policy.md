@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_6720b5de2e397)
+* [fun from day one!](#tab_67210d031160c)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6720b5de2e397)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_67210d031160c)
     
-* [fomo no more!](#tab_6720b5de2e3a7)
+* [fomo no more!](#tab_67210d031161b)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6720b5de2e3a7)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_67210d031161b)
     
-* [we’ve got you covered, dude](#tab_6720b5de2e3b3)
+* [we’ve got you covered, dude](#tab_67210d0311627)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6720b5de2e3b3)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_67210d0311627)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -164,11 +164,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Cinema room  
 **Give yourself some self-love and kickstart the day with a yoga class with one of the YouTube Yogis! Mats and blocks available by the cinema room.
 
+#### Morning yoga
+
+**Every morning | 9:00  
+Cinema room  
+**Give yourself some self-love and kickstart the day with a yoga class with one of the YouTube Yogis! Mats and blocks available by the cinema room.
+
 #### Movie Monday
 
 **Monday | 20:00  
 Cinema room  
-**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening. We will show the always amazing Alice in Wonderland tonight.
+**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening.
+
+#### Movie Monday
+
+**Monday | 20:00  
+Cinema room  
+**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening.
+
+#### Dark Arts ‘n Brews
+
+**Tuesday | 19:00  
+The Dude Bar  
+**Join us for a special Halloween Week painting evening. Where creativity flows as freely as the spirits. Create your own Spooky masterpiece
 
 #### Brushes ‘n Brews
 
@@ -176,17 +194,23 @@ Cinema room
 The Dude Bar  
 **Join us for a good painting sesh, where creativity flows as freely as the drinks. You will have the chance to paint your own masterpieces while enjoying a nice drink from the bar.
 
+#### Blood Pong Bash
+
+**Wednesday | 19:00  
+The Dude Bar  
+**Join us for a night of thrills, chills and some bloody good fun. Test your skill at our Halloween-themed beer pong, and you could win a pitcher of beer.
+
 #### Game night
 
 **Wednesday | 19:00  
 The Dude Bar  
 **Join us for Game Night featuring thrilling rounds of giant Jenga and uproarious fun with Cards Against Humanity. With high-stakes stacking and endless laughs, it’s the perfect way to unwind and enjoy quality time with friends!
 
-#### **Braceletes & Bonds**
+#### Beer pong
 
-**Thursday | 18:00  
+**Thursday | 19:00  
 The Dude Bar  
-**Unleash your creativity and add a little sparkle to your style at our bracelet-making event. Come for the crafts, stay for the good vibes and chill company.
+**Get those balls wet and become the beer pong KING/QUEEN.
 
 #### Karaoke Party
 
@@ -194,11 +218,23 @@ The Dude Bar
 The Dude Bar  
 **Experience the ultimate karaoke night at The Dude Bar in Amsterdam, where every singer scores a free shot! Whether you’re with friends or flying solo, come ready to rock the stage and make new connections
 
-#### Beerpong x Live DJ
+#### **Bloodlust Rave**
 
-**Saturday | 14:00  
+**Thursday | 20:00  
+The Dude Bar  
+**Get ready for a thrilling night out at our Halloween party! Join us for an exciting evening with a DJ spinning hauntingly good music. You won’t want to miss this spooktacular event!
+
+#### Fang-tastic Game Night
+
+**Friday | 20:00  
+The Dude Bar  
+**Join us for an unforgettable game night! We’ll be hosting a thrilling game of Mafia. There will be plenty of exciting games to keep the fun going.
+
+#### BOO-zy Bingo
+
+**Saturday | 20:00  
 The Bar  
-**Spend the day vibing to some live music in the bar. We have DJ Hector playing you some chill house, combined with a beer pong tournament.
+**Enjoy a spine-tingling Music Bingo night filled with spooky tunes, bonus rounds, and hauntingly good fun.
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
