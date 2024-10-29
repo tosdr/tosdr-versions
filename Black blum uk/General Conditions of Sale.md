@@ -80,7 +80,7 @@ Free shipping on orders over £50
     * [![Black and blum stainless steel insulated water bottle being put into bag](//black-blum.com/cdn/shop/files/Our-range-bottles_c5b20fd5-7ab2-47f3-a67b-fef1cf663e1b.jpg?v=1647258057&width=600)
         
         water bottles](https://black-blum.com/collections/water-bottles)
-    * [![Sandwich with bite out of it in Black and Blum stainless steel lunch box](//black-blum.com/cdn/shop/files/Our-range-lunch-boxes_8686f471-9901-4f9a-84de-32373f8c0623.jpg?v=1646820920&width=600)
+    * [![](//black-blum.com/cdn/shop/files/Lunch-box-collection-original.jpg?v=1730202331&width=600)
         
         lunch boxes](https://black-blum.com/collections/lunch-boxes)
     * [![insulated food flask in a park with a book](//black-blum.com/cdn/shop/files/black-blum-insulated-food-flask.jpg?v=1656431024&width=600)
