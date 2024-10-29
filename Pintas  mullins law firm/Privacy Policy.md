@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a chest x-ray show mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-can-a-chest-xray-show-mesothelioma.jpg "Can a Chest X-ray Show Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/ "Can a Chest X-ray Show Mesothelioma?")
+[![What is the first day of living in a nursing home like?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-is-the-first-day-of-living-in-a-nursing-home-like.jpg "What Is the First Day of Living in a Nursing Home Like?")](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/ "What Is the First Day of Living in a Nursing Home Like?")
 
-[#### Can a Chest X-ray Show Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/)
+[#### What Is the First Day of Living in a Nursing Home Like?](https://www.pintas.com/faq/what-is-the-first-day-of-living-in-a-nursing-home-like/)
 
-[![What are signs of poor hygiene?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-soiled-clothes-or-other-signs-of-poor-hygiene-what-are-signs-of-poor-hygiene-scaled.jpg "What Are Signs of Poor Hygiene?")](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/ "What Are Signs of Poor Hygiene?")
+[![Can you carry asbestos on your clothes?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-you-carry-asbestos-on-your-clothes.jpg "Can You Carry Asbestos on Your Clothes?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-carry-asbestos-on-your-clothes/ "Can You Carry Asbestos on Your Clothes?")
 
-[#### What Are Signs of Poor Hygiene?](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/)
+[#### Can You Carry Asbestos on Your Clothes?](https://www.pintas.com/practice-areas/lung-cancer/can-you-carry-asbestos-on-your-clothes/)
 
-[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
+[![Serious head injuries from falls at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-after-a-fall-300x200.jpg "Serious Head Injuries From Falls at Assisted Living Facilities")](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/ "Serious Head Injuries From Falls at Assisted Living Facilities")
 
-[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
+[#### Serious Head Injuries From Falls at Assisted Living Facilities](https://www.pintas.com/faq/can-falls-at-assisted-livings-lead-to-serious-head-injuries/)
 
 ### Injured?  
 Tell Us What Happened.
