@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-community-dinner-ending-cancelled/526-bdbcca01-36a7-4b78-a039-91859565e19a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
         
-        #### [A QC Thanksgiving tradition is coming to an end](https://www.wqad.com/article/news/local/mr-thanksgiving-community-dinner-ending-cancelled/526-bdbcca01-36a7-4b78-a039-91859565e19a)
+        #### [Storm Track 8 Weather Impact Alert: High fire risk for Tuesday due to gusty winds, warm temps](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3) [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99/20241028T221450/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99/20241028T221450/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99_360x203.jpg)](https://www.wqad.com/article/news/local/cambridge-illinois-ffa-receives-national-award/526-c188b0d4-befe-4c1b-adfb-2ecd3fa575d5)
+        #### [High fire risk for Tuesday due to gusty winds, warm temps: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4/d9a1ff83-f2b1-4a19-a5a9-b700d78392c4_360x203.png)](https://www.wqad.com/article/news/local/public-safety/burn-bans-around-quad-cities/526-e15af3d1-9db9-46da-b8ff-ea09d31efe6c)
         
-        #### [Cambridge FFA receives national award for Spanish learning program](https://www.wqad.com/article/news/local/cambridge-illinois-ffa-receives-national-award/526-c188b0d4-befe-4c1b-adfb-2ecd3fa575d5)
+        #### [Burn bans in effect around the Quad Cities](https://www.wqad.com/article/news/local/public-safety/burn-bans-around-quad-cities/526-e15af3d1-9db9-46da-b8ff-ea09d31efe6c)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,14 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b53bedfb-25f6-4c37-80f9-584cebb5e160/20241028T230134/b53bedfb-25f6-4c37-80f9-584cebb5e160_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b53bedfb-25f6-4c37-80f9-584cebb5e160/20241028T230134/b53bedfb-25f6-4c37-80f9-584cebb5e160_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
         
-        #### [More record warmth likely this week along with a lot of wind](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Storm Track 8 Weather Impact Alert: High fire risk for Tuesday due to gusty winds, warm temps](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3) [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
         
-    *  [![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_16x9.jpg) ![](https://media.tegna-media.com/assets/KENS/images/ea03ff16-3009-481d-b929-d39c1653ec1b/20241018T170041/ea03ff16-3009-481d-b929-d39c1653ec1b_360x203.jpg)](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
+        #### [High fire risk for Tuesday due to gusty winds, warm temps: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/red-flag-warning-gusty-winds-high-temps-dry-conditions-quad-cities-region-storm-track-8-weather-impact-alert/526-1d1c99d5-e676-4df3-ac60-80b7c37ca8d3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b8c32c0d-4d34-4230-b557-a377d427a460/20241029T120944/b8c32c0d-4d34-4230-b557-a377d427a460_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b8c32c0d-4d34-4230-b557-a377d427a460/20241029T120944/b8c32c0d-4d34-4230-b557-a377d427a460_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Storms, much-needed rain forecasted to move into the Quad Cities region Thursday night](https://www.wqad.com/article/weather/weather-local/weather-iowa-illinois-forecast-rain-quad-cities-region/526-2a4273d6-1c88-40da-ac9d-5a2b21eae441)
+        #### [Gusty winds and record warmth potential in the Quad Cities region](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-70°
+77°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny/Wind](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
