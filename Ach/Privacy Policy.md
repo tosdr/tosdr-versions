@@ -88,7 +88,7 @@ Main navigation
             
         * [Risk Management Framework](https://www.nacha.org/content/risk-management-framework)
             
-        * [Risk Management Advisory Group](https://www.nacha.org/rmag)
+        * [Risk Management Advisory Group](https://www.nacha.org/RMAG)
             
         * [Regulatory Guidance](https://www.nacha.org/content/regulatory-guidance)
             
@@ -126,8 +126,6 @@ Main navigation
             
         * [Accredited Payments Risk Professional](https://www.nacha.org/accredited-payments-risk-professional)
             
-        * [AAP/APRP Exchange](https://www.nacha.org/content/aap-and-aprp-exchange)
-            
         * [Accredited Faster Payments Professional](https://www.nacha.org/afpp)
             
         * [CEC Center](https://www.nacha.org/content/nacha-cec-center)
@@ -158,8 +156,6 @@ Main navigation
         * [Benefits](https://www.nacha.org/content/nacha-affiliate-program#pageContent-473)
             
         * [Membership Directory](https://www.nacha.org/content/affiliate-member-program-directory)
-            
-        * [Member Resources](https://www.nacha.org/content/affiliate-program-members-only)
             
         
     * [Payments Innovation Alliance](https://www.nacha.org/payments-innovation-alliance)
