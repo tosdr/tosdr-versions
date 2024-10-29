@@ -26,57 +26,71 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sykes-brown-1200x630.jpg)](https://americanwirenews.com/open-the-f-ing-border-i-dont-give-a-s-who-comes-in-here-dem-staffer-says-in-leaked-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gop-delegate-arrest-1200x630.jpg)](https://americanwirenews.com/rnc-delegate-hauled-off-in-cuffs-from-penn-polling-station-insists-she-didnt-break-any-laws/)
 
-[‘Open the f—ing border, I don’t give a s— who comes in here’ – Dem staffer says in leaked video](https://americanwirenews.com/open-the-f-ing-border-i-dont-give-a-s-who-comes-in-here-dem-staffer-says-in-leaked-video/)
+[RNC delegate hauled off in cuffs from Penn. polling station, troubling scene unfolds](https://americanwirenews.com/rnc-delegate-hauled-off-in-cuffs-from-penn-polling-station-insists-she-didnt-break-any-laws/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-adams-split-1200-x-628-1-1200x630.jpg)](https://americanwirenews.com/nyc-mayor-adams-flip-flops-on-trump-slams-hateful-msg-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bannon-1200x630.jpg)](https://americanwirenews.com/steve-bannon-delivers-pelosi-a-fiery-message-upon-release-from-prison-nancywrite-this-down/)
 
-[NYC Mayor Adams flip-flops on Trump, slams ‘hateful’ MSG rally](https://americanwirenews.com/nyc-mayor-adams-flip-flops-on-trump-slams-hateful-msg-rally/)
+[Steve Bannon delivers Pelosi a fiery message upon release from prison: ‘Nancy…write this down’](https://americanwirenews.com/steve-bannon-delivers-pelosi-a-fiery-message-upon-release-from-prison-nancywrite-this-down/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnhasan1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-bans-guest-after-epic-retort-to-anti-semite-mehdi-hasan-i-hope-your-beeper-doesnt-go-off/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-carlson-1200x630.jpg)](https://americanwirenews.com/quote-me-tucker-drops-the-mic-on-nyt-reporter-seeking-statements-for-october-surprise-hit-piece/)
 
-[CNN bans guest after EPIC retort to ‘anti-Semite’ Mehdi Hasan: ‘I hope your beeper doesn’t go off’](https://americanwirenews.com/cnn-bans-guest-after-epic-retort-to-anti-semite-mehdi-hasan-i-hope-your-beeper-doesnt-go-off/)
+[‘Quote me’: Tucker drops the mic on NYT reporter seeking statements for ‘October surprise’ hit piece](https://americanwirenews.com/quote-me-tucker-drops-the-mic-on-nyt-reporter-seeking-statements-for-october-surprise-hit-piece/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/01/Bezos-SG-1200x630.jpg)](https://americanwirenews.com/based-bezos-delivers-hard-truth-about-wapos-lack-of-credibility-refusal-to-back-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melania-trump-1200x630.jpg)](https://americanwirenews.com/melania-takes-audience-questions-on-ff-roasts-backstabbers-in-last-admin/)
 
-[‘Based’: Bezos delivers ‘hard truth’ about WaPo’s lack of ‘credibility,’ refusal to back Kamala](https://americanwirenews.com/based-bezos-delivers-hard-truth-about-wapos-lack-of-credibility-refusal-to-back-kamala/)
+[Melania takes audience questions on ‘F&F’, roasts ‘backstabbers’ in last admin](https://americanwirenews.com/melania-takes-audience-questions-on-ff-roasts-backstabbers-in-last-admin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-3-1200x630.jpg)](https://americanwirenews.com/trump-slams-fox-news-for-spending-too-much-time-promoting-the-democrats/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-1200x630.jpg)](https://americanwirenews.com/no-more-gaza-war-kamala-pleads-with-protesters-before-confounding-audience-with-odd-request/)
 
-[Trump slams Fox News for spending too much time ‘promoting the Democrats’](https://americanwirenews.com/trump-slams-fox-news-for-spending-too-much-time-promoting-the-democrats/)
+[‘No more Gaza war!’ Kamala pleads with protesters before confounding audience with odd request](https://americanwirenews.com/no-more-gaza-war-kamala-pleads-with-protesters-before-confounding-audience-with-odd-request/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-1200x630.jpg)](https://americanwirenews.com/republicans-want-answers-about-walzs-alleged-affair-with-daughter-of-chinese-communist-official/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-presser-1200x630.jpg)](https://americanwirenews.com/trump-unveils-policy-for-victims-of-migrant-crime-features-mother-of-murdered-child-in-powerful-new-ad/)
 
-[Republicans want answers about Walz’s alleged affair with daughter of Chinese communist official](https://americanwirenews.com/republicans-want-answers-about-walzs-alleged-affair-with-daughter-of-chinese-communist-official/)
+[Trump unveils policy for victims of migrant crime; features mother of murdered child in powerful new ad](https://americanwirenews.com/trump-unveils-policy-for-victims-of-migrant-crime-features-mother-of-murdered-child-in-powerful-new-ad/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-goldberg-1200x630.jpg)](https://americanwirenews.com/whoopi-loses-it-if-youre-with-a-white-guy-trump-will-deport-you-and-put-the-man-with-someone-else/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-economy-1200x630.jpg)](https://americanwirenews.com/dems-reportedly-worried-kamalas-economic-message-didnt-resonate-critics-askwhat-message/)
 
-[Whoopi loses it! If you’re with a white guy, ‘Trump will deport you and put the man with someone else’](https://americanwirenews.com/whoopi-loses-it-if-youre-with-a-white-guy-trump-will-deport-you-and-put-the-man-with-someone-else/)
+[Dems worry Kamala’s economic message didn’t resonate. Critics ask…‘what message?’](https://americanwirenews.com/dems-reportedly-worried-kamalas-economic-message-didnt-resonate-critics-askwhat-message/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-james-carville-4-1200x630.jpg)](https://americanwirenews.com/carville-dems-stake-hopes-that-americans-will-vote-based-on-one-comics-puerto-rico-joke/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-interview-1200x630.jpg)](https://americanwirenews.com/late-shift-in-swing-state-campaign-cash-signals-panic-for-kamala-harris-campaign/)
 
-[Carville, Dems stake hopes that Americans will vote based on one comic’s Puerto Rico joke](https://americanwirenews.com/carville-dems-stake-hopes-that-americans-will-vote-based-on-one-comics-puerto-rico-joke/)
+[Late shift in swing state campaign cash signals ‘PANIC’ for Kamala Harris campaign](https://americanwirenews.com/late-shift-in-swing-state-campaign-cash-signals-panic-for-kamala-harris-campaign/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-liz-aoc1-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whistleblowers-1200x630.jpg)
 
-### AOC lets the truth slip about Kamala’s gal pal Liz Cheney](https://americanwirenews.com/aoc-lets-the-truth-slip-about-kamalas-gal-pal-liz-cheney/)
+### ‘We corroborated that ‘The Big Guy’ was Joe Biden. Yes.’ Catherine Herridge drops BOMBSHELL video](https://americanwirenews.com/we-corroborated-that-the-big-guy-was-joe-biden-yes-catherine-herridge-drops-bombshell-video/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Rogan reveals thoughts on 3-hour Trump interview seen by millions: ‘This is what’s crazy…’](https://americanwirenews.com/rogan-reveals-thoughts-on-3-hour-trump-interview-seen-by-millions-this-is-whats-crazy/)
+### [Sad. AOC, ‘Tampon Tim’ play Madden on Twitch while voters act like grown-ups](https://americanwirenews.com/sad-aoc-tampon-tim-play-madden-on-twitch-while-voters-act-like-grown-ups/)
 
-### [NBC’s Welker no match for JD Vance as ‘enemy from within’ attack angle shut down with a smile](https://americanwirenews.com/nbcs-welker-no-match-for-jd-vance-as-enemy-from-within-attack-angle-shut-down-with-a-smile/)
+### [Monica Lewinsky offers eyebrow-raising advice to ease ‘election anxiety.’ Hulk Hogan: ‘hold my beer’](https://americanwirenews.com/monica-lewinsky-offers-eyebrow-raising-advice-to-ease-election-anxiety-hulk-hogan-hold-my-beer/)
 
-### [College football player flashes ‘Trump 2024’ T-shirt under jersey after trick play touchdown](https://americanwirenews.com/college-football-player-flashes-trump-2024-t-shirt-under-jersey-after-trick-play-touchdown/)
+### [Did Hulk Hogan bodyslam ‘really bad actress’ Kamala with a ‘hawk tuah’ spit at NYC Trump rally?](https://americanwirenews.com/did-hulk-hogan-bodyslam-really-bad-actress-kamala-with-a-hawk-tuah-spit-at-nyc-trump-rally/)
 
-### [Michelle Obama suggests in familiar rant it’s racist and sexist to not vote for Kamala](https://americanwirenews.com/michelle-obama-suggests-in-familiar-rant-its-racist-and-sexist-to-not-vote-for-kamala/)
+### [Trump crowd at MSG mostly rejects jokes by comedian known for ‘roasting’](https://americanwirenews.com/trump-crowd-at-msg-mostly-rejects-jokes-by-comedian-known-for-roasting/)
 
-### [‘I don’t think it’s fitting’: Mayor Adams bucks Kamala Harris, rejects ‘Trump is a fascist’ line of attack](https://americanwirenews.com/i-dont-think-its-fitting-mayor-adams-bucks-kamala-harris-rejects-trump-is-a-fascist-line-of-attack/)
+### [Delicious! WaPo’s Jen Rubin rags on LA Times journos for not quitting, but then it happens to her!](https://americanwirenews.com/delicious-wapos-jen-rubin-rags-on-la-times-journos-for-not-quitting-but-then-it-happens-to-her/)
 
-### [Fetterman marvels at Trump’s ‘astonishing’ appeal in key battleground state: ‘Taylor Swift kind of swag’](https://americanwirenews.com/fetterman-marvels-at-trumps-astonishing-appeal-in-key-battleground-state-taylor-swift-kind-of-swag/)
+### [NFL 49ers star crashes teammates’ postgame interview on NBC with surprise MAGA love](https://americanwirenews.com/niners-star-crashes-teammates-postgame-interview-with-surprise-maga-love/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-harris-biden-220x180.jpg)](https://americanwirenews.com/michael-shellenberger-dems-wall-of-lies-is-crumbling-amid-major-political-shift-and-dangerous-moment/)
+
+[Michael Shellenberger: Dems’ ‘wall of lies is crumbling’ amid major political shift and ‘dangerous’ moment](https://americanwirenews.com/michael-shellenberger-dems-wall-of-lies-is-crumbling-amid-major-political-shift-and-dangerous-moment/)
+
+(Official White House Photo by Adam Schultz)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-vote-220x180.jpg)](https://americanwirenews.com/pro-harris-super-pac-accused-of-targeting-black-voters-with-creepy-and-threatening-ads/)
+
+[Pro-Harris super PAC accused of targeting black voters with ‘creepy’ and ‘threatening’ ads](https://americanwirenews.com/pro-harris-super-pac-accused-of-targeting-black-voters-with-creepy-and-threatening-ads/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-anchor-dave-elliott-220x180.jpg)](https://americanwirenews.com/long-time-news-anchor-says-he-was-fired-over-personal-political-post-criticizing-harris-voters/)
+
+[Long-time news anchor says he was fired over personal political post criticizing Harris voters](https://americanwirenews.com/long-time-news-anchor-says-he-was-fired-over-personal-political-post-criticizing-harris-voters/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-collins-lake-220x180.jpg)](https://americanwirenews.com/kari-lake-hits-a-nerve-with-kaitlan-collins-with-all-due-respect-im-conducting-this-interview/)
 
@@ -118,65 +132,49 @@ Search for:
 
 [Kamala’s weird request confuses crowd into awkward silence: ‘She has negative social IQ’](https://americanwirenews.com/kamalas-weird-request-confuses-crowd-into-awkward-silence-she-has-negative-social-iq/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-loomis-220x180.jpg)](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-james-carville-4-220x180.jpg)](https://americanwirenews.com/carville-dems-stake-hopes-that-americans-will-vote-based-on-one-comics-puerto-rico-joke/)
 
-[Singer offers heartfelt apology after botching national anthem, asking for do-over: ‘I am so sorry’](https://americanwirenews.com/singer-offers-heartfelt-apology-after-botching-national-anthem-asking-for-do-over-i-am-so-sorry/)
+[Carville, Dems stake hopes that Americans will vote based on one comic’s Puerto Rico joke](https://americanwirenews.com/carville-dems-stake-hopes-that-americans-will-vote-based-on-one-comics-puerto-rico-joke/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-soriano-johnson-220x180.jpg)](https://americanwirenews.com/maga-dress-designer-fights-back-when-hes-told-to-remove-trump-signs-after-a-karen-flips-out/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-goldberg-220x180.jpg)](https://americanwirenews.com/whoopi-loses-it-if-youre-with-a-white-guy-trump-will-deport-you-and-put-the-man-with-someone-else/)
 
-[MAGA dress designer fights back when he’s told to remove Trump signs after a ‘Karen’ flips out](https://americanwirenews.com/maga-dress-designer-fights-back-when-hes-told-to-remove-trump-signs-after-a-karen-flips-out/)
+[Whoopi loses it! If you’re with a white guy, ‘Trump will deport you and put the man with someone else’](https://americanwirenews.com/whoopi-loses-it-if-youre-with-a-white-guy-trump-will-deport-you-and-put-the-man-with-someone-else/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-quets-220x180.jpg)](https://americanwirenews.com/father-of-marine-murdered-in-mexico-recounts-meeting-trump-had-a-tear-in-his-eyehe-cared-about-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-3-220x180.jpg)](https://americanwirenews.com/republicans-want-answers-about-walzs-alleged-affair-with-daughter-of-chinese-communist-official/)
 
-[Father of Marine murdered in Mexico recounts meeting Trump: ‘Had a tear in his eye…he cared about us’](https://americanwirenews.com/father-of-marine-murdered-in-mexico-recounts-meeting-trump-had-a-tear-in-his-eyehe-cared-about-us/)
+[Republicans want answers about Walz’s alleged affair with daughter of Chinese communist official](https://americanwirenews.com/republicans-want-answers-about-walzs-alleged-affair-with-daughter-of-chinese-communist-official/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-purple-heart-clint-trial-220x180.jpg)](https://americanwirenews.com/wounded-us-marine-motivated-by-joe-rogan-interview-shares-video-of-trump-visit-to-hospital/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-3-220x180.jpg)](https://americanwirenews.com/trump-slams-fox-news-for-spending-too-much-time-promoting-the-democrats/)
 
-[Wounded US Marine motivated by Joe Rogan interview shares video of Trump visit to hospital](https://americanwirenews.com/wounded-us-marine-motivated-by-joe-rogan-interview-shares-video-of-trump-visit-to-hospital/)
+[Trump slams Fox News for spending too much time ‘promoting the Democrats’](https://americanwirenews.com/trump-slams-fox-news-for-spending-too-much-time-promoting-the-democrats/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-debbie-trump-girl-220x180.jpg)](https://americanwirenews.com/trump-girls-yard-full-of-signs-and-flags-in-virginia-multiply-amid-crazy-liberal-restrictions/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/01/Bezos-SG-220x180.jpg)](https://americanwirenews.com/based-bezos-delivers-hard-truth-about-wapos-lack-of-credibility-refusal-to-back-kamala/)
 
-[Trump Girl’s yard full of signs and flags in Virginia multiply amid crazy liberal restrictions](https://americanwirenews.com/trump-girls-yard-full-of-signs-and-flags-in-virginia-multiply-amid-crazy-liberal-restrictions/)
+[‘Based’: Bezos delivers ‘hard truth’ about WaPo’s lack of ‘credibility,’ refusal to back Kamala](https://americanwirenews.com/based-bezos-delivers-hard-truth-about-wapos-lack-of-credibility-refusal-to-back-kamala/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-aoc-walz-220x180.png)](https://americanwirenews.com/sad-aoc-tampon-tim-play-madden-on-twitch-while-voters-act-like-grown-ups/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnnhasan1-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-bans-guest-after-epic-retort-to-anti-semite-mehdi-hasan-i-hope-your-beeper-doesnt-go-off/)
 
-[Sad. AOC, ‘Tampon Tim’ play Madden on Twitch while voters act like grown-ups](https://americanwirenews.com/sad-aoc-tampon-tim-play-madden-on-twitch-while-voters-act-like-grown-ups/)
+[CNN bans guest after EPIC retort to ‘anti-Semite’ Mehdi Hasan: ‘I hope your beeper doesn’t go off’](https://americanwirenews.com/cnn-bans-guest-after-epic-retort-to-anti-semite-mehdi-hasan-i-hope-your-beeper-doesnt-go-off/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lewinsky-220x180.jpg)](https://americanwirenews.com/monica-lewinsky-offers-eyebrow-raising-advice-to-ease-election-anxiety-hulk-hogan-hold-my-beer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-adams-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/nyc-mayor-adams-flip-flops-on-trump-slams-hateful-msg-rally/)
 
-[Monica Lewinsky offers eyebrow-raising advice to ease ‘election anxiety.’ Hulk Hogan: ‘hold my beer’](https://americanwirenews.com/monica-lewinsky-offers-eyebrow-raising-advice-to-ease-election-anxiety-hulk-hogan-hold-my-beer/)
+[NYC Mayor Adams flip-flops on Trump, slams ‘hateful’ MSG rally](https://americanwirenews.com/nyc-mayor-adams-flip-flops-on-trump-slams-hateful-msg-rally/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2181403959b-220x180.jpg)](https://americanwirenews.com/did-hulk-hogan-bodyslam-really-bad-actress-kamala-with-a-hawk-tuah-spit-at-nyc-trump-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sykes-brown-220x180.jpg)](https://americanwirenews.com/open-the-f-ing-border-i-dont-give-a-s-who-comes-in-here-dem-staffer-says-in-leaked-video/)
 
-[Did Hulk Hogan bodyslam ‘really bad actress’ Kamala with a ‘hawk tuah’ spit at NYC Trump rally?](https://americanwirenews.com/did-hulk-hogan-bodyslam-really-bad-actress-kamala-with-a-hawk-tuah-spit-at-nyc-trump-rally/)
+[‘Open the f—ing border, I don’t give a s— who comes in here’ – Dem staffer says in leaked video](https://americanwirenews.com/open-the-f-ing-border-i-dont-give-a-s-who-comes-in-here-dem-staffer-says-in-leaked-video/)
 
-Getty Images
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-liz-aoc1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/aoc-lets-the-truth-slip-about-kamalas-gal-pal-liz-cheney/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tonyh-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-crowd-at-msg-mostly-rejects-jokes-by-comedian-known-for-roasting/)
+[AOC lets the truth slip about Kamala’s gal pal Liz Cheney](https://americanwirenews.com/aoc-lets-the-truth-slip-about-kamalas-gal-pal-liz-cheney/)
 
-[Trump crowd at MSG mostly rejects jokes by comedian known for ‘roasting’](https://americanwirenews.com/trump-crowd-at-msg-mostly-rejects-jokes-by-comedian-known-for-roasting/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ballot-box-fire-220x180.jpg)](https://americanwirenews.com/hundreds-of-ballots-up-in-smoke-after-drop-box-torched/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rubin-220x180.jpg)](https://americanwirenews.com/delicious-wapos-jen-rubin-rags-on-la-times-journos-for-not-quitting-but-then-it-happens-to-her/)
+[Hundreds of ballots up in smoke after drop box torched](https://americanwirenews.com/hundreds-of-ballots-up-in-smoke-after-drop-box-torched/)
 
-[Delicious! WaPo’s Jen Rubin rags on LA Times journos for not quitting, but then it happens to her!](https://americanwirenews.com/delicious-wapos-jen-rubin-rags-on-la-times-journos-for-not-quitting-but-then-it-happens-to-her/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dem-ad-masturbation-220x180.jpg)](https://americanwirenews.com/dems-max-out-desperation-meter-with-pro-masturbation-ad-no-really/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-nick-bosa-220x180.png)](https://americanwirenews.com/niners-star-crashes-teammates-postgame-interview-with-surprise-maga-love/)
-
-[NFL 49ers star crashes teammates’ postgame interview on NBC with surprise MAGA love](https://americanwirenews.com/niners-star-crashes-teammates-postgame-interview-with-surprise-maga-love/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harrisphilly-1200-x-628-220x180.jpg)](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
-
-[Harris heckled at black church in Philly, suggests that she has God’s endorsement](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2180818702-220x180.jpg)](https://americanwirenews.com/trump-brings-down-the-house-at-msg-melania-shares-epic-moment-here-are-the-highlights/)
-
-[Trump BRINGS DOWN THE HOUSE at MSG, Melania shares EPIC moment. Here are the highlights.](https://americanwirenews.com/trump-brings-down-the-house-at-msg-melania-shares-epic-moment-here-are-the-highlights/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-220x180.png)](https://americanwirenews.com/kamala-mocked-for-new-preacher-accent-in-philly-everything-about-this-woman-is-fake/)
-
-[Kamala mocked for new preacher accent in Philly: ‘Everything about this woman is fake’](https://americanwirenews.com/kamala-mocked-for-new-preacher-accent-in-philly-everything-about-this-woman-is-fake/)
+[Dems max out desperation meter with pro-masturbation ad — no, really](https://americanwirenews.com/dems-max-out-desperation-meter-with-pro-masturbation-ad-no-really/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -264,29 +262,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-1200x630.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harrisphilly-1200-x-628-1200x630.jpg)](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
 
-[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+[Harris heckled at black church in Philly, suggests that she has God’s endorsement](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jones-220x180.jpg)](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harrisphilly-1200-x-628-220x180.jpg)](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
 
-[CNN’s Van Jones admits Dems lack joy, says Trump ‘is beating the pants off of us’](https://americanwirenews.com/cnns-van-jones-admits-dems-lack-joy-says-trump-is-beating-the-pants-off-of-us/)
+[Harris heckled at black church in Philly, suggests that she has God’s endorsement](https://americanwirenews.com/harris-heckled-at-black-church-in-philly-suggests-that-she-has-gods-endorsement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-madisonsquaregarden-trump-220x180.jpg)](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2180818702-220x180.jpg)](https://americanwirenews.com/trump-brings-down-the-house-at-msg-melania-shares-epic-moment-here-are-the-highlights/)
 
-[MAGA faithful camp outside MSG ahead of Trump rally, say it’s ‘worth the wait’](https://americanwirenews.com/maga-faithful-camp-outside-msg-ahead-of-trump-rally-say-its-worth-the-wait/)
+[Trump BRINGS DOWN THE HOUSE at MSG, Melania shares EPIC moment. Here are the highlights.
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rapaport-220x180.jpg)](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
+Getty Images](https://americanwirenews.com/trump-brings-down-the-house-at-msg-melania-shares-epic-moment-here-are-the-highlights/)
 
-[‘Stop with the Hitler s\*\*t!’ Rapaport takes flamethrower to the left’s most desperate narrative](https://americanwirenews.com/stop-with-the-hitler-st-rapaport-takes-flamethrower-to-the-lefts-most-desperate-narrative/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-church-220x180.png)](https://americanwirenews.com/kamala-mocked-for-new-preacher-accent-in-philly-everything-about-this-woman-is-fake/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-morningjoe-220x180.jpg)](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
+[Kamala mocked for new preacher accent in Philly: ‘Everything about this woman is fake’](https://americanwirenews.com/kamala-mocked-for-new-preacher-accent-in-philly-everything-about-this-woman-is-fake/)
 
-[‘Morning Joe’ suggests Trump supporters can get out of America](https://americanwirenews.com/morning-joe-suggests-trump-supporters-can-get-out-of-america/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalacheney-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-lawmaker-fumes-about-cynical-billboards-linking-kamala-to-liz/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-houston-220x180.jpg)](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
+[Dem lawmaker fumes about ‘cynical’ billboards linking Kamala to Liz](https://americanwirenews.com/dem-lawmaker-fumes-about-cynical-billboards-linking-kamala-to-liz/)
 
-[Here are some of the ‘lowlights’ from Kamala’s dumpster fire Houston rally](https://americanwirenews.com/here-are-some-of-the-lowlights-from-kamalas-dumpster-fire-houston-rally/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sanders-musk-220x180.jpg)](https://americanwirenews.com/comrade-bernie-uncorks-conspiracy-theory-as-attacks-shift-to-musk/)
+
+[Comrade Bernie uncorks conspiracy theory as attacks shift to Musk](https://americanwirenews.com/comrade-bernie-uncorks-conspiracy-theory-as-attacks-shift-to-musk/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
