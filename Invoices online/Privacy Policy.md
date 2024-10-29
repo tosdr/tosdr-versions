@@ -128,50 +128,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=187171465)  
-Nogana Events and Decor
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=171352883)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=129038680)  
-Testpro Laboratory (Pty) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=58480347)  
+Kaylas Creations
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=118877569)  
-Skinz Printing & Branding
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=69200001)  
+All Trucking Solutions
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=145623030)  
-Immediate Health (pty)ltd
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=202102196)  
+Van Der Merwe Olieverspreiders
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=9562356)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=42210448)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=173815034)  
-Printo
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=84518919)  
+Redlum Group (Pty) Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=103408352)  
-Blue Bulls Rugby Coaches Association
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=49539787)  
+SR Travel Services
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=136000023)  
-Mtunzini Group
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=3035915)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=40559454)  
-Repairs In Motion
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=56536730)  
+WIP Digital Solutions
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=90939871)  
-West Coast Horse Trails
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=118618680)  
+APTV Telecoms CC
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=132586413)  
-Frequency Fanatics (Pty) Ltd
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=132251962)  
+AquariumSmiths
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=130798181)  
-INVOICES/JOBCARDS ONLINE
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=1881418)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=74835801)  
-Moremi Kitchens Rustenburg
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=45175194)  
+United Paintball Federation
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=53800259)  
-SafeTclip
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=66226257)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=18344858)  
-kidoscabbie
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=105648275)  
+VerdanTech Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
