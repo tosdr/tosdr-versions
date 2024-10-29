@@ -186,7 +186,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [**SCIENCE episode preview** | Craft in America](https://video.nhpbs.org/video/science-episode-preview-feldyl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-scene-vkiqnk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**News Wrap: Israel's parliament votes to bar UNRWA** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1730149933?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump faces backlash for racist, sexist rhetoric at rally** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1730149989?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Extraordinary Finds 3 Sneak Peek** | Antiques Roadshow](https://video.nhpbs.org/video/preview-extraordinary-finds-3-tjzeig?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**On a Mission** | Stories from the Stage](https://video.nhpbs.org/video/on-a-mission-iksx9s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Honda Passport TrailSport & 2024 BMW iX M60** | MotorWeek](https://video.nhpbs.org/video/2024-honda-passport-trailsport-2024-bmw-ix-m60-jygwde?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
