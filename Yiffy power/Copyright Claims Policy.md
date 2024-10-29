@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 263 1
+0 276 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-clamcrusher/)
+[](https://yiff-party.com/yiff/fwench-fwy-chikn-nuggit-and-etc-created-by-fieryfur/)
 
-[bowser (mario bros and etc) created by clamcrusher](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-clamcrusher/)
+[fwench fwy (chikn nuggit and etc) created by fieryfur](https://yiff-party.com/yiff/fwench-fwy-chikn-nuggit-and-etc-created-by-fieryfur/)
 
-0 90 0
+0 108 0
 
-September 29, 2024
+September 30, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/twix-directed-by-furhammer-director-2/)
+[](https://yiff-party.com/yiff/nicole-watterson-the-amazing-world-of-gumball-and-etc-created-by-rilesthecat/)
 
-[twix directed by furhammer (director)](https://yiff-party.com/yiff-ai-premium/twix-directed-by-furhammer-director-2/)
+[nicole watterson (the amazing world of gumball and etc) created by rilesthecat](https://yiff-party.com/yiff/nicole-watterson-the-amazing-world-of-gumball-and-etc-created-by-rilesthecat/)
 
-0 1 0
+0 2 0
 
 October 29, 2024
 
