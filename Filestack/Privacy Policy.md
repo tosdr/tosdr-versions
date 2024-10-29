@@ -297,7 +297,8 @@ Getting started is fast, free, and easy. [Improve your file upload performance t
 
 [Print](https://www.filestack.com/use-cases/print/)  
 [Drone](https://www.filestack.com/use-cases/drone/)  
-[Ed-tech](https://www.filestack.com/use-cases/ed-tech/)
+[Ed-tech](https://www.filestack.com/use-cases/ed-tech/)  
+[Editor Integration](https://www.filestack.com/integration-with-wysiwyg-editor/)
 
 **RESOURCES**
 
