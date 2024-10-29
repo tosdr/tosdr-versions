@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Suspected house explosion kills 2 in northern Collin County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-van-alstyne-house-explosion-4p_00.00.14.52.jpg?ve=1&tl=1)
+ [![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gisele.jpg?ve=1&tl=1)
 
- ![Suspected house explosion kills 2 in northern Collin County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-van-alstyne-house-explosion-4p_00.00.14.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspected-fatal-house-explosion-levels-home-northern-collin-county)
+ ![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gisele.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
 
-### [Suspected house explosion kills 2 in northern Collin County](https://www.fox4news.com/news/suspected-fatal-house-explosion-levels-home-northern-collin-county)
+### [Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
 
- [![North Texas sees increase in early voting during first week compared to 2020](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/early-voting.jpg?ve=1&tl=1)
+ [![46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102824-kst-texas-wesleyan-surprise-fwisd-seniors_00.15.52.24.jpg?ve=1&tl=1)
 
- ![North Texas sees increase in early voting during first week compared to 2020](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/early-voting.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/north-texas-sees-increase-early-voting-during-first-week-compared-2020)
+ ![46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102824-kst-texas-wesleyan-surprise-fwisd-seniors_00.15.52.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/46-fort-worth-isd-seniors-awarded-23000-scholarships-texas-wesleyan-university)
 
-### [North Texas sees increase in early voting during first week compared to 2020](https://www.fox4news.com/election/north-texas-sees-increase-early-voting-during-first-week-compared-2020)
+### [46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://www.fox4news.com/news/46-fort-worth-isd-seniors-awarded-23000-scholarships-texas-wesleyan-university)
 
- [![CDC issues alert about 'walking pneumonia' in kids](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/child-gets-a-checkup.jpg?ve=1&tl=1)
+ [![Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ballotbox.jpg?ve=1&tl=1)
 
- ![CDC issues alert about 'walking pneumonia' in kids](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/child-gets-a-checkup.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cdc-alert-walking-pneumonia-kids)
+ ![Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ballotbox.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ballot-boxes-fire-oregon-washington)
 
-### [CDC issues alert about 'walking pneumonia' in kids](https://www.fox4news.com/news/cdc-alert-walking-pneumonia-kids)
+### [Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://www.fox4news.com/news/ballot-boxes-fire-oregon-washington)
 
- [![Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/10/32/18/lichtman-prediction.png?ve=1&tl=1)
+ [![Best and worst college towns in 2025, according to WalletHub ranking](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/austin-skyline.jpg?ve=1&tl=1)
 
- ![Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/10/32/18/592/333/lichtman-prediction.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-predictor-allan-lichtman-stands-call-harris-will-win-2024-election)
+ ![Best and worst college towns in 2025, according to WalletHub ranking](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/austin-skyline.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/best-worst-college-towns-2025-according-wallethub-ranking)
 
-### [Presidential predictor Allan Lichtman stands by call that Harris will win 2024 election](https://www.fox4news.com/news/presidential-predictor-allan-lichtman-stands-call-harris-will-win-2024-election)
+### [Best and worst college towns in 2025, according to WalletHub ranking](https://www.fox4news.com/news/best-worst-college-towns-2025-according-wallethub-ranking)
 
- [![Who's winning the race for president? Latest poll numbers as final full week kicks off](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-4.jpg?ve=1&tl=1)
+ [![Dallas firefighter earns national recognition for water rescues](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s-shaun-dallas-firefighter-honored-by-children_s-f_00.00.15.50.jpg?ve=1&tl=1)
 
- ![Who's winning the race for president? Latest poll numbers as final full week kicks off](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-race-president-latest-poll-numbers)
+ ![Dallas firefighter earns national recognition for water rescues](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s-shaun-dallas-firefighter-honored-by-children_s-f_00.00.15.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dfr-charles-abney-national-firefighter-hero-award)
 
-### [Who's winning the race for president? Latest poll numbers as final full week kicks off](https://www.fox4news.com/news/whos-winning-race-president-latest-poll-numbers)
+### [Dallas firefighter earns national recognition for water rescues](https://www.fox4news.com/news/dfr-charles-abney-national-firefighter-hero-award)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
