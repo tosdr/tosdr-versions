@@ -1,5 +1,11 @@
 [Skip to main content](#page)
 
+[Alert Icon Icon of an exclamation point in a triangle.
+
+**Holiday:** Reduced service level on Veterans Day
+
+View Service Alerts](https://www.cherriots.org/alerts/)
+
 [Cherriots![](/static/cherriots/images/logo.png)](https://www.cherriots.org/)
 
 * [Contact Us](https://www.cherriots.org/contact)
