@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_Sistemna_Pratagy_BRK_-_foto_Ascom_BRK_1ee1e250de.jpg)
+   [![Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_crianca_atingida_por_cavalo_5ed9daeef6.jpg)
+
+SUSTO
+
+Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://www.tnh1.com.br/noticia/nid/video-crianca-e-atingida-por-cavalo-na-areia-da-praia-de-pajucara/ "Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara")   [![Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_ambulatorio_denilma_07044945e3.png)
+
+fechados por um ano
+
+Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://www.tnh1.com.br/noticia/nid/ambulatorios-no-benedito-e-levada-vao-suspender-atendimentos-veja-onde-buscar-servicos/ "Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços")   [![Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/8/csm_assalto_mcz_pet_shop_e3b8c1dcf9.png)
+
+parte alta
+
+Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://www.tnh1.com.br/noticia/nid/video-homem-se-passa-por-cliente-e-assalta-pet-shop-a-mao-armada-em-maceio/ "Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió")   [![Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_Sistemna_Pratagy_BRK_-_foto_Ascom_BRK_1ee1e250de.jpg)
 
 Sistema Pratagy
 
@@ -30,19 +42,7 @@ Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas n
 
 manhã de segunda
 
-Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")   [![Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/d/csm_carro-invade-restaurante-jacintinho_6e0eb74ba6.jpg)
-
-sinais de embriaguez
-
-Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir](https://www.tnh1.com.br/noticia/nid/video-motorista-bate-em-seis-veiculos-e-invade-restaurante-em-maceio-populares-tentam-o-agredir/ "Vídeo: motorista bate em seis veículos e invade restaurante em Maceió; populares tentam o agredir")   [![Três mulheres são resgatadas após afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/2/csm_corpo_de_bombeiros_salva_vidas_praia_do_frances_-_foto_assessoria_6f442d69c1.jpg)
-
-Domingo de lazer
-
-Três mulheres são resgatadas após afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/tres-mulheres-sao-resgatadas-apos-afogamento-na-praia-do-frances/ "Três mulheres são resgatadas após afogamento na Praia do Francês")   [![Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/0/csm_manifestacao_julgamento_caso_joao_de_assis_-_foto_assessoria__2__702f4317e4.jpeg)
-
-Crime em 2022
-
-Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió](https://www.tnh1.com.br/noticia/nid/auditores-fiscais-fazem-ato-e-pedem-pela-condenacao-dos-acusados-de-matar-joao-de-assis-em-maceio/ "Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar João de Assis, em Maceió")
+Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,7 +50,19 @@ Auditores fiscais fazem ato e pedem pela condenação dos acusados de matar Joã
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
+   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
+
+Alagoas
+
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+
+Veja instruções
+
+Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
+
+centenário
+
+Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
 
 Meteorologia
 
@@ -62,19 +74,7 @@ Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Eu
 
 Oportunidade
 
-Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")   [![Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-parabéns!
-
-Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024](https://www.tnh1.com.br/noticia/nid/confira-os-ganhadores-do-alagoas-da-sorte-deste-domingo-27-de-outubro-de-2024/ "Confira os ganhadores do Alagoas dá Sorte deste domingo, 27 de outubro de 2024")   [![Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/1/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_44374c36f1.jpeg)
-
-balneabilidade
-
-Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas](https://www.tnh1.com.br/noticia/nid/prainha-no-fim-de-semana-veja-os-trechos-que-estao-proprios-para-banho-em-alagoas/ "Prainha no fim de semana? Veja os trechos que estão próprios para banho em Alagoas")   [![É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/c/csm_alagoas-contra-a-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo_af7bae8e6f.jpeg)
-
-Alagoas
-
-É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo](https://www.tnh1.com.br/noticia/nid/e-fake-bprv-nao-vai-realizar-blitz-para-arrecadar-fundos-para-o-governo/ "É fake: BPRV não vai realizar blitz para arrecadar fundos para o Governo")
+Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Alagoas
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_6a42903227.jpg)
+   [![Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_5e3194f6ef.jpeg)
+
+área de proteção
+
+Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/policia-abre-inquerito-para-investigar-empresa-por-crime-ambiental-na-area-de-mangue-em-jacarecica/ "Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ")   [![Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_Viatura_Policia_Militar_-_Foto_Cortesia_ao_TNH1__Bruno_Protasio_4e80112b48_630098ddc8_72b789d7a0.jpeg)
+
+em Maceió
+
+Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão](https://www.tnh1.com.br/noticia/nid/corpo-de-homem-e-encontrado-em-corrego-com-quatro-marcas-de-tiros-e-chave-de-moto-na-mao/ "Corpo de homem é encontrado em córrego com quatro marcas de tiros e chave de moto na mão")   [![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_6a42903227.jpg)
 
 cinco pessoas
 
-Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")   [![Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Com_uso_de_drone__policia_prende_foragido_de_Pernambuco_no_Centro_de_Maceio_-_foto_Reproducao_PCAL_a2058b33ae.jpg)
+Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")   [![Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Com_uso_de_drone__policia_prende_foragido_de_Pernambuco_no_Centro_de_Maceio_-_foto_Reproducao_PCAL_a2058b33ae.jpg)
 
 54 anos
 
-Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://www.tnh1.com.br/noticia/nid/com-uso-de-drone-policia-prende-foragido-de-pernambuco-no-centro-de-maceio-assista/ "Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista")   [![Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/e/csm_Policia_Militar_algema_82745f32e3.jpeg)
+Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista](https://www.tnh1.com.br/noticia/nid/com-uso-de-drone-policia-prende-foragido-de-pernambuco-no-centro-de-maceio-assista/ "Com uso de drone, polícia prende foragido de Pernambuco no Centro de Maceió; assista")   [![Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/e/csm_Policia_Militar_algema_82745f32e3.jpeg)
 
 Polícia
 
-Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://www.tnh1.com.br/noticia/nid/homem-da-entrada-em-hospital-apos-ser-baleado-e-termina-preso-em-cajueiro/ "Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro")   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
+Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro](https://www.tnh1.com.br/noticia/nid/homem-da-entrada-em-hospital-apos-ser-baleado-e-termina-preso-em-cajueiro/ "Homem dá entrada em hospital após ser baleado e termina preso em Cajueiro")   [![Homem é atingido por oito tiros e morre no Vergel do Lago](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/c/csm_homicidio_vergel_6187edde1a.jpg)
 
 Autoria desconhecida
 
-Homem é atingido por oito tiros e morre no Vergel do Lago](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-oito-tiros-e-morre-no-vergel-do-lago/ "Homem é atingido por oito tiros e morre no Vergel do Lago")   [![Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/b/csm_violencia_domestica_frepik_cbf9d361de.jpg)
-
-Paripueira
-
-Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-arremessar-copo-de-vidro-contra-a-esposa-e-deixar-a-filha-de-6-anos-ferida/ "Homem é preso após arremessar copo de vidro contra a esposa e deixar a filha de 6 anos ferida")   [![Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/c/csm_apreensao_droga_arapiraca_dc149122fd.jpeg)
-
-imóvel abandonado
-
-Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu](https://www.tnh1.com.br/noticia/nid/drogas-avaliadas-em-r-95-mil-sao-apreendidas-em-residencia-em-arapiraca-suspeito-fugiu/ "Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; suspeito fugiu")
+Homem é atingido por oito tiros e morre no Vergel do Lago](https://www.tnh1.com.br/noticia/nid/homem-e-atingido-por-oito-tiros-e-morre-no-vergel-do-lago/ "Homem é atingido por oito tiros e morre no Vergel do Lago")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -204,15 +204,15 @@ Mercado de Trabalho
 
 Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
 
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_Pai_e_preso_ao_levar_filha_de_14_anos_para_assaltar_motorista_de_aplicativo_-_foto_Reproducao_Redes_sociais_c2949dc1c1.jpg)
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
 
-31 anos
+novo serviço
 
-31 anos
+novo serviço
 
-Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo
+Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona
 
-Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo](https://www.tnh1.com.br/noticia/nid/pai-e-preso-ao-levar-filha-de-14-anos-para-assaltar-motorista-de-aplicativo/ "Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
+Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
 
 Sem migué?
 
@@ -222,39 +222,39 @@ Atestados médicos ganham novidades em novembro; veja o que muda
 
 Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")
 
-[![Mãe fica revoltada por filha interpretar uma porta no teatro da escola](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_natal-pais-reproducao-mirror_b3d23a85d9.jpg)
+[![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_1b39fb1203.png)
 
-Nas redes sociais
+Alagoas
 
-Nas redes sociais
+Alagoas
 
-Mãe fica revoltada por filha interpretar uma porta no teatro da escola
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês
 
-Mãe fica revoltada por filha interpretar uma porta no teatro da escola](https://www.tnh1.com.br/noticia/nid/mae-fica-revoltada-por-filha-interpretar-uma-porta-no-teatro-da-escola/ "Mãe fica revoltada por filha interpretar uma porta no teatro da escola")[![Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_descoberta-cientistas-bahia-divulgacao-unicamp_546f094171.png)
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")[![Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_a118a86c36.jpeg)
 
-Ciência
+área de proteção
 
-Ciência
+área de proteção
 
-Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja
+Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica
 
-Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-o-2o-menor-vertebrado-do-mundo-na-bahia-veja/ "Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja")[![Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/5/csm_facebook-pexels_708334b132.jpg)
+Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/policia-abre-inquerito-para-investigar-empresa-por-crime-ambiental-na-area-de-mangue-em-jacarecica/ "Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
 
-"vantagem ilícita"
+EM OITO ESTADOS
 
-"vantagem ilícita"
+EM OITO ESTADOS
 
-Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi
+Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal
 
-Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi](https://www.tnh1.com.br/noticia/nid/emissoras-de-tv-e-radio-da-espanha-entram-com-acao-contra-meta-e-pedem-quase-r-1-bi/ "Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi")[![Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_abuso_infantil_90edbda2e3.png)
+Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_ambulatorio_denilma_0fd4c5c75e.png)
 
-Mundo
+fechados por um ano
 
-Mundo
+fechados por um ano
 
-Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra
+Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços
 
-Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra](https://www.tnh1.com.br/noticia/nid/ator-de-novelas-e-preso-acusado-de-abuso-sexual-de-cinco-menores-na-inglaterra/ "Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra")
+Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://www.tnh1.com.br/noticia/nid/ambulatorios-no-benedito-e-levada-vao-suspender-atendimentos-veja-onde-buscar-servicos/ "Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
