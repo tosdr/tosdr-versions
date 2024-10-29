@@ -59,11 +59,12 @@
     
     Industries
     
-    * [Healthcare](https://pinkerton.com/industries/healthcare)
-    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Overview](https://pinkerton.com/industries)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
-    * [Retail](https://pinkerton.com/industries/retail)
+    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Retail](https://pinkerton.com/industries/retail)
     * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
@@ -449,11 +450,12 @@ Pinkerton utilizes BBB National Programs for dispute resolutions.
     
     Industries
     
-    * [Healthcare](https://pinkerton.com/industries/healthcare)
-    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Overview](https://pinkerton.com/industries)
     * [Data Centers](https://pinkerton.com/industries/data-centers)
-    * [Retail](https://pinkerton.com/industries/retail)
+    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Healthcare](https://pinkerton.com/industries/healthcare)
     * [Manufacturing](https://pinkerton.com/industries/manufacturing)
+    * [Retail](https://pinkerton.com/industries/retail)
     * [Supply Chain Risk Management](https://pinkerton.com/industries/supply-chain-risk-management)
     
 * About Us
