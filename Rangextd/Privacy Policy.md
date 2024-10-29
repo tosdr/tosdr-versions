@@ -59,6 +59,17 @@ Search results
     [](https://www.rangextd.com/products/blaux-heater-450w)
     
 
+BLACK FRIDAY ENDS
+=================
+
+Save big before Black Friday ends - use SAVVY30FREE at checkout!
+
+Nov 29, 2024 11:59:59
+
+[SHOP ALL DEALS](https://www.rangextd.com/collections/best-selling-items)
+
+[](https://www.rangextd.com/collections/best-selling-items)
+
 Shop Collections
 ================
 
