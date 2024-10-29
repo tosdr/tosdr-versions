@@ -1,7 +1,6 @@
 [](https://www.arcademics.com/)
 
 * Grades
-    
     * [All Grades](https://www.arcademics.com/games)
     * [Grade 1](https://www.arcademics.com/games?grade=1)
     * [Grade 2](https://www.arcademics.com/games?grade=2)
@@ -10,7 +9,6 @@
     * [Grade 5](https://www.arcademics.com/games?grade=5)
     * [Grade 6](https://www.arcademics.com/games?grade=6)
 * Subjects
-    
     * [All Subjects](https://www.arcademics.com/games)
     * [Shapes](https://www.arcademics.com/games?subject=shapes)
     * [Counting](https://www.arcademics.com/games?subject=counting)
