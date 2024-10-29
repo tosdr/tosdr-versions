@@ -385,7 +385,6 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     * [Case StudiesReal Results, Real Stories](https://www.kaseya.com/case-studies/ "Case Studies")
     * [BlogIndustry Trends & News](https://www.kaseya.com/blog/ "Blog")
     * [EventsConnect with IT Pros](https://www.kaseya.com/events/ "Events")
-    * [Customer SuccessEnhance Our Partnership](https://www.kaseya.com/customer-success/ "Customer Success")
     
     Blog
     
