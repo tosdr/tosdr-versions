@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-    * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
-    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-vs-bollywood-wives-shalini-passi-says-husband-sanjays-family-gatecrashed-a-wedding-to-meet-her-9101011.html)
+    * [Diwali 2024](https://www.news18.com/diwali/)
+    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-election-live-final-day-nomination-papers-mahayuti-mva-yet-to-finalise-seat-sharing-liveblog-9102530.html)
+    * [Suriya](https://www.news18.com/movies/suriya-on-shifting-to-mumbai-with-family-jyotika-gave-up-her-career-friends-9102498.html)
+    * [Dhanteras](https://www.news18.com/lifestyle/dhanteras-vastu-tips-how-to-welcome-wealth-and-prosperity-into-your-home-9100060.html)
+    * [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-chats-with-nick-jonas-in-hindi-video-goes-viral-9102427.html)
     * [US Elections](https://www.news18.com/elections/us-election/)
-    * [Diwali 2024](https://www.news18.com/topics/diwali/)
-    * [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-receives-sebi-approval-opening-date-size-price-all-you-need-to-know-9102046.html)
-    * [Ajit Pawar](https://www.news18.com/elections/ajit-pawar-sharad-pawar-attack-emotional-outburst-maharashtra-polls-saheb-making-same-mistake-ncp-split-9102319.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-* [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
-* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-vs-bollywood-wives-shalini-passi-says-husband-sanjays-family-gatecrashed-a-wedding-to-meet-her-9101011.html)
+* [Diwali 2024](https://www.news18.com/diwali/)
+* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-election-live-final-day-nomination-papers-mahayuti-mva-yet-to-finalise-seat-sharing-liveblog-9102530.html)
+* [Suriya](https://www.news18.com/movies/suriya-on-shifting-to-mumbai-with-family-jyotika-gave-up-her-career-friends-9102498.html)
+* [Dhanteras](https://www.news18.com/lifestyle/dhanteras-vastu-tips-how-to-welcome-wealth-and-prosperity-into-your-home-9100060.html)
+* [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-chats-with-nick-jonas-in-hindi-video-goes-viral-9102427.html)
 * [US Elections](https://www.news18.com/elections/us-election/)
-* [Diwali 2024](https://www.news18.com/topics/diwali/)
-* [NTPC Green Energy IPO](https://www.news18.com/business/ipo/ntpc-green-energy-ipo-receives-sebi-approval-opening-date-size-price-all-you-need-to-know-9102046.html)
-* [Ajit Pawar](https://www.news18.com/elections/ajit-pawar-sharad-pawar-attack-emotional-outburst-maharashtra-polls-saheb-making-same-mistake-ncp-split-9102319.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
