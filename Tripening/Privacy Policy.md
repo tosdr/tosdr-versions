@@ -79,7 +79,7 @@ We use “cookies” (small data files that we transfer to your Device) and othe
 
 **_B. Provide the Services to Users_** We use data provided by Users in connection with the purchase, sign-up, use, or support of the User account (such as usernames, email address and billing information) to provide you with access to the Services and/or the Site, contact you regarding your use of the Services and/or the Site, or to notify you of important changes to the Services and/or the Site. Such use is necessary for the performance of the contract between you and us. To provide Users with our Services, we may share their data with third parties. 
 
-**_C. Sending Marketing Communications and Other Announcements_** Where required by applicable law (for example, if you are an EU data subject), we will only send you marketing information by email or mail, or contact you by phone, if you consent to us doing so at the time you provide us with your Personal Data. When you provide us with your consent to be contacted for marketing purposes, you have the right to withdraw your consent at any time by following the instructions to “opt-out” of receiving marketing communication in each marketing email we send you. In addition, if at any time you do not wish to receive future marketing communications or wish to have your name deleted from our mailing or calling lists, please contact us at [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection). Please note that if you opt out from marketing communications, we may still contact you regarding issues related to our Services and to respond to your requests.
+**_C. Sending Marketing Communications and Other Announcements_** Where required by applicable law (for example, if you are an EU data subject), we will only send you marketing information by email or mail, or contact you by phone, if you consent to us doing so at the time you provide us with your Personal Data. When you provide us with your consent to be contacted for marketing purposes, you have the right to withdraw your consent at any time by following the instructions to “opt-out” of receiving marketing communication in each marketing email we send you. In addition, if at any time you do not wish to receive future marketing communications or wish to have your name deleted from our mailing or calling lists, please contact us at [privacy@tripening.com](mailto:privacy@tripening.com). Please note that if you opt out from marketing communications, we may still contact you regarding issues related to our Services and to respond to your requests.
 
 **_D. For Legitimate Business Interests_** We use data relating to your use of and interaction with the Site and the Services, including information that we receive through cookies and similar technologies, for certain legitimate business interests, which are the following:
 
@@ -118,13 +118,13 @@ If you are a registered User, you may review, update or correct the Personal Dat
 
 **5\. DATA RETENTION**
 
-We will retain your Personal Data for as long as is necessary for the purposes set out in this Privacy Policy or for our Services, for as long as your account is active, or as needed to provide you the Services or for the duration required by law, whichever is the longer. If you wish to delete your account or request that we no longer use your information to provide you the Services, you may ask that we delete your account by emailing [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection). We will then delete your Personal Data within 30 days. 
+We will retain your Personal Data for as long as is necessary for the purposes set out in this Privacy Policy or for our Services, for as long as your account is active, or as needed to provide you the Services or for the duration required by law, whichever is the longer. If you wish to delete your account or request that we no longer use your information to provide you the Services, you may ask that we delete your account by emailing [privacy@tripening.com](mailto:privacy@tripening.com). We will then delete your Personal Data within 30 days. 
 
 We may retain, use or disclose your information (including Personal Data) as necessary to comply with our legal obligations, to resolve disputes or enforce our agreements, and a legitimate business interest (such as for analytics purposes, safety, and security). Consistent with and subject to these requirements, we will try to delete your information quickly upon request.
 
 **7\. Tripening COMMUNITY**
 
-Our Services may offer publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account. For questions about your Personal Data on our Services, please contact [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection).
+Our Services may offer publicly accessible community services such as blogs, forums, and wikis. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Your posts may remain even after you cancel your account. For questions about your Personal Data on our Services, please contact [privacy@tripening.com](mailto:privacy@tripening.com).
 
 **8\. EU DATA SUBJECTS’ RIGHTS**
 
@@ -153,13 +153,13 @@ The security of your information is important to us. We follow generally accepte
 
 **10\. OUR POLICY TOWARD CHILDREN**
 
-Our Services is not directed to persons under 13. We do not knowingly collect Personal Data from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data without their consent, he or she should contact us at [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection) and we will endeavor to delete it.
+Our Services is not directed to persons under 13. We do not knowingly collect Personal Data from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data without their consent, he or she should contact us at [privacy@tripening.com](mailto:privacy@tripening.com) and we will endeavor to delete it.
 
 **11\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.
 
-To obtain this information, please send an email message to [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
+To obtain this information, please send an email message to [privacy@tripening.com](mailto:privacy@tripening.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
 
 Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
@@ -169,7 +169,7 @@ This Privacy Policy may change from time to time. If we make a material change t
 
 **13\. CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us at [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection).
+If you have any questions about this Privacy Policy, please contact us at [privacy@tripening.com](mailto:privacy@tripening.com).
 
  
 
@@ -215,7 +215,7 @@ To find out more about cookies and similar technologies, including how to see wh
 
 **4\. CONTACT US**
 
-If you have any questions or concerns, please contact us at [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection).
+If you have any questions or concerns, please contact us at [privacy@tripening.com](mailto:privacy@tripening.com).
 
  [Tripening](https://www.tripening.com/)
 
@@ -228,11 +228,11 @@ If you have any questions or concerns, please contact us at [\[email protected\
 * [About Us](https://www.tripening.com/about-us)
 * Contact Us
 
-[\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection)
+[help@tripening.com](mailto:help@tripening.com)
 
    
 
-[\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection)
+[help@tripening.com](mailto:help@tripening.com)
 
     
 
