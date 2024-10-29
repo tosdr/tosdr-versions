@@ -79,9 +79,9 @@ YOUR OFFERS
         
         Saddle up with ease.
         
-    * ![](//www.aventon.com/cdn/shop/files/nav-img-abound.jpg?v=1677559130&width=288)
+    * ![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
         
-        Cargo
+        Cargo NEW
         
         Hauls what most won’t.
         
@@ -92,9 +92,9 @@ YOUR OFFERS
         Grab and go.
         
     
-    * ![](//www.aventon.com/cdn/shop/files/nav-img-abound.jpg?v=1677559130&width=288)
+    * ![Abound SR Haze SKUs: 1E054-0023804](//www.aventon.com/cdn/shop/files/01_Abound-SR_Haze_Side_1-bike.jpg?v=1726696007&width=288)
         
-        Abound
+        Abound NEW
         
         Cargo Ebike
         
@@ -396,9 +396,9 @@ Open menu
         Step-Through
         
         Saddle up with ease.](https://www.aventon.com/collections/step-through-electric-bike)
-    * [![](//www.aventon.com/cdn/shop/files/nav-img-abound.jpg?v=1677559130&width=288)
+    * [![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
         
-        Cargo
+        Cargo NEW
         
         Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
     * [![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
@@ -407,9 +407,9 @@ Open menu
         
         Grab and go.](https://www.aventon.com/collections/lightweight-electric-bikes)
     
-    * [![](//www.aventon.com/cdn/shop/files/nav-img-abound.jpg?v=1677559130&width=288)
+    * [![Abound SR Haze SKUs: 1E054-0023804](//www.aventon.com/cdn/shop/files/01_Abound-SR_Haze_Side_1-bike.jpg?v=1726696007&width=288)
         
-        Abound
+        Abound NEW
         
         Cargo Ebike](https://www.aventon.com/collections/ebikes?constraint=__abound)
     * [![](//www.aventon.com/cdn/shop/files/aventure-fat-tire-nav.jpg?v=1680657938&width=288)
