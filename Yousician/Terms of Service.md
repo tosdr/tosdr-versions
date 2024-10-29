@@ -365,9 +365,9 @@ You agree to comply with any applicable third-party terms, when using the Servic
   
 Apple and its subsidiaries are third-party beneficiaries to these Terms and, upon your acceptance of these Terms, you agree that Apple has the right to enforce the Terms against you as a third-party beneficiary.
 
-[![Download on the AppStore](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Download on the AppStore](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x60886)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x60886)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
 ![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x60886)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
@@ -375,7 +375,7 @@ Apple and its subsidiaries are third-party beneficiaries to these Terms and, upo
 
 * * *
 
-[![Yousician logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Yousician logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAAgAQAAAACNiF95AAAAAnRSTlMAAHaTzTgAAAAQSURBVCjPY2AYBaNgFOACAAMgAAHOjxDEAAAAAElFTkSuQmCC)
 
 ![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x60886)](https://yousician.com/)
 
