@@ -209,9 +209,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,21 @@ Latest News
 
 [Georgia and Moldova votes show challenges of EU enlargement push](https://www.japantimes.co.jp/news/2024/10/29/world/politics/eu-enlargement-push-hurdles/ "Georgia and Moldova votes show challenges of EU enlargement push")
 
-3 hours ago
+9 hours ago
 
 [Hezbollah names Naim Qassem as its new leader](https://www.japantimes.co.jp/news/2024/10/29/world/hezbollah-new-leader/ "Hezbollah names Naim Qassem as its new leader")
 
-3 hours ago
+9 hours ago
 
 [Japan posts record number of heatstroke patients in five-month period](https://www.japantimes.co.jp/news/2024/10/29/japan/japan-heatstroke-five-month-record/ "Japan posts record number of heatstroke patients in five-month period")
 
-4 hours ago
+10 hours ago
 
 [Japan continues to see moderate recovery but cuts factory output view](https://www.japantimes.co.jp/business/2024/10/29/economy/japan-moderate-economic-recovery/ "Japan continues to see moderate recovery but cuts factory output view")
 
-4 hours ago
+10 hours ago
 
 [Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
