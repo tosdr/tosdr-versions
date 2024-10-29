@@ -9,7 +9,7 @@ Menu
 Fetch Privacy Policy
 ====================
 
-Effective date: May 17, 2024
+Effective date: October 9, 2024
 
 Fetch Rewards™, Inc ("Fetch," "we," "us," or "our") owns and operates this Website and the associated Applications, including, but not limited to Fetch Rewards™ (collectively, the "App"). This Privacy Policy informs you how we collect, use, share, and protect the information we collect from or about you on our Website, however accessed (the "Website"), our App, and web applications, including, but not limited to, Mission Control. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://www.fetchrewards.com/terms-of-service). **By using or accessing the Services in any manner, you acknowledge and agree to the practices and policies outlined in this Privacy Policy. If you do not agree with our privacy practices, please stop using our Website, App, and web applications.**
 
@@ -50,6 +50,8 @@ _Friend information when you Refer a Friend or participate in Social_: When you 
     * We collect information about the people, pages, account activity, and groups you are connected to and how you interact with them on our App.
 
 _For GoodRx Participants_: We distribute GoodRx Cards through our App on behalf of GoodRx, Inc. that contain certain GoodRx information, including BIN, PCN, Group, and Member ID. You choose whether to activate your GoodRx Card by making a GoodRx Claim. When you activate your Good Rx Card, we provide your GoodRx Card information, name, and email address to GoodRx to enable you to engage with GoodRx and facilitate your relationship with GoodRx. The [GoodRx Privacy Policy](https://support.goodrx.com/hc/en-us/articles/115005228506-Privacy-Policy) governs your relationship with GoodRx. When you activate your GoodRx Card and make GoodRx Claims, you direct GoodRx to provide Fetch your GoodRx Card Member ID and information relating to your transactions, including the pharmacy name and zip code and amount of savings associated with your GoodRx Claims, so that Fetch can provide you points.
+
+_For Fetch Shop Extension Users_: Fetch offers a downloadable browser extension, available for the Chrome and Safari browsers, that enables Fetch users with visibility to Fetch Shop opportunities as they browse the web. When using the Fetch Shop browser extension, Fetch will collect the following information about the user: browsing history; Fetch user ID; and transaction details. This information is collected and used to perform the services (i.e. deliver Fetch Points for qualifying Fetch Shop purchases) and for analytics and site improvement. Information obtained through the browser extension will not be used for any other purpose, and will not be shared or sold with any third party except as necessary to perform the services. The Fetch Shop browser extension maybe disabled or uninstalled at any time without penalty to the user, at which point all further collection of user information through the extension will cease.
 
 ### Social Media Login
 
