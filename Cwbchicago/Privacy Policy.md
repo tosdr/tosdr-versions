@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hector-Leonardo-Gutierrez-326x245.jpg)](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/street-take-over-october-27-326x245.jpg)](https://cwbchicago.com/2024/10/donut-spinning-takeovers-jam-lake-shore-drive-intersections-citywide.html "Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide")
 
 Citywide
 
-### [Feds charge homeless man with making death threats via Facebook](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+### [Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide](https://cwbchicago.com/2024/10/donut-spinning-takeovers-jam-lake-shore-drive-intersections-citywide.html "Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide")
 
-[October 25, 2024 1:00 PM](https://cwbchicago.com/2024/10)
+[October 27, 2024 8:38 AM](https://cwbchicago.com/2024/10)
 
-Federal prosecutors have charged a man who lives under viaducts in the city and suburbs with threatening to kill a man via a collection of Facebook accounts.[](https://cwbchicago.com/2024/10/feds-charge-homeless-man-with-making-death-threats-via-facebook.html "Feds charge homeless man with making death threats via Facebook")
+A street takeover closed the northbound lanes of Lake Shore Drive early Sunday morning as spectators formed a circle in the road to watch drivers spin donuts in an intersection just south of Soldier Field. Additional takeovers were reported throughout the city overnight.[](https://cwbchicago.com/2024/10/donut-spinning-takeovers-jam-lake-shore-drive-intersections-citywide.html "Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Blue-Island-VS-CPD-326x245.jpg)](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/att-SG-326x245.jpg)](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
 
-New City
+Magnificent Mile
 
-### [Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+### [Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
 
-[October 25, 2024 8:10 AM](https://cwbchicago.com/2024/10)
+[October 27, 2024 6:46 AM](https://cwbchicago.com/2024/10)
 
-The investigation of an incident involving an off-duty suburban cop shooting at a car occupied by an off-duty Chicago cop has taken an interesting turn.[](https://cwbchicago.com/2024/10/update-no-charges-for-off-duty-suburban-cop-accused-of-shooting-at-off-duty-cpd-officers-vehicle.html "Update: No charges for off-duty suburban cop accused of shooting at off-duty CPD officer’s vehicle")
+Smash-and-grab burglars tried, but failed to make their way into at least two luxury boutiques near the Magnificent Mile on Sunday morning. But initial reports say the stores’ security glass and possibly an armed guard thwarted the efforts.[](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Tikeo-Sweeting-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Kevin-Bruno-presser-326x245.jpg)](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
 
-Uptown
+West Rogers Park
 
-### [Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+### [Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
 
-[October 25, 2024 7:08 AM](https://cwbchicago.com/2024/10)
+[October 26, 2024 5:54 PM](https://cwbchicago.com/2024/10)
 
-Nearly seven years after a gunman killed one victim and injured two others, including a 12-year-old boy at an Uptown Starbucks, a judge on Thursday sentenced the alleged shooter to more than 50 years in prison.[](https://cwbchicago.com/2024/10/man-gets-55-years-for-murdering-1-victim-injuring-2-others-at-uptown-starbucks.html "Man gets 55 years for murdering 1 victim, injuring 2 others at Uptown Starbucks")
+A gunman who shot a man in West Rogers Park on Saturday returned to the scene and engaged Chicago police officers in a two-and-a-half-minute shootout on Saturday morning, officials said.[](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
 
 Search
 
