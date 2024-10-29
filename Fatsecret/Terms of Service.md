@@ -1,6 +1,6 @@
   
 
-[Register](https://www.fatsecret.com/Auth.aspx?pa=r&ReturnUrl=https%3a%2f%2fwww.fatsecret.com%2fDefault.aspx%3fpa%3dtnc)  |  [Sign In](https://www.fatsecret.com/Auth.aspx?pa=s&ReturnUrl=https%3a%2f%2fwww.fatsecret.com%2fDefault.aspx%3fpa%3dtnc)
+[Register](https://www.fatsecret.com/Home.aspx?pa=privc)  |  [Sign In](https://www.fatsecret.com/Auth.aspx?pa=s&ReturnUrl=https%3a%2f%2fwww.fatsecret.com%2fDefault.aspx%3fpa%3dtnc)
 
 [![fatsecret](https://m.ftscrt.com/static/images/def20/Fatsecret_logo.png)](https://www.fatsecret.com/Default.aspx)
 
