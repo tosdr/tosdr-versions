@@ -6,7 +6,7 @@
 * [Business](https://www.justpark.com/business/)
 * [EV](https://www.justpark.com/ev/ev-home/)
 * [Company](https://www.justpark.com/company/overview/)
-* [Help](https://support-uk.justpark.com/)
+* [Help](https://support-uk.justpark.com/hc/en-gb)
 
 * [Find parking](https://www.justpark.com/)
 * [Company](https://www.justpark.com/company/overview/)
@@ -15,7 +15,7 @@
 * [Rent out your space](https://www.justpark.com/how-it-works/rent-out-your-driveway)
 * [Download our app](https://justpark.onelink.me/3963458492?c=website-homepage&af_dp=justpark://download-app)
 * [EV](https://www.justpark.com/ev/ev-home/)
-* [Help](https://support-uk.justpark.com/)
+* [Help](https://support-uk.justpark.com/hc/en-gb)
 * [Sign up / login](https://www.justpark.com/auth/login)
 
 * [Login](https://www.justpark.com/auth/login)
@@ -183,7 +183,7 @@ Points of interest
 Get in touch
 
 * [How JustPark works](https://www.justpark.com/how-it-works/overview/)
-* [Help centre](https://support-uk.justpark.com/)
+* [Help centre](https://support-uk.justpark.com/hc/en-gb)
 
 [](https://www.justpark.com/)
 
