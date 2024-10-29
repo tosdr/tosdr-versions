@@ -1,8 +1,12 @@
-* [My Favorites (0)](https://www.andersenwindows.com/windows-and-doors/your-perfect-match/favorites/)
-* [Contact Us](https://www.andersenwindows.com/support/contact-us/)
 * [Where to Buy](https://locations.andersenwindows.com/where-to-buy/)
+* |
 * [Find A Contractor](https://locations.andersenwindows.com/andersen-certified-contractors)
+* |
 * [Become A Certified Contractor](https://www.andersenwindows.com/for-professionals/certified-contractor/)
+* |
+* [My Favorites (0)](https://www.andersenwindows.com/windows-and-doors/your-perfect-match/favorites/)
+* |
+* [Contact Us](https://www.andersenwindows.com/support/contact-us/)
 * |
 * [1-800-426-4261](tel:1-800-426-4261)
 
