@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Smart backup type](https://www.backup4all.com/smart-backup-type-kb.html)  
+* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to schedule a backup job](https://www.backup4all.com/how-to-schedule-a-backup-job-kb.html)  
     
-* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
+* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
     
-* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
-* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
+* [How to backup your data to Constant](https://www.backup4all.com/how-to-backup-your-data-to-constant-kb.html)  
     
 
 Choose language:
