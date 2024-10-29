@@ -18,7 +18,19 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_crianca_atingida_por_cavalo_5ed9daeef6.jpg)
+   [![Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/9/csm_homem-furto-materiais-obras-reproducao_052963807d.png)
+
+EM MACEIÓ
+
+Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil](https://www.tnh1.com.br/noticia/nid/homem-furta-azulejos-da-obra-de-revitalizacao-de-mirante-e-da-prejuizo-de-r-60-mil/ "Homem furta azulejos da obra de revitalização de mirante e dá prejuízo de R$ 60 mil ")   [![MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_bijuterias_e_semijoias__metais_pesados_-_foto_Reproducao_Governo_Federal_Inmetro_4ee7f6378f.jpeg)
+
+cádmio e chumbo
+
+MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer](https://www.tnh1.com.br/noticia/nid/mp-al-apura-denuncia-sobre-vendas-de-semijoias-e-bijuterias-com-metais-que-podem-provocar-cancer/ "MP-AL apura denúncia sobre vendas de semijoias e bijuterias com metais que podem provocar câncer")   [![Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/5/csm_Ponto_de_Entrega_Voluntaria_instalado_no_Corredor_Vera_Arruda_e_incendiado_por_vandalos_Foto_Cristalya_Tavares_Ascom_Alurb_905f5d2b8a.jpeg)
+
+Maceió
+
+Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos](https://www.tnh1.com.br/noticia/nid/ponto-de-entrega-voluntaria-instalado-no-corredor-vera-arruda-e-incendiado-por-vandalos/ "Ponto de Entrega Voluntária instalado no Corredor Vera Arruda é incendiado por vândalos")   [![Vídeo: criança é atingida por cavalo na areia da Praia de Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_crianca_atingida_por_cavalo_5ed9daeef6.jpg)
 
 SUSTO
 
@@ -30,19 +42,7 @@ Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar
 
 parte alta
 
-Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://www.tnh1.com.br/noticia/nid/video-homem-se-passa-por-cliente-e-assalta-pet-shop-a-mao-armada-em-maceio/ "Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió")   [![Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/9/csm_Sistemna_Pratagy_BRK_-_foto_Ascom_BRK_1ee1e250de.jpg)
-
-Sistema Pratagy
-
-Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira](https://www.tnh1.com.br/noticia/nid/obra-da-brk-deve-afetar-abastecimento-em-20-bairros-de-maceio-nesta-terca-feira/ "Obra da BRK deve afetar abastecimento em 20 bairros de Maceió nesta terça-feira")   [![Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_acidente_jacintinho_-_foto_reproducao_02b3736b44.jpg)
-
-Acidente
-
-Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-exato-em-que-carro-atinge-seis-veiculos-e-derruba-mesas-no-jacintinho/ "Vídeo mostra momento exato em que carro atinge seis veículos e derruba mesas no Jacintinho")   [![Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_carro-acidente-poste-poco_b8a2947508.jpg)
-
-manhã de segunda
-
-Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço](https://www.tnh1.com.br/noticia/nid/tres-mulheres-ficam-feridas-apos-pneu-de-carro-estourar-e-bater-em-poste-no-bairro-do-poco/ "Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no bairro do Poço")
+Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió](https://www.tnh1.com.br/noticia/nid/video-homem-se-passa-por-cliente-e-assalta-pet-shop-a-mao-armada-em-maceio/ "Vídeo: homem se passa por cliente e assalta pet shop à mão armada em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Três mulheres ficam feridas após pneu de carro estourar e bater em poste, no b
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
+   [![Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/f/csm_detran-alagoas-abre-1-800-vagas-extras-para-candidatos-retardatarios-a-1-carteira-de-habilitacao_-_foto_Felipe_Yuri_-_Ascom_Detran_23a301c9b1.jpg)
 
 Alagoas
 
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
+Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação](https://www.tnh1.com.br/noticia/nid/detran-abre-1800-vagas-extras-para-candidatos-retardatarios-a-1a-carteira-de-habilitacao/ "Detran abre 1.800 vagas extras para candidatos retardatários à 1ª Carteira de Habilitação")   [![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_f83e90bc23.png)
+
+Alagoas
+
+Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")   [![Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_csm_csm_CALOR-Pixabay_31e7dfd61d_25ebb1510f__2__af39c3df30.jpg)
 
 Veja instruções
 
-Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
+Inmet alerta para baixa umidade em 11 cidades de Alagoas](https://www.tnh1.com.br/noticia/nid/inmet-alerta-para-baixa-umidade-em-11-cidades-de-alagoas/ "Inmet alerta para baixa umidade em 11 cidades de Alagoas")   [![Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_arapiraca_divulgacao_aeba48f94e.jpeg)
 
 centenário
 
-Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
+Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana](https://www.tnh1.com.br/noticia/nid/arapiraca-celebra-100-anos-com-grande-programacao-shows-terao-alok-e-leo-santana/ "Arapiraca celebra 100 anos com grande programação; shows terão Alok e Leo Santana ")   [![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_1f817958fe.png)
 
 Meteorologia
 
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")   [![Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_odilon_gomes_2d68708a31.jpeg)
+Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")   [![Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/7/csm_odilon_gomes_2d68708a31.jpeg)
 
 Alagoas
 
-Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://www.tnh1.com.br/noticia/nid/jovem-alagoano-vai-receber-premio-e-representar-o-brasil-em-evento-da-onu-na-europa/ "Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa")   [![Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/1/csm_secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior_4afefb5f70.jpeg)
-
-Oportunidade
-
-Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/secretaria-do-trabalho-divulga-808-novas-vagas-de-emprego-em-maceio-e-no-interior/ "Secretaria do Trabalho divulga 808 novas vagas de emprego em Maceió e no interior")
+Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa](https://www.tnh1.com.br/noticia/nid/jovem-alagoano-vai-receber-premio-e-representar-o-brasil-em-evento-da-onu-na-europa/ "Jovem alagoano vai receber prêmio e representar o Brasil em evento da ONU na Europa")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -196,15 +196,7 @@ EM SC
 
 Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas
 
-Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
-
-Mercado de Trabalho
-
-Mercado de Trabalho
-
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
-
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
+Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
 
 novo serviço
 
@@ -212,33 +204,7 @@ novo serviço
 
 Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona
 
-Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
-
-Sem migué?
-
-Sem migué?
-
-Atestados médicos ganham novidades em novembro; veja o que muda
-
-Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")
-
-[![Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_bombeiros_praia_1b39fb1203.png)
-
-Alagoas
-
-Alagoas
-
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês
-
-Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês](https://www.tnh1.com.br/noticia/nid/bombeiros-salvam-dois-turistas-vitimas-de-afogamento-na-praia-do-frances/ "Bombeiros salvam dois turistas vítimas de afogamento na Praia do Francês")[![Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_mangue_metralha_a118a86c36.jpeg)
-
-área de proteção
-
-área de proteção
-
-Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica
-
-Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica](https://www.tnh1.com.br/noticia/nid/policia-abre-inquerito-para-investigar-empresa-por-crime-ambiental-na-area-de-mangue-em-jacarecica/ "Polícia abre inquérito para investigar empresa por crime ambiental na área de mangue em Jacarecica ")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
+Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
 
 EM OITO ESTADOS
 
@@ -246,15 +212,49 @@ EM OITO ESTADOS
 
 Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal
 
-Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_ambulatorio_denilma_0fd4c5c75e.png)
+Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
 
-fechados por um ano
+Mercado de Trabalho
 
-fechados por um ano
+Mercado de Trabalho
 
-Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
 
-Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços](https://www.tnh1.com.br/noticia/nid/ambulatorios-no-benedito-e-levada-vao-suspender-atendimentos-veja-onde-buscar-servicos/ "Ambulatórios no Benedito e Levada vão suspender atendimentos; veja onde buscar serviços")
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")
+
+[![Peñarol x Botafogo será no estádio Centenário com as duas torcidas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/6/csm_Estadio_Centenario_-_Dovulgalcao_5c9ecd778a.jpg)
+
+Futebol Internacional
+
+Futebol Internacional
+
+Peñarol x Botafogo será no estádio Centenário com as duas torcidas
+
+Peñarol x Botafogo será no estádio Centenário com as duas torcidas](https://www.tnh1.com.br/noticia/nid/penarol-x-botafogo-sera-no-estadio-centenario-com-as-duas-torcidas/ "Peñarol x Botafogo será no estádio Centenário com as duas torcidas")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
+
+Viralizou
+
+Viralizou
+
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
+
+Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_dolar_moeda_0803221209_3dc01a832d.jpg)
+
+Economia
+
+Economia
+
+Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos
+
+Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos](https://www.tnh1.com.br/noticia/nid/dolar-fecha-em-r-5762-maior-valor-desde-maio-de-2020-com-fala-de-haddad-sobre-corte-de-gastos/ "Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos")[![Cliente reclama da carne e é esfaqueado por açougueiro em mercado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/c/csm_homem-esfaqueado-mercado-reproducao_89785444d3.png)
+
+EM GO
+
+EM GO
+
+Cliente reclama da carne e é esfaqueado por açougueiro em mercado
+
+Cliente reclama da carne e é esfaqueado por açougueiro em mercado](https://www.tnh1.com.br/noticia/nid/cliente-reclama-da-carne-e-e-esfaqueado-por-acougueiro-em-mercado/ "Cliente reclama da carne e é esfaqueado por açougueiro em mercado")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
