@@ -115,17 +115,17 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
+    
+    [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
+    
+    October 27, 2024
+    
 * [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
     
     [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
     
     October 26, 2024
-    
-* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
-    
-    [DOJ Sends Musk’s PAC Warning Over $1 Million Voter Lottery](https://www.conservativedailynews.com/2024/10/doj-sends-musks-pac-warning-over-1-million-voter-lottery/)
-    
-    October 24, 2024
     
 
 Recent Posts
@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [FN Unveils The FN SCAR 15P 300 Blackout](https://www.thegunpage.com/fn-unveils-the-fn-scar-15p-300-blackout/10611507)
+* [TFB Review: Meprolight FABS Self-Illuminated Metal Flip Backup Sights](https://www.thegunpage.com/tfb-review-meprolight-fabs-self-illuminated-metal-flip-backup-sights/10611509)
 * [Giffords, Anti-Gunners Change Their Messaging to Match Changing Crime Stats](https://www.thegunpage.com/giffords-anti-gunners-change-their-messaging-to-match-changing-crime-stats/10611502)
 * [2nd Circuit Court Rules For New York In “Sensitive Places” Carry Ban Lawsuit](https://www.thegunpage.com/2nd-circuit-court-rules-for-new-york-in-sensitive-places-carry-ban-lawsuit/10611500)
+* [Royce Gracie Speaks Out About NRA And The Second Amendment](https://www.thegunpage.com/royce-gracie-speaks-out-about-nra-and-the-second-amendment/10611510)
 * [JMac Customs Unveils Its AKM Railed Dust Cover Assembly EMBARGO- 10/25](https://www.thegunpage.com/jmac-customs-unveils-its-akm-railed-dust-cover-assembly-embargo-10-25/10611498)
+* [Collegiate Rifle: Kentucky Sails Past Navy, WVU Defeats Mount Aloysius, TCU Triumphs Over UTEP](https://www.thegunpage.com/collegiate-rifle-kentucky-sails-past-navy-wvu-defeats-mount-aloysius-tcu-triumphs-over-utep/10611506)
 * [Gun Made Launches The Largest Online Search Engine For Guns and Ammunition](https://www.thegunpage.com/gun-made-launches-the-largest-online-search-engine-for-guns-and-ammunition/10611496)
 * [New: Magpul DAKA GRID Organizers For Pelican, Plano Gun Cases](https://www.thegunpage.com/new-magpul-daka-grid-organizers-for-pelican-plano-gun-cases/10611504)
 * [TFB Weekly Web Deals 111: Deals for October 28th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-111-deals-for-october-28th-2024/10611499)
-* [2024 A Girl & A Gun Fall Festival: ‘Laughter, Smiles, Waves And Welcoming Attitudes’](https://www.thegunpage.com/2024-a-girl-a-gun-fall-festival-laughter-smiles-waves-and-welcoming-attitudes/10611501)
-* [FPC Pushes Forward In Post Office Gun Ban Challenge](https://www.thegunpage.com/fpc-pushes-forward-in-post-office-gun-ban-challenge/10611493)
-* [Short Krags: The Philippine Connection](https://www.thegunpage.com/short-krags-the-philippine-connection/10611495)
-* [Scopes We Love: Athlon Argos BTR Gen2 6-24×50mm Review](https://www.thegunpage.com/scopes-we-love-athlon-argos-btr-gen2-6-24x50mm-review/10611482)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
