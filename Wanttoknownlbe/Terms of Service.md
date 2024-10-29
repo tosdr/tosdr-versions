@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/brice-taylors-thanks-for-the-memories-5/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/verkiezingen/het-bewijs-weer-een-gestolen-vs-verkiezing/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
