@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
+
+[Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
+
+[#Белик](https://er.ru/activity/news?tags%5B0%5D=59885) [сохранениеисторическойпамяти](https://er.ru/activity/news?tags%5B0%5D=153206) [#празднование Победы в ВОВ](https://er.ru/activity/news?tags%5B0%5D=19904)
+
+Сегодня 11:45
+
+[![Екатерина Стенякина: «Единая Россия» обеспечит гарантии наставникам на производстве](https://cdn.er.ru/media/news/October2024/rOmN9OXbvo9yXrYAmD0l-small.jpg)](https://er.ru/activity/news/ekaterina-stenyakina-edinaya-rossiya-obespechit-garantii-nastavnikam-na-proizvodstve)
+
+[Екатерина Стенякина: «Единая Россия» обеспечит гарантии наставникам на производстве](https://er.ru/activity/news/ekaterina-stenyakina-edinaya-rossiya-obespechit-garantii-nastavnikam-na-proizvodstve)
+
+[#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627)
+
+Сегодня 11:36
+
+[![Дмитрий Вяткин: По инициативе «Единой России» будет введён мораторий на взыскание исполнительского сбора с участников СВО](https://cdn.er.ru/media/news/October2024/0GxCkatQcPRkLnJzTKzA-small.jpg)](https://er.ru/activity/news/dmitrij-vyatkin-po-iniciative-edinoj-rossii-budet-vvedyon-moratorij-na-vzyskanie-ispolnitelskogo-sbora-s-uchastnikov-svo)
+
+[Дмитрий Вяткин: По инициативе «Единой России» будет введён мораторий на взыскание исполнительского сбора с участников СВО](https://er.ru/activity/news/dmitrij-vyatkin-po-iniciative-edinoj-rossii-budet-vvedyon-moratorij-na-vzyskanie-ispolnitelskogo-sbora-s-uchastnikov-svo)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#долги](https://er.ru/activity/news?tags%5B0%5D=869) [#мораторий](https://er.ru/activity/news?tags%5B0%5D=3384) [#исполнительский сбор](https://er.ru/activity/news?tags%5B0%5D=56017)
+
+Сегодня 11:22
+
+[![«Единая Россия» представила предложения о наиболее перспективных направлениях популяризации традиционных семейных ценностей](https://cdn.er.ru/media/news/October2024/JgKMrsZKYXcvLTNVYlX1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-predlozheniya-o-naibolee-perspektivnyh-napravleniyah-populyarizacii-tradicionnyh-semejnyh-cennostej)
+
+[«Единая Россия» представила предложения о наиболее перспективных направлениях популяризации традиционных семейных ценностей](https://er.ru/activity/news/edinaya-rossiya-predstavila-predlozheniya-o-naibolee-perspektivnyh-napravleniyah-populyarizacii-tradicionnyh-semejnyh-cennostej)
+
+[#рабочая группа](https://er.ru/activity/news?tags%5B0%5D=2375) [#предложенияер](https://er.ru/activity/news?tags%5B0%5D=150829) [#популяризация](https://er.ru/activity/news?tags%5B0%5D=21768) [#семейныеценности](https://er.ru/activity/news?tags%5B0%5D=135171) [#Катренко](https://er.ru/activity/news?tags%5B0%5D=42668) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335)
+
+Сегодня 10:40
+
 [![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://cdn.er.ru/media/news/October2024/QZx9cwW6MtObjbHrtWJt-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
 
 [Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» будут помогать медикам в прифронтовом госпитале Луганска](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-budut-pomogat-medikam-v-prifrontovom-gospitale-luganska)
@@ -314,38 +346,6 @@
 [#Габбасов](https://er.ru/activity/news?tags%5B0%5D=50449) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
 26.10.24
-
-[![«Единая Россия» передала лекарства белгородским росгвардейцам](https://cdn.er.ru/media/news/October2024/fRHIyqr4SYNxawprC8ya-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
-
-[«Единая Россия» передала лекарства белгородским росгвардейцам](https://er.ru/activity/news/edinaya-rossiya-peredala-lekarstva-belgorodskim-rosgvardejcam)
-
-[#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282)
-
-26.10.24
-
-[![Александр Хинштейн: Школьные музеи - лучшая школа патриотизма](https://cdn.er.ru/media/news/October2024/1pk7Va8JIOCS4AWiLK0r-small.jpg)](https://er.ru/activity/news/aleksandr-hinshtejn-shkolnye-muzei-luchshaya-shkola-patriotizma)
-
-[Александр Хинштейн: Школьные музеи - лучшая школа патриотизма](https://er.ru/activity/news/aleksandr-hinshtejn-shkolnye-muzei-luchshaya-shkola-patriotizma)
-
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033) [#школьныемузеи](https://er.ru/activity/news?tags%5B0%5D=132691) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
-
-25.10.24
-
-[![Решение социально-экономических задач в бюджете. Интервью Александра Жукова](https://cdn.er.ru/media/news/October2024/p9SAOlx3ruL9ufh18w2o-small.jpg)](https://er.ru/activity/news/reshenie-socialno-ekonomicheskih-zadach-v-byudzhete-intervyu-aleksandra-zhukova)
-
-[Решение социально-экономических задач в бюджете. Интервью Александра Жукова](https://er.ru/activity/news/reshenie-socialno-ekonomicheskih-zadach-v-byudzhete-intervyu-aleksandra-zhukova)
-
-[#Жуков](https://er.ru/activity/news?tags%5B0%5D=824) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=29001) [#КП](https://er.ru/activity/news?tags%5B0%5D=10046) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82)
-
-25.10.24
-
-[![При поддержке «Единой России» на железнодорожном вокзале Томска открылся зал ожидания Центра содействия мобильности](https://cdn.er.ru/media/news/October2024/LOyIEmxGAaz4iIs09CnK-small.JPG)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-tomska-otkrylsya-zal-ozhidaniya-centra-sodejstviya-mobilnosti)
-
-[При поддержке «Единой России» на железнодорожном вокзале Томска открылся зал ожидания Центра содействия мобильности](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-na-zheleznodorozhnom-vokzale-tomska-otkrylsya-zal-ozhidaniya-centra-sodejstviya-mobilnosti)
-
-[#Томская область](https://er.ru/activity/news?tags%5B0%5D=1708) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Единаястранадоступнаясреда](https://er.ru/activity/news?tags%5B0%5D=1090066) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#вокзалы](https://er.ru/activity/news?tags%5B0%5D=4078)
-
-25.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
