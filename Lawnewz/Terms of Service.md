@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Main: Hailynn Volpatti (Clay County Justice Center). Inset: Nova Bryant (WRTV).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfa-432x243.jpg)](https://lawandcrime.com/crime/thats-parenting-101-foster-mom-left-special-needs-toddler-in-bathtub-alone-for-more-than-30-minutes-to-chat-on-phone-police-say/)
+1. [![Inset: Logan Harrel (Rogers State University Athletics). Background: The area where police say Harrel was fatally struck by teen in a stolen car (KOTV).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/adsfadf-432x243.jpg)](https://lawandcrime.com/crime/teen-who-was-prepared-to-take-a-life-to-steal-car-kills-army-vet-while-driving-stolen-vehicle-with-3-popped-tires-police/)
+    
+    ### [Teen who was 'prepared to take a life' to steal car kills Army vet while driving stolen vehicle with 3 popped tires: Police](https://lawandcrime.com/crime/teen-who-was-prepared-to-take-a-life-to-steal-car-kills-army-vet-while-driving-stolen-vehicle-with-3-popped-tires-police/)
+    
+2. [![Hunter Biden, Gary Shapley](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Hunter-Biden-Gary-Shapley-432x243.jpg)](https://lawandcrime.com/lawsuit/irs-special-agents-turned-whistleblowers-appeal-after-judge-refuses-to-let-them-to-intervene-in-hunter-biden-lawsuit-over-unauthorized-tax-return-leaks/)
+    
+    ### [IRS special agents turned whistleblowers appeal after judge refuses to let them to intervene in Hunter Biden lawsuit over 'unauthorized' tax return leaks](https://lawandcrime.com/lawsuit/irs-special-agents-turned-whistleblowers-appeal-after-judge-refuses-to-let-them-to-intervene-in-hunter-biden-lawsuit-over-unauthorized-tax-return-leaks/)
+    
+3. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Hackensack-432x243.jpg)](https://lawandcrime.com/lawsuit/lost-in-storage-woman-says-hospital-misplaced-stillborn-sons-remains-and-did-an-unauthorized-autopsy/)
+    
+    ### [‘Lost in storage’: Woman says hospital misplaced stillborn son’s remains and did an unauthorized autopsy](https://lawandcrime.com/lawsuit/lost-in-storage-woman-says-hospital-misplaced-stillborn-sons-remains-and-did-an-unauthorized-autopsy/)
+    
+4. [![Main: Hailynn Volpatti (Clay County Justice Center). Inset: Nova Bryant (WRTV).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/asdfa-432x243.jpg)](https://lawandcrime.com/crime/thats-parenting-101-foster-mom-left-special-needs-toddler-in-bathtub-alone-for-more-than-30-minutes-to-chat-on-phone-police-say/)
     
     ### ['That's parenting 101': Foster mom left special-needs toddler in bathtub alone for 'more than 30 minutes' to chat on phone, police say](https://lawandcrime.com/crime/thats-parenting-101-foster-mom-left-special-needs-toddler-in-bathtub-alone-for-more-than-30-minutes-to-chat-on-phone-police-say/) 
     
-2. [![Trump seeks Jan. 6 delay based on Hurricane Milton](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Trump-1-432x243.jpg)](https://lawandcrime.com/high-profile/a-significant-obstacle-trump-lawyers-blame-hardships-imposed-by-hurricane-milton-to-push-back-ongoing-challenge-of-jack-smiths-authority-in-jan-6-case/)
+5. [![Adrian Cosby as law enforcement restrains him during his sentencing on Oct. 25, 2024 (WTVJ). Inset: Andrea Camps Lacayo (TERRA Environmental Research Institute).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Andrea-Camps-Lacayo-and-Adrian-Cosby-432x243.png)](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
     
-    ### ['A significant obstacle': Trump lawyers blame 'hardships imposed' by Hurricane Milton to push back ongoing challenge of Jack Smith's authority in Jan. 6 case](https://lawandcrime.com/high-profile/a-significant-obstacle-trump-lawyers-blame-hardships-imposed-by-hurricane-milton-to-push-back-ongoing-challenge-of-jack-smiths-authority-in-jan-6-case/)
-    
-3. [![Nicholas Wayne Hamlett (Monroe County Sheriff's Office in Tennessee).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Nicholas-Wayne-Hamlett-432x243.png)](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
-    
-    ### [Murder suspect with stolen ID called 911 pretending to be hiker who fell off cliff running from a bear: Deputies](https://lawandcrime.com/crime/murder-suspect-with-stolen-id-called-911-pretending-to-be-hiker-who-fell-off-cliff-running-from-a-bear-deputies/)
-    
-4. [![Michael Wiseman appears inset against an image of Donald Trump and JD Vance](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Wiseman-Trump-Vance-432x243.jpg)](https://lawandcrime.com/high-profile/not-eligible-suspect-accused-of-posting-trump-jd-vance-should-be-murdered-and-people-need-to-be-better-shots-isnt-getting-a-deal-from-prosecutors-after-all/)
-    
-    ### ['Not eligible': Suspect accused of posting Trump, JD Vance 'should be murdered' and 'people need to be better shots' isn't getting a deal from prosecutors after all](https://lawandcrime.com/high-profile/not-eligible-suspect-accused-of-posting-trump-jd-vance-should-be-murdered-and-people-need-to-be-better-shots-isnt-getting-a-deal-from-prosecutors-after-all/)
-    
-5. [![Left inset: Marlyn Medrano-Ortiz (Loudoun County Sheriff's Officee). Right inset: Mijal Conejero-Romera and Diego Alexander Woollett (Loudoun County Sheriff's Office). Background: Law enforcement investigate the murder (WUSA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marlyn-Medrano-Ortiz-Mijal-Conejero-Romera-and-Diego-Alexander-Woollett-432x243.jpg)](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
-    
-    ### [MS-13 gang member charged with murdering 'happy' couple found dead in apartment complex's parking lot](https://lawandcrime.com/crime/ms-13-gang-member-charged-with-murdering-happy-couple-found-dead-in-apartment-complexs-parking-lot/)
+    ### ['What the f--- you talking about, b----?': Convicted killer who shot teen over Yeezy sneakers lashes out at victim's father](https://lawandcrime.com/crime/what-the-f-you-talking-about-b-convicted-killer-who-shot-teen-over-yeezy-sneakers-lashes-out-at-victims-father/)
     
 
 [](http://eepurl.com/c89Jdb)
