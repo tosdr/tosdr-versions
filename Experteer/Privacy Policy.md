@@ -1,4 +1,4 @@
- [![](/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
+ [![](https://assets.experteer.com/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](https://assets.experteer.com/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
 
 * [Jobs](https://us.experteer.com/jobs)
 * [Headhunter](https://us.experteer.com/headhunter)
@@ -475,7 +475,7 @@ Persons under 16 years of age may not submit any personal data to us without the
 
 _Munich, May 25, 2018_
 
- [![](/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
+ [![](https://assets.experteer.com/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](https://assets.experteer.com/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
 
 * [Facebook](https://www.facebook.com/Experteer)
 * [Twitter](https://twitter.com/ExperteerWorld)
