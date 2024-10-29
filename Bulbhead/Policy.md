@@ -55,7 +55,7 @@ Cart
     
      Got Problems? We Have Solutions!  
     
-    [Shop All](https://www.bulbhead.com/collections) [Best Sellers](https://www.bulbhead.com/collections/best-sellers) [As Seen on TV](https://www.bulbhead.com/collections/airing-on-tv-now) [New Products](https://www.bulbhead.com/collections/new) [Wholesale](https://www.faire.com/direct/bulbhead)
+    [Shop All](https://www.bulbhead.com/collections) [Best Sellers](https://www.bulbhead.com/collections/best-sellers) [As Seen on TV](https://www.bulbhead.com/collections/airing-on-tv-now) [New Products](https://www.bulbhead.com/collections/new) [Wholesale](https://www.bulbhead.com/pages/bulbhead-wholesale-sign-up)
     
     [![](//www.bulbhead.com/cdn/shop/files/video-shopping.svg?v=7915995750783392032)
     
@@ -81,7 +81,7 @@ Cart
     New Products](https://www.bulbhead.com/collections/new)
 * [![](//www.bulbhead.com/cdn/shop/files/wholesale.jpg?v=15541431740724163294)
     
-    Wholesale](https://www.faire.com/direct/bulbhead)
+    Wholesale](https://www.bulbhead.com/pages/bulbhead-wholesale-sign-up)
 
 * [![](//www.bulbhead.com/cdn/shop/files/video-shopping.svg?v=7915995750783392032)
     
@@ -174,7 +174,7 @@ Be the first to know about new collections and exclusive offers.
 * [Account](https://www.bulbhead.com/account)
 * [Rewards Program](https://www.bulbhead.com/pages/rewards)
 * [Track My Order](https://www.bulbhead.com/account)
-* [Wholesale](https://faire.com/direct/bulbhead)
+* [Wholesale](https://www.bulbhead.com/pages/bulbhead-wholesale-sign-up)
 
 Connect With Us
 ---------------
