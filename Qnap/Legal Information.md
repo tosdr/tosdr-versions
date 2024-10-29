@@ -136,7 +136,7 @@ NAS- Network Attached Storage
 
 * ###### Tower NAS
     
-    * [TS-632X NEW](https://www.qnap.com/en/product/ts-632x)
+    * [TS-632X](https://www.qnap.com/en/product/ts-632x)
     * [TS-432X](https://www.qnap.com/en/product/ts-432x)
     * [TS-216G](https://www.qnap.com/en/product/ts-216g)
     * [TVS-h874T](https://www.qnap.com/en/product/tvs-h874t)
