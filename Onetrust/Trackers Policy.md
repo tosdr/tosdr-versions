@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [How OneTrust partners with Artefact to enable responsible data strategies](https://www.onetrust.com/resources/how-onetrust-partners-with-artefact-to-enable-responsible-data-strategies-infographic/)
 * [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
 * [Mastering first-party data: The complete playbook for marketers](https://www.onetrust.com/resources/ultimate-guide-to-first-party-data-ebook/)
-* [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
 
 ### Platform
 
