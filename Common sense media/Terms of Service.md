@@ -523,7 +523,6 @@ We're a nonprofit. [Support our work](https://www.commonsense.org/donate)
         * [Request a Speaker](https://commonsense.force.com/membersupport/s/contactsupport)
         * [Partner With Us](https://www.commonsensemedia.org/partner-with-us)
         * [Events](https://www.commonsensemedia.org/events-at-common-sense)
-        * [Apply for Free Internet](https://getmyinternet.org/)
         * [We're Hiring](https://www.commonsensemedia.org/about-us/jobs)
 
 ### Follow Common Sense Education
