@@ -2643,7 +2643,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 25th 2024
+##### Effective October 28th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6127,11 +6127,11 @@ A named signatory on the bank or credit card account of the employer;
 Authorization
 -------------
 
-### Version 4.0
+### Version 4.1
 
-##### Effective October 21st 2024
+##### Effective October 28th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6716363c3b058fc41b9dc51a.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67202bbd5be013d04e95ec24.pdf)
 
 * * *
 
@@ -6143,7 +6143,7 @@ Authorization
 
   
 
-You have asked [Certn](https://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: {{{services\_list}}}. In order to complete this request, you will be asked to provide the following personal information; {{{personal\_information\_list}}}. We may collect information regarding you directly from you or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
+You have asked [Certn](https://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: {{{services\_list}}}. In order to complete this request, you will be asked to provide the following personal information: {{{personal\_information\_list}}}. We may collect information regarding you directly from you or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
 
 It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
@@ -6179,11 +6179,11 @@ You have the right to request additional information regarding the nature and sc
 Tokenized Authorization (B2B) - EN-GB
 -------------------------------------
 
-### Version 1.0
+### Version 1.1
 
-##### Effective October 23rd 2024
+##### Effective October 28th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6718f314a942382ae471822c.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67202acd014115adeb2983b7.pdf)
 
 * * *
 
@@ -6214,11 +6214,11 @@ You can withdraw your consent, dispute the accuracy of a Report, or ask for a co
 Wallet Authorization en-GB
 --------------------------
 
-### Version 1.0
+### Version 2.1
 
-##### Effective October 23rd 2024
+##### Effective October 28th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6718f4f5d0e5d80c88e8f34b.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67202b929ec8224093e07721.pdf)
 
 * * *
 
@@ -6230,20 +6230,20 @@ Wallet Authorization en-GB
 
   
 
-You have asked [Certn](https://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: {{{services\_list}}}. In order to complete this request, you will be asked to provide the following personal information; {{{personal\_information\_list}}}. We may collect information regarding you directly from you or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
+You have asked [Certn](https://certn.co/) to collect, process and deliver the following verifiable credentials through the MyCertn Wallet: {{{services\_list}}}. In order to complete this request, you will be asked to provide the following personal information: {{{personal\_information\_list}}}. We may collect information directly from you or third parties such as {{{data\_providers\_list}}}. We will compare information received from different sources for consistency.
 
 It may be necessary for Certn to transfer and process your information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which you made the request. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
-You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our Privacy Policy ( [https://certn.co/privacy-policy/](https://certn.co/privacy-policy/) ).
+You can withdraw your consent, dispute the accuracy of your credentials, or ask for a correction, deletion or copy of your information at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found in our [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj).
 
 Applicant Terms of Use
 ----------------------
 
-### Version 1.0
+### Version 1.1
 
-##### Effective October 25th 2024
+##### Effective October 28th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/671c048a17209d720565a7eb.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67200ac78e9c85e8101b20fe.pdf)
 
 * * *
 
