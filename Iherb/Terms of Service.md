@@ -1604,7 +1604,6 @@ Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails 
 * [Neu! Shop-Bewertungen](https://de.iherb.com/info/store-reviews)
 * [Prämienprogramm](https://secure.iherb.com/rewards/rewards-program)
 * [Partnerprogramm](https://de.iherb.com/info/affiliates)
-* [Neu! Das Spar-Abo](https://de.iherb.com/info/autoship-save)
 * [Wohltätigkeit](https://de.iherb.com/info/donate)
 
 * Unternehmen
