@@ -408,9 +408,9 @@ Partner with the top-ranking DSP in the market.
 
 ![G2 Leader Fall 2024 Awards Badge](https://d343x6qscsp61h.cloudfront.net/sites/3/20240926181144/g2_fall_2024_footer.svg)
 
-![AdAge Best Places to Work 2024 StackAdapt MultiYear Winner 2024 2023 2022](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/adage_best_work_2024.svg)
+![AdAge Best Places to Work 2024](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029183216/adage_best_work_2024.svg)
 
-![Diversio Workplace Impact Award 2023](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/diversio_2023.svg)
+![Diversio Workplace Impact Award 2023](https://d343x6qscsp61h.cloudfront.net/sites/3/20241029184433/diversio_2023.svg)
 
 ![Placeholder](https://wpvip-development.stackadapt.com/main/wp-content/uploads/sites/3/2024/06/great_place_to_work_certified.svg)
 
@@ -1480,7 +1480,7 @@ Channels
 * [In-Game Advertising](https://www.stackadapt.com/in-game-advertising)
 * [Digital Out-of-Home](https://www.stackadapt.com/digital-out-of-home-advertising)
 
-Solutions
+Industries
 
 * [Solutions](https://www.stackadapt.com/our-solutions)
 * [Creative Studio](https://www.stackadapt.com/our-solutions/creative-studio)
