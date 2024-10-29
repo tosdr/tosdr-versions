@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 180 utilisateurs actifs
+##### 613 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Le support de Windows 11 22H2 est terminé depuis le 8 octobre 2024 : mettez à jour votre Windows 11 !](https://lecrabeinfo.net/le-support-de-windows-11-22h2-est-termine-depuis-le-8-octobre-2024-mettez-a-jour-votre-windows-11.html)
 * [Windows 11 24H2 : Microsoft confirme un nouveau bug avec le Vérificateur de fichiers](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-un-nouveau-bug-avec-le-verificateur-de-fichiers.html) 
 * [SearchGPT d'OpenAI : sera-t-il meilleur que Google ?](https://lecrabeinfo.net/searchgpt-dopenai-sera-t-il-meilleur-que-google.html)
-* [Comment regarder YouTube sans pub gratuitement (grâce à yout-ube.com) ?](https://lecrabeinfo.net/comment-regarder-youtube-sans-pub-gratuitement-grace-a-yout-ube-com.html)
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 871 membres
-* 934 articles
+* 67 872 membres
+* 935 articles
 * 26 801 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
