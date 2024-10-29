@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/sheldrake-wetenschap-gijzelt-mensheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-leugen-van-het-eeuwig-fysieke-leven/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
