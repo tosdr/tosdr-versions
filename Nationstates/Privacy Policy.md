@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess AU's favorite irl country (458)](https://forum.nationstates.net/viewtopic.php?t=554724&f=25&view=unread#unread ""Guess AU's favorite irl country" (458 posts)")
-* [American Politics: Remember, Remember… (5,003)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (5,003 posts)")
-* [Womanly things that men do these days… (694)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (694 posts)")
-* [Canadian Politics (6,730)](https://forum.nationstates.net/viewtopic.php?t=467837&f=20&view=unread#unread ""Canadian Politics" (6,730 posts)")
-* [Agree or Disagree III (11,773)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (11,773 posts)")
+* [Compliment the Above Nation III (7,264)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,264 posts)")
+* [American Politics: Remember, Remember… (5,047)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (5,047 posts)")
+* [Commend or Condemn AN II (1,593)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (1,593 posts)")
+* [Most Random Thing You've Eaten (98)](https://forum.nationstates.net/viewtopic.php?t=557642&f=20&view=unread#unread ""Most Random Thing You've Eaten" (98 posts)")
+* [What religion does AU follow? (OOC) (1,153)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (1,153 posts)")
 
 Advertisement
 
