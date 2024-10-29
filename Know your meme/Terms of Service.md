@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor")
+[Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Sup! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
