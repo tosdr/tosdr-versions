@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2178103296-scaled.jpg?ve=1&tl=1)
+
+ ![Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178103296-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-world-series-game-3)
+
+### [Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://www.fox4news.com/news/dodgers-world-series-game-3)
+
+ [![Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-robert-roberson-case-1030p_00.01.09.54.jpg?ve=1&tl=1)
+
+ ![Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-robert-roberson-case-1030p_00.01.09.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-state-representative-death-row-inmate-judge-michelle-slaughter-text-messages)
+
+### [Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://www.fox4news.com/news/plano-state-representative-death-row-inmate-judge-michelle-slaughter-text-messages)
+
+ [![Problem gambling grows along with revenue, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1189425765.jpg?ve=1&tl=1)
+
+ ![Problem gambling grows along with revenue, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1189425765.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/online-gambling-addiction-concerns-us)
+
+### [Problem gambling grows along with revenue, study finds](https://www.fox4news.com/news/online-gambling-addiction-concerns-us)
+
+ [![How do Puerto Rican voting rights work?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/puerto-rican-flag.jpg?ve=1&tl=1)
+
+ ![How do Puerto Rican voting rights work?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/puerto-rican-flag.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/puerto-rican-voting-rights-what-to-know)
+
+### [How do Puerto Rican voting rights work?](https://www.fox4news.com/news/puerto-rican-voting-rights-what-to-know)
+
  [![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gisele.jpg?ve=1&tl=1)
 
  ![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gisele.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
 
 ### [Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
-
- [![46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/102824-kst-texas-wesleyan-surprise-fwisd-seniors_00.15.52.24.jpg?ve=1&tl=1)
-
- ![46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/102824-kst-texas-wesleyan-surprise-fwisd-seniors_00.15.52.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/46-fort-worth-isd-seniors-awarded-23000-scholarships-texas-wesleyan-university)
-
-### [46 Fort Worth ISD seniors awarded $23,000 scholarships to Texas Wesleyan University](https://www.fox4news.com/news/46-fort-worth-isd-seniors-awarded-23000-scholarships-texas-wesleyan-university)
-
- [![Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ballotbox.jpg?ve=1&tl=1)
-
- ![Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ballotbox.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ballot-boxes-fire-oregon-washington)
-
-### [Ballot boxes set on fire in Oregon, Washington linked; Hundreds of ballots burned](https://www.fox4news.com/news/ballot-boxes-fire-oregon-washington)
-
- [![Best and worst college towns in 2025, according to WalletHub ranking](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/austin-skyline.jpg?ve=1&tl=1)
-
- ![Best and worst college towns in 2025, according to WalletHub ranking](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/austin-skyline.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/best-worst-college-towns-2025-according-wallethub-ranking)
-
-### [Best and worst college towns in 2025, according to WalletHub ranking](https://www.fox4news.com/news/best-worst-college-towns-2025-according-wallethub-ranking)
-
- [![Dallas firefighter earns national recognition for water rescues](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s-shaun-dallas-firefighter-honored-by-children_s-f_00.00.15.50.jpg?ve=1&tl=1)
-
- ![Dallas firefighter earns national recognition for water rescues](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s-shaun-dallas-firefighter-honored-by-children_s-f_00.00.15.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dfr-charles-abney-national-firefighter-hero-award)
-
-### [Dallas firefighter earns national recognition for water rescues](https://www.fox4news.com/news/dfr-charles-abney-national-firefighter-hero-award)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
