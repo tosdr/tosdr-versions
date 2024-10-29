@@ -36,6 +36,9 @@
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
+    * [![Get a Costco Gold Star Membership and a $45 Shop Card for $65](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get a Costco Gold Star Membership and a $45 Shop Card for $65](https://www.bleepingcomputer.com/offer/deals/get-a-costco-gold-star-membership-and-a-45-shop-card-for-65/)
     * [![New tool bypasses Google Chrome’s new cookie encryption system](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New tool bypasses Google Chrome’s new cookie encryption system](https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
@@ -45,9 +48,6 @@
     * [![Russia targets Ukrainian conscripts with Windows, Android malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Russia targets Ukrainian conscripts with Windows, Android malware](https://www.bleepingcomputer.com/news/security/russia-targets-ukrainian-conscripts-with-windows-android-malware/)
-    * [![Free, France’s second largest ISP, confirms data breach after leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Free, France’s second largest ISP, confirms data breach after leak](https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
