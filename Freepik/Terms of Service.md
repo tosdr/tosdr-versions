@@ -708,7 +708,7 @@ You may contact the Company with any queries or complaints at [https://www.freep
 API Services Terms and Conditions
 ---------------------------------
 
-#### May 2024
+#### October 2024
 
 These Terms and Conditions of the Freepik API Services and Flaticon API Services (collectively, the **“API Services”**) are binding and shall apply to access to and use of the API Services by the user (hereinafter **“the Customer”**). Customer access to and use of the API Services implies that the Customer has read and accepted all these Terms and Conditions of the API Services. We therefore recommend that you review them frequently.
 
@@ -736,9 +736,10 @@ With regard to these Terms and Conditions, the terms hereunder shall be construe
 6. **Freepik's Confidential Information** refers to any information belonging to Freepik which is provided to the Customer in relation to accessing or using the API Services, excluding any information the Customer have developed independently, any which has been lawfully delivered to the Customer by a third party that is not subject to confidentiality obligations or any which has been made publicly available without the Customer being involved in its disclosure.
 7. **Freepik Content** refers to the content offered through the API Services which is owned by Freepik or its licensors
 8. **Developer Website** refers to Freepik and Flaticon's developer website, including the web pages currently available at [https://www.freepik.com/api](https://www.freepik.com/api), [https://docs.freepik.com/](https://docs.freepik.com/) and [https://api.flaticon.com/](https://api.flaticon.com/).
-9. **End User** refers to persons who access and interact with the Freepik Content, AI Generated Content or the AI Products via the API Client. Such persons use the applications or websites created by the Customer and, while they may benefit from the functionalities powered by the API Services, they don't directly call or interact with the API Services themselves.
+9. **End User** refers to persons who access and interact with the Freepik Content, AI Generated Content, the AI Products or the Magnific API via the API Client. Such persons use the applications or websites created by the Customer and, while they may benefit from the functionalities powered by the API Services, they don't directly call or interact with the API Services themselves.
 10. **Guidelines** refers to the guidelines and other documents posted on the Developer Website.
-11. **Personal Data** has the meaning set forth in REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) or the national legislation of the EU Member State which supplements or implements it, as said legislation is progressively updated, amended and/or replaced from time to time.
+11. **Magnific API** refers to the suite of image enhancement and transformation services offered through https://magnific.ai/, including upscaling, relighting, style transfer, and detailed image enhancements
+12. **Personal Data** has the meaning set forth in REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) or the national legislation of the EU Member State which supplements or implements it, as said legislation is progressively updated, amended and/or replaced from time to time.
 
 #### 2\. The Terms and conditions
 
@@ -746,11 +747,13 @@ With regard to these Terms and Conditions, the terms hereunder shall be construe
 
 This Terms and conditions sets forth the conditions to access to and use of the API Services by the Customer.
 
-The API consists of a set of tools, protocols, and documents designed to facilitate the integration of Freepik Content, the AI Generated Content and the AI Products into the API Client. Through this integration, the Customer can develop and offer functionalities to End Users subject to the limitations and conditions described hereunder and in the relevant documents referred to in this Terms and conditions.
+The API consists of a set of tools, protocols, and documents designed to facilitate the integration of Freepik Content, the AI Generated Content, the AI Products and the Magnific API into the API Client. Through this integration, the Customer can develop and offer functionalities to End Users subject to the limitations and conditions described hereunder and in the relevant documents referred to in this Terms and conditions.
 
-Subject to the Terms and conditions, Freepik grants the Customer a limited, non-exclusive, revocable, personal, non-sublicensable and non-transferable license to access and use the API Services solely to develop, test, display, run and place Freepik Content, the AI Generated Content and the AI Products at the disposal of the API Client.
+Subject to the Terms and conditions, Freepik grants the Customer a limited, non-exclusive, revocable, personal, non-sublicensable and non-transferable license to access and use the API Services solely to develop, test, display, run and place Freepik Content, the AI Generated Content, the AI Products and the Magnific API at the disposal of the API Client.
 
 Subject to fulfillment of all the terms and conditions set forth herein, Company hereby authorizes the API Client’s End Users in a non-transferable, revocable, limited, non-exclusive manner and on a worldwide basis for the duration of the relevant rights to download, use and modify the Freepik Content, in a device the End User owns or controls and only for the purposes and uses allowed in the [Freepik Terms and Conditions](#nav-freepik) and [Flaticon Terms and Conditions](https://www.flaticon.com/legal).
+
+When accessing the Magnific API as part of the API Services, you are required to comply with the [Terms of Service of Magnific](https://magnific.ai/legal/).
 
 Freepik reserves all rights which are not expressly granted through this license.
 
@@ -769,10 +772,12 @@ The Terms and Conditions is comprised of:
 1. the Terms and Conditions;
 2. the Developer Policies;
 3. the [Freepik Privacy Policy](https://www.freepikcompany.com/legal/privacy);
-4. the [Freepik Terms and Conditions](#nav-freepik);
-5. the [Flaticon Terms and Conditions](https://www.flaticon.com/legal);
-6. the [AI Products Terms and Conditions](#nav-ai-products); and
-7. the [Acceptable Use Policy](https://www.freepikcompany.com/legal//acceptable-use-policy/).
+4. the [Magnific Privacy Policy](https://magnific.ai/legal/#privacy);
+5. the [Freepik Terms and Conditions](#nav-freepik);
+6. the [Flaticon Terms and Conditions](https://www.flaticon.com/legal);
+7. the [Terms of Service of Magnific](https://magnific.ai/legal/)
+8. the [AI Products Terms and Conditions](#nav-ai-products); and
+9. the [Acceptable Use Policy](https://www.freepikcompany.com/legal//acceptable-use-policy/).
 
 ##### 2.3 Amendment of the Terms and conditions
 
@@ -798,8 +803,9 @@ Notwithstanding any other limitations set forth herein, the Customer and its API
 2. ensure that the caching, storing, or otherwise hosting any Freepik Content will be limited to strict technical reasons. The Customer is obliged to call the download endpoint every time a resource is used by an End User, even if the resource is cached, stored or hosted, so that Freepik can trace the legitimate use of the API. The API Client is responsible for implementing appropriate measures to ensure that no automatic or unintentional caching of the Freepik Content takes place.
 3. adhere to all other usage Guidelines, technical specifications, or documentation provided or made available by Freepik in relation to the API Service
 4. fulfill all the laws, standards and regulations which apply and not infringe third-party rights;
-5. not access or use the API Services in a way which breaches said laws, standards and regulations or third-party rights, or in a way that is deceitful, unethical, false or confusing, and require anybody else acting on the Customer behalf and its API Client(s) to do so as well; and
-6. set forth binding terms and conditions and privacy policies for End Users of its API Client(s) that are in accordance with this Terms and Conditions.
+5. not access or use the API Services in a way which breaches said laws, standards and regulations or third-party rights, or in a way that is deceitful, unethical, false or confusing, and require anybody else acting on the Customer behalf and its API Client(s) to do so as well;
+6. The API Services are provided solely to enhance the functionality of the API Client and must not be used to create any standalone service or application with features that directly replicate or compete with magnific.ai or freepik.com products. The API Client must maintain a substantially different purpose and functionality from them. For the sake of clarity, fair use would involve embedding the API within a broader application, such as a videogame, where the API Services support but do not define the primary functionality. However, creating an application such as an independent image upscaling service, would constitute a breach of these Terms and Conditions. In such cases, Freepik reserves the right to terminate the Agreement and revoke the license and access to the services at any time; and
+7. set forth binding terms and conditions and privacy policies for End Users of its API Client(s) that are in accordance with this Terms and Conditions.
 
 Without limiting the foregoing, the Customer shall not distribute or provide access to its API Client(s) in breach of the trade laws of Spain. The Customer likewise undertakes not to behave in any way that could harm Freepik' image, interests and rights or those of third parties. The Customer shall refrain from impersonating another user or person or from performing any action that may affect or interfere with the API, the API Services or their security. It is forbidden to access or use the API Services in a way which is contrary to their normal use by means of techniques other than those authorized by Freepik from time to time or which unreasonably harm Freepik's interests.
 
