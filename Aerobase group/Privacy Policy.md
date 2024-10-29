@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Air Force open to greater B-21 stealth bomber role in strategy revamp](https://www.defensenews.com/air/2024/10/28/air-force-open-to-greater-b-21-stealth-bomber-role-in-strategy-revamp/)  
+    10/28/24 04:30pm  
+    
+    Air Force Chief of Staff Gen. David Allvin said the B-21, shown here, could dodge the ballooning costs that can bedevil major programs. (U.S. Air Force)
+    
 * [Israel launches military strikes against Iran](https://www.defensenews.com/flashpoints/israel-palestine/2024/10/26/israel-launches-military-strikes-against-iran/)  
     10/25/24 08:11pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/24/24 01:22pm  
     
     Northrop Grumman is trying to bring costs down on the B-21 Raider, which incurred a nearly $1.6 billion loss at the end of 2023. (Giancarlo Casem/Air Force)
-    
-* [Strike, fixed-price contracts leave Boeing defense bleeding cash](https://www.defensenews.com/air/2024/10/23/strike-fixed-price-contracts-leave-boeing-defense-bleeding-cash/)  
-    10/23/24 05:11pm  
-    
-    Boeing has lost billions of dollars on the fixed-price KC-46 program, and a nearly six-week machinist strike has heightened the refueling tanker's problems. (Airman Lauren Torres/Air Force)
     
 
 Recent parts by keyword  
