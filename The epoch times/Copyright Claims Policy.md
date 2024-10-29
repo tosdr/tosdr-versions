@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
+    
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/uploads/2024/10/id5745812-1.tagreuters.com2024binary_LYNXMPEK9L0L2-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
+* [USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/uploads/2023/06/02/id5308678-USA-Today-newspaper-205x123.jpg.webp)](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
+* [Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
+    
+    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749538-Penn-mail-ballot-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
+* [Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
+    
+    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719606-Kennedy-GettyImages-2167258349-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
+* [North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
+    
+    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749405-download6-205x123.jpg.webp)](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
 * [US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/uploads/2023/02/02/Semicon-China-205x123.jpg.webp)](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
 * [Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749323-Election_2024_Ballot_Box_Fires_24302618769266-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
 * [76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589460-02172024-DSC01207-I-voted-205x123.jpg.webp)](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
 * [Polls Are Tight as New York House Races Near the Finish Line](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
     
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747323-New-York-Senate-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
 * [Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
     
-    2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/uploads/2024/07/06/id5681368-2022-05-12T082426Z_1_LYNXNPEI4B0C8_RTROPTP_4_NATO-DEFENCE-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
-* [Harris Raised, Spent Far More Than Trump in First Half of October](https://www.theepochtimes.com/us/harris-raised-spent-far-more-than-trump-in-first-half-of-october-5749286)
-    
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Harris Raised, Spent Far More Than Trump in First Half of October](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Raised, Spent Far More Than Trump in First Half of October](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747972-Trump-Harris-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-raised-spent-far-more-than-trump-in-first-half-of-october-5749286)
-* [McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://www.theepochtimes.com/us/mcdonalds-says-quarter-pounder-beef-patties-not-the-source-of-e-coli-contamination-5749276)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![McDonald’s Says Quarter Pounder Beef Patties Not the Source of E. Coli Contamination](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747683-MCDONALDS-CORP-ECOLI-CUSTOMERS-205x123.jpg.webp)](https://www.theepochtimes.com/us/mcdonalds-says-quarter-pounder-beef-patties-not-the-source-of-e-coli-contamination-5749276)
-* [Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://www.theepochtimes.com/us/biden-casts-his-ballot-in-delaware-this-is-sweet-5749187)
-    
-    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Casts His Ballot in Delaware: ‘This Is Just Sweet’](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749214-Biden-at-polling-station-in-Delaware-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-casts-his-ballot-in-delaware-this-is-sweet-5749187)
-* [Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://www.theepochtimes.com/us/trump-harris-enter-final-week-of-campaign-heres-the-swing-state-vote-breakdown-5749228)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Enter Final Week of Campaign: Here’s the Swing-State Vote Breakdown](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747992-Kamala-Harris-Donald-Trump-4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-enter-final-week-of-campaign-heres-the-swing-state-vote-breakdown-5749228)
-* [Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://www.theepochtimes.com/world/egypt-proposes-2-day-gaza-cease-fire-aimed-at-jump-starting-broader-negotiations-5749108)
-    
-    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Egypt Proposes 2-Day Gaza Cease-Fire Aimed at Jump-Starting Broader Negotiations](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749390-GettyImages-1737118702.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/egypt-proposes-2-day-gaza-cease-fire-aimed-at-jump-starting-broader-negotiations-5749108)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
