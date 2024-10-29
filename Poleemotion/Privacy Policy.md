@@ -86,7 +86,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 
 [](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=975043)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=007796)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
@@ -117,165 +117,165 @@ Dès 104.- CHF
 
 [Rejoins-nous sur Instagram
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261448_430194080101811_951531019384691124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=i3ioMhfajJQQ7kNvgH6hk1y&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDtR8IzvQxZtC5r3LHMNuN3NvXSgNU3F6veDIm-I45OLA&oe=6725130C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464262203_1279241789741708_2323106443151365898_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=Q9BHySls12oQ7kNvgHjb68p&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBD2TpP_gM8rFfHoIATrlkpIOpgBR9wmINaQDZNX13dOw&oe=672677D3)
+
+Si tu as la moindre question, on est disponible par messages privés 🩷
+
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261448_430194080101811_951531019384691124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=i3ioMhfajJQQ7kNvgE9KOMn&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBbWZ8tyIVVobOxieOpLg7c9r2lNr_MJh3F3Kijfd6HJA&oe=6726648C)
 
 On ne vous laissera jamais tomber 🤲🏻✨
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261232_1908159106345513_6292527467405296036_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=I031L3b76vkQ7kNvgHyawdG&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDHbWR2MFKrs1i6ugpxDhYum_zGy__lL49dCEmA8EsQAA&oe=672519E8)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261232_1908159106345513_6292527467405296036_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=3OQL9KpnhrwQ7kNvgGCqRdu&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYCowLqzgnyfCLQnlg3uGylvACoaWEwrjt3mNQJeFcRx6A&oe=67266B68)
 
 Si tu vois d’autres raisons, n’hésite pas à nous les dire en commentaire 🤗 #poledance #poleart #polesport #pole #poledancer #polecommunity
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463956260_522426157226533_7194524151937004760_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=laT6VSTXqxIQ7kNvgHwYXPi&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYD9U9ZR9k4MMy_WimQqq0ovJSiIXCwrsvrwcezOdIiw2A&oe=67250B4C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463956260_522426157226533_7194524151937004760_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=laT6VSTXqxIQ7kNvgEZmzYj&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAtygb6_lezIVbUf7LKVQkinaQsHuOtgWlTPrdJoivvKg&oe=67265CCC)
 
 L’amitié en mouvement : deux amies qui partagent leur énergie et leur sourire, prouvant que le sport est encore plus motivant quand on le fait ensemble ! 💕 #poledance #poleart #polesport #pole #poledancer #fitness #pilates #community #sport #feelgood
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463390379_3981949902079697_749393757354333998_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=I6yJY9HaTG4Q7kNvgG4wDh9&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYC9yUuKSUfndjBKyrNEELZ3FWfYJ2RmA_yUFKGpN9dSEA&oe=67252995)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463390379_3981949902079697_749393757354333998_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=I6yJY9HaTG4Q7kNvgEO5YKn&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYA8DzUYHy_CykBQAlFSCJQBA5kfOmhWQGopHYpDWbLYcA&oe=67267B15)
 
 Ce serait dommage de ne pas connaître des années de bonheur contre quelques minutes d’appréhension 🤗 Vous êtes nombreuses à ne pas toujours oser sauter le pas et venir essayer la pole et c’est dommage, car ce qui vous attend de l’autre côté de la porte c’est une communauté soutenante et un épanouissement de soi incomparable 🫶🏻 On ne le répétera jamais assez : la pole est faite pour tout le monde et à tout âge, pour autant que l’envie d’en faire soit présente ! Écris-nous si jamais l’une de tes craintes reste sans réponse 💌 #poledance #poleart #polesport #pole #poledancer #polecommunity #polebeginner #lausanne #crissier #yverdon #monthey #gland #fitness
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/462705232_1081518193378076_6327777912912842330_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=IkafpfT5TC0Q7kNvgH71YdN&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYAZBkbGyuGcy856Wu3_jFnHm88lptxZT5yys04RdIJsFw&oe=67251768)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/462705232_1081518193378076_6327777912912842330_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=IkafpfT5TC0Q7kNvgFjqyyt&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDbizbqWtlbh0dJg8_bLagTcOvsWSpVedo2auhLaZ8ZOQ&oe=672668E8)
 
 Rdv sur notre site et l’onglet « Stages » pour en apprendre davantage sur le contenu des stages et les pré requis 💪🏼 Si tu as des questions, on reste disponible par message 💖 #poledance #poleart #polesport #pole #poledancer #workshops #poleworkshops #polestudio #lausanne
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/462192662_1102327801893477_3666359314009299039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=oUnwVoRUj_cQ7kNvgGmEeOA&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYAUww3fSmVSELrNEG2BCRxBsxmvZvS-f1-91_MXBkaHIg&oe=67251682)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/462192662_1102327801893477_3666359314009299039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=AIOUE_FyqqEQ7kNvgGShjFo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYC_KKvKAz8Vwl9Ap8C74SlL-DOO4Des63OcEZATQ9544g&oe=67266802)
 
 On trouve de tout pour s'amuser chez Pole-Emotion : chair dance, danse en talons, pole sportive, Pilates, yoga, cerceau aérien, full body, pole Exotic, trampoline, souplesse, cuisses-abdos-fessiers, Piloxing, Zumba... Viens essayer !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461961718_1501090423918750_1976108997396910381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=CAbPJ5YqeP8Q7kNvgFMNAzJ&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDz03HZlJXgOOu7OW6pBaxGRQ6jM7jRsICZIioHZg2aVA&oe=67253643)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461961718_1501090423918750_1976108997396910381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=nfywfsNEIdsQ7kNvgG7LAve&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYARh3kRfC6DDvvclWI76hzqN62Q-20H4KyrHJ5kz3890w&oe=672687C3)
 
 On le sait, quand on commence la pole, il y a plein de termes utilisés qu’on ne comprend pas et on ose pas forcément poser la question pour assouvir notre curiosité ! 🙃 Voici donc un rapide résumé des styles de pole que tu peux retrouver notamment dans les compétitions. Évidemment, il existe encore plusieurs nuances et sous-catégories : on t’en parlera sur cette page dans les prochains mois. D’ailleurs, en parlant de compétition, réserve tes journées et soirées du 23 au 27 octobre car le championnat du monde IPSF aura lieu et sera disponible en streaming !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461610057_1096827695776821_1147317757465315035_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=jhYFF603oSIQ7kNvgHeG6Jk&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYC0KKaLsWidNAsvU-2Gl9jUXDtkSdlafh1m4awoiWzvhw&oe=67252475)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461610057_1096827695776821_1147317757465315035_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=jhYFF603oSIQ7kNvgG7KJXf&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYACf2Ilp0ZHBTomg47CXuRcl3o1Z7lHCU_TdUfe_CWTpA&oe=672675F5)
 
 Chez Pole-Emotion tu trouveras une communauté faite de femmes généreuses, fortes et passionnées, prêtes à t'accueillir avec le sourire à chacun de tes cours. #poledance #poleart #polesport #pole #poledancer #polefriends #polecommunity
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461509318_507520372062295_3006619102203465315_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=g-Zy-YIWSicQ7kNvgHZrGuu&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDsF3LOVjpEED_vUdwIKvknAt0LQqeg6ykXEgJjyisV3g&oe=67253696)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461509318_507520372062295_3006619102203465315_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=g-Zy-YIWSicQ7kNvgHrv7cg&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAAMLIHppRB8tXHpm9M_rjnhKhkZ4bBsTqe8wnmRzxkKg&oe=67268816)
 
 Les figures du niveau First te servent de base pour toute ta future pratique de la pole : tu apprends à tirer, à pousser, à te soulever et à t’accrocher en toute sécurité avant de tester des figures plus avancées avec des inversions. 🙋🏻‍♀️ Ces dernières sont à travailler même pour les poleuses plus avancées car elles forment une excellente base de renforcement, ce qui réduit le risque de blessures et te permet de tenir tes figures plus longtemps et de rendre tes combos gracieux et fluides. Et toi, ça t’arrive de les travailler à nouveau ? 👇🏻
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460921037_1090207446438846_2850386601095360332_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=4W7sjRT985kQ7kNvgGzEjR_&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDW3DjB0V1moUQvx6QTAuwXl5hddWFtabosyKDTHe5DKQ&oe=6725102C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460921037_1090207446438846_2850386601095360332_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=4W7sjRT985kQ7kNvgHrb0oD&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDR6niI4hsZnn_d7eSwh2V8crH9IIDQSwy5vWHxd-3beQ&oe=672661AC)
 
 Transforme chaque jour de ta vie en une danse exaltante 💃
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461182663_1042248000463032_4392832401564697037_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dwRvKcfSI_gQ7kNvgEeDjbo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYA1j1ZsSLSc_nezxSBTuh9nrU7t14iJ21v7MVZrexQWPw&oe=67251B4A)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461182663_1042248000463032_4392832401564697037_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dwRvKcfSI_gQ7kNvgFP_Ysx&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAWDISTTorVdpeWDTF6j8iSzW_OVGKy8FC5xPGZItGLyQ&oe=67266CCA)
 
 ☝️ Un post d’utilité publique ! 😌 Les élèves du cours suivant te seront reconnaissantes et les barres pourront t’apporter de la joie plus longtemps. 🫶 Merci beaucoup !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461082149_1090202283106029_4024489061149813019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=XqA66rX06FwQ7kNvgEKWySI&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDLwNsHOAOXEnhY9ZMJRjtE-_hLZQoVQztlCYp4Ib0WAw&oe=672511E6)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461082149_1090202283106029_4024489061149813019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=XqA66rX06FwQ7kNvgEaPHfl&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDFLpuwGAn8Pm6sDvMAeeUqBcEYgny7kfz05ys8NGiT5w&oe=67266366)
 
 Confiance en soi, force et élégance en pleine action 💪✨ #PoleDance #Empowerment
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/459754993_467161506323553_8738083694092694747_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=3VTn16pb6CkQ7kNvgGI6uiY&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDllmVxgaaLglu-Ndm4wrCl4kCyxm6PhQmUlvNXuKqY_Q&oe=67250AD4)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/459754993_467161506323553_8738083694092694747_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=3VTn16pb6CkQ7kNvgFujhCh&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYARcD1FnwmYKMOtsRs609pQRaX7fCCpZ4jrdA8L1Xavxg&oe=67265C54)
 
 Ces figures servent de base pour la suite de ta pratique de la pole, c’est pourquoi elles sont si importantes à acquérir et maîtriser (des deux côtés, évidemment !) 🤗 Il t’en reste beaucoup à valider ? 👇🏻
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460236998_1085738836885707_2728855894946608391_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=IwBmClIkzooQ7kNvgHB9BYo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDPoXkAbwUwCJ2v42y6swIxa6sxH84B7KGAFRvQlOCM6A&oe=67253636)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460236998_1085738836885707_2728855894946608391_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=nJWtghwvLOsQ7kNvgHvFy9C&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBA8VKIJH5s3AViVdd9uJcpVCup2Vho8mLiaPGGObKb3g&oe=672687B6)
 
 Le sport entre amies, c'est plus que de l'effort, c'est de l'énergie partagée, des connexions renforcées et des souvenirs pour la vie.
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458795968_1079334380859486_3299268070137670554_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=-3y2i1sM52QQ7kNvgEKcPVX&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDq3I_NJWfzZFDQcaGM310xrux7SKn_f3FgLZikQiNaZQ&oe=67250E2E)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458795968_1079334380859486_3299268070137670554_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=oHyEHzKaOzcQ7kNvgG4AHZr&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDaCp8UxJ-WNeAXJV5sDbPqVz992CSuUKaU8521anClVg&oe=67265FAE)
 
 🤫 On a une bonne nouvelle pour toi : toutes ces compétences, tu vas les acquérir progressivement et surtout, sans t’en rendre compte ! 🤓 À chacun de tes cours, ton cerveau aura assimilé ce que tu lui as demandé de faire la fois d’avant et cela te semblera plus facile de semaines en semaines. 💡 La pole est un sport technique et grâce aux explications de ta prof, tu sauras utiliser les bons placements pour que la figure soit réussie et élégante, sans te prendre la tête ! #poledance #poleart #polesport #pole #poledancer #polebeginner #mindsetmatters
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/459103304_1079306717528919_7228341307639966535_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=0Ap65nQtFB8Q7kNvgHsWuUR&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYCn9OEgg00W6VinNdPtVB9nhgsTDbOoQa--pZzOMwXyZw&oe=67251238)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/459103304_1079306717528919_7228341307639966535_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=0Ap65nQtFB8Q7kNvgHPTNPN&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYDRfYI3jTRG102g_bczXihQCI244Ke8TxFqGFTQNlkDNw&oe=672663B8)
 
 🧚‍♀️ Et toi, quel accessoire tu as déjà utilisé pour danser et pimper ta choré ? De notre côté, il y a eu des chapeaux, un parapluie, des plumes et même un doudou ! #poledance #poleart #chairdance #shootingphoto #dance #accessories #accessoires
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458769904_1079298700863054_9169168036187248338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=vmyhATGu_x0Q7kNvgHSF9h7&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYDciInuOEqZ4_apgW6QVv4DImqUES7lS6LBKnJ6iPGPAw&oe=67251DB2)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458769904_1079298700863054_9169168036187248338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=InLW4pyA1PYQ7kNvgHJRHv7&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYCkdWD5CpSCx67P6YnnPpJ8ZM03D51MioM6orxb6p4ZtA&oe=67266F32)
 
 L'une des forces de Pole-Emotion, c'est sa liberté d'inscription aux cours (viens quand tu le veux, sans obligation !) et pour cela, nous te proposons deux types d'abonnements selon ton rythme de vie : 🧘‍♀️ Tu préfères venir 1x par semaine ? L'abonnement Freedom est fait pour toi. 💪 Tu aimes te défouler 2-3x par semaine ou plus ? Dans ce cas, c'est l'abonnement illimité qu'il te faut. \*Les prix varient si tu paies en une fois ou mensuellement, retrouve les détails ici : https://app.pole-emotion.ch/tarifs/ #poledance #poleart #polesport #pole #poledancer #polefitness #fitness #abonnements #tarifs #poleemotion
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458669155_18368280367100834_7910685212152141355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=NuMFYQkgkmYQ7kNvgEd8jq8&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYCn26LDF3kme238Rkxyj_3DqQtwLuGd0FY4jYzjeYNd7A&oe=67251E91)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458669155_18368280367100834_7910685212152141355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=NuMFYQkgkmYQ7kNvgEwlTSZ&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYBhMUkXfdQ3rohvK_BeLGnT8o8LcWsRHsJ-GFS2VGtc_g&oe=67267011)
 
 💆🏻‍♀️💆🏼‍♀️💆🏽‍♀️ On ne le répétera jamais assez : la pole est un sport exigeant pour le corps ! Ce dernier mérite donc de recevoir les meilleurs soins afin de te porter dans toutes les figures que tu rêves de faire. ⚠️ Et ne vas pas croire que cela concerne uniquement les poleuses de plus haut niveau ! Ces recommandations sont à appliquer dès tes premiers cours. ℹ️ Tu aimerais recevoir plus de conseils sur ta pratique de la pole au quotidien ? Pose-nous tes questions en commentaire ou en message privé. #poledance #poleart #polesport #pole #poledancer #lifestyle #sportlifestyle
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458145257_18367613701100834_317096379735867816_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=qu1ORzqPYK4Q7kNvgGLNNus&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYABpWYGTRoEDPjzsw3E1_DhPncvFRTWS7v8rfgkodf1Lw&oe=67252D66)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458145257_18367613701100834_317096379735867816_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=qu1ORzqPYK4Q7kNvgEBdX8F&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYAZRnhITxUjIWHYFetx6BU30Uu6hrja1Vb8rjkhOZQahg&oe=67267EE6)
 
 🥳 C’est l’heure de prendre cet abonnement qui te fait de l’œil depuis quelques semaines ! 🎉 Profite de 50% de rabais sur tout nouvel achat d’abonnement de 3 mois « illimités ». Celui-ci te permettra de profiter de tous nos cours dans toutes nos salles ! Utilise le code promo « YOUPI » au moment de valider l’achat pour en profiter. (Offre non valable si tu es déjà cliente chez Pole-Emotion) 💪🏼 Il ne te reste plus qu’à faire une liste de toutes les choses que tu as envie d’apprendre d’ici la fin de l’année et de t’inscrire à nos différents cours !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/457323926_18367246276100834_4289507456922517393_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=rCQzAV7c4ugQ7kNvgGBNhF5&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYDqUQxyaWKfwBJHbH5JMPcdu0qEhLfEngjAxV_qWtPR6Q&oe=67251E28)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464262203_1279241789741708_2323106443151365898_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=Q9BHySls12oQ7kNvgHjb68p&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBD2TpP_gM8rFfHoIATrlkpIOpgBR9wmINaQDZNX13dOw&oe=672677D3)
 
-Après la théorie, voici la pratique 👀 Tu as lu notre dernier post qui t’expliquait les principes des différents styles que tu peux retrouver dans le monde de la pole ? C’est la pointe émergente de l’iceberg, car ceux-ci se déclinent encore en pole sport, pole flow, pole exotic Old School et bien d’autres que nous serions ravies de vous expliquer de manière plus approfondie. Dans ce post, on te montre en images ce que donnent ces trois grands principes 👉🏻 • #poledance #poleart #polesport #pole #poledancer #polespin #polestatic #polexotic
+Si tu as la moindre question, on est disponible par messages privés 🩷
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261448_430194080101811_951531019384691124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=i3ioMhfajJQQ7kNvgH6hk1y&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDtR8IzvQxZtC5r3LHMNuN3NvXSgNU3F6veDIm-I45OLA&oe=6725130C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261448_430194080101811_951531019384691124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=18de74&_nc_ohc=i3ioMhfajJQQ7kNvgE9KOMn&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBbWZ8tyIVVobOxieOpLg7c9r2lNr_MJh3F3Kijfd6HJA&oe=6726648C)
 
 On ne vous laissera jamais tomber 🤲🏻✨
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261232_1908159106345513_6292527467405296036_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=I031L3b76vkQ7kNvgHyawdG&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDHbWR2MFKrs1i6ugpxDhYum_zGy__lL49dCEmA8EsQAA&oe=672519E8)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/464261232_1908159106345513_6292527467405296036_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=3OQL9KpnhrwQ7kNvgGCqRdu&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYCowLqzgnyfCLQnlg3uGylvACoaWEwrjt3mNQJeFcRx6A&oe=67266B68)
 
 Si tu vois d’autres raisons, n’hésite pas à nous les dire en commentaire 🤗 #poledance #poleart #polesport #pole #poledancer #polecommunity
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463956260_522426157226533_7194524151937004760_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=laT6VSTXqxIQ7kNvgHwYXPi&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYD9U9ZR9k4MMy_WimQqq0ovJSiIXCwrsvrwcezOdIiw2A&oe=67250B4C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463956260_522426157226533_7194524151937004760_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=laT6VSTXqxIQ7kNvgEZmzYj&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAtygb6_lezIVbUf7LKVQkinaQsHuOtgWlTPrdJoivvKg&oe=67265CCC)
 
 L’amitié en mouvement : deux amies qui partagent leur énergie et leur sourire, prouvant que le sport est encore plus motivant quand on le fait ensemble ! 💕 #poledance #poleart #polesport #pole #poledancer #fitness #pilates #community #sport #feelgood
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463390379_3981949902079697_749393757354333998_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=I6yJY9HaTG4Q7kNvgG4wDh9&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYC9yUuKSUfndjBKyrNEELZ3FWfYJ2RmA_yUFKGpN9dSEA&oe=67252995)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/463390379_3981949902079697_749393757354333998_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=18de74&_nc_ohc=I6yJY9HaTG4Q7kNvgEO5YKn&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYA8DzUYHy_CykBQAlFSCJQBA5kfOmhWQGopHYpDWbLYcA&oe=67267B15)
 
 Ce serait dommage de ne pas connaître des années de bonheur contre quelques minutes d’appréhension 🤗 Vous êtes nombreuses à ne pas toujours oser sauter le pas et venir essayer la pole et c’est dommage, car ce qui vous attend de l’autre côté de la porte c’est une communauté soutenante et un épanouissement de soi incomparable 🫶🏻 On ne le répétera jamais assez : la pole est faite pour tout le monde et à tout âge, pour autant que l’envie d’en faire soit présente ! Écris-nous si jamais l’une de tes craintes reste sans réponse 💌 #poledance #poleart #polesport #pole #poledancer #polecommunity #polebeginner #lausanne #crissier #yverdon #monthey #gland #fitness
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/462705232_1081518193378076_6327777912912842330_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=IkafpfT5TC0Q7kNvgH71YdN&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYAZBkbGyuGcy856Wu3_jFnHm88lptxZT5yys04RdIJsFw&oe=67251768)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/462705232_1081518193378076_6327777912912842330_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=18de74&_nc_ohc=IkafpfT5TC0Q7kNvgFjqyyt&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDbizbqWtlbh0dJg8_bLagTcOvsWSpVedo2auhLaZ8ZOQ&oe=672668E8)
 
 Rdv sur notre site et l’onglet « Stages » pour en apprendre davantage sur le contenu des stages et les pré requis 💪🏼 Si tu as des questions, on reste disponible par message 💖 #poledance #poleart #polesport #pole #poledancer #workshops #poleworkshops #polestudio #lausanne
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/462192662_1102327801893477_3666359314009299039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=oUnwVoRUj_cQ7kNvgGmEeOA&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYAUww3fSmVSELrNEG2BCRxBsxmvZvS-f1-91_MXBkaHIg&oe=67251682)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/462192662_1102327801893477_3666359314009299039_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=AIOUE_FyqqEQ7kNvgGShjFo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYC_KKvKAz8Vwl9Ap8C74SlL-DOO4Des63OcEZATQ9544g&oe=67266802)
 
 On trouve de tout pour s'amuser chez Pole-Emotion : chair dance, danse en talons, pole sportive, Pilates, yoga, cerceau aérien, full body, pole Exotic, trampoline, souplesse, cuisses-abdos-fessiers, Piloxing, Zumba... Viens essayer !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461961718_1501090423918750_1976108997396910381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=CAbPJ5YqeP8Q7kNvgFMNAzJ&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDz03HZlJXgOOu7OW6pBaxGRQ6jM7jRsICZIioHZg2aVA&oe=67253643)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461961718_1501090423918750_1976108997396910381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=nfywfsNEIdsQ7kNvgG7LAve&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYARh3kRfC6DDvvclWI76hzqN62Q-20H4KyrHJ5kz3890w&oe=672687C3)
 
 On le sait, quand on commence la pole, il y a plein de termes utilisés qu’on ne comprend pas et on ose pas forcément poser la question pour assouvir notre curiosité ! 🙃 Voici donc un rapide résumé des styles de pole que tu peux retrouver notamment dans les compétitions. Évidemment, il existe encore plusieurs nuances et sous-catégories : on t’en parlera sur cette page dans les prochains mois. D’ailleurs, en parlant de compétition, réserve tes journées et soirées du 23 au 27 octobre car le championnat du monde IPSF aura lieu et sera disponible en streaming !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461610057_1096827695776821_1147317757465315035_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=jhYFF603oSIQ7kNvgHeG6Jk&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYC0KKaLsWidNAsvU-2Gl9jUXDtkSdlafh1m4awoiWzvhw&oe=67252475)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461610057_1096827695776821_1147317757465315035_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=jhYFF603oSIQ7kNvgG7KJXf&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYACf2Ilp0ZHBTomg47CXuRcl3o1Z7lHCU_TdUfe_CWTpA&oe=672675F5)
 
 Chez Pole-Emotion tu trouveras une communauté faite de femmes généreuses, fortes et passionnées, prêtes à t'accueillir avec le sourire à chacun de tes cours. #poledance #poleart #polesport #pole #poledancer #polefriends #polecommunity
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461509318_507520372062295_3006619102203465315_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=g-Zy-YIWSicQ7kNvgHZrGuu&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDsF3LOVjpEED_vUdwIKvknAt0LQqeg6ykXEgJjyisV3g&oe=67253696)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461509318_507520372062295_3006619102203465315_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=g-Zy-YIWSicQ7kNvgHrv7cg&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAAMLIHppRB8tXHpm9M_rjnhKhkZ4bBsTqe8wnmRzxkKg&oe=67268816)
 
 Les figures du niveau First te servent de base pour toute ta future pratique de la pole : tu apprends à tirer, à pousser, à te soulever et à t’accrocher en toute sécurité avant de tester des figures plus avancées avec des inversions. 🙋🏻‍♀️ Ces dernières sont à travailler même pour les poleuses plus avancées car elles forment une excellente base de renforcement, ce qui réduit le risque de blessures et te permet de tenir tes figures plus longtemps et de rendre tes combos gracieux et fluides. Et toi, ça t’arrive de les travailler à nouveau ? 👇🏻
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460921037_1090207446438846_2850386601095360332_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=4W7sjRT985kQ7kNvgGzEjR_&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDW3DjB0V1moUQvx6QTAuwXl5hddWFtabosyKDTHe5DKQ&oe=6725102C)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460921037_1090207446438846_2850386601095360332_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=4W7sjRT985kQ7kNvgHrb0oD&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDR6niI4hsZnn_d7eSwh2V8crH9IIDQSwy5vWHxd-3beQ&oe=672661AC)
 
 Transforme chaque jour de ta vie en une danse exaltante 💃
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461182663_1042248000463032_4392832401564697037_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dwRvKcfSI_gQ7kNvgEeDjbo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYA1j1ZsSLSc_nezxSBTuh9nrU7t14iJ21v7MVZrexQWPw&oe=67251B4A)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/461182663_1042248000463032_4392832401564697037_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=dwRvKcfSI_gQ7kNvgFP_Ysx&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYAWDISTTorVdpeWDTF6j8iSzW_OVGKy8FC5xPGZItGLyQ&oe=67266CCA)
 
 ☝️ Un post d’utilité publique ! 😌 Les élèves du cours suivant te seront reconnaissantes et les barres pourront t’apporter de la joie plus longtemps. 🫶 Merci beaucoup !
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461082149_1090202283106029_4024489061149813019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=XqA66rX06FwQ7kNvgEKWySI&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDLwNsHOAOXEnhY9ZMJRjtE-_hLZQoVQztlCYp4Ib0WAw&oe=672511E6)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/461082149_1090202283106029_4024489061149813019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=18de74&_nc_ohc=XqA66rX06FwQ7kNvgEaPHfl&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDFLpuwGAn8Pm6sDvMAeeUqBcEYgny7kfz05ys8NGiT5w&oe=67266366)
 
 Confiance en soi, force et élégance en pleine action 💪✨ #PoleDance #Empowerment
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/459754993_467161506323553_8738083694092694747_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=3VTn16pb6CkQ7kNvgGI6uiY&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDllmVxgaaLglu-Ndm4wrCl4kCyxm6PhQmUlvNXuKqY_Q&oe=67250AD4)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/459754993_467161506323553_8738083694092694747_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=3VTn16pb6CkQ7kNvgFujhCh&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYARcD1FnwmYKMOtsRs609pQRaX7fCCpZ4jrdA8L1Xavxg&oe=67265C54)
 
 Ces figures servent de base pour la suite de ta pratique de la pole, c’est pourquoi elles sont si importantes à acquérir et maîtriser (des deux côtés, évidemment !) 🤗 Il t’en reste beaucoup à valider ? 👇🏻
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460236998_1085738836885707_2728855894946608391_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=IwBmClIkzooQ7kNvgHB9BYo&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDPoXkAbwUwCJ2v42y6swIxa6sxH84B7KGAFRvQlOCM6A&oe=67253636)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/460236998_1085738836885707_2728855894946608391_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=nJWtghwvLOsQ7kNvgHvFy9C&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYBA8VKIJH5s3AViVdd9uJcpVCup2Vho8mLiaPGGObKb3g&oe=672687B6)
 
 Le sport entre amies, c'est plus que de l'effort, c'est de l'énergie partagée, des connexions renforcées et des souvenirs pour la vie.
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458795968_1079334380859486_3299268070137670554_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=-3y2i1sM52QQ7kNvgEKcPVX&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYDq3I_NJWfzZFDQcaGM310xrux7SKn_f3FgLZikQiNaZQ&oe=67250E2E)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458795968_1079334380859486_3299268070137670554_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=oHyEHzKaOzcQ7kNvgG4AHZr&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AZvjx8qZzo8iVQI10jQiddr&oh=00_AYDaCp8UxJ-WNeAXJV5sDbPqVz992CSuUKaU8521anClVg&oe=67265FAE)
 
 🤫 On a une bonne nouvelle pour toi : toutes ces compétences, tu vas les acquérir progressivement et surtout, sans t’en rendre compte ! 🤓 À chacun de tes cours, ton cerveau aura assimilé ce que tu lui as demandé de faire la fois d’avant et cela te semblera plus facile de semaines en semaines. 💡 La pole est un sport technique et grâce aux explications de ta prof, tu sauras utiliser les bons placements pour que la figure soit réussie et élégante, sans te prendre la tête ! #poledance #poleart #polesport #pole #poledancer #polebeginner #mindsetmatters
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/459103304_1079306717528919_7228341307639966535_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=0Ap65nQtFB8Q7kNvgHsWuUR&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=AUxarAQP1DgazFgD24HYwBv&oh=00_AYCn9OEgg00W6VinNdPtVB9nhgsTDbOoQa--pZzOMwXyZw&oe=67251238)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/459103304_1079306717528919_7228341307639966535_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=18de74&_nc_ohc=0Ap65nQtFB8Q7kNvgHPTNPN&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYDRfYI3jTRG102g_bczXihQCI244Ke8TxFqGFTQNlkDNw&oe=672663B8)
 
 🧚‍♀️ Et toi, quel accessoire tu as déjà utilisé pour danser et pimper ta choré ? De notre côté, il y a eu des chapeaux, un parapluie, des plumes et même un doudou ! #poledance #poleart #chairdance #shootingphoto #dance #accessories #accessoires
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458769904_1079298700863054_9169168036187248338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=vmyhATGu_x0Q7kNvgHSF9h7&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYDciInuOEqZ4_apgW6QVv4DImqUES7lS6LBKnJ6iPGPAw&oe=67251DB2)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458769904_1079298700863054_9169168036187248338_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=18de74&_nc_ohc=InLW4pyA1PYQ7kNvgHJRHv7&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYCkdWD5CpSCx67P6YnnPpJ8ZM03D51MioM6orxb6p4ZtA&oe=67266F32)
 
 L'une des forces de Pole-Emotion, c'est sa liberté d'inscription aux cours (viens quand tu le veux, sans obligation !) et pour cela, nous te proposons deux types d'abonnements selon ton rythme de vie : 🧘‍♀️ Tu préfères venir 1x par semaine ? L'abonnement Freedom est fait pour toi. 💪 Tu aimes te défouler 2-3x par semaine ou plus ? Dans ce cas, c'est l'abonnement illimité qu'il te faut. \*Les prix varient si tu paies en une fois ou mensuellement, retrouve les détails ici : https://app.pole-emotion.ch/tarifs/ #poledance #poleart #polesport #pole #poledancer #polefitness #fitness #abonnements #tarifs #poleemotion
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458669155_18368280367100834_7910685212152141355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=NuMFYQkgkmYQ7kNvgEd8jq8&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYCn26LDF3kme238Rkxyj_3DqQtwLuGd0FY4jYzjeYNd7A&oe=67251E91)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458669155_18368280367100834_7910685212152141355_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=NuMFYQkgkmYQ7kNvgEwlTSZ&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYBhMUkXfdQ3rohvK_BeLGnT8o8LcWsRHsJ-GFS2VGtc_g&oe=67267011)
 
 💆🏻‍♀️💆🏼‍♀️💆🏽‍♀️ On ne le répétera jamais assez : la pole est un sport exigeant pour le corps ! Ce dernier mérite donc de recevoir les meilleurs soins afin de te porter dans toutes les figures que tu rêves de faire. ⚠️ Et ne vas pas croire que cela concerne uniquement les poleuses de plus haut niveau ! Ces recommandations sont à appliquer dès tes premiers cours. ℹ️ Tu aimerais recevoir plus de conseils sur ta pratique de la pole au quotidien ? Pose-nous tes questions en commentaire ou en message privé. #poledance #poleart #polesport #pole #poledancer #lifestyle #sportlifestyle
 
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458145257_18367613701100834_317096379735867816_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=qu1ORzqPYK4Q7kNvgGLNNus&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYABpWYGTRoEDPjzsw3E1_DhPncvFRTWS7v8rfgkodf1Lw&oe=67252D66)
+![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/458145257_18367613701100834_317096379735867816_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=18de74&_nc_ohc=qu1ORzqPYK4Q7kNvgEBdX8F&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=ADURtY2OZWbLwsEXP2uZM4a&oh=00_AYAZRnhITxUjIWHYFetx6BU30Uu6hrja1Vb8rjkhOZQahg&oe=67267EE6)
 
-🥳 C’est l’heure de prendre cet abonnement qui te fait de l’œil depuis quelques semaines ! 🎉 Profite de 50% de rabais sur tout nouvel achat d’abonnement de 3 mois « illimités ». Celui-ci te permettra de profiter de tous nos cours dans toutes nos salles ! Utilise le code promo « YOUPI » au moment de valider l’achat pour en profiter. (Offre non valable si tu es déjà cliente chez Pole-Emotion) 💪🏼 Il ne te reste plus qu’à faire une liste de toutes les choses que tu as envie d’apprendre d’ici la fin de l’année et de t’inscrire à nos différents cours !
-
-![](https://scontent-zrh1-1.cdninstagram.com/v/t39.30808-6/457323926_18367246276100834_4289507456922517393_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=18de74&_nc_ohc=rCQzAV7c4ugQ7kNvgGBNhF5&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A9gFlxYpL7C1blbpCv8SAjr&oh=00_AYDqUQxyaWKfwBJHbH5JMPcdu0qEhLfEngjAxV_qWtPR6Q&oe=67251E28)
-
-Après la théorie, voici la pratique 👀 Tu as lu notre dernier post qui t’expliquait les principes des différents styles que tu peux retrouver dans le monde de la pole ? C’est la pointe émergente de l’iceberg, car ceux-ci se déclinent encore en pole sport, pole flow, pole exotic Old School et bien d’autres que nous serions ravies de vous expliquer de manière plus approfondie. Dans ce post, on te montre en images ce que donnent ces trois grands principes 👉🏻 • #poledance #poleart #polesport #pole #poledancer #polespin #polestatic #polexotic](https://www.instagram.com/pole_emotion/)
+🥳 C’est l’heure de prendre cet abonnement qui te fait de l’œil depuis quelques semaines ! 🎉 Profite de 50% de rabais sur tout nouvel achat d’abonnement de 3 mois « illimités ». Celui-ci te permettra de profiter de tous nos cours dans toutes nos salles ! Utilise le code promo « YOUPI » au moment de valider l’achat pour en profiter. (Offre non valable si tu es déjà cliente chez Pole-Emotion) 💪🏼 Il ne te reste plus qu’à faire une liste de toutes les choses que tu as envie d’apprendre d’ici la fin de l’année et de t’inscrire à nos différents cours !](https://www.instagram.com/pole_emotion/)
 
 Pole-Emotion
 
