@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![John Shuttleworth. Graham Fellows](https://cdn.comedy.co.uk/images/library/people/300x200/j/john_shuttleworth_2025.jpg "John Shuttleworth. Graham Fellows")](https://www.comedy.co.uk/live/random8/john-shuttleworth/) Live
+
+[Random 8: John Shuttleworth](https://www.comedy.co.uk/live/random8/john-shuttleworth/)
+
 [![The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland](https://cdn.comedy.co.uk/images/library/misc/300x200/h/horne_section_2024.jpg "The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/) Live
 
 [The Horne Section, Maisie Adam, Rhys Nicholson, Ed Night - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece](https://cdn.comedy.co.uk/images/library/misc/300x200/g/ghost_huns.jpg "Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece")](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/) Live
 
 [Ghost Huns are set for their live Halloween show](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/)
-
-[![Edy Hurst. Credit: Andy Hollingworth](https://cdn.comedy.co.uk/images/library/people/300x200/e/edy_hurst_witch.jpg "Edy Hurst. Credit: Andy Hollingworth")](https://www.comedy.co.uk/live/fgwg/edy-hurst/) Live
-
-[First Gig, Worst Gig: Edy Hurst](https://www.comedy.co.uk/live/fgwg/edy-hurst/)
 
 #### Subscribe to our newsletters
 
