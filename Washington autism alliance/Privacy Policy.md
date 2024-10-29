@@ -154,11 +154,11 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABDAQAAAABWicHTAAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUUAqAAAFPAABh2z/ogAAAABJRU5ErkJggg==)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-in-spanish/?occurrence=2024-11-21)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/08/Understanding-Applied-Behavior-AnalysisABA-Medium-Banner-US-Landscape-1-150x67.jpeg)](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-798/?occurrence=2024-11-21)
     
     Nov 21 2024
     
-    #### [Understanding Applied Behavior Analysis (ABA) in Spanish](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-in-spanish/?occurrence=2024-11-21)
+    #### [Understanding Applied Behavior Analysis (ABA) in Spanish](https://washingtonautismalliance.org/events/understanding-applied-behavior-analysis-aba-798/?occurrence=2024-11-21)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
