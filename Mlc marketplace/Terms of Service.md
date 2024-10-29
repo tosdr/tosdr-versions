@@ -1,7 +1,3 @@
-□
-
-                                                                        Terms & Conditions - Muscat Livestock                                               
-
 [Skip to content](#main-content)
 
  
@@ -716,11 +712,3 @@ Close
 Close
 
 [cart](https://mls.om/cart)
-
-1
-
-Add to cart
-
-Remove all
-
-Powered by [Salepify App](https://apps.shopify.com/salepify?utm_source=powered&utm_medium=merchant-store&utm_campaign=partnership2024)
