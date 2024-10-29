@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Demenz und Alzheimer: Leben mit Demenz bewusst gestalten](https://www.test.de/Demenz-und-Alzheimer-Leben-mit-Demenz-bewusst-gestalten-5903437-0/ "Demenz und Alzheimer - Leben mit Demenz bewusst gestalten")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [Immobilie erben: Haus geerbt – was jetzt zu tun ist](https://www.test.de/Haus-geerbt-6092774-0/ "Immobilie erben - Haus geerbt – was jetzt zu tun ist")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Service Stiftung Warentest
 
