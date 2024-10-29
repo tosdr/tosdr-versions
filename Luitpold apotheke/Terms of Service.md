@@ -541,6 +541,7 @@ Unsere Marken
 
 * [Rezepte](https://www.medikamente-per-klick.de/rezepte)[](https://www.medikamente-per-klick.de/schmerzen)
 * [E-Rezept](https://www.medikamente-per-klick.de/e-rezept)
+* [E-Rezept einlösen](https://www.medikamente-per-klick.de/e-rezept-einloesen)
 * [Glossar](https://www.medikamente-per-klick.de/glossar)
 * [FAQ](https://www.medikamente-per-klick.de/FAQ "FAQ")
 * [Newsletter](https://service.medikamente-per-klick.de/anmelden/index.html)
@@ -649,4 +650,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=cfbhwwkrjagtrpwrmdbznrfflznfhrdo&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=ppahwmcjbidfpqnvnwzevibfmxzcdhnm&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
