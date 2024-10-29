@@ -33,14 +33,13 @@ SUPPORT
 [![Brand](/assets/images/logos-companies/eurodns-logo-blue.svg)](https://www.eurodns.com/)
 
 * [DOMAIN NAMES](https://www.eurodns.com/domain-name-search)
+* [WEB SECURITY](https://www.eurodns.com/web-security-suite)New
 * [WORDPRESS](https://www.eurodns.com/managed-wordpress-hosting)
 * [WEB HOSTING](https://www.eurodns.com/plesk-web-hosting)
 * [MICROSOFT](https://www.eurodns.com/office-microsoft-365)
 * [SSL](https://www.eurodns.com/ssl-certificate)
 * [EMAIL](https://www.eurodns.com/email-cloud-suite)
 * [DNS](https://www.eurodns.com/dns-services)
-* [BUSINESS](https://www.eurodns.com/business)
-* [BLOG](https://www.eurodns.com/blog)
 
 * [MY ACCOUNT](https://my.eurodns.com/login)
 * [HELP](https://help.eurodns.com/)
@@ -112,10 +111,10 @@ Legacy
 
 #### Latest blog articles
 
+* 29.10.2024[EuroDNS Web Security Suite: Your Complete Web Protection is Here](https://www.eurodns.com/blog/web-security-suite-launch)
+* 29.10.2024[Web Security Suite 101: Key Features Explained](https://www.eurodns.com/blog/web-security-suite-101)
+* 29.10.2024[Getting Started: Activate and Set Up Your Web Security Suite](https://www.eurodns.com/blog/getting-started-activate-set-up-web-security-suite)
 * 24.10.2024[90-Day SSL Certificates: What’s Changing and How to Stay Ahead](https://www.eurodns.com/blog/shift-to-90-day-ssl-certificates)
-* 17.10.2024[The End of the .IO Domain?](https://www.eurodns.com/blog/end-of-io-domain)
-* 15.10.2024[Cybersecurity for SMBs: Why Current Solutions Fall Short and What’s Next](https://www.eurodns.com/blog/cybersecurity-solutions-smb)
-* 03.10.2024[5 Key Steps to Improve WordPress Hosting for Multilingual Sites](https://www.eurodns.com/blog/optimise-wordpress-hosting-multilingual-sites)
 
 #### Domain Name Discounts
 
@@ -136,6 +135,10 @@ Legacy
 * [New TLDs](https://www.eurodns.com/domain-extensions/new-tlds)
 * [Domain Privacy](https://www.eurodns.com/domain-privacy)
 * [Whois](https://www.eurodns.com/whois-search)
+
+* #### [Web Security](https://www.eurodns.com/web-security-suite)
+    
+* [Web Security Suite](https://www.eurodns.com/web-security-suite)
 
 * #### [WordPress](https://www.eurodns.com/managed-wordpress-hosting)
     
