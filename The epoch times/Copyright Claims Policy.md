@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://www.theepochtimes.com/us/us-home-sales-poised-for-worst-year-since-1995-as-lock-in-effect-persists-5749770)
+* [Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/uploads/2016/12/02/AP16337427815453-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
+* [Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://www.theepochtimes.com/us/supreme-court-rejects-rfk-jr-s-request-to-remove-his-name-from-ballots-in-2-swing-states-5750130)
+    
+    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723186-09102024-DSC08867-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-rejects-rfk-jr-s-request-to-remove-his-name-from-ballots-in-2-swing-states-5750130)
+* [Biden Announces $3 Billion Investment for US Port Upgrades](https://www.theepochtimes.com/business/biden-announces-3-billion-investment-for-us-port-upgrades-5750011)
     
     NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Announces $3 Billion Investment for US Port Upgrades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Home Sales Poised for Worst Year Since 1995 as ‘Lock-in Effect’ Persists](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738746-GettyImages-1529791883KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-home-sales-poised-for-worst-year-since-1995-as-lock-in-effect-persists-5749770)
-* [Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://www.theepochtimes.com/article/day-in-photos-georgian-election-protest-diplomatic-briefing-and-national-no-day-5749459)
+    ![Biden Announces $3 Billion Investment for US Port Upgrades](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750149-GettyImages-2181131258-205x123.jpg.webp)](https://www.theepochtimes.com/business/biden-announces-3-billion-investment-for-us-port-upgrades-5750011)
+* [Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://www.theepochtimes.com/us/automatic-refunds-now-in-effect-for-flight-delays-cancellations-5750104)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    1hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
     
-    [![Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Georgian Election Protest, Diplomatic Briefing, and National ‘No’ Day](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749429-GettyImages-2180878594-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-georgian-election-protest-diplomatic-briefing-and-national-no-day-5749459)
-* [Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://www.theepochtimes.com/us/steve-bannon-released-from-prison-after-serving-4-months-for-contempt-of-congress-5749735)
+    ![Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750139-travellers-AP23179735274014-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/automatic-refunds-now-in-effect-for-flight-delays-cancellations-5750104)
+* [Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://www.theepochtimes.com/business/washington-post-hit-with-canceled-subscriptions-resignations-over-non-endorsement-5749935)
     
-    NEW By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Steve Bannon Released From Prison After Serving 4 Months for Contempt of Congress](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672739-bannon-in-dc-205x123.jpg.webp)](https://www.theepochtimes.com/us/steve-bannon-released-from-prison-after-serving-4-months-for-contempt-of-congress-5749735)
-* [With 1 Week Until Election Day, Candidates Make Closing Arguments](https://www.theepochtimes.com/us/with-1-week-until-election-day-candidates-make-closing-arguments-5749763) 
+    ![Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750135-Washington-Post-GettyImages-175646326-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/washington-post-hit-with-canceled-subscriptions-resignations-over-non-endorsement-5749935)
+* [Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://www.theepochtimes.com/us/speaker-johnson-clarifies-his-little-secret-with-trump-nothing-scandalous-5749945)
     
-    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![With 1 Week Until Election Day, Candidates Make Closing Arguments ](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![With 1 Week Until Election Day, Candidates Make Closing Arguments ](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747994-Kamala-Harris-Donald-Trump-6-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/with-1-week-until-election-day-candidates-make-closing-arguments-5749763)
-* [Israel Bans Aid Agency UNRWA From Operating in Country](https://www.theepochtimes.com/world/israel-bans-aid-agency-unrwa-from-operating-in-country-5749654)
+    ![Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741097-Mike-Johnson-AP24262005068159-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-clarifies-his-little-secret-with-trump-nothing-scandalous-5749945)
+* [Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://www.theepochtimes.com/health/study-links-high-dose-hormonal-iuds-to-increased-breast-cancer-risk-5749010)
     
-    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![Israel Bans Aid Agency UNRWA From Operating in Country](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Bans Aid Agency UNRWA From Operating in Country](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749718-GettyImages-1960206191-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-bans-aid-agency-unrwa-from-operating-in-country-5749654)
-* [US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://www.theepochtimes.com/world/us-coast-guard-to-expand-presence-cooperation-in-indo-pacific-amid-china-concerns-5749568)
+    ![Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://img.theepochtimes.com/assets/uploads/2022/07/20/IUD-205x123.jpeg.webp)](https://www.theepochtimes.com/health/study-links-high-dose-hormonal-iuds-to-increased-breast-cancer-risk-5749010)
+* [Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://www.theepochtimes.com/us/federal-judge-dismisses-republican-lawsuit-over-verification-for-overseas-ballots-5749914)
     
-    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Coast Guard to Expand Presence, Cooperation in Indo-Pacific Amid China Concerns](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749709-GettyImages-1532304750-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-coast-guard-to-expand-presence-cooperation-in-indo-pacific-amid-china-concerns-5749568)
-* [Harris Pitches Herself to Michigan Workers in 3-city Swing](https://www.theepochtimes.com/us/harris-pitches-herself-to-michigan-workers-in-3-city-swing-5749451)
+    ![Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750092-federal-courthouse-AP24303596012914-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-dismisses-republican-lawsuit-over-verification-for-overseas-ballots-5749914)
+* [Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://www.theepochtimes.com/us/republicans-get-boost-with-5-percent-early-lead-in-nevada-voting-5749973)
     
-    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Harris Pitches Herself to Michigan Workers in 3-city Swing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Pitches Herself to Michigan Workers in 3-city Swing](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749787-10262024-DSC07551-Kamala-Harris-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-pitches-herself-to-michigan-workers-in-3-city-swing-5749451)
-* [Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://www.theepochtimes.com/us/nearly-50-million-americans-have-already-cast-ballots-in-2024-election-5749611)
+    ![Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://img.theepochtimes.com/assets/uploads/2024/02/22/id5592975-GettyImages-1244613374-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-get-boost-with-5-percent-early-lead-in-nevada-voting-5749973)
+* [US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://www.theepochtimes.com/us/us-property-taxes-jump-30-percent-nationwide-since-2019-report-5749970)
     
-    6hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nearly 50 Million Americans Have Already Cast Ballots in 2024 Election](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749784-GettyImages-2175877578-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-50-million-americans-have-already-cast-ballots-in-2024-election-5749611)
-* [AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
-    
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749715-GettyImages-1244414689-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
-* [EU Signals Rekindled Interest in Nuclear Power](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
-    
-    7hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749790-GettyImages-1242862600-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
+    ![US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743195-GettyImages-2154182627_web-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-property-taxes-jump-30-percent-nationwide-since-2019-report-5749970)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
