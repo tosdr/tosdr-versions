@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![AI Boom Puts Pressure on America’s Water Supply, JPMorgan Warns](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749432-GettyImages-1244414689-205x123.jpg.webp)](https://www.theepochtimes.com/us/ai-boom-puts-pressure-on-americas-water-supply-jpmorgan-warns-5749388)
+* [EU Signals Rekindled Interest in Nuclear Power](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
+    
+    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![EU Signals Rekindled Interest in Nuclear Power](https://img.theepochtimes.com/assets/uploads/2023/03/15/GettyImages-1242862600-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-signals-rekindled-interest-in-nuclear-power-5747690)
 * [US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Treasury Plans to Borrow $1.37 Trillion Over Next 6 Months](https://img.theepochtimes.com/assets/uploads/2024/10/id5745812-1.tagreuters.com2024binary_LYNXMPEK9L0L2-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-treasury-plans-to-borrow-1-369-trillion-over-next-6-months-5749368)
 * [USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![USA Today Will Not Endorse Trump or Harris, Joining Washington Post and LA Times](https://img.theepochtimes.com/assets/uploads/2023/06/02/id5308678-USA-Today-newspaper-205x123.jpg.webp)](https://www.theepochtimes.com/us/usa-today-will-not-endorse-trump-or-harris-joining-washington-post-and-la-times-5749499)
 * [Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
     
-    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    9hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Ask Supreme Court to Halt Pennsylvania Ruling on Provisional Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5749538-Penn-mail-ballot-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-ask-supreme-court-to-halt-pennsylvania-ruling-on-provisional-ballots-5749482)
 * [Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
     
-    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Wisconsin Opposes RFK Jr.’s Supreme Court Application to Take His Name Off Ballot](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719606-Kennedy-GettyImages-2167258349-205x123.jpg.webp)](https://www.theepochtimes.com/us/wisconsin-opposes-rfk-jr-s-supreme-court-application-to-take-his-name-off-ballot-5749369)
 * [North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
     
-    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    12hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
     [![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![North Carolina Hurricane Survivors Determined to Vote Despite Devastating Losses](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749405-download6-205x123.jpg.webp)](https://www.theepochtimes.com/article/north-carolina-hurricane-survivors-determined-to-vote-despite-devastating-losses-5748188)
 * [US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
     
-    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    12hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US Issues Final Rule Curbing Investments in Sensitive Technology Development in China](https://img.theepochtimes.com/assets/uploads/2023/02/02/Semicon-China-205x123.jpg.webp)](https://www.theepochtimes.com/china/treasury-issues-final-rule-curbing-us-investments-in-sensitive-technology-development-in-china-5749318)
 * [Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
     
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    12hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hundreds of Ballots Destroyed in Oregon and Washington Ballot Box Fires](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749323-Election_2024_Ballot_Box_Fires_24302618769266-205x123.jpg.webp)](https://www.theepochtimes.com/us/hundreds-of-ballots-destroyed-in-oregon-and-washington-ballot-box-fires-5749179)
 * [76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![76 Percent of Americans Are Worried About Post-Election Violence: Poll](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589460-02172024-DSC01207-I-voted-205x123.jpg.webp)](https://www.theepochtimes.com/us/76-percent-of-americans-are-worried-about-post-election-violence-poll-5749231)
-* [Polls Are Tight as New York House Races Near the Finish Line](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
-    
-    7hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Polls Are Tight as New York House Races Near the Finish Line](https://img.theepochtimes.com/assets/uploads/2024/10/24/id5747323-New-York-Senate-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/polls-are-tight-as-new-york-house-races-near-the-finish-line-5749326)
-* [Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
-    
-    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Wants US to Stay in NATO, but Others Need to Do More: Vance](https://img.theepochtimes.com/assets/uploads/2024/07/06/id5681368-2022-05-12T082426Z_1_LYNXNPEI4B0C8_RTROPTP_4_NATO-DEFENCE-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-wants-us-to-stay-in-nato-but-others-need-to-do-more-vance-5749171)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
