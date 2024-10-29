@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2178103296-scaled.jpg?ve=1&tl=1)
+ [![1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-2.jpg?ve=1&tl=1)
 
- ![Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2178103296-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-world-series-game-3)
+ ![1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-week-until-election-day-harris-trump-pitches)
 
-### [Dodgers beat Yankees to hold commanding 3-0 series lead in Fall Classic](https://www.fox4news.com/news/dodgers-world-series-game-3)
+### [1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://www.fox4news.com/news/1-week-until-election-day-harris-trump-pitches)
 
- [![Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-robert-roberson-case-1030p_00.01.09.54.jpg?ve=1&tl=1)
+ [![Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mohamid-ali-mug-prepro.png?ve=1&tl=1)
 
- ![Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-robert-roberson-case-1030p_00.01.09.54.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-state-representative-death-row-inmate-judge-michelle-slaughter-text-messages)
+ ![Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mohamid-ali-mug-prepro.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mohamid-ali-irving-arrest-scamming-arrest)
 
-### [Texas attorney general accuses Jeff Leach of sending 'unethical' text messages in Robert Roberson case](https://www.fox4news.com/news/plano-state-representative-death-row-inmate-judge-michelle-slaughter-text-messages)
+### [Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://www.fox4news.com/news/mohamid-ali-irving-arrest-scamming-arrest)
 
- [![Problem gambling grows along with revenue, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1189425765.jpg?ve=1&tl=1)
+ [![North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/venezuelan-gang.png?ve=1&tl=1)
 
- ![Problem gambling grows along with revenue, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1189425765.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/online-gambling-addiction-concerns-us)
+ ![North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/venezuelan-gang.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
 
-### [Problem gambling grows along with revenue, study finds](https://www.fox4news.com/news/online-gambling-addiction-concerns-us)
+### [North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
 
- [![How do Puerto Rican voting rights work?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/puerto-rican-flag.jpg?ve=1&tl=1)
+ [![Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162600246.jpg?ve=1&tl=1)
 
- ![How do Puerto Rican voting rights work?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/puerto-rican-flag.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/puerto-rican-voting-rights-what-to-know)
+ ![Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162600246.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-presidential-election-october-29-2024)
 
-### [How do Puerto Rican voting rights work?](https://www.fox4news.com/news/puerto-rican-voting-rights-what-to-know)
+### [Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-presidential-election-october-29-2024)
 
- [![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gisele.jpg?ve=1&tl=1)
+ [![Apple Intelligence has arrived. Here's how to update your device to get it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/apple-ai.jpg?ve=1&tl=1)
 
- ![Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gisele.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
+ ![Apple Intelligence has arrived. Here's how to update your device to get it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/apple-ai.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/apple-intelligence-os-18-1-how-to-update-ipad-iphone)
 
-### [Model Gisele Bündchen expecting child with boyfriend Joaquim Valente: Reports](https://www.fox4news.com/news/model-gisele-bundchen-expecting-child-boyfriend-joaquim-valente-reports-2024)
+### [Apple Intelligence has arrived. Here's how to update your device to get it](https://www.fox4news.com/news/apple-intelligence-os-18-1-how-to-update-ipad-iphone)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
