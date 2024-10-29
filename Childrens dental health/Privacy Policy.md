@@ -122,7 +122,7 @@ ix. Our Right to Change Our Privacy Practices and This Notice – We reserve the
 
 If you have any complaints about your privacy rights or how your health information has been used or disclosed, you may file a complaint with us by contacting our Privacy Official listed on the first page of this Notice. You may also file a written complaint with the Secretary of the U.S. Department of Health and Human Services, Office for Civil Rights. We will not retaliate against you in any way if you choose to file a complaint.
 
-[Privacy Policy](https://www.iubenda.com/privacy-policy/86961303 "Privacy Policy") [Cookie Policy](https://www.iubenda.com/privacy-policy/86961303/cookie-policy "Cookie Policy")
+[Privacy Policy](https://www.iubenda.com/privacy-policy/86961303 "Privacy Policy ")[Cookie Policy](https://www.iubenda.com/privacy-policy/86961303/cookie-policy "Cookie Policy ")
 
 ### Our Locations
 
