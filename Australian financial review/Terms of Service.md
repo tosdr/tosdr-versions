@@ -324,7 +324,6 @@ Advertise
 
 ### [Cheap at half the price: these security cameras shine bright](https://www.afr.com/technology/cheap-at-half-the-price-these-security-cameras-shine-bright-20241024-p5kl28)
 
-* 55 mins ago
 * John Davidson
 
 * ### [Two rock star chefs, one unique Sydney Opera House ‘performance’](https://www.afr.com/life-and-luxury/food-and-wine/two-rock-star-chefs-one-unique-sydney-opera-house-performance-20241022-p5kkeg)
@@ -335,7 +334,7 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![James Packer is sitting pretty off the back of booming tech stocks.](https://static.ffx.io/images/$zoom_0.3873%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cb7a0321d2914c7f1550a27e6a64ab050a71291b)](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
+[![James Packer is sitting pretty off the back of booming tech stocks.](https://static.ffx.io/images/$zoom_0.4159%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_92/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cb7a0321d2914c7f1550a27e6a64ab050a71291b)](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
 
 ### [Packer in $120m payday as big bets on Nvidia, Meta pay off](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
 
