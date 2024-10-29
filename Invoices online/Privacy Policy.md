@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=200343274)  
-Lizzy Pop PTY(Ltd)
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=17721742)  
+Tiny Cuddles Photography
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=129693550)  
-Alliance Energy
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=211724358)  
+Sarabi
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=50924621)  
-McKaynine Mobility
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=161085549)  
+NGB HOLDINGS PTY LTD
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=69729748)  
-FX ACCOUNTING
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=18164900)  
-Gemini-IT Group
-
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=154223561)  
-SafeTclip
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=183089777)  
-AMS Ambu Medical Supplies
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=43684559)  
-Bchange Online CC
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=164039910)  
-Qothiphango Mining
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=40328811)  
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=130505592)  
 MR Compressors& Industrial Supplies
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=76628194)  
-MONSTER CONNECT (PTY) LTD
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=157300538)  
+Waterfinatics Swim School
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=146709954)  
-Cooper Logistics (Pty) Ltd
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=123817544)  
+Meyer Towing & Recovery
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=175351336)  
-Redlum Group (Pty) Ltd
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=206471132)  
+J.M. HUMAN RESOURCES
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=90735874)  
-Digifax Pty) Ltd t/a Findfish
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=135998879)  
+NWET Pty LTD
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=f48bc456c68aa76f962e6e02b6f4306a6555e088629c00f83c5814141088ba7a&c=179646954)  
-SLOANE STAR MEAT MARKET
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=171618901)  
+Mtunzini Group
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=151437209)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=117014693)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=26453467)  
+OptaServ
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=63568944)  
+Van Der Merwe Olieverspreiders
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=86251947)  
+Norton Medical & Consult - Namibia
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=af65edaa9615fb8e205d4ec533845db92ecf4fb492c80cc4af75e6e9d6e51238&c=127723615)  
+Firstweb Hosting & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
