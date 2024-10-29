@@ -12,7 +12,7 @@
 1. [Science](https://www.thehindu.com/sci-tech/science/)
 2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 [FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton)[GIFT a Subscription![Gift](https://www.thehindu.com/theme/images/th-online/myaccount-gift-black-icon.svg "Icon")](https://www.thehindu.com/subscription/gift/?tpcc=giftasubs) [Subscribe](https://www.thehindu.com/subscription/) LOGIN [ACCOUNT ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/)[PREMIUM ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/) 
@@ -32,7 +32,7 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 1. [Science](https://www.thehindu.com/sci-tech/science/)
 2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 * [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
@@ -45,7 +45,7 @@ Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-onli
 1. [Science](https://www.thehindu.com/sci-tech/science/)
 2. [Data](https://www.thehindu.com/data/)
 3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/)
+4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
 5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
 
 * [News](https://www.thehindu.com/news/)
@@ -521,7 +521,7 @@ Read in App
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [Israel strikes on Iran LIVE](https://www.thehindu.com/news/international/israel-strikes-iran-retaliation-west-asia-crisis-reaction-live-updates-oct-26-2024/article68798867.ece) [IND vs NZ 2nd Test Day 3 Live Updates](https://www.thehindu.com/sport/cricket/india-vs-new-zealand-2nd-test-day-3-live-updates/article68798912.ece) [50% hike in prices of commonly used drugs](https://www.thehindu.com/sci-tech/health/why-did-the-govt-sanction-a-50-hike-in-prices-of-commonly-used-drugs/article68786521.ece) [Indian hockey team beats Germany 5-3](https://www.thehindu.com/sport/hockey/hockey-test-india-men-vs-germany-men-second-test-in-new-delhi-on-october-24-2024/article68791409.ece) [Israel plans to ‘empty’ Gaza Strip of Palestinians: Mahmoud Abbas](https://www.thehindu.com/news/international/israel-plans-to-empty-gaza-strip-of-palestinians-mahmoud-abbas/article68791768.ece) [Jose Mourinho gets red card against Man United](https://www.thehindu.com/sport/football/jose-mourinho-gets-red-card-against-man-united-as-fenerbahce-holds-on-for-draw-in-europa-league/article68793471.ece) [Germany gives India special status for military purchase approvals](https://www.thehindu.com/news/national/germany-gives-india-special-status-for-military-purchase-approvals/article68788008.ece) [Iran strike will show the world Israel’s might: Defence chief Yoav Gallant](https://www.thehindu.com/news/international/iran-strike-will-show-the-world-israels-might-defence-chief-yoav-gallant/article68788881.ece) [Justice Sanjiv Khanna to take oath as Chief Justice of India on November 11](https://www.thehindu.com/news/national/justice-sanjiv-khanna-to-take-oath-as-chief-justice-of-india-on-11-11-2024/article68792732.ece)
+[News](https://www.thehindu.com/news/) [PM Modi launches projects worth ₹12,850 crore](https://www.thehindu.com/news/national/pm-modi-launches-projects-worth-12850-crore-extends-ayushman-bharat-for-all-over-70-years/article68809852.ece) [Jio’s Diwali Dhamaka plan](https://www.thehindu.com/sci-tech/technology/jios-diwali-dhamaka-plan-offers-year-long-prepaid-plan-for-3599/article68809574.ece) [Brazil becomes second BRICS country not to join BRI](https://www.thehindu.com/news/international/brazil-becomes-second-brics-country-after-india-not-to-join-chinas-bri/article68809530.ece) [‘Vijay 69’ trailer](https://www.thehindu.com/entertainment/movies/vijay-69-trailer-anupam-kher-stars-in-an-age-defying-tale-of-pursuing-dreams/article68809561.ece) [Bomb threats to airlines](https://www.thehindu.com/news/national/maharashtra/bomb-threats-to-airlines-nagpur-cops-identify-man-behind-series-of-hoax-threats-suspect-on-the-run/article68809899.ecehttps:/www.thehindu.com/news/national/maharashtra/bomb-threats-to-airlines-nagpur-cops-identify-man-behind-series-of-hoax-threats-suspect-on-the-run/article68809899.ece) [iQOO 13 will get a rear floating halo light](https://www.thehindu.com/sci-tech/technology/iqoo-13-will-get-a-halo-light-aimed-at-gamers/article68809341.ece) [Kaala Bhairava](https://www.thehindu.com/entertainment/movies/raghava-lawrence-film-with-ramesh-varma-titled-kaala-bhairava/article68809684.ece) [Army vehicle was fired upon in Battal area](https://www.thehindu.com/news/national/army-vehicle-was-fired-upon-in-battal-area-search-for-terrorists-underway-near-border-village-in-jammu/article68805330.ece) [Spanish PM Sanchez arrives in Vadodara](https://www.thehindu.com/news/national/spanish-pm-sanchez-arrives-in-vadodara-for-india-visit/article68805126.ece)
 
 ##### Trending on Group sites
 
