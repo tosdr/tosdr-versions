@@ -156,6 +156,8 @@ Resources
 
 [![](https://firedrumemailmarketing.com/wp-content/uploads/2016/08/expertise_com-1.png "expertise_com")](https://www.expertise.com/az/scottsdale/digital-marketing-agencies)
 
+[![sourceforge-firedrum-fall](https://firedrumemailmarketing.com/wp-content/uploads/2016/08/sourceforge-firedrum-fall.png "expertise_com")](https://www.expertise.com/az/scottsdale/digital-marketing-agencies)
+
 More Solutions
 
 * [Email Templates](https://firedrumemailmarketing.com/custom-email-templates/)
