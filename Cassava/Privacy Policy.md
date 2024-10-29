@@ -19,8 +19,8 @@ Light Dark System
 Privacy Policy
 ==============
 
-_Last updated: June 17, 2024_
------------------------------
+_Last updated: October 27, 2024_
+--------------------------------
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise to never sell your data.
 
@@ -209,10 +209,10 @@ We will retain your information as long as your account is active, as necessary 
 
 We will also retain and use this information as necessary for the purposes set out in this policy and to the extent required to comply with our legal obligations, resolve disputes, enforce our agreements and protect Cassavarose LLC's legal rights.
 
-You can choose to delete your Cassava account at any time by making a request to Customer Support at support@gocassava.com. We will review the request and direct you to the steps to proceed. Upon approval, we will permanently delete all your data in our live database when you delete your account. Data in our backups may persist until those backups are purged.
+You can choose to delete your Cassava account at any time. Refer to the [Account Deletion and Termination](https://gocassava.com/terms#accountdeletion) section in the Terms of Service for more information.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Changes & questions
 ===================
@@ -235,13 +235,13 @@ Submit
 
 [Back to top](#top)
 
-v3.1.1.02d5198© 2024 Cassavarose LLC. All rights reserved
+v3.1.2.bbc0f00© 2024 Cassavarose LLC. All rights reserved
 
  [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
 
- [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
+ [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
- [![Why Compliance Training Sucks and How You can Fix It](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
+ [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
 
 Company
 
