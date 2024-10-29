@@ -8,7 +8,7 @@
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refill Packs](https://www.blueland.com/collections/refills)
-    * [Holiday Shop 🎁](https://www.blueland.com/collections/holiday-shop)
+    * [Holiday Shop 🎁](https://www.blueland.com/holiday)
     
     Offset
     
@@ -39,8 +39,8 @@ Toggle navigation menu
 0
 
 * [Shop All](https://www.blueland.com/collections/all)
-* [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Holiday Shop 🎁](https://www.blueland.com/holiday)
+* [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
 * [Hand Soap](https://www.blueland.com/collections/soaps)
