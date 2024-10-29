@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [‘Labor big spenders’ myth can finally be laid to rest](https://independentaustralia.net/article-display/labor-big-spenders-myth-can-finally-be-laid-to-rest,19110 "Permanent Link : ‘Labor big spenders’ myth can finally be laid to rest")
+* [Global youth justice methods a lesson for Australia](https://independentaustralia.net/article-display/global-youth-justice-methods-a-lesson-for-australia,19116 "Permanent Link : Global youth justice methods a lesson for Australia")
+* [Trump can be lawless — Kamala must be flawless](https://independentaustralia.net/article-display/trump-can-be-lawless-kamala-must-be-flawless,19112 "Permanent Link : Trump can be lawless — Kamala must be flawless")
 * [U.S. elections: Rough times ahead as Trump edges ahead in polls](https://independentaustralia.net/article-display/us-elections-rough-times-ahead-as-trump-edges-ahead-in-polls,19113 "Permanent Link : U.S. elections: Rough times ahead as Trump edges ahead in polls")
 * [Never a better time for PM Albanese to sever UK ties](https://independentaustralia.net/article-display/never-a-better-time-for-pm-albanese-to-sever-uk-ties,19111 "Permanent Link : Never a better time for PM Albanese to sever UK ties")
 * [POEM: Sonnet on a failure](https://independentaustralia.net/article-display/poem-sonnet-on-a-failure,19109 "Permanent Link : POEM: Sonnet on a failure")
 * [Unsubscribing: It's easy! Said no one... ever](https://independentaustralia.net/article-display/unsubscribing-its-easy-said-no-one-ever,19106 "Permanent Link : Unsubscribing: It's easy! Said no one... ever")
-* [John Williamson — The man among the gum trees](https://independentaustralia.net/article-display/john-williamson--the-man-among-the-gum-trees,19097 "Permanent Link : John Williamson —  The man among the gum trees")
-* [Get rid of running the gauntlet — bring back Democracy Sausages](https://independentaustralia.net/article-display/get-rid-of-running-the-gauntlet-bring-back-democracy-sausages,19108 "Permanent Link : Get rid of running the gauntlet — bring back Democracy Sausages")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
