@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Disha and Sumanth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Disha and Sumanth](https://image.wedmegood.com/resized/250X/uploads/images/2e5a2654cc2945ada7d1647a31b80e36realwedding/MINCHU-156.jpeg?crop=182,1012,1633,918)
+
+Disha and Sumanth (Bangalore)](https://www.wedmegood.com/real_wedding/detail/disha-and-sumanth-bangalore-kannada-wedding-4419)
+
 [![Nikita and Philippe](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Nikita and Philippe](https://image.wedmegood.com/resized/250X/uploads/images/1baadfbd05c44dd580f07a0af22711ddrealwedding/Snapinsta.app_457518821_18455163016055408_385776897293784825_n_1080.jpg?crop=113,483,858,482)
 
 Nikita and Philippe (Udaipur)](https://www.wedmegood.com/real_wedding/detail/nikita-and-philippe-udaipur-cross-culture-wedding-4416)
-
-[![Lavina and Dharmesh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Lavina and Dharmesh](https://image.wedmegood.com/resized/250X/uploads/images/6395969358d345b7bed68add0b1a6d54realwedding/WK900491.jpg?crop=316,355,1626,914)
-
-Lavina and Dharmesh (Mumbai)](https://www.wedmegood.com/real_wedding/detail/lavina-and-dharmesh-mumbai-cross-culture-wedding-4415)
 
 Browse by Category
 
