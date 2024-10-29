@@ -1,4 +1,4 @@
-Trustwave's 2024 Financial Services Threat Reports Highlight Alarming Trends in Insider Threats & Phishing-as-a-Service. [Learn More](https://info.trustwave.com/2024-spiderlabs-threat-report-on-financial-services-sector)
+Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwaves-2024-retail-report-series-highlights-alarming-e-commerce-threats-and-growing-fraud-against-retailers/)
 
 * [Contact Us](https://www.trustwave.com/en-us/company/contact/)
 * [Login](javascript:void(0))
@@ -75,7 +75,7 @@ Trustwave's 2024 Financial Services Threat Reports Highlight Alarming Trends in 
     
 * 
 
-Trustwave's 2024 Financial Services Threat Reports Highlight Alarming Trends in Insider Threats & Phishing-as-a-Service. [Learn More](https://info.trustwave.com/2024-spiderlabs-threat-report-on-financial-services-sector)
+Trustwave's 2024 Retail Report Series Highlights Alarming E-Commerce Threats and Growing Fraud Against Retailers. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwaves-2024-retail-report-series-highlights-alarming-e-commerce-threats-and-growing-fraud-against-retailers/)
 
 [Request a Demo](#navdemo-form)
 
