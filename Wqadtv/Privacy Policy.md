@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/fa9f980a-7222-4485-aa73-714724025fcd/fa9f980a-7222-4485-aa73-714724025fcd_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/rock-falls-shooting-early-monday-morning/526-4c5b01bd-14b4-4e7c-878b-2a9abbc1ef67)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-community-dinner-ending-cancelled/526-bdbcca01-36a7-4b78-a039-91859565e19a)
         
-        #### [Police: Man injured in Rock Falls shooting](https://www.wqad.com/article/news/local/public-safety/rock-falls-shooting-early-monday-morning/526-4c5b01bd-14b4-4e7c-878b-2a9abbc1ef67)
+        #### [A QC Thanksgiving tradition is coming to an end](https://www.wqad.com/article/news/local/mr-thanksgiving-community-dinner-ending-cancelled/526-bdbcca01-36a7-4b78-a039-91859565e19a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99/20241028T221450/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99/20241028T221450/0f1f2f6d-254a-434b-8cb5-8bc0e355ee99_360x203.jpg)](https://www.wqad.com/article/news/local/cambridge-illinois-ffa-receives-national-award/526-c188b0d4-befe-4c1b-adfb-2ecd3fa575d5)
         
-        #### [Tickets now on sale to rock out with the Trans-Siberian Orchestra in Moline](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a) [![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0c67dba-9812-458a-a985-201da8169e60/20241028T221835/c0c67dba-9812-458a-a985-201da8169e60_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
+        #### [Cambridge FFA receives national award for Spanish learning program](https://www.wqad.com/article/news/local/cambridge-illinois-ffa-receives-national-award/526-c188b0d4-befe-4c1b-adfb-2ecd3fa575d5)
         
-        #### [Tickets now on sale to see the Trans-Siberian Orchestra in Moline this holiday season](https://www.wqad.com/article/news/local/the-current/trans-siberian-orchestra-moline-december-20-tickets-20-million-donated/526-4bd53506-9f52-4d03-97a4-065afaa1928a)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/92512300-92b3-451d-a037-ec8305c3f753/20241028T121710/92512300-92b3-451d-a037-ec8305c3f753_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/92512300-92b3-451d-a037-ec8305c3f753/20241028T121710/92512300-92b3-451d-a037-ec8305c3f753_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b53bedfb-25f6-4c37-80f9-584cebb5e160/20241028T230134/b53bedfb-25f6-4c37-80f9-584cebb5e160_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b53bedfb-25f6-4c37-80f9-584cebb5e160/20241028T230134/b53bedfb-25f6-4c37-80f9-584cebb5e160_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [More record warmth likely this week along with a lot of wind](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-68°
+70°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
