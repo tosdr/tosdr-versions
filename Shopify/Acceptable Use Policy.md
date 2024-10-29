@@ -87,12 +87,9 @@
     * [Outsource fulfillment & returns.
         
         Shopify Fulfillment Network](https://www.shopify.com/fulfillment)
-    * [Get paid faster.
+    * [Manage your finances & access funding.
         
-        Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business funding.
-        
-        Shopify Capital](https://www.shopify.com/capital)
+        Shopify Finance](https://www.shopify.com/finance)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
