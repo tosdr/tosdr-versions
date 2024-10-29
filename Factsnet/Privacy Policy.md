@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Tiniest Houses ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22101%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/35-facts-about-tiniest-houses/)
+[![50 Facts About Dysautonomia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2291%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-dysautonomia/)
 
-Lifestyle
+Health Science
 
-28 Oct 2024
+29 Oct 2024
 
-[35 Facts About Tiniest Houses](https://facts.net/lifestyle/35-facts-about-tiniest-houses/)
+[50 Facts About Dysautonomia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-dysautonomia/)
 
-[![50 Facts About Lepidolite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-lepidolite/)
+[![30 Facts About Banking In Colombia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/30-facts-about-banking-in-colombia/)
 
-Earth Sciences
+Society & Social Sciences
 
-28 Oct 2024
+29 Oct 2024
 
-[50 Facts About Lepidolite](https://facts.net/earth-and-life-science/earth-sciences/50-facts-about-lepidolite/)
+[30 Facts About Banking In Colombia](https://facts.net/society-and-social-sciences/30-facts-about-banking-in-colombia/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
