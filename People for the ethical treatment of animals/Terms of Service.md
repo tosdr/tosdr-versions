@@ -115,7 +115,7 @@
     * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
     * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-    * [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
+    * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/ "PETA Global")
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
@@ -202,7 +202,7 @@
     * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
     * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-    * [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
+    * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/ "PETA Global")
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
@@ -224,7 +224,7 @@
 * [Intern](https://www.peta.org/about-peta/intern-at-peta/ "Intern")
 * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
 * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
-* [PETA Global](https://www.peta.org/magazine/issue-3-summer-2024/ "PETA Global")
+* [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/ "PETA Global")
 
 Terms and Conditions
 ====================
