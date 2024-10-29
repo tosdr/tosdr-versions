@@ -1,5 +1,7 @@
 ![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)   
 
+Only Selling Natural Diamonds
+
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
 [](javascript:void(0);)[Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
@@ -231,11 +233,11 @@ Change Currency
 
 [**Shop All**](https://www.icebox.com/results/travel-cases) [**Men's**](https://www.icebox.com/results/travel-cases?gender[]=Male) [**Women's**](https://www.icebox.com/results/travel-cases?gender[]=Female) [Watches](https://www.icebox.com/results/travel-cases?sub[]=Watches) [Jewelry](https://www.icebox.com/results/travel-cases?sub[]=Jewelry) [Travel](https://www.icebox.com/results/travel-cases?sub[]=Travel) [Sunglasses](https://www.icebox.com/results/travel-cases?sub[]=Sunglasses) [Trays](https://www.icebox.com/results/travel-cases?sub[]=Trays)
 
-##### Shopping Cart (0)
+##### My Cart (0)
 
-Your Cart Is EmptyAdd more diamonds to your life! [Start Shopping](https://www.icebox.com/)
+![](/themes/default/frontend/oct-2023/assets/fedex.svg) Guaranteed & Insured Shipping
 
-[Go To Checkout](https://www.icebox.com/cart)
+Cart Is EmptyAdd more diamonds to your life! [Start Shopping](https://www.icebox.com/)
 
 #### Login to Icebox with OTP Enter your phone number and we'll send you a 4 digit code.
 
