@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Many thanks for your super fast service - I was up and running again within 5 minutes of logging the problem!!
+Very good and promt service. Thank you!
 
-George Michie
+Rene Karolyi
