@@ -243,6 +243,20 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[Ready to tackle 313 stairs down to California’s ![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
+Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
+Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
+⚡️Save for your trip to Northern California⚡️
+@pointreyesnps @visitcalifornia
+#PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
+Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
+Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
+⚡️Save for your trip to Northern California⚡️
+@pointreyesnps @visitcalifornia
+#PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBrAOgyvE34/) 
+
 [If you’re heading to the #NorthernCalifornia t ![If you’re heading to the #NorthernCalifornia town of Sebastopol, then these are my favorite restaurants to add to your bucket list!
 (💫 SAVE for planning your trip to Northern #California💫)
 SEBASTOPOL, CALIFORNIA RESTAURANTS
@@ -306,32 +320,6 @@ Drop your number in the comments! 👇 I’m at 20 cities (and counting)!
 ![The average traveler has seen 3 of these European cities. How many have you checked off your bucket list?! 🤔
 Drop your number in the comments! 👇 I’m at 20 cities (and counting)! 
 #bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories #traveltheworld #worldtraveler #travelmore #travellover #europe #europeancities](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA_Owu-vy0S/) 
-
-[If you’re heading to the #NorthernCalifornia coa ![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
-⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
-Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
-1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
-2️⃣ Spud Point Crab Company - The clam chowder here has won awards for a reason (soooo good!). Oh, and the crab sandwich? It’s LOADED with 1/4 pound of crab. 🦞 Just be prepared to wait—there’s always a line, but it’s worth it! 
-3️⃣ @rockeroysterfellerslucaswharf - Southern comfort meets seafood heaven. Their oysters Rockefeller are mainly what people come for, but their clam chowder was one of my favs! And if you’re lucky, you might just spot some seals while you dine 🦭  
-4️⃣ The Birds Cafe - Part seafood joint, part coffee shop, and part gift shop (yes, adorable). Their calamari totally won me over, and their fish & chips is an absolute must-try! Casual but perfect for a bite with a view. 🎣 
-5️⃣ Gourmet Au Bay - Seafood and wine with a view? Yes, please! Their wood-fired smoke clam pizza and crab cakes are 🔥. This place has more than seafood, but trust me, the seafood is where it’s at. 🍷 
-6️⃣ Drakes Sonoma Coast - Farm-to-table goodness with serious coastal vibes. It’s at @lodgeatbodegabay (which was just voted #1 hotel in the WORLD by @condenast!) So yeah, this place is fancy by Bodega Bay standards, but the seafood lives up to it🍴 
-7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
-Which one do you want to try? 😋 Let me know in the comments! 👇
-@visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
-⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
-Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
-1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
-2️⃣ Spud Point Crab Company - The clam chowder here has won awards for a reason (soooo good!). Oh, and the crab sandwich? It’s LOADED with 1/4 pound of crab. 🦞 Just be prepared to wait—there’s always a line, but it’s worth it! 
-3️⃣ @rockeroysterfellerslucaswharf - Southern comfort meets seafood heaven. Their oysters Rockefeller are mainly what people come for, but their clam chowder was one of my favs! And if you’re lucky, you might just spot some seals while you dine 🦭  
-4️⃣ The Birds Cafe - Part seafood joint, part coffee shop, and part gift shop (yes, adorable). Their calamari totally won me over, and their fish & chips is an absolute must-try! Casual but perfect for a bite with a view. 🎣 
-5️⃣ Gourmet Au Bay - Seafood and wine with a view? Yes, please! Their wood-fired smoke clam pizza and crab cakes are 🔥. This place has more than seafood, but trust me, the seafood is where it’s at. 🍷 
-6️⃣ Drakes Sonoma Coast - Farm-to-table goodness with serious coastal vibes. It’s at @lodgeatbodegabay (which was just voted #1 hotel in the WORLD by @condenast!) So yeah, this place is fancy by Bodega Bay standards, but the seafood lives up to it🍴 
-7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
-Which one do you want to try? 😋 Let me know in the comments! 👇
-@visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA3ZhVAvMd2/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
