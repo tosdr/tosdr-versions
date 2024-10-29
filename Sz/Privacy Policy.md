@@ -43,7 +43,7 @@ Falls Sie sich bei uns beworben haben, finden Sie [hier](https://jobs.swmh.de/Va
 Datenschutz im Überblick
 ------------------------
 
-### Welche Daten erfassen wir von Ihnen?
+### Welche Daten erfassen wir?
 
 * Bestandsdaten (z.B. Namen, Adressen)
 * Kontaktdaten (z.B. E-Mail, Telefonnummern)
@@ -53,11 +53,11 @@ Datenschutz im Überblick
 * Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten)
 * Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen, ID)
 
-### Wie erheben wir Ihre Daten?
+### Wie erheben wir die Daten?
 
 Die Daten, die beim Aufrufen unserer digitalen Angebote anfallen, erheben wir automatisiert. Ansonsten erheben wir Daten auf Grund Ihrer Eingaben bzw. Mitteilungen oder durch den Einsatz von Cookies oder ähnlichen Technologien.
 
-### Wofür nutzen wir Ihre Daten?
+### Wofür nutzen wir die Daten?
 
 **Bereitstellung der Inhalte**
 
@@ -109,7 +109,7 @@ Die Daten, die beim Aufrufen unserer digitalen Angebote anfallen, erheben wir au
 * [Eigenvermarktung von Anzeigen](#Anzeigeneigenvermarktung)
 * [Fremdvermarktung durch Dritte](#OBA)
 
-### Geben wir Ihre Daten weiter?
+### Geben wir die Daten weiter?
 
 Sofern Sie eingewilligt haben oder wir anderweitig gesetzlich dazu befugt sind, geben wir Ihre personenbezogenen Daten für die oben genannten Zwecke an Dienstleister (z.B. Hosting, Marketing, Vertriebspartner) weiter. In solchen Fällen beachten wir die gesetzlichen Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
 
@@ -119,13 +119,13 @@ Wir übermitteln personenbezogene Daten an andere Unternehmen innerhalb unserer 
 
 Zur Nutzung unserer digitalen Angebote kann eine Übermittlung bestimmter personenbezogener Daten in Drittländer, also Länder, in denen die DSGVO nicht geltendes Recht ist, erforderlich sein. Wir lassen eine Verarbeitung Ihrer Daten in einem Drittland jedoch nur zu, wenn die besonderen Voraussetzungen der Art. 44 ff. DSGVO und damit die Gewährleistung eines angemessenen Datenschutzniveaus in dem Land erfüllt sind. Das bedeutet, für das Drittland muss entweder ein Angemessenheitsbeschluss der Europäischen Kommission vorliegen oder geeignete Garantien gem. Art. 46 DSGVO oder eine der Voraussetzungen des Art. 49 DSGVO. **Sofern im Folgenden nichts anderes angegeben ist, verwenden wir als geeignete Garantien die jeweils gültigen [Standardvertragsklauseln](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32021D0914&from=DE "aktuelle Version der Standardvertragsklauseln") für die Übermittlung personenbezogener Daten an Auftragsverarbeiter in Drittländern.**
 
-### Wie sichern wir Ihre Daten?
+### Wie sichern wir die Daten?
 
 Um Ihre Privatsphäre zu schützen und ein dem Risiko angemessenes Schutzniveau zu gewährleisten, treffen wir nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen technische und organisatorische Maßnahmen, die regelmäßig überprüft und angepasst werden. Die Maßnahmen sichern die Vertraulichkeit, Integrität, Verfügbarkeit und Belastbarkeit Ihrer Daten. Hierzu gehört unter anderem die Verwendung anerkannter Verschlüsselungsverfahren (SSL oder TLS) und Pseudonymisierungen.
 
 Wir weisen Sie jedoch darauf hin, dass es aufgrund der Struktur des Internets möglich ist, dass die Regeln des Datenschutzes und die o. g. Sicherungsmaßnahmen von anderen, nicht innerhalb unseres Verantwortungsbereichs liegenden Personen oder Institutionen nicht beachtet werden. Insbesondere können unverschlüsselt preisgegebene Daten – z. B. wenn dies per E-Mail erfolgt – von Dritten mitgelesen werden. Wir haben technisch hierauf keinen Einfluss.
 
-### Wann löschen wir Ihre Daten?
+### Wann löschen wir die Daten?
 
 Wir löschen oder anonymisieren Ihre personenbezogenen Daten, sobald sie für die Zwecke, für die wir sie erhoben oder verwendet haben, nicht mehr erforderlich sind.
 
