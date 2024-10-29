@@ -99,26 +99,26 @@ Top downloads
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
 * [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
-* [Rogue](https://www.myabandonware.com/game/rogue-4n)
+* [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
 
 [List of top downloads](https://www.myabandonware.com/game/ "See the Top 40 Games")
 
 Latest releases
 
-* [Virtua Tennis](https://www.myabandonware.com/game/virtua-tennis-g5e)
-* [Virtua Tennis 3](https://www.myabandonware.com/game/virtua-tennis-3-qdd)
-* [Virtua Striker 2](https://www.myabandonware.com/game/virtua-striker-2-sl6)
-* [Xtom 3D](https://www.myabandonware.com/game/xtom-3d-g0a)
-* [FIFA Soccer 97](https://www.myabandonware.com/game/fifa-soccer-97-8by)
+* [Gomoku Narabe & Reversi Tōryūmon](https://www.myabandonware.com/game/gomoku-narabe-reversi-toryumon-t2n)
+* [Ganso Jajamaru-kun](https://www.myabandonware.com/game/ganso-jajamaru-kun-t2m)
+* [Fishing Freaks: BassRise for WonderSwan](https://www.myabandonware.com/game/fishing-freaks-bassrise-for-wonderswan-t2l)
+* [Fire Pro Wrestling](https://www.myabandonware.com/game/fire-pro-wrestling-t2k)
+* [Final Lap 2000](https://www.myabandonware.com/game/final-lap-2000-t2j)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Graeme Souness Vector Soccer](https://www.myabandonware.com/game/graeme-souness-vector-soccer-70z)
-* [Colour Playhouse](https://www.myabandonware.com/game/colour-playhouse-o8d)
-* [Chō Aniki: Kyūkyoku Muteki Ginga Saikyō Otoko](https://www.myabandonware.com/game/cho-aniki-kyukyoku-muteki-ginga-saikyo-otoko-pck)
+* [Shining Force III: Scenario 3](https://www.myabandonware.com/game/shining-force-iii-scenario-3-ne7)
+* [Nekkyū Kōshien](https://www.myabandonware.com/game/nekkyu-koshien-p4e)
+* [Space Force](https://www.myabandonware.com/game/space-force-sde)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
