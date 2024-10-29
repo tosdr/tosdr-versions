@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Sharing the news that smoking negatively impacts t ![Sharing the news that smoking negatively impacts the oral microbiome may help push patients toward tobacco cessation. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBq56nlMopd/) 
+
 [This case study explores the management and treatm ![This case study explores the management and treatment of peri-implantitis in a 40-year-old patient 5 years post-implant loading. Detailed surgical intervention, including osseous resective surgery and the replacement of an implant abutment and crown, highlights advancements in addressing peri-implant disease and underscores the need for personalized maintenance plans for long-term implant health. Link in bio.⁠
 ⁠
 ⁠
@@ -218,13 +225,6 @@ By Liliana Aranguren, DDS, MDSc ⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBeB7cVNLKF/) 
-
-[Research from the University of Pittsburgh shows t ![Research from the University of Pittsburgh shows that targeting the immune system with CCL2-loaded microparticles can prevent and treat periodontal diseases by reducing bone loss and promoting repair. This innovative approach offers new hope for patients with aggressive forms of the disease that are resistant to traditional treatments. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBbdIdFtK3e/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
