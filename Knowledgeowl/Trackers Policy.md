@@ -62,6 +62,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Structure template (sample)](https://www.knowledgeowl.com/help/structure-template)
             * [Copy an existing article](https://www.knowledgeowl.com/help/copy-existing-article)
             * [Share articles between categories and knowledge bases](https://www.knowledgeowl.com/help/share-articles-between-categories-and-kbs)
+            * [Generate article from title](https://www.knowledgeowl.com/help/generate-article-from-title)
             * [URL redirect article](https://www.knowledgeowl.com/help/url-redirect-article)
         * [Edit an article](https://www.knowledgeowl.com/help/edit-article)
             
@@ -688,6 +689,15 @@ Table of Contents Table of Contents Toggle navigation
         * [Use the Modern Slideout Widget on Single Page Applications](https://www.knowledgeowl.com/help/using-the-widget-on-single-page-applications)
         * [Modern Widget + Zendesk Contact Form](https://www.knowledgeowl.com/help/modern-widget-zendesk-contact-form)
         * [Deprecation of Modern & Legacy widget](https://www.knowledgeowl.com/help/deprecation-of-modern-legacy-widget)
+    * [Linus Assist](javascript:void(0);)
+        
+        * [What is Linus Assist?](https://www.knowledgeowl.com/help/what-is-linus-assist)
+        * [Enable Linus Assist](https://www.knowledgeowl.com/help/enable-linus-assist)
+        * [Generate your first article](https://www.knowledgeowl.com/help/use-linus-assist-for-free)
+        * [Generate new article from title](https://www.knowledgeowl.com/help/generate-new-article-from-title)
+        * [Generate content for an existing article](https://www.knowledgeowl.com/help/use-linus-assist-article-editor)
+        * [Add your own OpenAI API key to Linus Assist](https://www.knowledgeowl.com/help/add-your-own-openai-api-key-to-linus-assist)
+        * [Interruption to Linus Assist](https://www.knowledgeowl.com/help/interruption-to-linus-assist)
 * [Search](https://www.knowledgeowl.com/help/knowledgeowl-search)
     
     * [How search works: the basics](https://www.knowledgeowl.com/help/how-search-works-the-basics)
