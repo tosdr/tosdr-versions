@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Good VibesChris Janson<br><br>5:40pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>5:37pm |
-| Back Then Right NowTyler Hubbard<br><br>5:33pm |
-| Are You Gonna Kiss Me Or NotThompson Square<br><br>5:24pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>5:21pm |
+| You ProofMorgan Wallen<br><br>11:41pm |
+| I Never LieZach Top<br><br>11:38pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>11:28pm |
+| Wind Up Missing YouTucker Wetmore<br><br>11:26pm |
+| The Kind Of Love We MakeLuke Combs<br><br>11:22pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,6 +495,10 @@ State
 Featured Brands
 ---------------
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -506,10 +510,6 @@ Top 40 • Pacific NW
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
