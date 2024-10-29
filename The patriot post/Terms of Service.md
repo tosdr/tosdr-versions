@@ -1,10 +1,10 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111449-mid-day-digest-2024-10-28?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111481-mid-day-digest-2024-10-29?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111449-mid-day-digest-2024-10-28?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111481-mid-day-digest-2024-10-29?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -201,20 +201,21 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34430)
+     [](https://patriotpost.us/cartoons/34436)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Rich Lowry No, Trump Is Not a Fascist](https://patriotpost.us/opinion/111420-no-trump-is-not-a-fascist-2024-10-28)
-*      [Tony Perkins There Is No Morality Without the Truth of God](https://patriotpost.us/opinion/111418-there-is-no-morality-without-the-truth-of-god-2024-10-28)
-*      [Gary Bauer Hysterical Hillary](https://patriotpost.us/opinion/111416-hysterical-hillary-2024-10-28)
-*      [The Washington Stand Cuba’s Power Disaster Underscores Socialist Failures, Threat of Infiltration by U.S. Adversaries](https://patriotpost.us/opinion/111419-cubas-power-disaster-underscores-socialist-failures-threat-of-infiltration-by-us-adversaries-2024-10-28)
-*      [Guest Commentary Türkiye Threat](https://patriotpost.us/opinion/111421-turkiye-threat-2024-10-28)
-*      [The Babylon Bee Trump Accused of Inappropriately Touching the Hearts of Millions of Americans](https://patriotpost.us/opinion/111417-trump-accused-of-inappropriately-touching-the-hearts-of-millions-of-americans-2024-10-28)
-*      [Matthew Continetti It Takes Guts to Predict the 2024 Election](https://patriotpost.us/opinion/111405-it-takes-guts-to-predict-the-2024-election-2024-10-26)
-*      [Allen West Who, and What, Is Supreme in These United States?](https://patriotpost.us/opinion/111407-who-and-what-is-supreme-in-these-united-states-2024-10-26)
+*      [Tim Young 5 Reasons Kamala Isn’t Going to Win the 2024 Presidential Election](https://patriotpost.us/opinion/111451-5-reasons-kamala-isnt-going-to-win-the-2024-presidential-election-2024-10-29)
+*      [Salena Zito In a Struggling Town, Musk Discusses ‘Purpose’](https://patriotpost.us/opinion/111463-in-a-struggling-town-musk-discusses-purpose-2024-10-29)
+*      [Daniel McCarthy Kamala Harris Targets Married Women](https://patriotpost.us/opinion/111462-kamala-harris-targets-married-women-2024-10-29)
+*      [Stephen Moore Dead Wrong Again — Nobel Economists Put Partisanship Over Economic Common Sense](https://patriotpost.us/opinion/111461-dead-wrong-again-nobel-economists-put-partisanship-over-economic-common-sense-2024-10-29)
+*      [Gary Bauer MAGA Square Garden](https://patriotpost.us/opinion/111460-maga-square-garden-2024-10-29)
+*      [Victor Joecks In Daniel Penny Case, NYC Has Put Batman on Trial](https://patriotpost.us/opinion/111459-in-daniel-penny-case-nyc-has-put-batman-on-trial-2024-10-29)
+*      [Cal Thomas Mike Johnson as Clark Kent](https://patriotpost.us/opinion/111458-mike-johnson-as-clark-kent-2024-10-29)
+*      [The Washington Stand Dear Christian, Are You Able to Discern When Scripture Is Being Manipulated?](https://patriotpost.us/opinion/111465-dear-christian-are-you-able-to-discern-when-scripture-is-being-manipulated-2024-10-29)
+*      [The Babylon Bee Progress: Trump Holds Most Ethnically Diverse, Pro-Israel Nazi Rally in History](https://patriotpost.us/opinion/111464-progress-trump-holds-most-ethnically-diverse-pro-israel-nazi-rally-in-history-2024-10-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,13 +229,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The ultimate arbiter is the people of the Union.” —Thomas Jefferson (1823)
+“The right of freely examining public characters and measures, and of free communication among the people thereon … has ever been justly deemed the only effectual guardian of every other right.” —James Madison (1798)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
