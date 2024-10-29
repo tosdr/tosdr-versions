@@ -69,7 +69,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Subscribe & Save
     
-    $135 ~ $17/LB
+    $145 ~ $18/LB
     
     You can prepare this by cooking
     
