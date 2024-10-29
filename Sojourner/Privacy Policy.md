@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9215312e3d57777c6628db02c497b34d
+9c5814396b96095a88ec555f5ef53466
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm by 18 vintage Czech glass four-sided oval beads](https://www.sojourner.biz/images/cache/glass/GL0165.200.jpg)](https://www.sojourner.biz/beads/glass/20-mm-by-18-vintage-czech-glass-four-sided-oval-beads.html "20 mm by 18 vintage Czech glass four-sided oval beads")
+[![8 mm banded rondelles](https://www.sojourner.biz/images/cache/glass/GL0241.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-banded-rondelles.html "8 mm banded rondelles")
 
-#### [20 mm by 18 vintage Czech glass four-sided oval beads](https://www.sojourner.biz/beads/glass/20-mm-by-18-vintage-czech-glass-four-sided-oval-beads.html "20 mm by 18 vintage Czech glass four-sided oval beads")
+#### [8 mm banded rondelles](https://www.sojourner.biz/beads/glass/8-mm-banded-rondelles.html "8 mm banded rondelles")
 
-$10.00
+$4.00
 
 ### Best Sellers
 
@@ -191,14 +191,14 @@ $10.00
     $28.00
 6. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-8. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://www.sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Mother-of-pearl box clasp](https://www.sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://www.sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Black and white playful cat sauce dish](https://www.sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
