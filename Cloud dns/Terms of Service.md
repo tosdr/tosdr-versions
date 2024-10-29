@@ -359,7 +359,7 @@ By continuing to access or use Our Service after those revisions become effectiv
 * [Secondary DNS](https://www.cloudns.net/secondary-dns/)
 * [DNSSEC](https://www.cloudns.net/dnssec/)
 * [DNS backups](https://www.cloudns.net/dns-backups/)
-[](https://www.cloudns.net/dns-backups/)* [](https://www.cloudns.net/dns-backups/)[Anycast DNS](https://www.cloudns.net/anycast-dns/)
+* [Anycast DNS](https://www.cloudns.net/anycast-dns/)
 * [Email Forwarding](https://www.cloudns.net/email-forwarding/)
 * [Domain names](https://www.cloudns.net/domain-pricing-list/)
 * [Private DNS servers](https://www.cloudns.net/private-dns-servers/)
