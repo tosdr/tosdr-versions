@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
+* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
     
-* [Using Backup4all - FAQ 3](https://www.backup4all.com/using-backup4all-faq-kb.html)  
+* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
     
-* [Backup strategy: run a full backup locally an ...](https://www.backup4all.com/backup-strategy-make-a-full-backup-locally-and-subsequent-incremental-backups-to-ftp-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
-* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
+* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
     
-* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
+* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
     
 
 Choose language:
