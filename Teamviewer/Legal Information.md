@@ -690,11 +690,11 @@ We share also collect, use, and share data and personal data with other entities
 **Privacy Notice for TeamViewer Products**
 ------------------------------------------
 
-_Version as of May 7th, 2024_
+_Version as of October 29th, 2024_
 
-TeamViewer Germany GmbH and its affiliates take protection of your personal data very seriously. Personal data means any information relating to an identified or identifiable natural person, such as name, address, email-addresses, IP address, or user behavior etc. The following document (“**Privacy Notice**”) provides you with information about the processing of personal data in relation to your use of our Software and Services as described and defined in the [End User License Agreement](https://www.teamviewer.com/en-us/legal/eula/) (“**EULA**”) in connection with the use of our Software and Services (hereinafter, “**Products**”).
+TeamViewer Germany GmbH and its affiliates take protection of your personal data very seriously. Personal data means any information relating to an identified or identifiable natural person, such as name, address, email-addresses, IP address, or user behavior etc. The following document (**Privacy Notice**) provides you with information about the processing of personal data in relation to your use of our Software and Services as described and defined in the [End User License Agreement](https://www.teamviewer.com/en-us/legal/eula/) (**EULA**) in connection with the use of our Software and Services (hereinafter, **Products**).
 
-Depending on the processing activity and its purpose, TeamViewer may act as either (i) a controller as defined by the General Data Protection Regulation (“**GDPR**”), or (ii) as a processor as defined in more detail in our [EULA](https://www.teamviewer.com/en-us/legal/eula/) and our [Data Processing Agreement](https://www.teamviewer.com/eula/#dpa) (“**DPA**”).
+Depending on the processing activity and its purpose, TeamViewer may act as either (i) a controller as defined by the General Data Protection Regulation (**GDPR**), or (ii) as a processor for our customers as defined in more detail in our [EULA](https://www.teamviewer.com/en-us/legal/eula/) and our [Data Processing Agreement](https://www.teamviewer.com/eula/#dpa) (**DPA**). If your personal data has been submitted to us by or on behalf of one of our customers, please see the privacy policy of the applicable customer. If you wish to exercise any rights you may have under applicable data protection laws, please reach out to the company providing you with our Products directly.
 
 Subsequently, TeamViewer may process the various personal data for various purposes and in a different capacity.
 
@@ -703,7 +703,7 @@ Subsequently, TeamViewer may process the various personal data for various purpo
 On a case-by-case basis, TeamViewer may act in a different capacity in accordance with applicable laws and regulations. Concrete examples of which personal data we process in which capacity are as follows:
 
 * Personal data in connection with our agreement with you, e.g., your contact information. More information on this and how we process personal data as controllers for maintaining our contractual relationship with our users and customers can be found in our [General Privacy Notice](https://www.teamviewer.com/en-us/legal/privacy-and-cookies/).
-* Personal data in connection with your account (e.g., your email, password, username etc.), as well as with various TeamViewer Features, esp. initiating connections, hosting of your contact lists, or managing a team of people using our Product under your license. In this context TeamViewer may act as processors as defined under Art. 4 no. 8 GDPR. More on processing in this context can be found in our [DPA](https://www.teamviewer.com/eula/#dpa), respectively in its [Annexes](https://www.teamviewer.com/en-us/legal/dpa-annex/).
+* Personal data in connection with yourTeamViewer Account (e.g., your email, password, username etc.), as well as with various TeamViewer Features, esp. initiating connections, hosting of your contact lists, or managing a team of people using our Product under your license. In this context TeamViewer may act as processors as defined under Art. 4 no. 8 GDPR. More on processing in this context can be found in our [DPA](https://www.teamviewer.com/eula/#dpa), respectively in its [Annexes](https://www.teamviewer.com/en-us/legal/dpa-annex/).
 * Personal data derived from your use of our Products and Services, e.g., your feedback, as well as statistical and analytical data for marketing and product development purposes. In this case TeamViewer may act as controller of such data. This Privacy Notice serves the purpose to provide more information in this context.
 
 Below you will find more information on when, how, and why we process your personal data in connection with your use of our Products.
@@ -711,7 +711,7 @@ Below you will find more information on when, how, and why we process your perso
 A. Controller
 -------------
 
-TeamViewer Germany GmbH (“**TeamViewer**”), Bahnhofsplatz 2, 73033 Göppingen, Germany is controller pursuant to Art. 4 para. 7 GDPR concerning any processing of personal data for which we determine the purpose and means of processing.
+TeamViewer Germany GmbH (**TeamViewer**), Bahnhofsplatz 2, 73033 Göppingen, Germany is controller pursuant to Art. 4 para. 7 GDPR concerning any processing of personal data for which we determine the purpose and means of processing.
 
 B. Data Protection Officer (DPO)
 --------------------------------
@@ -727,21 +727,21 @@ C. Categories of personal data, purposes, and legal basis for the processing
 ##### C.1.1. Getting started  
  
 
-When you install the Software and use the Product for the first time on a new device, we need to collect certain information from that device, such as your IP address, device’s MAC address, operating system (OS) specific identifier combined with other device-related information to ensure its uniqueness. From this information, TeamViewer creates a unique Machine ID (MID), from which the TeamViewer master infrastructure generates the TeamViewer Device ID, which in turn allows it to distinguish between unique user devices that have the Software installed.
+When you install the Software and use the Product for the first time on a new device, we need to collect certain information from that device, such as your IP address, device’s MAC address, operating system (**OS**) specific identifier combined with other device-related information to ensure its uniqueness. From this information, TeamViewer creates a unique Machine ID (**MID**), from which the TeamViewer master infrastructure generates the TeamViewer Device ID (**TeamViewer ID**), which in turn allows it to distinguish between unique user devices that have the Software installed.
 
 When you sign up for a TeamViewer account, TeamViewer collects your name, email-address, a password of your choice, along with time, date, and time zone of you signing in and creates a unique TeamViewer Account ID for your TeamViewer account.
 
 Should you choose to add the additional security option of two factor authentication to your account, TeamViewer will process the data required to provide this option and to maintain your accounts security including: Number of login attempts, location and whether the session is active, Mobile phone number, TeamViewer ID.
 
-TeamViewer requires the Edge WebView2 Runtime by Microsoft for the user interface. If not already installed, it will be downloaded and installed when you click ‘Accept – next’. The Edge WebView2 Runtime may collect information and send it to Microsoft to provide services as described in Microsoft’s Privacy Statement at [https://aka.ms/privacy](https://aka.ms/privacy).
+TeamViewer requires the Edge WebView2 Runtime by Microsoft Ireland Operations Ltd. (One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland) (**Microsoft**) for the user interface. If not already installed, it will be downloaded and installed when you click ‘Accept – next’. The Edge WebView2 Runtime may collect information and send it to Microsoft to provide services as described in Microsoft’s Privacy Statement at [https://aka.ms/privacy](https://aka.ms/privacy).
 
 #### Learn more
 
-During the installation, we will also ask you whether (i) you would like to explore the full-featured business trial, (ii) if you wish to only use the Product for personal use, or, (iii) if you already have a license. According to your choice, you may be directed to our license trial page, or you may continue with software installation process. During so, if you decide to sign up for a TeamViewer account, we will collect your name, email-address, a password of your choice, along with time, date, and time zone of you signing in and create a unique TeamViewer Account ID for your TeamViewer account.
+During the installation, we will also ask you whether (i) you would like to explore the full-featured business trial, (ii) if you wish to only use the Product for personal use, or, (iii) if you already have a license. According to your choice, you may be directed to our license trial page, or you may continue with software installation process. During so, if you decide to sign up for a TeamViewer Account, we will collect your name, email-address, a password of your choice, along with time, date, and time zone of you signing in and create a unique TeamViewer Account ID for your TeamViewer Account.
 
 In some countries we may ask our users to provide their phone numbers for identification purposes. This may be done for the purposes of strengthening our security and ensuring proper authentication.
 
-Furthermore, TeamViewer may process your personal data for the purposes of license management. When a customer activates the license with help of the license sync option, TeamViewer license server checks the information to assign the license to the correct customer. In doing so, some personal data may be processed, such as license information (e.g., license ID, roles and permissions, type), system information (e.g., license key, server configuration), user information (e.g., email, IP address, status, language, organization) or session information (ID, security tokens, IP address, username device, etc.).
+Furthermore, TeamViewer may process your personal data for the purposes of license management. When a customer activates the license with help of the license sync option, TeamViewer license server checks the information to assign the license to the correct customer. In doing so, some personal data may be processed, such as license information (e.g., license ID, roles and permissions, type), system information (e.g., license key, server configuration), user information (e.g., email-address, IP address, status, language, organization) or session information (ID, security tokens, IP address, username device, etc.).
 
 TeamViewer is processing personal data in connection with license management in order to assign you the required license, and, consequently, for the performance of the contract with you.
 
@@ -750,16 +750,16 @@ _The legal basis to process your personal data as described under this Section, 
 ##### C.1.2. Social Login Services  
  
 
-You also have the option to create or log in into a TeamViewer account via an identity provider, e.g., Microsoft Ireland Operations Ltd. (One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland), Google Ireland Ltd. (Gorden House, Barrow Street, Dublin 4, Ireland, etc.). This makes it easier for you to register for our products. Through this, we offer you the possibility to register or log in into a TeamViewer account via an identity provider to use our products.
+You also have the option to create or log in into a TeamViewer account via an identity provider, e.g., Microsoft, Google Ireland Ltd. (Gorden House, Barrow Street, Dublin 4, Ireland, etc.) (**Google**). This makes it easier for you to register for our Products. Through this, we offer you the possibility to register or log in into a TeamViewer account via an identity provider to use our Products.
 
-If you use an identity provider, you will be forwarded to the identity provider’s page. There you can create an account or log in with an already existing account via your user data. The identity provider will ask for your consent to release certain information about your account to us. This data is collected by the Identity Provider and transmitted to us by the Identity Provider in compliance with the relevant provisions of the privacy notice. TeamViewer receives an identification token from the identity provider that contains information used to create, or connect to, your account (username and e-mail-address). TeamViewer will process the email address and username received from this identity provider for registration and login to your account. To carry out this authentication process, your IP address is transmitted to the respective identity provider. We have no influence on the purpose and scope of the data collection and on the further processing of the data by the identity provider. For more information, please read the privacy policy of the respective provider. By using the login via an identity provider, you agree to this data transfer to us. TeamViewer will also directly collect from you some of the information needed for providing the account (as described above, C.1.1.). You can prevent the processing of your data by the respective identity provider by not using the identity provider but using our own registration form and signing up for a TeamViewer account.
+If you use an identity provider, you will be forwarded to the identity provider’s page. There you can create an account or log in with an already existing account via your user data. The identity provider will ask for your consent to release certain information about your account to us. This data is collected by the identity provider and transmitted to us by the identity provider in compliance with the relevant provisions of the privacy notice. TeamViewer receives an identification token from the identity provider that contains information used to create, or connect to, your account (username and e-mail-address). TeamViewer will process the email-address and username received from this identity provider for registration and login to your account. To carry out this authentication process, your IP address is transmitted to the respective identity provider. We have no influence on the purpose and scope of the data collection and on the further processing of the data by the identity provider. For more information, please read the privacy policy of the respective provider. By using the login via an identity provider, you agree to this data transfer to us. TeamViewer will also directly collect from you some of the information needed for providing the account (as described above, C.1.1.). You can prevent the processing of your data by the respective identity provider by not using the identity provider but using our own registration form and signing up for a TeamViewer account.
 
-_The legal basis for the processing of your personal data in connection with an identity provider is your consent pursuant to Art. 6 para. 1 lit. a), 7 GDPR._ 
+_The legal basis for the processing of your personal data in connection with an identity provider is your consent pursuant to Art. 6 para. 1 lit. a) GDPR._ 
 
 ##### C.1.3. Conducting remote connections  
  
 
-Whenever you run the TeamViewer Software client, the TeamViewer master server infrastructure will register whether the device is available for a connection session with other devices. To achieve that, it collects and processes your IP address, your location, TeamViewer Device ID, the Machine ID, and your chosen user screen name. While trying to connect to another device, this data is exchanged between the TeamViewer master server infrastructure, selected TeamViewer routers, and the Software client of your envisaged connection partner. In addition, our servers will automatically collect certain remote connection metadata (so called logs, which can later be used to address and analyze technical bugs and difficulties).
+Whenever you run the TeamViewer Software client, the TeamViewer master server infrastructure will register whether the device is available for a connection session with other devices. To achieve that, it collects and processes your IP address, your location, TeamViewer ID, the MID, and your chosen user screen name. While trying to connect to another device, this data is exchanged between the TeamViewer master server infrastructure, selected TeamViewer routers, and the Software client of your envisaged connection partner. In addition, our servers will automatically collect certain remote connection metadata (so called logs, which can later be used to address and analyze technical bugs and difficulties).
 
 #### Learn more
 
@@ -769,14 +769,14 @@ _The legal basis to process your personal data as described under this Section, 
 
 ##### C.1.4. Using Text recognition feature (Frontline and Assist AR)  
 
-Functionalities of Frontline and Assist AR include, amongst others, a text recognition feature. It is based on the use of a text recognition API provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, United States (“Google”), that also enables the activation of the Optical Character Recognition (OCR) functionality on smart glasses used with Frontline and Assist AR. If technically possible, the API contacts Google servers from time to time in order to receive things like bug fixes, updated models and hardware accelerator compatibility information. It may also send telemetry data about the performance and utilization of the API in the Assist AR App to Google. Such data include device information, application information, device or other identifiers, performance metrics, API configuration, event type and error codes (you can find further information here). Google uses this data to measure performance, debug, maintain and improve the API, and detect misuse or abuse, as further described in Google’s Privacy Policy. Before you may use this feature, we ask for your consent to the described data processing.
+Functionalities of Frontline and Assist AR include, amongst others, a text recognition feature. It is based on the use of a text recognition API provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, United States (**Google LLC**), that also enables the activation of the Optical Character Recognition (**OCR**) functionality on smart glasses used with Frontline and Assist AR. If technically possible, the API contacts Google LLC's servers from time to time in order to receive things like bug fixes, updated models and hardware accelerator compatibility information. It may also send telemetry data about the performance and utilization of the API in the Assist AR App to Google LLC. Such data include device information, application information, device or other identifiers, performance metrics, API configuration, event type and error codes (you can find further information here). Google LLC uses this data to measure performance, debug, maintain and improve the API, and detect misuse or abuse, as further described in Google’s Privacy Policy.
 
-_The legal basis to process this personal data as described under this Section, is your consent and thus as defined in Art. 6 para. 1 lit. a) GDPR._ 
+_The legal basis to process this personal data as described under this Section, is performance of our contract with you (i.e., the EULA) and thus as defined in Art. 6 para. 1 lit. b) GDPR._ 
 
 ##### C.1.5. Adding devices to your account  
  
 
-When you add so called managed devices to your TeamViewer account, we activate these devices as endpoints that are assigned to your license. To achieve that, TeamViewer collects, and processes certain data associated with those managed devices, e.g., screen name, TeamViewer ID, Machine ID, email address, account ID, License ID and, if mobile device management is purchased: location data, and mobile device data. During the activation of an endpoint TeamViewer needs to ensure that the Product is used in accordance with the EULA and Product Specifications.
+When you add so called managed devices to your TeamViewer account, we activate these devices as endpoints that are assigned to your license. To achieve that, TeamViewer collects, and processes certain data associated with those managed devices, e.g., screen name, TeamViewer ID, MID, email-address, TeamViewer Account ID, TeamViewer License ID and, if mobile device management is purchased: location data, and mobile device data. During the activation of an endpoint TeamViewer needs to ensure that the Product is used in accordance with the EULA and Product Specifications.
 
 This is done to assign and enforce the license limits as agreed with you under your contract.
 
@@ -785,7 +785,7 @@ _The legal basis to process your personal data as described under this Section, 
 ##### C.1.6. Using the Backup feature  
  
 
-If you choose to use our optional feature Backup, we may process the information on your purchased storage limits in order to assign you the relevant storage space and, in case the limit is reached, inform you of the storage limitation. Furthermore, we may process the information on your location, since your location is the determining factor when deciding the storage location for your data (e.g., if you are located within the European Union, you will be assigned the cloud in Europe).
+If you choose to use our optional feature Backup, we may process the information on your purchased storage limits in order to assign you the relevant storage space and, in case the limit is reached, inform you of the storage limitation. Furthermore, we may process the information on your location, since your location is the determining factor when deciding the storage location for your personal data (e.g., if you are located within the European Union, you will be assigned the cloud in Europe).
 
 We process certain information in order to manage your account and provide you Backup services under the contractual agreement with you.
 
@@ -794,18 +794,18 @@ _The legal basis to process this personal data as described under this Section, 
 ##### C.1.7. Using add-ons  
  
 
-If you use add-ons (e.g., the security services provided by Malwarebytes Inc., the mobile device management provided by Ivanti UK Ltd. or the asset management and discovery provided by Lansweeper NV) we may process certain license information, your name, email address username, IP address, your device information and similar in order to activate your license and respectively link it to your account.  
+If you use add-ons (e.g., the security services provided by Malwarebytes Inc., the mobile device management provided by Ivanti UK Ltd. or the asset management and discovery provided by Lansweeper NV) we may process certain license information, your name, email address username, IP address, your device information and similar in order to activate your license and respectively link it to your TeamViewer Account.  
 
 _The legal basis to process this personal data described under this Section, is performance of our contract with you (i.e., the EULA) and thus as defined in Art. 6 para. 1 lit. b) GDPR._ 
 
 ##### C.1.8. Product improvement and technical support  
  
 
-TeamViewer may process personal data to analyze server and device logs in order to identify vulnerabilities, crashes as well as other issues to consequently mitigate or fix them. During such analysis certain information that may include personal data is analyzed, such as the user information (e.g., email, IP address, status, language, organization), session ID, device ID, call or workflow data, license data, call ID, workflow information (ID, title, etc.), multimedia assets (e.g., type of the asset, ID, name etc.), information related to certain task (ID; name, comment, creation date etc.), or picking information (order ID, shelf location, status etc.). We are processing your personal data in connection with its product improvement activities in order to provide you with better and improved services, and, consequently, for the enhancement of the contract with you.
+TeamViewer may process personal data to analyze server and device logs in order to identify vulnerabilities, crashes as well as other issues to consequently mitigate or fix them. During such analysis certain information that may include personal data is analyzed, such as the user information (e.g., email, IP address, status, language, organization), session ID, TeamViewer ID, call or workflow data, license data, call ID, workflow information (ID, title, etc.), multimedia assets (e.g., type of the asset, ID, name etc.), information related to certain task (ID; name, comment, creation date etc.), or picking information (order ID, shelf location, status etc.). We are processing your personal data in connection with product improvement activities in order to provide you with better and improved services, and, consequently, for the enhancement of the contract with you.
 
 Please note that TeamViewer has put additional technical and organizational measures in place, e.g., pseudonymization as well as further strong technical and organizational measures to ensure security of the data. It is also important to note that we never access any content or connection data itself, but rather observe your interactions with our Software and Services.
 
-For product improvement purposes, the overall usage patterns of TeamViewer Products are analyzed, e.g., information about how certain features of the Software and the Server Services are used, as well as the interactions. This may include the session metadata, feature usage (e.g., remote control, file transfer, settings, etc.), and how frequently they are being used. This information helps improve and further develop TeamViewer Products, e.g., to help decide whether certain functionalities of the Software shall be kept, amended, or improved, or whether to create new features or improve the design. Please note, that TeamViewer only assesses the interactions and at no point information or data that is being exchanged between you and your connection partner(s).
+For product improvement purposes, the overall usage patterns of TeamViewer Products are analyzed, e.g., information about how certain features of the Product and the Server Services are used, as well as the interactions. This may include the session metadata, feature usage (e.g., remote control, file transfer, settings, etc.), and how frequently they are being used. This information helps improve and further develop TeamViewer Products, e.g., to help decide whether certain functionalities of the Product shall be kept, amended, or improved, or whether to create new features or improve the design. Please note, that TeamViewer only assesses the interactions and at no point information or data that is being exchanged between you and your connection partner(s).
 
 TeamViewer may analyze this data together with further information submitted to us, as further described under this Product Privacy Notice, as well as in our [General Privacy Notice](https://www.teamviewer.com/en-us/legal/privacy-and-cookies/).
 
@@ -818,9 +818,20 @@ TeamViewer may process your personal data to analyze crashes in mobile applicati
 
 _The legal basis to process this personal data described under this Section, is performance of our contract with you (i.e., the EULA) and thus as defined in Art. 6 para. 1 lit. b) GDPR._
 
+##### C.1.10. Using our AI Services  
+  
+
+If you choose to use TeamViewer’s AI Services, you or your company’s administrator need to activate them. In this case, we may process your activation to the services. We deployed AI features within the AI Services from third parties to provide a better experience, and use of these features may involve us processing any personal data submitted to them. We recommend that users do not submit sensitive or confidential information. 
+
+_The legal basis of this processing is fulfillment of the terms and conditions for the AI Services, i.e., Art. 6 para. 1 lit. b) GDPR._
+
+We may use the data collected from your input, usage, interactions, outputs and feedback of the AI Services for product improvement purposes, including the enhancement and development of features and functionalities. This purpose does not comprise processing of personal data. We therefore de-identify session data by removing personal data on behalf of the customer as far as possible to prevent that personal data is processed by us. However, it cannot be excluded that after the de-identification there may still be some personal data left. TeamViewer has put additional technical and organizational measures in place, e.g., pseudonymization as well as further strong encryption measures to ensure the security of the data so that only a randomized ID will be processed by us for technical reasons. This way we ensure that the session data is de-identified and that there is no longer a connection to the session participants. 
+
+_Legal basis of this processing described in this section is our legitimate interest as defined in Art. 6 para. 1 lit. f) GDPR. Processing is in the legitimate interests of both TeamViewer and our Customers, in order to enhance the users’ experience and to provide a more accurate and reliable service to our Customers and Users._ 
+
 #### C.2. Ensuring your security and that of others
 
-The security of our customers, users and employees is extremely important for TeamViewer. To achieve these purposes, TeamViewer has implemented a number of processes and procedures, so that fraudulent or suspicious activities are identified, and TeamViewer may take appropriate action. These measures also serve the prevention of abuse and fraud by identifying abnormal or unexpected usage. To do so, we need to evaluate the usage of the Software in order to recognize abusive or abnormal patterns and thus to help protect our network and service integrity at any time. Doing so, we may process certain personal data, e.g., data associated with your remote connections, IP addresses, derived locations, various user interactions and patterns as well as device information (e.g., device IDs as well as TeamViewer IDs). These processes are intended primarily to achieve the above aim i.e., to protect stakeholders as well as TeamViewer’s interests.
+The security of our customers, users and employees is extremely important for TeamViewer. To achieve these purposes, TeamViewer has implemented a number of processes and procedures, so that fraudulent or suspicious activities are identified, and TeamViewer may take appropriate action. These measures also serve the prevention of abuse and fraud by identifying abnormal or unexpected usage. To do so, we need to evaluate the usage of the Software in order to recognize abusive or abnormal patterns and thus to help protect our network and service integrity at any time. Doing so, we may process certain personal data, e.g., data associated with your remote connections, IP addresses, derived locations, various user interactions and patterns as well as device information (e.g., TeamViewer IDs). These processes are intended primarily to achieve the above aim i.e., to protect stakeholders as well as TeamViewer’s interests.
 
 Subject to the Product, our users and customers also have the possibility to partake in the connection risk scoring (beta feature), which provides alerts within the Software on the possibly suspicious behavior of your connection partners. For these purposes, the results of our risk analysis are being used.
 
@@ -832,7 +843,7 @@ _The legal basis to process your personal data as described under this Section i
 
 #### C.3. Conducting license audits
 
-We may analyze your use of the Software and/or Server Services for security purposes, as well as for license auditing. To that end, we may use, and implement technical measures regarding the functionality of the Software and the Server Services to assess whether your usage pattern is in line with the indicated usage volume and thus with the chosen license type, and to detect whether the contractually agreed scope of use is being exceeded by customers or users in individual cases.
+We may analyze your use of the Product and/or Server Services for security purposes, as well as for license auditing. To that end, we may use, and implement technical measures regarding the functionality of the Product and the Server Services to assess whether your usage pattern is in line with the indicated usage volume and thus with the chosen license type, and to detect whether the contractually agreed scope of use is being exceeded by customers or users in individual cases.
 
 _The legal basis to process your personal data as described under this Section, is performance of our contract with you (i.e., the EULA) and thus as defined in Art. 6 para. 1 lit. b) GDPR._
 
@@ -841,11 +852,11 @@ _The legal basis to process your personal data as described under this Section, 
 ##### C.3.1. Free Version  
  
 
-If you are using our so-called Free Version of the Software as defined in the [EULA](https://www.teamviewer.com/en-us/legal/eula/), we may analyze your Product usage data in accordance with Sections A.1, B.1.1, B.2.2, as well as B.1.8 of our [EULA](https://www.teamviewer.com/en-us/legal/eula/) to assess whether your usage pattern is in line with your indicated usage purpose and thus with the chosen license type. This assessment, which may also include an analysis of the domain of an email-address you have provided in the course of signing up for a TeamViewer account (see above Section C.1.1), will result in a so called “commercial score”. Depending on this score, we may determine that a fee-based license, as opposed to a Free Version, is required for your usage pattern of our Product, and we will inform you accordingly.
+If you are using our so-called Free Version of the Software as defined in the [EULA](https://www.teamviewer.com/en-us/legal/eula/), we may analyze your Product usage data in accordance with Sections A.1, B.1.1, B.2.2, as well as B.1.8 of our [EULA](https://www.teamviewer.com/en-us/legal/eula/) to assess whether your usage pattern is in line with your indicated usage purpose and thus with the chosen license type. This assessment, which may also include an analysis of the domain of an email-address you have provided in the course of signing up for a TeamViewer Account (see above Section C.1.1), will result in a so called “commercial score”. Depending on this score, we may determine that a fee-based license, as opposed to a Free Version, is required for your usage pattern of our Product, and we will inform you accordingly.
 
 If you continue to use our Product in a way that indicates a violation of Section B.1.8 of the [EULA](https://www.teamviewer.com/en-us/legal/eula/), we may limit or ultimately block your access to the Server Services and ask you to purchase a fee-based license. In certain cases, this may involve an automatic decision-making process, where TeamViewer systems are configured to automatically put in place a limitation or even a blocking of your use of the Product.
 
-If you think you are using our Product within the scope of the Free Version license, you may submit a corresponding request by way of our online form, for which we ask you to submit your name, email-address, affected TeamViewer Device ID, and an explanation on your usage. TeamViewer will then analyze your submission and again evaluate your detected usage patterns. In the course of the evaluation process, we may also ask you to submit a declaration confirming your use of our Product for private, non-commercial purposes only. For this declaration, we may ask you to submit your name, postal address, explanation of your usage, and your signature.  
+If you think you are using our Product within the scope of the Free Version license, you may submit a corresponding request by way of our online form, for which we ask you to submit your name, email-address, affected TeamViewer ID, and an explanation on your usage. TeamViewer will then analyze your submission and again evaluate your detected usage patterns. In the course of the evaluation process, we may also ask you to submit a declaration confirming your use of our Product for private, non-commercial purposes only. For this declaration, we may ask you to submit your name, postal address, explanation of your usage, and your signature.  
  
 
 ##### C.3.2. Paid license  
@@ -865,9 +876,9 @@ We may also process certain personal data in connection with your payments. In c
 ##### C.4.1. Processing your feedback  
  
 
-When you provide feedback concerning your experience when using TeamViewer Products (e.g. through our [user focus program](https://ufp.teamviewer.com/landing), rating our products, or by reporting bugs or feature requests), we will collect and process your account ID (if you provide the feedback while logged-in), your country and language settings, as well as any information you submit in your inquiry  or rating (including attachments such as log files or screen shots), which may contain your email-address, your name, company information, phone number, license key, or your TeamViewer Device ID. You may also provide us with logs stored on your local device for analytical purposes. In such case we will only process your data for the purposes of resolving the issue.
+When you provide feedback concerning your experience when using TeamViewer Products (e.g. through our [User Focus Program](https://ufp.teamviewer.com/landing), rating our products, or by reporting bugs or feature requests), we will collect and process your TeamViewer Account ID (if you provide the feedback while logged-in), your country and language settings, as well as any information you submit in your inquiry  or rating (including attachments such as log files or screen shots), which may contain your email-address, your name, company information, phone number, license key, or your TeamViewer ID. You may also provide us with logs stored on your local device for analytical purposes. In such case we will only process your data for the purposes of resolving the issue.
 
-In the User Focus Program, any information disclosed in a survey, interview or recording may be processed in connection with product improvement activities. This may contain your email address, your name, company information, phone number, license key, audio and/or video recordings and account ID.
+In the User Focus Program, any information disclosed in a survey, interview or recording may be processed in connection with product improvement activities. This may contain your email address, your name, company information, phone number, license key, audio and/or video recordings and TeamViewer Account ID.
 
 _  
 The legal basis to process your personal data as described under this Section, is performance of our contract with you (i.e., the EULA) and thus as defined in Art. 6 para. 1 lit. b) GDPR, our legitimate interest and thus as defined in Art. 6 para. 1 lit. f) GDPR or your consent as defined in Art. 6 para. 1 lit. a) GDPR_
@@ -886,25 +897,25 @@ We embrace any responsible disclosure in order to make our Products and Services
 
 You may participate in the so-called bug bounty or similar program anonymously. However, if you decide to submit your personal data, we may process it in order to properly identify you (e.g., your name, last name, pseudonym) as well as your contact information (e.g., email-address, postal address, phone number), your credentials, your country of residence and other personal information, as submitted by you.
 
-The purpose of the processing is to work with you in order to resolve the bug and any associated topics around it. As mentioned above, you may also participate within the Program anonymously.
+The purpose of the processing is to work with you in order to resolve the bug and any associated topics around it. As mentioned above, you may also participate within the program anonymously.
 
 _The legal basis of this processing is fulfillment of the participation terms and conditions, i.e., Art. 6 para. 1 lit. b) GDPR._
 
 #### C.5. Marketing
 
-TeamViewer may contact and inform its customers and users through in-product messages (using your TeamViewer Device ID and, if you are a registered user, your email) about changes to or improvements of our Products, entirely new products, or to provide you with tips on how to best use our Products as well as other useful information (e.g., on discounts, freebies or giveaways).
+TeamViewer may contact and inform its customers and users through in-product messages (using your TeamViewer ID and, if you are a registered user, your email-address) about changes to or improvements of our Products, entirely new products, or to provide you with tips on how to best use our Products as well as other useful information (e.g., on discounts, freebies or giveaways).
 
 In determining whether and how we contact our customers and users, we may also process the license type, language and version of the Product, and/or country, and we may also draw on data we have gathered through analyses measures as described in Section C.5 of this Privacy Notice as well as Section C.6. of [our General Privacy Notice](https://www.teamviewer.com/en-us/legal/privacy-and-cookies/).
 
 If you would like to opt-out from receiving such in-product messages, please follow the instructions in [our Community](https://community.teamviewer.com/English/discussion/comment/98469#Comment_98469). For opting out from our email communication, please use the unsubscribe button included in the emails.
 
-_The legal basis to process your personal data as described under this Section is our legitimate interest and thus as described in Art. 6 para. 1 lit. f) GDPR on the basis of § 7 para. 3 of the German Unfair Competition Act (UWG), or in some cases your consent, as defined in Art. 6 para. 1 lit. a) GDPR._
+_The legal basis to process your personal data as described under this Section is our legitimate interest and thus as described in Art. 6 para. 1 lit. f) GDPR on the basis of Section 7 para. 3 of the German Unfair Competition Act (UWG), or in some cases your consent, as defined in Art. 6 para. 1 lit. a) GDPR._
 
 #### C.6. App-stores
 
 Some of our apps can be downloaded in Google Play as well as on Apple App Store. The app-stores usually provide the app developers (in this case, TeamViewer), with statistics of the downloads including ratings of the relevant app. Please note, that these data are provided to TeamViewer within the app-store directly based on download and ratings of the users of our app, including you.
 
-_The Legal basis for processing your personal data in this regard is our legitimate interest, i.e. as described in Art. 6 Sec. 1 lit. f) GDPR._
+_The Legal basis for processing your personal data in this regard is our legitimate interest, pursuant to Art. 6 Sec. 1 lit. f) GDPR._
 
 For more information on how your app-store process your personal data, please refer to their respective privacy policies:  
 [Google Play](https://policies.google.com/privacy?hl=en-US)  
@@ -921,7 +932,7 @@ D. Recipients
 
 Our employees, who administer, maintain and further develop TeamViewer’s website, Products and Services may receive access to your personal data. To that end, TeamViewer has strong technical and organizational security measures to protect personal data against unauthorized disclosure to third parties and to ensure that only relevant individuals, who act within their job description and have a need-to-know interest in accessing any of your personal data, will have access to the data for which they have sufficient clearance.
 
-In addition, we utilize services of external service providers (e.g., Microsoft, Amazon Web Services, Inxmail GmbH, Cloudfare etc.), as well as our affiliate network worldwide (e.g., TeamViewer entities in Greece, USA, Australia, Austria, Japan etc.). Furthermore, TeamViewer may transfer your personal data to third parties (e.g. Google, Microsoft) in order to ensure the security of its services, or the security of its customers.
+In addition, we utilize services of external service providers (e.g., Microsoft, Amazon Web Services EMEA (SARL, 38 avenue John F. Kennedy, L-1855, Luxemburg),Amazon Web Services, Inxmail GmbH (Wentzingerstr. 17, 79106 Freiburg), Cloudfare (101 Townsend St San Francisco, CA 94107), etc.), as well as our affiliate network worldwide (e.g., TeamViewer entities in Greece, USA, Australia, Austria, Japan etc.). Furthermore, TeamViewer may transfer your personal data to third parties (e.g., Google, Microsoft) in order to ensure the security of its services, or the security of its customers.
 
 All mentioned third-party providers and employees of such providers may receive access to personal data through the service they provide.
 
@@ -936,9 +947,10 @@ Whenever TeamViewer transfers your personal data out of the EU or the EEA to cou
 * If you use our Product, contact us through the contact, support, and feedback features, and/or if you request a quote, TeamViewer employees that are responsible for the respective service will receive access to your personal data. Aside from TeamViewer employees, your personal data may be processed by employees of third-party services providers, who assist us in handling your requests, e.g., if you use our chat functionality on the website, speak to us on the phone (e.g., external call centers), or contact us through forms on certain website landing pages (e.g., employees of the website support suppliers).
 * If you post a comment in TeamViewer’s community or blog, your comment content and name/username will be publicly available and may appear in search engines. Aside from TeamViewer employees, employees of the hosting company may receive access to your personal data as described in Section C.3.
 * If you purchase a TeamViewer Product, TeamViewer employees concerned with processing such transactions will receive access to your data. We also use the services of third-party payment token providers, such as PPRO Latin America GmbH and Adyen N.V. respectively. In addition, our fraud prevention software may also process your data on our behalf.
-* In connection with hosting and processing your data on your behalf, we may use certain Subprocessors, e.g., Anexia Internetdienstleistungs GmbH, Amazon Web Services, IBM Deutschland GmbH, Google Ireland Ltd. or TeamViewer Austria GmbH etc.
+* In connection with hosting and processing your data on your behalf, we may use certain Subprocessors, e.g., Anexia Internetdienstleistungs GmbH (**Anexia**), Amazon Web Services, IBM Deutschland GmbH, Google or TeamViewer Austria GmbH, etc. 
 * TeamViewer may transfer your personal data to third parties if we offer participation in campaigns, contests, reservations, or contract agreements in conjunction with a third party. In this case, you will be specifically informed about the transmission to the third parties.
 * For web analytics and (re-)marketing activities, we rely on a number of third-party providers, which will process personal data on our behalf as explained in more detail in [our Cookie Notice](https://www.teamviewer.com/privacy/#cookie-notice).
+* TeamViewer may transfer your personal data to third-parties to undergo security and trust related operations, like Know-Your-Client (**KYC**) operations, scam or abuse detection, or any type of defensive action (e.g., fight against DDoS, etc.). Such third-parties are, but not limited to, Microsoft, Google, Anexia, etc.
 * Finally, TeamViewer uses external third-party service providers to help operate its business, such as providers of IT operation and maintenance services, (cloud) storage service providers and providers of (cloud) collaboration tools. Examples include Amazon Web Services, and Microsoft (Dynamics 365, Azure).
 
 E. **Retention and deletion**
@@ -971,17 +983,17 @@ You may contact us either in writing by email at [\[email protected\]](https:/
 
 The relevant supervisory authority for TeamViewer is _Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit, Lautenschlagerstraße 20, 70173 Stuttgart, Germany_.
 
-Should you have any questions on the processing of your personal data by TeamViewer Germany GmbH in relation to your contractual relationship, please contact [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection).
+Should you have any questions on the processing of your personal data by TeamViewer in relation to your contractual relationship, please contact [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection).
 
 I. Compliance with the CCPA
 ---------------------------
 
-Pursuant to the California Consumer Privacy Act (“**CCPA**”), you will not receive discriminatory treatment for exercising your privacy rights. You may also designate an authorized agent to make a privacy request on your behalf.
+Pursuant to the California Consumer Privacy Act (**CCPA**), you will not receive discriminatory treatment for exercising your privacy rights. You may also designate an authorized agent to make a privacy request on your behalf.
 
 J. Compliance with Brazilian LGPD
 ---------------------------------
 
-TeamViewer has checked the compliance topic with the Brazilian Data Protection Law Lei Geral de Proteção de Dados Pessoais (Law No. 13,709/2018) (“**LGPD**“) to ensure that our measures and procedures under the GDPR cover the topics within the LGPD. The privacy notice under the LGPD is available for Brazilian visitors and users under [www.teamviewer.com/en-us/privacy-notice](https://www.teamviewer.com/privacy/#lgpd).
+TeamViewer has checked the compliance topic with the Brazilian Data Protection Law Lei Geral de Proteção de Dados Pessoais (Law No. 13,709/2018) (**LGPD**) to ensure that our measures and procedures under the GDPR cover the topics within the LGPD. The privacy notice under the LGPD is available for Brazilian visitors and users under [www.teamviewer.com/en-us/privacy-notice](https://www.teamviewer.com/privacy/#lgpd).
 
 K. Changes to this Notice
 -------------------------
