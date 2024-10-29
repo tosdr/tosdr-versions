@@ -385,52 +385,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
-    [10:00 New Era: umjetnički diskursi o društvenim i klimatskim promjenama, BL](javascript:void(0);)
+    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
     
-    Muzej savremene umjetnosti Republike Srpske, Trg Srpskih Junaka 2, Banja Luka
+    Narodni muzej Srbije, Trg Republike 1a, Beograd
     
-    **NEW ERA: UMJETNIČKI DISKURSI O DRUŠTVENIM I KLIMATSKIM PROMJENAMA** - grupna intermedijska izložba (5.9.-5.11.2024.)
+    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
     
-    **Igor Bošnjak**
+    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
     
-    **Isidora Branković**
+    Saradnice na izložbi: Olga Špehar i Jelena Premović
     
-    **Jovan Došenović**
-    
-    **Dejan Marković**
-    
-    **Marija Marković**
-    
-    **Danilo Milovanović DNLM**
-    
-    **Bojan Mrđenović**
-    
-    **Helena Tahir**
-    
-    **Nikola Tomić**
-    
-    **Adrien Ujhazi**
-    
-    **Umjetnička grupa diSTRUKTURA**
-    
-    **Umjetnička grupa PLATEAURESIDUE**
-    
-    Kustosi izložbe: Mladen Banjac (MSURS), Miha Colner (GBJ), dr Sanja Kojić Mladenov (MSUV)
-    
-    organizacija: Muzej savremene umjetnosti Republike Srpske, Muzej savremene umetnosti Vojvodine iz Novog Sada i Galerija Božidar Jakac - Muzej moderne i savremene umjetnosti iz Kostanjevice na Krki
-    
-    [http://msurs.net](http://msurs.net/)
+    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/aavk-g-200/greda.jpg?itok=zdnGNkEB)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/aavk-g-200)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/igor-stromajer/wlan/gsm/wap/stromajer.jpg?itok=_brTBVek)](http://seecult.org/galerija/galerija-umetnika/igor-stromajer/wlangsmwap)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin/dscf4372.jpg?itok=gG0RArky)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mocart.jpg?itok=5jqzz7WQ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -446,6 +422,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Performansi i predavanje na izložbi Ere Milivojevića](http://seecult.org/vest/performansi-i-predavanje-na-izlozbi-ere-milivojevica)
 * [Preminuo Radoslav Petković](http://seecult.org/vest/preminuo-radoslav-petkovic)
 * [Razgovor sa Šijanom i Jutro u ružičastom](http://seecult.org/vest/razgovor-sa-sijanom-i-jutro-u-ruzicastom)
 * [Mihalkov o slobodi, istini, novcu, ratu, starim i novim vrednostima...](http://seecult.org/vest/mihalkov-o-slobodi-istini-novcu-ratu-starim-i-novim-vrednostima)
@@ -455,7 +432,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Svetska premijera – pijanisti koji govore](http://seecult.org/vest/svetska-premijera-pijanisti-koji-govore)
 * [Obračun s pripadnošću i nasleđem](http://seecult.org/vest/obracun-s-pripadnoscu-i-nasledem)
 * [Marija Ručara u MSUB-u i MPU](http://seecult.org/vest/marija-rucara-u-msub-u-i-mpu)
-* [Dani katalonskog filma u Jugoslovenskoj kinoteci](http://seecult.org/vest/dani-katalonskog-filma-u-jugoslovenskoj-kinoteci)
 
 * [Konkursi](#tab1_1)
 
