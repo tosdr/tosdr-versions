@@ -259,26 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers")](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
+[![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Halloween garden bringing joy to local community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween garden bringing joy to local community")](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween garden bringing joy to local community](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![32-year-old man charged in connection with serious sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "32-year-old man charged in connection with serious sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641692/32-year-old-man-charged-in-connection-with-serious-sexual-assault-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[32-year-old man charged in connection with serious sexual assault in Derry](https://www.derrynow.com/news/local-news/1641692/32-year-old-man-charged-in-connection-with-serious-sexual-assault-in-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
 
@@ -287,28 +273,26 @@ Most Popular
 [Derry Death Notices - Tuesday, October 29 2024](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit")](https://www.derrynow.com/story-telling/pictures---videos/1641660/in-pictures-miss-northern-ireland-visits-local-patients-in-derry-s-altnagelvin-renal-unit.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Miss Northern Ireland visits local patients in Derry's Altnagelvin Renal Unit](https://www.derrynow.com/story-telling/pictures---videos/1641660/in-pictures-miss-northern-ireland-visits-local-patients-in-derry-s-altnagelvin-renal-unit.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry archaeological dig hailed a great success](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry archaeological dig hailed a great success")](https://www.derrynow.com/news/local-news/1641646/derry-archaeological-dig-hailed-a-great-success.html)
-
-Nailor’s Row cobbles paths and house remains
+[![Woman in late teens left 'traumatised' following sexual assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in late teens left 'traumatised' following sexual assault in Derry city centre")](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry archaeological dig hailed a great success](https://www.derrynow.com/news/local-news/1641646/derry-archaeological-dig-hailed-a-great-success.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman in late teens left 'traumatised' following sexual assault in Derry city centre](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'")](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man breached bail prohibiting him from being intoxicated in public](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man breached bail prohibiting him from being intoxicated in public")](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
 
@@ -324,6 +308,13 @@ Nailor’s Row cobbles paths and house remains
 [£300 fine for Derry man who caused criminal damage to items in his mother's house](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry Halloween gets off to a spooktacular start](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween gets off to a spooktacular start")](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry's iconic Foyle Bridge celebrates 40th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's iconic Foyle Bridge celebrates 40th anniversary")](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
 
 Foyle Bridge turned 40 this October
@@ -333,11 +324,32 @@ Foyle Bridge turned 40 this October
 [Derry's iconic Foyle Bridge celebrates 40th anniversary](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1642456/in-pictures-oakgrove-integrated-college-annual-junior-prizegiving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1642456/in-pictures-oakgrove-integrated-college-annual-junior-prizegiving.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper")](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
 
@@ -394,20 +406,6 @@ Multimedia
 
 [IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations")](https://www.derrynow.com/story-telling/pictures---videos/1641418/in-pictures-lisnagelvin-pupils-donate-to-north-west-migrants-forum-annual-harvest-celebrations.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Lisnagelvin pupils donate to North West Migrants Forum annual harvest celebrations](https://www.derrynow.com/story-telling/pictures---videos/1641418/in-pictures-lisnagelvin-pupils-donate-to-north-west-migrants-forum-annual-harvest-celebrations.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Families enjoy Skeoge Community Fun Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Families enjoy Skeoge Community Fun Day")](https://www.derrynow.com/story-telling/pictures---videos/1641289/in-pictures-families-enjoy-skeoge-community-fun-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Families enjoy Skeoge Community Fun Day](https://www.derrynow.com/story-telling/pictures---videos/1641289/in-pictures-families-enjoy-skeoge-community-fun-day.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,53 +507,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Woman in late teens left 'traumatised' following sexual assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in late teens left 'traumatised' following sexual assault in Derry city centre")](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
+[![DuPont Maydown Hosts MakeMe Visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DuPont Maydown Hosts MakeMe Visit")](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
+
+DuPont Maydown Hosts MakeMe Visit
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[DuPont Maydown Hosts MakeMe Visit](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
+----------------------------------------------------------------------------------------------------------------------------
+
+[![Derry mother and baby wellness classes starting soon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Woman in late teens left 'traumatised' following sexual assault in Derry city centre](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry mother and baby wellness classes starting soon](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![North West Migrants Forum enjoys bumper harvest thanks to Derry pupils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "North West Migrants Forum enjoys bumper harvest thanks to Derry pupils")](https://www.derrynow.com/news/local-news/1641424/north-west-migrants-forum-enjoys-bumper-harvest-thanks-to-derry-pupils.html)
+[![Oakleaf ABC](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Oakleaf_ABC_boxer_Carleigh_Irving_silver_medal_1-1730220853699.jpg--.jpg?1730220855328 "Oakleaf ABC")](https://www.derrynow.com/news/derry-sport/1642488/oakleaf-s-carleigh-irving-hailed-after-silver-medal-success-in-sofia.html)
 
-Mayor Barr with the winners of the pumpkin contest. She said it was difficult to choose a first, second and third, such was the talent, time and effort put into creating the entries.
+Carleigh received a hero's welcome on her return to Oakleaf last week. Pic by Tom Heaney, nwpresspics
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[North West Migrants Forum enjoys bumper harvest thanks to Derry pupils](https://www.derrynow.com/news/local-news/1641424/north-west-migrants-forum-enjoys-bumper-harvest-thanks-to-derry-pupils.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Local genealogy and online databases to be discussed in Ballinascreen](https://www.derrynow.com/resizer/165/93/true/2024_10_29/CDP_-_29-10-24_-_Page_10_offlead_1_pic-1730191593607_1730191751.jpg--.jpg?1730191751419 "Local genealogy and online databases to be discussed in Ballinascreen")](https://www.derrynow.com/news/what-s-on/1641941/local-genealogy-and-online-databases-to-be-discussed-in-ballinascreen.html)
-
-Boyd Gray from West Ulster Genealogy Services.
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[Local genealogy and online databases to be discussed in Ballinascreen](https://www.derrynow.com/news/what-s-on/1641941/local-genealogy-and-online-databases-to-be-discussed-in-ballinascreen.html)
+[Oakleaf's Carleigh Irving hailed after silver medal success in Sofia](https://www.derrynow.com/news/derry-sport/1642488/oakleaf-s-carleigh-irving-hailed-after-silver-medal-success-in-sofia.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man breached bail prohibiting him from being intoxicated in public](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Man breached bail prohibiting him from being intoxicated in public")](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
+[![Fireworks seized from Bellaghy](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Fireworks281024-1730216878667.jpg--.jpg?1730216879349 "Fireworks seized from Bellaghy")](https://www.derrynow.com/news/county-derry-post/1642406/police-in-magherafelt-have-recovered-a-large-quantity-of-fireworks-that-were-being-sold-illegally.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Fireworks seized from Bellaghy
 
-[Man breached bail prohibiting him from being intoxicated in public](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![Derry doctor urges public to seek immediate help if experiencing stroke symptoms](https://www.derrynow.com/resizer/165/93/true/2024_10_28/Dr_Elizabeth_Best_Stroke_Speciality_Doctor_Altnagelvin-1730121475989.jpeg--.jpeg?1730121477137 "Derry doctor urges public to seek immediate help if experiencing stroke symptoms")](https://www.derrynow.com/news/local-news/1641495/derry-doctor-urges-public-to-seek-immediate-help-if-experiencing-stroke-symptoms.html)
+[Police in Magherafelt have recovered a large quantity of fireworks that were being sold illegally.](https://www.derrynow.com/news/county-derry-post/1642406/police-in-magherafelt-have-recovered-a-large-quantity-of-fireworks-that-were-being-sold-illegally.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dr Elizabeth Best Stroke Speciality Doctor Altnagelvin
+[![Dungiven Men's Shed](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Dungiven_Mens_Shed-1730196119192.jpg--.jpg?1730196119697 "Dungiven Men's Shed")](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Dungiven Men's Shed
 
-[Derry doctor urges public to seek immediate help if experiencing stroke symptoms](https://www.derrynow.com/news/local-news/1641495/derry-doctor-urges-public-to-seek-immediate-help-if-experiencing-stroke-symptoms.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![£300 fine for Derry man who caused criminal damage to items in his mother's house](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "£300 fine for Derry man who caused criminal damage to items in his mother's house")](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
+[Dungiven Men's Shed to host 5k walk/run fundraiser](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
+[![People Before Profit Slam Proposed Fees Increase at University](https://www.derrynow.com/resizer/165/93/true/1623161450217.jpg--.jpg?1623161450000 "People Before Profit Slam Proposed Fees Increase at University")](https://www.derrynow.com/news/derry-news/1641988/people-before-profit-slam-proposed-fees-increase-at-university.html)
 
-[£300 fine for Derry man who caused criminal damage to items in his mother's house](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Magee Building, Ulster University
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[People Before Profit Slam Proposed Fees Increase at University](https://www.derrynow.com/news/derry-news/1641988/people-before-profit-slam-proposed-fees-increase-at-university.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
