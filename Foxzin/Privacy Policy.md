@@ -182,9 +182,9 @@ Popular Games
 
 [![Muscle Race 3D](https://img.gamedistribution.com/657ceeb187c54226b1df4ff63e7fda02-512x384.jpeg)](https://foxzin.com/game/muscle-race-3d)
 
-[![Sneak Out 3D](https://img.gamedistribution.com/55ff6d345dae466b9584e5422dc64c58-512x384.jpeg)](https://foxzin.com/game/sneak-out-3d)
-
 [![Waterpark Slide Race](https://img.gamedistribution.com/ae8989a5126b45d4942b181036c370ae-512x512.jpeg)](https://foxzin.com/game/waterpark-slide-race)
+
+[![Sneak Out 3D](https://img.gamedistribution.com/55ff6d345dae466b9584e5422dc64c58-512x384.jpeg)](https://foxzin.com/game/sneak-out-3d)
 
 [![Giant Rush!](https://img.gamedistribution.com/bbc23c73b9fe49bfbf36b15bfd6b8ebd-512x512.jpeg)](https://foxzin.com/game/giant-rush!)
 
