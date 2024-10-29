@@ -36,7 +36,11 @@
     
     [Testing Overview
     
-    Build winning experiences across web, mobile app, and server-side](https://vwo.com/testing/)
+    Build winning experiences across web, mobile app, and server-side](https://vwo.com/testing/) [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/icon-ai-copilots.svg) VWO Copilot
+    
+    Supercharge your optimization velocity with AI
+    
+    ![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/orb-banner.svg)](https://vwo.com/copilot/)
     
     * [Web Testing
         
@@ -308,6 +312,10 @@
     
     Success Stories
     
+    [![No Baby Blisters Logos Fnl Small](https://static.wingify.com/gcp//uploads/2024/10/No_Baby_Blisters_Logos_FNL-Small.png)
+    
+    No Baby Blisters Improves Donation Page Conversions with VWO](https://vwo.com/success-stories/no-baby-blisters/)
+    
     [![Logo Plymouth Rock](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/10/Logo-Plymouth-Rock.png)
     
     Plymouth Rock Increased Conversions by Redesigning the Final Checkout Flow](https://vwo.com/success-stories/plymouth-rock/)
@@ -343,10 +351,6 @@
     [![Logo](https://static.wingify.com/gcp//uploads/2023/10/logo.png)
     
     SelectHub Uplifts Purchase Rate and Customer Engagement by Testing Product Pages](https://vwo.com/success-stories/selecthub/)
-    
-    [![Orah 2](https://static.wingify.com/gcp//uploads/2023/09/Orah-2-1.png)
-    
-    Orah Increased Demo Requests by Testing Its Homepage for New Visitors](https://vwo.com/success-stories/orah/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
