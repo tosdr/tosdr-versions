@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ecoflow-power-hat-solar-charging-cells-beach-hat/)
+    
+    [EcoFlow Power Hat Puts Solar Cells in a Sun Hat for Charging on the Go](https://www.coolthings.com/ecoflow-power-hat-solar-charging-cells-beach-hat/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/amazon-kindle-colorsoft-color-e-reader-fast-page-turns-32gb/)
+    
+    [Amazon Kindle Colorsoft Brings Color to the E-Reader Line Without Sacrificing Speed](https://www.coolthings.com/amazon-kindle-colorsoft-color-e-reader-fast-page-turns-32gb/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
     
     [Insta360 Ace Pro 2 Brings 8K Video, Dual AI Chips, and Improved Audio Recording](https://www.coolthings.com/insta360-ace-pro-2-8k-video-dual-ai-chips-wind-guard-audio/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/boox-palma-2-smartphone-sized-e-reader-faster-hardware-better-security/)
-    
-    [Boox Palma 2 Refreshes the Smartphone-Sized E-Reader with Faster Hardware, Better Security, and More](https://www.coolthings.com/boox-palma-2-smartphone-sized-e-reader-faster-hardware-better-security/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
-    
-    [Nuio Flow Keyboard Delivers Ergonomic Typing Function in a Premium Package](https://www.coolthings.com/nuio-flow-keyboard-wireless-split-ergonomic-typing-premium-build/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
