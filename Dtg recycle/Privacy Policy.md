@@ -6,7 +6,7 @@
 
 * [Client Portal](https://dtgrecycle.onlineportal.us.com/User/Login?ReturnUrl=%2f)
 
-[![DTG Recycle Logo](https://www.dtgrecycle.com/wp-content/uploads/2024/01/DTG_logo_Clean20-cmyk.png)](https://www.dtgrecycle.com/)
+[![](https://www.dtgrecycle.com/wp-content/uploads/2024/10/DTG_350.png)](https://www.dtgrecycle.com/)
 
 * Services
     
@@ -136,7 +136,7 @@ If you have an account on this site, or have left comments, you can request to r
 
 Visitor comments may be checked through an automated spam detection service.
 
-[![DTG Recycle Logo](https://www.dtgrecycle.com/wp-content/uploads/2024/01/DTG_logo_Clean20-cmyk.png)](https://www.dtgrecycle.com/)
+[![](https://www.dtgrecycle.com/wp-content/uploads/2024/10/DTG_350.png)](https://www.dtgrecycle.com/)
 
 Recycling Services
 
@@ -192,7 +192,7 @@ About & Support
 * [Contact Us](https://www.dtgrecycle.com/about-dtg/contact-us/)
 * [Client Portal](https://dtgrecycle.onlineportal.us.com/User/Login?ReturnUrl=%2f)
 
-[Linkedin](https://www.linkedin.com/company/dtgrecycle/) [Instagram](https://www.instagram.com/dtgrecycle/) [Facebook](https://www.facebook.com/teamDTGrecycle/) [Youtube](https://www.youtube.com/channel/UCfvXE6PCtdBB9bNluU4d_PA) [Tik Tok Icon](https://www.tiktok.com/@dtg.toilet.tok?_t=8lbvd9eD9aQ&_r=1)
+[Linkedin](https://www.linkedin.com/company/dtgrecycle/) [Instagram](https://www.instagram.com/dtgrecycle/) [Facebook](https://www.facebook.com/teamDTGrecycle/) [Youtube](https://www.youtube.com/channel/UCfvXE6PCtdBB9bNluU4d_PA) [X-twitter](https://x.com/dtgrecycle)
 
 [Privacy Policy](https://www.dtgrecycle.com/privacy-policy/)
 
