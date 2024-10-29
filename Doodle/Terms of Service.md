@@ -395,7 +395,6 @@ Blog
 Contact
 
 * [Help Center](https://help.doodle.com/en)
-* [Sales](https://doodle.com/en/contact/sales/)
 * [Doodle UX Research Program](https://doodle.com/en/research/)
 * [Report Abuse](https://help.doodle.com/en/articles/8655939-report-abuse-to-doodle)
 
