@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/103024_Section01_v3-250x141.png)
+    
+    Excellence Unveiled: Candice Powell](https://www.unc.edu/posts/2024/10/29/excellence-unveiled-candice-powell/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/10/NursingDean-250x141.jpg)
     
     Rebecca Hill named nursing’s senior associate dean for academic affairs](https://www.unc.edu/posts/2024/10/28/rebecca-hill-named-nursings-senior-associate-dean-for-academic-affairs/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/CCCS-250x141.jpg)
-    
-    Carolina Cares, Carolina Shares celebrates 40 years of generosity](https://www.unc.edu/posts/2024/10/28/carolina-cares-carolina-shares-celebrates-40-years-of-generosity/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=14e71113b7&text=%prefix%%text%%suffix%&post_id=237895&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=6377c219ab&text=%prefix%%text%%suffix%&post_id=52&type=%type%)
 
 ### Share on Mastodon
 
