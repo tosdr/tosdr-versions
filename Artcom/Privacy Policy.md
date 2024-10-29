@@ -1,6 +1,6 @@
-[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Shop our Holiday Gift Guide](https://www.art.com/gift-guide/holiday)
 
-[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Museum Grade Quality](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Handcrafted in the U.S.A.](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Shop our Holiday Gift Guide](https://www.art.com/gift-guide/holiday)|[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Handcrafted in the U.S.A.](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
