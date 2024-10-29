@@ -64,17 +64,17 @@ Offers
     
     ### Set sail with the Moana 2 Ticket 2 Adventure
     
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more!
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
+* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
     
-    ### Get $5 off on Moana
+    ### Introducing Fandango FanClub!
     
-    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
+    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
+    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
@@ -84,13 +84,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
-* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
+* [Get $5 off on Moana image link ![Get $5 off on Moana](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dee210e0-9332-11ef-8321-2b978811c524--fan-globalofferunit-homepage-moana2gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer) 
     
-    ### Halloween Deals Near You!
+    ### Get $5 off on Moana
     
-    Your favorite Halloween classics at spooky good prices are just a click away.
+    Buy a ticket to Moana 2, Get $5 off on Moana to watch at home.
     
-    [GET TICKETS](https://www.fandangomovietickets.com/halloween_theater_deals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2GWPOffer?cmp=TARS~FANDANGO~Moana2TicketingOffer_Footer)
     
 
 New & Coming soon
