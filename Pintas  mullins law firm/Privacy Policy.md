@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
+[![How much do insurance companies pay for pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-how-much-do-insurance-companies-pay-for-pain-and-suffering.jpg "How Much Do Insurance Companies Pay For Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement "How Much Do Insurance Companies Pay For Pain and Suffering?")
 
-[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
+[#### How Much Do Insurance Companies Pay For Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/average-pain-and-suffering-settlement)
 
-[![Is mesothelioma a type of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-mesothelioma-a-type-of-lung-cancer.jpg "Is Mesothelioma a Type of Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/ "Is Mesothelioma a Type of Lung Cancer?")
+[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
 
-[#### Is Mesothelioma a Type of Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/)
+[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
 
-[![When should i contact a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomawhen-should-i-contact-a-mesothelioma-lawyer-scaled.jpg "When Should I Contact a Mesothelioma Lawyer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/ "When Should I Contact a Mesothelioma Lawyer?")
+[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
 
-[#### When Should I Contact a Mesothelioma Lawyer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/)
+[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
 
 ### Injured?  
 Tell Us What Happened.
