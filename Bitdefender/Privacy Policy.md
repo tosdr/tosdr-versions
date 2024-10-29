@@ -148,7 +148,7 @@
         Quick Links
         
         * [MDR Insights](https://www.bitdefender.com/en-us/blog/businessinsights/tag/managed-detection-and-response/)
-        * [MITRE Engenuity for MDR](https://www.bitdefender.com/content/dam/bitdefender/business/products/mdr/category/Bitdefender_MITRE_Evaluation_2024_Datasheet_English.pdf)
+        * [MITRE Engenuity for MDR](https://www.bitdefender.com/business/explore/mdr-paid/ebook-bitdefender-definitive-guide-to-mitre-engenuitys-attck-evaluations-for-managed-services?utm_source=website&campaign=22024_May_WW_CORE_EPP_DM_Premium_Content_Evolve_Cybersecurity__XDR_trial)
         * [Gartner Market Guide for MDR](https://www.bitdefender.com/en-us/business/campaign/2024_gartner_mdr_market_guide)
         
     * Why Bitdefender
