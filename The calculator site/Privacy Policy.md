@@ -348,7 +348,7 @@ Discover the number one song and movie on the day you were born.
 
 #### Cooking
 
-[Cooking Converter](https://www.thecalculatorsite.com/cooking/cooking-calculator.php) [Cups to Grams](https://www.thecalculatorsite.com/cooking/cups-grams.php) [Grams to Tablespoons](https://www.thecalculatorsite.com/cooking/grams-tablespoons.php) [Grams to Teaspoons](https://www.thecalculatorsite.com/cooking/grams-teaspoons.php) [mL to Grams](https://www.thecalculatorsite.com/cooking/ml-grams.php) [All Cooking Calculators...](https://www.thecalculatorsite.com/cooking/)
+[Cups to Grams](https://www.thecalculatorsite.com/cooking/cups-grams.php) [Grams to Cups](https://www.thecalculatorsite.com/cooking/grams-cups.php) [Grams to Tablespoons](https://www.thecalculatorsite.com/cooking/grams-tablespoons.php) [Grams to Teaspoons](https://www.thecalculatorsite.com/cooking/grams-teaspoons.php) [mL to Grams](https://www.thecalculatorsite.com/cooking/ml-grams.php) [All Cooking Calculators...](https://www.thecalculatorsite.com/cooking/)
 
 #### Company
 
