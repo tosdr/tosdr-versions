@@ -52,7 +52,7 @@ Close
     * [Impact](https://www.amnesty.org/en/latest/impact/)
 * [Search](https://www.amnesty.org/en/search/)
 
-COOKIE STATEMENT
+Cookie Statement
 ================
 
 Amnesty International’s website, like most websites, uses small text files called cookies. This note provides information on what cookies are, which cookies Amnesty International uses, and how they can be controlled.
