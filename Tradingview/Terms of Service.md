@@ -287,16 +287,16 @@ The authors and TradingView are not liable for any losses incurred as a result o
 
 The contents of these publications should not be interpreted as an express or implicit promise, guarantee, or indication by TradingView that customers will profit or that losses in connection with them can or will be limited if they rely on the information provided.
 
-24\. TradingView coins referral program rules
+24\. TradingView referral program rules
 
 
--------------------------------------------------
+-------------------------------------------
 
 1. Who is eligible to be a referrer? Any TradingView account holder can become a referrer.
     
-2. Who is eligible to become a referee? Your friends or social media followers may be eligible to be referees. To receive coin rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can't have more than one account. In addition, your referee must create an account via your shared link and make a purchase on the website. Note that the bonus can only be given for purchases made on the website, not in the apps.
+2. Who is eligible to become a referee? Your friends or social media followers may be eligible to be referees. To receive rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user and can't have more than one account. In addition, your referee must create an account via your shared link and make a purchase on the website. Note that the bonus can only be given for purchases made on the website, not in the apps.
     
-3. How can I use my referral link? TradingView wants you to share your referral link and earn TradingView coins, but you agree that you will not:
+3. How can I use my referral link? TradingView wants you to share your referral link and earn TradingView rewards, but you agree that you will not:
     
     * Try to get referees by spamming, bulk emailing, or sending large numbers of unsolicited emails. The only people you should be emailing are people you know personally;
     * Use, display, or manipulate TradingView intellectual property (such as TradingView logos, trademarks, and copyright-protected works) in any way, except as to identify yourself as a TradingView user or a TradingView referrer;
@@ -305,17 +305,17 @@ The contents of these publications should not be interpreted as an express or im
     * Use automated systems or bots through any channel to distribute, post, or otherwise share your referral link;
     * Use scripts or programmed or automatic dialers to send invites or otherwise share your referral link;
     * Make misleading claims about TradingView, use offensive/abusive content, create fake websites/webpages/social media profiles/apps, misrepresent your connection to TradingView, or otherwise make any false or misleading statements to get a referee to use your link, or use your referral link in any manner that violates the law or TradingView House Rules.
-4. How do I earn TradingView coins? Referrers get rewarded with TradingView coins for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView coins after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView coins in the amount of $15 for their purchase of any subscription. To receive TradingView coins for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Remember, you will only receive this bonus for purchases made on the website and not through the apps.
+4. How do I earn TradingView rewards? Referrers get rewarded for inviting new users that purchase subscriptions. As long as you and your referee follow these Rules, as well as TradingView's posted policies, you should receive your TradingView rewards after your referee uses your link to sign up with TradingView and makes their first payment within three months of creating their account. As a result, referrers receive TradingView earnings in the amount of $15 for their purchase of any subscription. To receive TradingView rewards for referring someone who orders a paid plan on TradingView, your referee must be a new TradingView user. Remember, you will only receive this bonus for purchases made on the website and not through the apps.
     
-    The requirements for receiving, and the amounts of TradingView coins are subject to change at TradingView's sole discretion. Referral rewards in the form of TradingView coins are not transferable, have no cash value, and may expire. TradingView may cancel a reward at any time at its sole discretion.
+    The requirements for receiving, and the amounts of TradingView earnings are subject to change at TradingView's sole discretion. Referral rewards are not transferable, have no cash value, and may expire. TradingView may cancel a reward at any time at its sole discretion.
     
     In case your referee files a chargeback or claims a refund for their paid subscription, the reward that you and your referee both received from TradingView will be canceled.
     
-5. Can I earn coins by sharing the link via mobile app? Yes, you can earn coins but there's a few conditions you'll need to meet. You can share the link via the app, but your referee needs to sign up via your link and purchase a subscription on the website only to get coins. This bonus is not available for app purchases.
+5. Can I earn rewards by sharing the link via mobile app? Yes, you can earn rewards but there's a few conditions you'll need to meet. You can share the link via the app, but your referee needs to sign up via your link and purchase a subscription on the website only to get rewards. This bonus is not available for app purchases.
     
-6. How do I spend TradingView coins? You are able to spend TradingView coins by purchasing a new subscription or extending an existing one. Please note that TradingView coins can't be used to pay for exchange market data and coins can't be used for purchases in the apps.
+6. How do I spend TradingView earnings? You are able to spend TradingView earnings by purchasing a new subscription or extending an existing one. Please note that TradingView earnings can't be used to pay for exchange market data and earnings can't be used for purchases in the apps.
     
-7. Termination and changes. TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer's or referee's ability to participate in any referral program or receive TradingView coins at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
+7. Termination and changes. TradingView reserves the right to change, end, or pause, in whole or in part, any referral program, as well as any referrer's or referee's ability to participate in any referral program or receive TradingView earnings at any time for any reason, including suspected fraud (including by either the referrer and/or referee), abuse, or any violation of these Rules.
     
 
 25\. Limitation of liability
