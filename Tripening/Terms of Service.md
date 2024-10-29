@@ -344,7 +344,7 @@ Nothing herein is intended to limit Tripening’s right to provide the Services 
 
 1. **No Waiver.** A Party’s failure or delay in enforcing any provision of these Terms will not operate as a waiver of the right to enforce that provision or any other provision of these Terms at any time. A waiver of any provision of these Terms shall be in writing, specify the provision to be waived and signed/executed by the Party agreeing to the waiver. 
 
-1. **Notices.** Except as otherwise provided under these Terms, any notice required or permitted to be given will be effective only if it is in writing and sent by certified mail, registered mail, courier or to [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection).  
+1. **Notices.** Except as otherwise provided under these Terms, any notice required or permitted to be given will be effective only if it is in writing and sent by certified mail, registered mail, courier or to [notices@tripening.com](mailto:notices@tripening.com).  
 
 1. **Governing Law & Dispute Resolution.** These Terms, and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims), shall be governed by, and construed in accordance with the laws of the State of New York, United States of America (USA). You agree that in respect of any dispute arising upon, over or in respect of any of the terms and conditions of these Terms, only the Alternative Dispute Resolution forum in the State of New York shall have jurisdiction to try and adjudicate such dispute to the exclusion of the State of New York’s Court system.
 
@@ -352,7 +352,7 @@ Nothing herein is intended to limit Tripening’s right to provide the Services 
 
 1. **Contact Information**
 
-Should you have any questions regarding these Terms and/or any issues or concerns about the Website, Mobile App, Platform and/or Services you may contact Tripening at [\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection).  
+Should you have any questions regarding these Terms and/or any issues or concerns about the Website, Mobile App, Platform and/or Services you may contact Tripening at legal@tripening.com.  
 
 **Effective Date: 10th of November, 2020**
 
@@ -367,11 +367,11 @@ Should you have any questions regarding these Terms and/or any issues or concern
 * [About Us](https://www.tripening.com/about-us)
 * Contact Us
 
-[\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection)
+[help@tripening.com](mailto:help@tripening.com)
 
    
 
-[\[email protected\]](https://www.tripening.com/cdn-cgi/l/email-protection)
+[help@tripening.com](mailto:help@tripening.com)
 
     
 
