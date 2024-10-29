@@ -190,7 +190,6 @@ About Us
         
         [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
         
-        * [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/annual-report-university-evaluation-unit)
         * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
         
     
@@ -278,7 +277,6 @@ Organization
     
     [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     
-    * [Annual Report - University Evaluation Unit](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/annual-report-university-evaluation-unit)
     * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
     
 
