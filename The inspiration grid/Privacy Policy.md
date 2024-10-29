@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/photography-dasha-pears-24-feature.jpg)
+
+[](https://theinspirationgrid.com/psychorealism-surreal-images-by-dasha-pears/)
+
+### Psychorealism: Surreal Images by Dasha Pears
+
+![](https://inspgr.id/app/uploads/2024/10/art-max-siedentopf-feature.jpg)
+
+[](https://theinspirationgrid.com/democracy-other-hyper-realistic-sculptures-by-max-siedentopf/)
+
+### Democracy & Other Hyper-Realistic Sculptures by Max Siedentopf
+
 ![](https://inspgr.id/app/uploads/2024/10/architecture-refuge-de-barroude-feature.jpg)
 
 [](https://theinspirationgrid.com/refuge-de-barroude-a-stunning-safe-haven/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/creative-photography-art-direction-by-aleksandra-kingo/)
 
 ### Creative Photography & Art Direction by Aleksandra Kingo
-
-![](https://inspgr.id/app/uploads/2024/10/art-luciano-cian-24-feature.jpg)
-
-[](https://theinspirationgrid.com/artworks-24-new-paintings-by-luciano-cian/)
-
-### Artworks 24: New Paintings by Luciano Cian
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-adriana-vala-feature.jpg)
-
-[](https://theinspirationgrid.com/bold-colorful-illustrations-by-adriana-vala/)
-
-### Bold & Colorful Illustrations by Adriana Vala
 
 Awesome products for creatives
 ------------------------------
