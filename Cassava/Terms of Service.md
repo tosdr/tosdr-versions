@@ -19,8 +19,8 @@ Light Dark System
 Terms of Service
 ================
 
-_Last updated: December 31, 2023_
----------------------------------
+_Last updated: October 27, 2024_
+--------------------------------
 
 Thank you for using Cassava!
 
@@ -85,14 +85,16 @@ If you cancel your subscription before the end of your current paid up period, y
 Account Deletion and Termination
 ================================
 
-You can choose to delete your account and all your of data at any time. Simply contact support (support@gocassava.com) with your request and you will receive instructions on how to proceed.
+As an admin, you can delete your account and all your data at any time. A 7-day grace period exists, during which all administrators are notified of the intended action and can contact customer support to cancel the request if it was a mistake. The deletion is finalized at the end of the grace period.
+
+All training programs, media assets, and other personal information are permanently deleted from our database and AWS storage. Data in our managed database backups can persist from 7 to 30 days. We may retain information about purchases, records showing that we deleted your account, aggregated analytics, as well as data in an active legal case.
 
 We reserve the right to suspend or terminate your account and refuse any and all current or future use of the service for any reason at any time. Such termination of the service will result in the deactivation or deletion of your account or your access to your account and site stats. Cassava reserves the right to refuse service to anyone for any reason at any time.
 
 Verbal, physical, written or other abuse (including threats of abuse or retribution) of any service customer, company employee or officer may result in immediate account termination.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Modifications to the service and prices
 =======================================
@@ -211,11 +213,11 @@ Submit
 
 [Back to top](#top)
 
-v3.1.1.02d5198© 2024 Cassavarose LLC. All rights reserved
+v3.1.2.bbc0f00© 2024 Cassavarose LLC. All rights reserved
 
  [![Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs](https://assets.gocassava.com/assets/blog/business_coaching_400x400.png)](https://gocassava.com/blog/cassava-for-business-coaches)Maximize the Engagement, Adoption, and Retention of your Business Coaching Programs
 
- [![Why Compliance Training Sucks and How You can Fix It](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
+ [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
  [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
 
