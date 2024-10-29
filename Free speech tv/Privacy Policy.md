@@ -326,6 +326,8 @@ This Privacy Policy is effective as of March 1, 2024.
 * [Privacy](https://freespeech.org/privacy/)
 * [Contact](https://freespeech.org/contact-us/)
 
+TONIGHT!
+
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E)
 
 ![](https://freespeech.org/wp-content/uploads/2023/06/Your-paragraph-text-1-1024x576.png)
