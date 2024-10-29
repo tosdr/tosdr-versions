@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Compliment the Above Nation III (7,264)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,264 posts)")
-* [American Politics: Remember, Remember… (5,047)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: Remember, Remember, the 5th of..." (5,047 posts)")
-* [Commend or Condemn AN II (1,593)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (1,593 posts)")
-* [Most Random Thing You've Eaten (98)](https://forum.nationstates.net/viewtopic.php?t=557642&f=20&view=unread#unread ""Most Random Thing You've Eaten" (98 posts)")
-* [What religion does AU follow? (OOC) (1,153)](https://forum.nationstates.net/viewtopic.php?t=553197&f=25&view=unread#unread ""What religion does AU follow? (OOC)" (1,153 posts)")
+* [Ukrainian War VII: Everything has a p… (8,031)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,031 posts)")
+* [What is unique abt AN? (1,370)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,370 posts)")
+* [Christian Discussion: No more Fun wit… (4,347)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (4,347 posts)")
+* [2 Truths & a Lie (49)](https://forum.nationstates.net/viewtopic.php?t=557674&f=25&view=unread#unread ""2 Truths & a Lie" (49 posts)")
+* [Merge the 2 AN's Names (9,286)](https://forum.nationstates.net/viewtopic.php?t=427976&f=25&view=unread#unread ""Merge the 2 AN's Names" (9,286 posts)")
 
 Advertisement
 
