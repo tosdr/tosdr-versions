@@ -20,16 +20,16 @@ Tuesday, October 29 2024
 
 Latest
 
-* [Kaseya’s partner-first focus and peer program is setting it up for success now and in the future](https://digitpatrox.com/kaseyas-partner-first-focus-and-peer-program-is-setting-it-up-for-success-now-and-in-the-future/)
-* [Apple’s new M4 iMac: Faster, smarter, and made for AI](https://digitpatrox.com/apples-new-m4-imac-faster-smarter-and-made-for-ai/)
-* [This Eight-Piece Ring Alarm Set Is 40% Off](https://digitpatrox.com/this-eight-piece-ring-alarm-set-is-40-off/)
-* [How to stream Sky Sports in the USA](https://digitpatrox.com/how-to-stream-sky-sports-in-the-usa/)
-* [Best Replacement Windows of 2024](https://digitpatrox.com/best-replacement-windows-of-2024/)
-* [How to Choose a CPU With the Right TDP](https://digitpatrox.com/how-to-choose-a-cpu-with-the-right-tdp/)
-* [Can AI coding tools be trusted? Developers aren’t so sure – over a third are concerned about AI-generated code quality despite widespread adoption and productivity gains](https://digitpatrox.com/can-ai-coding-tools-be-trusted-developers-arent-so-sure-over-a-third-are-concerned-about-ai-generated-code-quality-despite-widespread-adoption-and-productivity-gains/)
-* [All You Need To Know](https://digitpatrox.com/all-you-need-to-know/)
-* [Microsoft just paused Windows 11 24H2 update for many PCs due to crashes and freezes](https://digitpatrox.com/microsoft-just-paused-windows-11-24h2-update-for-many-pcs-due-to-crashes-and-freezes/)
-* [New tool bypasses Google Chrome’s new cookie encryption system](https://digitpatrox.com/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
+* [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
+* [When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
+* [Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
+* [OpenAI set to release its next big AI model in December – Computerworld](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
+* [Leave Your Phone at Home When You Access Reproductive Care (Like an Abortion)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
+* [Weight Loss Drug Benefits and Risks](https://digitpatrox.com/weight-loss-drug-benefits-and-risks/)
+* [Is a 5G Laptop Better Than Just Using Phone Tethering?](https://digitpatrox.com/is-a-5g-laptop-better-than-just-using-phone-tethering/)
+* [Inside Lumi, one of the world’s greenest supercomputers](https://digitpatrox.com/inside-lumi-one-of-the-worlds-greenest-supercomputers/)
+* [7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
+* [OnePlus 13 will sport massive 6,000 mAh battery that blows away Galaxy S25 Ultra](https://digitpatrox.com/oneplus-13-will-sport-massive-6000-mah-battery-that-blows-away-galaxy-s25-ultra/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/hwP8ypBMnk3HWV7MFTd8cU-1200-80.jpg)](https://digitpatrox.com/kaseyas-partner-first-focus-and-peer-program-is-setting-it-up-for-success-now-and-in-the-future/)
+* [![](https://cdn.vox-cdn.com/thumbor/HxO-3WrpxWN3bKEzFBMdmRp0Td0=/0x0:2040x1360/1200x628/filters:focal(921x470:922x471)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951504/VRG_Illo_STK173_L_Normand_JeffBezos_Neutral.jpg)](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
     
-    [Kaseya’s partner-first focus and peer program is setting it up for success now and in the future](https://digitpatrox.com/kaseyas-partner-first-focus-and-peer-program-is-setting-it-up-for-success-now-and-in-the-future/)
+    [Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
     
-    19 mins ago
+    13 mins ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593063-0-67465200-1730134002-Apple-iMac-M4-green-iMac.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apples-new-m4-imac-faster-smarter-and-made-for-ai/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Fortnite-chapter-5-season-4-official-image.jpg)](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
     
-    [Apple’s new M4 iMac: Faster, smarter, and made for AI](https://digitpatrox.com/apples-new-m4-imac-faster-smarter-and-made-for-ai/)
+    [When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
     
-    41 mins ago
+    28 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01JB90CSVHSAFWXAE3NXPRQKFC/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-eight-piece-ring-alarm-set-is-40-off/)
+* [![](https://cdn.mos.cms.futurecdn.net/9q3EjUxCcg3Qvjc6dxEHdX-1200-80.jpg)](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
     
-    [This Eight-Piece Ring Alarm Set Is 40% Off](https://digitpatrox.com/this-eight-piece-ring-alarm-set-is-40-off/)
-    
-    1 hour ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-stream-Sky-Sports-in-the-USA.jpg)](https://digitpatrox.com/how-to-stream-sky-sports-in-the-usa/)
-    
-    [How to stream Sky Sports in the USA](https://digitpatrox.com/how-to-stream-sky-sports-in-the-usa/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1551980349/prod/content/dam/CRO%20Images%202019/Home/03March/CR-Home-InlineHero-Best-Replacement-Windows-From-Tests-03-19)](https://digitpatrox.com/best-replacement-windows-of-2024/)
-    
-    [Best Replacement Windows of 2024](https://digitpatrox.com/best-replacement-windows-of-2024/)
+    [Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593066-0-94185100-1730132109-shutterstock_2453873041.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
+    
+    [OpenAI set to release its next big AI model in December – Computerworld](https://digitpatrox.com/openai-set-to-release-its-next-big-ai-model-in-december-computerworld/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JB2PKBMRHBG116E7GPHAA5EA/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
+    
+    [Leave Your Phone at Home When You Access Reproductive Care (Like an Abortion)](https://digitpatrox.com/leave-your-phone-at-home-when-you-access-reproductive-care-like-an-abortion/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 mins ago
+* [13 mins ago
     
-    ### Kaseya’s partner-first focus and peer program is setting it up for success now and in the future](https://digitpatrox.com/kaseyas-partner-first-focus-and-peer-program-is-setting-it-up-for-success-now-and-in-the-future/)
-* [41 mins ago
+    ### Jeff Bezos is no longer relentlessly focused on customer satisfaction](https://digitpatrox.com/jeff-bezos-is-no-longer-relentlessly-focused-on-customer-satisfaction/)
+* [28 mins ago
     
-    ### Apple’s new M4 iMac: Faster, smarter, and made for AI](https://digitpatrox.com/apples-new-m4-imac-faster-smarter-and-made-for-ai/)
-* [1 hour ago
+    ### When Does Fortnite Chapter 5 Season 5 Start?](https://digitpatrox.com/when-does-fortnite-chapter-5-season-5-start/)
+* [2 hours ago
     
-    ### This Eight-Piece Ring Alarm Set Is 40% Off](https://digitpatrox.com/this-eight-piece-ring-alarm-set-is-40-off/)
+    ### Three things you need to know about the US National Security Memorandum on AI](https://digitpatrox.com/three-things-you-need-to-know-about-the-us-national-security-memorandum-on-ai/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [2 weeks ago
     
-    ### The Google Pixel Watch 2 just hit its lowest ever price on Amazon with this Prime Day deal](https://digitpatrox.com/the-google-pixel-watch-2-just-hit-its-lowest-ever-price-on-amazon-with-this-prime-day-deal/)
-* [August 16, 2024
+    ### FCC says all smartphones must be hearing aid compatible](https://digitpatrox.com/fcc-says-all-smartphones-must-be-hearing-aid-compatible/)
+* [August 13, 2024
     
-    ### MIT just launched a new database tracking the biggest AI risks](https://digitpatrox.com/mit-just-launched-a-new-database-tracking-the-biggest-ai-risks/)
-* [1 week ago
+    ### Genshin Impact Natlan Leak Hints a Tragic Past for Muratans](https://digitpatrox.com/genshin-impact-natlan-leak-hints-a-tragic-past-for-muratans/)
+* [August 31, 2024
     
-    ### Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
+    ### UK law firms are facing a torrent of cyber threats – here’s why](https://digitpatrox.com/uk-law-firms-are-facing-a-torrent-of-cyber-threats-heres-why/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Can AI coding tools be trusted? Developers aren’t so sure – over a third are concerned about AI-generated code quality despite widespread adoption and productivity gains](https://digitpatrox.com/can-ai-coding-tools-be-trusted-developers-arent-so-sure-over-a-third-are-concerned-about-ai-generated-code-quality-despite-widespread-adoption-and-productivity-gains/)
-* [3 hours ago
+    ### Is a 5G Laptop Better Than Just Using Phone Tethering?](https://digitpatrox.com/is-a-5g-laptop-better-than-just-using-phone-tethering/)
+* [4 hours ago
     
-    ### All You Need To Know](https://digitpatrox.com/all-you-need-to-know/)
-* [3 hours ago
+    ### Inside Lumi, one of the world’s greenest supercomputers](https://digitpatrox.com/inside-lumi-one-of-the-worlds-greenest-supercomputers/)
+* [4 hours ago
     
-    ### Microsoft just paused Windows 11 24H2 update for many PCs due to crashes and freezes](https://digitpatrox.com/microsoft-just-paused-windows-11-24h2-update-for-many-pcs-due-to-crashes-and-freezes/)
+    ### 7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
