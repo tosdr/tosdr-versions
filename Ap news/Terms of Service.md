@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
     * [Israel passes laws to restrict the work of a UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
-    * [North Korea has sent about 10,000 troops to Russia to fight in Ukraine, Pentagon says](https://apnews.com/article/russia-north-korea-nato-ukraine-war-9b7357344d988ea32d8ca21f6e22dcc5)
-    * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
+    * [Israel approves two bills that could halt UNRWA's aid delivery to Gaza. What does that mean?](https://apnews.com/article/israel-palestinians-hamas-war-un-aid-refugees-16bc0524adc947b95abe25d7d9eca038)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
     * [Fires set in drop boxes destroy hundreds of ballots in Washington and damage 3 in Oregon](https://apnews.com/article/vote-ballot-drop-box-democracy-fire-f66c52f774955106fb9e7c8172825cff)
-    * [Americans in Puerto Rico can't vote for US president. Their anger at Trump is shaping the race](https://apnews.com/article/puerto-rico-trump-joke-garbage-a91e2aafd93a06d32365efa013581b85)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [Harris is speaking at the same spot where Trump fanned anger on Jan. 6, 2021. Here's what happened](https://apnews.com/article/kamala-harris-donald-trump-2024-election-599719041f7d51b541f4f024936ad8d8)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Harris courts Michigan's working-class voters on her second visit to the battleground since Saturday](https://apnews.com/article/trump-harris-computer-chips-hemlock-michigan-06baf9a980e62ffc699e399b5cd42ba6)
-    * [Republicans ask US Supreme Court to block counting of some provisional ballots in Pennsylvania](https://apnews.com/article/supreme-court-pennsylvania-provisional-ballots-e72618cfa6bfd6c254015967451e442a)
+    * [Harris is speaking at the same spot where Trump fanned anger on Jan. 6, 2021. Here's what happened](https://apnews.com/article/kamala-harris-donald-trump-2024-election-599719041f7d51b541f4f024936ad8d8)
+    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
+    * [Election threats persist four years after far-right extremists stormed the US Capitol](https://apnews.com/article/capitol-riot-election-extremism-88457e7bf02a908fa2716047fc370cc6)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Shohei Ohtani leading off for Dodgers in World Series Game 3, two days after dislocating shoulder](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
-    * [Spaniards Rodri and Bonmatí win Ballon d'Or award as Real Madrid snubs ceremony](https://apnews.com/article/ballon-dor-rodri-vinicius-bonmati-a0693556e3bcced352d2521adee8c51d)
-    * [Stephen Curry will miss at least two games for Warriors with left ankle injury](https://apnews.com/article/curry-ankle-warriors-add31c5afc465fd043d22401a9e0464c)
+    * [Freeman and Buehler lead Dodgers past slumping Yankees 4-2 for 3-0 advantage in World Series](https://apnews.com/article/world-series-dodgers-yankees-game-3-score-d3099c04a70ae7732d69da0821e3f5dd)
+    * [Calvin Austin III scores twice as the Steelers hold off the Giants 26-18](https://apnews.com/article/giants-steelers-score-b879e655369ff85ad0878c3fa68a9f0c)
+    * [Shohei Ohtani returns after dislocating shoulder, goes hitless as Dodgers take 3-0 World Series lead](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Erykah Badu celebrated as fashion icon at CFDA Awards after years of pushing boundaries](https://apnews.com/article/fashion-cfda-awards-2024-764a329458891ceb7fe6f2a83d0a2101)
     * [Who is comedian Tony Hinchcliffe, who insulted Puerto Rico at Trump's Madison Square Garden rally?](https://apnews.com/article/tony-hinchcliffe-puerto-rico-things-to-know-25e303873fac6fde3afdab80d941230d)
-    * [Music Review: Tyler, the Creator's 'Chromakopia' looks into the artist's journey to self-discovery](https://apnews.com/article/tyler-creator-chromakopia-review-d3b3d434582aa5b8ef3ce89683e0f34f)
-    * [Brian Williams and Amazon are asking election night news-seekers to take a leap of faith with them](https://apnews.com/article/brian-williams-amazon-election-carville-la-76da61e7d2a7a711f31c18eaf7a7538a)
+    * [Vinyl thrives at United Record Pressing as the nation's oldest record maker plays a familiar tune](https://apnews.com/article/nashville-record-pressing-anniversary-vinyl-df5cf4cc8f74b3575adcd403a65d88cd)
     
 * [Business](https://apnews.com/business)
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Treasury issues rule to block US investors from helping China develop advanced military technology](https://apnews.com/article/treasury-rule-china-artificial-intelligence-chips-investment-86bae5f144e544416e0bf9ca16e7d5af)
-    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 6%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
+    * [Owner Jeff Bezos defends Washington Post's decision not to endorse as the right, 'principled' one](https://apnews.com/article/washington-post-subscriptions-endorsement-07d752d987dbb64b68da63d9ac37b7e8)
+    * [Stock market today: Asian shares mostly rise after Wall Street climbs on Big Tech gains](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     
 * [Science](https://apnews.com/science)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Vinyl thrives at United Record Pressing as the nation's oldest record maker plays a familiar tune](https://apnews.com/article/nashville-record-pressing-anniversary-vinyl-df5cf4cc8f74b3575adcd403a65d88cd)
+    * [Erykah Badu celebrated as fashion icon at CFDA Awards after years of pushing boundaries](https://apnews.com/article/fashion-cfda-awards-2024-764a329458891ceb7fe6f2a83d0a2101)
     * [A fresh pumpkin becomes comfort food in this Creamy Pumpkin Mac and Cheese](https://apnews.com/article/recipe-creamy-mac-cheese-5db3405bb9aae5be2e0a53747a49fbbd)
-    * [Mark Bittman's recipe for a gooey, melty, kid-friendly grilled cheese sandwich](https://apnews.com/article/mark-bittman-grilled-cheese-kid-friendly-f05d769d3f27b8fb5e868e8605a94c08)
-    * [Mark Bittman turns his attention to the small chefs in your household with a cookbook for kids](https://apnews.com/article/mark-bittman-kids-cookbook-5cbf19b11318d42e0975e47647b617f0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Republicans seek votes among the Amish, who rarely cast them, in swing-state Pennsylvania](https://apnews.com/article/pennsylvania-amish-voters-church-state-election-republican-02879042c8ee425c345daa971ecd341e)
-    * [Biden marks anniversary of Pittsburgh synagogue attack that killed 11](https://apnews.com/article/pittsburgh-synagogue-shooting-antisemitism-461dd999e70af7df135af5e84d25226f)
-    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
+    * [An explosion of fireworks injures more than 150 people at a temple in India](https://apnews.com/article/india-temple-firecrackers-explosion-1859c67cf6ecb2bbf502d62a9fae1759)
+    * [Catholic bishops call for authorities to step up against violence in southern Mexico](https://apnews.com/article/mexico-violence-catholic-bishops-guerrero-e7625f58d2c9806ec61caa78843f2e15)
     
     Newsletters
     
@@ -297,8 +297,8 @@ Menu
     * [Pentágono: Corea del Norte ha enviado cerca de 10.000 soldados para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
     * [Una broma de mal gusto de un comediante de EEUU enfurece a Puerto Rico en año electoral](https://apnews.com/article/puerto-rico-trump-harris-broma-basura-a4513a76f000626edb58c1127ca9a986)
     * [La izquierda recupera fuerza en elecciones de Uruguay pero no le alcanza para evitar el balotaje](https://apnews.com/article/uruguay-elecciones-balotaje-orsi-delgado-0fefaf1c85616ad1f2dc311fdacf046b)
-    * [Irán ejecuta al iraní-alemán Jamshid Sharmahd, acusado de terrorismo](https://apnews.com/article/iran-sharmahd-alemania-terrorismo-ecdee48419d17900ca7377c17b405608)
-    * [Policía: Incendios en buzones electorales de Oregon y Washington están relacionados](https://apnews.com/article/elecciones-incendios-casillas-washington-oregon-portland-d31b8183072e0183ffe71b4d0c6e2fd8)
+    * [Reporte: WP pierde 200.000 suscriptores tras no respaldar a ningún candidato presidencial de EEUU](https://apnews.com/article/eeuu-elecciones-prensa-c272a98641ba146c6533e37fc192f4c9)
+    * [Maduro insta a Lula a declarar sobre veto de Brasil al ingreso de Venezuela a los BRICS](https://apnews.com/article/venezuela-maduro-brics-brasil-lula-rusia-putin-a997dfbc1b0a43b938adb46ffd3f198e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -460,9 +460,9 @@ Submit Search
     
     TOP STORIES
     
+    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
     * [Israel passes laws to restrict the work of a UN agency that is a lifeline for Gaza](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-28-2024-6894ad0ffa997d49742908a0e8c952b9)
-    * [North Korea has sent about 10,000 troops to Russia to fight in Ukraine, Pentagon says](https://apnews.com/article/russia-north-korea-nato-ukraine-war-9b7357344d988ea32d8ca21f6e22dcc5)
-    * [Analysis: Iran faces tough choices in deciding how to respond to Israeli strikes](https://apnews.com/article/iran-israel-war-attack-retaliation-analysis-80a619146abd4f8aee2a7776a8f134d1)
+    * [Israel approves two bills that could halt UNRWA's aid delivery to Gaza. What does that mean?](https://apnews.com/article/israel-palestinians-hamas-war-un-aid-refugees-16bc0524adc947b95abe25d7d9eca038)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
+    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
     * [Fires set in drop boxes destroy hundreds of ballots in Washington and damage 3 in Oregon](https://apnews.com/article/vote-ballot-drop-box-democracy-fire-f66c52f774955106fb9e7c8172825cff)
-    * [Americans in Puerto Rico can't vote for US president. Their anger at Trump is shaping the race](https://apnews.com/article/puerto-rico-trump-joke-garbage-a91e2aafd93a06d32365efa013581b85)
-    * [Here's what to watch in the final full week of the presidential campaign](https://apnews.com/article/election-2024-what-to-watch-4de963c6474ff7a0b4044d6a23cf8ad7)
+    * [Harris is speaking at the same spot where Trump fanned anger on Jan. 6, 2021. Here's what happened](https://apnews.com/article/kamala-harris-donald-trump-2024-election-599719041f7d51b541f4f024936ad8d8)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Democrats escalate attacks on Trump after comedian calls Puerto Rico 'floating island of garbage'](https://apnews.com/article/harris-trump-vitriol-racist-insults-3b653c0547eec377f774f1bed970a561)
-    * [Harris courts Michigan's working-class voters on her second visit to the battleground since Saturday](https://apnews.com/article/trump-harris-computer-chips-hemlock-michigan-06baf9a980e62ffc699e399b5cd42ba6)
-    * [Republicans ask US Supreme Court to block counting of some provisional ballots in Pennsylvania](https://apnews.com/article/supreme-court-pennsylvania-provisional-ballots-e72618cfa6bfd6c254015967451e442a)
+    * [Harris is speaking at the same spot where Trump fanned anger on Jan. 6, 2021. Here's what happened](https://apnews.com/article/kamala-harris-donald-trump-2024-election-599719041f7d51b541f4f024936ad8d8)
+    * [For the US election, the AP performs the world's single largest act of journalism](https://apnews.com/article/associated-press-election-race-calls-ap-1e3151554eecc16a26ac318bd3627d17)
+    * [Election threats persist four years after far-right extremists stormed the US Capitol](https://apnews.com/article/capitol-riot-election-extremism-88457e7bf02a908fa2716047fc370cc6)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Shohei Ohtani leading off for Dodgers in World Series Game 3, two days after dislocating shoulder](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
-    * [Spaniards Rodri and Bonmatí win Ballon d'Or award as Real Madrid snubs ceremony](https://apnews.com/article/ballon-dor-rodri-vinicius-bonmati-a0693556e3bcced352d2521adee8c51d)
-    * [Stephen Curry will miss at least two games for Warriors with left ankle injury](https://apnews.com/article/curry-ankle-warriors-add31c5afc465fd043d22401a9e0464c)
+    * [Freeman and Buehler lead Dodgers past slumping Yankees 4-2 for 3-0 advantage in World Series](https://apnews.com/article/world-series-dodgers-yankees-game-3-score-d3099c04a70ae7732d69da0821e3f5dd)
+    * [Calvin Austin III scores twice as the Steelers hold off the Giants 26-18](https://apnews.com/article/giants-steelers-score-b879e655369ff85ad0878c3fa68a9f0c)
+    * [Shohei Ohtani returns after dislocating shoulder, goes hitless as Dodgers take 3-0 World Series lead](https://apnews.com/article/world-series-ohtani-dodgers-311bc657971726bc04028326dcf1cf72)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Erykah Badu celebrated as fashion icon at CFDA Awards after years of pushing boundaries](https://apnews.com/article/fashion-cfda-awards-2024-764a329458891ceb7fe6f2a83d0a2101)
     * [Who is comedian Tony Hinchcliffe, who insulted Puerto Rico at Trump's Madison Square Garden rally?](https://apnews.com/article/tony-hinchcliffe-puerto-rico-things-to-know-25e303873fac6fde3afdab80d941230d)
-    * [Music Review: Tyler, the Creator's 'Chromakopia' looks into the artist's journey to self-discovery](https://apnews.com/article/tyler-creator-chromakopia-review-d3b3d434582aa5b8ef3ce89683e0f34f)
-    * [Brian Williams and Amazon are asking election night news-seekers to take a leap of faith with them](https://apnews.com/article/brian-williams-amazon-election-carville-la-76da61e7d2a7a711f31c18eaf7a7538a)
+    * [Vinyl thrives at United Record Pressing as the nation's oldest record maker plays a familiar tune](https://apnews.com/article/nashville-record-pressing-anniversary-vinyl-df5cf4cc8f74b3575adcd403a65d88cd)
     
 * [Business](https://apnews.com/business)
     
@@ -609,8 +609,8 @@ Submit Search
     TOP STORIES
     
     * [Treasury issues rule to block US investors from helping China develop advanced military technology](https://apnews.com/article/treasury-rule-china-artificial-intelligence-chips-investment-86bae5f144e544416e0bf9ca16e7d5af)
-    * [McDonald’s Quarter Pounder back on the menu after testing rules out beef patties as E. coli source](https://apnews.com/article/mcdonalds-outbreak-e-coli-onions-beef-fe0b86b40857b09dc01c001eacea3b67)
-    * [Stock market today: Wall Street climbs ahead of a big week for Big Tech as oil drops 6%](https://apnews.com/article/stock-markets-rates-earnings-inflation-6b602a788e5be91c7a7f16de889a4134)
+    * [Owner Jeff Bezos defends Washington Post's decision not to endorse as the right, 'principled' one](https://apnews.com/article/washington-post-subscriptions-endorsement-07d752d987dbb64b68da63d9ac37b7e8)
+    * [Stock market today: Asian shares mostly rise after Wall Street climbs on Big Tech gains](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     
 * [Science](https://apnews.com/science)
     
@@ -777,17 +777,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Vinyl thrives at United Record Pressing as the nation's oldest record maker plays a familiar tune](https://apnews.com/article/nashville-record-pressing-anniversary-vinyl-df5cf4cc8f74b3575adcd403a65d88cd)
+    * [Erykah Badu celebrated as fashion icon at CFDA Awards after years of pushing boundaries](https://apnews.com/article/fashion-cfda-awards-2024-764a329458891ceb7fe6f2a83d0a2101)
     * [A fresh pumpkin becomes comfort food in this Creamy Pumpkin Mac and Cheese](https://apnews.com/article/recipe-creamy-mac-cheese-5db3405bb9aae5be2e0a53747a49fbbd)
-    * [Mark Bittman's recipe for a gooey, melty, kid-friendly grilled cheese sandwich](https://apnews.com/article/mark-bittman-grilled-cheese-kid-friendly-f05d769d3f27b8fb5e868e8605a94c08)
-    * [Mark Bittman turns his attention to the small chefs in your household with a cookbook for kids](https://apnews.com/article/mark-bittman-kids-cookbook-5cbf19b11318d42e0975e47647b617f0)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Republicans seek votes among the Amish, who rarely cast them, in swing-state Pennsylvania](https://apnews.com/article/pennsylvania-amish-voters-church-state-election-republican-02879042c8ee425c345daa971ecd341e)
-    * [Biden marks anniversary of Pittsburgh synagogue attack that killed 11](https://apnews.com/article/pittsburgh-synagogue-shooting-antisemitism-461dd999e70af7df135af5e84d25226f)
-    * [Bavarian tradition honors St. Leonhard, patron saint of farmers, horses and livestock](https://apnews.com/article/germany-bavaria-st-leonhard-horses-ba150ba57c2184138e4bd44056499ed5)
+    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
+    * [An explosion of fireworks injures more than 150 people at a temple in India](https://apnews.com/article/india-temple-firecrackers-explosion-1859c67cf6ecb2bbf502d62a9fae1759)
+    * [Catholic bishops call for authorities to step up against violence in southern Mexico](https://apnews.com/article/mexico-violence-catholic-bishops-guerrero-e7625f58d2c9806ec61caa78843f2e15)
     
     Newsletters
     
@@ -805,8 +805,8 @@ Submit Search
     * [Pentágono: Corea del Norte ha enviado cerca de 10.000 soldados para ayudar a Rusia contra Ucrania](https://apnews.com/article/rusia-norcorea-guerra-soldados-ucrania-kursk-otan-e0f2cc1d9ed66054ea7f0b7782c94bdd)
     * [Una broma de mal gusto de un comediante de EEUU enfurece a Puerto Rico en año electoral](https://apnews.com/article/puerto-rico-trump-harris-broma-basura-a4513a76f000626edb58c1127ca9a986)
     * [La izquierda recupera fuerza en elecciones de Uruguay pero no le alcanza para evitar el balotaje](https://apnews.com/article/uruguay-elecciones-balotaje-orsi-delgado-0fefaf1c85616ad1f2dc311fdacf046b)
-    * [Irán ejecuta al iraní-alemán Jamshid Sharmahd, acusado de terrorismo](https://apnews.com/article/iran-sharmahd-alemania-terrorismo-ecdee48419d17900ca7377c17b405608)
-    * [Policía: Incendios en buzones electorales de Oregon y Washington están relacionados](https://apnews.com/article/elecciones-incendios-casillas-washington-oregon-portland-d31b8183072e0183ffe71b4d0c6e2fd8)
+    * [Reporte: WP pierde 200.000 suscriptores tras no respaldar a ningún candidato presidencial de EEUU](https://apnews.com/article/eeuu-elecciones-prensa-c272a98641ba146c6533e37fc192f4c9)
+    * [Maduro insta a Lula a declarar sobre veto de Brasil al ingreso de Venezuela a los BRICS](https://apnews.com/article/venezuela-maduro-brics-brasil-lula-rusia-putin-a997dfbc1b0a43b938adb46ffd3f198e)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
