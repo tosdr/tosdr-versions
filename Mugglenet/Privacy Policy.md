@@ -368,15 +368,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
+The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
 
 ### Potter History
 
-December 20, 2004 – Harry Potter and the Half-Blood Prince is complete, with a release date being announced within 24 hours.
+August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
 
 ### Potter Quote
 
-“Queen, honey. Well, I’m just curious, when were you going to wake me up? After we’d had five kids?”
+“Alas! Ear wax!”
 
 [](#)
 
