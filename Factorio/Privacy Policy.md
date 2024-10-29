@@ -6,15 +6,17 @@
 
 [Game](https://factorio.com/game/game-overview)
 
-[Screenshots](https://factorio.com/game/screenshots) [Videos](https://factorio.com/game/videos) [Content](https://factorio.com/game/content) [Space Age Content](https://factorio.com/game/content-space-age) [Artwork](https://factorio.com/game/artwork) [About us](https://factorio.com/game/about) [Buy](https://factorio.com/buy) [Buy Space Age](https://factorio.com/buy-space-age) [Demo](https://factorio.com/download)
+[Screenshots](https://factorio.com/game/screenshots) [Videos](https://factorio.com/game/videos) [Content](https://factorio.com/game/content) [Merch](https://factorio.com/store) [Artwork](https://factorio.com/game/artwork) [About us](https://factorio.com/game/about) [Buy](https://factorio.com/buy) [Demo](https://factorio.com/download)
 
-[Merch](https://factorio.com/store)
+[Space Age](https://factorio.com/space-age/overview)
+
+[Content](https://factorio.com/space-age/content) [Galaxy](https://factorio.com/galaxy) [Presskit](https://factorio.com/space-age/presskit) [Buy](https://factorio.com/space-age/buy)
 
 [Blog](https://factorio.com/blog/)
 
 [Support](https://factorio.com/support/support-overview)
 
-[Help](https://factorio.com/support/help) [FAQ](https://factorio.com/support/faq) [Presskit](https://factorio.com/presskit) [Space Age Presskit](https://factorio.com/support/press-kit-space-age) [Contact](https://factorio.com/support/contact)
+[Help](https://factorio.com/support/help) [FAQ](https://factorio.com/support/faq) [Presskit](https://factorio.com/presskit) [Contact](https://factorio.com/support/contact)
 
 WUBE SOFTWARE LTD  
 DATA PRIVACY POLICY
