@@ -91,6 +91,10 @@ We may employ third party companies and individuals to facilitate our Service ("
 
 These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
+### Advertising Partners
+
+We work with third-party advertising partners to show you ads. Some of our advertising partners may use cookies and similar technologies to collect information about you when you use our service. For more information about how these partners may use your data, please see the [Freestar Privacy Policy](https://freestar.com/privacy-policy/).
+
 Changes To This Privacy Policy
 ------------------------------
 
