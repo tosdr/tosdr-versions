@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Diddy Baby Oil Costume Controversy](https://knowyourmeme.com/memes/events/p-diddy-baby-oil-costume-controversy "Diddy Baby Oil Costume Controversy") [Napoleo](https://knowyourmeme.com/memes/napoleo "Napoleo") [BLU Scout Pants Fix](https://knowyourmeme.com/memes/events/blu-scout-pants-fix "BLU Scout Pants Fix") [I Got Racks Now Rhonda](https://knowyourmeme.com/memes/events/nettspend-rhonda-situation-i-got-racks-now-rhonda "I Got Racks Now Rhonda") [She's So Crazzzzzzzy Love Her](https://knowyourmeme.com/memes/shes-so-crazzzzzzzy-love-her "She's So Crazzzzzzzy Love Her")
+[Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Hello Kitty Girl and UCF Professor Rumor](https://knowyourmeme.com/memes/events/hello-kitty-girl-and-ucf-professor-travis-meade-dating-rumor-controversy "Hello Kitty Girl and UCF Professor Rumor")
 
 Terms of Service and Use
 ========================
