@@ -22,7 +22,7 @@ The username/email and password combination you entered was not found. Please tr
 * [Human Respect Tests](https://www.theadvocates.org/human-respect-tests/)
 * [Articles](https://www.theadvocates.org/articles/)
 * [Our Mission](https://www.theadvocates.org/about/)
-* [Shop](https://shop.www.theadvocates.org/)
+* [Shop](https://shop.theadvocates.org/)
 * [Donate](https://www.theadvocates.org/donate/)
 * [Become a Patron](https://www.theadvocates.org/membership/)
 * [Sign In](https://www.theadvocates.org/#loginbox)
@@ -530,7 +530,7 @@ Enable Dark Mode
     
     Source for libertarian books
     
-    Read more](https://shop.www.theadvocates.org/)
+    Read more](https://shop.theadvocates.org/)
     
     More Links
     
@@ -591,7 +591,7 @@ Enable Dark Mode
 ![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 * [ASG Stream](https://asg.stream/)
-* [Our Store](https://shop.www.theadvocates.org/)
+* [Our Store](https://shop.theadvocates.org/)
 
 * [](https://x.com/TheAdvocates)
 * [](https://www.facebook.com/SelfGov)
@@ -1024,7 +1024,7 @@ The Advocates
 
 * [Our Team](https://www.theadvocates.org/team/)
     
-* [Store](https://shop.www.theadvocates.org/)
+* [Store](https://shop.theadvocates.org/)
     
 * [Become A Patron](https://www.theadvocates.org/membership)
     
