@@ -447,7 +447,7 @@ We never sell, share, or transfer your data to third parties for the third party
 
 We may update this Privacy Statement from time to time by publishing an updated version on Nuance's Sites. Each updated version will include the date the statement was last updated. Please review the latest version of this Privacy Statement periodically to keep current with Nuance’s use of personal data. If we make material changes in the way Nuance uses or shares personal data, we will publish the updates on our Sites. Any such material changes will only apply to personal data collected after the revised Privacy Statement takes effect.
 
-Updated: January 1, 2024.
+Updated: March 15, 2024.
 
 Enter a keyword to search Nuance.com  
 
