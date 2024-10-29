@@ -95,6 +95,32 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Stewardship
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/sharing_the_message_1400x1050.jpg)](https://www.icr.org/article/sharing-message-christ-our-creator)
+
+[Sharing the Message of Christ Our Creator](https://www.icr.org/article/sharing-message-christ-our-creator/)
+
+The Institute for Creation Research’s founder, the late Dr. Henry M. Morris, emphasized that “we must try not only to win individual scientists...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/be_blessed.jpg)](https://www.icr.org/article/be-blessed)
+
+[Be Blessed](https://www.icr.org/article/be-blessed/)
+
+During the days of Jesus, being blessed had a different meaning from what Christians understand it to mean today. The Theological Dictionary of the...
+
+BY: [BILL WEST](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=248)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/MakingLifeCount_1400x1050.jpg)](https://www.icr.org/article/making-life-count-for-creator)
+
+[Making Life Count for the Creator](https://www.icr.org/article/making-life-count-for-creator/)
+
+Ecclesiastes was written by Solomon, a king who appeared to “have it all”—even the inspiration of the Holy Spirit. Yet, near the end...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
