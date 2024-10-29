@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 604 active visitors** | **Monday, October 28, 2024** |
+| **You are 1 of 685 active visitors** | **Monday, October 28, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**If ye love wealth greater than liberty, the tranquillity of servitude greater than the animating contest for freedom, go home from us in peace. We seek not your counsel, nor your arms. Crouch down and lick the hand that feeds you. May your chains set lightly upon you, and may posterity forget that ye were our countrymen. � Samuel Adams
+ **QUOTES TO REMEMBER**"Secrecy is the keystone of all tyranny. Not force, but secrecy ... censorship. When any government, or any church, for that matter, undertakes to say to it's subjects, 'This you may not read, this you must not see, this you are forbidden to know,' the end result is tyranny and oppression, no matter how holy the motives. Mighty little force is needed to control a man whose mind has been hoodwinked; contrariwise, no amount of force can control a free man, a man whose mind is free. No, not the rack, not fission bombs, not anything. You cannot conquer a free man; the most you can do is kill him." --Robert A. Heinlein, "Revolt in 2100" (Pg. 68-69, Baen Books paperback edition, 1999 printing)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
