@@ -1,5 +1,15 @@
 [Skip to main content](#main-content)
 
+Confirm opening of the external link
+
+You are now leaving the official SCORE website. You will be redirected to a website beyond our control. This content will open in a new tab.  
+  
+Please review their terms, privacy policies, and relevant information before engaging or providing personal details.  
+  
+SCORE does not endorse or take responsibility for the content, accuracy, privacy policies, or practices of these third-party websites.
+
+Cancel Continue
+
 [Use my current location](#)
 
 Our hearts go out to those affected by the recent hurricanes and flooding. If you need help, [SCORE mentors are here for you](https://www.score.org/find-mentor).
