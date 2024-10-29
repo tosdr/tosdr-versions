@@ -6,7 +6,7 @@ Secondary
 ---------
 
 * [Equity](https://www.minneapolis.edu/equity-inclusion "Equity and Inclusion")
-* [About](https://minneapolis.edu/about-us "Learn about Minneapolis College")
+* [About](https://minneapolis.edu/about-minneapolis-college "Learn about Minneapolis College")
 * [Alumni & Friends](https://minneapolis.edu/alumni-and-friends "Alumni and Foundation")
 * [AskUs](https://minneapolis.edu/askus "Go to AskUs")
 * [Students](https://minneapolis.edu/current-students "One Stop for Students")
