@@ -342,11 +342,11 @@ Check our last articles of blog
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
-[![](https://www.foxintelligence.io/wp-content/uploads/2024/10/Rentree2024-1024x681.jpg)](https://www.foxintelligence.io/2024-schoolbag-market-growth-dynamics/)
+[![tech-and-durables](https://www.foxintelligence.io/wp-content/uploads/2024/10/pexels-ingo-1682821-1024x683.jpg)](https://www.foxintelligence.io/innovate-to-elevate-driving-tech-durables-spending-in-2025/)
 
-[Back to School 2024 in France: online schoolbag sales return to growth and show new dynamics](https://www.foxintelligence.io/2024-schoolbag-market-growth-dynamics/)
+[Innovate to elevate: Driving Tech & Durables spending in 2025](https://www.foxintelligence.io/innovate-to-elevate-driving-tech-durables-spending-in-2025/)
 
-After a disappointing 2023, which saw a 3% decline in value in online schoolbag sales in France, 2024 is showing …
+In the slowly improving but complex Tech & Durables markets around the world, product manufacturers and retailers are questioning how …
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
