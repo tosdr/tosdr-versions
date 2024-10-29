@@ -1,14 +1,19 @@
 **JavaScript is currently not supported or is disabled by this browser.**  
 Some features of this site will not be available. Please enable JavaScript for full functionality.  
 
-[OCLC.org](https://www.oclc.org/ "OCLC.org Home")
+[Skip to page content.](#main-content "Skip navigation and go directly to page content")
 
-* [OCLC.org Home](https://www.oclc.org/)
-* [Research](https://www.oclc.org/research/home.html)
-* [Support and Training](https://help.oclc.org/)
-* [Community Center](https://www.oclc.org/community/home.en.html)
-* [Developer Network](https://www.oclc.org/developer/home.en.html)
-* [WebJunction](https://webjunction.org/home.html)
+[Menu](#)
+
+[![OCLC logo](/content/dam/oclc/design-images/navigation-logo.svg "OCLC.org home")](https://www.oclc.org/en/home.html)
+
+[Policies](https://policies.oclc.org/)
+
+[Search](#)
+
+  
+
+   
 
 OCLC's Cookie Notice
 ====================
@@ -66,7 +71,29 @@ California Do Not Track Disclosure
 
 Some web browsers may give you the ability to enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. Web browsers with a "do not track" feature enabled may still accept cookies. OCLC does not respond to "do not track" signals at this time.
 
-[![OCLC logo](/content/legal/en_us/_jcr_content/footer/footer_262d/par/parsyscolumncontrol_/col0/image.img.png/1707940274451.png "footer-logo")](https://policies.oclc.org/en/home.html)
+[![OCLC logo](/content/dam/oclc/design-images/navigation-logo.svg "OCLC.org home")](https://www.oclc.org/en/home.html)
+
+* [Admin](https://policies.oclc.org/content/legal/admin.html)
+* [العربية](https://policies.oclc.org/ar/privacy/cookie-statement.html.html)
+* [català](https://policies.oclc.org/ca/privacy/cookie-statement.html)
+* [Čeština](https://policies.oclc.org/cs/privacy/cookie-statement.html)
+* [Deutsch](https://policies.oclc.org/de/privacy/cookie-statement.html)
+* [English](https://policies.oclc.org/en/privacy/cookie-statement.html)
+* [Español](https://policies.oclc.org/es/privacy/cookie-statement.html)
+* [Euskara](https://policies.oclc.org/eu/privacy/cookie-statement.html)
+* [Français](https://policies.oclc.org/fr/privacy/cookie-statement.html)
+* [Italiano](https://policies.oclc.org/it/privacy/cookie-statement.html)
+* [日本語](https://policies.oclc.org/ja/privacy/cookie-statement.html)
+* [한국어](https://policies.oclc.org/ko/privacy/cookie-statement.html)
+* [Māori](https://policies.oclc.org/mi/privacy/cookie-statement.html)
+* [Nederlands](https://policies.oclc.org/nl/privacy/cookie-statement.html)
+* [polski](https://policies.oclc.org/pl/privacy/cookie-statement.html)
+* [Português](https://policies.oclc.org/pt/privacy/cookie-statement.html)
+* [Pусский](https://policies.oclc.org/ru/privacy/cookie-statement.html)
+* [Svenska](https://policies.oclc.org/sv/privacy/cookie-statement.html)
+* [ไทย](https://policies.oclc.org/th/privacy/cookie-statement.html)
+* [简体中文](https://policies.oclc.org/zh-Hans/privacy/cookie-statement.html)
+* [繁體中文](https://policies.oclc.org/zh-Hant/privacy/cookie-statement.html)
 
 [© 2024 OCLC](https://policies.oclc.org/en/copyright.html "Read the OCLC copyright policy")  [Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates](https://policies.oclc.org/en/copyright/trademarks.html "View the OCLC and Affiliate Trademarks and Service Marks")
 
