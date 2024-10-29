@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    =========================================================================================================
+    [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    ====================================================================================================================================
     
-    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
+    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
-* *  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
-        
-        Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
-        
-    *  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+* *  [![](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
         
-        ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
         
-        Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+        If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+        
+    *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+        
+        ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+        
+        Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
         
 
 More Stories
 ------------
 
+*  [![Marley Marotta and Alexander Mendeluk on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-spirithoods-after-shark-tank/intro-1730131233.jpg)](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With SpiritHoods After Shark Tank](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
+    
+    Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
+    
+*  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
 *  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -94,17 +118,17 @@ More Stories
     
     By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
-*  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+*  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
     
-    If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
+    Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
     
-    By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
+    By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
     
 *  [![Sabrina Carpenter posing](https://www.women.com/img/gallery/5-sabrina-carpenter-outfits-that-totally-missed-the-mark/intro-1730082954.jpg)](https://www.women.com/1694066/sabrina-carpenter-outfits-missed-mark/)
     
@@ -381,30 +405,6 @@ More Stories
     It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
     
     By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
-    
-*  [![Couple kissing in bed](https://www.women.com/img/gallery/5-reasons-why-doggy-style-may-not-be-the-best-sex-position-for-you/intro-1728680105.jpg)](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [5 Reasons Why Doggy Style May Not Be The Best Sex Position For You](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
-    
-    Of all the sex positions that we can choose from, doggy style remains a favorite among many. But that doesn't mean everyone enjoys it.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1686679/reasons-why-doggy-style-may-not-be-best-sex-position-for-you/)
-    
-*  [![Anne Hathaway at an event](https://www.women.com/img/gallery/anne-hathaway-outfits-that-fell-totally-flat/intro-1728661386.jpg)](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Anne Hathaway Outfits That Fell Totally Flat](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
-    
-    Anne Hathaway has rocked some fabulous red carpet looks over the years, but she's not always as fashionable as her characters. Here are outfits that fell flat.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1686178/anne-hathaway-outfits-fell-totally-flat/)
     
 
 Back
