@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Virtua Tennis](https://www.myabandonware.com/game/virtua-tennis-g5e)
+* [Virtua Tennis 3](https://www.myabandonware.com/game/virtua-tennis-3-qdd)
 * [Virtua Striker 2](https://www.myabandonware.com/game/virtua-striker-2-sl6)
 * [Xtom 3D](https://www.myabandonware.com/game/xtom-3d-g0a)
 * [FIFA Soccer 97](https://www.myabandonware.com/game/fifa-soccer-97-8by)
-* [The Official EDGE Computer Game](https://www.myabandonware.com/game/the-official-edge-computer-game-skx)
-* [SEGA Marine Fishing](https://www.myabandonware.com/game/sega-marine-fishing-snj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
