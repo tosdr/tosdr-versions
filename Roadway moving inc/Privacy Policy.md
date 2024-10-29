@@ -75,7 +75,7 @@ Back To Main
             
             Piano moving done in perfect harmony.
             
-        * [Pool Moving](https://www.roadwaymoving.com/pool-moving/)
+        * [Pool Table Moving](https://www.roadwaymoving.com/pool-table-moving/)
             
             Pool moving for superior experience.
             
@@ -605,7 +605,7 @@ Quick Links
         * [White Glove Moving](https://www.roadwaymoving.com/white-glove-moving/)
         * [Art Moving](https://www.roadwaymoving.com/art-moving/)
         * [Piano Moving](https://www.roadwaymoving.com/piano-moving/)
-        * [Pool Moving](https://www.roadwaymoving.com/pool-moving/)
+        * [Pool Table Moving](https://www.roadwaymoving.com/pool-table-moving/)
         * [Crating](https://www.roadwaymoving.com/crating/)
     * [![](https://www.roadwaymoving.com/wp-content/uploads/2023/10/icon-offers.svg)GET YOUR FREE QUOTE NOW!](https://roadwaymoving.com/full-form/)
 * [Storage](https://www.roadwaymoving.com/storage/)
@@ -754,7 +754,7 @@ If you feel that we are not abiding by this privacy policy, or if you would like
     * Delicate Moving
         * [Art Moving](https://www.roadwaymoving.com/art-moving/)
         * [Piano Moving](https://www.roadwaymoving.com/piano-moving/)
-        * [Pool Table Moving](https://www.roadwaymoving.com/pool-moving/)
+        * [Pool Table Moving](https://www.roadwaymoving.com/pool-table-moving/)
     * Storage Services
         * [Short term storage](https://www.roadwaymoving.com/short-term-storage/)
         * [Long term storage](https://www.roadwaymoving.com/storage/long-term-storage/)
