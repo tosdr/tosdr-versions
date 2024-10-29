@@ -97,13 +97,6 @@ Menu
 * [Hammer](https://martineztools.com/products/hammer-configurator)
 * [Square](https://martineztools.com/products/mtc-square-configurator)
 
-Important Notice
-----------------
-
-###### Due to inventory checks, all orders placed from October 24-27 will experience a slight delay. These orders will begin shipping on Monday, October 28, or Tuesday, October 29. Our team takes this seriously, and we will do everything we can to expedite the process. If you have any questions, please contact us. We appreciate your patience and understanding!
-
-[Contact Us Now](https://martineztools.com/pages/contact)
-
 Privacy policy
 ==============
 
