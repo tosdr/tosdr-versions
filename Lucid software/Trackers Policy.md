@@ -100,7 +100,8 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
 * [Enterprise](https://lucid.co/enterprise)
 
-* [Contact sales](#placeholder)
+* [Try now](https://lucid.co/try-now)[Try now](https://lucid.co/try-now)
+* [Contact sales](https://lucid.co/contact/contact-sales)
 
 Lucid Software Inc. Cookie Policy
 =================================
