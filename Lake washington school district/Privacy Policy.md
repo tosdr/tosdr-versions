@@ -192,8 +192,10 @@ mobile-main-nav
 * [Get Involved](https://www.lwsd.org/get-involved)
     
     * [Committees & Workgroups](https://www.lwsd.org/get-involved/committees-workgroups)
-    * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
     * [LINKS Lunch Buddy Program](https://www.lwsd.org/get-involved/volunteering-in-lwsd/links-volunteer-program)
+    * [LWSF(opens in new window/tab)](https://lwsf.org/)
+    * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
+    * [PTSA Council](https://www.lwsd.org/get-involved/parent-community-partnerships/ptsa-in-lwsd)
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
     
 * [Programs](https://www.lwsd.org/programs)
@@ -543,8 +545,10 @@ nav-main
 * [Get Involved](https://www.lwsd.org/get-involved)
     
     * [Committees & Workgroups](https://www.lwsd.org/get-involved/committees-workgroups)
-    * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
     * [LINKS Lunch Buddy Program](https://www.lwsd.org/get-involved/volunteering-in-lwsd/links-volunteer-program)
+    * [LWSF(opens in new window/tab)](https://lwsf.org/)
+    * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
+    * [PTSA Council](https://www.lwsd.org/get-involved/parent-community-partnerships/ptsa-in-lwsd)
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
     
 * [Programs](https://www.lwsd.org/programs)
