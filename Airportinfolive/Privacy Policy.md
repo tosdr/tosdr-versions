@@ -2,8 +2,8 @@
 
   ![](/images/search.svg)
 
-07:46 pm  
-Mon 10/28/2024
+01:46 am  
+Tue 10/29/2024
 
 ![ Abflug](/images/header-background-right.png)
 
@@ -12,7 +12,7 @@ Mon 10/28/2024
 * [FR](https://airportinfo.live/fr/confidentialite)
 * [ES](https://airportinfo.live/es/privacidad)
 
-[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports) [Shop](https://shop.airportinfo.live/)[](javascript:void(0);)
+[Airportinfo.live](https://airportinfo.live/) [Flight Statistics](https://airportinfo.live/flight-statistics) [Airport Statistics](https://airportinfo.live/airport-statistics) [Flughäfen weltweit](https://airportinfo.live/worldairports)[](javascript:void(0);)
 
 [Home](https://airportinfo.live/) > [Privacy](https://airportinfo.live/privacy "Privacy")
 
