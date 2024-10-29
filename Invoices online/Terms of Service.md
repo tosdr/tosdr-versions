@@ -196,56 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Anri van der Linde
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=191043256)  
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=120491539)  
+Prosper Park
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=122679699)  
-Little Nutty Professors
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=195714560)  
+Turnkey Innovations
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=174597968)  
-IEMS (PTY) ltd
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=64686809)  
+Waterfinatics Swim School
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=43908492)  
-Imvubu General Trading
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=65640292)  
+Konsortium Operations (PTY) LTD
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=12467798)  
-Sonic Electrical Services PTY Ltd
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=151318252)  
+FX ACCOUNTING
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=30832538)  
-Know Informatics
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=49273192)  
+Oukraal Merino's
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=14796268)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=137192826)  
+NIMAWELL
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=156341268)  
-National Elite Security Services (PTY) LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=96491886)  
+BD Maintenance
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=12790431)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=43659569)  
+Lion Software Develepment
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=214490426)  
-TechnoDezi PTY(LTD)
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=135679277)  
+Depot Diesel (Pty) Ltd
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=186489432)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=135307850)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=161268170)  
-Qothiphango Mining
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=103260182)  
+Kaylas Creations
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=25648405)  
-Dombieterfontein (PTY) LTD
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=92556631)  
+Website Café (PTY) LTD
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=139982633)  
-Alliance Energy
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=149922758)  
+Goju Ryu Karate Centre
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=185756558)  
-Well Hung Art
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=3452bb9b471f2c0d6556824ef83239bccaaf15de3b612565baa99786a0e8ddf8&c=187584241)  
+Camp 4 Africa (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
