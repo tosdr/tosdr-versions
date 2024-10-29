@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-leugen-van-het-eeuwig-fysieke-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/vonnis-over-t-doorverkopen-van-jouw-geldlening/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
