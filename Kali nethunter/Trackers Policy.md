@@ -30,7 +30,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
     [Enterprise Cyber Range & Versus
     
@@ -96,7 +96,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
 * Pricing Plans & Pricing
     
@@ -152,7 +152,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
 * Partners
     
@@ -259,7 +259,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
     [Enterprise Cyber Range & Versus
     
@@ -325,7 +325,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
 * Pricing Plans & Pricing
     
@@ -381,7 +381,7 @@
     
     IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/ir-200/)
     
 * Partners
     
