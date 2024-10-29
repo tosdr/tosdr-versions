@@ -1,3 +1,5 @@
+Please [activate your Author Cats license](https://deborahkingbooks.com/wp-admin/themes.php?page=authorcats-license) to remove this message. Thank you!
+
 ![](https://deborahkingbooks.com/wp-content/uploads/2021/10/Destined_Dreamer_Cover_3-1000-x-1500.jpg)
 
 ### GET YOUR FREE PREQUEL!
