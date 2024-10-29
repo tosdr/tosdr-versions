@@ -26,11 +26,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
     [Enterprise Cyber Range & Versus
     
@@ -92,11 +92,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
 * Pricing Plans & Pricing
     
@@ -148,11 +148,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
 * Partners
     
@@ -255,11 +255,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
     [Enterprise Cyber Range & Versus
     
@@ -321,11 +321,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200/)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
 * Pricing Plans & Pricing
     
@@ -377,11 +377,11 @@
     
     [New course
     
-    TH-200: Foundational Threat Hunting
+    IR-200: Foundational Incident Response
     
-    Gain understanding of the foundational aspects of threat hunting, such as the tactics of diverse threat actors, and gain hands-on experience analyzing data to uncover hidden threats.
+    IR-200 teaches the incident response lifecycle, including detection, analysis, containment, eradication and recovery. Learners develop hands-on skills responding to, communicating, and mitigating cyber attacks.
     
-    ![TH-200: Foundational Threat Hunting](https://manage.offsec.com/app/uploads/2024/09/th-200-flag.svg)](https://www.offsec.com/courses/th-200)
+    ![IR-200: Foundational Incident Response](https://manage.offsec.com/app/uploads/2024/10/Course-IR-200.png)](https://www.offsec.com/courses/th-200/)
     
 * Partners
     
@@ -460,7 +460,7 @@
 
 Learning Solutions Why OffSec Plans & Pricing Partners Kali & Community Resources
 
-![](/_astro/ir-banner.CYWFNqR__ZvkWdI.svg)
+![](/_astro/ir-banner.BUap70wU_2pDpC5.svg)
 
 IR-200: Foundational Incident Response
 --------------------------------------
