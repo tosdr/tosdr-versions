@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| You ProofMorgan Wallen<br><br>11:41pm |
-| I Never LieZach Top<br><br>11:38pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>11:28pm |
-| Wind Up Missing YouTucker Wetmore<br><br>11:26pm |
-| The Kind Of Love We MakeLuke Combs<br><br>11:22pm |
+| Before He CheatsCarrie Underwood<br><br>4:56am |
+| Die A Happy ManThomas Rhett<br><br>4:52am |
+| Am I OkMegan Moroney<br><br>4:48am |
+| Wind Up Missing YouTucker Wetmore<br><br>4:45am |
+| WranglersMiranda Lambert<br><br>4:43am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,7 +495,7 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
@@ -507,9 +507,9 @@ News Talk • Eastern
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
