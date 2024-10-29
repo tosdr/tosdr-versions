@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+    
+    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+    
+    [![Photo of ambulances near the scene on Tuesday 29 October (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/5fe12dca-656e-40ff-ba07-788bc2d4740f-360x180.jpg)](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
+    
+    ### [Man dies after ‘falling from height’ in Borough](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
+    
     [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
     
     ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
@@ -27,10 +35,6 @@
     [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
     
     ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    [![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
-    
-    ### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
     
     [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
     
@@ -51,10 +55,6 @@
     [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
     
     ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
-    
-    [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+    
+    ### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+    
+    [![Photo of ambulances near the scene on Tuesday 29 October (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/5fe12dca-656e-40ff-ba07-788bc2d4740f-360x180.jpg)](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
+    
+    ### [Man dies after ‘falling from height’ in Borough](https://southwarknews.co.uk/area/borough/man-dies-after-falling-from-height-in-borough/)
+    
     [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
     
     ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
@@ -112,10 +120,6 @@ View All Result
     [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
     
     ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
-    
-    [![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-360x180.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
-    
-    ### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
     
     [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
     
@@ -136,10 +140,6 @@ View All Result
     [![Claudette Johnson, Brixton Underground Station.  Commissioned by Art on the Underground.  Photo by Angus Mill](https://southwarknews.co.uk/wp-content/uploads/2024/10/f04dd4990a684b818bfa949979da59a7-360x180.jpeg)](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
     
     ### [New mural by Turner prize nominee unveiled at Brixton Underground Station](https://southwarknews.co.uk/news/community/new-mural-by-turner-prize-nominee-unveiled-at-brixton-underground-station/)
-    
-    [![Sadiq Khan taking questions about anti-phone-snatching technology. Image: LDR](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan-taking-questions-about-anti-phone-snatching-technology.-Image-LDR-360x180.png)](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
-    
-    ### [Phone-snatching: Sadiq Khan praises technology that can ‘sense’ when mobile is stolen](https://southwarknews.co.uk/area/southwark/phone-snatching-sadiq-khan-praises-technology-that-can-sense-when-mobile-is-stolen/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -219,37 +219,37 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [25th October 2024](https://southwarknews.co.uk/news/community/five-new-food-and-drink-openings-in-south-london/)
 
+[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
+### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
+[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+
 [![Police were called to Massinger Street on Saturday, October 19. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-were-called-to-Massinger-Street-on-Saturday-October-19.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
 ### [Peckham council estate residents feel ‘neglected’ after alleged attempted arson](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
 [25th October 2024](https://southwarknews.co.uk/area/peckham/peckham-council-estate-residents-feel-neglected-after-alleged-attempted-arson/)
 
-[![The Bricklayer's Arms Flyover. Credit: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-Bricklayers-Arms-Flyover.-Credit-Google-120x86.png)](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-### [Bricklayer’s Arms flyover could become ‘elevated park’](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
+### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
-[22nd October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bricklayers-arms-flyover-could-become-elevated-park/)
-
-[![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-[29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
+[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
 ### Featured Articles
 
+[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+
+### [Fire at suspected cannabis factory in Peckham](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+
+[29th October 2024](https://southwarknews.co.uk/area/peckham/fire-at-suspected-cannabis-factory-in-peckham/)
+
 [![The crime scene has now been lifted (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/854499bc-cc33-4774-a60b-c375552a69f6-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 ### [Two people stabbed in broad daylight in Bermondsey](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
 
 [29th October 2024](https://southwarknews.co.uk/area/bermondsey/two-people-stabbed-in-broad-daylight-in-bermondsey/)
-
-[![Amber Price holding one of the many babies she has delivered. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4433-e1730126675134-120x86.jpg)](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
-
-### [NHS midwife forced to quit job and live on liquid diet due to ‘debilitating’ disorder](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
-
-[28th October 2024](https://southwarknews.co.uk/area/walworth/nhs-midwife-forced-to-quit-job-and-live-on-liquid-diet-due-to-debilitating-disorder/)
 
 [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-120x86.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
 
