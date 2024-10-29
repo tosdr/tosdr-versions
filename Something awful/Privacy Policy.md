@@ -205,26 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [AwfulVision: Grizzly Adams!](https://www.somethingawful.com/awfulvision/grizzly-adams-vlog/1/)
-* [Pooping and Peeing in Public Places and Somalinet](https://www.somethingawful.com/weekend-web/pooping-peeing-public/1/)
-* [AwfulVision: YouTub!](https://www.somethingawful.com/awfulvision/youtub-ymca-juggalo/1/)
-* [Mike Tyson's Sybaris](https://www.somethingawful.com/news/sybaris-mike-tyson/1/)
-* [Deep Phat Fryahs!](https://www.somethingawful.com/icq-pranks/icq-prank-deep/1/)
+* [The 7 Most Awful Wastes of US Taxpayer Money (Part 2)](https://www.somethingawful.com/most-awful/worst-government-waste/1/)
+* [GI Army Funnies and the Gay Nightmare](https://www.somethingawful.com/news/dont-ask-funnies/1/)
+* [The 10 Most Awful Museums to Visit This Summer](https://www.somethingawful.com/most-awful/vacations-museums-weird/1/)
+* [The 13 Most Awful American Fears](https://www.somethingawful.com/most-awful/most-awful-fears/1/)
+* [The 25 Most Awful Places According to Hollywood (Part 1)](https://www.somethingawful.com/most-awful/hollywood-terrible-places/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [90 Eggs!](http://forums.somethingawful.com/showthread.php?threadid=4073799 "90 Eggs!")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [LIMEYS](http://forums.somethingawful.com/showthread.php?threadid=4073856 "LIMEYS")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's](http://forums.somethingawful.com/showthread.php?threadid=4073865 "Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums?](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [Something I never got about the movie office space. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4073874 "Something I never got about the movie office space. Spoilers")
 
 ### Random Articles
 
-* [We Watch Entire Movies for Free On Our Portable Devices](https://www.somethingawful.com/feature-articles/free-streaming-movies/)
-* [Donkey Punch](https://www.somethingawful.com/horrors-of-porn/donkey-punch/)
-* [Clash of the Titans; The Last Song](https://www.somethingawful.com/current-movie-reviews/clash-titans-rocklords/1/)
-* [The Olive Garden Review Lady Reviews True Blood for Her Newspaper](https://www.somethingawful.com/news/olive-garden-sookie/)
-* [The Bat Farm](https://www.somethingawful.com/icq-pranks/icq-transcript-bat/1/)
+* [HORDES OF DOGS](https://www.somethingawful.com/news/dog-classifieds8/)
+* [I Hate You Page 175](https://www.somethingawful.com/cliff-yablonski/i-hate-you-175/)
+* [Look Ma! I'm Updating on a Holiday Again!](https://www.somethingawful.com/news/look-ma-im/)
+* [M-More Pigs!](https://www.somethingawful.com/news/mmore-pigs/)
+* [Betty's Pub, BlizzHackers, and Emokid](https://www.somethingawful.com/weekend-web/bettys-pub-blizzhackers/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
