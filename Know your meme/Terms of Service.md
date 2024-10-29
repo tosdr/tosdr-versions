@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/390/power_of_god.jpg "Who Is Luce? The Vatican's New Blue-Haired 'Anime' Mascot Explained")
+    
+    Who Is Luce? The Vatican's New Blue-Haired 'Anime' Mascot Explained](https://knowyourmeme.com/editorials/guides/who-is-luce-the-vaticans-new-blue-haired-anime-mascot-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/389/napocover3.jpg "What Is The 'Napoleo' Meme And Where Did It Come From? The Viral Misspelled 'Napoleon' Memes Explained")
+    
+    What Is The 'Napoleo' Meme And Where Did It Come From? The Viral Misspelled 'Napoleon' Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-napoleo-meme-and-where-did-it-come-from-the-viral-misspelled-napoleon-memes-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/388/shirley-temple.jpg "What's The 'Shirley Temple Little Darling DVD Collection' Copypasta? The Cartoon Network Commercial That Became A Meme Explained")
+    
+    What's The 'Shirley Temple Little Darling DVD Collection' Copypasta? The Cartoon Network Commercial That Became A Meme Explained](https://knowyourmeme.com/editorials/guides/whats-the-shirley-temple-little-darling-dvd-collection-copypasta-the-cartoon-network-commercial-that-became-a-meme-explained)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/387/socrazycover.jpg "What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained")
     
-    What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained](https://knowyourmeme.com/editorials/guides/what-is-the-shes-so-crazzzzzzzy-love-her-meme-the-viral-woman-with-chips-on-her-head-explained)
+    What Is The 'She's So Crazzzzzzzy Love Her' Meme? The Viral Woman With Chips On Her Head Explained](https://knowyourmeme.com/editorials/guides/what-is-the-shes-so-crazy-love-her-meme-the-viral-woman-with-chips-on-her-head-explained)
     
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/386/temp_42c6b1d3-8ab3-4028-b8bf-78f7b92dede9.jpg "Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post")
     
     Man Cheats On Girlfriend, Says Altitude Made Him Gay In Wild /r/AITAH Post](https://knowyourmeme.com/news/man-cheats-on-girlfriend-says-altitude-made-him-gay-in-wild-raitah-post)
     
-* [![Still image from Loomis' American National Anthem performance. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/385/Loomis'_National_Anthem_Cover.jpg "Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate")
-    
-    Indie Singer Loomis Fails National Anthem Performance At Third Party Presidential Debate](https://knowyourmeme.com/memes/loomis-national-anthem)
-    
-* [![Ruth Bader chair meme and Halloween costume video](https://i.kym-cdn.com/featured_items/icons/wide/000/026/384/9f4.jpg "'Ruth Bader Ginsburg Chair:' Cursed Image Of Late Supreme Court Justice of the United States Resurfaces Online After TikToker Posted A Halloween Costume Inspired By The Meme")
-    
-    'Ruth Bader Ginsburg Chair:' Cursed Image Of Late Supreme Court Justice of the United States Resurfaces Online After TikToker Posted A Halloween Costume Inspired By The Meme](https://knowyourmeme.com/memes/ruth-bader-ginsburg-chair)
-    
-* [![CJ Is Ready to Serve a Second Can of Whoop-Ass in GTA:SA Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/383/e51.jpg "The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago")
-    
-    The 'Ah S---, Here We Go Again' Meme Appeared In 'Grand Theft Auto: San Andreas' Over 20 Years Ago](https://knowyourmeme.com/memes/ah-shit-here-we-go-again)
-    
 
 ##### Also Trending:
 
-[Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy")
+[Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [Tim Walz's "Secret Fling" in China](https://knowyourmeme.com/memes/tim-walzs-secret-fling-with-a-chinese-communists-daughter "Tim Walz's "Secret Fling" in China") [I Hope Your Beeper Doesn’t Go Off](https://knowyourmeme.com/memes/events/ryan-girduskys-i-hope-your-beeper-doesnt-go-off-comment "I Hope Your Beeper Doesn’t Go Off") [Tony Hinchcliffe Trump Rally Controversy](https://knowyourmeme.com/memes/events/puerto-rico-floating-island-of-garbage-tony-hinchcliffe-controversy "Tony Hinchcliffe Trump Rally Controversy") [Napoleo](https://knowyourmeme.com/memes/napoleo "Napoleo") [You Said You Listened to All Genres](https://knowyourmeme.com/memes/you-said-you-listened-to-all-genres "You Said You Listened to All Genres")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
