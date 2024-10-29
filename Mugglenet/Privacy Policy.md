@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (20) September 2024  (30) August 
 
 ### October 2024
 
-#### Mon, Oct 28
-
-Devon Murray's birthday
-
-Recurs yearly
-
-Seamus Finnigan
-
 #### Tue, Oct 29
 
 Robert Hardy's birthday (RIP)
@@ -358,6 +350,20 @@ Sirius Black's birthday
 
 Recurs yearly
 
+#### Mon, Nov 4
+
+Binns tells class about the Chamber of Secrets
+
+Recurs yearly
+
+1992
+
+Harry Potter and the Philosopher's Stone movie (London premiere)
+
+Recurs yearly
+
+2001
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -368,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts grounds were mapped out during the writing of Harry Potter and the Sorcerer’s Stone. The map includes instructions to get to Hogsmeade: “To reach the school by stagecoach, go right around lake to front entrance at North.”
+Dudley Dursley was almost in the epilogue of “Harry Potter and the Deathly Hallows,” standing on platform nine and three-quarters with a magical child.
 
 ### Potter History
 
-August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
+March 2000 – Chris Columbus is chosen as the director of “Harry Potter and the Sorcerer’s Stone.” Of note, Steven Spielberg was interested but did not get the job.
 
 ### Potter Quote
 
-“Alas! Ear wax!”
+“I’m Draco Malfoy, I’m Draco, I’m on your side!”
 
 [](#)
 
