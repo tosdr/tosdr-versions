@@ -2,8 +2,8 @@
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?amp%3Butm_campaign=octobercms "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen?amp%3Butm_campaign=octobercms "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -54,7 +54,7 @@
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [What Is a Compliance Audit? Key Steps & Examples](https://www.visitor-analytics.io/en/blog/compliance-audit "What Is a Compliance Audit? Key Steps & Examples")
-    * [Privacy in fintech](https://www.visitor-analytics.io/en/blog/interview-dr-sindhu-bhaskar-data-privacy-future-financial-services "Privacy in fintech")
+    * [Interview: EST Global Founder Dr Sindhu Bhaskar](https://www.visitor-analytics.io/en/blog/interview-dr-sindhu-bhaskar-data-privacy-future-financial-services "Interview: EST Global Founder Dr Sindhu Bhaskar")
     * [Demographic Segmentation for Marketers: The Only Guide You Need](https://www.visitor-analytics.io/en/blog/demographic-segmentation-in-marketing "Demographic Segmentation for Marketers: The Only Guide You Need")
     * [Interview: Yoast Principal SEO Carolyn Shelby](https://www.visitor-analytics.io/en/blog/interview-yoast-principal-seo-carolyn-shelby "Interview: Yoast Principal SEO Carolyn Shelby")
     * [The Privacy Paradox: Torn Between Love and Fear](https://www.visitor-analytics.io/en/blog/the-privacy-paradox "The Privacy Paradox: Torn Between Love and Fear")
@@ -91,10 +91,10 @@
     * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?amp%3Butm_campaign=octobercms "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?amp%3Butm_campaign=octobercms "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen?amp%3Butm_campaign=octobercms "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
