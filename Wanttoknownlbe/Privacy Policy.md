@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/tessa-over-%e2%80%98wat-is-waarheid-en-de-ultieme-doofpot-ons-eigen-gevoel%e2%80%99/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/the-winds-of-change-transformation/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
