@@ -19,17 +19,20 @@
 * Solutions
     * * * #### Solutions
                 
-        * * [AI Adoption and Perspectives in Education, 2024
+        * * [### AI
                 
-                ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
+                ### Insights
                 
-                This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
+                ### Reveals _Why_ It’s AI
                 
-    * * * [Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
-        * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
-        * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
+                A first-of-its-kind, patent-pending innovation that comprehensively analyzes why text has been identified as AI.](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
+                
+    * * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
+        * * [Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
+        * * [Unauthorized LLM UsageEnsure your intellectual property is protected from unauthorized use by large language models (LLMs).](https://copyleaks.com/unauthorized-llm-usage)
         
-    * * * [IP & CopyrightPreserve your intellectual property from unauthorized use and exploitation within AI model outputs and applications.](https://copyleaks.com/ip-and-copyright)
+    * * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
+        * * [IP & CopyrightPreserve your intellectual property from unauthorized use and ensure full copyright compliance.](https://copyleaks.com/ip-and-copyright) 
         * * [Code Governance & ComplianceProtect your proprietary code with comprehensive source detection and licensing compliance alerts.](https://copyleaks.com/code-governance-and-compliance)
         
 * Products
@@ -53,17 +56,17 @@
         * * [News & MediaYour hub for the latest Copyleaks announcements, updates, news, and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20743'%3E%3C/svg%3E)
+        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20563'%3E%3C/svg%3E)
                 
-                ![](https://copyleaks.com/wp-content/uploads/2024/07/Firefly-technology-aesthetic-with-magnifying-glass-44618-2.webp)](https://copyleaks.com/blog/how-does-ai-detection-work)
+                ![](https://copyleaks.com/wp-content/uploads/2024/10/Firefly-magnifying-glass-over-data-14468-1-1-1.webp)](https://copyleaks.com/blog/what-is-data-mining-and-how-does-it-extract-insights)
                 
-                [How Does AI Detection Work?](https://copyleaks.com/blog/how-does-ai-detection-work)
+                [What Is Data Mining and How Does It Extract Insights?](https://copyleaks.com/blog/what-is-data-mining-and-how-does-it-extract-insights)
                 
-                [![Chat GPT and AI Detector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201463'%3E%3C/svg%3E)
+                [![Paywalled content locks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20483'%3E%3C/svg%3E)
                 
-                ![Chat GPT and AI Detector](https://copyleaks.com/wp-content/uploads/2023/02/ChatGPT-AI-Detector_FeaturedImage-1-scaled.webp)](https://copyleaks.com/blog/chatgpt-and-ai-detection)
+                ![Paywalled content locks](https://copyleaks.com/wp-content/uploads/2024/10/Access_Denied_Article_Hero.webp)](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
                 
-                [ChatGPT and AI Detection: What You Need to Know](https://copyleaks.com/blog/chatgpt-and-ai-detection)
+                [Access Denied? Not Quite. Exploring AI’s Interaction with Paywalled Content](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
                 
     * * * #### Learn
                 
@@ -240,9 +243,11 @@ New York, NY 10010 
 
 Solutions
 
+[Academic Integrity](https://copyleaks.com/academic-integrity)
+
 [Governance & Compliance](https://copyleaks.com/governance-risk-and-compliance)
 
-[Academic Integrity](https://copyleaks.com/academic-integrity)
+[Unauthorized LLM Usage](https://copyleaks.com/unauthorized-llm-usage)
 
 [AI Model Training](https://copyleaks.com/ai-model-training-data)
 
@@ -291,6 +296,8 @@ Resources
 [Success Stories](https://copyleaks.com/case-studies)
 
 [AI Detector Testing Methodologies](https://copyleaks.com/ai-content-detector/testing-methodology)
+
+[Release Notes](https://copyleaks.com/release-notes)
 
 [Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [X-twitter](https://x.com/Copyleaks) [Rss](https://feeds.buzzsprout.com/2310947.rss)
 
