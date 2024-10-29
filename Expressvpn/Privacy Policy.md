@@ -516,4 +516,6 @@ Close
 * [日本語](https://www.expressvpn.com/jp/privacy-policy)
 * [한국어](https://www.expressvpn.com/kr/privacy-policy)
 
-          Need help? Chat with us!
+         
+
+Need help? Chat with us! Online
