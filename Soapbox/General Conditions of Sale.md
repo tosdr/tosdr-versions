@@ -178,7 +178,6 @@ Copyright © 2024 Soapbox.
 * Mastercard
 * PayPal
 * Shop Pay
-* Venmo
 * Visa
 
 Close icon
