@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys have THE BEST customer support! ;-)
+Your service is great.
 
-Lounette Dyer
+Matthew Reynolds
