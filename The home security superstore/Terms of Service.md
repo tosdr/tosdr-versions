@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off Personal Safety Items | Use Code: PS15](https://www.thehomesecuritysuperstore.com/collections/personal-safety?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+Personal+Safety+Items)
+[Buy 2 Get 1 Free Pepper Spray | Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-free-pepper-sprays?sort_by=manual&utm_source=Top&utm_medium=Banner&utm_campaign=Buy+2+Get+1+Free+Pepper+Spray&utm_id=Website)
 
-TODAY'S OFFER: :: | 15% Off Personal Safety Items | Use Code: PS15
+TODAY'S OFFER: :: | Buy 2 Get 1 Free Pepper Spray | Click Here!
 
 TODAY'S OFFER: : :
 
- 15% Off Personal Safety Items Use Code: PS15
+ Buy 2 Get 1 Free Pepper Spray Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
