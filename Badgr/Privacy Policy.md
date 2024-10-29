@@ -100,7 +100,7 @@ Canvas Badges Website Privacy Policy
 **Other Policies:**
 
 [Canvas Badges Business Account Privacy Policy](https://info.badgr.com/policies/badgr-business-account-privacy-policy)  
-[Badgr Data Processing Addendum](https://info.badgr.com/policies/badgr-data-processing-addendum)
+[Badgr Data Processing Addendum](https://www.instructure.com/policies/badgr-data-processing-addendum)
 
 **Canvas Badges Website Privacy Policy**
 
