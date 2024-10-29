@@ -1,21 +1,15 @@
+![Close Icon](https://ss0.4sqi.net/img/sunset/close-a0d237c49044bf4c9759b77c784354a5.png)
+
+![Gear Icon](https://ss1.4sqi.net/img/sunset/icon-58c8a0aba520b5f7188257dc30d823f9.png)**Important Notice:**We have made the tough decision to say goodbye to the Foursquare City Guide mobile app, effective December 15, 2024, with the web version to follow in early 2025. Visit our FAQ for more information or to download our Swarm app.
+
+[Learn more](https://foursquare.com/city-guide-sunset)
+
 [Foursquare City Guide](https://fr.foursquare.com/city-guide)
 
 ![Search](https://ss0.4sqi.net/img/chrome/icon-go_foursquare8-8345435729fdc997093a9bc1654f5569.png)
 
 * [Se connecter](https://fr.foursquare.com/login?continue=%2Flegal%2Fccpa-consumer&clicked=true)
 * [S'inscrire](https://fr.foursquare.com/signup/)
-
-À proximité:
-
-Un peu d’inspiration:
-
-* [Choix populaires](https://fr.foursquare.com/explore?cat=topPicks)
-* [Tendances](https://fr.foursquare.com/explore?cat=trending)
-* [Manger](https://fr.foursquare.com/explore?cat=food)
-* [Café](https://fr.foursquare.com/explore?cat=coffee)
-* [Vie nocturne](https://fr.foursquare.com/explore?cat=drinks)
-* [Loisirs](https://fr.foursquare.com/explore?cat=arts)
-* [Shopping](https://fr.foursquare.com/explore?cat=shops)
 
 **Last Updated: July 15, 2020**
 
@@ -199,4 +193,4 @@ Il est recommandé d'activer JavaScript dans les paramètres du navigateur pour 
 * [Thailande](https://fr.foursquare.com/cities/bangkok "Bangkok")
 * [Turquie](https://fr.foursquare.com/cities/istanbul "Istanbul")
 
-![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1730210426&u=-1&sig=8sXjxeFGLOEmscyLLo%2BegLSiBlk%3D)
+![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1730232052&u=-1&sig=sCaTNZnrcsrGfZcfvG8vgwRVSN0%3D)
