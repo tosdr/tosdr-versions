@@ -12,20 +12,6 @@
 
 ​
 
-[Coins & Currency](https://www.littletoncoin.com/shop/coins-currency)
-
-[New Issues](https://www.littletoncoin.com/shop/new-issues)
-
-[Popular Series](https://www.littletoncoin.com/shop/popular-series)
-
-[Supplies](https://www.littletoncoin.com/shop/coin-supplies)
-
-[Gifts](https://www.littletoncoin.com/shop/gifts)
-
-[Sale](https://www.littletoncoin.com/shop/sale)
-
-[Collector Clubs](https://www.littletoncoin.com/shop/collector-clubs-collectorclubs)
-
 ###### About Littleton
 
 * * *
