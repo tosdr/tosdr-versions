@@ -8,8 +8,6 @@ Product
 
 Developer
 
-[Enterprise](https://hasura.io/enterprise)
-
 Resources
 
 [Customers](https://hasura.io/customers)[Pricing](https://hasura.io/pricing)
@@ -40,7 +38,7 @@ Developer
 
 Resources
 
-[Enterprise](https://hasura.io/enterprise)[Customers](https://hasura.io/customers)[Contact Us](https://hasura.io/contact-us)
+[Customers](https://hasura.io/customers)[Contact Us](https://hasura.io/contact-us)
 
 [Get Started](https://console.hasura.io/?pg=legal-website-terms-of-use)
 
@@ -148,7 +146,7 @@ Build
 
 Learn
 
-[Enterprise](https://hasura.io/enterprise)[Blog](https://hasura.io/blog)[Events](https://hasura.io/events)[Supergraph.io](https://supergraph.io/)[GraphQL Hub](https://hasura.io/graphql/)
+[Blog](https://hasura.io/blog)[Events](https://hasura.io/events)[Supergraph.io](https://supergraph.io/)[GraphQL Hub](https://hasura.io/graphql/)
 
 Company
 
