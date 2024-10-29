@@ -85,23 +85,23 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 239 1
+0 246 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff-gif/ambient-crewmate-diamondwing-and-victor-johansen-ambient-among-us-and-etc-created-by-edjit/)
+[](https://yiff-party.com/yiff/vanilla-directed-by-vitiligo-director/)
 
-[ambient crewmate, diamondwing, and victor johansen (ambient among us and etc) created by edjit](https://yiff-party.com/yiff-gif/ambient-crewmate-diamondwing-and-victor-johansen-ambient-among-us-and-etc-created-by-edjit/)
+[vanilla directed by vitiligo (director)](https://yiff-party.com/yiff/vanilla-directed-by-vitiligo-director/)
 
-0 212 0
+0 77 0
 
 September 29, 2024
 
-[](https://yiff-party.com/yiff/battle-principal-yuumi-and-yuumi-directed-by-fluffball/)
+[](https://yiff-party.com/yiff/malon-nintendo-and-etc-created-by-alfa995/)
 
-[battle principal yuumi and yuumi directed by fluffball](https://yiff-party.com/yiff/battle-principal-yuumi-and-yuumi-directed-by-fluffball/)
+[malon (nintendo and etc) created by alfa995](https://yiff-party.com/yiff/malon-nintendo-and-etc-created-by-alfa995/)
 
-0 1 0
+0 2 0
 
 October 29, 2024
 
