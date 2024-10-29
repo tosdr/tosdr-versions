@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Ross Kemp on Gangs: Moscow](/wp-content/thumbnails/443-100x70.png?x53432)
+* [![Tibet’s Cry For Freedom](/wp-content/thumbnails/7511-100x70.jpg?x53432)
     
-    Ross Kemp on Gangs: Moscow
+    Tibet’s Cry For Freedom
     
-    "Ross uncovers the extent to which the Nazi, or National Socialist, groups are gaining power in Russia: it would seem that at best the police turn a blind eye to racism, at worse actively endorse it.](https://documentaryheaven.com/ross-kemp-on-gangs-moscow/ "Ross Kemp on Gangs: Moscow")
-* [![How the White House was Won](/wp-content/thumbnails/6802-100x70.jpg?x53432)
+    Inspired by a burning passion to raise awareness of the Tibetan freedom struggle and using the Beijing Olympics as the springboard, first time filmmaker Lara Damiani quit her job, sold her clothes and](https://documentaryheaven.com/tibets-cry-for-freedom/ "Tibet’s Cry For Freedom")
+* [![EP 4/4 Time – Cosmictime](/wp-content/thumbnails/2287-100x70.jpg?x53432)
     
-    How the White House was Won
+    EP 4/4 Time – Cosmictime
     
-    It was a long and bitter race that lasted months and cost at least $2.5bn. This episode of Fault Lines takes viewers through a tour of the US 2012 presidential campaign, from the high and low moments,](https://documentaryheaven.com/how-the-white-house-was-won/ "How the White House was Won")
-* [![Louis Theroux on Michael Jackson](/wp-content/thumbnails/403-100x70.png?x53432)
+    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/ep-44-time-cosmictime/ "EP 4/4 Time – Cosmictime")
+* [![Promises (2001)](/wp-content/thumbnails/1195-100x70.jpg?x53432)
     
-    Louis Theroux on Michael Jackson
+    Promises (2001)
     
-    Louis Theroux travels to America for the chance to meet Michael Jackson, but getting hold of the man turns out to be a lot more difficult than he had anticipated. And then he discovered, Michael Jacks](https://documentaryheaven.com/louis-theroux-on-michael-jackson/ "Louis Theroux on Michael Jackson")
-* [![Every F*cking Day of My Life](/wp-content/thumbnails/4621-100x70.jpg?x53432)
+    Promises presents a powerful portrait of seven Palestinian and Israeli children who live in and around Jerusalem. As filmmaker B.Z. Goldberg, who was raised in Israel, notes, "They live no more than 2](https://documentaryheaven.com/promises-2001/ "Promises (2001)")
+* [![Crash: How Long Will It Last?](/wp-content/thumbnails/5494-100x70.jpg?x53432)
     
-    Every F\*cking Day of My Life
+    Crash: How Long Will It Last?
     
-    Married at 16 years – with 18 years of violence following – left Wendy terrified. She summoned the courage to deal with her husband the only way she knew possible. Originally as One Minute to Nine, th](https://documentaryheaven.com/every-fcking-day-of-my-life/ "Every F*cking Day of My Life")
-* [![LA 92](/wp-content/thumbnails/16154-100x70.jpg?x53432)
+    In the second half of this special two-part Dispatches, economist and author Will Hutton continues the definitive insider’s account of how Britain’s economy went from boom to bust.Hutton reveals h](https://documentaryheaven.com/crash-how-long-will-it-last/ "Crash: How Long Will It Last?")
+* [![Not Afraid: The Shady Records Story](/wp-content/thumbnails/9680-100x70.jpg?x53432)
     
-    LA 92
+    Not Afraid: The Shady Records Story
     
-    LA 92 is a film that marks the twenty-fifth-anniversary of the 1992 Los Angeles riots, which were the result of four white police officers being acquitted of any crime after being caught on tape assa](https://documentaryheaven.com/la-92/ "LA 92")
+    The folks over at Complex magazine recently got an opportunity to sit down with Eminem and his entourage, which included Paul Rosenberg, Dr. Dre, 50 Cent and Royce Da 5’9 in order to discuss the rise](https://documentaryheaven.com/not-afraid-shady-records-story/ "Not Afraid: The Shady Records Story")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
