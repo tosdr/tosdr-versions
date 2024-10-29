@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f619618676bae8aa005d4889d6e2d511
+4fb38fa4b83778f965abd9ce22726306
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm by 10 mm amazonite cubes](https://sojourner.biz/images/cache/stone/AMZ0003.200.jpg)](https://sojourner.biz/beads/stone-a-l/amazonite/10-mm-by-10-mm-amazonite-cubes.html "10 mm by 10 mm amazonite cubes")
+[![Vintage yellow tiny flower beads](https://sojourner.biz/images/cache/glass/VB0006.200.jpg)](https://sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
 
-#### [10 mm by 10 mm amazonite cubes](https://sojourner.biz/beads/stone-a-l/amazonite/10-mm-by-10-mm-amazonite-cubes.html "10 mm by 10 mm amazonite cubes")
+#### [Vintage yellow tiny flower beads](https://sojourner.biz/beads/glass/vintage-yellow-tiny-flower-beads.html "Vintage yellow tiny flower beads")
 
-$31.00
+$3.00
 
 ### Best Sellers
 
