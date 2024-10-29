@@ -519,21 +519,21 @@ Monday - Sunday: 9am - 6pm
 Online Services
 ---------------
 
-[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter1_id.jpg)
+[![UNIQLO APP](/resource/1730206320000/FRCS_FAQ_IMG/img/faqFooter1_id.jpg)
 
 Online Shopping Guideline
 
-First time shopping at UNIQLO online? Worry not! You can follow our easy guideline to order your desired product. For first time UNIQLO App downloader, you can also get a Welcome Coupon 25k. Let's get started!](https://www.uniqlo.com/feature/shopping-guide/id/en/)[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter2_id.png)
+First time shopping at UNIQLO online? Worry not! You can follow our easy guideline to order your desired product. For first time UNIQLO App downloader, you can also get a Welcome Coupon 25k. Let's get started!](https://www.uniqlo.com/feature/shopping-guide/id/en/)[![UNIQLO APP](/resource/1730206320000/FRCS_FAQ_IMG/img/faqFooter2_id.png)
 
 Bulk Purchase
 
 Enjoy 10% off and free shipping for order with minimum Rp10,000,000 for team outfit, uniforms, gifts and more!](https://www.uniqlo.com/id/en/spl/bulkpurchase)
 
-[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter3_id.jpg)
+[![UNIQLO APP](/resource/1730206320000/FRCS_FAQ_IMG/img/faqFooter3_id.jpg)
 
 Product Review
 
-Review our product and get a chance to receive our product samples.](https://www.uniqlo.com/id/en/special-feature/review-sampling)[![UNIQLO APP](/resource/1725408115000/FRCS_FAQ_IMG/img/faqFooter2_tw.jpg)
+Review our product and get a chance to receive our product samples.](https://www.uniqlo.com/id/en/special-feature/review-sampling)[![UNIQLO APP](/resource/1730206320000/FRCS_FAQ_IMG/img/faqFooter2_tw.jpg)
 
 Online Alteration Service
 
