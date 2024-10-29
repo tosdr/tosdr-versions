@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Washington Post owner Jeff Bezos breaks silence on paper’s decision to not back 2024 candidate](https://nypost.com/2024/10/28/us-news/washington-post-owner-jeff-bezos-says-presidential-endorsements-create-a-perception-of-bias-following-papers-decision-to-not-back-2024-candidate/)
-
 Terms Of Use
 ============
 
