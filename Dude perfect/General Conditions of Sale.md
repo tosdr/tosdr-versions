@@ -311,6 +311,19 @@ MARKED DOWN MERCHANDISE
 
 * All sales are final on marked down merchandise. Sale items, promotional items, clearance items and international orders are not eligible for return or exchange.
 
+ 
+
+Collapsible content
+-------------------
+
+### Collapsible row
+
+### Collapsible row
+
+### Collapsible row
+
+### Collapsible row
+
     
 
 DUDE PERFECT
@@ -323,6 +336,7 @@ DUDE PERFECT
 SUPPORT
 -------
 
+* [FAQS](https://dudeperfect.store/pages/faqs)
 * [Returns](https://dudeperfect.store/a/return)
 * [Return and Refund Policy](https://dudeperfect.store/policies/refund-policy)
 * [Privacy Policy](https://dudeperfect.store/policies/privacy-policy)
