@@ -1,4 +1,4 @@
-🎊 Happy [15th birthday](https://tcrf.net/The_Cutting_Room_Floor:About "The Cutting Room Floor:About"), TCRF! 🎊
+If you appreciate the work done within the wiki, please consider supporting The Cutting Room Floor on [Patreon](https://www.patreon.com/tcrfwiki). Thanks for all your support!  
 
 The Cutting Room Floor:General disclaimer
 =========================================
