@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/crime/woman-charged-hate-crime-yelling-slurs-shoving-teens-puyallup/281-f428f186-e575-4b1d-9721-609b1a7134f2)
+    *  [![](https://media.king5.com/assets/KING/images/df94917c-808c-41a5-89d1-111b4cb813ff/20241029T193643/df94917c-808c-41a5-89d1-111b4cb813ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/df94917c-808c-41a5-89d1-111b4cb813ff/20241029T193643/df94917c-808c-41a5-89d1-111b4cb813ff_360x203.jpg)](https://www.king5.com/article/news/local/bellingham/new-beach-areas-boulevard-park/281-f6c285cd-9dc9-4dc7-a6c0-49594bb38cc5)
         
-        #### [Woman who allegedly yelled racial slurs, shoved teen in Puyallup charged with hate crime](https://www.king5.com/article/news/crime/woman-charged-hate-crime-yelling-slurs-shoving-teens-puyallup/281-f428f186-e575-4b1d-9721-609b1a7134f2)
+        #### [Bellingham to remove rock armor, add plantings at new beaches](https://www.king5.com/article/news/local/bellingham/new-beach-areas-boulevard-park/281-f6c285cd-9dc9-4dc7-a6c0-49594bb38cc5)
         
-    *  [![](https://media.king5.com/assets/KREM/images/fd4f6f79-3680-4fbe-bbc6-1006a7439617/fd4f6f79-3680-4fbe-bbc6-1006a7439617_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/fd4f6f79-3680-4fbe-bbc6-1006a7439617/fd4f6f79-3680-4fbe-bbc6-1006a7439617_360x203.jpg)](https://www.king5.com/article/news/local/washington-state-university-police-investigating-possible-sexual-assault/293-36ca3c41-dc65-4f95-8ee1-daea875bb4e2)
+    *  [![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_360x203.jpg)](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
         
-        #### [Washington State University Police investigating possible sexual assault on campus](https://www.king5.com/article/news/local/washington-state-university-police-investigating-possible-sexual-assault/293-36ca3c41-dc65-4f95-8ee1-daea875bb4e2)
+        #### ['Egregious': Fife police chief calls out juvenile detention center after 'refusal' to book teen](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
