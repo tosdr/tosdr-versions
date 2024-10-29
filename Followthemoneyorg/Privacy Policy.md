@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
