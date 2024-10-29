@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-5cd2530e6f5de4796e79853ce3cbc3de
+f619618676bae8aa005d4889d6e2d511
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Maroon flower clasp](https://sojourner.biz/images/cache/SKU0050variations.200.jpg)](https://sojourner.biz/clasps/glass/maroon-flower-clasp.html "Maroon flower clasp")
+[![10 mm by 10 mm amazonite cubes](https://sojourner.biz/images/cache/stone/AMZ0003.200.jpg)](https://sojourner.biz/beads/stone-a-l/amazonite/10-mm-by-10-mm-amazonite-cubes.html "10 mm by 10 mm amazonite cubes")
 
-#### [Maroon flower clasp](https://sojourner.biz/clasps/glass/maroon-flower-clasp.html "Maroon flower clasp")
+#### [10 mm by 10 mm amazonite cubes](https://sojourner.biz/beads/stone-a-l/amazonite/10-mm-by-10-mm-amazonite-cubes.html "10 mm by 10 mm amazonite cubes")
 
-$38.00
+$31.00
 
 ### Best Sellers
 
