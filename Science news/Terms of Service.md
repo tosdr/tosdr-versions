@@ -87,7 +87,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [A race to save Indigenous trails may change the face of archaeology](https://www.sciencenews.org/article/indigenous-trails-change-archaeology)
+            
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")6 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Are synthetic food dyes bad for you? Here’s what the science says.](https://www.sciencenews.org/article/synthetic-food-dye-science-ban)
             
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Drop in vaping drives tobacco product use by U.S. youth to a record low](https://www.sciencenews.org/article/vaping-tobacco-use-youth-record-low)
             
             By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 25, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")October 25, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")8 hours ago
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
