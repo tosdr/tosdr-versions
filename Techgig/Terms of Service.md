@@ -442,7 +442,7 @@ Please provide an email first!.
 * [Code Gladiators](https://engage.techgig.com/codegladiators)
 * [Geek Goddess](https://engage.techgig.com/geekgoddess)
 
-Copyright © Times Business Solutions (A Division of Times Internet Limited) 2024.
+Copyright © TechGig (A Product of CoolBoots Media Private Limited) 2024.
 
 #### Forgot Password
 
