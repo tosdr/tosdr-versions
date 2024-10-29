@@ -176,19 +176,19 @@ F95zone is an adult community where you can find tons of great adult games and c
 
 Threads
 
-214,059
+214,085
 
 Messages
 
-14,152,914
+14,154,477
 
 Members
 
-7,919,055
+7,919,897
 
 Latest member
 
-[ItsJsu](https://f95zone.to/members/itsjsu.8180583/)
+[D4RKFURY](https://f95zone.to/members/d4rkfury.8181455/)
 
 [](https://f95zone.to/)
 
@@ -205,7 +205,7 @@ This site provides links to other sites/services, and does not store any files
 * [](#top "Top")
 * [RSS](https://f95zone.to/forums/-/index.rss "RSS")
 
-Served by: \[NUMA||US\]-\[S2|7/7.55/7.86\] \[192d5f4cf0a\] (94a644d9)
+Served by: \[NUMA||US\]-\[S2|6.41/6.57/6.81\] \[192d73e5470\] (ca6702ca)
 
 * [](https://twitter.com/f95zoneofficial "Twitter")
 
