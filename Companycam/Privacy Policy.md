@@ -622,6 +622,8 @@ Menu
 
 [We'll Show You](https://companycam.com/demo)
 
+![image of construction worker](https://companycam.imgix.net/images/cta-luke.png)
+
 **CompanyCam Privacy Policy**
 =============================
 
