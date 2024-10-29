@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (8,031)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,031 posts)")
-* [What is unique abt AN? (1,370)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,370 posts)")
-* [Christian Discussion: No more Fun wit… (4,347)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (4,347 posts)")
-* [2 Truths & a Lie (49)](https://forum.nationstates.net/viewtopic.php?t=557674&f=25&view=unread#unread ""2 Truths & a Lie" (49 posts)")
-* [Merge the 2 AN's Names (9,286)](https://forum.nationstates.net/viewtopic.php?t=427976&f=25&view=unread#unread ""Merge the 2 AN's Names" (9,286 posts)")
+* [What type of Left-Wing is AN? (22)](https://forum.nationstates.net/viewtopic.php?t=557516&f=25&view=unread#unread ""What type of Left-Wing is AN?" (22 posts)")
+* [2023-24 Israel-Iran proxy conflict (541)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (541 posts)")
+* [Canadian Politics (6,743)](https://forum.nationstates.net/viewtopic.php?t=467837&f=20&view=unread#unread ""Canadian Politics" (6,743 posts)")
+* [1914: Mud and Steel \[AltHis|IC|Open\] (18)](https://forum.nationstates.net/viewtopic.php?t=557386&f=31&view=unread#unread ""1914: Mud and Steel [AltHis|IC|Open]" (18 posts)")
+* [YL is suddenly engaged to marry AL -… (84)](https://forum.nationstates.net/viewtopic.php?t=555010&f=25&view=unread#unread ""YL is suddenly engaged to marry AL - reaction, YL?" (84 posts)")
 
 Advertisement
 
