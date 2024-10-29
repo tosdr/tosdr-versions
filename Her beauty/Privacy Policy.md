@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[Lizzo’s Startling Weight Loss Transformation Drops Jaws ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/1-3.webp)](https://herbeauty.co/entertainment/lizzo-s-startling-weight-loss-transformation-drops-jaws/) 
+
 [This Kate Middleton Fashion Sparked Inspired A Plastic Surgery Craze ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/6-8.jpg)](https://herbeauty.co/entertainment/this-kate-middleton-fashion-sparked-inspired-a-plastic-surgery-craze/) 
 
 [7 Ways To Be More Spontaneous With Your Partner ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/3-6.jpg)](https://herbeauty.co/relationships/7-ways-to-be-more-spontaneous-with-your-partner/) 
-
-[10 Best Moments of the Victoria’s Secret Fashion Show 2024 ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/image-7-1.jpg)](https://herbeauty.co/fashion/10-best-moments-of-the-victoria-s-secret-fashion-show-2024/) 
 
 Advertisements
 
