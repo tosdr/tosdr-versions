@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Daten­pannen bei Facebook und Co: Meta bietet Facebook-Klägern Schweigegeld](https://www.test.de/Facebook-Datenpanne-Schmerzensgeld-nach-Hacker-Erfolg-5933730-0/ "Datenpannen bei Facebook und Co - Meta bietet Facebook-Klägern Schweigegeld")
 
 Service Stiftung Warentest
 
