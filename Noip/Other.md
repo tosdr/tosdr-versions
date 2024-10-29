@@ -232,6 +232,16 @@ Resources
             
         * [Board Statements of Interest](https://www.icann.org/resources/pages/sois-2012-02-25-en)
             
+        * [Delegation of Authority Guidelines](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-24oct24-en.pdf)
+            
+            * [Current Guidelines](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-24oct24-en.pdf)
+                
+            * [Archive](https://www.icann.org/resources/pages/delegation-authority-guidelines-archives-2024-10-28-en)
+                
+                * [DoA Guidelines (16 March 2017)](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-16mar17-en.pdf)
+                    
+                * [DoA Guidelines (8 November 2016)](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-08nov16-en.pdf)
+                    
         * [Summary of Conflicts of Interest and Ethics Practices Review](https://www.icann.org/resources/files/summary-ethics-review-2013-05-13-en)
             
     * [Evolving ICANN’s MSM](https://www.icann.org/resources/pages/governance-plan-improve-multistakeholder-model-2019-04-08-en)
