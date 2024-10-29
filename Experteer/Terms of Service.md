@@ -1,4 +1,4 @@
- [![](/assets/gbr/v2/career/logo_with_claim-be6aeb2f3bfe7eddbd6843984a35f740ce3a3f42698afb6d133815ab338d36fe.svg) ![](/assets/gbr/v2/career/logo_without_claim-94a4f2a1a7f724decb54fc0e0ede1315bf3abe36c5df4d1e7793f3756798619b.svg)](https://www.experteer.co.uk/)
+ [![](https://assets.experteer.com/assets/gbr/v2/career/logo_with_claim-be6aeb2f3bfe7eddbd6843984a35f740ce3a3f42698afb6d133815ab338d36fe.svg) ![](https://assets.experteer.com/assets/gbr/v2/career/logo_without_claim-94a4f2a1a7f724decb54fc0e0ede1315bf3abe36c5df4d1e7793f3756798619b.svg)](https://www.experteer.co.uk/)
 
 * [Jobs](https://www.experteer.co.uk/jobs)
 * [Headhunter](https://www.experteer.co.uk/headhunter)
@@ -179,7 +179,7 @@ The right of cancellation does not apply to renewals of membership per § 8.**
 
 _Munich, November 20, 2023_
 
- [![](/assets/gbr/v2/career/logo_with_claim-be6aeb2f3bfe7eddbd6843984a35f740ce3a3f42698afb6d133815ab338d36fe.svg) ![](/assets/gbr/v2/career/logo_without_claim-94a4f2a1a7f724decb54fc0e0ede1315bf3abe36c5df4d1e7793f3756798619b.svg)](https://www.experteer.co.uk/)
+ [![](https://assets.experteer.com/assets/gbr/v2/career/logo_with_claim-be6aeb2f3bfe7eddbd6843984a35f740ce3a3f42698afb6d133815ab338d36fe.svg) ![](https://assets.experteer.com/assets/gbr/v2/career/logo_without_claim-94a4f2a1a7f724decb54fc0e0ede1315bf3abe36c5df4d1e7793f3756798619b.svg)](https://www.experteer.co.uk/)
 
 * [Facebook](https://www.facebook.com/Experteer)
 * [Twitter](https://twitter.com/ExperteerWorld)
