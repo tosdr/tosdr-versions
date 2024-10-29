@@ -136,6 +136,7 @@
     * [Sierra Designs](https://www.mycoolingstore.com/sierra-designs.html)
     * [Portable Power and Solar Gear](https://www.mycoolingstore.com/portable-power.html)
     * [Healthcare](https://www.mycoolingstore.com/medicine-and-health-products.html)
+    * [Smith Optics Sunglasses](https://www.mycoolingstore.com/smith-products.html)
     * [Bedding](https://www.mycoolingstore.com/cooling-bedding.html)
     * [EcoFlow Portable Power](https://www.mycoolingstore.com/ecoflow.html)
     * [Heated Bedding](https://www.mycoolingstore.com/heated-bedding.html)
