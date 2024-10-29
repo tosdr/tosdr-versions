@@ -3,7 +3,11 @@ Legal Notices
 
 * * *
 
-[Generally Applicable Provisions](#expander-image-panel-s_expander_118515418_0)
+[Generally applicable provisions](#expander-image-panel-s_expander_118515418_0)
+
+**eCredit Validity Extension**
+
+Delta will be extending the expiration date of eCredits, issued by Delta between May 16 and October 27, 2024, which resulted from a flight that was canceled or significantly delayed (>2 hours) by Delta. The expiration date of these eCredits will be extended for a period of 5 years from the date of the itinerary cancellation; customers may request a refund of the unflown portion of the ticket back to their original form of payment in lieu of the 5-year expiration extension. Delta is reaching out directly to impacted customers via email with additional details, and the updated expiration dates will be reflected on the eCredit in the coming months.
 
 **Notice of Incorporated Terms**
 
@@ -45,7 +49,7 @@ Delta Connection carriers are regional airlines which use Delta flight numbers 3
 
 **Check-in Requirements**
 
-Reservations and boarding passes/authorities may be canceled, and passengers may not be eligible for denied boarding compensation if they fail to comply with applicable check-in requirements for their flights. For more information, see [**Check-in Requirements**](https://www.delta.com/us/en/check-in-security/check-in-time-requirements).
+Reservations and boarding passes/authorities may be canceled, and passengers may not be eligible for denied boarding compensation if they fail to comply with applicable check-in requirements for their flights. For more information, see [Check-in Requirements](https://www.delta.com/global/en/check-in-security/check-in-time-requirements).
 
 Your onward and/or return reservations may be canceled for failure to:
 
@@ -77,7 +81,7 @@ Pursuant to 49 U.S. Code § 46503, individuals in an area within a commercial 
 
 **Notice to Passengers Regarding Interference with Airport Customer Service Employees**
 
-Passengers are advised that federal law protects airport customer service employees from verbal abuse or physical assault by customers. Implemented pursuant to Section 551 of Public Law 115-254, the [**FAA Reauthorization Act of 2018**](https://www.congress.gov/bill/115th-congress/house-bill/302), Delta’s Employee Assault Prevention and Response Plan (“EAPRP”) provides our airport customer service employees the policies, practices and information necessary to prevent, handle and report physical assault and verbal abuse of customer service employees. Delta is committed to complying fully with these requirements as well as all applicable laws and regulations.
+Passengers are advised that federal law protects airport customer service employees from verbal abuse or physical assault by customers. Implemented pursuant to Section 551 of Public Law 115-254, the [FAA Reauthorization Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/302), Delta’s Employee Assault Prevention and Response Plan (“EAPRP”) provides our airport customer service employees the policies, practices and information necessary to prevent, handle and report physical assault and verbal abuse of customer service employees. Delta is committed to complying fully with these requirements as well as all applicable laws and regulations.
 
 **Solicitation of Employees and Passengers**
 
@@ -93,7 +97,7 @@ Delta's conditions of carriage permit Delta to refuse to transport passengers wh
 * Passenger lacks necessary documentation for international travel.
 * Passenger fails to comply with any of Delta's rules or regulations or any term of the Contract of Carriage.
 
-Reasonably necessary for the passenger's comfort or safety, for the comfort or safety of other passengers or Delta employees, or for the prevention of damage to the property of Delta or its passengers or employees. For specific examples, see our **[Contract of Carriage](https://www.delta.com/us/en/legal)**.
+Reasonably necessary for the passenger's comfort or safety, for the comfort or safety of other passengers or Delta employees, or for the prevention of damage to the property of Delta or its passengers or employees. For specific examples, see our [Contract of Carriage](https://www.delta.com/global/en/legal.html).
 
 Delta will not refuse transport based on a passenger's:
 
@@ -127,14 +131,14 @@ Rights are per passenger in most cases. You may benefit from a higher limit of l
 
 * In the case of delay to your journey, 5,346 Special Drawing Rights per passenger.
 
-If your mobility aid or wheelchair is destroyed or lost, we will repair or replace it with a comparable model. With respect to mobility aids and wheelchairs, we do not enforce the maximum liability amounts set out in the Montreal Convention, or its predecessor, the Warsaw Convention, as stated in **[Delta’s International General Rules Tariff](https://www.delta.com/us/en/legal/contract-of-carriage-igr)** or **[Canadian General Rules Tariff](https://www.delta.com/us/en/legal/contract-of-carriage-cgr)** (whichever applies to your journey).
+If your mobility aid or wheelchair is destroyed or lost, we will repair or replace it with a comparable model. With respect to mobility aids and wheelchairs, we do not enforce the maximum liability amounts set out in the Montreal Convention, or its predecessor, the Warsaw Convention, as stated in [Delta’s International General Rules Tariff](https://www.delta.com/us/en/legal/contract-of-carriage-igr) or [Canadian General Rules Tariff](https://www.delta.com/us/en/legal/contract-of-carriage-cgr) (whichever applies to your journey).
 
 If your journey also involves carriage by other airlines, you should contact them for information on their limits of liability.
 
 Country- or Region-Specific Requirements
 ----------------------------------------
 
-[China - Flight Regularity Administrative Regulations](#expander-image-panel-1595710501__25442515_0)
+[China - flight regularity administrative regulations](#expander-image-panel-1595710501__25442515_0)
 
 Delays and Cancellations for Flights Departing China
 
@@ -161,11 +165,11 @@ Standard Delta policy applies (over 2 hour delay) when rerouting on other airlin
 
 Note: In the event of a departure delay or cancellation, carrier, sales agents, and ground handling agents shall give priority to disabled persons, senior citizens, pregnant persons, unaccompanied minors, and other passengers who require special care.
 
-Refund Request: If the customer chooses not to travel or is unable to travel due to a delay or cancellation, the customer should visit Delta.com to complete the **[Cancel and Refund Application](https://www.delta.com/contactus/iropForm)**.
+Refund Request: If the customer chooses not to travel or is unable to travel due to a delay or cancellation, the customer should visit Delta.com to complete the [Cancel and Refund Application](https://www.delta.com/contactus/iropForm).
 
 Departure delay less than 60 minutes: In the event of a flight departure delay of 15 minutes or more, but less than 60 minutes, Delta will provide snacks and drinks if appropriate under the circumstances.
 
-[Colombia – Right to Withdraw or Retract Ticket Purchase](#expander-image-panel-expander_1595710501__0)
+[Colombia – right to withdraw or retract ticket purchase](#expander-image-panel-expander_1595710501__0)
 
 1) Withdrawal
 
@@ -187,15 +191,15 @@ The retraction will terminate the ticket and contract of carriage.  For nonrefu
 
 For the avoidance of doubt, Delta does not engage in any non-traditional methods, as defined in Decree 1499 of 2014, for the sale of airline tickets in Colombia.
 
-[Dominican Republic Tourism Tax Refunds](#expander-image-panel-_expander_1595710501_0)
+[Dominican Republic tourism tax refunds](#expander-image-panel-_expander_1595710501_0)
 
-For itineraries involving travel into the Dominican Republic, certain passengers may be entitled to a refund of the Dominican Republic Tourism Tax (L8) included in the price of the ticket. Passengers exempt from this tax include Dominican Republic citizens, residents of Dominican Republic with a residency visa, diplomats or citizens of countries with bilateral agreements ratified by the Congress of Dominican Republic. If you believe you qualify for a refund, you can opt to **[submit a request](https://www.dgii.gov.do/TturistaWeb/ReembolsoTT/ReembolsoTT/RegistrarReembolso)**, directly on the website provided by the tax authority Direccion General de Impuestos Internos (DGII) or file the request in person at any DGII regional office. The Airlines are not allowed to process a refund directly or to request it on behalf of the passenger. According to the information published by the DGII in their website, the timeframe to respond the request is fifteen (15) business days upon receipt of the request. Passengers can request the refund up to thirty (30) days after arrival into the Dominican Republic. For more information and additional requirements, see the website link above. The tax is nonrefundable, even in the case of an itinerary change, for all other passengers.
+For itineraries involving travel into the Dominican Republic, certain passengers may be entitled to a refund of the Dominican Republic Tourism Tax (L8) included in the price of the ticket. Passengers exempt from this tax include Dominican Republic citizens, residents of Dominican Republic with a residency visa, diplomats or citizens of countries with bilateral agreements ratified by the Congress of Dominican Republic. If you believe you qualify for a refund, you can opt to [submit a request](https://www.dgii.gov.do/TturistaWeb/ReembolsoTT/ReembolsoTT/RegistrarReembolso), directly on the website provided by the tax authority Direccion General de Impuestos Internos (DGII) or file the request in person at any DGII regional office. The Airlines are not allowed to process a refund directly or to request it on behalf of the passenger. According to the information published by the DGII in their website, the timeframe to respond the request is fifteen (15) business days upon receipt of the request. Passengers can request the refund up to thirty (30) days after arrival into the Dominican Republic. For more information and additional requirements, see the website link above. The tax is nonrefundable, even in the case of an itinerary change, for all other passengers.
 
-[European Notice](#expander-image-panel-s_expander_262131176_0)
+[European notice](#expander-image-panel-s_expander_262131176_0)
 
 **Air carrier liability for passengers and their baggage**
 
-As an air carrier within the meaning of European Regulation (EC) No. 2027/97 (as amended by Regulation (EC) No 889/2002), Delta Air Lines is under the obligation to make available a summary of the main provisions governing liability for passengers and their baggage, including deadlines for filing an action for compensation and the possibility of making a special declaration for baggage, to passengers at all points of sale, including via the internet in relation to carriage to, from or within the European Community. Please see below for a summary of the relevant provisions. In addition, more detail can be found in our **[International Contract of Carriage](https://www.delta.com/us/en/legal/contract-of-carriage-igr)**.
+As an air carrier within the meaning of European Regulation (EC) No. 2027/97 (as amended by Regulation (EC) No 889/2002), Delta Air Lines is under the obligation to make available a summary of the main provisions governing liability for passengers and their baggage, including deadlines for filing an action for compensation and the possibility of making a special declaration for baggage, to passengers at all points of sale, including via the internet in relation to carriage to, from or within the European Community. Please see below for a summary of the relevant provisions. In addition, more detail can be found in our [International Contract of Carriage](https://www.delta.com/us/en/legal/contract-of-carriage-igr).
 
 **Compensation in the case of death or injury**
 
@@ -241,21 +245,21 @@ The basis for the rules described above is the Montreal Convention of 28 May 199
 
 This is a notice required by European Community Regulation (EC) No 2027/97 (as amended by Regulation (EC) No 889/2002). This notice cannot be used as a basis for a claim for compensation, nor to interpret the provisions of the Regulation or the Montreal Convention, and it does not form part of the contract between the carrier(s) and you. No representation is made by the carrier(s) as to the accuracy of the contents of this notice.
 
-\*The SDR serves as the unit of account of the International Monetary Fund and other international organizations.  The value of the SDF is based on a basket of key international currencies, and its value changes continuously.  Please visit the **[IMF’s web-site](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302)** to determine the current value of the SDR in your local currency.
+\*The SDR serves as the unit of account of the International Monetary Fund and other international organizations.  The value of the SDF is based on a basket of key international currencies, and its value changes continuously.  Please visit the [IMF’s web-site](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302) to determine the current value of the SDR in your local currency.
 
 **EU Package Travel Directive**
 
-For EU residents: If you book additional travel services for your trip or holiday via this link/these links, you will NOT benefit from rights applying to packages under Directive (EU) 2015/2302. Therefore, DELTA AIR LINES will not be responsible for the proper performance of those additional travel services. In case of problems, please contact the relevant service provider. However, if you book additional travel services via this link/these links not later than 24 hours after receiving the confirmation of the booking from DELTA AIR LINES, those travel services will become part of a linked travel arrangement. In that case DELTA AIR LINES will have, as required by EU law, protection in place to refund your payments to DELTA AIR LINES for services not performed because of DELTA AIR LINES' insolvency, and, where necessary, for your repatriation. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider. Directive (EU) 2015/2302 as transposed into the national law: **[https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302)**
+For EU residents: If you book additional travel services for your trip or holiday via this link/these links, you will NOT benefit from rights applying to packages under Directive (EU) 2015/2302. Therefore, DELTA AIR LINES will not be responsible for the proper performance of those additional travel services. In case of problems, please contact the relevant service provider. However, if you book additional travel services via this link/these links not later than 24 hours after receiving the confirmation of the booking from DELTA AIR LINES, those travel services will become part of a linked travel arrangement. In that case DELTA AIR LINES will have, as required by EU law, protection in place to refund your payments to DELTA AIR LINES for services not performed because of DELTA AIR LINES' insolvency, and, where necessary, for your repatriation. Please note that this does not provide a refund in the event of the insolvency of the relevant service provider. Directive (EU) 2015/2302 as transposed into the national law: [https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302)
 
 Delta Air Lines has taken out insolvency protection with Swiss Re International SE, Niederlassung Deutschland, Arabellastraße 30, 81925 Munich, Germany.
 
-Travelers may contact this entity or, where applicable, the competent authority, if the services are denied because of Delta Air Lines’ insolvency. A list of national competent authorities can be found at: **[https://www.iatatravelcentre.com/ptdauthoritylist.htm](https://www.iatatravelcentre.com/ptdauthoritylist.htm)**
+Travelers may contact this entity or, where applicable, the competent authority, if the services are denied because of Delta Air Lines’ insolvency. A list of national competent authorities can be found at: [https://www.iatatravelcentre.com/ptdauthoritylist.htm](https://www.iatatravelcentre.com/ptdauthoritylist.htm)
 
 Note: This insolvency protection does not cover contracts with parties other than Delta Air Lines, which can be performed despite Delta Air Lines’ insolvency.
 
-Directive (EU) 2015/2302 as transposed into the national law: **[https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302)**
+Directive (EU) 2015/2302 as transposed into the national law: [https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302](https://eur-lex.europa.eu/legal-content/EN/NIM/?uri=CELEX:32015L2302)
 
-[France - Mediation Notice](#expander-image-panel-tent_parsys_expander_0)
+[France - mediation notice](#expander-image-panel-tent_parsys_expander_0)
 
 If you would like to make a complaint, please contact our Customer Care team.  We are here to help in any way we can and will quickly get back to you with the information you need.  Delta Air Lines participates in Alternative Dispute Resolution (ADR) proceedings in France before L’Association des Médiateurs Européens (AME) (the Association of European Mediators).  If you have submitted a claim to Customer Care, but are unsatisfied with the response, you may contact AME:
 
@@ -269,7 +273,7 @@ If you would like to make a complaint, please contact our Customer Care team.  
 
 * Online
 
-            **[www.mediationconso-ame.com](http://www.mediationconso-ame.com/)**
+            [www.mediationconso-ame.com](http://www.mediationconso-ame.com/)
 
 If you have made a flight between France and the United States, you may file a complaint with the United States Department of Transportation:
 
@@ -285,9 +289,9 @@ If you have made a flight between France and the United States, you may file a c
 
 * Online
 
-           **[www.transportation.gov/airconsumer](https://www.transportation.gov/airconsumer)**
+           [www.transportation.gov/airconsumer](https://www.transportation.gov/airconsumer)
 
-[Germany -Arbitration Body](#expander-image-panel-_expander_1845208857_0)
+[Germany -arbitration body](#expander-image-panel-_expander_1845208857_0)
 
 Delta Air Lines participates in conciliation proceedings before the arbitration body söp (Schlichtungsstelle für den öffentlichen Personenverkehr e.V.).
 
@@ -316,9 +320,9 @@ The contact details of söp are:
 
  10623 Berlin
 
- **[www.soep-online.de](http://www.soep-online.de/)** 
+ [www.soep-online.de](http://www.soep-online.de/) 
 
-[Guatemala - Fiscal Electronic Invoice](#expander-image-panel-s_expander_762417485_0)
+[Guatemala - fiscal electronic invoice](#expander-image-panel-s_expander_762417485_0)
 
 For customers who require a Guatemalan Fiscal Electronic Invoice due to a purchase of a ticket with Guatemala point of sale or a purchase of a ticket with a route originating in Guatemala:
 
@@ -339,11 +343,11 @@ We ask that you please verify the information captured is correct before generat
 
 If you have any additional questions, support is available within the application portal.
 
-To request a Guatemalan Fiscal Electronic Invoice, please click here: **[Guatemalan electronic invoice](https://webportal.edicomgroup.com/customers/deltagt/search.htm)**
+To request a Guatemalan Fiscal Electronic Invoice, please click here: [Guatemalan electronic invoice](https://webportal.edicomgroup.com/customers/deltagt/search.htm)
 
-[India - Goods and Services Tax (GST)](#expander-image-panel-_expander_1823213655_0)
+[India - goods and services tax (GST)](#expander-image-panel-_expander_1823213655_0)
 
-Effective July 1, 2017, India has replaced the India Service Tax with a Goods and Services Tax (GST). If you are a business customer with an itinerary originating in India, you may want to claim an input tax credit of the GST paid on your booking. In order for Delta to properly provide you an invoice, please call Delta Reservations in India at **[1 800 123 6645](tel:18001236645)** (Monday – Saturday, 0930hrs – 1730hrs IST) to provide the following:
+Effective July 1, 2017, India has replaced the India Service Tax with a Goods and Services Tax (GST). If you are a business customer with an itinerary originating in India, you may want to claim an input tax credit of the GST paid on your booking. In order for Delta to properly provide you an invoice, please call Delta Reservations in India at [1 800 123 6645](tel:18001236645) (Monday – Saturday, 0930hrs – 1730hrs IST) to provide the following:
 
 * Name of your company/business
 * Registered address of your company/business (please include the State)
@@ -354,9 +358,9 @@ Once you have provided us with the information above, we will issue an invoice t
 
 If you have booked a ticket during the 1st-15th of any month, please provide the details by the 17th of that same month. If you have booked a ticket during the 16th-30th/31st of any month, please provide the details by the 2nd of the following month.
 
-Please email us at **[IndiaGST@delta.com](https://www.delta.com/us/en/legal/notices/IndiaGST@delta.com)** if you have any questions. 
+Please email us at [IndiaGST@delta.com](https://www.delta.com/us/en/legal/notices/IndiaGST@delta.com) if you have any questions. 
 
-[Israel – Consumer Protection Law](#expander-image-panel-s_expander_681761009_0)
+[Israel – consumer protection law](#expander-image-panel-s_expander_681761009_0)
 
 According to the Israeli Consumer Protection Law, 5741-1981, sales transactions which take place in Israel may be cancelled within fourteen (14) days of the transaction date, but not less than seven (7) working days before the departure date of the first flight of an itinerary.  “Sales transactions” include the purchase of (i) “non-refundable” tickets in all classes of service, including Basic Economy, that are to/from Israel (“**Standalone Tickets**”), (ii) any ancillary services separately purchased in connection with such non-refundable tickets (“**Separate Ancillaries**”), and (iii) any “package”, “bundled”, or “flexible” non-refundable tickets, where ancillary services are included in the price of the ticket, in all classes of service, including Basic Economy, that are to/from Israel (“**Flexible Tickets**”).
 
@@ -371,13 +375,13 @@ As it relates to Cancellation Fees associated with Separate Ancillaries, where a
 
 The Israeli Consumer Protection Law ("**CPL"**) and Consumer Protection Regulations ("**CPR**") both provide for extended refund periods following purchase that supersede DL's ticketing restrictions.
 
-[Israel - Notice to Passengers on the Transfer of Data](#expander-image-panel-_expander_2143706358_0)
+[Israel - notice to passengers on the transfer of data](#expander-image-panel-_expander_2143706358_0)
 
-We hereby inform you that Delta Air Lines, Inc. is obliged by the Law on Powers of Collection and Analysis of Data Regarding Passengers Entering or Leaving Israel (hereby – The Law), to submit data that it has acquired in the course of the ticket reservation process, to the National Center for Passenger Data Analysis (hereby – The Center). That data may be used by the authorities enumerated in the Law for the purpose set in the Law: combating terrorism, securing air travel, combating serious crime, improving border control and protecting public health. Such data shall be retained for the time periods set in the Law. You may find further information, including information regarding the protection of the data, as well as the full text of the Law, at [**the Center’s website**](https://www.gov.il/en/departments/general/ncpia).
+We hereby inform you that Delta Air Lines, Inc. is obliged by the Law on Powers of Collection and Analysis of Data Regarding Passengers Entering or Leaving Israel (hereby – The Law), to submit data that it has acquired in the course of the ticket reservation process, to the National Center for Passenger Data Analysis (hereby – The Center). That data may be used by the authorities enumerated in the Law for the purpose set in the Law: combating terrorism, securing air travel, combating serious crime, improving border control and protecting public health. Such data shall be retained for the time periods set in the Law. You may find further information, including information regarding the protection of the data, as well as the full text of the Law, at [the Center’s website](https://www.gov.il/en/departments/general/ncpia).
 
 הרינו להודיעך כי חברת דלתא איירליינס מחויבת על פי חוק סמכויות לאיסוף ואבחון של נתוני נוסעים הנכנסים לישראל או היוצאים ממנה, התשפ"ג-2023 )להלן – החוק), להעביר נתונים שהצטברו בידיה במסגרת הזמנת כרטיס הטיסה, לידי המרכז הלאומי לאבחון נתוני נוסעים. נתונים אלה עשויים לשמש את הרשויות הקבועות בחוק למטרות ולשימושים הקבועים בחוק: מאבק בטרור, ביטחון התעופה, מאבק בפשיעה חמורה, שיפור מערך ביקורת הגבולות בתחנות הכניסה לישראל והגנה על בריאות הציבור. נתונים כאמור יישמרו לתקופות הקבועות בחוק. ניתן לקבל מידע נוסף, לרבות לעניין האמצעים להגנה על המידע וכן העתק של החוק, באתר האינטרנט של המרכז הלאומי לאבחון נתוני נוסעים
 
-[Japan - Traveling from Japan - Electronic Devices Containing Lithium Batteries](#expander-image-panel-_expander_1559503600_0)
+[Japan - traveling from Japan - electronic devices containing lithium batteries](#expander-image-panel-_expander_1559503600_0)
 
 Portable Electronic Devices Containing Lithium Batteries as Checked Baggage
 
@@ -392,19 +396,19 @@ Enforced by the Ministry of Land, Infrastructure, Transport and Tourism of Japan
 
 Thank you for your understanding and cooperation.
 
-Please see Delta's **[Baggage Policies](https://www.delta.com/us/en/baggage/overview)** and **[Restricted Items](https://www.delta.com/us/en/baggage/prohibited-or-restricted-items/overview)** for more information.
+Please see Delta's [Baggage Policies](https://www.delta.com/us/en/baggage/overview) and [Restricted Items](https://www.delta.com/us/en/baggage/prohibited-or-restricted-items/overview) for more information.
 
-[Korea - Cancellation Fees for Tickets on Flights Departing from Korea and Consumer Protections](#expander-image-panel-_expander_1543014404_0)
+[Korea - cancellation fees for tickets on flights departing from Korea and consumer protections](#expander-image-panel-_expander_1543014404_0)
 
 For Korean customers who have purchased a ticket from Delta on or after February 1, 2017, for travel on a Delta international flight departing from Korea, if the customer cancels the ticket 61 days or more before the departure date, the customer will be entitled to a full refund of the purchase price, with no cancellation fee.  This policy takes precedence over the terms of Delta’s International Contract of Carriage.   Excludes SkyMiles Award Travel tickets and Group tickets.
 
 Consumer Protections:
 
-* **[Damage redress for air customers](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/Damage-Redress-for-DL-Customers.pdf)**
-* **[Customer service and contingency plans](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/Customer%20service%20and%20contingency%20plans.pdf)**
-* **[Aircraft Registration](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/KFTC-Aircraft-Registration-06262018.pdf)**
+* [Damage redress for air customers](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/Damage-Redress-for-DL-Customers.pdf)
+* [Customer service and contingency plans](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/Customer%20service%20and%20contingency%20plans.pdf)
+* [Aircraft Registration](https://www.delta.com/content/dam/delta-www/pdfs/legal/ko/KFTC-Aircraft-Registration-06262018.pdf)
 
-[Mexico - Fiscal Electronic Invoice (CFDI) (FACTURA) and Tourism Tax Refunds](#expander-image-panel-ys_expander_95388533_0)
+[Mexico - fiscal electronic invoice (CFDI) (FACTURA) and tourism tax refunds](#expander-image-panel-ys_expander_95388533_0)
 
 For customers who require a Mexican Fiscal Electronic Invoice for deductibility purposes.
 
@@ -432,17 +436,17 @@ We ask that you please verify the information captured is correct before generat
 
 If you have any additional questions, support is available within the application portal.
 
-To request a Mexican Fiscal Electronic Invoice (CFDI), please click here:  **[FACTURACION ELECTRONICA](https://webportal.edicomgroup.com/customers/delta/pasaje/search.htm)**
+To request a Mexican Fiscal Electronic Invoice (CFDI), please click here:  [FACTURACION ELECTRONICA](https://webportal.edicomgroup.com/customers/delta/pasaje/search.htm)
 
 Tourism Tax Refunds:
 
-For itineraries involving travel into Mexico, certain passengers may be entitled to a refund of the Mexico Tourism Tax (UK) included in the price of the ticket.   Passengers exempt from this tax include Mexican citizens, residents of Mexico with a residency visa, and infants under the age of 2.  If you believe you qualify for a refund, please submit a request **[online](https://www.delta.com/refunds/refundsHomeAction.action)** or see our **[Refunds FAQs](https://www.delta.com/us/en/change-cancel/cancel-flight#faq)** for other ways to do so.  You will need to provide us with proof of your exemption.  All conditions in Delta’s contract of carriage governing refunds apply.
+For itineraries involving travel into Mexico, certain passengers may be entitled to a refund of the Mexico Tourism Tax (UK) included in the price of the ticket.   Passengers exempt from this tax include Mexican citizens, residents of Mexico with a residency visa, and infants under the age of 2.  If you believe you qualify for a refund, please submit a request [online](https://www.delta.com/refunds/refundsHomeAction.action) or see our [Refunds FAQs](https://www.delta.com/us/en/change-cancel/cancel-flight#faq) for other ways to do so.  You will need to provide us with proof of your exemption.  All conditions in Delta’s contract of carriage governing refunds apply.
 
-[Philippines - Fuel Surcharge](#expander-image-panel-s_expander_535670520_0)
+[Philippines - fuel surcharge](#expander-image-panel-s_expander_535670520_0)
 
 A fuel surcharge of $7 USD to Japan and $24 to Honolulu, including the whole of Area 1, will be applied on tickets from the Philippines as per Civil Aeronautics Board approval no. EP-19-1582-HED042019-096-PFS from May 1, 2019, through June 30, 2019. The fuel surcharge in effect on the day of ticketing shall be applied and shall be the same for all passengers except infants not occupying seats. When an unused portion of the ticket is refunded, the fuel surcharge collected for such sector/s will be refunded in full and when a ticket is rebooked and fuel surcharged was previously collected, the fuel surcharge will be adjusted to the prevailing rate at the time it was rebooked.
 
-[Philippines - Overseas Workers/International Service Charge (Li) Exemption](#expander-image-panel-_expander_1250205045_0)
+[Philippines - overseas workers/international service charge (Li) exemption](#expander-image-panel-_expander_1250205045_0)
 
 Overseas Filipino Workers Fare tickets (net of the Passenger Service Charge (PSC)) are available through Delta Reservations or a travel agent.  If you wish to purchase a ticket online at delta.com, your ticket will include the PSC, but you may claim a PSC refund at the Manila International Airport (MNL) during check-in or at MIAA refund counters. In all cases, the customer must provide the necessary exemption certificate during check-in at MNL, in accordance with MIAA rules.
 
