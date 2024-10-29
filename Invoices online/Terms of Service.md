@@ -196,61 +196,56 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=44092497)  
-Super Sound Man (PTY) Ltd
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=191043256)  
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=9085463)  
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=122679699)  
+Little Nutty Professors
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=174597968)  
 IEMS (PTY) ltd
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=106310309)  
-Import Maaw
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=43908492)  
+Imvubu General Trading
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=10188189)  
-Chiron Medical Solutions
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=12467798)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=73823331)  
-Depot Diesel (Pty) Ltd
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=30832538)  
+Know Informatics
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=205832803)  
-NEW BEGINNINGS DESIGNS
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=14796268)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=168400462)  
-Salvage Genie
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=156341268)  
+National Elite Security Services (PTY) LTD
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=92196205)  
-Lizzy Pop PTY(Ltd)
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=12790431)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=45093637)  
-ELLIE'S CLEANING CHICKS
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=214490426)  
+TechnoDezi PTY(LTD)
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=51905000)  
-UMVIKELI PRIVATE SECURITY
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=186489432)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=29438708)  
-Electro-Heat
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=161268170)  
+Qothiphango Mining
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=214313963)  
-RADIO TYGERBERG 104FM NPC
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=25648405)  
+Dombieterfontein (PTY) LTD
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=30434201)  
-SLOANE STAR MEAT MARKET
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=139982633)  
+Alliance Energy
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=192826133)  
-IYD
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=2dc43849baade9702c31d80708fd6a278f2d903e2ef1ac386689e15d7605be84&c=169016111)  
-Fox Alarms & Security CC
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=c0c5740c7b814e89b10fd0f175edafa217dfe4ac5da9b87ec6d248674d83de85&c=185756558)  
+Well Hung Art
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
