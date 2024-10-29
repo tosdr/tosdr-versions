@@ -186,11 +186,12 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Ed Castellani](https://cdn.returningveterans.org/images/honor/9_Ed_Castellani_AR.png)  
+![The 26 Special Ops soldiers who lost their lives on August 6, 2011](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Ed Castellani**  
-United States Army  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of The 26 Special Ops soldiers who lost their lives on August 6, 2011**  
+United States Air Force  
+United States Navy  
+Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -222,8 +223,6 @@ Returning Veterans Project
 
 [![Combined Federal Campaign](https://cdn.returningveterans.org/images/site/logo-cfc.png)](https://cfcgiving.opm.gov/welcome)
 
-CFC#40798
-
 _The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement._
 
 * [Privacy](https://returningveterans.org/about/privacy-statement/ "Privacy Statement")|
@@ -235,5 +234,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/29/24 - 8:36:23  
+Printed 10/29/24 - 2:35:45  
 © 2024 Returning Veterans Project
