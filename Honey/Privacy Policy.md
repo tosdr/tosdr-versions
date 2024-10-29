@@ -2,10 +2,7 @@
 
 [](https://www.joinhoney.com/)
 
-* Shop
-    
 * [Droplist](https://www.joinhoney.com/features/droplist)
-* [Rewards](https://www.joinhoney.com/features/paypalrewards)
 * [Earn Gift Cards](https://www.joinhoney.com/invite)
 
 JoinLog in
@@ -37,7 +34,7 @@ How to contact us
 PayPal Honey Privacy Statement
 ------------------------------
 
-### Last updated September 23, 2024
+### Last updated October 28, 2024
 
 Introducing the Privacy Statement
 
