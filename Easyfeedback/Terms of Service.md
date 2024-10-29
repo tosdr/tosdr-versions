@@ -10,7 +10,7 @@
     
     Create modern surveys, questionnaires or quizzes on any topic you like
     
-     ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/umfragetool/) [Chat survey
+     ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/survey-tool) [Chat survey
     
     Next-level chat questions with AI interpretation of the results
     
