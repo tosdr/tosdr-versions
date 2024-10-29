@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/icarus-achilles-1-e1730224486961.jpg?ve=1&tl=1)
+
+ ![SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/icarus-achilles-1-e1730224486961.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/seaquest-fort-worth-shuts-down-animal-cruelty-investigation)
+
+### [SeaQuest in Fort Worth shuts down amid animal cruelty investigation](https://www.fox4news.com/news/seaquest-fort-worth-shuts-down-animal-cruelty-investigation)
+
+ [![Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-179821573-a.jpg?ve=1&tl=1)
+
+ ![Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-179821573-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/comedy-icon-teri-garr-known-roles-young-frankenstein-tootsie-dies)
+
+### [Comedy icon Teri Garr, known for roles in 'Young Frankenstein' and 'Tootsie,' dies](https://www.fox4news.com/news/comedy-icon-teri-garr-known-roles-young-frankenstein-tootsie-dies)
+
+ [![12 arrested in Texas, 6 kilos of cocaine seized in bust](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/12-charged-in-lubbock-cocaine-bust.jpg?ve=1&tl=1)
+
+ ![12 arrested in Texas, 6 kilos of cocaine seized in bust](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/12-charged-in-lubbock-cocaine-bust.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/12-arrested-texas-6-kilos-cocaine-seized-bust)
+
+### [12 arrested in Texas, 6 kilos of cocaine seized in bust](https://www.fox4news.com/news/12-arrested-texas-6-kilos-cocaine-seized-bust)
+
  [![1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/trump-harris-2.jpg?ve=1&tl=1)
 
  ![1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/trump-harris-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-week-until-election-day-harris-trump-pitches)
 
 ### [1 week until Election Day: Here's how Harris, Trump are making their final pitches](https://www.fox4news.com/news/1-week-until-election-day-harris-trump-pitches)
 
- [![Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/mohamid-ali-mug-prepro.png?ve=1&tl=1)
+ [![Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/day-care-center.jpg?ve=1&tl=1)
 
- ![Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/mohamid-ali-mug-prepro.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mohamid-ali-irving-arrest-scamming-arrest)
+ ![Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/day-care-center.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/infant-care-costs-family-annual-income)
 
-### [Irving police arrest alleged scammer targeting senior citizens across the U.S.](https://www.fox4news.com/news/mohamid-ali-irving-arrest-scamming-arrest)
-
- [![North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/venezuelan-gang.png?ve=1&tl=1)
-
- ![North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/venezuelan-gang.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
-
-### [North Texas kidnapping, murder linked to Venezuelan gang: Children rescued](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
-
- [![Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2162600246.jpg?ve=1&tl=1)
-
- ![Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2162600246.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-presidential-election-october-29-2024)
-
-### [Harris vs. Trump latest polls: Here's who's winning with 1 week until Election Day](https://www.fox4news.com/news/whos-winning-in-polls-harris-trump-presidential-election-october-29-2024)
-
- [![Apple Intelligence has arrived. Here's how to update your device to get it](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/apple-ai.jpg?ve=1&tl=1)
-
- ![Apple Intelligence has arrived. Here's how to update your device to get it](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/apple-ai.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/apple-intelligence-os-18-1-how-to-update-ipad-iphone)
-
-### [Apple Intelligence has arrived. Here's how to update your device to get it](https://www.fox4news.com/news/apple-intelligence-os-18-1-how-to-update-ipad-iphone)
+### [Infant care costs roughly 10% of a family's annual income in nearly all states, study finds](https://www.fox4news.com/news/infant-care-costs-family-annual-income)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
