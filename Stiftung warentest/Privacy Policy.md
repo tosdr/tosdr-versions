@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Verpackungs­ärger: Ritual of Karma Shampoo, Rituals](https://www.test.de/Verpackungsaerger-Ritual-of-Karma-Shampoo-Rituals-6038436-0/ "Verpackungsärger - Ritual of Karma Shampoo, Rituals")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Verpackungs­ärger: Sanella 400 Gramm](https://www.test.de/Verpackungsaerger-Sanella-400-Gramm-5937588-0/ "Verpackungsärger - Sanella 400 Gramm")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6144127-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
+* [Betrug mit Finanz­amts­briefen: Behörden warnen vor Betrug mit gefälschten Steuer­bescheiden](https://www.test.de/Betrug-mit-Finanzamtsbriefen-Behoerden-warnen-vor-Betrug-mit-gefaelschten-Steuerbescheiden-6163227-0/ "Betrug mit Finanzamtsbriefen - Behörden warnen vor Betrug mit gefälschten Steuerbescheiden")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
 
 Service Stiftung Warentest
 
