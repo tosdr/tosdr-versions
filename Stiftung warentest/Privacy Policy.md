@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
-* [MSCI World ETF: Welt­index zurück nach Schwächephase](https://www.test.de/MSCI-World-ETF-Weltindex-zurueck-nach-Schwaechephase-6064539-0/ "MSCI World ETF - Weltindex zurück nach Schwächephase")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Testsiegel Stiftung Warentest: Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen](https://www.test.de/Nachtests-Diese-Produkte-duerfen-das-Testsiegel-nicht-mehr-tragen-5022611-0/ "Testsiegel Stiftung Warentest - Diese Produkte dürfen das Warentest-Siegel nicht mehr tragen")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
 
 Service Stiftung Warentest
 
