@@ -10,7 +10,7 @@
     
 * [VIP MODs](https://platinmods.com/vipmods/)
     
-    [Search resources](https://platinmods.com/search/?type=resource)
+    [Search VIP MODs](https://platinmods.com/search/?type=resource)
     
 * [NEWEST POSTS](https://platinmods.com/whats-new/)
     
@@ -112,25 +112,25 @@ This information should not be construed as legal advice, for further details on
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1730150392) [Email](#_xfUid-1-1730150392) [Share](#_xfUid-1-1730150392) [Link](#_xfUid-1-1730150392)
+[WhatsApp](#_xfUid-1-1730171940) [Email](#_xfUid-1-1730171940) [Share](#_xfUid-1-1730171940) [Link](#_xfUid-1-1730171940)
 
 ### Forum statistics
 
 Threads
 
-67,062
+67,066
 
 Messages
 
-2,911,566
+2,911,728
 
 Members
 
-4,631,426
+4,632,271
 
 Latest member
 
-[diego023](https://platinmods.com/members/diego023.4960477/)
+[bob44456](https://platinmods.com/members/bob44456.4961328/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
