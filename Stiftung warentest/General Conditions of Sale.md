@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sneaker im Test: Markenschuhe enttäuschen](https://www.test.de/Sneaker-im-Test-Markenschuhe-enttaeuschen-6133151-0/ "Sneaker im Test - Markenschuhe enttäuschen")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6160458-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Heiz­kosten Fern­wärme: Darauf sollten Bestands- und Neukunden jetzt achten](https://www.test.de/Fernwaerme-Das-muessen-Sie-wissen-5936037-0/ "Heizkosten Fernwärme - Darauf sollten Bestands- und Neukunden jetzt achten")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Fonds: Globale 1. Wahl-ETF aus unserem Dauer­test](https://www.test.de/Fonds-Globale-1-Wahl-ETF-aus-unserem-Dauertest-6160433-0/ "Fonds - Globale 1. Wahl-ETF aus unserem Dauertest")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
 
 Service Stiftung Warentest
 
