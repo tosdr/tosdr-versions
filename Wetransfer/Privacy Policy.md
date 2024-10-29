@@ -2,29 +2,29 @@
 
 [](https://wetransfer.com/ "WeTransfer.com")
 
-Features
+Funcionalidades
 
-[Share your files](https://wetransfer.com/explore/file-sharing)[Protect your files](https://wetransfer.com/explore/data-security)[Customize your page](https://wetransfer.com/explore/branding)[Give & get feedback](https://wetransfer.com/explore/portals-reviews)[Collaborate with your team](https://wetransfer.com/explore/teams)[Get paid for your work](https://wetransfer.com/explore/sell-files-get-paid)[Distribute your content](https://wetransfer.com/explore/distribution)[Create moodboards](https://wetransfer.com/explore/collect)[Get benefits & perks](https://wetransfer.com/explore/subscriber-benefits)
+[Partilha os teus ficheiros](https://wetransfer.com/explore/file-sharing)[Protege os teus ficheiros](https://wetransfer.com/explore/data-security)[Personaliza a tua página](https://wetransfer.com/explore/branding)[Dá e recebe feedback](https://wetransfer.com/explore/portals-reviews)[Colabora com a tua equipa](https://wetransfer.com/explore/teams)[Recebe pelo teu trabalho](https://wetransfer.com/explore/sell-files-get-paid)[Distribua os seus conteúdos](https://wetransfer.com/explore/distribution)[Criar moodboards](https://wetransfer.com/explore/collect)[Obtenha benefícios e regalias](https://wetransfer.com/explore/subscriber-benefits)
 
-[Pricing](https://wetransfer.com/pricing?trk=NAV_pricing)Use cases
+[Preços](https://wetransfer.com/pricing?trk=NAV_pricing)Casos de estudo
 
-[For photographers](https://wetransfer.com/explore/photographers)[For videographers](https://wetransfer.com/explore/videographers)[For designers & illustrators](https://wetransfer.com/explore/designers-illustrators)[For students](https://wetransfer.com/explore/for-students)
+[Para fotógrafos](https://wetransfer.com/explore/photographers)[Para videógrafos](https://wetransfer.com/explore/videographers)[Para designers e ilustradores](https://wetransfer.com/explore/designers-illustrators)[Para estudantes](https://wetransfer.com/explore/for-students)
 
-Resources
+Recursos
 
-About us
+Sobre nós
 
-[Company](https://wetransfer.com/explore)[Careers](https://wetransfer.com/explore/careers)[Culture](https://wetransfer.com/explore/culture)[Leadership](https://wetransfer.com/explore/corporate/leadership)[Corporate social responsibility](https://wetransfer.com/explore/csr)[Awards](https://wetransfer.com/explore/corporate/awards)[Newsroom](https://wetransfer.com/blog/newsroom/)
+[Company](https://wetransfer.com/explore)[carreiras](https://wetransfer.com/explore/careers)[Cultura](https://wetransfer.com/explore/culture)[Liderança](https://wetransfer.com/explore/corporate/leadership)[Responsabilidade social corporativa](https://wetransfer.com/explore/csr)[Prémios](https://wetransfer.com/explore/corporate/awards)[Novidades](https://wetransfer.com/blog/newsroom/)
 
 Advertising
 
-[Advertise with us](https://wetransfer.com/explore/advertising)[Responsible practices](https://wetransfer.com/explore/advertising/responsible)[Ad policies](https://wetransfer.com/explore/advertising/policies)
+[Anuncia connosco](https://wetransfer.com/explore/advertising)[Práticas responsáveis](https://wetransfer.com/explore/advertising/responsible)[Políticas de publicidade](https://wetransfer.com/explore/advertising/policies)
 
-More
+Mais
 
-[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Help](https://help.wetransfer.com/hc/en-us)
+[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Ajuda](https://help.wetransfer.com/hc/en-us)
 
-[Log in](https://wetransfer.com/log-in)[Sign up](https://wetransfer.com/pricing?trk=WT202005_signup)
+[Entrar](https://wetransfer.com/log-in)[Inscrição](https://wetransfer.com/pricing?trk=WT202005_signup)
 
 * [Terms of Service](https://wetransfer.com/explore/legal/terms)
 * [Privacy & Cookie Statement](https://wetransfer.com/explore/legal/privacy)
@@ -174,12 +174,12 @@ If you have any questions, or complaints, or if you want to exercise your privac
         
     2. **Analytical cookies** are used to optimise our Service. For example to optimise the usability of our website by AB-testing a new feature, to make the website more user-friendly and to analyse how you use our Service. We also use analytical cookies to stop bots and malicious behaviour like spam. When we use analytical cookies, this could include third party cookies, as found in the cookie list. These third party analytical cookies process personal information, which is detailed in the cookie list too.
         
-    3. **Advertisement cookies** are used for commercial, editorial and promotional purposes. With these cookies your internet- and surf behaviour can be followed over various domains and websites. WeTransfer only checks the (one) website you visited prior to your visit to one of our websites. We do not track the website you visit after you leave our website. Advertisement cookies are often also placed by third parties to measure the effectiveness of their advertising campaigns and to follow your internet- and surf behaviour over other domains and websites where they have placed a cookie. WeTransfer does not have access to or control over personal information collected via these cookies or other features that advertisers and third parties may use. Our Privacy & Cookie Statement is therefore not applicable to these third party cookies and we refer you to third parties’ Privacy Statements to read how they handle personal information. You can find a list of the limited amount of third party cookies and a link to their privacy policies [here](https://wetransfer.com/explore/legal/cookie-list).
+    3. **Advertisement cookies** are used for commercial, editorial and promotional purposes. With these cookies your internet- and surf behaviour can be followed over various domains and websites. WeTransfer only checks the (one) website you visited prior to your visit to one of our websites. We do not track the website you visit after you leave our website. Advertisement cookies are often also placed by third parties to measure the effectiveness of their advertising campaigns and to follow your internet- and surf behaviour over other domains and websites where they have placed a cookie. WeTransfer does not have access to or control over personal information collected via these cookies or other features that advertisers and third parties may use. Our Privacy & Cookie Statement is therefore not applicable to these third party cookies and we refer you to third parties’ Privacy Statements to read how they handle personal information. You can find a list of the limited amount of third party cookies and a link to their privacy policies [here](https://wetransfer.com/explore/legal/in-app-tracking-technologies).
         
     4. **Pixel tags or web beacons** are a piece of code embedded on the website that collects personal information about users' engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement. The pixel also allows us to see from which previous website or channel a user arrived at our website.
         
     
-    We have an extensive cookie list available [here](https://wetransfer.com/explore/legal/cookie-list), which we will update at least four times a year. Due to the changing nature of our Service, this may result in the cookie list not being fully up to date at times. If you would want to remove certain cookies, or block them from being stored in your browser, it is possible to arrange this through your browser settings for cookies. You can find these settings under the Privacy tab in the Preferences section of most browsers. Here you can specify your cookie preferences or remove cookies. Please note that if you remove or refuse WeTransfer cookies, the Service might not function in optimal form.
+    We have an extensive cookie list available [here](https://wetransfer.com/explore/legal/in-app-tracking-technologies), which we will update at least four times a year. Due to the changing nature of our Service, this may result in the cookie list not being fully up to date at times. If you would want to remove certain cookies, or block them from being stored in your browser, it is possible to arrange this through your browser settings for cookies. You can find these settings under the Privacy tab in the Preferences section of most browsers. Here you can specify your cookie preferences or remove cookies. Please note that if you remove or refuse WeTransfer cookies, the Service might not function in optimal form.
     
 * How we operate as a global business
     
