@@ -98,6 +98,7 @@ Toggle navigation [ScalaCube](https://scalacube.com/ "ScalaCube - Game Server Ho
     * [Blog](https://scalacube.com/blog)
     * [Apps](https://scalacube.com/store)
     * [Register Domain](https://scalacube.com/domains)
+    * [Our Team](https://scalacube.com/team)
     * [Affiliate Program](https://scalacube.com/affiliate-program)
 * [](#)
     * [USD ($)](#)
