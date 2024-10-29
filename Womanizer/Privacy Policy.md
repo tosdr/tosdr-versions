@@ -34,9 +34,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         Vibe](https://www.womanizer.com/eu/vibe)
-    * [NEW
-        
-        Next](https://www.womanizer.com/eu/next)
+    * [Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
@@ -56,6 +54,12 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Sale](https://www.womanizer.com/eu/sale)
     
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [NEW
+        
+        24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
@@ -68,12 +72,11 @@ The store will not work correctly in the case when cookies are disabled.
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
     * [The All-About-Us Collection](https://www.womanizer.com/eu/the-all-about-us-collection)
-    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [Premium](https://www.womanizer.com/eu/premium)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
-    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
-    * [Double Down Collection](https://www.womanizer.com/eu/double-down-collection)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
