@@ -36,63 +36,38 @@ Search results
 *  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
 *  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
 
-*  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/Stack1_94def5ea-9c62-4fb5-86ef-4dd48416026a.png?v=1727165709&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/after_d4ed7384-7c8b-448d-8891-c0a3e8d69522.jpg?v=1729222761&width=620)
+BLACK FRIDAY DEALS
+==================
+
+* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1730198905&width=240)
     
-    Blaux Portable Bidet
-    ====================
+    [$20 OFF](https://www.rangextd.com/collections/20-off) 
     
-    The Ultimate In Cleanliness & Portable Personal Care
+* ![Collection image for: 40% OFF](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1730198673&width=240)
     
-    [Shop now](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    [40% OFF](https://www.rangextd.com/collections/40-off) 
     
-    [](https://www.rangextd.com/products/blaux-bidet-gen-2)
+* ![Collection image for: 50% OFF](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1730198068&width=240)
     
-*  ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/img_4.png?v=1729223291&width=620) ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/slide_6.png?v=1729223139&width=620)
+    [50% OFF](https://www.rangextd.com/collections/50-off) 
     
-    Mini Heater
-    ===========
+* ![Collection image for: 62% OFF](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1730198490&width=240)
     
-    Stay Warm Through Freezing Winter
+    [62% OFF](https://www.rangextd.com/collections/62-off) 
     
-    [Shop now](https://www.rangextd.com/products/blaux-heater-450w)
-    
-    [](https://www.rangextd.com/products/blaux-heater-450w)
-    
+
+[View all collections](https://www.rangextd.com/collections) 
 
 BLACK FRIDAY ENDS
 =================
 
 Save big before Black Friday ends - use SAVVY30FREE at checkout!
 
-Nov 29, 2024 11:59:59
+Nov 07, 2024 11:59:59
 
 [SHOP ALL DEALS](https://www.rangextd.com/collections/best-selling-items)
 
 [](https://www.rangextd.com/collections/best-selling-items)
-
-Shop Collections
-================
-
-[View all collections](https://www.rangextd.com/collections) 
-
-* ![Collection image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=300&v=1727247097&width=240)
-    
-    [Personal Essentials](https://www.rangextd.com/collections/personal-essentials) 
-    
-* ![Collection image for: Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=300&v=1727247156&width=240)
-    
-    [Family Essentials](https://www.rangextd.com/collections/family-essentials) 
-    
-* ![Collection image for: Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=300&v=1724829778&width=240)
-    
-    [Travel](https://www.rangextd.com/collections/travel-mobility) 
-    
-* ![Collection image for: Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=300&v=1728032127&width=240)
-    
-    [Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) 
-    
-
-[View all collections](https://www.rangextd.com/collections) 
 
 Most sold this week
 ===================
@@ -290,12 +265,13 @@ Discover the hottest items flying off the shelves.
 
 [Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
 
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
-
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
+    
+    Personal Essentials
+    -------------------
+    
+    [See More Deals](https://www.rangextd.com/collections/personal-essentials)
+    
 * ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
     
     Personal Essentials
@@ -309,13 +285,27 @@ Discover the hottest items flying off the shelves.
     
     [See More Deals](https://www.rangextd.com/collections/travel-mobility)
     
-* ![Banner image for: Family Essentials](//savvysmartdeals.com/cdn/shop/files/Stack4_f5faa6f5-0e4d-4a15-899e-a1713df879d1.png?v=1727163260&width=620)
+
+Trending Now
+============
+
+Don't Miss Out on Must-Have Devices & Unique Items!
+
+* Sale -50% [![Self-cleaning & self-cooling sheets. Transform how you sleep.](//savvysmartdeals.com/cdn/shop/files/m_1.jpg?v=1729766642&width=645)](https://www.rangextd.com/products/miracle-sheet)
     
-    ### Family Essentials
+    ### [Self-cleaning & self-cooling sheets. Transform how you sleep.](https://www.rangextd.com/products/miracle-sheet)
     
-    [See More Deals](https://www.rangextd.com/collections/family-essentials)
+    Next day delivery
     
-    [](https://www.rangextd.com/collections/family-essentials)
+    $238.00 $119.00
+    
+* Sale -50% [![UVbrite Self-Cleaning Bottle - Stay Hydrated, Stay Healthy](//savvysmartdeals.com/cdn/shop/files/uvbrite-highres_0034.jpg?v=1729679464&width=645)](https://www.rangextd.com/products/uvbrite-self-cleaning-bottle)
+    
+    ### [UVbrite Self-Cleaning Bottle - Stay Hydrated, Stay Healthy](https://www.rangextd.com/products/uvbrite-self-cleaning-bottle)
+    
+    Next day delivery
+    
+    $79.99 $39.99
     
 
 Top Savvy Techs
@@ -425,6 +415,12 @@ Our latest blog posts
     
 
 [View all](https://www.rangextd.com/blogs/news) 
+
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
 
 * ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
     
