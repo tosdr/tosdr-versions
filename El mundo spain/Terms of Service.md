@@ -1,10 +1,11 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyA9ngoAAVEAAABcVhk)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyCR@woAAVAAAABb9hg)
 
 Es noticia
 
 * [García Ortíz](https://www.elmundo.es/espana/2024/10/28/671f82d3e85ece41558b456f.html)
 * [Yolanda Díaz Errejón](https://www.elmundo.es/espana/2024/10/28/671fa708fc6c83d23e8b4586.html)
 * [Íñigo Errejón](https://www.elmundo.es/espana/2024/10/28/671f2a3fa75cca8941bc018a-directo.html)
+* [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/29/67208232a75cca8941c238c5-directo.html)
 * [Huelga autobuses](https://www.elmundo.es/economia/2024/10/28/671f2ef11ee97cbdb69f6a6b-directo.html)
 * [Podemos](https://www.elmundo.es/espana/2024/10/28/671f6c01e85ece4a2b8b4589.html)
 * [Presidenta RTVE](https://www.elmundo.es/television/2024/10/28/671fec01e4d4d84a698b456d.html)
