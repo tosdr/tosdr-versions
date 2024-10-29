@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/onderzoekers-er-sterven-wel-degelijk-mensen-na-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/deel-1-hoe-je-het-grootste-geheim-uit-de-moderne-geschiedenis-bewaart/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
