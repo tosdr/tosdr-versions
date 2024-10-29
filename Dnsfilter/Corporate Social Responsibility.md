@@ -155,6 +155,16 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
+[![Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_securingguestwi_fiaretailguide1-1.webp?width=500&height=190&name=newsroom_securingguestwi_fiaretailguide1-1.webp)
+
+Posted on October 29, 2024 by Kory Underdown
+
+ **
+
+Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all
+
+**](https://www.dnsfilter.com/blog/guest-wifi-solutions-retail-stores/)
+
 [![Green IT & Sustainability](https://www.dnsfilter.com/hs-fs/hubfs/d33a45dc-9e81-4566-9644-85ea957c2cb3.webp?width=500&height=190&name=d33a45dc-9e81-4566-9644-85ea957c2cb3.webp)
 
 Posted on October 28, 2024 by Mikey Pruitt
@@ -174,16 +184,6 @@ Posted on October 23, 2024 by Greg Delaney
 How AppAware Protects Kids from Predator Dangers on Roblox
 
 **](https://www.dnsfilter.com/blog/how-appaware-protects-kids-from-predator-dangers-on-roblox)
-
-[![Guest Wi-Fi vs. Regular Wi-Fi vs. Public Wi-Fi: Understanding the Differences To Protect Your Data](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_guestwi_fivs.publicwi_fi_what%E2%80%99sthedifference1.webp?width=500&height=190&name=newsroom_guestwi_fivs.publicwi_fi_what%E2%80%99sthedifference1.webp)
-
-Posted on October 15, 2024 by Kory Underdown
-
- **
-
-Guest Wi-Fi vs. Regular Wi-Fi vs. Public Wi-Fi: Understanding the Differences To Protect Your Data
-
-**](https://www.dnsfilter.com/blog/guest-vs-regular-vs-public-wifi/)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
