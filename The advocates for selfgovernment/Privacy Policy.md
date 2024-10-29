@@ -1,70 +1,712 @@
-[![](https://www.theadvocates.org/wp-content/uploads/2023/05/ASG-Logo-Light-Blue-V2.png)](https://www.theadvocates.org/) [![Advocates logo](https://www.theadvocates.org/wp-content/uploads/2023/05/ASG-Logo-Light-Blue-V2.png)](https://www.theadvocates.org/) |
+Password Reset Confirmation
+---------------------------
 
-Privacy Policy
+If an account matching the email you entered was found, you will receive an email with a link to reset your password.
 
-* [Quizzes & Apps](#)
-    
-    * [World’s Smallest Political Quiz](https://www.theadvocates.org/quiz/)
-    * [ASG.STREAM (Watch Films)](https://asg.stream/)
-    * [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
-    * [Human Respect Test](https://www.theadvocates.org/human-respect-tests/)
-    * [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
-    
-* [Political Surveys](#)
-    
-    * [Gun Control Survey](https://www.theadvocates.org/qep/gun-control-survey/)
-    * [Federal Spending Survey](https://www.theadvocates.org/qep/federal-spending-survey/)
-    * [National Security And Foreign Policy](https://www.theadvocates.org/qep/national-security-survey/)
-    * [Government Debt, Money, and Monetary Policy](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
-    * [Identity Politics and Political Correctness](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
-    * [Censorship and Free Speech](https://www.theadvocates.org/qep/censorship-and-free-speech/)
-    * [Election Integrity Survey](https://www.theadvocates.org/qep/election-integrity-survey/)
-    * [Pandemic Survey](https://www.theadvocates.org/qep/pandemic-survey/)
-    * [Police Accountability](https://www.theadvocates.org/qep/police-accountability/)
-    
-    [All Surveys](https://www.theadvocates.org/single-issue-surveys/)
-    
+User Not Found
+--------------
+
+The username/email and password combination you entered was not found. Please try again or contact support.
+
+[Skip to main content](#tm-main)
+
+[![Advocates For Self-Government](/wp-content/uploads/2024/04/the-advocates-logo.svg)](https://www.theadvocates.org/)
+
+[](#tm-dialog-mobile)
+
+[![Advocates For Self-Government](/wp-content/uploads/2024/05/asg-logo-transparent.svg)](https://www.theadvocates.org/)
+
+* [Political Quiz](https://www.theadvocates.org/quiz/)
+* [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
+* [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
+* [Human Respect Tests](https://www.theadvocates.org/human-respect-tests/)
 * [Articles](https://www.theadvocates.org/articles/)
+* [Our Mission](https://www.theadvocates.org/about/)
+* [Shop](https://shop.www.theadvocates.org/)
+* [Donate](https://www.theadvocates.org/donate/)
+* [Become a Patron](https://www.theadvocates.org/membership/)
+* [Sign In](https://www.theadvocates.org/#loginbox)
+
+Enable Dark Mode
+
+[Start My Journey](https://www.theadvocates.org/quiz/)
+
+[![Advocates For Self-Government](/wp-content/uploads/2024/05/asg-logo.svg)](https://www.theadvocates.org/)
+
+* Quizzes & Apps
     
-    * [Articles](https://www.theadvocates.org/articles/)
-    * [Our Mission](https://www.theadvocates.org/about/)
-    * [Be A Patron](https://www.theadvocates.org/membership/)
-    * [Donate](https://www.theadvocates.org/donate/)
-    * [Shop](https://shop.theadvocates.org/)
+    [World's Smallest Political Quiz
     
+    Where do you stand politically?
+    
+    Read more](https://www.theadvocates.org/quiz/)
+    
+    [Human Respect Tests
+    
+    Do you endorse political coercion?
+    
+    Read more](https://www.theadvocates.org/human-respect-tests/)
+    
+    [Political Surveys
+    
+    Survey and compare your beliefs
+    
+    Read more](https://www.theadvocates.org/single-issue-surveys/)
+    
+    [Compare Political Types
+    
+    Learn About The Nolan Chart
+    
+    Read more](https://www.theadvocates.org/political-type-comparison/)
+    
+    Most Popular
+    
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-whitehouse-resized.jpeg)
+        
+        ### The World’s Smallest Political Quiz
+        
+        Discover your political type and what your answers mean
+        
+        Read more
+        
+        23242153 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2023/06/gun-control-resized.jpeg)
+        
+        ### Gun Control Survey
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        850 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        7 Min](https://www.theadvocates.org/qep/gun-control-survey/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2022/12/AdobeStock_68336479-scaled-resized.jpeg)
+        
+        ### Federal Spending Survey
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        2270 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        4.5 Min](https://www.theadvocates.org/qep/federal-spending-survey/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/national-security-and-foreign-policy-resized.jpeg)
+        
+        ### National Security And Foreign Policy
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        2500 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        4 Min](https://www.theadvocates.org/qep/national-security-survey/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/government-debt-resized.jpeg)
+        
+        ### Government Debt, Money, and Monetary Policy
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        1140 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        3 Min](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/worlds-smallest-quiz-resized.jpeg)
+        
+        ### Identity Politics and Political Correctness
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        2250 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        4 Min](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/do-you-understand-self-government-resized.jpeg)
+        
+        ### Censorship and Free Speech
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        1950 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        4.5 Min](https://www.theadvocates.org/qep/censorship-and-free-speech/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/election-integrity-survey-resized.jpeg)
+        
+        ### Election Integrity Survey
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        860 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        3 Min](https://www.theadvocates.org/qep/election-integrity-survey/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/single-issue-surveys-resized.jpeg)
+        
+        ### Pandemic Survey
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        1450 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        4 Min](https://www.theadvocates.org/qep/pandemic-survey/)
+        
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/police-accountability-resized.jpeg)
+        
+        ### Police Accountability
+        
+        Discover if your political type score matches with your views on specific issues, and compare your results to others.
+        
+        Read more
+        
+        1120 Respondents  
+        by **The Advocates**
+        
+        Duration
+        
+        3 Min](https://www.theadvocates.org/qep/police-accountability/)
+        
+    
+    [](#)[](#)
+    
+    [See All Quizzes](https://www.theadvocates.org/quizzes/)
+    
+* Political Types
+    
+    [Libertarian
+    
+    What it Means to be a Libertarian
+    
+    Read more](https://www.theadvocates.org/libertarian/)
+    
+    [Conservative
+    
+    What it Means to be a Conservative
+    
+    Read more](https://www.theadvocates.org/conservative/)
+    
+    [Progressive
+    
+    What it Means to be a Progressive
+    
+    Read more](https://www.theadvocates.org/liberal/)
+    
+    [Moderate
+    
+    What it Means to be a Moderate
+    
+    Read more](https://www.theadvocates.org/moderate/)
+    
+    [Authoritarian
+    
+    What it Means to be a Authoritarian
+    
+    Read more](https://www.theadvocates.org/authoritarian/)
+    
+    Political Types
+    
+    *  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
+        
+        Libertarian
+        
+        Read more](https://www.theadvocates.org/libertarian/)
+        
+    *  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
+        
+        Conservative
+        
+        Read more](https://www.theadvocates.org/conservative/)
+        
+    *  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
+        
+        Progressive
+        
+        Read more](https://www.theadvocates.org/liberal/)
+        
+    *  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
+        
+        Moderate
+        
+        Read more](https://www.theadvocates.org/moderate/)
+        
+    *  [![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp) ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
+        
+        Authoritarian
+        
+        Read more](https://www.theadvocates.org/authoritarian/)
+        
+    
+    [](#)[](#)
+    
+    [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
+    
+* Articles
+    
+    [All Articles
+    
+    See All Articles
+    
+    Read more](https://www.theadvocates.org/articles/)
+    
+    [Underthrow Series
+    
+    See Underthrow Series Articles
+    
+    Read more](https://www.theadvocates.org/category/underthrow-series/)
+    
+    [Video & Film
+    
+    See Video & Film Articles
+    
+    Read more](https://www.theadvocates.org/category/asg-stream/)
+    
+    [Education
+    
+    See Education Articles
+    
+    Read more](https://www.theadvocates.org/category/education/)
+    
+    Latest Articles
+    
+    *    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
+        
+        Underthrow Series
+        
+        We Have to Clean Up the Mess Ourselves
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+        
+        Underthrow Series
+        
+        In the Ashes of the Apparatus
+        
+        Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+        
+        Underthrow Series
+        
+        Bug Bites and Bureaucrats
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+        
+        Underthrow Series
+        
+        Old Man Mountain Weeps
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+        
+        Underthrow Series
+        
+        The A Word (Gasp) – Anarchy
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+        
+        Underthrow Series
+        
+        Makers and Takers
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/makers-and-takers/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+        
+        Underthrow Series
+        
+        Blinking Lights: Heroes of Underthrow
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
+        
+        Underthrow Series
+        
+        Anything Peaceful
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/anything-peaceful/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
+        
+        Underthrow Series
+        
+        What’s So Great About Polycentricity?
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png) ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png)
+        
+        Underthrow Series
+        
+        When Governments Compete, You Win
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/when-governments-compete-you-win/)
+        
+    
+    [](#)[](#)
+    
+    [See All Articles](https://www.theadvocates.org/articles/)
+    
+* [More](https://www.theadvocates.org/)
+    
+    [Our Mission
+    
+    Who We Are
+    
+    Read more](https://www.theadvocates.org/about/)
+    
+    [Donate
+    
+    Make a donation
+    
+    Read more](https://www.theadvocates.org/donate/)
+    
+    [Be A Patron
+    
+    Select Membership level
+    
+    Read more](https://www.theadvocates.org/membership/)
+    
+    [Shop
+    
+    Source for libertarian books
+    
+    Read more](https://shop.www.theadvocates.org/)
+    
+    More Links
+    
+    *    [![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg) ![](/wp-content/themes/yootheme/cache/74/pexels-lilartsy-1925536-746124ba.jpeg)
+        
+        Our Mission
+        
+        Read more](https://www.theadvocates.org/libertarian/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg) ![](/wp-content/themes/yootheme/cache/cd/pexels-photo-271168-cdd03a3c.jpeg)
+        
+        Donate
+        
+        Read more](https://www.theadvocates.org/conservative/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg) ![](/wp-content/themes/yootheme/cache/76/photo-1521790797524-b2497295b8a0-scaled-76910735.jpeg)
+        
+        Be A Patron
+        
+        Read more](https://www.theadvocates.org/liberal/)
+        
+    *    [![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg) ![](/wp-content/themes/yootheme/cache/89/pexels-photo-4855351-scaled-8995c3bb.jpeg)
+        
+        Shop
+        
+        Read more](https://shop.www.theadvocates.org/)
+        
+    
+    [](#)[](#)
+    
+    [Visit Our Shop](https://shop.www.theadvocates.org/)
+    
+
+[Start My Journey](https://www.theadvocates.org/quiz/)[Sign In](#loginbox)
+
+[](#tm-dialog)
+
+[![Advocates For Self-Government](/wp-content/uploads/2024/05/asg-logo-transparent.svg)](https://www.theadvocates.org/)
+
+![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)
+
+* [ASG Stream](https://asg.stream/)
+* [Our Store](https://shop.www.theadvocates.org/)
+
+* [](https://x.com/TheAdvocates)
+* [](https://www.facebook.com/SelfGov)
+* [](https://www.instagram.com/theadvocates/)
+
+[Start My Journey](https://www.theadvocates.org/quiz/)
 
 * [Create Account](#createbox)
 * [Sign In](#loginbox)
-* [![User Avatar](https://advocatesnewst.wpengine.com/wp-content/uploads/2023/06/user.png)](#)
+
+Enable Dark Mode
+
+Quizzes & Apps
+--------------
+
+*    [![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg) ![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg)
     
-    **Save & Track Progress**
+    ### Freedom of Speech & Expression
     
-    Always free to join.
+    You'll be given 3 possible answers per question.
     
-    [Sign up](#createbox)
+    Read more
     
-    [Sign in](#loginbox)
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/freedom-of-speech-and-expression/)
+    
+*    [![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg) ![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg)
+    
+    ### Freedom of Association
+    
+    You'll be given 3 possible answers per question.
+    
+    Read more
+    
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/freedom-of-association/)
+    
+*    [![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg) ![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg)
+    
+    ### Freedom of Privacy
+    
+    You'll be given 3 possible answers per question.
+    
+    Read more
+    
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/freedom-of-privacy/)
+    
+*    [![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg) ![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg)
+    
+    ### Education Freedom Respect
+    
+    You'll be given 3 possible answers per question.
+    
+    Read more
+    
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/education-freedom/)
+    
+*    [![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg) ![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg)
+    
+    ### Healthcare Respect
+    
+    You'll be given 3 possible answers per question.
+    
+    Read more
+    
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/freedom-of-bodily-autonomy-copy-copy/)
+    
+*    [![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg) ![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg)
+    
+    ### Personal Choice & Victimless Crimes
+    
+    You'll be given 3 possible answers per question.
+    
+    Read more
+    
+    Human Respect Tests
+    
+      
+    by **ASG Author**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/personal-choice-victimless-crimes/)
     
 
-* [Quizzes  & Apps](#)
+Articles
+--------
+
+*    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
     
-    * [World’s Smallest Political Quiz](https://www.theadvocates.org/quiz/)
-    * [ASG.STREAM (Watch Films)](https://asg.stream/)
-    * [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
-    * [Human Respect Test](https://www.theadvocates.org/human-respect-tests/)
-    * [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
+    Underthrow Series
+    
+    We Have to Clean Up the Mess Ourselves
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
+    
+*    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+    
+    Underthrow Series
+    
+    In the Ashes of the Apparatus
+    
+    Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+    
+*    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+    
+    Underthrow Series
+    
+    Bug Bites and Bureaucrats
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
+    
+*    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+    
+    Underthrow Series
+    
+    Old Man Mountain Weeps
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
+    
+*    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+    
+    Underthrow Series
+    
+    The A Word (Gasp) – Anarchy
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
+    
+*    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+    
+    Underthrow Series
+    
+    Makers and Takers
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/makers-and-takers/)
+    
+*    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+    
+    Underthrow Series
+    
+    Blinking Lights: Heroes of Underthrow
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+    
+*    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
+    
+    Underthrow Series
+    
+    Anything Peaceful
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/anything-peaceful/)
+    
+*    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-08-27-at-12.26.38%E2%80%AFPM-132f9227.png)
+    
+    Underthrow Series
+    
+    What’s So Great About Polycentricity?
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
+    
+*    [![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png) ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png)
+    
+    Underthrow Series
+    
+    When Governments Compete, You Win
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/when-governments-compete-you-win/)
     
 
-[](#full-modal)[](#offcanvas-nav-primary)
+### Privacy Policy
 
-[Political Quiz](https://www.theadvocates.org/quiz/) [Surveys](https://www.theadvocates.org/qep/) [Films](https://asg.stream/) [Articles](https://www.theadvocates.org/articles/) [Compare Beliefs](https://www.theadvocates.org/political-type-comparison/) [Libertarian](https://www.theadvocates.org/libertarian/) [Conservative](https://www.theadvocates.org/conservative/) [Progressive](https://www.theadvocates.org/liberal/) [Moderate](https://www.theadvocates.org/centrist/) [Authoritarian](https://advocatesnew.wpengine.com/statist/) [Human Respect](https://www.theadvocates.org/human-respect-tests/)
-
-[](#)[](#)
-
-Privacy Policy
-==============
-
-The Advocates for Self-Government (“us”, “we”, or “our”) operates the https://www.theadvocates.org website (the “Service”).
+The Advocates for Self-Government (“us”, “we”, or “our”) operates the https://theadvocatesp.kinsta.cloud website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -184,243 +826,107 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 Contact Us
 ----------
 
-If you have any questions about this Privacy Policy, please contact us at [\[email protected\]](https://www.theadvocates.org/cdn-cgi/l/email-protection) with the subject heading “Privacy Policy.”
+If you have any questions about this Privacy Policy, please contact us at info@theadvocates.org with the subject heading “Privacy Policy.”
 
-* * *
-
-World's Smallest  
-Political Quiz
----------------------------------
+New Here?
 
 [Take the Quiz](https://www.theadvocates.org/quiz/)
 
-Login for the  
-Best Experience
--------------------------------
+Already have your results? [Log in.](#loginbox)
 
-[Sign In](#loginbox) [Create Account](#createbox)
+### Start My Political Identity Journey
 
-#### The Advocates
+[Take the Quiz](https://www.theadvocates.org/quiz/)
+
+### What Are The 5 Political Types
+
+[Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
+
+![](/wp-content/uploads/2024/05/asg-logo-inv.svg)
+
+[Need Help?](https://www.theadvocates.org/contact-us/)
+
+The Advocates
 
 * [Our Team](https://www.theadvocates.org/team/)
-* [Store](https://shop.theadvocates.org/)
-* [Donate Now](https://www.theadvocates.org/donate/)
-* [Become A Patron](https://www.theadvocates.org/membership/)
-* [Contact](https://www.theadvocates.org/contact-us/)
+    
+* [Store](https://shop.www.theadvocates.org/)
+    
+* [Become A Patron](https://www.theadvocates.org/membership)
+    
+* [Contact Us](https://www.theadvocates.org/contact-us/)
+    
 
-#### Political Types
+Political Types
 
 * [Libertarian](https://www.theadvocates.org/libertarian/)
-* [Progressive](https://www.theadvocates.org/liberal)
+    
+* [Progressive](https://www.theadvocates.org/progressive/)
+    
 * [Conservative](https://www.theadvocates.org/conservative/)
+    
 * [Moderate](https://www.theadvocates.org/moderate/)
+    
 * [Authoritarian](https://www.theadvocates.org/authoritarian/)
+    
 
-#### Quizzes & Surveys
+Quizzes & Surveys
 
-* [World's Smallest Political Quiz](https://www.theadvocates.org/quiz/)
 * [Quiz Theory](https://www.theadvocates.org/about-the-quiz/)
+    
 * [Human Respect Tests](https://www.theadvocates.org/human-respect-tests/)
+    
 * [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
+    
 * [Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
+    
 
-#### Your Account
+Your Account
 
 * [Sign In](#loginbox)
 * [Create Account](#createbox)
-
-Password Reset Confirmation
----------------------------
-
-If an account matching the email you entered was found, you will receive an email with a link to reset your password.
-
-[![The Advocates for Self-Government](https://advocatesnewst.wpengine.com/wp-content/uploads/2020/07/cropped-icon.png)](https://www.theadvocates.org/)
-
-* [Political Quiz](https://www.theadvocates.org/quiz/)
-* [Political Surveys](https://www.theadvocates.org/single-issue-surveys/)
-* [Compare Political Types](https://www.theadvocates.org/political-type-comparison)
-* [Human Respect Test](https://www.theadvocates.org/human-respect-tests)
-* [Articles](https://www.theadvocates.org/articles)
-* [Our Mission](https://www.theadvocates.org/about/)
-* [Shop](https://shop.theadvocates.org/)
 * [Donate](https://www.theadvocates.org/donate/)
-* [Become A Patron](https://www.theadvocates.org/membership/)
-* Sign In | Create Account
 
-![Advocates logo](/wp-content/uploads/2020/07/cropped-icon.png)
+©2011-2024 The Advocates | [Terms & Conditions](https://www.theadvocates.org/terms-conditions/) | [Privacy Policy](https://www.theadvocates.org/privacy-policy/)
 
-[Worlds Smallest Political Quiz](https://www.theadvocates.org/quiz/)
---------------------------------------------------------------------
+* [](https://x.com/TheAdvocates)
+* [](https://www.facebook.com/SelfGov)
+* [](https://www.youtube.com/user/AdvocatesSelfGov)
+* [](https://www.instagram.com/theadvocates/)
 
-* [Articles](https://www.theadvocates.org/articles/)
-* [Login](#) | Create Account
-* [Our Mission](https://www.theadvocates.org/about/)
+![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
-[](https://www.instagram.com/theadvocates/)[](https://www.facebook.com/SelfGov)[![](https://www.theadvocates.org/wp-content/uploads/2023/05/asg-stream-platform.png)](https://asg.stream/)
+#### Sign Up with Email
 
-* * *
-
-Quizzes & Apps
---------------
-
-[](#)[](#)
-
-* [![World's Smallest Political Quiz](https://www.theadvocates.org/wp-content/uploads/2023/05/Political-Quiz-300x200.jpg )
-    
-    #### World's Smallest Political Quiz](https://www.theadvocates.org/quiz/)
-    
-* [![Political Surveys](https://www.theadvocates.org/wp-content/uploads/2023/05/Alt-Optional-300x200.jpg )
-    
-    #### Political Surveys](https://www.theadvocates.org/qep/)
-    
-* [![Human Respect Test](https://www.theadvocates.org/wp-content/uploads/2023/05/HRT-300x200.jpg )
-    
-    #### Human Respect Test](https://www.theadvocates.org/human-respect-tests/)
-    
-* [![ASG.STREAM (Watch Films)](https://www.theadvocates.org/wp-content/uploads/2023/05/asg.stream-300x200.jpeg )
-    
-    #### ASG.STREAM (Watch Films)](https://asg.stream/)
-    
-* [![Compare Political Types](https://www.theadvocates.org/wp-content/uploads/2020/07/Five-Political-Types-5-1-300x200.jpg )
-    
-    #### Compare Political Types](https://www.theadvocates.org/political-type-comparison/)
-    
-
-* * *
-
-Surveys
--------
-
-[](#)[](#)
-
-* [![](https://www.theadvocates.org/wp-content/uploads/2023/06/gun-control-survey47.jpg)](https://www.theadvocates.org/qep/gun-control-survey/)
-    
-    #### [Gun Control Survey](https://www.theadvocates.org/qep/gun-control-survey/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2022/12/federalspending.png)](https://www.theadvocates.org/qep/federal-spending-survey/)
-    
-    #### [Federal Spending Survey](https://www.theadvocates.org/qep/federal-spending-survey/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2022/06/soldier.png)](https://www.theadvocates.org/qep/national-security-survey/)
-    
-    #### [National Security And Foreign Policy](https://www.theadvocates.org/qep/national-security-survey/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2021/09/money1-1.png)](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
-    
-    #### [Government Debt, Money, and Monetary Policy](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2021/09/bag.png)](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
-    
-    #### [Identity Politics and Political Correctness](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2020/12/civil-disobedience-survey-1.png)](https://www.theadvocates.org/qep/censorship-and-free-speech/)
-    
-    #### [Censorship and Free Speech](https://www.theadvocates.org/qep/censorship-and-free-speech/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2020/12/voter-fraud-survey.png)](https://www.theadvocates.org/qep/election-integrity-survey/)
-    
-    #### [Election Integrity Survey](https://www.theadvocates.org/qep/election-integrity-survey/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2020/12/pandemic-survey.png)](https://www.theadvocates.org/qep/pandemic-survey/)
-    
-    #### [Pandemic Survey](https://www.theadvocates.org/qep/pandemic-survey/)
-    
-* [#### All Surveys](https://www.theadvocates.org/qep/)
-    
-
-* * *
-
-Articles
---------
-
-[](#)[](#)
-
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-1.01.57 PM-300x200.png)](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
-    
-    #### [We Have to Clean Up the Mess Ourselves](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Clouds-2.7-300x200.jpg)](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
-    
-    #### [In the Ashes of the Apparatus](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.48.22 PM-300x200.png)](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
-    
-    #### [Bug Bites and Bureaucrats](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Mule-on-out-scaled-300x200.jpg)](https://www.theadvocates.org/old-man-mountain-weeps/)
-    
-    #### [Old Man Mountain Weeps](https://www.theadvocates.org/old-man-mountain-weeps/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x200.jpg)](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
-    
-    #### [The A Word (Gasp) – Anarchy](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)](https://www.theadvocates.org/makers-and-takers/)
-    
-    #### [Makers and Takers](https://www.theadvocates.org/makers-and-takers/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x200.png)](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
-    
-    #### [Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-04-at-8.16.45 AM-300x200.png)](https://www.theadvocates.org/anything-peaceful/)
-    
-    #### [Anything Peaceful](https://www.theadvocates.org/anything-peaceful/)
-    
-* [#### All Articles](https://www.theadvocates.org/articles/)
-    
-
-* * *
-
-About
------
-
-[](#)[](#)
-
-* [![](https://www.theadvocates.org/wp-content/uploads/2023/05/Mission.jpg)
-    
-    #### Mission](https://www.theadvocates.org/about/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2023/05/Donate.jpg)
-    
-    #### Donate](https://www.theadvocates.org/donate/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2023/05/Store.jpg)
-    
-    #### Store](https://shop.theadvocates.org/)
-    
-
-![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2020/07/cropped-icon.png)
-
-#### Welcome Back.
+Save your results & progress. It’s Free, forever.
 
 [Sign in with Google](https://www.theadvocates.org/login-page/?loginSocial=google&redirect=https%3A%2F%2Fwww.theadvocates.org%2Fquiz%2F)
 
 [Sign in with Facebook](https://www.theadvocates.org/login-page/?loginSocial=facebook&redirect=https%3A%2F%2Fwww.theadvocates.org%2Fquiz%2F)
 
- [![Google](https://advocatesnewst.wpengine.com/wp-content/uploads/2023/06/email.png) Sign in with Email](#)
+[Sign in with Email](#)
 
-No account? [Create one](#)
+Don't have an account yet? [Create one!](#)
 
-Click "Sign Up" to agree to The Advocate's For Self Governments' [Terms of Service](https://www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate's [Privacy Policy](https://www.theadvocates.org/privacy-policy/) applies to you. You also consent to receive our email newsletter which you can opt out of at any time.
+Click “Sign Up” to agree to The Advocate’s For Self Governments’ [Terms of Service](https://www.www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate’s [Privacy Policy](https://www.www.theadvocates.org/privacy-policy/) applies to you. You also consent to receive our email newsletter which you can opt out of at any time.
 
-![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2020/07/cropped-icon.png)
+![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 #### Join free or login to save results.
 
-Save your results & progress. It's free, forever.
+Save your results & progress. It’s free, forever.
 
 [Sign up with Google](https://www.theadvocates.org/login-page/?loginSocial=google&redirect=https%3A%2F%2Fwww.theadvocates.org%2Fquiz%2F)
 
 [Sign up with Facebook](https://www.theadvocates.org/login-page/?loginSocial=facebook&redirect=https%3A%2F%2Fwww.theadvocates.org%2Fquiz%2F)
 
- [![Google](https://advocatesnewst.wpengine.com/wp-content/uploads/2023/06/email.png) Sign up with Email](#)
+[Sign up with Email](#)
 
 Already have an account? [Login](#)
 
-Click "Sign Up" to agree to The Advocate's For Self Governments' [Terms of Service](https://www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate's [Privacy Policy](https://www.theadvocates.org/privacy-policy/) applies to you. You also consent to receiving our email newsletter which you can opt out of at any time.
+Click “Sign Up” to agree to The Advocate’s For Self Governments’ [Terms of Service](https://www.www.theadvocates.org/terms-conditions/) and acknowledge that The Advocate’s [Privacy Policy](https://www.www.theadvocates.org/privacy-policy/) applies to you. You also consent to receive our email newsletter which you can opt out of at any time.
 
-![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2020/07/cropped-icon.png)
+![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 #### Sign in with email.
 
@@ -432,35 +938,30 @@ Password
 
  
 
-[Forgot Password](https://www.theadvocates.org/login/?action=lostpassword&redirect_to=https%3A%2F%2Fwww.theadvocates.org%2Fprivacy-policy%2F)
+[Forgot your password?](https://www.theadvocates.org/wp-login.php?action=lostpassword)
 
 [Other sign in options](#)
 
-![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2020/07/cropped-icon.png)
+![The Advocates logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
 #### Sign up with email.
 
-Email **\*** 
+Sign up for our newsletter 
 
-First name 
+ 
 
-Last name 
-
-New password 
-
-Repeat the password 
-
-The two passwords you entered don't match.
+Note: Your password will be generated automatically and emailed to the email address you specify above.
 
 [Other sign up options](#)
 
-Search this site
-----------------
+[Quizzes](https://www.theadvocates.org/quiz/)
 
-Search for: 
+[Articles](https://www.theadvocates.org/articles/)
 
-Take the world's smallest political quiz.
+[![ASG Logo](https://www.theadvocates.org/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
-[Take me there](https://www.theadvocates.org/quiz/)
+My Journey](https://www.theadvocates.org/)
 
-No, thanks.
+[Types](https://www.theadvocates.org/political-type-comparison/#types)
+
+[Compare](https://www.theadvocates.org/political-type-comparison/)
