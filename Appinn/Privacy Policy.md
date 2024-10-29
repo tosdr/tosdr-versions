@@ -116,7 +116,7 @@
 * [小众软件 2023 年度精选【2】](https://www.appinn.com/appinn-2023-top-15-list-2/)
 * [微信公众号 2023 年度 TOP10](https://www.appinn.com/2023-appinn-wechat-mp-top10/)
 
-[![](https://www.appinn.com/wp-content/uploads/2023/04/windows.jpg)](https://www.appinn.com/windows-11-and-office-2021/)
+[![](https://www.appinn.com/wp-content/uploads/2024/10/pixpin.jpg)](https://www.appinn.com/pixpin/)
 
 ### 精选推荐
 
