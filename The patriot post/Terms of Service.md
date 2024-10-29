@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111452-called-it-2024-10-28)
+     [](https://patriotpost.us/memes/111484-flashback-2024-10-29)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -216,6 +216,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Cal Thomas Mike Johnson as Clark Kent](https://patriotpost.us/opinion/111458-mike-johnson-as-clark-kent-2024-10-29)
 *      [The Washington Stand Dear Christian, Are You Able to Discern When Scripture Is Being Manipulated?](https://patriotpost.us/opinion/111465-dear-christian-are-you-able-to-discern-when-scripture-is-being-manipulated-2024-10-29)
 *      [The Babylon Bee Progress: Trump Holds Most Ethnically Diverse, Pro-Israel Nazi Rally in History](https://patriotpost.us/opinion/111464-progress-trump-holds-most-ethnically-diverse-pro-israel-nazi-rally-in-history-2024-10-29)
+*      [Guest Commentary Kamala’s Guide to Succeeding in Politics Without Really Trying](https://patriotpost.us/opinion/111482-kamalas-guide-to-succeeding-in-politics-without-really-trying-2024-10-29)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -229,7 +230,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
