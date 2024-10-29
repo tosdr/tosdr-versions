@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3/20241029T050446/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3/20241029T050446/e20e4573-3ba2-4ac9-8349-8cfa40d12dc3_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
+    *  [![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_16x9.jpeg) ![](https://media.king5.com/assets/KING/images/e6323b83-a850-4fdb-9385-7701c7c1ef7b/e6323b83-a850-4fdb-9385-7701c7c1ef7b_360x203.jpeg)](https://www.king5.com/article/news/crime/woman-charged-hate-crime-yelling-slurs-shoving-teens-puyallup/281-f428f186-e575-4b1d-9721-609b1a7134f2)
         
-        #### [Former Seattle police Chief Adrian Diaz on paid administrative leave](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
+        #### [Woman who allegedly yelled racial slurs, shoved teen in Puyallup charged with hate crime](https://www.king5.com/article/news/crime/woman-charged-hate-crime-yelling-slurs-shoving-teens-puyallup/281-f428f186-e575-4b1d-9721-609b1a7134f2)
         
-    *  [![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7164226-9255-40f7-a5fc-3620b691cc2a/20241025T221410/b7164226-9255-40f7-a5fc-3620b691cc2a_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
+    *  [![](https://media.king5.com/assets/KREM/images/fd4f6f79-3680-4fbe-bbc6-1006a7439617/fd4f6f79-3680-4fbe-bbc6-1006a7439617_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/fd4f6f79-3680-4fbe-bbc6-1006a7439617/fd4f6f79-3680-4fbe-bbc6-1006a7439617_360x203.jpg)](https://www.king5.com/article/news/local/washington-state-university-police-investigating-possible-sexual-assault/293-36ca3c41-dc65-4f95-8ee1-daea875bb4e2)
         
-        #### [Survivor has message for those dealing with domestic violence](https://www.king5.com/article/news/community/facing-race/tacoma-domestic-violence-survivor-shares-story/281-4e0be7ae-6914-4702-b6e8-3ffe74a2979e)
+        #### [Washington State University Police investigating possible sexual assault on campus](https://www.king5.com/article/news/local/washington-state-university-police-investigating-possible-sexual-assault/293-36ca3c41-dc65-4f95-8ee1-daea875bb4e2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/975af024-b84d-40e2-b2b9-66d39475bcb1/20241029T010114/975af024-b84d-40e2-b2b9-66d39475bcb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/975af024-b84d-40e2-b2b9-66d39475bcb1/20241029T010114/975af024-b84d-40e2-b2b9-66d39475bcb1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c4447662-8f74-44cc-aeab-65f017a9f152/20241029T115745/c4447662-8f74-44cc-aeab-65f017a9f152_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c4447662-8f74-44cc-aeab-65f017a9f152/20241029T115745/c4447662-8f74-44cc-aeab-65f017a9f152_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-50°
+49°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
