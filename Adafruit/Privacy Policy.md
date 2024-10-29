@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ As we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously.”
+“ We understand human mental processes only slightly better than a fish understands swimming”
 
-[Benjamin Franklin](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm)
+[John McCarthy](http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29)
 
 [](https://www.adafruit.com/about)
 
