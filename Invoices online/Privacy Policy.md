@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=145205233)  
-McKaynine Mobility
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=187171465)  
+Nogana Events and Decor
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=14167681)  
-MOSELA GROUP Pty(ltd)
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=129038680)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=144693506)  
-Three Moons Emporium
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=118877569)  
+Skinz Printing & Branding
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=11259941)  
-Bchange Online CC
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=143867508)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=19085590)  
-Dombieterfontein (PTY) LTD
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=7466475)  
-#DiGi3 Marketing & Design
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=196060758)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=21214218)  
-CBR Verwe/Paints
-
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=10889271)  
-Meyer Towing & Recovery
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=135034680)  
-Norton Medical & Consult - Namibia
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=80157166)  
-United Paintball Federation
-
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=70490541)  
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=145623030)  
 Immediate Health (pty)ltd
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=204859925)  
-UniTech Solutions Pty Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=9562356)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=44e18f6e0822187c7d0bb28309158d6e61572d1570f2c13bea55ddb80784ef2e&c=8659831)  
-Lindani Protection Services & Projects
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=173815034)  
+Printo
+
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=103408352)  
+Blue Bulls Rugby Coaches Association
+
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=136000023)  
+Mtunzini Group
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=40559454)  
+Repairs In Motion
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=90939871)  
+West Coast Horse Trails
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=132586413)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=130798181)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=74835801)  
+Moremi Kitchens Rustenburg
+
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=53800259)  
+SafeTclip
+
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=7ff63b8317b1e8d58c9742e601dbe16228d988013ccc5720851620f5c2a7e6bb&c=18344858)  
+kidoscabbie
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
