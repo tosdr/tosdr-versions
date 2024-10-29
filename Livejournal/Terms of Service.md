@@ -252,7 +252,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
 
 English Deutsch Dansk español Français Italiano Русский Українська Беларуская 日本語 Português Esperanto עברית Nederlands Magyar Gaeilge íslenska suomi Ελληνικά Norsk bokmål Svenska polski 简体中文 Latviešu Türkçe Bahasa Melayu हिन्दी Brazilian Portuguese Chinese Traditional Lietuvių Norsk nynorsk
 
-[v.795](https://www.livejournal.com/betatest.bml)
+[v.796](https://www.livejournal.com/betatest.bml)
 
 * [Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml)
 * [User Agreement](https://www.livejournal.com/legal/tos-en.bml)
