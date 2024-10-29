@@ -264,7 +264,7 @@ Sök Meny
             
         * [Kristi förklarings dag](https://www.svenskakyrkan.se/trefaldighetstiden/kristi-forklarings-dag)
             
-        * [Domssöndagen](https://www.svenskakyrkan.se/trefaldighetstiden/trefaldighetstidendomssondagen)
+        * [Domssöndagen](https://www.svenskakyrkan.se/trefaldighetstiden/trefaldighetstiden/trefaldighetstidendomssondagen)
             
         * [Sommar](https://www.svenskakyrkan.se/sommar)
             
