@@ -186,11 +186,12 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Mike Breen](https://cdn.returningveterans.org/images/honor/Mike_Breen_Navy.jpg)  
+![Lieutenant Colonel John A. “Jack” Luetjen](https://cdn.returningveterans.org/images/honor/John_A_Jack_Luetjen.jpg)  
 
-**In Honor of Mike Breen**  
-United States Navy  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Lieutenant Colonel John A. “Jack” Luetjen**  
+United States Army  
+United States Reserves  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -235,5 +236,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/28/24 - 2:32:37  
+Printed 10/28/24 - 8:30:24  
 © 2024 Returning Veterans Project
