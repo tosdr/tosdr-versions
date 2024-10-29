@@ -555,17 +555,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    October 28, 2024
+    October 29, 2024
     
-    [Additional Information on Final Regulations Implementing Outbound Investment Executive Order (E.O. 14105)](https://home.treasury.gov/news/press-releases/jy2690)
+    [United States and Taiwan to Begin Negotiating A Comprehensive Tax Agreement To Address Double Taxation](https://home.treasury.gov/news/press-releases/jy2693)
     
-    October 28, 2024
+    October 29, 2024
     
-    [Treasury Issues Regulations to Implement Executive Order Addressing U.S. Investments in Certain National Security Technologies and Products in Countries of Concern](https://home.treasury.gov/news/press-releases/jy2687)
+    [U.S. Department of the Treasury Releases Inaugural National Strategy for Financial Inclusion](https://home.treasury.gov/news/press-releases/jy2691)
     
-    October 28, 2024
+    October 29, 2024
     
-    [Treasury Announces Marketable Borrowing Estimates](https://home.treasury.gov/news/press-releases/jy2688)
+    [FACT SHEET: National Strategy for Financial Inclusion in the United States](https://home.treasury.gov/news/press-releases/jy2692)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
