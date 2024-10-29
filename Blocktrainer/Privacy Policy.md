@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![CoinTracking](/fileadmin/_processed_/f/4/csm_Vertical_2_709de20c7b.jpg)](https://ref.blocktrainer.de/cointracking/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Seedor](/fileadmin/_processed_/7/c/csm_Seedor_Banner_390x615__3__c26fe41035.jpg)](https://ref.blocktrainer.de/seedor/ws)
 
 **Privatsphäre-Einstellungen**
 
