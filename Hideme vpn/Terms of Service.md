@@ -206,6 +206,12 @@ trademark of Jason A. Donenfeld.
 
 [![VTI Member](https://hide.me/resources/299/images/logo/vti-large.svg)](https://vpntrust.net/)
 
+Try hide.me VPN
+
+No Signup Required & Completely Free
+
+[Get Hide.me](https://hide.me/en/latest "Get Hide.me")
+
 Let's Talk!
 
 X
