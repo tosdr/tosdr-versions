@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Gomoku Narabe & Reversi Tōryūmon](https://www.myabandonware.com/game/gomoku-narabe-reversi-toryumon-t2n)
-* [Ganso Jajamaru-kun](https://www.myabandonware.com/game/ganso-jajamaru-kun-t2m)
-* [Fishing Freaks: BassRise for WonderSwan](https://www.myabandonware.com/game/fishing-freaks-bassrise-for-wonderswan-t2l)
-* [Fire Pro Wrestling](https://www.myabandonware.com/game/fire-pro-wrestling-t2k)
-* [Final Lap 2000](https://www.myabandonware.com/game/final-lap-2000-t2j)
+* [Alchemist Marie & Elie: Futari no Atelier](https://www.myabandonware.com/game/alchemist-marie-elie-futari-no-atelier-t31)
+* [Terrors 2](https://www.myabandonware.com/game/terrors-2-t30)
+* [Star Hearts: Hoshi to Daichi no Shisha](https://www.myabandonware.com/game/star-hearts-hoshi-to-daichi-no-shisha-t2z)
+* [Soroban Gu](https://www.myabandonware.com/game/soroban-gu-t2y)
+* [Super Robot Taisen: Compact](https://www.myabandonware.com/game/super-robot-taisen-compact-t1y)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
