@@ -340,4 +340,6 @@ Close
 * [日本語](https://www.expressvpn.com/jp/tos)
 * [한국어](https://www.expressvpn.com/kr/tos)
 
-          Need help? Chat with us!
+         
+
+Need help? Chat with us! Online
