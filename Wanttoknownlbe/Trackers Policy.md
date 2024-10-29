@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-echte-virus-is-overwonnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/aangenaam-marvin-bush-dit-is-mijn-911-record/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
