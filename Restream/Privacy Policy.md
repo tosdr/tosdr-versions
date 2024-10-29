@@ -130,7 +130,7 @@ If you would like to delete all data associated with your account, mail us with 
 #### Company
 
 * [About](https://restream.io/about)
-* [Careers](https://restream.io/careers)
+* [Careers](https://restream.io/about#open-positions)
 * [Pricing](https://restream.io/pricing)
 * [Media kit](https://restre.am/media-kit)
 
