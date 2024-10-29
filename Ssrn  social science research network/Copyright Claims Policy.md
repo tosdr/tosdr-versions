@@ -936,7 +936,7 @@ All content on this site: Copyright © 2023 Elsevier Inc., its licensors, and co
 
 We use cookies to help provide and enhance our service and tailor content.
 
-To learn more, visit Cookie Settings. This page was processed by aws-apollo-l100 in 0.078 seconds
+To learn more, visit Cookie Settings. This page was processed by aws-apollo-l100 in 0.094 seconds
 
 [](http://www.relx.com/ "RELX")
 
