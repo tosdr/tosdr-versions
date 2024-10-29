@@ -267,7 +267,7 @@ The relationship between us in respect of your data protection is regulated by t
 
 [![](https://wp-endpoint.azureedge.net/wp-content/uploads/2022/05/app-store.svg)](https://itunes.apple.com/app/wallet-personal-finance-tracker/id1032467659)
 
-Copyright 2022 BudgetBakers s.r.o | All Rights Reserved | [Privacy Policy](https://budgetbakers.com/privacy/) | [Terms of Service](https://budgetbakers.com/terms/)
+Copyright 2024 BudgetBakers s.r.o | All Rights Reserved | [Privacy Policy](https://budgetbakers.com/privacy/) | [Terms of Service](https://budgetbakers.com/terms/)
 
 ##### Cookies give you a personalised experience
 
