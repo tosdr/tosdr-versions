@@ -1,9 +1,3 @@
-💀 Hello, I want to play a game! 80% off your next lifetime plan
-
-[Make your choice](https://internxt.com/pricing)
-
-[💀 Hello, I want to play a game!80% off your next lifetime plan](https://internxt.com/pricing)
-
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
 [Pricing](https://internxt.com/pricing)
