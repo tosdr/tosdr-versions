@@ -264,7 +264,7 @@ Sök Meny
             
         * [Kristi förklarings dag](https://www.svenskakyrkan.se/trefaldighetstiden/kristi-forklarings-dag)
             
-        * [Domssöndagen](https://www.svenskakyrkan.se/trefaldighetstiden/domssondagen)
+        * [Domssöndagen](https://www.svenskakyrkan.se/trefaldighetstiden/trefaldighetstiden/trefaldighetstidendomssondagen)
             
         * [Sommar](https://www.svenskakyrkan.se/sommar)
             
@@ -446,11 +446,13 @@ Sök Meny
             
         * [Kloster](https://www.svenskakyrkan.se/sokdintro/sokdintro/kloster-och-kommuniteter)
             
-        * [Vandra i Sverige – gå en pilgrimsvandring](https://www.svenskakyrkan.se/sokdintro/pilgrimsvandring)
+        * [Meditation](https://www.svenskakyrkan.se/sokdintro/meditation)
             
         * [Retreat](https://www.svenskakyrkan.se/sokdintro/retreat)
             
         * [Tro i handling](https://www.svenskakyrkan.se/sokdintro/tro-i-handling)
+            
+        * [Vandra i Sverige – gå en pilgrimsvandring](https://www.svenskakyrkan.se/sokdintro/pilgrimsvandring)
             
 * [Om oss](https://www.svenskakyrkan.se/om-oss)
     
