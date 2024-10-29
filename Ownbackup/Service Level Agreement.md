@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+
 [Government
 
 How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
@@ -139,10 +143,6 @@ How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](http
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
-
-[Compliance
-
-A Complete Overview of SaaS Compliance](https://www.ownbackup.com/blog/guide-saas-compliance)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Compliance
+
+Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
+
 [Government
 
 How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
@@ -367,10 +371,6 @@ How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](http
 [FedRAMP
 
 How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
-
-[Compliance
-
-A Complete Overview of SaaS Compliance](https://www.ownbackup.com/blog/guide-saas-compliance)
 
 Company
 
