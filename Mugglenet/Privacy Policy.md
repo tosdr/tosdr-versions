@@ -374,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented to replace the Golden Snidget, a golden bird with fully rotational wings that became endangered after they were used as targets in numerous Quidditch matches.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-June 23, 2006 – Harry Potter and the Half-Blood Prince is released in paperback in the United Kingdom.
+December 20, 2004 – First official Harry Potter and the Goblet of Fire movie pictures are released.
 
 ### Potter Quote
 
-“I have never seen any reason to be frightened of saying Voldemort’s name.”
+“She has eyes just like a salamander.”
 
 [](#)
 
