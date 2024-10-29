@@ -572,6 +572,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    October 29, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the American Bankers Association Annual Convention](https://home.treasury.gov/news/press-releases/jy2694)
+    
     October 25, 2024
     
     [Remarks by Acting Under Secretary for Terrorism and Financial Intelligence Brad Smith at a Roundtable with the Pacific Banking Forum and the Government of Australia](https://home.treasury.gov/news/press-releases/jy2686)
@@ -579,10 +583,6 @@ MENU MENU
     October 25, 2024
     
     [FATF Completes Fourth Round of Mutual Evaluations, Advances Work to Curb Terrorist and Proliferation Finance](https://home.treasury.gov/news/press-releases/jy2678)
-    
-    October 25, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen Ahead of Bilateral Meeting with Minister of the Economy Antoine Armand of France](https://home.treasury.gov/news/press-releases/jy2674)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
