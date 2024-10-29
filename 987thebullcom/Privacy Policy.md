@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Before He CheatsCarrie Underwood<br><br>4:56am |
-| Die A Happy ManThomas Rhett<br><br>4:52am |
-| Am I OkMegan Moroney<br><br>4:48am |
-| Wind Up Missing YouTucker Wetmore<br><br>4:45am |
-| WranglersMiranda Lambert<br><br>4:43am |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>11:35am |
+| Where The Wild Things AreLuke Combs<br><br>11:31am |
+| ToesZac Brown Band<br><br>11:27am |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:24am |
+| American KidsKenny Chesney<br><br>11:21am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,7 +495,7 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
@@ -503,13 +503,13 @@ Country • Western
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Spanish • Western
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
