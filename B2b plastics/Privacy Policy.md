@@ -158,7 +158,7 @@ Copyright © 2019 - All Rights Reserved[](javascript:void(0))
 ##### Follow us On
 
 * [Facebook](https://www.facebook.com/B2B-Plastics-India-712692099145842/)
-* [Instagram](https://www.instagram.com/b2b.plastics/)
+* [Instagram](https://www.instagram.com/cipetianplastemart/)
 * [Twitter](https://twitter.com/b2bplasticscom)
 * [Youtube](https://www.youtube.com/channel/UCXCnWBG_zVhMCT2YBIxK03g)
 
