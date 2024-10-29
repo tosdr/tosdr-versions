@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [10 Million Fish Eaten by Cod in One Fell Swoop](https://www.sciencedaily.com/releases/2024/10/241029120944.htm)
+* [Cyanobacteria May Help Sequester Carbon](https://www.sciencedaily.com/releases/2024/10/241029120800.htm)
+* ['Gold' Fossilized Bugs](https://www.sciencedaily.com/releases/2024/10/241029120652.htm)
+* [Dinosaurs Thrived After Ice, Not Fire](https://www.sciencedaily.com/releases/2024/10/241028164257.htm)
+* [More Social Species Live Longer](https://www.sciencedaily.com/releases/2024/10/241027205842.htm)
+* [Major Maya Cities Waiting to Be Unearthed](https://www.sciencedaily.com/releases/2024/10/241029121056.htm)
+* [Extreme Diving of Weddell Seals in Antarctic](https://www.sciencedaily.com/releases/2024/10/241029120755.htm)
 * [What Animal Societies Can Teach Us About Aging](https://www.sciencedaily.com/releases/2024/10/241028211432.htm)
 * [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
 * [Scientists Reverse Brain Aging in Fruit Flies](https://www.sciencedaily.com/releases/2024/10/241028164423.htm)
-* [Lab-Grown Pork Support Fromed by Sorghum Grain](https://www.sciencedaily.com/releases/2024/10/241028131649.htm)
-* [Seeing a Black Hole's Jet in a New Light](https://www.sciencedaily.com/releases/2024/10/241028131413.htm)
-* [Pythons Can Swallow Even Bigger Prey](https://www.sciencedaily.com/releases/2024/10/241028131408.htm)
-* [Melting Arctic Ice and Global Ocean Circulation](https://www.sciencedaily.com/releases/2024/10/241027205850.htm)
-* [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
-* [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
-* [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Social Psychology](https://www.sciencedaily.com/news/mind_brain/social_psychology/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Fitness](https://www.sciencedaily.com/news/health_medicine/fitness/)
+[Bone and Spine](https://www.sciencedaily.com/news/health_medicine/bone_and_spine/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
 
-[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
