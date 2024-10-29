@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Epic fails](https://www.fark.com/goto/13444156) ( [msn.com](https://www.fark.com/goto/13444156) ) » [(3 comments)](https://www.fark.com/comments/13444156/Epic-fails) |
-| [Discussion](https://www.fark.com/discussion/) | [S.№29 Ep.№116 of The Daily Show w/Jon Stewart is followed tonight by a special "Jordan Klepper Fingers the Pulse" at rallies in the final days of the election, starting 11:00 ㏘ (now) for Stewart, and Klepper @ 11:35−12:30, both on Comedy Central](https://www.fark.com/goto/13444256) ( [imdb.com](https://www.fark.com/goto/13444256) ) » [(4 comments)](https://www.fark.com/comments/13444256/S29-Ep116-of-The-Daily-Show-wJon-Stewart-is-followed-tonight-by-a-special-Jordan-Klepper-Fingers-Pulse-at-rallies-in-final-days-of-election-starting-1100-now-for-Stewart-Klepper-11351230-both-on-Comedy-Central) |
-| [Sports](https://www.fark.com/sports/) | [There's a fine line between 'aggressive driving' and 'dangerous driving'](https://www.fark.com/goto/13443800) ( [bbc.com](https://www.fark.com/goto/13443800) ) » [(3 comments)](https://www.fark.com/comments/13443800/Theres-a-fine-line-between-aggressive-driving-dangerous-driving) |
-| [Business](https://www.fark.com/business/) | [In today's fast-moving world of AI-enabled business, Chief Privacy Officers decide title is a relic of the corporate past, suggest renaming their position Chief AI Officer with cool new AI duties. Customers will get over it](https://www.fark.com/goto/13444030) ( [aibusiness.com](https://www.fark.com/goto/13444030) ) » [(2 comments)](https://www.fark.com/comments/13444030/In-todays-fast-moving-world-of-AI-enabled-business-Chief-Privacy-Officers-decide-title-is-a-relic-of-corporate-past-suggest-renaming-their-position-Chief-AI-Officer-with-cool-new-AI-duties-Customers-will-get-over-it) |
-| [STEM](https://www.fark.com/stem/) | [Maybe you've got tonsil stones](https://www.fark.com/goto/13443996) ( [usatoday.com](https://www.fark.com/goto/13443996) ) » [(5 comments)](https://www.fark.com/comments/13443996/Maybe-youve-got-tonsil-stones) |
-| [Entertainment](https://www.fark.com/entertainment/) | [It's sticky](https://www.fark.com/goto/13444120) ( [youtube.com](https://www.fark.com/goto/13444120) ) » [(0 comments)](https://www.fark.com/comments/13444120/Its-sticky) |
-| [Fandom](https://www.fark.com/fandom/) | [As I Lay Dying officially playing dead](https://www.fark.com/goto/13443582) ( [nme.com](https://www.fark.com/goto/13443582) ) » [(8 comments)](https://www.fark.com/comments/13443582/As-I-Lay-Dying-officially-playing-dead) |
+| [Main](https://www.fark.com/) | [Orc army having problems translating commands for Best Korean soldiers. Surely the Norcs can understand "run forward, get shot"](https://www.fark.com/goto/13444634) ( [cnn.com](https://www.fark.com/goto/13444634) ) » [(24 comments)](https://www.fark.com/comments/13444634/Orc-army-having-problems-translating-commands-for-Best-Korean-soldiers-Surely-Norcs-can-understand-run-forward-get-shot) |
+| [Discussion](https://www.fark.com/discussion/) | [Arctic adventure for free](https://www.fark.com/goto/13444378) ( [fjordcowork.com](https://www.fark.com/goto/13444378) ) » [(1 comment)](https://www.fark.com/comments/13444378/Arctic-adventure-for-free) |
+| [Sports](https://www.fark.com/sports/) | [Paraglider gets a surprise flight to 24,000 feet thanks to a storm](https://www.fark.com/goto/13444370) ( [avweb.com](https://www.fark.com/goto/13444370) ) » [(2 comments)](https://www.fark.com/comments/13444370/Paraglider-gets-a-surprise-flight-to-24000-feet-thanks-to-a-storm) |
+| [Business](https://www.fark.com/business/) | [HeyDude, you're making Crocs look bad and that's saying something](https://www.fark.com/goto/13444632) ( [prnewswire.com](https://www.fark.com/goto/13444632) ) » [(1 comment)](https://www.fark.com/comments/13444632/HeyDude-youre-making-Crocs-look-bad-thats-saying-something) |
+| [STEM](https://www.fark.com/stem/) | [Admit it - you felt sorry for WALL\*E while he protected EVE for so long, didn't you?](https://www.fark.com/goto/13444424) ( [techxplore.com](https://www.fark.com/goto/13444424) ) » [(3 comments)](https://www.fark.com/comments/13444424/Admit-it-you-felt-sorry-for-WALLE-while-he-protected-EVE-for-so-long-didnt-you) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Happy 68th - D'OH - 67th birthday to Dan Castellaneta](https://www.fark.com/goto/13444580) ( [imdb.com](https://www.fark.com/goto/13444580) ) » [(5 comments)](https://www.fark.com/comments/13444580/Happy-68th-DOH-67th-birthday-to-Dan-Castellaneta) |
+| [Fandom](https://www.fark.com/fandom/) | [The evolution of horror in 10 revolutionary films to the left, terrifying commentary and suggestions to the right](https://www.fark.com/goto/13444592) ( [theguardian.com](https://www.fark.com/goto/13444592) ) » [(4 comments)](https://www.fark.com/comments/13444592/The-evolution-of-horror-in-10-revolutionary-films-to-left-terrifying-commentary-suggestions-to-right) |
 | [D'awww](https://www.fark.com/dawww/) | [No ancient hairballs found](https://www.fark.com/goto/13443866) ( [livescience.com](https://www.fark.com/goto/13443866) ) » [(2 comments)](https://www.fark.com/comments/13443866/No-ancient-hairballs-found) |
-| [Food](https://www.fark.com/food/) | [We need a "Pointless" tag: 5 recipes for butter chicken without butter AND chicken](https://www.fark.com/goto/13443882) ( [vegnews.com](https://www.fark.com/goto/13443882) ) » [(3 comments)](https://www.fark.com/comments/13443882/We-need-a-Pointless-tag-5-recipes-for-butter-chicken-without-butter-AND-chicken) |
-| [Politics](https://www.fark.com/politics/) | [Here's the full video of Trump's hiatler metamorphosis](https://www.fark.com/goto/13443598) ( [huffpost.com](https://www.fark.com/goto/13443598) ) » [(5 comments)](https://www.fark.com/comments/13443598/Heres-full-video-of-Trumps-hiatler-metamorphosis) |
+| [Food](https://www.fark.com/food/) | [You're serious? Let me laugh even harder](https://www.fark.com/goto/13444616) ( [thetakeout.com](https://www.fark.com/goto/13444616) ) » [(11 comments)](https://www.fark.com/comments/13444616/Youre-serious-Let-me-laugh-even-harder) |
+| [Politics](https://www.fark.com/politics/) | [Jeff Bezos has written his own op-ed to defend his decision, arguing that he doesn't want to show any pro-democracy bias](https://www.fark.com/goto/13444586) ( [yahoo.com](https://www.fark.com/goto/13444586) ) » [(9 comments)](https://www.fark.com/comments/13444586/Jeff-Bezos-has-written-his-own-op-ed-to-defend-his-decision-arguing-that-he-doesnt-want-to-show-any-pro-democracy-bias) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 03:42:39  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 29 2024 09:43:44  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
