@@ -747,6 +747,7 @@ Info
 * [Contact](https://www.airestech.com/pages/contact)
 * [Terms of Service](https://www.airestech.com/policies/terms-of-service)
 * [\*Based on public research and studies](https://airestech.com/blogs/emf-101/is-emf-really-that-harmful-answers-from-the-latest-research)
+* [Holiday Shipping Deadlines](https://www.airestech.com/pages/holiday-shipping-deadlines)
 
 Explore
 
