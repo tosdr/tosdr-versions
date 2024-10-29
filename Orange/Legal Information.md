@@ -142,9 +142,9 @@ Privacy Notice: protecting your personal data
 * [Facebook](http://www.facebook.com/share.php?u=https://oran.ge/3vlFj4H&title=Privacy%20Notice:%20protecting%20your%20personal%20data)
 * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://oran.ge/3vlFj4H&title=Privacy%20Notice:%20protecting%20your%20personal%20data&source=https://oran.ge/3vlFj4H)
 * [X](https://x.com/intent/tweet?url=https://oran.ge/3vlFj4H&text=Privacy%20Notice:%20protecting%20your%20personal%20data)
-* [Mail](mailto:?subject=Privacy%20Notice%3A%20protecting%20your%20personal%20data&body=Check%20out%20this%20site%20https://orange.com/en/privacy-notice-protecting-your-personal-data)
+* [Mail](mailto:?subject=Privacy%20Notice%3A%20protecting%20your%20personal%20data&body=Check%20out%20this%20site%20https://www.orange.com/en/privacy-notice-protecting-your-personal-data)
 
-If you want to interact with Orange via [www.orange.com](https://www.orange.com/en), the app [Orange News](https://www.orange.com/en/newsroom/news/2021/orange-news-news-about-group-and-digital-tech-your-pocket) and other corporate sites, personal data will be collected about you in order to process your request and/or send you the desired information. This process is based on your consent. The processing of your data will serve to respond to your requests.   
+If you want to interact with Orange via [www.orange.com](https://www.orange.com/en) and other corporate sites, personal data will be collected about you in order to process your request and/or send you the desired information. This process is based on your consent. The processing of your data will serve to respond to your requests.   
   
 Also, Orange is likely to contact public entities as part of its activity of representative interest to organize meetings and this in the respect of its obligations relating to the transparency in public life. The contact is made on the basis of accessible public data. This processing is based on Orange's legitimate interest in representing its interests.    
   
@@ -207,6 +207,8 @@ Modification of the personal data protection notice
 ---------------------------------------------------
 
 This Privacy Notice is subject to change. 
+
+[How Orange commits to personal data protection and information security](https://www.orange.com/en/safer-digital-world/how-orange-commits-personal-data-protection-and-information-security)
 
 ### Follow us
 
