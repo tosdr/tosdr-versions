@@ -16,7 +16,7 @@ Dark mode theme is available exclusively for premium users. Learn more about the
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-check-green.svg) Unlimited Content
 
-[Upgrade now](https://www.boredpanda.com/premium/)
+[Upgrade now](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=darkmode&utm_campaign=premium_darkmode)
 
 ![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/premium/ic-clock-modal.svg) No fees, cancel anytime
 
