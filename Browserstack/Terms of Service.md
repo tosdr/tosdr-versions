@@ -206,6 +206,8 @@ Developers
 
 [Events](https://www.browserstack.com/events "Events")
 
+[Meetups](https://www.browserstack.com/meetups "Meetups")
+
 [Test University Beta](https://www.browserstack.com/test-university "Test University Beta")
 
 [Champions](https://www.browserstack.com/browserstack-champions "Champions")
@@ -538,6 +540,7 @@ Resources
 * [Case Studies](https://www.browserstack.com/case-study)
 * [Blog](https://www.browserstack.com/blog)
 * [Events](https://www.browserstack.com/events)
+* [Meetups](https://www.browserstack.com/meetups)
 * [Test University Beta](https://www.browserstack.com/test-university)
 * [Champions](https://www.browserstack.com/browserstack-champions)
 * [Mobile Emulators](https://www.browserstack.com/mobile-browser-emulator)
