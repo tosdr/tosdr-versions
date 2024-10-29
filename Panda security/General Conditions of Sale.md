@@ -85,13 +85,13 @@ Special Offer
 * [Blog](https://www.pandasecurity.com/en/mediacenter/)
 * [Security Info](https://www.pandasecurity.com/en/security-info/)
 * [Support](https://www.pandasecurity.com/en/support/)
-* [Compare our plans](https://www.pandasecurity.com/en/homeusers/)
+* [See Offers](https://www.pandasecurity.com/en/homeusers/)
 
 My Account
 
 [![Panda Dome](/rfilescms/Logos/panda/panda_watchguard.webp)](https://www.pandasecurity.com/)
 
-[Compare our plans](https://www.pandasecurity.com/en/homeusers/)
+[See Offers](https://www.pandasecurity.com/en/homeusers/)
 
 [Products](#)
 
