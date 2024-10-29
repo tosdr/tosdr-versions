@@ -19,6 +19,7 @@
     * Content Standards
     * [Usage Rights](https://www.customink.com/about/ugc)
     * [Business Solutions](https://www.customink.com/about/business-solutions-terms-conditions)
+    * [Mobile Terms of Service](https://customink-llc.myklpages.com/p/mobile-terms-of-service)
 
 ###### Related Links
 
