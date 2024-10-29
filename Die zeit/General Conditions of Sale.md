@@ -77,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Verantwortungsvollste Arbeitgeber 2025](https://www.zeit.de/angebote/most-responsible-employer-2025/index)
 * [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
 * [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
 * [Tipps für Kaffeegenuss](https://www.zeit.de/angebote/zeit-magazin/kaffeegenuss/index)
