@@ -29,13 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
+[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
 
-Total Anarchy](https://minecraft-server.net/details/Total__Anarchy/ "Total Anarchy")[![RoyaleMC-Community](plugins/MineCraft/icons/25x25xRoyaleMC-Community_1722369794.png.pagespeed.ic.cQomDBgmrH.png)
+TheosisMC • Hardcore Survival • 1.21.3](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.3")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-RoyaleMC \[#1 Slimefun\] (Java+Bedrock)](https://minecraft-server.net/details/RoyaleMC-Community/ "RoyaleMC [#1 Slimefun] (Java+Bedrock)") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![ValexiumAU](plugins/MineCraft/icons/25x25xValexiumAU_1655744810.png.pagespeed.ic._wwafz0K45.jpg)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-Valexium](https://minecraft-server.net/details/ValexiumAU/ "Valexium") [CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP")
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
+
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -112,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06596 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06752 - Created by [Debaucus](https://debauc.us/)
