@@ -115,5 +115,6 @@ Trademarks: Microsoft and Windows symbols are trademarks of the Microsoft group 
 * [Privacy Policy](https://wikifixes.com/pages/legal/privacy-policy)
 * [Contact Us](https://wikifixes.com/form/contact-us)
 * [How to Uninstall](https://wikifixes.com/pages/support/how-to-uninstall)
+* [Error Catalog](https://wikifixes.com/catalog/)
 
 ![](//mc.yandex.ru/watch/21545179)
