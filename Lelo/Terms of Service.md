@@ -94,6 +94,7 @@ Menu
     * [safety and environmental](https://www.lelo.com/safety-and-environmental)
     * [intellectual property](https://www.lelo.com/intellectual-property)
 * SUPPORT
+    * [warranty](https://www.lelo.com/lelo-warranty-eu)
     * [warranty](https://www.lelo.com/lelo-warranty)
     * [extended warranty](https://www.lelo.com/extended-warranty)
     * [shipping](https://www.lelo.com/shipping)
@@ -103,7 +104,9 @@ Menu
     * [chargers and remotes](https://www.lelo.com/chargers-and-remote)
     * [site map](https://www.lelo.com/sitemap)
 * FAQ
+    * [general FAQs](https://www.lelo.com/general-faqs-eu)
     * [general FAQs](https://www.lelo.com/general-faqs)
+    * [shopping FAQs](https://www.lelo.com/shopping-faqs-eu)
     * [shopping FAQs](https://www.lelo.com/shopping-faqs)
     * [product FAQs](https://www.lelo.com/product-faqs)
 * ENVIRONMENTAL LABELS
@@ -245,10 +248,13 @@ support
 
 * [contact support](https://www.lelo.com/support-contact)
 * [shipping](https://www.lelo.com/shipping)
+* [LELO warranty](https://www.lelo.com/lelo-warranty-eu)
 * [LELO warranty](https://www.lelo.com/lelo-warranty)
 * [extended warranty](https://www.lelo.com/extended-warranty)
 * [regulatory compliance](https://www.lelo.com/regulatory)
+* [general FAQs](https://www.lelo.com/general-faqs-eu)
 * [general FAQs](https://www.lelo.com/general-faqs)
+* [shopping FAQs](https://www.lelo.com/shopping-faqs-eu)
 * [shopping FAQs](https://www.lelo.com/shopping-faqs)
 * [product FAQs](https://www.lelo.com/product-faqs)
 * [environmental labels](https://www.lelo.com/environmental-labels)
