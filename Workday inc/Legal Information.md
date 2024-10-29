@@ -99,7 +99,7 @@ Skip to main content
                     
         * * ### [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
                 
-            * ### [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud")
+            * ### [Workday Suite](https://www.workday.com/en-us/products/suite.html "Workday Suite")
                 
             * ### [Marketplace](https://marketplace.workday.com/en-US/home "Marketplace")
                 
@@ -560,7 +560,7 @@ Products Products
 * [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence ")
 * [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday ")
 * [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business ")
-* [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud ")
+* [Workday Suite](https://www.workday.com/en-us/products/suite.html "Workday Suite ")
 * [Marketplace](https://marketplace.workday.com/en-US/home "Marketplace ")
 * [Customer Experience](https://www.workday.com/en-us/customer-experience/overview.html "Customer Experience ")
 * [Partners](https://www.workday.com/en-us/company/partners/overview.html "Partners ")
