@@ -247,7 +247,7 @@ Back
 
 ### Red Rocks with Green Spots at ‘Serpentine Rapids’
 
-article 3 days ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
+article 4 days ago](https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/)[![Hubble Sees a Celestial Cannonball](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_IC3225_potw2443a.jpg)
 
 2 min read
 
@@ -263,7 +263,13 @@ article 5 days ago](https://science.nasa.gov/science-research/biological-physica
 
 ### Highlights
 
-[![Furukawa wears a black t-shirt and shorts and tennis shoes. His feet are on a black panel and he is squatting, holding on to a silver bar behind his shoulders. The bar is attached to blue metal poles on either side of him.](https://www.nasa.gov/wp-content/uploads/2024/01/iss070e075241.jpg?w=1024)
+[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
+
+3 min read
+
+### Gateway: Centering Science
+
+article 2 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/)[![Furukawa wears a black t-shirt and shorts and tennis shoes. His feet are on a black panel and he is squatting, holding on to a silver bar behind his shoulders. The bar is attached to blue metal poles on either side of him.](https://www.nasa.gov/wp-content/uploads/2024/01/iss070e075241.jpg?w=1024)
 
 2 min read
 
@@ -275,17 +281,17 @@ article 6 days ago](https://www.nasa.gov/reference/risk-of-reduced-cardiorespira
 
 ###  Risk of Spaceflight-Induced Bone Changes
 
-article 6 days ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)[![](https://www.nasa.gov/wp-content/uploads/2024/02/cipher-spacewalk.png?w=799)
-
-2 min read
-
-### Risk of Injury and Compromised Performance from Extravehicular Activity (EVA)
-
-article 6 days ago](https://www.nasa.gov/reference/risk-of-injury-and-compromised-performance-from-extravehicular-activity-eva/)
+article 6 days ago](https://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/)
 
 ### Highlights
 
-[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
+[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
+
+4 min read
+
+### NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
+
+article 9 mins ago](https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/)[![A man clad in a white protective suit, black apron, and blue gloves administers liquid oxygen from a tank to a parked aircraft via hose. Gas clouds hover near his feet and the man is wearing a helmet with a clear visor over his face. ](https://images-assets.nasa.gov/image/AFRC2024-0064-065/AFRC2024-0064-065~large.jpg?w=1920&h=1279&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -297,35 +303,29 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/high-a
 
 ### Amendment 62: New Opportunity: A.61 INSPYRE Science Team
 
-article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)[![Amendment 17: B.5 Living With a Star Science: Several Small Updates](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-omegacent-stsci-01j1x2d1fz3vqw4bkaqycbsfw5.jpeg)
-
-2 min read
-
-### Amendment 17: B.5 Living With a Star Science: Several Small Updates
-
-article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-17-b-5-living-with-a-star-science-several-small-updates/)
+article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-62-new-opportunity-a-61-inspyre-science-team/)
 
 ### Highlights
 
-[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
+
+3 min read
+
+### Gateway: Centering Science
+
+article 2 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
 
 6 min read
 
 ### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
 
-article 16 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
+article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Total Solar Eclipse Broadcast For Your Consideration](https://images-assets.nasa.gov/image/NHQ202404080030/NHQ202404080030~large.jpg)
 
 2 min read
 
 ### Total Solar Eclipse Broadcast For Your Consideration
 
-article 4 days ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-your-consideration/)[![Sinister Solar System](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001359/GSFC_20171208_Archive_e001359~large.jpg)
-
-1 min read
-
-### Sinister Solar System
-
-article 4 days ago](https://science.nasa.gov/solar-system/sinister-solar-system/)
+article 4 days ago](https://science.nasa.gov/total-solar-eclipse-broadcast-for-your-consideration/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-
 
 ### Highlights
 
-[![Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2024/WestLab2-Amy-Padolf.png)
+[![Permafrost Tunnel north of Fairbanks, Alaska](https://www.nasa.gov/wp-content/uploads/2024/10/1-permafrost-tunnel.jpg?w=1024)
 
-2 min read
+4 min read
 
-### Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
+### NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
 
-article 15 hours ago](https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/)[![Image of Mars from Perseverance](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26378-main-sol1282p-zcam09340-09341-z63-r0e.jpg?w=1024)
+article 9 mins ago](https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/)[![New NASA Instrument for Studying Snowpack Completes Airborne Testing](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/SNOWWI_Image_1.jpg)
 
-6 min read
+4 min read
 
-### NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
+### New NASA Instrument for Studying Snowpack Completes Airborne Testing
 
-article 16 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/)[![Autumn Leaves – Call for Volunteers](https://science.nasa.gov/wp-content/uploads/2024/10/fall-figure1.png)
+article 1 hour ago](https://science.nasa.gov/science-research/science-enabling-technology/new-nasa-instrument-for-studying-snowpack-completes-airborne-testing/)[![Stephanie Dudley, Gateway's mission integration and utilization manager, sits inside a high-fidelity mockup of HALO (Habitation and Logistics Outpost) at NASA’s Johnson Space Center. She is framed by a docking port, with interior components visible behind her.The mockup’s design showcases the compact and functional environment Artemis astronauts will use for living, conducting experiments, and preparing for lunar surface missions. Photo credit: NASA/Josh Valcarcel](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e064820-1.jpg?w=1024)
 
 3 min read
 
-### Autumn Leaves – Call for Volunteers
+### Gateway: Centering Science
 
-article 4 days ago](https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/)
+article 2 hours ago](https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/)
 
 ### Highlights
 
@@ -407,7 +407,7 @@ article 6 days ago](https://science.nasa.gov/technology/rps/after-60-years-nucle
 
 ### 2024 NASA Power to Explore Contest Winners
 
-article 7 days ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/stem/2024-nasa-power-to-explore-contest-winners/)[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
+article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/stem/2024-nasa-power-to-explore-contest-winners/)[![An astronaut floats upside down in the microgravity environment of the International Space Station, wearing a virtual reality headset.](https://www.nasa.gov/wp-content/uploads/2024/10/cupola.jpg?w=1024)
 
 2 min read
 
