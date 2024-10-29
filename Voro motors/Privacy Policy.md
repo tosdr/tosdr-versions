@@ -1,12 +1,12 @@
 □
 
-                  
+               Privacy Policy - VORO MOTORS                      
 
-Privacy Policy - VORO MOTORS                           
+        
 
 [Skip to main content](#skip-main)
 
-[Shop Our Best Selling Electric Scooters](https://www.voromotors.com/collections/electric-scooters "Electric Scooters")
+Inmotion RS is now on sale!
 
 Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/ "VORO MOTORS")
 
@@ -125,6 +125,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
     *  [](#)
 * [Community](https://forum.voromotors.com/public/)
+* [323-922-3329](tel:3239223329)
 * [Login](https://www.voromotors.com/customer_authentication/redirect?locale=en&region_country=US)
 * English
     
@@ -139,12 +140,14 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
 
-[Shop Our Best Selling Electric Scooters](https://www.voromotors.com/collections/electric-scooters "Electric Scooters")
+Inmotion RS is now on sale!
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
 * [](https://www.instagram.com/voromotors/ "VORO MOTORS on Instagram")
 * [](mailto:support@voromotors.com "Email VORO MOTORS")
+
+* [323-922-3329](tel:3239223329)
 
 *  ![United States of America Flag Icon](https://cdn.devit.software/selectors/sdk/images/countries/flags/rectangle/us.svg) United States
     
