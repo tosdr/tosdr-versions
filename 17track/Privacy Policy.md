@@ -36,22 +36,34 @@ Appendix One: List of Third-Party SDKs (Android App Only)
 
 ### **1.How we collect your personal data.**
 
-In order to provide services to you and business users, optimize our services, and ensure the security of accounts, 17TRACK will collect information that you voluntarily provide, authorize, or generate during registration and use of our services. This may include:
+In order to provide services to the Users ("User", "you", "your"), to optimize our services, and to protect account security, 17TRACK will collects information that you voluntarily provide, authorize, or generate as a result of your use of the Services when you register, use the Services, in the following manner:
 
-* When you register an account or log in to an existing account: We will collect your email address, phone number, login password, account nickname, and optional company name.
-    
-* When you use the shipment tracking feature: We will collect your tracking number and shipment tracking information.
-    
-* When you use the Shopify app plugin for product shipment and tracking: We will collect your email address and shop name. Additionally, we may collect the email address, name, phone number, address, and order information of your buyers.
-    
-* When you need to issue an invoice for the purchase of 17TRACK products: We will collect your invoice information, including the invoice number, company address, and tax identification number.
-    
-* To provide online services, we will collect your network information, including IP address and cookies, when you use 17TRACK services.
-    
+* When you register for an account or log in to an existing account: 17TRACK will legally collect your e-mail address, cell phone number, login password, account nickname, and company name;
+* When you use the Waybill Tracking feature, 17TRACK collect your waybill number and waybill tracking information;
+* When you use the SHOPIFY APP plugin for product shipping and tracking 17TRACK will collect your email address, store name. 17TRACK collect your order buyer's email address, name, phone number, address, and order information;
+* When you are invoiced for your purchase of 17TRACK products 17TRACK will collect your invoice information including invoice number, company address, and tax ID number;
+* In order to provide internet services, 17TRACK will collect your internet information including IP address, cookies when you use 17TRACK services;
+* On Android devices, when you agree to the Privacy Policy, 17TRACK may collect your Android ID, GAID, SIM card, SD card data, SN and other associated information.
 
-For compliance with legal obligations, it's important to note that information such as tracking numbers and shipment tracking details alone cannot identify a specific individual. In order to optimize our products, we may collect non-personal information from you. If we combine such non-personal information with other non-personal or personal information to identify a specific individual, then this non-personal information will be treated as personal information.
+The above information is a unique identifier assigned by Google to an Android device and is used to identify the device and not the individual. 17TRACK collect the above information for the purpose of optimizing the service experience, such as providing personalized services, improving application performance, and troubleshooting. Please note that the above information alone cannot identify a specific natural person.
 
-Please understand that the features and services we provide to you are continually evolving and being updated. If a particular feature or service, not mentioned in the previous descriptions, involves the collection of your information, we will provide additional explanations regarding the content, scope, and purpose of the information collection. This will be done through page prompts, interactive processes, website announcements, or similar means to seek your consent.
+In order to comply with the necessity of legal obligations, please note that it is not possible to identify a specific natural person solely on the basis of information such as the waybill number and the tracking information of the waybill. In order to optimize our products, 17TRACK may collect non-personal information about you. If 17TRACK combine such non-personal information with other non-personal or personal information to identify a specific natural person, the non-personal information will be treated as personal information.
+
+2.Device Information:
+
+When you use the 17TRACK app, in order to provide and improve our services, safeguard account security, and perform data analysis, 17TRACK may collect information about your device, including but not limited to Android ID, GAID, SIM card, SD card data, SN, device brand, device model, system platform, and operating system version. This information will help us identify the device, troubleshoot problems, provide personalized services, and prevent fraud.
+
+3.Special note on Android ID:
+
+17TRACK collect Android ID and other related information for the purpose of:
+
+* Securing the service: With Android ID and other related information, 17TRACK can identify the device, prevent malicious attacks and fraud, and protect your personal information and account security.
+* Optimize service experience: Combined with Android ID and other related information and other device information, 17TRACK can analyze your device usage, optimize service performance, and provide a more personalized experience.
+* Data Analysis and Improvement: 17TRACK may use Android ID and other related information for anonymous data analysis to understand user behavior and improve our products and services.
+
+The way 17TRACK collect Android ID and other related information is through the 17TRACK application automatically when you use the Services, without you having to provide it manually. The scope of collection is limited to the necessary device information and does not involve your private content.
+
+Please understand that the functions and services 17TRACK provide to you are constantly updated and developing. If a certain function or service is not described above and collects your information, 17TRACK will separately explain the content, scope and purpose of the collection of information to you by means of page prompts, interactive processes, website announcements, etc. to obtain your permission.
 
 | Index | Device Permissions | Business Functionalities | Description of Function Scenarios | Can it be Turned Off? |
 | --- | --- | --- | --- | --- |
