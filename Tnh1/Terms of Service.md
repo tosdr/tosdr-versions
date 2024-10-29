@@ -116,20 +116,6 @@ Drogas avaliadas em R$ 9,5 mil são apreendidas em residência em Arapiraca; sus
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
 
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/b/csm_Noah_Verde_234e420532.jpeg)
-
-Pessoas & Negócios
-
-Noah Verde, Gerente Executiva de Marketing do Sesi Senai, faz aniversário](https://www.tnh1.com.br/noticia/nid/noah-verde-gerente-executiva-de-marketing-do-sesi-senai-faz-aniversario/ "Noah Verde,  Gerente Executiva de Marketing do Sesi Senai,  faz aniversário")   [![Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/e/csm_Primeira_dama_SPFW__2__ae4a56b4c2.jpeg)
-
-Pessoas & Negócios
-
-Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week](https://www.tnh1.com.br/noticia/nid/video-primeira-dama-de-maceio-prestigia-trabalho-de-estilista-maceioense-no-sao-paulo-fashion-week/ "Vídeo: primeira-dama de Maceió prestigia trabalho de estilista maceioense no São Paulo Fashion Week")
-
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
 * [Últimas](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/ultimas/ "Últimas")
@@ -202,15 +188,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
-
-Mercado de Trabalho
-
-Mercado de Trabalho
-
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
-
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_camila-com-os-filhos-gravidez-gemeos-destaque-01_e91df0f954.jpg)
+[![Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/2/csm_camila-com-os-filhos-gravidez-gemeos-destaque-01_e91df0f954.jpg)
 
 EM SC
 
@@ -218,7 +196,23 @@ EM SC
 
 Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas
 
-Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
+Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
+
+Mercado de Trabalho
+
+Mercado de Trabalho
+
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
+
+Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")[![Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/4/csm_Pai_e_preso_ao_levar_filha_de_14_anos_para_assaltar_motorista_de_aplicativo_-_foto_Reproducao_Redes_sociais_c2949dc1c1.jpg)
+
+31 anos
+
+31 anos
+
+Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo
+
+Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo](https://www.tnh1.com.br/noticia/nid/pai-e-preso-ao-levar-filha-de-14-anos-para-assaltar-motorista-de-aplicativo/ "Pai é preso ao levar filha de 14 anos para assaltar motorista de aplicativo")[![Atestados médicos ganham novidades em novembro; veja o que muda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/c/csm_atestado_freepik_2c7cca5bbe.png)
 
 Sem migué?
 
@@ -226,49 +220,41 @@ Sem migué?
 
 Atestados médicos ganham novidades em novembro; veja o que muda
 
-Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")[![Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_calendario_2024_-_foto_marcelo_victor_correio_do_estado_b3b224bd34.jpg)
+Atestados médicos ganham novidades em novembro; veja o que muda](https://www.tnh1.com.br/noticia/nid/atestados-medicos-ganham-novidades-em-novembro-veja-o-que-muda/ "Atestados médicos ganham novidades em novembro; veja o que muda")
 
-data comemorativa
+[![Mãe fica revoltada por filha interpretar uma porta no teatro da escola](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_natal-pais-reproducao-mirror_b3d23a85d9.jpg)
 
-data comemorativa
+Nas redes sociais
 
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro
+Nas redes sociais
 
-Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro](https://www.tnh1.com.br/noticia/nid/dia-do-servidor-publico-e-feriado-ou-ponto-facultativo-entenda-o-28-de-outubro/ "Dia do Servidor Público é feriado ou ponto facultativo? Entenda o 28 de outubro ")
+Mãe fica revoltada por filha interpretar uma porta no teatro da escola
 
-[![Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/c/csm_Vini_Jr._Rodri_b1e1bc2e4f.jpg)
+Mãe fica revoltada por filha interpretar uma porta no teatro da escola](https://www.tnh1.com.br/noticia/nid/mae-fica-revoltada-por-filha-interpretar-uma-porta-no-teatro-da-escola/ "Mãe fica revoltada por filha interpretar uma porta no teatro da escola")[![Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/2/csm_descoberta-cientistas-bahia-divulgacao-unicamp_546f094171.png)
 
-Futebol Internacional
+Ciência
 
-Futebol Internacional
+Ciência
 
-Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo
+Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja
 
-Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo](https://www.tnh1.com.br/noticia/nid/bola-de-ouro-frustra-vinicius-junior-e-rodri-e-eleito-melhor-jogador-do-mundo/ "Bola de Ouro frustra Vinicius Junior, e Rodri é eleito melhor jogador do mundo")[![Gisele Bündchen está grávida do terceiro filho, diz site](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/e/csm_gisele-gravida-professor-luta-reproducao-redes-sociais_c1b7cd5936.png)
+Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja](https://www.tnh1.com.br/noticia/nid/cientistas-encontram-o-2o-menor-vertebrado-do-mundo-na-bahia-veja/ "Cientistas encontram o 2º menor vertebrado do mundo na Bahia; veja")[![Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/5/csm_facebook-pexels_708334b132.jpg)
 
-44 anos
+"vantagem ilícita"
 
-44 anos
+"vantagem ilícita"
 
-Gisele Bündchen está grávida do terceiro filho, diz site
+Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi
 
-Gisele Bündchen está grávida do terceiro filho, diz site](https://www.tnh1.com.br/noticia/nid/gisele-buendchen-esta-gravida-do-terceiro-filho-diz-site/ "Gisele Bündchen está grávida do terceiro filho, diz site")[![Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_Semarh-previsao-reproducao_6c29016bb7.png)
+Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi](https://www.tnh1.com.br/noticia/nid/emissoras-de-tv-e-radio-da-espanha-entram-com-acao-contra-meta-e-pedem-quase-r-1-bi/ "Emissoras de TV e rádio da Espanha entram com ação contra Meta e pedem quase R$ 1 bi")[![Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_abuso_infantil_90edbda2e3.png)
 
-Meteorologia
+Mundo
 
-Meteorologia
+Mundo
 
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)
+Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra
 
-Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)](https://www.tnh1.com.br/noticia/nid/veja-como-deve-ficar-o-tempo-em-alagoas-nesta-terca-feira-29/ "Veja como deve ficar o tempo em Alagoas nesta terça-feira (29)")[![Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/6/csm_csm_csm_Joao_Assis_-_Cortesia_79ae52536d_c0c591fd83_37121539c7.jpg)
-
-cinco pessoas
-
-cinco pessoas
-
-Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió
-
-Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-familia-que-sera-levada-a-juri-popular-por-morte-de-auditor-fiscal-em-maceio/ "Saiba quem é a família que será levada a júri popular por morte de auditor fiscal em Maceió ")
+Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra](https://www.tnh1.com.br/noticia/nid/ator-de-novelas-e-preso-acusado-de-abuso-sexual-de-cinco-menores-na-inglaterra/ "Ator de novelas é preso acusado de abuso sexual de cinco menores na Inglaterra")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
