@@ -28,7 +28,7 @@ Menu
 * [Affiliate Program](https://www.bespokefundingprogram.com/affiliate-program/)
 * [Login/Register](https://app.bespokefundingprogram.com/login)
 
-[Login/Register](https://app.bespokefundingprogram.com/login)
+[Login/Register](https://app.bespokefundingprogram.com/)
 
 [Buy Challenge](https://www.bespokefundingprogram.com/product/bespoke-funding-program-classic-challenge-think-markets/)
 
