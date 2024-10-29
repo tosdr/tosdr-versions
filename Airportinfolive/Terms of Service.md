@@ -69,6 +69,8 @@ Any claim related to Airportinfo.live's Website shall be governed by the laws of
 
   ![](/images/search.svg)
 
+  
+
 [![DMCA.com Protection Status of Airportinfo.live](/images/dmca.png)](https://www.dmca.com/Protection/Status.aspx?ID=95d83591-4330-4ee3-b645-97c9bf14d78b "DMCA.com Protection Status")
 
 [![Airportinfo.live Trustpilot](/images/trustpilot.png)](https://de.trustpilot.com/review/airportinfo.live)
@@ -90,7 +92,7 @@ How do you rate Airportinfo.live?
 ☆☆☆☆☆
 
 Thank you!  
-Would you support us by rating us at Trustpilot? Of course No thanks
+Would you support us by rating us at Google? Of course No thanks
 
 **Thank you!**  
 What can we do to improve your rating? Send Close
