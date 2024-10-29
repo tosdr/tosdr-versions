@@ -131,6 +131,8 @@
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
 * [Clearance](https://www.sensorytoywarehouse.com/product-category/clearance/)
 
+Autumn 20% Sale! Use Code **STW20** at Checkout
+
 [![](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.gif)
 
 Free Delivery  
