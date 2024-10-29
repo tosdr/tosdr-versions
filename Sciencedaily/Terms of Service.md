@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [What Animal Societies Can Teach Us About Aging](https://www.sciencedaily.com/releases/2024/10/241028211432.htm)
 * [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
 * [Scientists Reverse Brain Aging in Fruit Flies](https://www.sciencedaily.com/releases/2024/10/241028164423.htm)
 * [Lab-Grown Pork Support Fromed by Sorghum Grain](https://www.sciencedaily.com/releases/2024/10/241028131649.htm)
@@ -238,7 +239,6 @@ this hour
 * [How Mammals Got Their Stride](https://www.sciencedaily.com/releases/2024/10/241025141605.htm)
 * [New Parasite Discovered in Foxes](https://www.sciencedaily.com/releases/2024/10/241023131048.htm)
 * [Cancer Prevalence Across Vertebrates](https://www.sciencedaily.com/releases/2024/10/241025122827.htm)
-* [Arid Regions: Capturing Water Vapor from Air](https://www.sciencedaily.com/releases/2024/10/241025122821.htm)
 
 Trending Topics
 ---------------
@@ -253,7 +253,7 @@ this week
 
 [Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
