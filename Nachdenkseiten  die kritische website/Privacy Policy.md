@@ -518,7 +518,7 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [Lisa Fitz auf den NDS](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
-[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/09/240913-Lisa-Fitz-Miosga-Miasma-Kasten-NDS.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
+[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/10/241028-Lisa-Fitz-Die-Antideutschen-Kasten-NDS.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
 * [Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 * [Termine - Lisa Fitz](https://www.lisa-fitz.de/termine/)
