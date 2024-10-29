@@ -12,7 +12,13 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
 * [About](https://about.citiprogram.org/get-to-know-citi-program/)
 * [Job Board](https://about.citiprogram.org/employment-center/)
 
- [![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
+[![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
+
+![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)
+
+![CITI Program Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2078'%3E%3C/svg%3E)
+
+![CITI Program Logo](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/logo.svg)](https://about.citiprogram.org/)
 
 [](#none)
 
@@ -36,7 +42,9 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
     * [FAQs](https://about.citiprogram.org/faqs/)
     * [Contact](https://about.citiprogram.org/sales-help/)
 
-[![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
+[![search](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![search](https://about.citiprogram.org/wp-content/themes/citi2021/assets/images/icons/search.svg)](#none)
 
 [My Courses](https://www.citiprogram.org/members/index.cfm?pageID=50) [My Cart](https://www.citiprogram.org/members/index.cfm?pageID=802)
 
@@ -52,7 +60,11 @@ Search for:
 Privacy and Cookie Policy
 =========================
 
-![](https://about.citiprogram.org/wp-content/uploads/2018/10/PRIVACY-final.jpg)Last updated: 15 December 2022
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20258'%3E%3C/svg%3E)
+
+![](https://about.citiprogram.org/wp-content/uploads/2018/10/PRIVACY-final.jpg)
+
+Last updated: 15 December 2022
 
 Introduction
 ------------
