@@ -1,4 +1,4 @@
-[![logo](https://www.bittitan.com/wp-content/uploads/2023/05/BT_IDERA-Logo_Horizontal-on-Light.png "BT_IDERA-Logo_Horizontal-on-Light")](https://www.bittitan.com/)
+[![logo](https://www.bittitan.com/wp-content/uploads/2024/10/Logo_Standard-on-Light.png "Logo_Standard on Light")](https://www.bittitan.com/)
 
 * [MigrationWiz](#)
     * [Overview](#)
