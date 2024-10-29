@@ -1,14 +1,19 @@
 **JavaScript is currently not supported or is disabled by this browser.**  
 Some features of this site will not be available. Please enable JavaScript for full functionality.  
 
-[OCLC.org](https://www.oclc.org/ "OCLC.org Home")
+[Skip to page content.](#main-content "Skip navigation and go directly to page content")
 
-* [OCLC.org Home](https://www.oclc.org/)
-* [Research](https://www.oclc.org/research/home.html)
-* [Support and Training](https://help.oclc.org/)
-* [Community Center](https://www.oclc.org/community/home.en.html)
-* [Developer Network](https://www.oclc.org/developer/home.en.html)
-* [WebJunction](https://webjunction.org/home.html)
+[Menu](#)
+
+[![OCLC logo](/content/dam/oclc/design-images/navigation-logo.svg "OCLC.org home")](https://www.oclc.org/en/home.html)
+
+[Policies](https://policies.oclc.org/)
+
+[Search](#)
+
+  
+
+   
 
 OCLC, INC. PRIVACY STATEMENT
 ============================
@@ -252,7 +257,29 @@ In addition, our Customers allow us to track certain usage data regarding the Ho
 
 Our Hosted Services include: Integrated Library Systems, such as the WorldShare Management Services (WMS) suite of products, OLIB, LBS, and Bibliotheca; Identify Management Systems, such as AUTHOS and ELDAP; Interlibrary Loan Products, such as WorldShare Interlibrary Loan, Tipasa, and ILLiad; Discovery products, such as WorldCat Local, WorldCat Discovery, and FirstSearch; and a variety of other Hosted Services, such as EZproxy, CONTENTdm, and Wise. This is a list of examples of Hosted Services, which is subject to change.
 
-[![OCLC logo](/content/legal/en_us/_jcr_content/footer/footer_262d/par/parsyscolumncontrol_/col0/image.img.png/1707940274451.png "footer-logo")](https://policies.oclc.org/en/home.html)
+[![OCLC logo](/content/dam/oclc/design-images/navigation-logo.svg "OCLC.org home")](https://www.oclc.org/en/home.html)
+
+* [Admin](https://policies.oclc.org/content/legal/admin.html)
+* [العربية](https://policies.oclc.org/ar/privacy/privacy-statement.html.html)
+* [català](https://policies.oclc.org/ca/privacy/privacy-statement.html)
+* [Čeština](https://policies.oclc.org/cs/privacy/privacy-statement.html)
+* [Deutsch](https://policies.oclc.org/de/privacy/privacy-statement.html)
+* [English](https://policies.oclc.org/en/privacy/privacy-statement.html)
+* [Español](https://policies.oclc.org/es/privacy/privacy-statement.html)
+* [Euskara](https://policies.oclc.org/eu/privacy/privacy-statement.html)
+* [Français](https://policies.oclc.org/fr/privacy/privacy-statement.html)
+* [Italiano](https://policies.oclc.org/it/privacy/privacy-statement.html)
+* [日本語](https://policies.oclc.org/ja/privacy/privacy-statement.html)
+* [한국어](https://policies.oclc.org/ko/privacy/privacy-statement.html)
+* [Māori](https://policies.oclc.org/mi/privacy/privacy-statement.html)
+* [Nederlands](https://policies.oclc.org/nl/privacy/privacy-statement.html)
+* [polski](https://policies.oclc.org/pl/privacy/privacy-statement.html)
+* [Português](https://policies.oclc.org/pt/privacy/privacy-statement.html)
+* [Pусский](https://policies.oclc.org/ru/privacy/privacy-statement.html)
+* [Svenska](https://policies.oclc.org/sv/privacy/privacy-statement.html)
+* [ไทย](https://policies.oclc.org/th/privacy/privacy-statement.html)
+* [简体中文](https://policies.oclc.org/zh-Hans/privacy/privacy-statement.html)
+* [繁體中文](https://policies.oclc.org/zh-Hant/privacy/privacy-statement.html)
 
 [© 2024 OCLC](https://policies.oclc.org/en/copyright.html "Read the OCLC copyright policy")  [Domestic and international trademarks and/or service marks of OCLC, Inc. and its affiliates](https://policies.oclc.org/en/copyright/trademarks.html "View the OCLC and Affiliate Trademarks and Service Marks")
 
