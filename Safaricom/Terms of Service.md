@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [732 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [741 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -223,7 +223,7 @@ Customer Testimonials
 
 out of 5 based on
 
-[732 reviews](https://www.trustpilot.com/review/www.safari.com)
+[741 reviews](https://www.trustpilot.com/review/www.safari.com)
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
