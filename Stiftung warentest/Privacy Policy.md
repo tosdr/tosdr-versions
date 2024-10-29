@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [ELTIF: Grün investieren mit europäischen Lang­frist­fonds](https://www.test.de/ELTIF-Gruen-investieren-mit-europaeischen-Langfristfonds-5965690-0/ "ELTIF - Grün investieren mit europäischen Langfristfonds")
-* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Diebstahl von Wärmepumpen: So versichern Sie Ihre Wärmepumpe](https://www.test.de/Diebstahl-von-Waermepumpen-So-versichern-Sie-Ihre-Waermepumpe-6030311-0/ "Diebstahl von Wärmepumpen - So versichern Sie Ihre Wärmepumpe")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Crowdfunding-Insolvenzen: Kein Grund zum Schwärmen](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Insolvenzen - Kein Grund zum Schwärmen")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Service Stiftung Warentest
 
