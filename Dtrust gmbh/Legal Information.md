@@ -111,7 +111,7 @@ Whilst D-Trust updates and supplements the information on its website to the bes
 
 Should you have any questions regarding our website, please contact info@d-trust.net.
 
-1. Legal notice
+1. [Home](https://www.d-trust.net/en)
 
 Language:
 
