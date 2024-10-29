@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Brad Lomax: Creating Communities of Care \[ASL + OC\]** | American Masters](https://video.nhpbs.org/video/brad-lomax-creating-communities-of-care-asl-oc-cjkz0g?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**SCIENCE episode preview** | Craft in America](https://video.nhpbs.org/video/science-episode-preview-feldyl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 2 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-2-scene-vkiqnk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Costs of Mass Deportation? Expert Breaks Down Trump's Immigration Plan** | Amanpour and Company](https://video.nhpbs.org/video/the-costs-of-mass-deportation-expert-breaks-down-trumps-immigration-plan-echzn1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trump faces backlash for racist, sexist rhetoric at rally** | PBS News Hour](https://video.nhpbs.org/video/vote-2024-1730149989?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Extraordinary Finds 3 Sneak Peek** | Antiques Roadshow](https://video.nhpbs.org/video/preview-extraordinary-finds-3-tjzeig?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**On a Mission** | Stories from the Stage](https://video.nhpbs.org/video/on-a-mission-iksx9s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 Honda Passport TrailSport & 2024 BMW iX M60** | MotorWeek](https://video.nhpbs.org/video/2024-honda-passport-trailsport-2024-bmw-ix-m60-jygwde?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**The Texas Border** | VOCES](https://video.nhpbs.org/video/the-texas-border-djsnn4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Researching Candidates** | The State We're In](https://video.nhpbs.org/video/researching-candidates-cvk7kq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Analyzing voter sentiment in key states ahead of election** | Washington Week with The Atlantic](https://video.nhpbs.org/video/analyzing-voter-sentiment-in-key-states-ahead-of-election-urwxko?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
