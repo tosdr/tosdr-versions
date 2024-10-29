@@ -303,7 +303,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDMweWZIZUlLN3kxQ0pzamdGOElpMXc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljI2ijs)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEpKRVViaXo5YlZXNGxmOXp3STV5d1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIpMAM)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -313,45 +313,21 @@ Delicious
 
 4.3_star_](https://play.google.com/store/apps/details?id=com.textra)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/b-QYjEXw_eKbpJfjarg46g-aaBKqtROaQA4LNN_ac6GYvLs0rkPYd2WivyVNCQKcDQ=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
 
-ShearShare: Find Space to Work
+Sugar Mail email app
 
-ShearShare, Inc.
+Kostya Vasilyev US
 
-4.5_star_](https://play.google.com/store/apps/details?id=com.shearshare.android)
+3.6_star_](https://play.google.com/store/apps/details?id=org.kman.email2)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/I1rEarjkcHM2Yq13tYxJtg8idaYLK6kGXI0AMSm5VLMl5_nPwVuR4UFhAOSZo83CBe8=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/ruWSAfXdO3RgDX3qwDSdh7oBManmyEXZ1TG9tBNSR8R5mOVq1E6cECZSHaGJjVeVrSg=s64)
 
-Pushbullet: SMS on PC and more
+Call Blocker - Block Numbers
 
-Pushbullet
+Appsbuyout Dev
 
-4.3_star_](https://play.google.com/store/apps/details?id=com.pushbullet.android)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/C1_cSejkK2lK3nf2Unhg1u0WfaktlK20_J5cOswPvvY9gWnrgg_yNyAj_UlkOOKpTMQ=s64)
-
-REVE Antivirus Mobile Security
-
-REVE Antivirus
-
-3.0_star_](https://play.google.com/store/apps/details?id=com.revesoft.reveantivirus)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/37EO8DNvEuJr0EnE6J3uNLXP0hnYOBZeekXwvK0Of8iampCmwD9Z7XOZrEzH8vngjvwQ=s64)
-
-SimpleTexting
-
-SimpleTexting LLC
-
-4.1_star_](https://play.google.com/store/apps/details?id=com.simpletexting.mobile)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/TsoAC0y8wLyWiX19Jh3Q-Fs2EJDHCAxFhGwEsIxjel5AQs73j7g4OdRa6EYx8F2O=s64)
-
-textPlus: Text Message + Call
-
-textPlus
-
-4.0_star_](https://play.google.com/store/apps/details?id=com.gogii.textplus)
+4.5_star_](https://play.google.com/store/apps/details?id=call.blacklist.blocker)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
