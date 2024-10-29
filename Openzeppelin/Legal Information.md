@@ -64,7 +64,7 @@
     
     Emergency Response
     
-    React with expertise and speed](https://www.openzeppelin.com/incident-response) [![](https://www.openzeppelin.com/hubfs/zkp-nav.svg) ![](https://www.openzeppelin.com/hubfs/zkp-nav-1.svg)
+    React with expertise and speed](https://www.openzeppelin.com/emergency-response) [![](https://www.openzeppelin.com/hubfs/zkp-nav.svg) ![](https://www.openzeppelin.com/hubfs/zkp-nav-1.svg)
     
     ZKP Practice
     
@@ -120,7 +120,7 @@
 * [Services](#)
     
     *  [![](https://www.openzeppelin.com/hubfs/sa-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/sa-nav-mobile.svg)Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-    *  [![](https://www.openzeppelin.com/hubfs/er-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/er-nav-mobile.svg)Emergency Response](https://www.openzeppelin.com/incident-response)
+    *  [![](https://www.openzeppelin.com/hubfs/er-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/er-nav-mobile.svg)Emergency Response](https://www.openzeppelin.com/emergency-response)
     *  [![](https://www.openzeppelin.com/hubfs/zkp-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/zkp-nav-mobile.svg)ZKP Practice](https://www.openzeppelin.com/zkp)
     * Solutions
     *  [![](https://www.openzeppelin.com/hubfs/es-nav-mobile-dark.svg) ![](https://www.openzeppelin.com/hubfs/es-nav-mobile.svg)Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
@@ -380,7 +380,7 @@ Products
 Services
 
 * [Smart Contract Security Audit](https://www.openzeppelin.com/security-audits)
-* [Emergency Response](https://www.openzeppelin.com/incident-response)
+* [Emergency Response](https://www.openzeppelin.com/emergency-response)
 * [ZKP Practice](https://www.openzeppelin.com/zkp)
 * [Ecosystem Stack](https://www.openzeppelin.com/ecosystems)
 
