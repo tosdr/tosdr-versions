@@ -1,6 +1,6 @@
-[CLASS IS IN SESSION: DON'T MISS UPCOMING DNS 101 WEBINAR
+[TRY DNSFILTER FREE FOR 14 DAYS
 
-REGISTER NOW](https://explore.dnsfilter.com/dns-101-strategy)
+START FREE TRIAL](https://app.dnsfilter.com/signup)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
