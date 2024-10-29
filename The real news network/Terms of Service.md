@@ -95,11 +95,11 @@ Trending Posts
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
+* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 
 Close
 
@@ -159,11 +159,11 @@ Trending Posts
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
+* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 
 [Skip to content](#main)
 
@@ -335,11 +335,11 @@ Trending Posts
 * [Israeli use of white phosphorus in Lebanon injured UN peacekeepers: Report](https://therealnews.com/israeli-use-of-white-phosphorus-in-lebanon-injured-un-peacekeepers)
 * [Two years into a strike, Pittsburgh Post-Gazette workers aren’t ready to give up](https://therealnews.com/two-years-into-a-strike-pittsburgh-post-gazette-workers)
 * [France wants to make Olympics-style surveillance permanent](https://therealnews.com/france-wants-to-make-olympics-style-surveillance-permanent)
+* [Billionaires spew more CO2 pollution in 90 minutes than average person in a lifetime](https://therealnews.com/billionaires-spew-more-co2-pollution-in-90-minutes-than-average-person-in-a-lifetime)
 * [‘This is an extermination’: Israel’s assault on north Gaza’s last functioning hospital](https://therealnews.com/this-is-an-extermination-israels-assault-on-north-gazas-last-functioning-hospital)
 * ['Towns are gone': In Helene-devastated Asheville, NC, volunteers battle misinformation and 'apocalyptic' wreckage](https://therealnews.com/in-helene-devastated-asheville-nc)
 * [Questionable DUI by Michigan State Troopers prompts lawsuit](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest)
-* [Under Prop 6, California voters could finally abolish forced prison labor](https://therealnews.com/under-prop-6-california-voters-could-finally-abolish-forced-prison-labor)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
+* [This CEO left coal miners penniless. Why did a West Virginia town give him a lucrative tax break to build a luxury hotel?](https://therealnews.com/this-ceo-left-coal-miners-penniless-why-did-a-west-virginia-town-give-him-a-lucrative-tax-break-to-build-a-luxury-hotel)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
