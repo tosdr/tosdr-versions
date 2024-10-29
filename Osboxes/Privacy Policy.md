@@ -109,6 +109,12 @@ Root account password: osboxes.org
 
 ### Recent Releases
 
+[![zorin desktop](https://www.osboxes.org/wp-content/uploads/2017/11/zorin-12-2-desktop-85x85.jpg)](https://www.osboxes.org/zorin-os-17-2-core-images-available-for-virtualbox-and-vmware/)
+
+##### [Zorin OS 17.2 Core Images Available for VirtualBox and VMware](https://www.osboxes.org/zorin-os-17-2-core-images-available-for-virtualbox-and-vmware/)
+
+29-10-2024
+
 [![pop os desktop](https://www.osboxes.org/wp-content/uploads/2019/04/Pop_OS-Desktop-85x85.jpeg)](https://www.osboxes.org/pop_os-22-04-and-24-04-vm-images-available-for-virtualbox-and-vmware/)
 
 ##### [Pop!\_OS 22.04 and 24.04 VM Images Available For VirtualBox and VMware](https://www.osboxes.org/pop_os-22-04-and-24-04-vm-images-available-for-virtualbox-and-vmware/)
@@ -138,12 +144,6 @@ Root account password: osboxes.org
 ##### [openSUSE 15.6 Leap Images Available for VirtualBox and VMware](https://www.osboxes.org/opensuse-15-6-leap-images-available-for-virtualbox-and-vmware/)
 
 01-09-2024
-
-[![kali linux](https://www.osboxes.org/wp-content/uploads/2014/09/kali-linux.jpg)](https://www.osboxes.org/kali-linux-2024-2-vm-images-available-for-virtualbox-and-vmware/)
-
-##### [Kali Linux 2024.2 VM Images Available for VirtualBox and VMware](https://www.osboxes.org/kali-linux-2024-2-vm-images-available-for-virtualbox-and-vmware/)
-
-28-08-2024
 
 Get in Touch!
 
