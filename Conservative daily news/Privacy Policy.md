@@ -2,14 +2,14 @@ Tuesday, October 29 2024
 
 Breaking News
 
+* [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
+* [Kamala Believes Her Followers Are As Oblivious As She Is](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
+* [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
+* [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
+* [President Joe Biden’s Schedule for Tuesday, October 29, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
 * [Elise Stefanik Says Trump Is Dominating New York Swing Districts Biden ‘Won By 15 Points’](https://www.conservativedailynews.com/2024/10/elise-stefanik-says-trump-is-dominating-new-york-swing-districts-biden-won-by-15-points/)
 * [Blue Dog Democrats will carry Trump to victory](https://www.conservativedailynews.com/2024/10/blue-dog-democrats-will-carry-trump-to-victory/)
 * [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
-* [Medal of Honor Monday: Army Staff Sgt. Lucian Adams](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
-* [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
-* [President Joe Biden’s Schedule for Monday, October 28, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-28-2024/)
-* [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
-* [Kamala Does Not Understand A Wall Or Security](https://www.conservativedailynews.com/2024/10/kamala-does-not-understand-a-wall-or-security/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,72 +115,74 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
+    
+    [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
+    
+    October 29, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Donald-Trump-Joe-Rogan-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
     
     [Trump Reveals Why He Didn’t Declassify JFK Assassination Files In Interview With Joe Rogan](https://www.conservativedailynews.com/2024/10/trump-reveals-why-he-didnt-declassify-jfk-assassination-files-in-interview-with-joe-rogan/)
     
     October 27, 2024
     
-* [![2024 election results delay](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
-    
-    [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/)
-    
-    October 26, 2024
-    
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/11/Elise-Stefanik.jpg)](https://www.conservativedailynews.com/2024/10/elise-stefanik-says-trump-is-dominating-new-york-swing-districts-biden-won-by-15-points/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Jeff-Bezos.png)](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
     
-    [Elise Stefanik Says Trump Is Dominating New York Swing Districts Biden ‘Won By 15 Points’](https://www.conservativedailynews.com/2024/10/elise-stefanik-says-trump-is-dominating-new-york-swing-districts-biden-won-by-15-points/)
+    [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/blue-dog-democrats-will-carry-trump-to-victory/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5697-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
     
-    [Blue Dog Democrats will carry Trump to victory](https://www.conservativedailynews.com/2024/10/blue-dog-democrats-will-carry-trump-to-victory/)
+    [Kamala Believes Her Followers Are As Oblivious As She Is](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![Kamalanomics](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv102824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/same-ole-same-ole/)
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
     
-    [Same ‘Ole Same ‘Ole](https://www.conservativedailynews.com/2024/10/same-ole-same-ole/)
+    [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5696-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
     
-    [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
+    [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/241023-O-D0439-083A-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
+* [![New York City skyline](https://www.conservativedailynews.com/wp-content/uploads/2017/12/New-York-City-skyline.png)](https://www.conservativedailynews.com/2024/10/in-daniel-penny-case-nyc-has-put-batman-on-trial/)
     
-    [Medal of Honor Monday: Army Staff Sgt. Lucian Adams](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-army-staff-sgt-lucian-adams/)
+    [In Daniel Penny Case, NYC Has Put Batman on Trial](https://www.conservativedailynews.com/2024/10/in-daniel-penny-case-nyc-has-put-batman-on-trial/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
+* [![BRICS weapon against Democracy Freedom](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/weapon/)
     
-    [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/)
+    [Weapon](https://www.conservativedailynews.com/2024/10/weapon/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![Putin Russia North Korea](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/draculas-helper/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Joe-Biden-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
     
-    [Dracula’s Helper](https://www.conservativedailynews.com/2024/10/draculas-helper/)
+    [President Joe Biden’s Schedule for Tuesday, October 29, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
     
-    October 28, 2024
+    October 29, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/losing-ticket/)
+* [![Garden - unsplash](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Garden-220x150.png)](https://www.conservativedailynews.com/2024/10/productive-hobbies-that-will-make-you-smarter-and-happier/)
     
-    [Losing Ticket](https://www.conservativedailynews.com/2024/10/losing-ticket/)
+    [Productive Hobbies That Will Make You Smarter and Happier](https://www.conservativedailynews.com/2024/10/productive-hobbies-that-will-make-you-smarter-and-happier/)
     
-    October 28, 2024
+    October 29, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Gun Beats Vehicle as Armed Citizen Stops Attacker from Running People Over](https://www.thegunpage.com/gun-beats-vehicle-as-armed-citizen-stops-attacker-from-running-people-over/10611519)
+* [Review: Heckler & Koch VP9 Match](https://www.thegunpage.com/review-heckler-koch-vp9-match/10611518)
 * [What Are The Top 5 Concealed Carry Handguns?](https://www.thegunpage.com/what-are-the-top-5-concealed-carry-handguns/10611514)
 * [POTD: Tequila Sunrise 300 BLK Precision Rifle](https://www.thegunpage.com/potd-tequila-sunrise-300-blk-precision-rifle/10611515)
 * [The Rimfire Report: Ruger American Rimfire Long-Range Target](https://www.thegunpage.com/the-rimfire-report-ruger-american-rimfire-long-range-target/10611516)
@@ -189,8 +191,6 @@ Recent Posts
 * [Giffords, Anti-Gunners Change Their Messaging to Match Changing Crime Stats](https://www.thegunpage.com/giffords-anti-gunners-change-their-messaging-to-match-changing-crime-stats/10611502)
 * [2nd Circuit Court Rules For New York In “Sensitive Places” Carry Ban Lawsuit](https://www.thegunpage.com/2nd-circuit-court-rules-for-new-york-in-sensitive-places-carry-ban-lawsuit/10611500)
 * [Royce Gracie Speaks Out About NRA And The Second Amendment](https://www.thegunpage.com/royce-gracie-speaks-out-about-nra-and-the-second-amendment/10611510)
-* [JMac Customs Unveils Its AKM Railed Dust Cover Assembly EMBARGO- 10/25](https://www.thegunpage.com/jmac-customs-unveils-its-akm-railed-dust-cover-assembly-embargo-10-25/10611498)
-* [Collegiate Rifle: Kentucky Sails Past Navy, WVU Defeats Mount Aloysius, TCU Triumphs Over UTEP](https://www.thegunpage.com/collegiate-rifle-kentucky-sails-past-navy-wvu-defeats-mount-aloysius-tcu-triumphs-over-utep/10611506)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
