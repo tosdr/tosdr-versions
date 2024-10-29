@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Here are the 2024 Atlanta Michelin Guide restaurant winners](https://www.ajc.com/things-to-do/atlanta-restaurant-blog/best-atlanta-restaurants-who-got-the-stars-in-new-michelin-guide/POQBIY2H4FDGZPCGPDEBOY6AMU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1774)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1774)](https://www.ajc.com/)
 
 Log In
