@@ -240,7 +240,7 @@ Emma is registered and incorporated in England and Wales.
 
 Emma Technologies Ltd is an appointed representative of RiskSave Technologies Ltd, which is authorised and regulated by the Financial Conduct Authority (FRN 775330).  
   
-Payment services (Non MIFID or Deposit related products) for Emma Technologies Ltd are provided by The Currency Cloud Limited. Registered in England No. 06323311. Registered Office: Stewardship Building 1st Floor, 12 Steward Street London E1 6FQ. The Currency Cloud Limited is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 for the issuing of electronic money (FRN: 900199). For more detail on how your money is protected please see [here](https://help.emma-app.com/en/article/how-my-money-is-protected-safeguarded-1och16s/).  
+Payment services (Non MIFID or Deposit related products) for Emma Technologies Ltd are provided by The Currency Cloud Limited. Registered in England No. 06323311. Registered Office: Stewardship Building 1st Floor, 12 Steward Street London E1 6FQ. The Currency Cloud Limited is authorised by the Financial Conduct Authority under the Electronic Money Regulations 2011 for the issuing of electronic money (FRN: 900199). For more detail on how your money is protected please see [here](https://help.emma-app.com/en/article/how-my-money-is-protected-safeguarded-1och16s/). You can also find Currency Cloud's Terms of Use [here](https://www.currencycloud.com/legal/terms/).  
   
 Emma Technologies LTD is an Introducer Appointed Representative of Quint Group Limited, which is authorised and regulated by the Financial Conduct Authority (FRN 669450).  
   
@@ -251,6 +251,8 @@ Emma is registered with the Financial Conduct Authority under the Payment Servic
 Financial Conduct Authority Reg Nr: 794952.  
 Company Registration Number: 10578464.  
 Data Protection Registration Number: ZA241546.  
+  
+All testimonials, reviews, opinions or case studies presented on our website may not be indicative of all customers. Results may vary and customers agree to proceed at their own risk.  
 
 Scan the QR code
 ================
