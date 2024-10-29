@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                
+![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                 
 
 [![Site stats](//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44258713-3958a)](https://www.shinystat.com/)
 
