@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Absolutely loved the service; connecting any time of day, very rarely an issue. A couple of times we had some congestion issues that slowed / stuttered the streaming, but they were minor overall. The whole FoxyProxy experience was seamless, and you've obviously done fantastic work at making a seamless plugin.
+I have already purchased a new subscription. I like your proxy.
 
-Matt Brydson
+Michael France
