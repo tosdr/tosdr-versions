@@ -11,14 +11,16 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-Halloween Special Offer -60%  
-This offer ends in:
+Halloween  
+Special Offer
+
+\-50%
 
 : :
 
-\-60%
+\-50%
 
-**Renew Panda Dome**
+[**Buy Panda Dome**](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
 
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
