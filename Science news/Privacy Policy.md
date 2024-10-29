@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A race to save Indigenous trails may change the face of archaeology](https://www.sciencenews.org/article/indigenous-trails-change-archaeology)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")43 mins ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")8 hours ago
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
