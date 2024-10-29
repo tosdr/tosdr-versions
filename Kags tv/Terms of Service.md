@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57/20241028T153653/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57/20241028T153653/d02a5504-f7c4-4ad0-83c0-3b0247ff5c57_360x203.jpg)](https://www.kagstv.com/article/news/local/oct-2024-burleson-county-home-fire/500-c4384406-3d14-4bb5-9e6c-fa3027945910)
+    *  [![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_360x203.jpg)](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
         
-        #### [Mobile home destroyed in late Sunday night fire in Caldwell](https://www.kagstv.com/article/news/local/oct-2024-burleson-county-home-fire/500-c4384406-3d14-4bb5-9e6c-fa3027945910)
+        #### [Family of Robert Roberson's daughter says they're 'convinced' he's directly responsible for her death](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
         
-    *  [![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_16x9.jpg) ![](https://media.kagstv.com/assets/WATN/images/efad19fe-b604-41e0-8c3f-5ea2f88c45ab/efad19fe-b604-41e0-8c3f-5ea2f88c45ab_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/aa6caca3-4f0d-49c6-9a6d-e139a153dac1/20241028T204606/aa6caca3-4f0d-49c6-9a6d-e139a153dac1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/aa6caca3-4f0d-49c6-9a6d-e139a153dac1/20241028T204606/aa6caca3-4f0d-49c6-9a6d-e139a153dac1_360x203.jpg)](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
         
-        #### [14-year-old reported missing out of Bryan area found safe](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-on-oct-25-2024-in-bryan-tx/500-3a95148e-9171-41cb-aeb4-6a92f00d2c32)
+        #### [Bond, charge upgraded for woman arrested after fatally stabbing man in Navasota](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-90°
+78°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
