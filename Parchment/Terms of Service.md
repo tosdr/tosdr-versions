@@ -157,15 +157,18 @@
     * [![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
         
         CA](https://www.parchment.com/en-ca/)
-    * [![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
-        
-        UK](https://www.parchment.com/en-gb/)
-    * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
-        
-        NZ](https://www.parchment.com/en-nz/)
     * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
         
         IE](https://www.parchment.com/en-ie/)
+    * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
+        
+        NZ](https://www.parchment.com/en-nz/)
+    * [![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
+        
+        SEA](https://www.parchment.com/en-sea/)
+    * [![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+        
+        UK](https://www.parchment.com/en-gb/)
     
 
 Menu
@@ -533,17 +536,21 @@ Or select your desired region
     
     [CA](https://www.parchment.com/en-ca/)
     
-* ![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+* ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
     
-    [UK](https://www.parchment.com/en-gb/)
+    [IE](https://www.parchment.com/en-ie/)
     
 * ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
     
     [NZ](https://www.parchment.com/en-nz/)
     
-* ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
+* ![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
     
-    [IE](https://www.parchment.com/en-ie/)
+    [SEA](https://www.parchment.com/en-sea/)
+    
+* ![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+    
+    [UK](https://www.parchment.com/en-gb/)
     
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.  
