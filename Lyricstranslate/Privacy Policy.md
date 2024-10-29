@@ -107,67 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
-
-New transcription request
-
-[Marta Knight - Resurrection](https://lyricstranslate.com/en/marta-knight-resurrection)
-
-English
-
-[![Tiki marie](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625829-1723091719.jpg)](https://lyricstranslate.com/en/translator/tiki-marie "Tiki marie")
-
-New transcription request
-
-[Lawst - War](https://lyricstranslate.com/en/lawst-war)
-
-English
-
-[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
 
 New song
 
-[Marta Knight - Creations](https://lyricstranslate.com/en/marta-knight-creations-lyrics)
+[Vadim Shershenevich - Принцип басни](https://lyricstranslate.com/en/vadim-shershenevich-printsip-basni-lyrics)
 
-English
+Russian
 
-[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
-
-New comment
-
-\[video:https://www.youtube.com/...  [more](https://lyricstranslate.com/en/comment/1172252#comment-1172252)
-
-[![FermionA](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1450046-1591078862.png)](https://lyricstranslate.com/en/translator/fermiona "FermionA")
+[![Olegsandra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1115771.jpg)](https://lyricstranslate.com/en/translator/olegsandra "Olegsandra")
 
 New translation
 
-[Slava KPSS - ХАРДБАСС ДЛЯ ЖИРИНОВСКОГО (KHARDBASS DLYA ZHIRINOVSKOGO)](https://lyricstranslate.com/en/slava-kpss-khardbass-dlya-zhirinovsk-korean)
+[Alexander Egromzhan - Это было красиво (Eto bylo krasivo)](https://lyricstranslate.com/en/alexander-egromzhan-eto-bylo-krasivo-french)
 
-Russian → Korean
+Russian → French
 
-[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+[![Don Tornado](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/don-tornado "Don Tornado")
+
+New song
+
+[One For Israel - 10,000 Reasons (Bless The Lord)](https://lyricstranslate.com/en/one-israel-10000-reasons-bless-lyrics)
+
+Arabic
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Synergia - את לא כאן (At Lo Kan)](https://lyricstranslate.com/en/synergia-lo-kan-transliteration)
-
-Hebrew → Transliteration
-
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
-
-New translation
-
-[Fabrizio Ferretti - Oh oh baby...piangerò](https://lyricstranslate.com/en/fabrizio-ferretti-oh-oh-babypiangero-english)
+[Luciano Tajoli - Lontananza](https://lyricstranslate.com/en/luciano-tajoli-lontananza-english)
 
 Italian → English
 
-[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1563999784.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[Fabrizio Ferretti - Oh oh baby...piangerò](https://lyricstranslate.com/en/fabrizio-ferretti-oh-oh-babypiangero-lyrics)
+[Luciano Tajoli - Lontananza](https://lyricstranslate.com/en/luciano-tajoli-lontananza-lyrics)
 
 Italian
+
+[![Алексей Калашников](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%BA%D0%B0%D0%BB%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2 "Алексей Калашников")
+
+New song
+
+[Modern Boots - Play The Game](https://lyricstranslate.com/en/modern-boots-play-game-lyrics)
+
+English
+
+[![tdotcityfour16](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tdotcityfour16 "tdotcityfour16")
+
+New song
+
+[Gabrielle Goulet - Elle Sait](https://lyricstranslate.com/en/gabrielle-goulet-elle-sait-lyrics)
+
+French
+
+[![tdotcityfour16](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tdotcityfour16 "tdotcityfour16")
+
+New translation
+
+[Gabrielle Goulet - Elle Sait](https://lyricstranslate.com/en/gabrielle-goulet-elle-sait-english)
+
+French → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
