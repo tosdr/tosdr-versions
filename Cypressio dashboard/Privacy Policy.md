@@ -26,7 +26,7 @@
     
     * * *
     
-    [UI Coverage Identify testing gaps instantly](https://cypress.io/ui-coverage)[Accessibility Automated checks on every test](https://cypress.io/accessibility)
+    [UI Coverage Identify testing gaps instantly](https://cypress.io/ui-coverage?utm_medium=website&utm_source=cypress.io&utm_content=header)[Accessibility Automated checks on every test](https://cypress.io/accessibility?utm_medium=website&utm_source=cypress.io&utm_content=header)
     
 * [Docs](https://on.cypress.io/)
     
@@ -69,7 +69,7 @@
     * [Education](https://cypress.io/blog/category/Education)
     * [Company](https://cypress.io/blog/category/Company)
     
-    [Ambassador program](https://cypress.io/ambassadors)[Events](https://cypress.io/events)[Customer stories](https://cypress.io/customer-stories)
+    [GitHub](https://github.com/cypress-io/cypress)[Discord](https://on.cypress.io/chat)[YouTube](https://www.youtube.com/c/Cypressio)[Ambassadors](https://cypress.io/ambassadors)[Events](https://cypress.io/events)[Customer stories](https://cypress.io/customer-stories)
     
 * [Company](https://cypress.io/about-us)
     
@@ -92,7 +92,7 @@
     * [Press & media](https://cypress.io/press-kit)
     * [Cypress Swag](https://swag.cypress.io/)
     
-    [GitHub](https://github.com/cypress-io/cypress)[YouTube](https://www.youtube.com/c/Cypressio)[LinkedIn](https://www.linkedin.com/company/cypress.io)[Twitter](https://twitter.com/Cypress_io)[Facebook](https://facebook.com/cypressio)[Discord](https://on.cypress.io/chat)
+    [LinkedIn](https://www.linkedin.com/company/cypress.io)[Twitter](https://twitter.com/Cypress_io)[Facebook](https://facebook.com/cypressio)
     
 * [Pricing](https://cypress.io/pricing)
 * [Log in](https://cloud.cypress.io/login) [Sign up](https://cloud.cypress.io/signup)
