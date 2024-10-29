@@ -185,7 +185,7 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
     
     [Godlike.Host](https://thishosting.rocks/godlike-host-review/ "Godlike.Host")
     
-    9.7
+    9.5
     
 * [![Snappa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAhAQAAAACzBsUpAAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBSAAAAEIAAHO7fnCAAAAAElFTkSuQmCC)
     
