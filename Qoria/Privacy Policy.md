@@ -575,7 +575,8 @@ WA, Australia, 6000
 Email: info@qoria.com
 
 Registered in Australia  
-ABN 331 675 09177
+ABN 331 675 09177  
+TFN: 358 828 584
 
 ###### Useful Links
 
