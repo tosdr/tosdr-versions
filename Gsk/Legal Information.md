@@ -208,7 +208,7 @@ This is our US website, intended for US audiences only. Other market sites can b
 
 GSK plc. Registered in England and Wales No. 3888792.
 
-Registered office: 79 New Oxford Street, London. United Kingdom. WC1A 1DG  
+Registered office: 79 New Oxford Street, London. United Kingdom. WC1A 1DG
 
 * GSK websites
 * [GSK Global website](https://www.gsk.com/ "Opens in a new window")
@@ -245,7 +245,7 @@ Registered office: 79 New Oxford Street, London. United Kingdom. WC1A 1DG  
     * [twitter](http://twitter.com/GSKUS)
     * [youtube](http://www.youtube.com/GSK)
     * [linkedin](http://www.linkedin.com/company/glaxosmithkline)
-    * [instagram](https://www.instagram.com/gsk/)
+    * [instagram](https://www.instagram.com/gskus?igsh=dDl0NjZmbmlia3F1)
 
 * [Accessibility](https://us.gsk.com/en-us/accessibility/)
 * [Digital sustainability](https://us.gsk.com/en-us/digital-sustainability/)
