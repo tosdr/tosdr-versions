@@ -172,20 +172,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Oct 24
-
-1:30 pm - 4:00 pm
-
-### [Homeland Security Advisory Committee (HSAC)](https://tcog.com/event/homeland-security-advisory-committee-hsac-3/ "Homeland Security Advisory Committee (HSAC)")
-
-Sherman
-
-Oct 29
-
-1:00 pm - 2:30 pm
-
-### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
-
 Nov 12
 
 12:30 pm - 2:00 pm
@@ -207,6 +193,20 @@ Nov 14
 ### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2024-11-14/ "Executive Officers Committee")
 
 Sherman
+
+Nov 21
+
+5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
+
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-11-21/ "Governing Board Meeting")
+
+Sherman
+
+Dec 3
+
+12:30 pm - 2:00 pm
+
+### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-3/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
 
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
