@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-057d5ecaf5c6fa43bded9b644ee7475e
+dad16ce56b512d7681b174a4c363b38d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm silver coin pearls](https://sojourner.biz/images/cache/pearls/PE0210.200.jpg)](https://sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
+[![7 to 8 mm by 8 to 9 mm glass chevrons](https://sojourner.biz/images/cache/glass/VB0036.200.jpg)](https://sojourner.biz/beads/glass/7-to-8-mm-by-8-to-9-mm-glass-chevrons.html "7 to 8 mm by 8 to 9 mm glass chevrons")
 
-#### [12 mm silver coin pearls](https://sojourner.biz/beads/pearls/12-mm-silver-coin-pearls.html "12 mm silver coin pearls")
+#### [7 to 8 mm by 8 to 9 mm glass chevrons](https://sojourner.biz/beads/glass/7-to-8-mm-by-8-to-9-mm-glass-chevrons.html "7 to 8 mm by 8 to 9 mm glass chevrons")
 
-$18.00
+$10.00
 
 ### Best Sellers
 
@@ -162,14 +162,14 @@ $18.00
     $28.00
 6. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
-7. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+7. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 9. [Sterling silver tiny lily clasp](https://sojourner.biz/clasps/sterling-only/sterling-silver-tiny-lily-clasp.html "Sterling silver tiny lily clasp")  
     $10.00
-10. [Gray pearl toggle clasp](https://sojourner.biz/clasps/toggles/gray-pearl-toggle-clasp.html "Gray pearl toggle clasp")  
-    $28.00
+10. [Black and white playful cat sauce dish](https://sojourner.biz/tabletop/black-and-white-playful-cat-sauce-dish.html "Black and white playful cat sauce dish")  
+    $7.00
 
 [Top](#)
 
