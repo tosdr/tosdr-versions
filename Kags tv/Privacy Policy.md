@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/dfe958bc-9365-4a7c-a631-48c95c77c56a/20241029T160514/dfe958bc-9365-4a7c-a631-48c95c77c56a_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
+        
+        #### [Authorities seeking information on missing 14-year-old last seen on Oct. 26 in College Station](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-college-station-on-oct-26-2024/500-9561bf9d-5059-4806-b0c0-31562cf56b54)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/200b26aa-e462-4f26-b6c4-41864edca5a3/20241025T235018/200b26aa-e462-4f26-b6c4-41864edca5a3_360x203.jpg)](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
         
         #### [Family of Robert Roberson's daughter says they're 'convinced' he's directly responsible for her death](https://www.kagstv.com/article/news/local/family-of-robert-robersons-daughter-says-theyre-convinced-hes-directly-responsible-her-death/501-0e14b035-3986-4575-8a61-dcb5985e88e4)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/aa6caca3-4f0d-49c6-9a6d-e139a153dac1/20241028T204606/aa6caca3-4f0d-49c6-9a6d-e139a153dac1_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/aa6caca3-4f0d-49c6-9a6d-e139a153dac1/20241028T204606/aa6caca3-4f0d-49c6-9a6d-e139a153dac1_360x203.jpg)](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
-        
-        #### [Bond, charge upgraded for woman arrested after fatally stabbing man in Navasota](https://www.kagstv.com/article/news/crime/one-dead-after-stabbing-in-grimes-county-oct-25-2024/500-a15f244c-ee8a-44fa-9bf4-508bfed1a4a2)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        
+        #### [WEATHER IMPACT ALERT | Severe thunderstorms expected this week](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb/20241017T133346/dba53a2e-ff27-43cc-a8f9-22f70b2a16cb_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
         
         #### [La Niña could soon arrive. Here's what that means for winter weather](https://www.kagstv.com/article/news/nation-world/la-nia-could-soon-what-that-means-for-winter-weather-outlook-2024-2025/507-e78f5997-5997-4dfc-9120-fbaee14c5924)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2/20241016T105014/e00c0d1e-9a5d-4282-957a-f2f41a3d33a2_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
-        
-        #### [October's supermoon pairs with a comet for a special nighttime spectacle](https://www.kagstv.com/article/news/nation-world/october-supermoon-pairs-with-comet/507-329ab31e-00f9-4ced-a792-f90eb79be644)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-77°
+86°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Mostly Cloudy/Wind](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
