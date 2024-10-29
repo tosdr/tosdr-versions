@@ -273,19 +273,19 @@ Most Popular
 [IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 28 2024](https://www.derrynow.com/news/deaths/1639810/derry-death-notices-monday-october-28-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man appears in Derry Court for number of drink driving offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man appears in Derry Court for number of drink driving offences")](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Man appears in Derry Court on number of drink driving offences](https://www.derrynow.com/news/local-news/1641452/man-appears-in-derry-court-on-number-of-drink-driving-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers")](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Translink Halloween pumpkin surprise delights Derry passengers](https://www.derrynow.com/story-telling/pictures---videos/1641575/in-pictures-translink-halloween-pumpkin-surprise-delights-derry-passengers.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man charged at Derry court with domestic assault and abuse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged at Derry court with domestic assault and abuse")](https://www.derrynow.com/news/local-news/1641366/man-charged-at-derry-court-with-domestic-assault-and-abuse.html)
 
@@ -300,6 +300,13 @@ Most Popular
 
 [IN PICTURES: Families enjoy Skeoge Community Fun Day](https://www.derrynow.com/story-telling/pictures---videos/1641289/in-pictures-families-enjoy-skeoge-community-fun-day.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry Halloween garden bringing joy to local community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween garden bringing joy to local community")](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Halloween garden bringing joy to local community](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![32-year-old man charged in connection with serious sexual assault in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "32-year-old man charged in connection with serious sexual assault in Derry")](https://www.derrynow.com/news/local-news/1641692/32-year-old-man-charged-in-connection-with-serious-sexual-assault-in-derry.html)
 
@@ -316,13 +323,6 @@ Foyle MP, Colum Eastwood
 
 [Foyle MP Colum Eastwood welcomes confirmation of first tenant at Ebrington Plaza](https://www.derrynow.com/news/jobs/1641349/foyle-mp-colum-eastwood-welcomes-confirmation-of-first-tenant-at-ebrington-plaza.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Halloween garden bringing joy to local community](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween garden bringing joy to local community")](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Halloween garden bringing joy to local community](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Jeremy Fitch, Executive Director of Business Growth, Invest NI; Damian O’Callaghan, Group Managing Director, Heron Property Ltd; John Harkin, Chief Executive, Alchemy Technology Services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jeremy Fitch, Executive Director of Business Growth, Invest NI; Damian O’Callaghan, Group Managing Director, Heron Property Ltd; John Harkin, Chief Executive, Alchemy Technology Services")](https://www.derrynow.com/news/derry-news/1641265/alchemy-technology-services-announced-as-first-tenant-of-ebrington-plaza-in-derry-londonderry.html)
 
@@ -395,19 +395,19 @@ Multimedia
 [IN PICTURES: Waterside Women's Centre mark 30 years of empowerment](https://www.derrynow.com/story-telling/pictures---videos/1641290/in-pictures-waterside-women-s-centre-mark-30-years-of-empowerment.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PROPERTY: This cosy and inviting home has just landed on the Derry market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: This cosy and inviting home has just landed on the Derry market")](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 
 [Property](https://www.derrynow.com/section/1232/property)
 
 [PROPERTY: This cosy and inviting home has just landed on the Derry market](https://www.derrynow.com/news/property/1638907/property-this-cosy-and-inviting-home-has-just-landed-on-the-derry-market.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PROPERTY: There is much more to this home than meets the eye making it a steal!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: There is much more to this home than meets the eye making it a steal!")](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+
+[Property](https://www.derrynow.com/section/1232/property)
+
+[PROPERTY: There is much more to this home than meets the eye making it a steal!](https://www.derrynow.com/news/property/1638847/property-there-is-much-more-to-this-home-than-meets-the-eye-making-it-a-steal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,6 +509,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 29 2024](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry's iconic Foyle Bridge celebrates 40th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's iconic Foyle Bridge celebrates 40th anniversary")](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
 
 Foyle Bridge turned 40 this October
@@ -518,7 +525,7 @@ Foyle Bridge turned 40 this October
 [Derry's iconic Foyle Bridge celebrates 40th anniversary](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Phil Coulter](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Phil Coulter")](https://www.derrynow.com/news/derry-news/1641572/the-legacy-of-phil-coulter-on-stage-at-the-alley-theatre.html)
+[![Phil Coulter](https://www.derrynow.com/resizer/165/93/true/2024_10_28/Phil_Coulter_Full_image-1730126487564.jpg--.jpg?1730126495071 "Phil Coulter")](https://www.derrynow.com/news/derry-news/1641572/the-legacy-of-phil-coulter-on-stage-at-the-alley-theatre.html)
 
 Phil Coulter
 
@@ -551,15 +558,6 @@ Cathal Mallaghan MP, Hilary Benn and Dáire Hughes MP
 
 [Mallaghan tells British Secretary of State ‘release growth deal funding now to unlock huge benefits’](https://www.derrynow.com/news/county-derry-post/1641542/mallaghan-tells-british-secretary-of-state-release-growth-deal-funding-now-to-unlock-huge-benefits.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry archaeological dig hailed a great success](https://www.derrynow.com/resizer/165/93/true/2024_10_28/PXL_20240913_075752968-1730131612254.jpg--.jpg?1730131613243 "Derry archaeological dig hailed a great success")](https://www.derrynow.com/news/local-news/1641646/derry-archaeological-dig-hailed-a-great-success.html)
-
-Nailor’s Row cobbles paths and house remains
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry archaeological dig hailed a great success](https://www.derrynow.com/news/local-news/1641646/derry-archaeological-dig-hailed-a-great-success.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
