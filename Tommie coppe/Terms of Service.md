@@ -2,8 +2,6 @@
 
 BOGO Free Sitewide! DETAILS
 
-\+ Free Gift With Purchase! DETAILS
-
 BUY 1 GET 1 FREE
 
 Close the Modal
@@ -12,7 +10,7 @@ Close the Modal
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 10/28/2024 8AM ET - 10/29/2024 6AM ET.
+Offer valid 10/29/2024 8AM ET - 11/1/2024 6AM ET.
 
 To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
@@ -26,7 +24,7 @@ Close the Modal
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 10/28/2024 8AM ET - 10/29/2024 6AM ET.
+Offer valid 10/29/2024 8AM ET - 11/1/2024 6AM ET.
 
 Free Winter Beanie automatically applied on orders $125+. Order subtotal must reach $125 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
