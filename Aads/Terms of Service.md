@@ -26,7 +26,7 @@ Learn about
     Ad technologies for your promotion](https://a-ads.com/advertise/)
     
     [Catalog of Banner Ad Units  
-    Choose from 1000s of websites](https://a-ads.com/catalog)
+    Choose from 1000s of websites](https://a-ads.com/catalog/)
     
     [Ad Formats  
     Discover available banner formats](https://a-ads.com/ad-formats/)
@@ -97,7 +97,7 @@ Learn about
     [Advertising with AADS  
     Ad technologies for your promotion](https://a-ads.com/advertise/)
 * [Catalog of Banner Ad Units  
-    Choose from 1000s of websites](https://a-ads.com/catalog)
+    Choose from 1000s of websites](https://a-ads.com/catalog/)
 * [Ad Formats  
     Discover available banner formats](https://a-ads.com/ad-formats/)
 * [Content Ad publication  
@@ -130,8 +130,16 @@ Learn about
 
 [Stats](https://a-ads.com/statistics/)
 
-Terms of Service
-================
+### Show structure
+
+[Network](#network-section) [Marketplace](#marketplace-section)
+
+### Terms of Service
+
+[Network](#network-section) [Marketplace](#marketplace-section)
+
+Terms of Service. Network
+=========================
 
 **By visiting this site, depositing funds, creating an ad unit, advertising or interacting in any way with AADS.com you accept and agree with these terms of service.**
 
@@ -211,6 +219,172 @@ Room 1404, 14/F, Blissful Building
 
 Sheung Wan, Hong Kong
 
+Terms of Service. Marketplace
+=============================
+
+These Terms of Use ("the Terms") constitute a legally binding contract between you, as a visitor or registered user ("user", "you", "your"), and Alpha Communication Services Limited, registered under the laws of Room 1404, 14/F, Blissful Building, 243-247 Des Voeux Road Central, Sheung Wan, Hong Kong ("we", "AADS", "us"), the owner of the website [https://aads.com](https://aads.com/) ("the Website").
+
+The Terms govern your rights and duties regarding the use of the Website and the services we provide through the Website, as well as the relationships between the users. The users and we are collectively referred to as the Parties and individually as a Party.
+
+By merely accessing our Website, you agree to be bound by the Terms.
+
+If you do not agree to be bound, please do not use the Website.
+
+If you want to understand how we process your personal data, please see our Privacy Policy.
+
+Services
+========
+
+General Provisions
+------------------
+
+The Website is an online marketplace providing features and functionalities that help arrange direct advertisements between users from around the world ("the Services").
+
+Direct advertisement is performed in the form of press releases, PR posts, articles, video advertising, social media advertising ("the Ad"), etc.
+
+Our Services include user registration, content publishing, deal-making and closing, communication, guarantees, user support, notifications, reviews, and other information services available on the Website.
+
+The term \\'Advertisers\\' refers to users who order the production and/or distribution of the Ads.
+
+The term \\'Publishers\\' refers to users who offer to produce and/or place the Ads on their websites or other online resources, including but not limited to blogs, Instagram accounts, Facebook accounts, Telegram channels, and YouTube channels ("the Online Resource").
+
+We reserve the right to add any new functionalities to the Services on the Website at any time. If newly developed functionalities of the Website are not specifically governed by the Terms, they are provided on an "as is" basis and are subject to the Terms to the extent reasonably practicable.
+
+Making and Closing a Deal
+=========================
+
+Publishers’ Offers
+------------------
+
+Each Publisher may submit multiple public offers to produce and place an Ad on certain Online Resources owned by that Publisher (“the Offer”).
+
+In order to make the Offer available on the Website for other users and to receive responses from Advertisers, we will examine your Online Resource for compliance with our requirements, and at our sole discretion, will decide whether to approve or reject the placement of your Offer.
+
+The Online Resource must have at least 5,000 unique visits per month, including the month preceding the one in which the Publisher submitted the Offer to the Website. We may approve your Offer at our sole discretion if the number of visits is less than 5,000 and we believe that this Online Resource will bring benefits to all Parties.
+
+We will not approve an Offer and will deactivate an already approved Offer if we consider that the content of the Online Resource violates the law, infringes on someone’s rights, or contradicts standards of morality.
+
+AADS is not responsible for the content submitted by advertisers and posted by a Publisher.
+
+The Publisher should approve or reject the Advertiser’s response to the Offer within 5 business days.
+
+At the end of the response period, if no response has been received, the transaction is closed. If the Publisher has not contacted us within 7 days, we have the right to transfer all of the Publisher’s offers to the archive.
+
+The cost of the Offer (including the AADS commission, which is 20%) must be equal to or lower than the cost of the same offer from the Publisher on any of the Publisher's open sources, including, but not limited to, the Publisher’s website and social networks, as well as on other marketplaces where the same offer is listed.
+
+Upon the Negotiation, we ensure the debiting funds on the Advertiser’s Balance for payment security purpose (as prepayment and/or for the secure payment for the services). Be sure that your Balance is enough for the deal or deposit funds for the cost of the order. In the event of total or partial non-fulfillment of the order, the funds will be returned in whole or in part in accordance with the rules described in the Publisher Revenue Payment.
+
+Ad Provision
+------------
+
+Upon negotiation, the Publisher must place the Ad according to the terms of the Offer and the Advertiser’s requirements. In case of uncertainty, the Publisher should clarify the issues with the AADS support team and should not act at their sole discretion if the uncertainty relates to the rights and interests of the Advertiser.
+
+The Advertiser is responsible for providing the publication date and materials for publication through the User support service within five days after responding to the Publisher's offer. If the materials and the date are not provided within five days, the order will be moved to Rejected status.
+
+The Publisher is required to approve or provide corrections to the publication date and materials within two days after they are submitted through the User support service. If the Publisher does not respond within five days, the order will be moved to Rejected status.
+
+After the materials are approved, funds equal to the cost of the order will be debited from the Advertiser's balance. If there are insufficient funds, the Advertiser must replenish the balance by the required amount within three days. If the balance is not replenished within this period, the order will be moved to Rejected status.
+
+After the funds are debited from the Advertiser's balance, the Publisher must place the publication on the agreed date, provide a link to the publication, and not delete it within the period stipulated by the terms of the order.
+
+An order is considered published only after the Publisher provides a link to the published material. The Publisher must provide a link to the publication immediately after fulfilling the order and not remove it until the order is completed. Failure to do so may result in the Publisher not receiving full or partial remuneration.
+
+In the event that the order duration is indicated as Lifetime, AADS is not responsible for the removal or alteration of the material one month after its publication.
+
+Publisher Revenue Payment
+-------------------------
+
+Payment to the Publisher for a completed order is made in full one day after the link to the published order is provided if the order duration was set to 24 hours. If the order was published but deleted before the completion date, the funds are not debited from the Advertiser's balance, and the Publisher is not paid for the order.
+
+If the order duration is set to one week, the cost is divided into two parts. The first part is paid proportionally on a daily basis during the week. The remaining 50% is transferred a week after the order is fully completed. If the order was published but deleted before the completion date, the funds already paid are not returned to the Advertiser, and the Publisher does not receive the remaining balance.
+
+If the order duration is set to one month, the cost is divided into two parts. The first part is paid pro-rata daily throughout the month. The remaining 50% is transferred a month after the order is fully completed. If the order was published but deleted before the completion date, the funds already paid are not returned to the Advertiser, and the Publisher does not receive the remaining balance.
+
+If the order duration is set to Lifetime, Publisher payouts occur in the same manner as with a 1-month order duration and are paid in full one month after the order is completed.
+
+User Support and Arbitration
+----------------------------
+
+Users are provided with support for any issues that may arise from using the Website or the Services ("User Support"). You may contact us through the contact page, email at [\[email protected\]](https://a-ads.com/cdn-cgi/l/email-protection), or live chat, which is available 24/7. All approvals of materials and communication between the Publisher and the Advertiser take place through AADS User Support.
+
+Our Fee
+-------
+
+We do not charge fees for withdrawing funds from our users' wallets. We charge a 20% commission on the order value, so the Publisher receives 80% of the offer price set by them. We reserve the right to change the fee rate at any time.
+
+Users
+=====
+
+Account and Registration
+------------------------
+
+If you want to use the full range of Services, including creating Offers or Orders, you need to create an account by completing our registration form, where you must provide the required personal information.
+
+Both individuals and legal entities may register an account on the Website.
+
+We may remove your account if requested through User Support. After the removal of your account upon your request, you may still register another account on the Website.
+
+You can use your account both as a Publisher and as an Advertiser.
+
+Rules of Conduct, Representations, and Warranties
+-------------------------------------------------
+
+You are solely responsible for complying with all laws and regulatory requirements that apply to you, including obligations to pay taxes, fees, and other mandatory payments related to your business activity.
+
+You are solely responsible for your actions and omissions. We are not responsible for your actions while using the Website. When submitting your Offer or responding to an Advertiser’s Offer, you express your intention to be bound by the terms in the case of Acceptance.
+
+We cannot guarantee the authenticity of each user or validate that a user is who they claim to be. You agree and understand that you assume all risks when using the Services, including, without limitation, any and all risks associated with online or offline interactions with other users.
+
+Users are provided with notifications regarding any action taken by us or other users that may affect their rights or duties under the Terms. Turning off notifications in your account settings does not exempt you from your rights, duties, and liabilities.
+
+Confidentiality
+---------------
+
+You are prohibited from disclosing or using any personal data or trade secrets (“Confidential Information”) of other users or their family members, acquired by you in connection with using the Website or receiving the Services, to any third party for any purposes except for performing the obligations or exercising the rights under the Terms.
+
+The confidentiality obligation is not applicable if:
+
+* The user has given prior written consent to use the Confidential Information;
+* The user has publicly disclosed the Confidential Information;
+* The Confidential Information must be disclosed in accordance with the law or by the decision of a competent authority.
+
+The duty to maintain confidentiality shall survive the termination of this agreement.
+
+The confidentiality regime as it relates to personal data is described in the Privacy Policy.
+
+Disclaimers
+-----------
+
+You acknowledge that the Website and Services are provided on an "as is" basis. AADS expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. AADS makes no warranty that the Website will be uninterrupted, timely, secure, or error-free. The use of the Website and the Services is at your sole risk and discretion.
+
+We are not liable for any harm incurred by any user in relation to the provision of Ads.
+
+Except as otherwise required by law, in no event shall AADS, our directors, members, employees, or agents be liable for any special, indirect, or consequential damages, or any other damages of any kind, including but not limited to loss of use, loss of profits, or loss of data, whether in an action in contract, tort (including but not limited to negligence), or otherwise, arising out of or in any way connected with the use of or inability to use our Website or the AADS materials. This includes, without limitation, any damages caused by or resulting from reliance by any user on any information obtained from AADS, or that result from mistakes, omissions, interruptions, deletion of files or emails, errors, defects, viruses, delays in operation or transmission, or any failure of performance, whether or not resulting from a force majeure event, communications failure, theft, destruction, or unauthorized access to AADS records or the Website.
+
+If applicable law does not allow all or any part of the above limitation of liability to apply to you, the limitations will apply to you only to the extent permitted by applicable law. You understand and agree that it is your obligation to ensure compliance with any legislation relevant to your country of domicile concerning the use of the Website, and that you should not hold AADS liable for any illegal or unauthorized use of the Website. You agree to be solely responsible for any applicable taxes imposed due to the use of the application under your tax residency regulations.
+
+No joint venture, partnership, employment, or agency relationship exists between you and us as a result of using our Services. We do not have any control over any user.
+
+The Website contains links to third-party websites. We are not responsible for the content of any linked websites. Any third-party website accessed from the Website is independent of AADS, and we have no control over the content of that website unless we state otherwise. Additionally, a link to any third-party website does not imply that AADS endorses or accepts any responsibility for the content or use of such website.
+
+Refunds
+-------
+
+Any refunds are at the sole discretion of AADS. Idle accounts, including the remaining balances, shall be automatically deleted after 6 months of inactivity. By using AADS, you agree to waive any rights to claim these funds.
+
+Changes
+-------
+
+These Terms of Service and all statements on the site may be modified at any time without prior notice. It is the sole responsibility of the user to stay informed of the Terms of Service at all times.
+
+Alpha Communication Services Limited
+
+Room 1404, 14/F, Blissful Building
+
+243-247 Des Voeux Road Central
+
+Sheung Wan, Hong Kong
+
 AADS Crypto Ad Network has been working with crypto and non-crypto websites since 2011, providing banner ad solutions. As a trusted Bitcoin advertising network, we prioritize delivering high quality crypto ads to increase the impact of your campaign. If you're looking to buy crypto traffic or attract visitors interested in cryptocurrencies, our service is ideal for you. Join our crypto advertising platform and discover the exceptional service we offer!
 
 Advertising
@@ -251,7 +425,7 @@ We accept Bank Card
 
 ![](/assets/payment-crypto-2-dbc5b8a5f29e9012fb22b77b0f18b18201bfa5bcca90c9ead0ac8e44e03d6d26.png) ![](/assets/payment-crypto-1-9d2b46437979b59f814a11b7ddab63e0528f8f72258ceb4755227e569818c4c4.png) ![](/assets/payment-crypto-ff9605bffb72da2917df3b9fdcefc7b59a01ec1ee9c02a19dcfaaa72d8e34ef7.png)
 
-+16 more BNB, BTC, BCH, BUSD, DASH, DOGE, ETC, LTC, Polygon, SOL, SOLUSDT, TRX, USDC, USDT, USDT.TRC20, WAVES, WBNB, XEM, XRP, ZEC
++16 more BTC, BCH, DASH, DOGE, ETC, LTC, SOL, USDT.SOL, TRX, USDC, USDT, USDT.TRC20, WBNB.BEP20, XEM, XRP, ZEC
 
 ![](/assets/lightning-6bca492e548a884a214cfaa7b65fe2efa89a5f3201d6dd4fa6a2113b28ce31c3.png)
 
