@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b2f5bb3970606a28d98a00ba1a42e944
+9215312e3d57777c6628db02c497b34d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Frosted crystal colored lozenges](https://www.sojourner.biz/images/cache/glass/GL0131.200.jpg)](https://www.sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
+[![20 mm by 18 vintage Czech glass four-sided oval beads](https://www.sojourner.biz/images/cache/glass/GL0165.200.jpg)](https://www.sojourner.biz/beads/glass/20-mm-by-18-vintage-czech-glass-four-sided-oval-beads.html "20 mm by 18 vintage Czech glass four-sided oval beads")
 
-#### [Frosted crystal colored lozenges](https://www.sojourner.biz/beads/glass/frosted-crystal-colored-lozenges.html "Frosted crystal colored lozenges")
+#### [20 mm by 18 vintage Czech glass four-sided oval beads](https://www.sojourner.biz/beads/glass/20-mm-by-18-vintage-czech-glass-four-sided-oval-beads.html "20 mm by 18 vintage Czech glass four-sided oval beads")
 
-$15.00
+$10.00
 
 ### Best Sellers
 
