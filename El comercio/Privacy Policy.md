@@ -31,6 +31,792 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+En el feriado de Difuntos habrá operativos con 52 786 policías
+==============================================================
+
+El feriado de Difuntos tendrá un despliegue policial en vías, cementerios, eventos, etc.
+----------------------------------------------------------------------------------------
+
+![Policías en Salitre, durante la entrega de vehículos para la institución.](https://www.elcomercio.com/wp-content/uploads/2024/10/policias-feriado.jpg)
+
+La **Policía Nacional** desplegará efectivos en Ecuador por los cinco días del feriado de Difuntos e **Independencia de Cuenca**.
+
+Las autoridades de la institución dieron detalles sobre las acciones para la **seguridad** de la comunidad y los **turistas**.
+
+### Más noticias
+
+* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
+* [Horarios del transporte público y revisión vehicular en Quito por el feriado](https://www.elcomercio.com/actualidad/quito/feriado-quito-metro-trole-ecovia-revision-vehicular.html "Horarios del transporte público y revisión vehicular en Quito por el feriado")
+* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
+
+Operativos de seguridad en el feriado de Difuntos
+-------------------------------------------------
+
+El dispositivo de seguridad empezó a las 12:00 de este miércoles, 30 de octubre, y se extenderá hasta las 06:00 del martes, 5 de noviembre de 2024.
+
+El general de Distrito, Freddy Goyes, detalló que **52 786 servidores policiales** estarán desplegados en Ecuador, sobre todo, en ciudades con mayor afluencia.
+
+En el equipo policial estarán **7659 efectivos** del área investigativa, 1964 de inteligencia y 43 163 de la sección preventiva, así como 32 170 de seguridad ciudadana, entre otros.
+
+Playas, iglesias, cementerios y ejes viales son puntos que tendrán refuerzos durante el feriado. A la presencia policial se suma equipos, como motocicletas, aeronaves y ambulancias.
+
+Puntos de cuidado
+-----------------
+
+Guayaquil, Quito, Cuenca y Machala están entre los sitios con mayor número de eventos, como ferias y conciertos.
+
+En esos y otros lugares habrá operativos focalizados y antidelincuenciales. La Policía también brindará el servicio de traslado de valores y el cuidado de domicilio, a través del denominado botón de seguridad.
+
+El general **Henry Tapia**, comandante del Distrito Metropolitano de Quito, señaló que los operativos están coordinados con el Ecu 911, Secretaría de Gestión de Riesgos, Agencia Metropolitana de Tránsito, Agencia Nacional de Tránsito, entre otras instancias.
+
+En el caso de Quito, los policías estarán con énfasis en ejes viales, centros comerciales, cementerios e iglesias. En estos espacios se desplegarán 800 servidores.
+
+Cuenca apunta superar el 90% de ocupación hotelera en feriado de Difuntos e Independencia
+=========================================================================================
+
+El feriado de Difuntos e Independencia de Cuenca se prevé como impulso al turismo.
+----------------------------------------------------------------------------------
+
+![Cuenca tiene sitios turísticos, como edificaciones históricas.](https://www.elcomercio.com/wp-content/uploads/2024/10/cuenca-2.jpg)
+
+**Cuenca** tiene doble motivación para visitar en los cinco días de descanso, del 31 de octubre al 4 de noviembre de 2024. Se trata del feriado de difuntos y por la Independencia de la ciudad[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador))
+
+Hay eventos y la ocupación hotelera ya empieza a despuntar, a puertas del período de asueto. Este incluye un día adicional definido por el **Gobierno**.
+
+### Más noticias
+
+* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
+* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
+* [Cuenca tiene dos momentos para proyectar su economía y cultura](https://www.elcomercio.com/opinion/editorial/cuenca-tiene-momentos-proyectar-economia-cultura.html "Cuenca tiene dos momentos para proyectar su economía y cultura")
+
+Cuenca y el turismo por el feriado de Difuntos
+----------------------------------------------
+
+Los cortes de luz se suspendieron en sectores turísticos, como el **Centro Histórico**. A la par, en los lugares en donde se organizan 57 eventos especiales por las festividades de Difuntos e **Independencia de Cuenca**.
+
+Los **cortes de luz** se mantendrán en el resto de la ciudad, de acuerdo con el cronograma establecido por **Centrosur**.
+
+Los **apagones** serán de seis y 14 horas en los días del feriado, en dos y tres franjas horarias.
+
+> ¡Listos para brindarte seguridad en este feriado, donde [#CuencaLoTieneTodo](https://twitter.com/hashtag/CuencaLoTieneTodo?src=hash&ref_src=twsrc%5Etfw)! ❤️💛  
+>   
+> Te presentamos el Plan de Contingencia que se ejecutará durante el feriado por los 204 años de Independencia de Cuenca.  
+>   
+> Disfrutamos de Cuenca siendo [#LaCiudadMásSeguraDelPaís](https://twitter.com/hashtag/LaCiudadM%C3%A1sSeguraDelPa%C3%ADs?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/NaQgM3Hcki](https://t.co/NaQgM3Hcki)
+> 
+> — Municipio Cuenca (@MunicipioCuenca) [October 29, 2024](https://twitter.com/MunicipioCuenca/status/1851350970170474981?ref_src=twsrc%5Etfw)
+
+Las acciones para impulsar el turismo
+-------------------------------------
+
+**Juan Pablo Vanegas**, presidente de la **Cámara de Turismo del Azuay**, informó que para el viernes y sábado, el sector hotelero ya completó el 65% de reservas confirmadas.
+
+**Cuenca** cuenta con 360 hoteles, que incluyen **10 000 plazas**. Según el directivo, el sector le apunta a, incluso, superar el 90% de la ocupación en los establecimientos.
+
+El gremio del turismo trabaja de la mano con la **Policía** para generar protocolos de seguridad y reactivar las visitas. Esto no únicamente por el feriado de difuntos y la Independencia de **Cuenca**.
+
+No obstante, para los días de descanso hay un plan de contingencia, que incluye **253 guardias ciudadanos**, equipados con equipos tecnológicos.
+
+Las fiestas de Independencia de Cuenca
+--------------------------------------
+
+La [agenda](https://www.cuenca.gob.ec/sites/default/files/archivos/agenda_noviembre_2024.pdf?fbclid=IwY2xjawGDkDBleHRuA2FlbQIxMAABHVBqw4VuK-3dknwA6gXFTd-gA2CojZXt8qw4Rdb0TDjw2rD0m_v2U6KtSg_aem_Ncjx5sc2TBXaH884oprdNA) de festividades por la Independencia de **Cuenta** incluye actividades artísticas y culturales. Esta empezó el 22 de octubre y se extenderá más allá del feriado, hasta el 5 de diciembre.
+
+Hasta el 10 de noviembre, los visitantes y moradores de la capital azuaya podrán recorrer la ruta de la **colada morada**. Esta es por los mercados de la ciudad: 27 de Febrero, 12 de Abril, 10 de Agosto, 9 de Octubre, 3 de Noviembre, 4 de Noviembre y El Arenal.
+
+ANT anunció cómo atenderá el jueves 31 de octubre
+=================================================
+
+Agencia Nacional de Tránsito (ANT) detalló cómo serán los horarios de atención al público durante el feriado extraordinario.
+----------------------------------------------------------------------------------------------------------------------------
+
+![La ANT se encarga de regular el transporte terrestre, tránsito y seguridad vial en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/atencion-feriado-ant.jpg)
+
+La Agencia Nacional de Tránsito (**ANT**) informó cómo atenderá este jueves 31 de octubre de 2024, día en el que se celebrará un **feriado** extraordinario a nivel nacional.
+
+### Más noticias
+
+* [¿Desde cuándo comienza el feriado en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/desde-cuando-comienza-el-feriado-ecuador.html "¿Desde cuándo comienza el feriado en Ecuador?")
+* [Así será la atención en los bancos durante el feriado de cinco días](https://www.elcomercio.com/actualidad/negocios/asi-sera-atencion-bancos-feriado-cinco-dias.html "Así será la atención en los bancos durante el feriado de cinco días")
+* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
+
+El asueto extraordinario fue decretado por el presidente Daniel Noboa con **carácter** obligatorio tanto para los **trabajadores** públicos como privados.
+
+El objetivo de este descanso es “fortalecer la actividad **económica** y beneficiar al sector **turístico**“, señaló Presidencia[.](https://www.ant.gob.ec/ "https://www.ant.gob.ec/")
+
+Así, el 31 de octubre se suma a los feriados de **Difuntos e independencia de Cuenca**, que se festejan entre el viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre.
+
+El **feriado extraordinario** será recuperable, mientras que los otros dos no lo serán.
+
+Atención en agencias de la ANT
+------------------------------
+
+La ANT Informamos a la ciudadanía que, este jueves 31 de octubre, atenderá con **normalidad** en todas las **agencias a nivel nacional**.
+
+Sin embargo, la entidad detalló que debido a los **cortes de luz**, cada agencia tendrá horarios distintos. Por ello, recomendó “revisar la programación de apagones para evitar movilizaciones y esperas innecesarias”.
+
+La atención se realizará para los ciudadanos que previamente **agendaron sus turnos**, y para aquellos que no fueron recibidos por apagones programados.
+
+Los turnos deben ser **impresos** y no se requiere agendar una **segunda vez** las citas, aclaró la ANT.
+
+Pico y placa durante el feriado
+-------------------------------
+
+Durante los cinco días de feriado, entre el jueves 31 de octubre al lunes 4 de noviembre, la medida del **Pico y placa** no aplicará en el Distrito Metropolitano de Quito.
+
+Esta medida de restricción vehicular se implementa los cinco días a la semana, de **lunes a viernes**, de **06:00 a 09:30** y de **16:00 a 20:00**.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+> 📄 COMUNICADO | Informamos a la ciudadanía que, este jueves 31 de octubre atenderemos con normalidad en todas nuestras agencias a nivel nacional.[#LaNuevaANTEnAcción](https://twitter.com/hashtag/LaNuevaANTEnAcci%C3%B3n?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/XiJSKVuBZb](https://t.co/XiJSKVuBZb)
+> 
+> — ANT Ecuador (@ANT\_ECUADOR) [October 30, 2024](https://twitter.com/ANT_ECUADOR/status/1851620289148301501?ref_src=twsrc%5Etfw)
+
+España decreta tres días de luto oficial por la DANA en Valencia que deja 70 fallecidos
+=======================================================================================
+
+Ministro de Política Territorial advierte a los ciudadanos que residen zonas hacia donde avanza el temporal a no salir de sus casas.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Vehículos amontonados en una calle tras las intensas lluvias de la fuerte dana que afecta especialmente el sur y el este de la península ibérica, este miércoles en Sedaví (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-espana-efe-autos.jpg)
+
+El Gobierno español, que elevó a **70 la cifra de** fallecidos por la Depresión Aislada en Niveles Altos [(DANA)](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html") decidió decretar **tres días de luto oficial** por la tragedia provocada por este fenómeno meteorológico. Además, el Consejo de Ministros aprobará la declaración de zona catastrófica para las áreas afectadas.
+
+### Más noticias
+
+* [¿Qué significa DANA el fenómeno que impactó a Valencia?](https://www.elcomercio.com/actualidad/mundo/significa-dana-fenomeno-impacto-valencia.html "¿Qué significa DANA el fenómeno que impactó a Valencia?")
+* [Ya son 62 los fallecidos por las inundaciones en Valencia, España](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "Ya son 62 los fallecidos por las inundaciones en Valencia, España")
+* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones")
+
+Así lo anunció el **ministro de Política Territorial, Angel Víctor Torres,** a la vez que adelantó que el presidente del Gobierno, **Pedro Sánchez,** visitará mañana Valencia (este).
+
+ Torres instó a los ciudadanos que residen en las zonas hacia donde avanza el temporal a **no salir de sus casas** y **no utilizar las carreteras**, muchas de las cuales están cortadas y anegadas, según un primer balance que hizo el **comité de crisis** activado en Moncloa (Presidencia) y del cual dio cuenta el ministro en una rueda de prensa este miércoles.
+
+El jefe del Ejecutivo presidió la **segunda reunión del comité de crisis** para el seguimiento de los efectos de la dana y el titular de Política Territorial. Afirmó además que el Ejecutivo no puede dar datos de **personas desaparecidas**, eludió en todo momento **responder a las críticas vertidas** por la oposición, si bien ha avisado que habrá tiempo para ello.
+
+Torres informó de que Sánchez habló este mediodía con el rey para decretar luto en todo el país mañana y los días 1 y 2 de noviembre, algo que también habló con los **presidentes regionales valenciano,** Carlos Mazón, y castellanomanchego, Emiliano García Page.
+
+Europa se solidariza con España
+-------------------------------
+
+“**Europa está lista para ayudar**“, dijo este miércoles, 30 de octubre de 2024, la presidenta de la Comisión Europea, **Ursula von der Leyen**, quien ofreció a España activar el **mecanismo de protección civil** de la UE, bajo el que se ampara la ayuda que pueden proporcionar otros países de la UE.
+
+“Lo que **estamos viendo es devastador.** Localidades enteras están cubiertas de barro, la gente está buscando refugio en árboles y coches han sido barridos por la furia de las aguas”, recordó Von der Leyen.
+
+El presidente del Consejo Europeo, Charles Michel, aseguró que la Unión Europea “está lista para brindar su apoyo” a España y la **presidenta del Parlamento Europeo, Roberta Metsola,** también dijo que “Europa está dispuesta a ayudar” ante las “catastróficas” consecuencias de las inundaciones en el sur y este del país.
+
+Apoyo de Alemania
+-----------------
+
+El canciller alemán, Olaf Scholz, dijo a través de la **redes sociales que su gobierno estaba “en diálogo** con el gobierno español sobre posibles ayudas”, lo que fue corroborado por su ministra de Asuntos Exteriores, Annalena Baerbock.
+
+“Los arroyos se convierten en torrentes, la **gente pierde su casa,** algunos incluso la vida. Nuestros pensamientos están con nuestros amigos españoles afectados por las devastadoras inundaciones, Europa se mantiene unida. **Alemania está dispuesta a ayudar en lo que sea necesario**“, dijo la ministra.
+
+El primer ministro de Portugal, el conservador Luís Montenegro, expresó su solidaridad con España y ofreció “toda la ayuda necesaria”.
+
+Apoyo del Gobierno de Portugal
+------------------------------
+
+“El Gobierno portugués expresa el **mayor pesar por el elevado número de víctimas** de las inundaciones registrado en España, muestra solidaridad a todo el pueblo español y al Gobierno y está dispuesto para toda la ayuda necesaria”, escribió el jefe del Ejecutivo en su perfil en la red social X.
+
+Apoyo de Italia
+---------------
+
+El **ministro italiano de Asuntos Exteriores, Antonio Tajani,** reveló que, hasta el momento, no tienen noticias de que haya italianos entre los fallecidos, en una zona con gran número de ciudadanos de ese país, unos 12 000, solo superados por los colombianos.
+
+“Quiero expresar **mi solidaridad con las familias de las víctimas** afectadas por las inundaciones en España. Rezo por la salud de los desaparecidos”, escribió Antonio Tajani, ministro de Exteriores y vicepresidente del Gobierno italiano, en su cuenta de la red social X.
+
+El presidente colombiano, Gustavo Petro, donde estos días se reúne la Conferencia las Naciones Unidas sobre Biodiversidad (COP16), achacó en la madrugada del martes al “colapso climático” las inundaciones en Valencia.
+
+“El colapso climático en España. Esto pasa **por no detener la economía fósil**. Sabemos que el consumo de petróleo, carbón y gas pueden exterminar la vida en el corto plazo, pero no le importa a los poderes del mundo, hasta que la humanidad reaccione”, expresó el mandatario en un mensaje publicado en la red social X.
+
+La **Embajada de Israel en España** también expresó su solidaridad: “Desde la Embajada de Israel en España, queremos expresar **nuestra más profunda solidaridad** con las personas en Valencia y con todos los españoles ante la devastadora dana que ha afectado a la Comunidad Valenciana, dejando víctimas y grandes daños materiales”.
+
+¿Desde cuándo comienza el feriado en Ecuador?
+=============================================
+
+Ecuador está próximo a disfrutar un feriado extenso nacional por Difuntos e independencia de Cuenca.
+----------------------------------------------------------------------------------------------------
+
+![Los ecuatorianos tendrán cinco días para descansar y viajar](https://www.elcomercio.com/wp-content/uploads/2024/10/feriado-extendo-noviembre.jpg)
+
+Ecuador está próximo a tener **cinco días de descanso obligatorio**. A los asuetos por **Difuntos** e independencia de **Cuenca** se le suma un feriado extraordinario decretado por el Gobierno.
+
+### Más noticias
+
+* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
+* [Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado](https://www.elcomercio.com/actualidad/cuenca/cuenca-cortes-luz-sectores-feriado.html "Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado")
+* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
+
+De acuerdo con el **calendario** del Ministerio de Turismo, el país tiene **10 feriados** cada año, de estos, se han cumplido siete.
+
+Feriados de Difuntos e independencia de Cuenca
+----------------------------------------------
+
+El Feriado de Difuntos se celebra el **2 de noviembre**, pero al caer en sábado este 2024, la fecha de descanso pasará al viernes 1[.](https://www.turismo.gob.ec/ "https://www.turismo.gob.ec/")
+
+En esta festividad se fusionan tradiciones indígenas y católicas. Este feriado nacional permite a las familias rendir **homenaje** a sus seres queridos fallecidos a través de diversas actividades y rituales.
+
+Una de las tradiciones propias de Difuntos es preparar y consumir en familia la **colada morada**. Esta bebida es espesa, hecha con maíz negro, frutas como mora y mortiño, y especies; se la acompaña con **guaguas de pan**, una masa en forma de muñecos rellenos.
+
+Mientras que la independencia de Cuenca se conmemora cada **3 de noviembre**. Al coincidir este año en domingo, el descanso se lo trasladó al **lunes 4**.
+
+Esta fecha celebra el inicio de la emancipación de la **capital de Azuay** en 1820. El proceso fue inspirado por la independencia de **Guayaquil**, el 9 de octubre del mismo año.
+
+Cuenca festeja su independencia con **desfiles cívicos y militares**, sesiones solemnes y actividades culturales.
+
+Feriado extraordinario del jueves 31 de octubre
+-----------------------------------------------
+
+La medida del feriado extraordinario fue decretada por el presidente Daniel Noboa con **carácter** obligatorio tanto para los **trabajadores** públicos como privados.
+
+El objetivo de este descanso es “fortalecer la actividad **económica** y beneficiar al sector **turístico**“, señaló Presidencia.
+
+Este asueto excepcional que se añade a Difuntos e independencia de Cuenca deberá **devolverse** en los próximos días.
+
+> Cada feriado es una oportunidad única para descubrir nuevos destinos. Estamos a pocos días de otro feriado, el más largo del año, y queremos invitarte a explorar lo mejor de nuestro país. ¡La Costa, Andes, Amazonía y las Galápagos te esperan!  
+>   
+> Recuerda que si bien los días de… [pic.twitter.com/b35bCJiQ4w](https://t.co/b35bCJiQ4w)
+> 
+> — Mateo Estrella (@mateoestrella) [October 29, 2024](https://twitter.com/mateoestrella/status/1851274159260651818?ref_src=twsrc%5Etfw)
+
+¿Desde cuándo comienza el feriado?
+----------------------------------
+
+En conclusión, los ecuatorianos gozarán de cinco días de **descanso obligatorio**.
+
+Comenzando el **jueves 31 de octubre** y extendiéndose al viernes 1, sábado 2, domingo 3 y lunes 4 de noviembre.
+
+Luego de este extenso feriado, el único **asueto** que resta en el año es el de **Navidad**, el 25 de diciembre.
+
+Estacionamientos del Centro Histórico de Quito amplían horarios por feriado de noviembre
+========================================================================================
+
+Quienes permanezcan en Quito durante el feriado y vayan al Centro Histórico, tendrán una buena oferta para estacionar sus autos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El estacionamiento Cadisan permanecerá abierto las 24 horas durante el feriado de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/cadisan.jpg)
+
+Para el feriado por el **Día de Todos los Fieles Difuntos** y por la **Independencia de Cuenca**, los **estacionamientos** del **Centro Histórico** han decidido **ampliar su horario de atención.** De esta manera, buscan que los quiteños puedan llegar en sus vehículos y participar de las diversas actividades que se ofrecerán en este sitio emblemático de **Quito**.
+
+### Más noticias
+
+* [¿Habrá Pico y placa en Quito el jueves 31 de octubre?](https://www.elcomercio.com/actualidad/quito/habra-pico-y-placa-en-quito-jueves-31-de-octubre.html "¿Habrá Pico y placa en Quito el jueves 31 de octubre?")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
+
+Los estacionamientos que amplían sus horarios
+---------------------------------------------
+
+Un total de **1 924 plazas** estarán habilitadas en el **Centro Histórico de Quito**. La ampliación de los horarios se llevarán a cabo entre el **miércoles 30 de marzo y el domingo 3 de noviembre del 2024**. Cuatro estacionamientos extenderán la atención, mientras dos mantendrán la habitual. Así lo informó la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (Epmmop).
+
+Los estacionamientos que amplían horarios
+-----------------------------------------
+
+El estacionamiento de **La Ronda** estará abierto durante las 24 horas del día desde hoy miércoles 30 de octubre hasta el domingo 3 de noviembre. La Ronda es uno de los sitios emblemáticos de Quito, sobre todo si se busca una **oferta gastronómica**.
+
+El estacionamiento de **San Blas**, en la esquina de las calles **Guayaquil y Caldas**, en cambio, comenzará a atender las 24 horas desde el jueves 31 de octubre hasta el sábado 2 de noviembre. Esta apertura permitirá que se asista al **festival Más allá de la Vida**, en las cercanías de la **Plaza Belmonte**.
+
+En cambio, el **Cadisan**, en la calle **Mejía** tendrá un servicio de **24 horas** durante todo el feriado. Este es, quizá, el más conocido de todos por su cercanía a la **Plaza Grande**[.](https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito")[](https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito")
+
+Estacionamientos con los horarios de siempre
+--------------------------------------------
+
+Los estacionamientos **Montúfar 1** (Bustamante y Olmedo) y **Montúfar 2** (Pichincha y Olmedo) mantendrán la atención de siempre, de **06:00 a 22:00.**
+
+**El Tejar** (Hermano Miguel y José López) atenderá desde las 06:00 hasta las 21:30. El **Yaku** (El Placer), de 09:00 a 17:00.
+
+Las tarifas de los estacionamientos
+-----------------------------------
+
+Entre las 06:00 y las 17:59, el precio del estacionamiento será de **0,75 centavos** la hora y fracción. A partir de las 18:00 hasta las 05:59, será de **0,90 centavos.**
+
+Así será la atención en los bancos durante el feriado de cinco días
+===================================================================
+
+Los bancos privados aseguran la continuidad de sus servicios durante el feriado, con atención en canales digitales y oficinas de horario diferido.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La Asobanca recomienda a la ciudadanía elegir los canales digitales porque son más cómodos, seguros y rápidos para realizar transacciones bancarias.](https://www.elcomercio.com/wp-content/uploads/2024/10/bancos.jpg)
+
+Este jueves 31 de octubre de 2024 empezará el feriado más largo del año de Ecuador. Los días de descanso en conmemoración del **Día de los Difuntos** y la **Independencia de Cuenca** se unieron al feriado dispuesto por el presidente **Daniel Noboa**. El Primer Mandatario emitió el Decreto Ejecutivo 438, que dispone el feriado obligatorio que forman un puente de cinco días de asueto, desde el 31 de octubre al 4 de noviembre[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Quito envía un mensaje a sus vecinos para el feriado](https://www.elcomercio.com/opinion/editorial/quito-envia-mensaje-sus-hijos-feriado-turismo.html "Quito envía un mensaje a sus vecinos para el feriado")
+* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
+* [En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios](https://www.elcomercio.com/actualidad/negocios/en-el-feriado-el-8-de-iva-se-cobrara-en-estos-negocios.html "En el feriado de noviembre de 2024, el 8% de IVA se cobrará en estos negocios")
+
+Durante estos días, los bancos privados prestarán los servicios financieros con normalidad el jueves 31 de octubre. El resto del feriado, la atención será por medio de canales digitales, y de manera presencial solo en oficinas con horario diferido, señaló la Asociación de Bancos Privados del Ecuador (Asobanca).
+
+Estos servicios se ofrecen de **forma continua,** considerando la situación de emergencia en el suministro de energía eléctrica en el país, agregó.
+
+En todo caso, Asobanca recomienda a los clientes del sistema bancario consultar, a través de los canales oficiales de cada entidad, cuáles son las oficinas con horario diferido. Por lo general, estas agencias bancarias están disponibles en **centros comerciales.**
+
+Los puntos de atención de los bancos de Ecuador
+-----------------------------------------------
+
+Además, los bancos privados tienen otros puntos de **servicio habilitados** durante los feriados:
+
+* **Cajeros automáticos**. Aquí los usuarios pueden realizar transacciones bancarias como retiros y depósitos.
+* **Corresponsales no bancarios.** Estos están disponibles en todos los cantones del país. Estos canales ofrecen servicios como transferencias, retiros y pagos y se encuentran ubicados en tiendas, bazares, farmacias, supermercados y otros pequeños comercios.
+* **Banca digital.** Esta permite realizar transacciones a través de dispositivos electrónicos, como celulares, tablets y computadoras.
+
+Asobanca recomienda a la ciudadanía elegir los **canales digitales** porque son más cómodos, seguros y rápidos para realizar transacciones bancarias.
+
+¿Qué significa Halloween?
+=========================
+
+Esta festividad se originó en Irlanda hace más de 3 000 años.
+-------------------------------------------------------------
+
+![Halloween se realiza cada 31 de octubre. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-30T113108.559.jpg)
+
+**Halloween** -también conocido como la **Noche de Brujas**– es una celebración que se realiza el 31 de octubre y tiene sus raíces en tradiciones celtas antiguas.
+
+### **Más noticias:**
+
+* [Murió el gato que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html "https://www.elcomercio.com/narices-frias/gato-muere-migajas-obeso-rusia.html")
+* [La historia del gato ruso que engordó hasta casi estallar](https://www.elcomercio.com/narices-frias/gato-ruso-rescate-voluntario-obeso.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/gato-ruso-rescate-voluntario-obeso.html?source=Internal&ref=Single+Content+Link")
+* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html?source=Internal&ref=Single+Content+Link")
+
+Esta festividad se originó en **Irlanda** hace más de 3 000 años, coincidiendo con el final de la temporada de cosechas y el inicio del invierno, un periodo que los celtas consideraban propicio para la comunicación con los espíritus.
+
+Durante la noche de **Halloween**, se creía que la línea entre el mundo de los vivos y el de los muertos se estrechaba, permitiendo que tanto espíritus benevolentes como malignos vagaran entre los humanos.
+
+Para protegerse de estos últimos, las personas encendían hogueras y usaban disfraces o máscaras, con la esperanza de no ser reconocidos por los espíritus malignos.
+
+Además, se realizaban banquetes en honor a los ancestros, una tradición que buscaba honrar a los muertos y facilitar su tránsito.
+
+**¿Qué significa Halloween?**
+-----------------------------
+
+La palabra ‘**Halloween**‘ proviene de la contracción de “**All Hallows’ Eve”**, que significa “Víspera de Todos los Santos”, según una publicación del diario español AS.
+
+Con el tiempo, **Halloween** evolucionó y se mezcló con **celebraciones cristianas**. En el siglo IV, la Iglesia Católica estableció el Día de Todos los Santos el 1 de noviembre.
+
+Eso llevó a la transformación de **Halloween** en una festividad más lúdica y menos enfocada en lo espiritual. Esto se resalta en un artículo publicado en [National Geographic.](https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740 "https://historia.nationalgeographic.com.es/a/halloween-origen-celta-fiesta-universal_7740")
+
+Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes
+===================================================================
+
+La relación entre Damián Díaz y el ídolo canario se deteriora cada vez más, y ahora se suma una demanda del jugador.
+--------------------------------------------------------------------------------------------------------------------
+
+![Damián Díaz demandó a Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-47.jpg)
+
+El entorno de **Barcelona Sporting Club** amaneció con una sorpresa negativa este miércoles 30 de octubre. **Damián Díaz**, uno de los últimos ídolos del club, demandó a los canarios por deudas pendientes tras su salida hace pocos meses.
+
+La reclamación se realizó a través de la **Federación Ecuatoriana de Fútbol** (FEF), solicitando que el club le haga efectivo el pago correspondiente a dos meses de su finiquito, que asciende a poco más de **47 000 dólares.**
+
+### Más noticias:
+
+* [Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11](https://www.elcomercio.com/deportes/futbol/barcelona-goleada-delfin-tabla-posiciones-fecha11.html "Barcelona SC goleó y así quedó la tabla de posiciones en la fecha 11")
+* [Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años](https://www.elcomercio.com/deportes/futbol/damian-diaz-goles-emelec-clasico.html "Damián Díaz es uno los goleadores del Clásico del Astillero en 13 años")
+* [Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC](https://www.elcomercio.com/deportes/barcelona-antonio-alvarez-salida-kitu-diaz.html "Polémica por comportamiento del ‘Kitu’ Díaz y su salida en Barcelona SC")
+
+Además, mediante una carta enviada por la FEF, se informó al equipo guayaquileño que tiene un **plazo de 30 días, es decir, hasta el 30 de noviembre, para cancelar los montos** adeudados al ‘Kitu’; de lo contrario, enfrentarán sanciones.
+
+La deuda de Barcelona Sporting Club
+-----------------------------------
+
+Si bien la deuda total de Barcelona con Damián Díaz asciende a más de **2 millones de dólares** desde 2016, esta demanda específica corresponde a su finiquito y al acuerdo de pago firmado tras su salida del club.
+
+El cuadro canario no realizó los pagos de agosto y septiembre, y la fecha de vencimiento para el último monto se acerca. Las cuotas son mensuales, de **23 927.50** dólares durante 18 meses, lo que representa una deuda total de casi **437 000 dólares.**
+
+Los números del ‘Kitu’ Díaz
+---------------------------
+
+**Damián Rodrigo Díaz** se unió a Barcelona Sporting Club en el segundo semestre de 2011, tras ser solicitado por Luis Zubeldía, entonces director técnico del club.
+
+Su primera etapa en el club duró dos años, y en el segundo semestre de 2013 fue transferido al Al-Wahda de Emiratos Árabes Unidos. Durante su primera etapa, **se coronó campeón nacional en 2012**, rompiendo una racha de 15 años sin títulos. Fue una de las figuras clave en un equipo que también contaba con Máximo Banguera, Matías Oyola y Narciso Mina.
+
+En 2016, Díaz regresó de manera definitiva a BSC. Durante esta segunda etapa, **consiguió los títulos nacionales de 2016 y 2020**. Además, del subcampeonato de 2022, donde fue el señalado por fallar un penal decisivo ante Aucas en el estadio Gonzalo Pozo Ripalda.
+
+En total, según Transfermarkt, Damián Díaz disputó 346 partidos en Ecuador, anotando 90 goles y proporcionando 83 asistencias.
+
+¿Habrá Pico y placa en Quito el jueves 31 de octubre?
+=====================================================
+
+El Pico y placa se aplica a vehículos y motos de Quito, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica de lunes a viernes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-feriado.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa** en la capital de los ecuatorianos para tratar de controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Pico y placa se suspende en Quito por cinco días](https://www.elcomercio.com/actualidad/quito/pico-y-placa-se-suspende-en-quito-por-cinco-dias.html "Pico y placa se suspende en Quito por cinco días")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este jueves 31 de octubre habrá libre movilidad
+-----------------------------------------------
+
+Ecuador tiene en los próximos días un **feriado nacional** en conmemoración al **Día de Difuntos** y la **Independencia de Cuenca.** Estos se trasladaron a los días más próximos, de acuerdo con la ley de Feriados vigente.
+
+Así, e**l feriado de Difuntos** se trasladó viernes 1 de noviembre y el día de asueto por la Independencia de Cuenca, al lunes 4 de noviembre.
+
+Por decreto presidencial, el **jueves 31 de octubre** también fue declarado feriado nacional (recuperable) para incentivar el turismo interno.
+
+De acuerdo con la normativa del Pico y placa, **este jueves 31 de octubre habrá libre movilidad** en el Distrito Metropolitano de Quito, pues la medida [no se aplica los feriados.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 🚗Este 31 de octubre no regirá la medida “Pico y Placa” debido a la ⛔️ suspensión de la jornada laboral dispuesta por el Gobierno Nacional .  
+>   
+> 👍Además, habrá libre movilidad hasta el lunes 4 de noviembre 🚘.  
+>   
+> 🫶 Con información oportuna [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kslrbGztLE](https://t.co/kslrbGztLE)
+> 
+> — AMTQuito (@AMT\_Quito) [October 30, 2024](https://twitter.com/AMT_Quito/status/1851630564303851712?ref_src=twsrc%5Etfw)
+
+¿Qué significa DANA el fenómeno que impactó a Valencia?
+=======================================================
+
+Los meteorólogos advierten que este tipo de fenómenos se intensifican con el cambio climático.
+----------------------------------------------------------------------------------------------
+
+![Vehículos amontonados en una calle tras las intensas lluvias de la fuerte dana que afecta especialmente el sur y el este de la península ibérica, este miércoles en Sedaví (Valencia).](https://www.elcomercio.com/wp-content/uploads/2024/10/dana-valencia.jpg)
+
+La **Depresión Aislada en Niveles Altos (DANA)** es el fenómeno meteorológico que impactó a Valencia, España a causa lluvias intensas.
+
+### Más noticias
+
+* [Ya son 62 los fallecidos por las inundaciones en Valencia, España](https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html "https://www.elcomercio.com/actualidad/mundo/ya-son-62-los-fallecidos-por-inundaciones-en-valencia-espana.html")
+* [Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones](https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html "https://www.elcomercio.com/actualidad/torrenciales-lluvias-en-espana-dejan-muertos-desaparecidos-e-inundaciones.html")
+
+La **Depresión Aislada en Niveles Altos** (DANA) se convirtió en un **fenómeno meteorológico** recurrente en España y **otras partes de Europa**. Este sistema se caracteriza por la presencia de **aire frío en las capas** altas de la atmósfera, lo que provoc**a inestabilidad y la formación de nubes de tormenta**. Las últimas semanas, la DANA dejó sentir su **impacto en diversas regiones del país**. Trajo consigo lluvias torrenciales, vientos fuertes y tormentas eléctricas.
+
+Los meteorólogos advierten que este **tipo de fenómenos** se intensifican con el cambio climático, lo que llevó a un aumento en la frecuencia y la **severidad de las lluvias**. En varias provincias españolas, las precipitaciones superó los 100 litros por m² en pocas horas. Generó **inundaciones en calles y viviendas.** Las autoridades locales emitieron alertas para que los **ciudadanos tomen precauciones** y eviten desplazamientos innecesarios.
+
+Desde el inicio de la DANA, los **servicios de emergencia** estuvieron en **alerta máxima**, respondiendo a múltiples incidentes relacionados con **inundaciones y caídas de árboles**. Además, se recomendó a la población que mantenga sus **hogares preparados** ante posibles **cortes de electricidad** y acceso a suministros básicos.
+
+A medida que el fenómeno continúa desplazándose, se espera que **impacte en otras áreas**, generando preocupación sobre su evolución. Los meteorólogos instan a los ciudadanos a mantenerse informados a través de **canales oficiales** y **seguir las indicaciones de seguridad.**
+
+Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito
+====================================================================
+
+Trabajos de repavimentación en el carril exclusivo y de repotenciación ocasionan el cierre de otras paradas en el sistema Ecovía
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La parada Manuela Cañizares estará cerrada por trabajos en la vía.](https://www.elcomercio.com/wp-content/uploads/2024/10/Manuela-Canizares.jpg)
+
+La **Empresa Metropolitana de Transporte de Pasajeros** Quito informó de la suspensión temporal del servicio en una de las paradas de la Ecovía.
+
+### Más noticias
+
+* [Parada de la Ecovía vuelve a operar este miércoles 23 de octubre](https://www.elcomercio.com/actualidad/quito/parada-ecovia-vuelve-a-operar-este-miercoles-23-de-octubre.html "Parada de la Ecovía vuelve a operar este miércoles 23 de octubre")
+* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
+* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
+
+Paradas cerradas por pavimentación
+----------------------------------
+
+El **Municipio de Quito** realiza la intervención del **Carril Exclusivo de la Ecovía**, en Quito, para reemplazar el hormigón que cumplió ya 20 años de utilidad.
+
+Debido a estos trabajos, se ha debido **suspender la operación de ciertas paradas** debido a que no hay acceso a ellas. En algunos sitios se colocaron paradas provisionales.
+
+Una de estas paradas cerradas es la **Manuela Cañizares**. Otra de ellas es la parada Los Sauces, la cual se inhabilitó por seis días, desde el 26 de octubre.
+
+Las paradas **Bellavista y La Paz t**ambién están cerradas debido a los trabajos de repavimentación, por 15 días, a partir del 20 de octubre. En la parada Plaza Argentina se cuenta con una parada provisional.
+
+A partir del 28 de octubre, la Empresa de Pasajeros habilitará una parada provisional para embarque y desembarque en la **parada Baca Ortiz**. Esta se cerrará a partir del 1 de noviembre.
+
+La **parada Eloy Alfaro s**e habilitó completamente a partir del 23 de octubre.
+
+Paradas cerradas por repotenciación
+-----------------------------------
+
+A la par, se ejecutan trabajos de repotenciación de las paradas y por ello están cerradas las siguientes:
+
+* Pujilí
+* Quillallacta (se colocó parada provisional)
+* San Cristóbal (a partir del 2 de noviembre)
+
+El tiempo de cierre de las paradas por repotenciación es de [35 días en cada parada](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+La repotenciación de esta parada **se realiza con el objetivo de brindar un mejor servicio** de movilización a los quiteños. Además, velar por su seguridad en sus espacios y fortalecer la atención de calidad.
+
+> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Recuerda que la parada Manuela Cañizares de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw), se encuentra suspendida por los trabajos en el carril exclusivo. [#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/40x7z0pJD0](https://t.co/40x7z0pJD0)
+> 
+> — Empresa de Pasajeros Quito (@TransporteQuito) [October 29, 2024](https://twitter.com/TransporteQuito/status/1851301978972045523?ref_src=twsrc%5Etfw)
+
+¿A qué hora juegan Moisés Caicedo y Pervis Estupiñán en la Carabao Cup?
+=======================================================================
+
+Dos de nuestros legionarios en Inglaterra vuelven a la acción en la copa inglesa.
+---------------------------------------------------------------------------------
+
+![Moisés Caicedo en un partido contra el Newcastle por la Premier League 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-46.jpg)
+
+Este miércoles 30 de octubre, los ecuatorianos **Moisés Caicedo y Pervis Estupiñán** estarán en los octavos de final de la **Carabao Cup**. El Chelsea de Caicedo se enfrentará al Newcastle de visitante, mientras que el Brighton de Estupiñán recibirá al Liverpool.
+
+Es importante señalar que las l**laves de este torneo son a partido único**, por lo que hoy se conocerán los clasificados a cuartos de final. Las semifinales son el único momento en el que se juega a ida y vuelta; la final, en cambio, es también a partido único y se disputa en el emblemático estadio de Wembley.
+
+### Más noticias:
+
+* [Chelsea destaca el aporte defensivo de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-destaca-el-aporte-defensivo-de-moises-caicedo.html "Chelsea destaca el aporte defensivo de Moisés Caicedo")
+* [El Brighton de Pervis Estupiñán se dejó empatar ante Wolves](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-empatar-wolves-premier.html "El Brighton de Pervis Estupiñán se dejó empatar ante Wolves")
+* [Chelsea de Moisés Caicedo brilla y derrota al Newcastle](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-newcastle-resultado-premier.html "Chelsea de Moisés Caicedo brilla y derrota al Newcastle")
+
+¿A qué hora juegan los ecuatorianos?
+------------------------------------
+
+**Pervis Estupiñán** será el primero en entrar en acción, enfrentándose con el Brighton en el Falmer Stadium al **Liverpool**, uno de los equipos más en forma de Inglaterra.
+
+Brighton llega a estos octavos de final tras eliminar al Wolverhampton, mientras que **Liverpool** hizo lo propio contra el West Ham United.
+
+El cotejo arrancará a las 14:30 (hora Ecuador), en el Falmer Stadium.
+
+Más tarde, el **Chelsea** de **Moisés Caicedo** visitará al Newcastle en un emocionante enfrentamiento en St. James’ Park, repitiendo el duelo que ambos equipos protagonizaron el pasado fin de semana en la Premier League, donde Chelsea ganó 2-1.
+
+Este partido podrá marcar el debut de Caicedo en la copa de esta temporada, luego de que Chelsea avanzara goleando al Barrow, mientras que **Newcastle** tuvo que luchar para vencer al Wimbledon, equipo de menor categoría.
+
+El partido iniciará a las 14:45 (hora Ecuador), en el ST. James’ Park.
+
+Ficha de los partidos:
+----------------------
+
+### Brighton vs. Liverpool
+
+_**Torneo**:_ Carabao Cup
+
+_**Hora**:_ 14:30 (hora Ecuador)
+
+_**Estadio**:_ Falmer Stadium
+
+_**Dónde ver**:_ Streaming
+
+### Newcastle vs. Chelsea
+
+_**Torneo**:_ Carabao Cup
+
+_**Hora**:_ 14:45 (hora Ecuador)
+
+_**Estadio**:_ St. James’ Park
+
+_**Dónde ver:**_ Streaming
+
+31 de octubre es el Día del Escudo Nacional. Conoce su historia
+===============================================================
+
+Cada 31 de octubre se conmemora el Día del Escudo Nacional. Esta fecha fue instaurada de manera oficial por el Congreso en 1900.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Cada 31 de octubre se celebra el Día del Escudo. Este es uno de los tres símbolos patrios de Ecuador Foto: Archivo / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2022/10/Escudo-Ecuador-.jpg)
+
+En Ecuador, cada 31 de octubre se conmemora el **Día del Escudo Nacional**. Esta fecha fue instaurada de manera oficial por el Congreso en 1900. La implementación se realizó en la Presidencia del general Eloy Alfaro.
+
+### Más noticias
+
+* [En Ecuador, los mecánicos celebran un día dedicado a su profesión](https://www.elcomercio.com/tendencias/cultura/dia-mecanico-ecuatoriano-efemeride.html "https://www.elcomercio.com/tendencias/cultura/dia-mecanico-ecuatoriano-efemeride.html") 
+* [Colada morada y guaguas de pan, tradición ecuatoriana](https://www.elcomercio.com/sabores/colada-morada-guaguas-pan-tradicion-ecuatoriana.html "https://www.elcomercio.com/sabores/colada-morada-guaguas-pan-tradicion-ecuatoriana.html")
+
+El diseño del Escudo del Ecuador estuvo a cargo de **Pedro Pablo Traversari** en 1916. En esta fecha el símbolo patrio fue aprobado por el Ministerio de Instrucción Pública.
+
+Historia del Escudo Nacional
+----------------------------
+
+Según el **[Centro de Estudios Históricos del Ejército Ecuatorian](https://www.cehist.mil.ec/index.php/simbolos-patrios#:~:text=Francisco%20Acosta%20Y%C3%A9pez-,ESCUDO%20NACIONAL,public%C3%B3%20en%20el%20Registro%20Oficial. "https://www.cehist.mil.ec/index.php/simbolos-patrios#:~:text=Francisco%20Acosta%20Y%C3%A9pez-,ESCUDO%20NACIONAL,public%C3%B3%20en%20el%20Registro%20Oficial.")o**, la historia del **escudo de Ecuador** se remonta a la **proclamación de la Independencia de Guayaquil** el 9 de octubre de 1820, cuando s**e adoptó un escudo con una estrella de cinco puntas sobre fondo azul**, rodeado de ramas de laurel y la leyenda “Por Guayaquil Independiente”.
+
+Posteriormente, tras la **incorporación de Guayaquil a la Gran Colombia** en 1822, **se adoptó el escudo colombiano**, que incluía cornucopias y fasces. Con la **disolución de la Gran Colombia** en 1830, se inició la **creación del escudo ecuatoriano**, siendo el primer diseño aprobado el 19 de septiembre de ese año, que incluía un sol y la inscripción “El Ecuador en Colombia”.
+
+A lo largo de los años, **el escudo ha pasado por diversas modificaciones**, lo que refleja cambios políticos y culturales, hasta llegar al **diseño definitivo**, que mantuvo los **elementos propuestos por el poeta José Joaquín de Olmedo**, pero con ajustes en los colores de las banderas y la dirección de la cabeza del cóndor.
+
+¿Qué elementos conforman el Escudo Nacional?
+--------------------------------------------
+
+Según el **Ministerio de Relaciones Exteriores** el Escudo Nacional tiene varios componentes con su respectivo significado:
+
+* **Cóndor:** El ave aparece con alas desplegadas y levantadas para el vuelo. Su simbolismo se basa en el esfuerzo.
+* **Sol:** El color dorado muestra la riqueza de los recursos naturales del territorio ecuatoriano.
+* **Chimborazo:** Es el volcán más alto del Ecuador, de sus faldas nace el río Guayas. Este muestra la unión regional de la Sierra y Costa.
+* **Barco a vapor:** Se trata del primer buque construido en América del Sur, elaborado en 1841 en Guayaquil. Los colores de este antiguo medio de transportación son el amarillo, azul y rojo.
+* **Signos del zodíaco:** De izquierda a derecha aparecen: Géminis, Cáncer, Aries y Tauro. Representan los meses de marzo, abril, mayo y junio.
+* **Rama de palma**: Este fragmento de la planta representa la paz.
+* **Rama de laurel**: Representa la gloria.
+* **Banderas:** En el Escudo de Armas aparecen cuatro: dos a cada lado.
+* **Fasces consulares:** La parte inferior del escudo está conformada por este emblema de autoridad republicana. Lo componen un hacecillo de varas amarrado y que envuelve una segur (hacha).
+* **Caduceo:** Ubicado en el barco a vapor y coronado por dos alas y rodeado por dos serpientes. Símbolo de la navegación y comercio.
+
+Estudiante crea inteligencia artificial que traduce lenguaje de señas al inglés
+===============================================================================
+
+Priyanjali Gupta y Yamillet Payano, con sus proyectos de inteligencia artificial, han creado herramientas inclusivas.
+---------------------------------------------------------------------------------------------------------------------
+
+![Dos jóvenes desarrolladoras han revolucionado la tecnología inclusiva con proyectos de inteligencia artificial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/inteligencia-artificial-lenguaje-de-senas.jpg)
+
+**Priyanjali Gupta**, una joven india y **desarrolladora de software en Microsoft**, ha revolucionado la tecnología inclusiva. Durante su licenciatura en tecnología en el Instituto de Tecnología de Vellore, Gupta diseñó una **inteligencia artificial** que interpreta el **lenguaje de señas estadounidense** (ASL), según un informe de [Infobae](https://www.infobae.com/tecno/2024/10/29/crean-una-ia-que-revoluciona-el-lenguaje-de-senas-en-todo-el-mundo-todos-lo-entenderemos/#:~:text=Una%20joven%20en%20India%20desarroll%C3%B3,este%20programa%20durante%20su%20carrera. "https://www.infobae.com/tecno/2024/10/29/crean-una-ia-que-revoluciona-el-lenguaje-de-senas-en-todo-el-mundo-todos-lo-entenderemos/#:~:text=Una%20joven%20en%20India%20desarroll%C3%B3,este%20programa%20durante%20su%20carrera."). 
+
+### Más noticias
+
+* [WhatsApp planea incorporar una nueva función relacionada con la música](https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-musica-estados.html") 
+* [¿Cuál es el significado de mantener el celular en silencio de acuerdo con la psicología?](https://www.elcomercio.com/tecnologia/celular-psicologia-silencio-investigacion.html "https://www.elcomercio.com/tecnologia/celular-psicologia-silencio-investigacion.html") 
+
+**Priyanjali Gupta y su proyecto de IA para lenguaje de señas** 
+----------------------------------------------------------------
+
+**La idea de este proyecto nació en una conversación con su madre**, quien la animó a crear algo significativo en su carrera. En febrero de 2022, Gupta presentó el modelo, que **utiliza la API de detección de objetos de Tensorflow y aplica el modelo de aprendizaje ssd\_mobilenet** mediante transferencia, a decir de Infobae. La estudiante documentó el proceso en su **perfil de LinkedIn**, donde su proyecto rápidamente ganó popularidad, como lo destaca Interesting Engineering. 
+
+**Aplicación de Tensorflow en la interpretación de señas** 
+-----------------------------------------------------------
+
+Siguiendo con Infobae, para **entrenar esta inteligencia artificial**, Gupta usó un **archivo en Python** para capturar imágenes con su cámara web, para crear así un **conjunto de datos** que incluyó señas básicas de ASL, como “hola”, “te amo”, “gracias”, “por favor”, “sí” y “no”. Este esfuerzo pionero representa un paso hacia una **comunicación más inclusiva**, subraya Gupta en su perfil de Github, donde detalla el desarrollo del modelo. 
+
+**Sign-Speak: una solución de Yamillet Payano** 
+------------------------------------------------
+
+**Yamillet Payano**, una joven dominicana de 27 años, ha desarrollado **Sign-Speak**, una innovadora herramienta que **traduce el lenguaje de señas a voz y texto**, y viceversa. Desde 2021, Payano ha trabajado en esta tecnología para **facilitar la comunicación entre personas sordas y oyentes**, según reporta EFE, citado por [DW](https://www.dw.com/es/latina-crea-con-inteligencia-artificial-una-aplicaci%C3%B3n-que-traduce-el-lenguaje-de-se%C3%B1as-a-texto/a-67642859 "https://www.dw.com/es/latina-crea-con-inteligencia-artificial-una-aplicaci%C3%B3n-que-traduce-el-lenguaje-de-se%C3%B1as-a-texto/a-67642859"). 
+
+**Escasez de intérpretes y el impacto en la comunidad sorda** 
+--------------------------------------------------------------
+
+La idea de **Sign-Speak** surgió cuando Payano observó los **retos de comunicación que enfrentaba su amigo Nikolas Kelly**, sordo de nacimiento. La emprendedora identificó la **falta de intérpretes como un problema social grave**, especialmente en Estados Unidos, donde la escasez de intérpretes dificulta aún más la integración de las personas sordas. 
+
+**Un canal de comunicación accesible para todos** 
+--------------------------------------------------
+
+Con **Sign-Speak**, a decir de DW, Payano busca dar una solución práctica a esta necesidad. **La herramienta convierte en texto o voz las señas realizadas por personas sordas**, lo que abre un **canal de comunicación accesible**. Este proyecto destaca la importancia de **crear tecnología inclusiva** y pone en relieve las barreras que aún enfrentan las **personas con discapacidad auditiva en el mundo**. 
+
+Kamala Harris ofrece un ‘liderazgo nuevo’
+=========================================
+
+Kamala Harris reivindicó que Estados Unidos necesita un nuevo liderazgo.
+------------------------------------------------------------------------
+
+![Kamala Harris en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/kamala-harris-sonrie-efe.jpg)
+
+En un multitudinario mitin electoral frente a la **Casa Blanca**, [Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html"), reivindicó que **Estados Unidos** necesita un **“nuevo liderazgo”** y pidió a los ciudadanos “pasar página” de lo que representa su rival republicano, el expresidente Donald Trump.
+
+### Más noticias
+
+* [Bad Bunny muestra su apoyo a Kamala Harris](https://www.elcomercio.com/actualidad/mundo/bad-bunny-muestra-apoyo-kamala-harris.html "Bad Bunny muestra su apoyo a Kamala Harris ")
+* [Kamala Harris lanza un anuncio para Puerto Rico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-anuncio-puertorriquenos-insultos-trump.html "Kamala Harris lanza un anuncio para Puerto Rico")
+* [Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris](https://www.elcomercio.com/actualidad/mundo/mana-trigres-norte-campana-kamala-harris.html "Maná y Los Tigres del Norte se unen a la campaña de Kamala Harris ")
+
+La vicepresidenta eligió para su mensaje un lugar muy simbólico. Fue el **parque de la Elipse de Washington**, ubicado detrás de la Casa Blanca y a un lado de la Explanada Nacional. Se trató del mismo punto donde **Trump** se dirigió en 2021 a la **turba de seguidores** que minutos después asaltó el Capitolio para frenar la transición de poderes.
+
+Falta una semana para las elecciones
+------------------------------------
+
+También escogió una fecha clave, dado que falta exactamente una semana para las elecciones y las encuestas apuntan a que la **contienda podría ser la más ajustada** del último siglo.
+
+“Me comprometo a ser una **presidenta para todos los estadounidenses**, a poner siempre al país por encima del partido y **por encima de mí misma**“, declaró hasta los pies del obelisco dedicado a George Washington.
+
+En plena recta final de los comicios, Harris hizo un parón en su recorrido por los **estados clave** que decidirán las elecciones y se presentó en la capital para mostrar una **imagen presidenciable** ante todo el país y en horario de máxima audiencia.
+
+“Es hora de pasar página al drama y el **conflicto, el miedo y la división**. Es hora de una nueva generación de liderazgo en Estados Unidos. Estoy preparada para ofrecer ese liderazgo”, afirmó.
+
+El objetivo del evento era remarcar un **contraste total** entre Harris y su rival, quien el 6 de enero de 2021 animó a sus simpatizantes desde ese mismo lugar, a marchar hacia el Capitolio mientras el **Congreso** certificaba la **victoria de Joe Biden**, unos resultados que el republicano sigue sin aceptar.
+
+Trump, quien llama **“héroes” a los condenados por ese ataque**, está imputado ante el tribunal federal del Distrito de Columbia por haber presuntamente instigado el asalto, en el que murieron cinco personas.
+
+La vicepresidenta retrató a su rival como “inestable, **obsesionado con la venganza,** consumido por el agravio y en búsqueda de un poder sin control”.
+
+Cargó además contra Trump por decir recientemente que **está dispuesto a usar el Ejército** para combatir al “enemigo interno” de Estados Unidos, en una supuesta referencia a sus rivales políticos.
+
+Mientras el republicano quiere volver a la Casa Blanca con una “lista de enemigos”, Harris afirmó que ella pretende llegar a la presidencia con una **“lista de cosas por hacer”** para mejorar la vida de los estadounidenses.
+
+Ausencia de Biden
+-----------------
+
+Harris estuvo arropada por su esposo, **Doug Emhoff,** pero destacó la ausencia de Biden, quien tuvo un perfil muy discreto desde que en julio **renunció a presentarse a la reelección** y le pasó el testigo.
+
+“Esta es su noche (de Harris)”, declaró a la prensa el presidente para justificar su ausencia.
+
+Guerra de Gaza
+--------------
+
+Otra gran ausencia fueron las referencias en el discurso a la **guerra de Gaza**, un conflicto que puede afectar sus aspiraciones especialmente en el estado clave de Míchigan, donde reside una gran población árabe.
+
+Centenares de personas se lo intentaron recordar con una **manifestación propalestina** fuera del cordón de seguridad del evento que no logró interrumpir el mensaje de Harris.
+
+Dentro del mitin, miles de personas ondeaban **banderas estadounidenses** o portaban camisetas a favor de Harris, como Melissa, una mujer blanca que hizo seis horas de espera para escucharla.
+
+“Con Kamala Harris no volveremos a tener un 6 de enero (asalto al Capitolio)”, declaró a esta residente en la capital estadounidense, quien considera que “**Trump no debería ni acercarse** a la Casa Blanca de nuevo”.
+
+Polémica en el lado republicano
+-------------------------------
+
+El gran discurso de Harris coincide además con la **polémica desatada en el multitudinario** mitin de Trump del domingo en el **Madison Square Garden de Nueva York**, donde un humorista que intervino llamó a Puerto Rico “isla de basura flotante”.
+
+Lejos de disculparse, Trump defendió este martes que su evento fue en realidad **“un festival del amor”,** aunque también admitió que se dijeron “algunas cosas malas”.
+
+No fue casual que la selección musical del mitin de Harris incluyera música de la cantante de origen puertorriqueño Jennifer López y que la animadora del acto exclamara: “**Amamos Puerto Rico!**“.
+
+Entre el público, Carol, que emigró de Nigeria hace casi cuatro décadas, bailaba eufórica con los labios pintados de color azul demócrata para apoyar a Harris.
+
+Estados Unidos siempre ha sido un **“crisol” de personas de orígenes diversos**, reivindicó en clara referencia a la retórica xenófoba de Trump.
+
+ “¿Dónde está el Estados Unidos que conocí cuando llegué y que tanto amo?”, cuestionó la entrevistada. **“Aquí estamos!”**, le respondieron otras simpatizantes.
+
+Proyecto de sociedades anónimas en el deporte no calificó en la Asamblea
+========================================================================
+
+Las sociedades anónimas en clubes de Ecuador no llegarán al país de momento.
+----------------------------------------------------------------------------
+
+![Keny Arroyo en un partido con Independiente del Valle por la Copa Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PORTADA-NOTA-EC-45.jpg)
+
+El pasado 24 de octubre, el presidente de Ecuador, **Daniel Noboa**, envió a la Asamblea Nacional un proyecto de ley económico urgente sobre la **introducción de sociedades anónimas en el país**, pero este no fue aprobado.
+
+El Consejo de Administración Legislativa (**CAL**) **decidió devolver el “Proyecto** de Ley Orgánica para el Cumplimiento de las Obligaciones Fiscales y Estímulo del Deporte, Educación Física y Recreación”.
+
+### Más noticias:
+
+* [Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas](https://www.elcomercio.com/deportes/futbol/daniel-noboa-impulsa-proyecto-de-ley-para-transformar-a-los-clubes-en-sociedades-anonimas.html "Daniel Noboa impulsa proyecto de ley para transformar a los clubes en sociedades anónimas")
+* [Asamblea Nacional tiene nuevo Primer Vicepresidente](https://www.elcomercio.com/actualidad/politica/asamblea-elige-primer-vicepresidente-institucion.html "Asamblea Nacional tiene nuevo Primer Vicepresidente")
+* [José Pileggi renuncia a su cargo como presidente de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-emelec-renuncia-presidente.html "José Pileggi renuncia a su cargo como presidente de Emelec")
+
+Según el comunicado emitido por la Asamblea Nacional este miércoles 30 de octubre, el proyecto no pasó porque **la iniciativa no cumple con el carácter de urgencia económica**. Además, el CAL exhortó al mandatario, Daniel Noboa, a enfocar los temas urgentes en la crisis energética que enfrenta el país.
+
+> [#CAL](https://twitter.com/hashtag/CAL?src=hash&ref_src=twsrc%5Etfw) no calificó el Proyecto de Ley Orgánica para el Cumplimiento de las Obligaciones Fiscales del Ecuador y Estímulo del Deporte, Educación Física y Recreación, porque no cumple el carácter de urgente en materia económica.[#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tbELP1pPpA](https://t.co/tbELP1pPpA)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 30, 2024](https://twitter.com/AsambleaEcuador/status/1851591743562465757?ref_src=twsrc%5Etfw)
+
+En qué consistía el proyecto de sociedades anónimas
+---------------------------------------------------
+
+El proyecto planteaba que, al adoptar la figura de sociedad anónima, los **clubes deportivos podrían gestionar mejor sus ingresos**, mejorar su control administrativo y cumplir de manera más efectiva con sus obligaciones fiscales. Además, se buscaba fomentar la transparencia en la gestión financiera de estos clubes y promover un **mayor control económico.**
+
+El objetivo del proyecto era revitalizar el **sector deportivo, la actividad física y la recreación** mediante la implementación de medidas tributarias y económicas dirigidas a entidades deportivas que se constituyan como Sociedades Anónimas Deportivas, según lo establecido en su tercer artículo.
+
+¿Qué son las Sociedades Anónimas Deportivas?
+--------------------------------------------
+
+Las Sociedades Anónimas Deportivas (SAD) reúnen a individuos que comparten intereses en competiciones deportivas de carácter profesional y buscan generar beneficios económicos.
+
+Este modelo de gestión difiere del utilizado por la mayoría de los clubes de fútbol profesional en el mundo.
+
+En Ecuador, según lo estipulado en la actual **Ley del Deporte**, todos los clubes profesionales están organizados como sociedades civiles sin fines de lucro. Estas instituciones son propiedad de sus socios en su totalidad.  
+
 Cajero automático de una farmacia fue extraído con explosivos
 =============================================================
 
@@ -151,897 +937,6 @@ La cifra de fallecidos es aún provisional
 
 Por ejemplo, el desbordamiento del **barranco del Poyo** a su paso por **Aldaia** causó la muerte de tres personas que residían en viviendas de planta baja colindantes al barranco. Esto según ha explicado el alcalde, Enrique Luján, que afirmó que la avenida de agua fue como **“un tsunami”.**
 
-La alcaldesa de Paiporta, **Maribel Albalat**, aseguró que podrían tener **“decenas” de personas fallecidas** a consecuencia de la Dana. También indicó que la localidad, ubicada a diez kilómetros de Valencia, está **totalmente incomunicad**a y no funciona nada.
+La alcaldesa de Paiporta, **Maribel Albalat**, aseguró que podrían tener **“decenas” de personas fallecidas** a consecuencia de la DANA. También indicó que la localidad, ubicada a diez kilómetros de Valencia, está **totalmente incomunicad**a y no funciona nada.
 
 La **cifra provisional de fallecidos** supera a la que ocasionó la rotura de la presa de Tous (Valencia) en 1982, cuando hubo 38 fallecidos. Mientras, **los servicios de emergencias** se afanan para poder llegar a las zonas más afectadas, que [permanecen incomunicadas](https://es.wikipedia.org/wiki/Espa%C3%B1a "https://es.wikipedia.org/wiki/Espa%C3%B1a") desde ayer.
-
-En Ecuador, los mecánicos celebran un día dedicado a su profesión 
-==================================================================
-
-El Día del Mecánico se celebra el 30 de octubre en Ecuador.
------------------------------------------------------------
-
-![Los mecánicos en Ecuador son fundamentales para el progreso de las empresas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Mecanico-Ecuador.jpg)
-
-El **Día del Mecánico**, de acuerdo con la página [MyCarReady](https://mycaready.com/taller/blog/24-de-febrero-el-dia-del-mecanico "https://mycaready.com/taller/blog/24-de-febrero-el-dia-del-mecanico"), se estableció el 24 de febrero de 1947, gracias a una solicitud del secretario del Sindicato de Mecánicos de Argentina, **Adolfo García**. Actualmente, esta efeméride se celebra en varios países de América Latina. En Ecuador, el día escogido para festejar a estos profesionales es el **30 de octubre de cada año**. 
-
-### Más noticias
-
-* [Un año sin Matthew Perry y Jennifer Aniston y Courteney Cox reviven momentos inolvidables](https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html "https://www.elcomercio.com/tendencias/entretenimiento/matthew-perry-jennifer-aniston-courteney-cox.html")
-* [Sean ‘Diddy’ Combs suma otra denuncia aterradora](https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html "https://www.elcomercio.com/tendencias/entretenimiento/diddy-combs-agresiones-escalofriantes-denuncia-nueva.html")
-
-**Importancia del Día del Mecánico Ecuatoriano** 
--------------------------------------------------
-
-El **Día del Mecánico Ecuatoriano**, para **Gorky Reyes**, coordinador Académico de la Escuela de Ingeniería Automotriz UIDE, es una ocasión que **rinde tributo a los expertos responsables de asegurar el adecuado funcionamiento de equipos y maquinaria** en distintos sectores industriales. 
-
-**Contribución a la industria** 
---------------------------------
-
-Esta labor, crucial para el **progreso y la competitividad de las empresas**, abarca desde el mantenimiento de vehículos y maquinarias hasta la **automatización y optimización de procesos en la industria manufacturera**. En Ecuador, siguiendo con Reyes, donde la eficiencia industrial y tecnológica es fundamental para la matriz productiva, l**os mecánicos desempeñan un papel clave**. 
-
-**Formación profesional en Ecuador** 
--------------------------------------
-
-Varias instituciones educativas en Ecuador ofrecen **programas relacionados con el ámbito industrial**. Esto sirve para formar profesionales que puedan **desarrollar habilidades técnicas**, innovadoras y de resolución de problemas. La educación brindada en estas instituciones permite a los **futuros mecánicos** adquirir conocimientos avanzados en diseño, análisis estructural, termodinámica y sistemas automatizados, preparándolos para enfrentar los retos de la industria contemporánea, según Reyes.  
-
-**Diversificación de la matriz productiva** 
---------------------------------------------
-
-La **matriz productiva ecuatoriana**, para Reyes, busca **diversificar la economía**. Se pretende reducir la **dependencia del petróleo** y fortalecer otros sectores como la agricultura, la industria y el turismo.
-
-Los **mecánicos en Ecuador** contribuyen a esta visión mediante la **innovación tecnológica**, la optimización de procesos y el **mantenimiento preventivo de maquinaria** que respalda la producción en diversas áreas. Al fomentar el desarrollo de sectores como la manufactura y la industria agropecuaria, los mecánicos ecuatorianos apoyan directamente el fortalecimiento de una economía más diversificada y resiliente. 
-
-**Valoración de los mecánicos** 
---------------------------------
-
-El **Día del Mecánico en Ecuador** representa una oportunidad para valorar el aporte de estos profesionales a la sociedad. Su formación les permite trabajar en múltiples áreas industriales, lo que respalda así el **crecimiento económico del país** y su integración en la economía global. 
-
-Así funciona el Pico y placa en Quito este miércoles 30 de octubre
-==================================================================
-
-Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
--------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-foto.jpg)
-
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
-
-### Más noticias
-
-* [Así funcionará el Metro de Quito durante el feriado](https://www.elcomercio.com/actualidad/quito/asi-funcionara-metro-de-quito-durante-feriado.html "Así funcionará el Metro de Quito durante el feriado")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Dos ríos están desbordados y siete, en crecimiento](https://www.elcomercio.com/actualidad/dos-rios-estan-desbordados-y-siete-en-crecimiento.html "Dos ríos están desbordados y siete, en crecimiento")
-
-¿Cómo se aplica el Pico y placa?
---------------------------------
-
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
-
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
-
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
-
-Contraflujos y Pico y placa en Quito
-------------------------------------
-
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
-
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
-
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
-
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
-
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
-
-Tarde: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
-
-Quito envía un mensaje a sus vecinos para el feriado
-====================================================
-
-Quito es una opción para visitar y pasear en los cinco días del feriado de noviembre.
--------------------------------------------------------------------------------------
-
-![La Mitad del Mundo es uno de los sitios más visitados en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/turismo-editorial.jpg)
-
-Pudiera sonar trillado decir que **Quito** es una buena opción para hacer **turismo**, pero es una alternativa real para salir de casa en estos cinco largos días de feriado, si no va a viajar a otros destinos.
-
-Indudablemente, es difícil afrontar los **cortes de luz**; por ello, la ciudad es una opción, ya que tiene varias zonas para visitar, pasear, comer o disfrutar el aire libre de los parques o los sitios rurales de Quito.
-
-Con cinco largos días de descanso es indispensable que el **Municipio de Quito, la Policía** y otras autoridades garanticen la seguridad, transporte público y los servicios turísticos.
-
-> El **Municipio de Quito** debe brindar las facilidades para que los quiteños se sientan seguros de hacer turismo en la ciudad.
-
-Lo más fácil y a la mano son los **parques** de la ciudad, que ayudarán a expulsar el estrés, cansancio o ansiedad.
-
-Los **parques La Carolina, Metropolitano en el norte y sur, el Bicentenario** y otros espacios están cerca. En el centro norte de la ciudad está el **Jardín Botánico**, que es un refugio cálido y vistoso para recorrerlo.
-
-Si eso no convence, el **Centro Histórico** es único e irrepetible. Aunque haya ido otras veces, siempre encontrará algo nuevo por descubrir. Inclusive, tiene la oportunidad de subir a terrazas para tener una mirada de Quito desde lo alto. 
-
-Y también encontrará muchas opciones para comer; es decir, tiene todo para dar un paseo histórico por el **Patrimonio Cultural de la Humanidad**.
-
-En este lugar es necesario reforzar la seguridad con la Policía, para que los hijos de Quito se sientan seguros y a gusto. 
-
-Solo basta tomar el **Metro de Quito** para llegar rápido, sin congestión y seguro. El Municipio ha garantizado el servicio para los cinco días del **asueto**.
-
-Los otros sistemas de transporte también estarán disponibles, pero, tome en cuenta que se modificaron los horarios para esos días[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Si el Centro Histórico no convence, el **noroccidente de Quito** tiene la famosa **Mitad del Mundo**. Considere ir a las parroquias rurales, que también tienen sus atractivos y una oferta gastronómica tradicional.
-
-Es posible que salga renovado y, posiblemente, motivado, el mensaje que Quito quiere enviar a sus hijos y vecinos en este feriado de noviembre.
-
-10;8;6;4;14
-===========
-
-Cambios en cortes de energía erosionan la credibilidad del gobierno; se ve la reelección de Noboa como oportunidad de reformas.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-El desconcierto en el **gobierno** parece haber llegado a extremos inusitados: el jueves 17 de octubre el **presidente de la República** anunció que los **cortes de energía** se reducirían a 8, 6 y 4 horas diarias en las 3 semanas siguientes. El jueves 24 la ministra de Energía encargada informó que debido a la situación del complejo Paute, y siguiendo **instrucciones** del presidente al flamante Comité de Energía, los **cortes** serán de 14 horas diarias a partir del viernes 25.
-
-La **credibilidad** del **jefe de Estado** debe preservarse por sobre otros intereses. Si se la pierde, la compleja **responsabilidad** que implica la **presidencia** se vuelve mucho más difícil porque la **ciudadanía** desconfía de su palabra.
-
-Para anunciar la **reducción** de los cortes de 10 a 4 horas diarias, se debe asumir que el presidente de la República contó con **informes** de la **ministra de Energía** y su equipo, que aseguraban los nuevos períodos, más soportables que los descomunales de 14 horas. Y esas **responsabilidades** deben exigirse a los autores del error o, peor aún, si hubo mala fe.
-
-No es aceptable que se hubiere confiado en los anticipos del **organismo** que vigila el tiempo, pues, por **naturaleza**, no son seguros. Es importante dar **anuncios positivos**, especialmente cuando se trata del presidente-candidato, pero será indispensable evaluar su **certeza** para que el efecto no sea contrario al buscado. Aquello de que “el viento le ha jugado una mala pasada” está bien para alumnos de kindergarten o de los primeros cursos de escuela primaria, pero no para los **ciudadanos** que depositarán su voto en menos de 100 días.
-
-Al **gobierno de Noboa** no se le puede **responsabilizar** de la **caótica situación actual** de la **generación eléctrica**, pero sí de haber perdido  precioso tiempo luego de la ley “No más apagones”, para ahora someter al país a cortes inéditos de 14 horas diarias y buscar angustiosamente soluciones de última hora.
-
-Más allá de los desaciertos del gobierno, al país le conviene la **reelección** de Noboa, en la expectativa de que con un panorama de 4 años implemente las **reformas sustanciales** que requiere el país para liberarse de **Montecristi** y sus secuelas.
-
-Populismo rencoroso (II)
-========================
-
-La historia es de guerras, invasiones, batallas y conquistas, que han cambiado el mapa político del mundo.
-----------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-La presidenta electa **Claudia Sheinbaum**, como era de esperarse, refuerza con más pasión la retórica populista de López Obrador. Tensa más las relaciones con el **reino** de **España**; y, nos insiste, en la obscena exigencia de pedir el **salvoconducto** para un delincuente (Glas) mutándolo a **perseguido político**. México da lástima por su **descomposición institucional**.
-
-La **obsesión** del **populismo** es inventar enemigos. Leamos lo que escribe el destacado teórico del neo **constitucionalismo**, Luigi Ferrajoli, sobre la fijación **populista** de crear enemigos: «_es el **mecanismo típico** de la **demagogia populista**: se construyen enemigos potenciales (…) el embotellamiento de las **conciencias** y de las **inteligencias** con espectáculos estúpidos y vulgares_». Lo dice en su libro _poderes salvajes._
-
-La **historia** es de **guerras**, invasiones, **batallas** y conquistas, que han cambiado el **mapa político** del mundo. Se han erigido **civilizaciones** e imperios, unos en **apogeo** y otros en declive. Desde la época primitiva, donde se peleaba con piedras, palos, luego lanzas, cuchillos; y ahora, blindados, tanques, armas químicas, misiles, drones, **tecnologías de alta precisión** y hasta la **Inteligencia Artificial** o el indeseable arsenal nuclear. Los **populismos** simplifican todo y no comprenden la naturaleza de la **historia**.
-
-Quinientos años después, requerir a España que pida perdón a los **pueblos originarios**, es un monumental disparate. Larguísima sería la lista de agravios e indulgencias que deberían hacerse, unos y otros. Solo cito tres casos: 1) Que Lula da Silva, presidente del Brasil, demande del **gobierno** de la República Portuguesa, perdón por la **colonización** de hace más de quinientos años, e igual a los gobiernos de Francia y Holanda.  2)  Que la India, Turquía, Siria, Egipto, y Afganistán, soliciten al **gobierno griego** perdón por las guerras de conquista de **Alejandro Magno**, sucedidas 300 años antes de Cristo.
-
-Y, 3) Que los **mestizos** de **América Latina** reclamemos a los actuales líderes de las **comunidades indígenas** nos pidan perdón, ya que, en el mundo **precolombino**, aztecas, mayas e incas, realizaban **prácticas** sacrifícales y ofrendas de vidas humanas, que incluía a niños, en **ceremonias** ofrecidas a sus dioses, «violando» DD. HH.
-
-¡Ah!  Me olvidaba: que Sheinbaum, requiera a los descendientes de los mayas, perdón por los juegos de pelotas, como rito, con descabezamientos en Chichén Itzá.  El populismo es, por demás rústico.
-
-Cartas a Quito / 30 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este miércoles 30 de octubre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¿La reelección de Daniel Noboa es la única opción?
-
-De acuerdo a quienes las agrupaciones políticas han lanzado sus candidatos,  pienso que la única opción que nos queda es la reelección de Daniel Noboa para Presidente del  Ecuador. Se necesita la unidad de todos los ecuatorianos para que la reelección sea contundente y no admita mañoserías o metidas de la mano en el Tribunal Electoral. Aunque ahora ya Corina Machado nos enseñó cómo hacer, para descubrir el fraude que se teje tras la voluntad de un pueblo.
-
-Se necesita la unidad de todos los ecuatorianos para poder alcanzar mayoría en la Asamblea Nacional y de esta forma permitir al Presidente que haga los cambios de algunos artículos que en la constitución de Montecristi que nos metieron por la ventana.
-
-Es hora de desterrar de una vez y para siempre, ese fantasma del correismo, chavismo, Lula de Silva, Ortega,  que a la final se guían bajo ese sistema socialista del siglo XXI,  disfrazados de honestos, de hacedor de obras, personaje irascible el innombrable, porque de honrado no tiene nada, aunque justifiquen que por la justicia amañada no se ha dado paso al descubrimiento cierto y real de los recursos que saquearon al país. Que una  voz, valiente, fuerte y firme, como la Fiscal General del Estado, los ha puesto a correr y permanecer amparados por gobiernos de la misma línea política que los mantiene en calidad de perseguidos políticos.
-
-No podemos seguirles el juego. Ellos quieren que tú dividas tu voto.  Tú por el socialcristiano, tú por Suma,  tú por Pachakutik, el otro por la izquierda Democrática. Entonces nosotros todos votamos por Alianza y así somos mayoría, nuevamente.  NO. Eso es lo que buscan y esa es la consigna Si queremos desterrar al narcotráfico, una mayor acción contra la inseguridad, exterminar la extorsión que es el peor mal que nos está sucediendo; tener un país con futuro y para que pueda continuar con el buen manejo de los recursos del estado y pueda contar con la fuerza para llamar a nueva constituyente, para reformar lo que reformaron; lo único que nos queda es votar para Presidente y Asambleístas todo por Daniel Noboa. Así quieren llegar (divide y ganarás). Ellos calculan ganar, aunque la mayoría venga a ser solo el 25% o sea la tercera parte de los ecuatorianos.
-
-No soy afiliado a ningún partido político. Mi opinión va encaminada a buscar la salida a este dilema en el que nos encontramos y estoy convencido de que lo mejor en estos momentos para el Ecuador es el Sr. Daniel Noboa.
-
-Por un país que esperamos que nunca más, vamos a confiar en el que ha demostrado que lo único que le interesa es regresar para quemar en la hoguera a la oposición y en especial a la Fiscal General del Estrado. Que lo tiene sin dormir.
-
-Lionel Efraín Romero Reyes
-
-Colada morada y guaguas de pan, tradición ecuatoriana
-=====================================================
-
-Símbolos de la tradición ecuatoriana, uniendo sabores y memorias en el Día de los Difuntos.
--------------------------------------------------------------------------------------------
-
-![La tradición ecuatoriana que une sabores ancestrales.](https://www.elcomercio.com/wp-content/uploads/2024/10/1-1-1.jpg)
-
-La **colada** **morada** y las **guaguas** de **pan** son dos **elementos icónicos** que representan la rica herencia **cultural** de **Ecuador**, especialmente durante el **Día** de los **Difuntos**, celebrado cada 2 de noviembre. Esta **festividad** es un momento para recordar a los seres queridos que han partido, y la **gastronomía** juega un papel fundamental en la **conmemoración**.
-
-La **colada morada** es una **bebida espesa** hecha a base de maíz morado, **frutas** y especias, que simboliza la conexión entre los vivos y los muertos. Su color morado representa el luto y la **espiritualidad**, mientras que su **sabor** **dulce** y especiado evoca la calidez del **hogar**. Las **guaguas de pan** han evolucionado a lo largo del tiempo. Originalmente conocidas como “**pan de finados**“, eran **figuras sencillas**, sin adornos ni azúcar. Con el paso de los años, especialmente en la **década** de **1980**, comenzaron a **decorarse** con **colores vibrantes** y a rellenarse con dulces como **chocolate** o **manjar** de **leche**. ¡Anímate a preparar estas deliciosas recetas!
-
-Ingredientes para la colada morada
-----------------------------------
-
-4 litros de agua
-
-250 g de harina de maíz morado
-
-500 g de mortiño
-
-250 g de mora
-
-1 piña fresca (cortada en cubos)
-
-8 naranjillas
-
-1 lb (450 g) de fresas (cortadas)
-
-1 babaco (cortado)
-
-5 clavos de olor
-
-5 ishpingo (o anís estrellado)
-
-4 palitos de canela
-
-2 tazas de azúcar (ajustar al gusto)
-
-2 hojas de naranja
-
-Pimienta dulce al gusto
-
-Hierba luisa o cedrón (opcional)
-
-* * *
-
-> La preparación de la colada morada junto con las guaguas de pan es una actividad que une a las familias ecuatorianas cada año.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/3-3-1024x1024.jpg)
-
-La colada morada y las guaguas son un legado cultural que sigue presente en cada hogar ecuatoriano durante esta significativa celebración.
-
-Preparación de la colada morada
--------------------------------
-
-* En una olla grande, **hervir** 4 litros de agua junto con las especias: clavos de olor, canela, ishpingo, pimienta dulce, hojas de naranja y hierba luisa. **Dejar** hervir durante unos 20 minutos para que se infusionen bien los sabores.
-* En un recipiente aparte, **mezclar** la harina de maíz morado con aproximadamente 300 ml de agua hasta obtener una pasta homogénea. Esto ayudará a evitar grumos al integrarla más tarde.
-* En otra olla, **colocar** los trozos de piña y babaco con un poco de azúcar y cocinar a fuego medio hasta que estén tiernos. Reservar.
-* **Licuar** el mortiño, las moras y las naranjillas hasta obtener un puré. Cernir para separar el jugo.
-* Una vez que el agua aromática ha hervido, cuela para retirar las especias sólidas y vuelve a poner el líquido en la olla.
-* **Agregar** lentamente el puré obtenido en el paso anterior al agua caliente mientras revuelves constantemente.
-* Utiliza un colador o tamiz, **añadir** lentamente la harina hidratada al líquido caliente mientras sigues revolviendo para evitar grumos.
-* **Cocinar** a fuego lento durante unos 20 minutos o hasta que espese adecuadamente.
-* Finalmente, **incorporar** las frutas cocidas (piña y babaco) junto con las fresas cortadas. Cocinar por unos minutos adicionales para permitir que todos los sabores se integren.
-* **Ajustar** el dulzor añadiendo más azúcar o panela según tu preferencia.
-* **Servir** caliente en tazas y disfruta acompañado con guaguas de pan.
-
-Ingredientes para la receta guaguas de pan
-------------------------------------------
-
-1 cucharada sopera de levadura de pan
-
-½ taza de leche tibia
-
-½ taza de azúcar
-
-2 cucharaditas de sal
-
-4 tazas de harina
-
-1 cucharadita de canela en polvo
-
-4 cucharadas de mantequilla sin sal
-
-4 rellenos opcionales: chocolate, dulce de leche o mermelada
-
-2 yemas de huevo (batidas) para pintar las guaguas
-
-Glaseado colorido y decoraciones al gusto
-
-Preparación de la receta de guaguas de pan
-------------------------------------------
-
-* **Disolver** la levadura en la leche tibia.
-* **Agregar** ½ taza de harina para formar una masa liviana.
-* Dejar **reposar** durante al menos 45 minutos hasta que crezca.
-* En un bol grande, **añadir** los huevos, el azúcar, la canela, la sal y el resto de la harina a la mezcla inicial. **Mezclar** bien.
-* **Incorporar** la mantequilla y amasar hasta obtener una masa suave. Ajustar con más harina o leche según sea necesario.
-* **Formar** una bola con la masa, cubrirla y dejar leudar en un lugar cálido durante aproximadamente 2 horas o hasta que duplique su tamaño.
-* **Estirar** la masa sobre una superficie enharinada. Formar una bola para la cabeza y un óvalo más grande para el cuerpo.
-* **Rellenar** con chocolate o dulce al gusto antes de cerrar las figuras.
-* **Colocar** las figuras en una bandeja para hornear ligeramente engrasada. Dejar leudar nuevamente durante unos 15 minutos.
-* **Precalentar** el horno a 175 °C (350 °F).
-* **Pintar** las figuras con las yemas batidas para dar brillo.
-* **Hornear** durante 15 a 20 minutos o hasta que estén doradas.
-* **Dejar** enfriar completamente antes de decorar con glaseado colorido y grageas.
-
-Ambos **alimentos** no solo son parte del menú del **Día** de los **Difuntos**, sino que también reflejan la identidad **cultural ecuatoriana**. Las **familias** se reúnen para preparar estas delicias, transmitiendo **recetas** y **tradiciones** de generación en generación. La **colada morada** y las **guaguas** de **pan** han llegado a ser un símbolo de unidad **familiar** y **comunidad**.
-
-Torrenciales lluvias en España dejan muertos, desaparecidos e inundaciones
-==========================================================================
-
-Las provincias de Valencia y Albacete fueron las más afectadas por las intensas lluvias en España.
---------------------------------------------------------------------------------------------------
-
-![Las lluvias en el este de España han causado decenas de damnificados, en especial, en Valencia](https://www.elcomercio.com/wp-content/uploads/2024/10/lluvias-espana-inundaciones.jpg)
-
-Las **inundaciones** en **España** dejan una cifra desconocida de muertos y desaparecidos en **Valencia**; y de decenas de **damnificados** en **Albacete**, según el primer balance del Gobierno tras las fuertes **lluvias** registradas en el sur y este del país **europeo**.
-
-### Más noticias
-
-* [Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador")
-* [Kamala Harris lanza un anuncio para Puerto Rico](https://www.elcomercio.com/actualidad/mundo/kamala-harris-lanza-anuncio-puertorriquenos-insultos-trump.html "Kamala Harris lanza un anuncio para Puerto Rico")
-* [Donald Trump eleva el tono en la semana final de campaña](https://www.elcomercio.com/actualidad/mundo/donald-trump-eleva-tono-semana-final-campana.html "Donald Trump eleva el tono en la semana final de campaña")
-
-Las **autoridades** de **Valencia** confirmaron la noche de este martes 29 de octubre de 2024, el hallazgo de varias **víctimas** mortales; aunque no se precisó ni la ubicación ni la cifra provisional.
-
-A esta confirmación se une el número de al menos siete **desaparecidos**, uno en **Valencia** y seis en **Letur** (**Albacete**), localidad que vivió intensas **precipitaciones** que arrastraron a dos **trabajadores** municipales en un vehículo que todavía no se ha encontrado[.](https://efe.com/espana/2024-10-29/alerta-temporal-lluvia-viento-mala-mar-tormentas/ "https://efe.com/espana/2024-10-29/alerta-temporal-lluvia-viento-mala-mar-tormentas/")
-
-Decenas de damnificados
------------------------
-
-En otros puntos de las provincias, decenas de **personas** se encuentran bajo el agua, cubriéndose en **centros** comerciales, vehículos, tejados o **árboles**.
-
-Las **lluvias** torrenciales y las **tormentas** eléctricas provocaron este martes una situación “excepcional” que afectó especialmente en el sur, centro y este de la **península** ibérica, llamando a que las **autoridades** decreten la alerta roja en **Valencia**.
-
-Estas **lluvias** son las más fuertes en esta **región** desde el 11 de septiembre de 1966; acumulando un total frente de 445,4 litros por m².
-
-Ante la **emergencia**, el **Gobierno** formó un comité de crisis en el litoral **mediterráneo** y **Albacete**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBuxbFdh6Ti/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBuxbFdh6Ti/?utm_source=ig_embed&utm_campaign=loading)
-
-Vías cerradas y clases suspendidas en Valencia
-----------------------------------------------
-
-El **Ministerio** de **Transporte** español informó esta madrugada a través de la red social X que este miércoles no habrá servicio de **Cercanías** en **Valencia** hasta que las condiciones meteorológicas lo permitan.
-
-Durante toda la jornada, hubo varios **cierres** de vías por la acumulación de agua y se produjeron dos **volcamientos** de camiones.
-
-Por su parte, la **autoridad** aeroportuaria señaló que ya son doce los **vuelos** desviados y diez los **cancelados** en el aeropuerto de **Valencia**, mientras que vídeos reportados en las redes sociales mostraban unas pistas **inundadas**.
-
-También la **capital** y diversos municipios de la provincia de **Valencia** han suspendido las **clases** para este miércoles 30 de octubre, debido a la situación meteorológica.
-
-Búsqueda de desaparecidos en **Albacete**
------------------------------------------
-
-El otro foco de preocupación se encuentra en la provincia de **Albacete**, donde esta noche la **Guardia** Civil continúa buscando a las seis **personas** que están sin localizar en **Letur**.
-
-Los **uniformados** patrullarán en vehículos y también con **drones** el lugar, para detectar focos de **calor**.
-
-Otras provincias afectadas por las fuertes **lluvias** son **Málaga**, **Granada** y **Almería**, donde se registran alertas de viviendas, sótanos, **garajes** y vías **inundadas**.
-
-La entidad a cargo del **clima** prevé que este miércoles continúen las **precipitaciones**. La **agencia** no descartó que los **chubascos** alcancen intensidad torrencial, acompañados de **granizo** y fuerte **viento** a la madrugada. Con información de **EFE**.
-
-Quito tiene intersecciones conflictivas durante los cortes de luz
-=================================================================
-
-Los cortes de luz provocan que algunos semáforos de Quito presenten novedades y complican el tránsito en las intersecciones.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz complican el tránsito de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Cortes-de-luz-transito-Quito.jpg)
-
-Los cortes de luz complican la movilidad en **Quito**. Tras 43 días de apagones, la Agencia Metropolitana de Tránsito (**AMT**) identificó las intersecciones viales más conflictivas de la ciudad[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria. "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,Gr%C3%A1fica%20de%20una%20falla%20transitoria.")
-
-Más noticias
-------------
-
-* [Cortes de luz en Quito este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-30-octubre.html "Cortes de luz en Quito este miércoles 30 de octubre")
-* [Cortes de luz en Quito para este feriado de Difuntos](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-para-feriado-difuntos.html "Cortes de luz en Quito para este feriado de Difuntos")
-* [Cortes de luz se reducen por mejoras en caudal este 28 de octubre](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-se-reducen-por-mejoras-en-caudal.html "Cortes de luz se reducen por mejoras en caudal este 28 de octubre")
-
-La **AMT** informó que, con los cortes de luz de 10 a 14 horas anunciados por el **Gobierno** **Nacional**, se priorizan los controles en las vías con mayor circulación.
-
-Intersecciones más conflictivas en Quito por cortes de luz
-----------------------------------------------------------
-
-Washington Martínez, director de la **AMT**, señaló que las calles más congestionadas durante los cortes de luz son aquellas de cuatro carriles de circulación, como la avenida **Amazonas**, **América**, **6 de** **Diciembre** y **Shyris**. En estas avenidas hay hasta tres agentes de tránsito para gestionar el flujo vehicular.
-
-En el sur de **Quito**, vías como la **Mariscal** **Sucre**, desde el colegio **Paulo VI hasta Chillogallo**, presentan dificultades, al igual que otras avenidas como la Eloy Alfaro, 10 de Agosto, Patria, Colón, Napo, Alonso de Angulo, Rodrigo de Chávez, Teniente Hugo Ortiz y Quitumbe Ñan.
-
-Por otro lado, los redondeles que presentan mayores desafíos son los del **Ciclista**, **Zámbiza** y **El** **Condado**.
-
-La **AMT** indicó que en estos sectores toda la carga vehicular diaria coincide con los cortes de 17:00 a 20:00, lo cual afecta el tránsito desde el **hipercentro** hacia los valles y hacia la ciudad.
-
-Afirma que la situación se complica porque no hay una disminución del uso del vehículo privado hacia el **transporte** **público**, lo cual sobrecarga todas las vías.
-
-Horarios más complicados de movilidad en Quito por cortes de luz
-----------------------------------------------------------------
-
-Martínez señaló que los cortes de luz más complicados para la movilidad son entre las 11:00 y las 15:00, y en la noche, de 17:00 a 20:00.
-
-En cuanto a la cantidad de agentes que gestionan el tráfico en **Quito**, informó que se destinan 500 efectivos en la mañana, 505 en la tarde y 235 en horas de la madrugada.
-
-Meteórico aumento de la compra de generadores eléctricos en Ecuador
-===================================================================
-
-La crisis energética en Ecuador impulsa un incremento notable en la importación de generadores eléctricos, principalmente desde China.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Locales comerciales buscan adquirir sus propios generadores eléctricos.](https://www.elcomercio.com/wp-content/uploads/2024/10/GENERADORES-ELECTRICOS-1.jpg)
-
-Cada vez más ecuatorianos buscan **generadores eléctricos,** debido a la crisis energética que atraviesa el país. La prolongada sequía y el déficit de **1 080 megavatios** (MW) obligan a las autoridades a programar cortes de luz hasta 14 horas diarias en todo Ecuador. Esta situación amplió la necesidad de autoabastecimiento eléctrico[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?](https://www.elcomercio.com/actualidad/negocios/bancos-privados-en-ecuador-ofrecen-diferir-creditos-por-cortes-de-luz-en-que-consiste.html "Bancos privados en Ecuador ofrecen diferir créditos por cortes de luz, ¿en qué consiste?")
-* [En casa o en la calle siga estos tips de seguridad por los cortes de luz](https://www.elcomercio.com/actualidad/ecuador/consejos-seguridad-para-contemplar-durante-cortes-luz.html "En casa o en la calle siga estos tips de seguridad por los cortes de luz")
-* [Daniel Noboa explicó las razones de los cortes de luz a Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-explica-razones-cortes-luz-ecuador.html "Daniel Noboa explicó las razones de los cortes de luz a Ecuador")
-
-Según datos del **Banco Central del Ecuador**, entre enero y agosto de este 2024 se importaron 5 990 toneladas de **generadores eléctricos**. El monto representa un crecimiento del 209% en comparación con lo importando en el mismo período del 2023. Asimismo, si se compara con los primeros ocho meses de 2022, el crecimiento es de 164%.
-
-En valor, el monto importado entre enero y agosto del 2024 asciende a 43,6 millones de dólares. La cifra representa un incremento del 133%, en comparación con lo comprado en los primeros ocho meses del 2023.
-
-El principal país de donde provienen estos equipos son de **China**. El país asiático entregó el 71% de los generadores eléctricos que llegó al Ecuador entre enero y agosto de 2024. Mientras que en 2023, representaba el 33%.
-
-El segundo país de donde vienen los generadores eléctricos es **Perú**, con el 9%. A este le siguen **Estados Unidos, India y Colombia.**
-
-**Julio José Prado**, exministro de Producción, señaló que es notable el crecimiento de las importaciones de estos equipos en los primeros ocho meses del año, incluso antes de que el gobierno redujera los aranceles. “Las familias parecían anticiparse a lo que estaba por venir. Esto sugiere que en los próximos meses el incremento de importaciones será aún mayor”, dijo.
-
-Reducción de los aranceles e impuestos a los generadores
---------------------------------------------------------
-
-Las cifras de importación de generadores eléctricos entre enero y agosto de 2024 aún no registran la reducción del **impuesto al valor agregado** (IVA) y de **aranceles** que decretó el gobierno de **Daniel Noboa** a inicios de octubre de 2024.
-
-El presidente **Noboa** dispuso que los generadores eléctricos paguen 0% por IVA y 0% por la importación de estos equipos.
-
-**Prado** también señaló que la reducción de aranceles para los generadores eléctricos beneficia **parcialmente la importación** de estos equipos, ya que la mayoría de los generadores vendidos en Ecuador provienen de China y Europa, con los que ya se tiene acuerdos comerciales y el arancel es de 0%.
-
-Esta medida favorece principalmente a productos de origen estadounidense y de otros países sin TLC vigente, agregó.
-
-Compra de generadores
----------------------
-
-Actualmente, los generadores eléctricos están agotados en el país. Por ejemplo, en un **importador de Quito** no hay generadores pequeños de 1KW a 6KW, está previsto que los equipos lleguen las próximas semanas. Los últimos generadores de esta potencia se comercializaron entre 400 dólares a 1 200 dólares. Los mismos que deberían bajar con la reducción de impuestos y aranceles.
-
-Los generadores de 1KW a 6KW pueden satisfacer las necesidades de un local pequeño o una vivienda, señaló **Giovanny Núñez**, especialista eléctrico.
-
-Asimismo, agregó que para una tienda que tenga nevera o refrigeradoras se necesita un generador de 10KW o más, el costo de estos equipos sobrepasa los 3 000 dólares.
-
-Mientras que un equipo para un edificio de unos 10 pisos o industrias grandes, se requiere equipos más potentes de más de 130KW. Estos equipos son muy costosos.
-
-Los generadores eléctricos trabajan con gasolina o diésel, el consumo depende de la capacidad del generador. Por ejemplo, el generador de 130KW consume 6,25 galones de diésel por cada hora de generación.
-
-Incendio forestal en la Reserva del Antisana fue controlado luego de 14 horas
-=============================================================================
-
-El incendio forestal en el Antisana se registró en la madrugada de este martes 29 de octubre.
----------------------------------------------------------------------------------------------
-
-![Personeros del Cuerpo de Bomberos de Quito y del Fonag trabajan en el incendio forestal](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-forestal-antisana.jpg)
-
-Un incendio forestal se registró en el sector del **Antisana**, al sureste de Quito, desde la madrugada de este martes 29 de octubre.
-
-### Más noticias
-
-* [Tres lugares en donde probar una buena colada morada en Quito durante el feriado](https://www.elcomercio.com/actualidad/colada-morada-agustinas-mercado-inaquito-santa-clara.html "Tres lugares en donde probar una buena colada morada en Quito durante el feriado")
-* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
-* [El abandono es crueldad animal y se sanciona en Quito](https://www.elcomercio.com/narices-frias/abandono-crueldad-animal-quito-sancion-multa.html "El abandono es crueldad animal y se sanciona en Quito")
-
-Según detalló el Cuerpo de Bomberos de la ciudad, el fuego tuvo lugar en la hacienda Guaytara, en Pintag, en la **Reserva Ecológica** **Antisana**.
-
-**18 guardapáramos** del Fondo para la Protección del Agua (Fonag) y **47 bomberos** trabajaron en el control del fuego en el sitio; además de 14 unidades contraincendios y logísticas.
-
-También se utilizó drones para realizar el monitoreo termográfico en el lugar y ubicar las rutas de acceso más seguras.
-
-En imágenes difundidas por usuarios en redes sociales se observó como el **humo**, producto de la quema de la vegetación seca, cubrió el aire en los sectores cercanos al incendio.
-
-Incendio forestal fue controlado la noche de este martes
---------------------------------------------------------
-
-La emergencia inicial registró llamas en dos flancos aproximadamente **tres kilómetros**; hasta las **17:45**, el fuego estaba controlado en un **80%**, restando una línea de vegetación de **dos kilómetros**.
-
-Finalmente, los ‘casacas rojas’ informaron que el incendio fue totalmente controlado y liquidado pasadas las 20:00 de este martes 29 de octubre.
-
-Por ello, el personal a cargo se desmovilizó de la zona, mientras los monitoreos continuiarán durante la noche para evitar reinicios de puntos de calor.
-
-“Al momento se presenta una pequeña llovizna la cual favorece a bajar la temperatura en el sector”, enfatizó la entidad.
-
-> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Incendio forestal en el sector del Antisana.  
->   
-> 🧑‍🚒 Con 47 efectivos y 14 vehículos continuamos nuestras operaciones de control y extinción del fuego.  
->   
-> 🛰️ Sobrevolamos el sitio con nuestras aeronaves no tripuladas (drones), para determinar zonas de acceso, y… [https://t.co/nMxTXaiyyd](https://t.co/nMxTXaiyyd) [pic.twitter.com/dFcKtnBoRM](https://t.co/dFcKtnBoRM)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 30, 2024](https://twitter.com/BomberosQuito/status/1851415550976782790?ref_src=twsrc%5Etfw)
-
-Reserva del Antisana
---------------------
-
-En la Reserva del Antisana se encuentra el **volcán** del mismo nombre. El volcán Antisana mide **5 758 metros**, siendo el cuarto más grande de Ecuador por detrás del Chimborazo, Cotopaxi y Cayambe.
-
-Se ubica en la Cordillera Oriental de los Andes, a unos **50 kilómetros** al sureste de Quito. Si bien es un volcán potencialmente activo, no ha registrado erupciones significativas en tiempos históricos.
-
-Se presume que han ocurrido al menos 4 erupciones en el Antisana: **1590-1600, 1760, 1773 y 1802**; pero la única comprobada es la primera.
-
-Debido a la situación remota del volcán no existen relatos detallados de las otras erupciones. Las de 1760 y 1773, por ejemplo, al parecer fueron solo flujos de lava que se asocian la Caldera de Chacana y no al Antisana propiamente dicho.
-
-La supuesta erupción de 1802 corresponde a un relato de **Alexander von Humboldt** que refería la presencia de humo cerca del volcán; sin embargo, no existe otra confirmación de este fenómeno.
-
-Actualmente, no se observa ningún tipo de actividad eruptiva en el Antisana, aunque algunos montañistas han reportado **olor a azufre** en las partes altas.
-
-Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador
-========================================================================================
-
-Ecuador busca opciones de compra en el sector privado de Colombia y fortalece relaciones con tres empresas de ese país.
------------------------------------------------------------------------------------------------------------------------
-
-![Inés Manzano anunció que Ecuador analiza comprar energía al sector privado de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador-compra-energia-sector-privado-colombia-1.jpg)
-
-Tras la negativa del Gobierno de **Colombia** para reactivar la venta de **energía**, **Ecuador** baraja opciones para **comprar** al **sector privado** de ese país.
-
-### Más noticias:
-
-* [Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano](https://www.elcomercio.com/actualidad/negocios/colombia-venta-energia-ecuador-ines-manzano-cortes-luz.html "Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano")
-* [Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano](https://www.elcomercio.com/actualidad/ecuador/ines-manzano-promesa-reducir-cortes-de-luz-hasta-cuando.html "Inés Manzano habla sobre los cortes de luz; dijo que dialogará con ministro colombiano")
-
-La ministra de Energía encargada, **Inés Manzano**, confirmó que su par colombiano se negó a la posibilidad de vender, “**pese a que sus embalses están llenos**“, este martes 29 de octubre de 2024.
-
-“Lamentablemente, el ministro de Minas, Andrés Camacho dijo que, aunque hay toda la disponibilidad y voluntad política por parte del presidente de **Colombia**, no pueden vender lo que necesitamos de energía, así que estamos viendo la parte privada”, puntualizó la Ministra.
-
-Ecuador baraja opciones para comprar energía al sector privado de Colombia
---------------------------------------------------------------------------
-
-Inés Manzano mencionó que esperan que se agilicen los procesos para que la **transacción** pueda hacerse con el sector privado.
-
-“Le dije que desde el 18 de octubre él tiene el borrador de regulación de Ecuador para habilitar la compra al privado de Colombia”, agregó la funcionaria, quien destacó que **Andrés Camacho** le dijo que iban a elaborar la normativa.
-
-Por eso Ecuador ahora está analizando la “**compra directa** a la empresa privada colombiana”.
-
-“Estamos viendo que nos hagan las **ofertas**, que ya hemos tenido algunas. Es interesante porque el mercado energético de Colombia es completamente diferente al ecuatoriano, aquí (Colombia) es casi el **100 % privado**“, señaló.
-
-La ministra resaltó que ambos países han sido por años **socios estratégicos** en temas de energía.
-
-Por esta razón, existen ya las conexiones adecuadas para que el **plan privado** funcione.
-
-“No hay prohibición por parte de Colombia y lo que esperamos es conseguir estos **contratos**“, indicó.
-
-“Creemos que con la declaración del presidente de Colombia diciendo al mundo entero que hay que ayudar a los países que tienen **déficit hídrico**, entre esos está Ecuador, eso lo tomamos como una buena voluntad y no hay un tema ideológico de por medio”, agregó Manzano.
-
-La Ministra hizo pública la negativa del **Gobierno colombiano** a retomar de momento el suministro de electricidad a Ecuador en declaraciones a **Caracol**.
-
-El presidente **Daniel Noboa,** Manzano y la canciller Gabriela Sommerfeld participaron en la **Conferencia de las Naciones Unidas sobre Biodiversidad (COP16)**, realizada en Cali.
-
-Empresas privadas dispuestas a vender energía a Ecuador
--------------------------------------------------------
-
-De acuerdo con la Ministra, Ecuador espera llegar a acuerdos con algunas empresas privadas de energía.
-
-Entre las compañías que hicieron sus ofertas al país están: **Imasd, Ciudadanos de China, la Empresa Eléctrica de Medellín, Termovalle y Termocali**.
-
-Estas dos primeras habrían ofrecido entregar 100 MW y 200 MW respectivamente. Mientras que Termovalle y Termocali no tendrían problema, ya que no forman parte del mix energético de Colombia.
-
-En total, Ecuador planea reponer al menos 300 MW, déficit que no se ha podido completar con las ventas menores de Colombia en los últimos meses.
-
-“Colombia nos vendía unos 450 MW, pero desde septiembre esto ha bajado, en algunas ocasiones nos han entregado 180 o 200 MW; la última vez, el 9 de octubre nos vendieron 25 MW”, explicó Manzano.
-
-Acciones de Ecuador para la compra de energía a privados en Colombia
---------------------------------------------------------------------
-
-En un video en Instagram, la tarde de este martes, la ministra Inés Manzano manifestó que la visita a Colombia ha generado que se **avance** a la compra de energía a privados.
-
-En los últimos tres días, se ha actualizado la **normativa ecuatoriana** para comprar a privados.
-
-Además, se ha trabajado con su par colombiano para que este país **actualice su normativa** y la empresa privada pueda vender energía a Ecuador.
-
-Manzano aseguró que se ha fortalecido las relaciones comerciales con **tres empresas privadas colombianas** para que vendan energía a Ecuador.
-
-Finalmente, ayer, se aprobaron las **tarifas de energía no convencional**, que le permiten la venta al Estado ecuatoriano y con eso se permite diversificar el sistema energético.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBuRYaGJmRb/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Inés María Manzano Díaz (@inesmariamanzano)](https://www.instagram.com/reel/DBuRYaGJmRb/?utm_source=ig_embed&utm_campaign=loading)
-
-SRI abre convocatoria de trabajo para cubrir 54 vacantes
-========================================================
-
-Las vacantes de trabajo del Servicio de Rentas Internas incluyen remuneraciones que van desde los 622 hasta los 1 760 dólares.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Los seleccionados cubrirán vacantes en Quito, Guayaquil y San Miguel de Bolívar](https://www.elcomercio.com/wp-content/uploads/2024/10/trabajo-vacantes-sri.jpg)
-
-El Servicio de Rentas Internas (**SRI**) abrió la convocatoria de trabajo para cubrir **54 vacantes** a través de un concurso de méritos y oposición, este martes 29 de octubre de 2024.
-
-### Más noticias
-
-* [Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado](https://www.elcomercio.com/tendencias/turismo/haciendas-pichincha-cotopaxi-feriado-vacaciones.html "Descubre la magia del turismo rural en Pichincha y Cotopaxi durante el próximo feriado")
-* [Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz](https://www.elcomercio.com/actualidad/negocios/modificacion-jornada-laboral-cortes-luz.html "Ministerio de Trabajo emitió acuerdo para modificación de jornada laboral por cortes de luz")
-* [Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre](https://www.elcomercio.com/actualidad/ecuador/gobierno-daniel-noboa-decision-jornada-laboral-jueves-31-octubre.html "Gobierno toma una decisión sobre la jornada laboral y las clases del jueves 31 de octubre")
-
-El proceso de convocatoria incluye **puestos laborales** con remuneraciones que van desde los 622 hasta los **1 760 dólares**.
-
-Las vacantes del SRI están destinadas a trabajos para especialistas, analistas, asistentes, técnicos y agentes **tributarios** en distintas áreas.
-
-La convocatoria comprende: 37 plazas para **Guayaquil** (Zona 8), 10 para **Quito** (Zona 9) y 7 para **San Miguel de Bolívar**.
-
-Sin embargo, a este concurso se puede aplicar desde cualquier ciudad del Ecuador, hasta el **martes 5 de noviembre de 2024**.
-
-54 Empleos disponibles para el SRI
-----------------------------------
-
-### Vacantes en Quito
-
-Los sueldos mensuales para las **10 vacantes** en Quito oscilan entre los **817 a los 1 760 dólares**. Los puestos son:
-
-* Especialista de asistencia al ciudadano
-* Analista 2 tributario (2 vacantes)
-* Analista nacional de inteligencia tributaria (2 vacantes)
-* Especialista de recaudación (2 vacantes)
-* Especialista nacional de asistencia al ciudadano
-* Especialista nacional de control tributario
-* Especialista nacional de inteligencia tributaria
-
-### Vacantes en Guayaquil
-
-Los sueldos mensuales para las **37 vacantes** en Guayaquil oscilan entre los **817 a los 1 760 dólares**. Los puestos son:
-
-* Agente tributario (3 vacantes)
-* Analista 1 tributario (9 vacantes)
-* Analista 2 de reclamos (4 vacantes)
-* Asistente técnico (6 vacantes)
-* Especialista de asistencia, gestión y cobro de grandes contribuyentes (4 vacantes)
-* Especialista de fiscalización de grandes contribuyentes (4 vacantes)
-* Especialista de gestión tributaria (3 vacantes)
-* Perito de grandes contribuyentes (4 vacantes)
-
-### Vacantes en San Miguel de Bolívar
-
-Los sueldos mensuales para las **7 vacantes** en San Miguel de Bolívar oscilan entre los **622 a los 901 dólares**. Los puestos son:
-
-* Asistente de avalúos y catastros
-* Asistente de la unidad de cultura
-* Asistente de tesorería
-* Secretario recaudador
-* Técnico de obras públicas
-* Técnico de rentas
-* Técnico de seguridad y salud ocupacional
-
-Pasos para participar en la convocatoria
-----------------------------------------
-
-Para participar en la convocatoria primero deberás **crearte una cuenta** en el portal de [Encuentra Empleo](https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspirante.jsf "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/registro/aspirante/registroAspirante.jsf") del **Ministerio de Trabajo**.
-
-Dentro de sitio web tendrás que completar tu **hoja de vida** con: información personal, experiencia laboral, estudios académicos, cursos y referencias. Recuerda que estos datos no podrás modificarlos cuando ya tengas una postulación abierta.
-
-Una vez tengas tu acceso, dirígete al **menú principal** de la [pagina web](https://encuentraempleo.trabajo.gob.ec/) del concurso de méritos y oposición.
-
-Busca y selecciona la opción ‘**Ofertas del sector público**‘; ahí encontrarás las vacantes abiertas por el SRI.
-
-> 🚀 ¡El SRI habilita más de 50 vacantes en todo el país!  
->   
-> ✅ Aplica a los concursos de mérito y oposición desde la plataforma [https://t.co/R0HgtjQVbe](https://t.co/R0HgtjQVbe).[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Wz1zHZ4rVQ](https://t.co/Wz1zHZ4rVQ)
-> 
-> — SRI Ecuador (@SRIoficialEc) [October 29, 2024](https://twitter.com/SRIoficialEc/status/1851336069050212458?ref_src=twsrc%5Etfw)
-
-Criterios de selección de los postulantes
------------------------------------------
-
-Los postulantes que cumplan con el perfil pera las vacantes serán notificados para que rindan las **pruebas psicométricas**. Esta parte del proceso tiene una cuantificación del **40 %**.
-
-Los candidatos que alcancen 80 puntos o más pasarán al siguiente nivel, las **pruebas técnicas**, que equivalen al **50 %** de la nota del concurso.
-
-Finalmente, las tres personas con los mejores puntajes accederán a una **entrevista**, donde serán calificados con el **10 %**.
-
-Si cumples con alguno de los siguientes criterios podrás acumular un **puntaje adicional**:
-
-* Persona retornada al Ecuador (2 puntos)
-* Autodenominación a alguna etnia o nacionalidad (2 puntos)
-* Héroes y heroínas (10 puntos)
-* Excombatiente (5 puntos)
-* Residente en alguna vacante fronteriza (2 puntos)
-
-Si no apareces en el listado de los seleccionados puedes **apelar** máximo un día después de la publicación de los resultados, en cualquier parte del proceso.
-
-CNE hizo cambios para el debate presidencial 2025
-=================================================
-
-El debate presidencial 2025 se realizará con cambios aprobados por el Pleno del CNE.
-------------------------------------------------------------------------------------
-
-![El CNE sesionó para hacer cambios al debate presidencial de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/cne-cambios-debate-presidencial.jpg)
-
-El **Consejo Nacional Electoral (CNE)** hizo cambios para el **debate presidencial** 2025, este martes 29 de octubre de 2024.
-
-El Pleno del CNE reformó el **Reglamento y Manual** del debate presidencial obligatorio 2025.
-
-### Más noticias:
-
-* [CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas](https://www.elcomercio.com/actualidad/politica/cne-nego-inscripcion-lista-asambleistas-nacionales.html "CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas")
-* [288 policías y 64 vehículos se destinan para seguridad de binomios presidenciales](https://www.elcomercio.com/actualidad/politica/288-policias-64-vehiculos-seguridad-binomios-presidenciales.html "288 policías y 64 vehículos se destinan para  seguridad de binomios presidenciales")
-
-Los cambios del CNE para el debate presidencial 2025
-----------------------------------------------------
-
-Actualmente, 15 de los 16 **binomios** que se inscribieron en el Consejo Nacional Electoral (CNE) tienen la denominación en firme.
-
-La **lista definitiva** para las elecciones generales se conocerá el 30 de diciembre de este 2024.
-
-En tanto, el Consejo Nacional Electoral (CNE) continúa con el proceso electoral previo al día de los **comicios** del 9 de febrero de 2025.
-
-El Pleno del CNE aprobó las reformas al **Reglamento y Manual** del debate presidencial obligatorio 2025.
-
-Entre las modificaciones de la normativa, se propiciará una dinámica de **interacción** de un candidato con dos e, incluso, con más candidatos, en cada eje temático.
-
-El debate presidencial de la **primera vuelta electoral** está previsto para **19 de enero**.
-
-Según los cambio del organismo electoral, este primer debate será un solo programa con una duración aproximada de tres horas, dividido en **dos franjas horarias**.
-
-El debate de primera vuelta iniciará a las 19:00 y se dividirá en **dos franjas horarias**, de haber más de ocho candidatos.
-
-Cada franja tendrá una duración aproximada de hasta **noventa minutos**.
-
-### Segunda vuelta
-
-De existir **segunda vuelta electoral**, el debate se realizará el **23 de marzo**. Durará, aproximadamente, dos horas.
-
-“Esta estructura busca garantizar que los candidatos a la Presidencia de la República presenten sus planes de gobierno en **igualdad de condiciones**“, informó el organismo.
-
-Para el desarrollo del debate se deberá contar con una planta eléctrica ante posibles fallas del fluido de energía o con un **generador eléctrico**, con una autonomía mínima de 10 horas.
-
-Los candidatos contarán con 25 segundos para realizar su **presentación** y no podrán hacer referencia o alusión a otros participantes.
-
-La apertura y presentación de los candidatos tendrá una **duración** de 4 minutos y 50 segundos.
-
-Estas reformas fueron elaboradas con la asistencia de **Argentina** y la cooperación del **Instituto Nacional Demócrata (NDI).**
-
-El próximo 9 de febrero de 2025, los ecuatorianos eligen: **Presidente y Vicepresidente** de la República, **asambleístas** nacionales, provinciales y del exterior, y **parlamentarios andinos**.
-
-Todas estas dignidades para el período **2025-2029**.
-
-José Pileggi renuncia a su cargo como presidente de Emelec
-==========================================================
-
-José Pileggi, presidente de Emelec, abandona la institución en medio de una tensa crisis económica y deportiva.
----------------------------------------------------------------------------------------------------------------
-
-![José Pileggi durante su periodo como presidente de Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-29T204925.196.jpg)
-
-La crisis deportiva y administrativa en **Emelec** se agudiza y sumó un nuevo capítulo para el club. La tarde de este martes 29 de octubre del 2024, su presidente **José Pileggi** presentó su renuncia como presidente del club.
-
-El titular de la escuadra guayaquileña se reunió con miembros de la directiva de la escuadra guayaquileña en la fecha mencionada. Tras aquel encuentro, el máximo dirigente del ‘**Bombillo**‘ tomó y manifestó su decisión de no seguir al mando de la institución.
-
-### Más noticias:
-
-* [Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/gilmar-napa-emelec-siniestro-transito.html "Gilmar Napa, jugador de Emelec, involucrado en siniestro de tránsito")
-* [Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro](https://www.elcomercio.com/deportes/futbol/emelec-derrota-catolica-gol-moreno.html "Emelec sufre otra derrota y se hunde en la tabla de la Liga Pro")
-* [José Pileggi se plantea renunciar a la presidencia de Emelec](https://www.elcomercio.com/deportes/jose-pileggi-se-plantea-renunciar-a-la-presidencia-de-emelec.html "José Pileggi se plantea renunciar a la presidencia de Emelec")
-
-**María José Gavilanes**, periodista de El Canal del Fútbol, fue quien brindó detalles en torno al hecho. De acuerdo a ella, la directiva se ha dividido entre otorgar el cargo al vicepresidente César Avilés y convocar a una elección.
-
-Hasta que se dirima el futuro del plantel millonario, Avilés deberá asumir como presidente de manera transitoria. A raíz del hecho, ni los azules ni **José Pileggi** han emitido un pronunciamiento oficial ni se han referido a lo sucedido.
-
-Emelec, contra las cuerdas en la Liga Pro
------------------------------------------
-
-Durante la temporada 2024, **Emelec** ha contado con más de un inconveniente y limitación. Aquello se ha hecho presente tanto a nivel administrativo como futbolístico y ambos ámbitos y su presente han tenido influencia entre sí.
-
-Dentro de la **Liga Pro**, el cuadro azul se encuentra en la penúltima posición de la tabla de la segunda etapa con siete unidades. A pesar de que ha ganado en tres oportunidades, empatado en una y perdido en siete durante la ronda, el equipo cuenta con tres puntos menos de los correspondientes debido a una sanción causada por deudas.
-
-En la tabla acumulada, Emelec ocupa el noveno puesto con **32 puntos** y se aferra a la esperanza de clasificar a la Copa Sudamericana. Al torneo internacional ingresan los equipos ubicados desde el quinto al octavo puesto.
-
-Emelec, con deudas y sin poder fichar
--------------------------------------
-
-En días previos a la renuncia de Pileggi, el jugador **Alexander González** se refirió a que en Emelec le habían manifestado a la plantilla que “no hay dinero”. “**No es un tema de salarios solamente, es un tema de impago de primeras, pasajes aéreos**“, manifestó el futbolista.
-
-A lo manifestado por el miembro de la escuadra eléctrica, **Emelec** le suma una prohibición de la FIFA para fichar jugadores de cara a la siguiente temporada. Aquello se dio debido a la infracción de una sanción previa desde el ente rector del fútbol.
-
-Cortes de luz se suspenden en ciertos sectores de Cuenca durante el feriado
-===========================================================================
-
-El Gobernador de Azuay, Luis Malo, detalló los cambios que tendrá la programación de cortes de luz en Cuenca para el feriado.
------------------------------------------------------------------------------------------------------------------------------
-
-![Cuenca mantiene cortes de luz de seis y 14 horas](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-cuenca-feriado.jpg)
-
-**Cuenca** está próxima a celebrar las fiestas por su **independencia**. Esta festividad se unirá al **Día de Difuntos** y a un **asueto extraordinario** decretado por el Gobierno en los que los ecuatorianos tendrán **cinco días** de descanso obligatorio.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-miercoles-30-octubre.html "Cortes de luz en Guayaquil este miércoles 30 de octubre")
-* [Cortes de luz en Quito este miércoles 30 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-30-octubre.html "Cortes de luz en Quito este miércoles 30 de octubre")
-* [Ecuador baraja opciones para comprar energía al sector privado de Colombia](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Ecuador baraja opciones para comprar energía al sector privado de Colombia")
-
-El extenso feriado comenzará el **jueves 31 de octubre** y finalizará el **lunes 4 de noviembre**.
-
-Sectores turísticos de Cuenca suspenden cortes de luz
------------------------------------------------------
-
-Ante ello, el Gobernador de Azuay, **Luis Malo González**, anunció que se realizarán cambios en los cronogramas de **cortes de luz** para Cuenca, con el objetivo de **incentivar el turismo** local y nacional[.](https://www.ministeriodegobierno.gob.ec/azuay/ "https://www.ministeriodegobierno.gob.ec/azuay/")
-
-En el anuncio de este martes 29 de octubre de 2024, el funcionario detalló que durante los cinco días de feriado, los sectores turísticos de la capital azuaya, como el **Centro Histórico**, no tendrán suspensiones del fluido eléctrico.
-
-Según indicó Malo, los cortes de luz se suspenderán también en los lugares en donde se tiene previsto realizar **57 eventos especiales** por las festividades de Difuntos e independencia de Cuenca.
-
-“Este es un aporte para fomentar el turismo en la ciudad, entendamos que estamos en un momento difícil (…) Estas fechas no solo son para celebrar, sino también para **revitalizar nuestra economía**“, mencionó el Gobernador.
-
-Apagones se mantendrán en el resto de Cuenca
---------------------------------------------
-
-Los **cortes de luz** continuarán en el resto de Cuenca en el feriado según el cronograma socializado por **Centrosur**.
-
-Malo anticipó que es probable que algunos **sectores residenciales** vean reducida su energía para potenciar al sector turístico en estos días de descanso.
-
-“Hay un cronograma que seguimos ajustando, no hemos pasado la brecha, aunque **vemos qué hay mejorías importantes**, tenemos que ir priorizando las necesidades de la ciudad (…) y hemos considerado que no debe haber cortes en los segmentos turísticos”, puntualizó el funcionario.
-
-### Cortes de luz de seis a 14 horas
-
-De acuerdo con la información de la Empresa Eléctrica **Centrosur**, Cuenca mantendrá **cortes de luz** de seis y **14 horas** en los días del feriado.
-
-Los **apagones programados** se distribuirán en **dos y tres franjas horarias**, cubriendo de esta forma la madrugada, mañana, tarde y noche.
-
-Ante el cuestionamiento de la falta de cumplimiento de los horarios por parte de Centrosur, el Gobernador aclaró que la disposición final la da el Operador Nacional de Electricidad (**Cenace**).
-
-“Nosotros armamos un esquema madre de cortes de luz, pero Cenace va monitoreando cada minuto el proceso de generación y decide **ajustar ciertos horarios**“, afirmó Luis Malo.
-
-“Este **gran esquema de potencialización** de los generadores pide a momentos determinados que se muevan los horarios en ciertos sectores, yo sé que esto genera **molestias en la ciudadanía**, pero es importante que reflexionemos las decisiones en estos momentos críticos”, añadió el Gobernador.
-
-La historia de Primero de Mayo, único equipo de la Amazonía en el Ascenso
-=========================================================================
-
-Primer de Mayo de Yantzaza representa a Zamora Chinchipe en el Torneo de Ascenso Nacional.
-------------------------------------------------------------------------------------------
-
-![Plantel de Primero de Mayo en la temporada 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/primero_mayo_1.jpg)
-
-El **Ascenso Nacional** es uno de los torneos del fútbol ecuatoriano que agrupa a la mayor cantidad de equipos de todo el país, que buscan obtener uno de los dos cupos disponibles para la Serie B 2025.
-
-Uno de esos equipos es **Primero de Mayo de Yantzaza**, ciudad que pertenece a la provincia de Zamora Chinchipe y está ubicada en la zona sur oriental de la Amazonía de Ecuador, con una población cercana a los 14 000 habitantes, según el último censo nacional.
-
-### Más noticias:
-
-* [¿Cómo votó Ecuador por el Balón de Oro 2024?](https://www.elcomercio.com/deportes/futbol/como-voto-ecuador-por-el-balon-de-oro-2024.html "¿Cómo votó Ecuador por el Balón de Oro 2024?")
-* [Deportivo Quito jugará en Guayaquil luego de nueve años](https://www.elcomercio.com/deportes/futbol/deportivo-quito-guayaquil-toreros-fc.html "Deportivo Quito jugará en Guayaquil luego de nueve años")
-* [Las polémicas de la gala del Balón de Oro 2024](https://www.elcomercio.com/deportes/polemicos-balon-oro-2024-rodri-vinicius.html "Las polémicas de la gala del Balón de Oro 2024")
-
-Primero de Mayo fue uno de los 64 equipos que arrancaron el Ascenso Nacional. De ese total, siete eran de la Amazonía, **pero luego de dos etapas todos quedaron eliminados** y son los únicos que siguen en competencia.
-
-Leonel Ramón, presidente de Primer de Mayo, en conversación con EL COMERCIO, detalla que el club nació en 2012 y en **primera instancia perteneció a la Asociación Provincial de Loja**, pero en el 2020, con la creación de la Asociación de Zamora Chinchipe, regresó a su provincia.
-
-El nombre le hace honor a una institución educativa homónima, la más tradicional del cantón y de las más grandes de la provincia.
-
-Hasta el 2016 mantuvo el nombre de **Liga Estudiantil Primero de Mayo**. Luego adoptó el de Ciudad de Yantzaza, antes de adoptar definitivamente el de Club Primero de Mayo de Yantzaza.
-
-Desde el 2020 han acumulado **tres títulos provinciales de manera consecutiva** y participaron en el Ascenso Nacional, pero es la primera vez que llegan hasta los octavos de final, tras derrotar al Club Sportivo Loja y New Porto FC.
-
-En el 2022 fueron rivales de El Nacional en la primera fase de la Copa Ecuador.
-
-Primero de Mayo, un orgullo zamorano
-------------------------------------
-
-Ramón se sincera y menciona que el 2024 no “**ha sido un año fácil para el club**”, puesto que estuvo acostumbrado a lograr el título provincial, y fue un “golpe duro” quedarse con el segundo puesto.
-
-Las dificultades económicas no son ajenas. **Su presupuesto en el 2023 fue de 70 000 dólares** y en el 2024 es similar. El mismo se cubre con el aporte de auspiciantes, colaboración de los socios y de personas cercanas que se identifican con la institución.
-
-En la plantilla, dirigida por el entrenador local Frank Rojas, destaca el nombre de **Dubar Enríquez, jugador nacido en Yantzaza** que ha militado en Liga de Loja, Macará y Libertad.
-
-El colombiano **Abraham Rocha, Luis Ojeda y Anderson Jiménez**, estos dos últimos con pasado en equipos de Primera División, son los que aportan la experiencia a una plantilla que busca promover jóvenes talentos de distintos putos del país que cumplen un proceso de formación en la institución.
-
-“Nos sentimos orgullosos y felices de tener al club de nuestra zona en representación de la Amazonía**. Ha sido un trabajo en conjunto** entre todos los involucrados y vamos a pelear este duro ascenso”, destacó Ramón.
-
-El partido de ida de los octavos de final será el domingo 3 de noviembre de 2024, desde las 15:00, en el estadio **Municipal de Yantzaza, contra Aviced FC de Azuay**.
-
-“Esperamos un estadio lleno. **Estamos más unidos que nunca**. Sabemos que es difícil, pero no imposible. La provincia está unida y a la expectativa de lo que podemos hacer”, finalizó el dirigente.
-
-![Foto: Cortesía.](https://www.elcomercio.com/wp-content/uploads/2024/10/primero_mayo_2-1024x683.jpg)
-
-Foto: Cortesía.
-
-No te pierdas – El Confesionario
---------------------------------
