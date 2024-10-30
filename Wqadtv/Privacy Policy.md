@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
         
-        #### [Family and friends of Jackson Kradle demand answers in teenager's death](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8) [![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8)
+        #### [Illinois early intervention providers seeking $60 million in funding](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
         
-        #### [Death of Jackson Kradle: Mount Carroll community demands answers](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8) [![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/771dd0bf-badb-4672-8d5c-306df91e2781/20240904T230239/771dd0bf-badb-4672-8d5c-306df91e2781_360x203.jpg)](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d57e5403-d53d-47fc-95a3-0b35cfd161de/20240610T185048/d57e5403-d53d-47fc-95a3-0b35cfd161de_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d57e5403-d53d-47fc-95a3-0b35cfd161de/20240610T185048/d57e5403-d53d-47fc-95a3-0b35cfd161de_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/man-arrested-galesburg-shooting-july/526-2b5a1bfc-aa47-45b3-84e9-a732757059a2)
         
-        #### [Family and friends Mount Carroll teenager demand answers in death investigation](https://www.wqad.com/article/news/local/jackson-kradle-teenagers-death-mount-carroll-illinois-protest-illinois-state-police/526-ac100c0e-be71-4397-8ffe-4849dcc66be8)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c88b9a98-3454-4022-bae7-352a035d0c94/20241029T182620/c88b9a98-3454-4022-bae7-352a035d0c94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c88b9a98-3454-4022-bae7-352a035d0c94/20241029T182620/c88b9a98-3454-4022-bae7-352a035d0c94_360x203.jpg)](https://www.wqad.com/article/news/community/free-thanksgiving-meals-quad-cities-region/526-49c1d1c3-629d-4b5d-9e95-98b34655e246)
-        
-        #### [Nonprofits ready to serve up meals for QC community as Mr. Thanksgiving tradition comes to an end](https://www.wqad.com/article/news/community/free-thanksgiving-meals-quad-cities-region/526-49c1d1c3-629d-4b5d-9e95-98b34655e246)
+        #### [Police make arrest in July Galesburg shooting](https://www.wqad.com/article/news/local/public-safety/man-arrested-galesburg-shooting-july/526-2b5a1bfc-aa47-45b3-84e9-a732757059a2)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,16 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2/20241029T225654/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2/20241029T225654/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Showers and thunderstorms tracking for Wednesday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
         
-        #### [Quad City tree care company going on 6 weeks helping hurricane victims](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78) [![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
-        
-        #### ['You could hear the water rushing under the roads' | Quad City tree care company going on 6 weeks helping hurricane victims](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78) [![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
-        
-        #### ['Really difficult to see the amount of devastation' | Quad City tree care company going on 6 weeks helping hurricane victims](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
-    *  [![](https://media.tegna-media.com/assets/CCT/images/f1a5ec53-dbc2-4a47-818c-53876a0e4af5/20241029T164724/f1a5ec53-dbc2-4a47-818c-53876a0e4af5_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f1a5ec53-dbc2-4a47-818c-53876a0e4af5/20241029T164724/f1a5ec53-dbc2-4a47-818c-53876a0e4af5_360x203.jpg)](https://www.wqad.com/article/news/nation-world/artificial-reefs-off-new-york-city-might-save-lives-hurricanes/507-df119f95-29d7-4220-beca-ff5e2349b4e0)
-        
-        #### [These artificial reefs off a New York City beach help sea creatures. They might also save lives](https://www.wqad.com/article/news/nation-world/artificial-reefs-off-new-york-city-might-save-lives-hurricanes/507-df119f95-29d7-4220-beca-ff5e2349b4e0)
+        #### [Quad City tree care company going on 6 weeks helping hurricane victims](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -92,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-79°
+74°
 
-![Sunny/Wind](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
