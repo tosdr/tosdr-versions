@@ -2,8 +2,8 @@
 
 * Es noticia:
 * [Real Madrid](https://www.marca.com/futbol/real-madrid/2024/10/29/real-madrid-francia-cronica-divorcio-anunciado.html)
-* [Olympiacos - Real Madrid](https://www.marca.com/baloncesto/euroliga/olympiacos-real-madrid/2024/10/29/02_0203_20241029_7400_6210-directo.html)
-* [Jarry - Alcaraz](https://www.marca.com/tenis/masters-1000-paris/nicolas-jarry-carlos-alcaraz/2024/10/29/04_0413_20241029_48-directo.html)
+* [DANA ultima hora](https://www.marca.com/tiramillas/2024/10/30/6721e496dd67d3ed8908a1da-directo.html)
+* [Muertos DANA](https://www.marca.com/tiramillas/actualidad/desastres-naturales/2024/10/29/67215072e2704e259f8b45a1.html)
 * [Copa del Rey](https://www.marca.com/futbol/copa-rey/2024/10/29/6720f1fddd67d3ed89fe29e7-directo.html)
 * [Eto'o](https://www.marca.com/futbol/rayo/2024/10/29/etienne-eto-debuta-marcando-rayo-vallecano.html)
 * [Astur - Valladolid](https://www.marca.com/futbol/copa-del-rey/astur-valladolid/2024/10/29/01_0105_20241029_22145_192-directo.html)
@@ -12,9 +12,6 @@
 * [Villamuriel - Rayo](https://www.marca.com/futbol/copa-del-rey/villamuriel-rayo/2024/10/29/01_0105_20241029_22153_184-directo.html)
 * [Ester Expósito](https://www.marca.com/tiramillas/cine/2024/10/29/6720c6bd22601d221a8b458c.html)
 * [Honda Alpine](https://www.marca.com/motor/formula1/gp-brasil/2024/10/29/67213981268e3ea34b8b459f.html)
-* [Astur - Valladolid dónde ver](https://www.marca.com/futbol/futbol-femenino/2024/10/29/italia-espana-horario-ver-tv-seleccion-femenina.html)
-* [Olympiacos - Real Madrid dónde ver](https://www.marca.com/baloncesto/euroliga/2024/10/28/olympiacos-real-madrid-hora-ver-tv-hoy-partido-jornada-6-euroliga.html)
-* [Poblense - Villarreal dónde ver](https://www.marca.com/futbol/copa-rey/2024/10/29/poblense-villarreal-horario-ver-tv-partido-copa-rey.html)
 * [Partidos Copa del Rey hoy](https://www.marca.com/futbol/copa-rey/2024/10/29/partidos-copa-rey-hoy-29-octubre-horarios-ver-tv-primera-ronda.html)
 * [Cuándo juega Alcaraz](https://www.marca.com/tenis/masters-1000-paris/2024/10/28/671fc93746163f05028b4587.html)
 * [Hiba Abouk](https://www.marca.com/tiramillas/television/2024/10/29/6721127de2704e24168b4587.html)
@@ -22,7 +19,6 @@
 * [Verónica Fumanal](https://www.marca.com/tiramillas/television/2024/10/29/67211d58ca4741704c8b4578.html)
 * [María Pombo](https://www.marca.com/tiramillas/television/2024/10/29/67210634268e3e63088b45ca.html)
 * [Xokas Topuria](https://www.marca.com/videojuegos/streamers/2024/10/29/6721044222601d392f8b45a9.html)
-* [Laura Escanes](https://www.marca.com/tiramillas/actualidad/2024/10/29/67211b06e2704e70bf8b4587.html)
 * [Precio luz hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/10/28/671fc86322601df0608b4573.html)
 * [Fútbol hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/09/30/66faab18e2704ee99d8b45a5.html)
 * [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
