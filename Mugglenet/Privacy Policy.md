@@ -244,14 +244,6 @@ MuggleNet Archive Select Month October 2024  (21) September 2024  (30) August 
 
 ### October 2024
 
-#### Tue, Oct 29
-
-Robert Hardy's birthday (RIP)
-
-Recurs yearly
-
-Cornelius Fudge
-
 #### Wed, Oct 30
 
 Beauxbatons and Durmstrang students arrive for the Triwizard Tournament
@@ -364,6 +356,14 @@ Recurs yearly
 
 2001
 
+#### Tue, Nov 5
+
+Harry Potter and the Philosopher's Stone Deluxe Illustrated Edition (UK)
+
+Recurs yearly
+
+2015
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -374,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall played Quidditch while attending Hogwarts. In her seventh year, she received a concussion and several broken ribs during the Quidditch Cup against Slytherin.
+Harry Potter’s middle name is James, Hermione Granger’s is Jean, Ginny Weasley’s is Molly – after her mother – and poor old Ron Weasley’s is Bilius.
 
 ### Potter History
 
-February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
+July 16, 2005 – Harry Potter and the Half-Blood Prince book is released internationally in English to the delight of Harry Potter fans everywhere.
 
 ### Potter Quote
 
-“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
+“Are you insane? Of course I want to leave the Dursleys! Have you got a house? When can I move in?”
 
 [](#)
 
