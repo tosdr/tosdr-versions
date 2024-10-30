@@ -134,11 +134,12 @@ Links
 * [Contact / Email](https://www.mobilityworks.com/contact/)
 * [Careers](https://www.mobilityworks.com/careers/)
 * [Sitemap](https://www.mobilityworks.com/sitemap/)
-
 * [Testimonials](https://www.mobilityworks.com/about/testimonials/)
+
 * [Blog](https://www.mobilityworks.com/blog/)
 * [Privacy Policy](https://www.mobilityworks.com/privacy-policy/)
 * [External Linking Policy](https://www.mobilityworks.com/external-linking-policy/)
+* [Equipment Return Policy](https://www.mobilityworks.com/wp-content/uploads/Non-Vehicle-Return-Policy.pdf)
 * [Client Experience](https://www.mobilityworks.com/client-experience/)
 * [CA Only Dept. of Developmental Appeals: 916-654-1987](https://www.dds.ca.gov/general/appeals-complaints-comments/)
 
