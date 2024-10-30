@@ -205,30 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [It Came From Outer Space](https://www.somethingawful.com/photoshop-phriday/came-from-outer/1/)
-* [Album Cover/Album Title Swap](https://www.somethingawful.com/photoshop-phriday/album-cover-swap/1/)
-* [Ilsa - She Wolf of the SS - Part One](https://www.somethingawful.com/movie-reviews/ilsa-she-wolf/1/)
-* [The Questionable Art of BattleTechnology Magazine](https://www.somethingawful.com/dungeons-and-dragons/battletech-mechwarrior-magazine/1/)
-* [August 4, 2008](https://www.somethingawful.com/forum-fridays/ff08-04-08/1/)
+* [Kid's Korner: The Problem With the Police!](https://www.somethingawful.com/feature-articles/kids-korner-problem/1/)
+* [Freeballing Forums and Low Hanging Support Group](https://www.somethingawful.com/weekend-web/balls-forums/1/)
+* [Slow Death to America](https://www.somethingawful.com/news/dollar-store-doomsday/1/)
+* [The Bushmen of Buka](https://www.somethingawful.com/second-life-safari/bushmen-buka/1/)
+* [Halloween SWAT](https://www.somethingawful.com/fashion-swat/halloween-swat/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums? \[POLL\]](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums? [POLL]")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Post random SAclopedia entries](http://forums.somethingawful.com/showthread.php?threadid=4073877 "Post random SAclopedia entries")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [what was your go to mortal kombat character? why did they FUCK?!](http://forums.somethingawful.com/showthread.php?threadid=4073854 "what was your go to mortal kombat character?  why did they FUCK?!")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [Something I never got about the movie office space. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4073874 "Something I never got about the movie office space. Spoilers")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [I think more chicks should wear hats, it's cute](http://forums.somethingawful.com/showthread.php?threadid=4073884 "I think more chicks should wear hats, it's cute")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums? \[POLL\]](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums? [POLL]")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's](http://forums.somethingawful.com/showthread.php?threadid=4073865 "Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/computers.png) [Flat earth](http://forums.somethingawful.com/showthread.php?threadid=4073853 "Flat earth")
 
 ### Random Articles
 
-* [KRUT-5 News: Teen Mobile Sex Pics: "An Epidemic"](https://www.somethingawful.com/news/krut5-teen-sexting/)
-* [You Might Be a Redneck Jokes From "The Road"](https://www.somethingawful.com/news/cormac-foxworthy-road/)
-* [Why Are You Sleeping with the Man from the Halloween Store?](https://www.somethingawful.com/news/halloween-store-adulterer/)
-* [wicked stellar](https://www.somethingawful.com/awful-links/awful-link-666/)
-* [Marc Rubin Gallery (Thanks, Jamie!)](https://www.somethingawful.com/awful-links/marc-rubin-gallery/)
+* [Philosophy Sunday: God's Annual Performance Review](https://www.somethingawful.com/news/philosophy-sunday-gods/)
+* [Today We Learn English! Lesson 2: The Punctuation](https://www.somethingawful.com/news/learn-english-punctuation/1/)
+* [How to Concentrate on Anything at All in the Days to Come](https://www.somethingawful.com/news/concentrate-election-brain/)
+* [My Theory on Gravity...](https://www.somethingawful.com/mooflogs/my-theory-on/)
+* [Defending Your Extra Life](https://www.somethingawful.com/video-game-article/game-heaven-sins/)
 
 [Random!](https://www.somethingawful.com/random/)
 
