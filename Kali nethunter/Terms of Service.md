@@ -465,7 +465,7 @@ Learning Solutions Why OffSec Plans & Pricing Partners Kali & Community Resource
 IR-200: Foundational Incident Response
 --------------------------------------
 
-OffSec's new incident response course and certification launches October 29th. In IR-200, Learners will gain a deep understanding of the incident response lifecycle, including incident detection, analysis, containment, eradication and recovery.
+OffSec's new incident response course and certification is here! In IR-200, Learners will gain a deep understanding of the incident response lifecycle, including incident detection, analysis, containment, eradication and recovery.
 
 [Learn more](https://www.offensive-security.com/courses/ir-200/)
 
