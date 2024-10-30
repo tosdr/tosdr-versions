@@ -56,8 +56,6 @@ BLACK FRIDAY DEALS
     [62% OFF](https://www.rangextd.com/collections/62-off) 
     
 
-[View all collections](https://www.rangextd.com/collections) 
-
 BLACK FRIDAY ENDS
 =================
 
@@ -68,6 +66,29 @@ Nov 07, 2024 11:59:59
 [SHOP ALL DEALS](https://www.rangextd.com/collections/best-selling-items)
 
 [](https://www.rangextd.com/collections/best-selling-items)
+
+*  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/Stack1_94def5ea-9c62-4fb5-86ef-4dd48416026a.png?v=1727165709&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/after_d4ed7384-7c8b-448d-8891-c0a3e8d69522.jpg?v=1729222761&width=620)
+    
+    Blaux Portable Bidet
+    ====================
+    
+    The Ultimate In Cleanliness & Portable Personal Care
+    
+    [Shop now](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    [](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+*  ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/img_4.png?v=1729223291&width=620) ![Banner image for: Mini Heater](//savvysmartdeals.com/cdn/shop/files/slide_6.png?v=1729223139&width=620)
+    
+    Mini Heater
+    ===========
+    
+    Stay Warm Through Freezing Winter
+    
+    [Shop now](https://www.rangextd.com/products/blaux-heater-450w)
+    
+    [](https://www.rangextd.com/products/blaux-heater-450w)
+    
 
 Most sold this week
 ===================
@@ -291,6 +312,14 @@ Trending Now
 
 Don't Miss Out on Must-Have Devices & Unique Items!
 
+* Sale -55% [![PocketHose - The Ultimate Expandable Garden Hose](//savvysmartdeals.com/cdn/shop/files/thumb-drive-op_jpg.webp?v=1730284391&width=645)](https://www.rangextd.com/products/pockethose-expandable-hose)
+    
+    ### [PocketHose - The Ultimate Expandable Garden Hose](https://www.rangextd.com/products/pockethose-expandable-hose)
+    
+    Out of stock
+    
+    $122.20 $54.99
+    
 * Sale -50% [![Self-cleaning & self-cooling sheets. Transform how you sleep.](//savvysmartdeals.com/cdn/shop/files/m_1.jpg?v=1729766642&width=645)](https://www.rangextd.com/products/miracle-sheet)
     
     ### [Self-cleaning & self-cooling sheets. Transform how you sleep.](https://www.rangextd.com/products/miracle-sheet)
