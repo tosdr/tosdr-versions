@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, October 29, 2024**
+**Wednesday, October 30, 2024**
 
-**...High Pressure Over New England to Dominate Statewide...Onshore Winds To Bring Isolated to Widely Scattered Showers Onshore Along Florida East Coast; Isolated Thunderstorms Possible During Afternoon and Evening...Seasonable to Above Normal Temperatures This Afternoon...Breezy Winds Persist Across Peninsula Throughout Afternoon and Evening...Patchy Fog Possible Tonight or Early Wednesday Along Suwannee Valley...High Risk for Rip Currents Persist Along East Coast; Moderate Risk for Numerous Panhandle Beaches...Moderate to Major Riverine Flooding Along Withlacoochee; Minor to Moderate Flooding Along St. Johns...NHC Continues to Monitor Potential Disturbance (40%) Development Over Southwestern Caribbean Sea Over Next 7 Days...**
+**...High Pressure Over Eastern U.S. to Dominate Statewide...Onshore Winds To Bring IsolatedShowers Onshore Along Florida East Coast; Isolated Thunderstorms Possible During Afternoon and Evening...Seasonable to Above Normal Temperatures This Afternoon...Breezy Winds Persist Across Peninsula Throughout Afternoon and Evening...Patchy Fog Possible Tonight or Early Thursday Along Panhandle and Big Bend...High Risk for Rip Currents Persist Along East Coast; High Risk for Rip Currents Developing Along Panhandle...Instances of Minor Coastal Flooding Moderate to Major Riverine Flooding Along Withlacoochee; Minor to Moderate Flooding Along St. Johns...NHC Continues to Monitor Potential Disturbance (40%) Development Over Southwestern Caribbean Sea Over Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
