@@ -80,7 +80,7 @@ Corporate
 
 Article July 1, 2024
 
-share-a11y
+Share
 
 Share
 
