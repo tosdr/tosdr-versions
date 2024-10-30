@@ -36,18 +36,18 @@
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
+    * [![New Windows Themes zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
+    * [![Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/)
     * [![This $50 course helps prepare you for four in-demand IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This $50 course helps prepare you for four in-demand IT certifications](https://www.bleepingcomputer.com/offer/deals/this-50-course-helps-prepare-you-for-four-in-demand-it-certifications/)
     * [![QNAP fixes NAS backup software zero-day exploited at Pwn2Own](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
-    * [![Russian charged by U.S. for creating RedLine infostealer malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russian charged by U.S. for creating RedLine infostealer malware](https://www.bleepingcomputer.com/news/security/russian-charged-by-us-for-creating-redline-infostealer-malware/)
-    * [![Get a Costco Gold Star Membership and a $45 Shop Card for $65](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get a Costco Gold Star Membership and a $45 Shop Card for $65](https://www.bleepingcomputer.com/offer/deals/get-a-costco-gold-star-membership-and-a-45-shop-card-for-65/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
