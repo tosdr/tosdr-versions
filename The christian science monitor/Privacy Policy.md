@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Innovation
+
+### Creativity as a small nation’s defense](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1030/Creativity-as-a-small-nation-s-defense "Creativity as a small nation’s defense")
+
+[Cooperation
+
+### The Trump-Harris worldview divide: Fly solo, or with allies?](https://www.csmonitor.com/USA/Foreign-Policy/2024/1030/elections-trump-harris-foreign-policy "The Trump-Harris worldview divide: Fly solo, or with allies?")
+
 [Fairness
 
 ### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
-
-[Hope
-
-### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
-
-[Safety
-
-### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 29, 2024
+October 30, 2024
 
-Portraying our moment in history
+Facts and feelings
 
-How are we shaped by the times in which we live? Consider artists. Amid tumult or outright conflict, they may vividly portray violence or, equally, deeply felt aspirations for a more peaceful world. They probe new styles and forms.Today, writer Terry Hartle considers the forces that shaped the evolution of the impressionists in his lovely review of “Paris in Ruins: Love, War, and the Birth of Impressionism.” The book’s publication coincides with “Paris 1874: The Impressionist Moment,” an exhibit at the National Gallery of Art in Washington.The backdrop is the Franco-Prussian War of 1870. In our current moment of unease and disruption on the global stage, it’s worth spending some time with what Mr. Hartle finds.
+In his article on the swing state of Pennsylvania, Simon Montlake includes a link to this article in The Economist: “The American economy has left other rich countries in the dust.” Is that how things feel? Not for many. That’s Simon’s point.His article underlines that people generally vote based on what they feel, not impartial facts. That’s natural. But it can also lead to warped or incomplete views of the economy, government, or one another. And it’s a reminder that a broader worldview can reveal that how we feel isn’t the only – or often the best – lens.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Moon base to deep space: How China seeks to close gap with US](https://www.csmonitor.com/World/Asia-Pacific/2024/1030/China-space-program-manned-launch "Moon base to deep space: How China seeks to close gap with US")
+
 [### Ahead of Tanzania’s election, Maasai fight to stay put](https://www.csmonitor.com/World/Africa/2024/1030/maasai-ngorongoro-evictions-tanzania-election "Ahead of Tanzania’s election, Maasai fight to stay put")
 
 [### UN schools in Gaza shaped our reporter’s childhood. She worries for the future.](https://www.csmonitor.com/World/Middle-East/2024/1029/israeli-ban-unrwa-education-future "UN schools in Gaza shaped our reporter’s childhood. She worries for the future.")
-
-[### In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?](https://www.csmonitor.com/World/Middle-East/2024/1029/lebanon-israel-civilian-bombing-casualties "In Israel-Hezbollah war, a rising cry from Lebanese: Why were we bombed?")
 
 * * *
 
