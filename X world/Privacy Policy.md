@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [Six types of digital advertising](https://xworld.org/technology-and-gadget/six-types-of-digital-advertising/)
 * [An introduction to heat pumps](https://xworld.org/home-improvement/an-introduction-to-heat-pumps/)
 * [How Do School Catchment Areas Work?](https://xworld.org/education/how-do-school-catchment-areas-work/)
+* [Is earwax damaging my hearing?](https://xworld.org/health/is-earwax-damaging-my-hearing/)
 * [The Art of Choosing the Right Sedan for Your Needs](https://xworld.org/automotive/choosing-the-right-sedan-for-your-needs/)
-* [What is a PR Campaign?](https://xworld.org/business/what-is-a-pr-campaign/)
-* [Italian Herbs & Spices](https://xworld.org/health/italian-herbs-spices/)
 
 ### Categories
 
