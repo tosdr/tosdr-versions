@@ -12,9 +12,9 @@
     [Connexion](https://www.microspot.ch/fr/account/login)[S’enregistrer](https://www.microspot.ch/fr/account/registration)[Comparaison de produit](https://www.microspot.ch/fr/comparison)[Favoris](https://www.microspot.ch/fr/watchlist)[Panier d\`achat](https://www.microspot.ch/fr/cart)
     
 
-* [DE](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* [FR](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* [IT](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [DE](https://www.microspot.ch/de)
+* [FR](https://www.microspot.ch/fr)
+* [IT](https://www.microspot.ch/it)
 
 [interdiscount.ch
 
@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/2520.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/6958.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -86,7 +86,7 @@ Visitez l'une de nos quelques environ
 
 [![Samsung TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0714-CM1-Promos-KW43-456.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDIwOTR8aW1hZ2UvanBlZ3xhR0l5TDJobE5pODROakI0TkRnMFgwa3lORjh3TnpFMFgwTk5NVjlRY205dGIzTmZTMWMwTTE4ME5UWXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01UUmZRMDB4WDFCeWIyMXZjMTlMVnpRelh6UTFOaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2ZkZDU4ZmViZjc2NzhiYzU5NGI4NDFlYTdhMTIwNTQ4YzZlMWUyZDdiMTIwMjk5ODQ0ODcxOTI5MGU4NTQ4OQ&w=2360&q=75)
 
-599.95au lieu de 699.95SAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/product/samsung-qe55q60dauxxn-smart-tv-55-qled-ultra-hd-4k-0014117737)
+ACTION549.95 SAMSUNG QE55Q60DAUXXN Smart TV 55"](https://www.microspot.ch/fr/product/samsung-qe55q60dauxxn-smart-tv-55-qled-ultra-hd-4k-0014117737)
 
 [![DREAME Z30](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0721-CM3-Haushalt-Spielzeug-Pampers2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMDI0OXxpbWFnZS9qcGVnfGFETXlMMmd4TlM4NE5qQjRORGcwWDBreU5GOHdOekl4WDBOTk0xOUlZWFZ6YUdGc2RGOVRjR2xsYkhwbGRXZGZVR0Z0Y0dWeWN6SXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWHpBM01qRmZRMDB6WDBoaGRYTm9ZV3gwWDFOd2FXVnNlbVYxWjE5UVlXMXdaWEp6TWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRhN2RkNDY1MGIwZjY5ZDlmNjE0ZGY2MGFiNmJhYTA5MTM5ODkzYjU0OGIyZWZiM2VmMmZkNWY4MmQ2MjEzMzM&w=2360&q=75)
 
@@ -213,13 +213,13 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
@@ -306,9 +306,9 @@ Programmes partenaires
 
 [![](/next-assets/images/logos/supercard.svg)Supercard](https://www.microspot.ch/fr/cms/supercard)[![](/next-assets/images/logos/euronics.svg)](https://www.euronics.com/)
 
-* [Deutsch](https://www.microspot.ch/de?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* ·[Français](https://www.microspot.ch/fr?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
-* ·[Italiano](https://www.microspot.ch/it?utm_source=msp&utm_medium=referral&utm_campaign=%28ft-global_redirect%29%28cc-cmot%29%28pl-id%29%28l-fr%29%28t-na%29)
+* [Deutsch](https://www.microspot.ch/de)
+* ·[Français](https://www.microspot.ch/fr)
+* ·[Italiano](https://www.microspot.ch/it)
 
 * © 2024·
 * [CGV](https://www.microspot.ch/fr/cms/entreprise/cgv)·
