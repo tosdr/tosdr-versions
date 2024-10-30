@@ -12,6 +12,10 @@
 Privacy Policy
 ==============
 
+**Email:** [\[email protected\]](https://www.ekoru.org/cdn-cgi/l/email-protection)
+
+**Physical Address:** C507 Phileo Damansara 1, Kuala Lumpur Malaysia
+
 User-Centric Data Handling
 --------------------------
 
