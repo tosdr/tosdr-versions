@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [„Aktiver“ ETF: Kultfonds ARK Invest – Wert­entwick­lung ohne Glamour](https://www.test.de/ARK-Invest-Augen-auf-bei-aktiven-ETF-6117977-0/ "„Aktiver“ ETF - Kultfonds ARK Invest – Wertentwicklung ohne Glamour")
-* [Vorabpauschalen-Rechner: Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds](https://www.test.de/vorabpauschale-rechner-6123332-0/ "Vorabpauschalen-Rechner - Berechnen Sie Ihre Vorab-Steuern auf ETF und Fonds")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
 
 Service Stiftung Warentest
 
