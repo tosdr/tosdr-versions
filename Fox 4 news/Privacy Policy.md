@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![3 Venezuelan gang members accused of murdering North Texas man, kidnapping 2 kids; 1 suspect at large](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/venezuelan-gang.png?ve=1&tl=1)
+ [![Two sexual assaults reported in TCU dorms, police issue safety alert](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/c2936af9-TCU_1441984823868_194237_ver1.0_640_360.jpg?ve=1&tl=1)
 
- ![3 Venezuelan gang members accused of murdering North Texas man, kidnapping 2 kids; 1 suspect at large](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/venezuelan-gang.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
+ ![Two sexual assaults reported in TCU dorms, police issue safety alert](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/c2936af9-TCU_1441984823868_194237_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/two-sexual-assaults-reported-tcu-dorms-campus-safety-alert)
 
-### [3 Venezuelan gang members accused of murdering North Texas man, kidnapping 2 kids; 1 suspect at large](https://www.fox4news.com/news/kidnapping-murder-north-texas-arrests-colorado-new-mexico)
+### [Two sexual assaults reported in TCU dorms, police issue safety alert](https://www.fox4news.com/news/two-sexual-assaults-reported-tcu-dorms-campus-safety-alert)
 
- [![Irving police reopen 36-year-old cold case of murdered pregnant woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-irving-cold-case-patricia-garcia-1030p_00.01.17.00.jpg?ve=1&tl=1)
+ [![Victim in Fort Worth shooting shot 'five or six' times: Police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3559_mxf_01.01.48.24.jpg?ve=1&tl=1)
 
- ![Irving police reopen 36-year-old cold case of murdered pregnant woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-irving-cold-case-patricia-garcia-1030p_00.01.17.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/patricia-wilson-garcia-murder-1988-irving-cold-case-reopened)
+ ![Victim in Fort Worth shooting shot 'five or six' times: Police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3559_mxf_01.01.48.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/victim-fort-worth-shooting-shot-five-six-times-police)
 
-### [Irving police reopen 36-year-old cold case of murdered pregnant woman](https://www.fox4news.com/news/patricia-wilson-garcia-murder-1988-irving-cold-case-reopened)
+### [Victim in Fort Worth shooting shot 'five or six' times: Police](https://www.fox4news.com/news/victim-fort-worth-shooting-shot-five-six-times-police)
 
- [![Fans try to grab ball from Dodgers' Mookie Betts in World Series Game 4; Interference called](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/mookie-fan-interference-getty.jpg?ve=1&tl=1)
+ [![Would a 4-day work week work in the US? CEOs are split](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/construction.jpg?ve=1&tl=1)
 
- ![Fans try to grab ball from Dodgers' Mookie Betts in World Series Game 4; Interference called](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/mookie-fan-interference-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-yankees-game-4-world-series-fan-interference)
+ ![Would a 4-day work week work in the US? CEOs are split](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/construction.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/would-4-day-work-week-work-us-ceos-split)
 
-### [Fans try to grab ball from Dodgers' Mookie Betts in World Series Game 4; Interference called](https://www.fox4news.com/news/dodgers-yankees-game-4-world-series-fan-interference)
+### [Would a 4-day work week work in the US? CEOs are split](https://www.fox4news.com/news/would-4-day-work-week-work-us-ceos-split)
 
- [![Convicted stalker from Plano accused of harassing more SMU female students](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/ian-smith-dallas-co-prior-mugs.jpg?ve=1&tl=1)
+ [![Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/arms-up.jpg?ve=1&tl=1)
 
- ![Convicted stalker from Plano accused of harassing more SMU female students](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/ian-smith-dallas-co-prior-mugs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ian-smith-smu-student-harrassment)
+ ![Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/arms-up.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/atlanta-four-seasons-armed-person-barricaded)
 
-### [Convicted stalker from Plano accused of harassing more SMU female students](https://www.fox4news.com/news/ian-smith-smu-student-harrassment)
+### [Midtown Four Seasons Hotel armed, barricaded suspect apprehended](https://www.fox4news.com/news/atlanta-four-seasons-armed-person-barricaded)
 
- [![Recall expanded for Dynacare Baby Powder due to potential asbestos contamination](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/dynacare-baby-powder1.jpg?ve=1&tl=1)
+ [![Dodgers can't complete sweep, drop Game 4 to Yankees](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/gettyimages-2181819101.jpg?ve=1&tl=1)
 
- ![Recall expanded for Dynacare Baby Powder due to potential asbestos contamination](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/dynacare-baby-powder1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/recall-expanded-dynacare-baby-powder-due-potential-asbestos-contamination-2024)
+ ![Dodgers can't complete sweep, drop Game 4 to Yankees](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/10/32/18/592/333/gettyimages-2181819101.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dodgers-cant-complete-sweep-drop-game-4-yankees)
 
-### [Recall expanded for Dynacare Baby Powder due to potential asbestos contamination](https://www.fox4news.com/news/recall-expanded-dynacare-baby-powder-due-potential-asbestos-contamination-2024)
+### [Dodgers can't complete sweep, drop Game 4 to Yankees](https://www.fox4news.com/news/dodgers-cant-complete-sweep-drop-game-4-yankees)
 
 [![How to download the free FOX 4 Dallas-Fort Worth FOX LOCAL app for mobile and smart TV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/149/84/1280x720-bannerj.jpg?ve=1&tl=1)](https://www.fox4news.com/news/how-to-download-fox-local)
 
