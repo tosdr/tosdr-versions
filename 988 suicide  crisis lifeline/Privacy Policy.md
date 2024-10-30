@@ -95,7 +95,7 @@ Vibrant Emotional Health, the administrator of the grant, works with partners su
 
 The 988 Lifeline has been independently evaluated since its inception by an investigation team from Columbia University’s Research Foundation for Mental Hygiene. The 988 Lifeline receives ongoing consultation and guidance from national and international researchers and experts focused on suicide prevention and crisis response.
 
-Explore the impact of the 988 Lifeline and its network of crisis centers. Review national contact volume, find actions to take, and discover more through our [By the Numbers](https://suicidepreventionlifeline.org/by-the-numbers/) page.
+Explore the impact of the 988 Lifeline and its network of crisis centers. Review national contact volume and discover more by clicking [here](https://www.samhsa.gov/find-help/988/performance-metrics).
 
 For media inquiries, please [contact us](https://988lifeline.org/contact-us/).
 
