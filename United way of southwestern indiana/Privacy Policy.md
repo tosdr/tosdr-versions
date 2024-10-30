@@ -8,57 +8,6 @@
 
 [GIVE](https://app.mobilecause.com/form/v3w2MA?vid=a7tsm)
 
-[![](https://unitedwayswi.org/wp-content/uploads/2024/10/2-LINE-UW-First-RGB-United-Way-Logo-Localization-Tool.png)](https://unitedwayswi.org/)
-
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-  
-**Warning**: Undefined array key "background\_image" in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **87**  
-  
-**Warning**: Trying to access array offset on value of type null in **/home/unitedway/www/www/wp-content/plugins/elementor/includes/conditions.php** on line **90**  
-
-[LIVE UNITED
-
-CLICK HERE TO LEARN MORE](https://unitedwayswi.org/live-united)
-
-[GIVE
-
-CLICK HERE TO LEARN MORE](https://unitedwayswi.org/give)
-
-[ADVOCATE
-
-CLICK HERE TO LEARN MORE](https://unitedwayswi.org/advocate)
-
-[VOLUNTEER
-
-CLICK HERE TO LEARN MORE](https://unitedwayswi.org/volunteer)
-
 * [About Us](#)
     * [About](https://unitedwayswi.org/about/)
     * [Our Commitment to Equity](https://unitedwayswi.org/deib-anti-racism/)
@@ -152,6 +101,8 @@ Menu
 * [Latest News](#)
     * [Blog](https://unitedwayswi.org/blog/)
     * [Press Releases](https://unitedwayswi.org/press-releases/)
+
+![](https://unitedwayswi.org/wp-content/uploads/2019/11/UITW-Email-Header-4-United-Way-of-Southwestern-Indiana-1024x410.png)
 
 PRIVACY POLICY
 
