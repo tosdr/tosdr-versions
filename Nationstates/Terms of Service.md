@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess AN's Gender (4,082)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (4,082 posts)")
-* [Womanly things that men do these days… (800)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (800 posts)")
-* [Your favorite part of AN’s forum sig XI (3,557)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (3,557 posts)")
-* [What is your plan of action during Z-Day (5)](https://forum.nationstates.net/viewtopic.php?t=557727&f=33&view=unread#unread ""What is your plan of action during Z-Day" (5 posts)")
-* [Ukrainian War VII: Everything has a p… (8,091)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (8,091 posts)")
+* [Will AN research a cure, exterminate,… (27)](https://forum.nationstates.net/viewtopic.php?t=557725&f=33&view=unread#unread ""Will AN research a cure, exterminate, or back the horde?" (27 posts)")
+* [Create A HOI4 Name List for AN (108)](https://forum.nationstates.net/viewtopic.php?t=556510&f=25&view=unread#unread ""Create A HOI4 Name List for AN" (108 posts)")
+* [What music are you listening to? v19 (80)](https://forum.nationstates.net/viewtopic.php?t=557533&f=19&view=unread#unread ""What music are you listening to? v19" (80 posts)")
+* [2023-24 Israel-Iran proxy conflict (708)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (708 posts)")
+* [American Politics: The Final Week (5,515)](https://forum.nationstates.net/viewtopic.php?t=556926&f=20&view=unread#unread ""American Politics: The Final Week" (5,515 posts)")
 
 Advertisement
 
