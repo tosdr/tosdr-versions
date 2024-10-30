@@ -1,15 +1,15 @@
-Tuesday, October 29 2024
+Wednesday, October 30 2024
 
 Breaking News
 
+* [The Morally Bankrupt Entertainment Industry Enabled by Subliminally Forced Conversions](https://www.conservativedailynews.com/2024/10/the-morally-bankrupt-entertainment-industry-enabled-by-subliminally-forced-conversions/)
+* [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
+* [The Arrogant “News” Media’s Complete Lack of Self-Knowledge](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
 * [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
 * [Kamala Believes Her Followers Are As Oblivious As She Is](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
 * [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
 * [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
 * [President Joe Biden’s Schedule for Tuesday, October 29, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
-* [Elise Stefanik Says Trump Is Dominating New York Swing Districts Biden ‘Won By 15 Points’](https://www.conservativedailynews.com/2024/10/elise-stefanik-says-trump-is-dominating-new-york-swing-districts-biden-won-by-15-points/)
-* [Blue Dog Democrats will carry Trump to victory](https://www.conservativedailynews.com/2024/10/blue-dog-democrats-will-carry-trump-to-victory/)
-* [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -110,7 +110,7 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.23%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.24%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
@@ -130,6 +130,28 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [The Morally Bankrupt Entertainment Industry Enabled by Subliminally Forced Conversions](https://www.conservativedailynews.com/2024/10/the-morally-bankrupt-entertainment-industry-enabled-by-subliminally-forced-conversions/)
+    
+    October 29, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5705-scaled-e1730213386127-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
+    
+    [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
+    
+    October 29, 2024
+    
+* [![Media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/08/05-lights-out-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
+    
+    [The Arrogant “News” Media’s Complete Lack of Self-Knowledge](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
+    
+    October 29, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-demcostum-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/costume-faux-pas/)
+    
+    [Costume Faux Pas](https://www.conservativedailynews.com/2024/10/costume-faux-pas/)
+    
+    October 29, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Jeff-Bezos.png)](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
     
     [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
@@ -154,33 +176,12 @@ Recent Posts
     
     October 29, 2024
     
-* [![New York City skyline](https://www.conservativedailynews.com/wp-content/uploads/2017/12/New-York-City-skyline.png)](https://www.conservativedailynews.com/2024/10/in-daniel-penny-case-nyc-has-put-batman-on-trial/)
-    
-    [In Daniel Penny Case, NYC Has Put Batman on Trial](https://www.conservativedailynews.com/2024/10/in-daniel-penny-case-nyc-has-put-batman-on-trial/)
-    
-    October 29, 2024
-    
-* [![BRICS weapon against Democracy Freedom](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz102924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/weapon/)
-    
-    [Weapon](https://www.conservativedailynews.com/2024/10/weapon/)
-    
-    October 29, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Joe-Biden-speech-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, October 29, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
-    
-    October 29, 2024
-    
-* [![Garden - unsplash](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Garden-220x150.png)](https://www.conservativedailynews.com/2024/10/productive-hobbies-that-will-make-you-smarter-and-happier/)
-    
-    [Productive Hobbies That Will Make You Smarter and Happier](https://www.conservativedailynews.com/2024/10/productive-hobbies-that-will-make-you-smarter-and-happier/)
-    
-    October 29, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Blast From The Past: The LWRC IC PDW](https://www.thegunpage.com/blast-from-the-past-the-lwrc-ic-pdw/10611540)
+* [POTD: Raine Peltokoski With His Suomi Submachine Gun](https://www.thegunpage.com/potd-raine-peltokoski-with-his-suomi-submachine-gun/10611541)
+* [HOT GAT or FUDD CRAP? Pocket Magnum or Accident Waiting to Happen?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pocket-magnum-or-accident-waiting-to-happen/10611542)
 * [Taurus Releases The 608 Competition 8-Shot 357 Magnum Revolver](https://www.thegunpage.com/taurus-releases-the-608-competition-8-shot-357-magnum-revolver/10611534)
 * [Mass. Governor on a Power Trip; Landmark Carry Case Liberated Some States While Others Posed to Destroy the Status Quo](https://www.thegunpage.com/mass-governor-on-a-power-trip-landmark-carry-case-liberated-some-states-while-others-posed-to-destroy-the-status-quo/10611531)
 * [TFB Review: Meprolight MEPRO FT Bullseye Front & Rear Sights](https://www.thegunpage.com/tfb-review-meprolight-mepro-ft-bullseye-front-rear-sights/10611532)
@@ -188,9 +189,6 @@ Recent Posts
 * [18 Schools, 214 Student-Athletes To Compete At 2024 USA College Clay Target League National Championship](https://www.thegunpage.com/18-schools-214-student-athletes-to-compete-at-2024-usa-college-clay-target-league-national-championship/10611539)
 * [From Bad to Worse: Dem Candidate’s Photo Op Range Day Yields More Troubling Concerns](https://www.thegunpage.com/from-bad-to-worse-dem-candidates-photo-op-range-day-yields-more-troubling-concerns/10611526)
 * [State Rep. Quang Nguyen Scrutinizes Sedona Gun Ordinance](https://www.thegunpage.com/state-rep-quang-nguyen-scrutinizes-sedona-gun-ordinance/10611524)
-* [TFB Review: Meprolight MPO-F Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-f-open-emitter-pistol-sight/10611529)
-* [Collegiate Rifle: No. 10 Akron Carves Out Win Over No. 19 North Georgia](https://www.thegunpage.com/collegiate-rifle-no-10-akron-carves-out-win-over-no-19-north-georgia/10611530)
-* [Gun Beats Vehicle as Armed Citizen Stops Attacker from Running People Over](https://www.thegunpage.com/gun-beats-vehicle-as-armed-citizen-stops-attacker-from-running-people-over/10611519)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
