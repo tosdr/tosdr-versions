@@ -565,8 +565,6 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [privacy@drinkcirkul.com](mailto:privacy@drinkcirkul.com)
 * 3620 Queen Palm Dr. Tampa, FL 33619
 
-MARCTEST
-
 Join our Facebook Community
 ---------------------------
 
