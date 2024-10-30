@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What can a sexual abuse attorney do for victims of the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-law3-300x200.jpg "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/ "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")
+[![What are the symptoms of stage 4 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-symptoms-of-stage-4-lung-cancer.jpg "What Are the Symptoms of Stage 4 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/ "What Are the Symptoms of Stage 4 Lung Cancer?")
 
-[#### What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/)
+[#### What Are the Symptoms of Stage 4 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/)
 
-[![Can you sue for a car accident if you are not hurt?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-can-you-sue-for-a-car-accident-if-you-are-not-hurt.jpg "Can You Sue For a Car Accident If You Are Not Hurt?")](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/ "Can You Sue For a Car Accident If You Are Not Hurt?")
+[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
 
-[#### Can You Sue For a Car Accident If You Are Not Hurt?](https://www.pintas.com/practice-areas/car-accident-lawyer/can-you-sue-for-a-car-accident-if-you-are-not-hurt/)
+[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
 
-[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
+[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
 
-[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
+[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
