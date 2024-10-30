@@ -163,27 +163,23 @@ Get Directions
 
 [Back to Menu](#)
 
-[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](#) [Small Space Dining Furniture](#) [Small Space Bedroom Furniture](#) [Small Space Office Furniture](#)
+[Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Small Space Living Room Furniture](https://www.thebrick.com/collections/small-space-living-room) [Small Space Dining Furniture](https://www.thebrick.com/collections/small-space-dining-furniture) [Small Space Bedroom Furniture](https://www.thebrick.com/collections/small-space-bedroom-furniture) [Small Space Office Furniture](https://www.thebrick.com/collections/small-space-office-furniture)
 
 [Back to Small Spaces](#)
 
-* Small Space Living Room Furniture
-[Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
+[Small Space Living Room Furniture](https://www.thebrick.com/collections/small-space-living-room) [Sofas](https://www.thebrick.com/collections/small-space-sofas) [Loveseats](https://www.thebrick.com/collections/small-space-loveseats) [Sectionals](https://www.thebrick.com/collections/small-space-sectionals) [Sleeper Sectionals](https://www.thebrick.com/collections/small-space-sleeper-sectionals) [Accent Chairs](https://www.thebrick.com/collections/small-space-accent-chairs) [Living Room Chairs](https://www.thebrick.com/collections/small-space-living-room-chairs) [Sofa Beds and Futons](https://www.thebrick.com/collections/small-space-sofa-beds-and-futons) [Occasional Tables](https://www.thebrick.com/collections/small-space-occasional-tables) [TV Stands](https://www.thebrick.com/collections/small-space-tv-stands) [Ottomans](https://www.thebrick.com/collections/small-space-ottomans) [Electric Fireplaces](https://www.thebrick.com/collections/small-space-electric-fireplaces)
 
 [Back to Small Spaces](#)
 
-* Small Space Dining Furniture
-[Dining Tables](https://www.thebrick.com/collections/small-space-dining-tables) [Dining Chairs](https://www.thebrick.com/collections/small-space-dining-chairs) [Dining Sets](https://www.thebrick.com/collections/small-space-dining-sets) [Bar Stools](https://www.thebrick.com/collections/small-space-bar-stools) [Accent Dining Chairs](https://www.thebrick.com/collections/small-space-accent-dining-chairs) [Dining Benches](https://www.thebrick.com/collections/small-space-dining-benches)
+[Small Space Dining Furniture](https://www.thebrick.com/collections/small-space-dining-furniture) [Dining Tables](https://www.thebrick.com/collections/small-space-dining-tables) [Dining Chairs](https://www.thebrick.com/collections/small-space-dining-chairs) [Dining Sets](https://www.thebrick.com/collections/small-space-dining-sets) [Bar Stools](https://www.thebrick.com/collections/small-space-bar-stools) [Accent Dining Chairs](https://www.thebrick.com/collections/small-space-accent-dining-chairs) [Dining Benches](https://www.thebrick.com/collections/small-space-dining-benches)
 
 [Back to Small Spaces](#)
 
-* Small Space Bedroom Furniture
-[Bedroom Packages](https://www.thebrick.com/collections/small-space-bedroom-packages) [Beds](https://www.thebrick.com/collections/small-space-beds) [Bunk Beds](https://www.thebrick.com/collections/small-space-bunk-beds) [Dressers, Chests & Mirrors](https://www.thebrick.com/collections/small-space-dressers-chests-mirrors) [Nightstands](https://www.thebrick.com/collections/small-space-nightstands)
+[Small Space Bedroom Furniture](https://www.thebrick.com/collections/small-space-bedroom-furniture) [Bedroom Packages](https://www.thebrick.com/collections/small-space-bedroom-packages) [Beds](https://www.thebrick.com/collections/small-space-beds) [Bunk Beds](https://www.thebrick.com/collections/small-space-bunk-beds) [Dressers, Chests & Mirrors](https://www.thebrick.com/collections/small-space-dressers-chests-mirrors) [Nightstands](https://www.thebrick.com/collections/small-space-nightstands)
 
 [Back to Small Spaces](#)
 
-* Small Space Office Furniture
-[Desks](https://www.thebrick.com/collections/small-space-desks) [Bookcases](https://www.thebrick.com/collections/small-space-bookcases) [Filing Cabinets](https://www.thebrick.com/collections/small-space-filing-cabinets)
+[Small Space Office Furniture](https://www.thebrick.com/collections/small-space-office-furniture) [Desks](https://www.thebrick.com/collections/small-space-desks) [Bookcases](https://www.thebrick.com/collections/small-space-bookcases) [Filing Cabinets](https://www.thebrick.com/collections/small-space-filing-cabinets)
 
 [Back to Menu](#)
 
