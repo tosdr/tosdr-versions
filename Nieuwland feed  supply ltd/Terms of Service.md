@@ -123,6 +123,7 @@ By using this Website, you agree to abide by all applicable, local, provincial, 
 * [Cookies](https://nieuwlandfeed.com/cookie-policy)
 * [Privacy](https://nieuwlandfeed.com/privacy-policy)
 * [Terms](https://nieuwlandfeed.com/terms-of-use)
+* [Accessibility](https://nieuwlandfeed.com/wp-content/uploads/2024/10/Accessibility-Plan.pdf)
 
 #### Hours
 
