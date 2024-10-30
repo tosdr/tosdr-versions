@@ -374,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
+Minerva McGonagall played Quidditch while attending Hogwarts. In her seventh year, she received a concussion and several broken ribs during the Quidditch Cup against Slytherin.
 
 ### Potter History
 
-December 20, 2004 – First official Harry Potter and the Goblet of Fire movie pictures are released.
+February 19, 2008 – Confirmation that David Yates will be directing Harry Potter and the Deathly Hallows is accidentally announced by author Lois Lowry.
 
 ### Potter Quote
 
-“She has eyes just like a salamander.”
+“If you went out and got a bit of snogging done yourself, you wouldn’t mind so much that everyone else does it!”
 
 [](#)
 
