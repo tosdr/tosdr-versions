@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me”
+“ The most worth-while thing is to try to put happiness into the lives of others”
 
-[Thomas Jefferson](http://dangerousprototypes.com/2012/02/20/presidents-in-favor-of-open-source/)
+[Robert Baden-Powell](https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell)
 
 [](https://www.adafruit.com/about)
 
