@@ -376,17 +376,20 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     * DPSync3: 3 months
     * DPSync4: 3 months
     * FPtrust: duration of the session
-    * HPAUSRBK\_\_: duration of the session
-    * KADUSERCOOKIE: 3 months
+    * HPAUSRBK\_\_: 2 minutes
+    * KADUSERCOOKIE: 1 year
     * KCCH: 30 seconds
     * KRTBCOOKIE\_\[DSPID\]: 3 months
-    * KTPCACOOKIE: 3 months
-    * PM-UL-Sync: 3 months
+    * KTPCACOOKIE: 1 day
+    * PM-UL-Sync: 1 month
     * PMDTSHR: 1 day
     * PMFREQ\_ON: 2 seconds
     * PUBMDCID: 3 months
     * PUBRETARGET: 3 months
     * PUBUIDSYNCUPFQ: 3 months
+    * PubMatic: indefinite
+    * PubMatic\_GPP: indefinite
+    * PubMatic\_USP: indefinite
     * PugT: 1 month
     * R\_\[DSPID\]: 3 months
     * SPugT: 1 month
@@ -398,9 +401,11 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     * TEMPHPAUSRBKCNT\_\_: 1 day
     * UND: 1 hour
     * USCC: 1 day
-    * \_curtime: 2 days
+    * \_curtime: 2 hours
+    * \_evidon\_consent\_ls\_
+    * \_evidon\_visitor\_ls\_: indefinite
     * aid\_key: indefinite
-    * camfreq\_: 4 days
+    * camfreq\_: 40 minutes
     * chk: 3 months
     * chkChromeAb67: 3 months
     * chkChromeAb67Sec: 3 months
@@ -408,11 +413,11 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     * dV: 3 minutes
     * ipc: 3 seconds
     * limited\_tracking\_ad\_key: indefinite
-    * optout: 5 years
+    * optout: 6 years
     * pi: 8 seconds
     * pp: 3 months
-    * pubfreq\_: 4 days
-    * pubtime\_: 1 day
+    * pubfreq\_\_\_: 40 minutes
+    * pubtime\_: 1 month
     * repi: 2 seconds
     * uids: 3 months
     
