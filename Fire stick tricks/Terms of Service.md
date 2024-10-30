@@ -164,11 +164,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [30 Best Sites to Watch TV Shows Online for FREE (2024)](https://www.firesticktricks.com/watch-tv-shows-online-for-free.html)
-* [26 Best Free Online Movie Streaming Sites (Oct 2024)](https://www.firesticktricks.com/free-movie-streaming-sites.html)
-* [Is 123Movies Safe and Legal? Everything You Need to Know](https://www.firesticktricks.com/is-123movies-safe-and-legal.html)
-* [How to Install WatchNixtoons2 Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/watchnixtoons2-kodi-addon.html)
-* [How to Install Sport HD Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/sporthd-kodi-addon.html)
+* [How to Install and Use VLC Player on FireStick](https://www.firesticktricks.com/vlc-on-firestick.html)
+* [How to Install BMC Build on FireStick and Kodi](https://www.firesticktricks.com/bmc-build.html)
+* [How to Install Base Kodi Addon on FireStick](https://www.firesticktricks.com/base-19-kodi-addon.html)
+* [How to Install ApeX Sports Kodi Addon on FireStick (2024)](https://www.firesticktricks.com/apex-sports-kodi-addon.html)
+* [How to Install & Watch HBO Max Addon on Kodi (2024)](https://www.firesticktricks.com/hbo-max-kodi-addon.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
