@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
+* [![A Guide to Stephen King Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2019/04/24114115/PRH_StephenKing-1200x628-1.jpg)
     
-    33 Halloween Books for Little Pumpkins
+    A Guide to Stephen King Books
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
-
-* * *
-
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
-    
-    Audiobooks for Kids
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/stephen-king-books/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+
+* * *
+
+* [![33 Halloween Books for Little Pumpkins](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/09/24124648/halloween-pumpkins-readdown-1200x628-2024.jpg)
+    
+    33 Halloween Books for Little Pumpkins
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/not-so-scary-picture-books-for-halloween/)
 
 * <
     
