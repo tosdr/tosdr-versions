@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Atlanta’s homicide rate falls more than 10% in continuing downward trend](https://www.ajc.com/news/crime/pace-of-atlanta-homicides-continues-to-slow/HA7UHQSJ2NAX7M4BKBLJFBOIPY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1782)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1782)](https://www.ajc.com/)
 
 Log In
