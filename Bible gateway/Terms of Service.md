@@ -43,7 +43,7 @@ account
 
 close
 
-[For less than $5/mo. gain access to $3,100 worth of premium resources to enhance your study of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100for5_053024)
+[FIND FOCUS with an ad-free experience with Bible Gateway Plus. Try it free today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_adfreefocus20241017)
 
 close
 
