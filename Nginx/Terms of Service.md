@@ -541,11 +541,11 @@ F5’s portfolio of automation, security, performance, and insight capabilities 
 
 #### SUPPORTSUPPORT
 
-* [Manage Subscriptions](https://account.f5.com/myf5)
+* [Manage Subscriptions](https://my.f5.com/manage/s/subscriptions)
 * [Support Portal](https://my.f5.com/manage/s/)
 * [Professional Services](https://www.f5.com/services#professional-services)
-* [Create a Service Request](https://my.f5.com/manage/s/)
-* [Software Downloads](https://login.f5.com/resource/login.jsp?ctx=719748)
+* [Create a Service Request](https://my.f5.com/manage/s/createcase)
+* [Software Downloads](https://my.f5.com/manage/s/downloads)
 
 #### PARTNERSPARTNERS
 
