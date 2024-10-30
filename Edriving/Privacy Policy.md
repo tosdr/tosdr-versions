@@ -97,6 +97,6 @@ Toll Free Phone: [+44 800 808 5611](tel:+448008085611)
 
 [Privacy Policy](https://www.edriving.com/privacy/) | [Cookie Policy](https://www.edriving.com/cookies-policy-and-settings/) | [Terms of Use](https://www.edriving.com/terms-of-use/)
 
-eDriving NEVER sells personal data - [Exercise your rights](https://eudsar.solera.com/webform/9eb91cc4-23fa-42be-9a10-ed84af223018/6c2659c0-9c82-449f-b095-367e4db92d41)
+eDriving NEVER sells personal data - [Exercise your rights](https://www.edriving.com/exercise-your-rights/)
 
 © 2024 eDriving, LLC. All Rights Reserved.
