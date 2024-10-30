@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://cdn.er.ru/media/news/October2024/eqN3K2UWGJOIKAqFqsMf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
+
+[Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+
+Сегодня 12:55
+
+[![О рекомендациях Правительству при подготовке федерального бюджета. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/MwDP5riSKuht8xvTN5XQ-small.JPG)](https://er.ru/activity/news/o-rekomendaciyah-pravitelstvu-pri-podgotovke-federalnogo-byudzheta-statya-andreya-isaeva)
+
+[О рекомендациях Правительству при подготовке федерального бюджета. Статья Андрея Исаева](https://er.ru/activity/news/o-rekomendaciyah-pravitelstvu-pri-podgotovke-federalnogo-byudzheta-statya-andreya-isaeva)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#рекомендации](https://er.ru/activity/news?tags%5B0%5D=6026)
+
+Сегодня 10:00
+
+[![«Единая Россия» и МГЕР наградили лучших волонтеров Подмосковья](https://cdn.er.ru/media/news/October2024/b45o1Iae68LrR0wv8Pjo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-nagradili-luchshih-volonterov-podmoskovya)
+
+[«Единая Россия» и МГЕР наградили лучших волонтеров Подмосковья](https://er.ru/activity/news/edinaya-rossiya-i-mger-nagradili-luchshih-volonterov-podmoskovya)
+
+[#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#Алумянц](https://er.ru/activity/news?tags%5B0%5D=111357) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+
+Сегодня 09:10
+
 [![Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://cdn.er.ru/media/news/October2024/ajDAx6ewUjlrYOphycSi-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
 
 [Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
@@ -320,30 +344,6 @@
 [«Единая Россия» обеспечила гарантии наставникам на производстве](https://er.ru/activity/news/edinaya-rossiya-obespechila-garantii-nastavnikam-na-proizvodstve)
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Родина](https://er.ru/activity/news?tags%5B0%5D=2682) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#работодатель](https://er.ru/activity/news?tags%5B0%5D=5541)
-
-29.10.24
-
-[![«Единая Россия» обеспечила совершенствование мер безопасности в сфере миграции](https://cdn.er.ru/media/news/October2024/NjAV0WsAiNuzFsNhFWjG-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-sovershenstvovanie-mer-bezopasnosti-v-sfere-migracii)
-
-[«Единая Россия» обеспечила совершенствование мер безопасности в сфере миграции](https://er.ru/activity/news/edinaya-rossiya-obespechila-sovershenstvovanie-mer-bezopasnosti-v-sfere-migracii)
-
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#нелегальная миграция](https://er.ru/activity/news?tags%5B0%5D=13055)
-
-29.10.24
-
-[![Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://cdn.er.ru/media/news/October2024/u5kf1mNHe2eqQfFu1ae8-small.jpg)](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
-
-[Дмитрий Белик: «Единая Россия» проводит колоссальную работу по сохранению исторической памяти](https://er.ru/activity/news/dmitrij-belik-edinaya-rossiya-provodit-kolossalnuyu-rabotu-po-sohraneniyu-istoricheskoj-pamyati)
-
-[#Белик](https://er.ru/activity/news?tags%5B0%5D=59885) [сохранениеисторическойпамяти](https://er.ru/activity/news?tags%5B0%5D=153206) [#празднование Победы в ВОВ](https://er.ru/activity/news?tags%5B0%5D=19904)
-
-29.10.24
-
-[![Екатерина Стенякина: «Единая Россия» обеспечит гарантии наставникам на производстве](https://cdn.er.ru/media/news/October2024/rOmN9OXbvo9yXrYAmD0l-small.jpg)](https://er.ru/activity/news/ekaterina-stenyakina-edinaya-rossiya-obespechit-garantii-nastavnikam-na-proizvodstve)
-
-[Екатерина Стенякина: «Единая Россия» обеспечит гарантии наставникам на производстве](https://er.ru/activity/news/ekaterina-stenyakina-edinaya-rossiya-obespechit-garantii-nastavnikam-na-proizvodstve)
-
-[#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627)
 
 29.10.24
 
