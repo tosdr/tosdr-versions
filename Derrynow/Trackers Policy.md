@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-29 Oct 2024
+30 Oct 2024
 
 * [Home
     
@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'")](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -266,12 +273,12 @@ Most Popular
 [Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
+[![PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala")](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry Death Notices - Tuesday, October 29 2024](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman in late teens left 'traumatised' following sexual assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in late teens left 'traumatised' following sexual assault in Derry city centre")](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
 
@@ -280,12 +287,19 @@ Most Popular
 [Woman in late teens left 'traumatised' following sexual assault in Derry city centre](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'")](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 29 2024](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
 
@@ -315,27 +329,18 @@ Most Popular
 [IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's iconic Foyle Bridge celebrates 40th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's iconic Foyle Bridge celebrates 40th anniversary")](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
-
-Foyle Bridge turned 40 this October
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry's iconic Foyle Bridge celebrates 40th anniversary](https://www.derrynow.com/news/derry-news/1641269/derry-s-iconic-foyle-bridge-celebrates-40th-anniversary.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Chapel Road PS pupils in the Halloween spirit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Chapel Road PS pupils in the Halloween spirit")](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Chapel Road PS pupils in the Halloween spirit](https://www.derrynow.com/story-telling/pictures---videos/1641288/in-pictures-chapel-road-ps-pupils-in-the-halloween-spirit.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove Integrated College annual Junior Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1642456/in-pictures-oakgrove-integrated-college-annual-junior-prizegiving.html)
 
@@ -399,13 +404,6 @@ Multimedia
 
 [IN PICTURES: Derry Halloween garden bringing joy to local community](https://www.derrynow.com/story-telling/pictures---videos/1641527/in-pictures-derry-halloween-garden-bringing-joy-to-local-community.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge")](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fans enjoy Derry Senior Club Football Championship Final between Glen and Newbridge](https://www.derrynow.com/story-telling/pictures---videos/1641480/in-pictures-fans-enjoy-derry-senior-club-football-championship-final-between-glen-and-newbridge.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,6 +505,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![The Maguire Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Maguire Family")](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
+
+The Maguire Family
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![DuPont Maydown Hosts MakeMe Visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DuPont Maydown Hosts MakeMe Visit")](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
 
 DuPont Maydown Hosts MakeMe Visit
@@ -516,7 +523,7 @@ DuPont Maydown Hosts MakeMe Visit
 [DuPont Maydown Hosts MakeMe Visit](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
 ----------------------------------------------------------------------------------------------------------------------------
 
-[![Derry mother and baby wellness classes starting soon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
+[![Derry mother and baby wellness classes starting soon](https://www.derrynow.com/resizer/165/93/true/2024_10_28/Screenshot_%28185%29-1730125922324_1730125948.png--.png?1730125948637 "Derry mother and baby wellness classes starting soon")](https://www.derrynow.com/news/local-news/1641561/derry-mother-and-baby-wellness-classes-starting-soon.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -549,15 +556,6 @@ Dungiven Men's Shed
 
 [Dungiven Men's Shed to host 5k walk/run fundraiser](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![People Before Profit Slam Proposed Fees Increase at University](https://www.derrynow.com/resizer/165/93/true/1623161450217.jpg--.jpg?1623161450000 "People Before Profit Slam Proposed Fees Increase at University")](https://www.derrynow.com/news/derry-news/1641988/people-before-profit-slam-proposed-fees-increase-at-university.html)
-
-Magee Building, Ulster University
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[People Before Profit Slam Proposed Fees Increase at University](https://www.derrynow.com/news/derry-news/1641988/people-before-profit-slam-proposed-fees-increase-at-university.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
