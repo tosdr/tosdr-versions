@@ -159,15 +159,15 @@ La iniciativa de Talento Digital persigue garantizar la formación e inclusión 
 
 Para las administraciones y servicios públicos
 
-   ![](/sites/redes/files/styles/ratio_1_1/public/media/images/5G_0.png?h=e6a33e25&itok=NPFD01WV)
+   ![Sanidad](/sites/redes/files/styles/ratio_1_1/public/media/images/sanidad.png?h=87136cbf&itok=LWamBy24)
 
-Tecnología 5G
+Sanidad y Servicios Sociales
 
-![FEDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_1.png)
+![FEDER](/sites/redes/files/inline-images/LOGO_FDER_transparente_2.png)
 
-Red.es lleva a cabo las convocatorias para fomentar el desarrollo de proyectos y experiencias piloto de tecnología 5G, que se enmarcan en el Plan Nacional 5G y en...
+El Programa de Salud y Bienestar Social 2014-2020, se encuadra dentro del Objetivo Específico OE 2.3.1. “Promover la alfabetización digital, e-aprendizaje, e...
 
-[Tecnología 5G](http://red.es/es/iniciativas/tecnologia-5g "Ir al contenido de: Tecnología 5G")
+[Sanidad y Servicios Sociales](http://red.es/es/iniciativas/sanidad-y-servicios-sociales "Ir al contenido de: Sanidad y Servicios Sociales")
 
 [Ver más iniciativas para las administraciones y servicios públicos](http://red.es/es/iniciativas/listado)
 
