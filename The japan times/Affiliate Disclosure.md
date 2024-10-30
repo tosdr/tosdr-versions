@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
+[Without an LDP-Komeito majority, will Ishiba stay prime minister?](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+
+  [![Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.")](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+
+[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+
+  [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+
 [Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
 
   [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
 
   [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
-
-[Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
-
-  [![Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
-
-[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
-
-  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
 
 Editors' Picks
 --------------
@@ -159,6 +159,20 @@ Editors' Picks
 [Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
 
   [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Without an LDP-Komeito majority, will Ishiba stay prime minister?](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430850.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yoshihiko Noda, head of the Constitutional Democratic Party of Japan, walks past a monitor displaying a live news broadcast showing Prime Minister Shigeru Ishiba in Tokyo on Sunday.")](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Man held for allegedly assaulting Japanese celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
+
+  [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -173,22 +187,6 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 [Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
 
   [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Record number of women elected to Japan's Lower House](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430604.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Liberal Democratic Party lawmaker Chisato Morishita bows to reporters on Sunday in Ishinomaki, Miyagi Prefecture, after she was projected to win a seat in the Lower House election.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/women-elected-lower-house/ "Record number of women elected to Japan's Lower House")
-
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
-
-[The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
-
-By [Erik Augustin Palm](https://www.japantimes.co.jp/author/4872/erik-augustin-palm/ "Erik Augustin Palm")  
-
-  [![Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/27/430026.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Studio Ghibli’s “Kiki’s Delivery Service” draws inspiration from Sweden’s medieval town of Visby as well as Stockholm for its vibrant setting of Koriko, a fictional city where the film’s titular character decides to use her powers as a witch to benefit the inhabitants of her new home.")](https://www.japantimes.co.jp/culture/2024/10/27/film/studio-ghibli-hayao-miyazaki-visby-sweden/ "The Swedish heart of Hayao Miyazaki's ‘Kiki's Delivery Service’")
 
 Podcast
 -------
@@ -209,9 +207,9 @@ By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-domingue
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[A lack of workers threatens Japan's nuclear power revival](https://www.japantimes.co.jp/news/2024/10/30/japan/nuclear-power-lack-of-workers/ "A lack of workers threatens Japan's nuclear power revival")
+[All eyes on DPP ahead of prime minister vote in Lower House](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/dpp-opposition-parties-politics/ "All eyes on DPP ahead of prime minister vote in Lower House")
 
-11 mins ago
+42 mins ago
 
-[Ex-Goldman banker-turned-billionaire takes on South Korea’s chaebol](https://www.japantimes.co.jp/business/2024/10/30/companies/goldman-billionaire-korea-chaebol/ "Ex-Goldman banker-turned-billionaire takes on South Korea’s chaebol")
-
-48 mins ago
-
-[As U.S. election nears, Europe worries over impact on Ukraine war and NATO](https://www.japantimes.co.jp/news/2024/10/30/world/politics/us-election-europe-ukraine-nato/ "As U.S. election nears, Europe worries over impact on Ukraine war and NATO")
+[Ishiba Cabinet's approval rating sinks to around 30%](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/ishiba-ratings-plunge/ "Ishiba Cabinet's approval rating sinks to around 30%")
 
 1 hours ago
 
-[U.S. serviceman detained after wife found dead in Fukuoka hotel](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/us-serviceman-wife-found-dead-fukuoka/ "U.S. serviceman detained after wife found dead in Fukuoka hotel")
+[Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
 1 hours ago
 
-[Church must act faster against abusive priests, papal commission says](https://www.japantimes.co.jp/news/2024/10/30/world/society/abusive-priests-papal-commission/ "Church must act faster against abusive priests, papal commission says")
+[Men break into Tokyo residence in attempted robbery before fleeing](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/mitaka-robbery-attempt/ "Men break into Tokyo residence in attempted robbery before fleeing")
 
 1 hours ago
+
+[Ex-ASDF colonel pleads not guilty to confidentiality breach](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/ex-asdf-colonel-pleads-not-guilty/ "Ex-ASDF colonel pleads not guilty to confidentiality breach")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
