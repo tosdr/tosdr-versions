@@ -1,6 +1,12 @@
-[![Reason.com - Free Minds and Free Markets](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
+[![Reason.com - Free Minds and Free Markets](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
 
-[![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/) [![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)](https://reason.com/)
+![Reason.com - Free Minds and Free Markets](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
+
+[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
+
+![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/)[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)](https://reason.com/)
 
 * [Latest](https://reason.com/latest/)
 * [Magazine](https://reason.com/magazine/)
@@ -119,6 +125,8 @@ email: copyright@reason.com
 [© 2024 Reason Foundation](https://reason.org/) | [Accessibility](https://reason.com/accessibility/) | [Privacy Policy](https://reason.com/privacy/) | [Terms Of Use](https://reason.com/terms-of-use/)
 
 This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://policies.google.com/privacy) and [**Terms of Service**](https://policies.google.com/terms) apply.
+
+![Reason Plus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![Reason Plus](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
 
