@@ -1,6 +1,6 @@
 top of page
 
-[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/fill/w_206,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
+[![Screen Shot 2024-10-19 at 12_edited.png](https://static.wixstatic.com/media/eb4b3a_7184737a2a9a4ac7ae8e558b08a768bc~mv2.png/v1/crop/x_0,y_85,w_760,h_258/fill/w_85,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202024-10-19%20at%2012_edited.png)](https://www.glui.io/)
 
 [BOOK A DEMO](https://www.glui.io/)
 
@@ -32,11 +32,6 @@ Close
         
 * [Demos](https://www.glui.io/demos)
     
-
-[contact@wix.com](mailto:contact@wix.com)  
-+123-456-789
-
-© 2035 by The Clinic.Powered and secured by Wix
 
 #### Legal
 
