@@ -393,7 +393,7 @@ Industries
 
 Resources
 
-* [Blogs](https://taxbit.com/resources/insights?content_type=blogs)
+* [Blog](https://taxbit.com/resources/insights?content_type=blogs)
 * [Case Studies](https://taxbit.com/resources/insights?content_type=case-studies)
 * [Webinars](https://taxbit.com/resources/insights?content_type=webinars)
 * [Whitepapers](https://taxbit.com/resources/insights?content_type=white-papers)
