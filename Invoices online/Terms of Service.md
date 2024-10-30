@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Jannie Schutte - myFinance-Online.co.za
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=47028158)  
-Oukraal Merino's
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=54693339)  
+McKaynine Mobility
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=114889798)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=34132131)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=69280115)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=9404532)  
+Immediate Health (pty)ltd
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=44983520)  
-webb it services
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=164929499)  
+Kara Medical (Pty) Ltd
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=73838685)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=46108847)  
+MR Compressors& Industrial Supplies
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=14698658)  
-Redlum Group (Pty) Ltd
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=129027466)  
+Prosper Park
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=86530961)  
-Goju Ryu Karate Centre
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=179761030)  
+Eruca (PTY)Ltd
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=174195565)  
-Echo Recording Studio cc
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=80091568)  
+Itroniq (Pty) Ltd
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=202875107)  
-Goju-Ryu Pretoria East
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=36619000)  
+Super Sound Man (PTY) Ltd
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=19801475)  
-Forgotten Goods (Pty) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=208667792)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=46480604)  
-Mtunzini Group
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=196023193)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=46137475)  
-CLEVER STUDENTS
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=172131808)  
+MSPCloud (Pty) Ltd
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=210429083)  
-Hydroworld T/A Milliqua
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=196732984)  
+SR Travel Services
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=28770475)  
-Iurus Inc
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=46675403)  
+United Paintball Federation
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=c91d8875ff30d4ef013a79f02b3344aa21f429106db1ecd029023c5051059d17&c=151733308)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b6a374a619241566ca5e634cff198939e5763ad07f0c4bbdf132a8e57604022b&c=62466258)  
+Gemini-IT Group
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
