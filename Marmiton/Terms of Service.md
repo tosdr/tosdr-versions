@@ -47,7 +47,8 @@ Connexion
 
 * Communauté
     * [Participer au forum](https://www.marmiton.org/forum/)
-    * [Rejoignez](https://marmitest.marmiton.org/)
+    * [Regardez Marmiton TV](https://tv.marmiton.org/)
+    * [Rejoignez Marmitest](https://marmitest.marmiton.org/)
 * Prix Marmiton
     * [Prix Marmiton 2024](https://www.marmiton.org/Prix-Marmiton-2023/prix-marmiton-2023-tp186800.html)
 * Livres
