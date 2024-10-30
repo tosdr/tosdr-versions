@@ -19,14 +19,15 @@ Navigation Menu
     
     Shop
     
-    * [NHL Shop](http://www.nhl.com/shop/link.html?id=NHLMainNav)
+    * [NHL Shop](https://www.nhl.com/shop/link.html?id=NHLMainNav)
     * [Auctions](https://auctions.nhl.com/iSynApp/showHomePage.action?sid=1100803&isynsharedsession=-49tdlN6E5KFskNnhza1CIdajq-qCLds-tdsx4xHdy9EdaSACl02r4aCDzYhNvUm&utm_source=onsite&utm_medium=nhl.com&utm_campaign=mainauctionslink)
-    * [Jerseys](http://www.nhl.com/shop/link.html?id=NHLSubNavJerseys)
-    * [Men](http://www.nhl.com/shop/link.html?id=NHLSubNavMens)
-    * [Women](http://www.nhl.com/shop/link.html?id=NHLSubNavWomens)
-    * [Kids](http://www.nhl.com/shop/link.html?id=NHLSubNavKids)
+    * [Jerseys](https://www.nhl.com/shop/link.html?id=NHLSubNavJerseys)
+    * [Men](https://www.nhl.com/shop/link.html?id=NHLSubNavMens)
+    * [Women](https://www.nhl.com/shop/link.html?id=NHLSubNavWomens)
+    * [Kids](https://www.nhl.com/shop/link.html?id=NHLSubNavKids)
     * [Photos.com](https://photos.com/art/nhl)
     * [NHL Shop - NYC](https://www.nhl.com/fans/nhl-shop-nyc)
+    * [Get NHL Credit Card](https://www.discovercard.com/application/displayLanding?pageFileId=double-display-nhl&sc=GAXW&cmpgnid=affinity-pl-nhl-shtb)
     
 * [Tickets](https://www.nhl.com/tickets)
 
@@ -302,6 +303,7 @@ We collect and receive the following categories of information:
 * [Instagram](https://www.instagram.com/nhl)
 * [Discord](https://discord.gg/nhlbreakaway)
 * [Facebook](https://www.facebook.com/NHL)
+* [Threads](https://www.threads.net/@nhl)
 * [Snapchat](https://www.snapchat.com/add/nhl)
 * [Twitch](https://www.twitch.tv/nhl)
 * [X](https://www.twitter.com/nhl)
