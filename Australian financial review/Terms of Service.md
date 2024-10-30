@@ -320,7 +320,7 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5786%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_131/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1b63a1a5fdabc10d7c3738b392e5bd2385a05558)](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
+[![The Happy House in Nepal.](https://static.ffx.io/images/$zoom_0.2043%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f9fa6305d9fcab2d0d253dc34ce5d26d667866aa)](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
 
 ### [This humble ‘house’ in Nepal has lured celebrities and revived a village](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
 
@@ -334,15 +334,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![James Packer is sitting pretty off the back of booming tech stocks.](https://static.ffx.io/images/$zoom_0.4159%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_92/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cb7a0321d2914c7f1550a27e6a64ab050a71291b)](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
+[![The Eumundi portfolio includes the Plough Inn on Brisbane’s South Bank.](https://static.ffx.io/images/$zoom_0.2773%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_100/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/26bc6451e094abef2cb014084e06dc308729ad5c)](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
 
-### [Packer in $120m payday as big bets on Nvidia, Meta pay off](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
+### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
 
-* Primrose Riordan
+* 1 hr ago
+* Larry Schlesinger
 
-* ### [How these Young Rich Listers celebrated their own 21st birthdays](https://www.afr.com/young-rich/how-these-young-rich-listers-celebrated-their-own-21st-birthdays-20240712-p5jtan)
+* ### [Travel surge cements Young Rich Lister’s new billionaire status](https://www.afr.com/young-rich/travel-surge-cements-young-rich-lister-s-new-billionaire-status-20241030-p5kmiu)
     
-* ### [Australia’s richest people 40 and under break record](https://www.afr.com/young-rich/australia-s-richest-people-40-and-under-break-record-20240918-p5kbgg)
+* ### [Packer in $120m payday as big bets on Nvidia, Meta pay off](https://www.afr.com/companies/media-and-marketing/packer-in-120m-payday-as-big-bets-on-nvidia-meta-pay-off-20241028-p5km2p)
     
 
 [The Australian Financial Review](https://www.afr.com/)
