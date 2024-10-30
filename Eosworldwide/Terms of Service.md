@@ -2,9 +2,9 @@
 
            
 
-#### Table of Contents
+#### **Table of Contents**
 
-#### Last Updated: August 4, 2023
+#### Last Updated: October 29, 2024
 
 EOS Worldwide Master Terms of Use
 ---------------------------------
