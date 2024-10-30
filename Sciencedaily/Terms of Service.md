@@ -253,23 +253,23 @@ this week
 
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Bone and Spine](https://www.sciencedaily.com/news/health_medicine/bone_and_spine/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
-
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
 
   
 
