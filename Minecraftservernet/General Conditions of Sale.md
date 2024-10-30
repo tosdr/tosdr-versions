@@ -29,17 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Opinium](plugins/MineCraft/icons/25x25xOpinium_1729658202.png.pagespeed.ic.uLOW_8Oyyj.jpg)
+[![Cobalt](plugins/MineCraft/icons/25x25xCobalt_1728829094.png.pagespeed.ic.MW8BNEQizg.png)
 
-BeanSMP](https://minecraft-server.net/details/Opinium/ "BeanSMP")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
+isoVerse | 1.21 Survival Skyblock Creative Parkour \[Java & Bedrock\]](https://minecraft-server.net/details/Cobalt/ "isoVerse | 1.21 Survival Skyblock Creative Parkour [Java & Bedrock]") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Total__Anarchy](plugins/MineCraft/icons/25x25xTotal__Anarchy_1729888751.png.pagespeed.ic.6R9WISDLl7.jpg)
-
-Total Anarchy](https://minecraft-server.net/details/Total__Anarchy/ "Total Anarchy")
+Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06127 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06755 - Created by [Debaucus](https://debauc.us/)
