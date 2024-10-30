@@ -285,7 +285,7 @@ Privacy Policy
 
 [Table of contents loading...](#)
 
-This Cybrary, Inc. (“Cybrary”, “us” or “our”) Privacy Policy (“Privacy Policy”) explains our practices, defines our users’ (“you” or “your”) privacy options, and describes how your information is collected and used by Cybrary. This Privacy Policy, along with our [Terms of Service](http://cybrary.it/terms-service), applies to your use of all Cybrary-branded products and services including your use of our website at [www.cybrary.it](http://www.cybrary.it/) (“Site”), any services provided by Cybrary any web or mobile applications we develop (collectively, our “Platform”). This Privacy Policy explains:
+This Cybrary, Inc. (“Cybrary”, “us” or “our”) Privacy Policy (“Privacy Policy”) explains our practices, defines our users’ (“you” or “your”) privacy options, and describes how your information is collected and used by Cybrary. This Privacy Policy, along with our [Terms of Service](https://cybrary.it/terms-service), applies to your use of all Cybrary-branded products and services including your use of our website at [www.cybrary.it](https://www.cybrary.it/) (“Site”), any services provided by Cybrary any web or mobile applications we develop (collectively, our “Platform”). This Privacy Policy explains:
 
 * the information we collect about you;
 * how that information may be used;
