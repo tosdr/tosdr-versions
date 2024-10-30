@@ -164,7 +164,7 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 
 [Log in](https://my.adguard.com/account/)
 
-[AdGuard](https://adguard.com/en/welcome.html) AdGuard software Limited — End User License Agreement
+[AdGuard](https://adguard.com/en/welcome.html) EULA
 
 AdGuard End-User License Agreement
 ==================================
@@ -396,7 +396,7 @@ Email: [support@adguard.com](mailto:support@adguard.com) Website: [](https://adg
 
 Other documents:
 
-[Privacy policy](https://adguard.com/en/privacy.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms and conditions of the AdGuard account and AdGuard websites](https://adguard.com/en/terms-and-conditions.html)
+[Privacy policy](https://adguard.com/en/privacy.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms of Sale](https://adguard.com/en/terms-of-sale.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms and conditions of the AdGuard account and AdGuard websites](https://adguard.com/en/terms-and-conditions.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
 
 Privacy notices:
 
@@ -443,7 +443,7 @@ License
 
 Legal documents
 
-[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html)
+[EULA](https://adguard.com/en/eula.html) [Privacy policy](https://adguard.com/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/en/website-privacy.html) [Terms of sale](https://adguard.com/en/terms-of-sale.html) [EULA of AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/eula.html) [Terms and conditions](https://adguard.com/en/terms-and-conditions.html) [Data Processing Agreement](https://adguard.com/en/data-processing-agreement.html)
 
 AdGuard
 
@@ -467,7 +467,7 @@ Purchase license Recover license Get free license Partner with AdGuard Contribut
 
 Legal documents
 
-EULA Privacy policy Privacy policy of AdGuard websites Terms of sale EULA of AdGuard Temp Mail Terms and conditions
+EULA Privacy policy Privacy policy of AdGuard websites Terms of sale EULA of AdGuard Temp Mail Terms and conditions Data Processing Agreement
 
 System theme Light theme Dark theme
 
