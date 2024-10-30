@@ -9,7 +9,9 @@
 EOS Worldwide Privacy Notice
 ----------------------------
 
-* We may provide you with access to certain EOS Worldwide systems, programs, products, and other intellectual property, which include (i) websites (including https://www.eosworldwide.com and https://rocketfueluniversity.com), software (including EOS One™), platforms, subscriptions, memberships, applications (including mobile applications), tools, and content that we may provide or make available from time-to-time; (ii) email and network systems and accounts; (iii) client management platforms and wireless high-speed Internet access systems; and  (iv) e-commerce (such as our EOS Online Store) and promotions (collectively, the “EOS Web Properties”).  
+We may provide you with access to certain EOS Worldwide systems, programs, products, and other intellectual property, which include (i) websites (including https://www.eosworldwide.com and https://rocketfueluniversity.com), software (including EOS One™), platforms, subscriptions, memberships, applications (including mobile applications), tools, and content that we may provide or make available from time-to-time; (ii) email and network systems and accounts; (iii) client management platforms and wireless high-speed Internet access systems; and  (iv) e-commerce (such as our EOS Online Store) and promotions (collectively, the “EOS Web Properties”).  
+
+  
 
 This EOS Worldwide Privacy Notice (this “Privacy Notice”) describes the personal information that EOS Worldwide, LLC, a Michigan limited liability company and its applicable EOS affiliated entities (“EOS Worldwide”, “we”, “us”, “our”) collect when you interact with us through all of our EOS Web Properties that display or link to this notice or through offline services, how we use it, with whom we share it, how long we retain it, and your choices in connection with it.
 
@@ -254,7 +256,7 @@ Search
 
 Change Location
 
-                                                  [Skip to content](#content)
+                                                    [Skip to content](#content)
 
 ![](https://px.ads.linkedin.com/collect/?pid=2799050&fmt=gif)
 
