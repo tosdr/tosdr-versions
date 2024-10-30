@@ -100,6 +100,21 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
 * [Enterprise](https://lucid.co/enterprise)
 
+* English
+    
+    * [Deutsch](https://lucid.co/de)
+    * [English](https://lucid.co/)
+    * [Español](https://lucid.co/es)
+    * [Français](https://lucid.co/fr)
+    * [Italiano](https://lucid.co/it)
+    * [日本語](https://lucid.co/ja)
+    * [한국인](https://lucid.co/ko)
+    * [Nederlands](https://lucid.co/nl)
+    * [Polski](https://lucid.co/pl)
+    * [Português](https://lucid.co/pt)
+    * [Pусский](https://lucid.co/ru)
+    * [Svenska](https://lucid.co/sv)
+    
 * [Try now](https://lucid.co/try-now)[Try now](https://lucid.co/try-now)
 * [Contact sales](https://lucid.co/contact/contact-sales)
 
