@@ -25,15 +25,13 @@
 * [運営会社](https://wikiwiki.jp/pp/about)
 
 [無料レンタルWIKIサービス  
-
-![無料レンタル WIKI サービス WIKIWIKI](/pa/img/logo.png)
-==============================================](https://wikiwiki.jp/)
+![無料レンタル WIKI サービス WIKIWIKI](/pa/img/logo.png)](https://wikiwiki.jp/)
 
 [WIKIの設定・新規登録](https://wikiwiki.jp/pp/registorset)
 
- [![](/pa/img/icon-setting-white.png)WIKIの設定](https://wikiwiki.jp/pp/registorset)
+ [![WIKIの設定](/pa/img/icon-setting-white.png)WIKIの設定](https://wikiwiki.jp/pp/registorset)
 
- ![](/pa/img/icon-menu-white.png)メニュー
+ ![メニュー](/pa/img/icon-menu-white.png)メニュー
 
 * [ホーム](https://wikiwiki.jp/)
 * [最近更新されたWIKI](https://wikiwiki.jp/p/site/ranking)
