@@ -138,6 +138,7 @@ Na skróty
 * [Przekaż 1,5% podatku](https://oko.press/15procent)
 * [Nagrody](https://oko.press/o-nas#nasze-nagrody)
 * [Kontakt](https://oko.press/kontakt)
+* [Sygnaliści](https://oko.press/sygnalisci)
 * [ENGLISH](https://oko.press/about-us)
 
 Informacje
