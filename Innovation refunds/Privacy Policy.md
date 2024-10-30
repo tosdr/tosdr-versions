@@ -2,11 +2,11 @@ Due to the IRS moratorium, we are not currently assisting with new ERC claims.
 
 [](#)
 
- [![InnovationRefunds](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg) InnovationRefunds](https://www.innovationrefunds.com/)
+ [![InnovationRefunds](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg) InnovationRefunds](https://www.innovationrefunds.com/)
 
 [Contact Us](https://www.innovationrefunds.com/contact)
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Success Stories](https://www.innovationrefunds.com/testimonials/)[(855) 653-1083](tel:8556531083)
+[Who We Are](https://innovationrefunds.com/about-us/) [Success Stories](https://innovationrefunds.com/testimonials/)[(855) 653-1083](tel:8556531083)
 
 [Contact Us](https://www.innovationrefunds.com/contact)
 
@@ -48,9 +48,9 @@ Privacy Policy Updates
 Overview
 --------
 
-This Privacy Policy describes Innovation Refunds LLC’s and IR Advance LLC’s (collectively, “Innovation Refunds,” “we,” “us,” “our”) policies regarding the collection, use, and disclosure of personal information about you when you visit our website or use our platform at [https://www.innovationrefunds.com/](https://www.innovationrefunds.com/), use our app(s) (e.g., the Innovations Refunds App), or otherwise interact with us concerning your actual or potential tax refund (collectively, “Services”). “Personal information” is non-public information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked to an individual. When you use our Services, you agree to our collection, use, and disclosure of personal information about you as described in this Privacy Policy. If you do not provide us with personal information we request, we may not be able to provide you with our Services or your experience when using those Services may be impaired.
+This Privacy Policy describes Innovation Refunds LLC’s and IR Advance LLC’s (collectively, “Innovation Refunds,” “we,” “us,” “our”) policies regarding the collection, use, and disclosure of personal information about you when you visit our website or use our platform at [https://innovationrefunds.com/](https://innovationrefunds.com/), use our app(s) (e.g., the Innovations Refunds App), or otherwise interact with us concerning your actual or potential tax refund (collectively, “Services”). “Personal information” is non-public information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked to an individual. When you use our Services, you agree to our collection, use, and disclosure of personal information about you as described in this Privacy Policy. If you do not provide us with personal information we request, we may not be able to provide you with our Services or your experience when using those Services may be impaired.
 
-A link to a Portable Document Format (PDF) version of this privacy policy can be found here: [Privacy Policy](https://cdn.prod.website-files.com/6331512d4184db91bf3fe473/659479f1d152904ebeb3d01f_Innovation%20Refunds%20Privacy%20Policy%20January%202024.pdf).
+A link to a Portable Document Format (PDF) version of this privacy policy can be found here: [Privacy Policy](https://www.innovationrefunds.com/wp-content/uploads/2024/08/Innovation-Refunds-Privacy-Policy-January-2024.pdf).
 
 Scope
 -----
@@ -166,7 +166,7 @@ Selling/Sharing
 
 Although we do not disclose your personal information for any monetary consideration, our use and disclosure of the categories above (i.e., identifiers and contact information, categories of personal information described in [Cal. Civ. Code § 1798.80(e)](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.80.), Internet or other electronic network activity information, professional or employment-related information, and inferences drawn from such information) to marketing partners within the last 12 months, could fall within California’s definitions of “selling” or “sharing.” “Sharing” is referred to as “targeted advertising” in some states.  
 ‍  
-To the extent we use your personal information across non-Innovation Refunds businesses, websites, and applications for targeted advertising purposes, you may opt-out of such use (“opt-out of selling/sharing”). To do so, you may email your request to [\[email protected\]](https://www.innovationrefunds.com/cdn-cgi/l/email-protection), [complete this form](https://qualify.innovationrefunds.com/partner-share-opt-out), or use an opt-out preference signal, such as the Global Privacy Control (GPC) on browsers and/or browser extensions that support such  a signal. To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs). If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.  
+To the extent we use your personal information across non-Innovation Refunds businesses, websites, and applications for targeted advertising purposes, you may opt-out of such use (“opt-out of selling/sharing”). To do so, you may email your request to [privacy@innovationrefunds.com](mailto:privacy@innovationrefunds.com), [complete this form](https://qualify.innovationrefunds.com/partner-share-opt-out), or use an opt-out preference signal, such as the Global Privacy Control (GPC) on browsers and/or browser extensions that support such  a signal. To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs). If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.  
 ‍  
 If you do not have an Innovation Refunds account or if you are not logged into your Innovation Refunds account, your request to opt-out of selling/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us. If you would like us to make the connection between your browser and your account, and you have not yet opted-out of selling/sharing your personal information, please [submit this form](https://qualify.innovationrefunds.com/partner-share-opt-out).  
 ‍  
@@ -192,7 +192,7 @@ Please see below for additional options available to you.
 
 **Email**. To stop receiving promotional emails, click the “unsubscribe” link in any of our marketing emails.
 
-**Direct Mail.** To stop receiving promotional postal mail, email us at [\[email protected\]](https://www.innovationrefunds.com/cdn-cgi/l/email-protection) or write to us at: Innovation Refunds LLC, Regency West 8, 4350 Westown Pkwy, Ste 300, West Des Moines, IA 50266.
+**Direct Mail.** To stop receiving promotional postal mail, email us at [privacy@innovationrefunds.com](mailto:privacy@innovationrefunds.com) or write to us at: Innovation Refunds LLC, Regency West 8, 4350 Westown Pkwy, Ste 300, West Des Moines, IA 50266.
 
 **App Push Notifications.** To adjust your notifications, please adjust your selections in the app’s “Notification Settings.”
 
@@ -221,7 +221,7 @@ In addition to the choices described above, we provide you with the:
 How to Submit a Request to Know, Access, Correct, or Delete
 -----------------------------------------------------------
 
-If you would like to submit a request to know, access, correct, or delete your personal information, you or your authorized agent may complete [this webform](https://forms.office.com/r/bPY4aen2px) or email your request to [\[email protected\]](https://www.innovationrefunds.com/cdn-cgi/l/email-protection).
+If you would like to submit a request to know, access, correct, or delete your personal information, you or your authorized agent may complete [this webform](https://forms.office.com/r/bPY4aen2px) or email your request to [privacy@innovationrefunds.com](mailto:privacy@innovationrefunds.com).
 
 Once you submit your request, we will take commercially reasonable steps to verify your identity (e.g., via your Innovation Refunds account or asking you to provide us with information matching the information in our files about you (e.g., your email address and phone number)). If you are an authorized agent submitting a request on behalf of another individual, we will also verify that you have authority to act for the data subject (e.g., a signed authorization).
 
@@ -235,7 +235,7 @@ Our website, platform, and app(s) contain links to third party websites, applica
 Contact Us
 ----------
 
-If you have any questions or comments about this privacy policy, please contact us via email at [\[email protected\]](https://www.innovationrefunds.com/cdn-cgi/l/email-protection) or write to us at: Innovation Refunds LLC, Regency West 8, 4350 Westown Pkwy, Ste 300, West Des Moines, IA 50266.
+If you have any questions or comments about this privacy policy, please contact us via email at [privacy@innovationrefunds.com](mailto:privacy@innovationrefunds.com) or write to us at: Innovation Refunds LLC, Regency West 8, 4350 Westown Pkwy, Ste 300, West Des Moines, IA 50266.
 
 Privacy Policy Updates
 ----------------------
@@ -244,32 +244,32 @@ This privacy policy replaces all previous privacy policies and cannot be modifie
 ‍  
 **Effective date:** This Privacy Policy is effective, and was last updated on December 29, 2023.
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/AICPA-SOC-Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/AICPA-SOC-Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
 
 COMPANY
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Careers](https://www.innovationrefunds.com/careers/) [Blog](https://www.innovationrefunds.com/blog/)
+[Who We Are](https://innovationrefunds.com/about-us/) [Careers](https://innovationrefunds.com/careers/) [Blog](https://innovationrefunds.com/blog/)
 
 RESOURCES
 
-[FAQ](https://www.innovationrefunds.com/faq/) [Contact](https://www.innovationrefunds.com/contact/)
+[FAQ](https://innovationrefunds.com/faq/) [Contact](https://innovationrefunds.com/contact/)
 
 POLICIES & TERMS
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Careers](https://www.innovationrefunds.com/careers/) [Blog](https://www.innovationrefunds.com/blog/)
+[Privacy Policy](https://innovationrefunds.com/privacy/) [Terms of Use](https://innovationrefunds.com/terms/)
 
 ©2024 Innovation Refunds
 
 [Privacy Policy](https://www.innovationrefunds.com/privacy)[Terms of use](https://www.innovationrefunds.com/terms)[Notice at Collection](https://www.innovationrefunds.com/notice-at-collection)[Do Not Sell or Share My Personal Information](https://qualify.innovationrefunds.com/partner-share-opt-out)[Do Not Call](https://www.innovationrefunds.com/do-not-call)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/fb-social.png)](https://www.facebook.com/innovationrefunds) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/linkedin-social.png)](https://www.linkedin.com/company/74399983/) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/Twitter-X.png)](https://twitter.com/getrefunds)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/fb-social.png)](https://www.facebook.com/innovationrefunds) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/linkedin-social.png)](https://www.linkedin.com/company/74399983/) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/Twitter-X.png)](https://twitter.com/getrefunds)
 
 All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
