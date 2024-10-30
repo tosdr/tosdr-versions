@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                                   
+Shipping – G FUEL                                                                                                                                     
 
 [Skip to content](#MainContent)  
 
@@ -208,7 +208,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[TERROR NEVER TASTED SO GOODShop BOGO Free Now!](https://gfuel.com/pages/bogo)
+[FINAL HOURS TO SHOP BOGO! d h m s](https://gfuel.com/pages/bogo)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -567,7 +567,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.8 out of 5 stars
 
-77 Reviews
+78 Reviews
 
 4.8
 
