@@ -185,7 +185,7 @@ Connect With Us
 * [Instagram](https://www.instagram.com/bulbhead_ideas/)
 * [YouTube](https://www.youtube.com/channel/UCvFG8bTpQNxhQTV9DEfIBiQ)
 
-[Terms of Service](https://www.bulbhead.com/policies/terms-of-service) [Privacy Policy](https://www.bulbhead.com/pages/bulbhead-support?hcUrl=%2Fen-US%2Fprivacy-policy-384109) [Shipping Info](https://www.bulbhead.com/pages/bulbhead-support?hcUrl=%2Fen-US%2Fshipping-info-384104)
+[Terms of Service](https://bulbheadsupport.gorgias.help/en-US/terms-of-service-384108) [Privacy Policy](https://bulbheadsupport.gorgias.help/en-US/privacy-policy-384109) [Security Policy](https://bulbheadsupport.gorgias.help/en-US/security-policy-384107)
 
 Payment methods
 
@@ -199,8 +199,6 @@ Payment methods
 * PayPal
 * Venmo
 * Visa
-* ![](//www.bulbhead.com/cdn/shop/files/pay-later-zip.svg?v=15073575595974828375)
-* ![](//www.bulbhead.com/cdn/shop/files/pay-later-affirm.svg?v=13833455876511294569)
 
 © 2024, [BulbHead](https://www.bulbhead.com/)
 
