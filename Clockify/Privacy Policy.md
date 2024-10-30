@@ -316,6 +316,7 @@ For our users in the EEA, the United Kingdom, or Switzerland, you may also conta
 * [Customers](https://clockify.me/customers)
 * [Affiliate](https://clockify.me/affiliate)
 * [Partnership](https://clockify.me/partnership)
+* [Investors](https://forms.gle/6UruMEUjVWLxxmCV6)
 
 ##### Resources
 
