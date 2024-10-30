@@ -11,7 +11,7 @@
 * [About](https://sanesolution.com/about/)
 * [Get Help](https://sanesolution.com/customersupport/)
 
-[Got questions about weight loss drugs? Click here to take the Weight Loss Drug Quiz and get personalized answers in 2 minutes. No email required.](https://sanesolution.com/lp/quiz/weight-loss/glp-1/)
+[Who else wants to know their WEIGHT LOSS DRUG TYPE? Take the quiz here and get personalized answers in 2 minutes. **NO email required!**](https://sanesolution.com/lp/quiz/weight-loss/glp-1/)
 
 Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://sanesolution.com/wp-content/themes/enfold-child/includes/small-phone-icon.png)](tel:3479791735)
 
