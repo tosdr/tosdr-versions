@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. hacking
+1. c
     
-2. law
+2. trading
     
-3. flutter
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Computer Science
     
-    12,835 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+    40,579 courses](https://www.classcentral.com/subject/cs)
+2. [Data Analysis
     
-    13,350 courses](https://www.classcentral.com/subject/web-development)
-3. [Cybersecurity
+    8,472 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Graphic Design
     
-    16,193 courses](https://www.classcentral.com/subject/cybersecurity)
+    4,227 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Introduction to Programming with MATLAB
+1. [Introduction to Psychology
     
-    Vanderbilt University](https://www.classcentral.com/course/matlab-3396)
-2. [Introduction to Complexity
+    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
+2. [Mechanical Ventilation for COVID-19
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
-3. [Working with Translation: Theory and Practice
+    Harvard University](https://www.classcentral.com/course/healthcare-harvard-university-mechanical-ventilat-19347)
+3. [Crisis Resource Management
     
-    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
+    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
