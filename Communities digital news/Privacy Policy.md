@@ -26,41 +26,45 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-1200x630.jpg)](https://americanwirenews.com/morning-joe-bizarrely-defends-himself-over-female-intern-found-in-his-office/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-hasan-girdusky-squabble-1200x630.jpg)](https://americanwirenews.com/michael-rapaport-rips-cnn-for-letting-race-hustling-jew-hater-play-the-victim/)
 
-[‘Morning Joe’ bizarrely defends himself over female intern found in his office](https://americanwirenews.com/morning-joe-bizarrely-defends-himself-over-female-intern-found-in-his-office/)
+[Michael Rapaport rips CNN for letting ‘race hustling Jew Hater’ play the victim](https://americanwirenews.com/michael-rapaport-rips-cnn-for-letting-race-hustling-jew-hater-play-the-victim/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rtlaib-1200-x-628-1200x630.jpg)](https://americanwirenews.com/squad-member-rashida-tlaib-accuses-cnn-of-normalizing-hate-for-muslims/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/RF-Getty-Voters-1024x569-1-1200x630.jpg)](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-hispanic-voters-toward-trump-with-latinx-label/)
 
-[‘Squad’ member Rashida Tlaib accuses CNN of ‘normalizing’ hate for Muslims](https://americanwirenews.com/squad-member-rashida-tlaib-accuses-cnn-of-normalizing-hate-for-muslims/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-3-1200x630.png)](https://americanwirenews.com/jd-vance-to-sit-down-with-joe-rogan-as-kamala-negotiates-her-way-out/)
+[New Harvard study shows Dems pushed Hispanic voters toward Trump with ‘Latinx’ label](https://americanwirenews.com/new-harvard-study-shows-dems-pushed-hispanic-voters-toward-trump-with-latinx-label/)
 
-[JD Vance to sit down with Joe Rogan as Kamala negotiates her way out](https://americanwirenews.com/jd-vance-to-sit-down-with-joe-rogan-as-kamala-negotiates-her-way-out/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trump-biden-1200x630.jpg)](https://americanwirenews.com/tale-of-two-tones-trump-tells-supporters-to-forgive-garbage-comment-cnn-wants-biden-to-embrace-it/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-greene-1-1200x630.jpg)](https://americanwirenews.com/mtg-rings-alarm-bell-over-casualty-evacuation-exercise-at-u-s-capitol/)
+[Tale of two tones: Trump tells supporters to forgive ‘garbage’ comment, CNN wants Biden to ’embrace’ it](https://americanwirenews.com/tale-of-two-tones-trump-tells-supporters-to-forgive-garbage-comment-cnn-wants-biden-to-embrace-it/)
 
-[MTG rings alarm bell over ‘Casualty Evacuation Exercise’ at U.S. Capitol](https://americanwirenews.com/mtg-rings-alarm-bell-over-casualty-evacuation-exercise-at-u-s-capitol/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-hunter-1200x630.jpg)](https://americanwirenews.com/eager-to-please-incoming-biden-admin-facebook-suppressed-hunter-laptop-scandal-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-1-1200x630.jpg)](https://americanwirenews.com/laughable-joe-rogan-called-out-by-harris-side-for-diva-behavior-lack-of-respect-for-vp/)
+[Eager to please ‘incoming’ Biden admin, Facebook suppressed Hunter laptop scandal: report](https://americanwirenews.com/eager-to-please-incoming-biden-admin-facebook-suppressed-hunter-laptop-scandal-report/)
 
-[Laughable: Joe Rogan called out by Harris side for ‘diva behavior,’ lack of respect for VP](https://americanwirenews.com/laughable-joe-rogan-called-out-by-harris-side-for-diva-behavior-lack-of-respect-for-vp/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jared-kushner-ivanka-trump-1200x630.jpg)](https://americanwirenews.com/with-1-week-to-go-jared-kushner-talks-chances-of-ivanka-pitching-in-to-help-trump-get-elected/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-foxnikki-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bitter-nikki-haley-serves-up-ad-fodder-for-grateful-kamala/)
+[With 1 week to go, Jared Kushner talks chances of Ivanka pitching in to help Trump get elected](https://americanwirenews.com/with-1-week-to-go-jared-kushner-talks-chances-of-ivanka-pitching-in-to-help-trump-get-elected/)
 
-[Bitter Nikki Haley serves up ad fodder for grateful Kamala](https://americanwirenews.com/bitter-nikki-haley-serves-up-ad-fodder-for-grateful-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-pennsylvania-1200x630.jpg)](https://americanwirenews.com/pennsylvania-is-cheating-trump-calls-for-action-after-sounding-early-alarm/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnn-harry-enten-1200x630.jpg)](https://americanwirenews.com/data-guru-warns-election-polling-could-be-underestimating-support-for-kamala-harris/)
+[‘Pennsylvania is cheating’: Trump calls for action after sounding early alarm](https://americanwirenews.com/pennsylvania-is-cheating-trump-calls-for-action-after-sounding-early-alarm/)
 
-[Data guru warns election polling could be underestimating support for Kamala Harris](https://americanwirenews.com/data-guru-warns-election-polling-could-be-underestimating-support-for-kamala-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-aldrin-trump-1200x630.jpg)](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elise-stefanik-1200x630.jpg)](https://americanwirenews.com/stefanik-accuses-fbi-of-cover-up-to-tip-the-scales-in-the-upcoming-election/)
+(Official White House Photo by Andrea Hanks)
 
-[Stefanik accuses FBI of cover-up to ‘tip the scales’ in the upcoming election](https://americanwirenews.com/stefanik-accuses-fbi-of-cover-up-to-tip-the-scales-in-the-upcoming-election/)
+[‘Godspeed President Trump’: American hero offers ‘wholehearted’ 2024 endorsement](https://americanwirenews.com/godspeed-president-trump-american-hero-offers-wholehearted-2024-endorsement/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-biden-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cuomo-manafort-1200x630.jpg)](https://americanwirenews.com/paul-manafort-says-trump-win-brings-legacy-term-hell-reach-out-to-the-other-side/)
 
-### Biden tries to walk back calling half the country ‘garbage’ after outrage erupts](https://americanwirenews.com/biden-tries-to-walk-back-calling-half-the-country-garbage-after-outrage-erupts/)
+[Paul Manafort says Trump win brings ‘legacy’ term: ‘He’ll reach out to the other side’](https://americanwirenews.com/paul-manafort-says-trump-win-brings-legacy-term-hell-reach-out-to-the-other-side/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-schwarzenegger-1200x630.jpg)
+
+### Arnold Schwarzenegger boards RINO train to endorse Kamala, says Trump ‘un-American’](https://americanwirenews.com/arnold-schwarzenegger-boards-rino-train-to-endorse-kamala-says-trump-un-american/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +81,34 @@ Search for:
 ### [Whoopi loses it! If you’re with a white guy, ‘Trump will deport you and put the man with someone else’](https://americanwirenews.com/whoopi-loses-it-if-youre-with-a-white-guy-trump-will-deport-you-and-put-the-man-with-someone-else/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-1284970558-1-220x180.jpg)](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
+
+[Police say two influencers rejected lifejackets before drowning: ‘They get in the way of their tanning’](https://americanwirenews.com/police-say-two-influencers-rejected-lifejackets-before-drowning-they-get-in-the-way-of-their-tanning/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-speech-1-220x180.jpg)](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
+
+[In yet another flip-flop, Kamala Harris talks about deporting illegal immigrants](https://americanwirenews.com/in-yet-another-flip-flop-kamala-harris-talks-about-deporting-illegal-immigrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/SG-Supreme-Court-220x180.jpg)](https://americanwirenews.com/supreme-court-reinstates-gov-youngkins-purge-of-noncitizen-voters-in-virginia/)
+
+[Supreme Court reinstates Gov. Youngkin’s purge of noncitizen voters in Virginia](https://americanwirenews.com/supreme-court-reinstates-gov-youngkins-purge-of-noncitizen-voters-in-virginia/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-MAGA-Hats-220x180.jpg)](https://americanwirenews.com/brawl-over-maga-hat-sees-2-american-women-booted-from-british-airways-flight/)
+
+[Brawl over MAGA hat sees 2 American women booted from British Airways flight](https://americanwirenews.com/brawl-over-maga-hat-sees-2-american-women-booted-from-british-airways-flight/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2180748527-1-220x180.jpg)](https://americanwirenews.com/dr-phil-weighs-in-on-trump-bully-claims-hes-just-better-at-it-than-anybody-else/)
+
+[Dr. Phil weighs in on Trump bully claims: ‘He’s just better at it than anybody else’](https://americanwirenews.com/dr-phil-weighs-in-on-trump-bully-claims-hes-just-better-at-it-than-anybody-else/)
+
+(Photo by ANGELA WEISS / AFP)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cackling-kamala-220x180.jpg)](https://americanwirenews.com/gop-staffer-says-democrat-policies-too-insane-for-voters-to-find-credible/)
+
+[GOP staffer says Democrat policies ‘too insane for voters to find credible’](https://americanwirenews.com/gop-staffer-says-democrat-policies-too-insane-for-voters-to-find-credible/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Border-220x180.jpg)](https://americanwirenews.com/new-gop-bill-would-dismantle-biden-policies-protecting-border-crossers/)
 
@@ -102,6 +134,42 @@ Search for:
 
 [Influencer interrupts CNN pundit to play know-it-all, whines about the ‘smug’ way he looks at her](https://americanwirenews.com/influencer-interrupts-cnn-pundit-to-play-know-it-all-whines-about-the-smug-way-he-looks-at-her/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elise-stefanik-220x180.jpg)](https://americanwirenews.com/stefanik-accuses-fbi-of-cover-up-to-tip-the-scales-in-the-upcoming-election/)
+
+[Stefanik accuses FBI of cover-up to ‘tip the scales’ in the upcoming election](https://americanwirenews.com/stefanik-accuses-fbi-of-cover-up-to-tip-the-scales-in-the-upcoming-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnn-harry-enten-220x180.jpg)](https://americanwirenews.com/data-guru-warns-election-polling-could-be-underestimating-support-for-kamala-harris/)
+
+[Data guru warns election polling could be underestimating support for Kamala Harris](https://americanwirenews.com/data-guru-warns-election-polling-could-be-underestimating-support-for-kamala-harris/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-foxnikki-1200-x-628-220x180.jpg)](https://americanwirenews.com/bitter-nikki-haley-serves-up-ad-fodder-for-grateful-kamala/)
+
+[Bitter Nikki Haley serves up ad fodder for grateful Kamala](https://americanwirenews.com/bitter-nikki-haley-serves-up-ad-fodder-for-grateful-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rogan-1-220x180.jpg)](https://americanwirenews.com/laughable-joe-rogan-called-out-by-harris-side-for-diva-behavior-lack-of-respect-for-vp/)
+
+[Laughable: Joe Rogan called out by Harris side for ‘diva behavior,’ lack of respect for VP](https://americanwirenews.com/laughable-joe-rogan-called-out-by-harris-side-for-diva-behavior-lack-of-respect-for-vp/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-greene-1-220x180.jpg)](https://americanwirenews.com/mtg-rings-alarm-bell-over-casualty-evacuation-exercise-at-u-s-capitol/)
+
+[MTG rings alarm bell over ‘Casualty Evacuation Exercise’ at U.S. Capitol](https://americanwirenews.com/mtg-rings-alarm-bell-over-casualty-evacuation-exercise-at-u-s-capitol/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-3-220x180.png)](https://americanwirenews.com/jd-vance-to-sit-down-with-joe-rogan-as-kamala-negotiates-her-way-out/)
+
+[JD Vance to sit down with Joe Rogan as Kamala negotiates her way out](https://americanwirenews.com/jd-vance-to-sit-down-with-joe-rogan-as-kamala-negotiates-her-way-out/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-rtlaib-1200-x-628-220x180.jpg)](https://americanwirenews.com/squad-member-rashida-tlaib-accuses-cnn-of-normalizing-hate-for-muslims/)
+
+[‘Squad’ member Rashida Tlaib accuses CNN of ‘normalizing’ hate for Muslims](https://americanwirenews.com/squad-member-rashida-tlaib-accuses-cnn-of-normalizing-hate-for-muslims/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scarborough-220x180.jpg)](https://americanwirenews.com/morning-joe-bizarrely-defends-himself-over-female-intern-found-in-his-office/)
+
+[‘Morning Joe’ bizarrely defends himself over female intern found in his office](https://americanwirenews.com/morning-joe-bizarrely-defends-himself-over-female-intern-found-in-his-office/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-biden-220x180.jpg)](https://americanwirenews.com/biden-tries-to-walk-back-calling-half-the-country-garbage-after-outrage-erupts/)
+
+[Biden tries to walk back calling half the country ‘garbage’ after outrage erupts](https://americanwirenews.com/biden-tries-to-walk-back-calling-half-the-country-garbage-after-outrage-erupts/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whistleblowers-220x180.jpg)](https://americanwirenews.com/we-corroborated-that-the-big-guy-was-joe-biden-yes-catherine-herridge-drops-bombshell-video/)
 
 [‘We corroborated that ‘The Big Guy’ was Joe Biden. Yes.’ Catherine Herridge drops BOMBSHELL video](https://americanwirenews.com/we-corroborated-that-the-big-guy-was-joe-biden-yes-catherine-herridge-drops-bombshell-video/)
@@ -113,68 +181,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-presser-220x180.jpg)](https://americanwirenews.com/trump-unveils-policy-for-victims-of-migrant-crime-features-mother-of-murdered-child-in-powerful-new-ad/)
 
 [Trump unveils policy for victims of migrant crime; features mother of murdered child in powerful new ad](https://americanwirenews.com/trump-unveils-policy-for-victims-of-migrant-crime-features-mother-of-murdered-child-in-powerful-new-ad/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-harris-biden-220x180.jpg)](https://americanwirenews.com/michael-shellenberger-dems-wall-of-lies-is-crumbling-amid-major-political-shift-and-dangerous-moment/)
-
-[Michael Shellenberger: Dems’ ‘wall of lies is crumbling’ amid major political shift and ‘dangerous’ moment](https://americanwirenews.com/michael-shellenberger-dems-wall-of-lies-is-crumbling-amid-major-political-shift-and-dangerous-moment/)
-
-(Official White House Photo by Adam Schultz)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-economy-220x180.jpg)](https://americanwirenews.com/dems-reportedly-worried-kamalas-economic-message-didnt-resonate-critics-askwhat-message/)
-
-[Dems worry Kamala’s economic message didn’t resonate. Critics ask…‘what message?’](https://americanwirenews.com/dems-reportedly-worried-kamalas-economic-message-didnt-resonate-critics-askwhat-message/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-vote-220x180.jpg)](https://americanwirenews.com/pro-harris-super-pac-accused-of-targeting-black-voters-with-creepy-and-threatening-ads/)
-
-[Pro-Harris super PAC accused of targeting black voters with ‘creepy’ and ‘threatening’ ads](https://americanwirenews.com/pro-harris-super-pac-accused-of-targeting-black-voters-with-creepy-and-threatening-ads/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-carlson-220x180.jpg)](https://americanwirenews.com/quote-me-tucker-drops-the-mic-on-nyt-reporter-seeking-statements-for-october-surprise-hit-piece/)
-
-[‘Quote me’: Tucker drops the mic on NYT reporter seeking statements for ‘October surprise’ hit piece](https://americanwirenews.com/quote-me-tucker-drops-the-mic-on-nyt-reporter-seeking-statements-for-october-surprise-hit-piece/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bannon-220x180.jpg)](https://americanwirenews.com/steve-bannon-delivers-pelosi-a-fiery-message-upon-release-from-prison-nancywrite-this-down/)
-
-[Steve Bannon delivers Pelosi a fiery message upon release from prison: ‘Nancy…write this down’](https://americanwirenews.com/steve-bannon-delivers-pelosi-a-fiery-message-upon-release-from-prison-nancywrite-this-down/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-takes-audience-questions-on-ff-roasts-backstabbers-in-last-admin/)
-
-[Melania takes audience questions on ‘F&F’, roasts ‘backstabbers’ in last admin](https://americanwirenews.com/melania-takes-audience-questions-on-ff-roasts-backstabbers-in-last-admin/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gop-delegate-arrest-220x180.jpg)](https://americanwirenews.com/rnc-delegate-hauled-off-in-cuffs-from-penn-polling-station-insists-she-didnt-break-any-laws/)
-
-[RNC delegate hauled off in cuffs from Penn. polling station, troubling scene unfolds](https://americanwirenews.com/rnc-delegate-hauled-off-in-cuffs-from-penn-polling-station-insists-she-didnt-break-any-laws/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-anchor-dave-elliott-220x180.jpg)](https://americanwirenews.com/long-time-news-anchor-says-he-was-fired-over-personal-political-post-criticizing-harris-voters/)
-
-[Long-time news anchor says he was fired over personal political post criticizing Harris voters](https://americanwirenews.com/long-time-news-anchor-says-he-was-fired-over-personal-political-post-criticizing-harris-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-220x180.jpg)](https://americanwirenews.com/no-more-gaza-war-kamala-pleads-with-protesters-before-confounding-audience-with-odd-request/)
-
-[‘No more Gaza war!’ Kamala pleads with protesters before confounding audience with odd request](https://americanwirenews.com/no-more-gaza-war-kamala-pleads-with-protesters-before-confounding-audience-with-odd-request/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-collins-lake-220x180.jpg)](https://americanwirenews.com/kari-lake-hits-a-nerve-with-kaitlan-collins-with-all-due-respect-im-conducting-this-interview/)
-
-[Kari Lake hits a nerve with Kaitlan Collins: ‘With all due respect, I’m conducting this interview’](https://americanwirenews.com/kari-lake-hits-a-nerve-with-kaitlan-collins-with-all-due-respect-im-conducting-this-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mehdi-hasan-and-sarah-palin-220x180.jpg)](https://americanwirenews.com/youre-an-obnoxious-ass-sarah-palin-defends-herself-against-bully-mehdi-hasan/)
-
-[‘You’re an obnoxious ass’: Sarah Palin defends herself against liberal bully in heated panel](https://americanwirenews.com/youre-an-obnoxious-ass-sarah-palin-defends-herself-against-bully-mehdi-hasan/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-stewart-220x180.jpg)](https://americanwirenews.com/jon-stewart-defends-comedians-performance-at-trumps-msg-rally-i-find-that-guy-very-funny/)
-
-[Jon Stewart defends comedian’s performance at Trump’s MSG rally: ‘I find that guy very funny’](https://americanwirenews.com/jon-stewart-defends-comedians-performance-at-trumps-msg-rally-i-find-that-guy-very-funny/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dimon-220x180.jpg)](https://americanwirenews.com/jpmorgan-chase-ceo-jamie-dimon-unloads-on-biden-harris-administration-ive-had-it-with-this-sht/)
-
-[JPMorgan Chase CEO Jamie Dimon unloads on Biden Harris administration: ‘I’ve had it with this sh\*t’](https://americanwirenews.com/jpmorgan-chase-ceo-jamie-dimon-unloads-on-biden-harris-administration-ive-had-it-with-this-sht/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Rogan-220x180.jpg)](https://americanwirenews.com/joe-rogan-advised-trump-to-let-kill-tony-comedian-write-bangers-for-campaign-months-ago/)
-
-[Joe Rogan advised Trump to let ‘Kill Tony’ comedian write ‘bangers’ for campaign months ago](https://americanwirenews.com/joe-rogan-advised-trump-to-let-kill-tony-comedian-write-bangers-for-campaign-months-ago/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-aoc-walz-220x180.png)](https://americanwirenews.com/coach-walz-mocked-over-his-embarrassing-lack-of-football-iq/)
-
-[‘Coach’ Walz mocked over his embarrassing lack of football IQ](https://americanwirenews.com/coach-walz-mocked-over-his-embarrassing-lack-of-football-iq/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
