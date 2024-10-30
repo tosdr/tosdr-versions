@@ -239,6 +239,8 @@ October 24, 2024
 
 Mezo SMS is just the best. I had to buy it. Ive been using the app's "message content" feature to block tons of political ad texts and other spam. It just blocks them if theyre not in my contacts. So if i want to receive a message from someone i just add them to my contacts. Its pretty easy to use. Definitely recommend it.
 
+1 person found this review helpful
+
 Did you find this helpful?
 
 Yes
@@ -299,35 +301,6 @@ Address
 [_shield_
 
 Privacy Policy](https://www.mezo.ai/privacypolicy)
-
-Similar apps
-------------
-
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEpKRVViaXo5YlZXNGxmOXp3STV5d1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIpMAM)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
-
-Textra SMS
-
-Delicious
-
-4.3_star_](https://play.google.com/store/apps/details?id=com.textra)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/qw_MVfLwKrZduwQyyU9qx1246GCpOGNIgnoqUezlcfpfAFKmZ0aH1iBqLA7bsYLa6hs=s64)
-
-Sugar Mail email app
-
-Kostya Vasilyev US
-
-3.6_star_](https://play.google.com/store/apps/details?id=org.kman.email2)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/ruWSAfXdO3RgDX3qwDSdh7oBManmyEXZ1TG9tBNSR8R5mOVq1E6cECZSHaGJjVeVrSg=s64)
-
-Call Blocker - Block Numbers
-
-Appsbuyout Dev
-
-4.5_star_](https://play.google.com/store/apps/details?id=call.blacklist.blocker)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
