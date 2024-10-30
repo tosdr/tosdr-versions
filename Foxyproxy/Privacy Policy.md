@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Absolutely stellar. Concise, direct, efficacious. THIS is what makes FoxyProxy #1 in my book; not the fact that you are constantly maneuvering to circumvent the constant upgrades to the ongoing invasion of privacy online (which is commendable, and reassuring)... but the fact that I can often-as-not expect a prompt, personal response that fixes the issue.
+I contacted customer service a few times, each time was a great experience - fast, accurate support from your team!
 
-Dan Revell
+Michael Belos
