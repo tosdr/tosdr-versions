@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/the-winds-of-change-transformation/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/ab-osterhaus-de-fles-jongens-de-griep-is-doorgebroken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
