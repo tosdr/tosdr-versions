@@ -28,6 +28,8 @@ Select Page
 * [How It Works](https://omgsweeps.com/how-it-works/)
 * [Accessibility Notice](https://omgsweeps.com/accessibility-notice/)
 * [Unsubscribe](https://reg.omgsweeps.com/unsub.aspx)
+* [SMS Privacy Policy](https://omgsweeps.com/sms-privacy-policy/)
+* [SMS Terms & Conditions](https://omgsweeps.com/sms-terms-conditions/)
 
 * [Do Not Sell or Share My Information](https://omgsweeps.com/do-not-sell-my-information/)
 
