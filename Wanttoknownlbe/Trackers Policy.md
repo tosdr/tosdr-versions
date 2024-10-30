@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/deel-1-hoe-je-het-grootste-geheim-uit-de-moderne-geschiedenis-bewaart/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/monsanto-krijgt-blinde-goedkeuring-voor-gmo/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
