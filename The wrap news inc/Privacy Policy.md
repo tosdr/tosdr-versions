@@ -43,7 +43,7 @@ Main Navigation
     * [TheGrill 2024 Videos](https://www.thewrap.com/thegrill-2024-panels-videos/)
     * [The Grill](https://www.thewrap.com/the-grill/)
 * [More](#)
-    * [Power Women Summit](https://www.thewrap.com/power-women-summit-2023-panels-videos/)
+    * [Power Women Summit](https://www.thewrap.com/power-women-summit/)
     * [Screening Series RSVP](https://thewrapscreenings.splashthat.com/)
     * [Screenings Archive](https://www.thewrap.com/tag/thewrap_screening_series/)
     * [Webinars Archive](https://www.thewrap.com/tag/webinars/)
