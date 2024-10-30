@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![При поддержке «Единой России» в Сегеже в Карелии открыли Бульвар Поколений](https://cdn.er.ru/media/news/October2024/URRScSEXYC3Bt4zHBqOq-small.JPG)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-segezhe-v-karelii-otkryli-bulvar-pokolenij)
+
+[При поддержке «Единой России» в Сегеже в Карелии открыли Бульвар Поколений](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-segezhe-v-karelii-otkryli-bulvar-pokolenij)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Ересько](https://er.ru/activity/news?tags%5B0%5D=1093212) [#Республика Карелия](https://er.ru/activity/news?tags%5B0%5D=1090918) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ГородскаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090022) [#бульвар](https://er.ru/activity/news?tags%5B0%5D=46939) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#общественноепространство](https://er.ru/activity/news?tags%5B0%5D=112647)
+
+30.10.24
+
 [![Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://cdn.er.ru/media/news/October2024/hqvXTyF58KArlz9ULqFO-small.jpg)](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
 
 [Дарья Лантратова предложила масштабировать новгородский проект «Единой России» «Академия молодых политиков»](https://er.ru/activity/news/darya-lantratova-predlozhila-masshtabirovat-novgorodskij-proekt-edinoj-rossii-akademiya-molodyh-politikov)
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Тверская область](https://er.ru/activity/news?tags%5B0%5D=439) [#Новогородская область](https://er.ru/activity/news?tags%5B0%5D=122661) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#академия](https://er.ru/activity/news?tags%5B0%5D=4873) [#ВПШ](https://er.ru/activity/news?tags%5B0%5D=36818)
 
-Сегодня 17:15
+30.10.24
 
 [![«Молодая Гвардия Единой России» помогает устранять последствия обстрела жилых домов в Луганске](https://cdn.er.ru/media/news/October2024/CSYYmkafoOrCD9j20Oet-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pomogaet-ustranyat-posledstviya-obstrela-zhilyh-domov-v-luganske)
 
@@ -313,7 +321,7 @@
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Голубович](https://er.ru/activity/news?tags%5B0%5D=1093502) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#помощьпострадавшим](https://er.ru/activity/news?tags%5B0%5D=117504)
 
-Сегодня 16:33
+30.10.24
 
 [![Владимир Якушев: «Единая Россия» вместе с Правительством завершают подготовку программы модернизации коммунальной инфраструктуры](https://cdn.er.ru/media/news/October2024/eqN3K2UWGJOIKAqFqsMf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-vmeste-s-pravitelstvom-zavershayut-podgotovku-programmy-modernizacii-kommunalnoj-infrastruktury)
 
@@ -321,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#модернизация](https://er.ru/activity/news?tags%5B0%5D=169) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-Сегодня 12:55
+30.10.24
 
 [![О рекомендациях Правительству при подготовке федерального бюджета. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/MwDP5riSKuht8xvTN5XQ-small.JPG)](https://er.ru/activity/news/o-rekomendaciyah-pravitelstvu-pri-podgotovke-federalnogo-byudzheta-statya-andreya-isaeva)
 
@@ -329,7 +337,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#рекомендации](https://er.ru/activity/news?tags%5B0%5D=6026)
 
-Сегодня 10:00
+30.10.24
 
 [![«Единая Россия» и МГЕР наградили лучших волонтеров Подмосковья](https://cdn.er.ru/media/news/October2024/b45o1Iae68LrR0wv8Pjo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-nagradili-luchshih-volonterov-podmoskovya)
 
@@ -337,15 +345,7 @@
 
 [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#Алумянц](https://er.ru/activity/news?tags%5B0%5D=111357) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-Сегодня 09:10
-
-[![Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://cdn.er.ru/media/news/October2024/ajDAx6ewUjlrYOphycSi-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
-
-[Госдума единогласно одобрила в первом чтении законопроект «Единой России» о развитии мобильной связи вдоль дорог](https://er.ru/activity/news/gosduma-edinoglasno-odobrila-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-razvitii-mobilnoj-svyazi-vdol-dorog)
-
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#мобильнаясвязь](https://er.ru/activity/news?tags%5B0%5D=152855) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-29.10.24
+30.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
