@@ -314,6 +314,7 @@ Search
     * [Cornell Lab Science Curriculum Kits](https://www.nascoeducation.com/general-kits/cornell.html)
     * [STEAM On Demand Curriculum & Supply Kits](https://www.nascoeducation.com/general-kits/steam-on-demand-material-kits.html)
 * [Agricultural Education](https://www.nascoeducation.com/agricultural-education.html)
+    * [New Agricultural Education Products](https://www.nascoeducation.com/agricultural-education/new-agricultural-education-products.html)
     * [Agricultural Machinery](https://www.nascoeducation.com/agricultural-education/agricultural-machinery.html)
     * [Animal Science](https://www.nascoeducation.com/agricultural-education/animal-science.html)
     * [Aquaculture](https://www.nascoeducation.com/agricultural-education/aquaculture.html)
