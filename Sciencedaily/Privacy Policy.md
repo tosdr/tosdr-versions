@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 29, 2024**
+**October 30, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
-
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
   
 
