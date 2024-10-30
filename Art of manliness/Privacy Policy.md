@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1034-are-you-a-thrill-seeker-or-a-chill-seeker/)
+
+[Podcast #1,034
+
+###### Are You a Thrill Seeker or a Chill Seeker?](https://www.artofmanliness.com/character/behavior/podcast-1034-are-you-a-thrill-seeker-or-a-chill-seeker/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
 
 [Podcast #1,033
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,032
 
 ###### Lee Child the Writer, Jack Reacher the Character, and the Enduring Appeal of Lone Wolves](https://www.artofmanliness.com/living/reading/podcast-1032-lee-child-the-writer-jack-reacher-the-character-and-the-enduring-appeal-of-lone-wolves/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
-
-[Podcast #1,031
-
-###### Money CAN Buy Happiness (If You Use It In These Ways)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1031-money-can-buy-happiness-if-you-use-it-in-these-ways/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
