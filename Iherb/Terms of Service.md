@@ -1025,6 +1025,8 @@ Wohlbefinden & Pflege
 
 [EVLution Nutrition](https://de.iherb.com/c/evlution-nutrition)
 
+SALE
+
 [Force Factor](https://de.iherb.com/c/force-factor)
 
 [Frontier Co-Op](https://de.iherb.com/c/frontier-natural-products)
@@ -1067,6 +1069,8 @@ Wohlbefinden & Pflege
 
 [Nature's Way](https://de.iherb.com/c/nature-s-way)
 
+SALE
+
 [NaturesPlus](https://de.iherb.com/c/nature-s-plus)
 
 [NeoCell](https://de.iherb.com/c/neocell)
@@ -1076,6 +1080,8 @@ Wohlbefinden & Pflege
 [NOW Foods](https://de.iherb.com/c/now-foods)
 
 [Nutricost](https://de.iherb.com/c/nutricost)
+
+SALE
 
 [Optimum Nutrition](https://de.iherb.com/c/optimum-nutrition)
 
@@ -1103,6 +1109,8 @@ Wohlbefinden & Pflege
 
 [Thorne](https://de.iherb.com/c/thorne)
 
+SALE
+
 [Trace Minerals ®](https://de.iherb.com/c/trace-minerals-r)
 
 [Vital Proteins](https://de.iherb.com/c/vital-proteins)
@@ -1113,15 +1121,15 @@ Wohlbefinden & Pflege
 
 Marken der Woche
 
-[![](https://s3.images-iherb.com/brand/logo/NAP/1652391342.png)](https://de.iherb.com/c/naturesplus)
+[![](https://s3.images-iherb.com/brand/logo/NWY/1654296482.png)](https://de.iherb.com/c/nature-s-way)
 
-[![](https://s3.images-iherb.com/brand/logo/FHH/1676394712.png)](https://de.iherb.com/c/fairhaven-health)
+[![](https://s3.images-iherb.com/brand/logo/THR/1663708953.png)](https://de.iherb.com/c/thorne)
 
-[![](https://s3.images-iherb.com/brand/logo/REA/1674754236.png)](https://de.iherb.com/c/reserveage-beauty)
+[![](https://s3.images-iherb.com/brand/logo/NCS/1688669797.png)](https://de.iherb.com/c/nutricost)
 
-[![](https://s3.images-iherb.com/brand/logo/HEC/1719859978.png)](https://de.iherb.com/c/herbs-etc)
+[![](https://s3.images-iherb.com/brand/logo/NSK/1686706733.png)](https://de.iherb.com/c/natural-stacks)
 
-[![](https://s3.images-iherb.com/brand/logo/PTG/1689798577.png)](https://de.iherb.com/c/natural-vitality)
+[![](https://s3.images-iherb.com/brand/logo/ANM/1685056231.png)](https://de.iherb.com/c/animal)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
@@ -1131,9 +1139,9 @@ Marken der Woche
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
 
-[\-25% auf über 25.000 Supplements
+[\-60% auf Beauty, Bad & Körperpflege
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/supplements?pcode=OCTSUPP24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/info/c/iherb-brands?specialtyFilters=1)
 
       
 
