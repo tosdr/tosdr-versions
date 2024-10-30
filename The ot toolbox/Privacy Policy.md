@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![text reads "how I taught a child to skip in occupational therapy" image shows dots with arrows for skipping.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Picture of feet with two arrows pointing left and right. Text reads "directional concepts" and has a definition of directional concepts in functional tasks.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![text reads "how I taught a child to skip in occupational therapy" image shows dots with arrows for skipping.](https://www.theottoolbox.com/wp-content/uploads/2022/03/teach-skipping.png)](https://www.theottoolbox.com/skipping-activities-for-kids/)
+                ![Picture of feet with two arrows pointing left and right. Text reads "directional concepts" and has a definition of directional concepts in functional tasks.](https://www.theottoolbox.com/wp-content/uploads/2024/10/directional-concepts.png)](https://www.theottoolbox.com/why-we-need-to-support-directional-concepts-in-ot/)
                 
-                #### [Skipping Activities for Kids](https://www.theottoolbox.com/skipping-activities-for-kids/)
+                #### [Why we Need to Support Directional Concepts in OT](https://www.theottoolbox.com/why-we-need-to-support-directional-concepts-in-ot/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
