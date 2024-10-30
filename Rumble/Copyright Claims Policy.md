@@ -59,127 +59,117 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[The Dan Bongino Show
-
-160K](https://rumble.com/v5kq4eb-garbage-bitter-clingers-deplorables-nazis-fascists-ep.-2361-10302024.html "The Dan Bongino Show")
-
 [Bannons War Room
 
-33.7K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+21.9K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Redacted News
 
-6.44K](https://rumble.com/v5koy0x-badlands-daily-wednesday-october-30-2024.html "Badlands Media")
+14.6K](https://rumble.com/v5krmc5-breaking-another-trump-assassination-attempt-in-pa-assassin-arrested-before.html "Redacted News")
 
-[The Rubin Report
+[Candace Show Podcast
 
-5.51K](https://rumble.com/v5kqhrx-joe-biden-might-have-just-cost-kamala-the-election-with-insult-he-couldnt-r.html "The Rubin Report")
+5.75K](https://rumble.com/v5ks5cl-kamalas-grandma-chrishy-doesnt-exist.-i-am-convinced.-candace-ep-94.html "Candace Show Podcast")
 
 [NEWSMAX
 
-531](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Caleb Hammer
-
-431](https://rumble.com/v5knkf8-tax-evading-freak-disgusts-me-financial-audit.html "Caleb Hammer")
+446](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-314](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+231](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Geeks + Gamers
+[Dr. Drew
 
-222](https://rumble.com/v5kqk4d-sony-shuts-down-concord-developer-after-failure-bioware-does-damage-control.html "Geeks + Gamers")
+100](https://rumble.com/v5kqp05-kari-lake-and-jack-posobiec-prepare-for-false-flags-and-election-day-chaos-.html "Dr. Drew")
 
-[Mostly Sports With Mark Titus and Brandon Walker
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-83](https://rumble.com/v5kngul-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "Mostly Sports With Mark Titus and Brandon Walker")
-
-[barstoolsports
-
-83](https://rumble.com/v5kngul-mostly-sports-with-mark-titus-and-brandon-walker-presented-by-jgermeister-e.html "barstoolsports")
-
-[Major League Fishing
-
-3](https://rumble.com/v5jq6fx-live-general-tire-team-series-patriot-cup-day-6.html "Major League Fishing")
-
-[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
-
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
 
 [Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
 
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
 
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+[NHRA](https://rumble.com/c/NHRA "NHRA")
 
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
 
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
-
-[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
-
-[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
-
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
 
 [Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
 
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
 
 [Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+
+[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
 [Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
 
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
 
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
 
 ### Theme
 
