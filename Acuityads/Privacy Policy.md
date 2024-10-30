@@ -1,6 +1,6 @@
-Check out illumin's brand new Support Center
+EARNINGS CALL - illumin's Q3 earnings call is Nov 8
 
-[Visit](https://support.illumin.com/csm)
+[Register](https://stg-illumin-stage.kinsta.cloud/investor-information/earnings-call/)
 
 [![logo](https://illumin.com/wp-content/themes/illumin/images/logo.svg)](https://illumin.com/)
 
