@@ -32,6 +32,7 @@
     * [Posts Sitemap](https://ihyperg.com/sitemap.xml)
     * [Pages Sitemap](https://ihyperg.com/sitemap-pages.xml)
 * [Privacy Policy](https://www.ihyperg.com/p/privacy-policy.html)
+* [About Us](https://www.ihyperg.com/p/about.html)
 
 [Home](https://www.ihyperg.com/) 
 
