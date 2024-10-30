@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [TEKKEN 8 - Patch 1.09](https://en.bandainamcoent.eu/tekken/news/tekken-8-patch-109)
 * [ARMORED CORE VI FIRES OF RUBICON - Patch Notes 1.07.2](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-patch-notes-1072)
-* [Little Nightmares II Enhanced Edition gets a retail edition, available now!](https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-ii-enhanced-edition-gets-retail-edition-available-now)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
