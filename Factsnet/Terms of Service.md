@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![36 Facts About Salt Caves ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
+[![35 Facts About Timing ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/35-facts-about-timing/)
+
+General
+
+30 Oct 2024
+
+[35 Facts About Timing](https://facts.net/general/35-facts-about-timing/)
+
+[![30 Facts About Earths Most Dangerous Natural Disasters ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/30-facts-about-earths-most-dangerous-natural-disasters/)
 
 Earth & Life Science
 
-29 Oct 2024
+30 Oct 2024
 
-[36 Facts About Salt Caves](https://facts.net/earth-and-life-science/36-facts-about-salt-caves/)
-
-[![30 Facts About Dopamine Beta Hydroxylase Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
-
-Health Science
-
-29 Oct 2024
-
-[30 Facts About Dopamine Beta Hydroxylase Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-dopamine-beta-hydroxylase-deficiency/)
+[30 Facts About Earths Most Dangerous Natural Disasters](https://facts.net/earth-and-life-science/30-facts-about-earths-most-dangerous-natural-disasters/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
