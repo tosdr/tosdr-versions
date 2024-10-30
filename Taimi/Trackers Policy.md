@@ -224,7 +224,7 @@ Chat
 * [Lesbian chat](https://taimi.com/lesbian-chat)
 * [Transgender chat](https://taimi.com/transgender-chat)
 
-![adjust](https://view.adjust.com/impression/goc7ths?campaign=http://taimi.com/cookie-policy)
+![adjust](https://view.adjust.com/impression/goc7ths?campaign=https://taimi.com/cookie-policy)
 
 ![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
 
