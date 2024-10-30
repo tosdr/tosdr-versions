@@ -421,7 +421,7 @@ We may change our Privacy Policy from time to time, with or without notice to yo
 
 If you have any questions, concerns, or complaints regarding our Privacy Policy, our compliance with the applicable laws, or how we handle your information or if you wish to exercise your privacy rights, please feel free to contact us at the following email address:
 
-[support@expressvpn.com](mailto:support@expressvpn.com)
+![](https://xv.imgix.net/photos/xv/support-email-2.png?auto=format%2Ccompress&cs=srgb&fit=max&w=570&q=60&s=e05314be38412a38522179ea35535152)
 
 You may also refer any questions regarding this Privacy Policy to our Group Data Protection Officer (DPO) by writing to [dpo@expressvpn.com](mailto:dpo@expressvpn.com).
 
