@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 30, 2024](https://www.japantimes.co.jp/archive/2024/10/30/ "archive page")
+[October 31, 2024](https://www.japantimes.co.jp/archive/2024/10/31/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,9 +131,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
 [Without an LDP-Komeito majority, will Ishiba stay prime minister?](https://www.japantimes.co.jp/news/2024/10/29/japan/politics/ishiba-prime-minister-ballot/ "Without an LDP-Komeito majority, will Ishiba stay prime minister?")
 
@@ -143,22 +143,24 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430895.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Haruna Kojima in Tokyo in April 2017 following her last show as a member of the AKB48 pop group")](https://www.japantimes.co.jp/news/2024/10/29/japan/crime-legal/japanese-celebrity-haruna-kojima-assault/ "Man held for allegedly assaulting Japanese celebrity Haruna Kojima")
 
-[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
-  [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+  [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
-[Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
-  [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+  [![The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430788.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.")](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan expands its continental shelf by 120,000 square kilometers](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+[Japan's rail fans disapprove of new Seishun 18 tickets](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
-  [![The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/22/429195.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The addition of an area in Pacific waters east of Chichijima in the Ogasawara Islands saw Japan's continental shelf expanded by 120,000 square kilometers in July.")](https://www.japantimes.co.jp/news/2024/10/27/japan/continental-shelf-expansion/ "Japan expands its continental shelf by 120,000 square kilometers")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![A man waits for a train at Ebisu Station in Tokyo on Oct. 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430906.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man waits for a train at Ebisu Station in Tokyo on Oct. 4.")](https://www.japantimes.co.jp/news/2024/10/29/japan/society/seishun-18-ticket-petition/ "Japan's rail fans disapprove of new Seishun 18 tickets")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -176,17 +178,17 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Questions swirl over Ishiba’s future after torrid first month as PM](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+[Japan’s struggle with youth suicide sparks government initiatives](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430619.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks during a news conference a day after the Lower House election, at the Liberal Democratic Party's headquarters in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/10/28/japan/politics/postelection-analysis-ishiba/ "Questions swirl over Ishiba’s future after torrid first month as PM")
+  [![The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430916.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The health ministry’s report shows that the number of elementary, junior high and high school students who took their own lives in 2023 stood at 513, one fewer than last year's record of 514.")](https://www.japantimes.co.jp/news/2024/10/29/japan/science-health/suicide-stats-2023-children/ "Japan’s struggle with youth suicide sparks government initiatives")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Passenger's photos from Hokkaido boat accident retrieved 2½ years on](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+[Government adopts order allowing use of My Number card as driver's license](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
-  [![A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/28/430528.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A digital camera found near the tip of the Shiretoko Peninsula in August was identified as belonging to Yu Nudeshima, a passenger of the Kazu I tour boat that sank on April 23, 2022, with 26 people on board.")](https://www.japantimes.co.jp/news/2024/10/28/japan/crime-legal/kazu-i-photos-restoration/ "Passenger's photos from Hokkaido boat accident retrieved 2½ years on")
+  [![The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/29/430788.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The My Number card will function as a driver's license after information such as the type of license is recorded on the integrated circuit chip embedded in the card.")](https://www.japantimes.co.jp/news/2024/10/29/japan/my-number-card-drivers-license/ "Government adopts order allowing use of My Number card as driver's license")
 
 Podcast
 -------
@@ -249,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Spain races to save victims as floods kill more than 60](https://www.japantimes.co.jp/news/2024/10/30/world/spain-floods-deaths/ "Spain races to save victims as floods kill more than 60")
+
+3 hours ago
+
+[Taiwan battens down for Super Typhoon Kong-rey](https://www.japantimes.co.jp/news/2024/10/30/asia-pacific/taiwan-super-typhoon/ "Taiwan battens down for Super Typhoon Kong-rey")
+
+3 hours ago
+
 [All eyes on DPP ahead of prime minister vote in Lower House](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/dpp-opposition-parties-politics/ "All eyes on DPP ahead of prime minister vote in Lower House")
 
-42 mins ago
+6 hours ago
 
 [Ishiba Cabinet's approval rating sinks to around 30%](https://www.japantimes.co.jp/news/2024/10/30/japan/politics/ishiba-ratings-plunge/ "Ishiba Cabinet's approval rating sinks to around 30%")
 
-1 hours ago
+7 hours ago
 
 [Tokyo High Court rules same-sex marriage ban is unconstitutional](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/same-sex-ruling-unconstitutional/ "Tokyo High Court rules same-sex marriage ban is unconstitutional")
 
-1 hours ago
-
-[Men break into Tokyo residence in attempted robbery before fleeing](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/mitaka-robbery-attempt/ "Men break into Tokyo residence in attempted robbery before fleeing")
-
-1 hours ago
-
-[Ex-ASDF colonel pleads not guilty to confidentiality breach](https://www.japantimes.co.jp/news/2024/10/30/japan/crime-legal/ex-asdf-colonel-pleads-not-guilty/ "Ex-ASDF colonel pleads not guilty to confidentiality breach")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
