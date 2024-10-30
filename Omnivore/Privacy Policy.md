@@ -73,6 +73,8 @@ Integrating with other Apps
 
 [Obsidian](https://omnivore.app/integrations/obsidian.html)
 
+[Org Mode](https://omnivore.app/integrations/org-mode.html)
+
 [API](https://omnivore.app/integrations/api.html)
 
 [Webhooks](https://omnivore.app/integrations/webhooks.html)
