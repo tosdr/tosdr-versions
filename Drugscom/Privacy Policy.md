@@ -55,7 +55,7 @@ Site navigation
 * [Compare Drugs](https://www.drugs.com/compare/)
 * [News](https://www.drugs.com/news.html)
 * [Pro Edition](https://www.drugs.com/professionals.html)
-* [More](https://www.drugs.com/sitemap.html)
+* [More Resources](https://www.drugs.com/sitemap.html)
 * [Help & Support](https://www.drugs.com/support/)
 
 Close
