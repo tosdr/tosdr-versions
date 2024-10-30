@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-9c5814396b96095a88ec555f5ef53466
+506ca9c18281c8c4a68c66dc1644a72f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm banded rondelles](https://www.sojourner.biz/images/cache/glass/GL0241.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-banded-rondelles.html "8 mm banded rondelles")
+[![24 mm by 14 mm carved shiny jade barrel beads](https://www.sojourner.biz/images/cache/stone/STN004.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/24-mm-by-14-mm-carved-shiny-jade-barrel-beads.html "24 mm by 14 mm carved shiny jade barrel beads")
 
-#### [8 mm banded rondelles](https://www.sojourner.biz/beads/glass/8-mm-banded-rondelles.html "8 mm banded rondelles")
+#### [24 mm by 14 mm carved shiny jade barrel beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/24-mm-by-14-mm-carved-shiny-jade-barrel-beads.html "24 mm by 14 mm carved shiny jade barrel beads")
 
-$4.00
+$35.00
 
 ### Best Sellers
 
