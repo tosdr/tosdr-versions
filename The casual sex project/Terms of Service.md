@@ -104,6 +104,36 @@ Oct 24 2024
 
 By **[Thomas Cronin](https://admin.mi52siterestore.com/person/thomas-cronin/)** Read time **23 mins** [Read More](https://admin.mi52siterestore.com/article/why-snap-work-requirements-arent-working-a-case-for-waiver-reform/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/kamala-harris-donald-trump-turning-to-podcasts-to-woo-uncertain-voters-1.jpg)[](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/ "Read More")
+
+Commentary Governance Elections
+
+Oct 26 2024
+
+[Why Kamala and Trump Are Turning to Podcasts to Woo Uncertain Voters](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
+
+By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-kamala-and-trump-are-turning-to-podcasts-to-woo-uncertain-voters/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/nerdy-joy-of-grammar.jpg)[](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/ "Read More")
+
+Commentary Culture Culture & Society
+
+Oct 24 2024
+
+[The Nerdy Joy of Grammar](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/)
+
+By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-nerdy-joy-of-grammar/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/dei-university-michigan-ford-lowes.jpg)[](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/ "Read More")
+
+Commentary Education Higher Ed
+
+Oct 25 2024
+
+[University of Michigan Spent Millions on Dei Efforts. They Failed Miserably.](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
+
+By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/university-of-michigan-spent-millions-on-dei-efforts-they-failed-miserably/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/a-model-bill-to-allow-independent-permitting-and-inspections.jpg)[](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/ "Read More")
 
 Issue Brief Economics, Governance
@@ -113,36 +143,6 @@ Oct 22 2024
 [A Model Bill to Allow Independent Permitting and Inspections](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
 
 By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **11 mins** [Read More](https://admin.mi52siterestore.com/article/a-model-bill-to-allow-independent-permitting-and-inspections/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/bidens-missing-electric-vehicle-chargers-union-and-equity-rules-bog-down-rprogram.jpg)[](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/ "Read More")
-
-Commentary Governance, Economics, Energy Energy
-
-Oct 22 2024
-
-[Biden’s Missing Electric-Vehicle Chargers](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/)
-
-By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bidens-missing-electric-vehicle-chargers/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/public-safety-is-the-key-to-functioning-nyc-subways.jpg)[](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/ "Read More")
-
-Commentary Public Safety Crime Control, Policing, New York, New York City
-
-Oct 19 2024
-
-[Why Public Safety Is the Key to Functioning NYC Subways — Crime Hot Spots for over 50 Years](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-public-safety-is-the-key-to-functioning-nyc-subways-crime-hot-spots-for-over-50-years/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-cynics-guide-to-wokeness.jpg)[](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/ "Read More")
-
-Commentary Culture Culture & Society
-
-Oct 20 2024
-
-[The Cynic’s Guide to Wokeness](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
-
-By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-cynics-guide-to-wokeness/)
 
 Our Policy Areas
 ----------------
