@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| My GirlDylan Scott<br><br>5:39pm |
-| Next Thing You KnowJordan Davis<br><br>5:37pm |
-| Wind Up Missing YouTucker Wetmore<br><br>5:34pm |
-| Need A FavorJelly Roll<br><br>5:25pm |
-| HurricaneLuke Combs<br><br>5:21pm |
+| Dirt On My BootsJon Pardi<br><br>11:37pm |
+| Think I'M In Love With YouChris Stapleton<br><br>11:33pm |
+| Fast CarLuke Combs<br><br>11:29pm |
+| I Am Not OkayJelly Roll<br><br>11:26pm |
+| Where It EndsBailey Zimmerman<br><br>11:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
