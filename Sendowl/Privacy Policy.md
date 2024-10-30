@@ -143,6 +143,16 @@ We do not sell your email address, shopping cart data, or other marketing inform
 
 **Third Party Marketing**. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information to third parties for the third parties’ direct marketing purposes. We do not disclose your personal information to third parties for the third parties’ direct marketing purposes.
 
+**Automated Processing & Profiling.** Residents of certain U.S. states have the right to opt out of the processing of personal information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+
+**Verification Process for Exercising Rights.** To protect your privacy, we verify privacy rights requests to ensure that only you (or your authorized agent) can exercise rights pertaining to your personal information. As part of our verification process, we may request you submit additional information. If you are an authorized agent wishing to exercise rights on behalf of a state resident, please contact us using the information at the bottom of this privacy policy and provide us with a copy of the consumer's written authorization designating you as their agent. We may need to verify your identity and place of residence before completing your rights request.
+
+**Appeal Process.** If we do not decide to act in response to your request to exercise a right, we will provide a timely response detailing the reasons for not taking the action and, depending on your jurisdiction, any rights that you may have to appeal our decision. This may include, where required by law, instructions on how to contact your local Attorney General or Department of Justice for further review.
+
+After confirming that the SendOwl website recognizes and respects [Global Privacy Control](https://globalprivacycontrol.org/implementation)'s opt-out signals, add the following to the "How Do We Respond to 'Do Not Track' Signals?" section:
+
+California and certain other U.S. state residents may opt out of tracking technologies by broadcasting an Opt-Out Preference Signal, such as the Global Privacy Control (GPC) (on the browsers and/or browser extensions that support such a signal). To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs). If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use. Your request to opt-out of sale/sharing will be linked to your browser identifier only and not linked to any account information because the connection between your browser and the account is not known to us.
+
 #### Legal Bases for Processing
 
 Billing information is recorded as it is necessary to comply with our contractual obligations when providing our service to Merchants and our Merchants’ End Customers.
