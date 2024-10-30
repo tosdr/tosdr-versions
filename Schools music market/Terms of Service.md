@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/body-percussion-rhythms-composition-grid/)
+ [](https://schoolsmusicmarket.com/product/compose-a-song-cut-and-stick/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/musical-reflection-weekly-song-review/)
+ [](https://schoolsmusicmarket.com/product/live-music-performance-how-to-get-a-festival-slot-presentation/)
 
 ###### Browse By Year/Grade
 
