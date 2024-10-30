@@ -36,6 +36,9 @@
         
         Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
     
+    * [![Save nearly $199 on this refurbished 2024 Lenovo touchscreen laptop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Save nearly $199 on this refurbished 2024 Lenovo touchscreen laptop](https://www.bleepingcomputer.com/offer/deals/save-nearly-199-on-this-refurbished-2024-lenovo-touchscreen-laptop/)
     * [![New Windows Themes zero-day gets free, unofficial patches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
@@ -45,9 +48,6 @@
     * [![This $50 course helps prepare you for four in-demand IT certifications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This $50 course helps prepare you for four in-demand IT certifications](https://www.bleepingcomputer.com/offer/deals/this-50-course-helps-prepare-you-for-four-in-demand-it-certifications/)
-    * [![QNAP fixes NAS backup software zero-day exploited at Pwn2Own](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
