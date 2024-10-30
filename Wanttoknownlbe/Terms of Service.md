@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/vrijheid-op-een-hellend-vlak-censuur/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/drunvalos-boodschap-voor-jou/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
