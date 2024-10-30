@@ -300,17 +300,17 @@ IRS privacy policy overview
 
 #### [Information we may collect](#collapseCollapsible1705618165970_420159)
 
-All personal information you provide to us is voluntary. We may collect personal information about you (such as name, email address, Social Security number or other unique identifier) only if you specifically and knowingly provide it to us. We will use your information to process requests for certain services or information. Providing your information is generally voluntary, but if it is not provided, we might not be able to process your transaction. When information is required, we will let you know before we collect it. We publish specific information on records the IRS may collect in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
+All personal information you provide to us is voluntary. We may collect personal information about you (such as name, email address, Social Security number or other unique identifier) only if you specifically and knowingly provide it to us. We will use your information to process requests for certain services or information. Providing your information is generally voluntary, but if it is not provided, we might not be able to process your transaction. When information is required, we will let you know before we collect it. We publish specific information on records the IRS may collect in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
 
 #### [Why we collect personal information](#collapseCollapsible1705618165971_477864)
 
-We collect PII and other information only as necessary to administer our programs under the authority of the Internal Revenue Code and the protections of the Code and the Privacy Act. The information you provide will be used only for that purpose. We do not sell the information collected at this site or any other information we collect. You do not have to give us personal information to visit our website. For more information on authority, visit [The agency, its mission and statutory authority](https://www.irs.gov/about-irs/the-agency-its-mission-and-statutory-authority "The agency, its mission and statutory authority") page. We publish specific information on the purpose and authority for records the IRS may collect in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
+We collect PII and other information only as necessary to administer our programs under the authority of the Internal Revenue Code and the protections of the Code and the Privacy Act. The information you provide will be used only for that purpose. We do not sell the information collected at this site or any other information we collect. You do not have to give us personal information to visit our website. For more information on authority, visit [The agency, its mission and statutory authority](https://www.irs.gov/about-irs/the-agency-its-mission-and-statutory-authority "The agency, its mission and statutory authority") page. We publish specific information on the purpose and authority for records the IRS may collect in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
 
 #### [How we use your personal information](#collapseCollapsible1705618165972_529611)
 
-Throughout our website, we will let you know if the information we ask you to provide is voluntary or required. By providing your personal information, you give us consent to use the information only for the purpose for which it was collected. We describe those purposes when we collect information. We will ask for your consent before using the information you provide for any secondary purpose other than those required by federal law. We will disclose your information only authorized by law and as listed in the routine uses published in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
+Throughout our website, we will let you know if the information we ask you to provide is voluntary or required. By providing your personal information, you give us consent to use the information only for the purpose for which it was collected. We describe those purposes when we collect information. We will ask for your consent before using the information you provide for any secondary purpose other than those required by federal law. We will disclose your information only authorized by law and as listed in the routine uses published in the IRS Privacy Act System of Records Notices on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns) page.
 
-We protect your information in a secure and readily accessible environment. We also monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to the web service. We focus on web site security so that this service remains available to you and other visitors. No attempts are made to identify individual users unless illegal behavior is suspected. For more information on security, visit our [security of your information](https://www.irs.gov/privacy-disclosure/security-of-your-information "Security of your information") page.
+We protect your information in a secure and readily accessible environment. We also monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to the web service. We focus on web site security so that this service remains available to you and other visitors. No attempts are made to identify individual users unless illegal behavior is suspected. For more information on security, visit our [security of your information](https://www.irs.gov/privacy-disclosure/security-of-your-information "Security of your information") page.
 
 #### [Umbrella privacy notice for tax returns](#collapseCollapsible1705618165974_908386)
 
@@ -360,16 +360,17 @@ For more information on taxpayer burden see Pub. 5743. If you have comments conc
 | Nonbusiness taxpayers\*\*\* | 72% | 9   | 3   | 1   | 3   | 1   | $150 |
 | Business taxpayers\*\*\* | 28% | 24  | 12  | 4   | 6   | 2   | $560 |
 
-\*Detail may not add to total time due to rounding.  
-\*\*Dollars rounded to the nearest $10.  
-\*\*\*You are considered a “business” filer if you file one or more of the following with Form 1040 or 1040-SR: Schedule C, E, or F or Form 2106. You are considered a “nonbusiness” filer if you don’t file any of those schedules or forms with Form 1040 or 1040-SR.  
- 
+\*Detail may not add to total time due to rounding.
+
+\*\*Dollars rounded to the nearest $10.
+
+\*\*\*You are considered a “business” filer if you file one or more of the following with Form 1040 or 1040-SR: Schedule C, E, or F or Form 2106. You are considered a “nonbusiness” filer if you don’t file any of those schedules or forms with Form 1040 or 1040-SR.
 
 #### [Your privacy rights](#collapseCollapsible1705618165976_660530)
 
-The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://uscode.house.gov/ "Internal Revenue Code"), the [Privacy Act of 1974](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm "Privacy Act of 1974 - U.S. Government Printing Office"), the [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information-act "IRS Freedom of Information Act"), and IRS policies and practices. Visit the [IRS Electronic Freedom of Information Act Reading Room](https://www.irs.gov/privacy-disclosure/foia-library "FOIA Library") for more information about these laws. We document much of our internal policy on these laws in [IRM 10.5.1, Privacy Policy](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy").
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://uscode.house.gov/ "Internal Revenue Code"), the [Privacy Act of 1974](https://www.gpo.gov/fdsys/pkg/USCODE-2010-title5/html/USCODE-2010-title5-partI-chap5-subchapII-sec552a.htm "Privacy Act of 1974 - U.S. Government Printing Office"), the [Freedom of Information Act](https://www.irs.gov/privacy-disclosure/irs-freedom-of-information-act "IRS Freedom of Information Act"), and IRS policies and practices. Visit the [IRS Electronic Freedom of Information Act Reading Room](https://www.irs.gov/privacy-disclosure/foia-library "FOIA Library") for more information about these laws. We document much of our internal policy on these laws in [IRM 10.5.1, Privacy Policy](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy").
 
-The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24 PDF](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_24_0.pdf " "), has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy. The [SAOP for the IRS](https://home.treasury.gov/footer/privacy-act) is positioned at the Department of Treasury. 
+The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24 PDF](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_24_0.pdf " "), has overall responsibility and accountability for ensuring the agency’s implementation of information privacy protections, including the agency’s full compliance with federal laws, regulations, and policies relating to information privacy. The [SAOP for the IRS](https://home.treasury.gov/footer/privacy-act) is positioned at the Department of Treasury.
 
 #### [Privacy policy topics](#collapseCollapsible1705618165977_381141)
 
@@ -387,7 +388,7 @@ The Senior Agency Official for Privacy (SAOP), as mandated by [OMB M-16-24 PDF](
 We protect your privacy in [online](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy") and in-person meetings just as we do with all other interactions. We make sure we authenticate all attendees’ identity, their authorization to be in the meeting, and their need to know. The IRS might need to [record](https://www.irs.gov/irm/part10/irm_10-005-001#idm139957247987856 "10.5.1 Privacy Policy") a meeting you attend, with your consent. Designated IRS hosts may record meetings. If we do so, we will notify all participants we are recording. By joining and staying in the recorded meeting, you consent to the recording. To opt out of recording, you may leave a recorded meeting. If this is an in-person meeting about your tax account, we follow [IRC 7521(a)](https://irc.bloombergtax.com/public/uscode/doc/irc/section_7521 "IRC 7521(a)"). In such a meeting, you may request to record, with prior notice to the IRS, and the IRS may also record. All such recordings become federal records, which we protect and keep following federal privacy, security, and records requirements. If we use a third-party application or service, we still protect your privacy. Our [agreement](https://www.irs.gov/irm/part10/irm_10-005-001#idm139957250456992 "10.5.1 Privacy Policy") with that vendor requires that IRS privacy policies apply and override those of the application or service. For more detailed information, please refer to these [Internal Revenue Manual](https://www.irs.gov/irm/part10/irm_10-005-001 "10.5.1 Privacy Policy") sections:
 
 * [10.5.1.6.14.2 Recordings in the Workplace](https://www.irs.gov/irm/part10/irm_10-005-001#idm139904277640144 "10.5.1 Privacy Policy")
-* [10.5.1.6.15 Contractors](https://www.irs.gov/irm/part10/irm_10-005-001#idm139904277606400 "10.5.1 Privacy Policy")
+* [10.5.1.6.15 Contractors](https://www.irs.gov/irm/part10/irm_10-005-001#idm139904277606400 "10.5.1 Privacy Policy")
 * [10.5.1.6.18.2 Online Meeting Tools](https://www.irs.gov/irm/part10/irm_10-005-001#idm139904277508736 "10.5.1 Privacy Policy")
 * [4.10.3.3.6 Requests to Audio Record Interviews](https://www.irs.gov/irm/part4/irm_04-010-003 "4.10.3 Examination Techniques")
 * [5.1.12.3, Taxpayer Recording of Interviews](https://www.irs.gov/irm/part5/irm_05-001-012r#idm140294714732976 "5.1.12 Cases Requiring Special Handling")
@@ -400,14 +401,14 @@ Privacy compliance programs
 
 A PCLIA is a decision-making tool used to identify and mitigate privacy risks at the beginning of and throughout the development life cycle of a program or system. PCLIAs help the public understand what PII the agency is collecting, why it is being collected, and how it will be used, shared, accessed, secured and stored. The PCLIA uses the Fair Information Practice Principles (FIPPs) to assess and mitigate any impact on an individual’s privacy. Generally, a PCLIA is required before a program or system containing PII becomes operational.
 
-Generally, a PCLIA should accomplish these goals:
+Generally, a PCLIA should accomplish these goals:
 
 * Ensure conformance with applicable legal, regulatory, and policy requirements for privacy.
 * Determine the risks and effects.
 * Evaluate protections and alternative processes to mitigate potential privacy risks.
 * Provide assurance to the public about the protection of privacy and constitutional rights.
 
-Approved PCLIAs are published on the IRS's [Privacy Impact Assessments](https://www.irs.gov/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessments - PIA") page unless they are classified.
+Approved PCLIAs are published on the IRS's [Privacy Impact Assessments](https://www.irs.gov/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessments - PIA") page unless they are classified.
 
 #### [System of records notice (SORN)](#collapseCollapsible1705618165958_271452)
 
@@ -415,7 +416,7 @@ A System of Records is a group of records under the control of any federal agenc
 
 A SORN is required when a government agency has a system of records as defined above. In some instances, the agency may have an existing SORN that covers a collection of systems or programs.
 
-All SORNs are approved by the agency’s Chief Privacy Officer prior to publication and are sent to OMB and Congress for comment. After, they are published in the Federal Register for thirty days to give the public notice and time to comment. A program or system may not become operational until the SORN has been published for 30 days.
+All SORNs are approved by the agency’s Chief Privacy Officer prior to publication and are sent to OMB and Congress for comment. After, they are published in the Federal Register for thirty days to give the public notice and time to comment. A program or system may not become operational until the SORN has been published for 30 days.
 
 All IRS SORNs published in the Federal Register can be found on the [U.S. Department of the Treasury System of Records Notices](https://home.treasury.gov/footer/privacy-act/system-of-records-notices-sorns "U.S. Department of the Treasury | System of Records Notices (SORNs)") webpage. There is a section labeled “Exemptions claimed for the system” that lists any exemptions to the Privacy Act at the end of each SORN.
 
@@ -427,17 +428,17 @@ Notices for approved computer matching programs are published in the Federal Reg
 
 #### [Publicly available privacy reports](#collapseCollapsible1705618165964_875368)
 
-In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy. These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters. A listing of all publicly available privacy reports can be found at the [U.S. Department of the Treasury Privacy Act Annual Reports](https://home.treasury.gov/footer/privacy-act/privacy-reports) webpage.
+In accordance with Section 522 of the Consolidated Appropriations Act of 2005, the Department of the Treasury prepares a report to Congress on an annual basis covering the Department’s activities which affect privacy. These activities include complaints of privacy violations, implementation of section 552a of title 5, 11 United States Code, internal controls, as well as other relevant matters. A listing of all publicly available privacy reports can be found at the [U.S. Department of the Treasury Privacy Act Annual Reports](https://home.treasury.gov/footer/privacy-act/privacy-reports) webpage.
 
 #### [Privacy Act implementation rules and exemptions](#collapseCollapsible1705618165966_645298)
 
 Information on IRS Privacy Act Implementation Rules can be found at the [Federal Register Privacy Act Implementation for the U.S. Department of the Treasury](https://www.federalregister.gov/documents/2014/03/07/2014-04946/privacy-act-implementation).
 
-Exemptions to the Privacy Act can be found near the end of each individual SORN, in the “Exemptions claimed for the system,” as well as in [Treasury Regulation 31 CFR 1.36](https://www.gpo.gov/fdsys/granule/CFR-2004-title31-vol1/CFR-2004-title31-vol1-sec1-36).
+Exemptions to the Privacy Act can be found near the end of each individual SORN, in the “Exemptions claimed for the system,” as well as in [Treasury Regulation 31 CFR 1.36](https://www.gpo.gov/fdsys/granule/CFR-2004-title31-vol1/CFR-2004-title31-vol1-sec1-36).
 
 #### [IRS Privacy Program Plan](#collapseCollapsible1705618165967_256635)
 
-Ensuring the IRS preserves and enhances public confidence by properly protecting, retaining and disclosing taxpayer information is the main purpose of the [IRS Privacy Program Plan PDF](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)"). 
+Ensuring the IRS preserves and enhances public confidence by properly protecting, retaining and disclosing taxpayer information is the main purpose of the [IRS Privacy Program Plan PDF](https://www.irs.gov/pub/irs-pdf/p5499.pdf "0224 Publ 5499                           (PDF)").
 
 The plan provides an overview of the:
 
@@ -454,7 +455,7 @@ Privacy Act requests
 
 #### [Overview](#collapseCollapsible1705618165951_937487)
 
-**Note:** Federal tax records are exempt from access or amendment. To amend a federal tax record, taxpayers must file [Form 1040-X](https://www.irs.gov/forms-pubs/about-form-1040x "About Form 1040-X, Amended U.S. Individual Income Tax Return") or follow IRS procedures for other changes, such as [change of address](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes "Address changes").
+**Note:** Federal tax records are exempt from access or amendment. To amend a federal tax record, taxpayers must file [Form 1040-X](https://www.irs.gov/forms-pubs/about-form-1040x "About Form 1040-X, Amended U.S. Individual Income Tax Return") or follow IRS procedures for other changes, such as [change of address](https://www.irs.gov/faqs/irs-procedures/address-changes/address-changes "Address changes").
 
 The Privacy Act of 1974, as amended, provides safeguards against unwarranted invasions of privacy by establishing a code of "fair information practices." The principles, commonly referenced as the fair information practice principles (FIPPs), require agencies to comply with statutory norms for collection, maintenance, access, use, and dissemination of records.
 
@@ -464,19 +465,22 @@ A current listing of the Department's System of Records, along with updated rout
 
 To further protect the individual, the Privacy Act requires all records which are used by the agency in making any determination about any individual to be maintained with such accuracy, relevance, timeliness, and completeness as is reasonably necessary to assure fairness to the individual in the determination.
 
-The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them. 
+The Privacy Act grants individuals increased rights of access to records maintained about them, as well as the right to seek amendment of records maintained about them.
 
-IRS offers routine access to other records through [procedures designed to make access quick and easy](https://www.irs.gov/privacy-disclosure/routine-access-to-irs-records "Routine access to IRS records"). If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
+IRS offers routine access to other records through [procedures designed to make access quick and easy](https://www.irs.gov/privacy-disclosure/routine-access-to-irs-records "Routine access to IRS records"). If you are working directly with an IRS employee on an open tax case, you can request information from the file directly from them.
 
-#### [How to write a Privacy Act request](#collapseCollapsible1705618165953_300060)
+#### [How to make a Privacy Act request](#collapseCollapsible1705618165955_970296)
 
-Follow the procedures provided at [How to Write a Privacy Act Request (U.S. Department of Treasury)](https://home.treasury.gov/footer/privacy-act/how-to-write-a-privacy-act-request).
+To request to access your Privacy Act records electronically, complete [Form 15603, IRS Request for Individual Access to Non-Tax Records Protected under the Privacy Act PDF](https://www.irs.gov/pub/irs-pdf/f15603.pdf "0724 Form 15603                          (PDF)"), and submit it on the [FOIA and Privacy Act Public Access Portal](https://foiapublicaccessportal.for.irs.gov/app/Home.aspx "IRS FOIA Public Access Portal").
 
-#### [Where to send your Privacy Act request](#collapseCollapsible1705618165955_970296)
+To give consent to disclose your Privacy Act records electronically, complete [Form 15293, Consent for Disclosure of Non-Tax IRS Records Protected under the Privacy Act PDF](https://www.irs.gov/pub/irs-pdf/f15293.pdf "0724 Form 15293                          (PDF)"), and submit it on the [FOIA and Privacy Act Public Access Portal](https://foiapublicaccessportal.for.irs.gov/app/Home.aspx "IRS FOIA Public Access Portal").
 
-You may submit Privacy Act Request to the IRS at the [FOIA Public Access Portal](https://foiapublicaccessportal.for.irs.gov/ "IRS FOIA Public Access Portal"). The IRS FOIA Public Access Portal is a secure portal that allows requesters to electronically submit a FOIA and Privacy Act request(s), check the status of submitted request(s), and securely send and receive messages to and from the agency.
+The IRS FOIA Public Access Portal is a secure portal that allows requesters to electronically submit a FOIA and Privacy Act request(s), check the status of submitted request(s), and securely send and receive messages to and from the agency.
 
-You may mail or fax your request to:  
+If you use these forms, they include all the required elements from [How to write a Privacy Act request (U.S. Department of Treasury)](https://home.treasury.gov/footer/privacy-act/how-to-write-a-privacy-act-request).
+
+Or, you may mail or fax your request(s) above, or a signed written request with the required elements, to:
+
 Internal Revenue Service  
 FOIA Public Liaison Line: [312-292-2929](tel:312-292-2929)  
 IRS FOIA/Privacy Act Request  
@@ -484,11 +488,12 @@ HQ FOIA
 Stop 211  
 PO Box 621506  
 Atlanta, GA 30362-3006  
-Fax: 877-807-9215
+Fax: 877-807-9215  
+ 
 
-**​​​IRS employees**
+**IRS employees**
 
-Should follow instructions in [IRM 10.5.6.6 - Privacy Act Request for Non-Tax Records](https://www.irs.gov/irm/part10/irm_10-005-006 "10.5.6 Privacy Act ")​​​​​
+Should follow instructions in [IRM 10.5.6.6 - Privacy Act Request for Non-Tax Records](https://www.irs.gov/irm/part10/irm_10-005-006 "10.5.6 Privacy Act ")
 
 Privacy complaints
 ------------------
@@ -499,13 +504,13 @@ A privacy complaint is a written allegation filed with the Service's [Office of 
 
 * Issues regarding consent, collection, and appropriate notice
 * Issues regarding unauthorized disclosures
-* General IRS privacy policy and procedures 
+* General IRS privacy policy and procedures
 
 #### [Before you submit a privacy complaint](#collapseCollapsible1705618165943_667540)
 
 The Office of Privacy, Governmental Liaison and Disclosure can't assist you with any type of tax matter. We may only address questions about IRS privacy policies or complaints you may have regarding how IRS uses and collects personal information. Do not send in any sensitive information through this correspondence.
 
-Please include as much information as possible to help with our research and response to your query, as appropriate and known. Include the date of the incident, the date of discovery, and what personal information was affected. IRS takes your privacy concerns very seriously and will respond fully and timely. Please allow up to four weeks for a written response to your complaint or inquiry, so that we have time to research and resolve.
+Please include as much information as possible to help with our research and response to your query, as appropriate and known. Include the date of the incident, the date of discovery, and what personal information was affected. IRS takes your privacy concerns very seriously and will respond fully and timely. Please allow up to four weeks for a written response to your complaint or inquiry, so that we have time to research and resolve.
 
 #### [Where to write](#collapseCollapsible1705618165947_584291)
 
@@ -539,7 +544,7 @@ Washington, DC 20224
 
 [What you should know](https://www.irs.gov/taxpayer-bill-of-rights)
 
-Page Last Reviewed or Updated: 26-Oct-2024
+Page Last Reviewed or Updated: 30-Oct-2024
 
 * [Share](#)
     * Facebook
