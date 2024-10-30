@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
 * [TechCrunch Disrupt 2024](https://techcrunch.com/storyline/techcrunch-disrupt-2024-follow-the-reveals-insights-and-more-in-our-live-blog/)
-* [Apple Intelligence](https://techcrunch.com/2024/10/28/apple-intelligence-exits-beta/)
-* [M4 iMac](https://techcrunch.com/2024/10/28/apple-unveils-m4-powered-imac/)
-* [Bridgit Mendler](https://techcrunch.com/2024/10/28/former-disney-star-bridgit-mendler-talks-scaling-connectivity-and-resilience-for-space/)
-* [TechCrunch Disrupt 2024 Agenda](https://techcrunch.com/events/tc-disrupt-2024/agenda/)
-* [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
+* [WordPress vs. WP Engine](https://techcrunch.com/2024/10/30/matt-mullenweg-talks-about-automattics-staffing-issues-and-financials-at-techcrunch-disrupt/)
+* [Dropbox](https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/)
+* [Boston Dynamics](https://techcrunch.com/2024/10/30/boston-dynamics-electric-atlas-humanoid-executes-autonomous-automotive-parts-picking/)
+* [Zoox](https://techcrunch.com/2024/10/30/zoox-custom-robotaxis-are-finally-coming-to-san-francisco-and-las-vegas/)
+* [Tech Layoffs](https://techcrunch.com/2024/10/30/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/29/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
