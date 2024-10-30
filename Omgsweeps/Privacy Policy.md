@@ -37,7 +37,7 @@ This Site is affiliated with Adapex INC for the purposes of placing advertising 
 
 * [Do Not Sell or Share My Information](https://omgsweeps.com/do-not-sell-my-information/)
 
-Copyright © 2021 C4R Media Corp.
+Copyright © 2024 OMG Sweeps.
 
 Type your Message  Send
 
