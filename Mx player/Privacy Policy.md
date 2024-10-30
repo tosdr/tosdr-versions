@@ -151,7 +151,7 @@ Security of your Personal Information is a paramount importance for us and we wa
 
 9\. Support
 
-If you do not consent to any part of the terms of this Privacy Policy or wish to withdraw consent to process Your Personal Data then you may stop using the Services and ask us to remove your Personal Data/ Information from our records by writing to our grievance officer, \[Manish Mishra\] at [grievanceofficer@mxplayer.in](mailto:grievanceofficer@mxplayer.in).
+If you do not consent to any part of the terms of this Privacy Policy or wish to withdraw consent to process Your Personal Data then you may stop using the Services and ask us to remove your Personal Data/ Information from our records by writing to our grievance officer, Mr. Anshuman Mainkar at [grievanceofficer-amazon-MX-Player@amazon.com](mailto:grievanceofficer-amazon-MX-Player@amazon.com).
 
 10\. Changes to this Policy
 
