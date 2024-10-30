@@ -2,11 +2,11 @@ Due to the IRS moratorium, we are not currently assisting with new ERC claims.
 
 [](#)
 
- [![InnovationRefunds](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg) InnovationRefunds](https://www.innovationrefunds.com/)
+ [![InnovationRefunds](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg) InnovationRefunds](https://www.innovationrefunds.com/)
 
 [Contact Us](https://www.innovationrefunds.com/contact)
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Success Stories](https://www.innovationrefunds.com/testimonials/)[(855) 653-1083](tel:8556531083)
+[Who We Are](https://innovationrefunds.com/about-us/) [Success Stories](https://innovationrefunds.com/testimonials/)[(855) 653-1083](tel:8556531083)
 
 [Contact Us](https://www.innovationrefunds.com/contact)
 
@@ -123,7 +123,7 @@ As the Authorized Representative on behalf of the Applicant, You recognize and a
 ‍  
 Your access and use of the website may be interrupted from time to time due to third party failures outside of our control (such as unavailability of general Internet infrastructure). Access and use may also be interrupted for periodic updating, maintenance, or repair of the website. While we will make reasonable efforts to make the website available to you, we do not promise that it will be available at all times.  
 ‍  
-You agree that website may use your feedback, suggestions, or ideas in any way, including in future modifications of the website, other products or services, advertising or marketing materials (although any use of your personal information will be subject to our [Privacy Policy](https://www.innovationrefunds.com/privacy)).
+You agree that website may use your feedback, suggestions, or ideas in any way, including in future modifications of the website, other products or services, advertising or marketing materials (although any use of your personal information will be subject to our [Privacy Policy](https://innovationrefunds.com/privacy)).
 
 Assumption of Risk
 ------------------
@@ -242,7 +242,7 @@ Miscellaneous Terms
 ‍  
 **Innovation Refunds** **May be Legally Compelled to Disclose Certain Information.** You agree that in the event Innovation Refunds receives a subpoena issued by a court or from a law enforcement or government agency, Innovation Refunds may have to comply with such subpoenas without your consent or prior notice to you and may need to disclose your IP address, name, IP location, or other information in response thereto.  
 ‍  
-**Contact Information.** Please send any questions, comments or report any Terms of Service violations to [\[email protected\]](https://www.innovationrefunds.com/cdn-cgi/l/email-protection).
+**Contact Information.** Please send any questions, comments or report any Terms of Service violations to [hello@innovationrefunds.com](mailto:hello@innovationrefunds.com).
 
 Representations and certifications
 ----------------------------------
@@ -265,32 +265,32 @@ Your access and use of the website may be interrupted from time to time due to t
 
 You agree that website may use your feedback, suggestions, or ideas in any way, including in future modifications of the website, other products or services, advertising or marketing materials (although any use of your personal information will be subject to our [Privacy Policy](https://www.innovationrefunds.com/privacy)).
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/AICPA-SOC-Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/AICPA-SOC-Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
 
 COMPANY
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Careers](https://www.innovationrefunds.com/careers/) [Blog](https://www.innovationrefunds.com/blog/)
+[Who We Are](https://innovationrefunds.com/about-us/) [Careers](https://innovationrefunds.com/careers/) [Blog](https://innovationrefunds.com/blog/)
 
 RESOURCES
 
-[FAQ](https://www.innovationrefunds.com/faq/) [Contact](https://www.innovationrefunds.com/contact/)
+[FAQ](https://innovationrefunds.com/faq/) [Contact](https://innovationrefunds.com/contact/)
 
 POLICIES & TERMS
 
-[Who We Are](https://www.innovationrefunds.com/about-us/) [Careers](https://www.innovationrefunds.com/careers/) [Blog](https://www.innovationrefunds.com/blog/)
+[Privacy Policy](https://innovationrefunds.com/privacy/) [Terms of Use](https://innovationrefunds.com/terms/)
 
 ©2024 Innovation Refunds
 
 [Privacy Policy](https://www.innovationrefunds.com/privacy)[Terms of use](https://www.innovationrefunds.com/terms)[Notice at Collection](https://www.innovationrefunds.com/notice-at-collection)[Do Not Sell or Share My Personal Information](https://qualify.innovationrefunds.com/partner-share-opt-out)[Do Not Call](https://www.innovationrefunds.com/do-not-call)
 
-[![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/fb-social.png)](https://www.facebook.com/innovationrefunds) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/linkedin-social.png)](https://www.linkedin.com/company/74399983/) [![](https://www.innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/Twitter-X.png)](https://twitter.com/getrefunds)
+[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/fb-social.png)](https://www.facebook.com/innovationrefunds) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/insta-social.png)](https://www.instagram.com/innovation_refunds/?hl=en) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/linkedin-social.png)](https://www.linkedin.com/company/74399983/) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/Twitter-X.png)](https://twitter.com/getrefunds)
 
 All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
