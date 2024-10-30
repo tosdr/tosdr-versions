@@ -1,10 +1,10 @@
-![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) ️Limited Time: Phantom Pack ![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 650 Minutes for only $40! ![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 
+![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg)️Limited Time: Phantom Pack![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 650 Minutes for only $40! ![](https://s.lalal.ai/img/sale-graphic/pumpkin.svg) 
 
 [](https://www.lalal.ai/)
 
-Products New
+ProductsNew
 
-[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
@@ -16,35 +16,35 @@ Pricing
 
 [Package Pricing](https://www.lalal.ai/pricing/)[Enterprise Solution](https://www.lalal.ai/business-solutions/)
 
-[Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/) [Blog](https://www.lalal.ai/blog/)
+[Help](https://www.lalal.ai/help/)[About](https://www.lalal.ai/about/)[Blog](https://www.lalal.ai/blog/)
 
 En
 
-[English](https://www.lalal.ai/privacy-policy/) [简体中文](https://www.lalal.ai/zh-hans/privacy-policy/) [繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/) [français](https://www.lalal.ai/fr/privacy-policy/) [Deutsch](https://www.lalal.ai/de/privacy-policy/) [italiano](https://www.lalal.ai/it/privacy-policy/) [日本語](https://www.lalal.ai/ja/privacy-policy/) [한국어](https://www.lalal.ai/ko/privacy-policy/) [español](https://www.lalal.ai/es/privacy-policy/) [Nederlands](https://www.lalal.ai/nl/privacy-policy/) [Português](https://www.lalal.ai/pt/privacy-policy/) [Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
+[English](https://www.lalal.ai/privacy-policy/)[简体中文](https://www.lalal.ai/zh-hans/privacy-policy/)[繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/)[français](https://www.lalal.ai/fr/privacy-policy/)[Deutsch](https://www.lalal.ai/de/privacy-policy/)[italiano](https://www.lalal.ai/it/privacy-policy/)[日本語](https://www.lalal.ai/ja/privacy-policy/)[한국어](https://www.lalal.ai/ko/privacy-policy/)[español](https://www.lalal.ai/es/privacy-policy/)[Nederlands](https://www.lalal.ai/nl/privacy-policy/)[Português](https://www.lalal.ai/pt/privacy-policy/)[Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
 
 [](https://www.lalal.ai/)
 
-[About](https://www.lalal.ai/about/) [Media Kit](https://www.lalal.ai/media-kit/) [Press](https://www.lalal.ai/press/) [Terms of Service](https://www.lalal.ai/terms-and-conditions/) [Privacy Policy](https://www.lalal.ai/privacy-policy/) [Refund Policy](https://www.lalal.ai/refund-policy/)
+[About](https://www.lalal.ai/about/)[Media Kit](https://www.lalal.ai/media-kit/)[Press](https://www.lalal.ai/press/)[Terms of Service](https://www.lalal.ai/terms-and-conditions/)[Privacy Policy](https://www.lalal.ai/privacy-policy/)[Refund Policy](https://www.lalal.ai/refund-policy/)
 
 [](https://www.lalal.ai/)
 
-[Stem Splitter Extract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice Cleaner Remove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
 Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)
 
- ![Chevron](https://s.lalal.ai/img/common/chevron.svg) More
+![Chevron](https://s.lalal.ai/img/common/chevron.svg)More
 
-[Apps & Plugins](https://www.lalal.ai/apps-and-plugins/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
+[Apps & Plugins](https://www.lalal.ai/apps-and-plugins/)[Package Pricing](https://www.lalal.ai/pricing/)[Enterprise Solution](https://www.lalal.ai/business-solutions/)[Help](https://www.lalal.ai/help/)[About](https://www.lalal.ai/about/)
 
 [Blog](https://www.lalal.ai/blog/)
 
 En
 
-[English](https://www.lalal.ai/privacy-policy/) [简体中文](https://www.lalal.ai/zh-hans/privacy-policy/) [繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/) [français](https://www.lalal.ai/fr/privacy-policy/) [Deutsch](https://www.lalal.ai/de/privacy-policy/) [italiano](https://www.lalal.ai/it/privacy-policy/) [日本語](https://www.lalal.ai/ja/privacy-policy/) [한국어](https://www.lalal.ai/ko/privacy-policy/) [español](https://www.lalal.ai/es/privacy-policy/) [Nederlands](https://www.lalal.ai/nl/privacy-policy/) [Português](https://www.lalal.ai/pt/privacy-policy/) [Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
+[English](https://www.lalal.ai/privacy-policy/)[简体中文](https://www.lalal.ai/zh-hans/privacy-policy/)[繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/)[français](https://www.lalal.ai/fr/privacy-policy/)[Deutsch](https://www.lalal.ai/de/privacy-policy/)[italiano](https://www.lalal.ai/it/privacy-policy/)[日本語](https://www.lalal.ai/ja/privacy-policy/)[한국어](https://www.lalal.ai/ko/privacy-policy/)[español](https://www.lalal.ai/es/privacy-policy/)[Nederlands](https://www.lalal.ai/nl/privacy-policy/)[Português](https://www.lalal.ai/pt/privacy-policy/)[Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
 
-[About](https://www.lalal.ai/about/) [Media Kit](https://www.lalal.ai/media-kit/) [Press](https://www.lalal.ai/press/) [Terms of Service](https://www.lalal.ai/terms-and-conditions/) [Privacy Policy](https://www.lalal.ai/privacy-policy/) [Refund Policy](https://www.lalal.ai/refund-policy/) [Affiliate Program Agreement](https://www.lalal.ai/affiliate-program-agreement/) [Referral Program Agreement](https://www.lalal.ai/referral-program-agreement/)
+[About](https://www.lalal.ai/about/)[Media Kit](https://www.lalal.ai/media-kit/)[Press](https://www.lalal.ai/press/)[Terms of Service](https://www.lalal.ai/terms-and-conditions/)[Privacy Policy](https://www.lalal.ai/privacy-policy/)[Refund Policy](https://www.lalal.ai/refund-policy/)[Affiliate Program Agreement](https://www.lalal.ai/affiliate-program-agreement/)[Referral Program Agreement](https://www.lalal.ai/referral-program-agreement/)
 
 Privacy Policy
 ==============
@@ -234,14 +234,14 @@ Last update: 19.09.2024
 
 Copyright © OmniSale GMBH.
 
-[Previous ← Terms of Service](https://www.lalal.ai/terms-and-conditions/) [Next Refund Policy →](https://www.lalal.ai/refund-policy/)
+[Previous← Terms of Service](https://www.lalal.ai/terms-and-conditions/)[NextRefund Policy →](https://www.lalal.ai/refund-policy/)
 
 Extract vocal, accompaniment and various instruments from any audio and video
 -----------------------------------------------------------------------------
 
 High-quality stem splitting based on the world's #1 AI-powered technology.
 
-By uploading a file, you agree to our [Terms of Service](https://www.lalal.ai/terms-and-conditions/) .
+By uploading a file, you agree to our [Terms of Service](https://www.lalal.ai/terms-and-conditions/).
 
 Your browser does not support JavaScript!
 
@@ -249,36 +249,36 @@ Your browser does not support JavaScript!
 
 Follow us
 
- [](https://www.facebook.com/lalalaisoftware/)[](https://www.instagram.com/lalalaiapp/)[](https://twitter.com/ai_lalal)[](https://www.youtube.com/channel/UCawy7BDDJ62QwQeeRjYmEtQ)[](https://www.tiktok.com/@lalal.ai)[](https://www.reddit.com/r/LALALAI/)
+[](https://www.facebook.com/lalalaisoftware/)[](https://www.instagram.com/lalalaiapp/)[](https://twitter.com/ai_lalal)[](https://www.youtube.com/channel/UCawy7BDDJ62QwQeeRjYmEtQ)[](https://www.tiktok.com/@lalalaiapp)[](https://www.reddit.com/r/LALALAI/)
 
 [](https://github.com/OmniSaleGmbH/lalalai)
 
 En
 
-[English](https://www.lalal.ai/privacy-policy/) [简体中文](https://www.lalal.ai/zh-hans/privacy-policy/) [繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/) [français](https://www.lalal.ai/fr/privacy-policy/) [Deutsch](https://www.lalal.ai/de/privacy-policy/) [italiano](https://www.lalal.ai/it/privacy-policy/) [日本語](https://www.lalal.ai/ja/privacy-policy/) [한국어](https://www.lalal.ai/ko/privacy-policy/) [español](https://www.lalal.ai/es/privacy-policy/) [Nederlands](https://www.lalal.ai/nl/privacy-policy/) [Português](https://www.lalal.ai/pt/privacy-policy/) [Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
+[English](https://www.lalal.ai/privacy-policy/)[简体中文](https://www.lalal.ai/zh-hans/privacy-policy/)[繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/)[français](https://www.lalal.ai/fr/privacy-policy/)[Deutsch](https://www.lalal.ai/de/privacy-policy/)[italiano](https://www.lalal.ai/it/privacy-policy/)[日本語](https://www.lalal.ai/ja/privacy-policy/)[한국어](https://www.lalal.ai/ko/privacy-policy/)[español](https://www.lalal.ai/es/privacy-policy/)[Nederlands](https://www.lalal.ai/nl/privacy-policy/)[Português](https://www.lalal.ai/pt/privacy-policy/)[Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
 
 Explore
 -------
 
-[Help](https://www.lalal.ai/help/) [Pricing](https://www.lalal.ai/pricing/) [For Business](https://www.lalal.ai/business-solutions/) [API](https://www.lalal.ai/api/) [Support](mailto:support@lalal.ai) [Affiliate Program](https://www.lalal.ai/affiliate-program/)
+[Help](https://www.lalal.ai/help/)[Pricing](https://www.lalal.ai/pricing/)[For Business](https://www.lalal.ai/business-solutions/)[API](https://www.lalal.ai/api/)[Support](mailto:support@lalal.ai)[Affiliate Program](https://www.lalal.ai/affiliate-program/)
 
 Company
 -------
 
-[About](https://www.lalal.ai/about/) [Blog](https://www.lalal.ai/blog/) [Media Kit](https://www.lalal.ai/media-kit/) [Press](https://www.lalal.ai/press/) [Ambassador Program](https://www.lalal.ai/ambassador-program/)
+[About](https://www.lalal.ai/about/)[Blog](https://www.lalal.ai/blog/)[Media Kit](https://www.lalal.ai/media-kit/)[Press](https://www.lalal.ai/press/)[Ambassador Program](https://www.lalal.ai/ambassador-program/)
 
 Apps
 ----
 
-[Desktop App](https://www.lalal.ai/desktop-app/) [iOS App](https://www.lalal.ai/ios-app/) [Android App](https://www.lalal.ai/android-app/)
+[Desktop App](https://www.lalal.ai/desktop-app/)[iOS App](https://www.lalal.ai/ios-app/)[Android App](https://www.lalal.ai/android-app/)
 
 En
 
-[English](https://www.lalal.ai/privacy-policy/) [简体中文](https://www.lalal.ai/zh-hans/privacy-policy/) [繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/) [français](https://www.lalal.ai/fr/privacy-policy/) [Deutsch](https://www.lalal.ai/de/privacy-policy/) [italiano](https://www.lalal.ai/it/privacy-policy/) [日本語](https://www.lalal.ai/ja/privacy-policy/) [한국어](https://www.lalal.ai/ko/privacy-policy/) [español](https://www.lalal.ai/es/privacy-policy/) [Nederlands](https://www.lalal.ai/nl/privacy-policy/) [Português](https://www.lalal.ai/pt/privacy-policy/) [Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
+[English](https://www.lalal.ai/privacy-policy/)[简体中文](https://www.lalal.ai/zh-hans/privacy-policy/)[繁體中文](https://www.lalal.ai/zh-hant/privacy-policy/)[français](https://www.lalal.ai/fr/privacy-policy/)[Deutsch](https://www.lalal.ai/de/privacy-policy/)[italiano](https://www.lalal.ai/it/privacy-policy/)[日本語](https://www.lalal.ai/ja/privacy-policy/)[한국어](https://www.lalal.ai/ko/privacy-policy/)[español](https://www.lalal.ai/es/privacy-policy/)[Nederlands](https://www.lalal.ai/nl/privacy-policy/)[Português](https://www.lalal.ai/pt/privacy-policy/)[Português Brasileiro](https://www.lalal.ai/pt-br/privacy-policy/)
 
 © 2024 OmniSale GMBH
 
-[Terms of service](https://www.lalal.ai/terms-and-conditions/) [Privacy policy](https://www.lalal.ai/privacy-policy/) [Refund Policy](https://www.lalal.ai/refund-policy/)
+[Terms of service](https://www.lalal.ai/terms-and-conditions/)[Privacy policy](https://www.lalal.ai/privacy-policy/)[Refund Policy](https://www.lalal.ai/refund-policy/)
 
 Cookies
 -------
@@ -301,13 +301,13 @@ They provide valuable insights into site traffic, user behavior, and performance
 
 They gather data to provide customized ads. These cookies enable us to present you with relevant and engaging content.
 
-OK Allow Selected
+OKAllow Selected
 
 ![](https://s.lalal.ai/img/loader.png)
 
 ### Please wait...
 
-Your payment is now being processed by PayPal. It usually takes a few minutes.
+Your payment is now being processed by PayPal.It usually takes a few minutes.
 
 ### Your payment is still being processed by Paypal.
 
