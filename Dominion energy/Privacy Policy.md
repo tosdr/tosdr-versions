@@ -106,12 +106,12 @@ Alerts
 Privacy
 =======
 
-Last Updated on May 31, 2024
+Last updated on October 30, 2024.
 
 Dominion Energy's Privacy Notice
 --------------------------------
 
-At Dominion Energy, we value the trust you place in us when you provide us with your personal information. We take your privacy seriously and are committed to protecting it. This Privacy Notice describes the privacy practices of Dominion Energy, Inc., and its subsidiaries, divisions, and affiliates that link to this Privacy Notice (collectively, “Dominion Energy,” “our,” “us,” or “we”). This Privacy Notice applies only to the websites, mobile applications, services, or other points of collection upon which it is posted or noticed.
+At Dominion Energy, we value the trust you place in us when you provide us with your personal information. We take your privacy seriously and are committed to protecting it. This Privacy Notice describes the privacy practices of Dominion Energy, Inc., and its subsidiaries, divisions, and affiliates that link to this Privacy Notice (collectively, "Dominion Energy," "our," "us," or "we"). This Privacy Notice applies only to the websites, mobile applications, services, or other points of collection upon which it is posted or noticed.
 
 Each State is Different
 -----------------------
@@ -121,7 +121,7 @@ Dominion Energy operates in many states. Each state has different laws and regul
 What Personal Information Do We Collect?
 ----------------------------------------
 
-Dominion Energy collects information to provide better services to our customers, job applicants, and other visitors to or users of our websites and mobile applications. Some of this information identifies, relates to, or is capable of being associated with a particular individual or household (“personal information”).
+Dominion Energy collects information to provide better services to our customers, job applicants, and other visitors to or users of our websites and mobile applications. Some of this information identifies, relates to, or is capable of being associated with a particular individual or household ("personal information").
 
 The table below describes the personal information we may collect. Please note that some information is collected incidental and collateral to primary information collection. For example, to verify your identity, we may require a copy of your driver's license which contains personal information that is not used by Dominion Energy, for instance your race or sex.
 
@@ -147,13 +147,13 @@ From Whom Do We Collect Personal Information
 
 We obtain the categories of personal information listed above from the following categories of sources:
 
-* You or your agents, directly or indirectly. For example, from forms that you provide to us related to the goods and services we provide you, or from information we collect through your interactions with us (for instance when you call customer service).
-* Our websites and mobile applications that may track your activity. For example, our websites may collect IP addresses and cookies through automated means.
-* Internet service providers and social media networks.
-* Data analytics providers.
-* Joint marketing partners who perform activities at the direction of Dominion Energy.
-* Affiliates and vendors that interact with us in connection with the goods we offer and the services we perform.
-* Government agencies from which public records are obtained.
+* You or your agents, directly or indirectly. For example, from forms that you provide to us related to the goods and services we provide you, or from information we collect through your interactions with us (for instance when you call customer service)
+* Our websites and mobile applications that may track your activity. For example, our websites may collect IP addresses and cookies through automated means
+* Internet service providers and social media networks
+* Data analytics providers
+* Joint marketing partners who perform activities at the direction of Dominion Energy
+* Affiliates and vendors that interact with us in connection with the goods we offer and the services we perform
+* Government agencies from which public records are obtained
 
 How Do We Use Personal Information
 ----------------------------------
@@ -282,39 +282,6 @@ South Carolina Residents
 ------------------------
 
 Dominion Energy South Carolina residential customers may request a copy of their personal data held by DESC in its “customer information system” and request a correction of any inaccuracies of their information. To submit such request, please complete the following form: [South Carolina Request to Know](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/821ab0d8-bec5-4675-9ea6-acbcfa95ff63).
-
-Utah Residents
---------------
-
-This section provides information specific to Utah Residents.
-
-As of June 1, 2024, Enbridge acquired Dominion Energy Utah, now known as Enbridge Gas Utah.
-
-#### Privacy Requests
-
-If you are a Utah resident, Enbridge Gas Utah's Consumer Rights Requests are available via the links below, and you may request the following:
-
-* Confirmation from Enbridge Gas Utah that we hold personal information about you; to submit such request, please complete the following form: [Utah Request to Confirm](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/a74073fe-aae4-482b-810c-c17f8be196a0).
-* A copy of your personal information you provided to Enbridge Gas Utah; to submit such a request, please complete the following form: [Utah Request to Access](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/cb6c0a0e-e94e-4672-a882-e6115b463468).
-* A deletion of your personal information held by Enbridge Gas Utah; to submit such request, please complete the following form: [Utah Request to Delete](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/8c9610ee-1792-477e-ad2a-1fd8074211f0).
-
-#### Sale of Personal Data
-
-Enbridge does not sell personal data as defined by Utah law.
-
-#### Sensitive Data
-
-As described in this Privacy Notice, Enbridge Gas Utah may process certain personal information that is considered “Sensitive Data” as defined by Utah law. Processing of sensitive data only occurs when you knowingly take affirmative action to provide such information to us for processing.
-
-#### Targeted Advertising
-
-As described under the “Communications Preferences” section of this Privacy Notice, Enbridge Gas Utah may share your personal information with social media sites for the purpose of providing you with customized ads through targeted advertising as defined by Utah law. To opt-out of Targeted Advertising, please complete the following form: [Utah Request to Opt Out of Targeted Advertising](https://privacyportal.onetrust.com/webform/56b6f3b4-38a2-45ec-9e30-c30c358b0a3e/a421f3d8-dd09-407b-a395-d38af66f96ea).
-
-As described under the “Cookies & Online Advertising” section of this Privacy Notice, some of Dominion Energy websites and mobile applications use cookies, web beacons and other similar tracking technologies to enable essential features, or for data analytics and marketing purposes. You may opt-out of these technologies by modifying your cookie preferences in our “Privacy Preference Center” located by clicking the “cookie” shaped icon on our website.
-
-Utah Inquiries: If you are a Utah resident and have questions about the Privacy Notice, you may reach us as follows:
-
-* **Email:** [UtahPrivacy@DominionEnergy.com](mailto:utahprivacy@dominionenergy.com)
 
 Virginia Residents
 ------------------
