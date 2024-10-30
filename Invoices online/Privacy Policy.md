@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=57648911)  
-J.M. HUMAN RESOURCES
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=163771907)  
+Norton Medical & Consult - Namibia
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=90782645)  
-Testpro Laboratory (Pty) Ltd
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=13418438)  
+TechnoDezi PTY(LTD)
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=165980252)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=143648686)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=77825956)  
-Creative Characters
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=133660625)  
+Sarabi
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=116167244)  
-SMART GUY PCS (PTY) LTD
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=72042828)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=178748266)  
-WIP Digital Solutions
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=81592920)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=167509294)  
-Depot Diesel (Pty) Ltd
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=42952753)  
+Cooper Logistics (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=4364991)  
-West Coast Horse Trails
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=53778328)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=212822016)  
-Van Der Merwe Olieverspreiders
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=92491695)  
+Nilbet T/A Waterman
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=13768514)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=122265418)  
+AFS Electrical
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=57571429)  
-Desygn
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=133770873)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=15796975)  
-Camp 4 Africa (Pty) Ltd
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=202166722)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=97713023)  
-Fox Alarms & Security CC
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=134343322)  
+Electro-Heat
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=4183088)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=88075002)  
+MR Compressors& Industrial Supplies
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=82913692)  
-Atalie Scented Candles Pty Ltd
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=e4f26c8762c2c42ca1c4af8792b1d3fc418d0f76ee65d33cd48efb0fbfc6c86d&c=137327016)  
+MONSTER CONNECT (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
