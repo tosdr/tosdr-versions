@@ -25,7 +25,7 @@ Login Register
             
             See if you can donate blood today.
             
-        * [Frequently asked questions](https://www.lifeblood.com.au/faq/eligibility?page_manager_page_variant_weight=-8&overridden_route_name=entity.taxonomy_term.canonical&base_route_name=entity.taxonomy_term.canonical&page_manager_page=taxonomy_term_view&page_manager_page_variant=taxonomy_term_view-block_display-1 "Get quick answers to your most asked questions about eligibility.")
+        * [Frequently asked questions](https://www.lifeblood.com.au/faq/eligibility "Get quick answers to your most asked questions about eligibility.")
             
         * [COVID-19 vaccine](https://www.lifeblood.com.au/blood/eligibility/COVID-19-vaccine "See our most asked questions about the COVID-19 vaccine and donating blood.")
             
