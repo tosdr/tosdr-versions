@@ -80,7 +80,7 @@ Corporate
 
 Article June 1, 2023
 
-share-a11y
+Share
 
 Share
 
