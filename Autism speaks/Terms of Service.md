@@ -289,6 +289,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Vijay Vasudevan standing in front of a poster with his research](/sites/default/files/styles/content_list/public/Vijay-Vasudevan-standing-in-front-of-a-poster-with-his-research_0.jpg.webp?itok=IU3LIS6x)
+
+10.30.24
+
+[### Autism Speaks’ director of data science speaks at APHA conference](https://guide.autismspeaks.org/science-news/autism-speaks-director-data-science-speaks-apha-conference)
+
+Vijay Vasudevan, Autism Speaks’ director of data science and evaluation research, is taking the stage at the annual American Public Health Association
+
 ![WHO Mental Health Forum panel](/sites/default/files/styles/content_list/public/WHO-Mental-Health-Forum-panel.jpg.webp?itok=EDHBNtM_)
 
 10.16.24
@@ -328,14 +336,6 @@ With widespread bipartisan agreement that the programs under the Autism CARES Ac
 [### Scripps covers the impending renewal of the Autism CARES Act](https://guide.autismspeaks.org/news/scripps-covers-impending-renewal-autism-cares-act)
 
 Scripps News interviews Christa Stevens, Director State Government Affairs, Autism Speaks, on how the Autism CARES Act has supported her family in
-
-![Coffee with America logo](/sites/default/files/styles/content_list/public/Coffee%20with%20America%20logo.jpg.webp?itok=ggtEXVba)
-
-9.25.24
-
-[### Coffee With America highlights support for Hispanic autism community](https://guide.autismspeaks.org/news/coffee-america-highlights-support-hispanic-autism-community)
-
-Tony Hernandez talks with Coffee With America to share his journey with autism, diagnosis disparities among diverse groups and resources available to
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
