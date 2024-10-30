@@ -136,13 +136,13 @@ On The Blog
 
 Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
 
-[Government
+[Compliance
 
-How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
+NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
 
-[FedRAMP
+[Data Seeding
 
-How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+What Is the Best Data Loader Option for Salesforce?](https://www.ownbackup.com/blog/what-is-the-best-data-loader-option-for-salesforce)
 
 Company
 
@@ -364,13 +364,13 @@ On The Blog
 
 Ensuring Compliance: Manage ‘Right to Be Forgotten’ Requests Across All Salesforce Data Storage Locations](https://www.ownbackup.com/blog/ensuring-compliance-manage-right-to-be-forgotten-requests-across-all-salesforce-data-storage-locations)
 
-[Government
+[Compliance
 
-How States Can Secure Critical Data with FedRAMP Authorized SaaS Solutions](https://www.ownbackup.com/blog/how-states-can-secure-critical-data-with-fedramp-authorized-saas-solutions)
+NYDFS Emphasizes Data Protection and Business Continuity in Updated 23 NYCRR 500 Cybersecurity Regulation](https://www.ownbackup.com/blog/23-nycrr-500-regulation)
 
-[FedRAMP
+[Data Seeding
 
-How Own FedRAMP Authorized Solutions Help Defense Contractors Protect Sensitive Information in Salesforce](https://www.ownbackup.com/blog/how-own-fedramp-authorized-solutions-help-defense-contractors-protect-sensitive-information-in-salesforce)
+What Is the Best Data Loader Option for Salesforce?](https://www.ownbackup.com/blog/what-is-the-best-data-loader-option-for-salesforce)
 
 Company
 
