@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/colonoscopy-more-reliable-than-new-blood-tests-1440x810.jpg)
+
+New Colorectal Cancer Blood Tests Not as Effective as Colonoscopy](https://www.everydayhealth.com/medical-procedures/new-colorectal-cancer-blood-tests-not-as-effective-as-colonoscopy/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/ozempic-lowers-alzheimers-risk-for-t2d-1440x810.jpg)
 
 Ozempic, Wegovy Tied to Lower Alzheimer’s Risk With Type 2 Diabetes](https://www.everydayhealth.com/neurological-disorders/ozempic-wegovy-tied-to-lower-alzheimers-risk-with-type-2-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/cancer-and-bankruptcy-1440x810.jpg)
-
-Cancer Can Deal a Devastating Financial Blow](https://www.everydayhealth.com/cancer/cancer-can-deal-a-devastating-financial-blow/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
