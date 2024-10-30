@@ -42,6 +42,15 @@ Sections
 
 [Subscribe](https://arstechnica.com/store/product/subscriptions/)
 
+Story text
+
+Size Small Standard Large Width \* Standard Wide Links Standard Orange
+
+\* Subscribers only  
+  [Learn more](https://arstechnica.com/subscribe)
+
+Pin to story
+
 Theme
 
 * Light
@@ -55,9 +64,39 @@ Orbiting HQ
 Affiliate Link Policy
 =====================
 
+Some articles on Ars Technica contain links to products available from online retailers. These links may contain codes that signal to the retailer that Ars Technica has referred you. Should you choose to purchase the product, Ars Technica may receive a commission on the sale. This is called an affiliate program. We apply the same
+
+Text settings
+
+Story text
+
+Size Small Standard Large Width \* Standard Wide Links Standard Orange
+
+\* Subscribers only  
+  [Learn more](https://arstechnica.com/subscribe)
+
+Minimize to nav
+
 Some articles on Ars Technica contain links to products available from online retailers. These links may contain codes that signal to the retailer that Ars Technica has referred you. Should you choose to purchase the product, Ars Technica may receive a commission on the sale. This is called an affiliate program.
 
 We apply the same rigor and standards of objectivity to these articles as we do to the rest of Ars Technica’s journalism. Ars Technica writers and editors are instructed not to select stories or alter coverage because of this program, and they are not incentivized to do so. In most cases, posts with affiliate links will also include an individual disclaimer located near the link or "buy" button for that product.
+
+Most Read
+
+1. ![Listing image for first story in Most Read: For some reason, NASA is treating Orion’s heat shield problems as a secret](https://cdn.arstechnica.net/wp-content/uploads/2024/10/52536208534_046765c5b6_k-768x432.jpg)
+    
+    1. [For some reason, NASA is treating Orion’s heat shield problems as a secret](https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/?itm_source=parsely-api)
+    
+2. 2. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
+    
+3. 3. [Lidar mapping reveals mountainous medieval cities along the Silk Road](https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/?itm_source=parsely-api)
+    
+4. 4. [NASA’s oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/?itm_source=parsely-api)
+    
+5. 5. [SpaceX has caught a massive rocket. So what’s next?](https://arstechnica.com/space/2024/10/spacex-has-caught-a-massive-rocket-so-whats-next/?itm_source=parsely-api)
+    
+
+Customize
 
 Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information. After all, you don’t need to know everything, only what’s important.
 
