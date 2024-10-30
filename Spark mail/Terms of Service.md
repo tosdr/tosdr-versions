@@ -43,7 +43,7 @@ Legal
 Terms of Service - Spark
 ========================
 
-**Last updated**: April 29, 2024
+**Last updated**: October 30, 2024
 
 Please read these Terms of Service ("**Terms**") carefully before using our [website](https://sparkmailapp.com/), downloading, and installing Spark Desktop or mobile applications ("**App**" or "**Spark**"). 
 
@@ -154,7 +154,9 @@ The subscription bought is shared across your own apps and services that you use
 
 **PLEASE NOTE**, if your local currency is different from the currency in which the prices are quoted, your bank will apply the exchange rate applicable per the date of purchase, which is beyond our control. Also, your bank may apply an exchange commission or fee.
 
-**PLEASE ALSO NOTE** that the subscription fee (both for Individuals and Teams) is inclusive of applicable value added tax ("VAT") and/or other taxes which are imposed under the relevant tax laws. The VAT and/or other tax charge will depend on your location. When you get to the final stage of the checkout, we will show the tax component of the subscription fee for your information.
+**PLEASE ALSO NOTE** that the fee for a Premium Individual subscription includes applicable value-added tax ("VAT") and/or other taxes imposed under the relevant tax laws based on your location.
+
+For Teams subscriptions, prices are listed exclusive of VAT or any other taxes. Any applicable VAT and/ or other taxes will be displayed at checkout depending on your business's location, and you will be responsible for paying all applicable indirect taxes as required by law.
 
 ### Trial periods and Discounts
 
@@ -220,17 +222,7 @@ For any purchases made through third-party app markets (Apple’s App Store, Goo
 Content and Use License
 -----------------------
 
-The App is owned and controlled by Spark Mail. Spark Mail provides the App users with the ability to exchange images, text, links, files and other digital items ("Content") with their email counterparts.
-
-All Content people send and share via Spark, including Content created using the Spark +AI feature, is the sole responsibility of the person from whom said Content originated.
-
-Spark Mail does not control the Content sent via Spark, nor does it guarantee the accuracy, integrity or quality of said Content and accepts no liability for it. 
-
-Although Spark Mail has no obligation to monitor the content provided by the User or Subscriber or Subscriber's use of the App, we may do so. We may remove any such Content or prohibit any use of the App we believe may be (or are alleged to be) in violation of the copyright, our policies, policies of our external providers, or other applicable laws at the request of the court, public authorities or persons (individuals and legal entities) authorized to request such deletion.
-
-### License
-
-All materials of the App, including text, graphics, information, images, drawings, trademarks, trade dresses, logos, video, sounds, music, software and other materials (including pending and unregistered ones) (collectively, the "Content"), as well as copyright and other intellectual property rights to such Content belong to Spark Mail or its affiliates or is included in the App with the consent of the owner.
+The App is owned and managed by Spark Mail or our affiliates. All materials of the App, including text, graphics, information, images, drawings, trademarks, trade dresses, logos, video, sounds, music, software and other materials (including pending and unregistered ones) (collectively, the "Content"), as well as copyright and other intellectual property rights to such Content belong to Spark Mail or its affiliates or is included in the App with the consent of the owner.  
 
 Subject to your compliance with these Terms and having regard to the terms of the software license laid down above, Spark Mail grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable, worldwide license to:
 
@@ -241,13 +233,7 @@ Spark Mail may provide upgrades, modifications, updates, or additions to the App
 
 It is understood and agreed upon that Spark Mail or its affiliates are the owners of all rights, titles, and interest in and to the original, and any copies of the App software and related information, improvements, enhancements or derivatives thereto and ownership of all intellectual property rights pertaining thereto, in whole or in part, shall be, vest with, and remain the exclusive property of Spark Mail or its affiliates. You, as the licensee, through your downloading, installing, or use of the App do not acquire any ownership rights to the software and its updated versions.
 
-### Third-Party Content and Licenses
-
-All Content a person sends and shares via Spark is the sole responsibility of the person from whom said Content originated.
-
-Spark Mail does not control the Content sent via Spark, nor does it guarantee the accuracy, integrity or quality of said Content and accepts no liability for it. 
-
-Under this license you may not:
+### Under this license you may not:  
 
 (i) sell, lease, rent, license, sublicense or otherwise distribute the App software; 
 
@@ -267,9 +253,19 @@ Any attempt to do so is considered a violation of these Terms and the rights of 
 
 Your license to use the App is automatically revoked if you violate these Terms. We hereby reserve all rights not expressly granted in these Terms.
 
-### Your Feedback 
+### User Content
 
-We welcome feedback, reviews, and comments about your experience with our App (collectively "**Feedback**"). By submitting your Feedback to us directly or via any platform, including, but not limited to, online distribution platforms, ​​marketplaces, and social media, you:
+Spark Mail allows users to exchange images, text, links, files and other digital items (“User Content”) with their email counterparts.
+
+All User Content people send and share via Spark, including User Content created using the Spark +AI feature, is the sole responsibility of the person from whom said User Content originated.
+
+Spark Mail does not control the User Content sent via Spark, nor does it guarantee the accuracy, integrity or quality of said User Content and accepts no liability for it. 
+
+Although Spark Mail has no obligation to monitor the User Content, we may do so. We may remove any such User Content or prohibit any use of the App we believe may be (or are alleged to be) in violation of the copyright, our policies, policies of our external providers, or other applicable laws at the request of the court, public authorities or persons (individuals and legal entities) authorized to request such deletion.
+
+### Your Feedback
+
+We welcome feedback, reviews, and comments about your experience with our App (collectively "**Feedback**"). By submitting your Feedback to us directly or via any platform, including, but not limited to, online distribution platforms, marketplaces, and social media, you:
 
 1. grant us and our affiliates a worldwide, nonexclusive, royalty-free, perpetual, revocable, transferable, assignable and sub-licensable (through multiple tiers) license and right to copy, reproduce, use, modify, adapt, distribute, publish, translate, create derivative works from, distribute, and publicly display, including on-line, such Feedback on our Website, in-app screens, social media accounts, our marketing communications distributed via email or otherwise, and in any other media, including for marketing and advertising purposes, and otherwise exploit such Feedback regardless of when and in what manner it was provided by you. You grant us and our affiliates the right to use and refer to the name or username that you submit in connection with such Feedback. For this reason, we ask that you not submit any Feedback or delete any existing one that you do not wish to license to us as set forth above;
 2. agree and acknowledge that you are solely responsible for the information in your Feedback;
