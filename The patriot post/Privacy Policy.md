@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander An Open Letter to the Harris/Walz Supporters You Know](https://patriotpost.us/alexander/111522-an-open-letter-to-the-harris-slash-walz-supporters-you-know-2024-10-30)
 *      [Rich Lowry The Harris Campaign Is Testament to the Toxicity of Woke Politics](https://patriotpost.us/opinion/111503-the-harris-campaign-is-testament-to-the-toxicity-of-woke-politics-2024-10-30)
 *      [Star Parker What’s Wrong in Our Nation?](https://patriotpost.us/opinion/111501-whats-wrong-in-our-nation-2024-10-30)
 *      [Tim Graham The Hilarious Kerfuffle Over the Washington Post Non-Endorsement](https://patriotpost.us/opinion/111498-the-hilarious-kerfuffle-over-the-washington-post-non-endorsement-2024-10-30) 
@@ -149,7 +150,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
