@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander An Open Letter to the Harris/Walz Supporters You Know](https://patriotpost.us/alexander/111522-an-open-letter-to-the-harris-slash-walz-supporters-you-know-2024-10-30)
 *      [Rich Lowry The Harris Campaign Is Testament to the Toxicity of Woke Politics](https://patriotpost.us/opinion/111503-the-harris-campaign-is-testament-to-the-toxicity-of-woke-politics-2024-10-30)
 *      [Star Parker What’s Wrong in Our Nation?](https://patriotpost.us/opinion/111501-whats-wrong-in-our-nation-2024-10-30)
 *      [Tim Graham The Hilarious Kerfuffle Over the Washington Post Non-Endorsement](https://patriotpost.us/opinion/111498-the-hilarious-kerfuffle-over-the-washington-post-non-endorsement-2024-10-30) 
@@ -230,11 +231,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
