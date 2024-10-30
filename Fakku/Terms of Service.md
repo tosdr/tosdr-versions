@@ -285,6 +285,8 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 In accordance with the DMCA and other applicable laws, we have adopted a policy to terminate the Account of users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
+ 
+
 [](https://x.com/fakku "FAKKU X (formerly known as Twitter)")[](https://discord.gg/SCjbSWkMHB "FAKKU Discord")
 
 © FAKKU, LLC 2024 All rights reserved.
