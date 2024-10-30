@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the symptoms of stage 4 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-symptoms-of-stage-4-lung-cancer.jpg "What Are the Symptoms of Stage 4 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/ "What Are the Symptoms of Stage 4 Lung Cancer?")
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
 
-[#### What Are the Symptoms of Stage 4 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/)
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
-[![Can you sue for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomacan-you-sue-for-mesothelioma-scaled.jpg "Can You Sue for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/ "Can You Sue for Mesothelioma?")
+[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
 
-[#### Can You Sue for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-sue-for-mesothelioma/)
+[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
 
-[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
+[![Is asbestos harmful to skin?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-is-asbestos-harmful-to-skin.jpg "Is Asbestos Harmful to Skin?")](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/ "Is Asbestos Harmful to Skin?")
 
-[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
+[#### Is Asbestos Harmful to Skin?](https://www.pintas.com/practice-areas/lung-cancer/is-asbestos-harmful-to-skin/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
