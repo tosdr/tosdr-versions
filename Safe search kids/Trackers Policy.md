@@ -635,11 +635,11 @@ Share This Article
 
  
 
-[![Classroom Halloween Party Ideas](https://www.safesearchkids.com/wp-content/uploads/2022/09/kids-having-fun-at-halloween-party.jpg)](https://www.safesearchkids.com/ideas-for-your-classrooms-halloween-party/)
+[![History Costume Ideas](https://www.safesearchkids.com/wp-content/uploads/2023/10/Halloween-Trick-or-Treating-Costumes.jpg)](https://www.safesearchkids.com/cute-and-fun-halloween-costume-ideas-for-kids/)
 
 ### 
 
-[School Halloween Party Ideas](https://www.safesearchkids.com/ideas-for-your-classrooms-halloween-party/)
+[9 Halloween Costume Ideas](https://www.safesearchkids.com/cute-and-fun-halloween-costume-ideas-for-kids/)
 
 ### Article Categories
 
@@ -665,9 +665,6 @@ Share This Article
 ### 
 
 [Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
-
-**Safe Search Kids has partnered with Grafari and Calcularis** to provide personalized learning apps for every child's success. [**Grafari**](https://constructor.tech/lp/grafari-us?utm_source=awin&utm_medium=paid&utm_campaign=grafari-o) empowers children to master reading and spelling. [**Calcularis**](https://constructor.tech/lp/calcularis-trial?utm_source=awin&utm_medium=paid&utm_campaign=calcularis) ignites an excitement for learning fundamental math skills.  
-  
 
 ### Parenting and Well-Being
 
