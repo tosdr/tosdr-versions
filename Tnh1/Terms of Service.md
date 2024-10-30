@@ -132,39 +132,39 @@ Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa
 
 Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa](https://www.tnh1.com.br/noticia/nid/idosa-de-107-anos-desperta-atencao-por-chifre-crescendo-na-testa/ "Idosa de 107 anos desperta atenção por 'chifre' crescendo na testa")
 
-[![Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_Bitcoin_-_Foto_Pixabay_c85c5670a2.jpg)
+[![Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/7/csm_03-10-22-Onibus-Geladao-SMTT-7_aeec17ad73.jpg)
 
-moeda virtual
+Trânsito
 
-moeda virtual
+Trânsito
 
-Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA
+Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários
 
-Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA](https://www.tnh1.com.br/noticia/nid/bitcoin-atinge-maxima-historica-em-real-com-apostas-sobre-vitoria-de-trump-em-eleicao-dos-eua/ "Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA")[![Conheça as substâncias químicas que estão desregulando seus hormônios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_mulher-bebendo-agua-reproducao-freepik_f72b28bafd.png)
+Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários](https://www.tnh1.com.br/noticia/nid/linhas-de-onibus-serao-reforcadas-nos-dias-de-enem-confira-itinerarios/ "Linhas de ônibus serão reforçadas nos dias de Enem; confira itinerários")[![Mulher pelada invade Palácio do Planalto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/0/csm_mulher_pelada_palacio_planalto_Lauro_Jardim_5954d8856b.png)
 
-saúde hormonal
+Brasil
 
-saúde hormonal
+Brasil
 
-Conheça as substâncias químicas que estão desregulando seus hormônios
+Mulher pelada invade Palácio do Planalto
 
-Conheça as substâncias químicas que estão desregulando seus hormônios](https://www.tnh1.com.br/noticia/nid/conheca-as-substancias-quimicas-que-estao-desregulando-seus-hormonios/ "Conheça as substâncias químicas que estão desregulando seus hormônios")[![Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_oasis-turne-reproducao-X_050c554068.jpg)
+Mulher pelada invade Palácio do Planalto](https://www.tnh1.com.br/noticia/nid/mulher-pelada-invade-palacio-do-planalto/ "Mulher pelada invade Palácio do Planalto")[![Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_foragido-matar-cigarro-Junqueiro_e468fee62a.jpg)
 
-PREÇOS INFLACIONADOS
+No interior
 
-PREÇOS INFLACIONADOS
+No interior
 
-Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros
+Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele
 
-Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros](https://www.tnh1.com.br/noticia/nid/bilheteria-cancela-50-mil-ingressos-da-turne-do-oasis-apos-revenda-por-terceiros/ "Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros")[![Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_comediante-campanha-trump-reproducao-youtube_a6b8d8b4bc.jpg)
+Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-por-matar-homem-a-pedradas-e-apagar-cigarro-de-maconha-no-sangue-dele/ "Foragido é preso por matar homem a pedradas e apagar cigarro de maconha no sangue dele")[![Corvos podem guardar rancor de humanos por até 17 anos, diz estudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_corvo_foto_pixabay_a78158af02.jpg)
 
-ELEIÇÕES NOS EUA
+ENTENDA
 
-ELEIÇÕES NOS EUA
+ENTENDA
 
-Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump
+Corvos podem guardar rancor de humanos por até 17 anos, diz estudo
 
-Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump](https://www.tnh1.com.br/noticia/nid/quem-e-o-comediante-responsavel-pela-piada-que-abalou-a-campanha-de-trump/ "Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump")
+Corvos podem guardar rancor de humanos por até 17 anos, diz estudo](https://www.tnh1.com.br/noticia/nid/corvos-podem-guardar-rancor-de-humanos-por-ate-17-anos-diz-estudo/ "Corvos podem guardar rancor de humanos por até 17 anos, diz estudo")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
