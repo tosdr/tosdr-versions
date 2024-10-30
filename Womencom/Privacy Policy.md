@@ -66,17 +66,17 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
         
-    *  [![](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    *  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
         
-        [Politics](https://www.women.com/category/politics/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
         
-        Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+        Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
         
-        By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
         
 
 More Stories
@@ -93,18 +93,6 @@ More Stories
     Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
     
     By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
-    
-*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    
-    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
 *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
     
@@ -405,6 +393,18 @@ More Stories
     When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
     
     By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
+    
+*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+    
+    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
     
 
 Back
