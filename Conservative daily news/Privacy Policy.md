@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Taurus Releases The 608 Competition 8-Shot 357 Magnum Revolver](https://www.thegunpage.com/taurus-releases-the-608-competition-8-shot-357-magnum-revolver/10611534)
+* [Mass. Governor on a Power Trip; Landmark Carry Case Liberated Some States While Others Posed to Destroy the Status Quo](https://www.thegunpage.com/mass-governor-on-a-power-trip-landmark-carry-case-liberated-some-states-while-others-posed-to-destroy-the-status-quo/10611531)
+* [TFB Review: Meprolight MEPRO FT Bullseye Front & Rear Sights](https://www.thegunpage.com/tfb-review-meprolight-mepro-ft-bullseye-front-rear-sights/10611532)
 * [Savage 110 Pro Pursuit: Going Upscale, Again](https://www.thegunpage.com/savage-110-pro-pursuit-going-upscale-again/10611528)
+* [18 Schools, 214 Student-Athletes To Compete At 2024 USA College Clay Target League National Championship](https://www.thegunpage.com/18-schools-214-student-athletes-to-compete-at-2024-usa-college-clay-target-league-national-championship/10611539)
 * [From Bad to Worse: Dem Candidate’s Photo Op Range Day Yields More Troubling Concerns](https://www.thegunpage.com/from-bad-to-worse-dem-candidates-photo-op-range-day-yields-more-troubling-concerns/10611526)
 * [State Rep. Quang Nguyen Scrutinizes Sedona Gun Ordinance](https://www.thegunpage.com/state-rep-quang-nguyen-scrutinizes-sedona-gun-ordinance/10611524)
 * [TFB Review: Meprolight MPO-F Open Emitter Pistol Sight](https://www.thegunpage.com/tfb-review-meprolight-mpo-f-open-emitter-pistol-sight/10611529)
+* [Collegiate Rifle: No. 10 Akron Carves Out Win Over No. 19 North Georgia](https://www.thegunpage.com/collegiate-rifle-no-10-akron-carves-out-win-over-no-19-north-georgia/10611530)
 * [Gun Beats Vehicle as Armed Citizen Stops Attacker from Running People Over](https://www.thegunpage.com/gun-beats-vehicle-as-armed-citizen-stops-attacker-from-running-people-over/10611519)
-* [Review: Heckler & Koch VP9 Match](https://www.thegunpage.com/review-heckler-koch-vp9-match/10611518)
-* [What Are The Top 5 Concealed Carry Handguns?](https://www.thegunpage.com/what-are-the-top-5-concealed-carry-handguns/10611514)
-* [POTD: Tequila Sunrise 300 BLK Precision Rifle](https://www.thegunpage.com/potd-tequila-sunrise-300-blk-precision-rifle/10611515)
-* [The Rimfire Report: Ruger American Rimfire Long-Range Target](https://www.thegunpage.com/the-rimfire-report-ruger-american-rimfire-long-range-target/10611516)
-* [FN Unveils The FN SCAR 15P 300 Blackout](https://www.thegunpage.com/fn-unveils-the-fn-scar-15p-300-blackout/10611507)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
 * Deb on [CEOs Need To Stand Up For Capitalism And Common Sense](https://www.conservativedailynews.com/2024/10/ceos-need-to-stand-up-for-capitalism-and-common-sense/#comment-782921)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
 * Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
 * charles wilkins on [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/#comment-782900)
-* charles wilkins on [Kamalanomics](https://www.conservativedailynews.com/2024/10/kamalanomics/#comment-782887)
 
 [Close](#)
 
