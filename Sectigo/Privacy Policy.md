@@ -96,11 +96,11 @@ CA agnostic certificate lifecycle management platform for the modern enterprise.
 
 [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [45-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
 
-Entrust customer?
+Prepare for 45-day TLS certificates!
 
-We make CA migration and certificate replacement easy!
+Download our free 45-day survival guide to learn how automation can help you stay ahead.
 
-[Learn More](https://www.sectigo.com/entrust-certificates-distrust)
+[Download](https://www.sectigo.com/resource-library/ebook-the-45-day-survival-guide)
 
 [Partners](https://www.sectigo.com/partners/channel)
 
