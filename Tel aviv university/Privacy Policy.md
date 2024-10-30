@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=379993301072762&ev=PageView&noscript=1)
-
 * [Top menu](#header)
 * [Main menu](#block-system-main-menu)
 * [Main Content](#main-wrapper)
+
+![](https://www.facebook.com/tr?id=379993301072762&ev=PageView&noscript=1)
 
 [![Tel Aviv University Logo](/sites/default/files/TAU_Logo_HomePage_Eng.png)](https://english.tau.ac.il/ "Go to homepage")
 
