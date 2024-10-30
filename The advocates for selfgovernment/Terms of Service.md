@@ -365,6 +365,20 @@ Enable Dark Mode
     
     *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
         
+        ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
+        
+        ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg)
+        
+        Underthrow Series
+        
+        The Great Fiscal Conundrum
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
+        
+    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
+        
         ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
         
         ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
@@ -486,20 +500,6 @@ Enable Dark Mode
         by **Max Borders**
         
         Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
-        
-    *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-        
-        ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png)
-        
-        Underthrow Series
-        
-        When Governments Compete, You Win
-        
-        by **Max Borders**
-        
-        Read more](https://www.theadvocates.org/when-governments-compete-you-win/)
         
     
     [](#)[](#)
@@ -739,6 +739,20 @@ Articles
 
 *   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
     
+    ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
+    
+    ![](/wp-content/themes/yootheme/cache/f4/Stress-1-f4553d5d.jpeg)
+    
+    Underthrow Series
+    
+    The Great Fiscal Conundrum
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
+    
+*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
+    
     ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
     
     ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
@@ -860,20 +874,6 @@ Articles
     by **Max Borders**
     
     Read more](https://www.theadvocates.org/whats-so-great-about-polycentricity/)
-    
-*   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png) ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20324%20432'%3E%3C/svg%3E)
-    
-    ![](/wp-content/themes/yootheme/cache/79/Screenshot-2024-08-19-at-3.04.25%E2%80%AFPM-79764e35.png)
-    
-    Underthrow Series
-    
-    When Governments Compete, You Win
-    
-    by **Max Borders**
-    
-    Read more](https://www.theadvocates.org/when-governments-compete-you-win/)
     
 
 ### Terms & Conditions
