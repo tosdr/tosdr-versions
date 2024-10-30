@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ab2693a9f439757bcf7069b408c57460
+4784279e33c9510198512376719d477e
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![5 mm by 15 mm top-drilled Czech glass daggers](https://www.sojourner.biz/images/cache/glass/GL0224strand.200.jpg)](https://www.sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+[![12 mm faceted round poppy jasper beads](https://www.sojourner.biz/images/cache/stone/PJ0002.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/poppy-jasper/12-mm-faceted-round-poppy-jasper-beads.html "12 mm faceted round poppy jasper beads")
 
-#### [5 mm by 15 mm top-drilled Czech glass daggers](https://www.sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+#### [12 mm faceted round poppy jasper beads](https://www.sojourner.biz/beads/stone-m-z/poppy-jasper/12-mm-faceted-round-poppy-jasper-beads.html "12 mm faceted round poppy jasper beads")
 
-$10.00
+$24.00
 
 ### Best Sellers
 
