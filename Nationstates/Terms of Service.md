@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What type of Left-Wing is AN? (22)](https://forum.nationstates.net/viewtopic.php?t=557516&f=25&view=unread#unread ""What type of Left-Wing is AN?" (22 posts)")
-* [2023-24 Israel-Iran proxy conflict (541)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (541 posts)")
-* [Canadian Politics (6,743)](https://forum.nationstates.net/viewtopic.php?t=467837&f=20&view=unread#unread ""Canadian Politics" (6,743 posts)")
-* [1914: Mud and Steel \[AltHis|IC|Open\] (18)](https://forum.nationstates.net/viewtopic.php?t=557386&f=31&view=unread#unread ""1914: Mud and Steel [AltHis|IC|Open]" (18 posts)")
-* [YL is suddenly engaged to marry AL -… (84)](https://forum.nationstates.net/viewtopic.php?t=555010&f=25&view=unread#unread ""YL is suddenly engaged to marry AL - reaction, YL?" (84 posts)")
+* [Out of the 2 AN’s: Which one has the… (3,875)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (3,875 posts)")
+* [1961: The Coldest War | OOC | Open (138)](https://forum.nationstates.net/viewtopic.php?t=556925&f=31&view=unread#unread ""1961: The Coldest War | OOC | Open" (138 posts)")
+* [Geography Game II (10,829)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,829 posts)")
+* [The Anti-Taylor Swift thread (205)](https://forum.nationstates.net/viewtopic.php?t=557311&f=20&view=unread#unread ""The Anti-Taylor Swift thread" (205 posts)")
+* [Site in general acting weirdly lately (4)](https://forum.nationstates.net/viewtopic.php?t=557509&f=15&view=unread#unread ""Site in general acting weirdly lately" (4 posts)")
 
 Advertisement
 
