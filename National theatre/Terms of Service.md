@@ -519,7 +519,7 @@ Footer
 * [Latest news](https://www.nationaltheatre.org.uk/news/)
 * [What we do](https://www.nationaltheatre.org.uk/about-us/)
 * [Our history](https://www.nationaltheatre.org.uk/about-us/our-history/)
-* [Communications](https://www.nationaltheatre.org.uk/communications/)
+* [Press](https://www.nationaltheatre.org.uk/communications/)
 * [Modern Slavery Statement](https://www.nationaltheatre.org.uk/modern-slavery-statement/)
 
 * [What’s on](https://www.nationaltheatre.org.uk/whats-on/)
