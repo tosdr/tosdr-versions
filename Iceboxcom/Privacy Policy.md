@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)   
 
-Only Selling Natural Diamonds
+YOUR NATURAL DIAMOND JEWELER
 
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
@@ -139,35 +139,34 @@ Explains what information we collect and why, how we use it, and how to review a
 * You may write to us at support@icebox.com for any privacy concerns and requests relating to this Terms of Use and Privacy Policy.  
     
 
-![Icebox Logo](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)
+##### Contact UsWe work from 11AM to 6PM Monday - Friday.  
+Closed weekends.
 
-3255 Peachtree Rd NE,  
+[+1 (404) 842-0266](tel:404-842-0266) [![](/themes/default/frontend/oct-2023/assets/wa_white-pic.svg) Chat on WhatsApp](https://www.icebox.com/chat-whatsapp) [sales@icebox.com](mailto:sales@icebox.com)
+
+![Icebox Atlanta store](/themes/default/frontend/oct-2023/assets/store-picture.webp)
+
+##### 3255 Peachtree Road, NE  
 Suite #2  
-Atlanta, GA 30305, USA
-
-![](/themes/default/frontend/oct-2023/assets/store-picture.webp)
-
-##### Shop By Products
-
-[Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Bustdowns](https://www.icebox.com/results/watches) [Custom](https://www.icebox.com/results/custom) [Watches](https://www.icebox.com/results/watch-market) [Travel Cases](https://www.icebox.com/results/travel-cases)
+Atlanta, GA, 30305, USA
 
 ##### More Pages
 
 [Contact Us](https://www.icebox.com/contact) [Return & Exchange Policy](https://www.icebox.com/terms-and-conditions#term_20) [Frequently Asked Questions](https://www.icebox.com/faq/all) [Careers](https://www.icebox.com/careers) [Catalog](https://www.icebox.com/catalog) [Financing](https://www.icebox.com/financing) [Locations](https://www.icebox.com/locations) [About Us](https://www.icebox.com/about-us) [My Account](javascript:void(0);)
 
-##### Call Now
+##### Shop By Category
 
-[VIA PHONE 404-842-0266](tel:404-842-0266) [VIA EMAIL sales@icebox.com](mailto:sales@icebox.com)
+[Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Bustdowns](https://www.icebox.com/results/watches) [Custom](https://www.icebox.com/results/custom) [Watches](https://www.icebox.com/results/watch-market) [Travel Cases](https://www.icebox.com/results/travel-cases)
 
-##### Follow Us
+##### Need Financing?Low rate quotes with no hard credit pull.
 
-[![instagram icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_instagram.svg)](https://www.instagram.com/icebox/) [![facebook icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_facebook.svg)](https://www.facebook.com/Icebox) [![youtube icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_youtube.svg)](https://www.youtube.com/channel/UCv8gFyATae1x0VmDHmNbIhg?sub_confirmation=1) [![x icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_x.svg)](https://www.twitter.com/icebox) [![tiktok icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_tiktok.svg)](https://www.tiktok.com/@icebox) [![whatsapp icon](/themes/default/frontend/oct-2023/assets/icons/social-dark_whatsapp.svg)](https://www.icebox.com/chat-whatsapp)
+[Apply For Financing](https://www.icebox.com/financing)
 
-Currency:
+Icebox.com 2024©. All Rights Reserved.
 
-![](/themes/default/frontend/oct-2023/assets/flags/usd.svg) $ USD
+ [![](/themes/default/frontend/oct-2023/assets/social-box_instagram.svg)](https://www.instagram.com/icebox/)[![](/themes/default/frontend/oct-2023/assets/social-box_youtube.svg)](https://www.youtube.com/channel/UCv8gFyATae1x0VmDHmNbIhg?sub_confirmation=1)[![](/themes/default/frontend/oct-2023/assets/social-box_twitter.svg)](https://www.twitter.com/icebox)[![](/themes/default/frontend/oct-2023/assets/social-box_facebook.svg)](https://www.facebook.com/Icebox)[![](/themes/default/frontend/oct-2023/assets/social-box_tiktok.svg)](https://www.tiktok.com/@icebox)
 
-Icebox.com, 2024 ©. All Rights Reserved.
+![Visa logo](/themes/default/frontend/oct-2023/assets/checkout/pay-icon_visa.svg) ![Mastercard logo](/themes/default/frontend/oct-2023/assets/checkout/pay-icon_mastercard.svg) ![Paypal logo](/themes/default/frontend/oct-2023/assets/checkout/pay-icon_paypal.svg) ![Bitcoin logo](/themes/default/frontend/oct-2023/assets/checkout/pay-icon_btc.svg) ![Amex logo](/themes/default/frontend/oct-2023/assets/checkout/pay-icon_amex.svg)
 
 Explore Icebox
 
