@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+*  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    ====================================================================================================================================
+    [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
+    ==================================================================================================================================
     
-    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
+    There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
     
-    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
-* *  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-        
-        ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-        
-        Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-        
-    *  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+* *  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
         [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        ### [Brittany Mahomes Makeup Mistakes That Totally Ruined Her Look](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
         
-        Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+        Brittany Mahomes is a makeup girl. But unfortunately, there were a few times when experimenting with makeup totally ruined her look.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+        By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
+        
+    *  [![](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        
+        ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
+        
+        Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
         
 
 More Stories
@@ -93,6 +93,42 @@ More Stories
     Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
     
     By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
+    
+*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    
+    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
+    
+*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
+    
+*  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
+    
+    Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
     
 *  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
@@ -369,42 +405,6 @@ More Stories
     When it comes to Ariana Grande's "Wicked" fashion, it's all about pink-u-lar. Here are the best Good Witch outfits we've seen on the star in 2024.
     
     By Emily Hutchinson [Read More](https://www.women.com/1688575/glinda-coded-outfits-ariana-grande-wicked/)
-    
-*  [![Julia Roberts speaking](https://www.women.com/img/gallery/5-celebrities-who-have-advocated-for-reproductive-rights-ahead-of-the-2024-election/intro-1729007494.jpg)](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Celebrities Who Have Advocated For Reproductive Rights Ahead Of The 2024 Election](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    
-    Although many things are at stake with this upcoming presidential election, reproductive rights is one of the most important.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1688658/celebrities-advocated-for-reproductive-rights-ahead-2024-election/)
-    
-*  [![Hands in shadows](https://www.women.com/img/gallery/quirofilia-the-sexual-fetish-explained/intro-1728933241.jpg)](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Quirofilia: The Sexual Fetish, Explained](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-    
-    Sexuality, sexual desire, and sex acts themselves are gorgeously complicated, such that there's genuinely something for everyone. Enter: Quirofilia.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1687960/quirofilia-sexual-fetish-explained/)
-    
-*  [![Lady Gaga in red](https://www.women.com/img/gallery/lady-gagas-most-harley-quinn-esque-looks-of-all-time/intro-1728929082.jpg)](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Lady Gaga's Most Harley Quinn-Esque Looks Of All Time](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
-    
-    It doesn't surprise us at all that the "Poker Face" hitmaker has mastered the art of harlequin dressing. Here are 5 looks that were straight-up vicious serves.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1687863/lady-gaga-harley-quinn-looks/)
     
 
 Back
