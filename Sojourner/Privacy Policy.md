@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-506ca9c18281c8c4a68c66dc1644a72f
+ab2693a9f439757bcf7069b408c57460
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![24 mm by 14 mm carved shiny jade barrel beads](https://www.sojourner.biz/images/cache/stone/STN004.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/24-mm-by-14-mm-carved-shiny-jade-barrel-beads.html "24 mm by 14 mm carved shiny jade barrel beads")
+[![5 mm by 15 mm top-drilled Czech glass daggers](https://www.sojourner.biz/images/cache/glass/GL0224strand.200.jpg)](https://www.sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
 
-#### [24 mm by 14 mm carved shiny jade barrel beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/24-mm-by-14-mm-carved-shiny-jade-barrel-beads.html "24 mm by 14 mm carved shiny jade barrel beads")
+#### [5 mm by 15 mm top-drilled Czech glass daggers](https://www.sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
 
-$35.00
+$10.00
 
 ### Best Sellers
 
