@@ -174,7 +174,7 @@ You acknowledge that Your representations, undertaking and warranties and the cl
 
 15\. Grievance Officer
 
-If You have any content complaints regarding any content available on the MX Player ([content complaints](https://www.mxplayer.in/static/content-complaints)) or complaints regarding use of the personal information under [User Agreement](https://www.mxplayer.in/terms-of-use) and or [Privacy Policy](https://www.mxplayer.in/privacy-policy), you can register the complaint by writing to our Grievance Officer at [grievanceofficer@mxplayer.in](mailto:grievanceofficer@mxplayer.in).
+If You have any content complaints regarding any content available on the MX Player ([content complaints](https://www.mxplayer.in/static/content-complaints)) or complaints regarding use of the personal information under [User Agreement](https://www.mxplayer.in/terms-of-use) and or [Privacy Policy](https://www.mxplayer.in/privacy-policy), you can register the complaint by writing to our Grievance Officer at [grievanceofficer-amazon-MX-Player@amazon.com](mailto:grievanceofficer-amazon-MX-Player@amazon.com).
 
 16\. Support
 
