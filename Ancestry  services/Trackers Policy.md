@@ -87,7 +87,7 @@ Loading
 
 [](https://www.ancestry.com/)
 
-[English](https://www.ancestry.com/content/ancestry/acom/language-masters/en.html) [Legal](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal.html) [aboutcookies](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/aboutcookies.html) [Ancestry Cookie Policy](https://www.ancestry.com/content/ancestry/acom/language-masters/en/legal/aboutcookies/aboutcookies.html)
+[English](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en) [Legal](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal) [aboutcookies](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/aboutcookies) [Ancestry Cookie Policy](https://www.ancestry.com/c/content/ancestry/acom/language-masters/en/legal/aboutcookies/aboutcookies)
 
 Ancestry Cookie Policy
 ======================
