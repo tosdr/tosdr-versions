@@ -13,8 +13,8 @@ Menu
     TOP STORIES
     
     * [Israeli strikes in northern Gaza kill at least 88, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
-    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
-    * [Israel must step in if it bans the UN agency that is a lifeline for Gaza, UN says](https://apnews.com/article/un-unrwa-israel-palestinians-gaza-refugees-laws-6cc2518b83eaecd3f813df59588b539f)
+    * [How Mexican cartels manage the flow of migrants on their way to the US border](https://apnews.com/article/mexico-migrants-cartels-smuggling-chiapas-us-border-67d4851eefa60981bceb772bf26d7204)
+    * [How Putin views the choice between Harris and Trump, and what the election means for Russia](https://apnews.com/article/russia-putin-election-trump-harris-biden-a94e45dfb0912bf44d5f83532b977b3b)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Harris urges voters to reject Trump’s efforts to sow division and fear](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [Man who attacked Nancy Pelosi’s husband gets life in prison](https://apnews.com/article/david-depape-nancy-pelosi-husband-paul-attacked-454cbde088fcae22a356f1f8dd0e9eba)
+    * [Maryland voters embrace rare chance to help determine US Senate control](https://apnews.com/article/senate-maryland-hogan-alsobrooks-voters-1d01bc3fbb13c56dc5f70306ad32031b)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Two closing arguments show the stark choice between Trump and Harris](https://apnews.com/article/election-harris-trump-closing-arguments-070f6f5d72b4419a5d844e77177c2d42)
+    * [Harris urges voters to reject Trump’s efforts to sow division and fear](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
-    * [A clumsy early voting option has backed up election offices in Pennsylvania and frustrated voters](https://apnews.com/article/pennsylvania-early-voting-problems-bucks-county-bdc20bfb2c82e29d8698c1a22feb0eae)
+    * [AP-NORC poll finds Democrats and Republicans split on Israel's responsibility for war's escalation](https://apnews.com/article/poll-israel-gaza-hezbollah-hamas-middle-east-e1cfd92c19d57842f2ec2f5f3f489856)
+    * [Inside 'the weave': How Donald Trump's rhetoric has grown darker and windier](https://apnews.com/article/donald-trump-rally-rhetoric-weave-kamala-harris-a4ac05f3c67c80e8536c7ebe0e664866)
+    * [Democrats are leaning on celebrity star power. Will it matter?](https://apnews.com/article/harris-celebrities-beyonce-springsteen-swift-trump-hinchcliffe-5974cc15b79220bd0b5a0bf561c21c23)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Volpe slam sparks comeback after Freeman homer, Yanks beat Dodgers 11-4 to force World Series Game 5](https://apnews.com/article/world-series-dodgers-yankees-score-1ae2f34295846e1df14b0f7fdb33b0b2)
+    * [Freddie Freeman homers again for Dodgers early in Game 4 to set a pair of World Series records](https://apnews.com/article/world-series-freddie-freeman-dodgers-499d410be06593d753c919a259cdf332)
     * [Colts benching Anthony Richardson to start Joe Flacco at quarterback vs. Vikings, AP sources say](https://apnews.com/article/anthony-richardson-joe-flacco-indianapolis-colts-73ed51cc802241fbabf65fc030246a57)
-    * [Texans wide receiver Stefon Diggs out for season after tearing right ACL](https://apnews.com/article/houston-texans-stefon-diggs-injured-37a73f1491732bad18f2a9c8ac883a53)
-    * [Panthers send WR Diontae Johnson, 6th-round pick to Ravens, get back 5th-rounder, AP source says](https://apnews.com/article/diontae-johnson-ravens-trade-518324e504686e0f39ca649762dd9731)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Democrats are leaning on celebrity star power. Will it matter?](https://apnews.com/article/harris-celebrities-beyonce-springsteen-swift-trump-hinchcliffe-5974cc15b79220bd0b5a0bf561c21c23)
     * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
     * [Teri Garr, the offbeat comic actor of 'Young Frankenstein' and 'Tootsie,' has died](https://apnews.com/article/teri-garr-dies-be39482a60724c5bb81bbd8f34dfaf2d)
-    * [The ‘Juror #2’ cast still can’t believe they got to work with Clint Eastwood](https://apnews.com/article/clint-eastwood-juror-2-movie-nicholas-hoult-e481412b89da33949ef4317d645edc9e)
     
 * [Business](https://apnews.com/business)
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
-    * [Stock market today: Rising tech stocks send Nasdaq to a record as most of Wall Street stumbles](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     * [US job openings fell in September to a 3 1/2-year low](https://apnews.com/article/job-openings-economy-unemployment-inflation-federal-reserve-8d33da575578641b91adc98258b68f5a)
+    * [The EU is imposing duties on electric vehicles from China after trade talks fail](https://apnews.com/article/eu-china-trade-electric-vehicles-duties-ev-9c720558b83316fdb6e1a0f9c2b55a15)
     
 * [Science](https://apnews.com/science)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
+    * [El flujo de migrantes por la frontera sur mexicana ya está controlado. Pero por los cárteles](https://apnews.com/article/migracion-frontera-mexico-guatemala-carteles-elecciones-eeuu-trump-3ad1be5e6efe0ffa367bb566cf18f9bf)
     * [Ataque israelí en el norte de la Franja de Gaza deja al menos 88 muertos, informan funcionarios](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
+    * [Argumentos finales destacan la marcada diferencia entre Trump y Harris](https://apnews.com/article/eeuu-elecciones-harris-trump-washington-kamala-856e13f0d0396ff9b4d593c9f1080ad3)
     * [Zelenskyy dice que la guerra con Rusia se está extendiendo “más allá de las fronteras”](https://apnews.com/article/ucrania-rusia-guerra-kiev-jarkiv-ataques-146dc6536747b506e7d7c73b76c7b8e2)
     * [Para las elecciones de EEUU, la AP realiza el mayor acto periodístico del mundo](https://apnews.com/article/associated-press-elecciones-eeuu-ap-3bdea75f456e86820d01e1d12ea88831)
-    * [Trump dice que su mitin en NY, marcado por insultos, "fue una fiesta de amor"](https://apnews.com/article/trump-harris-elecciones-pensilvania-68c442fe7d4d72b5239276e0fb358bc8)
-    * ["Me preocupan los días más calurosos". El cambio climático es tema importante para votantes latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
-    * [El derecho al voto no siempre está garantizado para los pueblos originarios de Alaska](https://apnews.com/article/alaska-pueblos-originarios-derecho-al-voto-eef9cbc1347ce6a1e0041961bc16f598)
+    * [Putin pone en marcha ejercicio de las fuerzas nucleares rusas que simula ataques de represalia](https://apnews.com/article/rusia-arsenal-nuclear-ejercicios-ucrania-8f57102aadbb930f2237e6708de18f25)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -461,8 +461,8 @@ Submit Search
     TOP STORIES
     
     * [Israeli strikes in northern Gaza kill at least 88, officials say](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-29-2024-befe1b42ef25599539198fa04e089f04)
-    * [As Israel strikes deeper into Lebanon, fear rises in communities where the displaced took refuge](https://apnews.com/article/lebanon-israel-war-displacement-hezbollah-395ccfd8ff7e230b474867b13e594b1b)
-    * [Israel must step in if it bans the UN agency that is a lifeline for Gaza, UN says](https://apnews.com/article/un-unrwa-israel-palestinians-gaza-refugees-laws-6cc2518b83eaecd3f813df59588b539f)
+    * [How Mexican cartels manage the flow of migrants on their way to the US border](https://apnews.com/article/mexico-migrants-cartels-smuggling-chiapas-us-border-67d4851eefa60981bceb772bf26d7204)
+    * [How Putin views the choice between Harris and Trump, and what the election means for Russia](https://apnews.com/article/russia-putin-election-trump-harris-biden-a94e45dfb0912bf44d5f83532b977b3b)
     
     Newsletters
     
@@ -478,9 +478,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Harris urges voters to reject Trump’s efforts to sow division and fear](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Ballot drop box fires highlight concerns that election conspiracy theories are making them a target](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9)
-    * [Man who attacked Nancy Pelosi’s husband gets life in prison](https://apnews.com/article/david-depape-nancy-pelosi-husband-paul-attacked-454cbde088fcae22a356f1f8dd0e9eba)
+    * [Maryland voters embrace rare chance to help determine US Senate control](https://apnews.com/article/senate-maryland-hogan-alsobrooks-voters-1d01bc3fbb13c56dc5f70306ad32031b)
     
     Newsletters
     
@@ -507,9 +507,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
+    * [Two closing arguments show the stark choice between Trump and Harris](https://apnews.com/article/election-harris-trump-closing-arguments-070f6f5d72b4419a5d844e77177c2d42)
+    * [Harris urges voters to reject Trump’s efforts to sow division and fear](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
     * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Newspaper non-endorsements at Washington Post, LA Times fit a trend, but their readers aren't happy](https://apnews.com/article/post-newspaper-endorsements-trump-harris-44efcb29d0b27c039a9b0b259ec255d7)
     
     Newsletters
     
@@ -532,9 +532,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump says his New York rally marked by crude and racist insults was 'an absolute lovefest'](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a)
-    * [Harris to promise to 'put country above party and above self' in closing argument against Trump](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d)
-    * [A clumsy early voting option has backed up election offices in Pennsylvania and frustrated voters](https://apnews.com/article/pennsylvania-early-voting-problems-bucks-county-bdc20bfb2c82e29d8698c1a22feb0eae)
+    * [AP-NORC poll finds Democrats and Republicans split on Israel's responsibility for war's escalation](https://apnews.com/article/poll-israel-gaza-hezbollah-hamas-middle-east-e1cfd92c19d57842f2ec2f5f3f489856)
+    * [Inside 'the weave': How Donald Trump's rhetoric has grown darker and windier](https://apnews.com/article/donald-trump-rally-rhetoric-weave-kamala-harris-a4ac05f3c67c80e8536c7ebe0e664866)
+    * [Democrats are leaning on celebrity star power. Will it matter?](https://apnews.com/article/harris-celebrities-beyonce-springsteen-swift-trump-hinchcliffe-5974cc15b79220bd0b5a0bf561c21c23)
     
     Newsletters
     
@@ -562,9 +562,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Volpe slam sparks comeback after Freeman homer, Yanks beat Dodgers 11-4 to force World Series Game 5](https://apnews.com/article/world-series-dodgers-yankees-score-1ae2f34295846e1df14b0f7fdb33b0b2)
+    * [Freddie Freeman homers again for Dodgers early in Game 4 to set a pair of World Series records](https://apnews.com/article/world-series-freddie-freeman-dodgers-499d410be06593d753c919a259cdf332)
     * [Colts benching Anthony Richardson to start Joe Flacco at quarterback vs. Vikings, AP sources say](https://apnews.com/article/anthony-richardson-joe-flacco-indianapolis-colts-73ed51cc802241fbabf65fc030246a57)
-    * [Texans wide receiver Stefon Diggs out for season after tearing right ACL](https://apnews.com/article/houston-texans-stefon-diggs-injured-37a73f1491732bad18f2a9c8ac883a53)
-    * [Panthers send WR Diontae Johnson, 6th-round pick to Ravens, get back 5th-rounder, AP source says](https://apnews.com/article/diontae-johnson-ravens-trade-518324e504686e0f39ca649762dd9731)
     
     Newsletters
     
@@ -591,9 +591,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Democrats are leaning on celebrity star power. Will it matter?](https://apnews.com/article/harris-celebrities-beyonce-springsteen-swift-trump-hinchcliffe-5974cc15b79220bd0b5a0bf561c21c23)
     * [In 'Ibelin' and 'Grand Theft Hamlet,' video game realms draw filmmakers with virtual cameras](https://apnews.com/article/video-game-documentaries-ibelin-grand-theft-hamlet-305dda63022951b18b04b7dab954f107)
     * [Teri Garr, the offbeat comic actor of 'Young Frankenstein' and 'Tootsie,' has died](https://apnews.com/article/teri-garr-dies-be39482a60724c5bb81bbd8f34dfaf2d)
-    * [The ‘Juror #2’ cast still can’t believe they got to work with Clint Eastwood](https://apnews.com/article/clint-eastwood-juror-2-movie-nicholas-hoult-e481412b89da33949ef4317d645edc9e)
     
 * [Business](https://apnews.com/business)
     
@@ -609,8 +609,8 @@ Submit Search
     TOP STORIES
     
     * [Google's moneymaking machine still pumping out massive profits despite multiple threats](https://apnews.com/article/google-alphabet-earnings-artificial-intelligence-antitrust-30a75937bfbd9a4dfcee91cd4594cd59)
-    * [Stock market today: Rising tech stocks send Nasdaq to a record as most of Wall Street stumbles](https://apnews.com/article/financial-markets-oil-prices-tech-stocks-1f348c34204ce132997defdd9a15a31a)
     * [US job openings fell in September to a 3 1/2-year low](https://apnews.com/article/job-openings-economy-unemployment-inflation-federal-reserve-8d33da575578641b91adc98258b68f5a)
+    * [The EU is imposing duties on electric vehicles from China after trade talks fail](https://apnews.com/article/eu-china-trade-electric-vehicles-duties-ev-9c720558b83316fdb6e1a0f9c2b55a15)
     
 * [Science](https://apnews.com/science)
     
@@ -801,12 +801,12 @@ Submit Search
     
     TOP STORIES
     
+    * [El flujo de migrantes por la frontera sur mexicana ya está controlado. Pero por los cárteles](https://apnews.com/article/migracion-frontera-mexico-guatemala-carteles-elecciones-eeuu-trump-3ad1be5e6efe0ffa367bb566cf18f9bf)
     * [Ataque israelí en el norte de la Franja de Gaza deja al menos 88 muertos, informan funcionarios](https://apnews.com/article/israel-palestinos-hamas-guerra-libano-hezbollah-iran-ddd3aa89d98c84103e5f5144d3d4cc50)
+    * [Argumentos finales destacan la marcada diferencia entre Trump y Harris](https://apnews.com/article/eeuu-elecciones-harris-trump-washington-kamala-856e13f0d0396ff9b4d593c9f1080ad3)
     * [Zelenskyy dice que la guerra con Rusia se está extendiendo “más allá de las fronteras”](https://apnews.com/article/ucrania-rusia-guerra-kiev-jarkiv-ataques-146dc6536747b506e7d7c73b76c7b8e2)
     * [Para las elecciones de EEUU, la AP realiza el mayor acto periodístico del mundo](https://apnews.com/article/associated-press-elecciones-eeuu-ap-3bdea75f456e86820d01e1d12ea88831)
-    * [Trump dice que su mitin en NY, marcado por insultos, "fue una fiesta de amor"](https://apnews.com/article/trump-harris-elecciones-pensilvania-68c442fe7d4d72b5239276e0fb358bc8)
-    * ["Me preocupan los días más calurosos". El cambio climático es tema importante para votantes latinas](https://apnews.com/world-news/general-news-88cf66f798c1e712c9284d3eabf8c16d)
-    * [El derecho al voto no siempre está garantizado para los pueblos originarios de Alaska](https://apnews.com/article/alaska-pueblos-originarios-derecho-al-voto-eef9cbc1347ce6a1e0041961bc16f598)
+    * [Putin pone en marcha ejercicio de las fuerzas nucleares rusas que simula ataques de represalia](https://apnews.com/article/rusia-arsenal-nuclear-ejercicios-ucrania-8f57102aadbb930f2237e6708de18f25)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
