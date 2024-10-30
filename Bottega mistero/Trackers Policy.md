@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/chi-lotta-contro-mostri-deve-fare-attenzione-diventare-lui-stesso-mostro-se-tu-riguarderai-lungo-abisso-anche-labisso-vorra-guardare-dentro-di-te/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/99-giorni-senza-facebook-raccogli-la-sfida/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
