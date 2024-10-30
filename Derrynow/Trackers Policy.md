@@ -266,13 +266,6 @@ Most Popular
 [IN PICTURES: Derry Halloween kicks off with 'Awakening the Walled City Trail'](https://www.derrynow.com/story-telling/pictures---videos/1642218/in-pictures-derry-halloween-kicks-off-with-awakening-the-walled-city-trail.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala")](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -280,26 +273,19 @@ Most Popular
 [PICTURES: Ladies football stars get suited and booted for glamorous Croke Park awards gala](https://www.derrynow.com/news/national-news/1642168/pictures-ladies-football-stars-get-suited-and-booted-for-glamorous-croke-park-awards-gala.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Suicide Awareness fundraiser Bellaghy GAC (2014)](https://www.derrynow.com/story-telling/pictures---videos/1639815/throwback-tuesday-out-and-about-suicide-awareness-fundraiser-bellaghy-gac-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Woman in late teens left 'traumatised' following sexual assault in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman in late teens left 'traumatised' following sexual assault in Derry city centre")](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Woman in late teens left 'traumatised' following sexual assault in Derry city centre](https://www.derrynow.com/news/local-news/1642241/woman-in-late-teens-left-traumatised-following-sexual-assault-in-derry-city-centre.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 29 2024](https://www.derrynow.com/news/deaths/1641659/derry-death-notices-tuesday-october-29-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man remanded for 'serious sexual assault' on a female in Derry's Lecky Road area")](https://www.derrynow.com/news/local-news/1642244/man-remanded-for-serious-sexual-assault-on-a-female-in-derry-s-lecky-road-area.html)
 
@@ -315,6 +301,20 @@ Most Popular
 [Man breached bail prohibiting him from being intoxicated in public](https://www.derrynow.com/news/local-news/1642123/man-breached-bail-prohibiting-him-from-being-intoxicated-in-public.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry Halloween gets off to a spooktacular start](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween gets off to a spooktacular start")](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: All smiles as Noel McFeely's 70th birthday party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as Noel McFeely's 70th birthday party")](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as Noel McFeely's 70th birthday party](https://www.derrynow.com/news/pictures---videos/1642064/pictures-all-smiles-at-noel-mcfeely-s-70th-birthday-party.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![£300 fine for Derry man who caused criminal damage to items in his mother's house](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£300 fine for Derry man who caused criminal damage to items in his mother's house")](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -322,12 +322,12 @@ Most Popular
 [£300 fine for Derry man who caused criminal damage to items in his mother's house](https://www.derrynow.com/news/local-news/1642080/300-fine-for-derry-man-who-caused-criminal-damage-to-items-in-his-mother-s-house.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry Halloween gets off to a spooktacular start](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Halloween gets off to a spooktacular start")](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
+[![IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper")](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Derry Halloween gets off to a spooktacular start](https://www.derrynow.com/story-telling/pictures---videos/1642166/in-pictures-derry-halloween-gets-off-to-a-spooktacular-start.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: BBHF Open Night, Spooky Family Dander and Healthy Supper](https://www.derrynow.com/story-telling/pictures---videos/1642219/in-pictures-bbhf-open-night-spooky-family-dander-and-healthy-supper.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -505,6 +505,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 30 2024](https://www.derrynow.com/news/deaths/1641960/derry-death-notices-wednesday-october-30-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![The Maguire Family](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Maguire Family")](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
 
 The Maguire Family
@@ -514,7 +521,7 @@ The Maguire Family
 [Maguire family commemorate Thomas on his 20th anniversary](https://www.derrynow.com/news/county-derry-post/1642024/maguire-family-commemorate-thomas-on-his-20th-anniversary.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DuPont Maydown Hosts MakeMe Visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DuPont Maydown Hosts MakeMe Visit")](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
+[![DuPont Maydown Hosts MakeMe Visit](https://www.derrynow.com/resizer/165/93/true/2024_10_29/AAA-1730198411084.PNG--.PNG?1730198411213 "DuPont Maydown Hosts MakeMe Visit")](https://www.derrynow.com/news/derry-news/1642051/dupont-maydown-hosts-makeme-visit.html)
 
 DuPont Maydown Hosts MakeMe Visit
 
@@ -547,15 +554,6 @@ Fireworks seized from Bellaghy
 
 [Police in Magherafelt have recovered a large quantity of fireworks that were being sold illegally.](https://www.derrynow.com/news/county-derry-post/1642406/police-in-magherafelt-have-recovered-a-large-quantity-of-fireworks-that-were-being-sold-illegally.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dungiven Men's Shed](https://www.derrynow.com/resizer/165/93/true/2024_10_29/Dungiven_Mens_Shed-1730196119192.jpg--.jpg?1730196119697 "Dungiven Men's Shed")](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
-
-Dungiven Men's Shed
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Dungiven Men's Shed to host 5k walk/run fundraiser](https://www.derrynow.com/news/county-derry-post/1642000/dungiven-men-s-shed-to-host-5k-walk-run-fundraiser.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
