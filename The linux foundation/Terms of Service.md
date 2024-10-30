@@ -53,6 +53,7 @@ English Japan China Europe
 * [Latest Research](https://www.linuxfoundation.org/research)
 * [Leadership & Advisory Board](https://www.linuxfoundation.org/research/leadership)
 * [Surveys](https://www.linuxfoundation.org/research/surveys)
+* [Research Forum](https://www.linuxfoundation.org/research/lfr-forum)
 
  LF EDUCATION
 
@@ -214,6 +215,7 @@ LF RESEARCH
 * [Latest Research](https://www.linuxfoundation.org/research)
 * [Sponsor a Study](https://www.linuxfoundation.org/research/sponsorship)
 * [Leadership & Advisory Board](https://www.linuxfoundation.org/research/leadership)
+* [Research Forum](https://www.linuxfoundation.org/research/lfr-forum)
 
 LFX PLATFORM
 
