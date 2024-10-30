@@ -169,7 +169,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
     
 
 * [Code](https://github.com/gorilla-devs/GDLauncher)
-* [Issues 429](https://github.com/gorilla-devs/GDLauncher/issues)
+* [Issues 430](https://github.com/gorilla-devs/GDLauncher/issues)
 * [Pull requests 6](https://github.com/gorilla-devs/GDLauncher/pulls)
 * [Actions](https://github.com/gorilla-devs/GDLauncher/actions)
 * [Wiki](https://github.com/gorilla-devs/GDLauncher/wiki)
