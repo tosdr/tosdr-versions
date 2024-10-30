@@ -351,5 +351,3 @@ All Rights Reserved © 2024 Dwolla, Inc.
 * [Financial institutions play an important role in our network. All funds transfers made using the Dwolla Platform are performed by a financial institution partner, and any funds held in a Dwolla Balance are held by a financial institution partner. Learn more about our financial institution partners.](https://www.dwolla.com/legal/about-our-financial-institution-partners)
 
 [](#)
-
-}
