@@ -32,7 +32,7 @@ Light Dark
 
 ![](https://img.gg.deals/4a/27/c5bad84ba443f672b6253490061d6c575a9c_1272cr200_Q100.jpg)
 
-![](https://img.gg.deals/81/1b/4f312a47f76ee3c51126f4f30a7f3bc06dca_2560xt1440_Q100.jpg)
+![](https://img.gg.deals/dd/73/98c06ace299592bf9333246ff699b72569ed_2560xt1440_Q100.jpg)
 
 [](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/58ed1682673fbd26ac63d9e8058bb2020549350d/?utm_campaign=main-right&utm_source=page%2Fpage)
 
