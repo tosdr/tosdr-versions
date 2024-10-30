@@ -108,6 +108,7 @@ Error
 * [Tokenized Authorization (B2B) - EN-GB](#contract-robwm0vs)
 * [Wallet Authorization en-GB](#contract-hzugruzvb)
 * [Applicant Terms of Use](#contract-skxc4ktljx)
+* [mg - la - con-648](#contract-xmifpf3vk)
 
 Test Contract 2
 ---------------
@@ -2263,11 +2264,11 @@ City and County of San Francisco Fair Chance Ordinance
 City of Los Angeles Fair Chance Initiative Disclosure
 -----------------------------------------------------
 
-### Version 4.0
+### Version 7.0
 
-##### Effective January 31st 2023
+##### Effective October 30th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/63c715a82e56782e14b8dd9b.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67223ea30aaad50932a28cad.pdf)
 
 * * *
 
@@ -2643,7 +2644,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective October 29th 2024
+##### Effective October 30th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6152,11 +6153,11 @@ You can withdraw your consent, dispute the accuracy of your credentials, or ask 
 DISCLOSURE: INVESTIGATIVE CONSUMER REPORT
 -----------------------------------------
 
-### Version 3.0
+### Version 3.1
 
-##### Effective October 23rd 2024
+##### Effective October 30th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6719907607f5d5b0caba720e.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/671990c79ec822409376e6b2.pdf)
 
 * * *
 
@@ -6410,6 +6411,23 @@ You can request support via email sent to [support@certn.co](mailto:support@cert
 You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices on the App. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing. If you have any questions about these Terms, you can contact customer support within the App or via email at [support@certn.co](mailto:support@certn.co).
 
 “**Certn**” is inclusive of Certn Holdings Inc. and each of its subsidiaries.
+
+mg - la - con-648
+-----------------
+
+### Version 42.0
+
+##### Effective October 30th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672259260aaad50932a56959.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/lP6ACd3PS.jpg) ![](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/assets/vlQ4qk4v6.jpg)
 
 * * *
 
