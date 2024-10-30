@@ -4,6 +4,7 @@
 * [**Updates**](https://blockfi.com/category/news)
 * [**Help Center**](https://blockfi.com/category/help-center/)
 * [**Kroll**](https://restructuring.ra.kroll.com/blockfi/)
+* [**KYC Remediation**](https://blockfi.com/blockfi-id-request/)
 
 [Terms](https://blockfi.com/category/terms/)
 
