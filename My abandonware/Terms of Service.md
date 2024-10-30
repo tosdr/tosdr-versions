@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Blue Wing Blitz](https://www.myabandonware.com/game/blue-wing-blitz-t35)
-* [Arc the Lad: Kijin Fukkatsu](https://www.myabandonware.com/game/arc-the-lad-kijin-fukkatsu-t34)
-* [Wild Card](https://www.myabandonware.com/game/wild-card-t33)
-* [Tetris](https://www.myabandonware.com/game/tetris-t32)
-* [With You: Mitsumete Itai](https://www.myabandonware.com/game/with-you-mitsumete-itai-p2w)
+* [Gunpey EX](https://www.myabandonware.com/game/gunpey-ex-t3k)
+* [Guilty Gear Petit](https://www.myabandonware.com/game/guilty-gear-petit-t3j)
+* [Guilty Gear Petit 2](https://www.myabandonware.com/game/guilty-gear-petit-2-t3i)
+* [Flash Koibito-kun](https://www.myabandonware.com/game/flash-koibito-kun-t3h)
+* [Final Fantasy](https://www.myabandonware.com/game/final-fantasy-t3g)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
