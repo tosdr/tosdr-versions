@@ -2,8 +2,6 @@
 
 [Skip to main content](#site_main)
 
-Alerts
-
 Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informed!**](https://threeforks.municipalimpact.com/subscribe)
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
@@ -20,13 +18,13 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
     * [Chamber of Commerce](https://www.threeforksmontana.us/chamber-of-commerce)
     * [Community Library](https://www.threeforksmontana.us/community-library)
     * [Gallatin County Community Notification System](https://www.threeforksmontana.us/gallatin-county-community-notification-system)
-    * [Recent News](https://www.threeforksmontana.us/recent-news)
     * [Logan Landfill](https://www.threeforksmontana.us/logan-landfill)
     * [Medical Facilities](https://www.threeforksmontana.us/medical-facilities)
-    * [Three Forks Community Library Website & Facebook](https://www.threeforksmontana.us/three-forks-community-library-website-and-facebook)
     * [River Gauges](https://www.threeforksmontana.us/river-gauges)
+    * [Recent News](https://www.threeforksmontana.us/recent-news)
     * [Schools](https://www.threeforksmontana.us/schools)
     * [Senior Citizen Center](https://www.threeforksmontana.us/senior-citizen-center)
+    * [Three Forks Community Library Website & Facebook](https://www.threeforksmontana.us/three-forks-community-library-website-and-facebook)
     * [Three Forks Rodeo Arena Website & Calendar](https://www.threeforksmontana.us/three-forks-rodeo-arena-website-and-calendar)
 * [Government](#)
     * [Boards & Committees](https://www.threeforksmontana.us/boards-and-committees)
@@ -38,33 +36,47 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
             * [TFRA Board Minutes](https://www.threeforksmontana.us/tfra-board-minutes)
         * [Zoning & Planning](https://www.threeforksmontana.us/zoning-and-planning)
             * [Board Minutes](https://www.threeforksmontana.us/board-minutes)
+    * [Capital Improvements Plan (CIP)](https://www.threeforksmontana.us/capital-improvements-plan-cip)
     * [City Charter](https://www.threeforksmontana.us/city-charter)
     * [City Hall](https://www.threeforksmontana.us/city-hall)
         * [City Contacts](https://www.threeforksmontana.us/city-contacts)
         * [Code Compliance](https://www.threeforksmontana.us/code-compliance)
         * [Court](https://www.threeforksmontana.us/court)
             * [Court Calendar & Dress Code](https://www.threeforksmontana.us/court-calendar-and-dress-code)
-    * [Capital Improvements Plan (CIP)](https://www.threeforksmontana.us/capital-improvements-plan-cip)
+    * [City Council Meetings](https://www.threeforksmontana.us/city-council-meetings)
+        * [Council Agendas](https://www.threeforksmontana.us/council-agendas)
+        * [Council Minutes](https://www.threeforksmontana.us/council-minutes)
+        * [Packet for Upcoming Council Meeting](https://www.threeforksmontana.us/packet-for-upcoming-council-meeting)
     * [Financial Reports & Budgets](https://www.threeforksmontana.us/financial-reports-and-budgets)
         * [Annual Budget](https://www.threeforksmontana.us/annual-budget)
         * [Financial Reports/Audits](https://www.threeforksmontana.us/financial-reports-audits)
+    * [Growth Policy](https://www.threeforksmontana.us/growth-policy)
     * [Human Resources](https://www.threeforksmontana.us/human-resources)
         * [Application Process](https://www.threeforksmontana.us/application-process)
         * [Employment Opportunities](https://www.threeforksmontana.us/employment-opportunities)
     * [Mayor & Council](https://www.threeforksmontana.us/mayor-and-council)
         * [Mayor](https://www.threeforksmontana.us/mayor)
         * [Council](https://www.threeforksmontana.us/council)
-    * [City Council Meetings](https://www.threeforksmontana.us/city-council-meetings)
-        * [Council Agendas](https://www.threeforksmontana.us/council-agendas)
-        * [Council Minutes](https://www.threeforksmontana.us/council-minutes)
-        * [Packet for Upcoming Council Meeting](https://www.threeforksmontana.us/packet-for-upcoming-council-meeting)
     * [Open Records](https://www.threeforksmontana.us/open-records)
         * [Public Information Request](https://www.threeforksmontana.us/public-information-request)
         * [Public Notices](https://www.threeforksmontana.us/public-notices)
-    * [Growth Policy](https://www.threeforksmontana.us/growth-policy)
+    * [Ordinances (City Laws)](https://www.threeforksmontana.us/ordinances-city-laws)
+    * [Public Design Standards](https://www.threeforksmontana.us/public-design-standards)
 * [Residents](#)
+    * [New Resident Resources](https://www.threeforksmontana.us/new-resident-resources)
+    * [Payment Options](https://www.threeforksmontana.us/payment-options)
+    * [Forms & Applications](https://www.threeforksmontana.us/forms-and-applications)
+    * [Animals](https://www.threeforksmontana.us/animals)
+    * [City Parks](https://www.threeforksmontana.us/city-parks)
+        * [Park Reservations](https://www.threeforksmontana.us/park-reservations)
+        * [Bellach Park & Ponds](https://www.threeforksmontana.us/bellach-park-and-ponds)
+        * [Bertagnolli Park & Ball Fields](https://www.threeforksmontana.us/bertagnolli-park-and-ball-fields)
+        * [Helton-Peterson Park](https://www.threeforksmontana.us/helton-peterson-park)
+        * [John Q. Adams Milwaukee Railroad Park](https://www.threeforksmontana.us/john-q-adams-milwaukee-railroad-park)
+        * [Sacajawea Park](https://www.threeforksmontana.us/sacajawea-park)
+        * [Stevenson Park](https://www.threeforksmontana.us/stevenson-park)
+        * [Veterans Park](https://www.threeforksmontana.us/veterans-park)
     * [Departments](https://www.threeforksmontana.us/departments)
-        * [Animal Services](https://www.threeforksmontana.us/animal-services)
         * [Emergency Services](https://www.threeforksmontana.us/emergency-services)
             * [Volunteer Fire Department](https://www.threeforksmontana.us/volunteer-fire-department)
             * [Sheriff's Office](https://www.threeforksmontana.us/sheriff-s-office)
@@ -81,14 +93,12 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
         * [Three Forks Community Library](https://www.threeforksmontana.us/three-forks-community-library)
         * [Zoning & Planning](https://www.threeforksmontana.us/zoning-and-planning-1)
         * [Headwaters Trail System](https://www.threeforksmontana.us/headwaters-trail-system)
-    * [Forms & Applications](https://www.threeforksmontana.us/forms-and-applications)
     * [Alerts](https://www.threeforksmontana.us/alerts)
-    * [Payment Options](https://www.threeforksmontana.us/payment-options)
-    * [New Resident Resources](https://www.threeforksmontana.us/new-resident-resources)
     * [Frequently Called Numbers](https://www.threeforksmontana.us/frequently-called-numbers)
     * [FAQ](https://www.threeforksmontana.us/faq)
 * [Business](#)
     * [City Business Licenses](https://www.threeforksmontana.us/city-business-licenses)
+    * [Chamber of Commerce](https://www.threeforksmontana.us/chamber-of-commerce-1)
 * [Visitors](#)
     * [Locations & Directions](https://www.threeforksmontana.us/locations-and-directions)
     * [Area Attractions](https://www.threeforksmontana.us/area-attractions)
@@ -99,15 +109,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
         * [Historical Society](https://www.threeforksmontana.us/historical-society)
         * [State Parks](https://www.threeforksmontana.us/state-parks)
         * [Bleu Horses](https://www.threeforksmontana.us/bleu-horses)
-    * [City Parks](https://www.threeforksmontana.us/city-parks)
-        * [Park Reservations](https://www.threeforksmontana.us/park-reservations)
-        * [Bellach Park & Ponds](https://www.threeforksmontana.us/bellach-park-and-ponds)
-        * [Bertagnolli Park & Ball Fields](https://www.threeforksmontana.us/bertagnolli-park-and-ball-fields)
-        * [Helton-Peterson Park](https://www.threeforksmontana.us/helton-peterson-park)
-        * [John Q. Adams Milwaukee Railroad Park](https://www.threeforksmontana.us/john-q-adams-milwaukee-railroad-park)
-        * [Sacajawea Park](https://www.threeforksmontana.us/sacajawea-park)
-        * [Stevenson Park](https://www.threeforksmontana.us/stevenson-park)
-        * [Veterans Park](https://www.threeforksmontana.us/veterans-park)
+    * [City Parks](https://www.threeforksmontana.us/city-parks-1)
 * [Search](#)
     
     Search  Submit
@@ -132,17 +134,23 @@ Did You Know You May Be In The 1% Chance Of Flooding Based On Fema's Flood Insur
 
 Check Out Our [Floodplain Page](https://threeforks.municipalimpact.com/floodplain) To Learn More About The Regulations On Flood-Proofing, And How You Can Best Prepare In The Event Of A Flood.
 
+[![bulk water](/images/promos_mi/mi_650_water_-_bulk_in_a_pool_or_bin.jpg)](https://www.threeforksmontana.us/public-works)
+
+Need bulk water?
+----------------
+
+Bulk Water is available, both potable and non-potable.  Please coordinate with City Hall first to pay and ensure we direct you to the correct location for water type.
+
+$30.00 for first 100CF (roughly 750 gallons)
+
+$15.00 for each additional 100CF
+
 [![leaves with raking leaning on fence](/images/promos_mi/mi_650_fall_cleanup2.jpg)](https://www.threeforksmontana.us/calendar-of-events)
 
 Fall Cleanup Dumpsters!
 -----------------------
 
 Republic Services will have dumpsters across from the rodeo grounds the weekend of **October 31st – November 4th, 2024**.
-
-[![the word "notice" written on chalkboard](/images/promos_mi/mi_650_notice.png)](https://www.threeforksmontana.us/public-notices)
-
-Find all Public Notices here
-----------------------------
 
 Slide1 Slide2 Slide3 Slide4
 
@@ -191,24 +199,9 @@ Three Forks, MT 59752
 Powered by [MunicipalImpact.com](https://www.municipalimpact.com/)  
 [Admin](https://clients.municipalimpact.com/client/?e=fd9435d9ca85e8a8563e00474436c432)
 
-Alert
------
-
-### [New Site Under Construction](https://www.threeforksmontana.us/alerts)
-
-10/02/2024
-
-The City of Three Forks is working on our new website! In the meantime, please visit **[https://www.threeforksmontana.us/](https://www.threeforksmontana.us/)** for all website needs until further notice. 
-
-Okay, Got It!
-
 Alerts
 ------
 
-### [New Site Under Construction](https://www.threeforksmontana.us/alerts)
-
-10/02/2024
-
-The City of Three Forks is working on our new website! In the meantime, please visit **[https://www.threeforksmontana.us/](https://www.threeforksmontana.us/)** for all website needs until further notice. 
+### No active alerts at this time.
 
 Okay, Got It!
