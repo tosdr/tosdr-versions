@@ -1,5 +1,7 @@
 ![](https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif) 
 
+[Learn More About the Alternative App Future](https://www.digitalturbine.com/alternative-future)
+
 [![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
 [App Developers](https://www.digitalturbine.com/app-developers)
