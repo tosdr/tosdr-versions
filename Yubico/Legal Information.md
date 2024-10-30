@@ -375,7 +375,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     _Last updated: October 24th, 2023_
     
 
-[![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
+[![Yubico Text Logo](https://www.yubico.com//wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
 * [RSS](https://www.yubico.com/rss/)
 * [X](https://x.com/Yubico)
