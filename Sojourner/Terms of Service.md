@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-b87c1a4d9ba3407bc3b6b80398c841a9
+123e3e81c3462a2c874fae1e36d7f769
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![4 mm round amazonite beads](https://sojourner.biz/images/cache/stone/AMZ0002.200.jpg)](https://sojourner.biz/beads/stone-a-l/amazonite/4-mm-round-amazonite-beads.html "4 mm round amazonite beads")
+[![8 mm lipstick red heart beads](https://sojourner.biz/images/cache/glass/HRT003.200.jpg)](https://sojourner.biz/beads/glass/8-mm-lipstick-red-heart-beads.html "8 mm lipstick red heart beads")
 
-#### [4 mm round amazonite beads](https://sojourner.biz/beads/stone-a-l/amazonite/4-mm-round-amazonite-beads.html "4 mm round amazonite beads")
+#### [8 mm lipstick red heart beads](https://sojourner.biz/beads/glass/8-mm-lipstick-red-heart-beads.html "8 mm lipstick red heart beads")
 
-$21.00
+$2.00
 
 ### Best Sellers
 
