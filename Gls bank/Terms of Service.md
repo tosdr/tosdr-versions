@@ -483,11 +483,11 @@ Kontaktformular
 
 Betreff wählen\* AGB
 
-Bitte tragen Sie hier Ihre Nachricht an uns ein.  
-Beachten Sie unseren Hinweis rechts.
+Bitte schreibe hier Deine Nachricht an uns  
+und beachte unseren Hinweis rechts.
 
-**Bitte beachten Sie:**  
-Über dieses Kontaktformular können wir **keine** kunden- oder kontobezogenen Daten, Adressänderungen und Zahlungsaufträge entgegennehmen. Nutzen Sie dafür bitte Ihr GLS Onlinebanking. Teilen Sie uns bitte auch keine vertraulichen Daten wie PIN, Geheimzahl oder TAN mit.
+**Bitte beachte:**  
+Über dieses Kontaktformular können wir **keine** kunden- oder kontobezogenen Daten, Adressänderungen und Zahlungsaufträge entgegennehmen. Nutze dafür bitte Dein [GLS Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal). Teile uns bitte auch keine vertraulichen Daten wie PIN, Geheimzahl oder TAN mit.
 
 Anrede Frau Herr Guten Tag
 
@@ -528,7 +528,7 @@ Anrede Frau Herr Guten Tag
 
 **Datenspeicherung**
 
-Wir speichern und verarbeiten Ihre Daten ausschließlich zur Bearbeitung Ihrer Anfrage und zur Übersendung von entsprechendem Informationsmaterial. Ohne Ihr Einverständnis werden wir Ihnen keine Unterlagen zuschicken und Ihre Daten nicht erfassen. Sind Ihre Anfrage bzw. Ihr Auftrag erledigt, löschen wir Ihre Daten, sofern gesetzliche Vorschriften nichts anderes vorsehen. Sie können der Nutzung Ihrer Daten jederzeit widersprechen sowie die Löschung oder Berichtigung Ihrer Daten verlangen, ohne dass Ihnen hierfür andere als die Übermittlungskosten (Telefon, Porto) entstehen.
+Wir speichern und verarbeiten Deine Daten ausschließlich zur Bearbeitung Deiner Anfrage und zur Übersendung von entsprechendem Informationsmaterial. Ohne Dein Einverständnis werden wir Dir keine Unterlagen zuschicken und Deine Daten nicht erfassen. Sind Deine Anfrage bzw. Dein Auftrag erledigt, löschen wir Deine Daten, sofern gesetzliche Vorschriften nichts anderes vorsehen. Du kannst der Nutzung Deiner Daten jederzeit widersprechen sowie die Löschung oder Berichtigung Deiner Daten verlangen, ohne dass Dir hierfür andere als die Übermittlungskosten (Telefon, Porto) entstehen.
 
 Die [Hinweise zum Datenschutz](https://www.gls.de/datenschutz/ "Hinweise zum Datenschutz") habe ich gelesen. Mit dem Absenden meiner Daten erkläre ich mich mit der Speicherung meiner Daten einverstanden.
 
