@@ -385,28 +385,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
-    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
+    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
     
-    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
+    Narodni muzej Srbije, Trg Republike 1a, Beograd
     
-    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
+    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
     
-    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
+    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
     
-    autorka: dr Rajka Bošković
+    Saradnice na izložbi: Olga Špehar i Jelena Premović
     
-    [https://www.msub.org.rs](https://www.msub.org.rs/)
+    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-quotsvetozar-markovicquot-47-192008/zampa-ub-sm5.jpg?itok=NdsB30OH)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-u-ub-svetozar-markovic-47-192008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/skulpture/4.jpg?itok=siZFjgoE)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/skulpture)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dzulijet.jpg?itok=Q0TvuPVs)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/artes-mundi.jpg?itok=7to-9PyW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
