@@ -422,7 +422,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
     Your responsibility to pay any AAA filing, administrative and arbitrator fees will be solely as set forth in the AAA Rules. However, if your claim for damages does not exceed $75,000, Yubico will pay all such fees unless the arbitrator finds that either the substance of your claim or the relief sought in your Demand for Arbitration was frivolous or was brought for an improper purpose (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)).
     
 
-[![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
+[![Yubico Text Logo](https://www.yubico.com//wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
 * [RSS](https://www.yubico.com/rss/)
 * [X](https://x.com/Yubico)
