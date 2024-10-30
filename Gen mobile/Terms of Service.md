@@ -12,9 +12,7 @@ Search
     
 
 * [Plans](https://www.genmobile.com/pages/plans)
-* [Phones +](https://www.genmobile.com/pages/phones)
-    * [Bring Your Own](https://www.genmobile.com/pages/byop)
-    * [Buy a Phone](https://www.genmobile.com/pages/phones)
+* [Phones](https://www.genmobile.com/pages/shopphones)
 * [International Calling](https://www.genmobile.com/pages/call-international-from-the-us)
 * [Government Phone Service +](https://www.genmobile.com/pages/acp)
     * [ACP](https://www.genmobile.com/pages/acp)
@@ -259,7 +257,7 @@ SHOP
 
 * [Prepaid Plans](https://www.genmobile.com/plans)
 * [International Calling](https://www.genmobile.com/pages/call-international-from-the-us)
-* [Shop Phones](https://www.genmobile.com/pages/phones)
+* [Cell Phones](https://www.genmobile.com/pages/phones)
 * [Phones for Kids](https://www.genmobile.com/pages/kid-phones)
 * [SIM Cards](https://www.genmobile.com/collections/all-phones/products/bring-your-own-phone-t-mobile-network)
 * [Phone Gift Card](https://www.genmobile.com/products/phone-gift-card?variant=40736003489840)
@@ -267,7 +265,6 @@ SHOP
 SERVICE FEATURES
 
 * [5G Coverage](https://www.genmobile.com/pages/5g#whatis5g)
-* [Affordable Connectivity Program](https://www.genmobile.com/pages/acp)
 * [Lifeline](https://www.genmobile.com/pages/lifeline-program)
 * [Call Mexico](https://www.genmobile.com/pages/call-international-mexico)
 * [Call Canada](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-canada)
@@ -292,6 +289,7 @@ SUPPORT
 * [Activate SIM Card](https://activate.genmobile.com/)
 * [How to Unlock Your Phone](https://www.genmobile.com/pages/how-to-unlock-your-phone)
 * [IMEI Check](https://www.genmobile.com/pages/imei)
+* [ACP Program](https://www.genmobile.com/pages/acp)
 * [Return Policy](https://www.genmobile.com/pages/return-policy)
 * [Find a Store](https://www.genmobile.com/apps/store-locator)
 
