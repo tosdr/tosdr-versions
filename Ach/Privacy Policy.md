@@ -63,11 +63,11 @@ Main navigation
         * [Nacha Operating Rules Online](https://nachaoperatingrulesonline.org/event-data)
             
         
-    * [ACH Payment Types](https://www.nacha.org/resource-landing/same-day-ach-resource-center)
+    * ACH Payments Types
         
         Modern. Multifaceted. Today’s ACH Network meets today’s payment needs.
         
-        * [Same Day ACH](https://www.nacha.org/resource-landing/same-day-ach-resource-center)
+        * [Same Day ACH](https://www.nacha.org/same-day-ach)
             
         * [Business-to-Business (B2B)](https://www.nacha.org/content/business-business-b2b)
             
