@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12599 Hostels in 2619 cities.
+We have 12611 Hostels in 2622 cities.
 
 Where do you want to go?
 
@@ -46,7 +46,7 @@ Check In
 
 Check Out
 
-4 nights selected
+3 nights selected
 
 October 2024
 
@@ -1987,7 +1987,7 @@ stefa.ninchen
 
 LondonHostels
 
-from US$13.17
+from US$13.18
 
 [](https://www.hostelworld.com/st/hostels/europe/spain/barcelona/ "Barcelona Hostels")
 
@@ -1995,7 +1995,7 @@ nattaliarr
 
 BarcelonaHostels
 
-from US$16.62
+from US$15.28
 
 [](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
@@ -2019,7 +2019,7 @@ lauren\_dixon
 
 LisbonHostels
 
-from US$11.11
+from US$10.92
 
 [](https://www.hostelworld.com/st/hostels/europe/germany/berlin/ "Berlin Hostels")
 
@@ -2083,7 +2083,7 @@ London
 
 9.3
 
-From US$31.39](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
+From US$31.69](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
 
 **St Christopher's at The Winston**
 
@@ -2099,7 +2099,7 @@ Vienna
 
 9.0
 
-From US$22.42](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![Next House Copenhagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Next House Copenhagen")
+From US$22.10](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![Next House Copenhagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Next House Copenhagen")
 
 **Next House Copenhagen**
 
