@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most worth-while thing is to try to put happiness into the lives of others”
+“ You just stand in the darkness until you can’t endure it any long, and then you move forward until you’re standing in the light”
 
-[Robert Baden-Powell](https://en.wikipedia.org/wiki/Robert_Baden-Powell,_1st_Baron_Baden-Powell)
+[Ahmir Questlove Thompson](https://en.wikipedia.org/wiki/Questlove)
 
 [](https://www.adafruit.com/about)
 
