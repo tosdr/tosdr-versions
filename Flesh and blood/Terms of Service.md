@@ -152,8 +152,8 @@ These Terms are governed by and will be construed in accordance with the laws of
 
 If you have any questions or concerns in relation to the Platforms, Software, Registered Play or these Terms please contact us at the details set out below:
 
-Email: hello@fabtcg.com  
-Address: 2 Owens Rd, Newmarket, Auckland 1023, New Zealand
+Email: info@fabtcg.com  
+Address: 110 Carlton Gore Road, Newmarket, Auckland 1023, New Zealand
 
 * * *
 
