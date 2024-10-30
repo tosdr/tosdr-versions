@@ -117,61 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=171352883)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=57648911)  
+J.M. HUMAN RESOURCES
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=58480347)  
-Kaylas Creations
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=90782645)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=69200001)  
-All Trucking Solutions
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=165980252)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=202102196)  
-Van Der Merwe Olieverspreiders
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=77825956)  
+Creative Characters
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=42210448)  
-SA Security Brokerz (Pty) Ltd
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=116167244)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=84518919)  
-Redlum Group (Pty) Ltd
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=49539787)  
-SR Travel Services
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=3035915)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=56536730)  
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=178748266)  
 WIP Digital Solutions
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=118618680)  
-APTV Telecoms CC
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=167509294)  
+Depot Diesel (Pty) Ltd
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=132251962)  
-AquariumSmiths
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=4364991)  
+West Coast Horse Trails
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=1881418)  
-UMVIKELI PRIVATE SECURITY
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=212822016)  
+Van Der Merwe Olieverspreiders
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=45175194)  
-United Paintball Federation
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=13768514)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=66226257)  
-Cooper Power South Africa (Pty) LTD
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=57571429)  
+Desygn
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=570de1ca4523818249261c8fca6892a0335f42832eacb147521412641bf7228c&c=105648275)  
-VerdanTech Pty Ltd
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=15796975)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=97713023)  
+Fox Alarms & Security CC
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=4183088)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=30846f483db9a4e5d15d130f41fc0d624beb38721bff28b156bd6211c846bbc7&c=82913692)  
+Atalie Scented Candles Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
