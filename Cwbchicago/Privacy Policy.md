@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Judge-Carol-Howard-326x245.jpg)](https://cwbchicago.com/2024/10/our-first-ever-political-recommendation-vote-to-not-retain-this-judge.html "Our first-ever political recommendation: Vote to NOT retain this judge")
+
+Citywide
+
+### [Our first-ever political recommendation: Vote to NOT retain this judge](https://cwbchicago.com/2024/10/our-first-ever-political-recommendation-vote-to-not-retain-this-judge.html "Our first-ever political recommendation: Vote to NOT retain this judge")
+
+[October 27, 2024 5:53 PM](https://cwbchicago.com/2024/10)
+
+For the first time in our 11-year history, CWBChicago is making a recommendation in a judicial election.[](https://cwbchicago.com/2024/10/our-first-ever-political-recommendation-vote-to-not-retain-this-judge.html "Our first-ever political recommendation: Vote to NOT retain this judge")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.08.26-OIS-Farwell-Washtenaw-326x245.jpg)](https://cwbchicago.com/2024/10/video-gunman-shoots-at-ambulance-man-dog-then-dashes-into-firefight-with-chicago-cops.html "Video: Gunman shoots at ambulance, man, dog, then dashes into firefight with Chicago cops")
+
+West Rogers Park
+
+### [Video: Gunman shoots at ambulance, man, dog, then dashes into firefight with Chicago cops](https://cwbchicago.com/2024/10/video-gunman-shoots-at-ambulance-man-dog-then-dashes-into-firefight-with-chicago-cops.html "Video: Gunman shoots at ambulance, man, dog, then dashes into firefight with Chicago cops")
+
+[October 27, 2024 2:17 PM](https://cwbchicago.com/2024/10)
+
+Dramatic, frightening video shared with CWBChicago captured the sights and sounds as a gunman shot at a Chicago Fire Department ambulance, opened fire on a man walking a dog and dashed into a firefight with the Chicago Police Department.[](https://cwbchicago.com/2024/10/video-gunman-shoots-at-ambulance-man-dog-then-dashes-into-firefight-with-chicago-cops.html "Video: Gunman shoots at ambulance, man, dog, then dashes into firefight with Chicago cops")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/street-take-over-october-27-326x245.jpg)](https://cwbchicago.com/2024/10/donut-spinning-takeovers-jam-lake-shore-drive-intersections-citywide.html "Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [October 27, 2024 8:38 AM](https://cwbchicago.com/2024/10)
 
 A street takeover closed the northbound lanes of Lake Shore Drive early Sunday morning as spectators formed a circle in the road to watch drivers spin donuts in an intersection just south of Soldier Field. Additional takeovers were reported throughout the city overnight.[](https://cwbchicago.com/2024/10/donut-spinning-takeovers-jam-lake-shore-drive-intersections-citywide.html "Donut-spinning ‘takeovers’ jam Lake Shore Drive, intersections citywide")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/att-SG-326x245.jpg)](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
-
-Magnificent Mile
-
-### [Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
-
-[October 27, 2024 6:46 AM](https://cwbchicago.com/2024/10)
-
-Smash-and-grab burglars tried, but failed to make their way into at least two luxury boutiques near the Magnificent Mile on Sunday morning. But initial reports say the stores’ security glass and possibly an armed guard thwarted the efforts.[](https://cwbchicago.com/2024/10/smash-and-grab-burglars-try-but-fail-to-break-into-boutiques-near-the-mag-mile.html "Smash-and-grab burglars try, but fail to break into boutiques near the Mag Mile")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Kevin-Bruno-presser-326x245.jpg)](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
-
-West Rogers Park
-
-### [Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
-
-[October 26, 2024 5:54 PM](https://cwbchicago.com/2024/10)
-
-A gunman who shot a man in West Rogers Park on Saturday returned to the scene and engaged Chicago police officers in a two-and-a-half-minute shootout on Saturday morning, officials said.[](https://cwbchicago.com/2024/10/gunman-shoots-man-engages-cops-in-2%c2%bd-minutes-shootout-before-being-neutralized-by-chicago-police-officials.html "Gunman shoots man, engages cops in 2½-minute shootout before being neutralized by Chicago police: officials")
 
 Search
 
