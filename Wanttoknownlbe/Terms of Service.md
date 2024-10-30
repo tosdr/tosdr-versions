@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/shell-wint-groene-zeepbel-amnesty-vraagt-je-hulp/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/homeopathie-een-wetenschappelijk-congres/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
