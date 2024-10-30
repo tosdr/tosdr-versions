@@ -258,23 +258,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Inset: Larry Savage Jr. (Madison County Jail). Background: Savage allegedly stealing election ballots during a test of county voting machines (Madison County Election Board).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/dfasdfdf-432x243.jpg)](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
+1. [![Inset: Larry Savage Jr. (Madison County Jail). Background: Savage allegedly stealing election ballots during a test of county voting machines (Madison County Election Board).](https://lawandcrime.com/wp-content/uploads/2024/10/dfasdfdf-432x243.jpg)](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
     ### ['They're coming after us patriots': Former 'MAGA Candidate' for Congress caught stealing election ballots, charged with felony, police say](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
-2. [![Saul Lucio-Ipina](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Saul-Lucio-Ipina-1-432x243.jpg)](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
+2. [![Saul Lucio-Ipina](https://lawandcrime.com/wp-content/uploads/2024/10/Saul-Lucio-Ipina-1-432x243.jpg)](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
     
     ### [Man who would 'zap' wife when she didn't answer questions about cheating receives fate](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
     
-3. [![Robert Ray, Aileen Cannon](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Ray-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
+3. [![Robert Ray, Aileen Cannon](https://lawandcrime.com/wp-content/uploads/2024/10/Ray-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
     
     ### [Court to consider former Clinton investigator turned Trump impeachment lawyer's argument that Judge Cannon 'correctly dismissed' Jack Smith's Mar-a-Lago case](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
     
-4. [![Helmut Viktor Stefan Lockner (Marion County Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/adfddff-432x243.jpg)](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
+4. [![Helmut Viktor Stefan Lockner (Marion County Sheriff's Office).](https://lawandcrime.com/wp-content/uploads/2024/10/adfddff-432x243.jpg)](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
     
     ### ['You can die with me': 93-year-old man tried to murder wife of 60 years because he 'did not want to leave her alone,' police say](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
     
-5. [![Trump, Paul Gavenonis](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Trump-2-432x243.jpg)](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
+5. [![Trump, Paul Gavenonis](https://lawandcrime.com/wp-content/uploads/2024/10/Trump-2-432x243.jpg)](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
     
     ### ['I'd like to shoot that guy': Man arrested for Trump threat while buying commuter lot parking pass one day before Penn State rally, cops say](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
     
