@@ -219,3 +219,5 @@ Partners
 Copyright © 2024 Bambu Lab All Rights Reserved.
 
 Do Not Sale or Share My Personal Information
+
+[](https://support.bambulab.com/?lang=en)
