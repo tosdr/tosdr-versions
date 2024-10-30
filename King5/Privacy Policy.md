@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_360x203.jpg)](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
+    *  [![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_360x203.jpg)](https://www.king5.com/article/news/local/seattle/aclu-sues-seattle-city-attorney/281-f4b753e7-b46e-4b40-9813-c6de48e1e606)
         
-        #### ['Belltown Hellcat' driver arrested on $50,000 Renton warrant](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd) [![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_360x203.jpg)](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
+        #### [ACLU sues Seattle City Attorney over 'misuse of prosecutorial power'](https://www.king5.com/article/news/local/seattle/aclu-sues-seattle-city-attorney/281-f4b753e7-b46e-4b40-9813-c6de48e1e606)
         
-        #### [Miles Hudson, the 'Belltown Hellcat' driver, back in jail on $50,000 Renton warrant](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd) [![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce/20240910T191945/e1aa6ce0-2d44-40ba-b701-0e09b8b221ce_360x203.jpg)](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
+    *  [![](https://media.king5.com/assets/KING/images/8fad765f-798a-4cb9-94b2-768b91324a55/20241030T195702/8fad765f-798a-4cb9-94b2-768b91324a55_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8fad765f-798a-4cb9-94b2-768b91324a55/20241030T195702/8fad765f-798a-4cb9-94b2-768b91324a55_360x203.jpg)](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
         
-        #### [Infamous 'Belltown Hellcat' driver back in jail over $50,000 Renton warrant](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
-    *  [![](https://media.king5.com/assets/KING/images/e8843ba5-4889-4374-8af4-025180ee4419/20241025T013443/e8843ba5-4889-4374-8af4-025180ee4419_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e8843ba5-4889-4374-8af4-025180ee4419/20241025T013443/e8843ba5-4889-4374-8af4-025180ee4419_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-union-productive-meeting-company/281-cb0ca848-692a-4248-947b-d70aba796418)
-        
-        #### [Boeing, machinists union hold first meeting since last contract rejection](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-union-productive-meeting-company/281-cb0ca848-692a-4248-947b-d70aba796418)
+        #### ['Belltown Hellcat' driver arrested on $50,000 Renton warrant](https://www.king5.com/article/news/crime/belltown-hellcat-driver-arrested-renton-warrant/281-518ab32f-4de1-4702-ac0d-31bf2a9e79fd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b19a9580-7d4e-4f79-9374-f7682a64e5fe/20241030T115325/b19a9580-7d4e-4f79-9374-f7682a64e5fe_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b19a9580-7d4e-4f79-9374-f7682a64e5fe/20241030T115325/b19a9580-7d4e-4f79-9374-f7682a64e5fe_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ad57601c-8a76-45b4-81ef-b618275cd21b/20241030T192617/ad57601c-8a76-45b4-81ef-b618275cd21b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad57601c-8a76-45b4-81ef-b618275cd21b/20241030T192617/ad57601c-8a76-45b4-81ef-b618275cd21b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -97,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
