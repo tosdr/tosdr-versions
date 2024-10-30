@@ -123,7 +123,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 Wired Floodlight
 
-Security Camera and Light
+Security Light and Camera
 
 From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
@@ -256,7 +256,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 Wired Floodlight
 
-Security Camera and Light
+Security Light and Camera
 
 From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
 
@@ -416,7 +416,7 @@ Security Plans
             
             Wired Floodlight
             
-            Security Camera and Light
+            Security Light and Camera
             
             From $149.99](https://www.arlo.com/en-us/light/arlo-wired-floodlight.html)
             
