@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-    * [Diwali 2024](https://www.news18.com/diwali/)
-    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-election-live-final-day-nomination-papers-mahayuti-mva-yet-to-finalise-seat-sharing-liveblog-9102530.html)
-    * [Suriya](https://www.news18.com/movies/suriya-on-shifting-to-mumbai-with-family-jyotika-gave-up-her-career-friends-9102498.html)
-    * [Dhanteras](https://www.news18.com/lifestyle/dhanteras-vastu-tips-how-to-welcome-wealth-and-prosperity-into-your-home-9100060.html)
-    * [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-chats-with-nick-jonas-in-hindi-video-goes-viral-9102427.html)
+    * [Ananya Panday](https://www.news18.com/movies/walker-blanco-confirms-dating-ananya-panday-in-romantic-birthday-post-i-love-you-9103672.html)
+    * [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
+    * [Nawab Malik](https://www.news18.com/elections/nawab-malik-says-ajit-pawar-wanted-him-to-contest-maharashtra-election-bjp-has-right-to-oppose-me-exclusive-9103916.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/)
     * [US Elections](https://www.news18.com/elections/us-election/)
+    * [Darshan](https://www.news18.com/movies/darshan-gets-interim-bail-in-renukaswamy-murder-case-9103818.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [IPL Retentions](https://www.news18.com/cricket/ipl-2025-players-retention-announcement-live-list-deadline-day-csk-mi-kkr-rcb-lsg-dc-rr-srh-pbks-gt-dhoni-rahul-pant-maxwell-liveblog-9101301.html)
-* [Diwali 2024](https://www.news18.com/diwali/)
-* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-election-live-final-day-nomination-papers-mahayuti-mva-yet-to-finalise-seat-sharing-liveblog-9102530.html)
-* [Suriya](https://www.news18.com/movies/suriya-on-shifting-to-mumbai-with-family-jyotika-gave-up-her-career-friends-9102498.html)
-* [Dhanteras](https://www.news18.com/lifestyle/dhanteras-vastu-tips-how-to-welcome-wealth-and-prosperity-into-your-home-9100060.html)
-* [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-chats-with-nick-jonas-in-hindi-video-goes-viral-9102427.html)
+* [Ananya Panday](https://www.news18.com/movies/walker-blanco-confirms-dating-ananya-panday-in-romantic-birthday-post-i-love-you-9103672.html)
+* [Diwali 2024](https://www.news18.com/india/diwali-2024-ram-mandir-ayodhya-deepawali-celebration-delhi-mumbai-liveblog-9103983.html)
+* [Nawab Malik](https://www.news18.com/elections/nawab-malik-says-ajit-pawar-wanted-him-to-contest-maharashtra-election-bjp-has-right-to-oppose-me-exclusive-9103916.html)
+* [Maharashtra Elections](https://www.news18.com/elections/)
 * [US Elections](https://www.news18.com/elections/us-election/)
+* [Darshan](https://www.news18.com/movies/darshan-gets-interim-bail-in-renukaswamy-murder-case-9103818.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
