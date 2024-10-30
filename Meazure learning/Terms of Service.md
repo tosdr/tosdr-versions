@@ -284,6 +284,7 @@ McLean, VA 22102
 * [Privacy Policy](https://www.meazurelearning.com/privacy-policy "Privacy Policy")
 * [Compliance](https://www.meazurelearning.com/compliance "Compliance")
 * [Accessibility Statement](https://www.meazurelearning.com/accessibility-statement "Accessibility Statement")
+* [AI Responsible Use Statement](https://www.meazurelearning.com/ai-responsible-use-statement "Accessibility Statement")
 
 #### Newsletter Sign-Up
 
