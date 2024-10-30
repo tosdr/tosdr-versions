@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [10 Million Fish Eaten by Cod in One Fell Swoop](https://www.sciencedaily.com/releases/2024/10/241029120944.htm)
 * [Cyanobacteria May Help Sequester Carbon](https://www.sciencedaily.com/releases/2024/10/241029120800.htm)
 * ['Gold' Fossilized Bugs](https://www.sciencedaily.com/releases/2024/10/241029120652.htm)
 * [Dinosaurs Thrived After Ice, Not Fire](https://www.sciencedaily.com/releases/2024/10/241028164257.htm)
@@ -217,7 +218,6 @@ this hour
 * [What Animal Societies Can Teach Us About Aging](https://www.sciencedaily.com/releases/2024/10/241028211432.htm)
 * [Why Langurs Drink Salt Water](https://www.sciencedaily.com/releases/2024/10/241028131601.htm)
 * [Scientists Reverse Brain Aging in Fruit Flies](https://www.sciencedaily.com/releases/2024/10/241028164423.htm)
-* [Lab-Grown Pork Support Fromed by Sorghum Grain](https://www.sciencedaily.com/releases/2024/10/241028131649.htm)
 
 Trending Topics
 ---------------
@@ -232,23 +232,23 @@ this week
 
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Bone and Spine](https://www.sciencedaily.com/news/health_medicine/bone_and_spine/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
 
   
 
