@@ -16,71 +16,74 @@
     Trending
     
     * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Germany](https://www.euronews.com/tag/germany)
     * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
     
     * * *
     
     Latest stories
     
-    [![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
+    [![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")
     
-    ![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
-    
-    [![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
-    
-    ![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+    ![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](https://static.euronews.com/articles/stories/08/82/31/44/368x207_cmsv2_a9a9bd2c-cccf-52fd-acf2-d2091be51fae-8823144.jpg "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
     
     Now playing Next
     
-    [Markets](https://www.euronews.com/business/markets)
+    [Business](https://www.euronews.com/business/business)
     
-    ### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+    ### [Swiss banking giant UBS beats forecasts with leap in profits](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
     
-    [![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
+    [![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")
     
-    ![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
-    
-    Now playing Next
-    
-    [Lebanon](https://www.euronews.com/news/asia/lebanon)
-    
-    ### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
-    
-    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
-    
-    ![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+    ![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](https://static.euronews.com/articles/stories/08/82/33/32/368x207_cmsv2_b2a87237-675b-5a79-8bc3-cad308be5d8a-8823332.jpg "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
     
     Now playing Next
     
-    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    [Art](https://www.euronews.com/culture/art)
     
-    ### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+    ### [Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
+    
+    [![Election officials attend to a voting station in Hrusevo, 20 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Election officials attend to a voting station in Hrusevo, 20 October 2024")
+    
+    ![Election officials attend to a voting station in Hrusevo, 20 October 2024](https://static.euronews.com/articles/stories/08/82/24/02/368x207_cmsv2_11ff5ee3-049b-586d-bb8c-2590b088bcda-8822402.jpg "Election officials attend to a voting station in Hrusevo, 20 October 2024")](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Sandu and Stoianoglo face off in crucial Moldova presidential runoff](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
+    
+    [![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")
+    
+    ![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](https://static.euronews.com/articles/stories/08/75/55/70/368x207_cmsv2_0985e023-30a0-538d-a209-424f96767c68-8755570.jpg "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+    
+    Now playing Next
+    
+    [Qatar 365](https://www.euronews.com/programs/qatar-365)
+    
+    ### [Pumping out premium content– from stage shows to premium video content](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+    
+    In partnership with **Media City**
     
 * [Europe](https://www.euronews.com/my-europe)
     
     Categories
     
     * [Europe News](https://www.euronews.com/my-europe/europe-news)
-    * [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
+    * [Europe Series](https://www.euronews.com/my-europe/my-europe-series)
     
     * * *
     
     Programmes
     
-    * [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
+    * [Brussels, My Love?](https://www.euronews.com/my-europe/my-europe-series/brussels-my-love)
     * [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
     * [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
     * [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    * [EU Decoded](https://www.euronews.com/my-europe/my-europe-series/eu-decoded)
     * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
     * [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
@@ -316,6 +319,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -361,77 +366,80 @@ Close menu sidebar
 Trending
 
 * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Germany](https://www.euronews.com/tag/germany)
 * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Artificial intelligence](https://www.euronews.com/tag/artificial-intelligence)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
 
 * * *
 
 Latest stories
 
-[![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")
+[![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")
 
-![Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ](https://static.euronews.com/articles/stories/08/80/65/42/368x207_cmsv2_41732407-91f0-5b03-ad2d-e13910a5857e-8806542.jpg "Abba, The Cure and Radiohead musicians sign statement against using creatives’ work to train AI ")](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
+![In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.](https://static.euronews.com/articles/stories/08/82/31/44/368x207_cmsv2_a9a9bd2c-cccf-52fd-acf2-d2091be51fae-8823144.jpg "In this April 24, 2014 file photo a Swiss flag flutters beside the logo of UBS bank in Zurich, Switzerland.")](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
 
 Now playing Next
 
-[Culture news](https://www.euronews.com/culture/culture-news)
+[Business](https://www.euronews.com/business/business)
 
-### [ABBA, The Cure and Radiohead sign AI protest letter](https://www.euronews.com/culture/2024/10/23/abba-the-cure-and-radiohead-musicians-sign-statement-against-using-creatives-work-to-train)
+### [Swiss banking giant UBS beats forecasts with leap in profits](https://www.euronews.com/business/2024/10/30/swiss-banking-giant-ubs-beats-forecasts-with-leap-in-profits)
 
 * * *
 
-[![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")
+[![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")
 
-![A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.](https://static.euronews.com/articles/stories/08/78/79/16/368x207_cmsv2_32f737dd-a2a5-5a71-ab0c-a45e792b45f1-8787916.jpg "A symbol for the Euro is projected onto the European Central Bank building in Frankfurt, Germany.")](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+![Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ](https://static.euronews.com/articles/stories/08/82/33/32/368x207_cmsv2_b2a87237-675b-5a79-8bc3-cad308be5d8a-8823332.jpg "Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections  ")](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
 
 Now playing Next
 
-[Markets](https://www.euronews.com/business/markets)
+[Art](https://www.euronews.com/culture/art)
 
-### [What key factors could keep the euro under pressure for some time?](https://www.euronews.com/business/2024/10/23/what-key-factors-could-keep-the-euro-under-pressure-for-some-time)
+### [Poo and neo-Nazi torches: Anti-Trump protest art ahead of elections](https://www.euronews.com/culture/2024/10/30/poo-and-neo-nazi-torches-anti-trump-protest-art-ahead-of-elections)
 
 * * *
 
-[![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")
+[![Election officials attend to a voting station in Hrusevo, 20 October 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Election officials attend to a voting station in Hrusevo, 20 October 2024")
 
-![FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ](https://static.euronews.com/articles/stories/08/80/63/10/368x207_cmsv2_bce674ca-4d73-5d83-8e29-0fd0fdd393bc-8806310.jpg "FILE - In this May 13, 2016 file photo, Hashem Safieddine, head of Hezbollah's executive council, second left, is seen in a southern suburb of Beirut, Lebanon. ")](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+![Election officials attend to a voting station in Hrusevo, 20 October 2024](https://static.euronews.com/articles/stories/08/82/24/02/368x207_cmsv2_11ff5ee3-049b-586d-bb8c-2590b088bcda-8822402.jpg "Election officials attend to a voting station in Hrusevo, 20 October 2024")](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
 
 Now playing Next
 
-[Lebanon](https://www.euronews.com/news/asia/lebanon)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Israeli army says it killed top Hezbollah leader in Beirut airstrike](https://www.euronews.com/2024/10/23/israeli-army-says-it-killed-hezbollahs-expected-leader)
+### [Sandu and Stoianoglo face off in crucial Moldova presidential runoff](https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof)
 
 * * *
 
-[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+[![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")
 
-![Euronews](https://static.euronews.com/articles/stories/08/80/46/02/368x207_cmsv2_f94a8042-0587-5b80-a263-57267e7022bc-8804602.jpg "Euronews")](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+![On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas](https://static.euronews.com/articles/stories/08/75/55/70/368x207_cmsv2_0985e023-30a0-538d-a209-424f96767c68-8755570.jpg "On screen and on set: Entertainment offerings in Qatar vary from theatre shows to film and TV dramas")](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
 
 Now playing Next
 
-[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+[Qatar 365](https://www.euronews.com/programs/qatar-365)
 
-### [Are Moldova and Georgia the next Ukraine?](https://www.euronews.com/my-europe/2024/10/23/are-moldova-and-georgia-the-next-ukraine-radio-schuman)
+### [Pumping out premium content– from stage shows to premium video content](https://www.euronews.com/2024/10/30/on-screen-and-on-set-entertainment-offerings-in-qatar-vary-from-theatre-shows-to-film-and-)
+
+In partnership with **Media City**
 
 [Europe](https://www.euronews.com/my-europe)
 
 Categories
 
 * [Europe News](https://www.euronews.com/my-europe/europe-news)
-* [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
+* [Europe Series](https://www.euronews.com/my-europe/my-europe-series)
 
 * * *
 
 Programmes
 
-* [Brussels, My Love?](https://www.euronews.com/my-europe/europe-decoded/brussels-my-love)
+* [Brussels, My Love?](https://www.euronews.com/my-europe/my-europe-series/brussels-my-love)
 * [Europeans' Stories](https://www.euronews.com/my-europe/my-europe-series/europeans-stories)
 * [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
 * [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+* [EU Decoded](https://www.euronews.com/my-europe/my-europe-series/eu-decoded)
 * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
 * [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
@@ -669,6 +677,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -933,8 +943,8 @@ Read more from our international journalists
 
 Themes 
 
-* [My Europe](https://www.euronews.com/my-europe)
-* [World](https://www.euronews.com/news/international)
+* [Europe](https://www.euronews.com/my-europe)
+* [World](https://www.euronews.com/news)
 * [Business](https://www.euronews.com/business)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
 * [Green](https://www.euronews.com/green)
@@ -942,34 +952,33 @@ Themes
 * [Health](https://www.euronews.com/health)
 * [Travel](https://www.euronews.com/travel)
 * [Culture](https://www.euronews.com/culture)
-* [Video](https://www.euronews.com/video)
+* [Videos](https://www.euronews.com/video)
 * [Programmes](https://www.euronews.com/programs)
 
 Services 
 
 * [Live](https://www.euronews.com/live)
 * [Bulletin](https://www.euronews.com/bulletin)
-* [All Weather](https://www.euronews.com/weather)
-* [Just in](https://www.euronews.com/just-in)
+* [Weather](https://www.euronews.com/weather)
+* [Latest](https://www.euronews.com/just-in)
 * [Follow us](https://www.euronews.com/follow-us)
 * [Apps](https://www.euronews.com/apps)
 * [Messaging apps](https://www.euronews.com/messaging-apps)
 * [Widgets & Services](https://www.euronews.com/widgets)
-* [Africanews](https://www.africanews.com/)
 * [Job offers from Amply](https://joboffers.euronews.com/?source=footer&utm_source=footer&utm_medium=partner_referral)
+* [Africanews](https://www.africanews.com/)
 
 More 
 
 * [About Euronews](https://www.euronews.com/about)
 * [Commercial Services](https://www.euronews.com/commercial)
-* [EU Coverage](https://www.euronews.com/services-ue)
 * [Terms and Conditions](https://www.euronews.com/terms-and-conditions)
 * [Cookie Policy](https://www.euronews.com/cookie-policy)
-* [Modify my cookies choices](javascript:Didomi.preferences.show())
 * [Privacy Policy](https://www.euronews.com/terms-and-conditions/#privacypolicy)
 * [Contact](https://www.euronews.com/contact)
-* [Press Office](https://www.euronews.com/press-office)
+* [Press office](https://www.euronews.com/press-office)
 * [Work at Euronews](https://www.euronews.com/jobs)
+* [Modify my cookies choices](javascript:Didomi.preferences.show())
 
 [Follow us](https://www.euronews.com/follow-us)
 
@@ -982,12 +991,21 @@ More
 * [![Flipboard](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Flipboard")
     
     ![Flipboard](https://static.euronews.com/website/images/vector/social-icons/flipboard_logo.svg "Flipboard")](https://flipboard.com/@euronews)
-* [![Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Instagram")
+* [![Youtube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Youtube")
     
-    ![Instagram](https://static.euronews.com/website/images/vector/social-icons/social_icon_instagram.svg "Instagram")](https://www.instagram.com/euronews.tv/)
+    ![Youtube](https://static.euronews.com/website/images/vector/social-icons/social_icon_youtube.svg "Youtube")](https://www.youtube.com/euronews)
 * [![Linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Linkedin")
     
     ![Linkedin](https://static.euronews.com/website/images/vector/social-icons/social_icon_linkedin.svg "Linkedin")](https://www.linkedin.com/company/euronews)
+* [![Dailymotion](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Dailymotion")
+    
+    ![Dailymotion](https://static.euronews.com/website/images/vector/social-icons/social_icon_dailymotion.svg "Dailymotion")](https://www.dailymotion.com/euronews-en)
+* [![Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Instagram")
+    
+    ![Instagram](https://static.euronews.com/website/images/vector/social-icons/social_icon_instagram.svg "Instagram")](https://www.instagram.com/euronews.tv/)
+* [![VK](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "VK")
+    
+    ![VK](https://static.euronews.com/website/images/vector/social-icons/social_icon_vk.svg "VK")](https://vk.com/en.euronews)
 
 [Newsletters](https://www.euronews.com/newsletters)
 
