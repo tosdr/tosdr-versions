@@ -281,7 +281,7 @@ And **Kami Limited** in New Zealand
 
 ### Product comparison
 
-[Kami vs Jamboard](https://www.kamiapp.com/kami-vs-jamboard/)[Kami vs Flip Alternative](https://www.kamiapp.com/kami-vs-flip-alternative/)
+[Kami vs Jamboard](https://www.kamiapp.com/kami-vs-jamboard/)[Kami vs Flip](https://www.kamiapp.com/kami-vs-flip/)
 
 ### Resources
 
