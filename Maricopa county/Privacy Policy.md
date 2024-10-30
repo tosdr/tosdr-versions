@@ -77,9 +77,9 @@ Unauthorized attempts to upload information or change information on this servic
 
 [![Facebook Orange Circle](/ImageRepository/Document?documentID=87799)](https://www.facebook.com/maricopacountyaz)
 
-[![Twitter-X Orange Circle](/ImageRepository/Document?documentID=87801)](https://twitter.com/maricopacounty)
-
 [![Instagram Orange Circle](/ImageRepository/Document?documentID=87797)](https://www.instagram.com/maricopacounty)
+
+[![Twitter-X Orange Circle](/ImageRepository/Document?documentID=87801)](https://twitter.com/maricopacounty)
 
 [![YouTube Orange Circle](/ImageRepository/Document?documentID=87803)](https://www.youtube.com/user/MaricopaVideo)
 
