@@ -389,8 +389,6 @@ You may contact us at the following address: Cirkul, Inc., 3620 Queen Palm Dr. T
 
 March 19, 2024
 
-MARCTEST
-
 Join our Facebook Community
 ---------------------------
 
