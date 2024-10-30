@@ -73,7 +73,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
     
     ### [How to create E-commerce campaigns for Singles Day](https://www.exoclick.com/how-to-create-e-commerce-campaigns-for-singles-day/)
     
-    Are you an Advertiser who promotes in Asia or are you looking to break into the market with your E-commerce offers? Why not try Advertising in China for Singles Day 2024? In this article, we will discover ‘What is Singles Day?’, how to create E-commerce campaigns for Singles Day that convert in China, and our \[…\]
+    Advertisers! Take advantage of Singles Day 2024! Check out our top tips on how to create E-commerce campaigns for Singles Day!
     
     [Read More](https://www.exoclick.com/how-to-create-e-commerce-campaigns-for-singles-day/)
     
@@ -97,26 +97,6 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
 -------------------------------------------------------------------------------------
 
-* [![Webinar Recording: Everything you need you know about Conversion Tracking](https://www.exoclick.com/wp-content/uploads/2023/10/conversion-tracking.png)](https://youtu.be/sH1fnvKDQPU)
-    
-    ### [Webinar Recording: Everything you need you know about Conversion Tracking](https://youtu.be/sH1fnvKDQPU)
-    
-    Oct 24, 2023
-    
-    If you missed our Webinar, watch the recording.
-    
-    [Watch now](https://youtu.be/sH1fnvKDQPU)
-    
-* [![Publisher Tutorial](https://www.exoclick.com/wp-content/uploads/2023/08/SitesandZonesAdRefresh.jpg)](https://youtu.be/_XpObOh4fM4)
-    
-    ### [Publisher Tutorial](https://youtu.be/_XpObOh4fM4)
-    
-    Aug 28, 2023
-    
-    How to set up our new Ad Refresh feature
-    
-    [Watch now](https://youtu.be/_XpObOh4fM4)
-    
 * [![Advertiser Tutorial](https://www.exoclick.com/wp-content/uploads/2023/04/Smart-bid-tutorial-thumbnail_EN.png)](https://youtu.be/uA1Z_1owfgw)
     
     ### [Advertiser Tutorial](https://youtu.be/uA1Z_1owfgw)
@@ -131,15 +111,15 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Events](https://www.exoclick.com/events/)
 ------------------------------------------
 
-* [![Book a meeting with exoClick at TES Affiliate Conference, Prague](https://www.exoclick.com/wp-content/uploads/2024/08/TES-Prague-320x179.jpg)](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
+* [![ExoClick is attending AW Bankok 2024](https://www.exoclick.com/wp-content/uploads/2024/10/AW-Bangkok-1-320x179.jpg)](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
     
-    ### [ExoClick at TES Affiliate Conference, Prague 2024](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
+    ### [ExoClick is attending Affiliate World Bangkok 2024!](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
     
-    When: September 16, 2024 - September 19, 2024 Organiser: TES Affiliate Conferences
+    When: December 4, 2024 - December 5, 2024 Organiser: Affiliate World
     
-    ExoClick is exhibiting at the TES Affiliate Conference in Prague from the 16th to the 19th of September 2024! Visit our booth B34 or book a meeting with our experts!
+    ExoClick will exhibit at Affiliate World Bangkok from December 4th to 5th, 2024! Visit our booth D30 or book a meeting with our experts below!
     
-    [Read More](https://www.exoclick.com/event/exoclick-at-tes-affiliate-conference-prague-2024/)
+    [Read More](https://www.exoclick.com/event/exoclick-is-attending-affiliate-world-bangkok-2024/)
     
 
 #### [Advertisers](https://www.exoclick.com/advertisers-2/)
