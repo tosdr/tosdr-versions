@@ -215,6 +215,10 @@ If you have any questions about this Privacy Policy, please contact us by email:
 
 ![National Smallbore Rifle Association Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2020/06/nsra.png)](https://www.nsra.co.uk/)  
   
+[![NSRA Performance Club Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![NSRA Performance Club Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2024/10/NSRA-Performance-Club-Sign.png)](https://www.nsra.co.uk/)  
+  
 [![British Shooting Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![British Shooting Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2021/01/British_Shooting_Logo_RGB-copy.png)](https://www.britishshooting.org.uk/)
