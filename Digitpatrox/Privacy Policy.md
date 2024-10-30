@@ -20,16 +20,16 @@ Wednesday, October 30 2024
 
 Latest
 
+* [US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
+* [The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
+* [Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
+* [8 Tips to Organize Apps on Your Android Phone](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
+* [Standalone Mac Mini Will Include M4 Chip, Price Starts at $599](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
+* [No more Galaxy? — Samsung just tipped to rebrand its flagship phones](https://digitpatrox.com/no-more-galaxy-samsung-just-tipped-to-rebrand-its-flagship-phones/)
+* [Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://digitpatrox.com/massive-psaux-ransomware-attack-targets-22000-cyberpanel-instances/)
+* [AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://digitpatrox.com/amd-confirms-its-next-gen-rdna-4-gpus-will-launch-in-early-2025/)
+* [Today’s Wordle Answer and Hints (October 30, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-30-2024/)
 * [Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
-* [Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
-* [How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
-* [Household Cleaning Tools: How to Clean and When to Replace](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
-* [Chrome’s Memory Saver Is Getting Upgraded](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
-* [Apple is offering rewards of up to $1 million to find critical flaws in its private AI cloud systems](https://digitpatrox.com/apple-is-offering-rewards-of-up-to-1-million-to-find-critical-flaws-in-its-private-ai-cloud-systems/)
-* [A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-2/)
-* [NYT Connections today hints and answers — Wednesday, October 30 (#507)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-30-507/)
-* [New Windows Themes zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-themes-zero-day-gets-free-unofficial-patches/)
-* [Reddit is profitable for the first time ever, with nearly 100 million daily users](https://digitpatrox.com/reddit-is-profitable-for-the-first-time-ever-with-nearly-100-million-daily-users/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593110-0-96171900-1730208332-1-streaming-archiveorg-100786177-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3593646-0-96911100-1730195155-china_us_chip_semiconductor-100944587-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
     
-    [Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
-    
-    10 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JBB6RGKKKW0296Y19GYRBD1T/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
-    
-    [Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
-    
-    37 mins ago
-    
-* [![](https://pureinfotech.com/wp-content/uploads/2023/06/rufus-bypass-settings-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
-    
-    [How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
-    
-    58 mins ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729707235/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-How-Often-to-Replace-Cleaning-Supplies-1024)](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
-    
-    [Household Cleaning Tools: How to Clean and When to Replace](https://digitpatrox.com/household-cleaning-tools-how-to-clean-and-when-to-replace/)
+    [US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/chrome2.jpg)](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
+* [![](https://lifehacker.com/imagery/articles/01JBCQ4SER9SMDB45NQ21QSF7V/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
     
-    [Chrome’s Memory Saver Is Getting Upgraded](https://digitpatrox.com/chromes-memory-saver-is-getting-upgraded/)
+    [The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729789364/prod/content/dam/CRO-Images-2024/Special-Products/CR-SP-InlineHero-Best-and-Worst-Anchor-Kits-1024)](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
+    
+    [Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
+    
+    2 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-fold-6-closed-showing-the-app-drawer-on-the-cover-display.jpg)](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
+    
+    [8 Tips to Organize Apps on Your Android Phone](https://digitpatrox.com/8-tips-to-organize-apps-on-your-android-phone/)
+    
+    2 hours ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241029-apple-mac-mini-m4-launch.jpg)](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
+    
+    [Standalone Mac Mini Will Include M4 Chip, Price Starts at $599](https://digitpatrox.com/standalone-mac-mini-will-include-m4-chip-price-starts-at-599/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [1 hour ago
     
-    ### Leave the Internet Archive alone! – Computerworld](https://digitpatrox.com/leave-the-internet-archive-alone-computerworld/)
-* [37 mins ago
+    ### US finalizes curbs on investment in AI and critical technology in China – Computerworld](https://digitpatrox.com/us-finalizes-curbs-on-investment-in-ai-and-critical-technology-in-china-computerworld/)
+* [2 hours ago
     
-    ### Who is Baba Vanga and Did They Predict the World Is Ending in 2025?](https://digitpatrox.com/who-is-baba-vanga-and-did-they-predict-the-world-is-ending-in-2025/)
-* [58 mins ago
+    ### The Gladys iOS App Is the Perfect Digital Junk Drawer to Save Files for Later](https://digitpatrox.com/the-gladys-ios-app-is-the-perfect-digital-junk-drawer-to-save-files-for-later/)
+* [2 hours ago
     
-    ### How to create Windows 11 bootable USB to bypass requirements with Rufus](https://digitpatrox.com/how-to-create-windows-11-bootable-usb-to-bypass-requirements-with-rufus/)
+    ### Best Furniture Anchor Kits to Prevent Furniture Tip-Overs](https://digitpatrox.com/best-furniture-anchor-kits-to-prevent-furniture-tip-overs/)
 
 Most Popular Topics
 
-* [September 5, 2024
+* [September 9, 2024
     
-    ### A cyber criminal group behind an MFA bypass operation promised hackers “profit within minutes” – they’re now facing lengthy jail sentences](https://digitpatrox.com/a-cyber-criminal-group-behind-an-mfa-bypass-operation-promised-hackers-profit-within-minutes-theyre-now-facing-lengthy-jail-sentences/)
-* [1 week ago
-    
-    ### Cruise lost $435 million this quarter, even with its robotaxis on hiatus](https://digitpatrox.com/cruise-lost-435-million-this-quarter-even-with-its-robotaxis-on-hiatus/)
+    ### How-To Geek’s A to Z of Key Microsoft Excel Jargon](https://digitpatrox.com/how-to-geeks-a-to-z-of-key-microsoft-excel-jargon/)
 * [2 weeks ago
     
-    ### These Sonos Speakers Are Still on Sale at Prime Day Prices](https://digitpatrox.com/these-sonos-speakers-are-still-on-sale-at-prime-day-prices/)
+    ### OpenAI confirms threat actors use ChatGPT to write malware](https://digitpatrox.com/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
+* [August 13, 2024
+    
+    ### We played Valve’s secret new shooter: Deadlock](https://digitpatrox.com/we-played-valves-secret-new-shooter-deadlock/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-2/)
-* [2 hours ago
+    ### Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://digitpatrox.com/massive-psaux-ransomware-attack-targets-22000-cyberpanel-instances/)
+* [4 hours ago
     
-    ### NYT Connections today hints and answers — Wednesday, October 30 (#507)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-october-30-507/)
-* [3 hours ago
+    ### AMD confirms its next-gen RDNA 4 GPUs will launch in early 2025](https://digitpatrox.com/amd-confirms-its-next-gen-rdna-4-gpus-will-launch-in-early-2025/)
+* [4 hours ago
     
-    ### New Windows Themes zero-day gets free, unofficial patches](https://digitpatrox.com/new-windows-themes-zero-day-gets-free-unofficial-patches/)
+    ### Today’s Wordle Answer and Hints (October 30, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-30-2024/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 28, 2024
+* [August 11, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
