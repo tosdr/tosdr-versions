@@ -6,7 +6,7 @@ My Bag
 
 CheckoutCheckout
 
-Pre-order
+Preorder
 
 Edit
 
