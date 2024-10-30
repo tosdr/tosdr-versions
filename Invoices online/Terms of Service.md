@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=6255475)  
-Know Informatics
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=120102762)  
+Tagline Brands
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=52320131)  
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=108727498)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=137266571)  
 BEE SURE CONSULTING (PTY) LTD
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=21438027)  
-VIR Electrical (PTY) LTD
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=78907207)  
+Myfinance-Online
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=43507260)  
-NIMAWELL
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=12996721)  
+Imvubu General Trading
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=24578486)  
-TRACKFORCE (Pty) Ltd
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=54068970)  
+Alliance Energy
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=31378366)  
-Skinz Printing & Branding
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=84681526)  
+Highlands Auto Engineering
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=50953599)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=44293435)  
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=79170405)  
 Quad Biking Cape Town
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=75939827)  
-TIGERDSL
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=42210639)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=34242790)  
-MONSTER CONNECT (PTY) LTD
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=25560095)  
+Oukraal Merino's
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=104727556)  
-Camp 4 Africa (Pty) Ltd
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=140441267)  
+Network Grey (Pty) Ltd
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=198484538)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=87116165)  
+kidoscabbie
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=8442713)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=199085233)  
+Tiny Cuddles Photography
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=206092623)  
-Entidee Enterprise PTY (ltd)
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=62278171)  
+OptaServ
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=47bf69047a3895244d318d28ca4df260b59c575e87004f6062996dec5bc47315&c=15277557)  
-Frequency Fanatics (Pty) Ltd
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=85ab219d8002177f4d39cdfbef42d264c15aadde48f7d234bea234f59e493262&c=8250420)  
+Firstweb Hosting & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
