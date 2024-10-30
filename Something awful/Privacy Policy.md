@@ -205,27 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
-* [The Stuff](https://www.somethingawful.com/movie-reviews/the-stuff/1/)
-* [The Most Badass Rifts Cover Art According to Steve](https://www.somethingawful.com/dungeons-and-dragons/rifts-cover-art/1/)
-* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
+* [F for Friendetta](https://www.somethingawful.com/news/neil-gaiman-friends/)
+* [I Hate You Page 04](https://www.somethingawful.com/cliff-yablonski/i-hate-you-04/)
+* [Sin Cinema](https://www.somethingawful.com/photoshop-phriday/sin-cinema/1/)
+* [Captioned Simpsons .gifs!](https://www.somethingawful.com/photoshop-phriday/simpsons-frinkiac-animated/)
+* [Democratic National Committee](https://www.somethingawful.com/awful-links/awful-link-1172/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [I think more chicks should wear hats, it's cute](http://forums.somethingawful.com/showthread.php?threadid=4073884 "I think more chicks should wear hats, it's cute")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [Something I never got about the movie office space. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4073874 "Something I never got about the movie office space. Spoilers")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Post random SAclopedia entries](http://forums.somethingawful.com/showthread.php?threadid=4073877 "Post random SAclopedia entries")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [Did Captain Planet fail?](http://forums.somethingawful.com/showthread.php?threadid=4073918 "Did Captain Planet fail?")
 
 ### Random Articles
 
-* [Porn Versions of Classic Films! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classic-films-porn/1/)
-* [The National Socialist Clan of Sta](https://www.somethingawful.com/awful-links/awful-link-581/)
-* [Alien Plantlife Project](https://www.somethingawful.com/awful-links/awful-link-1001/)
-* [Hitler: Good or Bad?](https://www.somethingawful.com/comedy-goldmine/hitler-good-bad/)
-* [Electric Football!](https://www.somethingawful.com/news/electric-football/1/)
+* [LOOKS LIKE I'M DEPUTY SECRETARY IN CHARGE OF BATTERIES NOW](https://www.somethingawful.com/news/levi-energy-secretary/)
+* [Something Special](https://www.somethingawful.com/news/something-special/)
+* [Baba Sword](https://www.somethingawful.com/awful-links/awful-link-4329/)
+* [I Hate You Page 143](https://www.somethingawful.com/cliff-yablonski/i-hate-you-143/)
+* [Slipping The Surly Bonds](https://www.somethingawful.com/news/endeavour-shuttle-launch/)
 
 [Random!](https://www.somethingawful.com/random/)
 
