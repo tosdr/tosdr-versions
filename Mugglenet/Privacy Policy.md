@@ -374,15 +374,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The name Voldemort comes from the French words meaning “fly from death,” and his entire goal is to conquer death.
+Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
 
 ### Potter History
 
-March 29, 2006 – “Harry Potter and the Half-Blood Prince” is named Book of the Year at the British Book Awards ceremony.
+January 2, 2008 – MuggleNet gets hacked by, in Emerson Spartz’s words, a group of “sexually frustrated men.” The website came back online three days later.
 
 ### Potter Quote
 
-“Sunshine, daisies, butter mellow, Turn this stupid, fat rat yellow.”
+“We’d better get to bed before Snape comes along and tries to frame us for something else.”
 
 [](#)
 
