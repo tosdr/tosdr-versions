@@ -20,19 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
@@ -56,6 +43,18 @@
     [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
     
     ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,19 +105,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-360x180.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    ### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-    
-    [![Dirty Blonde Club in Clapham been shut down by Lambeth Council. 
-    CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/10/Dirty-Blonde-Club-in-Clapham-360x180.jpg)](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    ### [South London club has been shut down after a 24-year-old man was killed in a ‘fight outside the venue’](https://southwarknews.co.uk/news/crime/south-london-club-has-been-shut-down-after-a-24-year-old-man-was-killed-in-a-fight-outside-the-venue/)
-    
-    [![Firefighter stock image. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2023/11/Firefighter-stock-image.-Credit-LFB-scaled-e1698858872829-360x180.jpeg)](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
-    ### [Firefighters will no longer attend automatic alarms in most non-residential buildings from this week](https://southwarknews.co.uk/area/london/firefighters-will-no-longer-attend-automatic-alarms-in-most-non-residential-buildings-from-this-week/)
-    
     [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
     
     ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
@@ -142,6 +128,18 @@ View All Result
     [![A new station box at Elephant and Castle London Underground station (Image: TfL)](https://southwarknews.co.uk/wp-content/uploads/2024/10/0_AT_040924_ElephantandCastlestationboxJPG-360x180.webp)](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
     
     ### [Analysis: Will the Budget unleash the Bakerloo Line extension?](https://southwarknews.co.uk/news/news-plus/analysis-will-the-budget-unleash-the-bakerloo-line-extension/)
+    
+    [![Southwark Homeowners Conference](https://southwarknews.co.uk/wp-content/uploads/2024/10/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+    
+    [![A previous Rotherhithe Voices event. Image provided by Alison Clayburn](https://southwarknews.co.uk/wp-content/uploads/2024/10/1000003833-e1730113844494-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    ### [Rotherhithe Voices brings community performances to Albion Street next month](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-voices-brings-community-performances-to-albion-street-next-month/)
+    
+    [![The council's offices on Tooley Street](https://southwarknews.co.uk/wp-content/uploads/2024/09/160-Tooley-Street-exterior-5-360x180.jpg)](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
+    
+    ### [Budget is ‘once-in-a-generation’ opportunity for ‘council housing revolution’, Southwark Labour Leader says](https://southwarknews.co.uk/area/southwark/budget-is-once-in-a-generation-opportunity-for-council-housing-revolution-southwark-labour-leader-says/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -245,12 +243,6 @@ Terms of Use
 
 ### Featured Articles
 
-[![Lemar Urqhart (left) and Guilherme Messias Da Silva (right)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lemar-Urqhart-left-and-Guilherme-Messias-Da-Silva-right-120x86.png)](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
-### [Family of man shot dead in Herne Hill says ‘time is not a healer’ in heartbreaking appeal for witnesses](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
-[30th October 2024](https://southwarknews.co.uk/area/herne-hill/family-of-man-shot-dead-in-herne-hill-says-time-is-not-a-healer-in-heartbreaking-appeal-for-witnesses/)
-
 [![Tom Burton with his 1963 Dandy edition](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tom-Burton-IMG_5912-e1730203462284-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
 
 ### [Bermondsey boy reunited with 60-year-old Dandy comic he starred in](https://southwarknews.co.uk/area/bermondsey/bermondsey-boy-reunited-with-60-year-old-dandy-comic-he-starred-in/)
@@ -280,6 +272,12 @@ Terms of Use
 ### [‘Many grievances were aired’: A view on the Southwark leaseholders’ conference](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
 
 [28th October 2024](https://southwarknews.co.uk/area/southwark/many-grievances-were-aired-a-view-on-the-southwark-leaseholders-conference/)
+
+[![(photo: Network Rail)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-28-10-2024-at-11.25-120x86.jpg)](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+### [Major rail disruptions hit south London with no trains at key stations all week](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
+
+[28th October 2024](https://southwarknews.co.uk/area/peckham/major-rail-disruptions-hit-south-london-with-no-trains-at-key-stations-all-week/)
 
 ### USEFUL PAGES
 
