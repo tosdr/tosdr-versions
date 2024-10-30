@@ -27,7 +27,7 @@ Most popular today
 * [Aging](https://healthydebate.ca/topic/aging/) (204)
 * [Dementia](https://healthydebate.ca/topic/dementia/) (43)
 * [Long-Term Care](https://healthydebate.ca/topic/long-term-care/) (82)
-* [Children and Youth](https://healthydebate.ca/topic/children-and-youth/) (268)
+* [Children and Youth](https://healthydebate.ca/topic/children-and-youth/) (269)
 * [Education](https://healthydebate.ca/topic/education/) (359)
 * [Medical Education](https://healthydebate.ca/topic/medical-education/) (181)
 * [Depression](https://healthydebate.ca/topic/depression/) (25)
