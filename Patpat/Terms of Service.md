@@ -1,5 +1,3 @@
-Free Shipping Over $45.00
-
 Easy returns within 30 days
 
 24/7 Online customer service
