@@ -13,7 +13,7 @@
             * [Windows](https://www.vpnranks.com/best-vpn/windows/)
             * [Kodi](https://www.vpnranks.com/best-vpn/kodi/)
         * Best VPN for Channels
-            * [Best Disney Plus VPN](https://www.vpnranks.com/best-vpn/disney-plus-vpn/)
+            * [Best Disney Plus VPN](https://www.vpnranks.com/best-vpn/disney-plus/)
             * [Best VPN for Hotstar](https://www.vpnranks.com/best-vpn/hotstar/)
             * [Best VPN for Netflix](https://www.vpnranks.com/best-vpn/netflix/)
             * [Best VPN for Amazon Prime](https://www.vpnranks.com/best-vpn/amazon-prime/)
