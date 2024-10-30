@@ -767,23 +767,59 @@ If you feel that we are not abiding by this privacy policy, or if you would like
     * More Services
         * [Certificate of Insurance (COI)](https://www.roadwaymoving.com/certificate-of-insurance-services/)
         * [GPS Tracking](https://www.roadwaymoving.com/gps-tracking/)
-        * [FVP](https://www.roadwaymoving.com/fvp/)
+        * [Full Value Protection moving insurance](https://www.roadwaymoving.com/fvp/)
 * Locations & Service Area
     
     * * *
     
-    * Roadway Moving
-        * [NYC](https://www.roadwaymoving.com/locations/new-york/)
-    * Roadway Community
-        * [Careers](https://www.roadwaymoving.com/careers/)
-        * [Roadway Gives Back](https://www.roadwaymoving.com/community/)
-    * Roadway Credibility
-        * [Reviews](https://www.roadwaymoving.com/reviews/)
-    * Company Resources
-        * [Press and News](https://www.roadwaymoving.com/news-press/)
-        * [Blog](https://www.roadwaymoving.com/blog/)
-        * [Video](https://www.roadwaymoving.com/video/)
-        * [Events](https://www.roadwaymoving.com/events/)
+    * East Coast Moving
+        * [NYC & New York State](https://www.roadwaymoving.com/locations/new-york/)
+        * [Manhattan](https://www.roadwaymoving.com/locations/new-york/manhattan/)
+        * [Brooklyn](https://www.roadwaymoving.com/locations/new-york/brooklyn-movers/)
+        * [Queens](https://www.roadwaymoving.com/locations/new-york/queens/)
+        * [The Bronx](https://www.roadwaymoving.com/locations/new-york/bronx/)
+        * [Connecticut](https://www.roadwaymoving.com/locations/connecticut/)
+        * [Miami](https://www.roadwaymoving.com/locations/florida/miami/)
+        * [Fort Lauderdale](https://www.roadwaymoving.com/locations/florida/fort-lauderdale/)
+        * [West Palm Beach](https://www.roadwaymoving.com/locations/florida/west-palm-beach/)
+        * [New Jersey](https://www.roadwaymoving.com/locations/new-jersey/)
+        * [Mount Vernon, NY](https://www.roadwaymoving.com/locations/new-york/mt-vernon/)
+        * [Philadelphia](https://www.roadwaymoving.com/locations/philadelphia/)
+        * [USA Wide Moving](https://www.roadwaymoving.com/long-distance-movers/)
+    * West Coast Moving
+        * [Los Angeles](https://www.roadwaymoving.com/locations/california/los-angeles/)
+        * [Beverly Hills](https://www.roadwaymoving.com/locations/california/los-angeles/beverly-hills/)
+        * [Santa Monica](https://www.roadwaymoving.com/locations/california/los-angeles/santa-monica/)
+        * [Malibu](https://www.roadwaymoving.com/locations/california/los-angeles/malibu/)
+        * [Sherman Oaks](https://www.roadwaymoving.com/locations/california/los-angeles/sherman-oaks/)
+        * [Pasadena](https://www.roadwaymoving.com/locations/california/pasadena/)
+        * [Orange County](https://www.roadwaymoving.com/locations/california/orange-county/)
+        * [San DIego](https://www.roadwaymoving.com/locations/california/san-diego/)
+        * [San Francisco](https://www.roadwaymoving.com/locations/california/san-francisco/)
+        * [San Jose](https://www.roadwaymoving.com/locations/california/san-jose/)
+        * [Oakland](https://www.roadwaymoving.com/locations/california/oakland/)
+        * [USA Wide Moving](https://www.roadwaymoving.com/long-distance-movers/)
+    * Storage Facilities
+        * [NYC storage](https://www.roadwaymoving.com/storage/ny/new-york-city/)
+        * [The Bronx storage](https://www.roadwaymoving.com/locations/new-york/bronx/storage/)
+        * [Los Angeles storage](https://www.roadwaymoving.com/storage/ca/los-angeles/)
+        * [San Francisco storage](https://www.roadwaymoving.com/storage/ca/san-francisco/)
+        * [Miami storage](https://www.roadwaymoving.com/storage/fl/miami/)
+        * [West Palm Beach storage](https://www.roadwaymoving.com/storage/fl/west-palm-beach/)
+        * [Fort Lauderdale storage](https://www.roadwaymoving.com/storage/fl/fort-lauderdale/)
+        * [Philadelphia storage](https://www.roadwaymoving.com/storage/pa/philadelphia/)
+    * Popular Routes
+        * [California to Texas](https://www.roadwaymoving.com/california-to-texas-movers/)
+        * [NYC to Connecticut](https://www.roadwaymoving.com/nyc-to-ct-movers/)
+        * [NYC to Chicago](https://www.roadwaymoving.com/nyc-to-chicago-movers/)
+        * [NYC to Los Angeles](https://www.roadwaymoving.com/nyc-to-la-movers/)
+        * [NYC to Washington DC](https://www.roadwaymoving.com/nyc-to-washington-movers/)
+        * [NYC to Texas](https://www.roadwaymoving.com/nyc-to-texas-movers/)
+        * [Los Angeles to NYC](https://www.roadwaymoving.com/la-to-nyc-movers/)
+        * [Los Angeles to San Diego](https://www.roadwaymoving.com/la-to-san-diego-movers/)
+        * [Los Angeles to Las Vegas](https://www.roadwaymoving.com/la-to-las-vegas-movers/)
+        * [San Francisco to Los Angeles](https://www.roadwaymoving.com/sf-to-la-movers/)
+        * [NYC to Philadelphia](https://www.roadwaymoving.com/nyc-to-philadelphia-movers/)
     * Find Us On Social
         * [![Instagram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
             
@@ -810,17 +846,24 @@ If you feel that we are not abiding by this privacy policy, or if you would like
     * Roadway Moving
         * [About Us](https://www.roadwaymoving.com/about/)
         * [Our Movers](https://www.roadwaymoving.com/our-movers/)
+        * [Reviews](https://www.roadwaymoving.com/reviews/)
         * [New York Yankees Partner](https://www.roadwaymoving.com/yankees/announcement/)
+        * [Careers](https://www.roadwaymoving.com/careers/)
     * Support
         * [Contact Us](https://www.roadwaymoving.com/contact-us/)
         * [Certificate of Insurance (COI)](https://www.roadwaymoving.com/certificate-of-insurance-services/)
+        * [Schedule a storage move out](https://www.roadwaymoving.com/contact-us/schedule-a-storage-move-out/)
+        * [Claims](https://www.roadwaymoving.com/contact-us/file-a-claim/)
         * [Moving 101](https://www.roadwaymoving.com/moving-101/)
         * [Tipping Guide](https://www.roadwaymoving.com/tipping-guide/)
         * [Moving FAQ](https://www.roadwaymoving.com/moving-faq/)
+        * [Blog](https://www.roadwaymoving.com/blog/)
+        * [Video](https://www.roadwaymoving.com/video/)
     * Media
+        * [Press and News](https://www.roadwaymoving.com/news-press/)
     * Community
-        * [Careers](https://www.roadwaymoving.com/careers/)
         * [Roadway Gives Back](https://www.roadwaymoving.com/community/)
+        * [Events](https://www.roadwaymoving.com/events/)
     * Get Moving!![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![](https://www.roadwaymoving.com/wp-content/uploads/2023/10/icon-roadway-angled.svg)
