@@ -548,7 +548,7 @@ Subscribe
     * [Security](https://www.headspace.com/security)
     * [Cookie policy](https://www.headspace.com/cookie-policy)
     
-* Other
+* About
     
     * [Terms & conditions](https://www.headspace.com/terms-and-conditions)
     * [Privacy policy](https://www.headspace.com/privacy-policy)
