@@ -17,7 +17,7 @@
         * [INTEGRATED SOLUTION](#)
             * [Bazaarvoice Vibe™
                 
-                Bazaarvoice Vibe is an integrated tech solution built to optimize every stage of your content supply chain.](https://www.bazaarvoice.com/products/bazaarvoice-vibe/)
+                Bazaarvoice Vibe is an integrated social content solution built to optimize every stage of your content supply chain.](https://www.bazaarvoice.com/products/bazaarvoice-vibe/)
             * [Sampling
                 
                 Get products to advocates and accumulate authentic reviews and visual content.](https://www.bazaarvoice.com/products/sampling/)
