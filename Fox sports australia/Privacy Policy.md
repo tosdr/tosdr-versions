@@ -38,6 +38,16 @@ FOX SCORES
     | MELR | 9 /141 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250106)
+* [Women's BBL
+    
+    31/10 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYDT | –   |
+    | HOB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250107)
 * [Men's Tour
     
     31/10 11:00 AEST
@@ -136,46 +146,16 @@ FOX SCORES
     | TWN | 84  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25010001/play-by-play)
-* [NBA
+* [NBL
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 114 |
-    | DAL | 120 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011034/box-score)
-* [NBA
-    
-    Full Time
+    31/10 19:30 AEST
     
     |     |     |
     | --- | --- |
-    | BKN | 139 |
-    | DEN | 144 |
+    | MEL | –   |
+    | SYD | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010098/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | UTA | 96  |
-    | SAC | 113 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010100/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GS  | 124 |
-    | NO  | 106 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010102/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25070001)
 * [NBA
     
     31/10 10:00 AEST
@@ -288,16 +268,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010122)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYY | 11  |
-    | LAD | 4   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240030024645A)
 * [MLB
     
     31/10 11:08 AEST
@@ -911,8 +881,6 @@ FOX SCORES
 * [AFL](https://www.foxsports.com.au/video/afl/afl)
 * [Women's AFL](https://www.foxsports.com.au/video/afl/womens-afl)
 * [Buddy 300](https://www.foxsports.com.au/video/afl/buddy-300)
-* [AFL 360](https://www.foxsports.com.au/video/afl/afl-360)
-* [On the Couch](https://www.foxsports.com.au/video/afl/on-the-couch)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
 
 [Cricket](https://www.foxsports.com.au/video/cricket)
@@ -951,7 +919,6 @@ FOX SCORES
 [Rugby](https://www.foxsports.com.au/video/rugby)
 
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
-* [Rugby](https://www.foxsports.com.au/video/rugby/rugby)
 * [Rugby World Cup](https://www.foxsports.com.au/video/rugby/rugby-world-cup)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
 
