@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In this episode of The Art of Dental Finance and M ![In this episode of The Art of Dental Finance and Management,” Art is joined by Laura Nelson, founder of Front Office Rocks. Laura has drawn on firsthand experience as a front office manager to help practices nationwide elevate their culture and advance growth. Now, she’s sharing her insights with our listeners, discussing the critical role of customer service systems, the value of a positive work environment, and the importance of structured training for new employees. Tune in to learn how training a rockstar front office team can transform your dental practice! Listen now via the link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBtetHQsKDl/) 
+
 [Sharing the news that smoking negatively impacts t ![Sharing the news that smoking negatively impacts the oral microbiome may help push patients toward tobacco cessation. Link in bio.⁠
 ⁠
 ⁠
@@ -174,13 +181,6 @@ By Liliana Aranguren, DDS, MDSc ⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBgmt5pt5rk/) 
-
-[Customized implant maintenance is crucial for prev ![Customized implant maintenance is crucial for preventing complications such as peri-implantitis. Patients with different dental and medical histories require distinct care regimens to ensure long-term success and implant health. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBeB7cVNLKF/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
