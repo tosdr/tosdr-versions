@@ -1,6 +1,8 @@
 ![](https://q.quora.com/_/ad/9202237d25bb4ca8a992b693ab0a3541/pixel?tag=ViewContent&noscript=1)        
 
-[![Coinzilla Advertising Network](assets/images/coinzilla-logo.svg)](https://coinzilla.com/)
+![stanga](assets/images/elements/STANGA-01.svg)
+
+[![Coinzilla Advertising Network](assets/images/halloween/logo.svg)](https://coinzilla.com/)
 
 * [Advertisers](https://coinzilla.com/advertisers/)
 * [Publishers](https://coinzilla.com/publishers/)
@@ -9,6 +11,8 @@
 
 * [Sign Up](https://app.coinzilla.com/signup/)
 * [Sign In](https://app.coinzilla.com/)
+
+![dreapta](assets/images/elements/DREAPTA-01.svg)
 
 * [Terms & Conditions](https://coinzilla.com/terms/)
 * [Privacy Policy](https://coinzilla.com/privacy-policy/)
@@ -372,7 +376,7 @@ Contact Our Sales Team
 
 [Send us a message](https://coinzilla.com/contact/)
 
-![footer mobile](/assets/images/footer/footer-mobile-illustration.svg) ![footer mobile](/assets/images/footer/footer-illustration.svg)
+![contact-our-team-mobile.svg](/assets/images/halloween/contact-our-team-mobile.svg) ![contact-our-sales-team.svg](/assets/images/halloween/contact-our-sales-team.svg)
 
 About
 
