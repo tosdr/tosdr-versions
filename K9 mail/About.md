@@ -1,3 +1,5 @@
+See the future of K-9 Mail. Thunderbird for Android is available now! [See the details on thunderbird.net](https://www.thunderbird.net/mobile)
+
 ![](https://k9mail.app/assets/img/glyphs/burger.svg)
 
 [![](https://k9mail.app/assets/img/k9-logo.svg)](https://k9mail.app/)
