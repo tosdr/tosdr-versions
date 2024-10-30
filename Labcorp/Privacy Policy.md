@@ -547,10 +547,11 @@ Email Preferences
 * [](https://www.instagram.com/labcorp/?hl=en)
 * [](https://www.threads.net/@labcorp)
 
-* [Privacy Statement](https://www.labcorp.com/hipaa-privacy "Privacy Statement")
-* [Terms and Conditions](https://www.labcorp.com/terms-and-conditions "Terms and Conditions")
+* [Compliance](https://www.labcorp.com/content/labcorp/us/en/compliance.html)
+* [Privacy Statement](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web.html "Privacy Statement")
+* [Terms and Conditions](https://www.labcorp.com/content/labcorp/us/en/compliance/privacy/web/terms-conditions.html "Terms and Conditions")
 * [Notice of Nondiscrimination](https://www.labcorp.com/labcorp-nondiscrimination-notice "Notice of Nondiscrimination")
-* [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/combatting-modern-slavery "Combatting Modern Slavery and Human Trafficking Statement")
+* [Combatting Modern Slavery and Human Trafficking Statement](https://www.labcorp.com/content/labcorp/us/en/compliance/ethics/slavery.html "Combatting Modern Slavery and Human Trafficking Statement")
 
 © 2024 Laboratory Corporation of America® Holdings. All Rights Reserved. 
 
