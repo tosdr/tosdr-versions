@@ -103,7 +103,7 @@ Error
 * [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
 * [Identity Fraud Notice](#contract-bjksxbw00)
 * [California Credit Disclosure](#contract-bk8o6a-ar)
-* [Authorization](#contract-hywkt6cca)
+* [Wallet Authorization - EN](#contract-hywkt6cca)
 * [DISCLOSURE: INVESTIGATIVE CONSUMER REPORT](#contract-ryp4k-vlkl)
 * [Tokenized Authorization (B2B) - EN-GB](#contract-robwm0vs)
 * [Wallet Authorization en-GB](#contract-hzugruzvb)
@@ -6124,14 +6124,14 @@ A named signatory on the bank or credit card account of the employer;
 
   
 
-Authorization
--------------
+Wallet Authorization - EN
+-------------------------
 
-### Version 4.1
+### Version 4.2
 
-##### Effective October 28th 2024
+##### Effective October 29th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67202bbd5be013d04e95ec24.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67217b6709e1c9e4dc146920.pdf)
 
 * * *
 
