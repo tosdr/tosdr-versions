@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
+    
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750295-Harris-closing-argument-GettyImages-2181812868-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
+* [EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://www.theepochtimes.com/china/eu-set-to-impose-up-to-45-percent-tariffs-on-china-made-evs-5749978)
+    
+    2hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    
+    [![EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750007-GettyImages-2172117996-205x123.jpg.webp)](https://www.theepochtimes.com/china/eu-set-to-impose-up-to-45-percent-tariffs-on-china-made-evs-5749978)
+* [Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://www.theepochtimes.com/us/audit-alleges-boeing-charged-air-force-huge-markup-for-aircraft-parts-5750008)
+    
+    3hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://img.theepochtimes.com/assets/uploads/2024/03/07/id5602370-1160976-205x123.jpg.webp)](https://www.theepochtimes.com/us/audit-alleges-boeing-charged-air-force-huge-markup-for-aircraft-parts-5750008)
+* [Harris Makes Final Pitch in Washington](https://www.theepochtimes.com/us/harris-makes-final-pitch-in-washington-5750270)
+    
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Makes Final Pitch in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Makes Final Pitch in Washington](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750285-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-final-pitch-in-washington-5750270)
+* [Consumer Confidence Surges Ahead of Election](https://www.theepochtimes.com/us/consumer-confidence-surges-ahead-of-election-5749972)
+    
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Consumer Confidence Surges Ahead of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Consumer Confidence Surges Ahead of Election](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719102-GettyImages-2166779968-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/consumer-confidence-surges-ahead-of-election-5749972)
+* [Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://www.theepochtimes.com/article/day-in-photos-four-month-sentence-stray-tram-and-a-stabbing-rampage-5749752)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750158-GettyImages-2181060728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-four-month-sentence-stray-tram-and-a-stabbing-rampage-5749752)
+* [Why Many Young Men Are Backing Trump](https://www.theepochtimes.com/article/why-many-young-men-are-backing-trump-2-post-5749145)
+    
+    5hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![Why Many Young Men Are Backing Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Why Many Young Men Are Backing Trump](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750195-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/why-many-young-men-are-backing-trump-2-post-5749145)
+* [Harris Supporters Gather for Washington Rally A Week Before Election](https://www.theepochtimes.com/us/harris-supporters-gather-for-washington-rally-a-week-before-election-5749963)
+    
+    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Supporters Gather for Washington Rally A Week Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Supporters Gather for Washington Rally A Week Before Election](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750244-10292024-DSC05950-Harris-supporters-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-supporters-gather-for-washington-rally-a-week-before-election-5749963)
 * [Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/uploads/2016/12/02/AP16337427815453-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
-* [Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://www.theepochtimes.com/us/supreme-court-rejects-rfk-jr-s-request-to-remove-his-name-from-ballots-in-2-swing-states-5750130)
+* [Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://www.theepochtimes.com/us/vance-to-appear-on-joe-rogan-experience-podcast-5750085)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Rejects RFK Jr.’s Request to Remove His Name From Ballots in 2 Swing States](https://img.theepochtimes.com/assets/uploads/2024/09/12/id5723186-09102024-DSC08867-RFK-JR-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-rejects-rfk-jr-s-request-to-remove-his-name-from-ballots-in-2-swing-states-5750130)
-* [Biden Announces $3 Billion Investment for US Port Upgrades](https://www.theepochtimes.com/business/biden-announces-3-billion-investment-for-us-port-upgrades-5750011)
-    
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Biden Announces $3 Billion Investment for US Port Upgrades](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Announces $3 Billion Investment for US Port Upgrades](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750149-GettyImages-2181131258-205x123.jpg.webp)](https://www.theepochtimes.com/business/biden-announces-3-billion-investment-for-us-port-upgrades-5750011)
-* [Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://www.theepochtimes.com/us/automatic-refunds-now-in-effect-for-flight-delays-cancellations-5750104)
-    
-    1hr By [Rachel Acenas](https://www.theepochtimes.com/author/rachel-acenas)
-    
-    [![Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Automatic Refunds Now in Effect for Flight Delays, Cancellations](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750139-travellers-AP23179735274014-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/automatic-refunds-now-in-effect-for-flight-delays-cancellations-5750104)
-* [Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://www.theepochtimes.com/business/washington-post-hit-with-canceled-subscriptions-resignations-over-non-endorsement-5749935)
-    
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Washington Post Hit With Canceled Subscriptions, Resignations Over Non-Endorsement](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750135-Washington-Post-GettyImages-175646326-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/washington-post-hit-with-canceled-subscriptions-resignations-over-non-endorsement-5749935)
-* [Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://www.theepochtimes.com/us/speaker-johnson-clarifies-his-little-secret-with-trump-nothing-scandalous-5749945)
-    
-    2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Speaker Johnson Clarifies His ‘Little Secret’ With Trump: ‘Nothing Scandalous’](https://img.theepochtimes.com/assets/uploads/2024/10/14/id5741097-Mike-Johnson-AP24262005068159-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-clarifies-his-little-secret-with-trump-nothing-scandalous-5749945)
-* [Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://www.theepochtimes.com/health/study-links-high-dose-hormonal-iuds-to-increased-breast-cancer-risk-5749010)
-    
-    2hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
-    
-    [![Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Study Links Hormonal IUDs to Increased Breast Cancer Risk](https://img.theepochtimes.com/assets/uploads/2022/07/20/IUD-205x123.jpeg.webp)](https://www.theepochtimes.com/health/study-links-high-dose-hormonal-iuds-to-increased-breast-cancer-risk-5749010)
-* [Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://www.theepochtimes.com/us/federal-judge-dismisses-republican-lawsuit-over-verification-for-overseas-ballots-5749914)
-    
-    2hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge Dismisses Republican Lawsuit Over Verification for Overseas Ballots](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750092-federal-courthouse-AP24303596012914-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-dismisses-republican-lawsuit-over-verification-for-overseas-ballots-5749914)
-* [Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://www.theepochtimes.com/us/republicans-get-boost-with-5-percent-early-lead-in-nevada-voting-5749973)
-    
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Republicans Get Boost With 5 Percent Early Lead in Nevada Voting](https://img.theepochtimes.com/assets/uploads/2024/02/22/id5592975-GettyImages-1244613374-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-get-boost-with-5-percent-early-lead-in-nevada-voting-5749973)
-* [US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://www.theepochtimes.com/us/us-property-taxes-jump-30-percent-nationwide-since-2019-report-5749970)
-    
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Property Taxes Jump 30 Percent Nationwide Since 2019: Report](https://img.theepochtimes.com/assets/uploads/2024/10/17/id5743195-GettyImages-2154182627_web-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-property-taxes-jump-30-percent-nationwide-since-2019-report-5749970)
+    ![Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743812-JD-Vance-1_JF_10092024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-to-appear-on-joe-rogan-experience-podcast-5750085)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
