@@ -156,8 +156,6 @@ Site search input
 
 [Sign in](https://www.teachervision.com/user/login?destination=/teachervision-privacy-policy)
 
-![numberblocks_logo](/sites/default/files/inline-images/numberblocks_main_logo_0.jpg)Check out Numberblocks on Youtube! [Click Here](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
-
 20% off Premium for new teachers 20% off Premium [Unlock Discount](https://www.teachervision.com/select-plan?p=JOIN20)
 
 ##### Breadcrumb
@@ -327,8 +325,6 @@ If you have any questions or concerns about this privacy statement or your deali
 1. E-mail us at: [Customer Support](https://www.teachervision.com/contact-us);
 2. Write to us at: TeacherVision, Sandbox International Holdings Ltd, WeWork 24th Fl, 1 Lincoln St, Boston MA 02111 or
 3. Call us at: 1-800-498-3264
-
-[![numberblocks skyscraper](/sites/default/files/inline-images/USABA-2-2.png)](https://www.youtube.com/@Numberblocks?utm_source=teachervision&utm_medium=cpc&utm_campaign=numberblocks-promo)
 
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
