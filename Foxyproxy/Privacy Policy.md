@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I contacted customer service a few times, each time was a great experience - fast, accurate support from your team!
+i love your proxies,they are fast and reliable. Keep it up....nice service.
 
-Michael Belos
+Emma Hamilton
