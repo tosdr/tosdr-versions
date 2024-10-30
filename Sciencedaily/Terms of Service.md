@@ -249,19 +249,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
-
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Bone and Spine](https://www.sciencedaily.com/news/health_medicine/bone_and_spine/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
