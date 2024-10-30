@@ -490,9 +490,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Life is Strange: Double Exposure PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange.jpg)   No 5. \-30%
-    
-    Pre-order](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam)
+5.    [![Life is Strange: Double Exposure PC](https://cdn.cdkeys.com/245x340/media/catalog/product/l/i/life_is_strange.jpg)   No 5. \-30%](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam)
     
     **[Life is Strange: Double Exposure PC](https://www.cdkeys.com/pc/life-is-strange-double-exposure-pc-steam "Life is Strange: Double Exposure PC")**
     
