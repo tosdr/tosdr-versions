@@ -1,4 +1,4 @@
-Offer: Secure your digital identity - [get a FREE .bio domain today!](https://rbnd.bio/domain)
+Discover Link Gallery - the link in bio that's actually you. [Sign up today and get a FREE .bio domain!](https://rbnd.bio/gallery)
 
 [](https://rebrandly.com/)
 
