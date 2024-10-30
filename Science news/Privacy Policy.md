@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+            
+            ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")45 mins ago
+            
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [A race to save Indigenous trails may change the face of archaeology](https://www.sciencenews.org/article/indigenous-trails-change-archaeology)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")15 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")24 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Are synthetic food dyes bad for you? Here’s what the science says.](https://www.sciencenews.org/article/synthetic-food-dye-science-ban)
             
             By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")October 28, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Drop in vaping drives tobacco product use by U.S. youth to a record low](https://www.sciencenews.org/article/vaping-tobacco-use-youth-record-low)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 25, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -116,21 +116,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
     * * [Animals](https://www.sciencenews.org/topic/animals)
             
+            ### [These hornets may be the alcohol-detox champs of the animal world](https://www.sciencenews.org/article/hornets-alcohol-detox-champs)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")3 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
             ### [Giant rats could soon help sniff out illegally smuggled goods](https://www.sciencenews.org/article/giant-rats-sniff-smuggled-goods)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")1 hour ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")10 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [A common kitchen tool could help koala conservation](https://www.sciencenews.org/article/common-kitchen-tool-koala-conservation)
             
             By [Kristel Tjandra](https://www.sciencenews.org/author/kristel-tjandra "Posts by Kristel Tjandra")October 28, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Male mosquitoes sometimes suck, too](https://www.sciencenews.org/article/male-mosquitoes-blood-disease)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")October 25, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Fans may not keep older adults cool during heat waves](https://www.sciencenews.org/article/fans-not-cool-older-adults-heat-waves)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")17 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")October 29, 2024
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+            
+            ### [Using AI, historians track how astronomy ideas spread in the 16th century](https://www.sciencenews.org/article/artificial-intelligence-astronomy-ai)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")45 mins ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
             
             ### [A near-Earth asteroid offers clues to one dark matter theory](https://www.sciencenews.org/article/asteroid-bennu-dark-matter) 
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [JWST spots the first known ‘steam world’](https://www.sciencenews.org/article/jwst-spots-the-first-known-steam-world)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 22, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [The cataclysmic origins of most of Earth’s meteorites have been found](https://www.sciencenews.org/article/origins-earths-meteorites-found)
-            
-            By [Robin George Andrews](https://www.sciencenews.org/author/robin-george-andrews "Posts by Robin George Andrews")October 16, 2024
             
 
 Privacy Policy
