@@ -509,7 +509,7 @@ By mail: 2701 Via Orange Way, Suite 1, Spring Valley, CA 91978
 * [Trademark Enforcement](https://www.tvears.com/trademark-enforcement)
 * [Sitemap](https://www.tvears.com/sitemap)
 
-[![SecurityMetrics card safe certification logo](https://www.securitymetrics.com/portal/app/ngsm/assets/img/WhiteContent_Credit_Card_Safe_Transparent_Rec.png)](https://www.securitymetrics.com/site_certificate?id=1701962&tk=42365c91c4145a6c7a768cefc760230c)
+[![SecurityMetrics card safe certification logo](https://www.securitymetrics.com/portal/app/ngsm/assets/img/WhiteContent_Credit_Card_Safe_Transparent_Rec.png)](https://www.securitymetrics.com/site_certificate?id=2090469&tk=4ebd2f3ee776d71eca1ac9ccd4fc31fa)
 
 Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
