@@ -2,9 +2,9 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-Live Preisvergleich ab 11 Uhr - einschalten lohnt sich!
+Live Preisvergleich heute 9 Uhr - einschalten lohnt sich!
 
-Live Preisvergleich ab 11 Uhr - einschalten lohnt sich!
+Live Preisvergleich heute 9 Uhr - einschalten lohnt sich!
 
 Menü
 
