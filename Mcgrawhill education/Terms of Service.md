@@ -46,6 +46,7 @@ My Account
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
 * [Order History](https://www.mheducation.com/account.html#orderHistory)
+* [My Lists](https://www.mheducation.com/account.html#myLists)
 
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
@@ -106,6 +107,7 @@ My Account
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
 * [Order History](https://www.mheducation.com/account.html#orderHistory)
+* [My Lists](https://www.mheducation.com/account.html#myLists)
 
 * [My Information](https://www.mheducation.com/account.html#myInfo)
 * [Security & Login](https://www.mheducation.com/account.html#securityLogin)
@@ -421,15 +423,39 @@ Follow McGraw Hill
 
 * * *
 
-[Terms of Use](https://www.mheducation.com/terms-use.html) | [Privacy Center](https://www.mheducation.com/privacy.html) | [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html) | [Report Piracy](https://www.mheducation.com/report-piracy.html) | [Site Map](https://www.mheducation.com/site-map.html)
+* [Terms of Use](https://www.mheducation.com/terms-use.html)
+* |
+* [Privacy Center](https://www.mheducation.com/privacy.html)
+* |
+* [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html)
+* |
+* [Report Piracy](https://www.mheducation.com/report-piracy.html)
+* |
+* [Site Map](https://www.mheducation.com/site-map.html)
 
 ©2024 McGraw Hill. All Rights Reserved.
 
-[Terms of Use](https://www.mheducation.com/terms-use.html) | [Privacy Center](https://www.mheducation.com/privacy.html) | [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html) | [Report Piracy](https://www.mheducation.com/report-piracy.html) | [Site Map](https://www.mheducation.com/site-map.html)
+* [Terms of Use](https://www.mheducation.com/terms-use.html)
+* |
+* [Privacy Center](https://www.mheducation.com/privacy.html)
+* |
+* [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html)
+* |
+* [Report Piracy](https://www.mheducation.com/report-piracy.html)
+* |
+* [Site Map](https://www.mheducation.com/site-map.html)
 
 ©2024 McGraw Hill. All Rights Reserved.
 
-[Terms of Use](https://www.mheducation.com/terms-use.html) | [Privacy Center](https://www.mheducation.com/privacy.html) | [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html) | [Report Piracy](https://www.mheducation.com/report-piracy.html) | [Site Map](https://www.mheducation.com/site-map.html)
+* [Terms of Use](https://www.mheducation.com/terms-use.html)
+* |
+* [Privacy Center](https://www.mheducation.com/privacy.html)
+* |
+* [Report a Vulnerability](https://www.mheducation.com/terms-use/vulnerability-disclosure-program.html)
+* |
+* [Report Piracy](https://www.mheducation.com/report-piracy.html)
+* |
+* [Site Map](https://www.mheducation.com/site-map.html)
 
 ©2024 McGraw Hill. All Rights Reserved.
 
