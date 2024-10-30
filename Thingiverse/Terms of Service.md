@@ -8,7 +8,7 @@
     
     Upgrade your classroom with reliable 3D printers used across 10,000+ schools.
     
-    [Sketch series 3D printers](https://www.makerbot.com/3d-printers/)
+    [Meet the new Sprint](https://www.makerbot.com/3d-printers/sketch-sprint/)
     
     [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-3d-printer-sketch-series-printer.png)](https://www.makerbot.com/3d-printers/)
     
@@ -17,16 +17,14 @@
     * [Sketch Sprint New](https://www.makerbot.com/3d-printers/sketch-sprint/) 
     * [Sketch Standard](https://www.makerbot.com/3d-printers/sketch-standard/) 
     * [Sketch Large](https://www.makerbot.com/3d-printers/sketch-large/) 
-    * [Materials](https://www.makerbot.com/3d-printers/materials/) 
-    * [PLA colors New](https://www.makerbot.com/3d-printers/materials-new-pla-colors/) 
     
-    [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-3d-printer-education-solution.png)](https://www.makerbot.com/3d-printers/classroom-solution/)
+    [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-3d-printer-education-solution.png)](https://www.makerbot.com/3d-printers/materials/)
     
-    ##### [Education solutions](https://www.makerbot.com/3d-printers/classroom-solution/)
+    ##### [Materials](https://www.makerbot.com/3d-printers/materials/)
     
-    * [Classroom Solution](https://www.makerbot.com/3d-printers/classroom-setup/) 
-    * [District Solution](https://www.makerbot.com/3d-printers/district-level-solution/) 
-    * [MakerCare service plans](https://www.makerbot.com/makercare/) 
+    * [PLA colors NEW](https://www.makerbot.com/3d-printers/materials-new-pla-colors/) 
+    * [All materials](https://www.makerbot.com/3d-printers/materials/) 
+    * [Fall color materials NEW](https://explore.ultimaker.com/PumpkinPatchProject2024.html) 
     
     [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-3d-printer-advanced-3d-printer.png)](https://www.makerbot.com/3d-printers/advanced-printer/)
     
@@ -35,6 +33,28 @@
     * [Method series](https://www.makerbot.com/3d-printers/advanced-printer/#method) 
     * [S series](https://www.makerbot.com/3d-printers/advanced-printer/#s-series) 
     * [UltiMaker S5](https://www.makerbot.com/3d-printers/ultimaker-s5/) 
+    
+* [Education](https://www.makerbot.com/3d-printers/classroom-solution/)
+    
+    Back
+    
+    ### [Sketch Classroom Solution](https://www.makerbot.com/3d-printers/classroom-solution/)
+    
+    3D printing in the classroom isn’t just about the 3D printer. It’s about the curriculum, the projects, and knowledge that surrounds it. Explore all the solutions that MakerBot has available for you
+    
+    [Classroom setup](https://www.makerbot.com/3d-printers/classroom-setup/)
+    
+    [![](https://www.makerbot.com/wp-content/uploads/2024/10/Classroom-menu.png)](https://www.makerbot.com/3d-printers/classroom-setup/)
+    
+    ##### [Classroom setup](https://www.makerbot.com/3d-printers/classroom-setup/)
+    
+    [![](https://www.makerbot.com/wp-content/uploads/2024/10/District-menu.png)](https://www.makerbot.com/3d-printers/district-level-solution/)
+    
+    ##### [District Solution](https://www.makerbot.com/3d-printers/district-level-solution/)
+    
+    [![](https://www.makerbot.com/wp-content/uploads/2024/10/MakerCare-menu.png)](https://www.makerbot.com/makercare/)
+    
+    ##### [MakerCare service plans](https://www.makerbot.com/makercare/)
     
 * [Software](https://www.makerbot.com/cloudprint/)
     
@@ -315,5 +335,3 @@ All other brand names, product names or trademarks belong to their respective ho
 * [Privacy and cookie statement](https://www.makerbot.com/privacy/)
 
  [![](https://www.makerbot.com/wp-content/uploads/2023/07/facebook-1.svg "Facebook")](https://www.facebook.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/twitter-1.svg "Twitter")](https://twitter.com/makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/youtube-1.svg "Youtube")](https://www.youtube.com/@makerbot)[![](https://www.makerbot.com/wp-content/uploads/2023/07/linkedin-1.svg "LinkedIn")](https://www.linkedin.com/company/559815)[![](https://www.makerbot.com/wp-content/uploads/2023/07/instagram-1.svg "Instagram")](https://www.instagram.com/makerbot/)
-
-MakerBot uses functional, analytical and tracking cookies. Tracking cookies enhance your experience on our website and may also collect your personal data outside of MakerBot websites. If you agree with the use of tracking cookies, click “I agree, continue browsing”. You can withdraw your consent at any time. If you do not consent with the use of tracking cookies, click “Refuse”. You can find more information about cookies on our [Privacy and Cookie Policy](https://www.makerbot.com/privacy/ "Privacy Policy") page.[I agree, continue browsing](#)[Refuse](#)
