@@ -446,7 +446,7 @@ If you are located in the European Economic Area (EEA), United Kingdom (UK), or 
 
 If you wish to exercise you rights under the data protection legislation, please refer to the section entitled “[Your Rights to Access and Control Your Persona Data](#_Your_Rights_to)” to find out how to exercise your rights. 
 
-If you need further assistance regarding your rights, please contact our Data Protection Officer, John Murray, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
+If you need further assistance regarding your rights, please contact us, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
 
 You have the right to report to your local Supervisory Authority if you believe your rights under data protection legislation have not been appropriately considered.  However, before doing so, please contact us directly as we are committed to working with you to help resolve any concerns about your privacy.
 
@@ -515,7 +515,7 @@ You also have the right to review decisions that are based on automated processi
 
 If wish to exercise you rights under the LGPD, please refer to the section entitled “[Your Rights to Access and Control Your Persona Data](#_Your_Rights_to)” to find out how to exercise your rights. 
 
-If you need further assistance regarding your rights, please contact our Data Protection Officer, John Murray, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
+If you need further assistance regarding your rights, please contact us, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
 
 You have the right to report to your local Supervisory Authority if you believe your rights under data protection legislation have not been appropriately considered.  However, before doing so, please contact us directly as we are committed to working with you to help resolve any concerns about your privacy.
 
@@ -581,7 +581,7 @@ Retention Period: As long as you continue to use the Site, and thereafter as per
 
 Notice to Japanese Residents
 
-As required under the Japanese data protection law, we have appointed a grievance officer/data protection officer. Digital River Japan K.K.'s Data Protection Officer is: John Murray, Company Representative at Digital River Japan K.K., Phone Number: 03-6770-2741, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com).
+If you need further assistance regarding your rights, please contact us, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
 
 Changes to This Privacy Policy
 
@@ -591,7 +591,7 @@ A link to our previous privacy policy is included [here](https://ui1.img.digita
 
 Grievance Officer/Data Protection Officer
 
-As required under certain data protection laws, we have appointed a grievance officer/data protection officer. Digital River’s grievance officer/data protection officer is: John Murray, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com.](mailto:privacy@digitalriver.com.%20[Should) If you are located in Germany, we will direct you to our external Data Protection Officer.
+If you need further assistance regarding your rights, please contact us, Phone Number: 1 (952) 253-1234, Email: [privacy@digitalriver.com](mailto:privacy@digitalriver.com). 
 
 How to Contact Us
 
