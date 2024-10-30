@@ -77,7 +77,7 @@ top of page
     * [Contact Us](https://www.team-cymru.com/contact-us)
     
 
-[TALK TO AN EXPERT](https://www.team-cymru.com/request-a-demo)
+[TALK TO AN EXPERT](https://www.team-cymru.com/contact-sales)
 
 [TRY US FREE](https://www.team-cymru.com/ip-address-lookup-scout-insight)
 
