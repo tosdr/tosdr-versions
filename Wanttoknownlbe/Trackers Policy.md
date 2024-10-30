@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/monsanto-krijgt-blinde-goedkeuring-voor-gmo/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/round-up-ernstige-schade-aan-grond-en-plant/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
