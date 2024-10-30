@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-dad16ce56b512d7681b174a4c363b38d
+78d734334ef5ef12e6a5c4fdf5a3e365
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 to 8 mm by 8 to 9 mm glass chevrons](https://sojourner.biz/images/cache/glass/VB0036.200.jpg)](https://sojourner.biz/beads/glass/7-to-8-mm-by-8-to-9-mm-glass-chevrons.html "7 to 8 mm by 8 to 9 mm glass chevrons")
+[![Vintage German purple striped hexagon beads](https://sojourner.biz/images/cache/glass/GL0092.200.jpg)](https://sojourner.biz/beads/glass/vintage-german-purple-striped-hexagon-beads.html "Vintage German purple striped hexagon beads")
 
-#### [7 to 8 mm by 8 to 9 mm glass chevrons](https://sojourner.biz/beads/glass/7-to-8-mm-by-8-to-9-mm-glass-chevrons.html "7 to 8 mm by 8 to 9 mm glass chevrons")
+#### [Vintage German purple striped hexagon beads](https://sojourner.biz/beads/glass/vintage-german-purple-striped-hexagon-beads.html "Vintage German purple striped hexagon beads")
 
-$10.00
+$25.00
 
 ### Best Sellers
 
