@@ -28,26 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/netball/match-centre/TEST20240304)
 * Cricket
     
-* [Women's ODI
-    
-    IND won by 6 wkts
-    
-    |     |     |
-    | --- | --- |
-    | IND | 4 /236 |
-    | NZL | 232 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250203)
-* [Men's ODI
-    
-    NEP won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | NEP | 5 /157 |
-    | SCO | 154 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250203)
 * [Women's BBL
     
     30/10 19:10 AEST
@@ -148,53 +128,53 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25010001)
 * [NBA
     
-    4th Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MIN | 111 |
-    | DAL | 117 |
+    | MIN | 114 |
+    | DAL | 120 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011034/box-score)
 * [NBA
     
-    4th Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BKN | 115 |
-    | DEN | 114 |
+    | BKN | 139 |
+    | DEN | 144 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010098/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | UTA | 48  |
-    | SAC | 52  |
+    | UTA | 96  |
+    | SAC | 113 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010100/box-score)
 * [NBA
     
-    30/10 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | GS  | –   |
-    | NO  | –   |
+    | GS  | 124 |
+    | NO  | 106 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010102)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010102/box-score)
 * Baseball
     
 * [MLB
     
-    Bottom 5th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | NYY | 5   |
+    | NYY | 11  |
     | LAD | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240030024645A)
@@ -937,7 +917,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
