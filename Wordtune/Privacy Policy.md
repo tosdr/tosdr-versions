@@ -4,6 +4,10 @@
 
 Features
 
+[Paraphrase
+
+Paraphrase articles, essays, emails and more in one click.](https://www.wordtune.com/paraphrasing-tool)
+
 [Rewrite
 
 Instantly paraphrase emails, articles, messages and more.](https://www.wordtune.com/rewrite)
@@ -525,6 +529,7 @@ Last Updated: September 3, 2023
 
 ### **Features**
 
+* [Paraphrase](https://www.wordtune.com/paraphrasing-tool)
 * [Rewrite](https://www.wordtune.com/rewrite)
 * [Grammar checker](https://www.wordtune.com/grammar)
 * [Summarizer](https://www.wordtune.com/summarizer)
@@ -544,7 +549,7 @@ Company
 
 Learn more
 
-[Blog](https://www.wordtune.com/blog)[Help center](https://support.wordtune.com/en/)[Student discount](https://www.wordtune.com/ua/wordtune-discount-page-old)[AI content detector](https://www.wordtune.com/ai-content-detector)
+[Blog](https://www.wordtune.com/blog)[Help center](https://support.wordtune.com/en/)[Student discount](#)[AI content detector](https://www.wordtune.com/ai-content-detector)
 
 Features
 
@@ -552,7 +557,7 @@ Features
 
 Get Wordtune
 
-[Chrome extension](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)[Microsoft Edge extension](https://microsoftedge.microsoft.com/addons/detail/wordtune-aipowered-wri/fgngodlaekdlibajobmkaklibdggemdd)[Wordtune for iOS](https://apps.apple.com/app/id1628773284)[Wordtune for business](https://www.wordtune.com/business/home)
+[Chrome extension](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)[Microsoft Edge extension](https://microsoftedge.microsoft.com/addons/detail/wordtune-aipowered-wri/fgngodlaekdlibajobmkaklibdggemdd)[Wordtune for iOS](https://apps.apple.com/app/id1628773284)[Wordtune for business](#)
 
 All Rights Reserved © AI21 Labs, 2024
 
