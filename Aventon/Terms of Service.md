@@ -20,7 +20,7 @@ US/EN
 
 YOUR OFFERS
 
-[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)
+[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)
 
 [Aventon](https://www.aventon.com/)
 
@@ -151,7 +151,7 @@ YOUR OFFERS
     
     Dedicated to your safety
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Soltera2_582aa980-caf9-4103-9b7b-cee773dfc823.jpg?v=1725923789&width=720)](https://www.aventon.com/products/soltera-2-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -441,7 +441,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Soltera2_582aa980-caf9-4103-9b7b-cee773dfc823.jpg?v=1725923789&width=720)](https://www.aventon.com/products/soltera-2-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -496,7 +496,7 @@ Open menu
     * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
     * [Wheels & Tires](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Soltera2_582aa980-caf9-4103-9b7b-cee773dfc823.jpg?v=1725923789&width=720)](https://www.aventon.com/products/soltera-2-ebike)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 
 * [SUPPORT](javascript:void(0))
