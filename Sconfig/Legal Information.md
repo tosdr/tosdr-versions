@@ -247,6 +247,7 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-91177)
 * .Mimic on [Hi Koss.](https://www.s-config.com/hi-koss/comment-page-1/#comment-90674)
 * T on [Rollerblade office caster wheels – buyer beware!](https://www.s-config.com/rollerblade-office-caster-wheels-buyer-beware/comment-page-5/#comment-90612)
 * Jack Meoff on [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/comment-page-1/#comment-90482)
@@ -254,7 +255,6 @@ Recent Comments
 * [S-Config](https://www.s-config.com/) on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89927)
 * WinDVD on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89926)
 * Brian on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-89914)
-* xu on [Default WordPress video test.](https://www.s-config.com/wordpress-video/comment-page-1/#comment-89835)
 
 The only advertisement banner you will see.
 -------------------------------------------
