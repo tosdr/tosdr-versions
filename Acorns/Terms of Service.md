@@ -76,7 +76,6 @@ The Fine Print of Acorns
 * [Cricket Terms and Conditions](https://www.acorns.com/cricket-terms-and-conditions/)
 * [Privacy Policy](https://www.acorns.com/privacy/)
 * [Gohenry Terms and Conditions](https://www.acorns.com/gohenry-terms-and-conditions/)
-* [2022 Privacy Policy](https://www.acorns.com/2022-privacy/)
 * [Important Disclosures](https://www.acorns.com/disclosures/)
 * [Referral Agreement](https://www.acorns.com/referral-agreement/)
 * [Business Continuity Plan](https://www.acorns.com/business-continuity-plan/)
