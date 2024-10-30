@@ -5,7 +5,6 @@
     * [The Sift Difference](https://sift.com/why-sift)
     * [Market Leadership](https://sift.com/why-sift#leadership)
     * [Partnerships](https://sift.com/partnerships)
-    * [Professional Services](https://sift.com/services)
     * [Sifters Community](https://sift.com/community)
 * Solutions
     
@@ -39,6 +38,7 @@
         
         * [PSD2 + SCA](https://sift.com/psd2)
         * [PSD3 + PSR](https://sift.com/blog/navigating-psd3-and-psr-how-sift-supports-compliance-and-fraud-prevention)
+    * [Professional Services](https://sift.com/services)
     * [Risk Assessment](https://sift.com/risk-assessment)
         
 * Platform
