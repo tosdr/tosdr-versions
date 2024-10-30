@@ -87,13 +87,13 @@ Most Read
     
     1. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
     
-2. 2. [For some reason, NASA is treating Orion’s heat shield problems as a secret](https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/?itm_source=parsely-api)
+2. 2. [“Impact printing” is a cement-free alternative to 3D-printed structures](https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/?itm_source=parsely-api)
     
-3. 3. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
+3. 3. [The sad, bizarre tale of hype fanning fears modern cryptography was slain](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/?itm_source=parsely-api)
     
-4. 4. [A candy engineer explains the science behind the Snickers bar](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/?itm_source=parsely-api)
+4. 4. [New Glenn rolls to the launch pad as end-of-year deadline approaches](https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/?itm_source=parsely-api)
     
-5. 5. [Lidar mapping reveals mountainous medieval cities along the Silk Road](https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/?itm_source=parsely-api)
+5. 5. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
     
 
 Customize
