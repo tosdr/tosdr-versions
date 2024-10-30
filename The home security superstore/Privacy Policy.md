@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Buy 2 Get 1 Free Pepper Spray | Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-free-pepper-sprays?sort_by=manual&utm_source=Top&utm_medium=Banner&utm_campaign=Buy+2+Get+1+Free+Pepper+Spray&utm_id=Website)
+[20% Off Self Defense Keychains | Code: KEY20](https://www.thehomesecuritysuperstore.com/collections/keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+Self+Defense+Keychains)
 
-TODAY'S OFFER: :: | Buy 2 Get 1 Free Pepper Spray | Click Here!
+TODAY'S OFFER: :: | 20% Off Self Defense Keychains | Code: KEY20
 
 TODAY'S OFFER: : :
 
- Buy 2 Get 1 Free Pepper Spray Click Here!
+ 20% Off Self Defense Keychains Code: KEY20
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
