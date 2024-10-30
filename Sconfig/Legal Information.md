@@ -225,13 +225,13 @@ Pages
 Recent Posts
 ------------
 
+* [OpenNIC](https://www.s-config.com/opennic/) October 29, 2024
 * [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/) August 18, 2024
 * [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/) August 12, 2024
 * [Pay for your mouse… Forever!](https://www.s-config.com/pay-for-your-mouse-forever/) August 3, 2024
 * [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/) July 27, 2024
 * [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
 * [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
-* [It’s June! Oh Hai!](https://www.s-config.com/june2024/) June 18, 2024
 
 Search this entire site:
 ------------------------
