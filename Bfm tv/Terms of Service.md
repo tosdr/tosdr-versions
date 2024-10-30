@@ -1,8 +1,8 @@
-Menu [![BFMTV](/assets/v7/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
+Menu [![BFMTV](/assets/v8/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
 
-[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v7/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
+[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v8/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
 
-Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v7/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
+Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v8/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
 DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 
@@ -22,17 +22,17 @@ DirectDirect](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 
-[![Regarder BFMTV](/assets/v7/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
+[![Regarder BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
-Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v7/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
+Regarder BFMTV](https://www.bfmtv.com/en-direct/ "Regarder BFMTV")[![Regarder BFM2](/assets/v8/images/bfm2_direct_logo.bfd86ff55d6f8abea0d6bf696cc89388.svg)
 
 Regarder BFM2](https://www.bfmtv.com/en-direct/bfm2/ "Regarder BFM2")
 
-![Écouter BFM Radio](/assets/v7/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+![Écouter BFM Radio](/assets/v8/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
 Écouter BFM Radio
 
-[![Replay BFMTV](/assets/v7/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+[![Replay BFMTV](/assets/v8/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
 
@@ -71,16 +71,16 @@ BFM Régions
 
 Précédent
 
-* [![BFM Paris IDF](/assets/v7/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
-* [![BFM Marseille](/assets/v7/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
-* [![BFM Lyon](/assets/v7/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
-* [![BFM Lille](/assets/v7/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
-* [![BFM Littoral](/assets/v7/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
-* [![BFM DICI](/assets/v7/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
-* [![BFM Var](/assets/v7/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
-* [![BFM Côte d'Azur](/assets/v7/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
-* [![BFM Alsace](/assets/v7/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
-* [![BFM Normandie](/assets/v7/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
+* [![BFM Paris IDF](/assets/v8/images/Pastille_nav_Paris.5cb57106255258ffcae7a9b4fa5a7bde.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
+* [![BFM Marseille](/assets/v8/images/Pastille_nav_Marseille.882f303ff8e9c0df415130718e091330.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
+* [![BFM Lyon](/assets/v8/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
+* [![BFM Lille](/assets/v8/images/Pastille_nav_GrandLille.5dac2f26867e0d82f3c807884129346d.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
+* [![BFM Littoral](/assets/v8/images/Pastille_nav_GrandLittoral.8355537be320498dba3d6393a0170aea.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
+* [![BFM DICI](/assets/v8/images/Pastille_nav_DICI.0644006a2d062f87b14ceb3b1573db28.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
+* [![BFM Var](/assets/v8/images/Pastille_nav_Var.af14c97f74da293c3bd75517f9a8b9df.svg)](https://www.bfmtv.com/var/ "BFM Var")
+* [![BFM Côte d'Azur](/assets/v8/images/Pastille_nav_Nice.fcc3226c1bb765efec7a5a5a0a2f2585.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
+* [![BFM Alsace](/assets/v8/images/Pastille_nav_Alsace.dad6587c856a70051ed7dc16d2912b23.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
+* [![BFM Normandie](/assets/v8/images/Pastille_nav_Normandie.421698e846327ea2b09fb1a8992761fa.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
 
 Suivant
 
@@ -110,7 +110,7 @@ Rubriques
 
 Suivez-nous sur
 
-[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v7/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v7/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v7/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v7/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
+[](https://www.facebook.com/BFMTV "Facebook")[](https://x.com/bfmtv "X") [![Instagram](/assets/v8/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v8/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v8/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v8/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
 
 Les sites du groupe
 
@@ -120,7 +120,7 @@ Précédent
 * BFM Régions
 * BFM Bourse
 * Tech&Co
-*  ![Iconic Business](/assets/v7/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
+*  ![Iconic Business](/assets/v8/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
 * RMC
 * RMC Sport
 * RMC Conso
@@ -589,13 +589,13 @@ Les plus lus
     
     ![Des hommes courent à côté d'une voiture couverte de boue dans une rue inondée à Alora, près de Malaga, le 29 octobre 2024, après qu'une forte pluie ait frappé le sud de l'Espagne.](https://images.bfmtv.com/f37vbBC7EQDwhJDdE-ha-0gdqXE=/0x106:1024x682/300x0/images/Des-hommes-courent-a-cote-d-une-voiture-couverte-de-boue-dans-une-rue-inondee-a-Alora-pres-de-Malaga-le-29-octobre-2024-apres-qu-une-forte-pluie-ait-frappe-le-sud-de-l-Espagne-1966643.jpg)
     
-    ### "Une situation sans précédent": l'Espagne touchée par des crues éclair, des corps sans vie retrouvés](https://www.bfmtv.com/international/europe/espagne/on-a-eu-juste-le-temps-de-monter-sur-un-pont-l-espagne-touchee-par-des-crues-eclair-des-corps-sans-vie-retrouves_AV-202410300148.html ""Une situation sans précédent": l'Espagne touchée par des crues éclair, des corps sans vie retrouvés")
+    ### "Une situation sans précédent": l'Espagne touchée par des crues éclair, au moins 95 morts](https://www.bfmtv.com/international/europe/espagne/on-a-eu-juste-le-temps-de-monter-sur-un-pont-l-espagne-touchee-par-des-crues-eclair-des-corps-sans-vie-retrouves_AV-202410300148.html ""Une situation sans précédent": l'Espagne touchée par des crues éclair, au moins 95 morts")
 2. [### Élection américaine 2024: que disent les sondages du duel Trump-Harris à une semaine du vote?](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/election-americaine-2024-que-disent-les-sondages-du-duel-trump-harris-a-une-semaine-du-vote_AV-202410290652.html "Élection américaine 2024: que disent les sondages du duel Trump-Harris à une semaine du vote?")
-3. [### Le chanteur Slimane accusé de harcèlement sexuel par un ancien technicien de sa tournée](https://www.bfmtv.com/people/musique/le-chanteur-slimane-accuse-de-harcelement-sexuel-par-un-ancien-technicien-de-sa-tournee_AN-202410290627.html "Le chanteur Slimane accusé de harcèlement sexuel par un ancien technicien de sa tournée")
-4. [### Méthylmercure: quelle est cette substance toxique à haute dose retrouvée dans des boîtes de thons?](https://www.bfmtv.com/sante/methylmercure-quelle-est-cette-substance-toxique-retrouvee-a-haute-dose-dans-des-boites-de-thons_AV-202410290782.html "Méthylmercure: quelle est cette substance toxique à haute dose retrouvée dans des boîtes de thons?")
-5. [### Passionné de reptiles, un youtubeur sud-africain a succombé à une morsure de serpent](https://www.bfmtv.com/tech/youtube/passionne-de-reptiles-un-youtubeur-sud-africain-a-succombe-a-une-morsure-de-serpent_AV-202410290640.html "Passionné de reptiles, un youtubeur sud-africain a succombé à une morsure de serpent")
+3. [### Avant même le vote du Budget, Air France répercute déjà la hausse de la taxe de solidarité pour les voyages en 2025](https://www.bfmtv.com/economie/entreprises/transports/avant-meme-le-vote-du-budget-air-france-repercute-deja-la-hausse-de-la-taxe-de-solidarite-pour-les-voyages-en-2025_AV-202410300571.html "Avant même le vote du Budget, Air France répercute déjà la hausse de la taxe de solidarité pour les voyages en 2025")
+4. [### "Une avalanche de PV": comment vont fonctionner les nouveaux radars avec de l'IA](https://www.bfmtv.com/tech/intelligence-artificielle/une-avalanche-de-pv-comment-vont-fonctionner-les-nouveaux-radars-avec-de-l-ia_AV-202410300051.html ""Une avalanche de PV": comment vont fonctionner les nouveaux radars avec de l'IA")
+5. [### Que sont les pouches, ces sachets de nicotine que le gouvernement veut interdire?](https://www.bfmtv.com/sante/que-sont-les-pouches-ces-sachets-de-nicotine-que-le-gouvernement-veut-interdire_AV-202410300574.html "Que sont les pouches, ces sachets de nicotine que le gouvernement veut interdire?")
 
-![BFMTV](/assets/v7/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
+![BFMTV](/assets/v8/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
 première sur l'info
 
