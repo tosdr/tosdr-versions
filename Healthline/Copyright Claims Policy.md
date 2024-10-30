@@ -190,12 +190,13 @@
 
 Subscribe
 
-[#### Bites and Stings](#)
+[#### Digestive Health](https://www.healthline.com/digestive-health)
 
-* [How to Identify](https://www.healthline.com/health/bug-bites)
-* [Spider Bite 101](https://www.healthline.com/health/spider-bites)
-* [Mosquito Prevention](https://www.healthline.com/health/outdoor-health/how-to-prevent-mosquito-bites)
-* [Bee Sting Home Remedies](https://www.healthline.com/health/outdoor-health/home-remedies-for-bee-stings)
+* [The Basics](https://www.healthline.com/digestive-health/basics)
+* [Crohn’s Treatment](https://www.healthline.com/digestive-health/crohns-treatment)
+* [UC Treatment](https://www.healthline.com/digestive-health/ulcerative-colitis-treatment)
+* [What to Eat](https://www.healthline.com/digestive-health/diet)
+* [Prevention and Lifestyle](https://www.healthline.com/digestive-health/prevention)
 
 Ad & Sponsorship Policy
 =======================
