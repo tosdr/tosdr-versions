@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Q3 2024 Chinese wearable](https://www.huaweicentral.com/wp-content/uploads/2024/10/WatchGT5-400x240.jpg)
+        
+        Huawei ranks first in Q3 2024 Chinese wearable market, beating Apple](https://www.huaweicentral.com/huawei-ranks-first-in-q3-2024-chinese-wearable-market-beating-apple/)
     * [![Huawei Watch GT 5 Pro October 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-5-Pro-1-400x240.jpg)
         
         Huawei Watch GT 5 Pro gets October 2024 improvements update](https://www.huaweicentral.com/huawei-watch-gt-5-pro-gets-october-2024-improvements-update/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 4 health features](https://www.huaweicentral.com/wp-content/uploads/2024/10/Health-Features-400x240.jpg)
         
         Huawei Watch GT 4 is receiving advanced health features](https://www.huaweicentral.com/huawei-watch-gt-4-is-receiving-advanced-health-features/)
-    * [![Luxshare Huawei smartwatch production](https://www.huaweicentral.com/wp-content/uploads/2024/10/Wearable-400x240.jpg)
-        
-        Luxshare to reportedly increase Huawei smartwatch production](https://www.huaweicentral.com/luxshare-to-reportedly-increase-huawei-smartwatch-production/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
