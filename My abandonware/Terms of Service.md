@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Balance](https://www.myabandonware.com/game/balance-smn)
 * [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
 * [The House of the Dead](https://www.myabandonware.com/game/the-house-of-the-dead-bed)
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [Alchemist Marie & Elie: Futari no Atelier](https://www.myabandonware.com/game/alchemist-marie-elie-futari-no-atelier-t31)
-* [Terrors 2](https://www.myabandonware.com/game/terrors-2-t30)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
