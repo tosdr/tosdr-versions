@@ -361,7 +361,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Email
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
