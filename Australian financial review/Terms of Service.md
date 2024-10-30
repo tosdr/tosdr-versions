@@ -338,7 +338,6 @@ Advertise
 
 ### [Rich Lister Nick Politis lobs $77m takeover bid for Qld pub owner](https://www.afr.com/property/commercial/rich-lister-nick-politis-lobs-77m-takeover-bid-for-qld-pub-owner-20241030-p5kmj3)
 
-* 1 hr ago
 * Larry Schlesinger
 
 * ### [Travel surge cements Young Rich Lister’s new billionaire status](https://www.afr.com/young-rich/travel-surge-cements-young-rich-lister-s-new-billionaire-status-20241030-p5kmiu)
