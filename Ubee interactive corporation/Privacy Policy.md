@@ -31,19 +31,19 @@ bandwidth demands of modern residences and small businesses.
 
 Solutions
 
-[![](/storage/upload/product/image/2024-09-13/HWiP02jL5GZBSIZUBkMqovCICr7fPZZazeutxpe1.png)
+[![](/storage/upload/product/image/2024-10-30/vyAHg9YZscNai8ekQvUO6UUMa5Yxi2lsgvEc7se8.png)
 
 DOCSIS
 
 Ubee has been working closely with cable service providers worldwide for decades, designing and delivering DOCSIS solutions to meet their stringent requirements.](http://www.ubeeinteractive.com/solutions/2)
 
-[![](/storage/upload/product/image/2024-10-07/doffaXpepUwHD4p7WTTCjlWbLuF4N8rejIboJqV5.png)
+[![](/storage/upload/product/image/2024-10-30/Xmax6jOqbsNAB0SOHQ5ccvhJjIIJj5rYXIsa8mYc.png)
 
 Fiber
 
 At Ubee Interactive, we are dedicated to enhancing our passive optical network (PON) product lineup. Our flexible solutions include GPON, XGS PON, 10G EPON, and more.](http://www.ubeeinteractive.com/solutions/1)
 
-[![](/storage/upload/product/image/2024-09-13/GedpvajMxUAvtWmCYE0sykB2gEqdR84BT6xqE0fh.jpg)
+[![](/storage/upload/product/image/2024-10-30/nnlMUUtrx3RSjeKE9PLbGaKvqc5Q6qM191PNhxcc.png)
 
 Wireless
 
