@@ -426,4 +426,4 @@ AS64089
 
  [![DNSFilter Facebook Profile](https://www.dnsfilter.com/hubfs/_socialicon_fb.svg)](https://www.facebook.com/DNSFilter/)[![DNSFilter X Profile](https://www.dnsfilter.com/hubfs/X_logo_2023_(white).png)](https://twitter.com/dnsfilter)[![DNSFilter LinkedIn Profile](https://www.dnsfilter.com/hubfs/_li.svg)](https://www.linkedin.com/company/dnsfilter/)[![DNSFilter YouTube Channel](https://www.dnsfilter.com/hubfs/_yt.svg)](https://www.youtube.com/c/Dnsfiltercom)[![DNSFilter Reddit Page](https://www.dnsfilter.com/hubfs/_rd.svg)](https://www.reddit.com/user/dnsfilter)
 
-© 2024 DNSFilter Inc. All rights reserved.
+© 2024 DNSFilter Inc. All rights reserved. | [Privacy Policy](https://www.dnsfilter.com/privacy-policy) | [Terms of Service](https://www.dnsfilter.com/terms-of-service)
