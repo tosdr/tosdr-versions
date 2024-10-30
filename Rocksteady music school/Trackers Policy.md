@@ -10,6 +10,7 @@
     * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
     * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
     * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [FoundationFoundation](https://www.rocksteadymusicschool.com/foundation/)
 * [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
 [Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
@@ -20,6 +21,7 @@
     * [Why work for us?](https://www.rocksteadymusicschool.com/careers/)
     * [Teaching roles](https://www.rocksteadymusicschool.com/careers/teaching/)
     * [Support roles](https://www.rocksteadymusicschool.com/careers/office/)
+* [FoundationFoundation](https://www.rocksteadymusicschool.com/foundation/)
 * [ContactContact](https://www.rocksteadymusicschool.com/contact/)
 
 [Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
