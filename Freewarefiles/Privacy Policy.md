@@ -1,6 +1,8 @@
 [Skip to content](#main)
 
-[![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
+[![Freeware Files](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20406%20275'%3E%3C/svg%3E)
+
+![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
 
 * [Home](https://www.freewarefiles.com/)
 * [Software](https://www.freewarefiles.com/software/)
@@ -13,7 +15,9 @@
 
 Search
 
-[![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
+[![Freeware Files](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20406%20275'%3E%3C/svg%3E)
+
+![Freeware Files](https://www.freewarefiles.com/wp-content/uploads/2024/03/cropped-freewarefiles-1.png)](https://www.freewarefiles.com/)
 
 Search
 
@@ -32,7 +36,9 @@ As is the case with other electronic appliances, things can go wrong with your R
 
 [Read More Why is My Roku TV Not Working?Continue](https://www.freewarefiles.com/how-tos/why-is-my-roku-tv-not-working/)
 
-[![PS4 and PS5 Play Together](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Can-PS4-and-PS5-Play-Together-768x343.jpg)](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
+[![PS4 and PS5 Play Together](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20343'%3E%3C/svg%3E)
+
+![PS4 and PS5 Play Together](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Can-PS4-and-PS5-Play-Together-768x343.jpg)](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
 
 [Games](https://www.freewarefiles.com/games/)
 
@@ -43,7 +49,9 @@ PS4 and PS5 share some similar features so you can play several games together. 
 
 [Read More What Games Can PS4 and PS5 Play Together?Continue](https://www.freewarefiles.com/games/what-games-can-ps4-and-ps5-play-together/)
 
-[![What Games Are Cross Platform?](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Are-Cross-Platform-768x339.jpg)](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
+[![What Games Are Cross Platform?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20339'%3E%3C/svg%3E)
+
+![What Games Are Cross Platform?](https://www.freewarefiles.com/wp-content/uploads/2024/09/What-Games-Are-Cross-Platform-768x339.jpg)](https://www.freewarefiles.com/games/what-games-are-cross-platform/)
 
 [Games](https://www.freewarefiles.com/games/)
 
