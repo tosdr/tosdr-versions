@@ -4,7 +4,7 @@
     
 * Industries
     
-    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-verify.svg)Identity Verification + Fraud Prevention Add deterministic, real-time signals to your hub.](https://www.fullcontact.com/industries/identity-verification-fraud-prevention/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
+    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
     
 * [Partners](https://www.fullcontact.com/partners/)
 * Resources
@@ -28,7 +28,7 @@
     
 * Industries
     
-    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-verify.svg)Identity Verification + Fraud Prevention Add deterministic, real-time signals to your hub.](https://www.fullcontact.com/industries/identity-verification-fraud-prevention/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
+    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
     
 * [Partners](https://www.fullcontact.com/partners/)
 * Resources
@@ -265,7 +265,6 @@ Date:
 * [MAIDs](https://www.fullcontact.com/maids/)
 * [Identity Resolution](https://www.fullcontact.com/blog/2022/02/09/identity-resolution/)
 * [MarTech + AdTech](https://www.fullcontact.com/industries/martech-adtech-platforms/)
-* [Identity Verification + Fraud Prevention](https://www.fullcontact.com/industries/identity-verification-fraud-prevention/)
 * [Brands](https://www.fullcontact.com/industries/brands/)
 
 ### Information
