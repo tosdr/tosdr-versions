@@ -375,7 +375,7 @@ Breastfeeding Tips
 
 Load More
 
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/4057/image-thumb__4057__card/1nicu_special_needs_feeding.a6d2625b.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/what-is-the-medela-specialneeds-feeder)
+[![Nurse feeding a baby with a Medela SpecialNeeds Feeder](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/4057/image-thumb__4057__card/1nicu_special_needs_feeding.a6d2625b.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/what-is-the-medela-specialneeds-feeder)
 
 Inclusive Breast Milk Feeding
 
