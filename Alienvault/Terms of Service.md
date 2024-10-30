@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_29; ct\_50
+be\_ixf;ym\_202410 d\_30; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -139,9 +139,9 @@ be\_ixf;ym\_202410 d\_29; ct\_50
             
             video
             
-            ##### LevelBlue. Cybersecurity. Simplified.
+            ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-cybersecurity-simplified)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-managed-detection-and-response)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
