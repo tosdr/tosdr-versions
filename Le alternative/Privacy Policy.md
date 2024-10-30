@@ -91,6 +91,8 @@ Se non hai JavaScript attivato questa funzione non ti andrà, copia e incolla ma
 
 [🩵 donazioni](https://www.lealternative.net/donazioni/)
 
+Impossibile recuperare i dati da Mastodon.
+
 **Informativa ai sensi dell’art. 13 del Codice della Privacy**
 
 **Ai sensi dell’articolo 13 del codice della D.Lgs. 196/2003, vi rendiamo le seguenti informazioni.**
