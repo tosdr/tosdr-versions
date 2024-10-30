@@ -301,31 +301,28 @@ Log in to order, manage your products and services, and track your orders.
             
         * Public Cloud Discover Public Cloud
             
-            * Ecosystem of services Accelerate your business, automate your infrastructure
+            * [Service ecosystem](https://www.ovhcloud.com/en/public-cloud/) Automate your setup, propel your business
             * [Pricing](https://www.ovhcloud.com/en/public-cloud/prices/) View our simple, accessible pricing
-            * [Savings Plan New](https://www.ovhcloud.com/en/public-cloud/savings-plan/) Sign up for commitments that get you better deals on your resources.
-            * [Public Cloud free trial](https://www.ovhcloud.com/en/public-cloud/free-trial/) Test our solutions at no cost
-            * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en/public-cloud/why-ovh-public-cloud/) Explore cloud computing solutions to fit your needs
-            * [Cloud computing](https://www.ovhcloud.com/en/public-cloud/cloud-computing/) Find out more about this growing practice
-            * [Compliance & Certifications](https://www.ovhcloud.com/en/compliance/) Explore how OVHcloud builds trusted solutions
+            * [Public Cloud free trial](https://www.ovhcloud.com/en/public-cloud/free-trial/) Try out our solutions at no cost
+            * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en/public-cloud/why-ovh-public-cloud/) Discover cloud computing solutions to meet your needs
+            * [Cloud Computing](https://www.ovhcloud.com/en/public-cloud/cloud-computing/) Find out more about this growing practice
+            * [Certification & compliance](https://www.ovhcloud.com/en/compliance/) Explore how OVHcloud builds trusted solutions
             * [Availability by region](https://www.ovhcloud.com/en/public-cloud/regions-availability/) Explore our catalogue coverage by region
-            * [Local Zone New](https://www.ovhcloud.com/en/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
+            * [Local Zones New](https://www.ovhcloud.com/en/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
             * Our documentation Read our guides and tutorials
     * [Compute](https://www.ovhcloud.com/en/public-cloud/compute/)
         * Back to menu
         * [Compute](https://www.ovhcloud.com/en/public-cloud/compute/)
             
-        * Compute Explore all our Compute products
+        * Compute [Explore all our Compute products](https://www.ovhcloud.com/en/public-cloud/compute/)
             
-            * [General Purpose](https://www.ovhcloud.com/en/public-cloud/general-purpose/) Deploy multi-purpose instances, adapted to your needs
-            * [Compute Optimized](https://www.ovhcloud.com/en/public-cloud/compute-optimized/) Deploy instances suited for compute-intensive processing
-            * [Memory Optimized](https://www.ovhcloud.com/en/public-cloud/memory-optimized/) Deploy instances designed for memory-intensive processing
-            * [GPU](https://www.ovhcloud.com/en/solutions/nvidia/) Try out our instances that are up to 1,000 times faster than a CPU
-            * [Storage Optimized](https://www.ovhcloud.com/en/public-cloud/iops/) Get ultra-fast IOPS with direct NVMe access
-            * [Discovery](https://www.ovhcloud.com/en/public-cloud/sandbox/) Get started with Public Cloud instances with shared resources
+            * [Virtual Machine Instances](https://www.ovhcloud.com/en/public-cloud/virtual-instances/) Get versatile instances that can be adapted to suit all your needs.
+            * [Cloud GPU](https://www.ovhcloud.com/en/public-cloud/gpu/) Speed up your workloads with high-performance GPU instances.
             * [Metal Instances](https://www.ovhcloud.com/en/public-cloud/metal-instances/) Combine the power of Bare Metal with cloud automation
             * Our documentation Browse our documentation for the Compute range
+            * En route to PaaS Focus on your applications & become more competitive
             * [Local Zone New](https://www.ovhcloud.com/en/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
+            * [Savings Plans New](https://www.ovhcloud.com/en/public-cloud/savings-plan/) Opt for a 1 to 36 month subscription and save on your Public Cloud resources.
     * [Storage](https://www.ovhcloud.com/en/public-cloud/storage/)
         * Back to menu
         * [Storage](https://www.ovhcloud.com/en/public-cloud/storage/)
@@ -335,11 +332,8 @@ Log in to order, manage your products and services, and track your orders.
             * [Block Storage](https://www.ovhcloud.com/en/public-cloud/block-storage/) Create storage volumes, which can be used as additional disks
             * [Object Storage](https://www.ovhcloud.com/en/public-cloud/object-storage/) Get unlimited on-demand storage, accessible via the S3 API
             * [Cold Archive](https://www.ovhcloud.com/en/public-cloud/cold-archive/) Get long-term archiving at the best price
-            * [Volume Snapshot](https://www.ovhcloud.com/en/public-cloud/volume-snapshot/) Trigger a snapshot on your Block Storage volumes
-            * [Volume Backup](https://www.ovhcloud.com/en/public-cloud/volume-backup/) Back up your Block Storage volumes. The backed-up data is stored on our Object Storage service
-            * [Instance Backup](https://www.ovhcloud.com/en/public-cloud/instance-backup/) Get a backup service for your instances
-            * [Our documentation](https://docs.ovh.com/fr/public-cloud/) Browse our documentation for the Storage range
             * [Local Zone New](https://www.ovhcloud.com/en/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
+            * Our documentation Browse our documentation for the Storage range
     * [Network](https://www.ovhcloud.com/en/public-cloud/network/)
         * Back to menu
         * [Network](https://www.ovhcloud.com/en/public-cloud/network/)
@@ -351,94 +345,80 @@ Log in to order, manage your products and services, and track your orders.
             * [Floating IP](https://www.ovhcloud.com/en/public-cloud/floating-ip/) Assign and move your public IP from one service to another
             * [Gateway](https://www.ovhcloud.com/en/public-cloud/gateway/) Manage a single connection point between your private network & internet
             * Our documentation View our documentation for the Network range
-    * [Databases](https://www.ovhcloud.com/en/public-cloud/databases/)
+    * [Managed Databases](https://www.ovhcloud.com/en/public-cloud/databases/)
         * Back to menu
-        * [Databases](https://www.ovhcloud.com/en/public-cloud/databases/)
+        * [Managed Databases](https://www.ovhcloud.com/en/public-cloud/databases/)
             
-        * Databases Explore all our Databases products
+        * Managed Databases Discover all our Managed Databases products
             
-            * [MongoDB](https://www.ovhcloud.com/en/public-cloud/mongodb/) Run MongoDB as-a-Service on our trusted cloud
-            * [MySQL](https://www.ovhcloud.com/en/public-cloud/mysql/) Deploy MySQL as a managed service in just a few clicks
-            * [PostgreSQL](https://www.ovhcloud.com/en/public-cloud/postgresql/) Create your business applications with PostgreSQL
-            * [Caching](https://www.ovhcloud.com/en/public-cloud/redis/) Add a cache to your architecture
-            * [Kafka](https://www.ovhcloud.com/en/public-cloud/apache-kafka/) Develop and deploy an event-driven architecture with Kafka
-            * [OpenSearch](https://www.ovhcloud.com/en/public-cloud/opensearch/) NoSQL indexing, content search & analytics engine
-            * [Kafka MirrorMaker](https://www.ovhcloud.com/en/public-cloud/kafka-mirrormaker/) Replicate data between your Kafka clusters
-            * [Kafka Connect](https://www.ovhcloud.com/en/public-cloud/kafka-connect/) Deploy an extension that simplifies system ingestion & data sources
-            * [Grafana](https://www.ovhcloud.com/en/public-cloud/grafana/) Create dashboards & charts
-            * [Cassandra](https://www.ovhcloud.com/en/public-cloud/apache-cassandra/) The NoSQL engine for processing high volumes of data
-            * [M3DB](https://www.ovhcloud.com/en/public-cloud/m3db/) Deploy M3DB, the distributed & open-source metrics platform
-            * [M3 Aggregator](https://www.ovhcloud.com/en/public-cloud/m3-aggregator/) Deploy M3 Aggregator, a metrics aggregation service
-            * Our documentation View our documentation for the Databases range
+            * [Managed MongoDB](https://www.ovhcloud.com/en/public-cloud/mongodb/) Document-oriented NoSQL engine. Try for free with Free Tier
+            * [Managed MySQL](https://www.ovhcloud.com/en/public-cloud/mysql/) Popular relational database that adapts to your usage
+            * [Managed PostgreSQL](https://www.ovhcloud.com/en/public-cloud/postgresql/) The top open-source relational database engine
+            * [Managed Caching](https://www.ovhcloud.com/en/public-cloud/redis/) More performance with our in-memory database, compatible with Redis™
+            * [Managed Cassandra](https://www.ovhcloud.com/en/public-cloud/apache-cassandra/) High availability service for high volumes of write requests
+            * [Managed M3DB](https://www.ovhcloud.com/en/public-cloud/m3db/) Track your metrics with an open-source time series platform
+            * [Managed M3 Aggregator](https://www.ovhcloud.com/en/public-cloud/m3-aggregator/) Aggregate your M3DB streams and integrate them directly into your workflows
+            * Our Documentation View our documentation for the Databases range
+            * En route to PaaS Focus on your applications & become more competitive
     * [Containers & Orchestration](https://www.ovhcloud.com/en/public-cloud/orchestration/)
         * Back to menu
         * [Containers & Orchestration](https://www.ovhcloud.com/en/public-cloud/orchestration/)
             
         * Containers & Orchestration Explore all our Containers & Orchestration products
             
-            * [Managed Rancher Service New](https://www.ovhcloud.com/en/public-cloud/managed-rancher-service/) Simplified and centralised management of your Kubernetes clusters
             * [Managed Kubernetes Service](https://www.ovhcloud.com/en/public-cloud/kubernetes/) Orchestrate your containerised applications with a CNCF-certified Kubernetes cluster
-            * [Managed Private Registry](https://www.ovhcloud.com/en/public-cloud/managed-private-registry/) A repository for your software building blocks, in the form of Docker images or Helm charts
-            * [Private Image catalog](https://www.ovhcloud.com/en/public-cloud/private-image-catalog/) Maintain & store custom images of your virtual servers
-            * [Public Image Catalog](https://www.ovhcloud.com/en/public-cloud/public-image-catalog/) Choose from dozens of cloud images offered & managed by OVHcloud
-            * [Workflow Management](https://www.ovhcloud.com/en/public-cloud/workflow-management/) Automate tasks to manage your cloud resources
-            * [Load Balancer for Managed Kubernetes Services](https://www.ovhcloud.com/en/public-cloud/load-balancer-kubernetes/) Manage variations in activity by distributing traffic across multiple resources
-            * [Our documentation](https://help.ovhcloud.com/csm/en-documentation-public-cloud?id=kb_browse_cat&kb_id=574a8325551974502d4c6e78b7421938) View our documentation for the Containers & Orchestration range
-    * [Data Analytics](https://www.ovhcloud.com/en/public-cloud/data-analytics/)
+            * [Load Balancer for Managed Kubernetes Service](https://www.ovhcloud.com/en/public-cloud/load-balancer-kubernetes/) Manage variations in activity by distributing traffic across multiple resources
+            * [Managed Rancher Service New](https://www.ovhcloud.com/en/public-cloud/managed-rancher-service/) Simplified and centralised management of your Kubernetes clusters
+            * [Managed Private Registry](https://www.ovhcloud.com/en/public-cloud/managed-private-registry/) Manage your images of containers and helmchart on a secure private registry
+            * Our documentation View our documentation for the Containers & Orchestration range
+            * En route to PaaS Focus on your applications & become more competitive
+    * [Data Analytics](https://www.ovhcloud.com/en/public-cloud/cloud-analytics/)
         * Back to menu
-        * [Data Analytics](https://www.ovhcloud.com/en/public-cloud/data-analytics/)
+        * [Data Analytics](https://www.ovhcloud.com/en/public-cloud/cloud-analytics/)
             
         * Data Analytics Explore all our Data Analytics products
             
-            * [Data Processing](https://www.ovhcloud.com/en/public-cloud/data-processing/) Launch your Apache Spark processing tasks quickly & easily
+            * [Managed Kafka](https://www.ovhcloud.com/en/public-cloud/apache-kafka/) Queueing solution for deploying your event-driven architectures
+            * [Kafka Connect](https://www.ovhcloud.com/en/public-cloud/kafka-connect/) Extension simplifying the ingestion of your sources to Apache Kafka
+            * [Kafka MirrorMaker](https://www.ovhcloud.com/en/public-cloud/kafka-mirrormaker/) Replication ensuring high availability for your Kafka clusters
+            * [Data Processing](https://www.ovhcloud.com/en/public-cloud/data-processing/) Spark-as-a-Service for your massive data processing
+            * [Logs Data Platform](https://www.ovhcloud.com/en/public-cloud/logs-data-platform/) Complete platform to collect, store and view your logs
+            * [Managed OpenSearch](https://www.ovhcloud.com/en/public-cloud/opensearch/) A dedicated engine for indexing, searching and analyzing data
+            * [Managed Dashboards](https://www.ovhcloud.com/en/public-cloud/grafana/) Grafana® platform for creating dashboards
             * Our documentation View our documentation for the Data Analytics range
+            * En route to PaaS Focus on your applications & become more competitive
     * [Data Platform Beta](https://www.ovhcloud.com/en/public-cloud/data-platform/)
         * Back to menu
         * [Data Platform](https://www.ovhcloud.com/en/public-cloud/data-platform/)
             
         * Data Platform Browse all our Data Platform products
             
-            * [Discover Data Platform Beta](https://www.ovhcloud.com/en/public-cloud/data-platform/) Collaborative data and analytics solution for accelerating your data journey: collect, process and store data to generate insights and make sound business decisions.
-            * [Data Catalog Beta](https://www.ovhcloud.com/en/public-cloud/data-catalog/) Data Platform central repository for managing all data sources: connect, analyse and add blueprint rules.
-            * [Data Processing Engine Beta](https://www.ovhcloud.com/en/public-cloud/data-processing-engine/) Data Platform automation service: transform data, run and orchestrate production-grade ETL/ELT workflows.
-            * [Lakehouse Manager Beta](https://www.ovhcloud.com/en/public-cloud/lakehouse-manager/) Data Platform serverless data lake and warehouse service, designed for organising and storing analytics data.
-            * [Analytics Manager Beta](https://www.ovhcloud.com/en/public-cloud/analytics-manager/) Data Platform self-service analytics and dashboards for querying, visualising and sharing data.
-            * [Applications Services Beta](https://www.ovhcloud.com/en/public-cloud/applications-services/) Data Platform APIs and Apps services, delivering and sharing data insights without blind spots, from build to deployment.
-    * [AI & Machine learning](https://www.ovhcloud.com/en/public-cloud/ai-machine-learning/)
+            * [Discover the OVHcloud Data Platform Beta](https://www.ovhcloud.com/en/public-cloud/data-platform/) Carry out your Data & Analytics projects in record time and with ease
+            * [Data Catalog Beta](https://www.ovhcloud.com/en/public-cloud/data-catalog/) More than 50 connectors for all your data sources
+            * [Lakehouse Manager Beta](https://www.ovhcloud.com/en/public-cloud/lakehouse-manager/) Unified data warehouse and data lake storage, based on Apache Iceberg
+            * [Data Processing Engine Beta](https://www.ovhcloud.com/en/public-cloud/data-processing-engine/) Automate the execution and orchestration of your ETL/ELT workloads
+            * [Analytics Manager Beta](https://www.ovhcloud.com/en/public-cloud/analytics-manager/) Create your dashboards and launch your requests with the Trino engine
+            * [Application Services Beta](https://www.ovhcloud.com/en/public-cloud/applications-services/) SDK and serverless services to deploy your APIs and Data applications
+    * [AI & Machine Learning](https://www.ovhcloud.com/en/public-cloud/ai-machine-learning/)
         * Back to menu
-        * [AI & Machine learning](https://www.ovhcloud.com/en/public-cloud/ai-machine-learning/)
+        * [AI & Machine Learning](https://www.ovhcloud.com/en/public-cloud/ai-machine-learning/)
             
-        * AI & Machine learning Explore all our AI & Machine learning products
+        * AI & Machine Learning Explore all our AI & Machine learning products
             
             * [AI Notebooks](https://www.ovhcloud.com/en/public-cloud/ai-notebooks/) Launch your Jupyter or VS Code notebooks in the cloud
             * [AI Training](https://www.ovhcloud.com/en/public-cloud/ai-training/) Train your AI models
             * [AI Deploy](https://www.ovhcloud.com/en/public-cloud/ai-deploy/) Deploy machine learning models & get your predictions
-            * [AI Endpoints Alpha](https://labs.ovhcloud.com/en/ai-endpoints/) Enhance your applications with cutting-edge AI APIs
-            * [NVIDIA NGC Platform](https://www.ovhcloud.com/en/public-cloud/nvidia-gpu-cloud/) Launch applications that leverage the power of NVIDIA GPUs
+            * [AI Endpoints Alpha](https://labs.ovhcloud.com/en/ai-endpoints/) Enrich your applications with cutting-edge AI APIs
             * Our documentation Browse our documentation for the AI & Machine Learning range
-    * Quantum computing
+            * En route to PaaS Focus on your applications & become more competitive
+    * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/)
         * Back to menu
-        * Quantum computing
+        * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/)
             
-        * Quantum computing
-            
-            * Quantum Notebooks Get a wide range of quantum notebooks in the cloud, and develop solutions quickly and easily with up to 12-20 emulated qubits.
-            * [What is Quantum computing?](https://www.ovhcloud.com/en/learn/what-is-quantum-computing/) Learn more about the next accelerated computing revolution and how to develop today’s solutions with tomorrow’s quantum computers.
-    * [Logs management](https://www.ovhcloud.com/en/logs-data-platform/)
-        * Back to menu
-        * [Logs management](https://www.ovhcloud.com/en/logs-data-platform/)
-            
-        * Logs management
-            
-            * [Logs Data Platform](https://www.ovhcloud.com/en/logs-data-platform/) Collect, store and view your logs
-    * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/identity-access-management/)
-        * Back to menu
-        * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/identity-access-management/)
-            
-        * Identity, Security & Operations
+        * Identity, Security & Operations Discover all our Identity, Security & Operations products
             
             * Identity and Access Management (IAM) Secure your access management and improve your productivity
-            * [Service Logs](https://www.ovhcloud.com/en/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
+            * [OVHcloud Logs Services](https://www.ovhcloud.com/en/public-cloud/service-logs/) Monitor the performance and security of your cloud environment
 * [Hosted Private Cloud](https://www.ovhcloud.com/en/hosted-private-cloud/)
     * Back to menu
     * [Hosted Private Cloud](https://www.ovhcloud.com/en/hosted-private-cloud/)
