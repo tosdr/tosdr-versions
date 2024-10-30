@@ -547,9 +547,9 @@ LEGAL
 
 [General Privacy Policy](https://www.amboss.com/us/legal/privacy)
 
-[Social Media Privacy Policy](https://www.amboss.com/us/legal/social-media)
+[](https://www.amboss.com/us/legal/social-media)
 
-[Job Applicants Privacy Note](https://www.amboss.com/us/legal/applicants)
+[](https://www.amboss.com/us/legal/applicants)
 
 [General Terms of Use](https://www.amboss.com/us/legal/terms)
 
