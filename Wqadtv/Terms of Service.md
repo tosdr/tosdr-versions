@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d69f4bf8-cb4e-4539-b815-616b621a4f6d/20241029T205224/d69f4bf8-cb4e-4539-b815-616b621a4f6d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d69f4bf8-cb4e-4539-b815-616b621a4f6d/20241029T205224/d69f4bf8-cb4e-4539-b815-616b621a4f6d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/pella-wildlife-area-coal-mine-reclamation-native-plants-animals-closed-public-environment/526-f8d9f18f-f2d0-4a30-9938-e8a79cf175ce)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d20903df-057f-4afc-8a57-3b81cb6570ae/20241030T202519/d20903df-057f-4afc-8a57-3b81cb6570ae_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d20903df-057f-4afc-8a57-3b81cb6570ae/20241030T202519/d20903df-057f-4afc-8a57-3b81cb6570ae_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/current-reads-henderson-county-illinois-mystery-thrillers-fall-halloween-christmas/526-42765b72-e0ce-452b-8ba2-8b4d2a9f7df1)
         
-        #### [An abandoned Iowa coal mine is being reclaimed, now closed to public](https://www.wqad.com/article/news/local/the-current/pella-wildlife-area-coal-mine-reclamation-native-plants-animals-closed-public-environment/526-f8d9f18f-f2d0-4a30-9938-e8a79cf175ce)
+        #### [Current Reads: Cozy up with the top 3 mystery thrillers from the Henderson County Library](https://www.wqad.com/article/news/local/the-current/current-reads-henderson-county-illinois-mystery-thrillers-fall-halloween-christmas/526-42765b72-e0ce-452b-8ba2-8b4d2a9f7df1)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
         
-        #### [Illinois early intervention providers seeking $60 million in funding](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
+        #### [Fire breaks out at city-operated storage unit in Davenport](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f) [![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3/20241030T214704/ce6e49fd-e1cc-43ca-9c2b-237a0e0f50d3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
         
+        #### [Davenport firefighters battle Tuesday morning blaze](https://www.wqad.com/article/news/local/public-safety/fire-davenport-marquette-street/526-a8b2b0e4-a788-4e2c-a74e-930fa8aaad7f)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -58,11 +59,11 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Tracking more thunderstorms for Wednesday night](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Thunderstorms set to move into the region Wednesday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_360x203.jpg)](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
         
-        #### [At least 64 people have died in devastating flash floods in eastern Spain, with more rain on the way](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
+        #### [At least 72 people die in devastating flash floods in eastern Spain](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-71°
+74°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
