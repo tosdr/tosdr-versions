@@ -78,7 +78,7 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-   ![KC_Abierta_Convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/KC_abierta%20convocatoria_1400px.png?h=30c5353c&itok=I306YWSJ)
+   ![Banner Kit Consulting. ](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Banner%20home_KC_robot_v2%281%29.jpg?h=72a17d3f&itok=X1cc0LHg)
 
 Noticia
 
