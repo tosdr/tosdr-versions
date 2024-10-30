@@ -364,7 +364,7 @@ Life on the spectrum
 
 ------------------------
 
-[![SURFTISMO HERRERA 2](/sites/default/files/styles/content_grid/public/SURFTISMOHERRERA2.jpg.webp?itok=EKz1FD6a)](https://guide.autismspeaks.org/profile/meet-robin-h)
+[![Robin Herrera, owner of Surftismo](/sites/default/files/styles/content_grid/public/Robin-Herrera%2C-owner-of-Surftismo.jpg.webp?itok=FgvAK2ku)](https://guide.autismspeaks.org/profile/meet-robin-h)
 
 Robin H.
 
