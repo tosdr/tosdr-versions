@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 28, 2024
+October 29, 2024
 
-The election homestretch
+Portraying our moment in history
 
-My sister used to be in politics, and she said elections were all about building a narrative that would crescendo in the final days before the vote. In some ways, that same calendar applies to the Monitor, too. In the homestretch before the United States presidential election, you’ll see us focusing on many stories that set the scene for next Tuesday – less as prognostications, more as highlighting trends and setting expectations. The hope is to help keep you focused on what’s going on beneath the noise.
+How are we shaped by the times in which we live? Consider artists. Amid tumult or outright conflict, they may vividly portray violence or, equally, deeply felt aspirations for a more peaceful world. They probe new styles and forms.Today, writer Terry Hartle considers the forces that shaped the evolution of the impressionists in his lovely review of “Paris in Ruins: Love, War, and the Birth of Impressionism.” The book’s publication coincides with “Paris 1874: The Impressionist Moment,” an exhibit at the National Gallery of Art in Washington.The backdrop is the Franco-Prussian War of 1870. In our current moment of unease and disruption on the global stage, it’s worth spending some time with what Mr. Hartle finds.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
