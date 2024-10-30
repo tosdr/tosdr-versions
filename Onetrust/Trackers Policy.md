@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Revisiting IAPP DPC 2024: Top trends on the latest data protection developments](https://www.onetrust.com/resources/revisiting-iapp-dpc-2024-top-trends-on-the-latest-data-protection-developments-webinar/)
 * [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
-* [How OneTrust partners with Artefact to enable responsible data strategies](https://www.onetrust.com/resources/how-onetrust-partners-with-artefact-to-enable-responsible-data-strategies-infographic/)
-* [Elevate your data strategy: From cookies to universal consent & preferences](https://www.onetrust.com/resources/elevate-your-data-strategy-from-cookies-to-universal-consent-preferences-webinar/)
+* [How the EU AI Act and recent FTC enforcements for AI shape data governance](https://www.onetrust.com/resources/how-the-eu-ai-act-and-recent-ftc-enforcements-for-ai-shape-data-governance-white-paper/)
 
 ### Platform
 
