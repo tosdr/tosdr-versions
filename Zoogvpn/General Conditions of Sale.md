@@ -152,7 +152,7 @@ Zoog Services IKE
 
 130 Germanou, Patras 26224, Greece
 
-+306982989576
++1 321 396 5183
 
 [Facebook-f](https://www.facebook.com/zoogvpn) [](https://twitter.com/zoogvpn)[Instagram](https://www.instagram.com/zoogvpn)
 
