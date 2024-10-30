@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/het-braziliaanse-roswell/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/waarom-je-niet-moet-geloven-wat-er-in-de-krant-staat/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
