@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Lidar mapping reveals mountainous medieval cities along the Silk Road](https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/?itm_source=parsely-api)
     
-4. 4. [NASA’s oldest active astronaut is also one of the most curious humans](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/?itm_source=parsely-api)
+4. 4. [A candy engineer explains the science behind the Snickers bar](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/?itm_source=parsely-api)
     
-5. 5. [SpaceX has caught a massive rocket. So what’s next?](https://arstechnica.com/space/2024/10/spacex-has-caught-a-massive-rocket-so-whats-next/?itm_source=parsely-api)
+5. 5. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
     
 
 Customize
