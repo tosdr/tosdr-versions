@@ -16,13 +16,13 @@ Close Menu
 
 [Menu](https://www.bobswatches.com/)
 
- [![Rolex Submariner](https://cdn2.bobswatches.com/_/q:50/sh:0.5/s:252:0:1/dpr:2/plain/images/carousel/Sub-carousel-23.jpg) Submariner](https://www.bobswatches.com/rolex-submariner-1.html)
+ [![Rolex Submariner](https://images.bobswatches.com/images/carousel/Sub-carousel-23.jpg?q=50&w=252&sh=true) Submariner](https://www.bobswatches.com/rolex-submariner-1.html)
 
- [![Rolex Datejust](https://cdn2.bobswatches.com/_/q:50/sh:0.5/s:252:0:1/dpr:2/plain//images/carousel/Datejust-carousel-23.jpg) Datejust](https://www.bobswatches.com/rolex-datejust-1.html)
+ [![Rolex Datejust](https://images.bobswatches.com/images/carousel/Datejust-carousel-23.jpg?q=50&w=252&sh=true) Datejust](https://www.bobswatches.com/rolex-datejust-1.html)
 
- [![Rolex Daytona](https://cdn2.bobswatches.com/_/q:50/sh:0.5/s:252:0:1/dpr:2/plain/images/carousel/Daytona-carousel-23.2.jpg) Daytona](https://www.bobswatches.com/rolex-daytona-1.html)
+ [![Rolex Daytona](https://images.bobswatches.com/images/carousel/Daytona-carousel-23.2.jpg?q=50&w=252&sh=true) Daytona](https://www.bobswatches.com/rolex-daytona-1.html)
 
- [![Rolex GMT-Master](https://cdn2.bobswatches.com/_/q:50/sh:0.5/s:252:0:1/dpr:2/plain/images/carousel/GMT-carousel-2-23.jpg) GMT-Master II](https://www.bobswatches.com/rolex-gmt-master-ii-1.html)
+ [![Rolex GMT-Master](https://images.bobswatches.com/images/carousel/GMT-carousel-2-23.jpg?q=50&w=252&sh=true) GMT-Master II](https://www.bobswatches.com/rolex-gmt-master-ii-1.html)
 
 * Rolex
     * [Rolex](https://www.bobswatches.com/rolex/)
