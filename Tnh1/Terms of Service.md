@@ -196,15 +196,7 @@ EM SC
 
 Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas
 
-Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
-
-novo serviço
-
-novo serviço
-
-Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona
-
-Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
+Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas](https://www.tnh1.com.br/noticia/nid/apos-vasectomia-do-marido-mae-de-4-descobre-gravidez-de-gemeas/ "Após vasectomia do marido, mãe de 4 descobre gravidez de gêmeas")[![Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/e/csm_OPERACAO_SONEGACAO_FISCAL_ascom_ec6708694d.jpg)
 
 EM OITO ESTADOS
 
@@ -212,49 +204,57 @@ EM OITO ESTADOS
 
 Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal
 
-Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_unimed_c503346cdd.jpeg)
+Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal](https://www.tnh1.com.br/noticia/nid/notas-fiscais-falsas-e-prejuizo-milionario-empresas-sao-alvo-de-operacao-contra-sonegacao-fiscal/ "Notas fiscais falsas e prejuízo milionário: empresas são alvo de operação contra sonegação fiscal")[![Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_pix_0411202555_b722645db8.jpg)
 
-Mercado de Trabalho
+novo serviço
 
-Mercado de Trabalho
+novo serviço
 
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta
+Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona
 
-Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta](https://www.tnh1.com.br/noticia/nid/unimed-abre-mais-de-120-vagas-de-emprego-para-nova-unidade-na-gruta/ "Unimed abre mais de 120 vagas de emprego para nova unidade na Gruta")
+Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona](https://www.tnh1.com.br/noticia/nid/pix-agendado-passa-a-ser-obrigatorio-a-partir-desta-segunda-feira-entenda-como-funciona/ "Pix Agendado passa a ser obrigatório a partir desta segunda-feira; entenda como funciona ")[![Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/a/csm_cruzados-encontrados-filhos-heranca-reproducao-TV-Anhanguera_b6443c5ab4.jpg)
 
-[![Peñarol x Botafogo será no estádio Centenário com as duas torcidas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/6/csm_Estadio_Centenario_-_Dovulgalcao_5c9ecd778a.jpg)
+No Tocantins
 
-Futebol Internacional
+No Tocantins
 
-Futebol Internacional
+Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai
 
-Peñarol x Botafogo será no estádio Centenário com as duas torcidas
+Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai](https://www.tnh1.com.br/noticia/nid/irmaos-encontram-heranca-de-32-milhoes-em-cruzados-apos-morte-do-pai/ "Irmãos encontram 'herança' de 32 milhões em Cruzados após morte do pai")
 
-Peñarol x Botafogo será no estádio Centenário com as duas torcidas](https://www.tnh1.com.br/noticia/nid/penarol-x-botafogo-sera-no-estadio-centenario-com-as-duas-torcidas/ "Peñarol x Botafogo será no estádio Centenário com as duas torcidas")[![Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/e/csm_bebe-gigante-minas-gerais-arquivo-pessoal_f7ed6af6b9.jpg)
+[![Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/7/csm_Bitcoin_-_Foto_Pixabay_c85c5670a2.jpg)
 
-Viralizou
+moeda virtual
 
-Viralizou
+moeda virtual
 
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho
+Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA
 
-Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho](https://www.tnh1.com.br/noticia/nid/video-bebe-gigante-de-10-meses-impressiona-web-pelo-tamanho/ "Vídeo: 'bebê gigante' de 10 meses impressiona web pelo tamanho")[![Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_dolar_moeda_0803221209_3dc01a832d.jpg)
+Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA](https://www.tnh1.com.br/noticia/nid/bitcoin-atinge-maxima-historica-em-real-com-apostas-sobre-vitoria-de-trump-em-eleicao-dos-eua/ "Bitcoin atinge máxima histórica em real com apostas sobre vitória de Trump em eleição dos EUA")[![Conheça as substâncias químicas que estão desregulando seus hormônios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_mulher-bebendo-agua-reproducao-freepik_f72b28bafd.png)
 
-Economia
+saúde hormonal
 
-Economia
+saúde hormonal
 
-Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos
+Conheça as substâncias químicas que estão desregulando seus hormônios
 
-Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos](https://www.tnh1.com.br/noticia/nid/dolar-fecha-em-r-5762-maior-valor-desde-maio-de-2020-com-fala-de-haddad-sobre-corte-de-gastos/ "Dólar fecha em R$ 5,762, maior valor desde maio de 2020, com fala de Haddad sobre corte de gastos")[![Cliente reclama da carne e é esfaqueado por açougueiro em mercado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/c/csm_homem-esfaqueado-mercado-reproducao_89785444d3.png)
+Conheça as substâncias químicas que estão desregulando seus hormônios](https://www.tnh1.com.br/noticia/nid/conheca-as-substancias-quimicas-que-estao-desregulando-seus-hormonios/ "Conheça as substâncias químicas que estão desregulando seus hormônios")[![Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/3/csm_oasis-turne-reproducao-X_050c554068.jpg)
 
-EM GO
+PREÇOS INFLACIONADOS
 
-EM GO
+PREÇOS INFLACIONADOS
 
-Cliente reclama da carne e é esfaqueado por açougueiro em mercado
+Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros
 
-Cliente reclama da carne e é esfaqueado por açougueiro em mercado](https://www.tnh1.com.br/noticia/nid/cliente-reclama-da-carne-e-e-esfaqueado-por-acougueiro-em-mercado/ "Cliente reclama da carne e é esfaqueado por açougueiro em mercado")
+Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros](https://www.tnh1.com.br/noticia/nid/bilheteria-cancela-50-mil-ingressos-da-turne-do-oasis-apos-revenda-por-terceiros/ "Bilheteria cancela 50 mil ingressos da turnê do Oasis após revenda por terceiros")[![Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/b/csm_comediante-campanha-trump-reproducao-youtube_a6b8d8b4bc.jpg)
+
+ELEIÇÕES NOS EUA
+
+ELEIÇÕES NOS EUA
+
+Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump
+
+Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump](https://www.tnh1.com.br/noticia/nid/quem-e-o-comediante-responsavel-pela-piada-que-abalou-a-campanha-de-trump/ "Quem é o comediante responsável pela 'piada' que abalou a campanha de Trump")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
