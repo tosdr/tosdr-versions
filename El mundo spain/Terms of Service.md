@@ -1,13 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyGPuAoAAVEAAABc3-Y)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZyHj1woAAVAAAABbVQU)
 
 Es noticia
 
-* [Alerta Protección Civil Valencia](https://www.elmundo.es/comunidad-valenciana/2024/10/29/67213a6821efa0cc7d8b4584.html)
+* [Teléfono afectados](https://www.elmundo.es/comunidad-valenciana/2024/10/30/6721dc29e4d4d8b4158b45b0.html)
 * [DANA](https://www.elmundo.es/espana/2024/10/29/6720a685a75cca8941c2d18e-directo.html)
 * [Aída Nízar](https://www.elmundo.es/television/2024/10/29/6720b803e4d4d8b4158b4591.html)
 * [Elisa Mouliaá Errejón](https://www.elmundo.es/espana/2024/10/29/6720f305e85ece200a8b458e.html)
 * [Begoña Gómez](https://www.elmundo.es/espana/2024/10/29/6720bd9cfdddff475e8b458c.html)
-* [Muere José Antonio Vidal](https://www.elmundo.es/andalucia/2024/10/28/671f842ce85ecef1778b456d.html)
+* [Gran Hermano](https://www.elmundo.es/television/momentvs/2024/10/30/6721d2d3e85ece91408b456f.html)
 * [Isabel Rodríguez](https://www.elmundo.es/cronica/2024/10/28/671be5e2e9cf4a0a0a8b4595.html)
 * [Juicio Bernabéu](https://www.elmundo.es/madrid/2024/10/29/67211d64e4d4d8561e8b4591.html)
 * [Amaia Montero](https://www.elmundo.es/cultura/musica/2024/10/29/67214680e9cf4a56778b456f.html)
@@ -16,7 +16,7 @@ Es noticia
 * [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/29/6720d0befdddffaa358b458a.html)
 * [Borrell](https://www.elmundo.es/internacional/2024/10/29/67211b30fdddffbc358b45ae.html?activate-overlay=true)
 * [Elecciones EEUU](https://www.elmundo.es/internacional/2024/10/29/672123a8fc6c83eb1b8b45d9.html)
-* [Mahou](https://www.elmundo.es/economia/empresas/2024/10/29/6720cfd5fdddff0b428b4586.html)
+* [El tiempo hoy](https://www.elmundo.es/espana/2024/10/30/67210759fc6c83f8658b45af.html)
 * [Jaidy Michel](https://www.elmundo.es/loc/famosos/2024/10/29/6720cc5ae85ece193d8b4590.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/10/29/67208232a75cca8941c238c5-directo.html)
 * [Reducción jornada](https://www.elmundo.es/economia/2024/10/29/672125f8fdddff30418b45a3.html)
