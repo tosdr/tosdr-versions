@@ -385,28 +385,28 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.gradskimuzej.subotica.rs](http://www.gradskimuzej.subotica.rs/)
     
-    [10:00 Od mnogoboštva do hrišćanstva: rotonda u Stojniku, BG](javascript:void(0);)
+    [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
     
-    Narodni muzej Srbije, Trg Republike 1a, Beograd
+    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
     
-    **OD MNOGOBOŠTVA DO HRIŠĆANSTVA: ROTONDA U STOJNIKU** - izložba posvećena jedinstvenoj građevini tog tipa na prostoru centralnobalkanskih rimskih provincija, koja je bila i paganski hram i hrišćanska crkva (5.9.-3.11.2024.)
+    Ciklus izložbi: Umetnost i ličnost - skulptorke iz kolekcije MSU
     
-    Autori izložbe: Tatjana Cvjetićanin, Maja Franković i Adam Crnobrnja
+    **MAGIČNOST DREVNOG - VENIJA VUČINIĆ TURINSKI** (1934, Kolašin) - izložba (5.9.-23.11.2024.)
     
-    Saradnice na izložbi: Olga Špehar i Jelena Premović
+    autorka: dr Rajka Bošković
     
-    [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
+    [https://www.msub.org.rs](https://www.msub.org.rs/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/interakcija.jpg?itok=n97S4dJF)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/razno/vozdra-zenca.jpg?itok=RNuxFwjz)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii/olivera-savic-popovic.jpg?itok=kZC5lxCy)](http://seecult.org/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/enjoyjuly-ivo-dimchev.jpg?itok=6j4SkmTt)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -422,16 +422,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Izolacija – šta je stvarnost, a šta manipulacija](http://seecult.org/vest/izolacija-sta-je-stvarnost-sta-manipulacija)
 * [Tatjani Mandić Rigonat nagrada Bojan Stupica za 2024.](http://seecult.org/vest/tatjani-mandic-rigonat-nagrada-bojan-stupica-za-2024)
 * [Legat Bate Stojkovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-bate-stojkovica-u-jugoslovenskoj-kinoteci)
+* [Zafranović: Zlo se ponavlja](http://seecult.org/vest/zafranovic-zlo-se-ponavlja)
 * [Performansi i predavanje na izložbi Ere Milivojevića](http://seecult.org/vest/performansi-i-predavanje-na-izlozbi-ere-milivojevica)
 * [Preminuo Radoslav Petković](http://seecult.org/vest/preminuo-radoslav-petkovic)
 * [Razgovor sa Šijanom i Jutro u ružičastom](http://seecult.org/vest/razgovor-sa-sijanom-i-jutro-u-ruzicastom)
 * [Mihalkov o slobodi, istini, novcu, ratu, starim i novim vrednostima...](http://seecult.org/vest/mihalkov-o-slobodi-istini-novcu-ratu-starim-i-novim-vrednostima)
 * [Zafranović na 18. KRAF-u](http://seecult.org/vest/zafranovic-na-18-kraf-u)
 * [Nova stalna postavka Galerije Matice srpske](http://seecult.org/vest/nova-stalna-postavka-galerije-matice-srpske)
-* [Novinarima Akademska knjiga najbolji izdavač](http://seecult.org/vest/novinarima-akademska-knjiga-najbolji-izdavac)
-* [Svetska premijera – pijanisti koji govore](http://seecult.org/vest/svetska-premijera-pijanisti-koji-govore)
 
 * [Konkursi](#tab1_1)
 
