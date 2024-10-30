@@ -7,7 +7,7 @@ Shop the [Halloween Sale](https://www.arlo.com/en-us/halloween-sale "Fall Sale")
 * [Products](#)
 * [Security Plans](#)
 * [Accessories](https://www.arlo.com/en-us/accessories)
-* [Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html)
+* [Build My System](https://www.arlo.com/en-us/build-your-bundle-main.html)
 
 * [Support](https://www.arlo.com/en-us/support)
 * [Sign in](https://www.arlo.com/en-us/login)
@@ -17,10 +17,10 @@ Shop the [Halloween Sale](https://www.arlo.com/en-us/halloween-sale "Fall Sale")
     * [Order Status](https://www.arlo.com/en-us/orderstatus)
     * [My Arlo Dashboard](https://my.arlo.com/)
     
-* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw9c306a8e/images/assets/images/navigation/search.png)](# " ")
+* [![Search](/on/demandware.static/Sites-arlo-Site/-/default/dw180e4fa4/images/assets/images/navigation/search.png)](# " ")
 * [0
     
-    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwc97559f9/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
+    ![Cart](/on/demandware.static/Sites-arlo-Site/-/default/dwf03c99d6/images/assets/images/navigation/cart.png)](https://www.arlo.com/en-us/cart)
 
 ### Security System
 
@@ -34,10 +34,10 @@ From $199.99](https://www.arlo.com/en-us/security-system/arlo-security-system.ht
 
 [![](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw8827424b/./assets/images/product-images/bundle-builder.png)
 
-Bundle Builder
+Starter Kits
 
-Build a security bundle  
-& save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
+Save up to 50% & get a  
+free yard sign!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
 
 ### Cameras
 
@@ -290,13 +290,13 @@ Security Plans
 
 [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 
-[### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
+[### Build My System](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
 
 * [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
     
     Products
     
-    * [### Security System](https://www.arlo.com/en-us/search?cgid=undefined "null")
+    * [### Security System](https://www.arlo.com/en-us/security-system "null")
         
         [Security System](#)
         
@@ -318,7 +318,7 @@ Security Plans
             & save up to 25%!](https://www.arlo.com/en-us/build-your-bundle-main.html "bundle builder")
             
         
-    * [### Cameras](https://www.arlo.com/en-us/search?cgid=undefined "null")
+    * [### Cameras](https://www.arlo.com/en-us/cameras "null")
         
         [Cameras](#)
         
@@ -377,7 +377,7 @@ Security Plans
         
         [Shop & Compare Cameras](https://www.arlo.com/en-us/cameras)
         
-    * [### Doorbells](https://www.arlo.com/en-us/search?cgid=undefined "null")
+    * [### Doorbells](https://www.arlo.com/en-us/doorbell "null")
         
         [Doorbells](#)
         
@@ -404,7 +404,7 @@ Security Plans
         
         [Shop Doorbells](https://www.arlo.com/en-us/doorbell)
         
-    * [### Floodlights](https://www.arlo.com/en-us/search?cgid=undefined "null")
+    * [### Floodlights](https://www.arlo.com/en-us/light "null")
         
         [Floodlights](#)
         
@@ -451,7 +451,7 @@ Security Plans
      [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety on the go – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
     
 * [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
-* [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
+* [### Build My System](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
 
 * [Support](https://www.arlo.com/en-us/support "Support")
 * [Store Sign In](https://www.arlo.com/en-us/login "Store Sign In ")
