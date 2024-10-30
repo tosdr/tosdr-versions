@@ -10,7 +10,7 @@
     * [Manufacturing & Logistics](https://www.boingo.com/manufacturing/)
 * Wireless Solutions
     * [5G & CBRS](https://www.boingo.com/5g/)
-    * [DAS & Small Cell](https://www.boingo.com/das-small-cell/)
+    * [DAS & Small Cell](https://www.boingo.com/das-small-cell)
     * [Private Networks](https://www.boingo.com/private-networks/)
     * [Towers](https://www.boingo.com/towers/)
     * [Wi-Fi](https://www.boingo.com/wifi/)
