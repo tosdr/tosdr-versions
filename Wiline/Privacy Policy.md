@@ -281,6 +281,7 @@ Talk to Sales
     
     * [Support](https://www.wiline.com/customer-support)
     * [My Account](https://my.wiline.com/)
+    * [Privacy](https://www.wiline.com/privacy)
     * [Legal](https://www.wiline.com/legal)
 * [Partners area](https://www.wiline.com/contact-us)
     
