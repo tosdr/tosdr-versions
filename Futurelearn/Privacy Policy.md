@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [Lifelong Learning, Longevity And Innovative Tech: Rethinking Education At The BCCI 120th Anniversary Gala Dinner](https://www.futurelearn.com/info/press/lifelong-learning-longevity-and-innovative-tech-rethinking-education-at-the-bcci-120th-anniversary-gala-dinner)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the leading UK-based online learning provider, attended a gala dinner celebrating the 120th anniversary …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![economics student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-99-150x150.png)](https://www.futurelearn.com/info/blog/economics-degree-careers)
     
     [What can I do with an economics degree?](https://www.futurelearn.com/info/blog/economics-degree-careers)
@@ -746,13 +753,6 @@ Powered By
     Thinking about taking an online software engineering degree to learn specialist knowledge and improve your …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [IT & Computer Science](https://www.futurelearn.com/info/it-computer-science)
-    
-* [FutureLearn Partners with CILEX to Enhance Access to Legal Education](https://www.futurelearn.com/info/press/futurelearn-partners-with-cilex-to-enhance-access-to-legal-education)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the leading social learning platform, is excited to announce its strategic content partnership with …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
