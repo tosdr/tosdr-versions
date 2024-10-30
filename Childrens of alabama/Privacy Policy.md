@@ -34,7 +34,7 @@ Close
 * Ways to Give[](javascript:void(0) "Expand menu")
     * [Support Children's](https://www.childrensal.org/foundation)
     * [Volunteer Services](https://www.childrensal.org/services/volunteer-services)
-* [Donate Now](https://secure.childrensal.org/site/Donation2?idb=0&2500_donation=form1&DONATION_LEVEL_ID_SELECTED=1&df_id=2500&mfc_pref=T)
+* [Donate Now](https://give.childrensal.org/Donate)
 * [About Children's](https://www.childrensal.org/about-childrens)
 * [For Healthcare Professionals](https://www.childrensal.org/services/healthcare-professionals)
 * [Careers](https://childrensalcareers.org/)
@@ -76,7 +76,7 @@ Close
 * [Patients & Visitors](javascript:void(0);)
 * [Find a Provider](https://www.childrensal.org/providers)
 * [Ways to Give](javascript:void(0);)
-* [Donate Now](https://secure.childrensal.org/site/Donation2?idb=0&2500_donation=form1&DONATION_LEVEL_ID_SELECTED=1&df_id=2500&mfc_pref=T)
+* [Donate Now](https://give.childrensal.org/Donate)
 
 [search](javascript:void(0); "Click to search") [show off canvas menu](javascript:void(0);)
 
