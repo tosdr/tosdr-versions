@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Perfect World](https://www.somethingawful.com/mmo-roulette/buttbongo/1/)
-* [Heroes of the Gaming World Trading Cards](https://www.somethingawful.com/feature-articles/heroes-gaming-world/1/)
-* [Replace Swords with Bananas! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/replace-swords-bananas/1/)
-* [Silence of the Lamb Shorts!](https://www.somethingawful.com/everdraed-showcase/silence-lambs-shorts/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [DogBeards](https://www.somethingawful.com/photoshop-phriday/dog-beards/1/)
+* [The Stuff](https://www.somethingawful.com/movie-reviews/the-stuff/1/)
+* [The Most Badass Rifts Cover Art According to Steve](https://www.somethingawful.com/dungeons-and-dragons/rifts-cover-art/1/)
+* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [I think more chicks should wear hats, it's cute](http://forums.somethingawful.com/showthread.php?threadid=4073884 "I think more chicks should wear hats, it's cute")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/rant.png) [Something I never got about the movie office space. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4073874 "Something I never got about the movie office space. Spoilers")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Who was the worst mod in the history of the SA forums? \[POLL\]](http://forums.somethingawful.com/showthread.php?threadid=4073867 "Who was the worst mod in the history of the SA forums? [POLL]")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [ITT all of out posts are AI generated](http://forums.somethingawful.com/showthread.php?threadid=4073860 "ITT all of out posts are AI generated")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Im trying to write a new generation timecube](http://forums.somethingawful.com/showthread.php?threadid=4073928 "Im trying to write a new generation timecube")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Post random SAclopedia entries](http://forums.somethingawful.com/showthread.php?threadid=4073877 "Post random SAclopedia entries")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's](http://forums.somethingawful.com/showthread.php?threadid=4073865 "Luce and Friends, or, a thread for posting buddy christ from Kevin Smith's")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tv.png) [Did Captain Planet fail?](http://forums.somethingawful.com/showthread.php?threadid=4073918 "Did Captain Planet fail?")
 
 ### Random Articles
 
-* [Kigurumi Cosplay Society (Thanks, A.r.!)](https://www.somethingawful.com/awful-links/kigurumi-cosplay-society/)
-* [On the Importance of Grappling Hooks and Jetpacks](https://www.somethingawful.com/news/on-importance-grappling/)
-* [Alternate History 101](https://www.somethingawful.com/news/alternate-history-101/)
-* [Chain of Fools](https://www.somethingawful.com/garbage-day/stereoside-saving-abel/)
-* [22 Jump Street; How to Train Your Dragon 2; Hellion](https://www.somethingawful.com/current-movie-reviews/jump-street-dragons/1/)
+* [Porn Versions of Classic Films! (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/classic-films-porn/1/)
+* [The National Socialist Clan of Sta](https://www.somethingawful.com/awful-links/awful-link-581/)
+* [Alien Plantlife Project](https://www.somethingawful.com/awful-links/awful-link-1001/)
+* [Hitler: Good or Bad?](https://www.somethingawful.com/comedy-goldmine/hitler-good-bad/)
+* [Electric Football!](https://www.somethingawful.com/news/electric-football/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
