@@ -47,9 +47,9 @@ Our website uses cookies to enhance your online experience by; measuring audienc
 
 * [Contact us](https://atos.net/en/contact-us)
 * English
-    * [English](javascript:switchLang('https://atos.net/en/privacy');)
-    * [Français](javascript:switchLang('https://atos.net/fr/vie-privee');)
-    * [Deutsch](javascript:switchLang('https://atos.net/de/datenschutz');)
+    * [English](https://atos.net/en/privacy)
+    * [Français](https://atos.net/fr/vie-privee)
+    * [Deutsch](https://atos.net/de/datenschutz)
 
  [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-blue-2023.svg)
 
