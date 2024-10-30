@@ -310,7 +310,6 @@ Advertise
 
 ### [Inside the contest to succeed Ken MacKenzie at the top of BHP](https://www.afr.com/companies/mining/inside-the-contest-to-succeed-ken-mackenzie-at-the-top-of-bhp-20241028-p5klzv)
 
-* 56 mins ago
 * Patrick Durkin
 
 * ### [2024’s most powerful and influential directors revealed](https://www.afr.com/work-and-careers/workplace/2024-s-most-powerful-and-influential-directors-revealed-20241016-p5kiw5)
@@ -325,7 +324,6 @@ Advertise
 
 ### [This humble ‘house’ in Nepal has lured celebrities and revived a village](https://www.afr.com/life-and-luxury/travel/this-humble-house-in-nepal-has-lured-celebrities-and-revived-a-village-20241022-p5kkdq)
 
-* 56 mins ago
 * Nina Karnikowski
 
 * ### [Ever wondered what companies do with their old laptops and iPhones?](https://www.afr.com/technology/ever-wondered-what-companies-do-with-their-old-laptops-and-iphones-20241022-p5kkbm)
