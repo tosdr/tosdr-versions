@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
+* [Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://www.theepochtimes.com/world/uncertainty-surrounds-alleged-assassination-attempt-on-former-bolivian-president-5750027)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    NEW By [Autumn Spredemann](https://www.theepochtimes.com/author/autumn-spredemann)
     
-    [![5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Takeaways From Harris’s Closing Arguments Speech in Washington](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750295-Harris-closing-argument-GettyImages-2181812868-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
+    ![Uncertainty Surrounds Alleged Assassination Attempt on Former Bolivian President](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750362-GettyImages-2172668658-205x123.jpg.webp)](https://www.theepochtimes.com/world/uncertainty-surrounds-alleged-assassination-attempt-on-former-bolivian-president-5750027)
+* [Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://www.theepochtimes.com/us/three-term-montana-sen-jon-tester-becomes-the-underdog-5745319)
+    
+    1hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Three-Term Montana Sen. Jon Tester Becomes the Underdog](https://img.theepochtimes.com/assets/uploads/2023/06/01/id5306484-06012023-DSC07169-Senator-Tester-205x123.jpg.webp)](https://www.theepochtimes.com/us/three-term-montana-sen-jon-tester-becomes-the-underdog-5745319)
+* [Biden Sparks Outcry After Calling Trump Supporters ‘Garbage’](https://www.theepochtimes.com/us/biden-sparks-outcry-after-calling-trump-supporters-garbage-5750352)
+    
+    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Sparks Outcry After Calling Trump Supporters ‘Garbage’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Sparks Outcry After Calling Trump Supporters ‘Garbage’](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750378-Biden-GettyImages-2181612203-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-sparks-outcry-after-calling-trump-supporters-garbage-5750352)
+* [5 Takeaways From Harris’s Closing Argument Speech in Washington](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
+    
+    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![5 Takeaways From Harris’s Closing Argument Speech in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![5 Takeaways From Harris’s Closing Argument Speech in Washington](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750295-Harris-closing-argument-GettyImages-2181812868-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-harriss-closing-arguments-speech-in-washington-5750338)
 * [EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://www.theepochtimes.com/china/eu-set-to-impose-up-to-45-percent-tariffs-on-china-made-evs-5749978)
     
-    2hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    8hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![EU Set to Impose up to 45 Percent Tariffs on China-Made EVs](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750007-GettyImages-2172117996-205x123.jpg.webp)](https://www.theepochtimes.com/china/eu-set-to-impose-up-to-45-percent-tariffs-on-china-made-evs-5749978)
 * [Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://www.theepochtimes.com/us/audit-alleges-boeing-charged-air-force-huge-markup-for-aircraft-parts-5750008)
     
-    3hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    9hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Audit Alleges Boeing Charged Air Force Huge Markup for Aircraft Parts](https://img.theepochtimes.com/assets/uploads/2024/03/07/id5602370-1160976-205x123.jpg.webp)](https://www.theepochtimes.com/us/audit-alleges-boeing-charged-air-force-huge-markup-for-aircraft-parts-5750008)
 * [Harris Makes Final Pitch in Washington](https://www.theepochtimes.com/us/harris-makes-final-pitch-in-washington-5750270)
     
-    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Harris Makes Final Pitch in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Harris Makes Final Pitch in Washington](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750285-Harris-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-makes-final-pitch-in-washington-5750270)
 * [Consumer Confidence Surges Ahead of Election](https://www.theepochtimes.com/us/consumer-confidence-surges-ahead-of-election-5749972)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Consumer Confidence Surges Ahead of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Consumer Confidence Surges Ahead of Election](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719102-GettyImages-2166779968-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/consumer-confidence-surges-ahead-of-election-5749972)
 * [Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://www.theepochtimes.com/article/day-in-photos-four-month-sentence-stray-tram-and-a-stabbing-rampage-5749752)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Four-Month Sentence, Stray Tram, and a Stabbing Rampage](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750158-GettyImages-2181060728-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-four-month-sentence-stray-tram-and-a-stabbing-rampage-5749752)
 * [Why Many Young Men Are Backing Trump](https://www.theepochtimes.com/article/why-many-young-men-are-backing-trump-2-post-5749145)
     
-    5hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    11hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![Why Many Young Men Are Backing Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Why Many Young Men Are Backing Trump](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750195-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/why-many-young-men-are-backing-trump-2-post-5749145)
-* [Harris Supporters Gather for Washington Rally A Week Before Election](https://www.theepochtimes.com/us/harris-supporters-gather-for-washington-rally-a-week-before-election-5749963)
-    
-    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Harris Supporters Gather for Washington Rally A Week Before Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Supporters Gather for Washington Rally A Week Before Election](https://img.theepochtimes.com/assets/uploads/2024/10/29/id5750244-10292024-DSC05950-Harris-supporters-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-supporters-gather-for-washington-rally-a-week-before-election-5749963)
-* [Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
-    
-    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pentagon Says North Korean Troops Heading to Russia’s Embattled Kursk Region](https://img.theepochtimes.com/assets/uploads/2016/12/02/AP16337427815453-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-says-north-korean-troops-heading-to-russias-embattled-kursk-region-5750033)
-* [Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://www.theepochtimes.com/us/vance-to-appear-on-joe-rogan-experience-podcast-5750085)
-    
-    6hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vance to Appear on ‘Joe Rogan Experience’ Podcast](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743812-JD-Vance-1_JF_10092024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/vance-to-appear-on-joe-rogan-experience-podcast-5750085)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
