@@ -219,16 +219,14 @@ N8 7RF
 
 ### Latest Tweets
 
-[September 17, 2024](https://twitter.com/veemaedu/status/1836027325227381120)
+[October 28, 2024](https://twitter.com/societyofheads/status/1850859625433764301)
 
-[](https://twitter.com/veemaedu/status/1836027325227381120)
+[](https://twitter.com/societyofheads/status/1850859625433764301)
 
-[\*Final Countdown\* to register for an NPQ with Veema Education! Preferential rates are available for](https://twitter.com/veemaedu/status/1836027325227381120)[...](#) our CPD members and @FOBISIA1 member schools.  
+[🙌We are busy planning our next gathering for Junior School Leaders #SoHJuniorSchoolLeadersConf](https://twitter.com/societyofheads/status/1850859625433764301) [...](#)🎉  
   
-LEARN MORE: https://veema.co.uk/teacher-cpd-programmes/#1624292734621-451aa4ff-0166  
-  
-#NPQs  
-#Neverstoplearning
+All of our Junior School Leaders will be welcome at this exciting event full of networking, professional development and collegiality. Book here today! 👀🖱️  
+https://www.thesocietyofheads.org.uk/booking
 
 [September 17, 2024](https://twitter.com/veemaedu/status/1836027325227381120)
 
