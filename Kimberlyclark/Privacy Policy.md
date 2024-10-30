@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 10/23/2024
+Last Updated : 10/30/2024
 
 [](javascript:void(0))
 
@@ -490,7 +490,7 @@ If you have any questions, we want to hear from you. You can find our contact in
   
 **Brands.** Our Site is owned, operated, and maintained by KIMBERLY-CLARK CORPORATION and our affiliated companies and [brands](https://www.kimberly-clark.com/brands/our-brands) (“Kimberly-Clark”, “we”, “our” or “us”).    
   
-**State- or Country-Specific Disclosures.** This Policy includes additional state- or country-specific information (such as the specific rights regarding your personal information that may be available in your jurisdiction) within the [State- or Country-Specific Disclosures](#disclosures) section. If there is a conflict between this Policy and the State- or Country-Specific Disclosures section, the latter will control only as to the extent of the conflict. For Russia, this Policy will not apply and Russian policy is located [here](https://www.huggies.ru/privacy-policy).  
+**State- or Country-Specific Disclosures.** This Policy includes additional state- or country-specific information (such as the specific rights regarding your personal information that may be available in your jurisdiction) within the [State- or Country-Specific Disclosures](#disclosures) section. If there is a conflict between this Policy and the State- or Country-Specific Disclosures section, the latter will control only as to the extent of the conflict. This policy does not apply to personal information of users located in the Russian Federation; the privacy policy for users in the Russian Federation is located [here](https://www.huggies.ru/privacy-policy).  
   
 **Other Policies.** In addition to this Policy, there may be other specific Kimberly-Clark products, services or promotions that are governed by additional policies or terms of use. In those cases, we’ll notify you of these additional terms.   
   
@@ -696,7 +696,7 @@ California Privacy Rights Act Statement
 **Updated: 07/01/2024**  
   
 
-This California Consumer Privacy Statement (“Statement”) supplements Kimberly-Clark Corporation’s [Privacy Policy](https://www.kimberly-clark.com/en-us/global-privacy-policy) . It applies solely to California consumers and addresses personal information we collect online and offline. Some of the rights and choices described in this Statement may not take effect until January 1, 2023. This Statement does not apply to Kimberly-Clark personnel. Sections 2-5 of this Statement do not apply to job applicants.  
+This California Consumer Privacy Statement (“Statement”) supplements Kimberly-Clark Corporation’s [Privacy Policy](https://www.kimberly-clark.com/en-us/global-privacy-policy) . It applies solely to California consumers and addresses personal information we collect online and offline. This Statement does not apply to Kimberly-Clark personnel. Sections 2-5 of this Statement do not apply to job applicants.  
   
 This Statement uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020, along with any implementing regulations (the “CCPA”).
 
@@ -857,14 +857,14 @@ Read more Read less
 
   
 
-**CCPA Metrics For the Prior Calendar Year.** As reflected in this Statement, the CCPA provides California residents with specific rights, such as the right to know, delete, correct, opt-out of sale/sharing personal information, and limit the use of sensitive personal information. Under the CCPA, certain businesses that process these requests must publish information about these rights. That information for California residents for the period of January 1, 2023 through December 31, 2023 is below.
+**CCPA Metrics For the Prior Calendar Year.** As reflected in this Statement, the CCPA provides California residents with specific rights, such as the right to know, delete, correct, opt-out of sale/sharing personal information, and limit the use of sensitive personal information. Under the CCPA, certain businesses that process these requests must publish information about these rights. That information for California residents for the period of January 1, 2023 through December 31, 2024 is below.
 
 |     |     |
 | --- | --- |
-| **Right to Know Requests** | **Jan.-Dec. 2023** |
-| Total Number of Access Requests Received | **138** |
-| Total Number of Access Requests complied with in whole or part | **10** |
-| Total Number of Access Requests Denied | **128** |
+| **Right to Access or Right to Know Requests** | **Jan.-Dec. 2023** |
+| Total Number of Access or Right to Know Requests Received | **138** |
+| Total Number of Access or Right to Know Requests complied with in whole or part | **10** |
+| Total Number of Access or Right to Know Requests Denied | **128** |
 | _Note: The mean number of days within which K-C substantively responded to requests to know was 6 weeks._ |     |     |
 | **Right to Delete Requests** | **Jan.-Dec. 2023** |
 | Total Number of Deletion Requests Received | **279** |
@@ -875,11 +875,11 @@ Read more Read less
 | Total Number of Do Not Sell or Share Requests Received | **512** |
 | Total Number of Do Not Sell or Share Requests complied with in whole or part | **512** |
 | Total Number of Do Not Sell or Share Requests Denied | **0** |
-| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 business days._ |     |     |
-| **Limit Use Requests** | **Jan.-Dec. 2023** |
-| Total Number of Limit Use Requests Received | **427** |
-| Total Number of Limit Use Requests complied with in whole or part | **427** |
-| Total Number of Limit Use Requests Denied | **0** |
+| _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 days._ |     |     |
+| **Limit the Use of Sensitive Personal Information Requests** | **Jan.-Dec. 2023** |
+| Total Number of Limit the Use of Sensitive Personal Information Requests Received | **427** |
+| Total Number of Limit the Use of Sensitive Personal Information Requests complied with in whole or part | **427** |
+| Total Number of Limit the Use of Sensitive Personal Information Requests Denied | **0** |
 | _Note: The mean number of days within which K-C substantively responded to requests to opt-out was 10 business days._ |     |     |
 | **Right to Correction / rectification requests** | **Jan.-Dec. 2023** |
 | Total Number of Rectification Requests Received | **57** |
@@ -905,7 +905,7 @@ Read more Read less
 Montana
 -------
 
-This portion of our Policy only applies to residents of the state of Montana. This portion of our Policy advises Montana residents of rights provided in the Montana Consumer’s Data Privacy Act (MTDCPA) and how Montana residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+This portion of our Policy only applies to residents of the state of Montana. This portion of our Policy advises Montana residents of rights provided in the Montana Consumer’s Data Privacy Act (MTDCPA) and how Montana residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
 * **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
   
@@ -913,9 +913,8 @@ This portion of our Policy only applies to residents of the state of Montana. Th
   
 * **Right to Delete.**You have the right to delete personal information provided by or obtained about you;
   
-* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that KC does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.  
-      
-    Right to obtain a list of “specified third parties” to whom a controller disclosed personal data.
+* **Right to Opt-Out.**You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+* **Right Not to Be Discriminated Against.** Montana law prohibits “controllers” from discriminating against consumers for exercising their rights. Discrimination includes any unfair treatment related to these rights.
 
 Read more Read less
 
@@ -927,7 +926,7 @@ As a Nevada resident, you have the right to ask certain companies not to sell yo
 Oregon
 ------
 
-This portion of our Policy only applies to residents of the state of Oregon. This portion of our Policy advises Oregon residents of rights provided in the Oregon Consumer’s Privacy Act (OCPA) and how Oregon residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+This portion of our Policy only applies to residents of the state of Oregon. This portion of our Policy advises Oregon residents of rights provided in the Oregon Consumer’s Privacy Act (OCPA) and how Oregon residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
 * **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information and you have the right to access such personal information;
   
@@ -935,13 +934,13 @@ This portion of our Policy only applies to residents of the state of Oregon. Thi
   
 * **Right to Delete.** You have the right to delete personal information provided by or obtained about you;
   
-* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that Kimberly-Clark does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
   
-* **Right to obtain a list of “specified third parties” to whom a controller disclosed personal data.** Upon request from a consumer, a controller must provide details on personal data disclosures to third parties. The controller can choose to provide (i) the list of third parties to which the controller has disclosed the consumers personal data to or (ii) the list of third parties to which the controller has disclosed any consumer's personal data.
+* **Right to obtain a list of “specified third parties” to whom a controller disclosed personal data.** You may request that we provide details on personal data disclosures to third parties. Our response may contain either (i) the list of third parties to whom we have disclosed your personal data to or (ii) the list of third parties to whom we have disclosed any consumer's personal data.
 
-**Right to request the purpose of processing information from a controller.**
+**Right to request the purpose of processing information from us.**
 
-* **Right to consent to controller’s collection of sensitive personal information prior to it being collected.** Consumers have a right to consent prior to any collection of the following: Racial, ethnic, national origin, religious beliefs, mental/physical health condition, diagnosis, medical history and/or treatment, diagnosis by HC, sexual orientation and status as transgender/nonbinary, citizenship/immigration status, genetic or biometric data, personal data of a known child, precise geolocation, or status as victim of a crime.
+* **Right to consent to our collection of sensitive personal information prior to it being collected.** You have a right to consent prior to our collection of any collection of the following: racial, ethnic, national origin; religious beliefs; mental/physical health condition, diagnosis, medical history and/or treatment; sexual orientation and status as transgender/nonbinary; citizenship/immigration status; genetic or biometric data; personal data of a known child; precise geolocation; or status as victim of a crime.
 
 Read more Read less
 
@@ -955,15 +954,15 @@ Our Data Privacy Officer may be contacted at [\[email protected\]](https://www.
 Texas
 -----
 
-This portion of our Policy only applies to residents of the state of Texas. This portion of our Policy advises Texas residents of rights provided in the Texas Data Privacy and Security Act (TDPSA) and how Texas residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. If we decline to take action regarding your exercise of any of the rights described in this section, you may appeal our decision not to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
+This portion of our Policy only applies to residents of the state of Texas. This portion of our Policy advises Texas residents of rights provided in the Texas Data Privacy and Security Act (TDPSA) and how Texas residents may exercise those rights. You may exercise any of the rights in this Section by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available here. You may also submit your request by accessing the Contact Us or Manage My Privacy links. If we refuse to take action regarding your exercise of any of the rights described in this section, you may appeal our refusal to do so by emailing [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
 * **Rights to Confirm and Access.** You have the rights to confirm whether we are processing your personal information, and you have the right to access such personal information;
   
 * **Right to Correct.** You have the right to correct inaccuracies in your personal information, as appropriate given the nature of the personal information and our processing purpose;
   
-* **Right to Delete.** You have the right to delete personal information provided by or obtained about you; and
+* **Right to Delete.** You have the right to delete personal information provided by or obtained about you;
   
-* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you (e.g., by Contacting Us or by going to Manage My Privacy. Please note that KC does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
+* **Right to Opt-Out.** You have a right to opt-out of our: 1) processing for targeted advertising (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), 2) selling your personal information (e.g., by clicking the "Do Not Sell or Share My Personal Information" links at the bottom of our Sites), or 3) profiling in a way that produces legal or otherwise significant effects concerning you. Please note that K-C does not sell personal information for monetary consideration without your consent, but you may opt-out of targeted advertising and certain other online tracking through the practices described in this Policy.
 
 Read more Read less
 
@@ -1042,6 +1041,24 @@ If your request to exercise a right under the MHMD Act is denied, you may appeal
 
 Read more Read less
 
+Argentina
+---------
+
+If you reside in Argentina, you have the right to access and correct your personal information, and to object to our processing of that personal information.
+
+In the event of any concerns, you can contact us at:
+
+Kimberly-Clark Argentina, S. A.  
+Olga Cossettini 1031 (CP 1103) Buenos Aires,  
+Argentina  
+Phone: 54-11-4321-5700 / 0800-333-1206  
+Fax: 54-11-4394-1160  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+You also have the right to lodge a complaint to the Agency of Access to Public Information.
+
+Read more Read less
+
 Australia
 ---------
 
@@ -1084,24 +1101,6 @@ Website: [www.kimberly-clark.com.au/](https://www.kimberly-clark.com/en-us/www.k
 We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law.
 
 **Complaints.** If you have a complaint about the way in which we have handled any privacy issue, including your requests for access or correction of your personal information, you should advise us via the above contact details in this portion of our Policy. If you remain unsatisfied with the way in which we have handled a privacy issue, we suggest you approach an independent advisor or contact the Office of the Australian Information Commissioner for guidance on alternative courses of action which may be available.
-
-Read more Read less
-
-Argentina
----------
-
-If you reside in Argentina, you have the right to access and correct your personal information, and to object to our processing of that personal information.
-
-In the event of any concerns, you can contact us at:
-
-Kimberly-Clark Argentina, S. A.  
-Olga Cossettini 1031 (CP 1103) Buenos Aires,  
-Argentina  
-Phone: 54-11-4321-5700 / 0800-333-1206  
-Fax: 54-11-4394-1160  
-Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
-
-You also have the right to lodge a complaint to the Agency of Access to Public Information.
 
 Read more Read less
 
@@ -1493,9 +1492,9 @@ As described in the Policy, you may request information about how we process you
 If you reside in Kazakhstan, Uzbekistan, Kyrgyzstan or Azerbaijan you may have rights, such as the right to access, correct and erase personal information, object to our processing of your personal information, and withdraw consent. Please contact us at:
 
 **Kazakhstan:**  
-st. Timiryazeva, 28 "B",  
-050040/A15T0G9, Bostandyk district,  
-Almaty, Republic of Kazakhstan.  
+LLP "Kimberly-Clark Kazakhstan",  
+The Republic of Kazakhstan,  
+Almaty, Medeu district, 050059, Nursultan Nazarbayev avenue, 240 G.  
 Hotline phone: 8 800 070 89 10  
 Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
 
@@ -1648,7 +1647,7 @@ Read more Read less
 Russia
 ------
 
-If you reside in Russia, please find applicable privacy policy [here](https://www.huggies.ru/privacy-policy).
+If you reside in Russia, please find the privacy policy applicable to you [here](https://www.huggies.ru/privacy-policy).
 
 Saudi Arabia (KSA)
 ------------------
@@ -1849,7 +1848,7 @@ Vietnam
 -------
 
 **Data related to Children**  
-According to Vietnamese laws, children are a person who is younger than 16 years old. Vietnamese laws require us to verify the age of the children before we collect or process personal information of children. If you provide us with data related to your child in accordance with this Policy, or if the child of whom you are a guardian, you acknowledge that you have receive her/his consent if s/he is of 7 years old or older and you agree for us to collect and process such information in accordance with this Policy.
+According to Vietnamese laws, children are a person who is younger than 16 years old. Vietnamese laws require us to verify the age of the children before we collect or process personal information of children. If you provide us with data related to your child in accordance with this Policy, or if the child of whom you are a guardian, you acknowledge that you have received her/his consent if s/he is of 7 years old or older and you agree for us to collect and process such information in accordance with this Policy.
 
 **Legal Bases For Processing Personal Information.**  
 Besides your consent for us to process personal information in accordance with this Policy, your personal information may be processed without your consent in the following circumstances:  
