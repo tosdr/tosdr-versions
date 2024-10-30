@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [How to restore your backup from Dropbox](https://www.backup4all.com/how-to-restore-your-backup-from-dropbox-kb.html)  
+* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
     
-* [How to monitor multiple Backup4all installati ...](https://www.backup4all.com/how-to-monitor-multiple-backup4all-installations-using-the-back-kb.html)  
+* [Installing - FAQ](https://www.backup4all.com/installing-faq-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
     
-* [How to change the backup job name, tag or ico ...](https://www.backup4all.com/how-to-change-the-backup-job-name-group-or-icon-kb.html)  
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
 
 Choose language:
