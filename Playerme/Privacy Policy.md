@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/every-black-ops-6-assault-rifles-ranked/)
+    [](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
     
-    ![Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/every-black-ops-6-assault-rifles-ranked/)
+    [](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
     
-    ![Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/wp-content/uploads/2024/10/Mortal-Kombat-1-Ghostface-Release-Date-Set-for-November-19-for-Early-Access-Players-and-November-26-for-All.png)
+
+[Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 30, 2024/
+
+Fans of the Scream franchise and Mortal Kombat 1 have reason to celebrate as Ghostface, the iconic slasher from Woodsboro,…
+
+[Read More](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+
+![Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi](https://player.me/wp-content/uploads/2024/10/Sony-Is-Shutting-Down-Firewalk-Studios-the-Team-Behind-Concord-and-Mobile-Developer-Neon-Koi.png)
+
+[Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 30, 2024/
+
+Unshockingly, Sony Interactive Entertainment has announced the shutdown of Firewalk Studios, the developer of its ill-fated multiplayer shooter Concord, and…
+
+[Read More](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/)
+
 ![Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](https://player.me/wp-content/uploads/2024/10/Which-Among-the-7-Is-the-Best.png)
 
 [Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](https://player.me/every-black-ops-6-assault-rifles-ranked/)
@@ -218,32 +244,6 @@ October 25, 2024/
 Argonaut Games recently confirmed that the beloved 1997 platformer Croc: Legend of the Gobbos will return in an HD remaster.…
 
 [Read More](https://player.me/croc-legend-of-the-gobbos-remaster-is-skipping-steam/)
-
-![LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/wp-content/uploads/2024/10/LazyFlocks-New-Haunted-Paws-Co-op-Horror-Game-Allows-Players-to-Adventure-as-Dogs.png)
-
-[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 24, 2024/
-
-Indie game developer LazyFlock has announced Haunted Paws. In this cozy yet spooky co-op horror game, players take on the…
-
-[Read More](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
-
-![Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/wp-content/uploads/2024/10/Diablo-4-Halloween-Event-Guide.png)
-
-[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 24, 2024/
-
-Diablo 4 fans have been sinking their teeth into the new Vessel of Hatred expansion for a few weeks, but…
-
-[Read More](https://player.me/diablo-4-halloween-event-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/wp-content/uploads/2024/10/Mortal-Kombat-1-Ghostface-Release-Date-Set-for-November-19-for-Early-Access-Players-and-November-26-for-All.png)
+
+[Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 30, 2024/
+
+Fans of the Scream franchise and Mortal Kombat 1 have reason to celebrate as Ghostface, the iconic slasher from Woodsboro,…
+
+[Read More](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+
+![Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi](https://player.me/wp-content/uploads/2024/10/Sony-Is-Shutting-Down-Firewalk-Studios-the-Team-Behind-Concord-and-Mobile-Developer-Neon-Koi.png)
+
+[Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+October 30, 2024/
+
+Unshockingly, Sony Interactive Entertainment has announced the shutdown of Firewalk Studios, the developer of its ill-fated multiplayer shooter Concord, and…
+
+[Read More](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/)
+
 ![Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](https://player.me/wp-content/uploads/2024/10/Which-Among-the-7-Is-the-Best.png)
 
 [Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](https://player.me/every-black-ops-6-assault-rifles-ranked/)
@@ -379,32 +405,6 @@ October 24, 2024/
 Diablo 4 fans have been sinking their teeth into the new Vessel of Hatred expansion for a few weeks, but…
 
 [Read More](https://player.me/diablo-4-halloween-event-guide/)
-
-![Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus? ](https://player.me/wp-content/uploads/2024/10/Bluesky-vs-Twitter.png)
-
-[Bluesky vs Twitter: How Did the Former Gain Additional 2 Million Users and Is It Worth Joining the Exodus?](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/) 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 23, 2024/
-
-In the ever-evolving social media landscape, the competition between platforms is fierce. Elon Musk’s acquisition of Twitter (now X) has…
-
-[Read More](https://player.me/how-did-bluesky-gain-2-million-users-from-twitter/)
-
-![Microsoft’s New Xbox Wireless Headset Features Improved Battery Life and Bluetooth Support From Its 2021 Version](https://player.me/wp-content/uploads/2024/10/Microsofts-New-Xbox-Wireless-Headset.png)
-
-[Microsoft’s New Xbox Wireless Headset Features Improved Battery Life and Bluetooth Support From Its 2021 Version](https://player.me/microsofts-new-xbox-wireless-headset-improved-features/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-October 23, 2024/
-
-On October 22, 2024, Microsoft revealed its latest version of the Xbox Wireless Headset, now available for purchase at various…
-
-[Read More](https://player.me/microsofts-new-xbox-wireless-headset-improved-features/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Apple’s highly anticipated ‘It’s Glowtime’ event dazzled the tech world 
 
 player.me
 
+[](https://player.me/mortal-kombat-1-ghostface-release-date-set/ "Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All")
+
+[Mortal Kombat 1 Ghostface Release Date Set for November 19 for Early Access Players and November 26 for All](https://player.me/mortal-kombat-1-ghostface-release-date-set/)
+
+October 30, 2024
+
+[](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/ "Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi")
+
+[Sony Is Shutting Down Firewalk Studios, the Team Behind Concord, and Mobile Developer Neon Koi](https://player.me/sony-is-shutting-down-firewalk-studios-and-neon-koi/)
+
+October 30, 2024
+
 [](https://player.me/every-black-ops-6-assault-rifles-ranked/ "Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?")
 
 [Every Black Ops 6 Assault Rifles Ranked: Which Among the 7 Is the Best?](https://player.me/every-black-ops-6-assault-rifles-ranked/)
@@ -853,22 +865,10 @@ October 25, 2024
 
 October 25, 2024
 
-[](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/ "LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs")
-
-[LazyFlock’s New Haunted Paws Co-op Horror Game Allows Players to Adventure as Dogs](https://player.me/haunted-paws-allows-players-to-adventure-as-dogs/)
-
-October 24, 2024
-
-[](https://player.me/diablo-4-halloween-event-guide/ "Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration")
-
-[Diablo 4 Halloween Event Guide: Everything You Need to Know About Diablo 4’s Macabre Celebration](https://player.me/diablo-4-halloween-event-guide/)
-
-October 24, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 575,757 times, 16 visit(s) today
+Visited 575,807 times, 66 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
