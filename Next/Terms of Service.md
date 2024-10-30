@@ -1,6 +1,6 @@
 5.39.2
 
-1730276964104
+1730299220970
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.16.0
 
-1730277153198
+1730299950113
 
- Next Terms & Conditions | T&C's | Next Official Site                                  
+     Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1730277600989
+1730300529234
 
 You need to enable JavaScript to run this app.
 
@@ -457,7 +457,7 @@ See below for all the methods we accept for payment of purchases from Next. For 
 
 Online
 
-* Next credit account, Nextpay, or Next3Step
+* Next credit account, Nextpay, or pay in 3
 * All major credit and debit cards
 * Next gift cards and e-vouchers
 * Paypal
@@ -474,7 +474,7 @@ In-store
 
 Phone
 
-* Next credit account, Nextpay or next3Step (new credit applications accepted online only)
+* Next credit account, Nextpay or pay in 3 (new credit applications accepted online only)
 * All major credit and debit cards
 * Next gift cards and e-vouchers
 
@@ -488,11 +488,11 @@ The taking of payment from you by Next under any of the means set out above or i
 
 [Click here](https://xcdn.next.co.uk/pdfs/Directory-Card-Credit-Agreement.04.21.pdf) for the current unpersonalised terms and conditions. These terms are correct at today’s date and are subject to change. You will be presented with a credit agreement containing full terms and conditions if you apply for a Nextpay Credit Account. If you require copies of previous terms, please call our contact centre on 0333 777 8247#.
 
-### Next3step Credit Account
+### pay in 3 Credit Account
 
 **Representative 29.9% APR variable.**
 
-[Click here](https://xcdn.next.co.uk/pdfs/next3step.pdf) for the current unpersonalised terms and conditions. These terms are correct at today’s date and are subject to change. You will be presented with a credit agreement containing full terms and conditions if you apply for a next3step credit account. If you require copies of previous terms, please call our contact centre on 0333 777 8172#.
+[Click here](https://xcdn.next.co.uk/pdfs/PayIn3%20Credit%20Agreement.pdf) for the current unpersonalised terms and conditions. These terms are correct at today’s date and are subject to change. You will be presented with a credit agreement containing full terms and conditions if you apply for a pay in 3 credit account. If you require copies of previous terms, please call our contact centre on 0333 777 8172#.
 
 ### Credit Marketing
 
@@ -504,7 +504,7 @@ There will be a soft search made on your credit file to determine if you would b
 
 ### 10% off Credit Welcome Offer
 
-‡This offer is only available to customers opening a credit account (nextpay or next3step) after the 15th April 2024 and may be withdrawn at any time. Minimum purchase value is £20 in a single transaction after other discounts and gift cards/e-vouchers have been applied. Excludes delivery charges, nextunlimited subscriptions and the purchase of gift cards/e-vouchers. Returns will be refunded at the discounted price paid. This offer can only be redeemed on your first qualifying purchase made on Next.co.uk and will be applied at checkout.
+‡This offer is only available to customers opening a credit account (nextpay or pay in 3) after the 15th April 2024 and may be withdrawn at any time. Minimum purchase value is £20 in a single transaction after other discounts and gift cards/e-vouchers have been applied. Excludes delivery charges, nextunlimited subscriptions and the purchase of gift cards/e-vouchers. Returns will be refunded at the discounted price paid. This offer can only be redeemed on your first qualifying purchase made on Next.co.uk and will be applied at checkout.
 
 ### £10 off Credit Welcome Offer
 
@@ -534,9 +534,9 @@ You can use a Nextpay credit account online through the following retailers webs
 
 \- Victoria Secret (please note this does not include redemption of the £10 welcome offer to credit)
 
-**next3step**
+**pay in 3**
 
-You can use a next3step credit account online through the following retailers websites:
+You can use a pay in 3 credit account online through the following retailers websites:
 
 \- Next.co.uk
 
@@ -2674,7 +2674,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1730277899807
+1730299779898
 
 ### Our Social Networks
 
