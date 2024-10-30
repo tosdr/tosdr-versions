@@ -868,7 +868,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-4 Alerts
+3 Alerts
 
 Back
 
@@ -876,9 +876,6 @@ Unread
 
 All
 
-* [Shaping the Future of Attack Surface Management](https://www.trendmicro.com/explore/forrester-wave-asm)close
-    
-    [See how >](https://www.trendmicro.com/explore/forrester-wave-asm)
 * [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)close
     
     [Learn more](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
