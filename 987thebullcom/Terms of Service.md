@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Thank GodKane Brown Ft Katelyn Brown<br><br>11:35am |
-| Where The Wild Things AreLuke Combs<br><br>11:31am |
-| ToesZac Brown Band<br><br>11:27am |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:24am |
-| American KidsKenny Chesney<br><br>11:21am |
+| My GirlDylan Scott<br><br>5:39pm |
+| Next Thing You KnowJordan Davis<br><br>5:37pm |
+| Wind Up Missing YouTucker Wetmore<br><br>5:34pm |
+| Need A FavorJelly Roll<br><br>5:25pm |
+| HurricaneLuke Combs<br><br>5:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,6 +358,10 @@ State
 Featured Brands
 ---------------
 
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
@@ -366,13 +370,9 @@ Country • Western
 
 News Talk • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
