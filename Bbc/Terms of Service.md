@@ -1,11 +1,11 @@
-![](https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=.usingthebbc..static.usingthebbc.terms-of-use.&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[article]&x8=[reverb-3.6.1-nojs]&x11=[BBC_CORPORATE_PS]&x12=[])
+![](https://a1.api.bbc.co.uk/hit.xiti?&col=1&from=p&ptag=js&s=598253&p=.usingthebbc..static.usingthebbc.terms-of-use.&x2=[responsive]&x3=[bbc_website]&x4=[en]&x7=[article]&x8=[reverb-3.9.2-nojs]&x11=[BBC_CORPORATE_PS]&x12=[])
 
 [Homepage](https://www.bbc.co.uk/)
 
 Accessibility links
 -------------------
 
-* [Skip to content](#orb-modules)
+* [Skip to content](#skip-to-content)
 * [Accessibility Help](https://www.bbc.co.uk/accessibility/)
 
 [BBC Account](https://account.bbc.com/account)
@@ -26,18 +26,17 @@ Accessibility links
 * [Home](https://www.bbc.com/)
 * [News](https://www.bbc.com/news)
 * [Sport](https://www.bbc.com/sport)
-* [Reel](https://www.bbc.com/reel)
-* [Worklife](https://www.bbc.com/worklife)
-* [Travel](https://www.bbc.com/travel)
-* [Future](https://www.bbc.com/future)
+* [Business](https://www.bbc.com/business)
+* [Innovation](https://www.bbc.com/innovation)
 * [Culture](https://www.bbc.com/culture)
-* [TV](https://www.bbc.co.uk/schedules/p00fzl9m)
-* [Weather](https://www.bbc.com/weather)
-* [Sounds](https://www.bbc.co.uk/sounds)
+* [Travel](https://www.bbc.com/travel)
+* [Earth](https://www.bbc.com/future-planet)
+* [Video](https://www.bbc.com/video)
+* [Live](https://www.bbc.com/live)
 
 [More menu](#orbit-more-drawer)
 
-[Search BBC Search BBC](https://search.bbc.co.uk/search?scope=all&destination=BBC_CORPORATE_PS "Search BBC")
+[Search BBC](https://search.bbc.co.uk/search?scope=all&destination=BBC_CORPORATE_PS "Search BBC")
 
 * [Home](https://www.bbc.co.uk/)
 * [News](https://www.bbc.co.uk/news)
@@ -53,37 +52,42 @@ Accessibility links
 * [Home](https://www.bbc.com/)
 * [News](https://www.bbc.com/news)
 * [Sport](https://www.bbc.com/sport)
-* [Reel](https://www.bbc.com/reel)
-* [Worklife](https://www.bbc.com/worklife)
-* [Travel](https://www.bbc.com/travel)
-* [Future](https://www.bbc.com/future)
+* [Business](https://www.bbc.com/business)
+* [Innovation](https://www.bbc.com/innovation)
 * [Culture](https://www.bbc.com/culture)
-* [TV](https://www.bbc.co.uk/schedules/p00fzl9m)
-* [Weather](https://www.bbc.com/weather)
-* [Sounds](https://www.bbc.co.uk/sounds)
+* [Travel](https://www.bbc.com/travel)
+* [Earth](https://www.bbc.com/future-planet)
+* [Video](https://www.bbc.com/video)
+* [Live](https://www.bbc.com/live)
 
 [Close menu](#)
 
-[Using the BBC](http://www.bbc.com/usingthebbc/)Menu
+[Using the BBC](http://www.bbc.com/usingthebbc/)Menu Menu
 
 * [Your Information and Privacy](http://www.bbc.com/usingthebbc/privacy/)
 * [Cookie and Browser Settings](http://www.bbc.com/usingthebbc/cookies/)
 * [Creating and Using Your Account](http://www.bbc.com/usingthebbc/account/)
 * [Terms of Use](http://www.bbc.com/usingthebbc/terms/)
 
-* [Your Information and Privacy](http://www.bbc.com/usingthebbc/privacy/)
-* [Cookie and Browser Settings](http://www.bbc.com/usingthebbc/cookies/)
-* [Creating and Using Your Account](http://www.bbc.com/usingthebbc/account/)
-* [Terms of Use](http://www.bbc.com/usingthebbc/terms/)
+### JavaScript has been disabled.
+
+This page needs JavaScript to work correctly. Please enable JavaScript in your browser settings.
+
+#### JavaScript is required for the following feature(s):
+
+* opening and closing the contents list (on mobile)
+* opening and closing the navbar (on mobile)
 
 Terms of Use for the BBC's digital services
 ===========================================
 
 Contents
 
+Contents
+
 * [1\. Hello](#1hello)
 * [2\. When these terms apply](#2whenthesetermsapply)
-* [3\. What’s this about "services" and "content"?](#3what’sthisaboutquotservicesquotandquotcontentquot?)
+* [3\. What’s this about "services" and "content"?](#3whatsthisaboutservicesandcontent)
 * [4\. When other terms apply](#4whenothertermsapply)
 * [5\. Child-friendly services and tools](#5childfriendlyservicesandtools)
 * [6\. When you need a TV Licence](#6whenyouneedatvlicence)
@@ -91,7 +95,7 @@ Contents
 * [8\. Using BBC content](#8usingbbccontent)
 * [9\. Shareables - what they are](#9shareableswhattheyare)
 * [10\. Shareables - what you can do](#10shareableswhatyoucando)
-* [11\. Shareables - what you can't do](#11shareableswhatyoucanx27tdo)
+* [11\. Shareables - what you can't do](#11shareableswhatyoucantdo)
 * [12\. Shareables - what you have to do](#12shareableswhatyouhavetodo)
 * [13\. Shareables - a thing we have to say](#13shareablesathingwehavetosay)
 * [14\. Open-source software](#14opensourcesoftware)
@@ -100,7 +104,7 @@ Contents
 * [17\. Creations - the terms](#17creationstheterms)
 * [18\. Creations - what you can do with them](#18creationswhatyoucandowiththem)
 * [19\. Creations - what the BBC can do with them](#19creationswhatthebbccandowiththem)
-* [20\. Creations - what you can't send us](#20creationswhatyoucanx27tsendus)
+* [20\. Creations - what you can't send us](#20creationswhatyoucantsendus)
 * [21\. Your BBC Account](#21yourbbcaccount)
 * [22\. Mishaps](#22mishaps)
 * [23\. External links](#23externallinks)
@@ -318,7 +322,7 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 
 [For business use, read this.](http://www.bbc.com/usingthebbc/terms/can-i-use-bbc-content-for-my-business/ "Can I reuse content for my business?") Bear in mind: you normally need to ask permission and there may be a fee to pay.
 
-[For everything else, read this](http://www.bbc.com/usingthebbc/terms/can-i-use-bbc-content/ "Using BBC content"). 
+[For everything else, read this](http://www.bbc.com/usingthebbc/terms/can-i-use-bbc-content "Using BBC content"). 
 
 [BACK TO TOP](#top)
 
@@ -779,9 +783,62 @@ e. Our services and content are made available to you by the British Broadcastin
 
 Change language:
 
-* [Gàidhlig](http://localhost:4040/usingthebbc/terms-of-use/gd)
-* [English](http://localhost:4040/usingthebbc/terms-of-use)
-* [Cymraeg](http://localhost:4040/usingthebbc/terms-of-use/cy)
+* [Cymraeg](http://www.bbc.com/usingthebbc/terms-of-use/cy/)
+* [Gàidhlig](http://www.bbc.com/usingthebbc/terms-of-use/gd/)
+
+**iPages Dev tools**
+
+Page built: **Wed Oct 30 2024 10:38:28 GMT**
+
+Site ID: **ipages-using-the-bbc**
+
+Built from: **master @ b999663**
+
+### Rebuild Page
+
+The page will automatically reload. You may need to reload again if the build takes longer than expected.
+
+Rebuild page
+
+### Useful links
+
+[View in iSite](https://production.bbc.co.uk/isite2-xforms/fr/ipages-using-the-bbc/page-standard/edit/78715e05-06c3-409c-ab1d-3ec8926782d4) View page XML View in iPages Dashboard
+
+### Theme toggler
+
+Select a theme and theme mode and click "Load theme" to load in your theme combination.
+
+Theme:
+
+ Blue
+
+ Green
+
+ Internal
+
+ Pink
+
+ Purple
+
+ Red
+
+ Studios
+
+ Teal
+
+ Wales
+
+ Neutral
+
+Theme Mode:
+
+ Dark
+
+ Default
+
+ Light
+
+Load theme Reset
 
 Explore the BBC
 ---------------
@@ -800,24 +857,25 @@ Explore the BBC
 * [Home](https://www.bbc.com/)
 * [News](https://www.bbc.com/news)
 * [Sport](https://www.bbc.com/sport)
-* [Reel](https://www.bbc.com/reel)
-* [Worklife](https://www.bbc.com/worklife)
-* [Travel](https://www.bbc.com/travel)
-* [Future](https://www.bbc.com/future)
+* [Business](https://www.bbc.com/business)
+* [Innovation](https://www.bbc.com/innovation)
 * [Culture](https://www.bbc.com/culture)
-* [TV](https://www.bbc.co.uk/schedules/p00fzl9m)
-* [Weather](https://www.bbc.com/weather)
-* [Sounds](https://www.bbc.co.uk/sounds)
+* [Travel](https://www.bbc.com/travel)
+* [Earth](https://www.bbc.com/future-planet)
+* [Video](https://www.bbc.com/video)
+* [Live](https://www.bbc.com/live)
 
 * [Terms of Use](https://www.bbc.co.uk/usingthebbc/terms/)
 * [About the BBC](https://www.bbc.co.uk/aboutthebbc)
 * [Privacy Policy](https://www.bbc.co.uk/usingthebbc/privacy/)
+* [Privacy Policy](https://www.bbc.com/usingthebbc/privacy/)
 * [Cookies](https://www.bbc.co.uk/usingthebbc/cookies/)
+* [Cookies](https://www.bbc.com/usingthebbc/cookies/)
 * [Accessibility Help](https://www.bbc.co.uk/accessibility/)
 * [Parental Guidance](https://www.bbc.co.uk/guidance)
 * [Contact the BBC](https://www.bbc.co.uk/contact)
-* [Make an editorial complaint](https://www.bbc.co.uk/contact/complaints/make-a-complaint/)
+* [Make an editorial complaint](https://www.bbc.co.uk/contact/complaints/)
 * [BBC emails for you](https://www.bbc.co.uk/bbcnewsletter)
-* [Advertise with us](https://www.bbcglobalnews.com/)
+* [Advertise with us](https://www.bbc.com/advertisingcontact)
 
-_Copyright © 2023 BBC._ The BBC is not responsible for the content of external sites. [Read about our approach to external linking.](https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links)
+_Copyright © 2024 BBC._ The BBC is not responsible for the content of external sites. [Read about our approach to external linking.](https://www.bbc.co.uk/editorialguidelines/guidance/feeds-and-links)
