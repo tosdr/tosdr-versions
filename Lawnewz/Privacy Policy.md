@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Inset: Larry Savage Jr. (Madison County Jail). Background: Savage allegedly stealing election ballots during a test of county voting machines (Madison County Election Board).](https://lawandcrime.com/wp-content/uploads/2024/10/dfasdfdf-432x243.jpg)](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
+1. [![Justice Brett Kavanaugh](https://am23.mediaite.com/lc/cnt/uploads/2021/04/GettyImages-1232482939-432x243.jpg)](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
+    
+    ### ['Late judicial tinkering': Kavanaugh looms large as both sides in Virginia voter purge dispute cite justice's well-known take on election-eve injunctions](https://lawandcrime.com/high-profile/late-judicial-tinkering-kavanaugh-looms-large-as-both-sides-in-virginia-voter-purge-dispute-cite-justices-well-known-take-on-election-eve-injunctions/)
+    
+2. [![Joseph Daniel Hill Jr.; inset against an image of his father's house.](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Joseph-Hill-Jr-432x243.jpg)](https://lawandcrime.com/crime/son-allegedly-kept-long-dead-father-in-unplugged-freezer-because-every-time-he-tried-to-dump-him-in-desert-there-were-always-people-out-there/)
+    
+    ### [Son allegedly kept long-dead father in unplugged freezer because every time he tried to dump him in desert there were 'always people out there'](https://lawandcrime.com/crime/son-allegedly-kept-long-dead-father-in-unplugged-freezer-because-every-time-he-tried-to-dump-him-in-desert-there-were-always-people-out-there/)
+    
+3. [![Inset: Larry Savage Jr. (Madison County Jail). Background: Savage allegedly stealing election ballots during a test of county voting machines (Madison County Election Board).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/dfasdfdf-432x243.jpg)](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
     ### ['They're coming after us patriots': Former 'MAGA Candidate' for Congress caught stealing election ballots, charged with felony, police say](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
-2. [![Saul Lucio-Ipina](https://lawandcrime.com/wp-content/uploads/2024/10/Saul-Lucio-Ipina-1-432x243.jpg)](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
+4. [![Main: Mia Harris appearing in court for sentencing (WLWT). Inset: Baby Myra almost a year after being shot by Harris (WLWT).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/fdfgger-432x243.jpg)](https://lawandcrime.com/crime/i-beat-you-at-your-own-game-checkmate-remorseless-grandma-who-shot-infant-granddaughter-in-head-on-purpose-learns-her-fate/)
     
-    ### [Man who would 'zap' wife when she didn't answer questions about cheating receives fate](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
+    ### ['I beat you at your own game. Checkmate': Remorseless grandma who shot infant granddaughter in head 'on purpose' learns her fate](https://lawandcrime.com/crime/i-beat-you-at-your-own-game-checkmate-remorseless-grandma-who-shot-infant-granddaughter-in-head-on-purpose-learns-her-fate/)
     
-3. [![Robert Ray, Aileen Cannon](https://lawandcrime.com/wp-content/uploads/2024/10/Ray-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
+5. [![Brendan Banfield appears inset on the left; Juliana Peres Magalhaes appears inset on the right – against an image of the house where Christine Banfield and Joseph Ryan were killed.](https://am24.mediaite.com/lc/cnt/uploads/2024/09/Banfield-Magalhaes-432x243.jpg)](https://lawandcrime.com/crime/au-pair-pleads-guilty-to-manslaughter-in-sex-fetish-killings-conspiracy-case-leaving-her-irs-agent-boyfriend-to-face-trial-alone/)
     
-    ### [Court to consider former Clinton investigator turned Trump impeachment lawyer's argument that Judge Cannon 'correctly dismissed' Jack Smith's Mar-a-Lago case](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
-    
-4. [![Helmut Viktor Stefan Lockner (Marion County Sheriff's Office).](https://lawandcrime.com/wp-content/uploads/2024/10/adfddff-432x243.jpg)](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
-    
-    ### ['You can die with me': 93-year-old man tried to murder wife of 60 years because he 'did not want to leave her alone,' police say](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
-    
-5. [![Trump, Paul Gavenonis](https://lawandcrime.com/wp-content/uploads/2024/10/Trump-2-432x243.jpg)](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
-    
-    ### ['I'd like to shoot that guy': Man arrested for Trump threat while buying commuter lot parking pass one day before Penn State rally, cops say](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
+    ### [Au pair pleads guilty to manslaughter in sex fetish killings conspiracy case, leaving her IRS agent boyfriend to face trial alone](https://lawandcrime.com/crime/au-pair-pleads-guilty-to-manslaughter-in-sex-fetish-killings-conspiracy-case-leaving-her-irs-agent-boyfriend-to-face-trial-alone/)
     
 
 [](http://eepurl.com/c89Jdb)
