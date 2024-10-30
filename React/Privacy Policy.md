@@ -167,7 +167,7 @@ Site Map[Projects](https://opensource.fb.com/projects)[FAQ](https://opensource.f
 
 Information[Blog](https://developers.facebook.com/blog/open_source/)[Linux](https://opensource.fb.com/linux)[Careers](https://metacareers.com/)[Bug Bounty Program](https://bugbounty.meta.com/)
 
-Connect[GitHub](https://github.com/facebook)[FB for Developers](https://developers.facebook.com/)
+Connect[GitHub](https://github.com/facebook)[Meta for Developers](https://developers.facebook.com/)
 
 Follow Us
 
