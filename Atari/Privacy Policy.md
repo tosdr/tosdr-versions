@@ -821,10 +821,10 @@ Newsletters from the future
   
 
 * [Gift Cards](https://www.atari.com/products/digital-gift-card)
+* [Club Rewards](https://www.atari.com/pages/rewards-program-page)
 * [Hardware](https://www.atari.com/collections/hardware)
 * [Gear](https://www.atari.com/collections/gear)
 * [Games](https://www.atari.com/collections/games)
-* [Atari X](https://www.atari.com/pages/atari-x)
 
 * [Customer Support](http://support.atari.com/)
 * [Investors](https://atari-investisseurs.fr/en/)
