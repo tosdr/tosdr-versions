@@ -24,7 +24,7 @@ disabled Mode
     Manage booking
     
     * [Retrieve your Travel Bank details](https://www.virginaustralia.com/au/en/forms/retrieve-travel-bank-details/)
-    * [Change or cancel](https://www.virginaustralia.com/au/en/#/mytrips?bookingType=flights)
+    * [Change or cancel](https://www.virginaustralia.com/au/en/travel-info/bookings/change-booking/)
     * [Upgrade options](https://www.virginaustralia.com/au/en/book/manage-booking/upgrade-options/)
     * [Check-in](https://check-in.virginaustralia.com/checkin/#/login)
     * [Redeem travel credits](https://www.virginaustralia.com/au/en/book/manage-booking/redeem-travel-credits/)
