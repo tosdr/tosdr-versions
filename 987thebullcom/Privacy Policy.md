@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Dirt On My BootsJon Pardi<br><br>11:37pm |
-| Think I'M In Love With YouChris Stapleton<br><br>11:33pm |
-| Fast CarLuke Combs<br><br>11:29pm |
-| I Am Not OkayJelly Roll<br><br>11:26pm |
-| Where It EndsBailey Zimmerman<br><br>11:23pm |
+| Watermelon MoonshineLainey Wilson<br><br>4:57am |
+| Single AgainJosh Ross<br><br>4:54am |
+| Eyes On YouChase Rice<br><br>4:51am |
+| Everything I NeedChayce Beckham<br><br>4:48am |
+| Where The Wild Things AreLuke Combs<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
