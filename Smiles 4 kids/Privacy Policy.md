@@ -10,6 +10,7 @@
     * [Meet the Doctor](https://www.smiles4kids4corners.com/about/meet-the-doctor/)
     * [FAQs](https://www.smiles4kids4corners.com/about/faqs/)
     * [Reviews](https://www.smiles4kids4corners.com/about/reviews/)
+    * [Careers](https://www.lonepeakdentalgroup.com/careers/)
 * [SERVICES](https://www.smiles4kids4corners.com/services/)
     * [Children](https://www.smiles4kids4corners.com/services/general-dentist-for-children/)
     * [Infant & Toddler](https://www.smiles4kids4corners.com/services/infant-toddler-dentistry/)
@@ -30,6 +31,7 @@
     * [Meet the Doctor](https://www.smiles4kids4corners.com/about/meet-the-doctor/)
     * [FAQs](https://www.smiles4kids4corners.com/about/faqs/)
     * [Reviews](https://www.smiles4kids4corners.com/about/reviews/)
+    * [Careers](https://www.lonepeakdentalgroup.com/careers/)
 * [SERVICES](https://www.smiles4kids4corners.com/services/)
     * [Children](https://www.smiles4kids4corners.com/services/general-dentist-for-children/)
     * [Infant & Toddler](https://www.smiles4kids4corners.com/services/infant-toddler-dentistry/)
@@ -291,7 +293,7 @@ Sunday: Closed
 
 [Privacy Policy](https://www.smiles4kids4corners.com/privacy-policy/)
 
-[Join Our Team](https://www.smiles4kids4corners.com/join-our-team/)
+[Careers](https://www.lonepeakdentalgroup.com/careers/)
 
 * [](# "English")
 * [](# "Spanish")
