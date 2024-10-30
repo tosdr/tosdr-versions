@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/photography-mohammed-zainal-feature.jpg)
+
+[](https://theinspirationgrid.com/1971-desert-fish-plymouth-cuda-striking-photos-by-mohammed-zainal/)
+
+### 1971 Desert-Fish Plymouth Cuda: Striking Photos by Mohammed Zainal
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-amrit-pal-singh-feature.jpg)
+
+[](https://theinspirationgrid.com/adorable-mythical-creature-illustrations-by-amrit-pal-singh/)
+
+### Mythical Creatures Illustrated by Amrit Pal Singh
+
 ![](https://inspgr.id/app/uploads/2024/10/photography-dasha-pears-24-feature.jpg)
 
 [](https://theinspirationgrid.com/psychorealism-surreal-images-by-dasha-pears/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/seventy-studios-branding-by-vask/)
 
 ### Seventy Studios Branding by VASK
-
-![](https://inspgr.id/app/uploads/2024/10/branding-brother-films-feature.jpg)
-
-[](https://theinspirationgrid.com/brother-films-branding-by-forthback-studio/)
-
-### Brother Films Branding by Forth+Back Studio
-
-![](https://inspgr.id/app/uploads/2024/10/photography-aleksandra-kingo-feature.jpg)
-
-[](https://theinspirationgrid.com/creative-photography-art-direction-by-aleksandra-kingo/)
-
-### Creative Photography & Art Direction by Aleksandra Kingo
 
 Awesome products for creatives
 ------------------------------
