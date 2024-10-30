@@ -105,7 +105,7 @@ Vous avez un problème avec votre télévision ? Votre TV Box ne répond plus ou
 [Un problème avec internet](https://www.proximus.be/support/fr/id_sfaqr_trouble_global_net/particuliers/support/internet/internet-a-la-maison/problemes-avec-internet/un-probleme-avec-internet.html)  
 Vous n’avez plus d’internet ? Le wi-fi est très lent ? Vous avez des problèmes de connexion avec votre b-box, Internet Box ou la fibre ?
 
-[Voir toute l'aide](https://www.proximus.be/support/fr/id_zwpr_support/particuliers/support.html)
+[Voir toute l´aide](https://www.proximus.be/support/fr/id_zwpr_support/particuliers/support.html)
 
 Top smartphones
 
