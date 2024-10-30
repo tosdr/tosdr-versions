@@ -113,21 +113,21 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Insets: Jay James Johnston (U.S. Attorney's Office). Background: Johnston at the entrance to a tunnel of the U.S. Capitol building during the riots on Jan. 6, 2021. (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/bobsburgerrs-432x243.jpg)](https://lawandcrime.com/high-profile/judge-calls-out-reprehensible-conduct-of-anchorman-and-bobs-burgers-actor-who-joined-jan-6-capitol-mob/)
+1. [![Inset: Larry Savage Jr. (Madison County Jail). Background: Savage allegedly stealing election ballots during a test of county voting machines (Madison County Election Board).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/dfasdfdf-432x243.jpg)](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
-    ### [Judge calls out 'reprehensible' conduct of 'Anchorman' and 'Bob's Burgers' actor who joined Jan. 6 Capitol mob](https://lawandcrime.com/high-profile/judge-calls-out-reprehensible-conduct-of-anchorman-and-bobs-burgers-actor-who-joined-jan-6-capitol-mob/)
+    ### ['They're coming after us patriots': Former 'MAGA Candidate' for Congress caught stealing election ballots, charged with felony, police say](https://lawandcrime.com/crime/theyre-coming-after-us-patriots-former-maga-candidate-for-congress-caught-stealing-election-ballots-charged-with-felony-police-say/)
     
-2. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Byrne-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-bidens-iranian-bribery-plot-defamation-lawsuit-should-fail-in-its-entirety-because-he-cant-prove-he-had-doubts-about-his-claims/)
+2. [![Saul Lucio-Ipina](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Saul-Lucio-Ipina-1-432x243.jpg)](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
     
-    ### [Ex-Overstock CEO says Hunter Biden's Iranian bribery plot defamation lawsuit should fail 'in its entirety,' can't prove he had 'doubts' about his claims](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-bidens-iranian-bribery-plot-defamation-lawsuit-should-fail-in-its-entirety-because-he-cant-prove-he-had-doubts-about-his-claims/)
+    ### [Man who would 'zap' wife when she didn't answer questions about cheating receives fate](https://lawandcrime.com/crime/man-who-would-zap-wife-when-she-didnt-answer-questions-about-cheating-receives-fate/)
     
-3. [![Inset: Jonathan Baker (Wood County Prosecutor's Office). Background: Authorities at the scene where Baker crashed with his daughter in the car (WTOL).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/asdfadfaf-432x243.jpg)](https://lawandcrime.com/crime/man-who-thought-he-was-doing-something-good-when-he-killed-infant-daughter-led-police-on-high-speed-chase-with-her-body-in-yellow-camaro-learns-his-fate/)
+3. [![Robert Ray, Aileen Cannon](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Ray-Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
     
-    ### [Man who thought he was 'doing something good' when he killed infant daughter, led police on high speed chase with her body in yellow Camaro learns his fate](https://lawandcrime.com/crime/man-who-thought-he-was-doing-something-good-when-he-killed-infant-daughter-led-police-on-high-speed-chase-with-her-body-in-yellow-camaro-learns-his-fate/)
+    ### [Court to consider former Clinton investigator turned Trump impeachment lawyer's argument that Judge Cannon 'correctly dismissed' Jack Smith's Mar-a-Lago case](https://lawandcrime.com/high-profile/court-to-consider-former-clinton-investigator-turned-trump-impeachment-lawyers-argument-that-judge-cannon-correctly-dismissed-jack-smiths-mar-a-lago-case/)
     
-4. [![Booking photo of Cleotha Abston (left), picture of Eliza Fletcher](https://am22.mediaite.com/lc/cnt/uploads/2022/09/Cleotha-Abston-via-Shelby-County-Jail-Eliza-_Liza_-Fletcher-via-Memphis-police-432x243.jpg)](https://lawandcrime.com/crime/what-happened-to-you-eliza-fletchers-family-agrees-to-spare-her-killer-from-death-sentence/)
+4. [![Helmut Viktor Stefan Lockner (Marion County Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/adfddff-432x243.jpg)](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
     
-    ### ['What happened to you': Eliza Fletcher's family agrees to spare her killer from death sentence](https://lawandcrime.com/crime/what-happened-to-you-eliza-fletchers-family-agrees-to-spare-her-killer-from-death-sentence/)
+    ### ['You can die with me': 93-year-old man tried to murder wife of 60 years because he 'did not want to leave her alone,' police say](https://lawandcrime.com/crime/you-can-die-with-me-93-year-old-man-tried-to-murder-wife-of-60-years-because-he-did-not-want-to-leave-her-alone-police-say/)
     
 5. [![Trump, Paul Gavenonis](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Trump-2-432x243.jpg)](https://lawandcrime.com/crime/id-like-to-shoot-that-guy-man-arrested-for-trump-threat-while-buying-commuter-lot-parking-pass-one-day-before-penn-state-rally-cops-say/)
     
