@@ -141,15 +141,7 @@ Initializing search
         * [Index](https://info.arxiv.org/help/bulk_data/index.html)
         * [arXiv Identifier for Interacting Services](https://info.arxiv.org/help/arxiv_identifier_for_services.html)
         * [Full Text via S3](https://info.arxiv.org/help/bulk_data_s3.html)
-        * [ ]    API for Metadata
-            
-            API for Metadata
-            
-            * [arXiv API Access](https://info.arxiv.org/help/api/index.html)
-            * [arXiv API Basics](https://info.arxiv.org/help/api/basics.html)
-            * [Terms of Use for arXiv APIs](https://info.arxiv.org/help/api/tou.html)
-            * [arXiv API User's Manual](https://info.arxiv.org/help/api/user-manual.html)
-            
+        * [API for Metadata](https://info.arxiv.org/help/api/index.html)
         * [RSS Feeds](https://info.arxiv.org/help/rss.html)
         * [Institutional Repository Interoperability](https://info.arxiv.org/help/ir.html)
         * [Automated DOI and journal reference updates from publishers](https://info.arxiv.org/help/bib_feed.html)
