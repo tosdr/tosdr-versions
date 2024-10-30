@@ -1,341 +1,214 @@
-[Home](https://www.threeforksmontana.us/)
+![](https://threeforks.municipalimpact.com/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)
 
- Boards
+[Skip to main content](#site_main)
 
-[Board of Adjustments](https://www.threeforksmontana.us/board-of-adjustments)
+Alerts
 
-[Gallatin Conservation District](https://www.threeforksmontana.us/gallatin-conservation-district)
-
-[Impact Fee Advisory Committee](https://www.threeforksmontana.us/impact-fee-advisory-committee)
-
-[Library Board of Trustees & Staff](https://threeforkslibrary.weebly.com/staff-and-trustees.html)
-
-[Three Forks Rodeo Arena](https://www.threeforksmontana.us/three-forks-rodeo-arena-event-center-board-of-directors)
-
-[Zoning & Planning Board](https://www.threeforksmontana.us/zoning-planning-board)
-
- Your Government
-
-[Council and Mayor](https://www.threeforksmontana.us/mayor-city-council)
-
-[City Charter](https://www.threeforksmontana.us/city-charter)
-
-[Council Agendas](https://www.threeforksmontana.us/council-agendas)
-
-[Council Minutes](https://www.threeforksmontana.us/council-minutes)
-
-[City Council Meeting Packet Items](https://www.threeforksmontana.us/council-packet-items)
+Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informed!**](https://threeforks.municipalimpact.com/subscribe)
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
- Resources
-
-[Online Bill Pay](https://pay.paygov.us/EndUser/PaymentAgency.aspx?ttid=14862)
-
-[Area Attractions](https://www.threeforksmontana.us/area-attractions-things-to-do)
-
-[Businesses](https://www.threeforksmontana.us/licensed-businesses)
-
-[Calendar](https://www.threeforksmontana.us/calendar)
-
-[History of Three Forks](https://www.threeforksmontana.us/history-of-three-forks)
-
-[Jefferson River Floodplain Mitigation Project](https://www.threeforksmontana.us/floodplain-mitigation-project)
-
-[New Resident Information](https://www.threeforksmontana.us/new-resident-information)
-
- Departments
-
-[City Hall](https://www.threeforksmontana.us/city-hall)
-
-[Court](https://www.threeforksmontana.us/court)
-
-[Fire Department](https://www.threeforksmontana.us/fire-department)
-
-[Floodplain](https://www.threeforksmontana.us/floodplain)
-
-[Headwaters Trail System](https://www.threeforksmontana.us/headwaters-trail-system)
-
-[Law Enforcement](https://www.threeforksmontana.us/law-enforcement)
-
-[Public Works](https://www.threeforksmontana.us/public-works)
-
-[Three Forks Rodeo Arena](https://www.threeforksmontana.us/fairgrounds)
-
-[Three Forks Community Library](https://threeforkslibrary.weebly.com/)
-
-[Zoning, Planning](https://www.threeforksmontana.us/zoning-planning)
-
- Online Documents
-
-[Capital Improvement Plan](https://www.threeforksmontana.us/capital-improvement-plan)
-
-[Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-Exhibit-for-Res-418-2024.pdf)
-
-[Forms](https://www.threeforksmontana.us/forms)
-
-[Growth Policy](https://www.threeforksmontana.us/s/FINAL-ADOPTED-220913_EnvisionThreeForks_AdoptedDocument_LowRes.pdf)
-
-[Impact Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-2013-l7st.pdf)
-
-[Floodplain Maps - Current](https://msc.fema.gov/portal/home)
-
-[Floodplain Maps - Newly Proposed](https://mtdnrc.maps.arcgis.com/apps/MapSeries/index.html?appid=219e5e80f84c4ee2b9e2397ecab83412)
-
-[Maps](https://www.threeforksmontana.us/maps)
-
-[Ordinances (City Laws)](https://codelibrary.amlegal.com/codes/threeforksmt/latest/overview)
-
-[Public Design Standards](https://www.threeforksmontana.us/s/ThreeForksDsnStds_20230411-version-2.pdf)
-
-[Subdivision Regulations](https://www.threeforksmontana.us/s/City-of-Three-Forks-Subdivision-Regs-OCR.pdf)
-
- Parks
-
-[Park Reservation Policy](https://www.threeforksmontana.us/park-reservation-policy)
-
-[Bellach Park & Ponds](https://www.threeforksmontana.us/bellach-park-ponds)
-
-[Bertagnolli Park and Ball Fields](https://www.threeforksmontana.us/bertagnolli-park)
-
-[Helton-Peterson Park](https://www.threeforksmontana.us/heltonpeterson-park)
-
-[John Q. Adams Milwaukee Railroad Park](https://www.threeforksmontana.us/john-q-adams-milwaukee-railroad-park)
-
-[Sacajawea Park](https://www.threeforksmontana.us/sacajawea-park)
-
-[Stevenson Park](https://www.threeforksmontana.us/stevenson-park)
-
-[Veteran's Park](https://www.threeforksmontana.us/veterans-park)
-
- Community Links
-
-[River Gauges](https://gallatincomt.virtualtownhall.net/planning-community-development/pages/stream-gages)
-
-[Chamber of Commerce](http://www.threeforksmontana.com/)
-
-[City's Facebook Page](https://www.facebook.com/threeforksmontana.us/)
-
-[Gallatin County Community Notification System](https://www.readygallatin.com/public-warning/community-notification-system/)
-
-[Library's Facebook Page](https://www.facebook.com/profile.php?id=61556457038556)
-
-[Logan Landfill](https://www.gallatinsolidwaste.org/)
-
-[Rodeo Grounds Website & Calendar](https://www.threeforksrodeo.com/)
-
-[Three Forks School](https://www.tfschools.com/)
-
-[Volunteer Fire Department](https://www.threeforksmontana.us/fire-department)
-
-[![City of Three Forks](//images.squarespace-cdn.com/content/v1/5824a01bcd0f68cb55398c41/1493919925800-SWG3JWFLAA2B5RMFC5GC/SEAL-favicon.png?format=1500w)](https://www.threeforksmontana.us/)
-==============================================================================================================================================================================================
-
-[Home](https://www.threeforksmontana.us/)
-
- Boards
-
-[Board of Adjustments](https://www.threeforksmontana.us/board-of-adjustments)
-
-[Gallatin Conservation District](https://www.threeforksmontana.us/gallatin-conservation-district)
-
-[Impact Fee Advisory Committee](https://www.threeforksmontana.us/impact-fee-advisory-committee)
-
-[Library Board of Trustees & Staff](https://threeforkslibrary.weebly.com/staff-and-trustees.html)
-
-[Three Forks Rodeo Arena](https://www.threeforksmontana.us/three-forks-rodeo-arena-event-center-board-of-directors)
-
-[Zoning & Planning Board](https://www.threeforksmontana.us/zoning-planning-board)
-
- Your Government
-
-[Council and Mayor](https://www.threeforksmontana.us/mayor-city-council)
-
-[City Charter](https://www.threeforksmontana.us/city-charter)
-
-[Council Agendas](https://www.threeforksmontana.us/council-agendas)
-
-[Council Minutes](https://www.threeforksmontana.us/council-minutes)
-
-[City Council Meeting Packet Items](https://www.threeforksmontana.us/council-packet-items)
-
-[Contact Us](https://www.threeforksmontana.us/contact-us)
-
- Resources
-
-[Online Bill Pay](https://pay.paygov.us/EndUser/PaymentAgency.aspx?ttid=14862)
-
-[Area Attractions](https://www.threeforksmontana.us/area-attractions-things-to-do)
-
-[Businesses](https://www.threeforksmontana.us/licensed-businesses)
-
-[Calendar](https://www.threeforksmontana.us/calendar)
-
-[History of Three Forks](https://www.threeforksmontana.us/history-of-three-forks)
-
-[Jefferson River Floodplain Mitigation Project](https://www.threeforksmontana.us/floodplain-mitigation-project)
-
-[New Resident Information](https://www.threeforksmontana.us/new-resident-information)
-
- Departments
-
-[City Hall](https://www.threeforksmontana.us/city-hall)
-
-[Court](https://www.threeforksmontana.us/court)
-
-[Fire Department](https://www.threeforksmontana.us/fire-department)
-
-[Floodplain](https://www.threeforksmontana.us/floodplain)
-
-[Headwaters Trail System](https://www.threeforksmontana.us/headwaters-trail-system)
-
-[Law Enforcement](https://www.threeforksmontana.us/law-enforcement)
-
-[Public Works](https://www.threeforksmontana.us/public-works)
-
-[Three Forks Rodeo Arena](https://www.threeforksmontana.us/fairgrounds)
-
-[Three Forks Community Library](https://threeforkslibrary.weebly.com/)
-
-[Zoning, Planning](https://www.threeforksmontana.us/zoning-planning)
-
- Online Documents
-
-[Capital Improvement Plan](https://www.threeforksmontana.us/capital-improvement-plan)
-
-[Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-Exhibit-for-Res-418-2024.pdf)
-
-[Forms](https://www.threeforksmontana.us/forms)
-
-[Growth Policy](https://www.threeforksmontana.us/s/FINAL-ADOPTED-220913_EnvisionThreeForks_AdoptedDocument_LowRes.pdf)
-
-[Impact Fee Schedule](https://www.threeforksmontana.us/s/Fee-Schedule-2013-l7st.pdf)
-
-[Floodplain Maps - Current](https://msc.fema.gov/portal/home)
-
-[Floodplain Maps - Newly Proposed](https://mtdnrc.maps.arcgis.com/apps/MapSeries/index.html?appid=219e5e80f84c4ee2b9e2397ecab83412)
-
-[Maps](https://www.threeforksmontana.us/maps)
-
-[Ordinances (City Laws)](https://codelibrary.amlegal.com/codes/threeforksmt/latest/overview)
-
-[Public Design Standards](https://www.threeforksmontana.us/s/ThreeForksDsnStds_20230411-version-2.pdf)
-
-[Subdivision Regulations](https://www.threeforksmontana.us/s/City-of-Three-Forks-Subdivision-Regs-OCR.pdf)
-
- Parks
-
-[Park Reservation Policy](https://www.threeforksmontana.us/park-reservation-policy)
-
-[Bellach Park & Ponds](https://www.threeforksmontana.us/bellach-park-ponds)
-
-[Bertagnolli Park and Ball Fields](https://www.threeforksmontana.us/bertagnolli-park)
-
-[Helton-Peterson Park](https://www.threeforksmontana.us/heltonpeterson-park)
-
-[John Q. Adams Milwaukee Railroad Park](https://www.threeforksmontana.us/john-q-adams-milwaukee-railroad-park)
-
-[Sacajawea Park](https://www.threeforksmontana.us/sacajawea-park)
-
-[Stevenson Park](https://www.threeforksmontana.us/stevenson-park)
-
-[Veteran's Park](https://www.threeforksmontana.us/veterans-park)
-
- Community Links
-
-[River Gauges](https://gallatincomt.virtualtownhall.net/planning-community-development/pages/stream-gages)
-
-[Chamber of Commerce](http://www.threeforksmontana.com/)
-
-[City's Facebook Page](https://www.facebook.com/threeforksmontana.us/)
-
-[Gallatin County Community Notification System](https://www.readygallatin.com/public-warning/community-notification-system/)
-
-[Library's Facebook Page](https://www.facebook.com/profile.php?id=61556457038556)
-
-[Logan Landfill](https://www.gallatinsolidwaste.org/)
-
-[Rodeo Grounds Website & Calendar](https://www.threeforksrodeo.com/)
-
-[Three Forks School](https://www.tfschools.com/)
-
-[Volunteer Fire Department](https://www.threeforksmontana.us/fire-department)
-
-privacy policy
---------------
-
-This privacy policy discloses the privacy practices for [www.threeforksmontana.us](http://www.threeforksmontana.us/), which is operated by the City of Three Forks, Montana. This privacy policy applies solely to information collected by this website. It will notify you of the following:
-
-1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+![](/imgD/weatherbit_icons/c02d.png) Today's weather: Few clouds 48°/17°
+
+[![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
+
+* [Home](https://www.threeforksmontana.us/)
+* [Community](#)
+    * [About Us](https://www.threeforksmontana.us/about-us)
+        * [Our History](https://www.threeforksmontana.us/our-history)
+    * [Calendar of City Events & Meetings](https://www.threeforksmontana.us/calendar-of-city-events-and-meetings)
+    * [Chamber of Commerce](https://www.threeforksmontana.us/chamber-of-commerce)
+    * [Community Library](https://www.threeforksmontana.us/community-library)
+    * [Gallatin County Community Notification System](https://www.threeforksmontana.us/gallatin-county-community-notification-system)
+    * [Recent News](https://www.threeforksmontana.us/recent-news)
+    * [Logan Landfill](https://www.threeforksmontana.us/logan-landfill)
+    * [Medical Facilities](https://www.threeforksmontana.us/medical-facilities)
+    * [Three Forks Community Library Website & Facebook](https://www.threeforksmontana.us/three-forks-community-library-website-and-facebook)
+    * [River Gauges](https://www.threeforksmontana.us/river-gauges)
+    * [Schools](https://www.threeforksmontana.us/schools)
+    * [Senior Citizen Center](https://www.threeforksmontana.us/senior-citizen-center)
+    * [Three Forks Rodeo Arena Website & Calendar](https://www.threeforksmontana.us/three-forks-rodeo-arena-website-and-calendar)
+* [Government](#)
+    * [Boards & Committees](https://www.threeforksmontana.us/boards-and-committees)
+        * [Board of Adjustments](https://www.threeforksmontana.us/board-of-adjustments)
+        * [Gallatin Conservation District](https://www.threeforksmontana.us/gallatin-conservation-district)
+        * [Impact Fee Advisory Committee](https://www.threeforksmontana.us/impact-fee-advisory-committee)
+        * [Library Board of Trustees](https://www.threeforksmontana.us/library-board-of-trustees)
+        * [Three Forks Rodeo Arena](https://www.threeforksmontana.us/three-forks-rodeo-arena)
+            * [TFRA Board Minutes](https://www.threeforksmontana.us/tfra-board-minutes)
+        * [Zoning & Planning](https://www.threeforksmontana.us/zoning-and-planning)
+            * [Board Minutes](https://www.threeforksmontana.us/board-minutes)
+    * [City Charter](https://www.threeforksmontana.us/city-charter)
+    * [City Hall](https://www.threeforksmontana.us/city-hall)
+        * [City Contacts](https://www.threeforksmontana.us/city-contacts)
+        * [Code Compliance](https://www.threeforksmontana.us/code-compliance)
+        * [Court](https://www.threeforksmontana.us/court)
+            * [Court Calendar & Dress Code](https://www.threeforksmontana.us/court-calendar-and-dress-code)
+    * [Capital Improvements Plan (CIP)](https://www.threeforksmontana.us/capital-improvements-plan-cip)
+    * [Financial Reports & Budgets](https://www.threeforksmontana.us/financial-reports-and-budgets)
+        * [Annual Budget](https://www.threeforksmontana.us/annual-budget)
+        * [Financial Reports/Audits](https://www.threeforksmontana.us/financial-reports-audits)
+    * [Human Resources](https://www.threeforksmontana.us/human-resources)
+        * [Application Process](https://www.threeforksmontana.us/application-process)
+        * [Employment Opportunities](https://www.threeforksmontana.us/employment-opportunities)
+    * [Mayor & Council](https://www.threeforksmontana.us/mayor-and-council)
+        * [Mayor](https://www.threeforksmontana.us/mayor)
+        * [Council](https://www.threeforksmontana.us/council)
+    * [City Council Meetings](https://www.threeforksmontana.us/city-council-meetings)
+        * [Council Agendas](https://www.threeforksmontana.us/council-agendas)
+        * [Council Minutes](https://www.threeforksmontana.us/council-minutes)
+        * [Packet for Upcoming Council Meeting](https://www.threeforksmontana.us/packet-for-upcoming-council-meeting)
+    * [Open Records](https://www.threeforksmontana.us/open-records)
+        * [Public Information Request](https://www.threeforksmontana.us/public-information-request)
+        * [Public Notices](https://www.threeforksmontana.us/public-notices)
+    * [Growth Policy](https://www.threeforksmontana.us/growth-policy)
+* [Residents](#)
+    * [Departments](https://www.threeforksmontana.us/departments)
+        * [Animal Services](https://www.threeforksmontana.us/animal-services)
+        * [Emergency Services](https://www.threeforksmontana.us/emergency-services)
+            * [Volunteer Fire Department](https://www.threeforksmontana.us/volunteer-fire-department)
+            * [Sheriff's Office](https://www.threeforksmontana.us/sheriff-s-office)
+        * [Utilities](https://www.threeforksmontana.us/utilities)
+        * [Public Works](https://www.threeforksmontana.us/public-works)
+            * [Meter Reading](https://www.threeforksmontana.us/meter-reading)
+            * [Water/Sewer Rates & Policies](https://www.threeforksmontana.us/water-sewer-rates-and-policies)
+            * [Water Quality Report](https://www.threeforksmontana.us/water-quality-report)
+            * [Snow Removal Policy](https://www.threeforksmontana.us/snow-removal-policy)
+        * [Floodplain](https://www.threeforksmontana.us/floodplain)
+            * [Flood Regulations](https://www.threeforksmontana.us/flood-regulations)
+            * [Jefferson River Flood Mitigation Project](https://www.threeforksmontana.us/jefferson-river-flood-mitigation-project)
+        * [Three Forks Rodeo Arena](https://www.threeforksmontana.us/three-forks-rodeo-arena-1)
+        * [Three Forks Community Library](https://www.threeforksmontana.us/three-forks-community-library)
+        * [Zoning & Planning](https://www.threeforksmontana.us/zoning-and-planning-1)
+        * [Headwaters Trail System](https://www.threeforksmontana.us/headwaters-trail-system)
+    * [Forms & Applications](https://www.threeforksmontana.us/forms-and-applications)
+    * [Alerts](https://www.threeforksmontana.us/alerts)
+    * [Payment Options](https://www.threeforksmontana.us/payment-options)
+    * [New Resident Resources](https://www.threeforksmontana.us/new-resident-resources)
+    * [Frequently Called Numbers](https://www.threeforksmontana.us/frequently-called-numbers)
+    * [FAQ](https://www.threeforksmontana.us/faq)
+* [Business](#)
+    * [City Business Licenses](https://www.threeforksmontana.us/city-business-licenses)
+* [Visitors](#)
+    * [Locations & Directions](https://www.threeforksmontana.us/locations-and-directions)
+    * [Area Attractions](https://www.threeforksmontana.us/area-attractions)
+        * [Golf](https://www.threeforksmontana.us/golf)
+        * [Fishing](https://www.threeforksmontana.us/fishing)
+        * [Headwaters Trail](https://www.threeforksmontana.us/headwaters-trail)
+        * [Pogreba Field Airport](https://www.threeforksmontana.us/pogreba-field-airport)
+        * [Historical Society](https://www.threeforksmontana.us/historical-society)
+        * [State Parks](https://www.threeforksmontana.us/state-parks)
+        * [Bleu Horses](https://www.threeforksmontana.us/bleu-horses)
+    * [City Parks](https://www.threeforksmontana.us/city-parks)
+        * [Park Reservations](https://www.threeforksmontana.us/park-reservations)
+        * [Bellach Park & Ponds](https://www.threeforksmontana.us/bellach-park-and-ponds)
+        * [Bertagnolli Park & Ball Fields](https://www.threeforksmontana.us/bertagnolli-park-and-ball-fields)
+        * [Helton-Peterson Park](https://www.threeforksmontana.us/helton-peterson-park)
+        * [John Q. Adams Milwaukee Railroad Park](https://www.threeforksmontana.us/john-q-adams-milwaukee-railroad-park)
+        * [Sacajawea Park](https://www.threeforksmontana.us/sacajawea-park)
+        * [Stevenson Park](https://www.threeforksmontana.us/stevenson-park)
+        * [Veterans Park](https://www.threeforksmontana.us/veterans-park)
+* [Search](#)
     
-2. What choices are available to you regarding the use of your data.
-    
-3. The security procedures in place to protect the misuse of your information.
-    
-4. How you can correct any inaccuracies in the information.
+    Search  Submit
     
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+Oops! 
+------
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to answer a question,  etc.
+Sorry, we can’t find the page you were looking for. Please check the spelling in the address bar, try another link, or [click here to go back to the Home page](https://www.threeforksmontana.us/).
 
-Unless you ask us not to, we may contact you via email in the future to tell you about new services or changes to this privacy policy.
+![park in the fall](/images/promos_mi/mi_650_20231019_170616.jpg)
 
-**Your Access to and Control Over Information**
+Did you know parks can be reserved?
+-----------------------------------
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+Check our park reservation policy **[here](https://threeforks.municipalimpact.com/park-reservations)!**
 
-   • See what data we have about you, if any.
+[![home with rain cloud](/images/promos_mi/mi_650_mi_650_flooding_1352902479_2546.jpeg)](https://threeforks.municipalimpact.com/floodplain)
 
-   • Change/correct any data we have about you.
+Did You Know You May Be In The 1% Chance Of Flooding Based On Fema's Flood Insurance Rate Map?
+----------------------------------------------------------------------------------------------
 
-   • Have us delete any data we have about you.
+Check Out Our [Floodplain Page](https://threeforks.municipalimpact.com/floodplain) To Learn More About The Regulations On Flood-Proofing, And How You Can Best Prepare In The Event Of A Flood.
 
-   • Express any concern you have about our use of your data.
+[![leaves with raking leaning on fence](/images/promos_mi/mi_650_fall_cleanup2.jpg)](https://www.threeforksmontana.us/calendar-of-events)
 
-**Security**
+Fall Cleanup Dumpsters!
+-----------------------
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+Republic Services will have dumpsters across from the rodeo grounds the weekend of **October 31st – November 4th, 2024**.
 
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+[![the word "notice" written on chalkboard](/images/promos_mi/mi_650_notice.png)](https://www.threeforksmontana.us/public-notices)
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+Find all Public Notices here
+----------------------------
 
-**Updates**
+Slide1 Slide2 Slide3 Slide4
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page.
+_Pause Slideshow_
 
-**Cookies**
+Stay Informed
+-------------
 
-We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+Subscribe to receive news and alerts via email and SMS.
 
-**Links**
+[Click to Subscribe](https://www.threeforksmontana.us/subscribe)
 
-This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+[Click to Unsubscribe](https://www.threeforksmontana.us/unsubscribe)
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 406-285-3431.**
+![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_Three_Forks_Footer_logo_1352756831_1885.png)
 
-* * *
+[![Translated by Google](/images/google-translate-white.svg)](http://translate.google.com/) Choose Language...EnglishAfrikaansAlbanianAmharicArabicArmenianAzerbaijaniBasqueBelarusianBengaliBosnianBulgarianCatalanCebuanoChichewaChinese (Simplified)Chinese (Traditional)CorsicanCroatianCzechDanishDutchEsperantoEstonianFilipinoFinnishFrenchFrisianGalicianGeorgianGermanGreekGujaratiHaitian CreoleHausaHawaiianHebrewHindiHmongHungarianIcelandicIgboIndonesianIrishItalianJapaneseJavaneseKannadaKazakhKhmerKinyarwandaKoreanKurdish (Kurmanji)KyrgyzLaoLatinLatvianLithuanianLuxembourgishMacedonianMalagasyMalayMalayalamMalteseMaoriMarathiMongolianMyanmar (Burmese)NepaliNorwegianOdia (Oriya)PashtoPersianPolishPortuguesePunjabiRomanianRussianSamoanScots GaelicSerbianSesothoShonaSindhiSinhalaSlovakSlovenianSomaliSpanishSundaneseSwahiliSwedishTajikTamilTatarTeluguThaiTurkishTurkmenUkrainianUrduUyghurUzbekVietnameseWelshXhosaYiddishYorubaZulu Translate
 
-Email Address \* 
+Quick Links
+-----------
 
-You will now receive news from the City of Three Forks directly in your email box!
+[Pay Water/Sewer, Make Donations, Dog & Business Licenses](https://www.threeforksmontana.us/payment-options) [Report a Problem](https://www.threeforksmontana.us/contact-us) [Subscribe](https://www.threeforksmontana.us/subscribe) [New Residents](https://www.threeforksmontana.us/new-resident-resources) [Gallatin County Alert System](https://www.readygallatin.com/public-warning/community-notification-system/) [Report Street Light Need For Repair](https://www.northwesternenergy.com/customer-service/report-a-street-yard-light-issue#)
 
-This means you will receive an email from us the Friday before each Council meeting (2nd & 4th Tuesday of each month) with the agenda and applicable documentation for the Council’s discussion/decision.
+Sites of Interest
+-----------------
 
-You will also receive emails from us about any news the City may want to push out to the public, like office closures, water/sewer updates, project status reports and press releases for public notices.  
-  
-Thank you for subscribing and being an active participant in what happens in your community!
+[Gallatin County MT](http://www.gallatinmt.gov/)[Water Conservation](http://wateruseitwisely.com/)[US Postal Service](http://www.usps.com/)
 
-[Back To Top](#header)
+Contacts
+--------
 
-[Recording in Public Places Policy](https://www.threeforksmontana.us/recording-in-public-places-policy)
+City of Three Forks  
+206 Main Street (PO Box 187)  
+Three Forks, MT 59752
 
-[Privacy Policy](https://www.threeforksmontana.us/privacy-policy)
+(406) 285-3431  
 
-[Contact Us](https://www.threeforksmontana.us/contact-us)
+[Contact Us](https://www.threeforksmontana.us/contact-us) [Facebook](https://www.facebook.com/threeforksmontana.us)
 
-City Hall, 206 South Main Street, Three Forks, MT, 59752(406) 285-3431[cturner@threeforksmontana.us](mailto:cturner@threeforksmontana.us)
+©2024 All rights reserved.
 
-Powered by [Squarespace](http://www.squarespace.com/)
+* [Terms of Use](https://www.threeforksmontana.us/terms.html)
+* [Privacy Policy](https://www.threeforksmontana.us/privacy.html)
+* [Accessibility](https://www.threeforksmontana.us/accessibility.html)
+
+Powered by [MunicipalImpact.com](https://www.municipalimpact.com/)  
+[Admin](https://clients.municipalimpact.com/client/?e=fd9435d9ca85e8a8563e00474436c432)
+
+Alert
+-----
+
+### [New Site Under Construction](https://www.threeforksmontana.us/alerts)
+
+10/02/2024
+
+The City of Three Forks is working on our new website! In the meantime, please visit **[https://www.threeforksmontana.us/](https://www.threeforksmontana.us/)** for all website needs until further notice. 
+
+Okay, Got It!
+
+Alerts
+------
+
+### [New Site Under Construction](https://www.threeforksmontana.us/alerts)
+
+10/02/2024
+
+The City of Three Forks is working on our new website! In the meantime, please visit **[https://www.threeforksmontana.us/](https://www.threeforksmontana.us/)** for all website needs until further notice. 
+
+Okay, Got It!
