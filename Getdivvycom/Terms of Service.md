@@ -344,7 +344,7 @@ Company
 
 [Our Story](https://getdivvy.com/about-us)[Leadership](https://getdivvy.com/leadership)[Investors](https://investor.bill.com/overview/default.aspx)[Press Releases](https://getdivvy.com/press-release)[Newsroom](https://getdivvy.com/about-us/newsroom)[Press Kit](https://getdivvy.com/press-kit)[Refer a Business](https://www.bill.com/referral/promotion?utm_source=homepage-footer&utm_medium=website&utm_campaign=FY20-Q4-100-0)[Careers
 
-We're Hiring!](https://getdivvy.com/about-us/careers)[Contact Us](https://getdivvy.com/contact-us)[Support](https://help.bill.com/direct/s/)
+We're Hiring!](https://getdivvy.com/careers)[Contact Us](https://getdivvy.com/contact-us)[Support](https://help.bill.com/direct/s/)
 
 Partners
 
@@ -386,7 +386,7 @@ Company
 
 [Our Story](https://getdivvy.com/about-us)[Leadership](https://getdivvy.com/leadership)[Investors](https://investor.bill.com/overview/default.aspx)[Press Releases](https://getdivvy.com/press-release)[Newsroom](https://getdivvy.com/about-us/newsroom)[Press Kit](https://getdivvy.com/press-kit)[Refer a Business](https://www.bill.com/referral/promotion?utm_source=homepage-footer&utm_medium=website&utm_campaign=FY20-Q4-100-0)[Careers
 
-We're Hiring!](https://getdivvy.com/about-us/careers)[Contact Us](https://getdivvy.com/contact-us)[Support](https://help.bill.com/direct/s/)
+We're Hiring!](https://getdivvy.com/careers)[Contact Us](https://getdivvy.com/contact-us)[Support](https://help.bill.com/direct/s/)
 
 Partners
 
