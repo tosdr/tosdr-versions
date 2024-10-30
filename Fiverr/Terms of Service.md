@@ -269,15 +269,26 @@
     * [Intro & Outro Videos](https://www.fiverr.com/categories/video-animation/video-intro-and-outro?source=category_tree)
     * [Video Templates Editing](https://www.fiverr.com/categories/video-animation/video-templates-editing?source=category_tree)
     * [Subtitles & Captions](https://www.fiverr.com/categories/video-animation/subtitles-captions?source=category_tree)
-    * [Find a long-term video editor](https://www.fiverr.com/cp/video-editor-for-the-long-term)
     
     * Social & Marketing Videos
         
     * [Video Ads & Commercials](https://www.fiverr.com/categories/video-animation/short-video-ads?source=category_tree)
     * [Social Media Videos](https://www.fiverr.com/categories/video-animation/social-media-videos?source=category_tree)
-    * [UGC Videos new](https://www.fiverr.com/categories/video-animation/ugc-videos?source=category_tree)
     * [Music Videos](https://www.fiverr.com/categories/video-animation/music-videos?source=category_tree)
     * [Slideshow Videos](https://www.fiverr.com/categories/video-animation/slideshow-videos?source=category_tree)
+    
+    * Motion Graphics
+        
+    * [Logo Animation](https://www.fiverr.com/categories/video-animation/logo-animation-services?source=category_tree)
+    * [Lottie & Web Animation](https://www.fiverr.com/categories/video-animation/website-animation?source=category_tree)
+    * [Text Animationnew](https://www.fiverr.com/categories/video-animation/text-animation?source=category_tree)
+    
+    * Presenter Videos
+        
+    * [UGC Videos new](https://www.fiverr.com/categories/video-animation/ugc-videos?source=category_tree)
+    * [Spokesperson Videos](https://www.fiverr.com/categories/video-animation/buy-spokesperson-video?source=category_tree)
+    * [UGC Ads](https://www.fiverr.com/categories/video-animation/ugc-videos/ugc-ads?source=category_tree)
+    * [TikTok UGC Videos](https://www.fiverr.com/categories/video-animation/buy/ugc-videos/tiktok?source=category_tree&ref=platform%3Atiktok)
     
     * Animation
         
@@ -288,12 +299,6 @@
     * [Rigging](https://www.fiverr.com/categories/video-animation/rigging?source=category_tree)
     * [NFT Animation](https://www.fiverr.com/categories/video-animation/nft-animation?source=category_tree)
     
-    * Motion Graphics
-        
-    * [Logo Animation](https://www.fiverr.com/categories/video-animation/logo-animation-services?source=category_tree)
-    * [Lottie & Web Animation](https://www.fiverr.com/categories/video-animation/website-animation?source=category_tree)
-    * [Text Animationnew](https://www.fiverr.com/categories/video-animation/text-animation?source=category_tree)
-    
     * Filmed Video Production
         
     * [Videographers](https://www.fiverr.com/categories/video-animation/videographers?source=category_tree)
@@ -303,7 +308,6 @@
         
     * [Animated Explainers](https://www.fiverr.com/categories/video-animation/animated-explainer-videos?source=category_tree)
     * [Live Action Explainers](https://www.fiverr.com/categories/video-animation/live-action-videos?source=category_tree)
-    * [Spokesperson Videos](https://www.fiverr.com/categories/video-animation/buy-spokesperson-video?source=category_tree)
     * [Screencasting Videos](https://www.fiverr.com/categories/video-animation/screencasting-videos?source=category_tree)
     * [eLearning Video Production](https://www.fiverr.com/categories/video-animation/elearning-video-production?source=category_tree)
     * [Crowdfunding Videos](https://www.fiverr.com/categories/video-animation/crowdfunding-videos?source=category_tree)
@@ -319,7 +323,7 @@
         
     * [AI Video Art](https://www.fiverr.com/categories/video-animation/video-art/ai-video-art?source=category_tree)
     * [AI Music Videos](https://www.fiverr.com/categories/video-animation/buy/music-videos/ai-generated?source=category_tree&ref=video_type%3Aai_generated)
-    * [AI Spokespersons Videos](https://www.fiverr.com/categories/video-animation/buy/buy-spokesperson-video/ai-avatar?source=category_tree&ref=presentor%3Aai_avatar)
+    * [AI Video Avatars](https://www.fiverr.com/categories/video-animation/virtual-streaming-avatars/ai-avatars?source=category_tree)
     
     * Miscellaneous
         
@@ -332,12 +336,6 @@
     * [Book Trailers](https://www.fiverr.com/categories/video-animation/book-trailers?source=category_tree)
     * [Video Advice](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree)
     * [Other](https://www.fiverr.com/categories/video-animation/video-services?source=category_tree)
-    
-    * [Photography](https://www.fiverr.com/categories/photography?source=category_tree)
-    * [Product Photographers](https://www.fiverr.com/categories/photography/product-photographers?source=category_tree)
-    * [Portrait Photographers](https://www.fiverr.com/categories/photography/portrait-photographers?source=category_tree)
-    * [Lifestyle & Fashion Photographers](https://www.fiverr.com/categories/photography/lifestyle-fashion-photographers?source=category_tree)
-    * [Local Photographers](https://www.fiverr.com/cp/local-photography-stores)
     
 * [Writing & Translation](https://www.fiverr.com/categories/writing-translation?source=category_tree)
     
@@ -531,7 +529,7 @@
     * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
     * [Tax Identification Services](https://www.fiverr.com/categories/finance/tax-consulting/tax-identification-services?source=category_tree)
     * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
-    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting/tax-compliance?source=category_tree)
     * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
     
     * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
@@ -968,14 +966,23 @@ Browse categories
     * [Intro & Outro Videos](https://www.fiverr.com/categories/video-animation/video-intro-and-outro?source=category_tree)
     * [Video Templates Editing](https://www.fiverr.com/categories/video-animation/video-templates-editing?source=category_tree)
     * [Subtitles & Captions](https://www.fiverr.com/categories/video-animation/subtitles-captions?source=category_tree)
-    * [Find a long-term video editor](https://www.fiverr.com/cp/video-editor-for-the-long-term)
     
     * Social & Marketing Videos
     * [Video Ads & Commercials](https://www.fiverr.com/categories/video-animation/short-video-ads?source=category_tree)
     * [Social Media Videos](https://www.fiverr.com/categories/video-animation/social-media-videos?source=category_tree)
-    * [UGC Videos New](https://www.fiverr.com/categories/video-animation/ugc-videos?source=category_tree)
     * [Music Videos](https://www.fiverr.com/categories/video-animation/music-videos?source=category_tree)
     * [Slideshow Videos](https://www.fiverr.com/categories/video-animation/slideshow-videos?source=category_tree)
+    
+    * Motion Graphics
+    * [Logo Animation](https://www.fiverr.com/categories/video-animation/logo-animation-services?source=category_tree)
+    * [Lottie & Web Animation](https://www.fiverr.com/categories/video-animation/website-animation?source=category_tree)
+    * [Text AnimationNew](https://www.fiverr.com/categories/video-animation/text-animation?source=category_tree)
+    
+    * Presenter Videos
+    * [UGC Videos New](https://www.fiverr.com/categories/video-animation/ugc-videos?source=category_tree)
+    * [Spokesperson Videos](https://www.fiverr.com/categories/video-animation/buy-spokesperson-video?source=category_tree)
+    * [UGC Ads](https://www.fiverr.com/categories/video-animation/ugc-videos/ugc-ads?source=category_tree)
+    * [TikTok UGC Videos](https://www.fiverr.com/categories/video-animation/buy/ugc-videos/tiktok?source=category_tree&ref=platform%3Atiktok)
     
     * Animation
     * [Character Animation](https://www.fiverr.com/categories/video-animation/animated-characters-modeling?source=category_tree)
@@ -985,11 +992,6 @@ Browse categories
     * [Rigging](https://www.fiverr.com/categories/video-animation/rigging?source=category_tree)
     * [NFT Animation](https://www.fiverr.com/categories/video-animation/nft-animation?source=category_tree)
     
-    * Motion Graphics
-    * [Logo Animation](https://www.fiverr.com/categories/video-animation/logo-animation-services?source=category_tree)
-    * [Lottie & Web Animation](https://www.fiverr.com/categories/video-animation/website-animation?source=category_tree)
-    * [Text AnimationNew](https://www.fiverr.com/categories/video-animation/text-animation?source=category_tree)
-    
     * Filmed Video Production
     * [Videographers](https://www.fiverr.com/categories/video-animation/videographers?source=category_tree)
     * [Filmed Video Production](https://www.fiverr.com/categories/video-animation/filmed-video-production?source=category_tree)
@@ -997,7 +999,6 @@ Browse categories
     * Explainer Videos
     * [Animated Explainers](https://www.fiverr.com/categories/video-animation/animated-explainer-videos?source=category_tree)
     * [Live Action Explainers](https://www.fiverr.com/categories/video-animation/live-action-videos?source=category_tree)
-    * [Spokesperson Videos](https://www.fiverr.com/categories/video-animation/buy-spokesperson-video?source=category_tree)
     * [Screencasting Videos](https://www.fiverr.com/categories/video-animation/screencasting-videos?source=category_tree)
     * [eLearning Video Production](https://www.fiverr.com/categories/video-animation/elearning-video-production?source=category_tree)
     * [Crowdfunding Videos](https://www.fiverr.com/categories/video-animation/crowdfunding-videos?source=category_tree)
@@ -1011,7 +1012,7 @@ Browse categories
     * AI Video
     * [AI Video Art](https://www.fiverr.com/categories/video-animation/video-art/ai-video-art?source=category_tree)
     * [AI Music Videos](https://www.fiverr.com/categories/video-animation/buy/music-videos/ai-generated?source=category_tree&ref=video_type%3Aai_generated)
-    * [AI Spokespersons Videos](https://www.fiverr.com/categories/video-animation/buy/buy-spokesperson-video/ai-avatar?source=category_tree&ref=presentor%3Aai_avatar)
+    * [AI Video Avatars](https://www.fiverr.com/categories/video-animation/virtual-streaming-avatars/ai-avatars?source=category_tree)
     
     * Miscellaneous
     * [Virtual & Streaming Avatars](https://www.fiverr.com/categories/video-animation/virtual-streaming-avatars?source=category_tree)
@@ -1023,12 +1024,6 @@ Browse categories
     * [Book Trailers](https://www.fiverr.com/categories/video-animation/book-trailers?source=category_tree)
     * [Video Advice](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree)
     * [Other](https://www.fiverr.com/categories/video-animation/video-services?source=category_tree)
-    
-    * [Photography](https://www.fiverr.com/categories/photography?source=category_tree)
-    * [Product Photographers](https://www.fiverr.com/categories/photography/product-photographers?source=category_tree)
-    * [Portrait Photographers](https://www.fiverr.com/categories/photography/portrait-photographers?source=category_tree)
-    * [Lifestyle & Fashion Photographers](https://www.fiverr.com/categories/photography/lifestyle-fashion-photographers?source=category_tree)
-    * [Local Photographers](https://www.fiverr.com/cp/local-photography-stores)
     
 * Writing & Translation
     
@@ -1212,7 +1207,7 @@ Browse categories
     * [Tax Returns](https://www.fiverr.com/categories/finance/tax-consulting/tax-returns?source=category_tree)
     * [Tax Identification Services](https://www.fiverr.com/categories/finance/tax-consulting/tax-identification-services?source=category_tree)
     * [Tax Planning](https://www.fiverr.com/categories/finance/tax-consulting/tax-planning?source=category_tree)
-    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting?source=category_tree)
+    * [Tax Compliance](https://www.fiverr.com/categories/finance/tax-consulting/tax-compliance?source=category_tree)
     * [Tax Exemptions](https://www.fiverr.com/categories/finance/tax-consulting/tax-exemptions?source=category_tree)
     
     * [Financial Planning & Analysis](https://www.fiverr.com/categories/finance/financial-planning-and-analysis?source=category_tree)
