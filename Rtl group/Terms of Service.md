@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-A new chapter for <i>Stern</i>](/.galleries/images/Relaunch-Stern-v2_16-9.jpg?__scale=undefined&description=)
+    
+    A new chapter for _Stern_
+    
+    30.10.2024
+    
+    A visually powerful design, modified structure and expanded content: RTL Deutschland has relaunched the website and app for its leading current affairs brand _Stern_.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-chapter-for-Stern/)
+    
 * [![slide-Medientage München 2024](/.galleries/images/Medientage-Muenchen-2024_16-9.png?__scale=undefined&description=)
     
     Medientage München 2024
