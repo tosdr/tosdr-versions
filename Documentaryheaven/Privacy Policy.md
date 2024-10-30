@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    Diary of a Porn Virgin
+    The Beginning and the End of the Universe
     
-    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![Fresh Coast](/wp-content/thumbnails/10677-100x70.jpg?x53432)
+* [![Catching A Monster: Peter Scully, Australia’s Most Evil Predator](/wp-content/thumbnails/10172-100x70.jpg?x53432)
     
-    Fresh Coast
+    Catching A Monster: Peter Scully, Australia’s Most Evil Predator
     
-    'Fresh Coast' is a documentary which sets about chronicling the legacy of some of the most prolific and influential battle rappers located deep within California's underworld grass roots hip-hop scene](https://documentaryheaven.com/fresh-coast/ "Fresh Coast")
-* [![The Link: Uncovering Our Earliest Ancestor](/wp-content/thumbnails/6580-100x70.jpg?x53432)
+    Peter Scully was on the run for four years and considered Austrailia's most evil predator. He was the mastermind behind a worldwide pedophile ring which he ran from a remote corner of the Philippines,](https://documentaryheaven.com/catching-a-monster-peter-scully-australias-most-evil-predator/ "Catching A Monster: Peter Scully, Australia’s Most Evil Predator")
+* [![EP 3/6 The Private Life of Plants](/wp-content/thumbnails/2491-100x70.jpg?x53432)
     
-    The Link: Uncovering Our Earliest Ancestor
+    EP 3/6 The Private Life of Plants
     
-    Uncovering Our Earliest Ancestor: The Link, tells the story of an important scientific development that could tell us more about where we come from.The fossil, known as Ida, could be an indication o](https://documentaryheaven.com/the-link-uncovering-our-earliest-ancestor/ "The Link: Uncovering Our Earliest Ancestor")
-* [![Riddles in Stone: The Secret Architecture of Washington D.C.](/wp-content/thumbnails/975-100x70.jpg?x53432)
+    Broadcast 19 January 1995, the next instalment is devoted to the ways in which plants reproduce. Pollen and a stigma are the two components needed for fertilisation. Most plants carry both these withi](https://documentaryheaven.com/the-private-life-of-plants-3/ "EP 3/6 The Private Life of Plants")
+* [![Guys and Dolls](/wp-content/thumbnails/692-100x70.png?x53432)
     
-    Riddles in Stone: The Secret Architecture of Washington D.C.
+    Guys and Dolls
     
-    This documentary explores the highly controversial subject of the design of America’s capital. Was the city built to reflect the majesty of America’s new found freedom? Or the hidden agenda of secret](https://documentaryheaven.com/riddles-in-stone-the-secret-architecture-of-washington-d-c/ "Riddles in Stone: The Secret Architecture of Washington D.C.")
-* [![The Life And Crimes of Citizen Ming](/wp-content/thumbnails/5684-100x70.jpg?x53432)
+    10 years ago, a small company in California started making real life like dolls for sale. These dolls are more than a sex doll for some of the man who bought them, they develop feelings for these doll](https://documentaryheaven.com/guys-and-dolls/ "Guys and Dolls")
+* [![Generation OS13: The new culture of resistance](/wp-content/thumbnails/6101-100x70.jpg?x53432)
     
-    The Life And Crimes of Citizen Ming
+    Generation OS13: The new culture of resistance
     
-    Luke 'Ming' Flanagan is an Irish politician and social campaigner. He began his political career running unsuccessfully as an independent candidate in the Galway West constituency in 1997, and went on](https://documentaryheaven.com/the-life-and-crimes-of-citizen-ming/ "The Life And Crimes of Citizen Ming")
-* [![The Real ‘Wolf of Wall Street’?](/wp-content/thumbnails/9339-100x70.jpg?x53432)
+    Generation OS13 is an explosive insight into the attack on civil liberties occurring in western democracies and how artists, musicians, journalists and authors encourage the peoples right to resist ag](https://documentaryheaven.com/generation-os13-the-new-culture-of-resistance/ "Generation OS13: The new culture of resistance")
+* [![Secrets of the First Emperor](/wp-content/thumbnails/2076-100x70.jpg?x53432)
     
-    The Real ‘Wolf of Wall Street’?
+    Secrets of the First Emperor
     
-    The Oscar nominated movie Wolf on Wall Street was famously based on the story of Jordan Belfort, a crooked investment banker who made his money selling worthless stocks at a high price but according t](https://documentaryheaven.com/real-wolf-of-wall-street/ "The Real ‘Wolf of Wall Street’?")
+    In the early years of anno domini, China experienced one of its most formidable and brilliant rulers in the personage of Qin Shi Huang, or 'The First Emperor of Qin.' By all accounts a visionary, Huan](https://documentaryheaven.com/secrets-of-the-first-emperor/ "Secrets of the First Emperor")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
