@@ -207,7 +207,7 @@ Generally, no. Unless you agreed otherwise with someone (e.g., related to the Co
 
 We reserve the right to modify this Privacy and Cookies Policy at any time. Any changes to this Privacy and Cookies Policy will be posted on the PicMonkey Services so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-[](https://www.facebook.com/PicMonkey "Facebook")[](https://www.instagram.com/picmonkey/ "Instagram")[](https://www.youtube.com/picmonkey "YouTube")[](https://www.pinterest.com/picmonkey/ "Pinterest")[](https://twitter.com/picmonkey "Twitter")[](https://www.linkedin.com/company/picmonkey/ "LinkedIn")
+[](https://www.facebook.com/PicMonkey "Facebook")[](https://www.instagram.com/picmonkey/ "Instagram")[](https://www.youtube.com/picmonkey "YouTube")[](https://www.pinterest.com/picmonkey/ "Pinterest")[](https://x.com/picmonkey "X")[](https://www.linkedin.com/company/picmonkey/ "LinkedIn")
 
 * Desktop features
 * [Photo editor](https://www.picmonkey.com/photo-editor)
