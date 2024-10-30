@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Balance](https://www.myabandonware.com/game/balance-smn)
-* [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
-* [The House of the Dead](https://www.myabandonware.com/game/the-house-of-the-dead-bed)
-* [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
-* [Alchemist Marie & Elie: Futari no Atelier](https://www.myabandonware.com/game/alchemist-marie-elie-futari-no-atelier-t31)
+* [Blue Wing Blitz](https://www.myabandonware.com/game/blue-wing-blitz-t35)
+* [Arc the Lad: Kijin Fukkatsu](https://www.myabandonware.com/game/arc-the-lad-kijin-fukkatsu-t34)
+* [Wild Card](https://www.myabandonware.com/game/wild-card-t33)
+* [Tetris](https://www.myabandonware.com/game/tetris-t32)
+* [With You: Mitsumete Itai](https://www.myabandonware.com/game/with-you-mitsumete-itai-p2w)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Shining Force III: Scenario 3](https://www.myabandonware.com/game/shining-force-iii-scenario-3-ne7)
-* [Nekkyū Kōshien](https://www.myabandonware.com/game/nekkyu-koshien-p4e)
-* [Space Force](https://www.myabandonware.com/game/space-force-sde)
+* [The Arcade](https://www.myabandonware.com/game/the-arcade-ml3)
+* [Lightpen](https://www.myabandonware.com/game/lightpen-qun)
+* [Dragoon Might](https://www.myabandonware.com/game/dragoon-might-si1)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
