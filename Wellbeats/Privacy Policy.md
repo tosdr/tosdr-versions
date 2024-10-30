@@ -370,7 +370,8 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
 * [Instagram](https://www.instagram.com/lifespeakinc/?hl=en)
 * [YouTube](https://www.youtube.com/channel/UCwCOn0lguoGNEIwLgRpoPYw)
 
-© 2024 LifeSpeak Inc. [Privacy Policy](https://www.lifespeak.com/privacy-policy/)  
+© 2024 LifeSpeak Inc. [Privacy Policy](https://www.lifespeak.com/privacy-policy/).  
+[Manage Cookie Settings](#)
 
 * [Get a free demo](https://www.lifespeak.com/book-a-demo/)
 
