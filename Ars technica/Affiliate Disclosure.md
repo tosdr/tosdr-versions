@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. ![Listing image for first story in Most Read: For some reason, NASA is treating Orion’s heat shield problems as a secret](https://cdn.arstechnica.net/wp-content/uploads/2024/10/52536208534_046765c5b6_k-768x432.jpg)
+1. ![Listing image for first story in Most Read: Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://cdn.arstechnica.net/wp-content/uploads/2024/10/Apple-Mac-mini-hero-768x432.jpeg)
     
-    1. [For some reason, NASA is treating Orion’s heat shield problems as a secret](https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/?itm_source=parsely-api)
+    1. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
     
-2. 2. [Apple’s first Mac mini redesign in 14 years looks like a big aluminum Apple TV](https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/?itm_source=parsely-api)
+2. 2. [For some reason, NASA is treating Orion’s heat shield problems as a secret](https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/?itm_source=parsely-api)
     
-3. 3. [Lidar mapping reveals mountainous medieval cities along the Silk Road](https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/?itm_source=parsely-api)
+3. 3. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
     
 4. 4. [A candy engineer explains the science behind the Snickers bar](https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/?itm_source=parsely-api)
     
-5. 5. [Ban on Chinese tech so broad, US-made cars would be blocked, Polestar says](https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/?itm_source=parsely-api)
+5. 5. [Lidar mapping reveals mountainous medieval cities along the Silk Road](https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/?itm_source=parsely-api)
     
 
 Customize
