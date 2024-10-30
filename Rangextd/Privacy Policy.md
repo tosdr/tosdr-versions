@@ -342,18 +342,6 @@ Top Savvy Techs
 
 [View all collections](https://www.rangextd.com/collections/top-notch-techs) 
 
-* [![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/nxz54zajpkfqdpidnqn77eto69k0heem.jpg?v=1727853999&width=645)](https://www.rangextd.com/products/experience-the-new-iphone-15-pro-max-256gb-blue-titanium)
-    
-    Quantity  Add to cart
-    
-    ### [Experience the New iPhone 15 Pro Max 256GB Blue Titanium](https://www.rangextd.com/products/experience-the-new-iphone-15-pro-max-256gb-blue-titanium)
-    
-    Next day delivery
-    
-    $1,199.99
-    
-    Quantity  Add to cart
-    
 * [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=645)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
     
     Quantity  Add to cart
@@ -363,18 +351,6 @@ Top Savvy Techs
     Next day delivery
     
     $1,099.00
-    
-    Quantity  Add to cart
-    
-* [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=645)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
-    
-    Quantity  Add to cart
-    
-    ### [Experience the New PlayStation 5 Pro](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
-    
-    10 in stock Next day delivery
-    
-    $1,099.99
     
     Quantity  Add to cart
     
