@@ -1,5 +1,3 @@
-![](https://mc.yandex.ru/watch/70040296)
-
 COOKIES POLICY
 ==============
 
@@ -9,7 +7,7 @@ By using the website Gift Card Survey and of any and all its domains, and of all
 
 This cookie policy explains what cookies are, what types of cookies we use and in which way cookies are stored on and information is read from your computer, mobile device, and/or tablet (“Devices”).
 
-You should read this policy so you can understand what type of cookies we use, the information we collect using cookies, and how that information is used. If you have additional questions or would like further information on this topic, please feel free to contact us via email at: info@{domain\_name}.
+You should read this policy so you can understand what type of cookies we use, the information we collect using cookies, and how that information is used. If you have additional questions or would like further information on this topic, please feel free to contact us via email at:info@.
 
 #### WHAT ARE COOKIES?
 
@@ -51,11 +49,11 @@ These cookies help us to make the ads more attractive to users and more effectiv
 
 | Source | Purpose | Further Information |
 | --- | --- | --- |
-| Yandex Metrika | Yandex.Metrica provides depersonalized information about your site's traffic. The available statistics include the number of users, traffic sources, and user behavior on site pages. In order to count the site's users, Yandex.Metrica uses anonymous browser identifiers that are stored in cookies or in localStorage properties. These cookies and properties are set on the top-level domain, such as .example.com. | Privacy Policy - https://metrica.yandex.com/about/info/privacy-policy |
+| Yandex Metrika | Yandex.Metrica provides depersonalized information about your site\`s traffic. The available statistics include the number of users, traffic sources, and user behavior on site pages. In order to count the site\`s users, Yandex.Metrica uses anonymous browser identifiers that are stored in cookies or in localStorage properties. These cookies and properties are set on the top-level domain, such as .example.com. | Privacy Policy - https://metrica.yandex.com/about/info/privacy-policy |
 | Propellerads |     | Privacy Policy - https://propellerads.com/privacy/ |
 | Facebook Custom Audience | Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of this Website with the Facebook advertising network. | Privacy Policy - https://www.facebook.com/about/privacy/ |
 | Adex | Fraud detection service | Privacy Policy - https://adex.com/privacy |
-| Sentry | Sentry's application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code. | Privacy Policy - https://sentry.io/privacy/ |
+| Sentry | Sentry\`s application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code. | Privacy Policy - https://sentry.io/privacy/ |
 | Adwords Remarketing by Google | AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of this Website with the Adwords advertising network and the Doubleclick Cookie. | Privacy Policy - http://www.google.com/intl/en/policies/privacy/ Opt Out - http://www.google.com/settings/ads/onweb/optout |
 
 Session Cookies
