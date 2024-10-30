@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d69f4bf8-cb4e-4539-b815-616b621a4f6d/20241029T205224/d69f4bf8-cb4e-4539-b815-616b621a4f6d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d69f4bf8-cb4e-4539-b815-616b621a4f6d/20241029T205224/d69f4bf8-cb4e-4539-b815-616b621a4f6d_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/pella-wildlife-area-coal-mine-reclamation-native-plants-animals-closed-public-environment/526-f8d9f18f-f2d0-4a30-9938-e8a79cf175ce)
+        
+        #### [An abandoned Iowa coal mine is being reclaimed, now closed to public](https://www.wqad.com/article/news/local/the-current/pella-wildlife-area-coal-mine-reclamation-native-plants-animals-closed-public-environment/526-f8d9f18f-f2d0-4a30-9938-e8a79cf175ce)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0354c277-8602-46f1-948d-73063775fe86/20241030T030532/0354c277-8602-46f1-948d-73063775fe86_360x203.jpg)](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
         
         #### [Illinois early intervention providers seeking $60 million in funding](https://www.wqad.com/article/news/local/illinois-early-intervention-providers-60-million-dollars-funding/526-fbe2b4fe-ea52-4e32-8574-6642dbc14d97)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d57e5403-d53d-47fc-95a3-0b35cfd161de/20240610T185048/d57e5403-d53d-47fc-95a3-0b35cfd161de_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d57e5403-d53d-47fc-95a3-0b35cfd161de/20240610T185048/d57e5403-d53d-47fc-95a3-0b35cfd161de_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/man-arrested-galesburg-shooting-july/526-2b5a1bfc-aa47-45b3-84e9-a732757059a2)
-        
-        #### [Police make arrest in July Galesburg shooting](https://www.wqad.com/article/news/local/public-safety/man-arrested-galesburg-shooting-july/526-2b5a1bfc-aa47-45b3-84e9-a732757059a2)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2/20241029T225654/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2/20241029T225654/dd7b6c5d-92c0-4ddc-a94e-ca0614c7a7e2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b93e29f-f148-461a-ab2e-c1ef98b57a20/20241030T121305/0b93e29f-f148-461a-ab2e-c1ef98b57a20_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Showers and thunderstorms tracking for Wednesday evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Tracking more thunderstorms for Wednesday night](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b41fcd8d-245e-44e3-8708-90fb939eb518/20241029T212839/b41fcd8d-245e-44e3-8708-90fb939eb518_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/e8c19660-454e-4f07-b3e9-8206b0b87755/20241030T124229/e8c19660-454e-4f07-b3e9-8206b0b87755_360x203.jpg)](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
         
-        #### [Quad City tree care company going on 6 weeks helping hurricane victims](https://www.wqad.com/article/life/people/hard-work-determination/hurricane-relief-helene-milton-quad-city-tree-company-helping-out/526-10c6fa9d-4196-4e4e-9ab1-03c7ab7bbe78)
+        #### [At least 64 people have died in devastating flash floods in eastern Spain, with more rain on the way](https://www.wqad.com/article/news/nation-world/at-least-63-people-die-in-flash-floods-spain/507-2c918b06-6d9d-459b-95b9-0fa059096b55)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-70°
+71°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
