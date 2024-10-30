@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac9f440c-45d4-44fa-a3fb-763ebc713e1a/20241029T174805/ac9f440c-45d4-44fa-a3fb-763ebc713e1a_360x203.jpg)](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
+    *  [![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bc8acdc6-09bc-438c-8b12-534073ca403f/20241030T061015/bc8acdc6-09bc-438c-8b12-534073ca403f_360x203.jpg)](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
         
-        #### ['Egregious': Fife police chief calls out juvenile detention center after 'refusal' to book teen](https://www.king5.com/article/news/crime/fife-police-calls-out-juvenile-detention-center/281-5b7899cc-a350-43e2-8ae2-24d8837afdc5)
+        #### [Bellevue woman receives 16 ballots addressed to her apartment number with different names](https://www.king5.com/article/news/politics/elections/bellevue-woman-got-16-ballots-in-mail-to-her-apartment-number/281-5e559bb3-dbab-483d-8951-bfca8247b1ab)
         
-    *  [![](https://media.king5.com/assets/KING/images/6a429101-7dfd-4c72-b76b-06e19fbb2f2f/20241030T002717/6a429101-7dfd-4c72-b76b-06e19fbb2f2f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6a429101-7dfd-4c72-b76b-06e19fbb2f2f/20241030T002717/6a429101-7dfd-4c72-b76b-06e19fbb2f2f_360x203.jpg)](https://www.king5.com/article/news/crime/defense-attorneys-fall-city-quintuple-homicide-spend-day-at-crime-scene/281-f01c6317-5381-4ce1-8a8e-45165e6dc55f)
+    *  [![](https://media.king5.com/assets/KING/images/236957b3-0e2f-489c-b78e-176f1bf9a845/20240619T014858/236957b3-0e2f-489c-b78e-176f1bf9a845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/236957b3-0e2f-489c-b78e-176f1bf9a845/20240619T014858/236957b3-0e2f-489c-b78e-176f1bf9a845_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
         
-        #### [Defense attorneys in Fall City quintuple homicide spend day at crime scene](https://www.king5.com/article/news/crime/defense-attorneys-fall-city-quintuple-homicide-spend-day-at-crime-scene/281-f01c6317-5381-4ce1-8a8e-45165e6dc55f)
+        #### [Former Seattle police Chief Adrian Diaz on paid administrative leave](https://www.king5.com/article/news/local/seattle/former-seattle-police-chief-adrian-diaz-paid-leave/281-c4b7fa67-f0b5-4f59-9c64-3cd635a345b5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-49°
+45°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
