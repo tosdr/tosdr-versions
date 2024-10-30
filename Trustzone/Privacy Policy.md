@@ -11,7 +11,7 @@ Please whitelist Trust.Zone to continue.
 
 Got itHow to Whitelist
 
-**Special Deal** **Get 3-YEAR Plan for only $1.77/mo** [**Limited Offer** >>](https://trust.zone/post/missed-our-sale-here-is-62-off-coupon-code)
+**Special Deal** **Get 2 Years + 1 Year FREE !** [**Limited Offer** >>](https://trust.zone/post/trustzone-vpn-special-deal-2-years-plus-1-year-free-vpn)
 
 English
 
@@ -99,17 +99,17 @@ Home[Why Trust.Zone?](https://trust.zone/trustzone-vpn)[VPN Software](https://tr
 
 ### Latest News
 
+#### 30 October, 2024 13:37:57
+
+#### [Spooktacular Halloween Deal! 2 Years + 1 Year FREE!](https://trust.zone/post/trustzone-vpn-special-deal-2-years-plus-1-year-free-vpn)
+
+Scare away the online threats this Halloween with TrustZone VPN!  Get 2...  
+
 #### 30 October, 2024 02:12:11
 
 #### [Trust.Zone VPN Now Supports VLESS Protocol](https://trust.zone/post/trust.zone-vpn-now-supports-vless-protocol)
 
 We’re excited to share that Trust.Zone VPN now supports the VLESS protocol!...  
-
-#### 30 October, 2024 00:11:53
-
-#### [Happy Halloween! A Sweet Treat: Get 6 Months for FREE Now!](https://trust.zone/post/who-says-halloween-has-to-wait-get-6-months-for-free-now)
-
-Halloween magic is already in the air!  Find your treats with our special...  
 
 [Read News >](https://trust.zone/blog)
 
