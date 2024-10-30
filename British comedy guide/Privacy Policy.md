@@ -140,6 +140,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Athletico Mince - Steve McClaren](https://cdn.comedy.co.uk/images/library/misc/300x200/a/athletico_mince_steve_mcclaren.jpg "Athletico Mince - Steve McClaren")](https://www.comedy.co.uk/quiz/330/) Quiz
+
+[British Comedy Quiz #330](https://www.comedy.co.uk/quiz/330/)
+
+[![John Shuttleworth. Graham Fellows](https://cdn.comedy.co.uk/images/library/people/300x200/j/john_shuttleworth_2025.jpg "John Shuttleworth. Graham Fellows")](https://www.comedy.co.uk/live/random8/john-shuttleworth/) Live
+
+[Random 8: John Shuttleworth](https://www.comedy.co.uk/live/random8/john-shuttleworth/)
+
 [![The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland](https://cdn.comedy.co.uk/images/library/misc/300x200/h/horne_section_2024.jpg "The Horne Section. Image shows left to right: Ed Sheldrake, Ben Reynolds, Will Collier, Alex Horne, Mark Brown, Joe Auckland")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/) Live
 
 [The Horne Section, Maisie Adam, Rhys Nicholson, Ed Night - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-58/)
@@ -147,14 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/o/only_when_i_laugh.jpg "Only When I Laugh. Image shows from L to R: Dr. Gordon Thorpe (Richard Wilson), Roy Figgis (James Bolam), Norman Binns (Christopher Strauli), Archie Glover (Peter Bowles). Copyright: Yorkshire Television")](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/) Features
 
 [Comedy Rewind: I'm H-A-P-P-Y: Only When I Laugh](https://www.comedy.co.uk/features/comedy-rewind/only-when-i-laugh/)
-
-[![Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece](https://cdn.comedy.co.uk/images/library/misc/300x200/g/ghost_huns.jpg "Ghost Huns. Image shows left to right: Hannah Byczkowski, Suzie Preece")](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/) Live
-
-[Ghost Huns are set for their live Halloween show](https://www.comedy.co.uk/live/features/ghost-huns-halloween-interview/)
-
-[![Edy Hurst. Credit: Andy Hollingworth](https://cdn.comedy.co.uk/images/library/people/300x200/e/edy_hurst_witch.jpg "Edy Hurst. Credit: Andy Hollingworth")](https://www.comedy.co.uk/live/fgwg/edy-hurst/) Live
-
-[First Gig, Worst Gig: Edy Hurst](https://www.comedy.co.uk/live/fgwg/edy-hurst/)
 
 #### Subscribe to our newsletters
 
