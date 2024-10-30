@@ -186,12 +186,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![The 26 Special Ops soldiers who lost their lives on August 6, 2011](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Jordan VanSise](https://cdn.returningveterans.org/images/honor/Jordan_VanSise.jpg)  
 
-**In Memory of The 26 Special Ops soldiers who lost their lives on August 6, 2011**  
-United States Air Force  
-United States Navy  
-Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Jordan VanSise**  
+United States Marine Corps  
+Submitted by Penny Walraven-Engberg and David Engberg](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -234,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/29/24 - 2:35:45  
+Printed 10/29/24 - 8:27:49  
 © 2024 Returning Veterans Project
