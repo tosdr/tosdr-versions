@@ -128,39 +128,39 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+* [![Diary of a Porn Virgin](/wp-content/thumbnails/3958-100x70.png?x53432)
     
-    The Beginning and the End of the Universe
+    Diary of a Porn Virgin
     
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/diary-of-a-porn-virgin/ "Diary of a Porn Virgin")
 
 ###### Throwback Documentaries
 
-* [![The U.S. vs. John Lennon](/wp-content/thumbnails/2888-100x70.jpg?x53432)
+* [![Fresh Coast](/wp-content/thumbnails/10677-100x70.jpg?x53432)
     
-    The U.S. vs. John Lennon
+    Fresh Coast
     
-    A fascinating account of a relatively unknown piece of political history. Before the Iraq war and the Bush Administration, there was John Lennon, who used his fame and fortune to protest the Vietnam W](https://documentaryheaven.com/the-u-s-vs-john-lennon/ "The U.S. vs. John Lennon")
-* [![Children’s Past Lives](/wp-content/thumbnails/14656-100x70.jpg?x53432)
+    'Fresh Coast' is a documentary which sets about chronicling the legacy of some of the most prolific and influential battle rappers located deep within California's underworld grass roots hip-hop scene](https://documentaryheaven.com/fresh-coast/ "Fresh Coast")
+* [![The Link: Uncovering Our Earliest Ancestor](/wp-content/thumbnails/6580-100x70.jpg?x53432)
     
-    Children’s Past Lives
+    The Link: Uncovering Our Earliest Ancestor
     
-    Around the world children from different backgrounds and religions have described a life they have lived before. The belief in the survival of the soul in an ancient one but the fact that these childr](https://documentaryheaven.com/childrens-past-lives/ "Children’s Past Lives")
-* [![Money, Banking, and The Federal Reserve System](/wp-content/thumbnails/2172-100x70.jpg?x53432)
+    Uncovering Our Earliest Ancestor: The Link, tells the story of an important scientific development that could tell us more about where we come from.The fossil, known as Ida, could be an indication o](https://documentaryheaven.com/the-link-uncovering-our-earliest-ancestor/ "The Link: Uncovering Our Earliest Ancestor")
+* [![Riddles in Stone: The Secret Architecture of Washington D.C.](/wp-content/thumbnails/975-100x70.jpg?x53432)
     
-    Money, Banking, and The Federal Reserve System
+    Riddles in Stone: The Secret Architecture of Washington D.C.
     
-    Thomas Jefferson and Andrew Jackson understood “The Monster”. But to most Americans today, Federal Reserve is just a name on the dollar bill. They have no idea of what the central bank does to the eco](https://documentaryheaven.com/money-banking-and-the-federal-reserve-system/ "Money, Banking, and The Federal Reserve System")
-* [![The Greatest Raid of All](/wp-content/thumbnails/7822-100x70.jpg?x53432)
+    This documentary explores the highly controversial subject of the design of America’s capital. Was the city built to reflect the majesty of America’s new found freedom? Or the hidden agenda of secret](https://documentaryheaven.com/riddles-in-stone-the-secret-architecture-of-washington-d-c/ "Riddles in Stone: The Secret Architecture of Washington D.C.")
+* [![The Life And Crimes of Citizen Ming](/wp-content/thumbnails/5684-100x70.jpg?x53432)
     
-    The Greatest Raid of All
+    The Life And Crimes of Citizen Ming
     
-    What a story it is, straight out of a Commando comic book." the guardian Jeremy Clarkson tells the story of one of the most daring operations of World War II, the Commando raid on the German occupied](https://documentaryheaven.com/greatest-raid/ "The Greatest Raid of All")
-* [![Streets of Plenty](/wp-content/thumbnails/4210-100x70.jpg?x53432)
+    Luke 'Ming' Flanagan is an Irish politician and social campaigner. He began his political career running unsuccessfully as an independent candidate in the Galway West constituency in 1997, and went on](https://documentaryheaven.com/the-life-and-crimes-of-citizen-ming/ "The Life And Crimes of Citizen Ming")
+* [![The Real ‘Wolf of Wall Street’?](/wp-content/thumbnails/9339-100x70.jpg?x53432)
     
-    Streets of Plenty
+    The Real ‘Wolf of Wall Street’?
     
-    An unprecedented look into the underworld of Vancouver’s downtown east-side ghetto. This 65 minute documentary follows one man’s 30 day experiment of joining the thousands of homeless, ill, and addict](https://documentaryheaven.com/streets-of-plenty/ "Streets of Plenty")
+    The Oscar nominated movie Wolf on Wall Street was famously based on the story of Jordan Belfort, a crooked investment banker who made his money selling worthless stocks at a high price but according t](https://documentaryheaven.com/real-wolf-of-wall-street/ "The Real ‘Wolf of Wall Street’?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
