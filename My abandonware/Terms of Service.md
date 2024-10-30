@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Sky Target](https://www.myabandonware.com/game/sky-target-bx6)
+* [Steeplechase](https://www.myabandonware.com/game/steeplechase-h37)
+* [3D Asteroid Impact](https://www.myabandonware.com/game/3d-asteroid-impact-smv)
 * [Gunpey EX](https://www.myabandonware.com/game/gunpey-ex-t3k)
 * [Guilty Gear Petit](https://www.myabandonware.com/game/guilty-gear-petit-t3j)
-* [Guilty Gear Petit 2](https://www.myabandonware.com/game/guilty-gear-petit-2-t3i)
-* [Flash Koibito-kun](https://www.myabandonware.com/game/flash-koibito-kun-t3h)
-* [Final Fantasy](https://www.myabandonware.com/game/final-fantasy-t3g)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
