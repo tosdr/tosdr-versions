@@ -107,21 +107,21 @@ October 8, 2024
 
 [kate directed by humphreyomega](https://yiff-party.com/yiff/kate-directed-by-humphreyomega/)
 
-0 304 1
+0 318 1
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/duaran-xbox-game-studios-and-etc-created-by-voidpastelchalk/)
+[](https://yiff-party.com/yiff/firefox-and-etc-created-by-shmike1/)
 
-[duaran (xbox game studios and etc) created by voidpastelchalk](https://yiff-party.com/yiff/duaran-xbox-game-studios-and-etc-created-by-voidpastelchalk/)
+[firefox and etc created by shmike1](https://yiff-party.com/yiff/firefox-and-etc-created-by-shmike1/)
 
-0 152 0
+0 60 0
 
-September 30, 2024
+October 1, 2024
 
-[](https://yiff-party.com/yiff/hiona-mythology-created-by-sterr/)
+[](https://yiff-party.com/yiff/sabuke-directed-by-palekemono-director/)
 
-[hiona (mythology) created by sterr](https://yiff-party.com/yiff/hiona-mythology-created-by-sterr/)
+[sabuke directed by palekemono (director)](https://yiff-party.com/yiff/sabuke-directed-by-palekemono-director/)
 
 0 2 0
 
