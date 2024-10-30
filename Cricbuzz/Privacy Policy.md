@@ -100,6 +100,10 @@ AllLive NowToday
     
     Elite Group A
     
+* [Kerala vs Bengal](https://www.cricbuzz.com/live-cricket-scores/97495/ker-vs-ben-elite-group-c-ranji-trophy "Kerala v Bengal, Elite Group C - Match drawn")
+    
+    Elite Group C
+    
 * [Bihar vs Karnataka](https://www.cricbuzz.com/live-cricket-scores/97486/bih-vs-kar-elite-group-c-ranji-trophy "Bihar v Karnataka, Elite Group C - KAR Won")
     
     Elite Group C
@@ -107,42 +111,6 @@ AllLive NowToday
 * [Jharkhand vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/97513/jhkd-vs-cdg-elite-group-d-ranji-trophy "Jharkhand v Chandigarh, Elite Group D - CDG Won")
     
     Elite Group D
-    
-* [Kerala vs Bengal](https://www.cricbuzz.com/live-cricket-scores/97495/ker-vs-ben-elite-group-c-ranji-trophy "Kerala v Bengal, Elite Group C - Match drawn")
-    
-    Elite Group C
-    
-* [Odisha vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97432/odsa-vs-brd-elite-group-a-ranji-trophy "Odisha v Baroda, Elite Group A - BRD Won")
-    
-    Elite Group A
-    
-* [Railways vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97529/rlys-vs-saur-elite-group-d-ranji-trophy "Railways v Saurashtra, Elite Group D - RLYS Won")
-    
-    Elite Group D
-    
-* [Vidarbha vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97477/vid-vs-utk-elite-group-b-ranji-trophy "Vidarbha v Uttarakhand, Elite Group B - VID Won")
-    
-    Elite Group B
-    
-* [Chhattisgarh vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97522/cg-vs-tn-elite-group-d-ranji-trophy "Chhattisgarh v Tamil Nadu, Elite Group D - Match drawn")
-    
-    Elite Group D
-    
-* [Hyderabad vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97473/hyd-vs-pdc-elite-group-b-ranji-trophy "Hyderabad v Puducherry, Elite Group B - HYD Won")
-    
-    Elite Group B
-    
-* [Andhra vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97466/ap-vs-hp-elite-group-b-ranji-trophy "Andhra v Himachal Pradesh, Elite Group B - HP Won")
-    
-    Elite Group B
-    
-* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - DEL Won")
-    
-    Elite Group D
-    
-* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Match drawn")
-    
-    Elite Group B
     
 * [Punjab vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/97509/pun-vs-up-elite-group-c-ranji-trophy "Punjab v Uttar Pradesh, Elite Group C - Match drawn")
     
@@ -160,6 +128,38 @@ AllLive NowToday
     
     Elite Group A
     
+* [Odisha vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97432/odsa-vs-brd-elite-group-a-ranji-trophy "Odisha v Baroda, Elite Group A - BRD Won")
+    
+    Elite Group A
+    
+* [Vidarbha vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/97477/vid-vs-utk-elite-group-b-ranji-trophy "Vidarbha v Uttarakhand, Elite Group B - VID Won")
+    
+    Elite Group B
+    
+* [Railways vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97529/rlys-vs-saur-elite-group-d-ranji-trophy "Railways v Saurashtra, Elite Group D - RLYS Won")
+    
+    Elite Group D
+    
+* [Hyderabad vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97473/hyd-vs-pdc-elite-group-b-ranji-trophy "Hyderabad v Puducherry, Elite Group B - HYD Won")
+    
+    Elite Group B
+    
+* [Chhattisgarh vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97522/cg-vs-tn-elite-group-d-ranji-trophy "Chhattisgarh v Tamil Nadu, Elite Group D - Match drawn")
+    
+    Elite Group D
+    
+* [Andhra vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/97466/ap-vs-hp-elite-group-b-ranji-trophy "Andhra v Himachal Pradesh, Elite Group B - HP Won")
+    
+    Elite Group B
+    
+* [Gujarat vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97457/guj-vs-raj-elite-group-b-ranji-trophy "Gujarat v Rajasthan, Elite Group B - Match drawn")
+    
+    Elite Group B
+    
+* [Assam vs Delhi](https://www.cricbuzz.com/live-cricket-scores/97511/asm-vs-del-elite-group-d-ranji-trophy "Assam v Delhi, Elite Group D - DEL Won")
+    
+    Elite Group D
+    
 * Ranji Trophy Plate
     
     [Mizoram vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98141/miz-vs-mnp-plate-ranji-trophy-plate "Mizoram v Manipur, Plate - MIZ Won")
@@ -176,7 +176,7 @@ AllLive NowToday
     
 * CSA Four-Day Series Division One 2024-25
     
-    [Dolphins vs Western Province](https://www.cricbuzz.com/live-cricket-scores/104732/dol-vs-wpr-1st-match-csa-four-day-series-division-one-2024-25 "Dolphins v Western Province, 1st Match - Toss")
+    [Western Province vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/104732/wpr-vs-dol-1st-match-csa-four-day-series-division-one-2024-25 "Western Province v Dolphins, 1st Match - Stumps")
     
     1st Match
     
@@ -190,13 +190,13 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Upcoming")
-    
-    8th Match
-    
-* [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Upcoming")
+    [New South Wales vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102880/nsw-vs-ql-7th-match-sheffield-shield-2024-25 "New South Wales v Queensland, 7th Match - Upcoming")
     
     7th Match
+    
+* [Tasmania vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102882/tas-vs-wa-8th-match-sheffield-shield-2024-25 "Tasmania v Western Australia, 8th Match - Upcoming")
+    
+    8th Match
     
 * [South Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102889/saus-vs-vic-9th-match-sheffield-shield-2024-25 "South Australia v Victoria, 9th Match - Upcoming")
     
@@ -210,17 +210,17 @@ AllLive NowToday
     
 * The Ford Trophy 2024-25
     
-    [Canterbury vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107297/cntbry-vs-akl-10th-match-the-ford-trophy-2024-25 "Canterbury v Auckland, 10th Match - AKL Won")
-    
-    10th Match
-    
-* [Wellington vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107307/wel-vs-nk-12th-match-the-ford-trophy-2024-25 "Wellington v Northern Knights, 12th Match - WEL Won")
+    [Wellington vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107307/wel-vs-nk-12th-match-the-ford-trophy-2024-25 "Wellington v Northern Knights, 12th Match - WEL Won")
     
     12th Match
     
 * [Central Districts vs Otago](https://www.cricbuzz.com/live-cricket-scores/107299/cd-vs-otg-11th-match-the-ford-trophy-2024-25 "Central Districts v Otago, 11th Match - CD Won")
     
     11th Match
+    
+* [Canterbury vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107297/cntbry-vs-akl-10th-match-the-ford-trophy-2024-25 "Canterbury v Auckland, 10th Match - AKL Won")
+    
+    10th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
@@ -262,19 +262,13 @@ AllLive NowToday
     
     9th Match
     
-* USA Women tour of Zimbabwe, 2024
-    
-    [Zimbabwe Women vs United States of America Women](https://www.cricbuzz.com/live-cricket-scores/108707/zimw-vs-usaw-5th-odi-usa-women-tour-of-zimbabwe-2024 "Zimbabwe Women v United States of America Women, 5th ODI - USAW Won")
-    
-    5th ODI
-    
 * Kenya Women tour of Rwanda 2024
     
     [Rwanda Women vs Kenya Women](https://www.cricbuzz.com/live-cricket-scores/109281/rwaw-vs-kenw-1st-t20i-kenya-women-tour-of-rwanda-2024 "Rwanda Women v Kenya Women, 1st T20I - RWAW Won")
     
     1st T20I
     
-* [Kenya Women vs Rwanda Women](https://www.cricbuzz.com/live-cricket-scores/109285/kenw-vs-rwaw-2nd-t20i-kenya-women-tour-of-rwanda-2024 "Kenya Women v Rwanda Women, 2nd T20I - Complete")
+* [Kenya Women vs Rwanda Women](https://www.cricbuzz.com/live-cricket-scores/109285/kenw-vs-rwaw-2nd-t20i-kenya-women-tour-of-rwanda-2024 "Kenya Women v Rwanda Women, 2nd T20I - KENW Won")
     
     2nd T20I
     
@@ -288,7 +282,7 @@ AllLive NowToday
     
     9th Match
     
-* [Kuwait Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/108889/kuww-vs-mmrw-final-singapore-womens-t20i-tri-series-2024 "Kuwait Women v Myanmar Women, Final - Complete")
+* [Kuwait Women vs Myanmar Women](https://www.cricbuzz.com/live-cricket-scores/108889/kuww-vs-mmrw-final-singapore-womens-t20i-tri-series-2024 "Kuwait Women v Myanmar Women, Final - MMRW Won")
     
     Final
     
@@ -599,39 +593,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132271/srh-add-travis-head-nitish-reddy-to-complete-five-retentions "SRH add Travis Head, Nitish Reddy to complete five retentions")
+  [](https://www.cricbuzz.com/cricket-news/132278/south-africas-runs-in-asia-have-been-a-long-time-coming "South Africa's runs in Asia have been a long time coming")
 
-[SRH add Travis Head, Nitish Reddy to complete five retentions](https://www.cricbuzz.com/cricket-news/132271/srh-add-travis-head-nitish-reddy-to-complete-five-retentions "SRH add Travis Head, Nitish Reddy to complete five retentions")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132270/bangladesh-cave-in-after-south-africas-massive-total " Bangladesh cave in after South Africa's massive total")
-
-[Bangladesh cave in after South Africa's massive total](https://www.cricbuzz.com/cricket-news/132270/bangladesh-cave-in-after-south-africas-massive-total " Bangladesh cave in after South Africa's massive total")
+[South Africa's runs in Asia have been a long time coming](https://www.cricbuzz.com/cricket-news/132278/south-africas-runs-in-asia-have-been-a-long-time-coming "South Africa's runs in Asia have been a long time coming")
 
 2h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132269/shakib-al-hasan-available-for-afghanistan-series-bcb-president "Shakib Al Hasan available for Afghanistan series - BCB president")
+  [](https://www.cricbuzz.com/cricket-news/132277/england-return-to-the-caribbean-with-one-eye-on-the-champions-trophy "England return to the Caribbean with one eye on the Champions Trophy")
 
-[Shakib Al Hasan available for Afghanistan series - BCB president](https://www.cricbuzz.com/cricket-news/132269/shakib-al-hasan-available-for-afghanistan-series-bcb-president "Shakib Al Hasan available for Afghanistan series - BCB president")
+[England return to the Caribbean with one eye on the Champions Trophy](https://www.cricbuzz.com/cricket-news/132277/england-return-to-the-caribbean-with-one-eye-on-the-champions-trophy "England return to the Caribbean with one eye on the Champions Trophy")
 
-2h ago
+3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132268/a-different-kind-of-spotlight-on-virat-kohli-and-rohit-sharma "A different kind of spotlight on Kohli and Rohit")
+  [](https://www.cricbuzz.com/cricket-news/132276/ipl-retentions-focus-on-futures-of-shreyas-rahul-pant-as-deadline-approaches "IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches")
 
-[A different kind of spotlight on Kohli and Rohit](https://www.cricbuzz.com/cricket-news/132268/a-different-kind-of-spotlight-on-virat-kohli-and-rohit-sharma "A different kind of spotlight on Kohli and Rohit")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132267/century-stand-takes-south-africa-past-500 " Century stand takes South Africa past 500")
-
-[Century stand takes South Africa past 500](https://www.cricbuzz.com/cricket-news/132267/century-stand-takes-south-africa-past-500 " Century stand takes South Africa past 500")
+[IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches](https://www.cricbuzz.com/cricket-news/132276/ipl-retentions-focus-on-futures-of-shreyas-rahul-pant-as-deadline-approaches "IPL Retentions: Focus on futures of Shreyas, Rahul, Pant as deadline approaches")
 
 4h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132266/shreyas-iyer-unlikely-to-be-retained-by-kkr "Shreyas Iyer unlikely to be retained by KKR")
+  [](https://www.cricbuzz.com/cricket-news/132275/georgia-redmayne-grace-parsons-help-brisbane-heat-win-two-in-two "Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two")
 
-[Shreyas Iyer unlikely to be retained by KKR](https://www.cricbuzz.com/cricket-news/132266/shreyas-iyer-unlikely-to-be-retained-by-kkr "Shreyas Iyer unlikely to be retained by KKR")
+[Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two](https://www.cricbuzz.com/cricket-news/132275/georgia-redmayne-grace-parsons-help-brisbane-heat-win-two-in-two "Georgia Redmayne, Grace Parsons help Brisbane Heat win two in two")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132274/mushtaq-ahmed-bemoans-bangladeshs-lack-of-game-awareness "Mushtaq Ahmed bemoans Bangladesh's lack of game awareness ")
+
+[Mushtaq Ahmed bemoans Bangladesh's lack of game awareness](https://www.cricbuzz.com/cricket-news/132274/mushtaq-ahmed-bemoans-bangladeshs-lack-of-game-awareness "Mushtaq Ahmed bemoans Bangladesh's lack of game awareness ")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132273/danni-wyatt-hodge-traded-to-rcb-from-up-warriorz "Danni Wyatt-Hodge traded to RCB from UP Warriorz")
+
+[Danni Wyatt-Hodge traded to RCB from UP Warriorz](https://www.cricbuzz.com/cricket-news/132273/danni-wyatt-hodge-traded-to-rcb-from-up-warriorz "Danni Wyatt-Hodge traded to RCB from UP Warriorz")
 
 5h ago
 
