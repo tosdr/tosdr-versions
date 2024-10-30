@@ -519,9 +519,8 @@ Our locations
 Floor 11  
 New York, NY 10016
 
-1 Old Street Yard  
-Floor 3  
-London, UK EC1Y 2AS
+60 London Wall  
+London, UK EC2M 5TQ
 
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda09eb48dafb5644be8e_iab.svg)](https://www.iab.com/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda09cfc7ccedc2998bb9_verisign.svg)](https://www.verisign.com/en_US/website-presence/online/ssl-certificates/index.xhtml?loc=en_US)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda0911ffd12ff051f00e_tag-registered.svg)](https://www.tagtoday.net/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda72bc78c04f95bdaa99__adchoices%201.svg)](https://youradchoices.com/)
 
