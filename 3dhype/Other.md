@@ -1,16 +1,38 @@
 [Skip to content](#content "Skip to content")
 
+* [Facebook](https://www.facebook.com/Patis199/)
+* [Pinterest](https://www.pinterest.com/casihelper199/)
+* [Instagram](https://www.instagram.com/casihelper_recipe/)
+
 [![casihelper](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20113'%3E%3C/svg%3E)
 
 ![casihelper](https://casihelper.com/wp-content/uploads/2024/08/casihelper-1.webp)](https://casihelper.com/)
 
+[](#)[](#)
+
 Menu
 
-* [Home](https://casihelper.com/)
+Menu
+
+* [home](https://casihelper.com/)
 * [RECIPE TODAY](https://casihelper.com/category/recipe-today/)
-* [Quick Recipes](https://casihelper.com/category/quick-recipes/)
 * [Breakfast](https://casihelper.com/category/breakfast/)
-* [Blog](https://casihelper.com/category/blog/)
+* [Quick Recipes](https://casihelper.com/category/quick-recipes/)
+* [About Us](https://casihelper.com/about-us/)
+* [Contact](https://casihelper.com/contact/)
+
+[](#)[](#)
+
+[![casihelper](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%2080'%3E%3C/svg%3E)
+
+![casihelper](https://casihelper.com/wp-content/uploads/2024/10/CasiHelper-3.png)](https://casihelper.com/ "casihelper")
+
+Menu
+
+* [home](https://casihelper.com/)
+* [RECIPE TODAY](https://casihelper.com/category/recipe-today/)
+* [Breakfast](https://casihelper.com/category/breakfast/)
+* [Quick Recipes](https://casihelper.com/category/quick-recipes/)
 * [About Us](https://casihelper.com/about-us/)
 * [Contact](https://casihelper.com/contact/)
 
@@ -190,15 +212,7 @@ Footer
 * [Terms of Service](https://casihelper.com/terms-of-service/)
 * [Contact](https://casihelper.com/contact/)
 
-© 2024 Casihelper
-
-* [Home](https://casihelper.com/)
-* [RECIPE TODAY](https://casihelper.com/category/recipe-today/)
-* [Quick Recipes](https://casihelper.com/category/quick-recipes/)
-* [Breakfast](https://casihelper.com/category/breakfast/)
-* [Blog](https://casihelper.com/category/blog/)
-* [About Us](https://casihelper.com/about-us/)
-* [Contact](https://casihelper.com/contact/)
+© Casihelper 2024
 
 Close
 
