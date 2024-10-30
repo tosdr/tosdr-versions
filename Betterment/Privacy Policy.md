@@ -51,7 +51,7 @@ See solutions for
 Privacy Policy
 ==============
 
-Last updated August 30, 2024
+Last updated October 30, 2024
 
 Introduction
 ------------
@@ -233,6 +233,8 @@ When you choose to create an account with Betterment, we will also collect certa
 
 Betterment conducts identity verification through Socure, which may also require the collection of facial images, such as headshots from your identification card and selfie photographs. Socure also collects information about the device accessing a Betterment account to analyze the risk of fraud. By creating an account with Betterment, you acknowledge and agree that the terms of [Socure’s Privacy Policy](http://www.socure.com/privacy) will govern Socure’s use of such information.
 
+Additionally, by creating an account with Betterment, you authorize your wireless carrier to use or disclose information about your wireless account and your wireless device, if available, to Betterment. We and certain service providers use this information solely for security purposes and fraud prevention, including to identify you or your wireless device.
+
 Betterment offers account linking and aggregation services through Plaid Inc. ("Plaid"). By using account linking and aggregation services, you acknowledge and agree that the terms of [Plaid's Privacy Policy](https://plaid.com/legal/#end-user-privacy-policy) will govern Plaid's use of such information, and you expressly agree to the terms and conditions of Plaid's Privacy Policy. Further, you expressly grant Plaid the right, power, and authority to access and transmit your information as reasonably necessary for Plaid to provide these services to you. Betterment will collect information about the transactions associated with, and the cash flows into and out of, accounts linked through Plaid.
 
 Betterment uses Stripe, Inc. (“Stripe”) to process customer payments. By using these payment services, you acknowledge and agree to the terms of [Stripe’s Privacy Policy](https://stripe.com/privacy). Further, you expressly grant Stripe the right, power, and authority to access, store, and transmit your payment information as reasonably necessary for Stripe to provide these services to you.
@@ -319,6 +321,8 @@ If you use a Betterment Visa® Debit Card, Betterment will share the transaction
 
 If you open a Betterment Crypto investing account, Betterment will share information with Gemini and/or its affiliates for purposes relating to your account.
 
+If you choose to import your Betterment tax information into TurboTax, Betterment will share your tax documents from your Betterment account with Intuit TurboTax. You acknowledge and agree that the terms of Intuit’s [Privacy Policy](https://www.intuit.com/privacy/statement/) will govern Intuit’s use of such information.
+
 In order to provide workplace services to employers or plan sponsors through the Betterment at Work platform, such as retirement savings plan services, recordkeeping services, and student loan management services, we may exchange any information received in connection with such services with the employer or plan sponsor or others they may authorize, such as an employer-selected investment professional. We may also share information, including but not limited to account positions, contributions, distributions, and cash flows, with a third-party financial institution that serves as a directed trustee to 401(k) plans serviced by Betterment for Business and its affiliates.
 
 Further, if your employer has engaged a third-party advisor to provide advisory and/or investment management services to the 401(k) plan, Betterment is authorized by your employer to share your information with the third-party advisor, and the third-party advisor may use your information to provide investment advisory services or market its other services to you.
@@ -393,7 +397,7 @@ We may modify this privacy policy over time without prior notice by posting a ne
 
 Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that their child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate their account. 
 
-                                                  
+                                                   
 
 U.S. State Privacy Notice and California Notice at Collection
 -------------------------------------------------------------
