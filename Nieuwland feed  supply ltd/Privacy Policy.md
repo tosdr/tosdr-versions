@@ -198,6 +198,7 @@ Nieuwland Feed & Supply Ltd. will update this policy and post the updated policy
 * [Cookies](https://nieuwlandfeed.com/cookie-policy)
 * [Privacy](https://nieuwlandfeed.com/privacy-policy)
 * [Terms](https://nieuwlandfeed.com/terms-of-use)
+* [Accessibility](https://nieuwlandfeed.com/wp-content/uploads/2024/10/Accessibility-Plan.pdf)
 
 #### Hours
 
