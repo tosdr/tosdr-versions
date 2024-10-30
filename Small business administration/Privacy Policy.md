@@ -445,7 +445,7 @@ Washington, DC 20416
 
 [![SBA-X](/themes/custom/sba/dist/img/sba-icons/xlogo.svg)](https://twitter.com/sbagov)
 
-[![SBA-YouTube](/themes/custom/sba/dist/img/sba-icons/youtube.svg)](https://youtube.com/user/sba)
+[![SBA-YouTube](/themes/custom/sba/dist/img/sba-icons/youtube.svg)](https://www.youtube.com/sbagov)
 
 [![SBA-Linkedin](/themes/custom/sba/dist/img/sba-icons/linkedin.svg)](https://linkedin.com/company/us-small-business-administration)
 
