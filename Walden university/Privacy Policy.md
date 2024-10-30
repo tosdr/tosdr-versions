@@ -248,7 +248,7 @@ Search Search Close
             * [PhD in Human Services](https://www.waldenu.edu/online-doctoral-programs/phd-in-human-services)
             * [PhD in Social Work](https://www.waldenu.edu/online-doctoral-programs/phd-in-social-work)
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services)
-    * [Education Specialist](https://www.waldenu.edu/education-specialist)
+    * Education Specialist
         * EDUCATION SPECIALIST PROGRAMS
         * Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.
         * [EdS in Curriculum, Instruction, and Assessment](https://www.waldenu.edu/education-specialist/eds-in-curriculum-instruction-and-assessment)
@@ -276,7 +276,7 @@ Search Search Close
     * Non-Degree Options
         * NON-DEGREE PROGRAMS
         * [View All Non-Degree Options](https://www.waldenu.edu/school-of-lifelong-learning)
-* [Financing](https://www.waldenu.edu/financial-aid)
+* Financing
     * Explore ways to fund your degree.
     * As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.
     * [Tuition and Financial Aid Overview](https://www.waldenu.edu/financial-aid)
@@ -660,7 +660,7 @@ Call Us: [**8556465286**](tel:8556465286)
             * [All Social Work & Human Services Programs](https://www.waldenu.edu/programs/social-work-human-services "All Social Work & Human Services Programs")
             
         
-    * [Education Specialist](https://www.waldenu.edu/education-specialist "Education Specialist")
+    * [Education Specialist](# "Education Specialist")
         
         * [EDUCATION SPECIALIST PROGRAMS](# "EDUCATION SPECIALIST PROGRAMS")
         * [Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.](# "Advance as an education leader and problem-solver with an online Education Specialist (EdS) degree from Walden.")
@@ -784,7 +784,7 @@ Call Us: [**8556465286**](tel:8556465286)
     
     Call Us: [**8556465286**](tel:8556465286)
     
-* [Financing](https://www.waldenu.edu/financial-aid "Financing")
+* [Financing](# "Financing")
     
     * [Explore ways to fund your degree.](# "Explore ways to fund your degree.")
     * [As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.](# "As part of our commitment to reducing barriers to higher education, Walden offers many options to make your degree more affordable.")
