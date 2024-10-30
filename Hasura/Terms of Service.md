@@ -1,4 +1,4 @@
-[We'll be at GitHub Universe! See a sneak peak of our AI solution or book a meeting](https://hasura.io/events/github-universe)
+[Dev Day: Data Access for your AI](https://hasura.io/events/launch/data-access-for-your-ai)
 
 [![Hasura Logo](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
