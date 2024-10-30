@@ -55,19 +55,19 @@ Main navigation
     
     [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [Holiday Drama New!](https://www.morphe.com/pages/holiday-drama) [Mixed Signals Shadow Sticks](https://www.morphe.com/products/mixed-signals-dual-ended-cream-liquid-shadow-stick-flirtatious-faithful) [Brow Tease Mousse](https://www.morphe.com/products/brow-tease-fiber-infused-volumizing-mousse-almond) [Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
     
-    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+    [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
-    #### How To Prep & Set Your Makeup All Summer
+    #### Totally Fall For These Morphe Makeup Favorites
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
-    #### 10 Morphe Makeup Must-Haves You Need for Summer
+    #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Makeup
     
@@ -87,13 +87,13 @@ Main navigation
     
     [Complexion](https://www.morphe.com/collections/face-complexion) [Prime & Set](https://www.morphe.com/collections/prime-set) [Cheek](https://www.morphe.com/pages/cheeks) [All Face](https://www.morphe.com/collections/face)
     
-    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+    [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
-    #### How To Prep & Set Your Makeup All Summer
+    #### Totally Fall For These Morphe Makeup Favorites
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
 * ### Brushes & Tools
     
@@ -109,19 +109,19 @@ Main navigation
     
     [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators) [Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
     
-    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+    [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
-    #### How To Prep & Set Your Makeup All Summer
+    #### Totally Fall For These Morphe Makeup Favorites
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
-    #### 10 Morphe Makeup Must-Haves You Need for Summer
+    #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Sets & Gifts
     
@@ -133,19 +133,19 @@ Main navigation
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gifts-under-25) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
-    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+    [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
-    #### How To Prep & Set Your Makeup All Summer
+    #### Totally Fall For These Morphe Makeup Favorites
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)[![10 Morphe Makeup Must-Haves You Need for Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-SummerProducts-1020x580_600x.jpg?v=1724185169)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
-    #### 10 Morphe Makeup Must-Haves You Need for Summer
+    #### How to Incorporate Glitter Into Your Holiday Glam
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/10-morphe-makeup-must-haves-you-need-for-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Discover
     
@@ -165,13 +165,13 @@ Main navigation
     
     [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
     
-    [![How To Prep & Set Your Makeup All Summer](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MakeupPrep-1020x580-1_600x.jpg?v=1724199599)
+    [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
-    #### How To Prep & Set Your Makeup All Summer
+    #### Totally Fall For These Morphe Makeup Favorites
     
-    Aug 20, 24
+    Oct 29, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-prep-set-your-makeup-all-summer)
+    ![clock icon](//www.morphe.com/cdn/shop/t/909/assets/clock-icon.svg?v=42723469760392072181729102753) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
 
 [Find your shade](https://www.morphe.com/pages/lightform-shade-finder)
