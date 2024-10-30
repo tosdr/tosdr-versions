@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-78d734334ef5ef12e6a5c4fdf5a3e365
+b87c1a4d9ba3407bc3b6b80398c841a9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage German purple striped hexagon beads](https://sojourner.biz/images/cache/glass/GL0092.200.jpg)](https://sojourner.biz/beads/glass/vintage-german-purple-striped-hexagon-beads.html "Vintage German purple striped hexagon beads")
+[![4 mm round amazonite beads](https://sojourner.biz/images/cache/stone/AMZ0002.200.jpg)](https://sojourner.biz/beads/stone-a-l/amazonite/4-mm-round-amazonite-beads.html "4 mm round amazonite beads")
 
-#### [Vintage German purple striped hexagon beads](https://sojourner.biz/beads/glass/vintage-german-purple-striped-hexagon-beads.html "Vintage German purple striped hexagon beads")
+#### [4 mm round amazonite beads](https://sojourner.biz/beads/stone-a-l/amazonite/4-mm-round-amazonite-beads.html "4 mm round amazonite beads")
 
-$25.00
+$21.00
 
 ### Best Sellers
 
