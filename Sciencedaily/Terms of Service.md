@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 29, 2024**
+**October 30, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
-
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
+
+[Bone and Spine](https://www.sciencedaily.com/news/health_medicine/bone_and_spine/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
-
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
   
 
