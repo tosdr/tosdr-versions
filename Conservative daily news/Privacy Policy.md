@@ -2,14 +2,14 @@ Wednesday, October 30 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: This Election Boils Down To Real Vs Fake, Strong Vs. Weak](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
+* [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
+* [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
+* [President Joe Biden’s Schedule for Wednesday, October 30, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
+* [The Closing Argument Of A MAGA Supporter](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
 * [The Morally Bankrupt Entertainment Industry Enabled by Subliminally Forced Conversions](https://www.conservativedailynews.com/2024/10/the-morally-bankrupt-entertainment-industry-enabled-by-subliminally-forced-conversions/)
 * [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
 * [The Arrogant “News” Media’s Complete Lack of Self-Knowledge](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
-* [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
-* [Kamala Believes Her Followers Are As Oblivious As She Is](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
-* [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
-* [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
-* [President Joe Biden’s Schedule for Tuesday, October 29, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-29-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -130,65 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [The Morally Bankrupt Entertainment Industry Enabled by Subliminally Forced Conversions](https://www.conservativedailynews.com/2024/10/the-morally-bankrupt-entertainment-industry-enabled-by-subliminally-forced-conversions/)
+* [![Donald Trump energizer bunny keeps going](https://www.conservativedailynews.com/wp-content/uploads/2024/10/06-hienergy-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
     
-    October 29, 2024
+    [The Beat Goes On](https://www.conservativedailynews.com/2024/10/the-beat-goes-on/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5705-scaled-e1730213386127-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
+    October 30, 2024
     
-    [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/trump-harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
     
-    October 29, 2024
+    [America In The Age Of Stupidity: This Election Boils Down To Real Vs Fake, Strong Vs. Weak](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-this-election-boils-down-to-real-vs-fake-strong-vs-weak/)
     
-* [![Media bias](https://www.conservativedailynews.com/wp-content/uploads/2024/08/05-lights-out-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
+    October 30, 2024
     
-    [The Arrogant “News” Media’s Complete Lack of Self-Knowledge](https://www.conservativedailynews.com/2024/10/the-arrogant-news-medias-complete-lack-of-self-knowledge/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
     
-    October 29, 2024
+    [Supreme Court Denies RFK Jr.’s Bid To Be Removed From Ballots In Two Key Swing States](https://www.conservativedailynews.com/2024/10/supreme-court-denies-rfk-jr-s-bid-to-be-removed-from-ballots-in-two-key-swing-states/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/05-demcostum-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/costume-faux-pas/)
+    October 30, 2024
     
-    [Costume Faux Pas](https://www.conservativedailynews.com/2024/10/costume-faux-pas/)
+* [![ATF logo and ammo](https://www.conservativedailynews.com/wp-content/uploads/2017/10/ATF-logo-and-ammo-e1507237007781.png)](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
     
-    October 29, 2024
+    [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.conservativedailynews.com/2024/10/ghost-guns-or-unchecked-agency-power/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Jeff-Bezos.png)](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
+    October 30, 2024
     
-    [Bezos Speaks Out After WaPo Chose Not To Endorse Harris](https://www.conservativedailynews.com/2024/10/bezos-speaks-out-after-wapo-chose-not-to-endorse-harris/)
+* [![Halloween biden trick debt](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-66-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
     
-    October 29, 2024
+    [President Joe Biden’s Schedule for Wednesday, October 30, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-30-2024/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5697-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
+    October 30, 2024
     
-    [Kamala Believes Her Followers Are As Oblivious As She Is](https://www.conservativedailynews.com/2024/10/kamala-believes-her-followers-are-as-oblivious-as-she-is/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg103024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trick-or-treat/)
     
-    October 29, 2024
+    [Trick or Treat](https://www.conservativedailynews.com/2024/10/trick-or-treat/)
     
-* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
+    October 30, 2024
     
-    [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/)
+* [![Top 10 new cars under 18000](https://www.conservativedailynews.com/wp-content/uploads/2017/05/Top-10-new-cars-under-18000.png)](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/)
     
-    October 29, 2024
+    [Realistically Simple Ways to Make Your Car (Virtually) Unstealable](https://www.conservativedailynews.com/2024/10/realistically-simple-ways-to-make-your-car-virtually-unstealable/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
+    October 30, 2024
     
-    [Virginia Asks Supreme Court To Let It Remove Noncitizens From Voter Rolls](https://www.conservativedailynews.com/2024/10/virginia-asks-supreme-court-to-let-it-remove-noncitizens-from-voter-rolls/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5706-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
     
-    October 29, 2024
+    [The Closing Argument Of A MAGA Supporter](https://www.conservativedailynews.com/2024/10/the-closing-argument-of-a-maga-supporter/)
+    
+    October 30, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NYC’s Subway AI Weapons Scanners Fail to Find a Single Gun](https://www.thegunpage.com/nycs-subway-ai-weapons-scanners-fail-to-find-a-single-gun/10611552)
+* [‘Ghost Guns’ Or Unchecked Agency Power?](https://www.thegunpage.com/ghost-guns-or-unchecked-agency-power/10611551)
+* [These boots saved me, twice.](https://www.thegunpage.com/these-boots-saved-me-twice/10611549)
+* [Competitors’ Corner: November 2024](https://www.thegunpage.com/competitors-corner-november-2024/10611548)
 * [Blast From The Past: The LWRC IC PDW](https://www.thegunpage.com/blast-from-the-past-the-lwrc-ic-pdw/10611540)
 * [POTD: Raine Peltokoski With His Suomi Submachine Gun](https://www.thegunpage.com/potd-raine-peltokoski-with-his-suomi-submachine-gun/10611541)
 * [HOT GAT or FUDD CRAP? Pocket Magnum or Accident Waiting to Happen?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pocket-magnum-or-accident-waiting-to-happen/10611542)
 * [Taurus Releases The 608 Competition 8-Shot 357 Magnum Revolver](https://www.thegunpage.com/taurus-releases-the-608-competition-8-shot-357-magnum-revolver/10611534)
 * [Mass. Governor on a Power Trip; Landmark Carry Case Liberated Some States While Others Posed to Destroy the Status Quo](https://www.thegunpage.com/mass-governor-on-a-power-trip-landmark-carry-case-liberated-some-states-while-others-posed-to-destroy-the-status-quo/10611531)
 * [TFB Review: Meprolight MEPRO FT Bullseye Front & Rear Sights](https://www.thegunpage.com/tfb-review-meprolight-mepro-ft-bullseye-front-rear-sights/10611532)
-* [Savage 110 Pro Pursuit: Going Upscale, Again](https://www.thegunpage.com/savage-110-pro-pursuit-going-upscale-again/10611528)
-* [18 Schools, 214 Student-Athletes To Compete At 2024 USA College Clay Target League National Championship](https://www.thegunpage.com/18-schools-214-student-athletes-to-compete-at-2024-usa-college-clay-target-league-national-championship/10611539)
-* [From Bad to Worse: Dem Candidate’s Photo Op Range Day Yields More Troubling Concerns](https://www.thegunpage.com/from-bad-to-worse-dem-candidates-photo-op-range-day-yields-more-troubling-concerns/10611526)
-* [State Rep. Quang Nguyen Scrutinizes Sedona Gun Ordinance](https://www.thegunpage.com/state-rep-quang-nguyen-scrutinizes-sedona-gun-ordinance/10611524)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -230,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [The Democrats Are Done. They Are Out Of Gas And Ideas](https://www.conservativedailynews.com/2024/10/the-democrats-are-done-they-are-out-of-gas-and-ideas/#comment-782948)
 * charles wilkins on [New York Voter Delivers Two-Word Response When MSNBC Asks If ‘Threat To Democracy’ Attack On Trump Resonates](https://www.conservativedailynews.com/2024/10/new-york-voter-delivers-two-word-response-when-msnbc-asks-if-threat-to-democracy-attack-on-trump-resonates/#comment-782944)
 * Stanley Warner on [The Closing Arguments Could Not Be More Different](https://www.conservativedailynews.com/2024/10/the-closing-arguments-could-not-be-more-different/#comment-782936)
 * Stanley Warner on [Dangerous Rhetoric](https://www.conservativedailynews.com/2024/10/dangerous-rhetoric-2/#comment-782925)
@@ -238,7 +241,6 @@ Recent Comments
 * TREY on [Looks Like America May Not Know Who Won The Election For Days Again](https://www.conservativedailynews.com/2024/10/looks-like-america-may-not-know-who-won-the-election-for-days-again/#comment-782904)
 * Stanley Warner on [Kamala Harris Said It Out Loud](https://www.conservativedailynews.com/2024/10/kamala-harris-said-it-out-loud/#comment-782902)
 * Stanley Warner on [Kamala Harris Has Already Failed In Her Constitutional Duty](https://www.conservativedailynews.com/2024/10/kamala-harris-has-already-failed-in-her-constitutional-duty/#comment-782901)
-* charles wilkins on [October Desperation](https://www.conservativedailynews.com/2024/10/october-desperation/#comment-782900)
 
 [Close](#)
 
