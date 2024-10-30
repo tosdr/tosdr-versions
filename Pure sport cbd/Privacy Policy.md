@@ -33,7 +33,7 @@ Check out
         
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
     * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
-    * [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/performance-supplements)
+    * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
     * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
     * [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
     * [GOALS](https://puresportcbd.com/en-us#)
@@ -135,7 +135,7 @@ Check out
         
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
         * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
-        * [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/en-us/collections/performance-supplements)
+        * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
         * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
         * [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
         * [GOALS](https://puresportcbd.com/en-us#)
